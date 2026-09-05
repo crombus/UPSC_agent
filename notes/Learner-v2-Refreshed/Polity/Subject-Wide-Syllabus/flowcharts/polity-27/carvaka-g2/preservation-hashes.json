@@ -1,0 +1,26 @@
+{
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "topic_key": "polity-27",
+  "reference_expected": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "reference_after": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "preexisting_before": {
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Solved-Practice-Workbook_2026-08-24.pdf": "34b858dda130945bc74051b2099e30de3af863c1d60298d4378bd133e1ccc886"
+  },
+  "preexisting_after": {
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Solved-Practice-Workbook_2026-08-24.pdf": "34b858dda130945bc74051b2099e30de3af863c1d60298d4378bd133e1ccc886"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

@@ -1,0 +1,810 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-09",
+  "subject": "Polity",
+  "title": "FUNDAMENTAL DUTIES",
+  "short_route": "PART IVA ORIGIN → ELEVEN DUTIES → LEGAL CHARACTER → RIGHTS-DUTIES-DPSP → SYMBOLS AND CASES → CITIZENSHIP DOMAINS → EDUCATION AND PUBLIC ETHIC → VERMA COMMITTEE AND REFORM → ANSWER SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. The grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+  "ascii_spec_sha256": "c411fd218c22bd1795690c849cff26b8964681b9f9e0eda6dc551236bfddce3b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PART IVA: ORIGIN AND AMENDMENT HISTORY",
+      "structural_type": "constitutional-origin-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PART IVA",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 51A",
+          "role": "primary"
+        },
+        {
+          "text": "SWARAN SINGH",
+          "role": "evidence"
+        },
+        {
+          "text": "42ND AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TEN DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "86TH AMENDMENT",
+          "role": "caution"
+        },
+        {
+          "text": "ELEVENTH DUTY",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "1950: no list",
+        "1976: Part IVA and ten duties",
+        "2002: clause (k)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ORIGINAL DESIGN",
+          "role": "institution",
+          "items": [
+            "No separate citizen-duty list existed in 1950.",
+            "State duties appeared in Part IV.",
+            "USSR is the conventional source influence."
+          ]
+        },
+        {
+          "heading": "1976 INSERTION",
+          "role": "evidence",
+          "items": [
+            "Swaran Singh Committee recommended eight duties.",
+            "The 42nd Amendment inserted Part IVA and ten duties.",
+            "Rejected proposals are not constitutional text."
+          ]
+        },
+        {
+          "heading": "2002 ADDITION",
+          "role": "outcome",
+          "items": [
+            "The 86th Amendment inserted Article 51A(k).",
+            "It concerns education opportunity for a child or ward aged six to fourteen.",
+            "Total today: eleven duties."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The duty is framed as providing opportunities for education to a child or ward aged six to fourteen; the constitutional clause itself does not prescribe a criminal punishment.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 1 — CONSTITUTIONAL PLACEMENT, ORIGIN AND HISTORICAL CONTEXT"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ALL ELEVEN DUTIES: EXACT GROUPED RECALL",
+      "structural_type": "eleven-duty-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "51A(A)-(D)",
+          "role": "institution"
+        },
+        {
+          "text": "51A(E)-(F)",
+          "role": "primary"
+        },
+        {
+          "text": "51A(G)-(H)",
+          "role": "evidence"
+        },
+        {
+          "text": "51A(I)-(J)",
+          "role": "outcome"
+        },
+        {
+          "text": "51A(K)",
+          "role": "comparison"
+        },
+        {
+          "text": "CITIZENS ONLY",
+          "role": "caution"
+        },
+        {
+          "text": "EXACT TEXT",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [
+        [
+          "Nation",
+          "(a)-(d)"
+        ],
+        [
+          "Society/culture/reason",
+          "(e)-(h)"
+        ],
+        [
+          "Public ethic/capability",
+          "(i)-(k)"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTION AND NATION",
+          "role": "primary",
+          "items": [
+            "(a) Constitution, institutions, Flag and Anthem.",
+            "(b) freedom-struggle ideals.",
+            "(c) sovereignty, unity and integrity.",
+            "(d) defence and national service when called."
+          ]
+        },
+        {
+          "heading": "SOCIETY, CULTURE AND REASON",
+          "role": "comparison",
+          "items": [
+            "(e) harmony, brotherhood and dignity of women.",
+            "(f) composite heritage.",
+            "(g) environment and compassion.",
+            "(h) scientific temper, humanism, inquiry and reform."
+          ]
+        },
+        {
+          "heading": "PUBLIC ETHIC AND CAPABILITY",
+          "role": "outcome",
+          "items": [
+            "(i) public property and non-violence.",
+            "(j) individual and collective excellence.",
+            "(k) education opportunity, ages six to fourteen."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 51A(k) places the educational duty on a citizen who is a parent or guardian, not on the State or every citizen indiscriminately.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 2 — EXACT TEXT AND EXAM-READY MEANING OF ALL ELEVEN DUTIES"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LEGAL CHARACTER: NON-JUSTICIABLE BUT RELEVANT",
+      "structural_type": "legal-force-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CITIZENS ONLY",
+          "role": "institution"
+        },
+        {
+          "text": "NON-JUSTICIABLE",
+          "role": "primary"
+        },
+        {
+          "text": "NO AUTOMATIC PENALTY",
+          "role": "evidence"
+        },
+        {
+          "text": "VALID LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERPRETATION",
+          "role": "comparison"
+        },
+        {
+          "text": "JUDICIAL REVIEW",
+          "role": "caution"
+        },
+        {
+          "text": "PROPORTIONALITY",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "Identify duty",
+        "Locate law",
+        "Test competence and rights",
+        "Apply statutory consequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "TEXTUAL STATUS",
+          "role": "institution",
+          "items": [
+            "Article 51A addresses every citizen.",
+            "The duties are non-justiciable.",
+            "Article 51A alone creates neither writ nor penalty."
+          ]
+        },
+        {
+          "heading": "LEGAL MEDIATION",
+          "role": "mechanism",
+          "items": [
+            "Legislatures enact valid laws within competence.",
+            "The executive implements law and civic education.",
+            "Courts may use duty values in interpretation."
+          ]
+        },
+        {
+          "heading": "CONSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "Implementing laws remain subject to rights.",
+            "No separate statute exists for every duty.",
+            "A broad duty cannot validate disproportionate moral policing."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Constitution does not label clauses as \"moral\" or \"civic.\" The classification is analytical, clauses overlap, and no legal conclusion automatically follows from the label.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 3 — LEGAL CHARACTER: WHAT ARTICLE 51A CAN AND CANNOT DO"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RIGHTS, DUTIES AND DPSP: CORRELATIVE CONSTITUTIONALISM",
+      "structural_type": "rights-duty-dpsp-triangle",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PART III",
+          "role": "institution"
+        },
+        {
+          "text": "PART IV",
+          "role": "primary"
+        },
+        {
+          "text": "PART IVA",
+          "role": "evidence"
+        },
+        {
+          "text": "LIBERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "RESPONSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE PURPOSE",
+          "role": "caution"
+        },
+        {
+          "text": "BALANCE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREE DIRECTIONS",
+          "role": "comparison",
+          "items": [
+            "Part III protects enforceable claims.",
+            "Part IV directs State welfare purpose.",
+            "Part IVA states citizen responsibilities."
+          ]
+        },
+        {
+          "heading": "RELATIONSHIP",
+          "role": "mechanism",
+          "items": [
+            "Rights protect responsible agency.",
+            "Duties sustain civic conditions for liberty.",
+            "DPSP guides institutions toward justice."
+          ]
+        },
+        {
+          "heading": "LIMITS",
+          "role": "caution",
+          "items": [
+            "Duty cannot erase a right.",
+            "Right does not immunise violence or illegality.",
+            "Harmony cannot replace exact text."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Bijoe Emmanuel (1986) is the clearest control: respectful standing without singing the Anthem was protected by Articles 19(1)(a) and 25(1).",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 4 — RIGHTS-DUTIES-DPSP RELATIONSHIP"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NATIONAL SYMBOLS: RESPECT WITHOUT COMPULSION",
+      "structural_type": "symbols-case-law-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "51A(A)",
+          "role": "institution"
+        },
+        {
+          "text": "BIJOE EMMANUEL (1986)",
+          "role": "primary"
+        },
+        {
+          "text": "CONSCIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAVEEN JINDAL (2004)",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 19(1)(A)",
+          "role": "comparison"
+        },
+        {
+          "text": "SHYAM NARAYAN CHOUKSEY (2018)",
+          "role": "caution"
+        },
+        {
+          "text": "2018 FINAL ORDER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "Bijoe Emmanuel (1986)",
+        "Naveen Jindal (2004)",
+        "Chouksey final 2018 order"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSCIENCE",
+          "role": "evidence",
+          "items": [
+            "Bijoe Emmanuel (1986) protected respectful non-singing.",
+            "Freedom of conscience defeated compelled vocal conformity.",
+            "Respect and participation differ."
+          ]
+        },
+        {
+          "heading": "FLAG EXPRESSION",
+          "role": "mechanism",
+          "items": [
+            "Naveen Jindal (2004) treated respectful Flag display as expression.",
+            "Restrictions require valid law within Article 19.",
+            "Executive instructions cannot independently create every restriction."
+          ]
+        },
+        {
+          "heading": "ANTHEM CONTROL",
+          "role": "caution",
+          "items": [
+            "The 2016 cinema direction was interim.",
+            "The 9 January 2018 final order made cinema playing optional or directory.",
+            "Do not state the superseded mandate as current law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional patriotism protects the symbols of the Republic while refusing to reduce civic loyalty to a single compelled performance.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 5 — NATIONAL SYMBOLS: RESPECT WITHOUT COMPELLED CONFORMITY"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "HARMONY, CULTURE, REASON AND ECOLOGY",
+      "structural_type": "citizenship-domain-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "51A(E)",
+          "role": "institution"
+        },
+        {
+          "text": "51A(F)",
+          "role": "primary"
+        },
+        {
+          "text": "51A(G)",
+          "role": "evidence"
+        },
+        {
+          "text": "51A(H)",
+          "role": "outcome"
+        },
+        {
+          "text": "DIGNITY OF WOMEN",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPOSITE CULTURE",
+          "role": "caution"
+        },
+        {
+          "text": "SCIENTIFIC TEMPER",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPASSION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [
+        [
+          "(e)",
+          "harmony and dignity"
+        ],
+        [
+          "(f)",
+          "composite culture"
+        ],
+        [
+          "(g)",
+          "environment and compassion"
+        ],
+        [
+          "(h)",
+          "scientific temper and reform"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL CITIZENSHIP",
+          "role": "primary",
+          "items": [
+            "51A(e): harmony, brotherhood and dignity of women.",
+            "51A(f): composite cultural heritage.",
+            "Neither clause licenses cultural uniformity."
+          ]
+        },
+        {
+          "heading": "RATIONAL CITIZENSHIP",
+          "role": "mechanism",
+          "items": [
+            "51A(h): scientific temper, humanism, inquiry and reform.",
+            "Inquiry joins evidence with openness to correction.",
+            "It is not State-defined orthodoxy."
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL CITIZENSHIP",
+          "role": "outcome",
+          "items": [
+            "51A(g): environment and compassion.",
+            "It works with Article 48A, Article 21 and statutes.",
+            "The 2023 Jallikattu ruling qualifies the 2014 reading."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Harmony laws must be applied to the exact offence, not to suppress unpopular but lawful argument.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 6 — HARMONY, COMMON BROTHERHOOD AND DIGNITY OF WOMEN",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 7 — COMPOSITE CULTURE, SCIENTIFIC TEMPER AND EXCELLENCE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 8 — ENVIRONMENT AND COMPASSION FOR LIVING CREATURES"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PUBLIC PROPERTY, EXCELLENCE AND EDUCATION",
+      "structural_type": "public-ethic-education-columns",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "51A(I)",
+          "role": "institution"
+        },
+        {
+          "text": "51A(J)",
+          "role": "primary"
+        },
+        {
+          "text": "51A(K)",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 21A",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 45",
+          "role": "comparison"
+        },
+        {
+          "text": "AGES 6-14",
+          "role": "caution"
+        },
+        {
+          "text": "NON-VIOLENCE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PUBLIC ETHIC",
+          "role": "caution",
+          "items": [
+            "51A(i) protects public property and rejects violence.",
+            "Peaceful protest remains protected.",
+            "Property damage is governed by valid law."
+          ]
+        },
+        {
+          "heading": "EXCELLENCE",
+          "role": "outcome",
+          "items": [
+            "51A(j) concerns individual and collective excellence.",
+            "It is aspirational.",
+            "It creates no automatic admission entitlement."
+          ]
+        },
+        {
+          "heading": "EDUCATION TRIAD",
+          "role": "comparison",
+          "items": [
+            "Article 21A: State right, ages six to fourteen.",
+            "Article 45: early childhood below six.",
+            "51A(k): parent or guardian duty, ages six to fourteen."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "\"Abjure violence\" is broader than property damage, but it does not erase the right to assemble peacefully or protest.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 9 — PUBLIC PROPERTY, NON-VIOLENCE AND DEMOCRATIC PROTEST",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 10 — EDUCATION: ARTICLE 21A, ARTICLE 45 AND ARTICLE 51A(K)"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "VERMA COMMITTEE, EXISTING LAW AND REFORM",
+      "structural_type": "committee-law-reform-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VERMA COMMITTEE 1999",
+          "role": "institution"
+        },
+        {
+          "text": "CIVIC EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "EXISTING LAWS",
+          "role": "evidence"
+        },
+        {
+          "text": "NO ONE-TO-ONE STATUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROPORTIONALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FEDERAL COMPETENCE",
+          "role": "caution"
+        },
+        {
+          "text": "OMNIBUS CODE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "COMMITTEE APPROACH",
+          "role": "evidence",
+          "items": [
+            "The Verma Committee stressed education and awareness.",
+            "It mapped existing laws that effectuate duties.",
+            "It did not require a separate statute for every clause."
+          ]
+        },
+        {
+          "heading": "IMPLEMENTATION WEB",
+          "role": "institution",
+          "items": [
+            "National Honour, civil-rights, security and election laws cover several duties.",
+            "Environmental laws support 51A(g).",
+            "Public-property and education laws support 51A(i) and (k)."
+          ]
+        },
+        {
+          "heading": "REFORM TEST",
+          "role": "caution",
+          "items": [
+            "Identify the concrete legal gap.",
+            "Prefer education or civil measures when adequate.",
+            "Penal law must be narrow and rights-compliant."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Laws may operationalise Fundamental Duties, but their validity and purpose cannot be attributed solely to Article 51A.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 11 — DUTY-BY-DUTY OPERATIONALISATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 12 — J.S. VERMA COMMITTEE, 1999",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#SESSION 13 — CRITICISM, COUNTERARGUMENTS AND GRADED REFORM"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "FINAL SYNTHESIS: TRAPS, PYQS AND ANSWER SPINE",
+      "structural_type": "exam-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PART IVA",
+          "role": "institution"
+        },
+        {
+          "text": "42ND AND 86TH",
+          "role": "primary"
+        },
+        {
+          "text": "ELEVEN DUTIES",
+          "role": "evidence"
+        },
+        {
+          "text": "CITIZENS ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-JUSTICIABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "VERMA COMMITTEE",
+          "role": "caution"
+        },
+        {
+          "text": "SUPPORTING PYQS",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAINS SPINE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRELIMS CONTROL",
+          "role": "caution",
+          "items": [
+            "42nd inserted ten; 86th inserted clause (k).",
+            "Duties are citizen-only and non-justiciable.",
+            "51A(g) differs from 48A; 51A(k) differs from 21A and 45."
+          ]
+        },
+        {
+          "heading": "PYQ STATUS",
+          "role": "evidence",
+          "items": [
+            "No directly owned routed PYQ was located.",
+            "2020 Q8 and 2025 Q55 are supporting questions.",
+            "2025 key is official locally; 2020 remains inferred."
+          ]
+        },
+        {
+          "heading": "MAINS LADDER",
+          "role": "outcome",
+          "items": [
+            "Define Part IVA and legal character.",
+            "Group all duties and state amendment history.",
+            "Use cases, Verma Committee and laws.",
+            "Qualify with rights and proportionate reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "Move from exact clauses and legal status to implementation, rights limits, criticism and proportionate reform.",
+      "answer_line": "Article 51A(g) supports these legal regimes but does not allow a private citizen to impose an extra-statutory punishment on another.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#CONSOLIDATED REGISTER NOTES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "OPTIONAL ENRICHMENT: CONSTITUTIONAL PATRIOTISM",
+      "structural_type": "advanced-civic-theory-columns",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ONLY",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTIONAL PATRIOTISM",
+          "role": "primary"
+        },
+        {
+          "text": "CIVIC VIRTUE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMOCRATIC RECIPROCITY",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL TRUST",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ENRICHMENT",
+          "role": "comparison",
+          "items": [
+            "Constitutional patriotism ties loyalty to democratic principles.",
+            "Civic virtue explains habits of restraint and care."
+          ]
+        },
+        {
+          "heading": "USE WITH DISCIPLINE",
+          "role": "caution",
+          "items": [
+            "Theory cannot replace exact clauses.",
+            "Do not dilute Fundamental Rights.",
+            "Add only after the core answer is secure."
+          ]
+        }
+      ],
+      "mechanism_strip": "This enrichment is unnecessary for a competent core answer and remains subordinate to exact duties, law, cases, PYQ status and reform design.",
+      "answer_line": "",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md#OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 2
+  }
+}

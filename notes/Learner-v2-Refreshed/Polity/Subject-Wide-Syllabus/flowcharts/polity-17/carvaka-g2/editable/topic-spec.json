@@ -1,0 +1,998 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-17",
+  "subject": "Polity",
+  "title": "PARLIAMENT",
+  "short_route": "ARTICLE 79 ARCHITECTURE, COMPOSITION → MEMBERSHIP, VACANCIES, OFFICERS AND → PRIVILEGES, QUESTIONS AND PARLIAMENTARY → LEGISLATIVE PROCEDURE AND THE → BUDGET, GRANTS, FUNDS AND → COMMITTEE ARCHITECTURE: PARLIAMENT'S WORKING",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-17-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "b1f8fe6c4bbcfbc77ac2240c969f9ae4d9653f5ea5fb17c534d1131459f0a539",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARTICLE 79 ARCHITECTURE, COMPOSITION AND REPRESENTATION",
+      "structural_type": "parliament-composition-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLE 79 ARCHITECTURE, COMPOSITION AND REPRESENTATION",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT + RAJYA SABHA + LOK SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "LOK SABHA DIRECT ADULT-SUFFRAGE ELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NORMAL FIVE-YEAR TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "DISSOLUTION POSSIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "RAJYA SABHA INDIRECT STATE/UT REPRESENTATION",
+          "role": "institution"
+        },
+        {
+          "text": "NOMINATED MEMBERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENT HOUSE ONE-THIRD RETIRE EVERY SECOND YEAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARLIAMENT = PRESIDENT + RAJYA SABHA + LOK SABHA",
+        "LOK SABHA direct adult-suffrage election",
+        "normal five-year term",
+        "dissolution possible",
+        "RAJYA SABHA indirect State/UT representation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PARLIAMENT = PRESIDENT + RAJYA SABHA + LOK SABHA",
+            "LOK SABHA direct adult-suffrage election",
+            "normal five-year term"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "dissolution possible",
+            "RAJYA SABHA indirect State/UT representation",
+            "nominated members"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "permanent House one-third retire every second year",
+            "REPRESENTATION CONTROL seat allocation + delimitation + population-freeze chronology",
+            "106th Amendment commencement does not itself operationalise women's reservation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORE VERDICT popular chamber, federal chamber and constitutional head form one legislative institution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "During a national emergency Parliament may extend it by law for one year at a time, but not beyond six months after the emergency ends.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MEMBERSHIP, VACANCIES, OFFICERS AND SESSIONS",
+      "structural_type": "membership-session-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MEMBERSHIP, VACANCIES, OFFICERS AND SESSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 84 QUALIFICATION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 102 DISQUALIFICATION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 103 DECISION WITH ECI OPINION VACANCY, DOUBLE MEMBERSHIP",
+          "role": "institution"
+        },
+        {
+          "text": "DEPUTY SPEAKER",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 93-97",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPUTY CHAIRMAN",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 89-92",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Article 84 qualification → Article 102 disqualification → Article 103 decision with ECI opinion vacancy",
+        "and prolonged absence follow distinct rules",
+        "Speaker / Deputy Speaker → Articles 93-97",
+        "Chairman / Deputy Chairman → Articles 89-92",
+        "Speaker continues after dissolution until immediately before first new-LS meeting"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Article 84 qualification → Article 102 disqualification → Article 103 decision with ECI opinion vacancy, double membership, resignation",
+            "and prolonged absence follow distinct rules"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Speaker / Deputy Speaker → Articles 93-97",
+            "Chairman / Deputy Chairman → Articles 89-92"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Speaker continues after dissolution until immediately before first new-LS meeting",
+            "SESSIONS summon → sitting → adjourn / adjourn sine die → prorogue → dissolution"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 85: no more than six months between sessions; no minimum sitting-day count.",
+            "Article 84 qualification → Article 102 disqualification → Article 103 decision with ECI opinion vacancy, double membership, resignation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The House may declare a seat vacant after absence for sixty days without permission, excluding periods specified by Article 101.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PRIVILEGES, QUESTIONS AND PARLIAMENTARY DEVICES",
+      "structural_type": "privilege-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRIVILEGES, QUESTIONS AND PARLIAMENTARY DEVICES",
+          "role": "primary"
+        },
+        {
+          "text": "FUNCTIONAL PRIVILEGE SPEECH",
+          "role": "outcome"
+        },
+        {
+          "text": "VOTE PROTECTION + HOUSE POWERS NEEDED FOR LEGISLATIVE WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "SITA SOREN (2024) BRIBERY IS NOT PROTECTED MERELY BECAUSE",
+          "role": "caution"
+        },
+        {
+          "text": "INFORMATION DEVICES STARRED",
+          "role": "primary"
+        },
+        {
+          "text": "ORAL ANSWER + SUPPLEMENTARIES UNSTARRED",
+          "role": "outcome"
+        },
+        {
+          "text": "WRITTEN ANSWER SHORT-NOTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "URGENT PUBLIC IMPORTANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FUNCTIONAL PRIVILEGE speech / vote protection + House powers needed for legislative work not a",
+        "SITA SOREN (2024) bribery is not protected merely because it relates to a vote or",
+        "INFORMATION DEVICES starred → oral answer + supplementaries unstarred → written answer short-notice → urgent",
+        "Zero Hour → convention, not Rules",
+        "MOTIONS no-confidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FUNCTIONAL PRIVILEGE speech / vote protection + House powers needed for legislative work not a personal licence for corruption or unrelated crime",
+            "SITA SOREN (2024) bribery is not protected merely because it relates to a vote or speech."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INFORMATION DEVICES starred → oral answer + supplementaries unstarred → written answer short-notice → urgent public importance",
+            "Zero Hour → convention, not Rules"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MOTIONS no-confidence",
+            "cut motions"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FUNCTIONAL PRIVILEGE speech / vote protection + House powers needed for legislative work not a personal licence for corruption or unrelated crime",
+            "SITA SOREN (2024) bribery is not protected merely because it relates to a vote or speech."
+          ]
+        }
+      ],
+      "mechanism_strip": "SITA SOREN (2024) bribery is not protected merely because it relates to a vote or speech.",
+      "answer_line": "Privileges belong to each House, its members and committees; breach of privilege violates a specific privilege, while contempt is wider conduct that obstructs House functions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LEGISLATIVE PROCEDURE AND THE BILL-CLASS FIREWALL",
+      "structural_type": "bill-procedure-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEGISLATIVE PROCEDURE AND THE BILL-CLASS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY BILL INTRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "OTHER HOUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEADLOCK ROUTE WHERE AVAILABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESIDENTIAL ASSENT",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY BILL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 109-110",
+          "role": "comparison"
+        },
+        {
+          "text": "LOK SABHA ONLY + PRESIDENTIAL RECOMMENDATION + SPEAKER CERTIFICATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORDINARY BILL introduction → consideration / committee → passage → other House",
+        "deadlock route where available → presidential assent",
+        "MONEY BILL: ARTICLES 109-110",
+        "Lok Sabha only + presidential recommendation + Speaker certificate",
+        "Rajya Sabha recommendations within 14 days + no joint sitting"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ORDINARY BILL introduction → consideration / committee → passage → other House",
+          "Lok Sabha only + presidential recommendation + Speaker certificate",
+          "Article 110 matter plus others; LS only, but Rajya Sabha has full legislative power",
+          "Lok Sabha only + presidential recommendation + Speaker certificate"
+        ],
+        [
+          "deadlock route where available → presidential assent",
+          "Rajya Sabha recommendations within 14 days + no joint sitting",
+          "FINANCIAL BILL-II expenditure from Consolidated Fund; either House, recommendation before consideration",
+          ""
+        ],
+        [
+          "MONEY BILL: ARTICLES 109-110",
+          "FINANCIAL BILL-I",
+          "ARTICLE 368 BILL special majority; no joint sitting; presidential assent obligatory.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORDINARY BILL introduction → consideration / committee → passage → other House",
+            "deadlock route where available → presidential assent",
+            "MONEY BILL: ARTICLES 109-110"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Lok Sabha only + presidential recommendation + Speaker certificate",
+            "Rajya Sabha recommendations within 14 days + no joint sitting",
+            "FINANCIAL BILL-I"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 110 matter plus others; LS only, but Rajya Sabha has full legislative power",
+            "FINANCIAL BILL-II expenditure from Consolidated Fund; either House, recommendation before consideration",
+            "ARTICLE 368 BILL special majority; no joint sitting; presidential assent obligatory."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Lok Sabha only + presidential recommendation + Speaker certificate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Not every Bill is constitutionally required to go to a committee; making referral routine is a reform proposal.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BUDGET, GRANTS, FUNDS AND FINANCIAL CONTROL",
+      "structural_type": "parliamentary-finance-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "BUDGET, GRANTS, FUNDS AND FINANCIAL CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 112 ANNUAL FINANCIAL STATEMENT CHARGED EXPENDITURE DISCUSSED, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "DEMANDS FOR GRANTS IN LOK SABHA CUT MOTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "APPROPRIATION BILL",
+          "role": "evidence"
+        },
+        {
+          "text": "FINANCE BILL",
+          "role": "primary"
+        },
+        {
+          "text": "CAG AUDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMITTEE FOLLOW-UP",
+          "role": "comparison"
+        },
+        {
+          "text": "GRANTS SUPPLEMENTARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 112 ANNUAL FINANCIAL STATEMENT charged expenditure discussed, not voted voted expenditure → demands for",
+        "Sabha cut motions → guillotine → Appropriation Bill → Finance Bill",
+        "CAG audit → PAC / committee follow-up",
+        "GRANTS supplementary",
+        "vote on account"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 112 ANNUAL FINANCIAL STATEMENT charged expenditure discussed, not voted voted expenditure → demands for grants in Lok",
+            "Sabha cut motions → guillotine → Appropriation Bill → Finance Bill",
+            "CAG audit → PAC / committee follow-up"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "GRANTS supplementary",
+            "vote on account",
+            "vote of credit"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Consolidated Fund → appropriation by law",
+            "Contingency Fund → advances for urgent unforeseen expenditure",
+            "Public Account → other public money; no appropriation vote for withdrawal."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "GRANTS supplementary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Rajya Sabha may discuss the budget but only Lok Sabha votes demands for grants, on the President's recommendation.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COMMITTEE ARCHITECTURE: PARLIAMENT'S WORKING ROOMS",
+      "structural_type": "committee-architecture-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMMITTEE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "PARLIAMENT'S WORKING ROOMS",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCIAL COMMITTEES",
+          "role": "comparison"
+        },
+        {
+          "text": "PAC 22",
+          "role": "evidence"
+        },
+        {
+          "text": "15 LS + 7 RS",
+          "role": "primary"
+        },
+        {
+          "text": "POST-SPENDING SCRUTINY",
+          "role": "outcome"
+        },
+        {
+          "text": "ESTIMATES 30 LS",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMY AND ADMINISTRATIVE IMPROVEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FINANCIAL COMMITTEES",
+        "PAC 22 = 15 LS + 7 RS → CAG / post-spending scrutiny",
+        "Estimates 30 LS → economy and administrative improvement",
+        "CoPU 22 = 15 LS + 7 RS → public undertakings",
+        "24 committees; each 31 = 21 LS + 10 RS; ministers excluded demands for grants"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FINANCIAL COMMITTEES",
+          "Estimates 30 LS → economy and administrative improvement",
+          "24 committees; each 31 = 21 LS + 10 RS; ministers excluded demands for grants + referred Bills + annual reports + long-term policy",
+          "Subordinate Legislation"
+        ],
+        [
+          "PAC 22 = 15 LS + 7 RS → CAG / post-spending scrutiny",
+          "CoPU 22 = 15 LS + 7 RS → public undertakings",
+          "OTHER CONTROLS",
+          "LIMIT reports are advisory, but evidence, publicity and follow-up make them institutionally powerful."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FINANCIAL COMMITTEES",
+            "PAC 22 = 15 LS + 7 RS → CAG / post-spending scrutiny"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Estimates 30 LS → economy and administrative improvement",
+            "CoPU 22 = 15 LS + 7 RS → public undertakings"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "24 committees; each 31 = 21 LS + 10 RS; ministers excluded demands for grants + referred Bills + annual reports + long-term policy",
+            "OTHER CONTROLS"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Subordinate Legislation",
+            "LIMIT reports are advisory, but evidence, publicity and follow-up make them institutionally powerful."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Ethics and Privileges are separate: unethical conduct need not be a breach of a specific privilege, and privilege proceedings serve institutional functioning.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RAJYA SABHA SPECIAL POWERS, JOINT SITTING AND ORDINANCE INTERFACE",
+      "structural_type": "bicameral-power-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RAJYA SABHA SPECIAL POWERS, JOINT SITTING AND ORDINANCE INTERFACE",
+          "role": "primary"
+        },
+        {
+          "text": "RAJYA SABHA EQUAL ORDINARY BILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL AMENDMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIED ELECTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "RAJYA SABHA UNEQUAL",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY BILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMANDS FOR GRANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOK SABHA CONFIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAJYA SABHA EQUAL ordinary Bills",
+        "constitutional amendments",
+        "specified elections / removals",
+        "RAJYA SABHA UNEQUAL",
+        "Money Bills"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RAJYA SABHA EQUAL ordinary Bills",
+            "constitutional amendments",
+            "specified elections / removals"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RAJYA SABHA UNEQUAL",
+            "Money Bills",
+            "demands for grants"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Lok Sabha confidence",
+            "RAJYA SABHA EXCLUSIVE",
+            "Article 249 → Parliament on State List in national interest"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 312 → create All-India Services",
+            "JOINT SITTING: ARTICLE 108 ordinary / Financial Bill deadlock; Speaker presides; no Money or Amendment Bill route",
+            "Article 123 temporary law must return to parliamentary control; re-promulgation is bounded."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Rajya Sabha is weaker in finance and government survival, but remains co-equal in ordinary law and amendment and holds distinctive federal powers under Articles 249 and 312.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 16"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ANTI-DEFECTION, SOVEREIGNTY LIMITS AND REFORM",
+      "structural_type": "parliamentary-decline-dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ANTI-DEFECTION, SOVEREIGNTY LIMITS AND REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "TENTH SCHEDULE STABILITY AND PARTY MANDATE <→ REDUCED INDIVIDUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAIRMAN DECISION REMAINS JUDICIALLY REVIEWABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "PARLIAMENTARY SOVEREIGNTY IS LIMITED WRITTEN CONSTITUTION + FEDERAL DISTRIBUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "DECLINE DIAGNOSIS EXECUTIVE AGENDA CONTROL",
+          "role": "caution"
+        },
+        {
+          "text": "WEAK REFERRAL",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM PREDICTABLE CALENDAR + DEFAULT COMMITTEE REFERRAL + REASONED",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT LIMITS PENDING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENTH SCHEDULE stability and party mandate <→ reduced individual deliberation",
+        "Speaker / Chairman decision remains judicially reviewable",
+        "PARLIAMENTARY SOVEREIGNTY IS LIMITED written Constitution + federal distribution + Fundamental Rights + Basic Structure",
+        "bicameral and procedural limits",
+        "DECLINE DIAGNOSIS executive agenda control"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TENTH SCHEDULE stability and party mandate <→ reduced individual deliberation",
+            "Speaker / Chairman decision remains judicially reviewable"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PARLIAMENTARY SOVEREIGNTY IS LIMITED written Constitution + federal distribution + Fundamental Rights + Basic Structure judicial review +",
+            "bicameral and procedural limits"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DECLINE DIAGNOSIS executive agenda control",
+            "weak referral"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REFORM predictable calendar + default committee referral + reasoned bypass limited whip + stronger research + timely presiding-officer decisions",
+            "CURRENT LIMITS pending / defeated Bills and unknown delimitation dates are never converted into law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The whip stabilises responsible government but turns MPs from deliberators into party vote units when used beyond confidence and core financial matters.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 20"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "PYQ ROUTES, CLOSE-OPTION TRAPS AND ANSWER SYNTHESIS",
+      "structural_type": "parliament-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ROUTES, CLOSE-OPTION TRAPS AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENT IS PART OF PARLIAMENT, NOT A HOUSE MEMBER",
+          "role": "caution"
+        },
+        {
+          "text": "QUESTION HOUR IS REGULATED; ZERO HOUR IS CONVENTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "MONEY BILL 'ONLY' TEST DIFFERS FROM FINANCIAL BILLS",
+          "role": "primary"
+        },
+        {
+          "text": "SPEAKER CONTINUITY DIFFERS FROM DEPUTY SPEAKER",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJYA SABHA IS NOT UNIFORMLY INFERIOR",
+          "role": "caution"
+        },
+        {
+          "text": "PYQ ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "President is part of Parliament, not a House member",
+        "Question Hour is regulated; Zero Hour is conventional",
+        "Money Bill 'only' test differs from Financial Bills",
+        "Speaker continuity differs from Deputy Speaker"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "President is part of Parliament, not a House member",
+            "Question Hour is regulated; Zero Hour is conventional"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Money Bill 'only' test differs from Financial Bills",
+            "Speaker continuity differs from Deputy Speaker",
+            "Rajya Sabha is not uniformly inferior"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PYQ ROUTES",
+            "8 solved Mains demands on committees, Speaker, Rajya Sabha and accountability",
+            "20 routed Prelims demands with doctrinal resolutions and provenance limits"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MAINS SPINE constitutional instrument → operating mechanism → evidence → executive / party constraint",
+            "counter-evidence → institutional reform → Parliament strong in law, variable in practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Major powers include maintaining order, interpreting House rules, certifying a Money Bill, presiding over a joint sitting, using a casting vote on a tie and deciding Tenth Schedule petitions subject to judicial review.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\polity-17_Complete-Learning-Session_2026-08-24.md#SESSION 20"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A1. CONSTITUTIONAL SUPREMACY VERSUS PARLIAMENTARY SUPREMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "A2. MONEY BILL CERTIFICATION AND THE UNRESOLVED LARGER-BENCH ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "A3. PROCEDURE REFINEMENTS THAT SEPARATE STRONG ANSWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "A4. COMMITTEES AS THE REALISTIC DELIBERATIVE CENTRE",
+          "role": "primary"
+        },
+        {
+          "text": "A5. CONCISE SOURCE AND CURRENT-CONTROL NOTE",
+          "role": "evidence"
+        },
+        {
+          "text": "[ANALYSIS] “PARLIAMENTARY SUPREMACY” IN INDIAN GS-II QUESTIONS USUALLY MEANS",
+          "role": "comparison"
+        },
+        {
+          "text": "[FACT] PARLIAMENT CANNOT ENACT ORDINARY LAW BEYOND CONSTITUTIONAL COMPETENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "A1. Constitutional supremacy versus parliamentary supremacy",
+            "A2. Money Bill certification and the unresolved larger-Bench issue",
+            "A3. Procedure refinements that separate strong answers",
+            "A4. Committees as the realistic deliberative centre"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "A5. Concise source and current-control note",
+            "[ANALYSIS] “Parliamentary supremacy” in Indian GS-II questions usually means effective deliberative and control capacity, not unlimited legal sovereignty.",
+            "[FACT] Parliament cannot enact ordinary law beyond constitutional competence, and Article 368 itself is limited by the basic-structure doctrine.",
+            "[ANALYSIS] Cabinet dominance can marginalise Parliament without transferring constitutional sovereignty to the Cabinet."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "[FACT] In K.S. Puttaswamy (Aadhaar) (2018) , a 4:1 majority upheld the Aadhaar Act's Money Bill route; Chandrachud J dissented.",
+            "[FACT] In Rojer Mathew v. South Indian Bank (2019) v.",
+            "South Indian Bank (2019), the Court doubted the earlier Article 110 reasoning and referred the issue to a larger seven-judge Bench.",
+            "[CURRENT] As of 24 August 2026, no visible final decision resolving that larger-Bench issue was located on the"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

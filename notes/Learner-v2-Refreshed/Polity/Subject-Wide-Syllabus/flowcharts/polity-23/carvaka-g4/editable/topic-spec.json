@@ -1,0 +1,1311 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-23",
+  "subject": "Polity",
+  "title": "PANCHAYATI RAJ",
+  "short_route": "FROM DEMOCRATIC DECENTRALISATION TO → PART IX ARCHITECTURE: GRAM → REPRESENTATION, ELECTION, CONTINUITY AND → ARTICLE 243G, ELEVENTH SCHEDULE → FISCAL CONSTITUTION: OWN REVENUE → PESA, SCHEDULED AREAS AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-23-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "254e056456f1a1b1044b2c6d8736fbbae86b9c17eb14b2e45a0a21186ee2a5d8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FROM DEMOCRATIC DECENTRALISATION TO CONSTITUTIONAL LOCAL GOVERNMENT",
+      "structural_type": "decentralisation-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM DEMOCRATIC DECENTRALISATION TO CONSTITUTIONAL LOCAL GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW DID VILLAGE ADMINISTRATION BECOME CONSTITUTIONALLY PROTECTED SELF-GOVERNMENT?",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 40",
+          "role": "institution"
+        },
+        {
+          "text": "ORGANISE VILLAGE PANCHAYATS AND ENDOW SELF-GOVERNMENT POWERS.",
+          "role": "primary"
+        },
+        {
+          "text": "1957 BALWANT RAI MEHTA",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE TIERS AND DEMOCRATIC DECENTRALISATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "1977-78 ASHOK MEHTA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How did village administration become constitutionally protected self-government?",
+        "ARTICLE 40 → organise village Panchayats and endow self-government powers.",
+        "1957 Balwant Rai Mehta → three tiers and democratic decentralisation.",
+        "1977-78 Ashok Mehta → district-centred two-tier alternative."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How did village administration become constitutionally protected self-government?",
+            "ARTICLE 40 → organise village Panchayats and endow self-government powers."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1957 Balwant Rai Mehta → three tiers and democratic decentralisation.",
+            "1977-78 Ashok Mehta → district-centred two-tier alternative.",
+            "1985 G.V.K. Rao → district development administration."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1986 L.M. Singhvi → constitutional status + Gram Sabha.",
+            "73RD AMENDMENT ACT, 1992",
+            "Part IX + Eleventh Schedule → effective 24 April 1993."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORE LIMIT constitutional status guarantees democratic form; State law controls devolution substance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORE LIMIT constitutional status guarantees democratic form; State law controls devolution substance.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PART IX ARCHITECTURE: GRAM SABHA, TIERS AND CONSTITUTIONAL EXCEPTIONS",
+      "structural_type": "part-ix-architecture",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PART IX ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "GRAM SABHA, TIERS AND CONSTITUTIONAL EXCEPTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "PART IX",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 243-243O",
+          "role": "evidence"
+        },
+        {
+          "text": "243A GRAM SABHA",
+          "role": "primary"
+        },
+        {
+          "text": "243B TIERS",
+          "role": "outcome"
+        },
+        {
+          "text": "243C COMPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "243D RESERVATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PART IX: ARTICLES 243-243O",
+        "243A Gram Sabha",
+        "243B tiers",
+        "243C composition",
+        "243D reservation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PART IX: ARTICLES 243-243O",
+            "243A Gram Sabha",
+            "243B tiers",
+            "243C composition",
+            "243D reservation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "243E duration",
+            "243F disqualification",
+            "243G powers",
+            "243H finance",
+            "243I SFC"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "243J audit",
+            "243K SEC",
+            "243O election bar.",
+            "THREE-TIER DEFAULT district → intermediate → village.",
+            "State population <= 20 lakh may omit only the intermediate tier."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "GRAM SABHA all registered voters in a village area; exact powers come from State law.",
+            "ARTICLE 243M specified Scheduled/tribal and other excluded areas require distinct legal routes.",
+            "PESA, 1996 extends Part IX principles to Fifth Schedule areas with modifications."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PESA, 1996 extends Part IX principles to Fifth Schedule areas with modifications.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 23"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REPRESENTATION, ELECTION, CONTINUITY AND RESERVATION CONTROLS",
+      "structural_type": "local-democracy-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REPRESENTATION, ELECTION, CONTINUITY AND RESERVATION CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "DEMOCRATIC CYCLE DIRECT ELECTION TO TERRITORIAL SEATS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CHAIRPERSON ROUTE UNDER STATE LAW",
+          "role": "institution"
+        },
+        {
+          "text": "FIVE-YEAR TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTION BEFORE EXPIRY OR WITHIN SIX MONTHS OF DISSOLUTION.",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 243D",
+          "role": "institution"
+        },
+        {
+          "text": "SC/ST RESERVATION LINKED TO POPULATION; NOT LESS THAN ONE-THIRD",
+          "role": "caution"
+        },
+        {
+          "text": "CHAIRPERSON RESERVATIONS INCLUDE WOMEN AND SC/ST; MANY STATES EXCEED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEMOCRATIC CYCLE direct election to territorial seats → chairperson route under State law",
+        "five-year term → election before expiry or within six months of dissolution.",
+        "ARTICLE 243D",
+        "SC/ST reservation linked to population; not less than one-third seats for women.",
+        "Chairperson reservations include women and SC/ST; many States exceed the floor."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DEMOCRATIC CYCLE direct election to territorial seats → chairperson route under State law",
+            "five-year term → election before expiry or within six months of dissolution.",
+            "ARTICLE 243D"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SC/ST reservation linked to population; not less than one-third seats for women.",
+            "Chairperson reservations include women and SC/ST; many States exceed the floor.",
+            "ARTICLE 243K"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "State Election Commission controls Panchayat rolls and elections.",
+            "ARTICLE 243O delimitation/allotment barred from ordinary challenge; election petition is the route.",
+            "TRAPS candidate age floor is 21"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ECI does not conduct Panchayat elections reservation creates access but proxy control can block substantive authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAPS candidate age floor is 21 | ECI does not conduct Panchayat elections reservation creates access but proxy control can block substantive authority.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 22"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARTICLE 243G, ELEVENTH SCHEDULE AND THE THREE-F FUNCTIONALITY TEST",
+      "structural_type": "devolution-functionality-system",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARTICLE 243G, ELEVENTH SCHEDULE AND THE THREE-F FUNCTIONALITY TEST",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 243G IS ENABLING",
+          "role": "institution"
+        },
+        {
+          "text": "STATE LEGISLATURE MAY ENDOW PANCHAYATS WITH SELF-GOVERNMENT POWERS.",
+          "role": "institution"
+        },
+        {
+          "text": "ELEVENTH SCHEDULE",
+          "role": "evidence"
+        },
+        {
+          "text": "29 MATTERS AGRICULTURE/LAND/WATER",
+          "role": "primary"
+        },
+        {
+          "text": "RURAL INFRASTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "POVERTY ALLEVIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNITY ASSETS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243G IS ENABLING",
+        "State legislature may endow Panchayats with self-government powers.",
+        "ELEVENTH SCHEDULE: 29 MATTERS agriculture/land/water → rural infrastructure → health/education",
+        "poverty alleviation → welfare → community assets.",
+        "FUNCTIONS clear activity map and tier responsibility."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243G IS ENABLING",
+            "State legislature may endow Panchayats with self-government powers.",
+            "ELEVENTH SCHEDULE: 29 MATTERS agriculture/land/water → rural infrastructure → health/education"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "poverty alleviation → welfare → community assets.",
+            "FUNCTIONS clear activity map and tier responsibility.",
+            "FUNCTIONARIES staff placement, direction and accountability to the elected body."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FINANCES own revenue + assigned revenue + predictable grants + spending discretion.",
+            "FUNCTIONALITY TEST",
+            "Can the Panchayat decide, direct staff, spend and answer publicly for outcomes?"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "poverty alleviation → welfare → community assets."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Can the Panchayat decide, direct staff, spend and answer publicly for outcomes?.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 33",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 34"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FISCAL CONSTITUTION: OWN REVENUE, SFC, UNION GRANTS AND AUDIT",
+      "structural_type": "panchayat-finance-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FISCAL CONSTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "OWN REVENUE, SFC, UNION GRANTS AND AUDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 243H",
+          "role": "institution"
+        },
+        {
+          "text": "STATE LAW MAY AUTHORISE TAXES/DUTIES/TOLLS/FEES, ASSIGNMENTS, GRANTS AND PANCHAYAT",
+          "role": "institution"
+        },
+        {
+          "text": "OWN-SOURCE BASKET PROPERTY/MARKET LEVIES",
+          "role": "evidence"
+        },
+        {
+          "text": "LICENCE/SERVICE FEES",
+          "role": "outcome"
+        },
+        {
+          "text": "USER CHARGES",
+          "role": "comparison"
+        },
+        {
+          "text": "RENTS PONDS/FISHERIES/COMMUNITY ASSETS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243H",
+        "State law may authorise taxes/duties/tolls/fees, assignments, grants and Panchayat Funds.",
+        "OWN-SOURCE BASKET property/market levies",
+        "licence/service fees",
+        "user charges"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243H",
+            "State law may authorise taxes/duties/tolls/fees, assignments, grants and Panchayat Funds.",
+            "OWN-SOURCE BASKET property/market levies",
+            "licence/service fees"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "user charges",
+            "rents ponds/fisheries/community assets",
+            "State-law borrowing.",
+            "ARTICLE 243I"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Governor constitutes SFC every five years → tax sharing, assignments, grants and measures.",
+            "ARTICLE 280",
+            "Union Finance Commission recommends augmentation of State funds for Panchayats on the basis of SFC recommendations.",
+            "Article 243J accounts/audit → public records → social audit → corrective action."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT grants equalise capacity but cannot substitute for State tax devolution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT grants equalise capacity but cannot substitute for State tax devolution.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 19"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PESA, SCHEDULED AREAS AND COMMUNITY-CENTRED DECISION VERBS",
+      "structural_type": "pesa-scheduled-area-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PESA, SCHEDULED AREAS AND COMMUNITY-CENTRED DECISION VERBS",
+          "role": "primary"
+        },
+        {
+          "text": "FIFTH SCHEDULE AREA ORDINARY PART IX EXCLUSION UNDER ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "PESA, 1996 EXTENSION WITH MODIFICATIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "PESA GRAM SABHA COMMUNITY RESOURCES + CUSTOMS + CULTURAL",
+          "role": "evidence"
+        },
+        {
+          "text": "DECISION VERBS MUST STAY DISTINCT CONSULTATION",
+          "role": "primary"
+        },
+        {
+          "text": "PRIOR RECOMMENDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND AND RESOURCES PREVENT ALIENATION + RESTORE UNLAWFULLY ALIENATED",
+          "role": "comparison"
+        },
+        {
+          "text": "FRA LINK FOREST-RIGHT RECOGNITION AND COMMUNITY FOREST-RESOURCE POWERS OVERLAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIFTH SCHEDULE AREA ordinary Part IX exclusion under Article 243M → PESA, 1996 extension with",
+        "PESA GRAM SABHA community resources + customs + cultural identity + customary dispute practices.",
+        "DECISION VERBS MUST STAY DISTINCT consultation != recommendation != prior recommendation != approval.",
+        "LAND AND RESOURCES prevent alienation + restore unlawfully alienated land minor minerals and markets within",
+        "FRA LINK forest-right recognition and community forest-resource powers overlap but do not merge."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FIFTH SCHEDULE AREA ordinary Part IX exclusion under Article 243M → PESA, 1996 extension with modifications.",
+            "PESA GRAM SABHA community resources + customs + cultural identity + customary dispute practices."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DECISION VERBS MUST STAY DISTINCT consultation != recommendation != prior recommendation != approval.",
+            "LAND AND RESOURCES prevent alienation + restore unlawfully alienated land minor minerals and markets within the exact statutory allocation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FRA LINK forest-right recognition and community forest-resource powers overlap but do not merge.",
+            "LIMIT PESA is not an unlimited veto over every project or every Scheduled Tribe area."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FIFTH SCHEDULE AREA ordinary Part IX exclusion under Article 243M → PESA, 1996 extension with modifications.",
+            "PESA GRAM SABHA community resources + customs + cultural identity + customary dispute practices."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT PESA is not an unlimited veto over every project or every Scheduled Tribe area.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 25"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PLANNING, ACCOUNTABILITY, DIGITAL TOOLS AND JUDICIAL BOUNDARY",
+      "structural_type": "panchayat-accountability-network",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PLANNING, ACCOUNTABILITY, DIGITAL TOOLS AND JUDICIAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "PLANNING CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAM SABHA PRIORITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERMEDIATE/DISTRICT CONVERGENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DPC CONSOLIDATES PANCHAYAT AND MUNICIPAL PLANS UNDER ARTICLE 243ZD.",
+          "role": "institution"
+        },
+        {
+          "text": "ACCOUNTABILITY CHAIN NOTICE + RECORDS + QUORUM/INCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL AUDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "AUDIT TRAIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLANNING CHAIN",
+        "Gram Sabha priorities → GPDP → intermediate/district convergence",
+        "DPC consolidates Panchayat and municipal plans under Article 243ZD.",
+        "ACCOUNTABILITY CHAIN notice + records + quorum/inclusion → social audit → audit trail → follow-up.",
+        "DIGITAL TOOLS eGramSwaraj planning/accounts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PLANNING CHAIN",
+            "Gram Sabha priorities → GPDP → intermediate/district convergence",
+            "DPC consolidates Panchayat and municipal plans under Article 243ZD."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ACCOUNTABILITY CHAIN notice + records + quorum/inclusion → social audit → audit trail → follow-up.",
+            "DIGITAL TOOLS eGramSwaraj planning/accounts",
+            "AuditOnline audit workflow"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SVAMITVA survey/property cards",
+            "RGSA capacity building.",
+            "CAUTION portal entry != lawful devolution, informed consent or service quality."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "JUDICIAL BOUNDARY",
+            "Gram Nyayalayas Act, 2008 courts != Gram Sabha or Panchayat institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Gram Nyayalayas Act, 2008 courts != Gram Sabha or Panchayat institutions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 26",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 28",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 30",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 31",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 32"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PANCHAYAT-MUNICIPALITY COMPARISON AND CONTROLLING LOCAL-BODY CASES",
+      "structural_type": "local-body-comparison-case-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PANCHAYAT-MUNICIPALITY COMPARISON AND CONTROLLING LOCAL-BODY CASES",
+          "role": "primary"
+        },
+        {
+          "text": "PANCHAYATS MUNICIPALITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "PART IX",
+          "role": "comparison"
+        },
+        {
+          "text": "ELEVENTH 29 PART IXA",
+          "role": "evidence"
+        },
+        {
+          "text": "TWELFTH 18",
+          "role": "primary"
+        },
+        {
+          "text": "GRAM SABHA WARD COMMITTEE WHERE ARTICLE 243S APPLIES VILLAGE/INTERMEDIATE/DISTRICT",
+          "role": "institution"
+        },
+        {
+          "text": "COMMON CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEC ELECTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PANCHAYATS MUNICIPALITIES",
+        "Part IX",
+        "Eleventh 29 Part IXA",
+        "Twelfth 18",
+        "Gram Sabha Ward Committee where Article 243S applies village/intermediate/district Nagar Panchayat/Council/Corporation"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "PANCHAYATS MUNICIPALITIES",
+          "Gram Sabha Ward Committee where Article 243S applies village/intermediate/district Nagar Panchayat/Council/Corporation",
+          "DPC planning bridge",
+          "K. Krishna Murthy (2010) → reservation requires local-body constitutional analysis."
+        ],
+        [
+          "Part IX",
+          "COMMON CONTROLS",
+          "State-law devolution.",
+          "Vikas Kishanrao Gawali (2021) → OBC-reservation triple test."
+        ],
+        [
+          "Eleventh 29 Part IXA",
+          "SEC elections",
+          "CASE CODE",
+          "State of Goa v. Fouziya Imtiaz Shaikh (2021) → independent SEC."
+        ],
+        [
+          "Twelfth 18",
+          "SFC fiscal review",
+          "Kishansing Tomar (2006) → timely local elections.",
+          "LIMIT cases regulate constitutional boundaries; they do not create one national local law."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PANCHAYATS MUNICIPALITIES",
+            "Part IX",
+            "Eleventh 29 Part IXA",
+            "Twelfth 18"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Gram Sabha Ward Committee where Article 243S applies village/intermediate/district Nagar Panchayat/Council/Corporation",
+            "COMMON CONTROLS",
+            "SEC elections",
+            "SFC fiscal review"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DPC planning bridge",
+            "State-law devolution.",
+            "CASE CODE",
+            "Kishansing Tomar (2006) → timely local elections."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "K. Krishna Murthy (2010) → reservation requires local-body constitutional analysis.",
+            "Vikas Kishanrao Gawali (2021) → OBC-reservation triple test.",
+            "State of Goa v. Fouziya Imtiaz Shaikh (2021) → independent SEC.",
+            "LIMIT cases regulate constitutional boundaries; they do not create one national local law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT cases regulate constitutional boundaries; they do not create one national local law.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 37",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 40",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 41"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EXACT CONTINUITY, TRANSITION AND UNION TERRITORY CONTROLS",
+      "structural_type": "constitutional-proviso-ladder",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EXACT CONTINUITY, TRANSITION AND UNION TERRITORY CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 243E FIVE-YEAR TERM",
+          "role": "institution"
+        },
+        {
+          "text": "ELECTION BEFORE EXPIRY OR WITHIN SIX MONTHS AFTER DISSOLUTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "IF THE REMAINDER IS BELOW SIX MONTHS, A SHORT-TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "A RECONSTITUTED BODY SERVES ONLY THE ORIGINAL UNEXPIRED TERM.",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 243L",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT MAY APPLY PART IX TO A UNION TERRITORY",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 243N INCONSISTENT OLD PANCHAYAT LAWS SURVIVED AT MOST",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243E five-year term → election before expiry or within six months after dissolution.",
+        "If the remainder is below six months, a short-term election is unnecessary.",
+        "A reconstituted body serves only the original unexpired term.",
+        "ARTICLE 243L",
+        "President may apply Part IX to a Union Territory with exceptions/modifications."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243E five-year term → election before expiry or within six months after dissolution.",
+            "If the remainder is below six months, a short-term election is unnecessary."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "A reconstituted body serves only the original unexpired term.",
+            "ARTICLE 243L"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "President may apply Part IX to a Union Territory with exceptions/modifications.",
+            "ARTICLE 243N inconsistent old Panchayat laws survived at most one year from commencement."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "EXAM RULE",
+            "State the proviso with the headline rule; otherwise a true answer remains incomplete."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "State the proviso with the headline rule; otherwise a true answer remains incomplete.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 3",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 9",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 23"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SFC, SEC AND SUPREME COURT ACCOUNTABILITY CONTROLS",
+      "structural_type": "institution-case-control-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SFC, SEC AND SUPREME COURT ACCOUNTABILITY CONTROLS",
+          "role": "institution"
+        },
+        {
+          "text": "STATE FINANCE COMMISSION — ARTICLE 243I FIVE-YEAR REVIEW",
+          "role": "institution"
+        },
+        {
+          "text": "TAX SHARING + ASSIGNMENTS + GRANTS + IMPROVEMENT MEASURES",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNOR LAYS REPORT AND ACTION MEMORANDUM BEFORE THE LEGISLATURE.",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE ELECTION COMMISSION — ARTICLE 243K ROLLS + ELECTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "PROTECTED REMOVAL AND SERVICE CONDITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "REQUESTED STAFF.",
+          "role": "comparison"
+        },
+        {
+          "text": "KISHANSING TOMAR (2006)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE FINANCE COMMISSION — ARTICLE 243I five-year review → tax sharing + assignments + grants",
+        "Governor lays report and action memorandum before the legislature.",
+        "STATE ELECTION COMMISSION — ARTICLE 243K rolls + elections → protected removal and service conditions",
+        "Kishansing Tomar (2006) → timely elections.",
+        "K. Krishna Murthy (2010) → local empirical basis and reservation ceiling."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "STATE FINANCE COMMISSION — ARTICLE 243I five-year review → tax sharing + assignments + grants + improvement measures",
+          "STATE ELECTION COMMISSION — ARTICLE 243K rolls + elections → protected removal and service conditions → requested staff.",
+          "K. Krishna Murthy (2010) → local empirical basis and reservation ceiling.",
+          "State of Goa v. Fouziya Imtiaz Shaikh (2021) → independent SEC."
+        ],
+        [
+          "Governor lays report and action memorandum before the legislature.",
+          "Kishansing Tomar (2006) → timely elections.",
+          "Vikas Kishanrao Gawali (2021) → OBC triple test.",
+          "STATE FINANCE COMMISSION — ARTICLE 243I five-year review → tax sharing + assignments + grants + improvement measures"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATE FINANCE COMMISSION — ARTICLE 243I five-year review → tax sharing + assignments + grants + improvement measures",
+            "Governor lays report and action memorandum before the legislature."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STATE ELECTION COMMISSION — ARTICLE 243K rolls + elections → protected removal and service conditions → requested staff.",
+            "Kishansing Tomar (2006) → timely elections."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "K. Krishna Murthy (2010) → local empirical basis and reservation ceiling.",
+            "Vikas Kishanrao Gawali (2021) → OBC triple test."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State of Goa v. Fouziya Imtiaz Shaikh (2021) → independent SEC.",
+            "STATE FINANCE COMMISSION — ARTICLE 243I five-year review → tax sharing + assignments + grants + improvement measures"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "State of Goa v. Fouziya Imtiaz Shaikh (2021) → independent SEC.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 17",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 21",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 41"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DATED EVIDENCE, ANSWER COMPRESSION AND REFORM OWNERSHIP",
+      "structural_type": "evidence-answer-reform-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATED EVIDENCE, ANSWER COMPRESSION AND REFORM OWNERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED PRIMARY CONTROLS — CHECKED 28 AUGUST 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVOLUTION INDEX REPORT 2024",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARATIVE DEVOLUTION FRAMEWORK.",
+          "role": "evidence"
+        },
+        {
+          "text": "SIXTEENTH FINANCE COMMISSION 2026-31",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL-BODY FISCAL FRAMEWORK.",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY PESA-RULES DIRECTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTIFICATION STATUS, NOT FIELD COMPLIANCE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DATED PRIMARY CONTROLS — CHECKED 28 AUGUST 2026",
+        "Devolution Index Report 2024 → comparative devolution framework.",
+        "Sixteenth Finance Commission 2026-31 → local-body fiscal framework.",
+        "Ministry PESA-rules directory → notification status, not field compliance.",
+        "ANSWER COMPRESSION"
+      ],
+      "matrix": [
+        [
+          "State legislature devolves",
+          "Panchayat executes",
+          "Gram Sabha scrutinises"
+        ],
+        [
+          "SFC recommends",
+          "SEC conducts elections",
+          "courts enforce boundaries."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DATED PRIMARY CONTROLS — CHECKED 28 AUGUST 2026",
+            "Devolution Index Report 2024 → comparative devolution framework.",
+            "Sixteenth Finance Commission 2026-31 → local-body fiscal framework.",
+            "Ministry PESA-rules directory → notification status, not field compliance."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ANSWER COMPRESSION",
+            "10 marks → rule + mechanism + one gap + verdict.",
+            "15 marks → constitutional chain + evidence + counterpoint + reforms.",
+            "20 marks → evolution + design + three Fs + PESA + cases + phased reform."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACTOR MAP",
+            "State legislature devolves",
+            "Panchayat executes",
+            "Gram Sabha scrutinises"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SFC recommends",
+            "SEC conducts elections",
+            "courts enforce boundaries."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "10 marks → rule + mechanism + one gap + verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 32",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 36",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-23\\g4-source\\polity-23_g4-reviewed-source.md#SESSION 39"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "IMPLEMENTATION GAPS, REFORM SEQUENCE, PYQ ROUTES AND FINAL SYNTHESIS",
+      "structural_type": "panchayat-reform-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "IMPLEMENTATION GAPS, REFORM SEQUENCE, PYQ ROUTES AND FINAL SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DIAGNOSIS REGULAR ELECTIONS + REPRESENTATION GAINS BUT VAGUE ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM SEQUENCE BINDING ACTIVITY MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCOUNTABLE LOCAL CADRE",
+          "role": "evidence"
+        },
+        {
+          "text": "PREDICTABLE UNTIED FINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "FAIR OWN-REVENUE REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONG GRAM SABHA",
+          "role": "comparison"
+        },
+        {
+          "text": "AUDIT/SOCIAL AUDIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSIS regular elections + representation gains but vague activity maps + departmental staff + weak",
+        "REFORM SEQUENCE binding activity map → accountable local cadre → predictable untied finance",
+        "fair own-revenue reform → strong Gram Sabha → audit/social audit",
+        "assisted digital access → outcome-based GPDP.",
+        "PYQ ROUTES finance beyond grants"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIAGNOSIS regular elections + representation gains but vague activity maps + departmental staff + weak own revenue + delayed SFCs.",
+            "REFORM SEQUENCE binding activity map → accountable local cadre → predictable untied finance",
+            "fair own-revenue reform → strong Gram Sabha → audit/social audit"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "assisted digital access → outcome-based GPDP.",
+            "PYQ ROUTES finance beyond grants",
+            "women and patriarchy"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "three Fs to functionality intermediate-tier exception",
+            "PESA limits.",
+            "MAINS SPINE define decentralisation → cite Part IX → explain mechanism → show gap"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "named case/current anchor → State-variation qualification → functionality verdict.",
+            "SYNTHESIS representation becomes self-government only when authority, staff and money converge."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS representation becomes self-government only when authority, staff and money converge.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 33",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 34",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 35",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 36",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 38",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g4\\polity-23_Complete-Learning-Session_2026-08-28.md#SESSION 39"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — EVOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — 73RD AMENDMENT ACT, 1992",
+          "role": "institution"
+        },
+        {
+          "text": "PART C — PESA ACT, 1996",
+          "role": "institution"
+        },
+        {
+          "text": "LAXMIKANT FRAMES GRAM SABHA AS THE PARTICIPATORY-DEMOCRACY CORE OF",
+          "role": "primary"
+        },
+        {
+          "text": "SEC 17 OF MGNREGA MANDATES GRAM SABHA MONITORING AND",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL AUDIT MEANS COMMUNITY VERIFICATION OF RECORDS, EXPENDITURE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "MEGHALAYA ENACTED THE MEGHALAYA COMMUNITY PARTICIPATION AND PUBLIC SERVICES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — EVOLUTION",
+            "PART B — 73rd AMENDMENT ACT, 1992",
+            "PART C — PESA ACT, 1996",
+            "Laxmikant frames Gram Sabha as the participatory-democracy core of Panchayati Raj."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Sec 17 of MGNREGA mandates Gram Sabha monitoring and regular social audits of works within the Gram Panchayat.",
+            "CAUTION: Social audit means community verification of records, expenditure and outcomes — not merely departmental inspection.",
+            "Meghalaya enacted the Meghalaya Community Participation and Public Services Social Audit Act, 2017, widely cited as the first state social-audit law.",
+            "NOT: 73rd Amendment came into force in 1992 → passed 1992, in force 24 April 1993 ."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Eleventh Schedule has 29 items for municipalities → 29 for panchayats (Twelfth Schedule = 18 for",
+            "NOT: All 3 tiers are compulsory for every state → a state < 20 lakh may skip the intermediate tier.",
+            "NOT: Only village-level territorial seats are directly elected → territorial seats at all",
+            "NOT: Minimum candidate age is 25 → 21 for panchayats."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

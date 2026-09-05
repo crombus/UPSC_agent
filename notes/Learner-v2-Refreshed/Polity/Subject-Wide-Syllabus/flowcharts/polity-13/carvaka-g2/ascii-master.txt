@@ -1,0 +1,126 @@
+ASCII MASTER FLOW — PANEL 1/9: The four-dimensional federal relations map
+CENTRE-STATE AND INTER-STATE RELATIONS
+  +-- LEGISLATIVE: Articles 245-255 + Seventh Schedule
+  +-- ADMINISTRATIVE: Articles 256-263
+  +-- FINANCIAL: Articles 264-293 + GST Articles 246A / 269A / 279A
+  +-- INTER-STATE / ECONOMIC: Articles 261-263 and 301-307
+
+OPERATING QUESTION
+Who may act -> through which constitutional route -> with what check -> with what remedy?
+
+FEDERALISM IS NOT ONE LIST
+legal competence + implementation control + fiscal capacity + bargaining institutions.
+
+ASCII MASTER FLOW — PANEL 2/9: Legislative competence before conflict
+ARTICLE 245: territorial reach
+  +-- Parliament: whole or any part of India; extra-territorial operation protected
+  +-- State legislature: whole or any part of the State; territorial nexus applies
+
+ARTICLE 246 + SEVENTH SCHEDULE
+Union List 100 -> Parliament
+State List 61 -> States, subject to constitutional exceptions
+Concurrent List 52 -> both; Article 254 resolves repugnancy
+
+SPECIAL RULES
+Article 246A -> GST competence
+Article 248 + Union Entry 97 -> residuary power with Parliament.
+
+ASCII MASTER FLOW — PANEL 3/9: Parliament's routes into the State field
+STATE LIST IS PRIMARY, NOT ABSOLUTE
+  |
+  +-- Article 249 -> Rajya Sabha national-interest resolution
+  +-- Article 250 -> National Emergency; temporary extension after it ends
+  +-- Article 252 -> two or more States request; other States may adopt
+  +-- Article 253 -> treaty / international obligation implementation
+  +-- Article 356 -> Parliament legislates for the affected State
+  +-- Article 246(4) -> territories not included in a State
+
+EXAM CONTROL
+State trigger, national trigger, duration and amendment/repeal control differ by route.
+
+ASCII MASTER FLOW — PANEL 4/9: Doctrines, repugnancy and State-law control
+FIRST RECONCILE COMPETENCE
+pith and substance -> true nature
+harmonious construction -> preserve both entries
+incidental encroachment -> tolerated when substance is competent
+colourable legislation -> what cannot be done directly cannot be disguised
+
+THEN TEST ARTICLE 254
+Concurrent field + direct conflict -> Union law ordinarily prevails
+reserved State law + Presidential assent -> operates in that State
+Parliament may later override
+
+ASSENT CONTROL
+prior sanction != reservation; Articles 200-201 remain distinct procedures.
+
+ASCII MASTER FLOW — PANEL 5/9: Administrative directions, delegation and common services
+STATE EXECUTIVE DUTY
+Article 256 -> ensure compliance with parliamentary law
+Article 257 -> do not impede Union executive power; directions in stated fields
+        |
+        +-- Article 365: non-compliance may supply material
+        +-- Article 356: still requires separate constitutional satisfaction and review
+
+COOPERATIVE ADMINISTRATION
+Articles 258 / 258A -> mutual entrustment of functions
+Article 312 -> Rajya Sabha route for All-India Services
+CBI -> DSPE Act consent architecture; State consent and federal litigation remain bounded.
+
+ASCII MASTER FLOW — PANEL 6/9: Fiscal federalism from tax power to borrowing
+NO TAX WITHOUT AUTHORITY OF LAW: ARTICLE 265
+  +-- assigned / distributed taxes: Articles 268-270
+  +-- surcharge for Union purposes: Article 271
+  +-- grants: Articles 273, 275 and 282
+  +-- Finance Commission: Article 280
+  +-- borrowing: Articles 292-293
+
+GST LAYER
+Articles 246A + 269A + 279A -> shared tax field + destination rule + Council
+
+CURRENT CONTROL
+Sixteenth Finance Commission award 2026-31; report tabled in Parliament.
+Fiscal autonomy depends on predictable devolution, not State List words alone.
+
+ASCII MASTER FLOW — PANEL 7/9: Intergovernmental forums and river-water adjudication
+ARTICLE 263 INTER-STATE COUNCIL
+inquiry + discussion + recommendation; constitutional and recommendatory
+
+ZONAL COUNCILS
+States Reorganisation Act, 1956; regional consultation; statutory, not constitutional
+North Eastern Council -> separate statutory regional body
+
+ARTICLE 262 WATER DISPUTES
+negotiation -> statutory tribunal -> decision/publication -> implementation
+Parliament may exclude court jurisdiction through law
+
+CURRENT LIMIT
+The 2019 permanent-tribunal Bill has not become law; do not invent one tribunal.
+
+ASCII MASTER FLOW — PANEL 8/9: Sarkaria, Punchhi and the modes of federalism
+COOPERATIVE -> consultation and joint implementation
+COMPETITIVE -> innovation, investment and policy comparison
+BARGAINING -> negotiated grants, GST and political accommodation
+COERCIVE -> conditional finance, directions or unilateral central leverage
+
+SARKARIA
+strong Union within cooperation; Article 356 last resort; neutral Governor; active ISC
+
+PUNCHHI
+localised emergency debate; clearer Governor practice; consultation and dispute prevention
+
+REFORM TEST
+regular institutions + shared data + reasoned decisions + fiscal transparency.
+
+ASCII MASTER FLOW — PANEL 9/9: Prelims controls, PYQ routes and answer synthesis
+PRELIMS FIREWALL
+Article 254 -> Concurrent repugnancy, not every Union-State disagreement
+Article 365 -> possible consequence, not automatic President's Rule
+GST -> Article 246A special field, not a general Concurrent List tax entry
+Zonal Councils -> statutory; Inter-State Council -> constitutional
+
+PYQ ROUTES
+2019 supremacy/harmony | 2020 centralisation | 2024 relation reform | 2025 fiscal federalism
+
+MAINS SPINE
+define dimension -> cite Article/institution -> explain mechanism -> evidence
+-> State/Union counterpoint -> commission reform -> cooperative, reviewable conclusion.

@@ -1,0 +1,992 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-19",
+  "subject": "Polity",
+  "title": "GOVERNOR CM STATE COUNCIL",
+  "short_route": "RESPONSIBLE STATE GOVERNMENT UNDER → APPOINTMENT, TENURE, OATH, CONDITIONS → EXECUTIVE, LEGISLATIVE, FINANCIAL, JUDICIAL → AID AND ADVICE WITH → GOVERNMENT FORMATION, FLOOR TEST → ARTICLES 200-201: ASSENT, RETURN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-19-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "1949a47a5f27a855969c91ef2eec0e209e6954cd4868cf2c8c58e37479d46d43",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RESPONSIBLE STATE GOVERNMENT UNDER ARTICLES 153-167",
+      "structural_type": "state-executive-architecture",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RESPONSIBLE STATE GOVERNMENT UNDER ARTICLES 153-167",
+          "role": "institution"
+        },
+        {
+          "text": "LEGISLATIVE ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "CM + COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR GIVES LEGAL FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE MAP",
+          "role": "institution"
+        },
+        {
+          "text": "153 GOVERNOR",
+          "role": "outcome"
+        },
+        {
+          "text": "154 EXECUTIVE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "155 APPOINTMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PEOPLE → LEGISLATIVE ASSEMBLY → CONFIDENCE → CM + COUNCIL",
+        "GOVERNOR GIVES LEGAL FORM",
+        "ARTICLE MAP",
+        "153 Governor",
+        "154 executive power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PEOPLE → LEGISLATIVE ASSEMBLY → CONFIDENCE → CM + COUNCIL",
+            "GOVERNOR GIVES LEGAL FORM",
+            "ARTICLE MAP",
+            "153 Governor",
+            "154 executive power"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "155 appointment",
+            "156 term/pleasure",
+            "157 qualification",
+            "158 conditions",
+            "159 oath"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "161 clemency",
+            "163 advice/discretion",
+            "164 ministers/responsibility",
+            "165 Advocate General",
+            "166 business"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "167 CM duties.",
+            "CORE RULE",
+            "Governor is constitutional head; the confidence-holding ministry is the real political executive."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "In parliamentary practice, that pleasure is operationally controlled by the CM for individual ministers while the whole ministry depends on Assembly confidence.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "APPOINTMENT, TENURE, OATH, CONDITIONS AND IMMUNITY",
+      "structural_type": "governor-office-conditions",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "APPOINTMENT, TENURE, OATH, CONDITIONS AND IMMUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENT APPOINTS BY WARRANT",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN CITIZEN + 35 YEARS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 159 OATH BEFORE HC CJI OR THE SENIOR-MOST",
+          "role": "institution"
+        },
+        {
+          "text": "CONDITIONS NO PARLIAMENT/STATE-LEGISLATURE SEAT",
+          "role": "caution"
+        },
+        {
+          "text": "NO OTHER OFFICE OF PROFIT",
+          "role": "caution"
+        },
+        {
+          "text": "PROTECTED EMOLUMENTS.",
+          "role": "comparison"
+        },
+        {
+          "text": "TENURE NOMINAL FIVE YEARS + PRESIDENT'S PLEASURE + RESIGNATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "President appoints by warrant → Indian citizen + 35 years → Article 159 oath before",
+        "CONDITIONS no Parliament/State-legislature seat",
+        "no other office of profit",
+        "protected emoluments.",
+        "TENURE nominal five years + President's pleasure + resignation to President + hold office until"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "President appoints by warrant → Indian citizen + 35 years → Article 159 oath before HC CJI or the senior-most available judge.",
+            "CONDITIONS no Parliament/State-legislature seat"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "no other office of profit",
+            "protected emoluments."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TENURE nominal five years + President's pleasure + resignation to President + hold office until successor.",
+            "Pleasure does not convert the office into an ordinary Union employee."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 361 personal immunity for official acts while remedies against government action remain available",
+            "criminal proceedings cannot continue during the term; civil notice rules are distinct."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Governor is entitled to official residence without rent and to emoluments, allowances and privileges determined by parliamentary law; emoluments and allowances cannot be diminished during the term.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EXECUTIVE, LEGISLATIVE, FINANCIAL, JUDICIAL AND STATUTORY POWERS",
+      "structural_type": "governor-power-classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EXECUTIVE, LEGISLATIVE, FINANCIAL, JUDICIAL AND STATUTORY POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTIVE APPOINT CM; APPOINT MINISTERS ON CM ADVICE; APPOINT",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGISLATIVE SUMMON, PROROGUE, DISSOLVE ASSEMBLY; ADDRESS; NOMINATE WHERE TEXT",
+          "role": "institution"
+        },
+        {
+          "text": "FINANCIAL RECOMMEND MONEY BILL AND DEMANDS; CAUSE BUDGET TO",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 161 CLEMENCY FOR OFFENCES WITHIN STATE EXECUTIVE FIELD",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY ROLE",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNOR AS UNIVERSITY CHANCELLOR EXISTS ONLY WHERE THE RELEVANT",
+          "role": "comparison"
+        },
+        {
+          "text": "IT IS NOT AN INHERENT POWER FLOWING FROM ARTICLES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EXECUTIVE appoint CM; appoint ministers on CM advice; appoint Advocate General and specified authorities.",
+        "LEGISLATIVE summon, prorogue, dissolve Assembly; address; nominate where text permits; assent/reserve/return.",
+        "FINANCIAL recommend Money Bill and demands; cause budget to be laid; use Contingency Fund under",
+        "Article 161 clemency for offences within State executive field; judicial review survives.",
+        "STATUTORY ROLE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "EXECUTIVE appoint CM; appoint ministers on CM advice; appoint Advocate General and specified authorities.",
+            "LEGISLATIVE summon, prorogue, dissolve Assembly; address; nominate where text permits; assent/reserve/return."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FINANCIAL recommend Money Bill and demands; cause budget to be laid; use Contingency Fund under law.",
+            "Article 161 clemency for offences within State executive field; judicial review survives."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUTORY ROLE",
+            "Governor as university Chancellor exists only where the relevant State statute so provides."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "It is not an inherent power flowing from Articles 153-167.",
+            "EXECUTIVE appoint CM; appoint ministers on CM advice; appoint Advocate General and specified authorities."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The State therefore has a dual executive: Governor as formal constitutional head; CM-led ministry as responsible political executive.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AID AND ADVICE WITH A NARROW, REVIEWABLE DISCRETION FIELD",
+      "structural_type": "advice-discretion-case-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AID AND ADVICE WITH A NARROW, REVIEWABLE DISCRETION FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "SHAMSHER SINGH (1974)",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNOR ORDINARILY ACTS ON MINISTERIAL AID AND ADVICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDED EXCEPTIONS HUNG HOUSE FORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FLOOR-TEST TRIGGER ON OBJECTIVE MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "BILL RESERVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 356 REPORT",
+          "role": "institution"
+        },
+        {
+          "text": "EXPRESS CONSTITUTIONAL OR NECESSARY SITUATIONAL DISCRETION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Shamsher Singh (1974) → Governor ordinarily acts on ministerial aid and advice.",
+        "BOUNDED EXCEPTIONS hung House formation",
+        "floor-test trigger on objective material",
+        "Bill reservation",
+        "Article 356 report"
+      ],
+      "matrix": [
+        [
+          "BOUNDED EXCEPTIONS hung House formation",
+          "floor-test trigger on objective material",
+          "Bill reservation"
+        ],
+        [
+          "Article 356 report",
+          "express constitutional or necessary situational discretion.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Shamsher Singh (1974) → Governor ordinarily acts on ministerial aid and advice.",
+            "BOUNDED EXCEPTIONS hung House formation",
+            "floor-test trigger on objective material"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Bill reservation",
+            "Article 356 report",
+            "express constitutional or necessary situational discretion."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SESSION CONTROL",
+            "Nabam Rebia (2016) → Articles 174-175 ordinarily advice-bound.",
+            "Subhash Desai (2023) → no floor test merely to arbitrate an internal party dispute."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "The Speaker-removal issue from Nabam Rebia (2016) was referred in Subhash Desai (2023) and remains pending.",
+            "REVIEW discretion is not personal political preference; relevance, purpose and objective material matter."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Unlike Article 74 after the 42nd/44th Amendment scheme, Article 163 does not use an equivalent express textual command that all advice is binding.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GOVERNMENT FORMATION, FLOOR TEST, DISMISSAL AND DISSOLUTION",
+      "structural_type": "confidence-crisis-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GOVERNMENT FORMATION, FLOOR TEST, DISMISSAL AND DISSOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "HUNG ASSEMBLY INVITE PERSON MOST LIKELY TO COMMAND CONFIDENCE",
+          "role": "institution"
+        },
+        {
+          "text": "EARLY FLOOR TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SECRET RAJ BHAVAN COUNT.",
+          "role": "caution"
+        },
+        {
+          "text": "LOSS OF MAJORITY OBJECTIVE MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "FLOOR TEST AS ORDINARY CONSTITUTIONAL FORUM.",
+          "role": "outcome"
+        },
+        {
+          "text": "S.R. BOMMAI (1994)",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJORITY NORMALLY PROVED IN HOUSE; ARTICLE 356 IS REVIEWABLE.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "HUNG ASSEMBLY invite person most likely to command confidence → early floor test → no",
+        "LOSS OF MAJORITY objective material → floor test as ordinary constitutional forum.",
+        "S.R. Bommai (1994) → majority normally proved in House; Article 356 is reviewable.",
+        "Subhash Desai (2023) → factional dissent alone cannot justify a floor test.",
+        "DISMISSAL / DISSOLUTION ministry losing a floor test may resign or face dismissal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "HUNG ASSEMBLY invite person most likely to command confidence → early floor test → no secret Raj Bhavan count.",
+            "LOSS OF MAJORITY objective material → floor test as ordinary constitutional forum."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "S.R. Bommai (1994) → majority normally proved in House; Article 356 is reviewable.",
+            "Subhash Desai (2023) → factional dissent alone cannot justify a floor test."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISMISSAL / DISSOLUTION ministry losing a floor test may resign or face dismissal",
+            "dissolution advice is not mechanically binding when an alternative government is feasible."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Rameshwar Prasad (2006) → speculative horse-trading material cannot justify pre-emptive dissolution.",
+            "HUNG ASSEMBLY invite person most likely to command confidence → early floor test → no secret Raj Bhavan count."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "\"Governor's pleasure\" in Article 164 does not authorise dismissal of a CM who retains Assembly confidence.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARTICLES 200-201: ASSENT, RETURN, RESERVATION AND CURRENT CONTROL",
+      "structural_type": "assent-reservation-gateway",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLES 200-201",
+          "role": "primary"
+        },
+        {
+          "text": "ASSENT, RETURN, RESERVATION AND CURRENT CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 200 OPTIONS ASSENT",
+          "role": "institution"
+        },
+        {
+          "text": "RETURN A NON-MONEY BILL ONCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVE FOR PRESIDENT.",
+          "role": "primary"
+        },
+        {
+          "text": "MANDATORY RESERVATION APPLIES WHERE THE BILL ENDANGERS THE HIGH",
+          "role": "outcome"
+        },
+        {
+          "text": "AFTER RECONSIDERATION THE GOVERNOR CANNOT RETURN THE SAME BILL",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 201",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 200 OPTIONS assent",
+        "return a non-Money Bill once",
+        "reserve for President.",
+        "Mandatory reservation applies where the Bill endangers the High Court's constitutional position.",
+        "AFTER RECONSIDERATION the Governor cannot return the same Bill again; reservation questions remain text-specific."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 200 OPTIONS assent",
+            "return a non-Money Bill once",
+            "reserve for President."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Mandatory reservation applies where the Bill endangers the High Court's constitutional position.",
+            "AFTER RECONSIDERATION the Governor cannot return the same Bill again; reservation questions remain text-specific.",
+            "ARTICLE 201"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "President may assent, withhold, or direct return of a non-Money Bill through the Governor.",
+            "CURRENT CASE CONTROL",
+            "State of Tamil Nadu v. Governor of Tamil Nadu (2025)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "timelines and deemed assent used on the facts.",
+            "In re Assent, Withholding or Reservation of Bills (2025): advisory and non-binding",
+            "no rigid timelines or automatic deemed assent, but prolonged unexplained inaction is reviewable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 200 gives the Governor several choices on a Bill, but a repassed non-Money Bill cannot be met with renewed withholding of assent.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ORDINANCE NECESSITY AND CLEMENCY LIMITS",
+      "structural_type": "ordinance-clemency-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORDINANCE NECESSITY AND CLEMENCY LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 213 ORDINANCE LEGISLATURE NOT IN SESSION AS CONSTITUTIONALLY",
+          "role": "caution"
+        },
+        {
+          "text": "ACT-LIKE FORCE",
+          "role": "institution"
+        },
+        {
+          "text": "CEASES SIX WEEKS AFTER REASSEMBLY UNLESS APPROVED EARLIER.",
+          "role": "evidence"
+        },
+        {
+          "text": "RE-PROMULGATION CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "D.C. WADHWA (1986)",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTINE SERIAL RE-PROMULGATION IS A FRAUD ON THE CONSTITUTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "KRISHNA KUMAR SINGH (2017)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 213 ORDINANCE legislature not in session as constitutionally required + immediate action necessary",
+        "Act-like force → laying → ceases six weeks after reassembly unless approved earlier.",
+        "RE-PROMULGATION CONTROL",
+        "D.C. Wadhwa (1986) → routine serial re-promulgation is a fraud on the Constitution.",
+        "Krishna Kumar Singh (2017) → laying is mandatory; satisfaction is reviewable"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 213 ORDINANCE legislature not in session as constitutionally required + immediate action necessary",
+          "D.C. Wadhwa (1986) → routine serial re-promulgation is a fraud on the Constitution.",
+          "ARTICLE 161",
+          "D.C. Wadhwa (1986) → routine serial re-promulgation is a fraud on the Constitution."
+        ],
+        [
+          "Act-like force → laying → ceases six weeks after reassembly unless approved earlier.",
+          "Krishna Kumar Singh (2017) → laying is mandatory; satisfaction is reviewable",
+          "State-field offences; advice-bound clemency; relevant-material and non-arbitrariness review.",
+          ""
+        ],
+        [
+          "RE-PROMULGATION CONTROL",
+          "legislative supremacy bars automatic enduring effects of every lapsed ordinance.",
+          "Unlike Article 72, it has no court-martial limb and no independent Union-law offence limb.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 213 ORDINANCE legislature not in session as constitutionally required + immediate action necessary",
+            "Act-like force → laying → ceases six weeks after reassembly unless approved earlier.",
+            "RE-PROMULGATION CONTROL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "D.C. Wadhwa (1986) → routine serial re-promulgation is a fraud on the Constitution.",
+            "Krishna Kumar Singh (2017) → laying is mandatory; satisfaction is reviewable",
+            "legislative supremacy bars automatic enduring effects of every lapsed ordinance."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 161",
+            "State-field offences; advice-bound clemency; relevant-material and non-arbitrariness review.",
+            "Unlike Article 72, it has no court-martial limb and no independent Union-law offence limb."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "D.C. Wadhwa (1986) → routine serial re-promulgation is a fraud on the Constitution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "S.R. Bommai (1994) makes the House floor the ordinary forum for testing a disputed majority.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 17"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CHIEF MINISTER, STATE COUNCIL, ADVOCATE GENERAL AND CHANCELLOR",
+      "structural_type": "state-real-executive-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHIEF MINISTER, STATE COUNCIL, ADVOCATE GENERAL AND CHANCELLOR",
+          "role": "institution"
+        },
+        {
+          "text": "CHIEF MINISTER",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNOR APPOINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVE ASSEMBLY CONFIDENCE",
+          "role": "institution"
+        },
+        {
+          "text": "CHOOSE PORTFOLIOS/MINISTERS",
+          "role": "primary"
+        },
+        {
+          "text": "COORDINATE POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVISE SESSIONS/DISSOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNICATE UNDER ARTICLE 167.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CHIEF MINISTER",
+        "Governor appoints → prove Assembly confidence → choose portfolios/ministers",
+        "coordinate policy → advise sessions/dissolution → communicate under Article 167.",
+        "STATE COUNCIL collectively responsible to Assembly minister individually holds office during Governor's pleasure, constitutionally mediated",
+        "and collective responsibility."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHIEF MINISTER",
+            "Governor appoints → prove Assembly confidence → choose portfolios/ministers",
+            "coordinate policy → advise sessions/dissolution → communicate under Article 167."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STATE COUNCIL collectively responsible to Assembly minister individually holds office during Governor's pleasure, constitutionally mediated by CM advice",
+            "and collective responsibility.",
+            "91ST AMENDMENT ministry cap = 15% of Assembly strength; minimum 12; defector-minister bar."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Tribal Welfare Minister requirement applies to the constitutionally specified States.",
+            "ADVOCATE GENERAL",
+            "Article 165 law officer; qualifications of a High Court judge; advises State government."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State-statute office only; powers and advice rules vary with the governing State law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Business rules allocate work among ministers and organise decision-making, except constitutionally discretionary business.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 23"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "FEDERAL NEUTRALITY, COMMISSION REFORMS, TRAPS AND ANSWER SPINE",
+      "structural_type": "governor-federal-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FEDERAL NEUTRALITY, COMMISSION REFORMS, TRAPS AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "FAULT LINES",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION APPOINTMENT + PLEASURE TENURE + STATE-FACING POWERS",
+          "role": "institution"
+        },
+        {
+          "text": "RISK OF PARTISAN PERCEPTION.",
+          "role": "caution"
+        },
+        {
+          "text": "PUNCHHI ROUTE EMINENT DETACHED APPOINTEE",
+          "role": "primary"
+        },
+        {
+          "text": "CM CONSULTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURE CONVENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FLOOR-TEST PRIORITY REASONED ARTICLE 356 MATERIAL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "FAULT LINES",
+        "Union appointment + pleasure tenure + State-facing powers → risk of partisan perception.",
+        "SARKARIA / PUNCHHI ROUTE eminent detached appointee",
+        "CM consultation",
+        "secure convention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FAULT LINES",
+            "Union appointment + pleasure tenure + State-facing powers → risk of partisan perception.",
+            "SARKARIA / PUNCHHI ROUTE eminent detached appointee",
+            "CM consultation",
+            "secure convention"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "floor-test priority reasoned Article 356 material",
+            "restrained assent/reservation",
+            "post-tenure neutrality.",
+            "PRELIMS FIREWALL",
+            "Governor elected? NO"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "five-year term guaranteed? NO",
+            "discretion general? NO",
+            "Chancellor constitutional? NO",
+            "Money Bill returnable? NO",
+            "Article 361 = State immunity? NO."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MAINS SPINE state textual power → advice default → exceptional trigger → case with year",
+            "federal-risk counterpoint → commission reform → neutral constitutional-umpire conclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 356 may operate on a Governor's report or otherwise; a report is important but not textually indispensable.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\polity-19_Complete-Learning-Session_2026-08-24.md#SESSION 26"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A1. FORMAL VESTING, REAL AUTHORITY AND CONSTITUTIONAL TRUSTEESHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "A2. THE POLITICAL-INFORMATION PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "A3. ASSENT AS A SEPARATION-OF-POWERS PROBLEM",
+          "role": "evidence"
+        },
+        {
+          "text": "A4. ANTI-DEFECTION AND FORMATION CRISES",
+          "role": "primary"
+        },
+        {
+          "text": "A5. FEDERAL REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL RULES VERSUS CONVENTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "A6. SOURCE AND FACTUAL-CONTROL NOTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "A1. Formal vesting, real authority and constitutional trusteeship",
+            "A2. The political-information problem",
+            "A3. Assent as a separation-of-powers problem",
+            "A4. Anti-defection and formation crises"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "A5. Federal reform: legal rules versus conventions",
+            "A6. Source and factual-control note",
+            "[ANALYSIS] The Governor is best described as a constitutional trustee of process , not a rival policy-maker.",
+            "[ANALYSIS] Trusteeship requires fidelity to institutions: Assembly for confidence, political party for internal leadership, Speaker for Tenth Schedule"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "adjudication, courts for legality and elected ministry for policy.",
+            "[ANALYSIS] A Governor often receives asymmetric claims from parties that benefit from a particular timing.",
+            "[ANALYSIS] The safest institutional response is to minimise private factual adjudication and move the decisive question to the public Assembly floor.",
+            "[LIMIT] A floor test cannot cure every illegality. It does not decide the validity of a whip, disqualification petition or party constitution."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

@@ -1,0 +1,132 @@
+ASCII MASTER FLOW — PANEL 1/9: Apex court inside one integrated judicial hierarchy
+ARTICLES 124-147, PART V
+  +-- Supreme Court: constitutional apex + final appellate court
+  +-- High Courts: State-level constitutional courts
+  +-- subordinate courts: ordinary trial and first-appeal structure
+
+INTEGRATED DOES NOT MEAN UNITARY ADMINISTRATION
+Article 141 promotes legal uniformity; Articles 226, 227 and 235 preserve local access and control.
+
+STRUCTURE CARD
+sanctioned strength 34 including CJI | retirement 65 | seat Delhi under Article 130
+Article 145(3) -> at least five judges for a substantial constitutional question.
+
+ASCII MASTER FLOW — PANEL 2/9: Appointment power, collegium evolution and the NJAC test
+ARTICLE 124 TEXT -> President appoints after constitutionally required consultation.
+
+DOCTRINE TIMELINE
+First Judges Case (1981) -> executive primacy
+Second Judges Case (1993) -> judicial primacy; collegium created
+Third Judges Case (1998) -> CJI + four senior-most judges for Supreme Court appointments
+99th Amendment + NJAC Act, 2014 -> commission model
+Fourth Judges Case (2015) -> NJAC invalid; collegium restored
+
+REFORM TEST
+transparent criteria + diversity + timely processing, without executive capture of adjudication.
+
+ASCII MASTER FLOW — PANEL 3/9: Qualifications, tenure, removal and independence firewall
+QUALIFICATION
+Indian citizen + five years as High Court judge OR ten years as High Court advocate
+OR distinguished jurist in the President's opinion.
+
+SERVICE
+constitutional oath -> secure tenure to 65 -> charged expenditure -> protected conditions
+post-retirement practice prohibited before any court or authority in India.
+
+REMOVAL
+proved misbehaviour or incapacity -> special majority in each House -> presidential order.
+
+INDEPENDENCE + ACCOUNTABILITY
+security, salary and contempt power -> decisional autonomy
+declaration of assets, in-house process and reasoned appointments -> public legitimacy.
+
+ASCII MASTER FLOW — PANEL 4/9: Jurisdiction gateway: choose the constitutional route first
+FEDERAL DISPUTE -> Article 131 original jurisdiction; legal-right dispute is essential.
+FUNDAMENTAL RIGHT -> Article 32; itself a Fundamental Right.
+GENERAL PUBLIC-LAW WRONG -> High Court Article 226 is wider in cause and territorial reach.
+CONSTITUTIONAL APPEAL -> Article 132 | civil -> 133 | criminal -> 134.
+SPECIAL LEAVE -> Article 136 extraordinary discretion, not a regular fourth appeal.
+ADVISORY -> Article 143; opinion is advisory and normally non-binding.
+
+CURRENT ASSENT CONTROL
+State of Tamil Nadu v. Governor of Tamil Nadu (2025) used timelines and deemed assent on its facts.
+In re Assent, Withholding or Reservation of Bills (2025) is a non-binding advisory opinion:
+no rigid court-made timelines or automatic deemed assent; prolonged inaction remains reviewable.
+
+ASCII MASTER FLOW — PANEL 5/9: Review, curative power, court of record and contempt
+ARTICLE 137 REVIEW
+error-control within prescribed grounds -> finality remains the rule.
+
+CURATIVE PETITION
+Rupa Ashok Hurra (2002) -> rare post-review cure for grave miscarriage
+-> no routine second review.
+
+ARTICLE 129 COURT OF RECORD
+authoritative records + power to punish contempt.
+
+CONTEMPT LIMIT
+fair criticism is not contempt; power protects administration of justice.
+Supreme Court Bar Association (1998) -> Article 142 cannot replace the governing disciplinary law.
+
+ASCII MASTER FLOW — PANEL 6/9: Precedent, complete justice, assistance and bench discipline
+ARTICLE 141
+ratio decidendi of Supreme Court law binds all courts; obiter persuades, not identically binds.
+larger Bench > smaller Bench; coordinate Bench ordinarily refers disagreement.
+
+ARTICLE 142
+complete justice in the cause or matter before the Court
+  +-- fills remedial gaps
+  +-- cannot ignore substantive statutory or constitutional limits
+  +-- does not create a free-standing legislative power.
+
+ARTICLE 144 -> all civil and judicial authorities act in aid.
+ARTICLE 145 -> Court rules; five-judge floor for Article 143 and substantial interpretation.
+Articles 126-128 -> acting CJI, ad hoc judges and retired-judge sittings are distinct routes.
+
+ASCII MASTER FLOW — PANEL 7/9: Judicial review, Basic Structure, Ninth Schedule and tribunals
+CONSTITUTIONAL SUPREMACY -> judicial review of law and executive action.
+
+DOCTRINE CHAIN
+Kesavananda Bharati (1973) -> amendment power cannot damage Basic Structure
+Minerva Mills (1980) -> limited amendment power + Parts III-IV harmony
+I.R. Coelho (2007) -> post-24 April 1973 Ninth Schedule laws face Basic Structure review
+
+TRIBUNALS
+specialised adjudication may supplement courts.
+L. Chandra Kumar (1997) -> High Court Article 226/227 and Supreme Court Article 32 review
+remain part of the Basic Structure; tribunals cannot become total constitutional substitutes.
+
+ASCII MASTER FLOW — PANEL 8/9: PIL, activism, restraint and social-transformation controls
+ACCESS EXPANSION
+Hussainara Khatoon (1979) -> speedy trial and undertrial justice
+epistolary jurisdiction + relaxed standing -> collective-rights access
+continuing mandamus -> monitored compliance where ordinary relief is inadequate.
+
+JUDICIAL LEGISLATION
+Vishaka (1997) -> interim norm in a legal vacuum, anchored in rights and international law.
+
+CONTROL BOARD
+rights failure + legal vacuum may justify calibrated relief
+BUT policy merits, polycentric choices and institutional capacity require restraint.
+
+ENVIRONMENT
+Article 21 + principles + statutory review -> constitutionalisation without replacing regulators.
+
+ASCII MASTER FLOW — PANEL 9/9: Comparisons, delivery deficits, traps and the Mains spine
+INDIA-UK
+written supreme Constitution + strong review versus parliamentary sovereignty under UK doctrine.
+
+INDIA-USA
+collegium-led recommendation versus presidential nomination and Senate confirmation.
+
+DELIVERY CHAIN
+legal authority -> affordable filing -> timely hearing -> reasoned order -> implementation.
+technology helps listing, e-filing and access; it does not itself cure vacancies or exclusion.
+
+PRELIMS FIREWALL
+Article 32 narrower in cause than 226 | Article 136 discretionary | Article 143 advisory
+Article 142 is bounded | Constitution Bench minimum five, not every constitutional plea.
+
+MAINS SPINE
+define role -> cite Article -> explain mechanism -> case with year -> limit -> access reform
+-> independent, accountable and institutionally restrained constitutional-court conclusion.

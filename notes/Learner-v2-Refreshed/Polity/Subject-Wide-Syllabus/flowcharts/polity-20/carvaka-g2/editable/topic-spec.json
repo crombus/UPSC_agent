@@ -1,0 +1,1003 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-20",
+  "subject": "Polity",
+  "title": "STATE LEGISLATURE",
+  "short_route": "ARTICLES 168-212 AND THE → COMPOSITION, ELECTION, DURATION AND → PRESIDING OFFICERS, SESSIONS, QUORUM → PRIVILEGES, QUESTIONS, MOTIONS AND → ORDINARY, MONEY AND FINANCIAL → BUDGET, FUNDS, COMMITTEES AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-20-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "681ce1ca0aadc83eb848041332cb208fb19294e6895295b01de2956a14cf2b65",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARTICLES 168-212 AND THE CHOICE BETWEEN ONE HOUSE AND TWO",
+      "structural_type": "state-legislature-architecture",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLES 168-212 AND THE CHOICE BETWEEN ONE HOUSE AND",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 168",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR + LEGISLATIVE ASSEMBLY IN EVERY STATE",
+          "role": "institution"
+        },
+        {
+          "text": "LEGISLATIVE COUNCIL ONLY IN A BICAMERAL STATE.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 169 CREATION",
+          "role": "institution"
+        },
+        {
+          "text": "ASSEMBLY SPECIAL RESOLUTION",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT ORDINARY LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ARTICLE 368 AMENDMENT PROCEDURE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 168",
+        "Governor + Legislative Assembly in every State",
+        "Legislative Council only in a bicameral State.",
+        "ARTICLE 169 CREATION / ABOLITION",
+        "Assembly special resolution → Parliament ordinary law → no Article 368 amendment procedure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 168",
+            "Governor + Legislative Assembly in every State",
+            "Legislative Council only in a bicameral State."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 169 CREATION / ABOLITION",
+            "Assembly special resolution → Parliament ordinary law → no Article 368 amendment procedure.",
+            "Parliament is enabled, not legally compelled, by the State resolution."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT MAP six Council States: Andhra Pradesh, Telangana, Uttar Pradesh, Bihar, Maharashtra, Karnataka.",
+            "DESIGN VERDICT",
+            "Assembly carries direct democratic confidence; Council supplies revision and continuity, but cannot become a co-equal veto chamber."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 169 CREATION / ABOLITION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The November 2025 Article 143 opinion rejects rigid court-written timelines and deemed assent, but prolonged unexplained inaction remains amenable to limited judicial review and a direction to decide.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPOSITION, ELECTION, DURATION AND MEMBERSHIP CONTROLS",
+      "structural_type": "membership-election-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPOSITION, ELECTION, DURATION AND MEMBERSHIP CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "ASSEMBLY DIRECT ELECTION",
+          "role": "institution"
+        },
+        {
+          "text": "NORMAL FIVE-YEAR TERM",
+          "role": "comparison"
+        },
+        {
+          "text": "MINIMUM AGE 25",
+          "role": "evidence"
+        },
+        {
+          "text": "DISSOLUTION POSSIBLE.",
+          "role": "primary"
+        },
+        {
+          "text": "COUNCIL INDIRECT MIXED COMPOSITION UNDER ARTICLE 171",
+          "role": "institution"
+        },
+        {
+          "text": "PERMANENT HOUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE-THIRD RETIRE EVERY TWO YEARS MINIMUM AGE 30",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASSEMBLY direct election",
+        "normal five-year term",
+        "minimum age 25",
+        "dissolution possible.",
+        "COUNCIL indirect mixed composition under Article 171"
+      ],
+      "matrix": [
+        [
+          "ASSEMBLY direct election",
+          "normal five-year term",
+          "minimum age 25",
+          "dissolution possible."
+        ],
+        [
+          "COUNCIL indirect mixed composition under Article 171",
+          "permanent House",
+          "one-third retire every two years minimum age 30",
+          "total strength normally not more than one-third of Assembly, minimum 40."
+        ],
+        [
+          "COUNCIL ELECTORAL STREAMS local authorities 1/3",
+          "graduates 1/12",
+          "teachers 1/12",
+          "Assembly members 1/3"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ASSEMBLY direct election",
+            "normal five-year term",
+            "minimum age 25",
+            "dissolution possible."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COUNCIL indirect mixed composition under Article 171",
+            "permanent House",
+            "one-third retire every two years minimum age 30",
+            "total strength normally not more than one-third of Assembly, minimum 40."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COUNCIL ELECTORAL STREAMS local authorities 1/3",
+            "graduates 1/12",
+            "teachers 1/12",
+            "Assembly members 1/3"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Governor nominates remainder for specified knowledge/experience.",
+            "Article 191 disqualification → Article 192 Governor decision after ECI opinion",
+            "Tenth Schedule questions follow the presiding-officer route."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Council strength cannot exceed one-third of the Assembly strength and cannot ordinarily be below 40.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PRESIDING OFFICERS, SESSIONS, QUORUM AND VOTING",
+      "structural_type": "house-procedure-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRESIDING OFFICERS, SESSIONS, QUORUM AND VOTING",
+          "role": "primary"
+        },
+        {
+          "text": "ASSEMBLY SPEAKER/DEPUTY SPEAKER",
+          "role": "institution"
+        },
+        {
+          "text": "COUNCIL CHAIRMAN/DEPUTY CHAIRMAN.",
+          "role": "institution"
+        },
+        {
+          "text": "REMOVAL REQUIRES NOTICE AND THE CONSTITUTIONAL MAJORITY STATED FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "SESSION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNOR SUMMONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADJOURNMENT SINE DIE",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSEMBLY ALONE MAY BE DISSOLVED.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "Assembly Speaker/Deputy Speaker",
+        "Council Chairman/Deputy Chairman.",
+        "removal requires notice and the constitutional majority stated for the House.",
+        "SESSION CHAIN",
+        "Governor summons → sitting → adjournment / adjournment sine die → prorogation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Assembly Speaker/Deputy Speaker",
+            "Council Chairman/Deputy Chairman.",
+            "removal requires notice and the constitutional majority stated for the House."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SESSION CHAIN",
+            "Governor summons → sitting → adjournment / adjournment sine die → prorogation",
+            "Assembly alone may be dissolved."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "No more than six months may intervene between sessions.",
+            "QUORUM ten members or one-tenth of total membership, whichever is greater.",
+            "VOTING members present and voting → presiding officer ordinarily no first vote"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "casting vote on equality; vacancies do not invalidate otherwise lawful proceedings."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A presiding officer does not preside over a motion for their own removal but may participate and vote in the first instance.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 11"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PRIVILEGES, QUESTIONS, MOTIONS AND PROCEDURAL ACCOUNTABILITY",
+      "structural_type": "privilege-device-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRIVILEGES, QUESTIONS, MOTIONS AND PROCEDURAL ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 194 PRIVILEGE FUNCTIONAL PROTECTION FOR SPEECH, VOTE AND",
+          "role": "institution"
+        },
+        {
+          "text": "SITA SOREN (2024)",
+          "role": "comparison"
+        },
+        {
+          "text": "BRIBERY IS NOT PROTECTED MERELY BECAUSE IT RELATES TO",
+          "role": "caution"
+        },
+        {
+          "text": "JUDICIAL CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "RAJA RAM PAL (2007)",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVILEGE AND EXPULSION POWERS REMAIN REVIEWABLE FOR ILLEGALITY, UNCONSTITUTIONALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCOUNTABILITY DEVICES QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 194 PRIVILEGE functional protection for speech, vote and legislative work; not a personal criminal",
+        "Sita Soren (2024) → bribery is not protected merely because it relates to a vote",
+        "JUDICIAL CONTROL",
+        "Raja Ram Pal (2007) → privilege and expulsion powers remain reviewable for illegality, unconstitutionality, mala",
+        "procedural violation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 194 PRIVILEGE functional protection for speech, vote and legislative work; not a personal criminal licence.",
+            "Sita Soren (2024) → bribery is not protected merely because it relates to a vote or speech.",
+            "JUDICIAL CONTROL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Raja Ram Pal (2007) → privilege and expulsion powers remain reviewable for illegality, unconstitutionality, mala fides or substantive",
+            "procedural violation.",
+            "ACCOUNTABILITY DEVICES questions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "short-duration discussion",
+            "calling attention",
+            "adjournment motion no-confidence/censure"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "privilege motion",
+            "cut motions.",
+            "CORE DISTINCTION no-confidence tests ministry survival in the Assembly; Council cannot make or unmake the ministry."
+          ]
+        }
+      ],
+      "mechanism_strip": "Sita Soren (2024) → bribery is not protected merely because it relates to a vote or speech.",
+      "answer_line": "The Governor is a component of the legislature but not a House member and does not acquire Article 194 member privilege.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ORDINARY, MONEY AND FINANCIAL BILLS ACROSS UNEQUAL HOUSES",
+      "structural_type": "bill-procedure-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORDINARY, MONEY AND FINANCIAL BILLS ACROSS UNEQUAL HOUSES",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY BILL IN BICAMERAL STATE EITHER HOUSE MAY ORIGINATE",
+          "role": "institution"
+        },
+        {
+          "text": "COUNCIL MAY DELAY FIRST PASSAGE UP TO THREE MONTHS",
+          "role": "institution"
+        },
+        {
+          "text": "ASSEMBLY REPASSES",
+          "role": "institution"
+        },
+        {
+          "text": "COUNCIL MAY DELAY UP TO ONE MONTH",
+          "role": "institution"
+        },
+        {
+          "text": "ASSEMBLY ULTIMATELY PREVAILS; NO STATE JOINT SITTING.",
+          "role": "caution"
+        },
+        {
+          "text": "MONEY BILL",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSEMBLY ONLY + GOVERNOR'S RECOMMENDATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ORDINARY BILL IN BICAMERAL STATE either House may originate → Council may delay first passage",
+        "Assembly repasses → Council may delay up to one month",
+        "Assembly ultimately prevails; no State joint sitting.",
+        "MONEY BILL",
+        "Assembly only + Governor's recommendation → Speaker certificate"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ORDINARY BILL IN BICAMERAL STATE either House may originate → Council may delay first passage up to three months",
+          "MONEY BILL",
+          "FINANCIAL BILLS identify the constitutional category; not every Bill involving money is a Money Bill.",
+          "Article 201 presidential route for reserved Bills."
+        ],
+        [
+          "Assembly repasses → Council may delay up to one month",
+          "Assembly only + Governor's recommendation → Speaker certificate",
+          "ASSENT GATE",
+          ""
+        ],
+        [
+          "Assembly ultimately prevails; no State joint sitting.",
+          "Council has 14 days and recommendations only → Assembly may accept or reject.",
+          "Article 200 assent/withhold/return non-Money Bill/reserve",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORDINARY BILL IN BICAMERAL STATE either House may originate → Council may delay first passage up to three months",
+            "Assembly repasses → Council may delay up to one month",
+            "Assembly ultimately prevails; no State joint sitting."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "MONEY BILL",
+            "Assembly only + Governor's recommendation → Speaker certificate",
+            "Council has 14 days and recommendations only → Assembly may accept or reject."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FINANCIAL BILLS identify the constitutional category; not every Bill involving money is a Money Bill.",
+            "ASSENT GATE",
+            "Article 200 assent/withhold/return non-Money Bill/reserve"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 201 presidential route for reserved Bills."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Permitting ministers and private members to introduce ordinary Bills broadens legislative initiative, but special financial and procedural rules still govern relevant measures.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 19"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BUDGET, FUNDS, COMMITTEES AND EXECUTIVE SCRUTINY",
+      "structural_type": "financial-control-committee-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUDGET, FUNDS, COMMITTEES AND EXECUTIVE SCRUTINY",
+          "role": "primary"
+        },
+        {
+          "text": "ANNUAL FINANCIAL STATEMENT CHARGED EXPENDITURE DISCUSSED BUT NOT VOTED",
+          "role": "caution"
+        },
+        {
+          "text": "DEMANDS FOR GRANTS VOTED ONLY BY ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "APPROPRIATION AUTHORISES WITHDRAWAL FROM CONSOLIDATED FUND",
+          "role": "evidence"
+        },
+        {
+          "text": "FINANCE BILL COMPLETES TAXATION CHANGES.",
+          "role": "primary"
+        },
+        {
+          "text": "CONSOLIDATED FUND",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINGENCY FUND",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC ACCOUNT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANNUAL FINANCIAL STATEMENT charged expenditure discussed but not voted",
+        "demands for grants voted only by Assembly",
+        "appropriation authorises withdrawal from Consolidated Fund",
+        "Finance Bill completes taxation changes.",
+        "Consolidated Fund"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ANNUAL FINANCIAL STATEMENT charged expenditure discussed but not voted",
+            "demands for grants voted only by Assembly",
+            "appropriation authorises withdrawal from Consolidated Fund",
+            "Finance Bill completes taxation changes."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Consolidated Fund",
+            "Contingency Fund",
+            "Public Account: distinct custody and vote rules.",
+            "COMMITTEE CHAIN"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Public Accounts Committee → appropriation and audit",
+            "Estimates Committee → economy and policy efficiency",
+            "Public Undertakings Committee → State enterprise scrutiny",
+            "Departmental/subject committees → detailed examination."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONTROL TEST budget power matters only when members receive time, data, research and follow-up compliance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Legislative committees deepen clause-level and financial scrutiny when plenary time is scarce, although their structures and effectiveness vary substantially across States.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 23"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ANTI-DEFECTION AND THE ORDINANCE-LEGISLATURE INTERFACE",
+      "structural_type": "defection-ordinance-interface",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ANTI-DEFECTION AND THE ORDINANCE-LEGISLATURE INTERFACE",
+          "role": "primary"
+        },
+        {
+          "text": "TENTH SCHEDULE VOLUNTARY GIVING UP",
+          "role": "outcome"
+        },
+        {
+          "text": "WHIP BREACH WITHOUT PERMISSION/CONDONATION",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENT JOINS PARTY NOMINATED MEMBER JOINS AFTER SIX MONTHS",
+          "role": "evidence"
+        },
+        {
+          "text": "DISQUALIFICATION ROUTES.",
+          "role": "primary"
+        },
+        {
+          "text": "SPEAKER/CHAIRMAN DECIDES, SUBJECT TO JUDICIAL REVIEW.",
+          "role": "outcome"
+        },
+        {
+          "text": "KIHOTO HOLLOHAN (1992)",
+          "role": "comparison"
+        },
+        {
+          "text": "REVIEW SURVIVES AFTER THE DECISION ON RECOGNISED GROUNDS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TENTH SCHEDULE voluntary giving up",
+        "whip breach without permission/condonation",
+        "independent joins party nominated member joins after six months → disqualification routes.",
+        "Speaker/Chairman decides, subject to judicial review.",
+        "Kihoto Hollohan (1992) → review survives after the decision on recognised grounds."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TENTH SCHEDULE voluntary giving up",
+            "whip breach without permission/condonation",
+            "independent joins party nominated member joins after six months → disqualification routes."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Speaker/Chairman decides, subject to judicial review.",
+            "Kihoto Hollohan (1992) → review survives after the decision on recognised grounds.",
+            "Nabam Rebia (2016) decided several Governor/Speaker questions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "its Speaker-removal issue was referred in Subhash Desai (2023) and remains unresolved.",
+            "ARTICLE 213 INTERFACE ordinance is a temporary necessity bridge when the session condition is met",
+            "it must return to legislative scrutiny and cannot become a parallel ordinary lawmaking cycle."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Speaker/Chairman decides, subject to judicial review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Tenth Schedule applies within State Houses through Speaker-led decisions subject to judicial review, while only the two-thirds merger defence survives the 91st Amendment.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 26"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LEGISLATIVE COMPETENCE AND ARTICLE 212'S LIMITED SHIELD",
+      "structural_type": "competence-review-boundary",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "LEGISLATIVE COMPETENCE AND ARTICLE 212'S LIMITED SHIELD",
+          "role": "institution"
+        },
+        {
+          "text": "COMPETENCE FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 246 + SEVENTH SCHEDULE + SPECIAL FIELDS",
+          "role": "institution"
+        },
+        {
+          "text": "PITH AND SUBSTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "INCIDENTAL ENCROACHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "REPUGNANCY WHERE THE CONCURRENT FIELD APPLIES.",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 212 COURT DOES NOT INVALIDATE PROCEEDINGS MERELY FOR",
+          "role": "caution"
+        },
+        {
+          "text": "BUT SUBSTANTIVE ILLEGALITY, CONSTITUTIONAL VIOLATION AND JURISDICTIONAL ERROR REMAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPETENCE FIRST",
+        "Article 246 + Seventh Schedule + special fields → pith and substance",
+        "incidental encroachment → repugnancy where the Concurrent field applies.",
+        "ARTICLE 212 court does not invalidate proceedings merely for procedural irregularity",
+        "BUT substantive illegality, constitutional violation and jurisdictional error remain reviewable."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COMPETENCE FIRST",
+            "Article 246 + Seventh Schedule + special fields → pith and substance",
+            "incidental encroachment → repugnancy where the Concurrent field applies."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 212 court does not invalidate proceedings merely for procedural irregularity",
+            "BUT substantive illegality, constitutional violation and jurisdictional error remain reviewable.",
+            "ASSENT CURRENT CONTROL"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "State of Tamil Nadu v. Governor of Tamil Nadu (2025) used timelines/deemed assent on its facts.",
+            "In re Assent, Withholding or Reservation of Bills (2025) is advisory and non-binding",
+            "no rigid timelines or automatic deemed assent; prolonged unexplained inaction may be reviewed."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PRIVILEGE, SPEAKER CERTIFICATION AND DEFECTION ARE NOT REVIEW-FREE ZONES."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Direct election plus confidence control makes the Assembly the democratic and political centre of State government.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 27"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "ASSEMBLY-COUNCIL COMPARISON, CURRENT REFORMS AND ANSWER SYNTHESIS",
+      "structural_type": "state-legislature-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ASSEMBLY-COUNCIL COMPARISON, CURRENT REFORMS AND ANSWER SYNTHESIS",
+          "role": "institution"
+        },
+        {
+          "text": "ASSEMBLY COUNCIL DIRECT MANDATE INDIRECT MIXED REPRESENTATION CONFIDENCE AND",
+          "role": "institution"
+        },
+        {
+          "text": "MONEY BILL DOMINANCE RECOMMENDATIONS WITHIN 14 DAYS",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT CONTROLS",
+          "role": "evidence"
+        },
+        {
+          "text": "106TH AMENDMENT COMMENCED BUT AWAITS CENSUS-LINKED DELIMITATION FOR OPERATION.",
+          "role": "primary"
+        },
+        {
+          "text": "THE FAILED/WITHDRAWN 2026 BILLS ARE PROPOSALS, NOT LAW; CENSUS",
+          "role": "caution"
+        },
+        {
+          "text": "MAINS SPINE DEFINE CHAMBER DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "CITE ARTICLE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ASSEMBLY COUNCIL direct mandate indirect mixed representation confidence and grants revision and continuity may be",
+        "ordinary-Bill control maximum delaying power",
+        "Money Bill dominance recommendations within 14 days",
+        "CURRENT CONTROLS",
+        "106th Amendment commenced but awaits census-linked delimitation for operation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ASSEMBLY COUNCIL direct mandate indirect mixed representation confidence and grants revision and continuity may be dissolved permanent final",
+            "ordinary-Bill control maximum delaying power",
+            "Money Bill dominance recommendations within 14 days"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CURRENT CONTROLS",
+            "106th Amendment commenced but awaits census-linked delimitation for operation.",
+            "The failed/withdrawn 2026 Bills are proposals, not law; Census 2027 dates do not fix delimitation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAINS SPINE define chamber design → cite Article → compare power → evidence/problem",
+            "representation/productivity reform → stronger committees and sitting calendars",
+            "effective State legislatures as institutions of representative federalism."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CURRENT CONTROLS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Defeat on an amendment or Motion of Thanks may be politically serious, but confidence consequences depend on context and House practice.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 26",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\polity-20_Complete-Learning-Session_2026-08-24.md#SESSION 27"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "28. WHY OPTIONAL BICAMERALISM DIFFERS FROM FEDERAL BICAMERALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "29. THE DEMOCRATIC CASE AGAINST OCCUPATIONAL CONSTITUENCIES",
+          "role": "comparison"
+        },
+        {
+          "text": "30. PRESIDING OFFICER REFORM OPTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "31. MODEL ANSWER-WRITING METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "[ANALYSIS] RAJYA SABHA IS BUILT INTO THE UNION'S FEDERAL",
+          "role": "outcome"
+        },
+        {
+          "text": "[ANALYSIS] COUNCIL ELECTORATES ARE FUNCTIONALLY HETEROGENEOUS RATHER THAN STATE-REPRESENTATIVE.",
+          "role": "institution"
+        },
+        {
+          "text": "[ANALYSIS] ITS WEAKNESS ON ORDINARY BILLS MEANS BICAMERALISM SUPPLIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "28. Why optional bicameralism differs from federal bicameralism",
+            "29. The democratic case against occupational constituencies",
+            "30. Presiding officer reform options",
+            "31. Model answer-writing method"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[ANALYSIS] Rajya Sabha is built into the Union's federal architecture; a Council is created only when a State and Parliament choose it.",
+            "[ANALYSIS] Council electorates are functionally heterogeneous rather than State-representative.",
+            "[ANALYSIS] Its weakness on ordinary Bills means bicameralism supplies delay without final bargaining equality.",
+            "[LIMIT] Weakness does not equal uselessness. Even delay may expose drafting flaws, enable public debate or force compromise."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "[ANALYSIS] Graduate and teacher constituencies were designed to draw specialised voices into legislation.",
+            "[ANALYSIS] Expansion of higher education weakens the historical claim that graduates form a small expert class.",
+            "[ANALYSIS] Unequal functional franchise can appear inconsistent with universal political equality even while constitutionally valid.",
+            "[ANALYSIS] Reform options include updating eligibility, widening professional representation, strengthening local-body representation or redesigning nomination."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

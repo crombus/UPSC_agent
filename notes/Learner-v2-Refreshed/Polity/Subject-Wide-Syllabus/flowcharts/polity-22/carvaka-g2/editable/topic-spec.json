@@ -1,0 +1,986 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-22",
+  "subject": "Polity",
+  "title": "SPECIAL PROVISIONS",
+  "short_route": "CANONICAL PART XXI SCOPE → ARTICLE 370 BEFORE 2019 → THE 2019 CONSTITUTIONAL-ORDER AND → IN RE ARTICLE 370 → CURRENT JAMMU AND KASHMIR → ARTICLES 371 TO 371D",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-22-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "c35330a2258b29730b0683ac9ff8e4eaa5adb3298cb0f0d43a87407408ba8bf9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CANONICAL PART XXI SCOPE AND THE BOUNDARY WITH OTHER TOPICS",
+      "structural_type": "part-xxi-scope-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CANONICAL PART XXI SCOPE AND THE BOUNDARY WITH OTHER",
+          "role": "primary"
+        },
+        {
+          "text": "PART XXI",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 369-392 INCLUDE TIME-BOUND TRANSITIONAL RULES, CONTINUANCE/ADAPTATION DEVICES AND",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS TOPIC OWNS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 370 EVOLUTION/CURRENT STATUS + ARTICLES 371-371J + ASYMMETRY",
+          "role": "institution"
+        },
+        {
+          "text": "DISTINCT OWNERS",
+          "role": "comparison"
+        },
+        {
+          "text": "PART XVIII EMERGENCIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PART XXI: TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS",
+        "Articles 369-392 include time-bound transitional rules, continuance/adaptation devices and State-specific constitutional asymmetry.",
+        "THIS TOPIC OWNS",
+        "Article 370 evolution/current status + Articles 371-371J + asymmetry mechanisms.",
+        "DISTINCT OWNERS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PART XXI: TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS",
+            "Articles 369-392 include time-bound transitional rules, continuance/adaptation devices and State-specific constitutional asymmetry.",
+            "THIS TOPIC OWNS"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 370 evolution/current status + Articles 371-371J + asymmetry mechanisms.",
+            "DISTINCT OWNERS",
+            "Part XVIII emergencies"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "reservation/class provisions",
+            "Part X and Fifth/Sixth Schedules ordinary Union-State flexibility",
+            "Union Territory administration."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORE IDEA constitutional equality permits reasoned differentiation",
+            "special treatment remains inside one Constitution and does not create separate sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Part XXI uses differentiated arrangements to accommodate regional histories and vulnerabilities within the Constitution, showing that equality need not require identical institutions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 370 BEFORE 2019: ACCESSION, ORDERS AND CONSTITUTIONAL APPLICATION",
+      "structural_type": "article-370-pre2019-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 370 BEFORE 2019",
+          "role": "institution"
+        },
+        {
+          "text": "ACCESSION, ORDERS AND CONSTITUTIONAL APPLICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRE-2019 OPERATING CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTRUMENT OF ACCESSION FIELDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 370(1) CONSULTATION/CONCURRENCE",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENTIAL ORDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDER CONSTITUTION AND UNION-LAW APPLICATION TO J&K.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 35A",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PRE-2019 OPERATING CHAIN",
+        "Instrument of Accession fields → Article 370(1) consultation/concurrence",
+        "Presidential Orders → wider Constitution and Union-law application to J&K.",
+        "ARTICLE 35A",
+        "1954 Constitution Application Order → permanent-resident definition and specified protections."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRE-2019 OPERATING CHAIN",
+            "Instrument of Accession fields → Article 370(1) consultation/concurrence",
+            "Presidential Orders → wider Constitution and Union-law application to J&K."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 35A",
+            "1954 Constitution Application Order → permanent-resident definition and specified protections.",
+            "CONSTITUENT ASSEMBLY ISSUE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 370(3) proviso referred to J&K Constituent Assembly; it dissolved in 1957.",
+            "Sampat Prakash (1968) → Article 370 and Presidential-Order practice continued after 1957.",
+            "LIMIT autonomy was constitutionally mediated; it did not amount to external sovereignty."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 35A"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Before 2019, Article 370 mediated the Constitution's application to Jammu and Kashmir through consultation and concurrence, but did not create sovereignty outside India.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE 2019 CONSTITUTIONAL-ORDER AND REORGANISATION SEQUENCE",
+      "structural_type": "article-370-2019-process",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE 2019 CONSTITUTIONAL-ORDER AND REORGANISATION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "5 AUGUST 2019",
+          "role": "outcome"
+        },
+        {
+          "text": "C.O. 272 UNDER ARTICLE 370(1)",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTION APPLIED COMPREHENSIVELY",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERPRETIVE CHANGE USED THE STATE-LEGISLATURE ROUTE WHILE PRESIDENT'S RULE",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENTARY RESOLUTION RECOMMENDED ARTICLE 370(3) DECLARATION.",
+          "role": "institution"
+        },
+        {
+          "text": "6 AUGUST 2019",
+          "role": "comparison"
+        },
+        {
+          "text": "C.O. 273",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "5 AUGUST 2019",
+        "C.O. 272 under Article 370(1) → Constitution applied comprehensively",
+        "interpretive change used the State-legislature route while President's Rule operated.",
+        "PARLIAMENTARY RESOLUTION recommended Article 370(3) declaration.",
+        "6 AUGUST 2019"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "5 AUGUST 2019",
+            "C.O. 272 under Article 370(1) → Constitution applied comprehensively",
+            "interpretive change used the State-legislature route while President's Rule operated."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PARLIAMENTARY RESOLUTION recommended Article 370(3) declaration.",
+            "6 AUGUST 2019",
+            "C.O. 273 → Article 370 provisions ceased to operate except the modified declaration."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "J&K REORGANISATION ACT, 2019 former State → UT of Jammu and Kashmir with legislature",
+            "UT of Ladakh without legislature, effective 31 October 2019.",
+            "Presidential Orders, parliamentary resolution and reorganisation statute are distinct legal acts."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PARLIAMENTARY RESOLUTION recommended Article 370(3) declaration."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Asymmetric federalism is legitimate only when differentiated treatment serves a constitutional purpose and remains proportionate and accountable.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "IN RE ARTICLE 370 (2023): HOLDINGS AND ISSUES LEFT OPEN",
+      "structural_type": "article-370-judgment-control",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "IN RE ARTICLE 370 (2023)",
+          "role": "institution"
+        },
+        {
+          "text": "HOLDINGS AND ISSUES LEFT OPEN",
+          "role": "outcome"
+        },
+        {
+          "text": "IN RE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 370 OF THE CONSTITUTION (2023)",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 370 WAS TEMPORARY; J&K HAD NO INTERNAL SOVEREIGNTY",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 370(3) POWER SURVIVED DISSOLUTION OF THE J&K CONSTITUENT",
+          "role": "institution"
+        },
+        {
+          "text": "C.O. 273 DECLARATION WAS UPHELD",
+          "role": "comparison"
+        },
+        {
+          "text": "C.O. 272'S ARTICLE 367 ROUTE WAS INVALID, BUT THE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "In Re: Article 370 of the Constitution (2023)",
+        "Article 370 was temporary; J&K had no internal sovereignty after accession",
+        "Article 370(3) power survived dissolution of the J&K Constituent Assembly",
+        "C.O. 273 declaration was upheld",
+        "C.O. 272's Article 367 route was invalid, but the final outcome survived independently"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "In Re: Article 370 of the Constitution (2023)",
+            "Article 370 was temporary; J&K had no internal sovereignty after accession",
+            "Article 370(3) power survived dissolution of the J&K Constituent Assembly"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "C.O. 273 declaration was upheld",
+            "C.O. 272's Article 367 route was invalid, but the final outcome survived independently",
+            "J&K Constitution became inoperative after full application of India's Constitution."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN / QUALIFIED",
+            "Court recorded restoration-of-Statehood assurance and set no judicial deadline.",
+            "It did not finally decide the State-to-UT conversion issue after the Union concession."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "VERDICT the Article 370 abrogation question is judicially settled; Statehood timing remains political/legal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "In re Article 370 upheld the 2019 constitutional result and rejected continuing internal sovereignty, but did not finally validate every conceivable conversion of a State into Union Territories.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 16"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CURRENT JAMMU AND KASHMIR AND LADAKH POSITION",
+      "structural_type": "current-jk-ladakh-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CURRENT JAMMU AND KASHMIR AND LADAKH POSITION",
+          "role": "primary"
+        },
+        {
+          "text": "JAMMU AND KASHMIR",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION TERRITORY WITH LEGISLATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSEMBLY ELECTIONS HELD SEP-OCT 2024",
+          "role": "institution"
+        },
+        {
+          "text": "STATEHOOD NOT RESTORED AS OF 24 AUGUST 2026.",
+          "role": "caution"
+        },
+        {
+          "text": "UNION TERRITORY WITHOUT LEGISLATURE.",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMANDS INCLUDE STATEHOOD, SIXTH SCHEDULE PROTECTION AND ARTICLE 371-TYPE",
+          "role": "institution"
+        },
+        {
+          "text": "LEGAL STATUS CONTROL DEMANDS, COMMITTEE TALKS AND POLITICAL ASSURANCES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAMMU AND KASHMIR",
+        "Union Territory with legislature",
+        "Assembly elections held Sep-Oct 2024",
+        "Statehood not restored as of 24 August 2026.",
+        "Union Territory without legislature."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "JAMMU AND KASHMIR",
+            "Union Territory with legislature",
+            "Assembly elections held Sep-Oct 2024"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Statehood not restored as of 24 August 2026.",
+            "Union Territory without legislature.",
+            "Demands include Statehood, Sixth Schedule protection and Article 371-type safeguards."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGAL STATUS CONTROL demands, committee talks and political assurances are not enacted constitutional change.",
+            "J&K Statehood restoration → reorganisation/federal-status question",
+            "Ladakh Sixth Schedule → Article 244 + Sixth Schedule autonomy question"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 371-type protection → Part XXI amendment question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Ladakh remains a Union Territory without a legislature, while Statehood and Sixth Schedule demands remain political proposals rather than enacted constitutional status.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 19"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARTICLES 371 TO 371D: DEVELOPMENT AND REGIONAL-EQUITY MECHANISMS",
+      "structural_type": "article-371-development-family",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLES 371 TO 371D",
+          "role": "primary"
+        },
+        {
+          "text": "DEVELOPMENT AND REGIONAL-EQUITY MECHANISMS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 371",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR'S SPECIAL RESPONSIBILITY FOR REGIONAL DEVELOPMENT BOARDS, EQUITABLE FUNDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 371A",
+          "role": "institution"
+        },
+        {
+          "text": "NAGALAND SPECIFIED RELIGIOUS/SOCIAL PRACTICES, CUSTOMARY LAW, CUSTOMARY JUSTICE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 371B",
+          "role": "institution"
+        },
+        {
+          "text": "ASSEMBLY COMMITTEE FOR TRIBAL AREAS.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 371",
+        "Maharashtra/Gujarat → Governor's special responsibility for regional development boards, equitable funds and opportunities.",
+        "ARTICLE 371A: NAGALAND specified religious/social practices, customary law, customary justice and land/resources shielded from parliamentary",
+        "Assembly resolves otherwise.",
+        "ARTICLE 371B: ASSAM"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 371",
+            "Maharashtra/Gujarat → Governor's special responsibility for regional development boards, equitable funds and opportunities.",
+            "ARTICLE 371A: NAGALAND specified religious/social practices, customary law, customary justice and land/resources shielded from parliamentary law unless State"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Assembly resolves otherwise.",
+            "ARTICLE 371B: ASSAM",
+            "Assembly committee for tribal areas."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 371C: MANIPUR",
+            "Hill Areas Committee + Governor reporting/special responsibility framework.",
+            "ARTICLE 371D: ANDHRA PRADESH/TELANGANA equitable local opportunities in public employment/education; presidential-order mechanism."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 371E merely enables a Central University in Andhra Pradesh."
+          ]
+        }
+      ],
+      "mechanism_strip": "ARTICLE 371D: ANDHRA PRADESH/TELANGANA equitable local opportunities in public employment/education; presidential-order mechanism.",
+      "answer_line": "Article 371D authorises regional arrangements for equitable public employment and education, using constitutional asymmetry to address intra-State imbalance.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 23"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARTICLES 371F TO 371J: IDENTITY, LAW-AND-ORDER AND LOCAL OPPORTUNITY",
+      "structural_type": "article-371-identity-family",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLES 371F TO 371J",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTITY, LAW-AND-ORDER AND LOCAL OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 371F",
+          "role": "institution"
+        },
+        {
+          "text": "SIKKIM INTEGRATION-SPECIFIC ASSEMBLY, REPRESENTATION AND CONTINUITY PROTECTIONS.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 371G",
+          "role": "institution"
+        },
+        {
+          "text": "MIZORAM SPECIFIED RELIGIOUS/SOCIAL PRACTICES, CUSTOMARY LAW/JUSTICE AND LAND PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 371H",
+          "role": "institution"
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 371F: SIKKIM integration-specific Assembly, representation and continuity protections.",
+        "ARTICLE 371G: MIZORAM specified religious/social practices, customary law/justice and land protection unless State Assembly resolves",
+        "distinct from Nagaland's resource wording.",
+        "ARTICLE 371H: ARUNACHAL PRADESH",
+        "Governor's special responsibility for law and order, exercised after ministerial consultation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 371F: SIKKIM integration-specific Assembly, representation and continuity protections.",
+            "ARTICLE 371G: MIZORAM specified religious/social practices, customary law/justice and land protection unless State Assembly resolves otherwise"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "distinct from Nagaland's resource wording.",
+            "ARTICLE 371H: ARUNACHAL PRADESH"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Governor's special responsibility for law and order, exercised after ministerial consultation.",
+            "ARTICLE 371I: GOA minimum Assembly size safeguard."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 371J: KALYANA KARNATAKA development board, equitable funds and local reservation/opportunity mechanisms.",
+            "EXAM RULE match State → Article → protected subject → decision-maker → consent/resolution requirement."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 371H gives Arunachal Pradesh's Governor limited individual judgment over law and order, but not personal control over the State's entire policy domain.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 26",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 28",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 29"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MECHANISM COMPARISON: ORDERS, AMENDMENTS AND TRIBAL SCHEDULES",
+      "structural_type": "asymmetry-mechanism-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MECHANISM COMPARISON",
+          "role": "mechanism"
+        },
+        {
+          "text": "ORDERS, AMENDMENTS AND TRIBAL SCHEDULES",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 370 HISTORIC ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENTIAL ORDERS UNDER ITS OWN TEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "NOW INOPERATIVE AFTER 2019/2023 CONTROL.",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 371-371J CONSTITUTIONAL TEXT CREATED OR CHANGED THROUGH CONSTITUTIONAL-AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SOME CLAUSES AUTHORISE PRESIDENTIAL ORDERS OR GOVERNOR RESPONSIBILITIES FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "FIFTH SCHEDULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 370 HISTORIC ROUTE",
+        "Presidential Orders under its own text → now inoperative after 2019/2023 control.",
+        "ARTICLES 371-371J constitutional text created or changed through constitutional-amendment history",
+        "some clauses authorise Presidential Orders or Governor responsibilities for implementation.",
+        "FIFTH SCHEDULE"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 370 HISTORIC ROUTE",
+          "some clauses authorise Presidential Orders or Governor responsibilities for implementation.",
+          "SIXTH SCHEDULE autonomous district/regional councils in Assam, Meghalaya, Tripura and Mizoram.",
+          "!= Fifth Schedule administration != Article 370's former application mechanism."
+        ],
+        [
+          "Presidential Orders under its own text → now inoperative after 2019/2023 control.",
+          "FIFTH SCHEDULE",
+          "DO NOT MERGE",
+          ""
+        ],
+        [
+          "ARTICLES 371-371J constitutional text created or changed through constitutional-amendment history",
+          "Scheduled Areas + Governor/Tribes Advisory Council + presidential declaration architecture.",
+          "Article 371A/371G consent shields != Sixth Schedule councils",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 370 HISTORIC ROUTE",
+            "Presidential Orders under its own text → now inoperative after 2019/2023 control.",
+            "ARTICLES 371-371J constitutional text created or changed through constitutional-amendment history"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "some clauses authorise Presidential Orders or Governor responsibilities for implementation.",
+            "FIFTH SCHEDULE",
+            "Scheduled Areas + Governor/Tribes Advisory Council + presidential declaration architecture."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SIXTH SCHEDULE autonomous district/regional councils in Assam, Meghalaya, Tripura and Mizoram.",
+            "DO NOT MERGE",
+            "Article 371A/371G consent shields != Sixth Schedule councils"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "!= Fifth Schedule administration != Article 370's former application mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Fifth Schedule emphasises protected administration and advisory mechanisms, while the Sixth Schedule gives specified north-eastern tribal areas a stronger self-government framework.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 30",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 31",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 32",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 33",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 34"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "FEDERALISM, EQUALITY, CURRENT TRAPS AND QUALIFIED SYNTHESIS",
+      "structural_type": "special-provisions-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FEDERALISM, EQUALITY, CURRENT TRAPS AND QUALIFIED SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "WHY ASYMMETRY HISTORICAL COMPACT + CULTURAL IDENTITY + TRIBAL",
+          "role": "outcome"
+        },
+        {
+          "text": "TAILORED GUARANTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATION WITH PROTECTION.",
+          "role": "evidence"
+        },
+        {
+          "text": "RISKS INSIDER-OUTSIDER EXCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK IMPLEMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNOR CONTROVERSY UNEQUAL OPPORTUNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENT GRIEVANCE POLITICS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHY ASYMMETRY historical compact + cultural identity + tribal land/custom + regional imbalance",
+        "tailored guarantee → integration with protection.",
+        "RISKS insider-outsider exclusion",
+        "weak implementation",
+        "Governor controversy unequal opportunity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WHY ASYMMETRY historical compact + cultural identity + tribal land/custom + regional imbalance",
+            "tailored guarantee → integration with protection.",
+            "RISKS insider-outsider exclusion",
+            "weak implementation",
+            "Governor controversy unequal opportunity"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "permanent grievance politics.",
+            "PRELIMS FIREWALL",
+            "Article 370 printed but inoperative",
+            "Articles 371-371J still operative",
+            "371E enables a university"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "371I concerns Goa",
+            "371H law and order",
+            "Fifth/Sixth Schedules are not Part XXI",
+            "Ladakh demands are not law.",
+            "MAINS SPINE define asymmetric federalism → classify mechanism → exact Article/State"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "benefit → equality/federal counterpoint → implementation reform",
+            "unity through constitutionally bounded and reviewable difference."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Special provisions can be defended as substantive equality: unequal conditions may need differentiated treatment.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 33",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 34",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\polity-22_Complete-Learning-Session_2026-08-24.md#SESSION 35"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "36. THE ARTICLE 370 JUDGMENT AND CONSTITUTIONAL METHOD",
+          "role": "institution"
+        },
+        {
+          "text": "37. PRESIDENT'S RULE AND FEDERAL CONSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "38. DIFFERENTIATED CITIZENSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "39. ANSWER-WRITING EVIDENCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "[ANALYSIS] THE JUDGMENT DISTINGUISHED THE POLITICAL WISDOM OF ABROGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[ANALYSIS] BY USING ARTICLE 370'S TEMPORARY CHARACTER AND CONTINUING",
+          "role": "institution"
+        },
+        {
+          "text": "367 MODIFICATION INDISPENSABLE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "36. The Article 370 judgment and constitutional method",
+            "37. President's Rule and federal consent",
+            "38. Differentiated citizenship",
+            "39. Answer-writing evidence discipline"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[ANALYSIS] The judgment distinguished the political wisdom of abrogation from constitutional authority.",
+            "[ANALYSIS] By using Article 370's temporary character and continuing presidential power, the Court avoided making the disputed Article",
+            "367 modification indispensable.",
+            "[LIMIT] An answer should not compress multiple opinions into a slogan; use only common controlling propositions unless a separate opinion is relevant."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "[ANALYSIS] Critics argue that using President's Rule for permanent constitutional restructuring weakens federal consent.",
+            "[ANALYSIS] The integration response relies on constitutional text, temporary Article 370 and Parliament's substitute authority during President's Rule.",
+            "[LIMIT] Statehood conversion remains the strongest unresolved dimension; do not pretend the 2023 judgment supplied a universal rule.",
+            "[ANALYSIS] Special land, employment and representation rules differentiate entitlements by residence, community or region."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 2
+  }
+}

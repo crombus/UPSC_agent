@@ -1,0 +1,161 @@
+ASCII MASTER FLOW — PANEL 1/9: Constitutional map: two law officers, two legislatures and no voting power
+ROOT QUESTION
+How does government receive authoritative legal advice without creating another court?
+
+UNION
+Article 76 -> Attorney General for India.
+Article 88 -> speak and participate in both Houses, joint sitting and named committees.
+Article 105(4) -> relevant parliamentary privileges extend; no membership or vote follows.
+
+STATE
+Article 165 -> Advocate General for the State.
+Article 177 -> speak and participate in the State legislature and named committees.
+Article 194(4) -> relevant legislative privileges extend; no membership or vote follows.
+
+CORE LIMIT
+constitutional law officer != judge, minister, legislator, prosecutor or independent tribunal.
+
+ASCII MASTER FLOW — PANEL 2/9: Appointment, qualification, pleasure tenure and remuneration architecture
+ATTORNEY GENERAL
+President appoints | qualification for Supreme Court Judge under Article 124(3).
+No constitutional age ceiling for holding AGI office.
+Office during President's pleasure | no constitutional fixed term or removal process.
+Remuneration as President determines; current administrative terms may come from rules.
+
+ADVOCATE GENERAL
+Governor appoints | qualification for High Court Judge under Article 217(2).
+Office during Governor's pleasure | no constitutional fixed term or removal process.
+Remuneration as Governor determines.
+
+TRAP
+qualification rule != tenure rule; a rule-based Union term does not displace pleasure.
+
+ASCII MASTER FLOW — PANEL 3/9: Advice, representation, Article 143 work and the audience-assignment distinction
+ARTICLE 76 DUTY
+advise Government of India on legal matters referred by President
+-> perform assigned legal duties
+-> discharge functions conferred by Constitution or law.
+
+OPERATIONAL REPRESENTATION
+Supreme Court Union cases | Article 143 references | High Court appearance when assigned.
+
+RIGHT OF AUDIENCE
+AGI has an express constitutional right of audience in all courts in India.
+
+THREE DISTINCT QUESTIONS
+may the advocate practise? | does the advocate have audience? | is this brief assigned?
+
+LIMIT
+legal opinion advises the executive; it is not a judgment, veto or binding court order.
+
+ASCII MASTER FLOW — PANEL 4/9: Articles 88, 177, 105(4) and 194(4): participation and privilege boundaries
+PARLIAMENT
+AGI may speak and otherwise take part in both Houses, a joint sitting
+and a committee of which the AGI is named a member.
+
+STATE LEGISLATURE
+Advocate General may speak and otherwise take part in the House or Houses
+and a committee of which the Advocate General is named a member.
+
+COMMON LIMIT
+no vote by virtue of the office | no elected membership | no ministerial responsibility.
+
+PRIVILEGE RULE
+Articles 105(4) and 194(4) extend specified privileges for authorised participation.
+They do not create blanket immunity for private conduct outside legislative proceedings.
+
+ASCII MASTER FLOW — PANEL 5/9: Professional practice, Rule 8 conflicts, permissions and confidentiality
+UNION LAW-OFFICER PERIMETER
+private professional work is permitted only within applicable conduct restrictions.
+
+PROHIBITED OR CONTROLLED
+brief against Government of India or covered public entities
+| advice where the officer advised or is likely to advise government
+| criminal defence without permission
+| company or corporation office without permission.
+
+ETHICAL DUTIES
+conflict check -> disclosure -> screen or recusal -> authorised brief
+-> candour to court -> protect lawful confidentiality.
+
+CONTEMPT CONSENT
+section 15 gate concerns specified private criminal-contempt motions;
+Supreme Court may still act suo motu.
+
+TRAP
+permitted practice != unrestricted practice and professional privilege has legal exceptions.
+
+ASCII MASTER FLOW — PANEL 6/9: AGI, Solicitor General, Additional Solicitors General and State law-officer ecology
+CONSTITUTIONAL OFFICES
+AGI -> Article 76 | Advocate General -> Article 165.
+
+UNION EXECUTIVE LAW OFFICERS
+Solicitor General and Additional Solicitors General assist under executive rules.
+Prominence and ranking do not convert them into constitutional or statutory offices.
+
+STATE ECOLOGY
+Advocate General is constitutional.
+Additional Advocate Generals, standing counsel and panel counsel depend on State law or rules.
+
+OTHER BOUNDARIES
+Law Minister -> political executive.
+Public Prosecutor -> criminal-procedure office.
+CAG -> independent constitutional auditor.
+
+EXAM RULE
+classify by creating source before comparing function or prestige.
+
+ASCII MASTER FLOW — PANEL 7/9: Attorney General and Advocate General: complete federal comparison
+DIMENSION              ATTORNEY GENERAL              ADVOCATE GENERAL
+Source                 Article 76                    Article 165
+Appointer               President                     Governor
+Qualification           Supreme Court Judge route     High Court Judge route
+Advice                  Government of India           State Government
+Audience                all courts in India           State-law position must be checked
+Legislature             Article 88                    Article 177
+Vote                    none by office                none by office
+Privilege extension     Article 105(4)                Article 194(4)
+Pleasure                President                     Governor
+
+CAUTION
+Article 76(3)'s express all-India audience text must not be silently imported into Article 165.
+
+ASCII MASTER FLOW — PANEL 8/9: Independence, government confidence and fair State panel appointments
+STRUCTURAL TENSION
+government needs trusted counsel
+-> pleasure tenure and assignment control
+-> risk of politicisation, discontinuity and selective briefing.
+
+PROFESSIONAL COUNTERWEIGHT
+court duty + qualification + audience + conflict rules + reasoned legal advice.
+
+State of Punjab v. Brijeshwar Singh Chahal (2016)
+State panel-lawyer selection must follow fair, objective and suitability-based standards.
+The judgment did not replace the Governor's Article 165 appointment of Advocate General.
+
+ACCOUNTABILITY
+executive responsibility for decisions | judicial review of legality
+| professional discipline | legislative and public scrutiny.
+
+REFORM
+transparent criteria + conflict register + reasoned recusals + litigation-management audit.
+
+ASCII MASTER FLOW — PANEL 9/9: Current controls, PYQ routes, traps and qualified answer synthesis
+DATED CONTROL: 24 AUGUST 2026
+Constitution and current Union Law Officers Rules control; officeholder names are omitted.
+
+PYQ ROUTES
+2019 GS-II -> AGI as chief legal adviser.
+2025 GS-II -> responsibilities, rights and limitations.
+2022 Prelims -> AGI versus Solicitor General constitutional position.
+
+PRELIMS FIREWALL
+no fixed constitutional term | pleasure != impeachment
+| audience != assigned brief | speak != vote
+| privilege != blanket immunity | SG/ASG != constitutional
+| private practice != conflict-free practice.
+
+MAINS SPINE
+constitutional source -> qualification and tenure -> advice and representation
+-> enabling rights -> professional limits -> independence tension
+-> transparent, ethical and accountable law-officer verdict.

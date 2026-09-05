@@ -1,0 +1,1300 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-24",
+  "subject": "Polity",
+  "title": "MUNICIPALITIES",
+  "short_route": "URBAN CONSTITUTIONALISATION AND THE → COUNCIL, WARDS, RESERVATION, TENURE → ARTICLE 243W, TWELFTH SCHEDULE → MUNICIPAL FINANCE: PROPERTY TAX → MAYOR-COMMISSIONER RELATIONS, PARASTATALS AND → DPC, MPC AND GOVERNMENT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g3 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g3\\polity-24_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-24-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "b9c8f14747d7633ef0c20e6f9b16faab38896f3716f300e5a42a54c3046349ca",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "URBAN CONSTITUTIONALISATION AND THE ARTICLE 243Q INSTITUTIONAL MAP",
+      "structural_type": "urbanisation-constitutional-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "URBAN CONSTITUTIONALISATION AND THE ARTICLE 243Q INSTITUTIONAL MAP",
+          "role": "institution"
+        },
+        {
+          "text": "URBAN GOVERNANCE PROBLEM GROWTH ACROSS WARDS AND AGENCIES",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVICES, PLANNING, FINANCE AND DEMOCRATIC VOICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "74TH AMENDMENT ACT, 1992",
+          "role": "institution"
+        },
+        {
+          "text": "PART IXA + TWELFTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL MUNICIPAL FRAMEWORK FROM 1 JUNE 1993.",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 243P DEFINITIONS MUNICIPALITY",
+          "role": "institution"
+        },
+        {
+          "text": "MUNICIPAL AREA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "URBAN GOVERNANCE PROBLEM growth across wards and agencies → services, planning, finance and democratic voice.",
+        "74TH AMENDMENT ACT, 1992",
+        "Part IXA + Twelfth Schedule → constitutional municipal framework from 1 June 1993.",
+        "ARTICLE 243P DEFINITIONS municipality",
+        "municipal area"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "URBAN GOVERNANCE PROBLEM growth across wards and agencies → services, planning, finance and democratic voice.",
+            "74TH AMENDMENT ACT, 1992",
+            "Part IXA + Twelfth Schedule → constitutional municipal framework from 1 June 1993."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 243P DEFINITIONS municipality",
+            "municipal area",
+            "metropolitan area"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 243Q TYPES transitional area → Nagar Panchayat smaller urban area → Municipal Council larger urban area → Municipal Corporation.",
+            "INDUSTRIAL-TOWNSHIP PROVISO",
+            "Governor may specify after considering municipal services supplied/proposed"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "it is an exception, not the status of every industrial or census town."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "it is an exception, not the status of every industrial or census town.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 1",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 2",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 3",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 4",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 5",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 6",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COUNCIL, WARDS, RESERVATION, TENURE AND STATE ELECTION COMMISSION",
+      "structural_type": "municipal-democracy-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COUNCIL, WARDS, RESERVATION, TENURE AND STATE ELECTION COMMISSION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 243R DIRECTLY ELECTED WARD REPRESENTATIVES; STATE LAW MAY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 243S",
+          "role": "institution"
+        },
+        {
+          "text": "WARD COMMITTEES MANDATORY IN MUNICIPALITIES WITH POPULATION = THREE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE LAW FIXES COMPOSITION, AREA AND ADDITIONAL COMMITTEES.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 243T",
+          "role": "institution"
+        },
+        {
+          "text": "SC/ST POPULATION-LINKED RESERVATION + NOT LESS THAN ONE-THIRD SEATS",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 243U FIVE-YEAR DURATION; HEARING BEFORE DISSOLUTION; TIMELY RE-ELECTION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243R directly elected ward representatives; State law may add specified representation.",
+        "ARTICLE 243S",
+        "Ward Committees mandatory in municipalities with population = three lakh.",
+        "State law fixes composition, area and additional committees.",
+        "ARTICLE 243T"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243R directly elected ward representatives; State law may add specified representation.",
+            "ARTICLE 243S",
+            "Ward Committees mandatory in municipalities with population = three lakh."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "State law fixes composition, area and additional committees.",
+            "ARTICLE 243T",
+            "SC/ST population-linked reservation + not less than one-third seats for women."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 243U five-year duration; hearing before dissolution; timely re-election.",
+            "ARTICLE 243ZA",
+            "State Election Commission controls municipal rolls and elections."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT compulsory democratic form does not itself transfer functions, staff or finance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT compulsory democratic form does not itself transfer functions, staff or finance.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 8",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 9",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 10",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 11",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 12",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 13",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLE 243W, TWELFTH SCHEDULE AND MEASURABLE SERVICE DEVOLUTION",
+      "structural_type": "twelfth-schedule-functionality-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARTICLE 243W, TWELFTH SCHEDULE AND MEASURABLE SERVICE DEVOLUTION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 243W IS ENABLING",
+          "role": "institution"
+        },
+        {
+          "text": "STATE LAW MAY ENDOW MUNICIPALITIES WITH SELF-GOVERNMENT AND SCHEME",
+          "role": "institution"
+        },
+        {
+          "text": "TWELFTH SCHEDULE",
+          "role": "evidence"
+        },
+        {
+          "text": "18 MATTERS URBAN PLANNING + LAND USE + ROADS",
+          "role": "primary"
+        },
+        {
+          "text": "FIRE SERVICES + URBAN FORESTRY/ENVIRONMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAKER SECTIONS/SLUMS/POVERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "AMENITIES/CULTURE + BURIALS + CATTLE POUNDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243W IS ENABLING",
+        "State law may endow municipalities with self-government and scheme functions.",
+        "TWELFTH SCHEDULE: 18 MATTERS urban planning + land use + roads + water + public",
+        "fire services + urban forestry/environment",
+        "weaker sections/slums/poverty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243W IS ENABLING",
+            "State law may endow municipalities with self-government and scheme functions.",
+            "TWELFTH SCHEDULE: 18 MATTERS urban planning + land use + roads + water + public health/sanitation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "fire services + urban forestry/environment",
+            "weaker sections/slums/poverty",
+            "amenities/culture + burials + cattle pounds"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "vital statistics + street lighting/parking/bus stops/public conveniences.",
+            "THREE-F TEST function assigned?",
+            "staff controlled?"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "money predictable and discretionary?",
+            "SERVICE TEST clear responsibility → standard → budget → delivery → grievance → public audit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SERVICE TEST clear responsibility → standard → budget → delivery → grievance → public audit.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 15",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 16",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 17",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 18",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 38"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MUNICIPAL FINANCE: PROPERTY TAX, USER CHARGES, BONDS AND GRANTS",
+      "structural_type": "municipal-finance-portfolio",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MUNICIPAL FINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PROPERTY TAX, USER CHARGES, BONDS AND GRANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 243X",
+          "role": "institution"
+        },
+        {
+          "text": "STATE LAW MAY AUTHORISE TAXES, DUTIES, TOLLS, FEES, ASSIGNMENTS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 243Y THE STATE FINANCE COMMISSION REVIEWS MUNICIPAL AND",
+          "role": "institution"
+        },
+        {
+          "text": "OWN REVENUE PROPERTY TAX",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLETE REGISTER + FAIR VALUATION + BILLING + COLLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "USER CHARGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243X",
+        "State law may authorise taxes, duties, tolls, fees, assignments, grants and funds.",
+        "ARTICLE 243Y the State Finance Commission reviews municipal and Panchayat finances.",
+        "OWN REVENUE property tax → complete register + fair valuation + billing + collection +",
+        "user charge → service cost + affordability protection + transparent subsidy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243X",
+            "State law may authorise taxes, duties, tolls, fees, assignments, grants and funds."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 243Y the State Finance Commission reviews municipal and Panchayat finances.",
+            "OWN REVENUE property tax → complete register + fair valuation + billing + collection + appeal."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "user charge → service cost + affordability protection + transparent subsidy.",
+            "CAPITAL FINANCE municipal bond → accounts + revenue stream + disclosure + credit discipline."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "pooled finance → smaller bodies aggregate borrowing capacity.",
+            "GRANTS equalisation and national priorities; tied money cannot replace local fiscal authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRANTS equalisation and national priorities; tied money cannot replace local fiscal authority.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 19",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 20",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 21",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 22",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 23",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 24",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 25",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 26"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MAYOR-COMMISSIONER RELATIONS, PARASTATALS AND MISSION SPVS",
+      "structural_type": "urban-executive-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MAYOR-COMMISSIONER RELATIONS, PARASTATALS AND MISSION SPVS",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTED COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "MAYOR MANDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC ANSWERABILITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "MUNICIPAL COMMISSIONER",
+          "role": "primary"
+        },
+        {
+          "text": "STATE-LAW EXECUTIVE AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "ENGINEERING/PROCUREMENT CONTINUITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "MODEL CAVEAT MAYOR SELECTION, TENURE, EXECUTIVE POWER AND COMMISSIONER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ELECTED COUNCIL / MAYOR mandate → priorities → budget → public answerability.",
+        "MUNICIPAL COMMISSIONER",
+        "State-law executive authority → administration → engineering/procurement continuity.",
+        "MODEL CAVEAT mayor selection, tenure, executive power and commissioner control vary by State law.",
+        "PARASTATALS water/transport/development authorities may add expertise and regional scale but can fragment money, staff and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ELECTED COUNCIL / MAYOR mandate → priorities → budget → public answerability.",
+            "MUNICIPAL COMMISSIONER"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "State-law executive authority → administration → engineering/procurement continuity.",
+            "MODEL CAVEAT mayor selection, tenure, executive power and commissioner control vary by State law."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARASTATALS water/transport/development authorities may add expertise and regional scale but can fragment money, staff and accountability.",
+            "MISSION SPVs project focus + professional delivery must remain aligned with elected plans, transparent accounts and municipal ownership."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER TEST who decides? who spends? who employs? who answers to voters?",
+            "ELECTED COUNCIL / MAYOR mandate → priorities → budget → public answerability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER TEST who decides? who spends? who employs? who answers to voters?.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 27",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 28",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 29",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 30"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DPC, MPC AND GOVERNMENT AT THE SCALE OF THE CITY-REGION",
+      "structural_type": "metropolitan-planning-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DPC, MPC AND GOVERNMENT AT THE SCALE OF THE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 243ZD",
+          "role": "institution"
+        },
+        {
+          "text": "DISTRICT PLANNING COMMITTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "PANCHAYAT PLANS + MUNICIPAL PLANS",
+          "role": "evidence"
+        },
+        {
+          "text": "DRAFT DISTRICT DEVELOPMENT PLAN.",
+          "role": "primary"
+        },
+        {
+          "text": "AT LEAST FOUR-FIFTHS ELECTED BY/FROM DISTRICT PANCHAYAT AND MUNICIPAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 243ZE",
+          "role": "institution"
+        },
+        {
+          "text": "METROPOLITAN PLANNING COMMITTEE MUNICIPAL + PANCHAYAT PLANS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243ZD: DISTRICT PLANNING COMMITTEE",
+        "Panchayat plans + municipal plans → draft district development plan.",
+        "At least four-fifths elected by/from district Panchayat and municipal elected members.",
+        "ARTICLE 243ZE: METROPOLITAN PLANNING COMMITTEE municipal + Panchayat plans → metropolitan development plan.",
+        "At least two-thirds elected by/from municipal members and Panchayat chairpersons."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243ZD: DISTRICT PLANNING COMMITTEE",
+            "Panchayat plans + municipal plans → draft district development plan.",
+            "At least four-fifths elected by/from district Panchayat and municipal elected members."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 243ZE: METROPOLITAN PLANNING COMMITTEE municipal + Panchayat plans → metropolitan development plan.",
+            "At least two-thirds elected by/from municipal members and Panchayat chairpersons.",
+            "METROPOLITAN AREA population ten lakh or more across one or more districts and local bodies."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PERI-URBAN CHOICE",
+            "Nagar Panchayat",
+            "joint authority"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "phased transition.",
+            "LIMIT constitutional plan preparation needs alignment with agencies, budgets and land powers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT constitutional plan preparation needs alignment with agencies, budgets and land powers.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 31",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 32",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 33",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 34",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 35",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 36",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 37"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CITIZEN PARTICIPATION, ACCOUNTABILITY AND BOUNDED DIGITAL REFORM",
+      "structural_type": "urban-accountability-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CITIZEN PARTICIPATION, ACCOUNTABILITY AND BOUNDED DIGITAL REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "DOWNWARD ACCOUNTABILITY WARD VOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN BUDGET",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE STANDARD",
+          "role": "evidence"
+        },
+        {
+          "text": "GRIEVANCE REDRESS",
+          "role": "primary"
+        },
+        {
+          "text": "COUNCIL CORRECTION",
+          "role": "institution"
+        },
+        {
+          "text": "ELECTORAL SANCTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL ACCOUNTABILITY ASSET REGISTER + DOUBLE-ENTRY ACCOUNTS + AUDIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOWNWARD ACCOUNTABILITY ward voice → open budget → service standard → grievance redress",
+        "audit/report → council correction → electoral sanction.",
+        "FISCAL ACCOUNTABILITY asset register + double-entry accounts + audit + public disclosure + procurement control.",
+        "DIGITAL / SMART TOOLS",
+        "GIS property base"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DOWNWARD ACCOUNTABILITY ward voice → open budget → service standard → grievance redress",
+            "audit/report → council correction → electoral sanction.",
+            "FISCAL ACCOUNTABILITY asset register + double-entry accounts + audit + public disclosure + procurement control."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DIGITAL / SMART TOOLS",
+            "GIS property base",
+            "online permissions/payments"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "sensor data.",
+            "CAUTION technology can expose performance and expand access but cannot cure missing staff, fragmented authority or digital exclusion by itself.",
+            "REFORM activity mapping + stronger wards + professional cadre + accountable executive"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "integrated planning + viable revenue + transparent service contracts."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "integrated planning + viable revenue + transparent service contracts.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 39",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 40",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 41",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 42"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RURAL-URBAN COMPARISON AND LOCAL-GOVERNMENT CASE-LAW CONTROLS",
+      "structural_type": "municipal-comparison-case-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RURAL-URBAN COMPARISON AND LOCAL-GOVERNMENT CASE-LAW CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "PANCHAYAT MUNICIPALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PART IX",
+          "role": "comparison"
+        },
+        {
+          "text": "ELEVENTH 29 PART IXA",
+          "role": "evidence"
+        },
+        {
+          "text": "TWELFTH 18",
+          "role": "primary"
+        },
+        {
+          "text": "GRAM SABHA WARD COMMITTEE WHERE ARTICLE 243S APPLIES RURAL",
+          "role": "institution"
+        },
+        {
+          "text": "STATE-LAW DEVOLUTION",
+          "role": "institution"
+        },
+        {
+          "text": "SEC ELECTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PANCHAYAT MUNICIPALITY",
+        "Part IX / Eleventh 29 Part IXA / Twelfth 18",
+        "Gram Sabha Ward Committee where Article 243S applies rural three-tier map transitional/smaller/larger urban forms.",
+        "State-law devolution",
+        "SEC elections"
+      ],
+      "matrix": [
+        [
+          "State-law devolution",
+          "SEC elections",
+          "SFC review",
+          "DPC linkage."
+        ],
+        [
+          "TRAP census town != municipality",
+          "every industrial area != industrial township.",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PANCHAYAT MUNICIPALITY",
+            "Part IX / Eleventh 29 Part IXA / Twelfth 18",
+            "Gram Sabha Ward Committee where Article 243S applies rural three-tier map transitional/smaller/larger urban forms.",
+            "State-law devolution"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SEC elections",
+            "SFC review",
+            "DPC linkage.",
+            "CASE CODE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kishansing Tomar (2006) → constitutional election timetable.",
+            "K. Krishna Murthy (2010) → local reservation analysis.",
+            "Vikas Kishanrao Gawali (2021) → OBC triple test.",
+            "State of Goa v. Fouziya Imtiaz Shaikh (2021) → SEC independence."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP census town != municipality",
+            "every industrial area != industrial township."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP census town != municipality | every industrial area != industrial township.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 43",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 45",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 47",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 48"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PART IXA TRANSITION, EXCLUSIONS AND ELECTION BAR",
+      "structural_type": "constitutional-proviso-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PART IXA TRANSITION, EXCLUSIONS AND ELECTION BAR",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 243U FIVE-YEAR TERM",
+          "role": "institution"
+        },
+        {
+          "text": "ELECTION BEFORE EXPIRY OR WITHIN SIX MONTHS AFTER DISSOLUTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "SHORT REMAINDER BELOW SIX MONTHS NEEDS NO ELECTION; NEW",
+          "role": "caution"
+        },
+        {
+          "text": "REASONABLE HEARING PRECEDES DISSOLUTION.",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENT MAY ADAPT PART IXA FOR UNION TERRITORIES.",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED/TRIBAL-AREA EXCLUSION; PARLIAMENT MAY EXTEND TO SCHEDULED AREAS.",
+          "role": "comparison"
+        },
+        {
+          "text": "INCONSISTENT OLD LAWS AT MOST ONE YEAR; EXISTING BODIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 243U five-year term → election before expiry or within six months after dissolution.",
+        "Short remainder below six months needs no election; new body serves the balance.",
+        "Reasonable hearing precedes dissolution.",
+        "243ZB → President may adapt Part IXA for Union Territories.",
+        "243ZC → Scheduled/tribal-area exclusion; Parliament may extend to Scheduled Areas."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 243U five-year term → election before expiry or within six months after dissolution.",
+            "Short remainder below six months needs no election; new body serves the balance."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Reasonable hearing precedes dissolution.",
+            "243ZB → President may adapt Part IXA for Union Territories."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "243ZC → Scheduled/tribal-area exclusion; Parliament may extend to Scheduled Areas.",
+            "243ZF → inconsistent old laws at most one year; existing bodies protected to term."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "243ZG → delimitation/allotment bar; election petition is the prescribed route.",
+            "ARTICLE 243U five-year term → election before expiry or within six months after dissolution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "243ZG → delimitation/allotment bar; election petition is the prescribed route.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 4",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 11",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 13"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PLANNING COMPOSITION, INPUTS AND STATE FORWARDING",
+      "structural_type": "planning-procedure-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLANNING COMPOSITION, INPUTS AND STATE FORWARDING",
+          "role": "institution"
+        },
+        {
+          "text": "DISTRICT PLANNING COMMITTEE — ARTICLE 243ZD AT LEAST FOUR-FIFTHS",
+          "role": "institution"
+        },
+        {
+          "text": "RATIO FOLLOWS RURAL AND URBAN POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSOLIDATES LOCAL PLANS.",
+          "role": "evidence"
+        },
+        {
+          "text": "METROPOLITAN PLANNING COMMITTEE — ARTICLE 243ZE AT LEAST TWO-THIRDS",
+          "role": "institution"
+        },
+        {
+          "text": "RATIO FOLLOWS MUNICIPAL AND PANCHAYAT POPULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PREPARES METROPOLITAN PLAN.",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON INPUTS SPATIAL PLANNING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTRICT PLANNING COMMITTEE — ARTICLE 243ZD at least four-fifths elected by/from district-Panchayat and municipal elected",
+        "ratio follows rural and urban population → consolidates local plans.",
+        "METROPOLITAN PLANNING COMMITTEE — ARTICLE 243ZE at least two-thirds elected by/from municipal members and Panchayat",
+        "ratio follows municipal and Panchayat population → prepares metropolitan plan.",
+        "COMMON INPUTS spatial planning"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DISTRICT PLANNING COMMITTEE — ARTICLE 243ZD at least four-fifths elected by/from district-Panchayat and municipal elected members",
+          "METROPOLITAN PLANNING COMMITTEE — ARTICLE 243ZE at least two-thirds elected by/from municipal members and Panchayat chairpersons",
+          "COMMON INPUTS spatial planning",
+          "likely resources."
+        ],
+        [
+          "ratio follows rural and urban population → consolidates local plans.",
+          "ratio follows municipal and Panchayat population → prepares metropolitan plan.",
+          "shared water/resources",
+          "Chairperson forwards the recommended draft development plan to State Government."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DISTRICT PLANNING COMMITTEE — ARTICLE 243ZD at least four-fifths elected by/from district-Panchayat and municipal elected members",
+            "ratio follows rural and urban population → consolidates local plans."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "METROPOLITAN PLANNING COMMITTEE — ARTICLE 243ZE at least two-thirds elected by/from municipal members and Panchayat chairpersons",
+            "ratio follows municipal and Panchayat population → prepares metropolitan plan."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMON INPUTS spatial planning",
+            "shared water/resources"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "likely resources.",
+            "Chairperson forwards the recommended draft development plan to State Government."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Chairperson forwards the recommended draft development plan to State Government.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 31",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 32",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 33"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DATED FINANCE EVIDENCE AND EXAM COMPRESSION",
+      "structural_type": "evidence-answer-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATED FINANCE EVIDENCE AND EXAM COMPRESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED OFFICIAL CONTROLS — CHECKED 28 AUGUST 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "RBI MUNICIPAL FINANCES 2022",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPERTY-TAX POTENTIAL AND ADMINISTRATION GAPS.",
+          "role": "evidence"
+        },
+        {
+          "text": "FC-XVI 2026-31",
+          "role": "primary"
+        },
+        {
+          "text": "ULB 60",
+          "role": "outcome"
+        },
+        {
+          "text": "40 AFTER SPECIAL COMPONENTS; BASIC",
+          "role": "comparison"
+        },
+        {
+          "text": "PERFORMANCE 80",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DATED OFFICIAL CONTROLS — CHECKED 28 AUGUST 2026",
+        "RBI Municipal Finances 2022 → property-tax potential and administration gaps.",
+        "FC-XVI 2026-31 → RLB:ULB 60:40 after special components; basic:performance 80:20.",
+        "AMRUT 2.0 → water security + property tax + user charges + accounts/capacity.",
+        "SEBI municipal-debt framework → bonds are regulated borrowing, not tax revenue."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DATED OFFICIAL CONTROLS — CHECKED 28 AUGUST 2026",
+          "AMRUT 2.0 → water security + property tax + user charges + accounts/capacity.",
+          "10 marks → Article pair + functional gap + fiscal gap + verdict.",
+          "LIMIT report ratios are dated recommendations; release status needs current verification."
+        ],
+        [
+          "RBI Municipal Finances 2022 → property-tax potential and administration gaps.",
+          "SEBI municipal-debt framework → bonds are regulated borrowing, not tax revenue.",
+          "15 marks → design + three Fs + planning + current evidence + qualification.",
+          ""
+        ],
+        [
+          "FC-XVI 2026-31 → RLB:ULB 60:40 after special components; basic:performance 80:20.",
+          "ANSWER COMPRESSION",
+          "20 marks → evolution + city-region institutions + finance + executive design + reforms.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DATED OFFICIAL CONTROLS — CHECKED 28 AUGUST 2026",
+            "RBI Municipal Finances 2022 → property-tax potential and administration gaps.",
+            "FC-XVI 2026-31 → RLB:ULB 60:40 after special components; basic:performance 80:20."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "AMRUT 2.0 → water security + property tax + user charges + accounts/capacity.",
+            "SEBI municipal-debt framework → bonds are regulated borrowing, not tax revenue.",
+            "ANSWER COMPRESSION"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "10 marks → Article pair + functional gap + fiscal gap + verdict.",
+            "15 marks → design + three Fs + planning + current evidence + qualification.",
+            "20 marks → evolution + city-region institutions + finance + executive design + reforms."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT report ratios are dated recommendations; release status needs current verification."
+          ]
+        }
+      ],
+      "mechanism_strip": "10 marks → Article pair + functional gap + fiscal gap + verdict.",
+      "answer_line": "15 marks → design + three Fs + planning + current evidence + qualification.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 22",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 24",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 40",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 44"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "URBAN REFORM, PRELIMS TRAPS, PYQ SPINE AND QUALIFIED SYNTHESIS",
+      "structural_type": "municipal-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "URBAN REFORM, PRELIMS TRAPS, PYQ SPINE AND QUALIFIED SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CORE DIAGNOSIS CONSTITUTIONAL EXISTENCE AND ELECTIONS WITHOUT ASSURED FUNCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE ACTIVITY MAP",
+          "role": "institution"
+        },
+        {
+          "text": "EMPOWERED WARDS",
+          "role": "primary"
+        },
+        {
+          "text": "STABLE ELECTED LEADERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "PROFESSIONAL ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPERTY/USER-CHARGE REFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE DIAGNOSIS constitutional existence and elections without assured functions, metropolitan coordination, staff control or buoyant",
+        "REFORM LADDER",
+        "State activity map → empowered wards → stable elected leadership",
+        "professional administration → property/user-charge reform",
+        "accountable bonds/grants → agency-plan convergence → public audit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE DIAGNOSIS constitutional existence and elections without assured functions, metropolitan coordination, staff control or buoyant revenue.",
+            "REFORM LADDER",
+            "State activity map → empowered wards → stable elected leadership",
+            "professional administration → property/user-charge reform"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "accountable bonds/grants → agency-plan convergence → public audit.",
+            "PRELIMS FIREWALL",
+            "243Q types",
+            "243S three-lakh Ward Committee threshold"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DPC four-fifths",
+            "MPC two-thirds",
+            "metropolitan population ten lakh",
+            "SEC, not ECI"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Twelfth Schedule does not transfer automatically.",
+            "MAINS SPINE constitutional design → operational gap → finance/governance mechanism",
+            "city-region evidence → State-law caveat → democratic functionality verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "city-region evidence → State-law caveat → democratic functionality verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 40",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 42",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 43",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 44",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 45",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-24\\g3-source\\polity-24_g3-reviewed-source.md#SESSION 46"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — 74TH AMENDMENT ACT, 1992",
+          "role": "institution"
+        },
+        {
+          "text": "PART B — PLANNING COMMITTEES",
+          "role": "comparison"
+        },
+        {
+          "text": "PART C — EIGHT TYPES OF URBAN LOCAL BODIES",
+          "role": "evidence"
+        },
+        {
+          "text": "CANTONMENT BOARD — SET UP BY THE CENTRAL GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NOTIFIED AREA COMMITTEE — FOR A FAST-DEVELOPING TOWN",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE NOT YET A MUNICIPALITY; FULLY NOMINATED",
+          "role": "caution"
+        },
+        {
+          "text": "TWELFTH SCHEDULE HAS 29 ITEMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — 74th AMENDMENT ACT, 1992",
+            "PART B — PLANNING COMMITTEES",
+            "PART C — EIGHT TYPES OF URBAN LOCAL BODIES",
+            "CAUTION: Cantonment Board — set up by the central government (Cantonments Act) under the Defence Ministry ."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Notified Area Committee — for a fast-developing town / one not yet a municipality; fully nominated",
+            "NOT: Twelfth Schedule has 29 items → 18 items (Eleventh Schedule = 29 for panchayats).",
+            "NOT: 74th Amendment in force 1992 → passed 1992, in force 1 June 1993 .",
+            "NOT: Wards Committees mandatory in every municipality → only where population ≥ 3 lakh ."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Nagar Panchayat = a village panchayat → it is an urban body for a transitional area .",
+            "NOT: Cantonment Board is a state ULB → set up by the Centre (Defence Ministry).",
+            "NOT: Municipal Corporation is the smallest ULB → it is for the largest urban areas.",
+            "NOT: DPC has 2/3 elected members → 4/5 (DPC 4/5, MPC 2/3 — don't swap)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

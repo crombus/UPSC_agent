@@ -1,0 +1,148 @@
+ASCII MASTER FLOW — PANEL 1/9: Articles 168-212 and the choice between one House and two
+ARTICLE 168
+Governor + Legislative Assembly in every State
+  +-- Legislative Council only in a bicameral State.
+
+ARTICLE 169 CREATION / ABOLITION
+Assembly special resolution -> Parliament ordinary law -> no Article 368 amendment procedure.
+Parliament is enabled, not legally compelled, by the State resolution.
+
+CURRENT MAP
+six Council States: Andhra Pradesh, Telangana, Uttar Pradesh, Bihar, Maharashtra, Karnataka.
+
+DESIGN VERDICT
+Assembly carries direct democratic confidence; Council supplies revision and continuity,
+but cannot become a co-equal veto chamber.
+
+ASCII MASTER FLOW — PANEL 2/9: Composition, election, duration and membership controls
+ASSEMBLY
+direct election | normal five-year term | minimum age 25 | dissolution possible.
+
+COUNCIL
+indirect mixed composition under Article 171 | permanent House | one-third retire every two years
+| minimum age 30 | total strength normally not more than one-third of Assembly, minimum 40.
+
+COUNCIL ELECTORAL STREAMS
+local authorities 1/3 | graduates 1/12 | teachers 1/12 | Assembly members 1/3
+| Governor nominates remainder for specified knowledge/experience.
+
+MEMBERSHIP
+Article 191 disqualification -> Article 192 Governor decision after ECI opinion;
+Tenth Schedule questions follow the presiding-officer route.
+
+ASCII MASTER FLOW — PANEL 3/9: Presiding officers, sessions, quorum and voting
+OFFICERS
+Assembly Speaker/Deputy Speaker | Council Chairman/Deputy Chairman.
+removal requires notice and the constitutional majority stated for the House.
+
+SESSION CHAIN
+Governor summons -> sitting -> adjournment / adjournment sine die -> prorogation
+-> Assembly alone may be dissolved.
+No more than six months may intervene between sessions.
+
+QUORUM
+ten members or one-tenth of total membership, whichever is greater.
+
+VOTING
+members present and voting -> presiding officer ordinarily no first vote
+-> casting vote on equality; vacancies do not invalidate otherwise lawful proceedings.
+
+ASCII MASTER FLOW — PANEL 4/9: Privileges, questions, motions and procedural accountability
+ARTICLE 194 PRIVILEGE
+functional protection for speech, vote and legislative work; not a personal criminal licence.
+Sita Soren (2024) -> bribery is not protected merely because it relates to a vote or speech.
+
+JUDICIAL CONTROL
+Raja Ram Pal (2007) -> privilege and expulsion powers remain reviewable for illegality,
+unconstitutionality, mala fides or substantive procedural violation.
+
+ACCOUNTABILITY DEVICES
+questions | short-duration discussion | calling attention | adjournment motion
+| no-confidence/censure | privilege motion | cut motions.
+
+CORE DISTINCTION
+no-confidence tests ministry survival in the Assembly; Council cannot make or unmake the ministry.
+
+ASCII MASTER FLOW — PANEL 5/9: Ordinary, Money and financial Bills across unequal Houses
+ORDINARY BILL IN BICAMERAL STATE
+either House may originate -> Council may delay first passage up to three months
+-> Assembly repasses -> Council may delay up to one month
+-> Assembly ultimately prevails; no State joint sitting.
+
+MONEY BILL
+Assembly only + Governor's recommendation -> Speaker certificate
+-> Council has 14 days and recommendations only -> Assembly may accept or reject.
+
+FINANCIAL BILLS
+identify the constitutional category; not every Bill involving money is a Money Bill.
+
+ASSENT GATE
+Article 200 assent/withhold/return non-Money Bill/reserve
+-> Article 201 presidential route for reserved Bills.
+
+ASCII MASTER FLOW — PANEL 6/9: Budget, funds, committees and executive scrutiny
+ANNUAL FINANCIAL STATEMENT
+charged expenditure discussed but not voted
+-> demands for grants voted only by Assembly
+-> appropriation authorises withdrawal from Consolidated Fund
+-> Finance Bill completes taxation changes.
+
+FUNDS
+Consolidated Fund | Contingency Fund | Public Account: distinct custody and vote rules.
+
+COMMITTEE CHAIN
+Public Accounts Committee -> appropriation and audit
+Estimates Committee -> economy and policy efficiency
+Public Undertakings Committee -> State enterprise scrutiny
+Departmental/subject committees -> detailed examination.
+
+CONTROL TEST
+budget power matters only when members receive time, data, research and follow-up compliance.
+
+ASCII MASTER FLOW — PANEL 7/9: Anti-defection and the ordinance-legislature interface
+TENTH SCHEDULE
+voluntary giving up | whip breach without permission/condonation | independent joins party
+| nominated member joins after six months -> disqualification routes.
+
+ADJUDICATION
+Speaker/Chairman decides, subject to judicial review.
+Kihoto Hollohan (1992) -> review survives after the decision on recognised grounds.
+Nabam Rebia (2016) decided several Governor/Speaker questions;
+its Speaker-removal issue was referred in Subhash Desai (2023) and remains unresolved.
+
+ARTICLE 213 INTERFACE
+ordinance is a temporary necessity bridge when the session condition is met;
+it must return to legislative scrutiny and cannot become a parallel ordinary lawmaking cycle.
+
+ASCII MASTER FLOW — PANEL 8/9: Legislative competence and Article 212's limited shield
+COMPETENCE FIRST
+Article 246 + Seventh Schedule + special fields -> pith and substance
+-> incidental encroachment -> repugnancy where the Concurrent field applies.
+
+ARTICLE 212
+court does not invalidate proceedings merely for procedural irregularity
+BUT substantive illegality, constitutional violation and jurisdictional error remain reviewable.
+
+ASSENT CURRENT CONTROL
+State of Tamil Nadu v. Governor of Tamil Nadu (2025) used timelines/deemed assent on its facts.
+In re Assent, Withholding or Reservation of Bills (2025) is advisory and non-binding:
+no rigid timelines or automatic deemed assent; prolonged unexplained inaction may be reviewed.
+
+PRIVILEGE, SPEAKER CERTIFICATION AND DEFECTION ARE NOT REVIEW-FREE ZONES.
+
+ASCII MASTER FLOW — PANEL 9/9: Assembly-Council comparison, current reforms and answer synthesis
+ASSEMBLY                         COUNCIL
+direct mandate                    indirect mixed representation
+confidence and grants             revision and continuity
+may be dissolved                  permanent
+final ordinary-Bill control       maximum delaying power
+Money Bill dominance              recommendations within 14 days
+
+CURRENT CONTROLS
+106th Amendment commenced but awaits census-linked delimitation for operation.
+The failed/withdrawn 2026 Bills are proposals, not law; Census 2027 dates do not fix delimitation.
+
+MAINS SPINE
+define chamber design -> cite Article -> compare power -> evidence/problem
+-> representation/productivity reform -> stronger committees and sitting calendars
+-> effective State legislatures as institutions of representative federalism.

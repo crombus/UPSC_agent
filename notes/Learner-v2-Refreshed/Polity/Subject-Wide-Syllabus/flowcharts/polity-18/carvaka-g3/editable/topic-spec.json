@@ -1,0 +1,1266 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-18",
+  "subject": "Polity",
+  "title": "SUPREME COURT",
+  "short_route": "APEX COURT, INTEGRATED HIERARCHY → APPOINTMENT TEXT, COLLEGIUM EVOLUTION → QUALIFICATIONS, SERVICE CONDITIONS AND → INDEPENDENCE AND ACCOUNTABILITY MUST → JURISDICTION GATEWAY AND THE → APPEALS, SPECIAL LEAVE AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g3 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g3\\polity-18_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-18-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "3408718047c35b9d40eb20c9188e0b1036820c24c44421f05c6ff192d908da42",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "APEX COURT, INTEGRATED HIERARCHY AND INSTITUTIONAL IDENTITY",
+      "structural_type": "integrated-judiciary-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "APEX COURT, INTEGRATED HIERARCHY AND INSTITUTIONAL IDENTITY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 124-147, PART V",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION JUDICIARY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVY COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "FEDERAL COURT (1937)",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTION (26 JAN 1950)",
+          "role": "outcome"
+        },
+        {
+          "text": "SC (28 JAN 1950)",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPREME COURT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLES 124-147, PART V: UNION JUDICIARY",
+        "Privy Council → Federal Court (1937) → Constitution (26 Jan 1950) → SC (28 Jan",
+        "SUPREME COURT → HIGH COURTS → SUBORDINATE COURTS one hierarchy applies Union + State law",
+        "LIMIT: integrated does not mean unitary administration; Articles 226, 227 and 235 remain vital.",
+        "CONTROL CARD, 28 AUG 2026 sanctioned 34 including CJI"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLES 124-147, PART V: UNION JUDICIARY",
+            "Privy Council → Federal Court (1937) → Constitution (26 Jan 1950) → SC (28 Jan 1950)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SUPREME COURT → HIGH COURTS → SUBORDINATE COURTS one hierarchy applies Union + State law; Article 141 promotes national legal uniformity.",
+            "LIMIT: integrated does not mean unitary administration; Articles 226, 227 and 235 remain vital."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTROL CARD, 28 AUG 2026 sanctioned 34 including CJI",
+            "official sitting roster 34"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "retirement 65 seat Delhi, Article 130",
+            "Article 145(3): five-judge minimum for specified questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL CARD, 28 AUG 2026 sanctioned 34 including CJI | official sitting roster 34 | retirement 65 seat Delhi, Article 130 | Article 145(3): five-judge minimum for specified questions.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "APPOINTMENT TEXT, COLLEGIUM EVOLUTION AND NJAC TEST",
+      "structural_type": "appointment-doctrine-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "APPOINTMENT TEXT, COLLEGIUM EVOLUTION AND NJAC TEST",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 124",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT APPOINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONALLY REQUIRED CONSULTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT OPERATION",
+          "role": "primary"
+        },
+        {
+          "text": "COLLEGIUM RECOMMENDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION PROCESSING",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENTIAL APPOINTMENT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 124: PRESIDENT APPOINTS → CONSTITUTIONALLY REQUIRED CONSULTATION",
+        "Current operation: collegium recommendation → Union processing → presidential appointment.",
+        "First Judges Case (1981) → executive primacy",
+        "Second Judges Case (1993) → judicial primacy; collegium created",
+        "Third Judges Case (1998) → SC collegium: CJI + four senior-most judges"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 124: PRESIDENT APPOINTS → CONSTITUTIONALLY REQUIRED CONSULTATION",
+            "Current operation: collegium recommendation → Union processing → presidential appointment.",
+            "First Judges Case (1981) → executive primacy"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Second Judges Case (1993) → judicial primacy; collegium created",
+            "Third Judges Case (1998) → SC collegium: CJI + four senior-most judges",
+            "2014 99th Amendment + NJAC Act → six-member commission"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Fourth Judges Case (2015) → NJAC invalid; collegium restored",
+            "CJI SENIORITY: settled convention reflected in MoP, not express constitutional text.",
+            "REFORM TEST: transparent criteria + diversity + time discipline without executive capture."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Second Judges Case (1993) → judicial primacy; collegium created"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REFORM TEST: transparent criteria + diversity + time discipline without executive capture.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "QUALIFICATIONS, SERVICE CONDITIONS AND REMOVAL ROUTE",
+      "structural_type": "judge-lifecycle-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "QUALIFICATIONS, SERVICE CONDITIONS AND REMOVAL ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN CITIZEN + FIVE YEARS HC JUDGE OR TEN",
+          "role": "outcome"
+        },
+        {
+          "text": "OR DISTINGUISHED JURIST IN THE PRESIDENT'S OPINION; NO MINIMUM",
+          "role": "caution"
+        },
+        {
+          "text": "SECURE TENURE TO 65",
+          "role": "evidence"
+        },
+        {
+          "text": "RESIGNATION TO PRESIDENT OR ARTICLE 124(4) REMOVAL",
+          "role": "institution"
+        },
+        {
+          "text": "PROVED MISBEHAVIOUR/INCAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIAL MAJORITY IN EACH HOUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENTIAL ORDER; CONSTITUTION SAYS REMOVAL, NOT IMPEACHMENT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ELIGIBILITY → Indian citizen + five years HC judge OR ten years HC advocate",
+        "OR distinguished jurist in the President's opinion; no minimum age.",
+        "OATH → secure tenure to 65 → resignation to President OR Article 124(4) removal",
+        "REMOVAL: proved misbehaviour/incapacity → inquiry → special majority in each House",
+        "presidential order; Constitution says removal, not impeachment."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ELIGIBILITY → Indian citizen + five years HC judge OR ten years HC advocate",
+            "OR distinguished jurist in the President's opinion; no minimum age.",
+            "OATH → secure tenure to 65 → resignation to President OR Article 124(4) removal"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REMOVAL: proved misbehaviour/incapacity → inquiry → special majority in each House",
+            "presidential order; Constitution says removal, not impeachment.",
+            "FINANCIAL FIREWALL salary charged under Article 112(3)(d)(i)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "conditions protected by Article 125",
+            "Court administrative expenses charged under Article 146(3).",
+            "Article 124(7): former SC judge cannot plead or act before any Indian court/authority."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REMOVAL: proved misbehaviour/incapacity → inquiry → special majority in each House"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINANCIAL FIREWALL salary charged under Article 112(3)(d)(i) | conditions protected by Article 125.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDEPENDENCE AND ACCOUNTABILITY MUST OPERATE TOGETHER",
+      "structural_type": "independence-accountability-dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INDEPENDENCE AND ACCOUNTABILITY MUST OPERATE TOGETHER",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENCE SHIELD APPOINTMENT INSULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTED CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 121",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 129",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 50 SEPARATION",
+          "role": "institution"
+        },
+        {
+          "text": "BINDING AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE AND FINANCIAL AUTONOMY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDEPENDENCE SHIELD appointment insulation",
+        "protected conditions",
+        "Article 121",
+        "Article 129",
+        "Article 50 separation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INDEPENDENCE SHIELD appointment insulation",
+            "protected conditions",
+            "Article 121"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 129",
+            "Article 50 separation",
+            "binding authority"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "administrative and financial autonomy",
+            "ACCOUNTABILITY CHANNELS reasoned judgments + recusals + disclosure + published collegium resolutions",
+            "1997 Restatement + 1999 in-house procedure: non-statutory"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 124(4): extreme removal endpoint; no SC judge has been removed.",
+            "DIALECTIC independence without accountability → opacity accountability without insulation → political compliance",
+            "VERDICT → independent decisions + transparent institutional process."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → independent decisions + transparent institutional process.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "JURISDICTION GATEWAY AND THE FEDERAL-RIGHTS ROUTES",
+      "structural_type": "jurisdiction-selection-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JURISDICTION GATEWAY AND THE FEDERAL-RIGHTS ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "CHOOSE THE CONSTITUTIONAL DOOR FEDERAL LEGAL DISPUTE AMONG LISTED",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 131, EXCLUSIVE ORIGINAL",
+          "role": "institution"
+        },
+        {
+          "text": "FUNDAMENTAL RIGHT ENFORCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 32, ITSELF A FUNDAMENTAL RIGHT OTHER PUBLIC-LAW RIGHT",
+          "role": "institution"
+        },
+        {
+          "text": "HIGH COURT ARTICLE 226, WIDER IN PURPOSE",
+          "role": "institution"
+        },
+        {
+          "text": "FIVE WRITS HABEAS CORPUS",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC DUTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHOOSE THE CONSTITUTIONAL DOOR federal legal dispute among listed governments → Article 131, exclusive original",
+        "Fundamental Right enforcement → Article 32, itself a Fundamental Right other public-law right → High",
+        "FIVE WRITS habeas corpus: liberty",
+        "mandamus: public duty",
+        "prohibition: stop proceeding certiorari: quash completed order"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "CHOOSE THE CONSTITUTIONAL DOOR federal legal dispute among listed governments → Article 131, exclusive original",
+          "FIVE WRITS habeas corpus: liberty",
+          "prohibition: stop proceeding certiorari: quash completed order",
+          "ARTICLE 131 LIMITS eligible parties + existence/extent of legal right; not a political mediation forum."
+        ],
+        [
+          "Fundamental Right enforcement → Article 32, itself a Fundamental Right other public-law right → High Court Article 226, wider in purpose",
+          "mandamus: public duty",
+          "quo warranto: test public office",
+          "Treaty proviso and Article 262 water-dispute exclusion must be checked."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHOOSE THE CONSTITUTIONAL DOOR federal legal dispute among listed governments → Article 131, exclusive original",
+            "Fundamental Right enforcement → Article 32, itself a Fundamental Right other public-law right → High Court Article 226, wider in purpose"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FIVE WRITS habeas corpus: liberty",
+            "mandamus: public duty"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "prohibition: stop proceeding certiorari: quash completed order",
+            "quo warranto: test public office"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 131 LIMITS eligible parties + existence/extent of legal right; not a political mediation forum.",
+            "Treaty proviso and Article 262 water-dispute exclusion must be checked."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Treaty proviso and Article 262 water-dispute exclusion must be checked.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "APPEALS, SPECIAL LEAVE AND PRESIDENTIAL REFERENCE",
+      "structural_type": "appeal-advisory-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "APPEALS, SPECIAL LEAVE AND PRESIDENTIAL REFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "APPELLATE ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 132",
+          "role": "institution"
+        },
+        {
+          "text": "CERTIFICATE PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 136",
+          "role": "institution"
+        },
+        {
+          "text": "EXTRAORDINARY DISCRETIONARY SPECIAL LEAVE, NOT A REGULAR FOURTH APPEAL",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 143 ADVISORY ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC-IMPORTANCE QUESTION; COURT MAY REPORT OPINION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "APPELLATE ROUTES",
+        "Article 132: constitutional",
+        "133: civil",
+        "134: criminal",
+        "134A: certificate process"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "APPELLATE ROUTES",
+          "134A: certificate process",
+          "143(2): dispute within Article 131 proviso; Court shall hear and report",
+          "State of Tamil Nadu v. Governor of Tamil Nadu (2025) → facts-specific assent relief."
+        ],
+        [
+          "Article 132: constitutional",
+          "Article 136: extraordinary discretionary special leave, not a regular fourth appeal no SLP from Armed Forces courts or tribunals.",
+          "Opinion remains advisory, not an ordinary binding decree.",
+          "In re Assent, Withholding or Reservation of Bills (2025) → advisory control."
+        ],
+        [
+          "133: civil",
+          "ARTICLE 143 ADVISORY ROUTE",
+          "2025 ASSENT OPINION: no rigid court-made timelines or automatic deemed assent",
+          ""
+        ],
+        [
+          "134: criminal",
+          "143(1): public-importance question; Court may report opinion",
+          "prolonged unexplained inaction remains reviewable. Use as dated, issue-specific evidence.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "APPELLATE ROUTES",
+            "Article 132: constitutional",
+            "133: civil",
+            "134: criminal"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "134A: certificate process",
+            "Article 136: extraordinary discretionary special leave, not a regular fourth appeal no SLP from Armed Forces courts or tribunals.",
+            "ARTICLE 143 ADVISORY ROUTE",
+            "143(1): public-importance question; Court may report opinion"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "143(2): dispute within Article 131 proviso; Court shall hear and report",
+            "Opinion remains advisory, not an ordinary binding decree.",
+            "2025 ASSENT OPINION: no rigid court-made timelines or automatic deemed assent",
+            "prolonged unexplained inaction remains reviewable. Use as dated, issue-specific evidence."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State of Tamil Nadu v. Governor of Tamil Nadu (2025) → facts-specific assent relief.",
+            "In re Assent, Withholding or Reservation of Bills (2025) → advisory control."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "In re Assent, Withholding or Reservation of Bills (2025) → advisory control.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FINALITY, REVIEW, CURATIVE POWER AND CONTEMPT",
+      "structural_type": "finality-correction-contempt-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FINALITY, REVIEW, CURATIVE POWER AND CONTEMPT",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 137 REVIEW",
+          "role": "institution"
+        },
+        {
+          "text": "FINALITY REVIEW CORRECTS PRESCRIBED ERROR; IT IS NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "AFTER REVIEW DISMISSAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CURATIVE PETITION",
+          "role": "primary"
+        },
+        {
+          "text": "RUPA ASHOK HURRA (2002)",
+          "role": "outcome"
+        },
+        {
+          "text": "RARE GRAVE-MISCARRIAGE ROUTE WITH ADDED SAFEGUARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ROUTINE SECOND REVIEW.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "JUDGMENT → ARTICLE 137 REVIEW → FINALITY review corrects prescribed error; it is not a",
+        "AFTER REVIEW DISMISSAL → CURATIVE PETITION",
+        "Rupa Ashok Hurra (2002): rare grave-miscarriage route with added safeguards",
+        "LIMIT: no routine second review.",
+        "ARTICLE 129: COURT OF RECORD permanent authoritative records + constitutional contempt power civil contempt →"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "JUDGMENT → ARTICLE 137 REVIEW → FINALITY review corrects prescribed error; it is not a rehearing of the appeal.",
+            "AFTER REVIEW DISMISSAL → CURATIVE PETITION"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Rupa Ashok Hurra (2002): rare grave-miscarriage route with added safeguards",
+            "LIMIT: no routine second review."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 129: COURT OF RECORD permanent authoritative records + constitutional contempt power civil contempt → wilful disobedience",
+            "criminal contempt → substantial interference fair criticism and statutory truth defence protect speech; power protects justice, not ego."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "JUDGMENT → ARTICLE 137 REVIEW → FINALITY review corrects prescribed error; it is not a rehearing of the appeal.",
+            "AFTER REVIEW DISMISSAL → CURATIVE PETITION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARTICLE 129: COURT OF RECORD permanent authoritative records + constitutional contempt power civil contempt → wilful disobedience | criminal contempt → substantial interference fair criticism and statutory truth defence protect speech; power protects justice, not ego.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PRECEDENT, COMPLETE JUSTICE, ASSISTANCE AND PROCEDURE",
+      "structural_type": "precedent-complete-justice-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PRECEDENT, COMPLETE JUSTICE, ASSISTANCE AND PROCEDURE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 141",
+          "role": "institution"
+        },
+        {
+          "text": "RATIO OF LAW DECLARED BINDS ALL COURTS LARGER BENCH",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 142",
+          "role": "institution"
+        },
+        {
+          "text": "COMPLETE JUSTICE IN THE CAUSE OR MATTER BEFORE THE",
+          "role": "mechanism"
+        },
+        {
+          "text": "PREM CHAND GARG",
+          "role": "outcome"
+        },
+        {
+          "text": "CANNOT VIOLATE FUNDAMENTAL RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPREME COURT BAR ASSOCIATION (1998)",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 141 → ratio of law declared binds all courts larger Bench smaller Bench; coordinate",
+        "ARTICLE 142 → complete justice in the cause or matter before the Court",
+        "Prem Chand Garg → cannot violate Fundamental Rights",
+        "Supreme Court Bar Association (1998) → cannot supplant substantive law.",
+        "ARTICLE 144 → civil and judicial authorities act in aid."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 141 → ratio of law declared binds all courts larger Bench smaller Bench; coordinate disagreement ordinarily goes to larger Bench.",
+            "ARTICLE 142 → complete justice in the cause or matter before the Court",
+            "Prem Chand Garg → cannot violate Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Supreme Court Bar Association (1998) → cannot supplant substantive law.",
+            "ARTICLE 144 → civil and judicial authorities act in aid.",
+            "ARTICLE 145 → rules; five-judge floor for Article 143 and substantial interpretation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTINUITY TOOLS",
+            "126 acting CJI",
+            "127 ad hoc judge"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "128 retired judge sitting: distinct consent routes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "126 acting CJI | 127 ad hoc judge | 128 retired judge sitting: distinct consent routes.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "JUDICIAL REVIEW, BASIC STRUCTURE, NINTH SCHEDULE AND TRIBUNALS",
+      "structural_type": "constitutional-review-doctrine-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "JUDICIAL REVIEW, BASIC STRUCTURE, NINTH SCHEDULE AND TRIBUNALS",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL SUPREMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "REVIEW OF LAW + EXECUTIVE ACTION + AMENDMENT EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973)",
+          "role": "evidence"
+        },
+        {
+          "text": "AMENDMENT CANNOT DAMAGE BASIC STRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "MINERVA MILLS (1980)",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITED POWER + PARTS III-IV HARMONY",
+          "role": "mechanism"
+        },
+        {
+          "text": "I.R. COELHO (2007)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL SUPREMACY → REVIEW OF LAW + EXECUTIVE ACTION + AMENDMENT EFFECT",
+        "Kesavananda Bharati (1973) → amendment cannot damage Basic Structure",
+        "Minerva Mills (1980) → limited power + Parts III-IV harmony",
+        "I.R. Coelho (2007) → post-24 Apr 1973 Ninth Schedule insertions face impact review",
+        "LIMIT: reviewability is not automatic invalidity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL SUPREMACY → REVIEW OF LAW + EXECUTIVE ACTION + AMENDMENT EFFECT",
+            "Kesavananda Bharati (1973) → amendment cannot damage Basic Structure",
+            "Minerva Mills (1980) → limited power + Parts III-IV harmony"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "I.R. Coelho (2007) → post-24 Apr 1973 Ninth Schedule insertions face impact review",
+            "LIMIT: reviewability is not automatic invalidity.",
+            "TRIBUNAL FLOOR"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "L. Chandra Kumar (1997) → tribunals may supplement adjudication",
+            "BUT Articles 226/227 High Court review and Article 32 review cannot be wholly excluded.",
+            "Specialisation remains under constitutional-court supervision."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "I.R. Coelho (2007) → post-24 Apr 1973 Ninth Schedule insertions face impact review"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUT Articles 226/227 High Court review and Article 32 review cannot be wholly excluded.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PIL, ACTIVISM, JUDICIAL LEGISLATION AND ENVIRONMENT",
+      "structural_type": "pil-activism-dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PIL, ACTIVISM, JUDICIAL LEGISLATION AND ENVIRONMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS EXPANSION RELAXED LOCUS STANDI + EPISTOLARY JURISDICTION +",
+          "role": "outcome"
+        },
+        {
+          "text": "HUSSAINARA KHATOON (1979)",
+          "role": "comparison"
+        },
+        {
+          "text": "SPEEDY TRIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "S.P. GUPTA (1981)",
+          "role": "primary"
+        },
+        {
+          "text": "REPRESENTATIVE STANDING",
+          "role": "outcome"
+        },
+        {
+          "text": "STANDING IS RELAXED, NOT ERASED; SCREEN BONA FIDES AND",
+          "role": "caution"
+        },
+        {
+          "text": "JUDICIAL LEGISLATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ACCESS EXPANSION relaxed locus standi + epistolary jurisdiction + continuing mandamus",
+        "Hussainara Khatoon (1979): speedy trial",
+        "S.P. Gupta (1981): representative standing",
+        "LIMIT: standing is relaxed, not erased; screen bona fides and administrability.",
+        "JUDICIAL LEGISLATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ACCESS EXPANSION relaxed locus standi + epistolary jurisdiction + continuing mandamus",
+            "Hussainara Khatoon (1979): speedy trial",
+            "S.P. Gupta (1981): representative standing"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LIMIT: standing is relaxed, not erased; screen bona fides and administrability.",
+            "JUDICIAL LEGISLATION",
+            "Vishaka (1997): rights-based interim norm in legal vacuum until 2013 legislation legitimacy test → right + vacuum +"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "necessity + temporary, legally anchored remedy.",
+            "ENVIRONMENTAL LINE",
+            "Article 21 + 48A + 51A(g) → absolute liability, precaution, polluter pays, public trust"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Court catalyses compliance; CPCB, State boards and NGT remain indispensable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Court catalyses compliance; CPCB, State boards and NGT remain indispensable.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMPARISON, DIVERSITY, PROFESSION AND DELIVERY REFORM",
+      "structural_type": "comparison-delivery-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARISON, DIVERSITY, PROFESSION AND DELIVERY REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "EQUALITY + LEGITIMACY + WIDER PROFESSIONAL PIPELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "FATHIMA BEEVI (1989)",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST WOMAN SC JUDGE; AVOID UNDATED PERCENTAGES.",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED PRECEDENT; CONSTITUTIONAL SUPREMACY VERSUS PARLIAMENTARY SOVEREIGNTY",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLEGIUM + RETIREMENT 65 VERSUS NOMINATION + SENATE +",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE BAR COUNCILS ENROL; BCI SETS NATIONAL STATUTORY STANDARDS",
+          "role": "institution"
+        },
+        {
+          "text": "BCI IS STATUTORY, NOT CONSTITUTIONAL; COURTS RETAIN PRACTICE AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIVERSITY → equality + legitimacy + wider professional pipeline",
+        "Fathima Beevi (1989): first woman SC judge; avoid undated percentages.",
+        "INDIA-UK → shared precedent; constitutional supremacy versus parliamentary sovereignty",
+        "INDIA-USA → collegium + retirement 65 versus nomination + Senate + good-behaviour tenure",
+        "PROFESSION → State Bar Councils enrol; BCI sets national statutory standards and appeals"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DIVERSITY → equality + legitimacy + wider professional pipeline",
+          "INDIA-UK → shared precedent; constitutional supremacy versus parliamentary sovereignty",
+          "PROFESSION → State Bar Councils enrol; BCI sets national statutory standards and appeals",
+          "DELIVERY CHAIN accessible filing → timely listing/hearing → reasoned order → implementation technology + legal aid + judges + case management"
+        ],
+        [
+          "Fathima Beevi (1989): first woman SC judge; avoid undated percentages.",
+          "INDIA-USA → collegium + retirement 65 versus nomination + Senate + good-behaviour tenure",
+          "BCI is statutory, not constitutional; courts retain practice and proceeding rules.",
+          "e-Courts alone cannot cure exclusion."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIVERSITY → equality + legitimacy + wider professional pipeline",
+            "Fathima Beevi (1989): first woman SC judge; avoid undated percentages."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INDIA-UK → shared precedent; constitutional supremacy versus parliamentary sovereignty",
+            "INDIA-USA → collegium + retirement 65 versus nomination + Senate + good-behaviour tenure"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROFESSION → State Bar Councils enrol; BCI sets national statutory standards and appeals",
+            "BCI is statutory, not constitutional; courts retain practice and proceeding rules."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DELIVERY CHAIN accessible filing → timely listing/hearing → reasoned order → implementation technology + legal aid + judges + case management",
+            "e-Courts alone cannot cure exclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DELIVERY CHAIN accessible filing → timely listing/hearing → reasoned order → implementation technology + legal aid + judges + case management; e-Courts alone cannot cure exclusion.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PRELIMS FIREWALLS, PYQ ROUTES AND EXAMINER-READY SYNTHESIS",
+      "structural_type": "supreme-court-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PRELIMS FIREWALLS, PYQ ROUTES AND EXAMINER-READY SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 32 NARROWER IN PURPOSE THAN 226",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 136 DISCRETIONARY",
+          "role": "institution"
+        },
+        {
+          "text": "143 ADVISORY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 142 BOUNDED",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTION BENCH MINIMUM FIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "CURATIVE IS EXCEPTIONAL COLLEGIUM NOT CONSTITUTIONAL TEXT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "Article 32 narrower in purpose than 226",
+        "Article 136 discretionary",
+        "143 advisory",
+        "Article 142 bounded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "Article 32 narrower in purpose than 226",
+            "Article 136 discretionary",
+            "143 advisory",
+            "Article 142 bounded"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Constitution Bench minimum five",
+            "curative is exceptional collegium not constitutional text",
+            "removal is not impeachment",
+            "working strength is dated.",
+            "PYQ ROUTES"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "judicial legislation/PIL",
+            "environmental constitutionalism independence",
+            "PIL and judicial power",
+            "constitutional morality",
+            "India-USA appointments."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MAINS SPINE define institutional role → Article → mechanism → case + year → consequence",
+            "counterpoint/limit → matched reform → qualified conclusion.",
+            "The Court guards constitutional supremacy only when independent authority is joined to reasoned restraint, accountable process, accessible remedies",
+            "and executable orders."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Court guards constitutional supremacy only when independent authority is joined to reasoned restraint, accountable process, accessible remedies and executable orders.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-18\\g3-source\\polity-18_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A1. CONSTITUTION BENCHES, PRECEDENT AND INSTITUTIONAL VOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "A2. ARTICLE 141 AND ARTICLE 142 ARE DIFFERENT POWERS",
+          "role": "institution"
+        },
+        {
+          "text": "A3. THE COURT'S POWER AND ITS COMPLIANCE DEPENDENCY",
+          "role": "institution"
+        },
+        {
+          "text": "A4. CONTINUING MANDAMUS",
+          "role": "primary"
+        },
+        {
+          "text": "REMEDY OR ADMINISTRATION?",
+          "role": "outcome"
+        },
+        {
+          "text": "A5. APPOINTMENT REFORM MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "A6. CONCISE SOURCE AND CURRENT-CONTROL NOTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "A1. Constitution Benches, precedent and institutional voice",
+            "A2. Article 141 and Article 142 are different powers",
+            "A3. The Court's power and its compliance dependency",
+            "A4. Continuing mandamus: remedy or administration?"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "A5. Appointment reform matrix",
+            "A6. Concise source and current-control note",
+            "[FACT] Article 145(3) creates a five-judge minimum, not a five-judge maximum.",
+            "[FACT] Ratio and bench strength determine binding authority under Article 141."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "[ANALYSIS] Frequent small-bench adjudication improves throughput but can create fragmentation when nationally important issues are not referred promptly.",
+            "[LIMIT] A later small bench cannot silently neutralise a larger bench; genuine conflict requires reference.",
+            "[ANALYSIS] Confusing the two converts a case-specific remedy into a general law or, conversely, understates the precedential principle",
+            "that actually binds."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

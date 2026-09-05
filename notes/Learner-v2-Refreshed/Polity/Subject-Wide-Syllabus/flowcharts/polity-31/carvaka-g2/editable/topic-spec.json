@@ -1,0 +1,980 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-31",
+  "subject": "Polity",
+  "title": "NATIONAL COMMISSIONS SC ST BC",
+  "short_route": "EVOLUTION FROM SPECIAL OFFICER → COMPOSITION, APPOINTMENT, TENURE AND → SIX COMMON DUTIES AND → CIVIL-COURT POWERS, REPORTS, MEMORANDA → NCSC, NCST AND NCBC → ARTICLES 341, 342 AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-31-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "841be24c0f1d7d87c5ed7a037a213bffa4e0c960454baf34b101b8c1a0109bab",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EVOLUTION FROM SPECIAL OFFICER TO THREE CONSTITUTIONAL COMMISSIONS",
+      "structural_type": "commission-evolution-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EVOLUTION FROM SPECIAL OFFICER TO THREE CONSTITUTIONAL COMMISSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINAL ARTICLE 338",
+          "role": "institution"
+        },
+        {
+          "text": "SPECIAL OFFICER FOR SCHEDULED CASTES AND SCHEDULED TRIBES.",
+          "role": "comparison"
+        },
+        {
+          "text": "65TH AMENDMENT ACT, 1990 COMBINED NATIONAL COMMISSION FOR SCS",
+          "role": "institution"
+        },
+        {
+          "text": "FIRST CONSTITUTIONAL COMMISSION CONSTITUTED 12 MARCH 1992.",
+          "role": "primary"
+        },
+        {
+          "text": "89TH AMENDMENT ACT, 2003",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 338 RETAINED FOR NCSC + ARTICLE 338A INSERTED",
+          "role": "institution"
+        },
+        {
+          "text": "SEPARATE COMMISSIONS OPERATIONAL 19 FEBRUARY 2004.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORIGINAL ARTICLE 338",
+        "Special Officer for Scheduled Castes and Scheduled Tribes.",
+        "65TH AMENDMENT ACT, 1990 combined National Commission for SCs and STs",
+        "first constitutional commission constituted 12 March 1992.",
+        "89TH AMENDMENT ACT, 2003"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORIGINAL ARTICLE 338",
+            "Special Officer for Scheduled Castes and Scheduled Tribes.",
+            "65TH AMENDMENT ACT, 1990 combined National Commission for SCs and STs",
+            "first constitutional commission constituted 12 March 1992."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "89TH AMENDMENT ACT, 2003",
+            "Article 338 retained for NCSC + Article 338A inserted for NCST",
+            "separate commissions operational 19 February 2004.",
+            "Indra Sawhney (1992) → permanent backward-class body."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "NCBC Act, 1993 → statutory NCBC.",
+            "102ND AMENDMENT ACT, 2018",
+            "Article 338B + Article 342A + Article 366(26C)",
+            "constitutional NCBC operational 15 August 2018."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "105TH AMENDMENT ACT, 2021",
+            "State/UT own-list competence made explicit from 15 September 2021."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A non-statutory multi-member commission was created by executive resolution in 1978 and renamed in 1987, while the constitutional Special Officer architecture continued.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPOSITION, APPOINTMENT, TENURE AND SELF-REGULATED PROCEDURE",
+      "structural_type": "commission-membership-architecture",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPOSITION, APPOINTMENT, TENURE AND SELF-REGULATED PROCEDURE",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON COMPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAIRPERSON + VICE-CHAIRPERSON + THREE OTHER MEMBERS.",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENT BY WARRANT UNDER HAND AND SEAL.",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICE CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "TENURE SUBJECT TO PARLIAMENTARY LAW, DETERMINED BY PRESIDENTIAL RULES.",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE-YEAR TERM COMES FROM GOVERNING RULES, NOT THE CONSTITUTIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "PROCEDURE EACH COMMISSION MAY REGULATE ITS OWN PROCEDURE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMON COMPOSITION",
+        "Chairperson + Vice-Chairperson + three other Members.",
+        "President by warrant under hand and seal.",
+        "SERVICE CONDITIONS / TENURE subject to parliamentary law, determined by presidential rules.",
+        "Three-year term comes from governing rules, not the constitutional clause itself."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COMMON COMPOSITION",
+            "Chairperson + Vice-Chairperson + three other Members."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "President by warrant under hand and seal.",
+            "SERVICE CONDITIONS / TENURE subject to parliamentary law, determined by presidential rules."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Three-year term comes from governing rules, not the constitutional clause itself.",
+            "PROCEDURE each Commission may regulate its own procedure."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONSTITUTIONAL STATUS entrenches existence, mandate and report route.",
+            "LIMIT constitutional status does not automatically guarantee timely appointments, regional reach, staff capacity, data quality or acceptance of"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 338, 338A and 338B convert failures of group safeguards into investigable complaints, evidence-based monitoring and reports answerable before legislatures.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SIX COMMON DUTIES AND THE COMPLAINT-TO-POLICY ACCOUNTABILITY CYCLE",
+      "structural_type": "commission-duty-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SIX COMMON DUTIES AND THE COMPLAINT-TO-POLICY ACCOUNTABILITY CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMON DUTIES UNDER CLAUSE (5) INVESTIGATE AND MONITOR SAFEGUARDS.",
+          "role": "outcome"
+        },
+        {
+          "text": "INQUIRE INTO SPECIFIC COMPLAINTS OF DEPRIVATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTICIPATE AND ADVISE IN SOCIO-ECONOMIC DEVELOPMENT PLANNING.",
+          "role": "evidence"
+        },
+        {
+          "text": "EVALUATE DEVELOPMENT PROGRESS.",
+          "role": "primary"
+        },
+        {
+          "text": "PRESENT ANNUAL AND OTHER REPORTS TO PRESIDENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOMMEND MEASURES FOR EFFECTIVE IMPLEMENTATION AND PROTECTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "PERFORM OTHER SPECIFIED FUNCTIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMON DUTIES UNDER CLAUSE (5) investigate and monitor safeguards.",
+        "inquire into specific complaints of deprivation.",
+        "participate and advise in socio-economic development planning.",
+        "evaluate development progress.",
+        "present annual and other reports to President."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COMMON DUTIES UNDER CLAUSE (5) investigate and monitor safeguards.",
+            "inquire into specific complaints of deprivation.",
+            "participate and advise in socio-economic development planning."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "evaluate development progress.",
+            "present annual and other reports to President.",
+            "recommend measures for effective implementation and protection."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "perform other specified functions.",
+            "EVIDENCE CYCLE safeguard → implementation record → complaint/monitoring",
+            "inquiry → finding → recommendation → government response"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "legislative scrutiny → corrective law, policy or administration.",
+            "Commission scrutiny supports remedies; it does not replace police, tribunal or court."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Participation does not mean that the commission prepares or executes the government's development plan.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CIVIL-COURT POWERS, REPORTS, MEMORANDA AND CONSULTATION OBLIGATION",
+      "structural_type": "commission-power-report-consultation",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CIVIL-COURT POWERS, REPORTS, MEMORANDA AND CONSULTATION OBLIGATION",
+          "role": "institution"
+        },
+        {
+          "text": "CIVIL-COURT POWERS DURING INVESTIGATION OR INQUIRY SUMMON AND ENFORCE",
+          "role": "institution"
+        },
+        {
+          "text": "EXAMINE ON OATH REQUIRE DISCOVERY/PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RECEIVE AFFIDAVIT EVIDENCE REQUISITION PUBLIC RECORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ISSUE COMMISSIONS PRESCRIBED ADDITIONAL MATTERS.",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL EFFECT EVIDENCE-GATHERING POWER",
+          "role": "evidence"
+        },
+        {
+          "text": "ORDINARY CIVIL-COURT JURISDICTION",
+          "role": "institution"
+        },
+        {
+          "text": "!= CONVICTION, SENTENCE, EXECUTABLE DAMAGES OR CONSTITUTIONAL INVALIDATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CIVIL-COURT POWERS DURING INVESTIGATION OR INQUIRY summon and enforce attendance",
+        "examine on oath require discovery/production",
+        "receive affidavit evidence requisition public records",
+        "issue commissions prescribed additional matters.",
+        "LEGAL EFFECT evidence-gathering power != ordinary civil-court jurisdiction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CIVIL-COURT POWERS DURING INVESTIGATION OR INQUIRY summon and enforce attendance",
+            "examine on oath require discovery/production",
+            "receive affidavit evidence requisition public records"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "issue commissions prescribed additional matters.",
+            "LEGAL EFFECT evidence-gathering power != ordinary civil-court jurisdiction",
+            "!= conviction, sentence, executable damages or constitutional invalidation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "REPORT ROUTE",
+            "President → Parliament + memorandum on action taken and rejected advice.",
+            "State-related part → Governor/State Government route → State legislature + memorandum."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Union and States shall consult the relevant Commission on major policy matters.",
+            "LIMIT consultation is a constitutional hearing duty, not a general veto."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "While investigating a clause (5)(a) matter or inquiring into a clause (5)(b) complaint, each commission has all the powers of a civil court trying a suit in specified evidentiary matters.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NCSC, NCST AND NCBC: SHARED ENGINE, DISTINCT SAFEGUARD DOMAINS",
+      "structural_type": "commission-domain-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NCSC, NCST AND NCBC",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED ENGINE, DISTINCT SAFEGUARD DOMAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 338",
+          "role": "institution"
+        },
+        {
+          "text": "SC SAFEGUARDS, UNTOUCHABILITY, REPRESENTATION, SERVICE DISCRIMINATION AND ATROCITY-PREVENTION IMPLEMENTATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 338A",
+          "role": "institution"
+        },
+        {
+          "text": "ST SAFEGUARDS PLUS TRIBAL LAND, FOREST, MINOR PRODUCE, DISPLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 338B",
+          "role": "institution"
+        },
+        {
+          "text": "SEBC SAFEGUARDS, COMPLAINTS, DEVELOPMENT, POLICY ADVICE AND CENTRAL/STATE LIST",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "NCSC: ARTICLE 338",
+        "SC safeguards, untouchability, representation, service discrimination and atrocity-prevention implementation.",
+        "NCST: ARTICLE 338A",
+        "ST safeguards plus tribal land, forest, minor produce, displacement, resources, PESA and shifting-cultivation concerns under",
+        "NCBC: ARTICLE 338B"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "NCSC: ARTICLE 338",
+          "ST safeguards plus tribal land, forest, minor produce, displacement, resources, PESA and shifting-cultivation concerns under specified functions.",
+          "COMMON ENGINE monitor → inquire → advise → report → recommend.",
+          "NCBC does not itself amend a Central or State SEBC list."
+        ],
+        [
+          "SC safeguards, untouchability, representation, service discrimination and atrocity-prevention implementation.",
+          "NCBC: ARTICLE 338B",
+          "NCSC/NCST do not prosecute offences.",
+          "TRAP specialised overlap calls for referral and coordination, not automatic merger."
+        ],
+        [
+          "NCST: ARTICLE 338A",
+          "SEBC safeguards, complaints, development, policy advice and Central/State list context.",
+          "NCST does not decide FRA claims or govern Autonomous Councils.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NCSC: ARTICLE 338",
+            "SC safeguards, untouchability, representation, service discrimination and atrocity-prevention implementation.",
+            "NCST: ARTICLE 338A"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ST safeguards plus tribal land, forest, minor produce, displacement, resources, PESA and shifting-cultivation concerns under specified functions.",
+            "NCBC: ARTICLE 338B",
+            "SEBC safeguards, complaints, development, policy advice and Central/State list context."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMON ENGINE monitor → inquire → advise → report → recommend.",
+            "NCSC/NCST do not prosecute offences.",
+            "NCST does not decide FRA claims or govern Autonomous Councils."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NCBC does not itself amend a Central or State SEBC list.",
+            "TRAP specialised overlap calls for referral and coordination, not automatic merger."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A commission recommendation may trigger administrative or legal follow-up, but it does not replace proof and procedure required in court.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 16"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARTICLES 341, 342 AND 342A: SPECIFICATION AND ALTERATION OF LISTS",
+      "structural_type": "protected-class-list-mechanics",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLES 341, 342 AND 342A",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIFICATION AND ALTERATION OF LISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED CASTES",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 341",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT SPECIFIES BY PUBLIC NOTIFICATION FOR A STATE/UT",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT LATER INCLUDES OR EXCLUDES BY LAW.",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED TRIBES",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 342 SAME CONSTITUTIONAL PATTERN; STATE CONSULTATION OCCURS AT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SCHEDULED CASTES: ARTICLE 341",
+        "President specifies by public notification for a State/UT",
+        "Parliament later includes or excludes by law.",
+        "SCHEDULED TRIBES: ARTICLE 342 same constitutional pattern; State consultation occurs at initial specification.",
+        "SEBC CENTRAL LIST: ARTICLE 342A(1)-(2)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SCHEDULED CASTES: ARTICLE 341",
+            "President specifies by public notification for a State/UT",
+            "Parliament later includes or excludes by law."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULED TRIBES: ARTICLE 342 same constitutional pattern; State consultation occurs at initial specification.",
+            "SEBC CENTRAL LIST: ARTICLE 342A(1)-(2)",
+            "President specifies for Central Government purposes"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Parliament includes or excludes by law.",
+            "STATE / UT LIST: ARTICLE 342A(3)",
+            "State or UT may by law prepare and maintain its own list for own purposes."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 366(26C) defines socially and educationally backward classes through Article 342A.",
+            "CORE DISTINCTION",
+            "Commission advice informs process; the constitutionally named authority changes legal status."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Subject to parliamentary law, their conditions of service and tenure are determined by presidential rules.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "102ND-105TH FEDERAL TRAJECTORY AND JAISHRI LAXMANRAO PATIL (2021)",
+      "structural_type": "ncbc-federal-amendment-case-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "102ND-105TH FEDERAL TRAJECTORY AND JAISHRI LAXMANRAO PATIL (2021)",
+          "role": "primary"
+        },
+        {
+          "text": "102ND AMENDMENT, 2018 CONSTITUTIONAL NCBC + ORIGINAL ARTICLE 342A",
+          "role": "institution"
+        },
+        {
+          "text": "JAISHRI LAXMANRAO PATIL (2021) MAJORITY READ THE 102ND AMENDMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "THE MARATHA QUOTA ALSO FAILED THE SEPARATE 50% CEILING",
+          "role": "evidence"
+        },
+        {
+          "text": "105TH AMENDMENT, 2021",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL LIST CONFINED TO CENTRAL PURPOSES",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE/UT OWN LISTS EXPRESSLY RESTORED/CLARIFIED IN ARTICLE 342A(3)",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 338B(9) CONSULTATION EXCEPTION FOR THAT LIST-MAKING PURPOSE.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "102ND AMENDMENT, 2018 constitutional NCBC + original Article 342A list wording.",
+        "Jaishri Laxmanrao Patil (2021) majority read the 102nd Amendment as displacing independent State SEBC identification",
+        "the Maratha quota also failed the separate 50% ceiling analysis.",
+        "105TH AMENDMENT, 2021",
+        "Central List confined to Central purposes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "102ND AMENDMENT, 2018 constitutional NCBC + original Article 342A list wording.",
+            "Jaishri Laxmanrao Patil (2021) majority read the 102nd Amendment as displacing independent State SEBC identification",
+            "the Maratha quota also failed the separate 50% ceiling analysis."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "105TH AMENDMENT, 2021",
+            "Central List confined to Central purposes",
+            "State/UT own lists expressly restored/clarified in Article 342A(3)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 338B(9) consultation exception for that list-making purpose.",
+            "TRAP reservation ceiling, identification authority and Commission consultation are separate constitutional questions.",
+            "LIMIT the 105th Amendment did not itself decide every quota, inclusion or creamy-layer dispute."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "105TH AMENDMENT, 2021"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Maratha reservation law also failed the Court's 50 per cent ceiling analysis; that holding should not be collapsed into the separate Article 342A federal issue.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 13"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DAVINDER SINGH (2024), SUB-CLASSIFICATION AND THE CREAMY-LAYER BOUNDARY",
+      "structural_type": "sc-subclassification-doctrine",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DAVINDER SINGH (2024), SUB-CLASSIFICATION AND THE CREAMY-LAYER BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "DAVINDER SINGH (2024)",
+          "role": "outcome"
+        },
+        {
+          "text": "STATES MAY CREATE EVIDENCE-BASED SUB-CLASSIFICATION WITHIN SCHEDULED CASTES TO",
+          "role": "evidence"
+        },
+        {
+          "text": "CONDITIONS QUANTIFIABLE AND DEMONSTRABLE MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "RATIONAL CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "NO DELETION FROM OR ALTERATION OF THE ARTICLE 341",
+          "role": "caution"
+        },
+        {
+          "text": "JUDICIAL REVIEW REMAINS.",
+          "role": "comparison"
+        },
+        {
+          "text": "OVERRULED BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Davinder Singh (2024)",
+        "States may create evidence-based sub-classification within Scheduled Castes to distribute reservation benefits more equitably.",
+        "CONDITIONS quantifiable and demonstrable material → rational classification",
+        "no deletion from or alteration of the Article 341 Presidential List",
+        "judicial review remains."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Davinder Singh (2024)",
+            "States may create evidence-based sub-classification within Scheduled Castes to distribute reservation benefits more equitably.",
+            "CONDITIONS quantifiable and demonstrable material → rational classification"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "no deletion from or alteration of the Article 341 Presidential List",
+            "judicial review remains.",
+            "OVERRULED BOUNDARY"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "E.V. Chinnaiah was overruled on the bar against SC sub-classification.",
+            "CREAMY-LAYER CAUTION separate judicial opinions discussed exclusion ideas",
+            "do not present them as one unanimous, enacted SC/ST creamy-layer rule."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COMMISSION ROLE evidence, consultation and monitoring may inform policy but do not replace valid law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The 105th Amendment added a proviso to Article 338B(9): the clause does not apply for the purposes of Article 342A(3), the State/UT own-list power.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 13"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "INSTITUTIONAL GAPS, PRELIMS TRAPS, PYQ ROUTES AND ANSWER SYNTHESIS",
+      "structural_type": "commission-reform-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL GAPS, PRELIMS TRAPS, PYQ ROUTES AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "IMPLEMENTATION GAPS VACANCIES + DELAYED REPORTS + WEAK REGIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM TRANSPARENT APPOINTMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "TIME-BOUND STAFFING",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON INTAKE/REFERRAL",
+          "role": "primary"
+        },
+        {
+          "text": "JOINT INQUIRY PROTOCOL",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC ACTION-TAKEN DASHBOARD",
+          "role": "comparison"
+        },
+        {
+          "text": "RESEARCH CAPACITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IMPLEMENTATION GAPS vacancies + delayed reports + weak regional access + fragmented complaint data poor",
+        "REFORM transparent appointments → time-bound staffing → common intake/referral",
+        "joint inquiry protocol → public action-taken dashboard",
+        "research capacity → reasoned government response.",
+        "PRELIMS FIREWALL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "IMPLEMENTATION GAPS vacancies + delayed reports + weak regional access + fragmented complaint data poor recommendation tracking + overlapping forums.",
+            "REFORM transparent appointments → time-bound staffing → common intake/referral",
+            "joint inquiry protocol → public action-taken dashboard",
+            "research capacity → reasoned government response.",
+            "PRELIMS FIREWALL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "338A NCST",
+            "338B NCBC",
+            "Chair + Vice-Chair + three Members civil-court powers only for inquiry",
+            "recommendations generally advisory",
+            "341 SC"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "342A Central/State SEBC architecture.",
+            "PYQ ROUTES",
+            "2018 NCSC/minority reservation + umbrella commission",
+            "2020 constitutionalisation",
+            "2022 NCBC"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2024 ST list.",
+            "MAINS SPINE constitutional purpose → common powers → distinct domain → legal limit",
+            "case/amendment → implementation gap → coordinated-specialisation verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Overlapping discrimination or welfare failures may engage several commissions, but each body retains its own constitutional mandate rather than becoming an all-purpose authority.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\polity-31_Complete-Learning-Session_2026-08-24.md#SESSION 19"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE BIG PICTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "PART A — NCSC (ART 338) & NCST (ART",
+          "role": "comparison"
+        },
+        {
+          "text": "PART B — NCBC (ART 338-B)",
+          "role": "evidence"
+        },
+        {
+          "text": "PART C — LINGUISTIC MINORITIES (ART 350-B)",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOSITION (EACH)",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAIRPERSON + VICE-CHAIRPERSON + 3 MEMBERS , APPOINTED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "INVESTIGATE/MONITOR SC/ST SAFEGUARDS; INQUIRE INTO COMPLAINTS; ADVISE ON &",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "THE BIG PICTURE",
+            "PART A — NCSC (Art 338) & NCST (Art 338-A)",
+            "PART B — NCBC (Art 338-B)",
+            "PART C — LINGUISTIC MINORITIES (Art 350-B)"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Composition (each): Chairperson + Vice-Chairperson + 3 members , appointed by the President by",
+            "Functions: investigate/monitor SC/ST safeguards; inquire into complaints; advise on & evaluate",
+            "Civil-court powers while investigating (summon persons, require documents, receive affidavit evidence,",
+            "NCST extra duties (tribal-specific): safeguards under forest/mining law, minor forest produce, PESA/FRA"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Composition: Chairperson + Vice-Chairperson + 3 members (President-appointed).",
+            "Centre & states must consult the NCBC on all major policy matters affecting SEBCs.",
+            "CAUTION: 105th Amendment (2021): restored states'/UTs' power to make their own SEBC/OBC lists (after the SC's",
+            "Special Officer for Linguistic Minorities , appointed by the President → investigates safeguards for"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

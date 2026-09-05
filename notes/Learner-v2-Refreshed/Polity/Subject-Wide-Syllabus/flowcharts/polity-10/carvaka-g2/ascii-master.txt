@@ -1,0 +1,171 @@
+ASCII MASTER FLOW — PANEL 1/9: Constitutional change: flexible routes, entrenched identity
+CONSTITUTIONAL CHANGE
+  +-- SIMPLE MAJORITY OUTSIDE ARTICLE 368
+  |     +-- ordinary legislative power; legally not an Article 368 amendment
+  |
+  +-- ARTICLE 368 SPECIAL MAJORITY
+  |     +-- majority of total membership of each House
+  |     +-- at least two-thirds of members present and voting
+  |
+  +-- SPECIAL MAJORITY + RATIFICATION BY AT LEAST HALF OF STATES
+        +-- only for the exact federal proviso subjects
+
+POWER DISTINCTION
+ordinary legislative power -> changes law within constitutional competence
+constituent power -> changes constitutional text by addition, variation or repeal
+
+IDENTITY LIMIT
+Parliament may amend every provision, but cannot destroy the Constitution's basic structure.
+
+ASCII MASTER FLOW — PANEL 2/9: Article 368 procedure: separate Houses, no shortcuts
+AMENDMENT BILL
+  +-- may originate in either House of Parliament
+  +-- may be introduced by a minister or private member
+  +-- no prior Presidential recommendation is required
+        |
+EACH HOUSE PASSES SEPARATELY
+  +-- majority of total membership
+  +-- two-thirds of members present and voting
+  +-- abstentions reduce present-and-voting denominator, not total membership
+        |
+NO JOINT SITTING -> failure in either House ends the Bill
+        |
+STATE RATIFICATION, IF PROVISO APPLIES
+  +-- resolutions by at least half of State legislatures
+  +-- no time limit in Article 368; States cannot amend the Bill
+        |
+PRESIDENT SHALL ASSENT -> Constitution stands amended
+
+2026 defeated Bill: total-membership limb passed; two-thirds limb failed.
+
+ASCII MASTER FLOW — PANEL 3/9: Federal ratification: the exact Article 368 proviso map
+RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO
+  +-- election of the President: Articles 54 and 55
+  +-- Union and State executive power: Articles 73 and 162
+  +-- Supreme Court and High Courts: Chapter IV of Part V; Chapter V of Part VI
+  +-- distribution of legislative powers: Chapter I of Part XI
+  +-- any of the Lists in the Seventh Schedule
+  +-- representation of States in Parliament
+  +-- Article 368 itself
+
+NOT THE RULE
+  +-- every amendment with federal consequences
+  +-- every change concerning a Governor
+  +-- consent of every State
+
+STATE ROLE
+ratify or refuse the passed text -> no initiation, amendment or joint conference power.
+
+ASCII MASTER FLOW — PANEL 4/9: From Shankari Prasad (1951) to Minerva Mills (1980): the core doctrine chain
+SHANKARI PRASAD (1951) -> amendment is not Article 13 "law"; FR may be amended
+SAJJAN SINGH (1964)    -> repeats amendability; doubts emerge
+I.C. GOLAKNATH (1967)       -> Parliament cannot amend Fundamental Rights
+1971 24TH AMENDMENT  -> constituent power and mandatory assent affirmed
+1971 25TH AMENDMENT  -> Article 31C and property-related changes
+KESAVANANDA BHARATI (1973)     -> every provision amendable; basic structure cannot be damaged
+INDIRA NEHRU GANDHI V. RAJ NARAIN (1975)   -> free and fair elections / judicial review protect
+  democracy
+1976 42ND AMENDMENT  -> attempted unlimited amending power
+MINERVA MILLS (1980)   -> limited amending power and FR-DPSP harmony protected
+WAMAN RAO (1980)       -> 24 April 1973 Ninth Schedule cut-off
+I.R. COELHO (2007)     -> post-cut-off insertions face basic-structure impact review
+
+FORMULA: amend the Constitution -> do not destroy its constitutional identity.
+
+ASCII MASTER FLOW — PANEL 5/9: Basic-structure elements: non-exhaustive and case-attributed
+BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST
+  +-- supremacy of the Constitution
+  +-- republican and democratic government
+  +-- secularism
+  +-- federalism
+  +-- separation of powers
+  +-- rule of law
+  +-- judicial review
+  +-- independence of the judiciary
+  +-- free and fair elections
+  +-- dignity, liberty and equality within the rights architecture
+  +-- harmony and balance between Fundamental Rights and DPSP
+  +-- limited amending power
+
+METHOD
+identify the amendment -> identify the protected feature -> prove damage, not policy dislike
+
+TRAP: Kesavananda Bharati (1973) did not supply one unanimous, exhaustive catalogue.
+
+ASCII MASTER FLOW — PANEL 6/9: Ninth Schedule: insertion is not immunity after the 1973 cut-off
+FIRST AMENDMENT, 1951
+  +-- Article 31B + Ninth Schedule protect listed laws from specified rights challenge
+        |
+WAMAN RAO (1980)
+  +-- 24 April 1973 becomes the controlling cut-off
+        |
+I.R. COELHO (2007)
+  +-- post-cut-off insertions are reviewable
+  +-- court tests impact on Part III rights forming part of basic structure
+        |
+OUTCOME
+reviewable != automatically invalid
+listed != permanently immune
+pre-cut-off != beyond every constitutional question
+
+ANSWER TEST
+1 identify insertion date
+2 identify affected right / basic feature
+3 examine actual constitutional damage
+4 state the remedy narrowly.
+
+ASCII MASTER FLOW — PANEL 7/9: The Anjum Kadari (2024) boundary: amendments versus ordinary statutes
+CONSTITUTIONAL AMENDMENT
+  +-- directly tested against basic structure under Article 368 doctrine
+
+ORDINARY STATUTE
+  +-- cannot be invalidated only because it offends an undefined basic feature
+  +-- invalidity must be traced to:
+        +-- legislative incompetence
+        +-- violation of Part III
+        +-- another concrete constitutional provision
+
+ANJUM KADARI (2024) INSC 831
+  +-- supplies the current technical boundary
+  +-- basic features may guide interpretation and cumulative constitutional reading
+  +-- they do not become a free-standing super-Article against ordinary legislation
+
+EXAM CORRECTION
+write "violates Article X embodying the feature", not merely "violates basic structure".
+
+ASCII MASTER FLOW — PANEL 8/9: Current controls and the judicial-supremacy debate
+106TH AMENDMENT
+  +-- S.O. 1922(E), 16 April 2026 commenced the amendment framework
+  +-- Article 334A still requires post-commencement census figures + delimitation
+  +-- therefore commenced != operational reservation
+
+131ST AMENDMENT BILL, 2026
+  +-- proposal, not law; negatived in Lok Sabha on 17 April 2026
+  +-- useful for dual-majority arithmetic, not for precedent or current seat ceilings
+
+DEBATE
+judicial defence -> majority cannot abolish elections, rights, federal voice or review
+critique          -> doctrine is unwritten, uncertain and potentially counter-majoritarian
+
+DISCIPLINED POSITION
+text + precedent + actual damage + narrow remedy -> legitimate identity review.
+
+ASCII MASTER FLOW — PANEL 9/9: Prelims traps, verified PYQs and the Mains answer spine
+PRELIMS CONTROL
+Article 368 -> addition, variation or repeal      no joint sitting
+both Houses use both special-majority limbs       President shall assent
+State ratification -> at least half, exact list   simple-majority changes lie outside 368
+basic structure -> non-exhaustive doctrine        ordinary-statute boundary applies
+Ninth Schedule -> post-24 April 1973 review       reviewability is not automatic invalidity
+
+VERIFIED PYQS
+2 Mains: 2019 Q12 and 2025 Q12
+8 Prelims: 2018 Q5; 2019 Q45/Q47; 2020 Q13; 2022 Q13; 2023 Q34; 2024 Q66; 2025 Q58
+Official local keys: 2024 Q66 = D; 2025 Q58 = A. Earlier keys remain labelled inferred.
+
+MAINS SPINE
+1 distinguish ordinary, special and ratified change routes
+2 state exact Article 368 procedure
+3 trace doctrine chronology and protected identity
+4 apply Ninth Schedule / ordinary-statute / current controls
+5 evaluate flexibility versus judicial review and conclude: amend, do not destroy.

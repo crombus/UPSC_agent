@@ -1,0 +1,193 @@
+ASCII MASTER FLOW — PANEL 1/9: Fiscal-federal problem and the Articles 270-282 constitutional chain
+ROOT PROBLEM
+Union has broader buoyant taxes; States carry service-heavy expenditure duties.
+
+VERTICAL IMBALANCE
+Union versus all States -> size of States' collective share.
+
+HORIZONTAL IMBALANCE
+differences among States -> inter se distribution formula.
+
+ARTICLE CHAIN
+270 divisible taxes | 271 Union surcharges | 275 grants-in-aid
+279 net proceeds and CAG certification | 280 Finance Commission
+281 report + explanatory memorandum | 282 public-purpose grants.
+
+CORE DISTINCTION
+gross tax revenue != net proceeds != divisible pool != State share != grants.
+
+ASCII MASTER FLOW — PANEL 2/9: Article 280 institution: constitution, qualifications, procedure and report
+CONSTITUTION
+President constitutes every fifth year or earlier if necessary.
+Chairman + four other members.
+
+FINANCE COMMISSION ACT, 1951
+Chairman -> public-affairs experience.
+Other members -> judicial qualification | government finance/accounts
+| financial administration | economics.
+
+OPERATING DESIGN
+President appoints and fixes terms through constituting order
+-> Commission determines procedure -> civil-court-type evidentiary powers.
+
+ARTICLE 281
+recommendations + explanatory memorandum on action taken
+-> laid before each House of Parliament.
+
+LIMIT
+recommendations are expert and advisory, not self-executing decrees.
+
+ASCII MASTER FLOW — PANEL 3/9: Divisible pool, vertical share and horizontal devolution formula
+GROSS UNION TAX COLLECTION
+minus collection cost -> net proceeds.
+
+OUTSIDE THE SHAREABLE POOL
+Article 271 surcharges + constitutionally earmarked cesses + excluded receipts.
+
+DIVISIBLE POOL
+specified net Union-tax proceeds under Article 270.
+
+VERTICAL DEVOLUTION
+Commission recommends percentage for all States together.
+
+HORIZONTAL DEVOLUTION
+State share distributed by weighted criteria:
+income distance / need | population | area | forest/ecology
+| demographic performance | tax effort | other award-specific criteria.
+
+ANALYTICAL TEST
+equity + efficiency + predictability + data quality + incentives.
+
+TRAP
+a high headline percentage does not neutralise a shrinking divisible base.
+
+ASCII MASTER FLOW — PANEL 4/9: Grants-in-aid, Article 282 and the tax-versus-grant distinction
+ARTICLE 275
+Parliament may provide grants-in-aid of revenues of States in need
+and constitutionally specified welfare/administration grants.
+
+FINANCE COMMISSION ROLE
+recommend principles governing Article 275 grants
+and award-specific grant categories within terms of reference.
+
+ARTICLE 282
+Union or State may make grants for any public purpose
+even beyond the ordinary legislative field.
+
+Bhim Singh (2010)
+supports the breadth of Article 282 public-purpose grants.
+
+TAX DEVOLUTION                         GRANT
+share in common tax pool               transfer for need/purpose/design
+formula entitlement                    may be conditional or category-specific.
+
+LIMIT
+Finance Commission grant, Article 282 grant and centrally sponsored scheme are not synonyms.
+
+ASCII MASTER FLOW — PANEL 5/9: Panchayat, Municipality and State Finance Commission augmentation chain
+73RD AND 74TH AMENDMENT LINK
+Article 280(3)(bb) -> augment State Consolidated Fund for Panchayats.
+Article 280(3)(c)  -> augment State Consolidated Fund for Municipalities.
+
+TEXTUAL BASIS
+recommendations of the State Finance Commission under Articles 243I and 243Y.
+
+FLOW
+local functions and finances -> SFC assessment
+-> Union Finance Commission augmentation recommendation
+-> Union budget/guidelines -> State fund -> eligible local bodies.
+
+ACCOUNTABILITY
+accounts + audit + timely SFCs + transparent release + service outcomes.
+
+LIMIT
+Union local-body grants supplement; they do not replace State devolution,
+own revenue or the constitutional role of State Finance Commissions.
+
+ASCII MASTER FLOW — PANEL 6/9: Fourteenth, Fifteenth and Sixteenth Finance Commission trajectory
+FOURTEENTH FINANCE COMMISSION: 2015-20
+States' vertical share raised from 32% to 42%.
+
+FIFTEENTH FINANCE COMMISSION: 2021-26
+41% vertical share; six horizontal criteria
+including demographic performance, forest/ecology and tax/fiscal effort.
+
+SIXTEENTH FINANCE COMMISSION
+constituted 31 December 2023 -> report submitted 17 November 2025
+-> award period 2026-27 to 2030-31
+-> Explanatory Memorandum tabled 1 February 2026.
+
+DATED CONTROL
+41% vertical share accepted for 2026-31.
+Per-capita GSDP distance carries the largest horizontal weight, 42.5%;
+GDP contribution appears with 10% weight.
+
+LIMIT
+report recommendation, government acceptance and annual implementation must remain separate.
+
+ASCII MASTER FLOW — PANEL 7/9: Disaster finance, debt, borrowing and whole-government fiscal risk
+DISASTER FINANCE
+Finance Commission may recommend disaster-management funding arrangements
+within its terms of reference and the Disaster Management Act framework.
+
+FISCAL ROADMAP
+deficit and debt paths -> Union/State sustainability
+-> transparent liabilities -> credible budget institutions.
+
+OFF-BUDGET RISK
+public entities borrow or defer payment outside headline budget
+-> contingent liability or future servicing pressure
+-> incomplete fiscal picture unless consolidated.
+
+ARTICLE 293 LINK
+State borrowing and Union consent conditions belong to the wider fiscal-federal system.
+
+REFORM
+comparable accounts + debt register + guarantee disclosure
+-> independent projections + medium-term correction.
+
+LIMIT
+Finance Commission advice does not itself amend borrowing law or erase political choices.
+
+ASCII MASTER FLOW — PANEL 8/9: Finance Commission compared with GST Council, NITI Aayog, CAG and SFC
+FINANCE COMMISSION
+Article 280 | periodic expert body | tax devolution + grants + fiscal advice.
+
+GST COUNCIL
+Article 279A | continuing Union-State forum | GST recommendations and bargaining.
+Mohit Minerals (2022) -> recommendations persuasive, not legislative commands.
+
+NITI AAYOG
+executive-resolution policy platform | strategy and cooperative dialogue
+| no Article 280 transfer award.
+
+CAG
+Articles 148-151 | audits and certifies net proceeds under Article 279
+| does not allocate the divisible pool.
+
+STATE FINANCE COMMISSION
+Articles 243I/243Y | State-local fiscal relations every five years.
+
+TRAP
+coordination, distribution, strategy, audit and State-local review are different functions.
+
+ASCII MASTER FLOW — PANEL 9/9: Fiscal-federal debates, PYQ routes, traps and final answer spine
+CORE DEBATES
+cesses/surcharges and divisible-pool erosion | equity versus incentive
+| data lag and climate/ecology costs | tied schemes versus State autonomy
+| local-body absorption and accountability | debt and off-budget opacity.
+
+PRELIMS FIREWALL
+Chair + four | five years or earlier | President constitutes
+| Article 281 requires report and memorandum
+| vertical != horizontal | Article 275 != Article 282
+| SFC != Union Finance Commission | CAG certifies net proceeds.
+
+PYQ ROUTES
+2018 constitution/ToR | 2021 Fourteenth FC | 2023 horizontal criteria
+| 2025 Fifteenth FC facts | 2025 Centre-State finance.
+
+MAINS SPINE
+define imbalance -> article chain -> transfer mechanism -> award evidence
+-> contested incentive/autonomy effect -> implementation qualification
+-> predictable, transparent and accountable fiscal-federal verdict.

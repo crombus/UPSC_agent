@@ -1,0 +1,157 @@
+ASCII MASTER FLOW — PANEL 1/9: Canonical Part XXI scope and the boundary with other topics
+PART XXI: TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS
+Articles 369-392 include time-bound transitional rules, continuance/adaptation devices
+and State-specific constitutional asymmetry.
+
+THIS TOPIC OWNS
+Article 370 evolution/current status + Articles 371-371J + asymmetry mechanisms.
+
+DISTINCT OWNERS
+Part XVIII emergencies | reservation/class provisions | Part X and Fifth/Sixth Schedules
+| ordinary Union-State flexibility | Union Territory administration.
+
+CORE IDEA
+constitutional equality permits reasoned differentiation; special treatment remains
+inside one Constitution and does not create separate sovereignty.
+
+ASCII MASTER FLOW — PANEL 2/9: Article 370 before 2019: accession, Orders and constitutional application
+PRE-2019 OPERATING CHAIN
+Instrument of Accession fields -> Article 370(1) consultation/concurrence
+-> Presidential Orders -> wider Constitution and Union-law application to J&K.
+
+ARTICLE 35A
+1954 Constitution Application Order -> permanent-resident definition and specified protections.
+
+CONSTITUENT ASSEMBLY ISSUE
+Article 370(3) proviso referred to J&K Constituent Assembly; it dissolved in 1957.
+
+Sampat Prakash (1968) -> Article 370 and Presidential-Order practice continued after 1957.
+
+LIMIT
+autonomy was constitutionally mediated; it did not amount to external sovereignty.
+
+ASCII MASTER FLOW — PANEL 3/9: The 2019 constitutional-order and reorganisation sequence
+5 AUGUST 2019
+C.O. 272 under Article 370(1) -> Constitution applied comprehensively
+-> interpretive change used the State-legislature route while President's Rule operated.
+
+PARLIAMENTARY RESOLUTION
+recommended Article 370(3) declaration.
+
+6 AUGUST 2019
+C.O. 273 -> Article 370 provisions ceased to operate except the modified declaration.
+
+J&K REORGANISATION ACT, 2019
+former State -> UT of Jammu and Kashmir with legislature
++ UT of Ladakh without legislature, effective 31 October 2019.
+
+TRAP
+Presidential Orders, parliamentary resolution and reorganisation statute are distinct legal acts.
+
+ASCII MASTER FLOW — PANEL 4/9: In Re Article 370 (2023): holdings and issues left open
+In Re: Article 370 of the Constitution (2023)
+  +-- Article 370 was temporary; J&K had no internal sovereignty after accession
+  +-- Article 370(3) power survived dissolution of the J&K Constituent Assembly
+  +-- C.O. 273 declaration was upheld
+  +-- C.O. 272's Article 367 route was invalid, but the final outcome survived independently
+  +-- J&K Constitution became inoperative after full application of India's Constitution.
+
+OPEN / QUALIFIED
+Court recorded restoration-of-Statehood assurance and set no judicial deadline.
+It did not finally decide the State-to-UT conversion issue after the Union concession.
+
+VERDICT
+the Article 370 abrogation question is judicially settled; Statehood timing remains political/legal.
+
+ASCII MASTER FLOW — PANEL 5/9: Current Jammu and Kashmir and Ladakh position
+JAMMU AND KASHMIR
+Union Territory with legislature | Assembly elections held Sep-Oct 2024
+| Statehood not restored as of 24 August 2026.
+
+LADAKH
+Union Territory without legislature.
+Demands include Statehood, Sixth Schedule protection and Article 371-type safeguards.
+
+LEGAL STATUS CONTROL
+demands, committee talks and political assurances are not enacted constitutional change.
+
+DISTINCTION
+J&K Statehood restoration -> reorganisation/federal-status question
+Ladakh Sixth Schedule -> Article 244 + Sixth Schedule autonomy question
+Article 371-type protection -> Part XXI amendment question.
+
+ASCII MASTER FLOW — PANEL 6/9: Articles 371 to 371D: development and regional-equity mechanisms
+ARTICLE 371
+Maharashtra/Gujarat -> Governor's special responsibility for regional development boards,
+equitable funds and opportunities.
+
+ARTICLE 371A: NAGALAND
+specified religious/social practices, customary law, customary justice and land/resources
+shielded from parliamentary law unless State Assembly resolves otherwise.
+
+ARTICLE 371B: ASSAM
+Assembly committee for tribal areas.
+
+ARTICLE 371C: MANIPUR
+Hill Areas Committee + Governor reporting/special responsibility framework.
+
+ARTICLE 371D: ANDHRA PRADESH/TELANGANA
+equitable local opportunities in public employment/education; presidential-order mechanism.
+ARTICLE 371E merely enables a Central University in Andhra Pradesh.
+
+ASCII MASTER FLOW — PANEL 7/9: Articles 371F to 371J: identity, law-and-order and local opportunity
+ARTICLE 371F: SIKKIM
+integration-specific Assembly, representation and continuity protections.
+
+ARTICLE 371G: MIZORAM
+specified religious/social practices, customary law/justice and land protection
+unless State Assembly resolves otherwise; distinct from Nagaland's resource wording.
+
+ARTICLE 371H: ARUNACHAL PRADESH
+Governor's special responsibility for law and order, exercised after ministerial consultation.
+
+ARTICLE 371I: GOA
+minimum Assembly size safeguard.
+
+ARTICLE 371J: KALYANA KARNATAKA
+development board, equitable funds and local reservation/opportunity mechanisms.
+
+EXAM RULE
+match State -> Article -> protected subject -> decision-maker -> consent/resolution requirement.
+
+ASCII MASTER FLOW — PANEL 8/9: Mechanism comparison: Orders, amendments and tribal Schedules
+ARTICLE 370 HISTORIC ROUTE
+Presidential Orders under its own text -> now inoperative after 2019/2023 control.
+
+ARTICLES 371-371J
+constitutional text created or changed through constitutional-amendment history;
+some clauses authorise Presidential Orders or Governor responsibilities for implementation.
+
+FIFTH SCHEDULE
+Scheduled Areas + Governor/Tribes Advisory Council + presidential declaration architecture.
+
+SIXTH SCHEDULE
+autonomous district/regional councils in Assam, Meghalaya, Tripura and Mizoram.
+
+DO NOT MERGE
+Article 371A/371G consent shields != Sixth Schedule councils
+!= Fifth Schedule administration != Article 370's former application mechanism.
+
+ASCII MASTER FLOW — PANEL 9/9: Federalism, equality, current traps and qualified synthesis
+WHY ASYMMETRY
+historical compact + cultural identity + tribal land/custom + regional imbalance
+-> tailored guarantee -> integration with protection.
+
+RISKS
+insider-outsider exclusion | weak implementation | Governor controversy
+| unequal opportunity | permanent grievance politics.
+
+PRELIMS FIREWALL
+Article 370 printed but inoperative | Articles 371-371J still operative
+| 371E enables a university | 371I concerns Goa | 371H law and order
+| Fifth/Sixth Schedules are not Part XXI | Ladakh demands are not law.
+
+MAINS SPINE
+define asymmetric federalism -> classify mechanism -> exact Article/State
+-> benefit -> equality/federal counterpoint -> implementation reform
+-> unity through constitutionally bounded and reviewable difference.

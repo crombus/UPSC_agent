@@ -1,0 +1,1001 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-25",
+  "subject": "Polity",
+  "title": "UNION TERRITORIES",
+  "short_route": "WHY UNION TERRITORIES EXIST → PRESIDENT, ADMINISTRATOR AND PARLIAMENT → ARTICLE 240 REGULATIONS, HIGH → DELHI ARTICLE 239AA: ELECTED → DELHI CASES, SERVICES AND → PUDUCHERRY UNDER ARTICLE 239A",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-25-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "5f14d5a4e348cd14b6cacc3650341cdec99fc8f95be384b1401e34f12609c5a8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHY UNION TERRITORIES EXIST AND HOW PART VIII CLASSIFIES THEM",
+      "structural_type": "ut-rationale-classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHY UNION TERRITORIES EXIST AND HOW PART VIII CLASSIFIES",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL LOCATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 1",
+          "role": "institution"
+        },
+        {
+          "text": "STATES AND UNION TERRITORIES FORM THE TERRITORY OF INDIA.",
+          "role": "evidence"
+        },
+        {
+          "text": "PART VIII",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 239-241; RELATED ARTICLES 239A, 239AA, 239AB AND 240.",
+          "role": "outcome"
+        },
+        {
+          "text": "RATIONALES SMALL SIZE",
+          "role": "comparison"
+        },
+        {
+          "text": "STRATEGIC FRONTIER/ISLANDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL LOCATION",
+        "Article 1 → States and Union Territories form the territory of India.",
+        "Part VIII → Articles 239-241; related Articles 239A, 239AA, 239AB and 240.",
+        "RATIONALES small size",
+        "strategic frontier/islands"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL LOCATION",
+            "Article 1 → States and Union Territories form the territory of India.",
+            "Part VIII → Articles 239-241; related Articles 239A, 239AA, 239AB and 240.",
+            "RATIONALES small size"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "strategic frontier/islands",
+            "national capital cultural/administrative history",
+            "transitional reorganisation.",
+            "CURRENT EIGHT"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Andaman and Nicobar Islands",
+            "Dadra and Nagar Haveli and Daman and Diu",
+            "Jammu and Kashmir",
+            "CLASSIFICATION with legislature: Delhi, Puducherry, J&K without legislature: the other five."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORE IDEA one constitutional label contains deliberately unequal governance models."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "\"Centrally administered\" does not mean absence of courts, local bodies or public representation; it means the federal distribution differs from that of a State.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 5"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PRESIDENT, ADMINISTRATOR AND PARLIAMENT IN THE UT ADMINISTRATION CHAIN",
+      "structural_type": "ut-administration-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRESIDENT, ADMINISTRATOR AND PARLIAMENT IN THE UT ADMINISTRATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 239",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT ADMINISTERS UT THROUGH AN APPOINTED ADMINISTRATOR UNLESS THE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIEUTENANT GOVERNOR DESIGNATION DOES NOT CONVERT THE OFFICE INTO",
+          "role": "caution"
+        },
+        {
+          "text": "POWER DEPENDS ON THE EXACT CONSTITUTION, STATUTE AND RULES.",
+          "role": "mechanism"
+        },
+        {
+          "text": "PARLIAMENT MAY LEGISLATE FOR ANY UT, INCLUDING MATTERS OTHERWISE",
+          "role": "outcome"
+        },
+        {
+          "text": "UT WITH LEGISLATURE LOCAL ASSEMBLY + COUNCIL OF MINISTERS",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT RETAINS OVERRIDING LEGISLATIVE COMPETENCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 239",
+        "President administers UT through an appointed Administrator unless the Constitution or parliamentary law creates another",
+        "ADMINISTRATOR / LIEUTENANT GOVERNOR designation does not convert the office into a Part VI State",
+        "power depends on the exact Constitution, statute and rules.",
+        "PARLIAMENT may legislate for any UT, including matters otherwise in the State List."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 239",
+            "President administers UT through an appointed Administrator unless the Constitution or parliamentary law creates another arrangement.",
+            "ADMINISTRATOR / LIEUTENANT GOVERNOR designation does not convert the office into a Part VI State Governor."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "power depends on the exact Constitution, statute and rules.",
+            "PARLIAMENT may legislate for any UT, including matters otherwise in the State List.",
+            "UT WITH LEGISLATURE local Assembly + Council of Ministers operate only inside the allotted field."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Parliament retains overriding legislative competence.",
+            "ARTICLE 239A",
+            "Parliament may create Puducherry legislature/CoM by law."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 239B → Administrator ordinance within the statutory legislature model."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 239 establishes presidential administration through an Administrator, but each Territory's discretion and institutions depend on the Constitution and governing statute.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLE 240 REGULATIONS, HIGH COURTS, BUDGETS AND REPRESENTATION",
+      "structural_type": "ut-law-finance-justice-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLE 240 REGULATIONS, HIGH COURTS, BUDGETS AND REPRESENTATION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 240",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT MAY MAKE REGULATIONS FOR LISTED UTS; A REGULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS AVAILABILITY CHANGES WHEN A QUALIFYING LEGISLATURE IS FUNCTIONING.",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 241",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT MAY CONSTITUTE A HIGH COURT FOR A UT",
+          "role": "institution"
+        },
+        {
+          "text": "JUDICIAL MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "DELHI HAS ITS HIGH COURT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 240",
+        "President may make regulations for listed UTs; a regulation can amend/repeal Acts.",
+        "Its availability changes when a qualifying legislature is functioning.",
+        "ARTICLE 241",
+        "Parliament may constitute a High Court for a UT or extend another High Court's jurisdiction."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 240",
+            "President may make regulations for listed UTs; a regulation can amend/repeal Acts.",
+            "Its availability changes when a qualifying legislature is functioning."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 241",
+            "Parliament may constitute a High Court for a UT or extend another High Court's jurisdiction.",
+            "JUDICIAL MAP"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Delhi has its High Court",
+            "J&K and Ladakh share one High Court other UTs use constitutionally/statutorily assigned High Courts.",
+            "BUDGET AND REPRESENTATION legislature UTs have statutory/constitutional budget procedures."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Parliamentary representation follows the Constitution and representation statutes.",
+            "LIMIT direct Union administration does not mean absence of courts, elected MPs or local bodies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Parliament may constitute or designate High Courts for Union Territories under Article 241, subject to the statutory modifications and exceptions governing each court.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 21"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DELHI ARTICLE 239AA: ELECTED GOVERNMENT INSIDE RESERVED-FIELD ASYMMETRY",
+      "structural_type": "delhi-239aa-competence-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DELHI ARTICLE 239AA",
+          "role": "institution"
+        },
+        {
+          "text": "ELECTED GOVERNMENT INSIDE RESERVED-FIELD ASYMMETRY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 239AA",
+          "role": "institution"
+        },
+        {
+          "text": "NCT ASSEMBLY MAY LEGISLATE ON STATE/CONCURRENT MATTERS",
+          "role": "institution"
+        },
+        {
+          "text": "EXCEPT PUBLIC ORDER, POLICE AND LAND, PLUS RELATED ENTRIES.",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTIVE POWER NORMALLY CO-EXTENSIVE WITH THE ALLOTTED LEGISLATIVE FIELD.",
+          "role": "mechanism"
+        },
+        {
+          "text": "COUNCIL OF MINISTERS AIDS AND ADVISES LG WITHIN THAT",
+          "role": "institution"
+        },
+        {
+          "text": "REFERENCE MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 239AA",
+        "NCT Assembly may legislate on State/Concurrent matters",
+        "EXCEPT public order, police and land, plus related entries.",
+        "EXECUTIVE POWER normally co-extensive with the allotted legislative field.",
+        "Council of Ministers aids and advises LG within that field."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 239AA",
+            "NCT Assembly may legislate on State/Concurrent matters",
+            "EXCEPT public order, police and land, plus related entries."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "EXECUTIVE POWER normally co-extensive with the allotted legislative field.",
+            "Council of Ministers aids and advises LG within that field.",
+            "REFERENCE MECHANISM"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LG difference route is exceptional and must not convert \"any matter\" into \"every matter\".",
+            "PARLIAMENTARY OVERRIDE",
+            "Parliament may legislate for Delhi on any subject; inconsistent local law yields as provided."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NCT IS NOT A STATE representative government is constitutionally real but operates inside Union-capital safeguards."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Puducherry's legislature is constitutionally enabled but statutorily constituted; Delhi's Assembly is itself written into Article 239AA.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 26"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DELHI CASES, SERVICES AND THE OPERATIVE 2023 STATUTORY LAYER",
+      "structural_type": "delhi-case-law-current-control",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DELHI CASES, SERVICES AND THE OPERATIVE 2023 STATUTORY LAYER",
+          "role": "primary"
+        },
+        {
+          "text": "GNCTD AID-AND-ADVICE JUDGMENT (2018) AID/ADVICE IS THE RULE WITHIN",
+          "role": "outcome"
+        },
+        {
+          "text": "DELHI SERVICES JUDGMENT (2023)",
+          "role": "comparison"
+        },
+        {
+          "text": "ENTRY 41 SERVICES FOLLOWED THE REPRESENTATIVE-ACCOUNTABILITY CHAIN OUTSIDE PUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "GNCTD AMENDMENT ACT, 2023",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL CAPITAL CIVIL SERVICE AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LG MAY DIFFER AND HAS THE STATUTORY FINAL DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GNCTD aid-and-advice judgment (2018) aid/advice is the rule within Delhi's field; LG has no general",
+        "Delhi services judgment (2023)",
+        "Entry 41 services followed the representative-accountability chain outside public order, police and land.",
+        "GNCTD AMENDMENT ACT, 2023",
+        "National Capital Civil Service Authority → recommendation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GNCTD aid-and-advice judgment (2018) aid/advice is the rule within Delhi's field; LG has no general independent power.",
+            "Delhi services judgment (2023)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Entry 41 services followed the representative-accountability chain outside public order, police and land.",
+            "GNCTD AMENDMENT ACT, 2023"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "National Capital Civil Service Authority → recommendation",
+            "LG may differ and has the statutory final decision on disagreement."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CURRENT CONTROL: 24 AUGUST 2026 the Act is treated as operative; a pending challenge is not a final invalidation.",
+            "ANSWER RULE state the 2018 principle → 2023 services holding → later statute → pending-review caveat."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Presidential assent can allow the local law to prevail in Delhi, subject to Parliament's later power.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 28",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 30"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PUDUCHERRY UNDER ARTICLE 239A AND ITS NOMINATED-MEMBER DESIGN",
+      "structural_type": "puducherry-statutory-model",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PUDUCHERRY UNDER ARTICLE 239A AND ITS NOMINATED-MEMBER DESIGN",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT, 1963",
+          "role": "institution"
+        },
+        {
+          "text": "LEGISLATIVE FIELD DEFINED BY PARLIAMENTARY LAW; PARLIAMENT RETAINS UT-WIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "K. LAKSHMINARAYANAN (2018) UPHELD CENTRAL NOMINATION OF ASSEMBLY MEMBERS",
+          "role": "institution"
+        },
+        {
+          "text": "NOMINEES MAY VOTE UNLESS THE LAW PROVIDES OTHERWISE.",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 240 PRESIDENTIAL-REGULATION POWER IS UNAVAILABLE WHILE THE LEGISLATURE",
+          "role": "institution"
+        },
+        {
+          "text": "LIMIT PUDUCHERRY IS NOT DELHI",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 239A STATUTORY DESIGN",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT, 1963 statutory Assembly + Council of Ministers",
+        "LEGISLATIVE FIELD defined by parliamentary law; Parliament retains UT-wide competence.",
+        "K. Lakshminarayanan (2018) upheld Central nomination of Assembly members under the governing statute.",
+        "Nominees may vote unless the law provides otherwise.",
+        "ARTICLE 240 presidential-regulation power is unavailable while the legislature operates and may revive during dissolution/suspension"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT, 1963 statutory Assembly + Council of Ministers + Administrator.",
+            "LEGISLATIVE FIELD defined by parliamentary law; Parliament retains UT-wide competence."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "K. Lakshminarayanan (2018) upheld Central nomination of Assembly members under the governing statute.",
+            "Nominees may vote unless the law provides otherwise."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 240 presidential-regulation power is unavailable while the legislature operates and may revive during dissolution/suspension under the constitutional",
+            "LIMIT Puducherry is not Delhi: Article 239A statutory design != Article 239AA NCT design."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT, 1963 statutory Assembly + Council of Ministers + Administrator.",
+            "LEGISLATIVE FIELD defined by parliamentary law; Parliament retains UT-wide competence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 240 presidential regulation recedes while Puducherry's legislature functions and revives during dissolution or suspension, unlike the separate Article 239B ordinance route.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 31",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 32",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 33"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "JAMMU AND KASHMIR, LADAKH AND THE PRESENT STATUTORY POSITION",
+      "structural_type": "jk-ladakh-current-ut-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "JAMMU AND KASHMIR, LADAKH AND THE PRESENT STATUTORY POSITION",
+          "role": "primary"
+        },
+        {
+          "text": "J&K REORGANISATION ACT, 2019 FORMER STATE",
+          "role": "institution"
+        },
+        {
+          "text": "J&K UT WITH LEGISLATURE + LADAKH UT WITHOUT LEGISLATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "J&K ASSEMBLY STATUTORY LEGISLATIVE FIELD AND LG RELATIONSHIP FOLLOW",
+          "role": "institution"
+        },
+        {
+          "text": "POLICE AND PUBLIC ORDER REMAIN OUTSIDE THE ASSEMBLY'S ORDINARY",
+          "role": "institution"
+        },
+        {
+          "text": "IN RE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 370 OF THE CONSTITUTION (2023) UPHELD THE OPERATIVE",
+          "role": "institution"
+        },
+        {
+          "text": "24 AUGUST 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "J&K REORGANISATION ACT, 2019 former State → J&K UT with legislature + Ladakh UT without",
+        "J&K ASSEMBLY statutory legislative field and LG relationship follow the 2019 Act and rules.",
+        "Police and public order remain outside the Assembly's ordinary field.",
+        "In Re: Article 370 of the Constitution (2023) upheld the operative abrogation result",
+        "recorded Statehood assurance and did not set a judicial restoration date."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "J&K REORGANISATION ACT, 2019 former State → J&K UT with legislature + Ladakh UT without legislature from 31 October 2019.",
+            "J&K ASSEMBLY statutory legislative field and LG relationship follow the 2019 Act and rules.",
+            "Police and public order remain outside the Assembly's ordinary field."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "In Re: Article 370 of the Constitution (2023) upheld the operative abrogation result",
+            "recorded Statehood assurance and did not set a judicial restoration date.",
+            "CURRENT: 24 AUGUST 2026"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "J&K Statehood not restored",
+            "Ladakh has no legislature.",
+            "Demands for Sixth Schedule/Statehood/special provisions are proposals, not law."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "In Re: Article 370 of the Constitution (2023) upheld the operative abrogation result"
+          ]
+        }
+      ],
+      "mechanism_strip": "In Re: Article 370 of the Constitution (2023) upheld the operative abrogation result; recorded Statehood assurance and did not set a judicial restoration date.",
+      "answer_line": "Section 35 makes parliamentary law prevail over repugnant local law, subject to presidential-assent and later-Parliament qualifications.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 34",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 35",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 36",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 37"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BOUNDED UT PROFILES AND STATE-UT-NCT COMPARISON",
+      "structural_type": "ut-profile-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BOUNDED UT PROFILES AND STATE-UT-NCT COMPARISON",
+          "role": "institution"
+        },
+        {
+          "text": "WITHOUT LEGISLATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ANDAMAN AND NICOBAR",
+          "role": "comparison"
+        },
+        {
+          "text": "STRATEGIC ARCHIPELAGO",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALL ISLAND UT",
+          "role": "primary"
+        },
+        {
+          "text": "CAPITAL OF PUNJAB AND HARYANA",
+          "role": "outcome"
+        },
+        {
+          "text": "MERGED WESTERN UT",
+          "role": "comparison"
+        },
+        {
+          "text": "FRONTIER UT AFTER 2019 REORGANISATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WITHOUT LEGISLATURE",
+        "Andaman and Nicobar → strategic archipelago",
+        "Lakshadweep → small island UT",
+        "Chandigarh → capital of Punjab and Haryana",
+        "DNHDD → merged western UT"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "WITHOUT LEGISLATURE",
+          "Chandigarh → capital of Punjab and Haryana",
+          "STATE ORDINARY UT DELHI NCT",
+          "Governor/CoM model Administrator LG + CoM + reference route"
+        ],
+        [
+          "Andaman and Nicobar → strategic archipelago",
+          "DNHDD → merged western UT",
+          "Part VI government Article 239 chain Article 239AA elected design",
+          "ACCOUNTABILITY TEST exact field → decision-maker → override → finance/staff → court remedy."
+        ],
+        [
+          "Lakshadweep → small island UT",
+          "Ladakh → frontier UT after 2019 reorganisation.",
+          "State-list autonomy Parliament plenary three reserved fields",
+          "LIMIT Administrator powers are UT-specific; title alone supplies no common rule."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WITHOUT LEGISLATURE",
+            "Andaman and Nicobar → strategic archipelago",
+            "Lakshadweep → small island UT"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Chandigarh → capital of Punjab and Haryana",
+            "DNHDD → merged western UT",
+            "Ladakh → frontier UT after 2019 reorganisation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE ORDINARY UT DELHI NCT",
+            "Part VI government Article 239 chain Article 239AA elected design",
+            "State-list autonomy Parliament plenary three reserved fields"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Governor/CoM model Administrator LG + CoM + reference route",
+            "ACCOUNTABILITY TEST exact field → decision-maker → override → finance/staff → court remedy.",
+            "LIMIT Administrator powers are UT-specific; title alone supplies no common rule."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Both offices can act as formal heads in some functions, but similarity of ceremony does not erase different legal sources.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 38",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 39",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 40"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "CREATION, REORGANISATION, CURRENT TRAPS AND QUALIFIED ANSWER SYNTHESIS",
+      "structural_type": "ut-reorganisation-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CREATION, REORGANISATION, CURRENT TRAPS AND QUALIFIED ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 2-4 AND PARLIAMENTARY REORGANISATION LAW CAN ALTER TERRITORY",
+          "role": "outcome"
+        },
+        {
+          "text": "UT STATUS IS CONSTITUTIONAL-ADMINISTRATIVE DESIGN, NOT A PERMANENTLY FIXED",
+          "role": "caution"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 239",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENTIAL ADMINISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "239A PUDUCHERRY ENABLING ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "239AA DELHI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CREATION / MERGER",
+        "Articles 2-4 and parliamentary reorganisation law can alter territory and status.",
+        "UT status is constitutional-administrative design, not a permanently fixed category.",
+        "PRELIMS FIREWALL",
+        "Article 239 = presidential administration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CREATION / MERGER",
+            "Articles 2-4 and parliamentary reorganisation law can alter territory and status.",
+            "UT status is constitutional-administrative design, not a permanently fixed category.",
+            "PRELIMS FIREWALL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 239 = presidential administration",
+            "239A Puducherry enabling route",
+            "239AA Delhi",
+            "239AB Delhi constitutional breakdown"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "240 listed-UT regulations",
+            "241 High Courts",
+            "Parliament can legislate on State List for UTs.",
+            "CURRENT FIREWALL operative statute != pending challenge outcome political proposal != law"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "office/status facts require a date.",
+            "MAINS SPINE rationale → classify UT → exact Article/statute → democratic mechanism",
+            "Union safeguard → friction → case-year control → calibrated reform/verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India's eight Union Territories follow different administrator, legislature and High Court arrangements, while changing officeholders do not alter their constitutional models.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 41",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 42",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 43",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\polity-25_Complete-Learning-Session_2026-08-24.md#SESSION 44"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — CREATION & LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — ADMINISTRATION (ART 239–241)",
+          "role": "comparison"
+        },
+        {
+          "text": "PART C — SPECIAL STATUS OF DELHI (ART 239-AA)",
+          "role": "evidence"
+        },
+        {
+          "text": "J&K AND LADAKH CREATED 2019 BY THE J&K REORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "DADRA & NAGAR HAVELI AND DAMAN & DIU MERGED",
+          "role": "outcome"
+        },
+        {
+          "text": "TOTAL DROPPED FROM 9 TO",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT 8",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — CREATION & LIST",
+            "PART B — ADMINISTRATION (Art 239–241)",
+            "PART C — SPECIAL STATUS OF DELHI (Art 239-AA)",
+            "J&K and Ladakh created 2019 by the J&K Reorganisation Act (J&K with legislature, Ladakh"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Dadra & Nagar Haveli and Daman & Diu merged into a single UT on 26 Jan 2020 → total dropped from 9 to",
+            "Current 8: A&N Islands · Chandigarh · DNH & Daman & Diu · Delhi (NCT) · J&K · Ladakh · Lakshadweep ·",
+            "LG: Delhi, Puducherry, A&N, J&K, Ladakh. Administrator: Chandigarh, DNH-DD, Lakshadweep.",
+            "President may appoint a state Governor as administrator of an adjoining UT (acts independently of his"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CM appointed by the President (not the LG); ministers hold office during President's pleasure.",
+            "On a difference between LG and ministers, the LG refers the matter to the President .",
+            "President's Rule provision resembles Art 356 .",
+            "SC (May 2023): the elected Delhi government has control over services (admin control over officers),"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

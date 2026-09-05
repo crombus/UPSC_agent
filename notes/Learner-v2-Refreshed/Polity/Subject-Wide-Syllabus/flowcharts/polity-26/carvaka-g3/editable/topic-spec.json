@@ -1,0 +1,1260 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-26",
+  "subject": "Polity",
+  "title": "SCHEDULED AND TRIBAL AREAS",
+  "short_route": "ARTICLE 244 STARTING POINT → FIFTH SCHEDULE: DECLARATION, GOVERNOR → SIXTH SCHEDULE TERRITORY, COUNCIL → SIXTH SCHEDULE LEGISLATIVE, EXECUTIVE → FIFTH AND SIXTH SCHEDULES → PESA, FRA, LAND AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g3 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-26-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "a5eae0f53225baa505c08e3822bbbaa165be2e200718dfe63d7e6656f60e026c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARTICLE 244 STARTING POINT AND THE AUTONOMY-DEVELOPMENT RATIONALE",
+      "structural_type": "tribal-area-root-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLE 244 STARTING POINT AND THE AUTONOMY-DEVELOPMENT RATIONALE",
+          "role": "institution"
+        },
+        {
+          "text": "ROOT PROBLEM ORDINARY TERRITORIAL ADMINISTRATION MAY REPRODUCE DISPOSSESSION AND",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 244(1)",
+          "role": "institution"
+        },
+        {
+          "text": "FIFTH SCHEDULE",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHEDULED AREAS AND SCHEDULED TRIBES OUTSIDE THE SIXTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 244(2)",
+          "role": "institution"
+        },
+        {
+          "text": "SIXTH SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBAL AREAS IN ASSAM, MEGHALAYA, TRIPURA AND MIZORAM.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT PROBLEM ordinary territorial administration may reproduce dispossession and weak bargaining power.",
+        "ARTICLE 244(1)",
+        "Fifth Schedule → Scheduled Areas and Scheduled Tribes outside the Sixth Schedule map.",
+        "ARTICLE 244(2)",
+        "Sixth Schedule → tribal areas in Assam, Meghalaya, Tripura and Mizoram."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT PROBLEM ordinary territorial administration may reproduce dispossession and weak bargaining power.",
+            "ARTICLE 244(1)",
+            "Fifth Schedule → Scheduled Areas and Scheduled Tribes outside the Sixth Schedule map."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 244(2)",
+            "Sixth Schedule → tribal areas in Assam, Meghalaya, Tripura and Mizoram.",
+            "ARTICLE 244A"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Parliament may create an autonomous State within Assam with legislature/CoM.",
+            "Scheduled Tribe = Article 342 community status",
+            "Scheduled Area = presidential territorial declaration tribal area = Sixth Schedule territorial unit."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORE IDEA differentiated institutions pursue substantive equality within one"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORE IDEA differentiated institutions pursue substantive equality within one.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FIFTH SCHEDULE: DECLARATION, GOVERNOR, TAC AND REGULATION CHAIN",
+      "structural_type": "fifth-schedule-governance-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FIFTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "DECLARATION, GOVERNOR, TAC AND REGULATION CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED AREA",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENT DECLARES, ENLARGES, DIMINISHES OR ALTERS AFTER THE CONSTITUTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "EXECUTIVE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "STATE EXECUTIVE APPLIES",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR REPORTS ANNUALLY/WHEN REQUIRED TO PRESIDENT",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION MAY ISSUE DIRECTIONS ON ADMINISTRATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCHEDULED AREA",
+        "President declares, enlarges, diminishes or alters after the constitutional consultation route.",
+        "EXECUTIVE CHAIN",
+        "State executive applies → Governor reports annually/when required to President",
+        "Union may issue directions on administration."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SCHEDULED AREA",
+            "President declares, enlarges, diminishes or alters after the constitutional consultation route.",
+            "EXECUTIVE CHAIN"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "State executive applies → Governor reports annually/when required to President",
+            "Union may issue directions on administration.",
+            "TRIBES ADVISORY COUNCIL up to 20 members; as nearly as may be three-fourths ST legislators in the State."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "advises on ST welfare/advancement matters referred by Governor.",
+            "GOVERNOR'S REGULATION peace and good government → restrict/prohibit tribal land transfer",
+            "regulate allotment → regulate money-lending"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "may amend State/Parliament law for the area.",
+            "CHECK regulation requires Presidential assent; personal-discretion claims need exact authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHECK regulation requires Presidential assent; personal-discretion claims need exact authority.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 17"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SIXTH SCHEDULE TERRITORY, COUNCIL COMPOSITION AND FOUR-STATE SCOPE",
+      "structural_type": "sixth-schedule-institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SIXTH SCHEDULE TERRITORY, COUNCIL COMPOSITION AND FOUR-STATE SCOPE",
+          "role": "institution"
+        },
+        {
+          "text": "MIZORAM ONLY.",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTONOMOUS DISTRICT",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNOR ORGANISES TERRITORY; MULTIPLE TRIBES MAY FORM AUTONOMOUS REGIONS.",
+          "role": "evidence"
+        },
+        {
+          "text": "ORDINARY DISTRICT COUNCIL MODEL NOT MORE THAN 30 MEMBERS",
+          "role": "caution"
+        },
+        {
+          "text": "UP TO FOUR NOMINATED BY GOVERNOR",
+          "role": "outcome"
+        },
+        {
+          "text": "REMAINDER ELECTED BY ADULT SUFFRAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NORMALLY FIVE-YEAR ELECTED TERM.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Mizoram only.",
+        "AUTONOMOUS DISTRICT",
+        "Governor organises territory; multiple tribes may form autonomous regions.",
+        "ORDINARY DISTRICT COUNCIL MODEL not more than 30 members → up to four nominated by",
+        "remainder elected by adult suffrage → normally five-year elected term."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Mizoram only.",
+            "AUTONOMOUS DISTRICT"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Governor organises territory; multiple tribes may form autonomous regions.",
+            "ORDINARY DISTRICT COUNCIL MODEL not more than 30 members → up to four nominated by Governor"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "remainder elected by adult suffrage → normally five-year elected term.",
+            "REGIONAL COUNCIL created for an autonomous region; powers follow the Schedule and applicable rules."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ASSAM VARIATION special paragraphs/statutes/accord implementation may modify composition and powers.",
+            "LIMIT ADC != State, municipality, ordinary Panchayat or Article 244A autonomous State."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT ADC != State, municipality, ordinary Panchayat or Article 244A autonomous State.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 23"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SIXTH SCHEDULE LEGISLATIVE, EXECUTIVE, JUDICIAL AND FISCAL POWERS",
+      "structural_type": "adc-powers-and-checks",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SIXTH SCHEDULE LEGISLATIVE, EXECUTIVE, JUDICIAL AND FISCAL POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATIVE LAND OTHER THAN RESERVED FOREST",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-RESERVED FOREST",
+          "role": "comparison"
+        },
+        {
+          "text": "SHIFTING CULTIVATION VILLAGE ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL CUSTOMS.",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNOR ASSENT IS REQUIRED FOR COUNCIL LAWS.",
+          "role": "institution"
+        },
+        {
+          "text": "EXECUTIVE PRIMARY SCHOOLS, DISPENSARIES, MARKETS, ROADS AND SPECIFIED LOCAL",
+          "role": "comparison"
+        },
+        {
+          "text": "JUDICIAL VILLAGE COURTS/COUNCIL COURTS FOR SPECIFIED TRIBAL-PARTY DISPUTES SUBJECT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "LEGISLATIVE land other than reserved forest",
+        "non-reserved forest",
+        "shifting cultivation village administration",
+        "social customs.",
+        "Governor assent is required for council laws."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "LEGISLATIVE land other than reserved forest",
+            "non-reserved forest",
+            "shifting cultivation village administration",
+            "social customs."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Governor assent is required for council laws.",
+            "EXECUTIVE primary schools, dispensaries, markets, roads and specified local services.",
+            "JUDICIAL village courts/council courts for specified tribal-party disputes subject to constitutional/statutory supervision and jurisdiction rules.",
+            "District/Regional Funds"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "land revenue",
+            "listed taxes/fees",
+            "mineral-royalty share.",
+            "Governor territorial and suspension/dissolution powers"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Parliament/State-law application controls",
+            "audit and judicial review.",
+            "LIMIT autonomy is substantial but enumerated and supervised, not sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT autonomy is substantial but enumerated and supervised, not sovereignty.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 26",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 28",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 30",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 31",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 32"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FIFTH AND SIXTH SCHEDULES: COMPLETE CLOSE-OPTION COMPARISON",
+      "structural_type": "fifth-sixth-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIFTH AND SIXTH SCHEDULES",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE CLOSE-OPTION COMPARISON",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION FIFTH SCHEDULE SIXTH SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATES MULTIPLE NOTIFIED STATES ASSAM/MEGHALAYA/TRIPURA/MIZORAM TERRITORY SCHEDULED AREA AUTONOMOUS",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON PURPOSE LAND/CUSTOM PROTECTION + SELF-GOVERNMENT + DEVELOPMENT ADMINISTRATION.",
+          "role": "primary"
+        },
+        {
+          "text": "TAC IS ADVISORY, NOT AN ADC",
+          "role": "caution"
+        },
+        {
+          "text": "SIXTH SCHEDULE DOES NOT COVER EVERY NORTH-EASTERN STATE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIMENSION FIFTH SCHEDULE SIXTH SCHEDULE",
+        "States multiple notified States Assam/Meghalaya/Tripura/Mizoram territory Scheduled Area autonomous district/region core body Governor + TAC",
+        "Part IX ordinarily excluded",
+        "COMMON PURPOSE land/custom protection + self-government + development administration.",
+        "TAC is advisory, not an ADC"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DIMENSION FIFTH SCHEDULE SIXTH SCHEDULE",
+          "Part IX ordinarily excluded",
+          "TAC is advisory, not an ADC",
+          "DIMENSION FIFTH SCHEDULE SIXTH SCHEDULE"
+        ],
+        [
+          "States multiple notified States Assam/Meghalaya/Tripura/Mizoram territory Scheduled Area autonomous district/region core body Governor + TAC elected District/Regional Council",
+          "COMMON PURPOSE land/custom protection + self-government + development administration.",
+          "Sixth Schedule does not cover every North-Eastern State.",
+          "States multiple notified States Assam/Meghalaya/Tripura/Mizoram territory Scheduled Area autonomous district/region core body Governor + TAC elected District/Regional Council"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIMENSION FIFTH SCHEDULE SIXTH SCHEDULE",
+            "States multiple notified States Assam/Meghalaya/Tripura/Mizoram territory Scheduled Area autonomous district/region core body Governor + TAC elected District/Regional Council"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Part IX ordinarily excluded",
+            "COMMON PURPOSE land/custom protection + self-government + development administration."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TAC is advisory, not an ADC",
+            "Sixth Schedule does not cover every North-Eastern State."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DIMENSION FIFTH SCHEDULE SIXTH SCHEDULE",
+            "States multiple notified States Assam/Meghalaya/Tripura/Mizoram territory Scheduled Area autonomous district/region core body Governor + TAC elected District/Regional Council"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TAC is advisory, not an ADC | Sixth Schedule does not cover every North-Eastern State.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 33",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 34"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PESA, FRA, LAND AND RESOURCE RIGHTS WITH JUDICIAL BOUNDARIES",
+      "structural_type": "pesa-fra-resource-rights-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PESA, FRA, LAND AND RESOURCE RIGHTS WITH JUDICIAL BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "PESA, 1996",
+          "role": "outcome"
+        },
+        {
+          "text": "PART IX EXTENSION TO FIFTH SCHEDULE AREAS",
+          "role": "comparison"
+        },
+        {
+          "text": "CUSTOMARY VILLAGE/GRAM SABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "PLANS/RESOURCES/MARKETS/LAND SAFEGUARDS THROUGH EXACT STATUTORY VERBS.",
+          "role": "primary"
+        },
+        {
+          "text": "FRA, 2006 INDIVIDUAL/COMMUNITY FOREST RIGHTS + COMMUNITY FOREST-RESOURCE GOVERNANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MINING CHAIN TERRITORIAL LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND-TRANSFER RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PESA, 1996",
+        "Part IX extension to Fifth Schedule areas → customary village/Gram Sabha",
+        "plans/resources/markets/land safeguards through exact statutory verbs.",
+        "FRA, 2006 individual/community forest rights + community forest-resource governance through its own claim and recognition",
+        "LAND / MINING CHAIN territorial law → land-transfer rule → PESA role → FRA rights"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PESA, 1996",
+            "Part IX extension to Fifth Schedule areas → customary village/Gram Sabha",
+            "plans/resources/markets/land safeguards through exact statutory verbs."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FRA, 2006 individual/community forest rights + community forest-resource governance through its own claim and recognition procedure.",
+            "LAND / MINING CHAIN territorial law → land-transfer rule → PESA role → FRA rights",
+            "forest/environment clearance → rehabilitation → judicial review."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Samatha (1997) protected Scheduled-Area land under the applicable Andhra Pradesh regime",
+            "not a detached nationwide mining ban.",
+            "Orissa Mining Corporation (2013)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Gram Sabhas determined specified FRA religious/community-right claims at Niyamgiri",
+            "not an unlimited veto over every project."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAND / MINING CHAIN territorial law → land-transfer rule → PESA role → FRA rights.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 35",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 36",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 37",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 38",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 39",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 40",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 41",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 42",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 43",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 44",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 45",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 46"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SCHEDULED TRIBE SAFEGUARDS BEYOND TERRITORIAL AUTONOMY",
+      "structural_type": "st-safeguards-constitutional-network",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SCHEDULED TRIBE SAFEGUARDS BEYOND TERRITORIAL AUTONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS AND REPRESENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 46",
+          "role": "institution"
+        },
+        {
+          "text": "EDUCATION/ECONOMIC INTERESTS AND PROTECTION FROM EXPLOITATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 330/332",
+          "role": "primary"
+        },
+        {
+          "text": "ST POLITICAL RESERVATION IN LOK SABHA/STATE ASSEMBLIES.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 335",
+          "role": "institution"
+        },
+        {
+          "text": "SERVICE CLAIMS CONSISTENT WITH ADMINISTRATIVE EFFICIENCY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RIGHTS AND REPRESENTATION",
+        "Article 46 → education/economic interests and protection from exploitation.",
+        "Articles 330/332 → ST political reservation in Lok Sabha/State Assemblies.",
+        "Article 335 → service claims consistent with administrative efficiency.",
+        "FINANCE AND OVERSIGHT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RIGHTS AND REPRESENTATION",
+            "Article 46 → education/economic interests and protection from exploitation.",
+            "Articles 330/332 → ST political reservation in Lok Sabha/State Assemblies."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 335 → service claims consistent with administrative efficiency.",
+            "FINANCE AND OVERSIGHT",
+            "Article 275(1) → specified grants"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 338A → National Commission for Scheduled Tribes",
+            "Article 339 → commission and Union welfare-scheme directions.",
+            "NCST ROLE monitor safeguards → inquire into complaints → advise planning"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "report to President → recommendations and follow-up.",
+            "NCST does not replace Governor/TAC, Gram Sabha, ADC, courts or elected governments."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NCST does not replace Governor/TAC, Gram Sabha, ADC, courts or elected governments.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 56"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARTICLE 371, ORDINARY PANCHAYATS, AUTONOMOUS COUNCILS AND PROPOSAL CONTROL",
+      "structural_type": "tribal-institution-boundary-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLE 371, ORDINARY PANCHAYATS, AUTONOMOUS COUNCILS AND PROPOSAL CONTROL",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT COLLAPSE FOUR SYSTEMS",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 371A/371G",
+          "role": "institution"
+        },
+        {
+          "text": "STATE-SPECIFIC PART XXI CONSENT SHIELDS.",
+          "role": "institution"
+        },
+        {
+          "text": "FIFTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNOR/TAC ADMINISTRATION FOR SCHEDULED AREAS.",
+          "role": "outcome"
+        },
+        {
+          "text": "SIXTH SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTONOMOUS DISTRICT/REGIONAL COUNCILS IN FOUR STATES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DO NOT COLLAPSE FOUR SYSTEMS",
+        "Article 371A/371G → State-specific Part XXI consent shields.",
+        "Fifth Schedule → Governor/TAC administration for Scheduled Areas.",
+        "Sixth Schedule → autonomous district/regional councils in four States.",
+        "ordinary Part IX → Panchayats outside exclusions; PESA modifies Fifth Schedule route."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DO NOT COLLAPSE FOUR SYSTEMS",
+            "Article 371A/371G → State-specific Part XXI consent shields.",
+            "Fifth Schedule → Governor/TAC administration for Scheduled Areas."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Sixth Schedule → autonomous district/regional councils in four States.",
+            "ordinary Part IX → Panchayats outside exclusions; PESA modifies Fifth Schedule route.",
+            "ACCOUNTABILITY TENSIONS autonomy vs elite capture"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "custom vs individual rights development vs land/resource security",
+            "Governor oversight vs elected legitimacy.",
+            "CURRENT CONTROL"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Ladakh or other demands for Sixth Schedule/Statehood/Article 371 safeguards remain proposals until the Constitution or law is validly changed.",
+            "REFORM clear jurisdiction + audited funds + accessible laws + women/community voice",
+            "transparent Governor action + timely rights recognition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REFORM clear jurisdiction + audited funds + accessible laws + women/community voice.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 34",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 47",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 48",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 49",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 50",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 51",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 52"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PRELIMS FIREWALLS, MAINS ARCHITECTURE AND QUALIFIED TRIBAL-GOVERNANCE SYNTHESIS",
+      "structural_type": "tribal-areas-answer-synthesis",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PRELIMS FIREWALLS, MAINS ARCHITECTURE AND QUALIFIED TRIBAL-GOVERNANCE SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENT DECLARES SCHEDULED AREAS",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNOR MAKES FIFTH SCHEDULE REGULATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESIDENT ASSENTS",
+          "role": "primary"
+        },
+        {
+          "text": "TAC ADVISORY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADC LAWS NEED GOVERNOR ASSENT RESERVED FOREST EXCLUDED FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 244A APPLIES ONLY WITHIN ASSAM.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "President declares Scheduled Areas",
+        "Governor makes Fifth Schedule regulations",
+        "President assents",
+        "TAC advisory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "President declares Scheduled Areas",
+            "Governor makes Fifth Schedule regulations",
+            "President assents",
+            "TAC advisory"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ADC laws need Governor assent reserved forest excluded from listed ADC forest power",
+            "Article 244A applies only within Assam.",
+            "PYQ ROUTES",
+            "Fifth/Sixth identification",
+            "council composition/powers"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PESA verbs",
+            "FRA relationship",
+            "Article 275/339",
+            "land/mining case limits.",
+            "MAINS SPINE define differentiated autonomy → identify territory → map institution/power"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "rights/development purpose → accountability risk → named case with limit",
+            "reform through voice, legality, capacity and audit.",
+            "SYNTHESIS autonomy earns legitimacy when it protects land and custom while remaining inclusive, reviewable, fiscally accountable and capable",
+            "of delivering development."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS autonomy earns legitimacy when it protects land and custom while remaining inclusive, reviewable, fiscally accountable and capable of delivering development.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 53",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 54",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g3\\polity-26_Complete-Learning-Session_2026-08-28.md#SESSION 55"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ARTICLE 275(1), ARTICLE 339 AND THE UNION ACCOUNTABILITY CHAIN",
+      "structural_type": "fiscal-supervisory-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 275(1), ARTICLE 339 AND THE UNION ACCOUNTABILITY CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 275(1) GRANTS-IN-AID SUPPORT SCHEDULED-AREA ADMINISTRATION AND ST WELFARE",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 339(1)",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT APPOINTS A COMMISSION ON SCHEDULED AREAS AND ST",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 339(2)",
+          "role": "institution"
+        },
+        {
+          "text": "UNION MAY DIRECT STATES ON SCHEMES ESSENTIAL TO ST",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOUNTABILITY ROUTE LOCAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNOR REPORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 275(1) grants-in-aid support Scheduled-Area administration and ST welfare schemes.",
+        "ARTICLE 339(1)",
+        "President appoints a commission on Scheduled Areas and ST welfare.",
+        "ARTICLE 339(2)",
+        "Union may direct States on schemes essential to ST welfare."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 275(1) grants-in-aid support Scheduled-Area administration and ST welfare schemes.",
+            "ARTICLE 339(1)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "President appoints a commission on Scheduled Areas and ST welfare.",
+            "ARTICLE 339(2)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Union may direct States on schemes essential to ST welfare.",
+            "ACCOUNTABILITY ROUTE local evidence → Governor report → Union scrutiny → funded corrective action."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 275(1) grants-in-aid support Scheduled-Area administration and ST welfare schemes.",
+            "ARTICLE 339(1)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCOUNTABILITY ROUTE local evidence → Governor report → Union scrutiny → funded corrective action.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-26\\g3-source\\polity-26_g3-reviewed-source.md#core"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PESA EXACT-VERB DECISION LADDER AND FRA INTERFACE",
+      "structural_type": "pesa-verbs-rights-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PESA EXACT-VERB DECISION LADDER AND FRA INTERFACE",
+          "role": "primary"
+        },
+        {
+          "text": "PESA SECTION 4",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAM SABHA APPROVES PLANS; IDENTIFIES BENEFICIARIES; CERTIFIES FUND USE",
+          "role": "comparison"
+        },
+        {
+          "text": "FRA, 2006",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAM SABHA INITIATES RIGHTS CLAIMS AND PROTECTS COMMUNITY FOREST",
+          "role": "primary"
+        },
+        {
+          "text": "LIMIT CONSULTATION, RECOMMENDATION AND APPROVAL ARE NOT INTERCHANGEABLE AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PESA SECTION 4",
+        "Gram Sabha approves plans",
+        "identifies beneficiaries",
+        "certifies fund use",
+        "is consulted before land acquisition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PESA SECTION 4",
+            "Gram Sabha approves plans",
+            "identifies beneficiaries"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "certifies fund use",
+            "is consulted before land acquisition",
+            "gives mandatory recommendation for specified minor-mineral decisions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "owns minor forest produce",
+            "controls markets and money-lending",
+            "prevents and restores alienated land."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FRA, 2006",
+            "Gram Sabha initiates rights claims and protects community forest resources.",
+            "LIMIT consultation, recommendation and approval are not interchangeable and do not create one universal veto."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT consultation, recommendation and approval are not interchangeable and do not create one universal veto.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-26\\g3-source\\polity-26_g3-reviewed-source.md#core"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CURRENT CONTROLS, REFORM ROUTE AND EXTENSION TEST",
+      "structural_type": "current-reform-extension-test",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CURRENT CONTROLS, REFORM ROUTE AND EXTENSION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "DATED CONTROL — 28 AUGUST 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "FIFTH SCHEDULE AREAS REMAIN NOTIFIED IN 10 STATES. JHARKHAND",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM ROUTE PUBLISH OUTCOME-BASED GOVERNOR REPORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "REASONED TAC DISPOSAL",
+          "role": "primary"
+        },
+        {
+          "text": "ALIGN STATE LAWS WITH",
+          "role": "institution"
+        },
+        {
+          "text": "STRENGTHEN ADC AUDIT AND OWN-SOURCE REVENUE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVERGE FRA RECORDS AND LEGAL AID.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DATED CONTROL — 28 AUGUST 2026",
+        "Fifth Schedule areas remain notified in 10 States.",
+        "Jharkhand PESA Rules, 2025 are listed by MoPR",
+        "no separate Odisha rules instrument is listed.",
+        "Ladakh remains outside the Sixth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DATED CONTROL — 28 AUGUST 2026",
+            "Fifth Schedule areas remain notified in 10 States.",
+            "Jharkhand PESA Rules, 2025 are listed by MoPR"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "no separate Odisha rules instrument is listed.",
+            "Ladakh remains outside the Sixth",
+            "REFORM ROUTE publish outcome-based Governor reports → reasoned TAC disposal → align State laws with"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PESA → strengthen ADC audit and own-source revenue → converge FRA records and legal aid.",
+            "EXTENSION TEST tribal geography + customary institutions + democratic demand + viable powers + federal fit",
+            "never treat Sixth Schedule as an automatic template."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "no separate Odisha rules instrument is listed."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXTENSION TEST tribal geography + customary institutions + democratic demand + viable powers + federal fit; never treat Sixth Schedule as an automatic template.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-26\\g3-source\\polity-26_g3-reviewed-source.md#core"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED & TRIBAL AREAS (ARTICLE 244, FIFTH & SIXTH",
+          "role": "institution"
+        },
+        {
+          "text": "THE BIG PICTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "PART A — FIFTH SCHEDULE (ADMINISTRATION OF SCHEDULED AREAS)",
+          "role": "evidence"
+        },
+        {
+          "text": "PART B — SIXTH SCHEDULE (ADMINISTRATION OF TRIBAL AREAS)",
+          "role": "primary"
+        },
+        {
+          "text": "PART C — FIFTH VS SIXTH SCHEDULE (COMPARE)",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 339(1) COMMISSIONS",
+          "role": "institution"
+        },
+        {
+          "text": "THE PRESIDENT WAS REQUIRED TO APPOINT ONE AFTER TEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Scheduled & Tribal Areas (Article 244, Fifth & Sixth Schedules, Part X) — ADVANCED / COMPLETE",
+            "THE BIG PICTURE",
+            "PART A — FIFTH SCHEDULE (Administration of Scheduled Areas)",
+            "PART B — SIXTH SCHEDULE (Administration of Tribal Areas)"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "PART C — FIFTH vs SIXTH SCHEDULE (compare)",
+            "Article 339(1) commissions: the President was required to appoint one after ten years from commencement and may appoint further commissions",
+            "Dhebar (1960) and Bhuria (2002) are the standard examples.",
+            "NOT: Sixth Schedule applies to all NE states → only Assam, Meghalaya, Tripura, Mizoram (not Nagaland/Manipur/"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Fifth Schedule covers the whole country → excludes the 4 Sixth-Schedule states .",
+            "NOT: Tribes Advisory Council makes laws → it is advisory only; the District Councils (Sixth Schedule) legislate.",
+            "NOT: District Council has 30 all-elected members → 26 elected + 4 nominated by the Governor.",
+            "NOT: President declares tribal areas under the Sixth Schedule → the Governor organises autonomous districts;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-32",
+  "subject": "Polity",
+  "title": "CAG",
+  "short_route": "DEMOCRATIC AUDIT PURPOSE AND → ARTICLE 148 OFFICE: APPOINTMENT → ARTICLES 149-151, THE DPC → AUDIT DOMAIN: PUBLIC FUNDS → FINANCIAL, COMPLIANCE, PROPRIETY, PERFORMANCE → COMPANIES, CORPORATIONS, PPPS, REGULATORS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-32-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "fbf0d4ea8f401871dfcee88600f1540a74b0daf7605f66c257d469b57abd1fba",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DEMOCRATIC AUDIT PURPOSE AND THE CONSTITUTION-TO-REPORT ACCOUNTABILITY CHAIN",
+      "structural_type": "cag-democratic-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEMOCRATIC AUDIT PURPOSE AND THE CONSTITUTION-TO-REPORT ACCOUNTABILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW DOES THE LEGISLATURE VERIFY EXECUTIVE USE OF PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORITY CHAIN LEGISLATURE AUTHORISES TAX AND APPROPRIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "EXECUTIVE COLLECTS, SPENDS AND KEEPS RECORDS",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENT CAG AUDITS EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESIDENT/GOVERNOR CAUSES REPORT TO BE LAID",
+          "role": "comparison"
+        },
+        {
+          "text": "PAC/COPU OR LEGISLATURE SCRUTINISES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How does the legislature verify executive use of public money?",
+        "AUTHORITY CHAIN legislature authorises tax and appropriation",
+        "executive collects, spends and keeps records",
+        "independent CAG audits evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How does the legislature verify executive use of public money?",
+            "AUTHORITY CHAIN legislature authorises tax and appropriation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "executive collects, spends and keeps records",
+            "independent CAG audits evidence",
+            "President/Governor causes report to be laid"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PAC/CoPU or legislature scrutinises",
+            "executive replies and corrects.",
+            "SOURCE LADDER"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Articles 148-151 → CAG DPC Act, 1971",
+            "entity-specific law → Audit Regulations/Standards → judicial interpretation.",
+            "LIMIT audit informs democratic control; it does not govern, prosecute or recover by itself."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Performance audit examines preparation/implementation and whether objectives were achieved; official guidance says it does not question legislative intentions and decisions as such.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 148 OFFICE: APPOINTMENT, OATH, TENURE, REMOVAL AND INDEPENDENCE",
+      "structural_type": "cag-office-independence-architecture",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 148 OFFICE",
+          "role": "institution"
+        },
+        {
+          "text": "APPOINTMENT, OATH, TENURE, REMOVAL AND INDEPENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENT BY WARRANT UNDER HAND AND SEAL.",
+          "role": "comparison"
+        },
+        {
+          "text": "OATH BEFORE PRESIDENT OR NOMINEE IN THIRD SCHEDULE FORM.",
+          "role": "evidence"
+        },
+        {
+          "text": "DPC ACT, SECTION 4 SIX YEARS OR AGE 65",
+          "role": "institution"
+        },
+        {
+          "text": "REMOVAL SAME MANNER AND GROUNDS AS A SUPREME COURT",
+          "role": "institution"
+        },
+        {
+          "text": "PROVED MISBEHAVIOUR OR INCAPACITY + SPECIAL-MAJORITY ADDRESS.",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENCE SAFEGUARDS SERVICE CONDITIONS NOT VARIED TO DISADVANTAGE NO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "President by warrant under hand and seal.",
+        "OATH before President or nominee in Third Schedule form.",
+        "TENURE: DPC ACT, SECTION 4 six years or age 65, whichever earlier; resignation addressed to",
+        "REMOVAL same manner and grounds as a Supreme Court Judge",
+        "proved misbehaviour or incapacity + special-majority address."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "President by warrant under hand and seal.",
+            "OATH before President or nominee in Third Schedule form."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TENURE: DPC ACT, SECTION 4 six years or age 65, whichever earlier; resignation addressed to President.",
+            "REMOVAL same manner and grounds as a Supreme Court Judge"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "proved misbehaviour or incapacity + special-majority address.",
+            "INDEPENDENCE SAFEGUARDS service conditions not varied to disadvantage no further Union/State government office"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "IAAD administration after consultation office expenses charged on Consolidated Fund of India.",
+            "LIMIT appointment has no constitutional collegium and post-audit impact depends on follow-up."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A “six-year term” is a maximum subject to the age ceiling, resignation, removal or other lawful demission; it is not an unconditional six-year guarantee in every case.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLES 149-151, THE DPC ACT AND THE AUDIT-VERSUS-ACCOUNTS BOUNDARY",
+      "structural_type": "cag-constitutional-statutory-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLES 149-151, THE DPC ACT AND THE AUDIT-VERSUS-ACCOUNTS BOUNDARY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 149 CONSTITUTIONAL GATEWAY",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT PRESCRIBES DUTIES AND POWERS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 150",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT PRESCRIBES FORM OF UNION/STATE ACCOUNTS ON CAG ADVICE.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 151",
+          "role": "institution"
+        },
+        {
+          "text": "UNION REPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "BOTH HOUSES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 149 constitutional gateway → Parliament prescribes duties and powers.",
+        "ARTICLE 150",
+        "President prescribes form of Union/State accounts on CAG advice.",
+        "ARTICLE 151",
+        "Union report → President → both Houses."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 149 constitutional gateway → Parliament prescribes duties and powers.",
+            "ARTICLE 150",
+            "President prescribes form of Union/State accounts on CAG advice.",
+            "ARTICLE 151"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Union report → President → both Houses.",
+            "State report → Governor → State legislature.",
+            "DPC ACT, 1971",
+            "Sections 10-12 accounts role where retained"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "13-18 audit and access",
+            "19-20 companies/corporations/entrusted audits",
+            "23-24 regulations and scope.",
+            "AUDITOR, NOT UNIVERSAL COMPTROLLER predominantly ex-post review; no routine pre-authorisation of each withdrawal."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ACCOUNTS LIMIT departmentalisation and State arrangements mean CAG does not compile every account."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "“Submitted to the President/Governor” does not mean the CAG may bypass them and lay the report directly in the House.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AUDIT DOMAIN: PUBLIC FUNDS, EXPENDITURE, RECEIPTS, GRANTS AND ACCESS",
+      "structural_type": "cag-audit-jurisdiction-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AUDIT DOMAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC FUNDS, EXPENDITURE, RECEIPTS, GRANTS AND ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC ACCOUNT DOMAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSOLIDATED FUND",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORISED REVENUE/EXPENDITURE.",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINGENCY FUND",
+          "role": "outcome"
+        },
+        {
+          "text": "URGENT ADVANCES UNDER LAW.",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC ACCOUNT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUBLIC ACCOUNT DOMAINS",
+        "Consolidated Fund → authorised revenue/expenditure.",
+        "Contingency Fund → urgent advances under law.",
+        "Public Account → provident funds, small savings and other trust-like receipts.",
+        "DPC ACT ROUTES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PUBLIC ACCOUNT DOMAINS",
+            "Consolidated Fund → authorised revenue/expenditure.",
+            "Contingency Fund → urgent advances under law.",
+            "Public Account → provident funds, small savings and other trust-like receipts."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DPC ACT ROUTES",
+            "Section 13 expenditure",
+            "Section 14 substantially financed bodies",
+            "Section 15 grants/loans"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Section 16 receipts",
+            "Section 17 stores/stock",
+            "Section 18 records, inspection and information.",
+            "JURISDICTION TEST identify entity → identify public-money/revenue nexus"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "identify statutory route → define scope → obtain records → audit evidence.",
+            "LIMIT public importance alone does not create jurisdiction; legal nexus and proportionate scope matter."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The CAG does not choose the elected government's policy, sanction each payment, prosecute an official or order recovery merely by issuing a report.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FINANCIAL, COMPLIANCE, PROPRIETY, PERFORMANCE, ENVIRONMENT AND IT AUDIT",
+      "structural_type": "cag-audit-type-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FINANCIAL, COMPLIANCE, PROPRIETY, PERFORMANCE, ENVIRONMENT AND IT AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "FINANCIAL AUDIT FAIR PRESENTATION AND SUFFICIENT APPROPRIATE EVIDENCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPLIANCE AUDIT LAW, RULE, SANCTION, CONTRACT AND AUTHORITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPRIETY AUDIT WISDOM, FAITHFULNESS, ECONOMY AND AVOIDANCE OF WASTE",
+          "role": "evidence"
+        },
+        {
+          "text": "PERFORMANCE AUDIT ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "RECEIPTS AUDIT ASSESSMENT, COLLECTION AND PROPER ALLOCATION OF PUBLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "THEMATIC AUDIT SPECIALISED SUBJECT OR METHOD WITHIN THE WIDER",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FINANCIAL AUDIT fair presentation and sufficient appropriate evidence.",
+        "COMPLIANCE AUDIT law, rule, sanction, contract and authority.",
+        "PROPRIETY AUDIT wisdom, faithfulness, economy and avoidance of waste or improper discretion.",
+        "PERFORMANCE AUDIT economy → efficiency → effectiveness.",
+        "RECEIPTS AUDIT assessment, collection and proper allocation of public revenue."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FINANCIAL AUDIT fair presentation and sufficient appropriate evidence.",
+          "PERFORMANCE AUDIT economy → efficiency → effectiveness.",
+          "POLICY BOUNDARY",
+          "PERFORMANCE AUDIT economy → efficiency → effectiveness."
+        ],
+        [
+          "COMPLIANCE AUDIT law, rule, sanction, contract and authority.",
+          "RECEIPTS AUDIT assessment, collection and proper allocation of public revenue.",
+          "CAG may test authority, design implementation, prudence and results",
+          ""
+        ],
+        [
+          "PROPRIETY AUDIT wisdom, faithfulness, economy and avoidance of waste or improper discretion.",
+          "IT / ENVIRONMENT / THEMATIC AUDIT specialised subject or method within the wider mandate.",
+          "it should not substitute its preferred lawful policy merely because another choice was possible.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FINANCIAL AUDIT fair presentation and sufficient appropriate evidence.",
+            "COMPLIANCE AUDIT law, rule, sanction, contract and authority.",
+            "PROPRIETY AUDIT wisdom, faithfulness, economy and avoidance of waste or improper discretion."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PERFORMANCE AUDIT economy → efficiency → effectiveness.",
+            "RECEIPTS AUDIT assessment, collection and proper allocation of public revenue.",
+            "IT / ENVIRONMENT / THEMATIC AUDIT specialised subject or method within the wider mandate."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLICY BOUNDARY",
+            "CAG may test authority, design implementation, prudence and results",
+            "it should not substitute its preferred lawful policy merely because another choice was possible."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PERFORMANCE AUDIT economy → efficiency → effectiveness."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 20 allows audit of certain otherwise unaudited bodies/authorities when entrusted by the President, Governor or Administrator after consultation and subject to agreed terms, public interest and opportunity to represent.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COMPANIES, CORPORATIONS, PPPS, REGULATORS AND LOCAL-BODY AUDIT ROUTES",
+      "structural_type": "cag-entity-route-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPANIES, CORPORATIONS, PPPS, REGULATORS AND LOCAL-BODY AUDIT ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNMENT COMPANY",
+          "role": "outcome"
+        },
+        {
+          "text": "CAG APPOINTS STATUTORY AUDITOR UNDER COMPANIES ACT SECTION 139",
+          "role": "institution"
+        },
+        {
+          "text": "DIRECTIONS UNDER SECTION 143(5)",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPPLEMENTARY AUDIT/COMMENTS/TEST AUDIT UNDER SECTIONS 143(6)-(7).",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY CORPORATION GOVERNING LAW + DPC ACT SECTION 19",
+          "role": "institution"
+        },
+        {
+          "text": "OTHER BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATED ENTITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOVERNMENT COMPANY",
+        "CAG appoints statutory auditor under Companies Act Section 139",
+        "directions under Section 143(5)",
+        "supplementary audit/comments/test audit under Sections 143(6)-(7).",
+        "STATUTORY CORPORATION governing law + DPC Act Section 19 route."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GOVERNMENT COMPANY",
+            "CAG appoints statutory auditor under Companies Act Section 139",
+            "directions under Section 143(5)",
+            "supplementary audit/comments/test audit under Sections 143(6)-(7)."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STATUTORY CORPORATION governing law + DPC Act Section 19 route.",
+            "OTHER BODY / PPP / REGULATED ENTITY",
+            "Sections 14, 15, 16 or 20 only where legal public-finance nexus exists.",
+            "LOCAL BODIES"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "State law and entrustment vary; CAG may provide Technical Guidance and Support.",
+            "This is not one uniform constitutional municipal/Panchayat audit model.",
+            "Association of Unified Telecom Service Providers of India v.",
+            "Union of India (2014) audit may follow Union revenue share from a public-resource licence"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "it is not universal private-company audit power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Government-company audit layers statutory auditors with CAG appointment, directions and supplementary audit, balancing corporate form with public accountability.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 11"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REPORT LAYING, PAC AND COPU: CONVERTING AUDIT INFORMATION INTO ACCOUNTABILITY",
+      "structural_type": "cag-legislative-scrutiny-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REPORT LAYING, PAC AND COPU",
+          "role": "primary"
+        },
+        {
+          "text": "CONVERTING AUDIT INFORMATION INTO ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "CAG REPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "LAID BEFORE PARLIAMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RELEVANT COMMITTEE",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMITTEE FINDING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNION CHAIN",
+        "CAG report → President → laid before Parliament",
+        "PAC / CoPU / relevant committee → ministry evidence",
+        "committee finding → action-taken response → correction.",
+        "STATE CHAIN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "UNION CHAIN",
+            "CAG report → President → laid before Parliament",
+            "PAC / CoPU / relevant committee → ministry evidence"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "committee finding → action-taken response → correction.",
+            "STATE CHAIN",
+            "CAG report → Governor → State legislature → State PAC/committee scrutiny."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PAC appropriation accounts + finance accounts + relevant CAG reports.",
+            "COPU public-undertaking reports/accounts + related CAG reports.",
+            "CAG ROLE technical evidence and assistance; not committee member or final political decision-maker."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CAG paragraph != PAC conclusion != court judgment != automatic recovery order."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The chain is complete only when ministries provide action-taken notes, accepted recommendations are implemented, systemic controls change and unresolved issues return to legislative scrutiny.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JUDICIAL CONTROLS: PERFORMANCE, TIMING, REPORT STATUS AND REVENUE-SHARE ACCESS",
+      "structural_type": "cag-case-law-boundary",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "JUDICIAL CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "PERFORMANCE, TIMING, REPORT STATUS AND REVENUE-SHARE ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARVIND GUPTA (2012) PERFORMANCE AUDIT AND THE THREE ES",
+          "role": "comparison"
+        },
+        {
+          "text": "S. SUBRAMANIAM BALAJI (2013)",
+          "role": "evidence"
+        },
+        {
+          "text": "CAG EXAMINES LEGALITY, VALIDITY AND PROPRIETY AFTER EXPENDITURE.",
+          "role": "primary"
+        },
+        {
+          "text": "ARUN KUMAR AGRAWAL (2013)",
+          "role": "outcome"
+        },
+        {
+          "text": "CAG REPORT DESERVES RESPECT BUT REMAINS SUBJECT TO LEGISLATIVE/PAC",
+          "role": "comparison"
+        },
+        {
+          "text": "IT DOES NOT AUTOMATICALLY PROVE THE FINAL BASIS FOR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Arvind Gupta (2012) performance audit and the three Es are in-built in the DPC Act.",
+        "S. Subramaniam Balaji (2013)",
+        "CAG examines legality, validity and propriety after expenditure.",
+        "Arun Kumar Agrawal (2013)",
+        "CAG report deserves respect but remains subject to legislative/PAC scrutiny"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Arvind Gupta (2012) performance audit and the three Es are in-built in the DPC Act.",
+            "S. Subramaniam Balaji (2013)",
+            "CAG examines legality, validity and propriety after expenditure."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Arun Kumar Agrawal (2013)",
+            "CAG report deserves respect but remains subject to legislative/PAC scrutiny",
+            "it does not automatically prove the final basis for judicial relief."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Association of Unified Telecom Service Providers of India v.",
+            "Union of India (2014) revenue-share audit access follows the public-resource and Consolidated-Fund nexus.",
+            "SYNTHESIS broad audit methods + ex-post timing + evidentiary public report"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "no automatic adjudicatory finality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAG jurisdiction may follow public money or public revenue into a non-departmental entity, but its scope must remain tied to the statutory nexus that brought the entity within audit.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "CAG-CGA-FINANCE COMMISSION-PAC COMPARISON, REFORM AND ANSWER SYNTHESIS",
+      "structural_type": "cag-reform-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CAG-CGA-FINANCE COMMISSION-PAC COMPARISON, REFORM AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CAG CONSTITUTIONAL INDEPENDENT AUDIT AND LEGISLATIVE REPORTING.",
+          "role": "outcome"
+        },
+        {
+          "text": "CGA EXECUTIVE ACCOUNTING AND FINANCIAL-INFORMATION SYSTEM FOR UNION CIVIL",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE COMMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 280 TRANSFER RECOMMENDATIONS; CAG CERTIFIES NET PROCEEDS UNDER",
+          "role": "institution"
+        },
+        {
+          "text": "COPU LEGISLATIVE SCRUTINY; COMMITTEES MAKE PARLIAMENTARY FINDINGS AND SEEK",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM SECURE DATA ACCESS + AUDIT-READY DIGITAL SYSTEMS +",
+          "role": "comparison"
+        },
+        {
+          "text": "PPP/REGULATOR CLARITY + STRONGER LOCAL AUDIT + TIMELY REPORTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAG constitutional independent audit and legislative reporting.",
+        "CGA executive accounting and financial-information system for Union civil ministries.",
+        "FINANCE COMMISSION",
+        "Article 280 transfer recommendations; CAG certifies net proceeds under Article 279.",
+        "PAC / COPU legislative scrutiny; committees make parliamentary findings and seek action."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CAG constitutional independent audit and legislative reporting.",
+            "CGA executive accounting and financial-information system for Union civil ministries.",
+            "FINANCE COMMISSION",
+            "Article 280 transfer recommendations; CAG certifies net proceeds under Article 279.",
+            "PAC / COPU legislative scrutiny; committees make parliamentary findings and seek action."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REFORM secure data access + audit-ready digital systems + risk analytics",
+            "PPP/regulator clarity + stronger local audit + timely reports",
+            "action-taken tracking + legislative research capacity.",
+            "PRELIMS FIREWALL",
+            "Article 148 office"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "149 statutory duties",
+            "150 President on CAG advice",
+            "151 report route",
+            "six years/65 from DPC Act",
+            "audit != investigation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MAINS SPINE independence → legal mandate → audit type/entity route → report chain",
+            "limitation → digital/access reform → evidence-led accountability verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Reform should strengthen mandate clarity, evidence access and legislative consequence without turning the CAG into an alternate executive.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\polity-32_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE BIG PICTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "PART A — APPOINTMENT, TERM & REMOVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "PART B — INDEPENDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PART C — DUTIES & POWERS (ART 149–151)",
+          "role": "primary"
+        },
+        {
+          "text": "PART D — ROLE, TYPES OF AUDIT & LIMITATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY OF TENURE (REMOVED ONLY BY THE CONSTITUTIONAL PROCEDURE).",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT ELIGIBLE FOR ANY FURTHER OFFICE UNDER THE CENTRE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "THE BIG PICTURE",
+            "PART A — APPOINTMENT, TERM & REMOVAL",
+            "PART B — INDEPENDENCE",
+            "PART C — DUTIES & POWERS (Art 149–151)"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "PART D — ROLE, TYPES OF AUDIT & LIMITATIONS",
+            "Security of tenure (removed only by the constitutional procedure).",
+            "NOT eligible for any further office under the Centre or a state after his term (stricter than UPSC).",
+            "Salary = a Supreme Court judge ; determined by Parliament; can't be varied to disadvantage."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Salaries/expenses of the CAG's office are charged on the Consolidated Fund of India (non-votable).",
+            "No minister can represent the CAG in Parliament or take responsibility for his actions.",
+            "All expenditure from the Consolidated Fund of India / states / UTs-with-legislature.",
+            "Contingency Fund & Public Account of India and states."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

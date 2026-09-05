@@ -1,0 +1,1009 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-33",
+  "subject": "Polity",
+  "title": "ATTORNEY GENERAL AND ADVOCATE GENERAL",
+  "short_route": "CONSTITUTIONAL MAP: TWO LAW → APPOINTMENT, QUALIFICATION, PLEASURE TENURE → ADVICE, REPRESENTATION, ARTICLE 143 → ARTICLES 88, 177, 105(4) → PROFESSIONAL PRACTICE, RULE 8 → AGI, SOLICITOR GENERAL, ADDITIONAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-33-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "32ae10d15522a49f598efd792d080d70f64f70a17674288f3b22f5891e846dc8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSTITUTIONAL MAP: TWO LAW OFFICERS, TWO LEGISLATURES AND NO VOTING POWER",
+      "structural_type": "law-officer-constitutional-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "TWO LAW OFFICERS, TWO LEGISLATURES AND NO VOTING POWER",
+          "role": "caution"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW DOES GOVERNMENT RECEIVE AUTHORITATIVE LEGAL ADVICE WITHOUT CREATING",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 76",
+          "role": "institution"
+        },
+        {
+          "text": "ATTORNEY GENERAL FOR INDIA.",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 88",
+          "role": "institution"
+        },
+        {
+          "text": "SPEAK AND PARTICIPATE IN BOTH HOUSES, JOINT SITTING AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How does government receive authoritative legal advice without creating another court?",
+        "Article 76 → Attorney General for India.",
+        "Article 88 → speak and participate in both Houses, joint sitting and named committees.",
+        "Article 105(4) → relevant parliamentary privileges extend; no membership or vote follows."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How does government receive authoritative legal advice without creating another court?",
+            "Article 76 → Attorney General for India."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 88 → speak and participate in both Houses, joint sitting and named committees.",
+            "Article 105(4) → relevant parliamentary privileges extend; no membership or vote follows.",
+            "Article 165 → Advocate General for the State."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 177 → speak and participate in the State legislature and named committees.",
+            "Article 194(4) → relevant legislative privileges extend; no membership or vote follows.",
+            "CORE LIMIT constitutional law officer != judge, minister, legislator, prosecutor or independent tribunal."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 88 → speak and participate in both Houses, joint sitting and named committees."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "“Highest law officer” does not mean judge, minister, prosecutor-general or final constitutional interpreter.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "APPOINTMENT, QUALIFICATION, PLEASURE TENURE AND REMUNERATION ARCHITECTURE",
+      "structural_type": "law-officer-office-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "APPOINTMENT, QUALIFICATION, PLEASURE TENURE AND REMUNERATION ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ATTORNEY GENERAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENT APPOINTS",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFICATION FOR SUPREME COURT JUDGE UNDER ARTICLE 124(3).",
+          "role": "institution"
+        },
+        {
+          "text": "NO CONSTITUTIONAL AGE CEILING FOR HOLDING AGI OFFICE.",
+          "role": "caution"
+        },
+        {
+          "text": "OFFICE DURING PRESIDENT'S PLEASURE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO CONSTITUTIONAL FIXED TERM OR REMOVAL PROCESS.",
+          "role": "caution"
+        },
+        {
+          "text": "REMUNERATION AS PRESIDENT DETERMINES; CURRENT ADMINISTRATIVE TERMS MAY COME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ATTORNEY GENERAL",
+        "President appoints",
+        "qualification for Supreme Court Judge under Article 124(3).",
+        "No constitutional age ceiling for holding AGI office.",
+        "Office during President's pleasure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ATTORNEY GENERAL",
+            "President appoints",
+            "qualification for Supreme Court Judge under Article 124(3).",
+            "No constitutional age ceiling for holding AGI office."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Office during President's pleasure",
+            "no constitutional fixed term or removal process.",
+            "Remuneration as President determines; current administrative terms may come from rules.",
+            "ADVOCATE GENERAL"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Governor appoints",
+            "qualification for High Court Judge under Article 217(2).",
+            "Office during Governor's pleasure",
+            "Remuneration as Governor determines."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP qualification rule != tenure rule; a rule-based Union term does not displace pleasure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 76 imports the alternative qualifications of a Supreme Court judge for the Attorney General, but does not import judicial retirement age or tenure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ADVICE, REPRESENTATION, ARTICLE 143 WORK AND THE AUDIENCE-ASSIGNMENT DISTINCTION",
+      "structural_type": "law-officer-duty-audience-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ADVICE, REPRESENTATION, ARTICLE 143 WORK AND THE AUDIENCE-ASSIGNMENT DISTINCTION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 76 DUTY ADVISE GOVERNMENT OF INDIA ON LEGAL",
+          "role": "institution"
+        },
+        {
+          "text": "PERFORM ASSIGNED LEGAL DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "DISCHARGE FUNCTIONS CONFERRED BY CONSTITUTION OR LAW.",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATIONAL REPRESENTATION",
+          "role": "primary"
+        },
+        {
+          "text": "SUPREME COURT UNION CASES",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 143 REFERENCES",
+          "role": "institution"
+        },
+        {
+          "text": "HIGH COURT APPEARANCE WHEN ASSIGNED.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 76 DUTY advise Government of India on legal matters referred by President",
+        "perform assigned legal duties",
+        "discharge functions conferred by Constitution or law.",
+        "OPERATIONAL REPRESENTATION",
+        "Supreme Court Union cases"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 76 DUTY advise Government of India on legal matters referred by President",
+            "perform assigned legal duties",
+            "discharge functions conferred by Constitution or law.",
+            "OPERATIONAL REPRESENTATION"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Supreme Court Union cases",
+            "Article 143 references",
+            "High Court appearance when assigned.",
+            "RIGHT OF AUDIENCE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "AGI has an express constitutional right of audience in all courts in India.",
+            "THREE DISTINCT QUESTIONS may the advocate practise?",
+            "does the advocate have audience?",
+            "is this brief assigned?"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT legal opinion advises the executive; it is not a judgment, veto or binding court order."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "High-quality legal advice identifies authority, litigation risk, constitutional limits and defensible alternatives rather than merely validating a preferred policy.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARTICLES 88, 177, 105(4) AND 194(4): PARTICIPATION AND PRIVILEGE BOUNDARIES",
+      "structural_type": "law-officer-legislature-participation",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ARTICLES 88, 177, 105(4) AND 194(4)",
+          "role": "primary"
+        },
+        {
+          "text": "PARTICIPATION AND PRIVILEGE BOUNDARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "AGI MAY SPEAK AND OTHERWISE TAKE PART IN BOTH",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE LEGISLATURE",
+          "role": "institution"
+        },
+        {
+          "text": "ADVOCATE GENERAL MAY SPEAK AND OTHERWISE TAKE PART IN",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON LIMIT NO VOTE BY VIRTUE OF THE OFFICE",
+          "role": "caution"
+        },
+        {
+          "text": "NO ELECTED MEMBERSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "NO MINISTERIAL RESPONSIBILITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AGI may speak and otherwise take part in both Houses, a joint sitting and a",
+        "STATE LEGISLATURE",
+        "Advocate General may speak and otherwise take part in the House or Houses and a",
+        "COMMON LIMIT no vote by virtue of the office",
+        "no elected membership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AGI may speak and otherwise take part in both Houses, a joint sitting and a committee of which the AGI is named a member.",
+            "STATE LEGISLATURE",
+            "Advocate General may speak and otherwise take part in the House or Houses and a committee of which the Advocate General is named a member."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMMON LIMIT no vote by virtue of the office",
+            "no elected membership",
+            "no ministerial responsibility."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIVILEGE RULE",
+            "Articles 105(4) and 194(4) extend specified privileges for authorised participation.",
+            "They do not create blanket immunity for private conduct outside legislative proceedings."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COMMON LIMIT no vote by virtue of the office"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The extension protects the institutional capacity to participate in proceedings without being chilled by ordinary legal exposure for protected speech and authorised proceedings.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PROFESSIONAL PRACTICE, RULE 8 CONFLICTS, PERMISSIONS AND CONFIDENTIALITY",
+      "structural_type": "law-officer-professional-ethics-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROFESSIONAL PRACTICE, RULE 8 CONFLICTS, PERMISSIONS AND CONFIDENTIALITY",
+          "role": "primary"
+        },
+        {
+          "text": "UNION LAW-OFFICER PERIMETER PRIVATE PROFESSIONAL WORK IS PERMITTED ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "PROHIBITED OR CONTROLLED BRIEF AGAINST GOVERNMENT OF INDIA OR",
+          "role": "comparison"
+        },
+        {
+          "text": "ETHICAL DUTIES CONFLICT CHECK",
+          "role": "evidence"
+        },
+        {
+          "text": "SCREEN OR RECUSAL",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHORISED BRIEF",
+          "role": "outcome"
+        },
+        {
+          "text": "CANDOUR TO COURT",
+          "role": "institution"
+        },
+        {
+          "text": "PROTECT LAWFUL CONFIDENTIALITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNION LAW-OFFICER PERIMETER private professional work is permitted only within applicable conduct restrictions.",
+        "PROHIBITED OR CONTROLLED brief against Government of India or covered public entities advice where the",
+        "is likely to advise government criminal defence without permission company or corporation office without permission.",
+        "ETHICAL DUTIES conflict check → disclosure → screen or recusal → authorised brief",
+        "candour to court → protect lawful confidentiality."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "UNION LAW-OFFICER PERIMETER private professional work is permitted only within applicable conduct restrictions.",
+          "is likely to advise government criminal defence without permission company or corporation office without permission.",
+          "candour to court → protect lawful confidentiality.",
+          "Supreme Court may still act suo motu."
+        ],
+        [
+          "PROHIBITED OR CONTROLLED brief against Government of India or covered public entities advice where the officer advised or",
+          "ETHICAL DUTIES conflict check → disclosure → screen or recusal → authorised brief",
+          "CONTEMPT CONSENT section 15 gate concerns specified private criminal-contempt motions",
+          "TRAP permitted practice != unrestricted practice and professional privilege has legal exceptions."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "UNION LAW-OFFICER PERIMETER private professional work is permitted only within applicable conduct restrictions.",
+            "PROHIBITED OR CONTROLLED brief against Government of India or covered public entities advice where the officer advised or"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "is likely to advise government criminal defence without permission company or corporation office without permission.",
+            "ETHICAL DUTIES conflict check → disclosure → screen or recusal → authorised brief"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "candour to court → protect lawful confidentiality.",
+            "CONTEMPT CONSENT section 15 gate concerns specified private criminal-contempt motions"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Supreme Court may still act suo motu.",
+            "TRAP permitted practice != unrestricted practice and professional privilege has legal exceptions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 133 controls waiver; Section 134 protects confidential communications between a person and legal adviser from compelled disclosure, subject to the witness-related qualification.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 25"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AGI, SOLICITOR GENERAL, ADDITIONAL SOLICITORS GENERAL AND STATE LAW-OFFICER ECOLOGY",
+      "structural_type": "law-officer-classification-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AGI, SOLICITOR GENERAL, ADDITIONAL SOLICITORS GENERAL AND STATE LAW-OFFICER",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTIONAL OFFICES",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 76",
+          "role": "institution"
+        },
+        {
+          "text": "ADVOCATE GENERAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 165.",
+          "role": "institution"
+        },
+        {
+          "text": "UNION EXECUTIVE LAW OFFICERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOLICITOR GENERAL AND ADDITIONAL SOLICITORS GENERAL ASSIST UNDER EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "PROMINENCE AND RANKING DO NOT CONVERT THEM INTO CONSTITUTIONAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL OFFICES",
+        "AGI → Article 76",
+        "Advocate General → Article 165.",
+        "UNION EXECUTIVE LAW OFFICERS",
+        "Solicitor General and Additional Solicitors General assist under executive rules."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL OFFICES",
+            "AGI → Article 76",
+            "Advocate General → Article 165.",
+            "UNION EXECUTIVE LAW OFFICERS"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Solicitor General and Additional Solicitors General assist under executive rules.",
+            "Prominence and ranking do not convert them into constitutional or statutory offices.",
+            "STATE ECOLOGY",
+            "Advocate General is constitutional."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Additional Advocate Generals, standing counsel and panel counsel depend on State law or rules.",
+            "OTHER BOUNDARIES",
+            "Law Minister → political executive.",
+            "Public Prosecutor → criminal-procedure office."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CAG → independent constitutional auditor.",
+            "EXAM RULE classify by creating source before comparing function or prestige."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 165 creates only the Advocate General, while additional law officers and public prosecutors derive from State-specific or statutory arrangements that cannot be generalised nationally.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 20"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ATTORNEY GENERAL AND ADVOCATE GENERAL: COMPLETE FEDERAL COMPARISON",
+      "structural_type": "ag-advocate-general-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ATTORNEY GENERAL AND ADVOCATE GENERAL",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE FEDERAL COMPARISON",
+          "role": "outcome"
+        },
+        {
+          "text": "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE ARTICLE 76 ARTICLE 165",
+          "role": "institution"
+        },
+        {
+          "text": "APPOINTER PRESIDENT GOVERNOR",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFICATION SUPREME COURT JUDGE ROUTE HIGH COURT JUDGE ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "ADVICE GOVERNMENT OF INDIA STATE GOVERNMENT",
+          "role": "institution"
+        },
+        {
+          "text": "AUDIENCE ALL COURTS IN INDIA STATE-LAW POSITION MUST BE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+        "Source Article 76 Article 165",
+        "Appointer President Governor",
+        "Qualification Supreme Court Judge route High Court Judge route",
+        "Advice Government of India State Government"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+          "Qualification Supreme Court Judge route High Court Judge route",
+          "Legislature Article 88 Article 177",
+          "Pleasure President Governor"
+        ],
+        [
+          "Source Article 76 Article 165",
+          "Advice Government of India State Government",
+          "Vote none by office none by office",
+          "Article 76(3)'s express all-India audience text must not be silently imported into Article 165."
+        ],
+        [
+          "Appointer President Governor",
+          "Audience all courts in India State-law position must be checked",
+          "Privilege extension Article 105(4) Article 194(4)",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+            "Source Article 76 Article 165",
+            "Appointer President Governor"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Qualification Supreme Court Judge route High Court Judge route",
+            "Advice Government of India State Government",
+            "Audience all courts in India State-law position must be checked"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Legislature Article 88 Article 177",
+            "Vote none by office none by office",
+            "Privilege extension Article 105(4) Article 194(4)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Pleasure President Governor",
+            "Article 76(3)'s express all-India audience text must not be silently imported into Article 165."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Attorney General and Advocate General perform parallel advisory roles at Union and State levels, but differ in qualifications, territorial audience and legislative participation provisions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 21"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDEPENDENCE, GOVERNMENT CONFIDENCE AND FAIR STATE PANEL APPOINTMENTS",
+      "structural_type": "law-officer-independence-case",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INDEPENDENCE, GOVERNMENT CONFIDENCE AND FAIR STATE PANEL APPOINTMENTS",
+          "role": "institution"
+        },
+        {
+          "text": "STRUCTURAL TENSION GOVERNMENT NEEDS TRUSTED COUNSEL",
+          "role": "outcome"
+        },
+        {
+          "text": "PLEASURE TENURE AND ASSIGNMENT CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK OF POLITICISATION, DISCONTINUITY AND SELECTIVE BRIEFING.",
+          "role": "caution"
+        },
+        {
+          "text": "PROFESSIONAL COUNTERWEIGHT COURT DUTY + QUALIFICATION + AUDIENCE +",
+          "role": "institution"
+        },
+        {
+          "text": "STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016)",
+          "role": "institution"
+        },
+        {
+          "text": "STATE PANEL-LAWYER SELECTION MUST FOLLOW FAIR, OBJECTIVE AND SUITABILITY-BASED",
+          "role": "institution"
+        },
+        {
+          "text": "THE JUDGMENT DID NOT REPLACE THE GOVERNOR'S ARTICLE 165",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL TENSION government needs trusted counsel",
+        "pleasure tenure and assignment control",
+        "risk of politicisation, discontinuity and selective briefing.",
+        "PROFESSIONAL COUNTERWEIGHT court duty + qualification + audience + conflict rules + reasoned legal advice.",
+        "State of Punjab v. Brijeshwar Singh Chahal (2016)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STRUCTURAL TENSION government needs trusted counsel",
+            "pleasure tenure and assignment control",
+            "risk of politicisation, discontinuity and selective briefing."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PROFESSIONAL COUNTERWEIGHT court duty + qualification + audience + conflict rules + reasoned legal advice.",
+            "State of Punjab v. Brijeshwar Singh Chahal (2016)",
+            "State panel-lawyer selection must follow fair, objective and suitability-based standards."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "The judgment did not replace the Governor's Article 165 appointment of Advocate General.",
+            "ACCOUNTABILITY executive responsibility for decisions",
+            "judicial review of legality professional discipline"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "legislative and public scrutiny.",
+            "REFORM transparent criteria + conflict register + reasoned recusals + litigation-management audit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "State of Punjab v. Brijeshwar Singh Chahal (2016) requires fair State counsel appointments but does not create a judicial selection committee for every Advocate General.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 26",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 28"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "CURRENT CONTROLS, PYQ ROUTES, TRAPS AND QUALIFIED ANSWER SYNTHESIS",
+      "structural_type": "law-officer-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CURRENT CONTROLS, PYQ ROUTES, TRAPS AND QUALIFIED ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DATED CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "24 AUGUST 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTION AND CURRENT UNION LAW OFFICERS RULES CONTROL; OFFICEHOLDER",
+          "role": "evidence"
+        },
+        {
+          "text": "PYQ ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "2019 GS-II",
+          "role": "outcome"
+        },
+        {
+          "text": "AGI AS CHIEF LEGAL ADVISER.",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 GS-II",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DATED CONTROL: 24 AUGUST 2026",
+        "Constitution and current Union Law Officers Rules control; officeholder names are omitted.",
+        "PYQ ROUTES",
+        "2019 GS-II → AGI as chief legal adviser.",
+        "2025 GS-II → responsibilities, rights and limitations."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DATED CONTROL: 24 AUGUST 2026",
+            "Constitution and current Union Law Officers Rules control; officeholder names are omitted.",
+            "PYQ ROUTES",
+            "2019 GS-II → AGI as chief legal adviser."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2025 GS-II → responsibilities, rights and limitations.",
+            "2022 Prelims → AGI versus Solicitor General constitutional position.",
+            "PRELIMS FIREWALL no fixed constitutional term",
+            "pleasure != impeachment audience != assigned brief"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "speak != vote privilege != blanket immunity",
+            "SG/ASG != constitutional private practice != conflict-free practice.",
+            "MAINS SPINE constitutional source → qualification and tenure → advice and representation",
+            "enabling rights → professional limits → independence tension"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "transparent, ethical and accountable law-officer verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A current fee schedule is subordinate operational detail, not a constitutional salary guarantee.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\polity-33_Complete-Learning-Session_2026-08-24.md#SESSION 30"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — ATTORNEY GENERAL OF INDIA (ART 76)",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — ADVOCATE GENERAL OF THE STATE (ART",
+          "role": "institution"
+        },
+        {
+          "text": "PART C — AG VS ADVOCATE GENERAL (COMPARE)",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHT OF AUDIENCE IN ALL COURTS IN INDIA.",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHT TO SPEAK/TAKE PART IN BOTH HOUSES OF PARLIAMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST NOT ADVISE/HOLD A BRIEF AGAINST THE GOI",
+          "role": "caution"
+        },
+        {
+          "text": "NOT A FULL-TIME COUNSEL , NOT A GOVERNMENT SERVANT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — ATTORNEY GENERAL OF INDIA (Art 76)",
+            "PART B — ADVOCATE GENERAL OF THE STATE (Art 165)",
+            "PART C — AG vs ADVOCATE GENERAL (compare)",
+            "Right of audience in ALL courts in India."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Right to speak/take part in both Houses of Parliament, joint sittings, and any committee he's named to —",
+            "Limitations: must NOT advise/hold a brief against the GoI ; must not defend accused in criminal cases",
+            "NOT a full-time counsel , NOT a government servant , and not debarred from private practice .",
+            "NOT a member of the Central Cabinet (there is a separate Law Minister )."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The AG has a fixed term of 5/6 years → no fixed term ; holds office during the President's pleasure .",
+            "NOT: The AG can vote in Parliament → speaks but cannot vote .",
+            "NOT: The Solicitor General is a constitutional or statutory post → the AG and Advocate",
+            "NOT: The AG is a member of the Cabinet → he is not ; a separate Law Minister exists."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 2
+  }
+}

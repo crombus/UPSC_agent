@@ -1,0 +1,963 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-13",
+  "subject": "Polity",
+  "title": "CENTRE STATE AND INTER STATE RELATIONS",
+  "short_route": "THE FOUR-DIMENSIONAL FEDERAL RELATIONS → LEGISLATIVE COMPETENCE BEFORE CONFLICT → PARLIAMENT'S ROUTES INTO THE → DOCTRINES, REPUGNANCY AND STATE-LAW → ADMINISTRATIVE DIRECTIONS, DELEGATION AND → FISCAL FEDERALISM FROM TAX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-13-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "6c6e5d2e320bbd91d37c8b7828871325b8bd3a32ba80966732a5043012cebb05",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE FOUR-DIMENSIONAL FEDERAL RELATIONS MAP",
+      "structural_type": "constitutional-relations-architecture",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE FOUR-DIMENSIONAL FEDERAL RELATIONS MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRE-STATE AND INTER-STATE RELATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 245-255 + SEVENTH SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 256-263",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 264-293 + GST ARTICLES 246A",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 261-263 AND 301-307",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATING QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO MAY ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRE-STATE AND INTER-STATE RELATIONS",
+        "LEGISLATIVE: Articles 245-255 + Seventh Schedule",
+        "ADMINISTRATIVE: Articles 256-263",
+        "FINANCIAL: Articles 264-293 + GST Articles 246A / 269A / 279A",
+        "INTER-STATE / ECONOMIC: Articles 261-263 and 301-307"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CENTRE-STATE AND INTER-STATE RELATIONS",
+            "LEGISLATIVE: Articles 245-255 + Seventh Schedule"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ADMINISTRATIVE: Articles 256-263",
+            "FINANCIAL: Articles 264-293 + GST Articles 246A / 269A / 279A"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTER-STATE / ECONOMIC: Articles 261-263 and 301-307",
+            "OPERATING QUESTION"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Who may act → through which constitutional route → with what check → with what remedy?",
+            "FEDERALISM IS NOT ONE LIST legal competence + implementation control + fiscal capacity + bargaining institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 246(2) creates concurrent competence; Article 246(3) gives State List competence subject to clauses (1) and (2).",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LEGISLATIVE COMPETENCE BEFORE CONFLICT",
+      "structural_type": "competence-list-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEGISLATIVE COMPETENCE BEFORE CONFLICT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 245",
+          "role": "institution"
+        },
+        {
+          "text": "TERRITORIAL REACH",
+          "role": "comparison"
+        },
+        {
+          "text": "WHOLE OR ANY PART OF INDIA; EXTRA-TERRITORIAL OPERATION PROTECTED",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE LEGISLATURE",
+          "role": "institution"
+        },
+        {
+          "text": "WHOLE OR ANY PART OF THE STATE; TERRITORIAL NEXUS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 246 + SEVENTH SCHEDULE",
+          "role": "institution"
+        },
+        {
+          "text": "UNION LIST 100",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 245: territorial reach",
+        "Parliament: whole or any part of India; extra-territorial operation protected",
+        "State legislature: whole or any part of the State; territorial nexus applies",
+        "ARTICLE 246 + SEVENTH SCHEDULE",
+        "Union List 100 → Parliament"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 245: territorial reach",
+            "Parliament: whole or any part of India; extra-territorial operation protected",
+            "State legislature: whole or any part of the State; territorial nexus applies"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 246 + SEVENTH SCHEDULE",
+            "Union List 100 → Parliament",
+            "State List 61 → States, subject to constitutional exceptions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Concurrent List 52 → both; Article 254 resolves repugnancy",
+            "SPECIAL RULES",
+            "Article 246A → GST competence"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 248 + Union Entry 97 → residuary power with Parliament."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A legally State subject may depend on Union finance; a shared tax may require administrative coordination; a water dispute may become a political and fiscal conflict.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PARLIAMENT'S ROUTES INTO THE STATE FIELD",
+      "structural_type": "state-list-exception-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PARLIAMENT'S ROUTES INTO THE STATE FIELD",
+          "role": "institution"
+        },
+        {
+          "text": "STATE LIST IS PRIMARY, NOT ABSOLUTE",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 249",
+          "role": "institution"
+        },
+        {
+          "text": "RAJYA SABHA NATIONAL-INTEREST RESOLUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 250",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL EMERGENCY; TEMPORARY EXTENSION AFTER IT ENDS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 252",
+          "role": "institution"
+        },
+        {
+          "text": "TWO OR MORE STATES REQUEST; OTHER STATES MAY ADOPT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE LIST IS PRIMARY, NOT ABSOLUTE",
+        "Article 249 → Rajya Sabha national-interest resolution",
+        "Article 250 → National Emergency; temporary extension after it ends",
+        "Article 252 → two or more States request; other States may adopt",
+        "Article 253 → treaty / international obligation implementation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATE LIST IS PRIMARY, NOT ABSOLUTE",
+            "Article 249 → Rajya Sabha national-interest resolution",
+            "Article 250 → National Emergency; temporary extension after it ends"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 252 → two or more States request; other States may adopt",
+            "Article 253 → treaty / international obligation implementation",
+            "Article 356 → Parliament legislates for the affected State"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 246(4) → territories not included in a State",
+            "EXAM CONTROL",
+            "State trigger, national trigger, duration and amendment/repeal control differ by route."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 252 → two or more States request; other States may adopt"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 249 to 253 permit Parliament to enter the State field through distinct triggers, but each route retains its own duration, consent or federal safeguard.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DOCTRINES, REPUGNANCY AND STATE-LAW CONTROL",
+      "structural_type": "doctrine-repugnancy-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOCTRINES, REPUGNANCY AND STATE-LAW CONTROL",
+          "role": "institution"
+        },
+        {
+          "text": "FIRST RECONCILE COMPETENCE PITH AND SUBSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUE NATURE HARMONIOUS CONSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESERVE BOTH ENTRIES INCIDENTAL ENCROACHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "TOLERATED WHEN SUBSTANCE IS COMPETENT COLOURABLE LEGISLATION",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT CANNOT BE DONE DIRECTLY CANNOT BE DISGUISED",
+          "role": "outcome"
+        },
+        {
+          "text": "THEN TEST ARTICLE 254",
+          "role": "institution"
+        },
+        {
+          "text": "CONCURRENT FIELD + DIRECT CONFLICT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIRST RECONCILE COMPETENCE pith and substance → true nature harmonious construction → preserve both entries",
+        "tolerated when substance is competent colourable legislation → what cannot be done directly cannot be",
+        "THEN TEST ARTICLE 254",
+        "Concurrent field + direct conflict → Union law ordinarily prevails reserved State law + Presidential",
+        "Parliament may later override"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FIRST RECONCILE COMPETENCE pith and substance → true nature harmonious construction → preserve both entries incidental encroachment →",
+          "THEN TEST ARTICLE 254",
+          "Parliament may later override",
+          "FIRST RECONCILE COMPETENCE pith and substance → true nature harmonious construction → preserve both entries incidental encroachment →"
+        ],
+        [
+          "tolerated when substance is competent colourable legislation → what cannot be done directly cannot be disguised",
+          "Concurrent field + direct conflict → Union law ordinarily prevails reserved State law + Presidential assent → operates in that State",
+          "ASSENT CONTROL prior sanction != reservation; Articles 200-201 remain distinct procedures.",
+          "tolerated when substance is competent colourable legislation → what cannot be done directly cannot be disguised"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FIRST RECONCILE COMPETENCE pith and substance → true nature harmonious construction → preserve both entries incidental encroachment →",
+            "tolerated when substance is competent colourable legislation → what cannot be done directly cannot be disguised"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "THEN TEST ARTICLE 254",
+            "Concurrent field + direct conflict → Union law ordinarily prevails reserved State law + Presidential assent → operates in that State"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Parliament may later override",
+            "ASSENT CONTROL prior sanction != reservation; Articles 200-201 remain distinct procedures."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FIRST RECONCILE COMPETENCE pith and substance → true nature harmonious construction → preserve both entries incidental encroachment →",
+            "tolerated when substance is competent colourable legislation → what cannot be done directly cannot be disguised"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "If the State legislature passes the returned Bill again, Article 201 does not impose the Article 200-style obligation that assent must follow.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 5"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADMINISTRATIVE DIRECTIONS, DELEGATION AND COMMON SERVICES",
+      "structural_type": "administrative-relations-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ADMINISTRATIVE DIRECTIONS, DELEGATION AND COMMON SERVICES",
+          "role": "primary"
+        },
+        {
+          "text": "STATE EXECUTIVE DUTY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 256",
+          "role": "institution"
+        },
+        {
+          "text": "ENSURE COMPLIANCE WITH PARLIAMENTARY LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 257",
+          "role": "institution"
+        },
+        {
+          "text": "DO NOT IMPEDE UNION EXECUTIVE POWER; DIRECTIONS IN STATED",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 365",
+          "role": "institution"
+        },
+        {
+          "text": "NON-COMPLIANCE MAY SUPPLY MATERIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE EXECUTIVE DUTY",
+        "Article 256 → ensure compliance with parliamentary law",
+        "Article 257 → do not impede Union executive power; directions in stated fields",
+        "Article 365: non-compliance may supply material",
+        "Article 356: still requires separate constitutional satisfaction and review"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATE EXECUTIVE DUTY",
+            "Article 256 → ensure compliance with parliamentary law",
+            "Article 257 → do not impede Union executive power; directions in stated fields"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 365: non-compliance may supply material",
+            "Article 356: still requires separate constitutional satisfaction and review",
+            "COOPERATIVE ADMINISTRATION"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Articles 258 / 258A → mutual entrustment of functions",
+            "Article 312 → Rajya Sabha route for All-India Services",
+            "CBI → DSPE Act consent architecture; State consent and federal litigation remain bounded."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 365: non-compliance may supply material"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Failure to comply with Union directions permits the President to hold that a situation has arisen in which State government cannot be carried on according to the Constitution.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FISCAL FEDERALISM FROM TAX POWER TO BORROWING",
+      "structural_type": "fiscal-federalism-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FISCAL FEDERALISM FROM TAX POWER TO BORROWING",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO TAX WITHOUT AUTHORITY OF LAW",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 265 ASSIGNED",
+          "role": "institution"
+        },
+        {
+          "text": "DISTRIBUTED TAXES",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 268-270 SURCHARGE FOR UNION PURPOSES",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 271 GRANTS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 273, 275 AND 282",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE COMMISSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NO TAX WITHOUT AUTHORITY OF LAW: ARTICLE 265 assigned / distributed taxes: Articles 268-270 surcharge",
+        "Article 271 grants: Articles 273, 275 and 282",
+        "Finance Commission: Article 280 borrowing: Articles 292-293",
+        "GST LAYER",
+        "Articles 246A + 269A + 279A → shared tax field + destination rule + Council"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NO TAX WITHOUT AUTHORITY OF LAW: ARTICLE 265 assigned / distributed taxes: Articles 268-270 surcharge for Union purposes",
+            "Article 271 grants: Articles 273, 275 and 282"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Finance Commission: Article 280 borrowing: Articles 292-293",
+            "GST LAYER"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Articles 246A + 269A + 279A → shared tax field + destination rule + Council",
+            "CURRENT CONTROL"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Sixteenth Finance Commission award 2026-31; report tabled in Parliament.",
+            "Fiscal autonomy depends on predictable devolution, not State List words alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "“More devolution” cannot be assessed from the percentage alone; the divisible-pool base, grants and expenditure mandates matter.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 11"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INTERGOVERNMENTAL FORUMS AND RIVER-WATER ADJUDICATION",
+      "structural_type": "institutions-water-dispute-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTERGOVERNMENTAL FORUMS AND RIVER-WATER ADJUDICATION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 263 INTER-STATE COUNCIL INQUIRY + DISCUSSION + RECOMMENDATION",
+          "role": "institution"
+        },
+        {
+          "text": "ZONAL COUNCILS",
+          "role": "comparison"
+        },
+        {
+          "text": "STATES REORGANISATION ACT, 1956; REGIONAL CONSULTATION; STATUTORY, NOT CONSTITUTIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "NORTH EASTERN COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "SEPARATE STATUTORY REGIONAL BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 262 WATER DISPUTES NEGOTIATION",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY TRIBUNAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 263 INTER-STATE COUNCIL inquiry + discussion + recommendation; constitutional and recommendatory",
+        "ZONAL COUNCILS",
+        "States Reorganisation Act, 1956; regional consultation; statutory, not constitutional",
+        "North Eastern Council → separate statutory regional body",
+        "ARTICLE 262 WATER DISPUTES negotiation → statutory tribunal → decision/publication → implementation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 263 INTER-STATE COUNCIL inquiry + discussion + recommendation; constitutional and recommendatory",
+            "ZONAL COUNCILS"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "States Reorganisation Act, 1956; regional consultation; statutory, not constitutional",
+            "North Eastern Council → separate statutory regional body"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 262 WATER DISPUTES negotiation → statutory tribunal → decision/publication → implementation",
+            "Parliament may exclude court jurisdiction through law"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CURRENT LIMIT",
+            "The 2019 permanent-tribunal Bill has not become law; do not invent one tribunal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Federal supremacy is constitutionally authorised but should be used only after competence and reconciliation analysis, not as a presumption that every Union law displaces State law.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 16"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SARKARIA, PUNCHHI AND THE MODES OF FEDERALISM",
+      "structural_type": "commission-mode-dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SARKARIA, PUNCHHI AND THE MODES OF FEDERALISM",
+          "role": "primary"
+        },
+        {
+          "text": "CONSULTATION AND JOINT IMPLEMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INNOVATION, INVESTMENT AND POLICY COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "NEGOTIATED GRANTS, GST AND POLITICAL ACCOMMODATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONDITIONAL FINANCE, DIRECTIONS OR UNILATERAL CENTRAL LEVERAGE",
+          "role": "primary"
+        },
+        {
+          "text": "SARKARIA STRONG UNION WITHIN COOPERATION; ARTICLE 356 LAST RESORT",
+          "role": "institution"
+        },
+        {
+          "text": "PUNCHHI LOCALISED EMERGENCY DEBATE; CLEARER GOVERNOR PRACTICE; CONSULTATION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM TEST REGULAR INSTITUTIONS + SHARED DATA + REASONED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COOPERATIVE → consultation and joint implementation",
+        "COMPETITIVE → innovation, investment and policy comparison",
+        "BARGAINING → negotiated grants, GST and political accommodation",
+        "COERCIVE → conditional finance, directions or unilateral central leverage",
+        "SARKARIA strong Union within cooperation; Article 356 last resort; neutral Governor; active ISC"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COOPERATIVE → consultation and joint implementation",
+            "COMPETITIVE → innovation, investment and policy comparison"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "BARGAINING → negotiated grants, GST and political accommodation",
+            "COERCIVE → conditional finance, directions or unilateral central leverage"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SARKARIA strong Union within cooperation; Article 356 last resort; neutral Governor; active ISC",
+            "PUNCHHI localised emergency debate; clearer Governor practice; consultation and dispute prevention"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REFORM TEST regular institutions + shared data + reasoned decisions + fiscal transparency.",
+            "COOPERATIVE → consultation and joint implementation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Parliamentary law may confer powers and impose duties on States even without consent, with adjustment for administrative costs.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 17"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "PRELIMS CONTROLS, PYQ ROUTES AND ANSWER SYNTHESIS",
+      "structural_type": "exam-synthesis-board",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PRELIMS CONTROLS, PYQ ROUTES AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 254",
+          "role": "institution"
+        },
+        {
+          "text": "CONCURRENT REPUGNANCY, NOT EVERY UNION-STATE DISAGREEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 365",
+          "role": "institution"
+        },
+        {
+          "text": "POSSIBLE CONSEQUENCE, NOT AUTOMATIC PRESIDENT'S RULE",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 246A SPECIAL FIELD, NOT A GENERAL CONCURRENT LIST",
+          "role": "caution"
+        },
+        {
+          "text": "ZONAL COUNCILS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "Article 254 → Concurrent repugnancy, not every Union-State disagreement",
+        "Article 365 → possible consequence, not automatic President's Rule",
+        "GST → Article 246A special field, not a general Concurrent List tax entry",
+        "Zonal Councils → statutory; Inter-State Council → constitutional"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "Article 254 → Concurrent repugnancy, not every Union-State disagreement",
+            "Article 365 → possible consequence, not automatic President's Rule"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "GST → Article 246A special field, not a general Concurrent List tax entry",
+            "Zonal Councils → statutory; Inter-State Council → constitutional",
+            "PYQ ROUTES"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2019 supremacy/harmony",
+            "2020 centralisation",
+            "2024 relation reform"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2025 fiscal federalism",
+            "MAINS SPINE define dimension → cite Article/institution → explain mechanism → evidence",
+            "State/Union counterpoint → commission reform → cooperative, reviewable conclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Revenue-deficit, sector-specific and State-specific grants were discontinued in the accepted framework; local-body and disaster grants remain major grant channels.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md#SESSION 17"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "18. REPRESENTATION AS A FOURTH CENTRE-STATE DIMENSION - OPTIONAL",
+          "role": "institution"
+        },
+        {
+          "text": "19. EXECUTIVE FEDERALISM AND INSTITUTIONAL UNDER-USE - OPTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE INFLUENCE AT THE UNION DEPENDS NOT ONLY ON",
+          "role": "caution"
+        },
+        {
+          "text": "THE 42ND, 84TH AND 87TH AMENDMENT SEQUENCE SEPARATED INTER-STATE",
+          "role": "institution"
+        },
+        {
+          "text": "[CURRENT] THE 2026 DELIMITATION PACKAGE WAS DEFEATED; ITS PROPOSED",
+          "role": "outcome"
+        },
+        {
+          "text": "[ANALYSIS] REPRESENTATION AND DEVOLUTION ARE TWO CURRENCIES OF THE",
+          "role": "comparison"
+        },
+        {
+          "text": "[LIMIT] FULL REPRESENTATIONAL-FEDERALISM TREATMENT BELONGS TO POLITY 12 AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "18. Representation as a fourth Centre-State dimension - optional",
+            "19. Executive federalism and institutional under-use - optional",
+            "State influence at the Union depends not only on Lists and transfers but on seats in Lok Sabha, Rajya Sabha and the Presidential Electoral College.",
+            "The 42nd, 84th and 87th Amendment sequence separated inter-State seat allocation freeze from permissible intra-State boundary readjustment."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[CURRENT] The 2026 delimitation package was defeated; its proposed 850-seat figure is not law.",
+            "[ANALYSIS] Representation and devolution are two currencies of the same grievance where population growth affects both political and fiscal weight.",
+            "[LIMIT] Full representational-federalism treatment belongs to Polity 12 and Parliament; no seat projection or implementation date should be invented.",
+            "Much Indian federal coordination occurs among Prime Minister, Chief Ministers, ministers and officials rather than through legislatures."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Executive federalism can respond quickly but may weaken transparency and opposition participation.",
+            "Zonal mechanisms often solve operational questions; the ISC should address national structural disputes.",
+            "A stronger ISC secretariat, regular agenda cycle and response-to-recommendation duty would turn consultation into accountable process.",
+            "The operative mechanism matters because [CURRENT] The 2026 delimitation package was defeated; its proposed 850-seat figure is not law."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

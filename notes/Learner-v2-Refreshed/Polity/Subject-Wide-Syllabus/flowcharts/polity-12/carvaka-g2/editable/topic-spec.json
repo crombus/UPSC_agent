@@ -1,0 +1,847 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-12",
+  "subject": "Polity",
+  "title": "FEDERAL SYSTEM",
+  "short_route": "FEDERAL DEFINITION → UNION BIAS → LEGISLATIVE DISTRIBUTION → STATE-LIST EXCEPTIONS → BASIC-STRUCTURE CASES → SHARED RULE AND ASYMMETRY → FISCAL FEDERALISM → CURRENT FRICTION → ANSWER SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. The grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+  "ascii_spec_sha256": "c411fd218c22bd1795690c849cff26b8964681b9f9e0eda6dc551236bfddce3b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FEDERALISM: AUTONOMY WITHIN A UNION OF STATES",
+      "structural_type": "federal-definition-formation",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLE 1",
+          "role": "institution"
+        },
+        {
+          "text": "UNION OF STATES",
+          "role": "primary"
+        },
+        {
+          "text": "DUAL POLITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVISION OF POWERS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL SUPREMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENT JUDICIARY",
+          "role": "caution"
+        },
+        {
+          "text": "HOLDING TOGETHER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION",
+          "role": "primary",
+          "items": [
+            "Constitution divides authority between Union and States.",
+            "Each operates directly in assigned fields.",
+            "Independent courts police the boundary."
+          ]
+        },
+        {
+          "heading": "INDIAN FORMATION",
+          "role": "evidence",
+          "items": [
+            "Article 1 says Union of States.",
+            "The Union is not a secession-permitting compact.",
+            "Holding-together design gives the Union greater strength."
+          ]
+        },
+        {
+          "heading": "FEDERAL FEATURES",
+          "role": "institution",
+          "items": [
+            "Dual polity, written supreme Constitution and divided powers.",
+            "Rigidity for federal provisions.",
+            "Bicameral representation and independent judiciary."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Federal government constitutionally divides public power between a general government and regional governments so that each operates directly on citizens within an assigned sphere.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 1 — MEANING: WHAT MAKES A POLITICAL SYSTEM FEDERAL?",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 2 — FORMATION: COMING TOGETHER AND HOLDING TOGETHER",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 3 — SEVEN FEDERAL FEATURES"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "UNION BIAS WITHOUT UNITARY ABSORPTION",
+      "structural_type": "centralising-feature-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "UNION LIST",
+          "role": "institution"
+        },
+        {
+          "text": "RESIDUARY POWER",
+          "role": "primary"
+        },
+        {
+          "text": "EMERGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL-INDIA SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATED JUDICIARY",
+          "role": "caution"
+        },
+        {
+          "text": "RAJYA SABHA",
+          "role": "mechanism"
+        },
+        {
+          "text": "BASIC STRUCTURE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CENTRALISING DESIGN",
+          "role": "mechanism",
+          "items": [
+            "Broad Union fields and residuary power.",
+            "Exceptional Parliament access to State subjects.",
+            "Emergency, Governors and All-India Services."
+          ]
+        },
+        {
+          "heading": "INTEGRATING INSTITUTIONS",
+          "role": "institution",
+          "items": [
+            "Single citizenship and integrated judiciary.",
+            "Election and audit architecture.",
+            "Flexible State reorganisation."
+          ]
+        },
+        {
+          "heading": "FEDERAL CHECKS",
+          "role": "caution",
+          "items": [
+            "State List and elected State governments.",
+            "Rajya Sabha, ratification and judicial review.",
+            "Finance and intergovernmental bargaining; federalism as Basic Structure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India's centralising features remain constitutional and reviewable, so they modify rather than extinguish federalism.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 4 — CENTRALISING FEATURES: WHY INDIA IS FEDERAL WITH A UNION BIAS"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LEGISLATIVE DISTRIBUTION AND CONFLICT DOCTRINES",
+      "structural_type": "seventh-schedule-legislative-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLES 245-246",
+          "role": "institution"
+        },
+        {
+          "text": "UNION 100",
+          "role": "primary"
+        },
+        {
+          "text": "STATE 61",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCURRENT 52",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 246A",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 248",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 254",
+          "role": "mechanism"
+        },
+        {
+          "text": "PITH AND SUBSTANCE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [
+        [
+          "List",
+          "Standard count",
+          "Primary power"
+        ],
+        [
+          "Union",
+          "100",
+          "Parliament"
+        ],
+        [
+          "State",
+          "61",
+          "States, subject to exceptions"
+        ],
+        [
+          "Concurrent",
+          "52",
+          "both levels"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "LIST ARCHITECTURE",
+          "role": "institution",
+          "items": [
+            "Article 245 controls territorial reach.",
+            "Article 246 orders Union, Concurrent and State fields.",
+            "Standard exam counts: 100, 61 and 52."
+          ]
+        },
+        {
+          "heading": "SPECIAL POWERS",
+          "role": "mechanism",
+          "items": [
+            "Article 246A creates GST competence.",
+            "Article 248 and Union List Entry 97 vest residuary power in Parliament.",
+            "Article 254 addresses Concurrent repugnancy."
+          ]
+        },
+        {
+          "heading": "INTERPRETIVE CONTROL",
+          "role": "comparison",
+          "items": [
+            "Pith and substance identifies true nature.",
+            "Territorial nexus requires real connection.",
+            "Harmonious construction preserves fields; repugnancy resolves final conflict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 248 and Union List Entry 97 place residuary legislative power with Parliament, including residuary taxation subject to later GST design.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 5 — LEGISLATIVE DISTRIBUTION: ARTICLES 245-255 AND THE SEVENTH SCHEDULE"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PARLIAMENT ON THE STATE LIST: EXCEPTION ROUTES",
+      "structural_type": "state-list-exception-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 249",
+          "role": "institution"
+        },
+        {
+          "text": "RAJYA SABHA",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 250",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 252",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE REQUEST",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 253",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 356",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 246(4)",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "Identify trigger",
+        "Identify initiating institution",
+        "Define scope and duration",
+        "State amendment or repeal control"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "NATIONAL TRIGGERS",
+          "role": "institution",
+          "items": [
+            "Article 249: Rajya Sabha national-interest resolution.",
+            "Article 250: National Emergency.",
+            "Article 253: treaty implementation."
+          ]
+        },
+        {
+          "heading": "STATE / TERRITORIAL TRIGGERS",
+          "role": "mechanism",
+          "items": [
+            "Article 252: two or more States request Parliament.",
+            "Other States may adopt later; Parliament amends or repeals.",
+            "Article 246(4): non-State territories."
+          ]
+        },
+        {
+          "heading": "CRISIS TRIGGER / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 356 enables Parliament for the affected State.",
+            "Each route has a distinct trigger and duration.",
+            "Exceptional access does not permanently erase List II."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 253 is powerful but remains subject to constitutional rights, judicial review and the actual treaty-implementation nexus.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 6 — WHEN PARLIAMENT MAY LEGISLATE ON THE STATE LIST"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FEDERALISM AS BASIC STRUCTURE AND CASE CONTROL",
+      "structural_type": "federal-case-chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "KESAVANANDA BHARATI (1973)",
+          "role": "institution"
+        },
+        {
+          "text": "S.R. BOMMAI (1994)",
+          "role": "primary"
+        },
+        {
+          "text": "FLOOR TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 356",
+          "role": "outcome"
+        },
+        {
+          "text": "MOHIT MINERALS (2022)",
+          "role": "comparison"
+        },
+        {
+          "text": "GST COUNCIL",
+          "role": "caution"
+        },
+        {
+          "text": "LEGISLATIVE AUTONOMY",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "Kesavananda Bharati (1973) identity",
+        "S.R. Bommai (1994) Article 356 control",
+        "Mohit Minerals (2022) cooperative autonomy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "IDENTITY",
+          "role": "evidence",
+          "items": [
+            "Kesavananda Bharati (1973) places federal character in the identity framework.",
+            "Union strength cannot erase State constitutional status.",
+            "Federalism limits constitutional amendment and power use."
+          ]
+        },
+        {
+          "heading": "ARTICLE 356",
+          "role": "mechanism",
+          "items": [
+            "S.R. Bommai (1994) constrains partisan central intervention.",
+            "Disputed majority ordinarily goes to the floor.",
+            "Presidential action remains judicially reviewable."
+          ]
+        },
+        {
+          "heading": "GST FEDERALISM",
+          "role": "outcome",
+          "items": [
+            "Mohit Minerals (2022) treats GST Council recommendations as recommendatory.",
+            "Consultation and pooled sovereignty matter.",
+            "Union and State legislative autonomy remain constitutionally relevant."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The basic-structure cases transformed federalism from a descriptive feature into an enforceable limit on Union power, especially against partisan displacement of State governments.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 7 — FEDERALISM AS BASIC STRUCTURE: CASE CHRONOLOGY"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COOPERATION, COMPETITION, BARGAINING AND ASYMMETRY",
+      "structural_type": "operating-federalism-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COOPERATIVE",
+          "role": "institution"
+        },
+        {
+          "text": "COMPETITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "BARGAINING",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFRONTATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJYA SABHA",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER-STATE COUNCIL",
+          "role": "caution"
+        },
+        {
+          "text": "ASYMMETRY",
+          "role": "mechanism"
+        },
+        {
+          "text": "LOCAL GOVERNMENT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [
+        [
+          "Mode",
+          "Benefit",
+          "Risk"
+        ],
+        [
+          "cooperation",
+          "coordination",
+          "Union leverage"
+        ],
+        [
+          "competition",
+          "innovation",
+          "capacity gaps"
+        ],
+        [
+          "bargaining",
+          "accommodation",
+          "opacity"
+        ],
+        [
+          "confrontation",
+          "rights assertion",
+          "paralysis"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "OPERATING MODES",
+          "role": "comparison",
+          "items": [
+            "Cooperation coordinates interdependence.",
+            "Competition spreads innovation but may widen capacity gaps.",
+            "Bargaining accommodates interests; confrontation channels disputes."
+          ]
+        },
+        {
+          "heading": "SHARED RULE",
+          "role": "institution",
+          "items": [
+            "Rajya Sabha, Inter-State Council and Zonal Councils.",
+            "GST Council, Finance Commission and courts.",
+            "All-India Services and dispute mechanisms."
+          ]
+        },
+        {
+          "heading": "ASYMMETRY / DEPTH",
+          "role": "caution",
+          "items": [
+            "Special arrangements need constitutional source and purpose.",
+            "Local government deepens participation.",
+            "Local bodies are not a co-equal third sovereign tier."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The health test is whether institutions convert confrontation into reasons, negotiation, adjudication and electoral accountability.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 8 — HOW INDIAN FEDERALISM ACTUALLY WORKS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 9 — INSTITUTIONS OF SHARED RULE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 10 — ASYMMETRIC FEDERALISM"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FISCAL FEDERALISM: CAPACITY, EQUALISATION AND GST",
+      "structural_type": "fiscal-federalism-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FINANCE COMMISSION",
+          "role": "institution"
+        },
+        {
+          "text": "41 PERCENT",
+          "role": "primary"
+        },
+        {
+          "text": "DIVISIBLE POOL",
+          "role": "evidence"
+        },
+        {
+          "text": "HORIZONTAL DEVOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "GST COUNCIL",
+          "role": "comparison"
+        },
+        {
+          "text": "CESSES AND SURCHARGES",
+          "role": "caution"
+        },
+        {
+          "text": "VERTICAL IMBALANCE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "Expenditure assignments",
+        "Revenue powers",
+        "Finance Commission transfers",
+        "GST coordination",
+        "Accountability and dispute"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "REVENUE / EXPENDITURE GAP",
+          "role": "institution",
+          "items": [
+            "States carry major service-delivery responsibilities.",
+            "Union controls important elastic revenues.",
+            "Transfers mediate vertical imbalance."
+          ]
+        },
+        {
+          "heading": "TRANSFER ARCHITECTURE",
+          "role": "mechanism",
+          "items": [
+            "Finance Commission recommends devolution and grants.",
+            "The 2026-31 award retains 41% vertical share.",
+            "Horizontal criteria balance equity, need and performance."
+          ]
+        },
+        {
+          "heading": "GST AND FRICTION",
+          "role": "caution",
+          "items": [
+            "GST pools Union-State tax sovereignty.",
+            "Council recommendations are not binding.",
+            "Cesses, scheme conditions and rate autonomy generate contestation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Transfers are therefore not charity; they are a structural feature of the constitutional division of revenue and responsibility.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 11 — FISCAL FEDERALISM"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REPRESENTATION, GOVERNORS, CBI AND CURRENT FRICTION",
+      "structural_type": "current-friction-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RAJYA SABHA",
+          "role": "institution"
+        },
+        {
+          "text": "DELIMITATION",
+          "role": "primary"
+        },
+        {
+          "text": "131ST BILL",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNOR ASSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NO DEEMED ASSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CBI CONSENT",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 131",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONSULTATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "REPRESENTATION",
+          "role": "primary",
+          "items": [
+            "Rajya Sabha carries State voice with unequal representation.",
+            "Delimitation changes popular and federal weight.",
+            "The defeated 850-seat proposal is not law."
+          ]
+        },
+        {
+          "heading": "GOVERNOR ASSENT",
+          "role": "mechanism",
+          "items": [
+            "No fixed judicial timeline or deemed assent under current advisory control.",
+            "Prolonged unexplained inaction may attract a direction to act.",
+            "Court cannot dictate the ultimate constitutional choice."
+          ]
+        },
+        {
+          "heading": "CBI AND DISPUTE",
+          "role": "caution",
+          "items": [
+            "Section 6 consent protects police autonomy.",
+            "Constitutional courts may order CBI investigation.",
+            "The 2024 West Bengal ruling decided maintainability, not all merits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Population control creates a federal fairness dilemma: equal vote value points toward updated population, while rewarding demographic performance points toward protecting relative representation of lower-growth States.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 12 — REPRESENTATIONAL FEDERALISM AND DELIMITATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#SESSION 13 — CURRENT FEDERAL-FRICTION CONTROLS"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "FINAL SYNTHESIS: TRAPS, PYQS AND ANSWER SPINE",
+      "structural_type": "exam-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UNION OF STATES",
+          "role": "institution"
+        },
+        {
+          "text": "100-61-52",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDUARY POWER",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 254",
+          "role": "outcome"
+        },
+        {
+          "text": "S.R. BOMMAI (1994)",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARED RULE",
+          "role": "caution"
+        },
+        {
+          "text": "FISCAL FEDERALISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAINS SPINE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRELIMS CONTROL",
+          "role": "caution",
+          "items": [
+            "Union of States does not make States departments.",
+            "Residuary power is parliamentary; Article 254 is Concurrent-specific.",
+            "GST Council is recommendatory; local bodies are not co-equal sovereigns."
+          ]
+        },
+        {
+          "heading": "PYQ ROUTES",
+          "role": "evidence",
+          "items": [
+            "2020, 2021 and 2022 GS-II questions.",
+            "2021 and 2023 Prelims questions.",
+            "Objective keys remain inferred where official keys are absent."
+          ]
+        },
+        {
+          "heading": "MAINS LADDER",
+          "role": "outcome",
+          "items": [
+            "Define holding-together federalism.",
+            "Map federal and centralising features.",
+            "Explain distribution, institutions and fiscal capacity.",
+            "Use cases and current friction; propose cooperative reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "Move from constitutional design to operating relations, fiscal capacity, cases, current friction and a balanced Union-capacity plus State-autonomy verdict.",
+      "answer_line": "“Not binding” does not mean irrelevant; departure can create political, administrative and market costs.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#CONSOLIDATED REGISTER NOTES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "OPTIONAL ENRICHMENT: FEDERAL CLASSIFICATIONS AND SCHOLARS",
+      "structural_type": "advanced-federal-theory-columns",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ONLY",
+          "role": "institution"
+        },
+        {
+          "text": "QUASI-FEDERAL",
+          "role": "primary"
+        },
+        {
+          "text": "BARGAINING FEDERALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "COERCIVE FEDERALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "MARBLE CAKE",
+          "role": "comparison"
+        },
+        {
+          "text": "ASYMMETRY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ENRICHMENT",
+          "role": "comparison",
+          "items": [
+            "Scholar labels describe different operating moments.",
+            "Bargaining and marble-cake images illuminate interdependence."
+          ]
+        },
+        {
+          "heading": "USE WITH DISCIPLINE",
+          "role": "caution",
+          "items": [
+            "No label replaces constitutional provisions.",
+            "Quasi-federal is not constitutional text.",
+            "Add only after the complete core answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "This enrichment is unnecessary for a competent core answer and remains subordinate to Articles, Lists, institutions, cases, fiscal facts and PYQs.",
+      "answer_line": "",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md#OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

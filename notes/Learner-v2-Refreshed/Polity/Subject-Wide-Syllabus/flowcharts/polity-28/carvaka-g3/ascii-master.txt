@@ -1,0 +1,240 @@
+ASCII MASTER FLOW — PANEL 1/12: Constitutional purpose, evolution and Articles 315-323 master map
+ROOT QUESTION
+How can recruitment remain merit-based, representative and insulated from patronage?
+
+EVOLUTION
+Charter Act 1853 -> Macaulay Committee 1854 -> first PSC, 1 October 1926
+-> Government of India Act 1935 -> Constitution, 26 January 1950.
+
+PART XIV, CHAPTER II
+315 institution | 316 appointment/term | 317 removal/suspension
+318 service/staff rules | 319 post-office limits | 320 functions/consultation
+321 additional functions | 322 charged expenses | 323 reports.
+
+DESIGN
+independent constitutional advice -> lawful executive appointment -> public
+accountability.
+
+LIMIT
+merit is not one test score; Articles 14, 16, reservation and suitability remain
+operative.
+
+ASCII MASTER FLOW — PANEL 2/12: UPSC, SPSC and Joint State PSC: creation, assistance and federal distinctions
+UNION PUBLIC SERVICE COMMISSION
+Article 315(1) -> Union institution -> members appointed by President.
+
+STATE PUBLIC SERVICE COMMISSION
+Article 315(1) -> one for each State, subject to Article 315
+-> members appointed by Governor.
+
+JOINT STATE PSC
+Article 315(2) -> resolutions by participating State legislatures
+-> Parliament provides by law -> members appointed by President.
+
+UPSC ASSISTANCE TO ONE STATE: ARTICLE 315(4)
+Governor request + President approval + UPSC agreement.
+
+JOINT RECRUITMENT: ARTICLE 320(2)
+UPSC assists two or more States where special qualifications are required.
+
+TRAP
+constitutional source, creating instrument, appointing authority and service area
+differ.
+
+ASCII MASTER FLOW — PANEL 3/12: Article 316 membership, experience rule, tenure, resignation and acting chair
+APPOINTMENT
+UPSC / Joint PSC -> President | SPSC -> Governor.
+
+COMPOSITION
+number and service conditions are regulated under Article 318.
+As nearly as may be, one-half of members must have held government office for ten years.
+
+TERM
+six years from entering office.
+UPSC member: age ceiling 65 | SPSC or Joint PSC member: age ceiling 62.
+
+RESIGNATION
+UPSC / Joint PSC member -> President | SPSC member -> Governor.
+
+ACTING CHAIR: ARTICLE 316(1A)
+President for UPSC/Joint PSC | Governor for SPSC.
+
+TRAP
+appointment, resignation, acting appointment and removal do not use one authority.
+
+ASCII MASTER FLOW — PANEL 4/12: Articles 317-319 and 322: removal, suspension and independence safeguards
+MISBEHAVIOUR ROUTE: ARTICLE 317(1)
+President refers to Supreme Court -> Court inquiry and report
+-> President may remove after constitutional finding.
+
+DIRECT PRESIDENTIAL GROUNDS: ARTICLE 317(3)
+insolvency | paid employment outside office | infirmity of mind or body.
+
+DEEMED MISBEHAVIOUR: ARTICLE 317(4)
+interest in specified government contracts or benefits.
+
+SUSPENSION PENDING INQUIRY: ARTICLE 317(2)
+President for UPSC/Joint PSC | Governor for SPSC.
+
+ARTICLE 318
+President/Governor regulates member conditions and staff; disadvantage bar after
+appointment.
+
+ARTICLE 319 + ARTICLE 322
+post-office restrictions + expenses charged on Consolidated Fund.
+
+LIMIT
+strong tenure and finance protection coexist with executive appointment and staff
+dependence.
+
+ASCII MASTER FLOW — PANEL 5/12: Article 320 functions: examinations, recruitment methods and personnel advice
+ARTICLE 320(1)
+conduct examinations for appointments to Union and State services.
+
+ARTICLE 320(2)
+UPSC assists two or more States in joint recruitment for specially qualified services.
+
+ARTICLE 320(3) CONSULTATION
+methods of recruitment -> principles for appointments
+-> promotions and transfers -> candidate suitability
+-> disciplinary matters -> legal-cost claims -> injury-pension claims.
+
+DECISION CHAIN
+service rules + vacancy + notice -> examination/selection -> recommendation
+-> appointing government makes lawful decision.
+
+LIMITS
+PSC advice is generally advisory | government owns posts and cadres
+| consultation is not adjudication | recommendation is not appointment.
+
+ASCII MASTER FLOW — PANEL 6/12: Exemptions, non-consultation, additional functions and Article 323 accountability
+ARTICLE 320(3) PROVISO
+President/Governor may make consultation-exemption regulations
+-> regulations must be laid before Parliament/State legislature.
+
+ARTICLE 320(4)
+consultation is not required on the manner of Article 16(4) reservation
+or giving effect to Article 335.
+
+State of U.P. v. Manbodhan Lal Srivastava (1957)
+consultation is directory; non-consultation alone does not invalidate action.
+
+ARTICLE 321
+Parliament/State legislature may extend functions to local or other public institutions.
+
+ARTICLE 323
+annual report -> President/Governor -> legislature
++ memorandum explaining non-acceptance of advice.
+
+SYNTHESIS
+non-binding advice becomes constitutionally visible through reasoned legislative
+reporting.
+
+ASCII MASTER FLOW — PANEL 7/12: Recruitment ecosystem, lateral entry and institutional ownership boundaries
+WHO OWNS WHAT?
+Government / DoPT -> posts, recruitment rules, cadre, reservation and appointment.
+UPSC / SPSC -> examination, selection and consultation assigned by Constitution/rules.
+SSC / departmental body -> statutory or executive recruitment within assigned
+jurisdiction.
+CAT / courts -> service-dispute adjudication and legality review.
+
+LATERAL ENTRY TEST
+identify post -> recruitment rule -> mode and level -> consultation regulation
+-> reservation/equality control -> transparent selection -> appointing authority.
+
+CURRENT CONTROL
+15 March 2024 consultation-regulation amendment covers specified posts and methods.
+It is not a universal constitutional category called lateral entry.
+
+TRAP
+UPSC is not the entire civil-service system and CAT is not a recruitment agency.
+
+ASCII MASTER FLOW — PANEL 8/12: Selection case law and examination-integrity control
+FAIRNESS AND REVIEW
+Ashok Kumar Yadav (1985) -> bias controls and proportionate interview design.
+K. Manjusree (2008) -> no undisclosed minimum criterion after process begins.
+Tej Prakash Pathak (2024) -> stable, lawful and non-arbitrary recruitment rules.
+Shankarsan Dash (1991) -> select-list entry gives no indefeasible appointment right.
+M.V. Thimmaiah (2007) -> courts do not become appellate selection boards.
+
+PUBLIC EXAMINATIONS ACT AND RULES, 2024
+prevention -> secure centres/CBT -> incident reporting -> investigation -> penalty.
+
+INTEGRITY SYSTEM
+conflict disclosure + audit trail + cyber security + calibrated transparency
+-> prompt reasoned remedy.
+
+LIMIT
+criminal punishment cannot cure opaque rules, weak governance or inaccessible remedies.
+
+ASCII MASTER FLOW — PANEL 9/12: Neutrality, capacity, reform, traps and qualified answer synthesis
+INDEPENDENCE TEST
+credible appointments + secure tenure + charged expenses + professional staff
+-> protected data/exams + reasoned decisions + legislative reporting + judicial review.
+
+REFORM
+transparent criteria -> vacancy planning -> conflict/recusal rules
+-> common security standards -> faster grievance disposal
+-> SPSC capacity support without Union takeover.
+
+PRELIMS FIREWALL
+Governor appoints SPSC but President removes | age 65 versus 62
+| Joint PSC needs parliamentary law | Article 320 advice is not binding
+| Article 319 restrictions differ | ECI, SSC, CAT and PSC are not interchangeable.
+
+PYQ AUDIT
+no direct standalone 2018-2026 PSC PYQ verified; do not manufacture one.
+
+MAINS SPINE
+constitutional purpose -> exact Article -> function -> safeguard
+-> practical deficit -> case-year -> accountable reform ->
+neutrality-with-representation verdict.
+
+ASCII MASTER FLOW — PANEL 10/12: Article 319 post-tenure eligibility matrix
+UPSC CHAIRMAN
+no further employment under Union or State.
+
+SPSC CHAIRMAN
+may become UPSC Chairman/member or Chairman of another SPSC.
+
+UPSC MEMBER
+may become UPSC Chairman or an SPSC Chairman.
+
+SPSC MEMBER
+may become UPSC Chairman/member or Chairman of same/another SPSC.
+
+COMMON LIMIT
+no reappointment to the same office; constitutional office is not automatically
+government employment.
+
+ASCII MASTER FLOW — PANEL 11/12: Discipline consultation, exemptions and reporting loop
+ARTICLE 320(3)
+recruitment methods -> appointments/promotions/transfers -> disciplinary matters ->
+legal-cost and injury-pension claims.
+
+ARTICLE 320(4) / PROVISO
+reservation matters and valid consultation regulations define exclusions.
+
+MANBODHAN LAL (1957)
+consultation is directory; non-consultation does not automatically invalidate action.
+
+ARTICLE 323
+annual report -> legislature -> memorandum of non-accepted advice with reasons.
+
+RESULT
+advice is non-binding but rejection is accountable.
+
+ASCII MASTER FLOW — PANEL 12/12: Current integrity controls and commission reform
+DATED CONTROL — 28 AUGUST 2026
+Dr Ajay Kumar is listed as UPSC Chairman. Public Examinations Act and Rules, 2024 apply
+to listed UPSC examinations. The 15 March 2024 consultation-regulation amendment covers
+specified deputation and related methods.
+
+INTEGRITY CHAIN
+secure paper/CBT creation -> vendor controls -> incident reporting -> investigation ->
+reasoned candidate remedy.
+
+REFORM
+transparent appointments -> filled vacancies -> fixed calendars -> recusal and interview
+rubrics -> published consultation memoranda -> interoperable but accountable State
+learning.

@@ -1,0 +1,864 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-12",
+  "subject": "Polity",
+  "title": "FEDERAL SYSTEM",
+  "short_route": "FEDERAL DEFINITION → UNION BIAS → LEGISLATIVE DISTRIBUTION → STATE-LIST EXCEPTIONS → BASIC-STRUCTURE CASES → SHARED RULE AND ASYMMETRY → FISCAL FEDERALISM → CURRENT FRICTION → ANSWER SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. The grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g5 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+  "ascii_spec_sha256": "c14dd2c253a0e82f39f4e84a49f0e01d5c4d3b3c2015abc07c7bc367b7941861",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FEDERAL TEST, FORMATION AND TERRITORY",
+      "structural_type": "federal-definition-formation",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLE 1",
+          "role": "institution"
+        },
+        {
+          "text": "UNION OF STATES",
+          "role": "primary"
+        },
+        {
+          "text": "HOLDING TOGETHER",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 2-4",
+          "role": "outcome"
+        },
+        {
+          "text": "NO SECESSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FEDERAL TEST",
+          "role": "primary",
+          "items": [
+            "Constitution protects Union and State authority in assigned spheres.",
+            "Both levels act directly on citizens; neither is an ordinary delegate."
+          ]
+        },
+        {
+          "heading": "FORMATION",
+          "role": "mechanism",
+          "items": [
+            "India is a holding-together federation with a strong Union.",
+            "Union of States is not a compact among sovereign States."
+          ]
+        },
+        {
+          "heading": "TERRITORY",
+          "role": "caution",
+          "items": [
+            "Article 3 requires presidential recommendation and State views, not State consent.",
+            "Reorganisation law is outside Article 368 under Article 4."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Federalism joins constitutionally protected regional autonomy to shared rule within one sovereign order.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#01. Meaning: what makes a political system federal?",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#02. Formation: coming together and holding together"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FEDERAL FEATURES AND UNION BIAS",
+      "structural_type": "federal-unitary-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DUAL POLITY",
+          "role": "institution"
+        },
+        {
+          "text": "SEVENTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "RAJYA SABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "RESIDUARY POWER",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEGRATED SERVICES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FEDERAL",
+          "role": "primary",
+          "items": [
+            "Written supreme Constitution, divided power, selective rigidity and courts.",
+            "State competence is autonomous but not sovereign."
+          ]
+        },
+        {
+          "heading": "UNION BIAS",
+          "role": "mechanism",
+          "items": [
+            "Residuary power, State-field exceptions, emergencies and fiscal capacity.",
+            "Single citizenship, integrated services and centrally appointed Governor."
+          ]
+        },
+        {
+          "heading": "VERDICT",
+          "role": "caution",
+          "items": [
+            "Centralising powers are constitutional and reviewable.",
+            "S.R. Bommai (1994) prevents Union bias from extinguishing federalism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India is constitutionally federal and Union-weighted; “quasi-federal” is analysis, not constitutional text.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#03. Seven federal features",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#04. Centralising features: why India is federal with a Union bias"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LEGISLATIVE DISTRIBUTION AND CONFLICT",
+      "structural_type": "legislative-competence-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLES 245-246",
+          "role": "institution"
+        },
+        {
+          "text": "UNION 100",
+          "role": "primary"
+        },
+        {
+          "text": "STATE 61",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCURRENT 52",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 248",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 254",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ALLOCATION",
+          "role": "primary",
+          "items": [
+            "Article 246 orders the three Lists; Article 246A separately structures GST.",
+            "Article 248 and Union Entry 97 vest residuary power in Parliament."
+          ]
+        },
+        {
+          "heading": "DOCTRINES",
+          "role": "mechanism",
+          "items": [
+            "Pith and substance tests true nature; harmonious construction reconciles.",
+            "Territorial nexus and colourable legislation police limits."
+          ]
+        },
+        {
+          "heading": "REPUGNANCY",
+          "role": "caution",
+          "items": [
+            "Article 254 principally concerns Concurrent List conflict.",
+            "Presidential assent can save a State law locally; Parliament may later override."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Legislative federalism first characterises and reconciles overlap, then applies supremacy only to irreconcilable conflict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#05. Legislative distribution: Articles 245-255 and the Seventh Schedule"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PARLIAMENT ENTERING THE STATE FIELD",
+      "structural_type": "state-list-exception-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 249",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 250",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 252",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 253",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 356-357",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "TRIGGERS",
+          "role": "primary",
+          "items": [
+            "249: Rajya Sabha national-interest resolution; 250: national emergency.",
+            "252: two or more States request; 253: treaty implementation."
+          ]
+        },
+        {
+          "heading": "DURATION",
+          "role": "mechanism",
+          "items": [
+            "249/250 laws survive six months after authority ends.",
+            "Article 252 laws apply to requesting/adopting States and Parliament controls repeal."
+          ]
+        },
+        {
+          "heading": "LIMIT",
+          "role": "caution",
+          "items": [
+            "Each route has a separate trigger and scope.",
+            "Exceptional access does not permanently erase List II."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Parliament enters List II through enumerated constitutional doors, not a general supremacy clause.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#06. When Parliament may legislate on the State List"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADMINISTRATIVE RELATIONS: DIRECTIONS, DELEGATION, COUNCILS",
+      "structural_type": "administrative-federalism-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLES 256-257",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 258",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 258A",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 261",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 262-263",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "COMPLIANCE",
+          "role": "primary",
+          "items": [
+            "Articles 256-257 secure law compliance and prevent impedance of Union power.",
+            "Directions are text-bounded, not a general administrative takeover."
+          ]
+        },
+        {
+          "heading": "DELEGATION",
+          "role": "mechanism",
+          "items": [
+            "258 entrusts Union functions to States with consent.",
+            "258A permits State-to-Union entrustment with Union consent."
+          ]
+        },
+        {
+          "heading": "LEGAL SPACE",
+          "role": "caution",
+          "items": [
+            "261 gives full faith and credit.",
+            "262 needs parliamentary law for water adjudication/exclusion; 263 enables ISC."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Administrative federalism combines bounded directions with reciprocal delegation and consultative dispute management.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#07. Administrative and financial distribution: the missing operational bridge"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FINANCIAL DISTRIBUTION AND FISCAL AUTONOMY",
+      "structural_type": "fiscal-federalism-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLES 268-270",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 275/282",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 280-281",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 293",
+          "role": "outcome"
+        },
+        {
+          "text": "41 PERCENT",
+          "role": "comparison"
+        },
+        {
+          "text": "GST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "REVENUE",
+          "role": "primary",
+          "items": [
+            "268/269/269A assign levy, collection and apportionment.",
+            "270 structures the divisible pool; 275 and 282 are distinct grant routes."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONS",
+          "role": "mechanism",
+          "items": [
+            "280-281 create Finance Commission reporting.",
+            "16th FC report: 17 Nov 2025; 41% vertical share for 2026-31."
+          ]
+        },
+        {
+          "heading": "FRICTION",
+          "role": "caution",
+          "items": [
+            "293 may condition State borrowing consent.",
+            "Cesses, schemes and unequal capacity can narrow effective autonomy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Fiscal federalism converts formal List II authority into usable capacity through assignment, devolution, grants and bargaining.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#07. Administrative and financial distribution: the missing operational bridge",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#12. Fiscal federalism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BASIC STRUCTURE, ARTICLE 355 AND PRESIDENT’S RULE",
+      "structural_type": "case-emergency-control",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "STATE OF WEST BENGAL (1962)",
+          "role": "institution"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973)",
+          "role": "primary"
+        },
+        {
+          "text": "S.R. BOMMAI (1994)",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 355",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 356-357",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CASE CHAIN",
+          "role": "primary",
+          "items": [
+            "State of West Bengal v. Union of India (1962) rejects sovereign-State compact theory.",
+            "Kesavananda Bharati (1973) limits amendment; S.R. Bommai (1994) names federalism Basic Structure."
+          ]
+        },
+        {
+          "heading": "DUTY / REMEDY",
+          "role": "mechanism",
+          "items": [
+            "Article 355 creates a Union duty, not automatic Article 356 authority.",
+            "356 requires constitutional breakdown; 357 handles legislative power."
+          ]
+        },
+        {
+          "heading": "CONTROL",
+          "role": "caution",
+          "items": [
+            "Proclamations are reviewable; restoration is possible.",
+            "Disputed majority ordinarily belongs on the House floor."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 355 states responsibility; Article 356 is an exceptional, reviewable remedy rather than its automatic consequence.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#08. Federalism as Basic Structure: case chronology",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#07. Administrative and financial distribution: the missing operational bridge"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WORKING MODES AND SHARED-RULE INSTITUTIONS",
+      "structural_type": "operating-federalism-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COOPERATIVE",
+          "role": "institution"
+        },
+        {
+          "text": "COMPETITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "BARGAINING",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFRONTATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "GST COUNCIL",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER-STATE COUNCIL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MODES",
+          "role": "primary",
+          "items": [
+            "Cooperation coordinates; competition innovates; bargaining negotiates.",
+            "Confrontation can remain constitutional through courts and politics."
+          ]
+        },
+        {
+          "heading": "INSTITUTIONS",
+          "role": "mechanism",
+          "items": [
+            "Rajya Sabha, ISC, Zonal Councils, GST Council and Finance Commission.",
+            "NITI, All-India Services and courts connect policy and implementation."
+          ]
+        },
+        {
+          "heading": "LIMIT",
+          "role": "caution",
+          "items": [
+            "Non-binding consultation is not irrelevant.",
+            "Mohit Minerals (2022) preserves legislative autonomy within GST dialogue."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Healthy federalism converts inevitable conflict into reasons, negotiation, adjudication and electoral accountability.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#09. How Indian federalism actually works",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#10. Institutions of shared rule"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ASYMMETRIC FEDERALISM AS ACCOMMODATION",
+      "structural_type": "asymmetry-comparison",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FIFTH SCHEDULE",
+          "role": "institution"
+        },
+        {
+          "text": "SIXTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 371 FAMILY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 239AA",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL CITIZENSHIP",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DESIGN",
+          "role": "primary",
+          "items": [
+            "Different units may receive different constitutional arrangements.",
+            "Asymmetry accommodates history, identity, land and administration."
+          ]
+        },
+        {
+          "heading": "FORMS",
+          "role": "mechanism",
+          "items": [
+            "Fifth Schedule uses Governor/TAC protective administration.",
+            "Sixth Schedule uses autonomous district/regional councils."
+          ]
+        },
+        {
+          "heading": "LIMIT",
+          "role": "caution",
+          "items": [
+            "Post-2019 J&K must be stated through current law.",
+            "Asymmetry needs constitutional purpose; it is not arbitrary inequality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Asymmetry can strengthen integration by protecting difference inside common citizenship.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#11. Asymmetric federalism"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "REPRESENTATION AND CURRENT FEDERAL FRICTION",
+      "structural_type": "current-federalism-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RAJYA SABHA",
+          "role": "institution"
+        },
+        {
+          "text": "DELIMITATION",
+          "role": "primary"
+        },
+        {
+          "text": "131ST BILL",
+          "role": "evidence"
+        },
+        {
+          "text": "CENSUS 2027",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNOR ASSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CBI CONSENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "REPRESENTATION",
+          "role": "primary",
+          "items": [
+            "Rajya Sabha seats are unequal; Lok Sabha allocation shapes federal weight.",
+            "The 131st Bill was negatived 17 Apr 2026; its 850 ceiling is not law."
+          ]
+        },
+        {
+          "heading": "STATUS LIMITS",
+          "role": "mechanism",
+          "items": [
+            "Census conduct/reference dates are not publication or delimitation dates.",
+            "No State-wise seat or women-reservation election date may be forecast."
+          ]
+        },
+        {
+          "heading": "FRICTIONS",
+          "role": "caution",
+          "items": [
+            "Governor: no fixed timeline/deemed assent; unexplained inaction remains reviewable.",
+            "The 2024 West Bengal ruling decided Article 131 maintainability, not all CBI merits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Current federal claims must separate enacted law, defeated proposals, notified processes and speculative outcomes.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#13. Representational federalism and delimitation",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#14. Current federal-friction controls"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TEN VERIFIED PYQ ROUTES AND PRELIMS TRAPS",
+      "structural_type": "federal-pyq-trap-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "2020-2025 GS-II",
+          "role": "institution"
+        },
+        {
+          "text": "2021/2023 PRELIMS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 254",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 262",
+          "role": "outcome"
+        },
+        {
+          "text": "GST RECOMMENDATORY",
+          "role": "comparison"
+        },
+        {
+          "text": "NO STATE SOVEREIGNTY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PYQ MAP",
+          "role": "primary",
+          "items": [
+            "2020 modes/centralisation; 2021 CBI; 2022 parties.",
+            "2023 Article 356/GST; 2024 trust; 2025 fiscal federalism."
+          ]
+        },
+        {
+          "heading": "PRELIMS",
+          "role": "mechanism",
+          "items": [
+            "Independent judiciary indicates federal character.",
+            "Prisons are List II; colonial administration is not the constitutional reason."
+          ]
+        },
+        {
+          "heading": "TRAPS",
+          "role": "caution",
+          "items": [
+            "Article 254 is Concurrent-specific; 262 exclusion requires law.",
+            "Article 355 is not automatic 356; GST advice is not binding."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A high-scoring federal answer pairs every broad label with an Article, institution, case and limitation.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MARKS-SCALED ANSWER SPINE AND QUALIFIED VERDICT",
+      "structural_type": "exam-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DEFINE",
+          "role": "institution"
+        },
+        {
+          "text": "ALLOCATE",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFY",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "10 MARKS",
+          "role": "primary",
+          "items": [
+            "Define the federal test; use one Article cluster and one case.",
+            "Answer the directive in about 150 words."
+          ]
+        },
+        {
+          "heading": "15 MARKS",
+          "role": "mechanism",
+          "items": [
+            "Add legislative, administrative and fiscal mechanisms.",
+            "Use named evidence, counterpoint and specific reform."
+          ]
+        },
+        {
+          "heading": "20 MARKS",
+          "role": "caution",
+          "items": [
+            "Integrate asymmetry, representation and current status.",
+            "End with a graded Union-capacity/State-autonomy verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "Move from definition to distribution, operation, evidence, limitation, reform and a graded verdict.",
+      "answer_line": "India’s federal legitimacy depends on converting superior Union capacity into consultation, equalisation and constitutional restraint.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#CONSOLIDATED REGISTER NOTES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "OPTIONAL ENRICHMENT: SCHOLARS AND DEEPER LABELS",
+      "structural_type": "advanced-federal-theory",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ONLY",
+          "role": "institution"
+        },
+        {
+          "text": "WHEARE",
+          "role": "primary"
+        },
+        {
+          "text": "AUSTIN",
+          "role": "evidence"
+        },
+        {
+          "text": "MORRIS-JONES",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLEBY",
+          "role": "comparison"
+        },
+        {
+          "text": "DIALOGIC FEDERALISM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "LABELS",
+          "role": "primary",
+          "items": [
+            "Wheare: quasi-federal; Austin: cooperative; Morris-Jones: bargaining.",
+            "Jennings, Appleby and sui generis labels widen evaluation."
+          ]
+        },
+        {
+          "heading": "DISCIPLINE",
+          "role": "mechanism",
+          "items": [
+            "No label replaces Articles, institutions or cases.",
+            "Use scholarship only after the complete Core route."
+          ]
+        }
+      ],
+      "mechanism_strip": "This enrichment is unnecessary for a competent core answer and never repairs missing Core teaching.",
+      "answer_line": "",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-12\\g3-source\\polity-12_g3-reviewed-source.md#OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}
