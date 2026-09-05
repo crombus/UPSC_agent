@@ -1,0 +1,979 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-36",
+  "subject": "Polity",
+  "title": "CIC AND SIC",
+  "short_route": "RIGHT TO KNOW, RTI → PIO-FAA-COMMISSION CHAIN, TRANSFERS AND → CIC AND SIC COMPOSITION → 2019 AMENDMENT, CURRENT RULES → SECTIONS 18-20: COMPLAINT, APPEAL → EXEMPTIONS, PUBLIC INTEREST, SEVERABILITY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-36-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "88ad3de4ec99ed48c49286c4c1d2c77159133a13c5691a262bf04a3365f80103",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RIGHT TO KNOW, RTI ACT IDENTITY AND THE INFORMATION-PUBLIC-AUTHORITY VOCABULARY",
+      "structural_type": "rti-foundation-vocabulary",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RIGHT TO KNOW, RTI ACT IDENTITY AND THE INFORMATION-PUBLIC-AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTIONAL ROOT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 19(1)(A) RIGHT TO RECEIVE INFORMATION FOR DEMOCRATIC PARTICIPATION",
+          "role": "institution"
+        },
+        {
+          "text": "RTI ACT, 2005 STATUTORY REQUEST, PROACTIVE-DISCLOSURE, APPEAL, COMPLAINT AND",
+          "role": "institution"
+        },
+        {
+          "text": "INFORMATION MATERIAL IN ANY FORM HELD BY OR UNDER",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PARLIAMENTARY OR STATE LAW",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNMENT NOTIFICATION/ORDER SUBSTANTIALLY FINANCED BODIES AND NGOS UNDER SECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL ROOT",
+        "Article 19(1)(a) right to receive information for democratic participation, subject to lawful restrictions and competing",
+        "RTI ACT, 2005 statutory request, proactive-disclosure, appeal, complaint and enforcement machinery.",
+        "INFORMATION material in any form held by or under control of public authority, including accessible",
+        "PUBLIC AUTHORITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL ROOT",
+            "Article 19(1)(a) right to receive information for democratic participation, subject to lawful restrictions and competing rights.",
+            "RTI ACT, 2005 statutory request, proactive-disclosure, appeal, complaint and enforcement machinery."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INFORMATION material in any form held by or under control of public authority, including accessible private-body information under another law.",
+            "PUBLIC AUTHORITY",
+            "parliamentary or State law"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "government notification/order substantially financed bodies and NGOs under section 2(h).",
+            "RIGHT TO INFORMATION inspection",
+            "certified copies"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "certified samples",
+            "electronic copies.",
+            "RTI gives access to existing covered records; it does not compel a new answer, opinion or record."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CIC/SIC jurisdiction, procedure and remedies remain bounded by the Act and are subject to constitutional judicial review.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PIO-FAA-COMMISSION CHAIN, TRANSFERS AND STATUTORY TIMELINES",
+      "structural_type": "rti-access-remedy-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PIO-FAA-COMMISSION CHAIN, TRANSFERS AND STATUTORY TIMELINES",
+          "role": "primary"
+        },
+        {
+          "text": "PROACTIVE DISCLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 4 RECORDS AND KEY INFORMATION DISCLOSED BY DEFAULT",
+          "role": "comparison"
+        },
+        {
+          "text": "FEWER INDIVIDUAL REQUESTS.",
+          "role": "evidence"
+        },
+        {
+          "text": "PIO OR SPIO RECEIVES",
+          "role": "primary"
+        },
+        {
+          "text": "APIO FORWARDING ADDS FIVE DAYS WHERE APPLICABLE.",
+          "role": "outcome"
+        },
+        {
+          "text": "NO REASONS REQUIRED; ONLY CONTACT DETAILS NEEDED FOR COMMUNICATION.",
+          "role": "caution"
+        },
+        {
+          "text": "SECTION 6(3) TO THE CONCERNED PUBLIC AUTHORITY AS SOON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROACTIVE DISCLOSURE: SECTION 4 records and key information disclosed by default → fewer individual requests.",
+        "PIO or SPIO receives",
+        "APIO forwarding adds five days where applicable.",
+        "No reasons required; only contact details needed for communication.",
+        "TRANSFER: SECTION 6(3) to the concerned public authority as soon as practicable, within five days."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PROACTIVE DISCLOSURE: SECTION 4 records and key information disclosed by default → fewer individual requests.",
+            "PIO or SPIO receives",
+            "APIO forwarding adds five days where applicable."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "No reasons required; only contact details needed for communication.",
+            "TRANSFER: SECTION 6(3) to the concerned public authority as soon as practicable, within five days.",
+            "RESPONSE ordinary: 30 days"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "life or liberty: 48 hours third-party process: decision within 40 days",
+            "delay: information free.",
+            "REMEDY CHAIN"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PIO decision/deemed refusal → First Appellate Authority, ordinarily 30 days",
+            "CIC or SIC second appeal, ordinarily 90 days.",
+            "TRAP section 18 complaint and section 19 disclosure appeal are not interchangeable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 6(3) requires prompt transfer to the responsible public authority, preserving access without forcing applicants to identify the correct administrative compartment.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CIC AND SIC COMPOSITION, APPOINTMENT COMMITTEES, ELIGIBILITY AND JURISDICTION",
+      "structural_type": "information-commission-office-design",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CIC AND SIC COMPOSITION, APPOINTMENT COMMITTEES, ELIGIBILITY AND JURISDICTION",
+          "role": "primary"
+        },
+        {
+          "text": "CHIEF INFORMATION COMMISSIONER + UP TO TEN INFORMATION COMMISSIONERS.",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENT APPOINTS ON COMMITTEE ADVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIME MINISTER + LOK SABHA OPPOSITION LEADER/SUBSTITUTE + UNION",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE CHIEF INFORMATION COMMISSIONER + UP TO TEN STATE",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR APPOINTS ON COMMITTEE ADVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHIEF MINISTER + ASSEMBLY OPPOSITION LEADER/SUBSTITUTE + STATE CABINET",
+          "role": "institution"
+        },
+        {
+          "text": "ELIGIBILITY EMINENCE IN PUBLIC LIFE WITH KNOWLEDGE/EXPERIENCE IN LISTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Chief Information Commissioner + up to ten Information Commissioners.",
+        "President appoints on committee advice",
+        "Prime Minister + Lok Sabha Opposition Leader/substitute + Union Cabinet Minister.",
+        "State Chief Information Commissioner + up to ten State Information Commissioners.",
+        "Governor appoints on committee advice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Chief Information Commissioner + up to ten Information Commissioners.",
+            "President appoints on committee advice",
+            "Prime Minister + Lok Sabha Opposition Leader/substitute + Union Cabinet Minister.",
+            "State Chief Information Commissioner + up to ten State Information Commissioners."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Governor appoints on committee advice",
+            "Chief Minister + Assembly Opposition Leader/substitute + State Cabinet Minister.",
+            "ELIGIBILITY eminence in public life with knowledge/experience in listed fields.",
+            "office of profit"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "political party link",
+            "business or profession.",
+            "CIC for Central public authorities",
+            "SIC for State public authorities."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT appointment committees do not make the commissions constitutional bodies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "General superintendence, direction and management vest in the Chief Information Commissioner, assisted by the Information Commissioners, and the Commission acts autonomously without directions from another authority under the Act.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "2019 AMENDMENT, CURRENT RULES, TENURE AND PROTECTED REMOVAL",
+      "structural_type": "information-commission-independence-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "2019 AMENDMENT, CURRENT RULES, TENURE AND PROTECTED REMOVAL",
+          "role": "primary"
+        },
+        {
+          "text": "2019 AMENDMENT REMOVED ACT-FIXED FIVE-YEAR TERM AND ELECTION-COMMISSION-LINKED CONDITIONS",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL GOVERNMENT PRESCRIBES TERM, PAY AND SERVICE CONDITIONS BY",
+          "role": "comparison"
+        },
+        {
+          "text": "2019 RULES ORDINARY TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "THREE YEARS",
+          "role": "primary"
+        },
+        {
+          "text": "AGE CEILING",
+          "role": "outcome"
+        },
+        {
+          "text": "FIXED CURRENT PAY VARIES BY OFFICE UNDER THE RULES.",
+          "role": "comparison"
+        },
+        {
+          "text": "REAPPOINTMENT SAME OFFICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2019 AMENDMENT removed Act-fixed five-year term and Election-Commission-linked conditions",
+        "Central Government prescribes term, pay and service conditions by rules.",
+        "2019 RULES ordinary term: three years",
+        "age ceiling: 65.",
+        "fixed current pay varies by office under the Rules."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "2019 AMENDMENT removed Act-fixed five-year term and Election-Commission-linked conditions",
+            "Central Government prescribes term, pay and service conditions by rules.",
+            "2019 RULES ordinary term: three years",
+            "age ceiling: 65."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "fixed current pay varies by office under the Rules.",
+            "REAPPOINTMENT same office: barred; an Information Commissioner may become Chief, subject to aggregate statutory maximum.",
+            "REMOVAL FOR PROVED MISBEHAVIOUR OR INCAPACITY",
+            "President for CIC officers"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Governor for SIC officers after Supreme Court inquiry.",
+            "DIRECT GROUNDS insolvency",
+            "conviction involving moral turpitude",
+            "outside paid employment infirmity"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "prejudicial financial or other interest.",
+            "AUTONOMY CONCERN executive rule-making now controls core conditions of adjudicators reviewing that executive."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The independence debate is not merely “three versus five.” The deeper change is the movement of a safeguard from parliamentary text to executive rule-making by the government whose records the Commissions review.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SECTIONS 18-20: COMPLAINT, APPEAL, INQUIRY, ORDERS, COMPENSATION AND PENALTY",
+      "structural_type": "information-commission-power-remedy-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SECTIONS 18-20",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLAINT, APPEAL, INQUIRY, ORDERS, COMPENSATION AND PENALTY",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 18 COMPLAINT INABILITY TO FILE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO REPLY",
+          "role": "caution"
+        },
+        {
+          "text": "UNREASONABLE FEE INCOMPLETE, MISLEADING OR FALSE INFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "INQUIRY ON REASONABLE GROUNDS.",
+          "role": "outcome"
+        },
+        {
+          "text": "INQUIRY POWERS CIVIL-COURT POWERS + DIRECT INSPECTION OF COVERED",
+          "role": "institution"
+        },
+        {
+          "text": "NO RECORD MAY BE WITHHELD FROM COMMISSION ON A",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECTION 18 COMPLAINT inability to file",
+        "no reply",
+        "unreasonable fee incomplete, misleading or false information → inquiry on reasonable grounds.",
+        "INQUIRY POWERS civil-court powers + direct inspection of covered records",
+        "no record may be withheld from Commission on a statutory exemption claim."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 18 COMPLAINT inability to file",
+            "no reply",
+            "unreasonable fee incomplete, misleading or false information → inquiry on reasonable grounds."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INQUIRY POWERS civil-court powers + direct inspection of covered records",
+            "no record may be withheld from Commission on a statutory exemption claim.",
+            "SECTION 19 SECOND APPEAL"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PIO bears burden to justify denial.",
+            "Commission may order disclosure and systemic compliance under section 19(8).",
+            "Orders bind within the statutory field, subject to constitutional review."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REMEDIES compensation to complainant/appellant section 20 personal PIO penalty: Rs 250 per day, maximum Rs 25,000 disciplinary recommendation.",
+            "DUE PROCESS reasonable opportunity and statutory conditions precede penalty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 18 gives Information Commissions civil-court evidence powers during inquiry, but those powers do not convert complaint jurisdiction into appellate authority.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EXEMPTIONS, PUBLIC INTEREST, SEVERABILITY, THIRD PARTIES AND SECURITY BODIES",
+      "structural_type": "rti-exemption-procedure-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EXEMPTIONS, PUBLIC INTEREST, SEVERABILITY, THIRD PARTIES AND SECURITY BODIES",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 8 SPECIFIED PROTECTED INTERESTS; CURRENT SECTION 8(1)(J) COVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 8(2) GENERAL PUBLIC-INTEREST OVERRIDE REMAINS.",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 9 COPYRIGHT-BASED REFUSAL WHERE ACCESS WOULD INFRINGE COPYRIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 10 SEVER EXEMPT PORTION",
+          "role": "primary"
+        },
+        {
+          "text": "DISCLOSE REASONABLY SEPARABLE REMAINDER WITH REASONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 11 THIRD-PARTY CONSULTATION PROCEDURE, NOT AN INDEPENDENT EXEMPTION.",
+          "role": "caution"
+        },
+        {
+          "text": "SECTION 24 LISTED INTELLIGENCE/SECURITY ORGANISATIONS EXCLUDED, EXCEPT CORRUPTION ALLEGATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTION 8 specified protected interests; current section 8(1)(j) covers personal information.",
+        "Section 8(2) general public-interest override remains.",
+        "SECTION 9 copyright-based refusal where access would infringe copyright of a person other than State.",
+        "SECTION 10 sever exempt portion → disclose reasonably separable remainder with reasons.",
+        "SECTION 11 third-party consultation procedure, not an independent exemption."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 8 specified protected interests; current section 8(1)(j) covers personal information.",
+            "Section 8(2) general public-interest override remains."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SECTION 9 copyright-based refusal where access would infringe copyright of a person other than State.",
+            "SECTION 10 sever exempt portion → disclose reasonably separable remainder with reasons."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTION 11 third-party consultation procedure, not an independent exemption.",
+            "SECTION 24 listed intelligence/security organisations excluded, except corruption allegations and human-rights information."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Human-rights disclosure requires Commission approval and uses a 45-day period.",
+            "PRIVACY CONTROL current statute → harm and public-interest analysis → redaction → reasoned order → appeal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 8(3) creates a twenty-year disclosure rule subject to clauses (a), (c) and (i), with date disputes decided by the Central Government subject to usual appeals.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 20"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SEVEN CONTROLLING DECISIONS AND THE NO-RECORD-CREATION BOUNDARY",
+      "structural_type": "rti-case-law-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SEVEN CONTROLLING DECISIONS AND THE NO-RECORD-CREATION BOUNDARY",
+          "role": "caution"
+        },
+        {
+          "text": "STATE OF U.P. V. RAJ NARAIN (1975) DEMOCRATIC RIGHT",
+          "role": "institution"
+        },
+        {
+          "text": "S.P. GUPTA V. UNION OF INDIA (1981) OPEN GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CBSE V. ADITYA BANDOPADHYAY (2011) EVALUATED ANSWER BOOKS ARE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHIEF INFORMATION COMMISSIONER V. STATE OF MANIPUR (2011) COMPLAINT",
+          "role": "institution"
+        },
+        {
+          "text": "RBI V. JAYANTILAL N. MISTRY (2015) NO GENERIC FIDUCIARY",
+          "role": "caution"
+        },
+        {
+          "text": "SUBHASH CHANDRA AGARWAL (2019)",
+          "role": "comparison"
+        },
+        {
+          "text": "CJI OFFICE IS A PUBLIC AUTHORITY; PRIVACY AND TRANSPARENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "State of U.P. v. Raj Narain (1975) democratic right to know public acts.",
+        "S.P. Gupta v. Union of India (1981) open government and disclosure as democratic norm.",
+        "CBSE v. Aditya Bandopadhyay (2011) evaluated answer books are information; authority need not create new",
+        "Chief Information Commissioner v. State of Manipur (2011) complaint is not an automatic substitute for",
+        "RBI v. Jayantilal N. Mistry (2015) no generic fiduciary shield for the regulator's inspection information."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "State of U.P. v. Raj Narain (1975) democratic right to know public acts.",
+            "S.P. Gupta v. Union of India (1981) open government and disclosure as democratic norm."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CBSE v. Aditya Bandopadhyay (2011) evaluated answer books are information; authority need not create new information.",
+            "Chief Information Commissioner v. State of Manipur (2011) complaint is not an automatic substitute for disclosure appeal."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RBI v. Jayantilal N. Mistry (2015) no generic fiduciary shield for the regulator's inspection information.",
+            "Subhash Chandra Agarwal (2019)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CJI office is a public authority; privacy and transparency require balancing.",
+            "Anjali Bhardwaj v. Union of India (2019) appointments must be timely and transparent; stale vacancy counts must be reverified."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Chief Information Commissioner v. State of Manipur (2011), section 18's complaint jurisdiction does not itself become the section 19 appellate disclosure route.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 21"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSTITUTIONAL COMPARISON, BACKLOG, DIGITAL RTI AND REFORM ARCHITECTURE",
+      "structural_type": "information-commission-governance-reform",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL COMPARISON, BACKLOG, DIGITAL RTI AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SIC STATUTORY RTI COMPLAINTS AND SECOND APPEALS; DISCLOSURE, COMPLIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT CONSTITUTIONAL/STATUTORY JUDICIAL REVIEW; NOT A ROUTINE RTI FIRST-INSTANCE",
+          "role": "caution"
+        },
+        {
+          "text": "FAA DEPARTMENTAL ACCESS DECISION AND INTERNAL APPEAL; NEITHER REPLACES",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPLEMENTATION DEFICITS VACANCIES + BACKLOG + WEAK SECTION 4",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM ADVANCE VACANCY CALENDAR",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENT STAFF AND BUDGET",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEROPERABLE E-FILING WITH OFFLINE ACCESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CIC / SIC statutory RTI complaints and second appeals; disclosure, compliance and personal-penalty powers.",
+        "COURT constitutional/statutory judicial review; not a routine RTI first-instance forum.",
+        "PIO / FAA departmental access decision and internal appeal; neither replaces Commission.",
+        "IMPLEMENTATION DEFICITS vacancies + backlog + weak section 4 disclosure + record disorder uneven digital",
+        "penalty consistency + privacy uncertainty."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "CIC / SIC statutory RTI complaints and second appeals; disclosure, compliance and personal-penalty powers.",
+          "IMPLEMENTATION DEFICITS vacancies + backlog + weak section 4 disclosure + record disorder uneven digital access + low",
+          "interoperable e-filing with offline access → record digitisation",
+          "IMPLEMENTATION DEFICITS vacancies + backlog + weak section 4 disclosure + record disorder uneven digital access + low"
+        ],
+        [
+          "COURT constitutional/statutory judicial review; not a routine RTI first-instance forum.",
+          "penalty consistency + privacy uncertainty.",
+          "section 4 audit → reasoned penalty practice → privacy-redaction guidance.",
+          ""
+        ],
+        [
+          "PIO / FAA departmental access decision and internal appeal; neither replaces Commission.",
+          "REFORM advance vacancy calendar → independent staff and budget",
+          "LIMIT technology accelerates routing only when records, accessibility and adjudicatory capacity exist.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CIC / SIC statutory RTI complaints and second appeals; disclosure, compliance and personal-penalty powers.",
+            "COURT constitutional/statutory judicial review; not a routine RTI first-instance forum.",
+            "PIO / FAA departmental access decision and internal appeal; neither replaces Commission."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "IMPLEMENTATION DEFICITS vacancies + backlog + weak section 4 disclosure + record disorder uneven digital access + low",
+            "penalty consistency + privacy uncertainty.",
+            "REFORM advance vacancy calendar → independent staff and budget"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "interoperable e-filing with offline access → record digitisation",
+            "section 4 audit → reasoned penalty practice → privacy-redaction guidance.",
+            "LIMIT technology accelerates routing only when records, accessibility and adjudicatory capacity exist."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "IMPLEMENTATION DEFICITS vacancies + backlog + weak section 4 disclosure + record disorder uneven digital access + low"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Information Commissions issue binding RTI appellate decisions and personal PIO penalties, unlike Human Rights Commissions whose ordinary outputs are principally recommendations and reports.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 24"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "CURRENT-LAW CAVEATS, PYQ ROUTE, TRAPS AND TRANSPARENCY SYNTHESIS",
+      "structural_type": "information-commission-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CURRENT-LAW CAVEATS, PYQ ROUTE, TRAPS AND TRANSPARENCY SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DATED CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "24 AUGUST 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "DPDP SECTION 44(3) SUBSTITUTED SECTION 8(1)(J) FROM 13 NOVEMBER",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 8(2) REMAINS; NO UNVERIFIED STAY OR FINAL CONSTITUTIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "PYQ ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "2020 GS-II",
+          "role": "comparison"
+        },
+        {
+          "text": "2019 AMENDMENT AND AUTONOMY OF INFORMATION COMMISSIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DATED CONTROL: 24 AUGUST 2026",
+        "DPDP section 44(3) substituted section 8(1)(j) from 13 November 2025.",
+        "Section 8(2) remains; no unverified stay or final constitutional outcome is asserted.",
+        "PYQ ROUTE",
+        "2020 GS-II → 2019 amendment and autonomy of Information Commissions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DATED CONTROL: 24 AUGUST 2026",
+            "DPDP section 44(3) substituted section 8(1)(j) from 13 November 2025.",
+            "Section 8(2) remains; no unverified stay or final constitutional outcome is asserted.",
+            "PYQ ROUTE"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2020 GS-II → 2019 amendment and autonomy of Information Commissions.",
+            "PRELIMS FIREWALL statutory != constitutional court",
+            "complaint != second appeal binding order != no judicial review",
+            "PIO penalty != ministry fine third-party procedure != exemption"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "section 24 != absolute exclusion",
+            "RTI record != new explanation.",
+            "MAINS SPINE right-to-know root → access chain → independent commission design",
+            "inquiry and appeal powers → exemptions and privacy"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "implementation deficit → transparent appointments, records and reasoned balancing."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PIOs and APIOs structure access to records, including assistance for oral requests, so inability to write cannot defeat the statutory right.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\polity-36_Complete-Learning-Session_2026-08-24.md#SESSION 24"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — CENTRAL INFORMATION COMMISSION (CIC)",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — STATE INFORMATION COMMISSION (SIC)",
+          "role": "institution"
+        },
+        {
+          "text": "3 YEARS UNDER THE RTI RULES, 2019 , SUBJECT",
+          "role": "evidence"
+        },
+        {
+          "text": "REMOVED BY THE PRESIDENT ; FOR PROVED MISBEHAVIOUR/INCAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "CIC/SIC ARE CONSTITUTIONAL BODIES",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY (RTI ACT 2005).",
+          "role": "institution"
+        },
+        {
+          "text": "CIC'S TERM REMAINS 5 YEARS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — CENTRAL INFORMATION COMMISSION (CIC)",
+            "PART B — STATE INFORMATION COMMISSION (SIC)",
+            "Term = 3 years under the RTI Rules, 2019 , subject to the statutory maximum age of 65 .",
+            "Removed by the President ; for proved misbehaviour/incapacity , a Supreme Court inquiry is required."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: CIC/SIC are constitutional bodies → statutory (RTI Act 2005).",
+            "NOT: CIC's term remains 5 years → after the 2019 Amendment , Central rules prescribe",
+            "NOT: CIC salary equals the Election Commissioners' → that parity was removed by the 2019 Amendment.",
+            "NOT: CIC can have unlimited Information Commissioners → max 10 (+ the Chief)."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: SIC members are removed by the President → removed by the Governor (contrast SHRC = President).",
+            "NOT: CIC/IC are eligible for re-appointment → not eligible .",
+            "NOT: The Leader of Opposition is not on the CIC panel → the LoP (LS) is on the 3-member selection committee.",
+            "RTI (Amendment) Act, 2019 — Centre controls tenure/salary → the independence debate."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 2
+  }
+}

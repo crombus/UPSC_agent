@@ -1,0 +1,956 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-37",
+  "subject": "Polity",
+  "title": "CVC AND CBI",
+  "short_route": "SANTHANAM TRAJECTORY AND THE → CVC COMPOSITION, APPOINTMENT, TENURE → SECTION 8 FUNCTIONS, CVO → CBI ORGANISATION, DSPE POWERS → SUPERINTENDENCE SPLIT AND THE → STATE CONSENT, PENDING INVESTIGATIONS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-37-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "03eedd9dbb0c8dacb0dc139adcfc7e0302c9e1b17a1c325859083f8141dc517f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SANTHANAM TRAJECTORY AND THE CVC-CBI-DSPE LEGAL IDENTITY MAP",
+      "structural_type": "vigilance-investigation-evolution",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SANTHANAM TRAJECTORY AND THE CVC-CBI-DSPE LEGAL IDENTITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW SHOULD VIGILANCE SUPERVISION, POLICE INVESTIGATION AND FINAL ADJUDICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "1941 SPECIAL POLICE ESTABLISHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DSPE ACT, 1946",
+          "role": "institution"
+        },
+        {
+          "text": "CBI RESOLUTION, 1 APRIL 1963",
+          "role": "outcome"
+        },
+        {
+          "text": "CVC RESOLUTION, 1964 AFTER SANTHANAM COMMITTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "VINEET NARAIN V. UNION OF INDIA (1997) SAFEGUARDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How should vigilance supervision, police investigation and final adjudication be separated?",
+        "1941 Special Police Establishment → DSPE Act, 1946",
+        "CBI resolution, 1 April 1963",
+        "CVC resolution, 1964 after Santhanam Committee"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How should vigilance supervision, police investigation and final adjudication be separated?",
+            "1941 Special Police Establishment → DSPE Act, 1946"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CBI resolution, 1 April 1963",
+            "CVC resolution, 1964 after Santhanam Committee",
+            "Vineet Narain v. Union of India (1997) safeguards → CVC Act, 2003."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGAL IDENTITY",
+            "CVC → statutory commission under CVC Act.",
+            "CBI → executive-created organisation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DSPE → statutory police establishment supplying core investigative powers.",
+            "LIMIT common anti-corruption purpose does not merge advice, police power, prosecution and judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Current-control analysis should freeze verified statutes and judgments while dating officeholders, consent positions and pending litigation instead of predicting unresolved outcomes.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CVC COMPOSITION, APPOINTMENT, TENURE, REMOVAL AND INDEPENDENCE SAFEGUARDS",
+      "structural_type": "cvc-office-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CVC COMPOSITION, APPOINTMENT, TENURE, REMOVAL AND INDEPENDENCE SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL VIGILANCE COMMISSIONER AS CHAIRPERSON NOT MORE THAN TWO",
+          "role": "caution"
+        },
+        {
+          "text": "PRESIDENT BY WARRANT AFTER COMMITTEE RECOMMENDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIME MINISTER + UNION HOME MINISTER + LOK SABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALIFICATION EXPERIENCE IN VIGILANCE, POLICY, ADMINISTRATION, POLICE ADMINISTRATION, FINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "TERM FOUR YEARS OR AGE 65, WHICHEVER EARLIER; STATUTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOVAL PROVED MISBEHAVIOUR OR INCAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENT AFTER SUPREME COURT INQUIRY.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "Central Vigilance Commissioner as Chairperson not more than two Vigilance Commissioners.",
+        "President by warrant after committee recommendation",
+        "Prime Minister + Union Home Minister + Lok Sabha Opposition Leader/substitute.",
+        "QUALIFICATION experience in vigilance, policy, administration, police administration, finance including insurance and banking, law or",
+        "TERM four years or age 65, whichever earlier; statutory post-tenure restrictions apply."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Central Vigilance Commissioner as Chairperson not more than two Vigilance Commissioners.",
+            "President by warrant after committee recommendation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Prime Minister + Union Home Minister + Lok Sabha Opposition Leader/substitute.",
+            "QUALIFICATION experience in vigilance, policy, administration, police administration, finance including insurance and banking, law or investigations."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TERM four years or age 65, whichever earlier; statutory post-tenure restrictions apply.",
+            "REMOVAL proved misbehaviour or incapacity → President after Supreme Court inquiry."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Direct statutory grounds cover insolvency, moral-turpitude conviction, outside paid employment, infirmity and prejudicial interest.",
+            "LIMIT secure removal does not convert advice into binding adjudication."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A vacancy in the selection committee does not by itself invalidate an appointment.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 5"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SECTION 8 FUNCTIONS, CVO SYSTEM, VIGILANCE ADVICE AND SANCTION MONITORING",
+      "structural_type": "cvc-vigilance-administration-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECTION 8 FUNCTIONS, CVO SYSTEM, VIGILANCE ADVICE AND SANCTION",
+          "role": "primary"
+        },
+        {
+          "text": "CVC FUNCTIONS SUPERINTEND DSPE INVESTIGATION OF SPECIFIED PREVENTION OF",
+          "role": "outcome"
+        },
+        {
+          "text": "CVO CHAIN PREVENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVEILLANCE AND COMPLAINT SCRUTINY",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPARTMENTAL INQUIRY",
+          "role": "primary"
+        },
+        {
+          "text": "CVC ADVICE WHERE APPLICABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCIPLINARY AUTHORITY REASONED DECISION.",
+          "role": "comparison"
+        },
+        {
+          "text": "PROSECUTION SANCTION SECTION 19 PC ACT CONCERNS PROSECUTION STAGE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CVC FUNCTIONS superintend DSPE investigation of specified Prevention of Corruption Act matters issue directions without",
+        "a particular case review investigation progress and prosecution-sanction applications inquire or cause inquiry into covered",
+        "Central Government and covered organisations exercise vigilance-administration superintendence.",
+        "CVO CHAIN prevention → surveillance and complaint scrutiny → departmental inquiry",
+        "CVC advice where applicable → disciplinary authority reasoned decision."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CVC FUNCTIONS superintend DSPE investigation of specified Prevention of Corruption Act matters issue directions without dictating disposal of",
+            "a particular case review investigation progress and prosecution-sanction applications inquire or cause inquiry into covered public-servant complaints advise"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Central Government and covered organisations exercise vigilance-administration superintendence.",
+            "CVO CHAIN prevention → surveillance and complaint scrutiny → departmental inquiry"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CVC advice where applicable → disciplinary authority reasoned decision.",
+            "PROSECUTION SANCTION section 19 PC Act concerns prosecution stage"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "section 17A prior approval concerns specified inquiry/investigation decisions.",
+            "CVC is not a police station, trial court or universal controller of every CBI case."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 8 gives the CVC oversight, inquiry-routing, progress-review and advisory functions, but neither universal jurisdiction nor power to adjudicate criminal guilt.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CBI ORGANISATION, DSPE POWERS, NOTIFIED OFFENCES AND MANDATE BOUNDARIES",
+      "structural_type": "cbi-dspe-jurisdiction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CBI ORGANISATION, DSPE POWERS, NOTIFIED OFFENCES AND MANDATE BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CBI ORGANISATION INVESTIGATION AND ANTI-CORRUPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC OFFENCES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIAL CRIMES POLICY, ADMINISTRATION, FORENSICS AND INTERNATIONAL COOPERATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "DSPE ACT SECTION 2",
+          "role": "institution"
+        },
+        {
+          "text": "UNION TERRITORY POLICE-ESTABLISHMENT BASELINE.",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 3",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL NOTIFICATION SPECIFIES OFFENCE CLASSES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CBI ORGANISATION investigation and anti-corruption",
+        "economic offences",
+        "special crimes policy, administration, forensics and international cooperation.",
+        "DSPE ACT section 2 → Union Territory police-establishment baseline.",
+        "section 3 → Central notification specifies offence classes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CBI ORGANISATION investigation and anti-corruption",
+            "economic offences",
+            "special crimes policy, administration, forensics and international cooperation."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DSPE ACT section 2 → Union Territory police-establishment baseline.",
+            "section 3 → Central notification specifies offence classes.",
+            "section 5 → Central extension of powers to State areas."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "section 6 → State consent for ordinary exercise in State area.",
+            "POLICE POWER",
+            "FIR or regular case → search, seizure, arrest and examination under law"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "evidence assessment → closure report or charge sheet → court.",
+            "BOUNDARY organisational mandate does not override notified offences, territory, criminal procedure, special statutes, consent or court directions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "“CBI can investigate any case in India” and “CBI can never act without State consent” are both overbroad.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SUPERINTENDENCE SPLIT AND THE CBI DIRECTOR APPOINTMENT-TENURE ARCHITECTURE",
+      "structural_type": "cbi-director-independence-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SUPERINTENDENCE SPLIT AND THE CBI DIRECTOR APPOINTMENT-TENURE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CVC FOR DSPE INVESTIGATION OF SPECIFIED CORRUPTION OFFENCES.",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL GOVERNMENT FOR OTHER DSPE MATTERS.",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTOR CONTROLS DAY-TO-DAY ADMINISTRATION AND INVESTIGATIVE JUDGMENT, SUBJECT TO",
+          "role": "evidence"
+        },
+        {
+          "text": "DIRECTOR APPOINTMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL GOVERNMENT APPOINTS ON COMMITTEE RECOMMENDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIME MINISTER + LOK SABHA OPPOSITION LEADER/SUBSTITUTE + CJI",
+          "role": "comparison"
+        },
+        {
+          "text": "TENURE MINIMUM TWO YEARS UNDER DSPE ACT.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CVC for DSPE investigation of specified corruption offences.",
+        "Central Government for other DSPE matters.",
+        "Director controls day-to-day administration and investigative judgment, subject to statute, law and lawful oversight.",
+        "DIRECTOR APPOINTMENT",
+        "Central Government appoints on committee recommendation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CVC for DSPE investigation of specified corruption offences.",
+            "Central Government for other DSPE matters.",
+            "Director controls day-to-day administration and investigative judgment, subject to statute, law and lawful oversight."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DIRECTOR APPOINTMENT",
+            "Central Government appoints on committee recommendation",
+            "Prime Minister + Lok Sabha Opposition Leader/substitute + CJI or nominee."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TENURE minimum two years under DSPE Act.",
+            "Current law permits conditional one-year extensions, with recorded public-interest reasons, up to aggregate five years.",
+            "TRANSFER statutory committee safeguard applies."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP two-year floor != automatic five-year term and superintendence != case-outcome command."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 4(2) vests superintendence over other matters in the Central Government, subject to other statutory provisions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "STATE CONSENT, PENDING INVESTIGATIONS AND CONSTITUTIONAL-COURT DIRECTIONS",
+      "structural_type": "cbi-federal-consent-case-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "STATE CONSENT, PENDING INVESTIGATIONS AND CONSTITUTIONAL-COURT DIRECTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ORDINARY STATE-AREA ROUTE SECTION 5 EXTENSION + SECTION 6",
+          "role": "institution"
+        },
+        {
+          "text": "WITHDRAWAL OF GENERAL CONSENT OPERATES PROSPECTIVELY FOR NEW ORDINARY",
+          "role": "comparison"
+        },
+        {
+          "text": "KAZI LHENDUP DORJI V. CBI (1994) LATER WITHDRAWAL DID",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF",
+          "role": "institution"
+        },
+        {
+          "text": "HIGH COURT UNDER ARTICLE 226 AND SUPREME COURT UNDER",
+          "role": "institution"
+        },
+        {
+          "text": "FERTICO MARKETING AND INVESTMENT PVT. LTD. V. CBI (2020)",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE OF WEST BENGAL V. UNION OF INDIA (2024)",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ORDINARY STATE-AREA ROUTE section 5 extension + section 6 general or case-specific State consent.",
+        "Withdrawal of general consent operates prospectively for new ordinary entries.",
+        "Kazi Lhendup Dorji v. CBI (1994) later withdrawal did not terminate investigations validly begun while",
+        "State of West Bengal v. Committee for Protection of Democratic Rights (2010)",
+        "High Court under Article 226 and Supreme Court under Article 32 may direct CBI investigation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORDINARY STATE-AREA ROUTE section 5 extension + section 6 general or case-specific State consent.",
+            "Withdrawal of general consent operates prospectively for new ordinary entries."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Kazi Lhendup Dorji v. CBI (1994) later withdrawal did not terminate investigations validly begun while consent operated.",
+            "State of West Bengal v. Committee for Protection of Democratic Rights (2010)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "High Court under Article 226 and Supreme Court under Article 32 may direct CBI investigation without State consent, exceptionally and cautiously.",
+            "Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) fact-specific consent result; no universal rule that later consent always cures defect."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State of West Bengal v. Union of India (2024) preliminary maintainability objection rejected; cited judgment did not decide consent merits.",
+            "FEDERAL VERDICT qualified State control in ordinary cases + exceptional rights-protecting judicial review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The holding does not create a free-standing power to start any later investigation without consent.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 13"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LOKPAL INTERFACE, INVESTIGATION LIFECYCLE AND PROCEDURAL SAFEGUARDS",
+      "structural_type": "anti-corruption-case-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOKPAL INTERFACE, INVESTIGATION LIFECYCLE AND PROCEDURAL SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "LOKPAL ROUTE COMPLAINT SCRUTINY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMINARY INQUIRY OR INVESTIGATION UNDER LOKPAL ACT",
+          "role": "institution"
+        },
+        {
+          "text": "CVC/CBI OR STATUTORY WINGS AS ASSIGNED",
+          "role": "evidence"
+        },
+        {
+          "text": "REPORTS AND DIRECTIONS WITHIN THE ACT.",
+          "role": "institution"
+        },
+        {
+          "text": "INVESTIGATION LIFECYCLE SOURCE INFORMATION/COMPLAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "JURISDICTION AND APPROVAL SCREEN",
+          "role": "comparison"
+        },
+        {
+          "text": "PRELIMINARY VERIFICATION WHERE LAW PERMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOKPAL ROUTE complaint scrutiny → preliminary inquiry or investigation under Lokpal Act",
+        "CVC/CBI or statutory wings as assigned → reports and directions within the Act.",
+        "INVESTIGATION LIFECYCLE source information/complaint → jurisdiction and approval screen",
+        "preliminary verification where law permits → FIR/regular case",
+        "evidence collection → sanction question → final police report"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "LOKPAL ROUTE complaint scrutiny → preliminary inquiry or investigation under Lokpal Act",
+            "CVC/CBI or statutory wings as assigned → reports and directions within the Act.",
+            "INVESTIGATION LIFECYCLE source information/complaint → jurisdiction and approval screen",
+            "preliminary verification where law permits → FIR/regular case"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "evidence collection → sanction question → final police report",
+            "prosecution → trial → judgment.",
+            "CBI v. Thommandru Hannah Vijayalakshmi (2021) preliminary inquiry is not mandatory before every corruption FIR",
+            "criminal-procedure and corruption-law requirements control."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SAFEGUARDS lawful approval",
+            "search and arrest standards disclosure and fair trial",
+            "judicial review",
+            "presumption of innocence."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FIR, charge sheet, vigilance advice and sanction are not findings of guilt."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PC Act section 17A governs previous approval for enquiry, inquiry or investigation into specified allegations relatable to a public servant’s recommendation or decision in discharge of official functions, subject to its statutory exceptions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 18"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CVC, CBI, LOKPAL, NIA AND STATE POLICE: POWER-TYPE COMPARISON",
+      "structural_type": "anti-corruption-institution-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CVC, CBI, LOKPAL, NIA AND STATE POLICE",
+          "role": "institution"
+        },
+        {
+          "text": "POWER-TYPE COMPARISON",
+          "role": "mechanism"
+        },
+        {
+          "text": "CVC STATUTORY VIGILANCE SUPERVISION AND ADVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO GENERAL POLICE POWER.",
+          "role": "caution"
+        },
+        {
+          "text": "DSPE EXECUTIVE ORGANISATION + STATUTORY POLICE POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "CONSENT AND OFFENCE CONTROLS.",
+          "role": "outcome"
+        },
+        {
+          "text": "LOKPAL STATUTORY OMBUDSMAN AND COMPLAINT-ROUTING AUTHORITY FOR COVERED PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "NIA STATUTORY NATIONAL-SECURITY INVESTIGATION UNDER NIA ACT AND SCHEDULED-OFFENCE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CVC statutory vigilance supervision and advice",
+        "no general police power.",
+        "CBI / DSPE executive organisation + statutory police powers",
+        "consent and offence controls.",
+        "LOKPAL statutory ombudsman and complaint-routing authority for covered public functionaries."
+      ],
+      "matrix": [
+        [
+          "CVC statutory vigilance supervision and advice",
+          "no general police power."
+        ],
+        [
+          "CBI / DSPE executive organisation + statutory police powers",
+          "consent and offence controls."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CVC statutory vigilance supervision and advice",
+            "no general police power.",
+            "CBI / DSPE executive organisation + statutory police powers"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "consent and offence controls.",
+            "LOKPAL statutory ombudsman and complaint-routing authority for covered public functionaries.",
+            "NIA statutory national-security investigation under NIA Act and scheduled-offence framework."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE POLICE / ACB",
+            "State police power and territorial responsibility under ordinary criminal law.",
+            "DEPARTMENTAL CVO internal prevention, scrutiny and disciplinary-vigilance coordination."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COURT authorises, reviews, tries and finally determines guilt.",
+            "TRAP administrative placement, vigilance supervision and police command are different relationships."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CVC, CBI, Lokpal, ED, NIA and State agencies occupy different vigilance, corruption, financial-crime and security fields, so institutional overlap does not erase jurisdictional boundaries.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 19"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "CONTROLLING CASES, CAGED-PARROT CRITICISM, REFORM AND ANSWER SYNTHESIS",
+      "structural_type": "cvc-cbi-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CONTROLLING CASES, CAGED-PARROT CRITICISM, REFORM AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "VINEET NARAIN V. UNION OF INDIA (1997) INSTITUTIONAL SAFEGUARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "ALOK KUMAR VERMA V. UNION OF INDIA (2019) STATUTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "DR JAYA THAKUR V. UNION OF INDIA (2023) CURRENT",
+          "role": "evidence"
+        },
+        {
+          "text": "\"CAGED PARROT\" JUDICIAL CRITICISM OF PERCEIVED EXECUTIVE INFLUENCE IN",
+          "role": "primary"
+        },
+        {
+          "text": "NOT A STATUTORY STATUS, DOCTRINE OR LICENCE FOR JUDICIAL",
+          "role": "caution"
+        },
+        {
+          "text": "REFORM DEDICATED LAW WITH FEDERAL SAFEGUARDS + PREDICTABLE CONSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PROFESSIONAL CADRE AND BUDGET",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Vineet Narain v. Union of India (1997) institutional safeguards, Director tenure and statutory CVC trajectory.",
+        "Alok Kumar Verma v. Union of India (2019) statutory committee safeguard constrained removal of Director's",
+        "Dr Jaya Thakur v. Union of India (2023) current extension framework upheld; extension remains conditional",
+        "\"CAGED PARROT\" judicial criticism of perceived executive influence in 2013",
+        "not a statutory status, doctrine or licence for judicial administration of every case."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Vineet Narain v. Union of India (1997) institutional safeguards, Director tenure and statutory CVC trajectory.",
+            "Alok Kumar Verma v. Union of India (2019) statutory committee safeguard constrained removal of Director's functions.",
+            "Dr Jaya Thakur v. Union of India (2023) current extension framework upheld; extension remains conditional, not automatic."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "\"CAGED PARROT\" judicial criticism of perceived executive influence in 2013",
+            "not a statutory status, doctrine or licence for judicial administration of every case.",
+            "REFORM dedicated law with federal safeguards + predictable consent protocol"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "professional cadre and budget → transparent case allocation",
+            "timely sanctions → parliamentary system review + judicial accountability.",
+            "PYQ SPINE"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2021 State consent and federalism",
+            "2026 controlled institutional matching.",
+            "VERDICT operational autonomy must be paired with legality, federal restraint and answerable coercive power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CBI autonomy depends less on a slogan of independence than on a rule-bound Director architecture that separates high-level selection, secure minimum tenure, lawful extension and day-to-day administration.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 21",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md#SESSION 23"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — CENTRAL VIGILANCE COMMISSION (CVC)",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — CENTRAL BUREAU OF INVESTIGATION (CBI)",
+          "role": "comparison"
+        },
+        {
+          "text": "ESTABLISHED 1964 BY AN EXECUTIVE RESOLUTION , ON THE",
+          "role": "evidence"
+        },
+        {
+          "text": "ORIGINALLY NEITHER CONSTITUTIONAL NOR STATUTORY",
+          "role": "primary"
+        },
+        {
+          "text": "GIVEN STATUTORY STATUS BY THE CVC ACT, 2003",
+          "role": "institution"
+        },
+        {
+          "text": "SUPERINTENDENCE OVER THE CBI (DSPE) ONLY FOR PREVENTION OF",
+          "role": "comparison"
+        },
+        {
+          "text": "INQUIRE INTO CORRUPTION COMPLAINTS VS AIS + GROUP-A CENTRAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — CENTRAL VIGILANCE COMMISSION (CVC)",
+            "PART B — CENTRAL BUREAU OF INVESTIGATION (CBI)",
+            "Established 1964 by an executive resolution , on the recommendation of the Santhanam Committee on",
+            "Originally neither constitutional nor statutory → given statutory status by the CVC Act, 2003"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Superintendence over the CBI (DSPE) only for Prevention of Corruption Act, 1988 offences ( NOT all CBI work).",
+            "Inquire into corruption complaints vs AIS + Group-A central officers.",
+            "Whistle-blower authority under PIDPI Resolution (2004) & the Whistle Blowers Protection Act, 2014 .",
+            "Chairs the committee recommending the ED Director & (post-Lokpal Act 2013) CBI officers SP-and-above (except Director) ."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Civil-court powers ; annual report → President → Parliament . CAUTION: Advisory — advice not binding (govt must record reasons if it disagrees).",
+            "Set up 1963 by a Home Ministry resolution ; recommended by the Santhanam Committee .",
+            "NOT a statutory body — derives powers from the Delhi Special Police Establishment (DSPE) Act, 1946 .",
+            "Main investigating agency of the Centre; assists the CVC & Lokpal ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

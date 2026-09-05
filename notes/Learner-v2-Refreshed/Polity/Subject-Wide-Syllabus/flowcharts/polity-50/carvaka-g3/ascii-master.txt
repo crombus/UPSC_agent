@@ -1,0 +1,207 @@
+ASCII MASTER FLOW — PANEL 1/12: The central idea: constitute and restrain public power
+ROOT QUESTION
+What makes a political community governed by a Constitution rather than by rulers alone?
+
+CONSTITUTION
++-- creates institutions and offices
++-- allocates horizontal and federal authority
++-- identifies people, territory and political membership
++-- protects rights and states public goals
++-- provides amendment, conflict-resolution and continuity rules.
+
+CONSTITUTIONALISM
+limited power + rule of law + checks + rights + accountability + remedies.
+
+MASTER DISTINCTION
+constitutional document can exist without effective constitutionalism.
+
+ASCII MASTER FLOW — PANEL 2/12: Classification without false binaries
+FORM AXES
+enacted/evolved | codified/uncodified | rigid/flexible | federal/unitary
+| supreme/parliamentary | procedural/prescriptive.
+
+INDIA
+enacted + codified + supreme
+mixed rigidity + federal division with centralising features
+parliamentary responsibility + judicial review
+procedure + transformative commitments.
+
+TRAPS
+written != rigid | uncodified != unwritten | federal != presidential
+| parliamentary government != parliamentary sovereignty.
+
+ANSWER STRIP
+Classifications isolate dimensions; India is a designed synthesis across them.
+
+ASCII MASTER FLOW — PANEL 3/12: Constituent power and constitutional change
+CONSTITUENT POWER
+people/founding authority -> creates constitutional order.
+                     |
+                     v
+CONSTITUTED POWERS
+Parliament | executive | judiciary | Union/States | constitutional bodies.
+
+ARTICLE 368
+change within Constitution -> procedure + federal ratification where required.
+
+Kesavananda Bharati (1973)
+amending power is wide but cannot destroy basic structure.
+
+Minerva Mills (1980)
+limited amendment and rights-DPSP harmony are part of constitutional identity.
+
+LIMIT
+no constituted organ becomes legally unlimited by invoking democracy or necessity.
+
+ASCII MASTER FLOW — PANEL 4/12: Rule of law, limited government and legitimacy
+POPULAR CONSENT
+election and representation -> authority to govern.
+             v
+RULE OF LAW
+legal competence + non-arbitrariness + equality + reasoned procedure.
+             v
+LIMITED GOVERNMENT
+rights + separation/checks + federalism + responsible executive.
+             v
+ACCOUNTABILITY
+Parliament + audit + courts + elections + free public reason.
+
+Maneka Gandhi (1978)
+fair, just and reasonable procedure joins legality to substantive non-arbitrariness.
+
+VERDICT
+legitimacy requires source, process, rights and accountable performance.
+
+ASCII MASTER FLOW — PANEL 5/12: Sovereignty, legal-political constitution and conventions
+POPULAR SOVEREIGNTY
+We, the People -> democratic authorship.
+
+CONSTITUTIONAL SOVEREIGNTY
+supreme Constitution -> every institution legally limited.
+
+PARLIAMENT
+democratically central, but not British-style legally sovereign.
+
+LEGAL CONSTITUTION
+text/rights/review/remedy.
+
+POLITICAL CONSTITUTION
+confidence/election/committee/federal bargaining/convention.
+
+CONVENTION
+politically obligatory practice; not automatically judicially enforceable law.
+
+ASCII MASTER FLOW — PANEL 6/12: Morality, transformation and constitutional identity
+CONSTITUTIONAL MORALITY
+text + form + procedure + institutional role + equal citizenship.
+
+TRANSFORMATIVE CONSTITUTIONALISM
+dignity + equality + social justice -> lawful anti-hierarchy change.
+
+S.R. Bommai (1994)
+federalism and secularism constrain partisan central power.
+
+Navtej Singh Johar v. Union of India (2018)
+dignity, equality and constitutional morality protect minority citizenship.
+
+LIMIT
+morality/transformative language cannot float free of text, structure and competence.
+
+ASCII MASTER FLOW — PANEL 7/12: Living constitution with interpretive discipline
+TEXT/ORIGINAL MEANING
+adopted language and history constrain.
+
+STRUCTURE/PRECEDENT
+relationships and doctrine maintain coherence.
+
+LIVING APPLICATION
+enduring principle -> new circumstance -> reasoned doctrinal bridge.
+
+K.S. Puttaswamy (2017)
+privacy and dignity apply constitutional liberty to technological conditions.
+
+CONTROL QUESTIONS
+textual hook? institutional competence? evidence? remedy? democratic space?
+
+TRAP
+living Constitution != amendment by judicial preference.
+
+ASCII MASTER FLOW — PANEL 8/12: Identity, emergency and constitutional failure
+INDIAN IDENTITY
+Preamble + democracy + rights + federalism + responsibility
++ judicial review + social transformation.
+
+FAILURE BRANCHES
+emergency abuse | rights hollowing | captured institution
+| convention breakdown | majority treated as unlimited.
+
+RESPONSE LADDER
+reasons/review -> Parliament/accountability -> federal checks
+-> election/public reason -> lawful amendment and institutional repair.
+
+SOCIAL REVOLUTION + RESTRAINT
+transform hierarchy, but preserve competence, rights, procedure and plural consent.
+
+LIMIT
+constitutional survival is institutional practice, not text alone.
+
+ASCII MASTER FLOW — PANEL 9/12: Purpose, sovereignty and legitimacy architecture
+PEOPLE / FOUNDING AUTHORITY
+   -> CONSTITUTIONAL ORDER
+   -> CREATED INSTITUTIONS + DISTRIBUTED COMPETENCE
+   -> RIGHTS + LIMITS + ACCOUNTABILITY
+   -> AMENDMENT + CONTINUITY
+
+LEGITIMACY TEST
+popular source + lawful process + rights + justified performance.
+
+SOVEREIGNTY
+people authorise; Constitution is supreme; every institution remains constituted.
+
+ANSWER STRIP
+A Constitution creates legitimate authority only while preserving limits on its exercise.
+
+ASCII MASTER FLOW — PANEL 10/12: Legal, political and aspirational constitution
+LEGAL
+text | competence | rights | review | remedy
+       /                         \
+POLITICAL ---------------- ASPIRATIONAL
+elections | confidence       Preamble | FR | DPSP
+scrutiny | convention        dignity | equality | justice
+
+FAILURES
+legalism without democracy | electoralism without limits
+| aspiration without lawful capacity.
+
+ANSWER STRIP
+Law authorises and limits, politics represents and answers, aspiration directs change.
+
+ASCII MASTER FLOW — PANEL 11/12: Doctrine qualification and answer execution
+IDEA -> ANCHOR -> USE -> LIMIT
+amending power -> Kesavananda Bharati (1973) -> change -> no destruction
+constitutional morality -> NCT Delhi (2018)
+  + Navtej Singh Johar v. Union of India (2018) -> role and equality
+  -> no personal morality
+transformation -> Navtej Singh Johar v. Union of India (2018)
+  + Joseph Shine (2018) -> anti-hierarchy -> competence and remedy
+living Constitution -> K.S. Puttaswamy (2017) -> new conditions -> textual bridge
+
+ANSWER STRIP
+Conceptual answers earn marks when every doctrine carries an anchor, mechanism and limit.
+
+ASCII MASTER FLOW — PANEL 12/12: UPSC synthesis: higher law, democratic change and restraint
+PRELIMS FIREWALL
+constitution != constitutional law | constitution != constitutionalism
+| convention != enforceable rule | written != rigid | federal != presidential
+| Parliament != sovereign in British sense | basic structure != express list.
+
+MAINS SPINE
+definition/functions -> classifications -> constituent power
+-> rule of law/legitimacy -> sovereignty/conventions
+-> morality/transformation -> interpretation -> identity/failure.
+
+PYQ SPINE
+2021 morality | 2023 living instrument | 2025 independence-accountability.
+
+VERDICT
+India's Constitution enables democratic transformation by limiting every constituted power.

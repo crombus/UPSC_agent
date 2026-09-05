@@ -1,0 +1,138 @@
+ASCII MASTER FLOW — PANEL 1/9: Interpretive method: from text to disciplined constitutional meaning
+ROOT QUESTION
+How does a court derive meaning without becoming a constituent legislature?
+
+TEXTUAL -> enacted words and context.
+STRUCTURAL -> institutional/federal relationships.
+HISTORICAL -> framing problem and background.
+PURPOSIVE -> effective constitutional object.
+PRECEDENT -> binding ratio + bench strength.
+
+CONTROL
+provision -> trigger -> test -> case-year -> effect -> limit -> remedy.
+
+ASCII MASTER FLOW — PANEL 2/9: Article 13 remedies: severability, eclipse and waiver
+SEVERABILITY
+R.M.D. Chamarbaugwala v. Union of India (1957)
+-> separable invalid part falls; workable intended remainder survives.
+
+ECLIPSE
+Bhikaji Narain Dhakras (1955)
+-> pre-Constitution law dormant to inconsistency, not repealed.
+
+WAIVER
+Basheshar Nath (1958)
+-> consent cannot validate unconstitutional State action.
+
+TRAP
+parts | enforceability | consent are three different questions.
+
+ASCII MASTER FLOW — PANEL 3/9: Legislative competence: true field before conflict
+Prafulla Kumar Mukherjee (1947) -> pith and substance.
+State of Bombay v. F.N. Balsara (1951) -> incidental/ancillary reach.
+K.C. Gajapati Narayan Deo (1953) -> colourable competence, not motive.
+
+STATE EXTRA-TERRITORIAL EFFECT
+State of Bombay v. R.M.D. Chamarbaugwala (1957) -> real territorial nexus.
+
+SEQUENCE
+entry -> true nature/effect -> incidental overlap -> disguise -> nexus.
+
+TRAP
+do not jump to Article 254 before identifying the field.
+
+ASCII MASTER FLOW — PANEL 4/9: Article 254: occupied field, repugnancy and assent
+SAME CONCURRENT FIELD?
+        |
+actual conflict / impossible obedience / intended complete coverage?
+        |
+Deep Chand v. State of Uttar Pradesh (1959)
+        +
+M. Karunanidhi v. Union of India (1979)
+        |
+Union law prevails; State law void to extent of conflict.
+        |
+Presidential assent -> State law may prevail in that State.
+        |
+Parliament may later override.
+
+TRAP
+assent cannot cure lack of State competence.
+
+ASCII MASTER FLOW — PANEL 5/9: Meaning, amendment and invalidity boundaries
+HARMONIOUS CONSTRUCTION
+In re Kerala Education Bill (1958) -> reconcile meaningful operation.
+
+READING DOWN
+Kedar Nath Singh (1962) -> choose textually available valid meaning.
+
+PROSPECTIVE OVERRULING
+I.C. Golaknath (1967) -> expressly shape temporal effect.
+
+BASIC STRUCTURE
+Kesavananda Bharati (1973) + Minerva Mills (1980)
+-> Article 368 cannot damage constitutional identity.
+
+LIMIT
+interpretation != amendment != judicial policy code.
+
+ASCII MASTER FLOW — PANEL 6/9: Equality review: presumption, arbitrariness and proportionality
+Ram Krishna Dalmia (1958) -> rebuttable presumption/classification discipline.
+E.P. Royappa (1973) -> arbitrariness and equality.
+Shayara Bano v. Union of India (2017) -> manifest arbitrariness of legislation.
+
+PROPORTIONALITY
+Modern Dental College (2016)
+-> authority + aim + connection + necessity + balance.
+K.S. Puttaswamy (2017) + Anuradha Bhasin (2020)
+-> structured rights justification in modern settings.
+
+TRAP
+review justification; do not choose the court's preferred policy.
+
+ASCII MASTER FLOW — PANEL 7/9: Morality, transformation and religious-practice caution
+CONSTITUTIONAL MORALITY / TRANSFORMATION
+Navtej Singh Johar v. Union of India (2018)
+-> equal citizenship, dignity and anti-hierarchy through text and rights.
+
+ESSENTIAL RELIGIOUS PRACTICES
+Shirur Mutt (1954)
+-> religious matter versus regulable secular activity.
+
+Indian Young Lawyers Association (2018)
+-> religion, equality, dignity and morality interaction.
+
+LIMIT
+pending review/reference != decided doctrinal change
+| constitutional morality != personal morality.
+
+ASCII MASTER FLOW — PANEL 8/9: Neighbouring doctrines, precedent and judicial restraint
+PLEASURE
+Shamsher Singh (1974) -> Arts 310-311 + responsible government.
+
+EXPECTATION / ESTOPPEL
+Navjyoti Cooperative Group Housing (1992)
+| Motilal Padampat Sugar Mills (1978) -> fairness/reliance, no compelled illegality.
+
+CASUS OMISSUS
+Padma Sundara Rao (2002) -> genuine omission ordinarily left to legislature.
+
+PRECEDENT / ART 142
+Supreme Court Bar Association (1998)
+-> ratio + bench strength + proper reference; complete justice remains limited.
+
+ASCII MASTER FLOW — PANEL 9/9: UPSC synthesis: select doctrine by trigger and legal effect
+PRELIMS FIREWALL
+Art 13 validity | Arts 245-246 competence | Art 254 conflict
+| Art 368 amendment | Art 141 precedent | Art 142 case-bound complete justice.
+
+MAINS SPINE
+method -> trigger -> doctrine sequence -> case + decision year
+-> legal effect -> limitation -> calibrated remedy.
+
+PYQ ROUTE
+federal supremacy/harmony | constitutional morality | basic structure
+| amendments responding to judgments | judicial independence/accountability.
+
+CONCLUSION
+doctrine is disciplined reasoning, not a case-name dump or judicial sovereignty.

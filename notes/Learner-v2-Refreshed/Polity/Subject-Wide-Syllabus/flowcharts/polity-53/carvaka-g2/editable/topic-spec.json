@@ -1,0 +1,953 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-53",
+  "subject": "Polity",
+  "title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+  "short_route": "PART XVI AS A → SC/ST LEGISLATIVE SEATS AND → WOMEN RESERVATION AND ARTICLE → ANGLO-INDIAN HISTORY AND POLITICAL-RESERVATION → ARTICLE 335: REPRESENTATION WITH → COMMISSIONS, UNION CONTROL AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "7fc9550b5f9f760732b06576039bc02536abf5a1f26c3747aa0d7233f7cfba68",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PART XVI AS A FOUR-PART CONSTITUTIONAL ARCHITECTURE",
+      "structural_type": "part-xvi-root",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PART XVI AS A FOUR-PART CONSTITUTIONAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW DOES PART XVI COMBINE INCLUSION WITHOUT USING ONE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTS 330-334A.",
+          "role": "evidence"
+        },
+        {
+          "text": "ART 335.",
+          "role": "primary"
+        },
+        {
+          "text": "ARTS 338-340.",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTS 341-342A.",
+          "role": "comparison"
+        },
+        {
+          "text": "ART 275 GRANTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How does Part XVI combine inclusion without using one legal mechanism?",
+        "REPRESENTATION → Arts 330-334A.",
+        "SERVICES → Art 335.",
+        "COMMISSIONS / CONTROL → Arts 338-340."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How does Part XVI combine inclusion without using one legal mechanism?",
+            "REPRESENTATION → Arts 330-334A."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SERVICES → Art 335.",
+            "COMMISSIONS / CONTROL → Arts 338-340.",
+            "IDENTIFICATION → Arts 341-342A."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Art 275 grants",
+            "Arts 243D/243T local seats",
+            "Fifth/Sixth Schedule administration."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "VERDICT list != quota != commission report != welfare scheme."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Identification, representation, service claims, welfare finance and area administration occupy different constitutional layers, so one cannot be inferred automatically from another.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SC/ST LEGISLATIVE SEATS AND ORDINARY TERRITORIAL VOTING",
+      "structural_type": "representation-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SC/ST LEGISLATIVE SEATS AND ORDINARY TERRITORIAL VOTING",
+          "role": "primary"
+        },
+        {
+          "text": "LOK SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "ART 330",
+          "role": "comparison"
+        },
+        {
+          "text": "SC/ST RESERVED SEATS LINKED BROADLY TO POPULATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE ASSEMBLIES",
+          "role": "institution"
+        },
+        {
+          "text": "ART 332",
+          "role": "outcome"
+        },
+        {
+          "text": "SC/ST RESERVED SEATS + SPECIFIED NORTH-EAST PROVISIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTION RESERVED CANDIDACY/SEAT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOK SABHA",
+        "Art 330 → SC/ST reserved seats linked broadly to population.",
+        "STATE ASSEMBLIES",
+        "Art 332 → SC/ST reserved seats + specified North-East provisions.",
+        "ELECTION reserved candidacy/seat → ordinary territorial electorate votes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "LOK SABHA",
+            "Art 330 → SC/ST reserved seats linked broadly to population."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STATE ASSEMBLIES",
+            "Art 332 → SC/ST reserved seats + specified North-East provisions."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ELECTION reserved candidacy/seat → ordinary territorial electorate votes.",
+            "TRAP political reservation != separate electorate representation != Article 341/342 list alteration."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LOK SABHA",
+            "Art 330 → SC/ST reserved seats linked broadly to population."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Reservation identifies constituencies/seats; it does not create a separate electorate—voters in the constituency vote in the ordinary territorial election.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WOMEN RESERVATION AND ARTICLE 334A ACTIVATION CHAIN",
+      "structural_type": "women-reservation-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WOMEN RESERVATION AND ARTICLE 334A ACTIVATION CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "106TH AMENDMENT TEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTS 330A + 332A + 334A.",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST CENSUS AFTER COMMENCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "RELEVANT FIGURES PUBLISHED DELIMITATION EXERCISE",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTORAL OPERATION ROTATION AFTER SUBSEQUENT DELIMITATION AS PARLIAMENT PROVIDES.",
+          "role": "outcome"
+        },
+        {
+          "text": "WITHIN SC/ST SEATS WOMEN SHARE INCLUDED IN CONSTITUTIONAL DESIGN.",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAP INSERTED/COMMENCED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "106TH AMENDMENT TEXT",
+        "Arts 330A + 332A + 334A.",
+        "first census after commencement → relevant figures published delimitation exercise → electoral operation rotation after",
+        "Parliament provides.",
+        "WITHIN SC/ST SEATS women share included in constitutional design."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "106TH AMENDMENT TEXT",
+            "Arts 330A + 332A + 334A."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "first census after commencement → relevant figures published delimitation exercise → electoral operation rotation after subsequent delimitation as",
+            "Parliament provides."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "WITHIN SC/ST SEATS women share included in constitutional design.",
+            "TRAP inserted/commenced != presently operational."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "106TH AMENDMENT TEXT",
+            "Arts 330A + 332A + 334A."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The 106th Amendment placed the provisions in the Constitution, but Art 334A links their operation to a delimitation exercise undertaken after publication of the relevant figures of the first census taken after commencement of the amendment.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ANGLO-INDIAN HISTORY AND POLITICAL-RESERVATION CLOCK",
+      "structural_type": "time-clause-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ANGLO-INDIAN HISTORY AND POLITICAL-RESERVATION CLOCK",
+          "role": "primary"
+        },
+        {
+          "text": "ARTS 331",
+          "role": "outcome"
+        },
+        {
+          "text": "333 HISTORICAL ANGLO-INDIAN NOMINATION PROVISIONS REMAIN PRINTED.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 334",
+          "role": "institution"
+        },
+        {
+          "text": "SC/ST SEAT RESERVATION",
+          "role": "primary"
+        },
+        {
+          "text": "EXTENDED TO EIGHTY YEARS FROM COMMENCEMENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "ANGLO-INDIAN NOMINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT EXTENDED BEYOND SEVENTY YEARS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ARTS 331 / 333 historical Anglo-Indian nomination provisions remain printed.",
+        "ARTICLE 334",
+        "SC/ST seat reservation → extended to eighty years from commencement.",
+        "Anglo-Indian nomination → not extended beyond seventy years → ceased in 2020.",
+        "ARTS 336 / 337 services and educational-grant transitions → exhausted after ten years."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTS 331 / 333 historical Anglo-Indian nomination provisions remain printed.",
+          "SC/ST seat reservation → extended to eighty years from commencement.",
+          "ARTS 336 / 337 services and educational-grant transitions → exhausted after ten years.",
+          "ARTS 331 / 333 historical Anglo-Indian nomination provisions remain printed."
+        ],
+        [
+          "ARTICLE 334",
+          "Anglo-Indian nomination → not extended beyond seventy years → ceased in 2020.",
+          "TRAP time-clause cessation != necessary textual omission.",
+          "ARTICLE 334"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTS 331 / 333 historical Anglo-Indian nomination provisions remain printed.",
+            "ARTICLE 334"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SC/ST seat reservation → extended to eighty years from commencement.",
+            "Anglo-Indian nomination → not extended beyond seventy years → ceased in 2020."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTS 336 / 337 services and educational-grant transitions → exhausted after ten years.",
+            "TRAP time-clause cessation != necessary textual omission."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTS 331 / 333 historical Anglo-Indian nomination provisions remain printed.",
+            "ARTICLE 334"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 331 and 333 remain printed in the constitutional text, but the special nomination period under Article 334 was not extended beyond seventy years and ceased in 2020.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARTICLE 335: REPRESENTATION WITH ADMINISTRATIVE EFFICIENCY",
+      "structural_type": "services-balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 335",
+          "role": "institution"
+        },
+        {
+          "text": "REPRESENTATION WITH ADMINISTRATIVE EFFICIENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "SC/ST CLAIMS IN UNION/STATE SERVICES MAINTENANCE OF ADMINISTRATIVE EFFICIENCY.",
+          "role": "institution"
+        },
+        {
+          "text": "82ND AMENDMENT PROVISO QUALIFYING-MARK/EVALUATION RELAXATION FOR PROMOTION RESERVATION MAY",
+          "role": "evidence"
+        },
+        {
+          "text": "M. NAGARAJ (2006)",
+          "role": "primary"
+        },
+        {
+          "text": "PROMOTION-ENABLING PROVISIONS WITH CONSTITUTIONAL CONDITIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "JARNAIL SINGH (2018)",
+          "role": "comparison"
+        },
+        {
+          "text": "MODIFIES DATA RULE AND APPLIES CREAMY-LAYER LOGIC.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 335",
+        "SC/ST claims in Union/State services maintenance of administrative efficiency.",
+        "82ND AMENDMENT PROVISO qualifying-mark/evaluation relaxation for promotion reservation may be provided.",
+        "M. Nagaraj (2006) → promotion-enabling provisions with constitutional conditions.",
+        "Jarnail Singh (2018) → modifies data rule and applies creamy-layer logic."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 335",
+            "SC/ST claims in Union/State services maintenance of administrative efficiency."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "82ND AMENDMENT PROVISO qualifying-mark/evaluation relaxation for promotion reservation may be provided.",
+            "M. Nagaraj (2006) → promotion-enabling provisions with constitutional conditions."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Jarnail Singh (2018) → modifies data rule and applies creamy-layer logic.",
+            "Art 335 is not a fixed quota or the source of OBC/EWS reservation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 335",
+            "SC/ST claims in Union/State services maintenance of administrative efficiency."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Evidence-based sub-classification requires inadequate representation or unequal benefit capture, preservation of class integrity and continuing judicial review.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COMMISSIONS, UNION CONTROL AND WELFARE GRANTS",
+      "structural_type": "safeguard-institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMMISSIONS, UNION CONTROL AND WELFARE GRANTS",
+          "role": "primary"
+        },
+        {
+          "text": "ART 338",
+          "role": "outcome"
+        },
+        {
+          "text": "ART 338A",
+          "role": "comparison"
+        },
+        {
+          "text": "ART 338B",
+          "role": "evidence"
+        },
+        {
+          "text": "REPORTS + COMPLAINTS + SAFEGUARDS + CIVIL-COURT INQUIRY POWERS",
+          "role": "institution"
+        },
+        {
+          "text": "ADVICE, NOT BINDING JUDGMENT.",
+          "role": "caution"
+        },
+        {
+          "text": "ART 339",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENTIAL COMMISSION + UNION DIRECTIONS ON SCHEDULED AREAS/ST WELFARE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ART 338 → NCSC",
+        "ART 338A → NCST",
+        "ART 338B → NCBC.",
+        "reports + complaints + safeguards + civil-court inquiry powers → advice, not binding judgment.",
+        "ART 339"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ART 338 → NCSC",
+            "ART 338A → NCST",
+            "ART 338B → NCBC."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "reports + complaints + safeguards + civil-court inquiry powers → advice, not binding judgment.",
+            "ART 339",
+            "Presidential commission + Union directions on Scheduled Areas/ST welfare."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ART 340 temporary backward-class investigation commission.",
+            "ART 275 specified ST welfare/Scheduled Area grant route.",
+            "TRAP commission power != court"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "fiscal grant != list alteration."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Civil-court powers during investigation do not make recommendations binding or convert the commissions into courts.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LIST SPECIFICATION AND THE 102ND-105TH AMENDMENT SEQUENCE",
+      "structural_type": "list-federalism-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LIST SPECIFICATION AND THE 102ND-105TH AMENDMENT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTS 341",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENT SPECIFIES STATE/UT SC/ST LIST",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT INCLUDES/EXCLUDES.",
+          "role": "evidence"
+        },
+        {
+          "text": "102ND AMENDMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTS 338B + 342A",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL NCBC/CENTRAL LIST ARCHITECTURE.",
+          "role": "comparison"
+        },
+        {
+          "text": "JAISHRI LAXMANRAO PATIL (2021) INTERPRETS THE PRE-105TH TEXT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTS 341 / 342",
+        "President specifies State/UT SC/ST list → Parliament includes/excludes.",
+        "102ND AMENDMENT",
+        "Arts 338B + 342A → constitutional NCBC/Central List architecture.",
+        "Jaishri Laxmanrao Patil (2021) interprets the pre-105th text."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTS 341 / 342",
+            "President specifies State/UT SC/ST list → Parliament includes/excludes.",
+            "102ND AMENDMENT"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Arts 338B + 342A → constitutional NCBC/Central List architecture.",
+            "Jaishri Laxmanrao Patil (2021) interprets the pre-105th text.",
+            "105TH AMENDMENT"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Central List for Central purposes",
+            "State/UT list by law for own purposes.",
+            "State SEBC list power != State power to alter SC/ST lists."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Arts 338B + 342A → constitutional NCBC/Central List architecture."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The decision does not command every State to sub-classify or authorise exclusion that destroys the protected class.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SUB-CLASSIFICATION, LOCAL BODIES AND OWNER BOUNDARIES",
+      "structural_type": "subclassification-boundary",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SUB-CLASSIFICATION, LOCAL BODIES AND OWNER BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "E.V. CHINNAIAH V. STATE OF ANDHRA PRADESH (2004) EARLIER",
+          "role": "institution"
+        },
+        {
+          "text": "V OVERRULED",
+          "role": "comparison"
+        },
+        {
+          "text": "DAVINDER SINGH (2024) EVIDENCE-BASED DISTRIBUTION WITHIN NOTIFIED SC CLASS",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDARY SUB-CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION/EXCLUSION UNDER ART 341.",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTS 243D/243T",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "E.V. Chinnaiah v. State of Andhra Pradesh (2004) earlier rule against SC sub-classification.",
+        "v overruled",
+        "Davinder Singh (2024) evidence-based distribution within notified SC class may be designed.",
+        "BOUNDARY sub-classification != inclusion/exclusion under Art 341.",
+        "LOCAL BODY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "E.V. Chinnaiah v. State of Andhra Pradesh (2004) earlier rule against SC sub-classification.",
+            "v overruled"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Davinder Singh (2024) evidence-based distribution within notified SC class may be designed.",
+            "BOUNDARY sub-classification != inclusion/exclusion under Art 341."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCAL BODY",
+            "Arts 243D/243T → separate reservation route."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "AREA ADMINISTRATION / SCHEMES exact Schedule, statute, budget or policy controls.",
+            "E.V. Chinnaiah v. State of Andhra Pradesh (2004) earlier rule against SC sub-classification."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Davinder Singh (2024) permits evidence-based sub-classification within a notified Scheduled Caste group, while list alteration remains with the Article 341 constitutional process.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: IDENTIFY THE EXACT CONSTITUTIONAL TECHNIQUE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY THE EXACT CONSTITUTIONAL TECHNIQUE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "comparison"
+        },
+        {
+          "text": "330/332 SEATS",
+          "role": "evidence"
+        },
+        {
+          "text": "334 CLOCK",
+          "role": "primary"
+        },
+        {
+          "text": "335 SERVICES",
+          "role": "outcome"
+        },
+        {
+          "text": "338-SERIES COMMISSIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "339 CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "330/332 seats",
+        "334 clock",
+        "335 services",
+        "338-series commissions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "330/332 seats",
+            "334 clock",
+            "335 services"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "338-series commissions",
+            "339 control",
+            "340 inquiry",
+            "341/342/342A lists"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "275 grant cross-link.",
+            "MAINS SPINE architecture → representation → time/activation → services",
+            "safeguards → list federalism → Davinder boundary → owner-scope conclusion.",
+            "PYQ ROUTE"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 335",
+            "women's reservation",
+            "constitutional NCBC.",
+            "VERDICT substantive equality uses distinct constitutional tools with distinct legal effects."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Commission inquiry powers do not become adjudication, expired transitions do not remain current benefits, and list status alone does not establish entitlement.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RECOGNITION THROUGH ARTS 341, 342 AND 342A",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRESENTATION THROUGH ARTS 330–334A; AND",
+          "role": "comparison"
+        },
+        {
+          "text": "OVERSIGHT/CLAIMS THROUGH ARTS 335 AND 338–340.",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS FILE ADDS ANALYTICAL DEPTH WITHOUT REPLACING SPECIALIST COMMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "REDISTRIBUTIVE OUTCOMES, HOWEVER, ALSO DEPEND ON ARTS 15–16, LEGISLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS EXPLAINS WHY LIST STATUS DOES NOT ITSELF DETERMINE",
+          "role": "caution"
+        },
+        {
+          "text": "FEDERAL DIFFERENTIATION SC/ST LIST ALTERATION REMAINS PARLIAMENTARY UNDER ARTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "recognition through Arts 341, 342 and 342A;",
+            "representation through Arts 330–334A; and",
+            "oversight/claims through Arts 335 and 338–340.",
+            "This file adds analytical depth without replacing specialist commission, reservation-doctrine or Scheduled-Area owners."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Redistributive outcomes, however, also depend on Arts 15–16, legislation, budget, delimitation, service rules and welfare programmes.",
+            "This explains why list status does not itself determine the kind or quantum of benefit.",
+            "Federal differentiation SC/ST list alteration remains parliamentary under Arts 341–342.",
+            "SEBC architecture is expressly dual after the 105th Amendment: a Central List for Central purposes and State/UT lists for their purposes."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Federal differentiation may improve local responsiveness but demands transparent criteria and reliable data.",
+            "Sub-classification after Davinder Singh (2024) The constitutional issue is distribution within a notified class, not list alteration.",
+            "Duration and democratic renewal Repeated Article 334 extensions show that political reservation is constitutionally time-framed but periodically renewed",
+            "through amendment."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

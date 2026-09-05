@@ -1,0 +1,180 @@
+ASCII MASTER FLOW — PANEL 1/9: Compare functions and contexts, not country labels
+ROOT QUESTION
+Why does the same constitutional institution behave differently after transplantation?
+
+COMPARATIVE METHOD
+function -> source model -> Indian text -> social/federal context
+-> judicial interpretation -> political practice -> consequence.
+
+AXES
+codification/rigidity | executive-legislative relation | federal distribution
+| rights/remedies | courts | amendment | emergency | elections | accountability.
+
+TRAP
+"borrowed from" without adaptation and purpose is a memory list, not constitutional analysis.
+
+ASCII MASTER FLOW — PANEL 2/9: Written, unwritten, rigid and flexible constitutional forms
+UK
+uncodified: statutes + common law + conventions + authoritative practice;
+politically flexible under parliamentary sovereignty.
+
+USA
+codified, supreme and comparatively rigid.
+
+INDIA
+codified and supreme; amendment routes range from simple majority
+to special majority and State ratification.
+
+SOUTH AFRICA / GERMANY
+written transformative/post-authoritarian constitutions with entrenched principles.
+
+CONTROL
+written != rigid; unwritten != lawless; flexibility and supremacy are separate variables.
+
+ASCII MASTER FLOW — PANEL 3/9: Parliamentary, presidential and semi-presidential executives
+INDIA / UK
+parliamentary fusion | collective responsibility | confidence | nominal/formal head distinction.
+
+USA
+presidential separation | fixed tenure | separately elected executive | legislative checks.
+
+FRANCE
+semi-presidential dual executive | directly elected President | responsible Prime Minister
+| cohabitation when parliamentary majority differs.
+
+GERMANY
+constructive vote of no confidence strengthens parliamentary stability.
+
+SWITZERLAND
+collegial Federal Council and direct-democratic context.
+
+TRAP
+Indian President != US President; parliamentary fusion != absence of checks.
+
+ASCII MASTER FLOW — PANEL 4/9: Federal, unitary and hybrid design with upper houses
+USA
+coordinate federalism | State equality in Senate | dual citizenship/court features.
+
+CANADA
+federal with strong-centre and residuary federal power influences.
+
+AUSTRALIA
+federal division + strong elected Senate + concurrent/trade inspirations.
+
+INDIA
+Union/State/Concurrent Lists | Union residuary power | single citizenship
+| integrated judiciary | emergency centralisation | asymmetry.
+
+UPPER HOUSES
+Rajya Sabha population-weighted, indirectly elected and unequal;
+US Senate State-equal and appointment-confirming;
+German Bundesrat represents Land governments.
+
+TRAP
+bicameral label does not imply identical federal representation.
+
+ASCII MASTER FLOW — PANEL 5/9: Supremacy, judicial review and constitutional courts
+UK
+parliamentary sovereignty with rights and devolution qualifications.
+
+USA
+written supremacy + diffuse judicial review through ordinary courts.
+
+GERMANY
+specialised Federal Constitutional Court.
+
+INDIA
+Supreme Court + High Courts exercise diffuse review, writs and federal adjudication;
+Parliament remains Constitution-limited.
+
+CASES
+Kesavananda Bharati (1973) -> basic structure.
+Minerva Mills (1980) -> limited amendment and FR-DPSP harmony.
+First Judges Case (1981) -> initial executive primacy.
+Second Judges Case (1993) -> collegium and judicial primacy.
+Third Judges Case (1998) -> collegium consultation enlarged.
+Fourth Judges Case (2015) -> judicial-independence control of NJAC.
+S.R. Bommai (1994) -> federalism and secularism as basic-structure controls.
+
+TRAP
+Indian judicial review is not borrowed as an unlimited US copy.
+
+ASCII MASTER FLOW — PANEL 6/9: Rights, due process and socio-economic directives
+USA
+rights tradition + due process + strong judicial enforcement.
+
+INDIA
+Fundamental Rights + Article 32/226 remedies
++ Directive Principles + duties + reasonable-restriction architecture.
+
+IRELAND
+directive-principle inspiration, adapted to Indian transformative governance.
+
+SOUTH AFRICA
+express justiciable socio-economic rights and proportionality context.
+
+JAPAN / INDIA
+"procedure established by law" textual influence.
+Maneka Gandhi (1978) adds fairness, non-arbitrariness and reasonableness.
+
+TRAP
+Indian DPSPs are not operationally identical to Ireland;
+procedure is not post-Maneka Gandhi (1978) formalism.
+
+ASCII MASTER FLOW — PANEL 7/9: Amendment, emergency and electoral design
+AMENDMENT
+UK political flexibility | USA high rigidity | India multi-track Article 368
+| Germany eternity clause | Switzerland referendum routes.
+
+INDIAN CONTROL
+Kesavananda Bharati (1973) basic structure;
+I.R. Coelho (2007) post-1973 Ninth Schedule review.
+
+EMERGENCY
+India: Articles 352/356/360 with 44th-Amendment safeguards and review.
+Germany: post-authoritarian safeguards.
+France: distinct presidential emergency design.
+
+ELECTIONS
+India/UK FPTP legislatures | US electoral college Presidency
+| France two-round Presidency | Germany mixed-member
+| Switzerland referendums/initiatives.
+
+TRAP
+electoral system follows office and party-system context; no model is universally superior.
+
+ASCII MASTER FLOW — PANEL 8/9: Secularism and accountability institutions
+SECULARISM
+India: principled engagement, equality and reform.
+USA: non-establishment + free exercise.
+France: laicite and republican public sphere.
+Germany: cooperative church-State arrangements.
+
+ACCOUNTABILITY
+India CAG: constitutional Westminster adaptation.
+Lokpal: statutory ombudsman, not constitutional court.
+Finance Commission: periodic expert federal-transfer body.
+ECI: central constitutional election management.
+
+COMPARATIVE LESSON
+appointment, jurisdiction, remedy and political context matter more than institutional label.
+
+ASCII MASTER FLOW — PANEL 9/9: India's hybrid adaptation and UPSC synthesis
+INDIAN HYBRID
+British responsible government + written supremacy
+| US rights/review + Canadian strong-centre federation
+| Irish directives + Australian federal techniques
+| German emergency lessons + South African transformative comparison.
+
+PRELIMS FIREWALL
+uncodified != unwritten | parliamentary != legislative supremacy in India
+| federal != equal upper-house seats | President titles != powers
+| borrowed != copied | DPSP != enforceable right | Rajya Sabha != US Senate.
+
+MAINS MATRIX
+design -> commonality -> difference -> reason -> consequence -> qualification.
+
+VERDICT
+India's Constitution is original in synthesis: foreign techniques were re-engineered
+for democratic responsibility, social transformation, federal diversity
+and judicially limited power.

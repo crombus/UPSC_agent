@@ -1,0 +1,147 @@
+ASCII MASTER FLOW — PANEL 1/9: Article 39A and the legal-services ladder
+ROOT QUESTION
+How can justice become affordable and proximate without sacrificing fairness?
+
+ARTICLE 39A
+equal-opportunity legal system + free legal aid.
+
+1987 ACT LADDER
+NALSA -> State Authority -> High Court Committee
+-> District Authority -> Taluk Committee.
+
+ARTICLE 21 LINK
+Hussainara Khatoon (1979) -> legal aid and speedy justice support fair procedure.
+
+TRAP
+Directive Principle anchor != direct creation of every forum.
+
+ASCII MASTER FLOW — PANEL 2/9: Ordinary Lok Adalat: compromise is the jurisdictional core
+PENDING CASE / PRE-LITIGATION MATTER
+        |
+        v
+conciliation + justice/equity/fair play
+   +----+----+
+   |         |
+settlement  no settlement
+   |         |
+award       pending case returns / normal remedy continues.
+
+State of Punjab v. Jalour Singh (2008)
+ordinary Lok Adalat cannot adjudicate merits.
+
+NON-COMPOUNDABLE OFFENCE -> excluded.
+
+ASCII MASTER FLOW — PANEL 3/9: Award finality, consent and limited control
+GENUINE COMPROMISE
+        |
+        v
+award -> deemed civil-court decree -> final and binding -> no statutory appeal.
+
+COURT FEE
+refund route for referred case under governing law.
+
+LIMITED CONSTITUTIONAL CONTROL
+fraud | no genuine consent | jurisdictional defect | natural-justice failure.
+
+Afcons Infrastructure v. Cherian Varkey Construction (2010) -> structured ADR referral guidance.
+
+TRAP
+finality does not create consent or jurisdiction.
+
+ASCII MASTER FLOW — PANEL 4/9: Permanent Lok Adalat: public-utility hybrid
+PRE-LITIGATION PUBLIC-UTILITY DISPUTE
+        |
+        v
+PLA conciliation
+   +----+----+
+settlement  failure
+   |         |
+award       eligible merits decision within statute.
+
+InterGlobe Aviation v. N. Satchidanand (2011) -> ordinary/PLA distinction.
+Bar Council of India v. Union of India (2012) -> PLA design upheld.
+Canara Bank v. G.S. Jayarama (2022) -> conciliation then limited adjudication.
+
+LIMIT
+sector + offence bar + current notified pecuniary scope.
+
+ASCII MASTER FLOW — PANEL 5/9: Operational Lok Adalat forms and digital access
+NATIONAL | MEGA | MOBILE | CONTINUOUS/DAILY | E-LOK ADALAT
+        |
+administrative mode, scale, mobility or technology
+        |
+underlying ordinary/PLA legal character remains unchanged.
+
+DIGITAL TEST
+identity + private communication + language + disability access
++ document access + offline alternative.
+
+TRAP
+online format does not authorise compelled settlement.
+
+ASCII MASTER FLOW — PANEL 6/9: Gram Nyayalaya: doorstep court with appellate safeguards
+GRAM NYAYALAYAS ACT 2008
+State establishment + High Court consultation.
+
+NYAYADHIKARI
+qualified as Judicial Magistrate First Class.
+
+JURISDICTION
+scheduled civil/criminal matters -> local/mobile sittings -> flexible procedure.
+
+APPEAL
+criminal -> Sessions Court | civil -> District Court, subject to exceptions.
+
+TRAP
+Gram Nyayalaya != Panchayat | khap | mediation camp | Lok Adalat.
+
+ASCII MASTER FLOW — PANEL 7/9: Family, Commercial, Fast Track, Special and evening courts
+FAMILY COURT
+1984 Act -> adjudication + settlement + privacy.
+
+COMMERCIAL COURT
+2015 Act -> specified-value commercial disputes + case management.
+
+FAST TRACK / EVENING COURT
+capacity or scheduling design under ordinary judicial authority.
+
+SPECIAL COURT
+exact parent statute -> subject/person/offence jurisdiction.
+
+Patil Automation v. Rakheja Engineers (2022)
+commercial pre-institution mediation mandatory absent statutory urgent-relief exception.
+
+TRAP
+label != constitutional status or common appeal route.
+
+ASCII MASTER FLOW — PANEL 8/9: Mediation, tribunals and fairness reform
+MEDIATION ACT 2023
+neutral facilitation -> party-made settlement; verify commencement/rules.
+
+TRIBUNAL
+specialised statutory adjudication + constitutional review.
+
+COURT
+authoritative judicial hierarchy and appeal.
+
+REFORM TEST
+cost + time + consent quality + advice + staff + reasons
++ digital inclusion + compliance + review.
+
+VERDICT
+forum must match dispute; disposal volume alone is not justice.
+
+ASCII MASTER FLOW — PANEL 9/9: UPSC synthesis: access with consent, competence and review
+PRELIMS FIREWALL
+Art 39A | 1987 Act | ordinary compromise-only | PLA public-utility hybrid
+| deemed decree/finality | Gram/Family statutory courts | forms != new courts.
+
+MAINS SPINE
+anchor -> ladder -> ordinary process -> PLA distinction -> other courts
+-> mediation/tribunal firewall -> fairness/digital implementation -> reform.
+
+PYQ ROUTE
+legal-aid eligibility | NALSA | Lok Adalats versus arbitration.
+
+CONCLUSION
+access is constitutional only when proximity is joined to voluntariness and legality.

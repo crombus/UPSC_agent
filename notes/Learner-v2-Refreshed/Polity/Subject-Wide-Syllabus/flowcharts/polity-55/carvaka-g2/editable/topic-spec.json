@@ -1,0 +1,976 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-55",
+  "subject": "Polity",
+  "title": "CONSTITUTIONAL INTERPRETATION DOCTRINES",
+  "short_route": "INTERPRETIVE METHOD: FROM TEXT → ARTICLE 13 REMEDIES: SEVERABILITY → LEGISLATIVE COMPETENCE: TRUE FIELD → ARTICLE 254: OCCUPIED FIELD → MEANING, AMENDMENT AND INVALIDITY → EQUALITY REVIEW: PRESUMPTION, ARBITRARINESS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-55-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "298eb480061c1fea385d71e72565ea55a75d00eb94813ff330b031179c1076a6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INTERPRETIVE METHOD: FROM TEXT TO DISCIPLINED CONSTITUTIONAL MEANING",
+      "structural_type": "interpretive-method-root",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INTERPRETIVE METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "FROM TEXT TO DISCIPLINED CONSTITUTIONAL MEANING",
+          "role": "outcome"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW DOES A COURT DERIVE MEANING WITHOUT BECOMING A",
+          "role": "institution"
+        },
+        {
+          "text": "ENACTED WORDS AND CONTEXT.",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONAL/FEDERAL RELATIONSHIPS.",
+          "role": "outcome"
+        },
+        {
+          "text": "FRAMING PROBLEM AND BACKGROUND.",
+          "role": "comparison"
+        },
+        {
+          "text": "EFFECTIVE CONSTITUTIONAL OBJECT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How does a court derive meaning without becoming a constituent legislature?",
+        "TEXTUAL → enacted words and context.",
+        "STRUCTURAL → institutional/federal relationships.",
+        "HISTORICAL → framing problem and background."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How does a court derive meaning without becoming a constituent legislature?"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TEXTUAL → enacted words and context.",
+            "STRUCTURAL → institutional/federal relationships."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "HISTORICAL → framing problem and background.",
+            "PURPOSIVE → effective constitutional object."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PRECEDENT → binding ratio + bench strength.",
+            "CONTROL provision → trigger → test → case-year → effect → limit → remedy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional interpretation moves from text through structure, purpose, history and precedent, constraining judicial choice before any named doctrine is applied.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 13 REMEDIES: SEVERABILITY, ECLIPSE AND WAIVER",
+      "structural_type": "invalidity-remedy-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLE 13 REMEDIES",
+          "role": "institution"
+        },
+        {
+          "text": "SEVERABILITY, ECLIPSE AND WAIVER",
+          "role": "outcome"
+        },
+        {
+          "text": "R.M.D. CHAMARBAUGWALA V. UNION OF INDIA (1957)",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARABLE INVALID PART FALLS; WORKABLE INTENDED REMAINDER SURVIVES.",
+          "role": "evidence"
+        },
+        {
+          "text": "BHIKAJI NARAIN DHAKRAS (1955)",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-CONSTITUTION LAW DORMANT TO INCONSISTENCY, NOT REPEALED.",
+          "role": "caution"
+        },
+        {
+          "text": "BASHESHAR NATH (1958)",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT CANNOT VALIDATE UNCONSTITUTIONAL STATE ACTION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "R.M.D. Chamarbaugwala v. Union of India (1957)",
+        "separable invalid part falls; workable intended remainder survives.",
+        "Bhikaji Narain Dhakras (1955)",
+        "pre-Constitution law dormant to inconsistency, not repealed.",
+        "Basheshar Nath (1958)"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "R.M.D. Chamarbaugwala v. Union of India (1957)",
+          "Bhikaji Narain Dhakras (1955)",
+          "Basheshar Nath (1958)",
+          "TRAP parts"
+        ],
+        [
+          "separable invalid part falls; workable intended remainder survives.",
+          "pre-Constitution law dormant to inconsistency, not repealed.",
+          "consent cannot validate unconstitutional State action.",
+          "consent are three different questions."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "R.M.D. Chamarbaugwala v. Union of India (1957)",
+            "separable invalid part falls; workable intended remainder survives."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Bhikaji Narain Dhakras (1955)",
+            "pre-Constitution law dormant to inconsistency, not repealed."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Basheshar Nath (1958)",
+            "consent cannot validate unconstitutional State action."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP parts",
+            "consent are three different questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Severability preserves a workable valid remainder; courts do not rewrite the legislative scheme.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LEGISLATIVE COMPETENCE: TRUE FIELD BEFORE CONFLICT",
+      "structural_type": "competence-decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEGISLATIVE COMPETENCE",
+          "role": "primary"
+        },
+        {
+          "text": "TRUE FIELD BEFORE CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAFULLA KUMAR MUKHERJEE (1947)",
+          "role": "comparison"
+        },
+        {
+          "text": "PITH AND SUBSTANCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE OF BOMBAY V. F.N. BALSARA (1951)",
+          "role": "institution"
+        },
+        {
+          "text": "INCIDENTAL/ANCILLARY REACH.",
+          "role": "outcome"
+        },
+        {
+          "text": "K.C. GAJAPATI NARAYAN DEO (1953)",
+          "role": "comparison"
+        },
+        {
+          "text": "COLOURABLE COMPETENCE, NOT MOTIVE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Prafulla Kumar Mukherjee (1947) → pith and substance.",
+        "State of Bombay v. F.N. Balsara (1951) → incidental/ancillary reach.",
+        "K.C. Gajapati Narayan Deo (1953) → colourable competence, not motive.",
+        "STATE EXTRA-TERRITORIAL EFFECT",
+        "State of Bombay v. R.M.D. Chamarbaugwala (1957) → real territorial nexus."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Prafulla Kumar Mukherjee (1947) → pith and substance.",
+            "State of Bombay v. F.N. Balsara (1951) → incidental/ancillary reach."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "K.C. Gajapati Narayan Deo (1953) → colourable competence, not motive.",
+            "STATE EXTRA-TERRITORIAL EFFECT"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "State of Bombay v. R.M.D. Chamarbaugwala (1957) → real territorial nexus.",
+            "SEQUENCE entry → true nature/effect → incidental overlap → disguise → nexus."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP do not jump to Article 254 before identifying the field.",
+            "Prafulla Kumar Mukherjee (1947) → pith and substance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Legislative competence begins with the enacting legislature and constitutional field, then applies pith and substance, ancillary power, territorial nexus or repugnancy as required.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARTICLE 254: OCCUPIED FIELD, REPUGNANCY AND ASSENT",
+      "structural_type": "repugnancy-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ARTICLE 254",
+          "role": "institution"
+        },
+        {
+          "text": "OCCUPIED FIELD, REPUGNANCY AND ASSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME CONCURRENT FIELD?",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTUAL CONFLICT",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPOSSIBLE OBEDIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "INTENDED COMPLETE COVERAGE?",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEP CHAND V. STATE OF UTTAR PRADESH (1959)",
+          "role": "institution"
+        },
+        {
+          "text": "M. KARUNANIDHI V. UNION OF INDIA (1979)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAME CONCURRENT FIELD?",
+        "actual conflict / impossible obedience / intended complete coverage?",
+        "Deep Chand v. State of Uttar Pradesh (1959)",
+        "M. Karunanidhi v. Union of India (1979)",
+        "Union law prevails; State law void to extent of conflict."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SAME CONCURRENT FIELD?",
+            "actual conflict / impossible obedience / intended complete coverage?"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Deep Chand v. State of Uttar Pradesh (1959)",
+            "M. Karunanidhi v. Union of India (1979)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Union law prevails; State law void to extent of conflict.",
+            "Presidential assent → State law may prevail in that State."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Parliament may later override.",
+            "TRAP assent cannot cure lack of State competence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Occupied field is an inference that Parliament intended its law to cover the relevant Concurrent field so completely that inconsistent State supplementation cannot co-exist.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MEANING, AMENDMENT AND INVALIDITY BOUNDARIES",
+      "structural_type": "meaning-remedy-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MEANING, AMENDMENT AND INVALIDITY BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "HARMONIOUS CONSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "IN RE KERALA EDUCATION BILL (1958)",
+          "role": "comparison"
+        },
+        {
+          "text": "RECONCILE MEANINGFUL OPERATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "READING DOWN",
+          "role": "primary"
+        },
+        {
+          "text": "KEDAR NATH SINGH (1962)",
+          "role": "outcome"
+        },
+        {
+          "text": "CHOOSE TEXTUALLY AVAILABLE VALID MEANING.",
+          "role": "comparison"
+        },
+        {
+          "text": "PROSPECTIVE OVERRULING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HARMONIOUS CONSTRUCTION",
+        "In re Kerala Education Bill (1958) → reconcile meaningful operation.",
+        "READING DOWN",
+        "Kedar Nath Singh (1962) → choose textually available valid meaning.",
+        "PROSPECTIVE OVERRULING"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "HARMONIOUS CONSTRUCTION",
+          "Kedar Nath Singh (1962) → choose textually available valid meaning.",
+          "BASIC STRUCTURE",
+          "LIMIT interpretation != amendment != judicial policy code."
+        ],
+        [
+          "In re Kerala Education Bill (1958) → reconcile meaningful operation.",
+          "PROSPECTIVE OVERRULING",
+          "Kesavananda Bharati (1973) + Minerva Mills (1980)",
+          ""
+        ],
+        [
+          "READING DOWN",
+          "I.C. Golaknath (1967) → expressly shape temporal effect.",
+          "Article 368 cannot damage constitutional identity.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "HARMONIOUS CONSTRUCTION",
+            "In re Kerala Education Bill (1958) → reconcile meaningful operation.",
+            "READING DOWN"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Kedar Nath Singh (1962) → choose textually available valid meaning.",
+            "PROSPECTIVE OVERRULING",
+            "I.C. Golaknath (1967) → expressly shape temporal effect."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BASIC STRUCTURE",
+            "Kesavananda Bharati (1973) + Minerva Mills (1980)",
+            "Article 368 cannot damage constitutional identity."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT interpretation != amendment != judicial policy code."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "State of Kerala (1973) holds that Parliament's Art 368 power is wide but cannot damage the Constitution's basic structure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EQUALITY REVIEW: PRESUMPTION, ARBITRARINESS AND PROPORTIONALITY",
+      "structural_type": "rights-review-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EQUALITY REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "PRESUMPTION, ARBITRARINESS AND PROPORTIONALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RAM KRISHNA DALMIA (1958)",
+          "role": "comparison"
+        },
+        {
+          "text": "REBUTTABLE PRESUMPTION/CLASSIFICATION DISCIPLINE.",
+          "role": "evidence"
+        },
+        {
+          "text": "E.P. ROYAPPA (1973)",
+          "role": "primary"
+        },
+        {
+          "text": "ARBITRARINESS AND EQUALITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "SHAYARA BANO V. UNION OF INDIA (2017)",
+          "role": "comparison"
+        },
+        {
+          "text": "MANIFEST ARBITRARINESS OF LEGISLATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Ram Krishna Dalmia (1958) → rebuttable presumption/classification discipline.",
+        "E.P. Royappa (1973) → arbitrariness and equality.",
+        "Shayara Bano v. Union of India (2017) → manifest arbitrariness of legislation.",
+        "Modern Dental College (2016)",
+        "authority + aim + connection + necessity + balance."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Ram Krishna Dalmia (1958) → rebuttable presumption/classification discipline.",
+            "E.P. Royappa (1973) → arbitrariness and equality."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Shayara Bano v. Union of India (2017) → manifest arbitrariness of legislation.",
+            "Modern Dental College (2016)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "authority + aim + connection + necessity + balance.",
+            "K.S. Puttaswamy (2017) + Anuradha Bhasin (2020)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "structured rights justification in modern settings.",
+            "TRAP review justification; do not choose the court's preferred policy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The presumption is rebuttable and cannot cure lack of competence, explicit discrimination or a disproportionate rights restriction.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MORALITY, TRANSFORMATION AND RELIGIOUS-PRACTICE CAUTION",
+      "structural_type": "values-rights-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MORALITY, TRANSFORMATION AND RELIGIOUS-PRACTICE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "CONSTITUTIONAL MORALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NAVTEJ SINGH JOHAR V. UNION OF INDIA (2018)",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUAL CITIZENSHIP, DIGNITY AND ANTI-HIERARCHY THROUGH TEXT AND RIGHTS.",
+          "role": "evidence"
+        },
+        {
+          "text": "ESSENTIAL RELIGIOUS PRACTICES",
+          "role": "primary"
+        },
+        {
+          "text": "SHIRUR MUTT (1954)",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIGIOUS MATTER VERSUS REGULABLE SECULAR ACTIVITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN YOUNG LAWYERS ASSOCIATION (2018)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL MORALITY / TRANSFORMATION",
+        "Navtej Singh Johar v. Union of India (2018)",
+        "equal citizenship, dignity and anti-hierarchy through text and rights.",
+        "ESSENTIAL RELIGIOUS PRACTICES",
+        "Shirur Mutt (1954)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL MORALITY / TRANSFORMATION",
+            "Navtej Singh Johar v. Union of India (2018)",
+            "equal citizenship, dignity and anti-hierarchy through text and rights."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ESSENTIAL RELIGIOUS PRACTICES",
+            "Shirur Mutt (1954)",
+            "religious matter versus regulable secular activity."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Indian Young Lawyers Association (2018)",
+            "religion, equality, dignity and morality interaction.",
+            "LIMIT pending review/reference != decided doctrinal change constitutional morality != personal morality."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ESSENTIAL RELIGIOUS PRACTICES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional morality requires fidelity to the Constitution's text, procedures, equal citizenship and institutional role morality rather than social or personal morality.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NEIGHBOURING DOCTRINES, PRECEDENT AND JUDICIAL RESTRAINT",
+      "structural_type": "precedent-restraint-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NEIGHBOURING DOCTRINES, PRECEDENT AND JUDICIAL RESTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "SHAMSHER SINGH (1974)",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTS 310-311 + RESPONSIBLE GOVERNMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "NAVJYOTI COOPERATIVE GROUP HOUSING (1992)",
+          "role": "evidence"
+        },
+        {
+          "text": "MOTILAL PADAMPAT SUGAR MILLS (1978)",
+          "role": "primary"
+        },
+        {
+          "text": "FAIRNESS/RELIANCE, NO COMPELLED ILLEGALITY.",
+          "role": "caution"
+        },
+        {
+          "text": "CASUS OMISSUS",
+          "role": "comparison"
+        },
+        {
+          "text": "PADMA SUNDARA RAO (2002)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Shamsher Singh (1974) → Arts 310-311 + responsible government.",
+        "EXPECTATION / ESTOPPEL",
+        "Navjyoti Cooperative Group Housing (1992)",
+        "Motilal Padampat Sugar Mills (1978) → fairness/reliance, no compelled illegality.",
+        "CASUS OMISSUS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Shamsher Singh (1974) → Arts 310-311 + responsible government.",
+            "EXPECTATION / ESTOPPEL",
+            "Navjyoti Cooperative Group Housing (1992)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Motilal Padampat Sugar Mills (1978) → fairness/reliance, no compelled illegality.",
+            "CASUS OMISSUS",
+            "Padma Sundara Rao (2002) → genuine omission ordinarily left to legislature."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRECEDENT / ART 142",
+            "Supreme Court Bar Association (1998)",
+            "ratio + bench strength + proper reference; complete justice remains limited."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Motilal Padampat Sugar Mills (1978) → fairness/reliance, no compelled illegality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Neighbouring doctrines address tenure, expectation, reliance and textual omission differently, preventing conceptual similarity from collapsing distinct triggers and remedies.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: SELECT DOCTRINE BY TRIGGER AND LEGAL EFFECT",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "SELECT DOCTRINE BY TRIGGER AND LEGAL EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "comparison"
+        },
+        {
+          "text": "ART 13 VALIDITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTS 245-246 COMPETENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ART 254 CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "ART 368 AMENDMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ART 141 PRECEDENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "Art 13 validity",
+        "Arts 245-246 competence",
+        "Art 254 conflict",
+        "Art 368 amendment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "Art 13 validity",
+            "Arts 245-246 competence",
+            "Art 254 conflict"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Art 368 amendment",
+            "Art 141 precedent",
+            "Art 142 case-bound complete justice.",
+            "MAINS SPINE method → trigger → doctrine sequence → case + decision year"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "legal effect → limitation → calibrated remedy.",
+            "PYQ ROUTE federal supremacy/harmony",
+            "constitutional morality",
+            "basic structure amendments responding to judgments"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "judicial independence/accountability.",
+            "CONCLUSION doctrine is disciplined reasoning, not a case-name dump or judicial sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional doctrines organise recurring judicial tests for meaning, competence, invalidity and remedy, but are not free-standing constitutional provisions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFIES ENACTED TEXT AND BINDING PRECEDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLAINS THE DOCTRINAL TRIGGER",
+          "role": "comparison"
+        },
+        {
+          "text": "GIVES REASONS FOR THE STANDARD OF REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINGUISHES INTERPRETATION FROM POLICY CHOICE",
+          "role": "primary"
+        },
+        {
+          "text": "CHOOSES A REMEDY NO BROADER THAN NECESSARY; AND",
+          "role": "caution"
+        },
+        {
+          "text": "LEAVES GENUINE LEGISLATIVE GAPS TO THE COMPETENT INSTITUTION UNLESS",
+          "role": "institution"
+        },
+        {
+          "text": "THE CORE DOCTRINE ATLAS IS INDEPENDENTLY SUFFICIENT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "identifies enacted text and binding precedent;",
+            "explains the doctrinal trigger;",
+            "gives reasons for the standard of review;",
+            "distinguishes interpretation from policy choice;"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "chooses a remedy no broader than necessary; and",
+            "leaves genuine legislative gaps to the competent institution unless an enforceable",
+            "The Core doctrine atlas is independently sufficient.",
+            "This file adds synthesis and criticism."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Standards of review Not every doctrine applies with equal intensity.",
+            "Classification review, manifest arbitrariness, proportionality and institutional-deference questions differ in trigger and burden.",
+            "An examiner should identify the right, nature of State action, evidence available, institutional competence and remedial consequence before",
+            "naming a standard."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

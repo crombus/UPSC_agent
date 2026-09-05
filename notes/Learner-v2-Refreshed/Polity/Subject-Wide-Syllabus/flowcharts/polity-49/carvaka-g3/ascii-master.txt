@@ -1,0 +1,193 @@
+ASCII MASTER FLOW — PANEL 1/12: Why the regulatory state emerged
+ROOT QUESTION
+How can the State govern complex markets and rights without daily ministerial case control?
+
+LIBERALISATION/SPECIALISATION
+less direct production -> more rule-setting, network access, prudential oversight
+-> consumer/competition protection -> specialised enforcement and adjudication.
+
++-- MARKET FAILURES ----- monopoly | information asymmetry | externality | systemic risk
++-- GOVERNANCE NEEDS ---- expertise | continuity | credible commitment | rapid updating
++-- CONSTITUTIONAL NEED - mandate | fairness | reasons | appeal | review | accountability
+
+VERDICT
+Regulation is a change in State technique, not disappearance of the State.
+
+ASCII MASTER FLOW — PANEL 2/12: Source, function and decisional character
+                         BODY / AUTHORITY
+              +--------------+---------------+----------------+
+              v              v               v
+LEGAL SOURCE             PRIMARY FUNCTION   CHARACTER OF ACT
+constitutional           regulatory         quasi-legislative rule
+statutory                advisory           administrative inquiry
+executive                investigative      quasi-judicial order
+
+EXAMPLES
+RBI/SEBI/TRAI/CERC/IRDAI/CCI -> statutory regulators with different mandates.
+
+MASTER TRAP
+one body may occupy several boxes; it is not quasi-judicial in every function.
+
+ASCII MASTER FLOW — PANEL 3/12: Regulatory cycle and separation problem
+PARENT ACT
+   v
+regulation/standard -> licence/tariff -> data/monitoring -> investigation
+   v
+show-cause notice -> hearing -> reasoned order/penalty -> statutory appeal
+   v
+High Court/Supreme Court constitutional review.
+
+CONCENTRATION RISK
+make rule + investigate + prosecute + decide -> confirmation bias/self-vindication.
+
+SAFEGUARDS
+separate wings | disclosure | unbiased member | recusal | reasons | external appeal.
+
+ANSWER STRIP
+Efficiency can justify combined functions; fairness requires functional separation.
+
+ASCII MASTER FLOW — PANEL 4/12: Natural justice and delegated-power cases
+In re Delhi Laws Act (1951)
+-> essential legislative function cannot be abdicated.
+             v
+A.K. Kraipak v. Union of India (1969)
+-> bias rule; administrative/quasi-judicial line is thin.
+             v
+Maneka Gandhi (1978) -> fair, just and reasonable procedure.
+             v
+S.N. Mukherjee v. Union of India (1990) -> reasoned decision supports review.
+
+NATURAL-JUSTICE CORE
+notice + hearing + no bias + relevant evidence + speaking order.
+
+LIMIT
+procedure is context-sensitive; statutory silence is not permission for arbitrariness.
+
+ASCII MASTER FLOW — PANEL 5/12: Regulator, tribunal, commission and court
+COURT
+general constitutional/statutory adjudication + formal judicial authority.
+
+TRIBUNAL
+specialised statutory adjudication -> merits appeal/review chain.
+
+REGULATOR
+sector rule/licence/supervision/enforcement + case-specific adjudication when empowered.
+
+COMMISSION
+name alone proves nothing: may advise, investigate, regulate or adjudicate.
+
+L. Chandra Kumar (1997)
+tribunalisation cannot remove High Court judicial review.
+
+TRAP
+specialised != tribunal | civil-court powers != court | recommendation != binding order.
+
+ASCII MASTER FLOW — PANEL 6/12: Regulator power, appealability and judicial control
+            Competition Commission of India v. SAIL (2010)
+-> statutory stage and character determine hearing/appealability;
+not every CCI step is a final quasi-judicial order.
+
+Cellular Operators Association of India v. TRAI (2016)
+-> regulation must remain within statute and satisfy non-arbitrariness.
+
+APPEAL CHAIN EXAMPLES
+SEBI -> SAT -> Supreme Court question of law.
+CCI -> NCLAT -> Supreme Court.
+TRAI dispute/appeal field -> TDSAT -> Supreme Court.
+CERC/SERC -> APTEL -> Supreme Court.
+
+LIMIT
+statutory merits appeal differs from Article 226/227 legality review.
+
+ASCII MASTER FLOW — PANEL 7/12: Independence, accountability and capture
+INDEPENDENCE AXES
+appointment | tenure | removal | finance | staff/data | decisional non-interference.
+
+CAPTURE BRANCHES
+industry -> information/revolving door/cognitive dependence.
+political -> short-term direction or insecure tenure.
+bureaucratic -> parent ministry treats regulator as subordinate office.
+
+ACCOUNTABILITY
+parent Act | Parliament/report | CAG where applicable | RTI
+| consultation | published reasons | appeal | judicial review.
+
+ANSWER STRIP
+Independence means insulation from case-specific control, not freedom from public reasons.
+
+ASCII MASTER FLOW — PANEL 8/12: Digital and platform regulation with legal-status firewall
+DIGITAL HARMS
+network effects | data concentration | self-preferencing | dark patterns
+| algorithmic opacity | consumer/child/cyber risk.
+
+                    TOOL CHOICE
+competition law --+-- data-protection duty
+consumer law -----+-- sector regulation
+cyber law --------+-- interoperability/access obligation.
+
+REFORM TEST
+clear harm -> statutory power -> impact assessment -> consultation
+-> conflict control -> proportionate rule -> appeal -> ex-post review.
+
+CURRENT FIREWALL
+dated Act/rule/order != draft Bill/committee paper/proposal.
+
+ASCII MASTER FLOW — PANEL 9/12: Enabling laws and appellate routes
+SOURCE -> REGULATOR -> APPEAL
+RBI Act 1934 / Banking Regulation Act 1949 -> RBI -> remedy depends on power
+SEBI Act 1992 -> SEBI -> SAT -> Supreme Court
+TRAI Act 1997 -> TRAI -> TDSAT -> Supreme Court
+Competition Act 2002 -> CCI -> NCLAT -> Supreme Court
+Electricity Act 2003 -> CERC/SERC -> APTEL -> Supreme Court
+PNGRB Act 2006 -> downstream/midstream field; crude oil/gas production excluded
+
+ANSWER STRIP
+Never infer power or appeal from an institutional label; trace the parent Act.
+
+ASCII MASTER FLOW — PANEL 10/12: Quasi-judicial decision protocol
+STATUTORY POWER -> COMPETENT STAGE -> NOTICE + DISCLOSURE
+-> OPPORTUNITY TO ANSWER -> NO BIAS / RECUSAL -> RELEVANT EVIDENCE
+-> REASONED PROPORTIONATE ORDER -> STATUTORY APPEAL
+-> CONSTITUTIONAL REVIEW ON ITS PROPER FIELD
+
+DOCTRINE
+A.K. Kraipak v. Union of India (1969): thin administrative/quasi-judicial line
+S.N. Mukherjee v. Union of India (1990): reasons support review
+L. Chandra Kumar (1997): constitutional review floor
+Competition Commission of India v. SAIL (2010): statutory stage controls appealability
+
+ANSWER STRIP
+Natural justice is context-sensitive, but expertise is not a licence for arbitrariness.
+
+ASCII MASTER FLOW — PANEL 11/12: PYQ execution and reform diagnosis
+PRELIMS
+source -> function -> jurisdiction exclusion -> appellate route -> current-status firewall
+
+MAINS
+identify demand -> qualified thesis -> statute/case -> mechanism
+-> limitation/capture -> answer-specific reform -> balanced verdict
+
+REFORM MATCH
+mandate gap -> clarify law | capacity gap -> staff/data
+bias risk -> functional separation | capture -> conflicts/consultation
+fragmentation -> referral protocol | weak remedy -> coherent appeal
+
+ANSWER STRIP
+A reform earns marks when it repairs the diagnosed institutional failure.
+
+ASCII MASTER FLOW — PANEL 12/12: UPSC synthesis: calibrated independence under law
+PRELIMS FIREWALL
+statutory != regulatory != quasi-judicial | dominance != abuse
+| NGT != CPCB | TRAI != TDSAT | CCI appeal=NCLAT
+| regulator independent != beyond Parliament | proposal != law.
+
+MAINS SPINE
+rationale -> three axes -> regulatory cycle -> natural justice
+-> institutional comparison -> appeal/review -> independence/capture
+-> digital boundary -> reform.
+
+PYQ SPINE
+NGT/CPCB | FSSAI source | CCI dominance | PNGRB jurisdiction.
+
+VERDICT
+expert regulation is legitimate only when mandate, fairness, reasons and review converge.

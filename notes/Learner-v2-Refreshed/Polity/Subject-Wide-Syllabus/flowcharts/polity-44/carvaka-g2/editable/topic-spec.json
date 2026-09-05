@@ -1,0 +1,955 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-44",
+  "subject": "Polity",
+  "title": "PRESSURE GROUPS",
+  "short_route": "INFLUENCE WITHOUT OFFICE: THE → TYPOLOGY FROM ASSOCIATIONAL TO → METHODS OF INFLUENCE: INSIDER → BUSINESS, LABOUR, FARMERS AND → ENVIRONMENTAL, COMMUNITY, ISSUE-BASED AND → CONSTITUTIONAL PROTEST SPACE AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-44-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "3dba915521f5d434835cdcabbefb0f35cc87c682afbe561f145683f7c69e41b0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INFLUENCE WITHOUT OFFICE: THE PRESSURE-GROUP STARTING POINT",
+      "structural_type": "definition-distinction-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INFLUENCE WITHOUT OFFICE",
+          "role": "primary"
+        },
+        {
+          "text": "THE PRESSURE-GROUP STARTING POINT",
+          "role": "outcome"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW CAN ORGANISED INTERESTS SHAPE POLICY WITHOUT BECOMING THE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESSURE GROUP ORGANISED OR NETWORKED INTEREST SEEKING POLICY INFLUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINGUISH PARTY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTESTS FOR OFFICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD SOCIAL TRANSFORMATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can organised interests shape policy without becoming the government?",
+        "PRESSURE GROUP organised or networked interest seeking policy influence, not public office.",
+        "DISTINGUISH party → contests for office.",
+        "movement → broad social transformation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can organised interests shape policy without becoming the government?",
+            "PRESSURE GROUP organised or networked interest seeking policy influence, not public office."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DISTINGUISH party → contests for office.",
+            "movement → broad social transformation.",
+            "NGO → formal service/research/advocacy entity."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "lobbyist → professional representative.",
+            "interest group → shared-interest articulation.",
+            "OVERLAP one body may occupy several forms; purpose and method decide the label."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DISTINGUISH party → contests for office."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Electioneering, lobbying and publicity remain legitimate only within constitutional limits, so technique alone does not determine democratic acceptability.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TYPOLOGY FROM ASSOCIATIONAL TO ANOMIC ACTION",
+      "structural_type": "pressure-group-typology",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TYPOLOGY FROM ASSOCIATIONAL TO ANOMIC ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "ASSOCIATIONAL FORMAL MEMBERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "BUSINESS, LABOUR, FARMER, PROFESSIONAL BODIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-ASSOCIATIONAL COMMUNITY, CASTE, KINSHIP, RELIGIOUS OR REGIONAL NETWORKS WITHOUT",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONAL INTERESTS VOICED FROM ESTABLISHED ORGANISATIONS, INCLUDING BUREAUCRATIC OR",
+          "role": "primary"
+        },
+        {
+          "text": "ANOMIC SPONTANEOUS, EPISODIC MOBILISATION, SOMETIMES DISRUPTIVE.",
+          "role": "outcome"
+        },
+        {
+          "text": "ISSUE FORMS ENVIRONMENTAL",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAP ANOMIC DESCRIBES ORGANISATION/METHOD, NOT A LICENCE FOR VIOLENCE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ASSOCIATIONAL formal membership: business, labour, farmer, professional bodies.",
+        "NON-ASSOCIATIONAL community, caste, kinship, religious or regional networks without stable formal structure.",
+        "INSTITUTIONAL interests voiced from established organisations, including bureaucratic or professional institutions.",
+        "ANOMIC spontaneous, episodic mobilisation, sometimes disruptive.",
+        "ISSUE FORMS environmental"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ASSOCIATIONAL formal membership: business, labour, farmer, professional bodies.",
+            "NON-ASSOCIATIONAL community, caste, kinship, religious or regional networks without stable formal structure."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INSTITUTIONAL interests voiced from established organisations, including bureaucratic or professional institutions.",
+            "ANOMIC spontaneous, episodic mobilisation, sometimes disruptive."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ISSUE FORMS environmental",
+            "TRAP anomic describes organisation/method, not a licence for violence."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ASSOCIATIONAL formal membership: business, labour, farmer, professional bodies.",
+            "NON-ASSOCIATIONAL community, caste, kinship, religious or regional networks without stable formal structure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Named organisations illustrate different pressure-group functions, but examples must not convert time-sensitive membership claims or partisan associations into universal classifications.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "METHODS OF INFLUENCE: INSIDER AND OUTSIDER ROUTES",
+      "structural_type": "method-spectrum-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "METHODS OF INFLUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "INSIDER AND OUTSIDER ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "INSIDER LOBBYING",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY REPRESENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPERT EVIDENCE CORPORATIST FORUM",
+          "role": "evidence"
+        },
+        {
+          "text": "DRAFT COMMENTS.",
+          "role": "outcome"
+        },
+        {
+          "text": "OUTSIDER PETITION",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTION SIGNALLING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INSIDER lobbying",
+        "ministry representation",
+        "expert evidence corporatist forum",
+        "draft comments.",
+        "OUTSIDER petition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INSIDER lobbying",
+            "ministry representation",
+            "expert evidence corporatist forum"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "draft comments.",
+            "OUTSIDER petition",
+            "election signalling"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSTITUTIONAL CHANNELS",
+            "Article 19 speech + peaceful assembly + association",
+            "Article 32 Supreme Court"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 226 High Court.",
+            "EFFECTIVENESS TEST access + organisation + numbers + expertise + public legitimacy + policy timing.",
+            "LIMIT peaceful influence is protected; coercion, violence and unlawful obstruction are not."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Business Associations — claim - evidence - analysis - qualification: Business associations supply expertise and organised representation but can enjoy unequal insider access.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BUSINESS, LABOUR, FARMERS AND PROFESSIONAL GROUPS",
+      "structural_type": "sector-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BUSINESS, LABOUR, FARMERS AND PROFESSIONAL GROUPS",
+          "role": "primary"
+        },
+        {
+          "text": "EXPERTISE, PRE-BUDGET INPUT, SECTOR LOBBYING.",
+          "role": "outcome"
+        },
+        {
+          "text": "LABOUR TRADE UNIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "BARGAINING, TRIPARTITE FORUMS, STRIKES, LABOUR-LAW ADVOCACY.",
+          "role": "evidence"
+        },
+        {
+          "text": "MSP REPRESENTATION, ELECTORAL PRESSURE, PROTEST.",
+          "role": "primary"
+        },
+        {
+          "text": "PROFESSIONAL BAR, MEDICAL AND OTHER ASSOCIATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "STANDARDS, EXPERT CONSULTATION, LITIGATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEQUAL ACCESS CAPITAL AND ORGANISED PROFESSIONS OFTEN POSSESS CONTINUOUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FICCI/CII/ASSOCHAM/NASSCOM → expertise, pre-Budget input, sector lobbying.",
+        "LABOUR trade unions → bargaining, tripartite forums, strikes, labour-law advocacy.",
+        "AIKS/BKU/Shetkari/SKM → MSP representation, electoral pressure, protest.",
+        "PROFESSIONAL bar, medical and other associations → standards, expert consultation, litigation.",
+        "UNEQUAL ACCESS capital and organised professions often possess continuous insider capacity"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FICCI/CII/ASSOCHAM/NASSCOM → expertise, pre-Budget input, sector lobbying.",
+          "AIKS/BKU/Shetkari/SKM → MSP representation, electoral pressure, protest.",
+          "UNEQUAL ACCESS capital and organised professions often possess continuous insider capacity",
+          "FICCI/CII/ASSOCHAM/NASSCOM → expertise, pre-Budget input, sector lobbying."
+        ],
+        [
+          "LABOUR trade unions → bargaining, tripartite forums, strikes, labour-law advocacy.",
+          "PROFESSIONAL bar, medical and other associations → standards, expert consultation, litigation.",
+          "informal labour and marginal farmers face collective-action barriers.",
+          "LABOUR trade unions → bargaining, tripartite forums, strikes, labour-law advocacy."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FICCI/CII/ASSOCHAM/NASSCOM → expertise, pre-Budget input, sector lobbying.",
+            "LABOUR trade unions → bargaining, tripartite forums, strikes, labour-law advocacy."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "AIKS/BKU/Shetkari/SKM → MSP representation, electoral pressure, protest.",
+            "PROFESSIONAL bar, medical and other associations → standards, expert consultation, litigation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNEQUAL ACCESS capital and organised professions often possess continuous insider capacity",
+            "informal labour and marginal farmers face collective-action barriers."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FICCI/CII/ASSOCHAM/NASSCOM → expertise, pre-Budget input, sector lobbying.",
+            "LABOUR trade unions → bargaining, tripartite forums, strikes, labour-law advocacy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FCRA tightening has constrained externally funded advocacy, but time-sensitive registration counts cannot establish the wider legitimacy of every pressure group.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ENVIRONMENTAL, COMMUNITY, ISSUE-BASED AND DIGITAL MOBILISATION",
+      "structural_type": "issue-group-network",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ENVIRONMENTAL, COMMUNITY, ISSUE-BASED AND DIGITAL MOBILISATION",
+          "role": "primary"
+        },
+        {
+          "text": "SILENT VALLEY",
+          "role": "outcome"
+        },
+        {
+          "text": "AWARENESS + RESEARCH + COMMUNITY MOBILISATION + CONSULTATION +",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE REPRESENTATION AND RECOGNITION <→ EXCLUSIONARY MOBILISATION RISK.",
+          "role": "caution"
+        },
+        {
+          "text": "RTI, CONSUMER, GENDER, DISABILITY AND ANTI-CORRUPTION NETWORKS.",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL RAPID AGENDA-SETTING + DISTRIBUTED PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "<→ MISINFORMATION + ASTROTURFING + PLATFORM OPACITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 GS-II ENVIRONMENTAL ADVOCACY IS DEMOCRATICALLY VALUABLE BUT REQUIRES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Silent Valley",
+        "awareness + research + community mobilisation + consultation + PIL.",
+        "COMMUNITY / CASTE representation and recognition <→ exclusionary mobilisation risk.",
+        "RTI, consumer, gender, disability and anti-corruption networks.",
+        "DIGITAL rapid agenda-setting + distributed participation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Silent Valley",
+            "awareness + research + community mobilisation + consultation + PIL."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMMUNITY / CASTE representation and recognition <→ exclusionary mobilisation risk.",
+            "RTI, consumer, gender, disability and anti-corruption networks."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIGITAL rapid agenda-setting + distributed participation",
+            "<→ misinformation + astroturfing + platform opacity."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2025 GS-II environmental advocacy is democratically valuable but requires evidence, representation and lawful funding.",
+            "Silent Valley"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Environmental groups make long-term ecological costs politically visible through research, litigation and mobilisation, but funding, representation and development trade-offs limit their reach.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CONSTITUTIONAL PROTEST SPACE AND JUDICIAL LIMITS",
+      "structural_type": "protest-rights-balance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL PROTEST SPACE AND JUDICIAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "DAMYANTI NARANGA V. UNION OF INDIA (1971) ASSOCIATION AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "RAMLILA MAIDAN INCIDENT (2012) PEACEFUL ASSEMBLY AND STATE RESPONSE",
+          "role": "institution"
+        },
+        {
+          "text": "MAZDOOR KISAN SHAKTI SANGATHAN V. UNION OF INDIA (2018)",
+          "role": "evidence"
+        },
+        {
+          "text": "AMIT SAHNI V. COMMISSIONER OF POLICE (2020) PUBLIC WAYS",
+          "role": "primary"
+        },
+        {
+          "text": "TEST LEGALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REASONED POLICING.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "Damyanti Naranga v. Union of India (1971) association autonomy includes protection against State-imposed membership alteration.",
+        "Ramlila Maidan Incident (2012) peaceful assembly and State response remain subject to constitutional scrutiny.",
+        "Mazdoor Kisan Shakti Sangathan v. Union of India (2018) protest rights must be balanced with",
+        "Amit Sahni v. Commissioner of Police (2020) public ways cannot be occupied indefinitely.",
+        "TEST legality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Damyanti Naranga v. Union of India (1971) association autonomy includes protection against State-imposed membership alteration.",
+            "Ramlila Maidan Incident (2012) peaceful assembly and State response remain subject to constitutional scrutiny."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Mazdoor Kisan Shakti Sangathan v. Union of India (2018) protest rights must be balanced with residents' and public-order interests.",
+            "Amit Sahni v. Commissioner of Police (2020) public ways cannot be occupied indefinitely."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST legality",
+            "reasoned policing."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Damyanti Naranga v. Union of India (1971) association autonomy includes protection against State-imposed membership alteration.",
+            "Ramlila Maidan Incident (2012) peaceful assembly and State response remain subject to constitutional scrutiny."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India regulates the money and registration of associations (FCRA, Societies Registration Act, Trade Unions Act) but not the act of lobbying itself, so influence is legal yet opaque — the reform gap is disclosure, not prohibition.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LOBBYING GAP, FCRA BOUNDARY AND NGO REGULATION",
+      "structural_type": "regulatory-boundary-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LOBBYING GAP, FCRA BOUNDARY AND NGO REGULATION",
+          "role": "primary"
+        },
+        {
+          "text": "NO GENERAL LOBBYING STATUTE NO COMPREHENSIVE REGISTER OF LOBBYISTS",
+          "role": "caution"
+        },
+        {
+          "text": "FCRA FOREIGN-CONTRIBUTION RECEIPT/USE BY COVERED PERSONS",
+          "role": "comparison"
+        },
+        {
+          "text": "REGISTRATION/PRIOR PERMISSION, ACCOUNTS, UTILISATION AND PROHIBITIONS.",
+          "role": "evidence"
+        },
+        {
+          "text": "OTHER LEGAL FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIETIES ACT",
+          "role": "institution"
+        },
+        {
+          "text": "COMPANIES ACT SECTION 8",
+          "role": "institution"
+        },
+        {
+          "text": "TRADE UNIONS ACT TAX, ELECTION, ANTI-CORRUPTION AND SECTORAL RULES.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "NO GENERAL LOBBYING STATUTE no comprehensive register of lobbyists, clients, meetings and spending.",
+        "FCRA foreign-contribution receipt/use by covered persons",
+        "registration/prior permission, accounts, utilisation and prohibitions.",
+        "OTHER LEGAL FORMS",
+        "Societies Act"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NO GENERAL LOBBYING STATUTE no comprehensive register of lobbyists, clients, meetings and spending.",
+            "FCRA foreign-contribution receipt/use by covered persons",
+            "registration/prior permission, accounts, utilisation and prohibitions."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OTHER LEGAL FORMS",
+            "Societies Act",
+            "Companies Act Section 8"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Trade Unions Act tax, election, anti-corruption and sectoral rules.",
+            "Noel Harper v. Union of India (2022)",
+            "FCRA amendments examined as funding regulation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FCRA compliance does not prove policy merit; advocacy does not determine FCRA status."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The democratic significance of pressure groups lies not only in their methods but in whose interests gain sustained access, evidence and visibility.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PLURALIST GAIN VERSUS CAPTURE, OPACITY AND REVOLVING DOORS",
+      "structural_type": "pluralism-capture-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PLURALIST GAIN VERSUS CAPTURE, OPACITY AND REVOLVING DOORS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOCRATIC GAINS PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MINORITY VOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY INFORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "RISKS RESOURCE INEQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "ELITE CAPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDISCLOSED ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "MISINFORMATION VIOLENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEMOCRATIC GAINS participation",
+        "minority voice",
+        "policy information",
+        "RISKS resource inequality",
+        "elite capture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DEMOCRATIC GAINS participation",
+            "minority voice",
+            "policy information",
+            "RISKS resource inequality"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "elite capture",
+            "undisclosed access",
+            "misinformation violence",
+            "revolving doors"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "consultation theatre.",
+            "REFORM meeting/submission register",
+            "client and funding disclosure conflict and cooling-off rules",
+            "public draft period reasoned response"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "accessible regional-language participation support for under-represented groups.",
+            "VERDICT transparent inclusion, not prohibition, is the pluralist answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Pressure groups organise common interests to influence government without seeking office, distinguishing participatory advocacy from electoral competition for power.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SYNTHESIS ACROSS THREE VERIFIED ROUTES",
+      "structural_type": "pressure-group-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SYNTHESIS ACROSS THREE VERIFIED ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "2019 FARMERS' METHODS",
+          "role": "comparison"
+        },
+        {
+          "text": "2021 BUSINESS ASSOCIATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "2025 ENVIRONMENTAL GROUPS.",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL INFLUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSOCIATION RIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "UNRESTRICTED BLOCKADE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VERIFIED ROUTES",
+        "2019 farmers' methods",
+        "2021 business associations",
+        "2025 environmental groups.",
+        "PRELIMS FIREWALL influence != office"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "VERIFIED ROUTES",
+            "2019 farmers' methods",
+            "2021 business associations",
+            "2025 environmental groups."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PRELIMS FIREWALL influence != office",
+            "association right != unrestricted blockade",
+            "PIL != legislation",
+            "FCRA != lobbying law consultation != capture automatically"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "NGO != pressure group always.",
+            "MAINS SPINE definition → typology → constitutional channels → methods",
+            "named sector evidence → pluralist gain → unequal-resource risk",
+            "transparent inclusive reform."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONCLUSION pressure groups are an informal democratic infrastructure whose legitimacy depends on peaceful method, disclosed access and fair",
+            "opportunity to participate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Farmers' movements can combine lobbying, agitation and media pressure to reverse policy, but regional and crop concentration may under-represent marginal cultivators.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\polity-44_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — MEANING",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — TECHNIQUES",
+          "role": "comparison"
+        },
+        {
+          "text": "PART C — TYPES OF PRESSURE GROUPS IN INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "THE TERM ORIGINATED IN THE USA . A PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "ALSO CALLED INTEREST GROUPS",
+          "role": "outcome"
+        },
+        {
+          "text": "VESTED GROUPS .",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFER FROM POLITICAL PARTIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — MEANING",
+            "PART B — TECHNIQUES",
+            "PART C — TYPES OF PRESSURE GROUPS IN INDIA (Laxmikant's 11 categories)",
+            "The term originated in the USA . A pressure group is an organised group promoting/defending a common"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Also called interest groups / vested groups .",
+            "Differ from political parties: they do NOT contest elections and do NOT seek to capture power — they",
+            "NOT: Pressure groups contest elections → they don't ; that's what distinguishes them from political parties .",
+            "NOT: The term originated in Britain → USA ."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: \"Anomic\" groups are formal associations → they are spontaneous (riots, demonstrations) per Almond & Powell.",
+            "NOT: Trade unions in India are apolitical → most are affiliated to political parties (AITUC-CPI, INTUC-Congress, BMS-BJP.).",
+            "NOT: A timeless \"largest agrarian group\" ranking can be inferred from the static text →",
+            "NOT: Odegard's techniques include \"agitation\" → the three are electioneering, lobbying, propagandizing ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

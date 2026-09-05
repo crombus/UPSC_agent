@@ -1,0 +1,46 @@
+{
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "topic_key": "polity-43",
+  "reference_expected": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "reference_after": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "preexisting_before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g5-source\\polity-43_g5-reviewed-source.md": "cd13ab9d75ba845a8d79007d5860e3b3048ac9946574483187f2010f20e28e04",
+    "tools\\deep_content_quality_overrides.json": "c7d57e641275581af335314001a32f21af55d2ce482f361cf7177a131216a227",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md": "92b1e1e51b469226c72d47d838797076f9442f1d001446b78257bbac08253f52",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md": "3cf1860a53c05a05ecec046e6baf0738ebab2096aae6608bc3c743fe11b65851",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json": "7c5dc14d1e3f4a52c31a42bcd4aa3558baae2773c4e82de6c57a96685cc1d911",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json": "7fdc3a6c29aea1d54d1045c54fedfd7c14aa4180ec2914bd126723d0cddb0a55",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "preexisting_after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g5-source\\polity-43_g5-reviewed-source.md": "cd13ab9d75ba845a8d79007d5860e3b3048ac9946574483187f2010f20e28e04",
+    "tools\\deep_content_quality_overrides.json": "c7d57e641275581af335314001a32f21af55d2ce482f361cf7177a131216a227",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md": "92b1e1e51b469226c72d47d838797076f9442f1d001446b78257bbac08253f52",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md": "3cf1860a53c05a05ecec046e6baf0738ebab2096aae6608bc3c743fe11b65851",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json": "7c5dc14d1e3f4a52c31a42bcd4aa3558baae2773c4e82de6c57a96685cc1d911",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json": "7fdc3a6c29aea1d54d1045c54fedfd7c14aa4180ec2914bd126723d0cddb0a55",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

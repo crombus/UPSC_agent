@@ -1,0 +1,212 @@
+ASCII MASTER FLOW — PANEL 1/12: Tribunalisation: specialist justice under constitutional supervision
+ROOT QUESTION
+Can specialist adjudication improve access and speed without creating executive-controlled courts?
+
+RATIONALE
+expertise | flexible procedure | high-volume disposal | geographical access | lower cost.
+
+CONSTITUTIONAL SOURCE
+42nd Amendment 1976 -> Part XIVA -> Articles 323A and 323B.
+
+STATUTORY SOURCE
+Administrative Tribunals Act 1985 -> CAT and enabled SAT arrangements.
+
+NON-NEGOTIABLE FLOOR
+judicial independence + natural justice + reasoned order
++ High Court/Supreme Court constitutional review.
+
+ASCII MASTER FLOW — PANEL 2/12: Articles 323A and 323B compared
+ARTICLE 323A
+public-service recruitment and service conditions.
+law-maker: Parliament.
+administrative-tribunal design.
+
+ARTICLE 323B
+listed subjects: tax, labour, land reform, elections and others in text.
+law-maker: appropriate legislature within competence.
+subject-specific tribunal/hierarchy.
+
+COMMON HISTORY
+text allowed court exclusion.
+
+CURRENT LAW
+L. Chandra Kumar (1997): Articles 226/227 and 32 judicial review is basic structure.
+
+TRAP
+enabling Article != automatic creation of a tribunal.
+
+ASCII MASTER FLOW — PANEL 3/12: CAT jurisdiction and statutory exclusions
+SECTION 14 COVERAGE
+Union recruitment and service matters | notified authorities and bodies.
+
+SECTION 2 EXCLUSIONS
+armed forces | Supreme Court or High Court staff
+| secretarial staff of Parliament and State legislatures.
+
+PROCESS GATE
+coverage -> departmental-remedy rule -> limitation -> Original Application.
+
+TRAP
+public employment does not automatically create CAT jurisdiction.
+
+ASCII MASTER FLOW — PANEL 4/12: CAT and SAT institutional architecture
+CAT
+Principal Bench + notified benches;
+Chairperson + Judicial Members + Administrative Members under current law.
+
+JURISDICTION
+covered Union recruitment/service matters and notified bodies.
+
+SAT
+State service tribunal may exist through statutory arrangement;
+States vary and some SATs have been abolished or not constituted.
+
+EXCLUSIONS
+follow exact Administrative Tribunals Act text and notifications;
+not every public employee or constitutional office enters CAT.
+
+CONTROL
+appointments, tenure and service conditions must be stated with the 25 August 2026 caveat.
+
+ASCII MASTER FLOW — PANEL 5/12: Application, procedure, powers and contempt
+PROCESS
+jurisdiction check -> Original Application -> notice/reply/record
+-> interim issue -> hearing -> reasoned final order.
+
+PROCEDURE
+natural justice | flexible procedure | not rigidly bound by CPC.
+
+POWERS
+summons | documents | affidavits | commissions | review/other statutory powers.
+
+CONTEMPT
+statutory power subject to governing law and constitutional review.
+
+LIMIT
+procedural flexibility is not freedom from evidence, fairness, reasons or limitation rules.
+
+ASCII MASTER FLOW — PANEL 6/12: L. Chandra Kumar (1997) and the correct review chain
+ORIGINAL CONSTITUTIONAL DESIGN
+tribunal as substitute first-instance forum + exclusion clauses.
+
+L. Chandra Kumar (1997)
+High Court Articles 226/227 and Supreme Court Article 32 review are basic structure;
+exclusion clauses invalid;
+tribunals may test vires of subordinate legislation and statutes except parent legislation limits.
+
+OPERATIVE CHAIN
+tribunal order -> territorial High Court Division Bench -> Supreme Court constitutional route.
+
+TRAP
+routine direct appeal from CAT to Supreme Court
+is not the ordinary substitute for High Court review.
+
+ASCII MASTER FLOW — PANEL 7/12: Tribunal-independence doctrine across five decisions
+Union of India v. R. Gandhi (2010)
+transferred judicial work requires equivalent independence, qualifications and safeguards.
+
+Madras Bar Association NTT (2014)
+National Tax Tribunal design invalidated; core judicial functions cannot be executive-dominated.
+
+Madras Bar Association IV (2020)
+Tribunal Rules scrutinised; selection and tenure safeguards reinforced.
+
+Madras Bar Association V (2021)
+short tenure, age and executive override defects invalidated in the 2021 ordinance/Act line.
+
+Rojer Mathew v. South Indian Bank (2019)
+Finance Act/rules route and tribunal independence examined.
+
+Madras Bar Association tribunal reforms (2025)
+reported 2025 INSC 1330 continues the constitutional control and directs institutional reform.
+
+LIMIT
+service-condition detail remains date-sensitive; doctrine is stable, implementation is not.
+
+ASCII MASTER FLOW — PANEL 8/12: Rationalisation, abolition and access-to-justice consequences
+2021 RATIONALISATION
+abolish specified appellate bodies -> transfer functions to courts/other forums
+-> common service framework.
+
+POSSIBLE GAIN
+less fragmentation | fewer duplicative bodies | clearer appeal path.
+
+POSSIBLE COST
+specialised expertise lost | burden shifted to High Courts
+| vacancies and transition delay | access becomes geographically harder.
+
+SAT VARIATION
+abolition/merger differs by State and statute; no uniform live SAT map should be invented.
+
+TEST
+pendency outcome + bench capacity + independence + user cost + transitional clarity.
+
+ASCII MASTER FLOW — PANEL 9/12: CAT, courts, commissions and ADR distinguished
+CAT
+statutory service adjudication -> binding reasoned order -> High Court review.
+
+HIGH COURT
+constitutional court -> writ/supervisory jurisdiction -> broad public-law control.
+
+COMMISSION
+investigation/advice/report unless statute grants adjudicatory power.
+
+LOK ADALAT
+statutory settlement/conciliation -> award based on compromise.
+
+ARBITRATION
+consensual private adjudication -> limited statutory challenge.
+
+DEPARTMENTAL APPEAL
+administrative reconsideration -> not independent judicial adjudication.
+
+TRAP
+specialised does not automatically mean tribunal; binding does not automatically mean court.
+
+ASCII MASTER FLOW — PANEL 10/12: Current judicial and legislative status control
+19 NOVEMBER 2025
+2025 INSC 1330 invalidated specified re-enacted service-condition defects
+and directed a National Tribunals Commission.
+
+9 MARCH 2026 ORDER
+specified incumbent continuity until 8 September 2026 or maximum age.
+
+AUGUST 2026 CAUTION
+enactment != commencement != operational commission.
+Use Gazette commencement and appointment records before claiming operation.
+
+ASCII MASTER FLOW — PANEL 11/12: Exact PYQ demand and answer architecture
+2018 GS-II 15/250
+court-jurisdiction curtailment + validity + competency.
+
+2019 GS-II 10/150
+CAT as independent judicial authority.
+
+2024 GS-II 10/150
+Lok Adalat versus arbitration + civil/criminal jurisdiction.
+
+2025 GS-II 10/150
+need for tribunals + assess 2021 rationalisation.
+
+EXECUTION
+thesis -> law -> mechanism -> case -> constraint -> verdict.
+
+ASCII MASTER FLOW — PANEL 12/12: UPSC synthesis and reform architecture
+PRELIMS FIREWALL
+323A service != 323B listed subjects | enabling != creating
+| CAT != constitutional court | flexible != arbitrary
+| first instance != final constitutional word | rationalisation != pendency cure.
+
+MAINS SPINE
+rationale -> constitutional/statutory source -> structure/jurisdiction
+-> procedure/powers -> L. Chandra Kumar (1997) chain
+-> independence cases -> rationalisation/access -> reform.
+
+REFORM
+independent appointments body | secure adequate tenure | transparent vacancies
+| administrative autonomy | national data/standards | regional benches
+| coherent appeals | periodic performance review without decisional interference.
+
+VERDICT
+tribunals are justified only as independent, accessible specialist courts
+under constitutional supervision.

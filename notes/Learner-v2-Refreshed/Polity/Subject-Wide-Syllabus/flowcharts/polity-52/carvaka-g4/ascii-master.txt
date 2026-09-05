@@ -1,0 +1,192 @@
+ASCII MASTER FLOW — PANEL 1/12: NCRWC identity, mandate and constitutional boundary
+ROOT QUESTION
+How can constitutional performance be reviewed without claiming constituent power?
+
+2000 Government resolution -> temporary executive advisory commission.
+Justice M.N. Venkatachaliah -> chair | 11 members | report submitted in 2002.
+
+MANDATE
+review fifty years of working -> effective governance + socio-economic development.
+
+BOUNDARY
+parliamentary democracy + basic structure preserved.
+
+VERDICT
+review of working != rewriting the Constitution.
+
+ASCII MASTER FLOW — PANEL 2/12: Consultation and institutional identity firewall
+CONSULTATION
+papers + expert studies + public responses + thematic deliberation -> advisory report.
+
+CONSTITUENT ASSEMBLY -> framed Constitution.
+PARLIAMENT/ART 368 -> amends through constitutional procedure.
+LAW COMMISSION -> law-reform reports.
+SARKARIA/PUNCHHI -> Centre-State review.
+NCRWC -> comprehensive working review, no constituent authority.
+
+TRAP
+expertise and consultation create persuasion, not legal force.
+
+ASCII MASTER FLOW — PANEL 3/12: Working of the Constitution: text to lived performance
+TEXT
+Articles + Parts + Schedules
+   |
+   v
+INSTITUTIONS
+Parliament + executive + courts + federal units + bodies
+   |
+   v
+PRACTICE
+conventions + parties + administration + political incentives
+   |
+   v
+OUTCOMES
+rights + accountability + deliberation + federal trust + remedies.
+
+Kesavananda Bharati (1973) -> structural boundary.
+Minerva Mills (1980) -> limited amendment + rights-DPSP harmony.
+
+ASCII MASTER FLOW — PANEL 4/12: Recommendation clusters without law-status contamination
+RIGHTS / DPSP / DUTIES
+new rights, stronger implementation and proposed duties.
+
+ELECTIONS / PARTIES
+criminalisation, finance, ECI selection, party law and anti-defection.
+
+PARLIAMENT / EXECUTIVE / ADMINISTRATION
+sittings, committees, privileges, ministry size, civil services and integrity.
+
+JUDICIARY / FEDERALISM / LOCAL GOVERNMENT
+appointments, access, Governor, Art 356, councils and devolution.
+
+STATUS
+every node = NCRWC recommendation until separately enacted.
+
+ASCII MASTER FLOW — PANEL 5/12: Implementation audit: exact, modified, similar or pending
+PROPOSAL -> LATER INSTRUMENT -> WORDING -> LEGAL EFFECT -> VERDICT
+
+10% ministry ceiling
+-> 91st Amendment (2003) uses 15% -> modified related reform, not exact adoption.
+
+judicial commission
+-> NJAC enacted 2014, invalidated 2015 -> not current NCRWC design.
+
+party law + narrow whip
+-> no comprehensive enactment -> substantially pending.
+
+disaster to Concurrent List
+-> Disaster Management Act 2005, no List transfer -> statutory response, not adoption.
+
+RULE
+chronology + similarity != proven implementation.
+
+ASCII MASTER FLOW — PANEL 6/12: Accountability, federalism and legislative practice
+ACCOUNTABILITY
+elections | confidence | committees | CAG | transparency | reasons | judicial review.
+
+LEGISLATURE
+sitting time -> scrutiny -> delegated law -> opposition -> financial control.
+
+FEDERAL PRACTICE
+consultation -> councils -> Governor restraint -> floor test -> negotiated implementation.
+
+S.R. Bommai (1994) -> federal and secular structural enforcement.
+
+TRAP
+majority strength or coalition form does not itself prove good constitutional working.
+
+ASCII MASTER FLOW — PANEL 7/12: Constitutional morality and rights enforcement
+CONSTITUTIONAL MORALITY
+text + procedure + equal citizenship + institutional role restraint.
+
+K.S. Puttaswamy (2017)
+privacy + dignity in modern governance.
+
+Navtej Singh Johar v. Union of India (2018)
+constitutional morality + transformative rights.
+
+RIGHTS WORKING
+guarantee -> institution -> affordable remedy -> compliance -> public justification.
+
+LIMIT
+morality is not personal preference; later cases are not NCRWC implementation evidence.
+
+ASCII MASTER FLOW — PANEL 8/12: Reform-method ladder and feasibility test
+DIAGNOSE
+text gap? convention failure? capacity deficit? incentive failure? remedy gap?
+   |
+   +-- practice/convention repair
+   +-- executive rule or capacity
+   +-- ordinary legislation
+   +-- Article 368 amendment
+   |
+   v
+TEST
+basic structure + rights + federalism + democratic legitimacy
++ finance + implementation + review.
+
+VERDICT
+use the least legally sufficient and institutionally workable route.
+
+ASCII MASTER FLOW — PANEL 9/12: Verified provenance and eleven-member composition
+22 FEBRUARY 2000
+Government resolution constitutes NCRWC.
+   |
+   v
+CHAIR + INITIAL MEMBERSHIP
+M.N. Venkatachaliah + ten members = eleven; P.A. Sangma later resigned.
+Secretary Raghbir Singh was not a Commission member.
+   |
+   v
+11 MARCH 2002
+Report adopted and signed.
+   |
+   v
+31 MARCH 2002
+Report presented to the Prime Minister.
+
+VERDICT
+Executive origin + expert composition produced advice, not constituent authority.
+
+ASCII MASTER FLOW — PANEL 10/12: Recommendation metrics and exact high-yield proposals
+249 RECOMMENDATIONS
+58 constitutional amendment | 86 legislation | 105 executive action.
+
+LEGISLATURE
+LS 120 days | RS 100 | State Houses 90 or 50.
+
+GOVERNMENT
+constructive no-confidence | 20% notice | alternative leader | 10% ministry ceiling.
+
+JUDICIARY / FEDERALISM
+HC age 65 | SC age 68 | Governor about 6 months | President about 3 months.
+
+RULE
+Each number is a report proposal unless a later legal instrument is separately proved.
+
+ASCII MASTER FLOW — PANEL 11/12: Performance dashboard and executable answer audit
+PERFORMANCE DASHBOARD
+Legislature -> sittings + scrutiny + finance + debate.
+Executive -> responsibility + legality + transparency + delivery.
+Judiciary -> access + independence + pendency + accountability.
+Federalism -> consultation + fiscal trust + restraint + dispute resolution.
+Local government -> functions + funds + functionaries.
+Rights -> affordable remedy + compliance + equal citizenship.
+
+ANSWER EXECUTION
+identify demand -> recommendation -> route -> current status -> feasibility -> graded verdict.
+
+ASCII MASTER FLOW — PANEL 12/12: UPSC synthesis: commission report to constitutional answer
+PRELIMS FIREWALL
+2000 resolution | Venkatachaliah | 11 members | 2002 report
+| advisory | review, not rewrite | recommendations, not law.
+
+MAINS SPINE
+identity -> mandate -> working beyond text -> recommendation clusters
+-> implementation audit -> morality/accountability/federal practice -> reform ladder.
+
+PYQ ROUTE
+constitutional morality | electoral reform | judicial accountability | basic structure.
+
+CONCLUSION
+NCRWC is a diagnostic reform menu subject to constitutional route and present-law verification.

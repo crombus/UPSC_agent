@@ -1,0 +1,997 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-39",
+  "subject": "Polity",
+  "title": "COOPERATIVE SOCIETIES",
+  "short_route": "COOPERATIVE IDENTITY, PRINCIPLES, EVOLUTION → 97TH AMENDMENT TRIPTYCH AND → PART IXB ARCHITECTURE FROM → BOARD, ELECTION AND SUPERSESSION → AUDIT, RETURNS, MEMBER RIGHTS → STATE COOPERATIVES, MSCS ACT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-39-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "a9d88805e67cfcdd3e56aa7d9a07ed9cd901789820139357150514c3569a6b2a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COOPERATIVE IDENTITY, PRINCIPLES, EVOLUTION AND CONSTITUTIONAL LOCATION",
+      "structural_type": "principle-evolution-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COOPERATIVE IDENTITY, PRINCIPLES, EVOLUTION AND CONSTITUTIONAL LOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN MEMBER-OWNED ENTERPRISE COMBINE DEMOCRATIC CONTROL WITH COMMERCIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE IDENTITY VOLUNTARY ASSOCIATION + MEMBER OWNERSHIP + ONE-MEMBER",
+          "role": "evidence"
+        },
+        {
+          "text": "SEVEN PRINCIPLES VOLUNTARY/OPEN MEMBERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "DEMOCRATIC CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "MEMBER ECONOMIC PARTICIPATION AUTONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "COOPERATION AMONG COOPERATIVES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can member-owned enterprise combine democratic control with commercial discipline?",
+        "CORE IDENTITY voluntary association + member ownership + one-member democratic voice + shared benefit.",
+        "SEVEN PRINCIPLES voluntary/open membership",
+        "democratic control"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can member-owned enterprise combine democratic control with commercial discipline?",
+            "CORE IDENTITY voluntary association + member ownership + one-member democratic voice + shared benefit.",
+            "SEVEN PRINCIPLES voluntary/open membership"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "democratic control",
+            "member economic participation autonomy",
+            "cooperation among cooperatives",
+            "community concern."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "1904 credit law → 1912 general law → provincial/State field → 97th Amendment.",
+            "FEDERAL LOCATION",
+            "Entry 32: State cooperatives",
+            "Entry 44: multi-State corporations"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Entry 45: banking.",
+            "LIMIT international principles guide interpretation; applicable Indian law controls outcomes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The evolution shows continuity: cooperative organisation was treated as locally embedded, even while multi-State operation and banking required wider regulatory layers.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "97TH AMENDMENT TRIPTYCH AND THE UNION OF INDIA V. RAJENDRA N. SHAH (2021) FEDERALISM HOLDING",
+      "structural_type": "amendment-severance-triptych",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "97TH AMENDMENT TRIPTYCH AND THE UNION OF INDIA V.",
+          "role": "primary"
+        },
+        {
+          "text": "97TH AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 19(1)(C)",
+          "role": "institution"
+        },
+        {
+          "text": "RIGHT TO FORM COOPERATIVE SOCIETIES.",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 43B",
+          "role": "institution"
+        },
+        {
+          "text": "VOLUNTARY FORMATION, AUTONOMOUS FUNCTIONING, DEMOCRATIC CONTROL.",
+          "role": "outcome"
+        },
+        {
+          "text": "PART IXB",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 243ZH-243ZT GOVERNANCE CODE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "97TH AMENDMENT",
+        "Article 19(1)(c) → right to form cooperative societies.",
+        "Article 43B → voluntary formation, autonomous functioning, democratic control.",
+        "Part IXB → Articles 243ZH-243ZT governance code.",
+        "Union of India v. Rajendra N. Shah (2021)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "97TH AMENDMENT",
+            "Article 19(1)(c) → right to form cooperative societies.",
+            "Article 43B → voluntary formation, autonomous functioning, democratic control."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Part IXB → Articles 243ZH-243ZT governance code.",
+            "Union of India v. Rajendra N. Shah (2021)",
+            "Part IXB altered the State legislative field without Article 368 ratification."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Majority severed its State-field application.",
+            "Article 19(1)(c)",
+            "Article 43B"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Part IXB for the valid multi-State field.",
+            "EXACT CAUTION do not claim Part IXB uniformly binds ordinary State cooperatives after the judgment.",
+            "The Union-Territory discussion must follow the judgment's precise field analysis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "However, majority paragraph 78 expressly says Part IXB has no application to a cooperative with no ramifications outside the Union Territory itself.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PART IXB ARCHITECTURE FROM INCORPORATION TO TRANSITION",
+      "structural_type": "article-map-243zh-243zt",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PART IXB ARCHITECTURE FROM INCORPORATION TO TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE MAP",
+          "role": "institution"
+        },
+        {
+          "text": "243ZH DEFINITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "243ZI INCORPORATION/REGULATION/WINDING UP.",
+          "role": "evidence"
+        },
+        {
+          "text": "243ZJ BOARD SIZE, RESERVATION, CO-OPTION AND FIVE-YEAR TERM.",
+          "role": "primary"
+        },
+        {
+          "text": "243ZK ELECTION BEFORE TERM EXPIRY; STATE AUTHORITY CONDUCTS.",
+          "role": "institution"
+        },
+        {
+          "text": "243ZL SUPERSESSION/SUSPENSION WITH BANKING AND GOVERNMENT-SHARE QUALIFICATIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "243ZM AUDIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE MAP",
+        "243ZH definitions",
+        "243ZI incorporation/regulation/winding up.",
+        "243ZJ board size, reservation, co-option and five-year term.",
+        "243ZK election before term expiry; State authority conducts."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE MAP",
+            "243ZH definitions",
+            "243ZI incorporation/regulation/winding up.",
+            "243ZJ board size, reservation, co-option and five-year term."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "243ZK election before term expiry; State authority conducts.",
+            "243ZL supersession/suspension with banking and government-share qualifications.",
+            "243ZM audit",
+            "243ZN general body meeting"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "243ZO member information.",
+            "243ZP returns",
+            "243ZQ offence families",
+            "243ZR multi-State application."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "243ZS Union Territories",
+            "243ZT transition.",
+            "POST-2021 CONTROL text remains printed; enforceability depends on the constitutionally valid field."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "After the 2021 judgment, Part IXB's constitutional commands survive for multi-State cooperatives but cannot be imposed wholesale on ordinary State-field societies.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BOARD, ELECTION AND SUPERSESSION SAFEGUARDS",
+      "structural_type": "governance-clock-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BOARD, ELECTION AND SUPERSESSION SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "BOARD MAXIMUM TWENTY-ONE DIRECTORS",
+          "role": "outcome"
+        },
+        {
+          "text": "RESERVED SEATS AS TEXT PROVIDES EXPERT CO-OPTION WITHOUT ELECTED-OFFICE",
+          "role": "comparison"
+        },
+        {
+          "text": "TERM FIVE YEARS FROM ELECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICE-BEARER TERM TIED TO BOARD.",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTION MUST BE CONDUCTED BEFORE EXPIRY; VACANCY DOES NOT",
+          "role": "caution"
+        },
+        {
+          "text": "SUPERSESSION REASONS ARE TEXTUALLY LIMITED",
+          "role": "comparison"
+        },
+        {
+          "text": "ORDINARY MAXIMUM SIX MONTHS BANKING SOCIETY MAY REACH ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BOARD maximum twenty-one directors",
+        "reserved seats as text provides expert co-option without elected-office voting rights.",
+        "TERM five years from election",
+        "office-bearer term tied to board.",
+        "ELECTION must be conducted before expiry; vacancy does not justify indefinite extension."
+      ],
+      "matrix": [
+        [
+          "BOARD maximum twenty-one directors",
+          "reserved seats as text provides expert co-option without elected-office voting rights.",
+          ""
+        ],
+        [
+          "TERM five years from election",
+          "office-bearer term tied to board.",
+          ""
+        ],
+        [
+          "SUPERSESSION reasons are textually limited",
+          "ordinary maximum six months banking society may reach one year",
+          "government-share/assistance qualification matters."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "BOARD maximum twenty-one directors",
+            "reserved seats as text provides expert co-option without elected-office voting rights.",
+            "TERM five years from election"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "office-bearer term tied to board.",
+            "ELECTION must be conducted before expiry; vacancy does not justify indefinite extension.",
+            "SUPERSESSION reasons are textually limited"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ordinary maximum six months banking society may reach one year",
+            "government-share/assistance qualification matters.",
+            "DEMOCRATIC LOGIC member choice → fixed cycle → exceptional intervention → fresh elected control."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP regulatory supervision does not create permanent administrator ownership."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Cooperatives pool member resources across varied economic sectors, but their legal treatment and governance risks depend on function, scale and territorial reach.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AUDIT, RETURNS, MEMBER RIGHTS AND OFFENCE FAMILIES",
+      "structural_type": "accountability-compliance-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AUDIT, RETURNS, MEMBER RIGHTS AND OFFENCE FAMILIES",
+          "role": "primary"
+        },
+        {
+          "text": "AUDIT QUALIFIED PANEL/ACCOUNTABILITY ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNUAL ACCOUNTS",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERAL-BODY SCRUTINY.",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERAL BODY MEETING WITHIN THE CONSTITUTIONAL/STATUTORY CLOCK APPLICABLE TO",
+          "role": "primary"
+        },
+        {
+          "text": "MEMBER INFORMATION ACCESS TO BOOKS AND INFORMATION AS LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "RETURNS ANNUAL FILING COVERS ACTIVITIES, AUDITED STATEMENTS, SURPLUS DISPOSAL",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFENCE FAMILIES FALSE RETURN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AUDIT qualified panel/accountability route → annual accounts → general-body scrutiny.",
+        "GENERAL BODY meeting within the constitutional/statutory clock applicable to the valid field.",
+        "MEMBER INFORMATION access to books and information as law provides; education and participation reinforce control.",
+        "RETURNS annual filing covers activities, audited statements, surplus disposal and governance data.",
+        "OFFENCE FAMILIES false return"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AUDIT qualified panel/accountability route → annual accounts → general-body scrutiny.",
+            "GENERAL BODY meeting within the constitutional/statutory clock applicable to the valid field."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "MEMBER INFORMATION access to books and information as law provides; education and participation reinforce control.",
+            "RETURNS annual filing covers activities, audited statements, surplus disposal and governance data."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFENCE FAMILIES false return",
+            "withholding information"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "election interference failure to hand over records, where textually provided.",
+            "LIMIT penalty, procedure and enforcement source must be identified before asserting liability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A cooperative bank can therefore remain a cooperative under State or multi-State law while banking regulation overlays its activity.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "STATE COOPERATIVES, MSCS ACT AND THE 2023 REFORM FRAMEWORK",
+      "structural_type": "dual-regime-2023-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATE COOPERATIVES, MSCS ACT AND THE 2023 REFORM FRAMEWORK",
+          "role": "institution"
+        },
+        {
+          "text": "STATE-FIELD SOCIETY OBJECTS CONFINED TO ONE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "STATE ACT + RULES + BYE-LAWS + STATE REGISTRAR.",
+          "role": "institution"
+        },
+        {
+          "text": "MULTI-STATE SOCIETY OBJECTS NOT CONFINED TO ONE STATE",
+          "role": "caution"
+        },
+        {
+          "text": "MSCS ACT 2002 + CENTRAL REGISTRAR.",
+          "role": "institution"
+        },
+        {
+          "text": "2023 AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CO-OPERATIVE ELECTION AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTION NOTICE AND SECRET BALLOT BOARD/CONFLICT CONTROLS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE-FIELD SOCIETY objects confined to one State → State Act + rules + bye-laws +",
+        "MULTI-STATE SOCIETY objects not confined to one State → MSCS Act 2002 + Central Registrar.",
+        "2023 AMENDMENT",
+        "Co-operative Election Authority",
+        "election notice and secret ballot board/conflict controls"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATE-FIELD SOCIETY objects confined to one State → State Act + rules + bye-laws + State Registrar.",
+            "MULTI-STATE SOCIETY objects not confined to one State → MSCS Act 2002 + Central Registrar.",
+            "2023 AMENDMENT"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Co-operative Election Authority",
+            "election notice and secret ballot board/conflict controls",
+            "ombudsman grievance route"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "information officer concurrent/risk audit",
+            "rehabilitation, reconstruction and development fund lawful merger/amalgamation mechanisms.",
+            "CURRENT CONTROL commenced 3 August 2023; Rules notified 4 August 2023."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Union reform in the Entry 44 field does not rewrite every State cooperative Act."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Such societies remain subject to Article 19(1)(c), Article 43B and other generally applicable constitutional rights and limitations.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INSTITUTIONAL AND BANKING MAP WITH SECTOR EXAMPLES",
+      "structural_type": "institution-regulator-value-chain",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL AND BANKING MAP WITH SECTOR EXAMPLES",
+          "role": "primary"
+        },
+        {
+          "text": "UNION POLICY/ALLOCATED BUSINESS.",
+          "role": "outcome"
+        },
+        {
+          "text": "MSCS STATUTORY ADMINISTRATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE REGISTRAR",
+          "role": "institution"
+        },
+        {
+          "text": "STATE-LAW ADMINISTRATION.",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY DEVELOPMENT FINANCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "NCUI/REPRESENTATIVE BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVOCACY, EDUCATION AND COORDINATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Ministry → Union policy/allocated business.",
+        "CRCS → MSCS statutory administration.",
+        "State Registrar → State-law administration.",
+        "NCDC → statutory development finance.",
+        "NCUI/representative body → advocacy, education and coordination."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Ministry → Union policy/allocated business.",
+            "CRCS → MSCS statutory administration.",
+            "State Registrar → State-law administration.",
+            "NCDC → statutory development finance."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NCUI/representative body → advocacy, education and coordination.",
+            "Operating cooperative → member-owned enterprise, not regulator.",
+            "BANKING OVERLAY incorporation/governance law + Banking Regulation Act/RBI",
+            "NABARD supervision for specified rural cooperative banks"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PACS boundary must not be erased.",
+            "EXAMPLES dairy pooling",
+            "credit access",
+            "agricultural marketing"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "collective input/procurement.",
+            "TRAP credit, dairy and agricultural cooperatives do not share one prudential regulator."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Cooperatives can aggregate capital and market power, but passive membership, political capture, delayed elections and weak audits can defeat democratic member control.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "STATUS TESTS, GOVERNANCE FAILURES AND PROFESSIONALISATION",
+      "structural_type": "case-status-reform-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATUS TESTS, GOVERNANCE FAILURES AND PROFESSIONALISATION",
+          "role": "primary"
+        },
+        {
+          "text": "THALAPPALAM SERVICE COOPERATIVE BANK (2013) REGISTRATION AND ORDINARY REGISTRAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE DIFFERENT TESTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 12 STATE",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 226 PUBLIC DUTY",
+          "role": "institution"
+        },
+        {
+          "text": "RTI SECTION 2(H) PUBLIC AUTHORITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "FAILURE CHAIN POLITICAL CAPTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DELAYED ELECTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Thalappalam Service Cooperative Bank (2013) registration and ordinary Registrar control did not automatically create RTI",
+        "THREE DIFFERENT TESTS",
+        "Article 12 State",
+        "Article 226 public duty",
+        "RTI section 2(h) public authority."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "Thalappalam Service Cooperative Bank (2013) registration and ordinary Registrar control did not automatically create RTI public authority.",
+          "Article 226 public duty",
+          "member apathy → losses → State rescue → reduced autonomy.",
+          "VERDICT autonomy without accountability permits capture; control without autonomy kills cooperation."
+        ],
+        [
+          "THREE DIFFERENT TESTS",
+          "RTI section 2(h) public authority.",
+          "REFORM CHAIN timely elections + fit expertise + independent audit + member information",
+          ""
+        ],
+        [
+          "Article 12 State",
+          "FAILURE CHAIN political capture → delayed elections → weak audit → connected lending",
+          "digital but inclusive records + regulator coordination + proportionate intervention.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Thalappalam Service Cooperative Bank (2013) registration and ordinary Registrar control did not automatically create RTI public authority.",
+            "THREE DIFFERENT TESTS",
+            "Article 12 State"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 226 public duty",
+            "RTI section 2(h) public authority.",
+            "FAILURE CHAIN political capture → delayed elections → weak audit → connected lending"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "member apathy → losses → State rescue → reduced autonomy.",
+            "REFORM CHAIN timely elections + fit expertise + independent audit + member information",
+            "digital but inclusive records + regulator coordination + proportionate intervention."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "VERDICT autonomy without accountability permits capture; control without autonomy kills cooperation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A cooperative society is not automatically “State” under Article 12 merely because it is registered, regulated or supervised under a cooperative statute.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "UPSC TRAPS, ADJACENT PYQS AND FEDERAL ANSWER SYNTHESIS",
+      "structural_type": "exam-federal-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC TRAPS, ADJACENT PYQS AND FEDERAL ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "PART IXB NOT UNIFORM FOR ALL STATE COOPERATIVES",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 43B IS DPSP RIGHT TO FORM",
+          "role": "institution"
+        },
+        {
+          "text": "RIGHT TO STATE AID",
+          "role": "institution"
+        },
+        {
+          "text": "ENTRY 32",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTRY 44",
+          "role": "comparison"
+        },
+        {
+          "text": "EVERY GOVERNANCE FUNCTION SCHEDULED CONSTITUTIONAL TEXT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "Part IXB not uniform for all State cooperatives",
+        "Article 43B is DPSP right to form != right to State aid",
+        "Entry 32 != Entry 44",
+        "Ministry != Registrar"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "Part IXB not uniform for all State cooperatives",
+            "Article 43B is DPSP right to form != right to State aid",
+            "Entry 32 != Entry 44"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Ministry != Registrar",
+            "RBI != every governance function scheduled constitutional text != enforceable State-field command after 2021.",
+            "ADJACENT VERIFIED ROUTES",
+            "2020 DCCB"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2021 UCB",
+            "2023 Small Farmer Large Field.",
+            "They remain Economy/agriculture routes, not invented direct Polity PYQs.",
+            "MAINS SPINE identity/principles → federal competence → 97th Amendment"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Union of India v. Rajendra N. Shah (2021) → State/MSCS regimes → 2023 accountability",
+            "banking coordination → member-centric professionalisation.",
+            "CONCLUSION valid reform is cooperative in both enterprise form and federal method."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The 2023 amendment strengthened election, information and governance arrangements for multi-State cooperatives, whose objects extend beyond a single State.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — THE 97TH CONSTITUTIONAL AMENDMENT ACT, 2011",
+          "role": "institution"
+        },
+        {
+          "text": "PART B — SUPREME COURT VERDICT (THE BIG TWIST)",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT LEGISLATES FOR MULTI-STATE CO-OPERATIVES; STATE LEGISLATURES FOR OTHER",
+          "role": "institution"
+        },
+        {
+          "text": "BOARD MEMBERS MAX 21 ; FIXED 5-YEAR TERM FOR",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVATION — ONE SC/ST AND TWO WOMEN SEATS WHERE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENT AUDIT WITHIN 6 MONTHS; MAX 6-MONTH SUPERSESSION OF",
+          "role": "comparison"
+        },
+        {
+          "text": "MEMBERS' RIGHT TO INFORMATION ABOUT THE SOCIETY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — THE 97th CONSTITUTIONAL AMENDMENT ACT, 2011",
+            "PART B — SUPREME COURT VERDICT (the big twist)",
+            "Parliament legislates for multi-state co-operatives; State Legislatures for other co-operatives.",
+            "Board members max 21 ; fixed 5-year term for board & office-bearers."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Reservation — one SC/ST and two women seats where the society's individual",
+            "Independent audit within 6 months; max 6-month supersession of a board (elections meanwhile).",
+            "Members' right to information about the society.",
+            "BUT Part IX-B survives for MULTI-STATE co-operative societies (and UTs) — the Court applied the"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: 97th Amendment made \"co-operatives\" an entry in the Union List → co-operatives are a State List (Entry 32)",
+            "NOT: The whole 97th Amendment was struck down → only Part IX-B's application to state co-operatives was struck;",
+            "NOT: Art 43-B is a Fundamental Right → it is a DPSP (the FR is Art 19(1)(c) ).",
+            "NOT: Part IX-B is Articles 243-G... → it is 243-ZH to 243-ZT ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

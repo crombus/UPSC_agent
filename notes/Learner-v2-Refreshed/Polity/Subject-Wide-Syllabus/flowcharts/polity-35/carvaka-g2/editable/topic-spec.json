@@ -1,0 +1,979 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-35",
+  "subject": "Polity",
+  "title": "NHRC AND SHRC",
+  "short_route": "PHRA EVOLUTION, STATUTORY IDENTITY → NHRC AND SHRC COMPOSITION → SECTION 12 FUNCTIONS, CIVIL-COURT → COMPLAINT-TO-RECOMMENDATION PROCEDURE, ONE-YEAR BAR → ARMED-FORCES PROCEDURE AND HUMAN → NHRC-SHRC JURISDICTION, OVERLAP AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 repaired in place for answer-line and visual-boundary quality • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-35-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "a35c4cf1b4572a2f6dd3c51b8b54dc45e9506da4b950fd4285170c25052365aa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PHRA EVOLUTION, STATUTORY IDENTITY AND THE ENFORCEABLE HUMAN-RIGHTS FIELD",
+      "structural_type": "human-rights-commission-foundation",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PHRA EVOLUTION, STATUTORY IDENTITY AND THE ENFORCEABLE HUMAN-RIGHTS FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTION OF HUMAN RIGHTS ACT, 1993 DEEMED COMMENCEMENT 28",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENTIAL ASSENT 8 JANUARY 1994.",
+          "role": "comparison"
+        },
+        {
+          "text": "AMENDMENTS IN 2006 AND 2019 RESHAPE DESIGN; COMMISSIONS REMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 2(D) RIGHTS RELATING TO LIFE, LIBERTY, EQUALITY AND",
+          "role": "primary"
+        },
+        {
+          "text": "GUARANTEED BY CONSTITUTION OR EMBODIED IN DEFINED INTERNATIONAL COVENANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ENFORCEABLE BY COURTS IN INDIA.",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 2(F)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROTECTION OF HUMAN RIGHTS ACT, 1993 deemed commencement 28 September 1993",
+        "presidential assent 8 January 1994.",
+        "Amendments in 2006 and 2019 reshape design; commissions remain statutory.",
+        "SECTION 2(d) rights relating to life, liberty, equality and dignity",
+        "guaranteed by Constitution or embodied in defined International Covenants"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PROTECTION OF HUMAN RIGHTS ACT, 1993 deemed commencement 28 September 1993",
+            "presidential assent 8 January 1994.",
+            "Amendments in 2006 and 2019 reshape design; commissions remain statutory.",
+            "SECTION 2(d) rights relating to life, liberty, equality and dignity"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "guaranteed by Constitution or embodied in defined International Covenants",
+            "enforceable by courts in India.",
+            "SECTION 2(f)",
+            "ICCPR + ICESCR + notified UN General Assembly covenant or convention."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSTITUTIONAL MAP",
+            "NHRC at Union level",
+            "SHRCs at State level",
+            "Human Rights Courts as trial route."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT human-rights importance does not convert NHRC or SHRC into a constitutional court."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "“Statutory” does not mean “court,” “binding tribunal” or “executive department.” The Act gives inquiry powers and recommendatory outputs, not a general power to convict, punish or execute decrees.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NHRC AND SHRC COMPOSITION, APPOINTMENT, TENURE AND REMOVAL",
+      "structural_type": "human-rights-commission-office-design",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NHRC AND SHRC COMPOSITION, APPOINTMENT, TENURE AND REMOVAL",
+          "role": "primary"
+        },
+        {
+          "text": "FORMER CJI OR SUPREME COURT JUDGE.",
+          "role": "institution"
+        },
+        {
+          "text": "JUDICIAL MEMBERS",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SUPREME COURT ROUTE + ONE CHIEF JUSTICE OF",
+          "role": "institution"
+        },
+        {
+          "text": "THREE EXPERTS IN HUMAN RIGHTS, AT LEAST ONE WOMAN.",
+          "role": "primary"
+        },
+        {
+          "text": "SEVEN SPECIALISED OFFICEHOLDERS ARE DEEMED MEMBERS FOR SECTION 12(B)-(J).",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMER CHIEF JUSTICE OR JUDGE OF HIGH COURT.",
+          "role": "institution"
+        },
+        {
+          "text": "ONE JUDICIAL MEMBER + ONE HUMAN-RIGHTS EXPERT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Chair: former CJI or Supreme Court Judge.",
+        "Judicial members: one Supreme Court route + one Chief Justice of High Court route.",
+        "Three experts in human rights, at least one woman.",
+        "Seven specialised officeholders are deemed members for section 12(b)-(j).",
+        "Chair: former Chief Justice or Judge of High Court."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Chair: former CJI or Supreme Court Judge.",
+            "Judicial members: one Supreme Court route + one Chief Justice of High Court route.",
+            "Three experts in human rights, at least one woman."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Seven specialised officeholders are deemed members for section 12(b)-(j).",
+            "Chair: former Chief Justice or Judge of High Court.",
+            "One judicial member + one human-rights expert."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "President for NHRC",
+            "Governor for SHRC after statutory committee recommendation; vacancy does not alone invalidate proceedings.",
+            "TERM three years, subject to age 70 and current reappointment rules."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "President removes NHRC and SHRC members under the Act",
+            "proved misbehaviour or incapacity uses Supreme Court inquiry."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The appointment/removal asymmetry gives the State a constitutive role while insulating removal from unilateral action by the State executive being scrutinised.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 5"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SECTION 12 FUNCTIONS, CIVIL-COURT POWERS AND INVESTIGATIVE SUPPORT",
+      "structural_type": "human-rights-function-inquiry-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECTION 12 FUNCTIONS, CIVIL-COURT POWERS AND INVESTIGATIVE SUPPORT",
+          "role": "institution"
+        },
+        {
+          "text": "SECTION 12 FUNCTIONS SUO MOTU OR PETITION INQUIRY",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT INTERVENTION WITH APPROVAL INSTITUTION VISITS",
+          "role": "institution"
+        },
+        {
+          "text": "REVIEW CONSTITUTIONAL/LEGAL SAFEGUARDS REVIEW FACTORS INHIBITING RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "STUDY TREATIES RESEARCH",
+          "role": "primary"
+        },
+        {
+          "text": "NGO ENCOURAGEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "OTHER NECESSARY FUNCTIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 13 INQUIRY POWERS SUMMON AND EXAMINE ON OATH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTION 12 FUNCTIONS suo motu or petition inquiry",
+        "court intervention with approval institution visits",
+        "review constitutional/legal safeguards review factors inhibiting rights",
+        "study treaties research",
+        "NGO encouragement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 12 FUNCTIONS suo motu or petition inquiry",
+            "court intervention with approval institution visits",
+            "review constitutional/legal safeguards review factors inhibiting rights",
+            "study treaties research"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NGO encouragement",
+            "other necessary functions.",
+            "SECTION 13 INQUIRY POWERS summon and examine on oath",
+            "affidavits public records"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "specified additional powers.",
+            "SECTION 14 INVESTIGATION",
+            "Commission may use Central or State government agency or officers with consent.",
+            "PROCEDURAL FAIRNESS notice and hearing where reputation or conduct may be prejudicially affected."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT civil-court evidence powers support inquiry",
+            "they do not create ordinary civil or criminal jurisdiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 12(a) authorises Human Rights Commission inquiry suo motu, on petitions or court directions, but jurisdiction remains subject to statutory limits.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COMPLAINT-TO-RECOMMENDATION PROCEDURE, ONE-YEAR BAR AND LEGAL EFFECT",
+      "structural_type": "human-rights-remedy-accountability-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COMPLAINT-TO-RECOMMENDATION PROCEDURE, ONE-YEAR BAR AND LEGAL EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "ENTRY COMPLAINT OR SUO MOTU MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "JURISDICTION SCREEN",
+          "role": "comparison"
+        },
+        {
+          "text": "INQUIRY OR INVESTIGATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 36 NO PARALLEL INQUIRY WHERE ANOTHER NAMED COMMISSION",
+          "role": "caution"
+        },
+        {
+          "text": "SECTION 36(2)",
+          "role": "outcome"
+        },
+        {
+          "text": "NO INQUIRY AFTER ONE YEAR FROM THE ALLEGED VIOLATIVE",
+          "role": "caution"
+        },
+        {
+          "text": "SECTION 18 OUTPUTS RECOMMEND COMPENSATION OR DAMAGES RECOMMEND PROSECUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENTRY complaint or suo motu material → jurisdiction screen → inquiry or investigation.",
+        "SECTION 36 no parallel inquiry where another named commission is seized.",
+        "Section 36(2): no inquiry after one year from the alleged violative act.",
+        "SECTION 18 OUTPUTS recommend compensation or damages recommend prosecution or other action approach Supreme Court",
+        "recommend immediate interim relief."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ENTRY complaint or suo motu material → jurisdiction screen → inquiry or investigation.",
+            "SECTION 36 no parallel inquiry where another named commission is seized.",
+            "Section 36(2): no inquiry after one year from the alleged violative act."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SECTION 18 OUTPUTS recommend compensation or damages recommend prosecution or other action approach Supreme Court or High Court",
+            "recommend immediate interim relief.",
+            "FOLLOW-UP government comments/action report ordinarily within one month"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Commission publishes report, recommendation and response.",
+            "LEGAL EFFECT recommendation carries public and institutional weight but is not a self-executing decree.",
+            "TRAP action-taken reporting != mandatory acceptance and grave facts alone do not erase section 36(2)."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SECTION 18 OUTPUTS recommend compensation or damages recommend prosecution or other action approach Supreme Court or High Court"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The special route reflects operational and security concerns but weakens perceived independence where the alleged violator and reporting chain are institutionally connected.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARMED-FORCES PROCEDURE AND HUMAN RIGHTS COURTS: TWO SPECIAL ROUTES",
+      "structural_type": "human-rights-special-procedure-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARMED-FORCES PROCEDURE AND HUMAN RIGHTS COURTS",
+          "role": "primary"
+        },
+        {
+          "text": "TWO SPECIAL ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 19",
+          "role": "comparison"
+        },
+        {
+          "text": "ARMED FORCES",
+          "role": "evidence"
+        },
+        {
+          "text": "NHRC MAY ACT ON ITS OWN MOTION OR PETITION",
+          "role": "institution"
+        },
+        {
+          "text": "SEEK CENTRAL GOVERNMENT REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "EITHER NOT PROCEED OR MAKE RECOMMENDATION",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL GOVERNMENT REPORTS ACTION WITHIN THREE MONTHS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTION 19: ARMED FORCES",
+        "NHRC may act on its own motion or petition",
+        "seek Central Government report",
+        "either not proceed or make recommendation",
+        "Central Government reports action within three months"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 19: ARMED FORCES",
+            "NHRC may act on its own motion or petition",
+            "seek Central Government report"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "either not proceed or make recommendation",
+            "Central Government reports action within three months",
+            "Commission publishes material."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT ordinary inquiry architecture is replaced by this special report-based route.",
+            "SECTIONS 30-31: HUMAN RIGHTS COURTS",
+            "State Government, with concurrence of Chief Justice of High Court, may specify a Court of Session for speedy trial of human-rights offences."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Special Public Prosecutor: Public Prosecutor or advocate with at least seven years' practice.",
+            "Human Rights Court tries offences; NHRC or SHRC inquires and recommends."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Human Rights Courts use designated Sessions Courts and Special Public Prosecutors, but the statutory route yields where an applicable Special Court already exists.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 11"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NHRC-SHRC JURISDICTION, OVERLAP AND SPECIALISED-COMMISSION COORDINATION",
+      "structural_type": "human-rights-federal-overlap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NHRC-SHRC JURISDICTION, OVERLAP AND SPECIALISED-COMMISSION COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "NHRC NATIONAL STATUTORY MANDATE SUBJECT TO PHRA EXCLUSIONS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "SHRC INQUIRES INTO MATTERS RELATABLE TO STATE LIST AND",
+          "role": "institution"
+        },
+        {
+          "text": "SECTION 29 ADAPTS FUNCTIONS AND OMITS TREATY STUDY.",
+          "role": "evidence"
+        },
+        {
+          "text": "NHRC MAY TRANSFER A COMPLAINT TO A COMPETENT SHRC",
+          "role": "primary"
+        },
+        {
+          "text": "NCSC, NCST AND NCBC HAVE CONSTITUTIONAL SAFEGUARD MANDATES.",
+          "role": "outcome"
+        },
+        {
+          "text": "WOMEN, CHILD, MINORITY AND DISABILITY BODIES HAVE SPECIALISED STATUTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATION COMMON INTAKE METADATA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NHRC national statutory mandate subject to PHRA exclusions and transfer rules.",
+        "SHRC inquires into matters relatable to State List and Concurrent List",
+        "section 29 adapts functions and omits treaty study.",
+        "NHRC may transfer a complaint to a competent SHRC under statutory conditions.",
+        "NCSC, NCST and NCBC have constitutional safeguard mandates."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "NHRC national statutory mandate subject to PHRA exclusions and transfer rules.",
+          "NHRC may transfer a complaint to a competent SHRC under statutory conditions.",
+          "COORDINATION common intake metadata → reasoned referral → no duplicate inquiry",
+          "NHRC may transfer a complaint to a competent SHRC under statutory conditions."
+        ],
+        [
+          "SHRC inquires into matters relatable to State List and Concurrent List",
+          "NCSC, NCST and NCBC have constitutional safeguard mandates.",
+          "joint thematic work → preserve specialist voice.",
+          ""
+        ],
+        [
+          "section 29 adapts functions and omits treaty study.",
+          "Women, child, minority and disability bodies have specialised statutory fields.",
+          "LIMIT an umbrella merger cannot absorb constitutional commissions through ordinary PHRA amendment.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NHRC national statutory mandate subject to PHRA exclusions and transfer rules.",
+            "SHRC inquires into matters relatable to State List and Concurrent List",
+            "section 29 adapts functions and omits treaty study."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NHRC may transfer a complaint to a competent SHRC under statutory conditions.",
+            "NCSC, NCST and NCBC have constitutional safeguard mandates.",
+            "Women, child, minority and disability bodies have specialised statutory fields."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COORDINATION common intake metadata → reasoned referral → no duplicate inquiry",
+            "joint thematic work → preserve specialist voice.",
+            "LIMIT an umbrella merger cannot absorb constitutional commissions through ordinary PHRA amendment."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NHRC may transfer a complaint to a competent SHRC under statutory conditions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 4(2) says an appointment is not invalid merely because of a vacancy of a member in the selection committee.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PARIS PRINCIPLES, GANHRI ACCREDITATION AND CURRENT-STATUS DISCIPLINE",
+      "structural_type": "human-rights-paris-accreditation",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PARIS PRINCIPLES, GANHRI ACCREDITATION AND CURRENT-STATUS DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "PARIS PRINCIPLES, 1993 BROAD LEGAL MANDATE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN APPOINTMENT ADEQUATE RESOURCES",
+          "role": "comparison"
+        },
+        {
+          "text": "STABLE TENURE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDEPENDENT METHODS",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "PHRA MANDATE AND INQUIRY POWERS VERSUS POLICE/DEPUTATION DEPENDENCE, SHORT",
+          "role": "comparison"
+        },
+        {
+          "text": "GANHRI CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARIS PRINCIPLES, 1993 broad legal mandate",
+        "open appointment adequate resources",
+        "stable tenure",
+        "independent methods",
+        "DOMESTIC TEST"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PARIS PRINCIPLES, 1993 broad legal mandate",
+            "open appointment adequate resources",
+            "stable tenure",
+            "independent methods"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DOMESTIC TEST",
+            "PHRA mandate and inquiry powers versus police/deputation dependence, short terms, selection opacity and weak follow-up.",
+            "GANHRI CONTROL",
+            "March 2025 SCA recommended B downgrade."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "India challenged with required Bureau support.",
+            "Public membership page continued to list India as A on the 24 August 2026 control.",
+            "SAFE LANGUAGE current public A listing + unresolved official scrutiny.",
+            "TRAP recommendation under challenge != completed downgrade"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "A listing != proof of perfect Paris-Principles compliance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GANHRI A-status signals institutional compliance with the Paris Principles, but accreditation does not prove perfect independence, pluralism, funding or performance in practice.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THREE HUMAN-RIGHTS CASE-LAW BOUNDARIES",
+      "structural_type": "human-rights-case-law-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THREE HUMAN-RIGHTS CASE-LAW BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "PARAMJIT KAUR V. STATE OF PUNJAB (1999)",
+          "role": "institution"
+        },
+        {
+          "text": "SUPREME COURT USED NHRC AS AN EXPERT BODY ASSISTING",
+          "role": "institution"
+        },
+        {
+          "text": "THIS CONSTITUTIONAL ASSIGNMENT IS NOT ORDINARY PHRA JURISDICTION.",
+          "role": "caution"
+        },
+        {
+          "text": "N.C. DHOUNDIAL V. UNION OF INDIA (2003) SECTION 36(2)",
+          "role": "primary"
+        },
+        {
+          "text": "A COMPLETED VIOLATION DOES NOT BECOME A DAILY CONTINUING",
+          "role": "caution"
+        },
+        {
+          "text": "EEVFAM (2016) EXCESSIVE-FORCE ALLEGATIONS REQUIRE LAWFUL INQUIRY UNDER ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "NHRC IS A VALUABLE ROUTE BUT NOT EXCLUSIVE AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Paramjit Kaur v. State of Punjab (1999)",
+        "Supreme Court used NHRC as an expert body assisting Article 32 jurisdiction.",
+        "This constitutional assignment is not ordinary PHRA jurisdiction.",
+        "N.C. Dhoundial v. Union of India (2003) section 36(2) is a jurisdictional bar",
+        "a completed violation does not become a daily continuing wrong merely through non-reparation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Paramjit Kaur v. State of Punjab (1999)",
+            "Supreme Court used NHRC as an expert body assisting Article 32 jurisdiction."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "This constitutional assignment is not ordinary PHRA jurisdiction.",
+            "N.C. Dhoundial v. Union of India (2003) section 36(2) is a jurisdictional bar"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "a completed violation does not become a daily continuing wrong merely through non-reparation.",
+            "EEVFAM (2016) excessive-force allegations require lawful inquiry under Article 32 oversight"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NHRC is a valuable route but not exclusive and recommendations were not made generally binding.",
+            "Court-assigned expertise may exceed the ordinary route, but an autonomous statutory commission remains bound by statutory limits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Section 36(2) ordinarily bars NHRC inquiry after one year, while Court-directed constitutional assistance follows the Supreme Court's own jurisdiction.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 13"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "ENFORCEMENT LIMITS, REFORM, PYQ ROUTES AND QUALIFIED SYNTHESIS",
+      "structural_type": "human-rights-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ENFORCEMENT LIMITS, REFORM, PYQ ROUTES AND QUALIFIED SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURAL LIMITS RECOMMENDATORY OUTPUTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE-YEAR BAR",
+          "role": "comparison"
+        },
+        {
+          "text": "ARMED-FORCES REPORT ROUTE GOVERNMENT-LINKED INVESTIGATION SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "FEDERAL AND OVERLAP BOUNDARIES.",
+          "role": "primary"
+        },
+        {
+          "text": "PRACTICAL LIMITS VACANCIES",
+          "role": "outcome"
+        },
+        {
+          "text": "DELAYED REPORTS",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEVEN SHRC CAPACITY WEAK HUMAN RIGHTS COURT ROUTING",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL LIMITS recommendatory outputs",
+        "one-year bar",
+        "armed-forces report route government-linked investigation support",
+        "federal and overlap boundaries.",
+        "PRACTICAL LIMITS vacancies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STRUCTURAL LIMITS recommendatory outputs",
+            "one-year bar",
+            "armed-forces report route government-linked investigation support",
+            "federal and overlap boundaries.",
+            "PRACTICAL LIMITS vacancies"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "delayed reports",
+            "uneven SHRC capacity weak Human Rights Court routing",
+            "limited civil-society trust.",
+            "REFORM independent multidisciplinary investigation cadre",
+            "open plural appointments → time-bound reasoned response"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "grave/concealed-violation limitation reform",
+            "safeguarded armed-forces fact-finding → interoperable referrals.",
+            "PYQ ROUTES",
+            "2018 umbrella-commission debate",
+            "2021 limitations and remedies"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2023 body-classification support.",
+            "MAINS VERDICT strengthen fact-finding, independence and follow-through without misdescribing NHRC as a court."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Human Rights Commissions possess inquiry, visibility and court-access tools, but recommendatory remedies, jurisdictional limits and executive dependence constrain their practical effectiveness.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\polity-35_Complete-Learning-Session_2026-08-24.md#SESSION 16"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — NHRC",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — SHRC",
+          "role": "comparison"
+        },
+        {
+          "text": "APPOINTED BY THE PRESIDENT ON A 6-MEMBER COMMITTEE'S RECOMMENDATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PM (HEAD) , LS SPEAKER",
+          "role": "primary"
+        },
+        {
+          "text": "REMOVED BY THE PRESIDENT ; FOR PROVED MISBEHAVIOUR/INCAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "POWERS OF A CIVIL COURT ; HAS ITS OWN",
+          "role": "institution"
+        },
+        {
+          "text": "TWO BIG LIMITATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — NHRC",
+            "PART B — SHRC",
+            "Appointed by the President on a 6-member committee's recommendation: PM (head) , LS Speaker ,",
+            "Removed by the President ; for proved misbehaviour/incapacity , a Supreme Court inquiry is required"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Powers of a civil court ; has its own investigating staff .",
+            "CAUTION: Two big limitations: (1) cannot inquire into a matter 1 year old ; (2) recommendations are",
+            "CAUTION: Armed-forces limitation: in respect of the armed forces, it can only seek a report from the Centre and",
+            "Jurisdiction: only State List (II) & Concurrent List (III) subjects; not if the NHRC/another"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: NHRC/SHRC are constitutional bodies → statutory (1993 Act).",
+            "NOT: NHRC recommendations are binding → advisory only ; NHRC cannot punish or grant relief.",
+            "NOT: NHRC can inquire into any old case → only within 1 year of the violation.",
+            "NOT: SHRC members are removed by the Governor → removed only by the President ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 1
+  }
+}

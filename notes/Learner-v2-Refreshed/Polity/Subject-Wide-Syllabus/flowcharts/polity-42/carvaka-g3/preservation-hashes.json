@@ -1,0 +1,48 @@
+{
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "topic_key": "polity-42",
+  "reference_expected": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "reference_after": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "preexisting_before": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md": "d96c598e91253d87db5401476cc977627055f604e9b86815ea70cca081b85219",
+    "tools\\deep_content_quality_overrides.json": "1886587b08dd826e27cbcd86e7cc2d6ea3c9562bc93569d52d40791f4dd0e70e",
+    "upsc-ai-kit\\knowledge\\Polity\\42_Anti-Defection-Law_Complete-Topic-Package.md": "965e7411d04c528dc0e411a2b0d1a9d77710d5d4e0a114af79a363d0807b7025",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md": "b29d65a7ad1f01b6ee09775debe779672d86dac326703f42c4e8b8786149a0aa",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md": "39c8aa627e2b7b93b63d5b09ffda817bae97cf55e63d00fcf76030bf70afa437",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json": "b62a9f007308da8f77072547c0b52654dfc3bf085539ad98c6e73a4413502d88",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-42.json": "5005947176c8d30803b5de8c60f396d8e93e8e9c1ec172037dfe7420390e6dc5",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "preexisting_after": {
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md": "d96c598e91253d87db5401476cc977627055f604e9b86815ea70cca081b85219",
+    "tools\\deep_content_quality_overrides.json": "1886587b08dd826e27cbcd86e7cc2d6ea3c9562bc93569d52d40791f4dd0e70e",
+    "upsc-ai-kit\\knowledge\\Polity\\42_Anti-Defection-Law_Complete-Topic-Package.md": "965e7411d04c528dc0e411a2b0d1a9d77710d5d4e0a114af79a363d0807b7025",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md": "b29d65a7ad1f01b6ee09775debe779672d86dac326703f42c4e8b8786149a0aa",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md": "39c8aa627e2b7b93b63d5b09ffda817bae97cf55e63d00fcf76030bf70afa437",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json": "b62a9f007308da8f77072547c0b52654dfc3bf085539ad98c6e73a4413502d88",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-42.json": "5005947176c8d30803b5de8c60f396d8e93e8e9c1ec172037dfe7420390e6dc5",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

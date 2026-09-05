@@ -1,0 +1,200 @@
+ASCII MASTER FLOW — PANEL 1/12: Santhanam trajectory and the CVC-CBI-DSPE legal identity map
+ROOT QUESTION
+How should vigilance supervision, police investigation and final adjudication be separated?
+
+EVOLUTION
+1941 Special Police Establishment -> DSPE Act, 1946
+-> CBI resolution, 1 April 1963
+-> CVC resolution, 1964 after Santhanam Committee
+-> Vineet Narain v. Union of India (1997) safeguards -> CVC Act, 2003.
+
+LEGAL IDENTITY
+CVC -> statutory commission under CVC Act.
+CBI -> executive-created organisation.
+DSPE -> statutory police establishment supplying core investigative powers.
+
+LIMIT
+common anti-corruption purpose does not merge advice, police power, prosecution and judgment.
+
+ASCII MASTER FLOW — PANEL 2/12: CVC composition, appointment and tenure
+COMPOSITION
+Central Vigilance Commissioner as Chairperson
++ not more than two Vigilance Commissioners.
+
+APPOINTMENT
+President by warrant after committee recommendation:
+Prime Minister + Union Home Minister + Lok Sabha Opposition Leader/substitute.
+
+QUALIFICATION
+experience in vigilance, policy, administration, police administration,
+finance including insurance and banking, law or investigations.
+
+ASCII MASTER FLOW — PANEL 3/12: CVC removal, service safeguards and legal limits
+TERM
+four years or age 65, whichever earlier; statutory post-tenure restrictions apply.
+
+REMOVAL
+proved misbehaviour or incapacity -> President after Supreme Court inquiry.
+Direct statutory grounds cover insolvency, moral-turpitude conviction,
+outside paid employment, infirmity and prejudicial interest.
+
+LIMIT
+secure removal does not convert advice into binding adjudication.
+
+ASCII MASTER FLOW — PANEL 4/12: CVC section 8 vigilance and CBI supervision
+CVC FUNCTIONS
+superintend DSPE investigation of specified Prevention of Corruption Act matters
+| issue directions without dictating disposal of a particular case
+| review investigation progress and prosecution-sanction applications
+| inquire or cause inquiry into covered public-servant complaints
+| advise Central Government and covered organisations
+| exercise vigilance-administration superintendence.
+
+CVO CHAIN
+prevention -> surveillance and complaint scrutiny -> departmental inquiry
+-> CVC advice where applicable -> disciplinary authority reasoned decision.
+
+ASCII MASTER FLOW — PANEL 5/12: CVO network, advice and prosecution-sanction monitoring
+PROSECUTION SANCTION
+section 19 PC Act concerns prosecution stage;
+section 17A prior approval concerns specified inquiry/investigation decisions.
+
+LIMIT
+CVC is not a police station, trial court or universal controller of every CBI case.
+
+ASCII MASTER FLOW — PANEL 6/12: CBI organisation, DSPE powers, notified offences and mandate boundaries
+CBI ORGANISATION
+investigation and anti-corruption | economic offences | special crimes
+| policy, administration, forensics and international cooperation.
+
+DSPE ACT
+section 2 -> Union Territory police-establishment baseline.
+section 3 -> Central notification specifies offence classes.
+section 5 -> Central extension of powers to State areas.
+section 6 -> State consent for ordinary exercise in State area.
+
+POLICE POWER
+FIR or regular case -> search, seizure, arrest and examination under law
+-> evidence assessment -> closure report or charge sheet -> court.
+
+BOUNDARY
+organisational mandate does not override notified offences, territory,
+criminal procedure, special statutes, consent or court directions.
+
+ASCII MASTER FLOW — PANEL 7/12: CBI superintendence and investigative judgment
+SUPERINTENDENCE
+CVC for DSPE investigation of specified corruption offences.
+Central Government for other DSPE matters.
+
+ADMINISTRATION
+Director controls day-to-day administration and investigative judgment,
+subject to statute, law and lawful oversight.
+
+DIRECTOR APPOINTMENT
+Central Government appoints on committee recommendation:
+Prime Minister + Lok Sabha Opposition Leader/substitute + CJI or nominee.
+
+ASCII MASTER FLOW — PANEL 8/12: CBI Director appointment, tenure and transfer safeguards
+TENURE
+minimum two years under DSPE Act.
+Current law permits conditional one-year extensions,
+with recorded public-interest reasons, up to aggregate five years.
+
+TRANSFER
+statutory committee safeguard applies.
+
+TRAP
+two-year floor != automatic five-year term and superintendence != case-outcome command.
+
+ASCII MASTER FLOW — PANEL 9/12: State consent, pending investigations and constitutional-court directions
+ORDINARY STATE-AREA ROUTE
+section 5 extension + section 6 general or case-specific State consent.
+Withdrawal of general consent operates prospectively for new ordinary entries.
+
+Kazi Lhendup Dorji v. CBI (1994)
+later withdrawal did not terminate investigations validly begun while consent operated.
+
+State of West Bengal v. Committee for Protection of Democratic Rights (2010)
+High Court under Article 226 and Supreme Court under Article 32
+may direct CBI investigation without State consent, exceptionally and cautiously.
+
+Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)
+fact-specific consent result; no universal rule that later consent always cures defect.
+
+State of West Bengal v. Union of India (2024)
+preliminary maintainability objection rejected; cited judgment did not decide consent merits.
+
+FEDERAL VERDICT
+qualified State control in ordinary cases + exceptional rights-protecting judicial review.
+
+ASCII MASTER FLOW — PANEL 10/12: Lokpal interface, investigation lifecycle and procedural safeguards
+LOKPAL ROUTE
+complaint scrutiny -> preliminary inquiry or investigation under Lokpal Act
+-> CVC/CBI or statutory wings as assigned -> reports and directions within the Act.
+
+INVESTIGATION LIFECYCLE
+source information/complaint -> jurisdiction and approval screen
+-> preliminary verification where law permits -> FIR/regular case
+-> evidence collection -> sanction question -> final police report
+-> prosecution -> trial -> judgment.
+
+CBI v. Thommandru Hannah Vijayalakshmi (2021)
+preliminary inquiry is not mandatory before every corruption FIR;
+criminal-procedure and corruption-law requirements control.
+
+SAFEGUARDS
+lawful approval | reasons | search and arrest standards
+| disclosure and fair trial | judicial review | presumption of innocence.
+
+LIMIT
+FIR, charge sheet, vigilance advice and sanction are not findings of guilt.
+
+ASCII MASTER FLOW — PANEL 11/12: CVC, CBI, Lokpal, NIA and State Police: power-type comparison
+CVC
+statutory vigilance supervision and advice | no general police power.
+
+CBI / DSPE
+executive organisation + statutory police powers | consent and offence controls.
+
+LOKPAL
+statutory ombudsman and complaint-routing authority for covered public functionaries.
+
+NIA
+statutory national-security investigation under NIA Act and scheduled-offence framework.
+
+STATE POLICE / ACB
+State police power and territorial responsibility under ordinary criminal law.
+
+DEPARTMENTAL CVO
+internal prevention, scrutiny and disciplinary-vigilance coordination.
+
+COURT
+authorises, reviews, tries and finally determines guilt.
+
+TRAP
+administrative placement, vigilance supervision and police command are different relationships.
+
+ASCII MASTER FLOW — PANEL 12/12: Controlling cases, caged-parrot criticism, reform and answer synthesis
+Vineet Narain v. Union of India (1997)
+institutional safeguards, Director tenure and statutory CVC trajectory.
+
+Alok Kumar Verma v. Union of India (2019)
+statutory committee safeguard constrained removal of Director's functions.
+
+Dr Jaya Thakur v. Union of India (2023)
+current extension framework upheld; extension remains conditional, not automatic.
+
+"CAGED PARROT"
+judicial criticism of perceived executive influence in 2013;
+not a statutory status, doctrine or licence for judicial administration of every case.
+
+REFORM
+dedicated law with federal safeguards + predictable consent protocol
+-> professional cadre and budget -> transparent case allocation
+-> timely sanctions -> parliamentary system review + judicial accountability.
+
+PYQ SPINE
+2021 State consent and federalism | 2026 controlled institutional matching.
+
+VERDICT
+operational autonomy must be paired with legality, federal restraint and answerable coercive power.

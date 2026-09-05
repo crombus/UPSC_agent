@@ -1,0 +1,219 @@
+ASCII MASTER FLOW — PANEL 1/12: From 1967 instability to the 52nd and 91st Amendment design
+ROOT QUESTION
+How can party-government stability be protected without extinguishing legislative judgment?
+
+1967 defections -> Committee on Defections -> 52nd Amendment Act 1985.
+Tenth Schedule effective 1 March 1985.
+
+52ND AMENDMENT
+Articles 101, 102, 190, 191 + Tenth Schedule.
+
+91ST AMENDMENT
+split defence deleted | ministry-size caps
+| Articles 75(1B), 164(1B), 361B office disabilities.
+
+CURRENT PARAGRAPH MAP
+1 definitions | 2 grounds | 3 omitted | 4 merger
+| 5 presiding exemption | 6 decision | 7 invalid court bar | 8 rules.
+
+ASCII MASTER FLOW — PANEL 2/12: Grounds and member-type rules
+PARTY MEMBER
+voluntarily gives up membership
+OR votes/abstains contrary to direction without prior permission,
+unless condoned within fifteen days.
+
+INDEPENDENT MEMBER
+joining a political party after election -> disqualification.
+No six-month window.
+
+NOMINATED MEMBER
+may join within six months from taking the seat;
+joining after that period -> disqualification.
+
+Ravi S. Naik (1994)
+voluntarily giving up is wider than formal resignation and may be inferred from conduct.
+
+TRAP
+dissenting speech alone is not automatically paragraph 2(1)(b) voting conduct.
+
+ASCII MASTER FLOW — PANEL 3/12: Political party, legislature party and the exact whip test
+ORIGINAL POLITICAL PARTY
+party to which the member belongs for Schedule purposes.
+
+LEGISLATURE PARTY
+House members belonging to the same political party.
+
+WHIP TEST
+authorised party direction -> vote or abstention
+-> no prior permission -> no condonation within fifteen days.
+
+Subhash Desai (2023)
+the political party, not a legislature-party faction acting alone,
+authorises the whip/leader for Tenth Schedule purposes.
+
+CURRENT LAW
+direction may reach ordinary votes under the text.
+
+PROPOSAL
+restrict whips to confidence, no-confidence, Money Bills or core manifesto matters.
+
+ASCII MASTER FLOW — PANEL 4/12: Merger, deleted split and the narrow presiding-officer exemption
+PARAGRAPH 3
+one-third split defence omitted by the 91st Amendment.
+
+PARAGRAPH 4
+original political party merger + not less than two-thirds of legislature party agree
+-> protected choice to join merger or operate as separate group under the text.
+
+INTERPRETIVE CAUTION
+two-thirds legislators cannot be written as a free-standing permission to switch parties;
+original-party and deeming provisions remain central and live disputes must be qualified.
+
+PARAGRAPH 5
+narrow exemption for specified presiding officers on giving up/rejoining party
+subject to exact office and timing conditions.
+
+TRAP
+Speaker neutrality aspiration does not create a general exemption for every office-holder.
+
+ASCII MASTER FLOW — PANEL 5/12: Presiding-officer process, natural justice and judicial review
+FIRST INSTANCE
+Speaker/Chairman decides; if that officer is concerned, House elects another member.
+
+PROCESS
+petition -> maintainability/facts -> notice -> reply/evidence -> hearing
+-> reasoned decision -> seat consequence.
+
+Kihoto Hollohan (1992)
+presiding officer acts as tribunal; paragraph 7 invalid for lack of ratification;
+limited judicial review survives for jurisdictional error, mala fides and natural justice.
+
+Keisham Meghachandra Singh (2020)
+absent exceptional circumstances, petitions should ordinarily be decided within three months.
+
+LIMIT
+courts ordinarily do not replace the Speaker as first-instance fact finder.
+
+ASCII MASTER FLOW — PANEL 6/12: Resignation, disqualification and the 91st-Amendment office bars
+CHRONOLOGY
+alleged defection -> petition -> resignation -> Speaker decisions -> judicial review.
+
+Shrimanth Balasaheb Patil (2019)
+resignation does not erase antecedent disqualification;
+Speaker cannot add an extra re-election ban beyond constitutional text.
+
+DIRECT EFFECT
+loss of House membership under Articles 102(2)/191(2).
+
+OFFICE DISABILITIES
+Articles 75(1B), 164(1B), 361B
+-> minister/remunerative-political-post bar for the constitutionally defined period.
+
+LIMIT
+Tenth Schedule disqualification is not a criminal conviction or universal public-office ban.
+
+ASCII MASTER FLOW — PANEL 7/12: Case-law chronology and controlled propositions
+CASE SPINE
+Kihoto Hollohan (1992) -> Schedule upheld; paragraph 7 invalid; review survives.
+Ravi S. Naik (1994) -> voluntary giving up may be inferred from conduct.
+G. Viswanathan (1996) -> expulsion does not erase deemed party belonging.
+Rajendra Singh Rana (2007) -> inaction cannot protect an unsupported split claim.
+Nabam Rebia (2016) -> removal-notice restriction; correctness later referred.
+Shrimanth Balasaheb Patil (2019) -> resignation does not erase prior defection.
+Keisham Meghachandra Singh (2020) -> ordinary three-month outer limit.
+Subhash Desai (2023) -> political party authorises whip; institutional roles separated.
+
+ASCII MASTER FLOW — PANEL 8/12: Delay, judicial remedies and current doctrinal control
+TEXT
+Tenth Schedule contains no express deadline.
+
+JUDICIAL CONTROL
+Kihoto Hollohan (1992) -> ordinarily review after decision.
+Rajendra Singh Rana (2007) -> court may correct disabling inaction.
+Keisham Meghachandra Singh (2020) -> ordinarily three months from filing,
+absent exceptional circumstances supported by reasons.
+Telangana judgment (2025) -> case-specific three-month direction.
+
+PENDING DOCTRINE
+Subhash Desai (2023) referred Nabam Rebia (2016) to seven judges.
+No verified later merits ruling by 28 August 2026.
+
+TRAP
+constitutional silence is not unlimited delay; a judicial norm is not enacted text.
+
+ASCII MASTER FLOW — PANEL 9/12: Nabam Rebia (2016), Subhash Desai (2023) and distributed institutional authority
+Nabam Rebia (2016)
+Speaker facing a pending removal notice was held disabled from deciding defection petitions.
+
+PENDING QUALIFICATION
+Subhash Desai (2023) referred correctness of that rule to a seven-judge bench.
+Do not write Nabam Rebia (2016) as finally overruled.
+
+Subhash Desai (2023)
+political party authorises whip | Speaker determines party identity for Schedule purpose
+| ECI symbol proceeding is separate | Governor cannot decide intra-party leadership.
+
+DISTRIBUTED ROLES
+Speaker -> defection | ECI -> symbol/order field
+| Governor -> constitutional functions | court -> review.
+
+TRAP
+floor test, symbol dispute and defection petition answer different legal questions.
+
+ASCII MASTER FLOW — PANEL 10/12: Democratic balance, comparison and reform choices
+GAINS
+reduces open floor-crossing | protects mandate | supports government stability.
+
+COSTS
+broad whip suppresses deliberation | Speaker incentives | strategic delay
+| merger engineering | resignation tactics | weakened committee scrutiny.
+
+COMPARE
+Tenth Schedule -> Speaker/Chairman.
+Articles 102(1)/191(1) post-election question -> President/Governor on ECI opinion.
+RPA -> statutory grounds/procedure | privilege -> House discipline
+| symbol dispute -> ECI field.
+
+REFORM OPTIONS
+narrow whip | independent tribunal/ECI-advice model | statutory time limit
+| reasoned public procedure | neutral presiding-office safeguards.
+
+STATUS
+these are proposals unless enacted or judicially ordered in a particular case.
+
+ASCII MASTER FLOW — PANEL 11/12: Verified PYQs and executable answer architecture
+VERIFIED PYQS
+2022 Prelims Q16 -> nominated-member window + no express decision time-frame; answer B.
+2025 Prelims Q88 -> Speaker/Chairman decider + political party appears; answer D.
+2023 GS-II Q5 -> State presiding officers, impartiality and best democratic practices.
+
+PRELIMS FILTER
+member type -> conduct -> period -> threshold -> decider -> review.
+
+MAINS SPINE
+history -> paragraph 2 grounds -> paragraph 4 defence -> paragraph 6 process
+-> judicial review and delay -> resignation/office bars -> evaluation -> reform.
+
+COMPRESSION
+retain exact text + one controlling case + mechanism + qualification + verdict.
+
+ASCII MASTER FLOW — PANEL 12/12: UPSC traps, verified PYQs and qualified answer synthesis
+PRELIMS FIREWALL
+52nd created | 91st tightened | split deleted | merger two-thirds
+| giving up wider than resignation | independent no window
+| nominated six months | condonation fifteen days
+| Speaker first | judicial review survives | defection not crime.
+
+VERIFIED ROUTES
+2022 Prelims -> nominated members.
+2025 Prelims -> political-party and Tenth Schedule distinction.
+2023 GS-II supporting route -> presiding-officer impartiality.
+
+MAINS SPINE
+history -> grounds/member types -> party/whip
+-> merger -> process/review/delay -> resignation/office bars
+-> institutional conflicts -> stability-freedom balance -> bounded reform.
+
+VERDICT
+stability needs discipline, but democratic legitimacy needs a narrower whip,
+neutral adjudication and enforceable decision time.
