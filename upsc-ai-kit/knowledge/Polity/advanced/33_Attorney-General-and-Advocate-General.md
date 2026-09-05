@@ -48,8 +48,7 @@ Court** when required.
 | ✅ Term / removal | **Not fixed**; holds office during the **Governor's pleasure** |
 | ✅ Remuneration | As the **Governor** determines |
 
-✅ **Duties:** advises the state government on legal matters referred by the Governor. **Rights:** appear before
-**any court in the state**; speak/take part in both Houses of the **state legislature** & its committees **without
+✅ **Duties:** advises the state government on legal matters referred by the Governor. **Rights:** Article 177 permits the Advocate General to speak/take part in both Houses of the **state legislature** & its committees **without
 a vote**; enjoys **MLA privileges**.
 
 ---
@@ -59,7 +58,7 @@ a vote**; enjoys **MLA privileges**.
 |---|---|---|
 | ✅ Appointed by | President | Governor |
 | ✅ Qualification | Supreme Court judge (**HC advocate 10 yrs**) | High Court judge (**HC advocate 10 yrs** / judicial office 10 yrs) |
-| ✅ Audience | **All courts in India** | **Any court in the state** |
+| ✅ Audience | **All courts in India** under Article 76(3) | No matching express Article 165 clause; applicable law/practice controls |
 | ✅ Parliament/legislature | Both Houses of Parliament (no vote) | Both Houses of state legislature (no vote) |
 | ✅ Pleasure of | President | Governor |
 

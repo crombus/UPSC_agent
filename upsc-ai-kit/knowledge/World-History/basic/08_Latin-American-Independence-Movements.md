@@ -207,3 +207,28 @@ World History → `basic/02_American-Revolution.md` and `basic/03_French-Revolut
 World History → `basic/19_Latin-America-20th-Century.md` for the long afterlife of post-independence instability
 World History → `basic/18_Decolonization-of-Africa-and-Asia.md` for the comparison with 20th-century decolonisation
 World History → `advanced/08_Latin-American-Independence-Movements.md` for the elite-transfer debate (optional)
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the Iberian crisis and five distinct independence paths in
+  Haiti, northern South America, southern South America, Mexico and Brazil;
+  leaders, coalitions and campaigns; transfer of sovereignty; persistence of
+  creole power, slavery, land and racial hierarchy; fragmentation and
+  caudillismo as a bounded post-independence mechanism.
+- **Boundary:** Topics 02 and 03 own the American and French revolutionary
+  backgrounds, Topic 19 owns twentieth-century Latin America, and Topic 18
+  owns post-1945 Asian-African decolonisation. Topic 08 compares those owners
+  without importing their event narratives.
+- **Date control:** Haitian Revolution (1791) and independence (1804), Iberian
+  crisis (1808), Hidalgo's revolt (1810), San Martin's Andes crossing (1817),
+  New Granada and Gran Colombia (1819), Mexico (1821), Brazil under Pedro I
+  (1822), Ayacucho (1824) and Bolivia (1825) remain separate stages.
+- **Mechanism control:** imperial collapse opened the political opportunity,
+  but creole, enslaved, Indigenous, mixed-race and regional actors pursued
+  different projects. Independence ended Iberian sovereignty faster than it
+  transformed social power; Haiti is the radical social contrast, not a
+  peripheral duplicate.
+- **Verified PYQ/current ownership, 2018-2025:** zero direct topic-only PYQs.
+  The official 2026 Panama bicentennial linkage supports only the 1826
+  Amphictyonic Congress and Bolivar's regional-cooperation project; it does
+  not validate decorative ceremony detail.

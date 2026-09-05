@@ -375,3 +375,31 @@ Botha (from 1979): reform apartheid IN ORDER TO PRESERVE white control
 > **Study link:** World-History → `basic/20_World-Economy-and-Population-since-1900.md` §8.5A for the commodity-price and debt mechanism behind the Ghanaian, Nigerian, Tanzanian and Zimbabwean cases.
 > **Study link:** World-History → `basic/21_Cold-War-End-and-New-World-Order.md` for the "reforming an authoritarian regime cannot be stopped halfway" mechanism that §7.7(e) shares with the USSR.
 > **Study link:** Afro-Asian and Non-Aligned overlap -> `Polity/basic/National-Integration-and-Foreign-Policy.md`.
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** why empire became unsustainable after 1945; metropolitan
+  exhaustion, nationalist mobilisation, international norms and the
+  cost-of-repression mechanism; negotiated, partitioned, settler-war,
+  insurgent and hurried transfers; postcolonial borders, institutions,
+  economies, secession, external intervention, neo-colonialism and apartheid.
+- **Boundary:** Topic 07 owns conquest and New Imperialism; Modern Indian
+  History owns India's detailed transfer and partition; Topic 17 owns China's
+  revolution and Asian communisms; Topic 19 owns twentieth-century Latin
+  America. Topic 18 uses these only for bounded comparison and owns African
+  and Asian decolonisation and its uneven aftermath.
+- **Date control:** India-Pakistan (1947), Malayan federation (1948), Ghana
+  (1957), Congo (1960), Algeria (1962), Malaysia (1963), Singapore separation
+  (1965), Biafra (1967-70), Portuguese Africa (1975), Zimbabwe (1980), Rwanda
+  (1994) and South African majority rule (1994) remain distinct routes.
+- **Mechanism control:** European weakness was insufficient without organised
+  anti-colonial pressure; settlers, successor-state design and coercive cost
+  changed the route; formal sovereignty did not automatically remove
+  commodity dependence, inherited borders or outside leverage; local conflict
+  preceded but could be amplified by Cold War intervention.
+- **Verified PYQ/current ownership:** the 2015 Malayan-decolonisation and 2016
+  Western-educated-Africans demands are retained in owner-verified neutral
+  rendering because verbatim wording and marks are not locally held. Official
+  2026 UN C-24 material concerns 17 remaining Non-Self-Governing Territories
+  and unfinished UN business; it is not conflated with historical mass
+  decolonisation.

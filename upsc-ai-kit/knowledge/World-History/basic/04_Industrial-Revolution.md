@@ -321,3 +321,28 @@ World History → `basic/13_Russian-Revolution-and-USSR-under-Stalin.md` §9.4 a
 World History → `basic/20_World-Economy-and-Population-since-1900.md` §9 for the Great Depression that broke the interwar industrial order
 World History → `advanced/04_Industrial-Revolution.md` for the optimist/pessimist living-standards debate (optional enrichment)
 Modern-Indian-History → `basic/07_Economic-Impact-of-British-Rule.md` and `advanced/07_Economic-Impact-of-British-Rule.md` own the Indian deindustrialisation verdict — cross-link, do not duplicate
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Britain's first industrial breakthrough; coal, iron,
+  agriculture, demography, capital, institutions, transport and markets;
+  textiles, steam, factory discipline and railways; social, gendered,
+  ecological and imperial effects; labour and legislative responses; and
+  multiple later industrialisation paths.
+- **Boundary:** Topic 01 owns doctrine-level capitalism/socialism comparison.
+  Modern Indian History Topic 07 owns the final India-side deindustrialisation
+  verdict. Topic 04 supplies the English technological and political-economy
+  mechanism and comparative railway framework without annexing either owner.
+- **Date control:** spinning jenny (1764), water frame (1769), Watt patent
+  (1769), Factory Act (1802), power loom (1785), cotton gin (1793), anti-union
+  repeal (1824), passenger railway (1830) and Chartism (1830s-40s) retain their
+  separate inventions, legal status and effects.
+- **Mechanism control:** invention alone does not explain British priority;
+  Watt improved rather than solely invented the steam engine; connectivity can
+  integrate or extract depending on ownership, state power and colonial
+  structure; output growth does not erase concentrated immediate costs.
+- **Verified PYQ ownership, 2018-2025:** the 2023 GS-I railway demand is a
+  direct World History route. The exact 2024 GS-I England-and-Indian-handicrafts
+  demand is bridged here, while the India verdict remains Modern
+  History-owned. No current statistic or unsupported causal percentage is
+  introduced.

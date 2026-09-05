@@ -28,8 +28,8 @@
 
 ## Powers & functions ✅
 - **Superintendence over the CBI (DSPE)** *only* for **Prevention of Corruption Act, 1988** offences (⭐ NOT all CBI work).
-- Inquire into corruption complaints vs **AIS + Group-A** central officers.
-- **Whistle-blower** authority under **PIDPI Resolution (2004)** & the **Whistle Blowers Protection Act, 2014**.
+- Inquire or cause inquiry into complaints concerning the public-servant categories covered by section 8 and applicable rules/orders; do not reduce the statutory coverage to one shorthand rank list.
+- **Whistle-blower** designated agency under the operative **PIDPI Resolution (2004)**. The **Whistle Blowers Protection Act, 2014** should not be treated as commenced authority without an official commencement control.
 - Chairs the committee recommending the **ED Director** & (post-Lokpal Act 2013) CBI officers **SP-and-above (except Director)**.
 - **Civil-court powers**; **annual report → President → Parliament**. ⚠️ Advisory — advice **not binding** (govt must record reasons if it disagrees).
 
@@ -45,7 +45,7 @@
 | Point | Detail |
 |---|---|
 | ✅ Appointed by | Central Govt on a **3-member committee**: **PM (chair)** + **LoP (Lok Sabha)** + **CJI or an SC judge nominated by him** |
-| ✅ Tenure | **2-year** security of tenure (**CVC Act, 2003**) |
+| ✅ Tenure | Minimum **2-year** tenure; annual extensions on committee recommendation and recorded reasons may take total tenure to **5 years** under the 2021 amendment |
 | ✅ No LoP? | **DSPE (Amendment) Act, 2014** → leader of the **single-largest opposition party** sits instead |
 
 ⚠️ **DSPE (Amendment) Act, 2021** — CBI Director's 2-yr term can be **extended annually up to a total of 5 years**

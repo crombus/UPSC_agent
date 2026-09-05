@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "ancient-indian-history-24-25-learner-v2-2026-08-30-validation",
+  "validated_on": "2026-08-30T07:24:01.225661+05:30",
+  "selection": "ancient-indian-history-24-25",
+  "topic_count": 2,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-24",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-24",
+      "main_pdf_pages": 81,
+      "workbook_pdf_pages": 18,
+      "session_count": 23,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 81,
+      "mcq_count": 60,
+      "mcq_key_counts": {
+        "A": 15,
+        "B": 15,
+        "C": 15,
+        "D": 15
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\ancient-indian-history-24_Solved-Practice-Workbook_2026-08-30.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\ancient-indian-history-24_Complete-Learning-Session_2026-08-30.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-24\\ancient-indian-history-24_Solved-Practice-Workbook_2026-08-30.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-24\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 81,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 18,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_validation_passed": true,
+      "passed": true,
+      "errors": []
+    },
+    {
+      "topic_key": "ancient-indian-history-25",
+      "source_generation": 1,
+      "refreshed_generation": 2,
+      "subject": "Ancient-Indian-History",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-25",
+      "main_pdf_pages": 65,
+      "workbook_pdf_pages": 17,
+      "session_count": 19,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 80,
+      "mcq_count": 48,
+      "mcq_key_counts": {
+        "A": 12,
+        "B": 12,
+        "C": 12,
+        "D": 12
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\ancient-indian-history-25_Solved-Practice-Workbook_2026-08-30.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\ancient-indian-history-25_Complete-Learning-Session_2026-08-30.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-25\\ancient-indian-history-25_Solved-Practice-Workbook_2026-08-30.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\ancient-indian-history-25\\carvaka-g2"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 17,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_validation_passed": true,
+      "passed": true,
+      "errors": []
+    }
+  ]
+}

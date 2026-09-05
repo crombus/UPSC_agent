@@ -1,6 +1,6 @@
 ---
 title: Polity 26 - Scheduled and Tribal Areas
-export_date: 2026-08-19
+export_date: 2026-08-28
 approval: false
 cover_image: assets/26_scheduled_tribal_governance_map.png
 evidence_key: "[FACT] verified constitutional, statutory, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated legal or institutional control; [LIMIT] qualification preventing overstatement"
@@ -8,7 +8,7 @@ evidence_key: "[FACT] verified constitutional, statutory, judicial or official p
 
 # Polity 26 - Scheduled and Tribal Areas - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 26 | **GS-II + Prelims** | **Export date:** 2026-08-19
+> **Subject:** Indian Polity | **Topic:** 26 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -17,7 +17,8 @@ evidence_key: "[FACT] verified constitutional, statutory, judicial or official p
 ## Package method, source priority and current legal control
 
 - [FACT] Source order followed: `basic/Scheduled-and-Tribal-Areas.md` -> `advanced/26_Scheduled-and-Tribal-Areas.md` -> Polity 23 Panchayati Raj, Polity 22 Special Provisions, Fundamental Rights, Supreme Court, Environment/FRA and EIA owners only for cross-links -> audited PYQ routing ledgers and locally held official Prelims papers/keys -> authoritative Constitution, India Code, Ministry of Tribal Affairs, Ministry of Panchayati Raj, Supreme Court and official State/ADC sources. Qdrant was not used.
-- [CURRENT] Legal and institutional control date is **19 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and institutional control date is **28 August 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 28 August 2026:** Ministry of Tribal Affairs Fifth-Schedule material, Ministry of Panchayati Raj PESA-rules listings, MHA Ladakh committee material and the official Supreme Court judgment source were rechecked. Jharkhand PESA Rules, 2025 remain listed; no Sixth-Schedule grant to Ladakh was located.
 - [FACT] Article **244(1)** applies the Fifth Schedule to Scheduled Areas and Scheduled Tribes in States other than Assam, Meghalaya, Tripura and Mizoram. Article **244(2)** applies the Sixth Schedule to tribal areas in those four States.
 - [CURRENT] The official Ministry of Panchayati Raj state-wise document identifies notified Fifth Schedule areas in **10 States**: Andhra Pradesh, Telangana, Chhattisgarh, Gujarat, Himachal Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha and Rajasthan.
 - [LIMIT] A State's inclusion in that list does not make the whole State a Scheduled Area. Only territory covered by the operative Presidential Orders has that status. Presence of a Scheduled Tribe population also does not by itself notify a Scheduled Area.
@@ -1358,7 +1359,7 @@ D. Article 339-Sixth Schedule council composition.
 
 ### OM2. Fifth Schedule States
 
-Which statement is correct as on 19 August 2026?
+Which statement is correct as on 28 August 2026?
 
 A. Every State with an ST population has a notified Scheduled Area.  
 B. Official Central material identifies notified Fifth Schedule areas in 10 States.  
@@ -1787,7 +1788,7 @@ D. ADCs are ordinary Zila Parishads.
 
 ### OM35. Current PESA rule status
 
-Which dated statement is supported by the official MoPR listing on 19 August 2026?
+Which dated statement is supported by the official MoPR listing on 28 August 2026?
 
 A. Odisha is the only State with rules.  
 B. All ten States have identical rules.  
@@ -1989,6 +1990,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 
 **Why this earns marks:** It answers "why", names the constitutional models, supplies history and statutes, and ends with a qualified normative test.
 
+**How to improve / compress:** Compress the historical opening to two lines, then organise the body as Fifth Schedule protection versus Sixth Schedule self-government; reserve PESA/FRA for the final analytical paragraph.
+
 ### M2. "The Fifth Schedule is constitutionally powerful but institutionally under-activated." Examine. (10 marks, 150 words)
 
 **Model solution**
@@ -2006,6 +2009,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 **Verdict:** Activation requires public reporting, reasoned TAC follow-up, cross-law conformity, records and enforceable remedies.
 
 **Why this earns marks:** It balances text and performance, uses exact institutions and a dated official implementation control.
+
+**How to improve / compress:** Add one paragraph separating constitutional design from implementation: Governor report/TAC/paragraph 5 powers on one side and dated PESA-rule compliance on the other.
 
 ### M3. Discuss the legislative, executive, judicial and fiscal powers of Sixth Schedule councils and their constitutional limits. (15 marks, 250 words)
 
@@ -2028,6 +2033,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 **Verdict:** The Schedule creates meaningful autonomy when constitutional powers, administrative transfer and democratic accountability operate together.
 
 **Why this earns marks:** It organises the answer by four power types, names paragraphs/examples and repeatedly identifies the limits.
+
+**How to improve / compress:** Use four labelled heads—legislative, executive, judicial and fiscal—and attach one textual limit to each; omit minor examples if writing a 10-marker.
 
 ### M4. Compare the Fifth and Sixth Schedules as competing models of tribal governance. (15 marks, 250 words)
 
@@ -2054,6 +2061,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 
 **Why this earns marks:** It compares on identical axes, uses evidence and avoids a simplistic hierarchy.
 
+**How to improve / compress:** Build the comparison on identical axes (territory, body, powers, assent, finance and accountability), then give a qualified verdict rather than calling one model universally superior.
+
 ### M5. PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss. (15 marks, 250 words)
 
 **Model solution**
@@ -2078,6 +2087,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 
 **Why this earns marks:** It directly proves the proposition with section-specific verbs, then adds implementation and qualification.
 
+**How to improve / compress:** Quote the exact PESA verb for each proposition; in a 150-word answer retain approve, consult, recommend and restore, and delete general participation rhetoric.
+
 ### M6. Analyse how the Fifth Schedule, PESA, FRA and judicial decisions regulate land and mining conflicts in tribal areas. (15 marks, 250 words)
 
 **Model solution**
@@ -2097,6 +2108,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 **Verdict:** lawful development requires sequenced rights recognition, exact PESA compliance, environmental appraisal, reasoned alternatives and enforceable restoration/R&R.
 
 **Why this earns marks:** It integrates four legal layers, uses two accurately bounded cases and explains the causal mechanism of dispossession.
+
+**How to improve / compress:** Present the conflict as a sequence—territorial status, land-transfer law, PESA process, FRA recognition, environmental decision—and state the precise limit of each judgment.
 
 ### M7. Design an accountability reform for Fifth and Sixth Schedule institutions. (20 marks, 250 words)
 
@@ -2126,6 +2139,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 
 **Why this earns marks:** It offers a sequenced institution-specific design, protects autonomy and attaches qualifications to each reform logic.
 
+**How to improve / compress:** Prioritise six executable reforms with actor, action and accountability indicator; compress the diagnosis to one opening paragraph in a 250-word response.
+
 ### M8. Should Sixth Schedule-style autonomy be extended to Ladakh or other tribal regions? Critically examine. (20 marks, 250 words)
 
 **Model solution**
@@ -2147,6 +2162,8 @@ D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -
 **Verdict:** consider Sixth Schedule extension where territorial self-government is the proportional solution, but choose through transparent consultation and enacted constitutional design rather than slogan or analogy.
 
 **Why this earns marks:** It uses current Ladakh control, compares institutional benefits and costs, offers alternatives and answers "should" with a conditional test.
+
+**How to improve / compress:** Keep the Ladakh status sentence dated and conditional; compare Sixth Schedule benefits with institutional fit, then mention two tailored alternatives before the verdict.
 
 ## Final consolidated register notes
 

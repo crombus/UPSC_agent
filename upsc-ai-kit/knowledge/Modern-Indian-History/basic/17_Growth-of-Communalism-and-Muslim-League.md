@@ -202,3 +202,20 @@ Colonial census, enumeration and representation by community
 - The Simla Deputation is ⚠️-tagged in this file; do not assert an official conspiracy behind it.
 - Hindu Mahasabha (1915), *Hindutva* (1923) and RSS (1925) are placed under this heading on Bipan Chandra's framework; flag the interpretive basis.
 - Do not use communal-riot narratives, casualty figures or population percentages as evidence.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** communalism's definition, stages and modern causes; colonial
+  classification and representation; Simla Deputation, early Muslim League,
+  separate electorates, Hindu communal organisations and provincial variation.
+- **Boundary:** Topic 10 owns religious reform; Topic 18 owns Lucknow's
+  negotiated provisions; Topic 20 owns Khilafat; Topic 27 owns the 1940-47
+  Pakistan and Partition endgame.
+- **Date control:** Simla Deputation (October 1906), League at Dacca
+  (December 1906), separate electorates (1909), Hindu Mahasabha (1915) and
+  Lucknow Pact (1916) are distinct. Hindutva (1923), RSS (1925) and Lahore
+  Resolution (1940) are bounded later trajectory.
+- **Mechanism control:** religion is not communalism; separate electorates,
+  reserved seats and nomination differ; Chandra's staged model is attributed.
+- **Verified PYQ ownership, 2018-2026:** 2018 GS-I is direct; provisional 2026
+  Prelims Q18 is routed without promoting a provisional answer key.

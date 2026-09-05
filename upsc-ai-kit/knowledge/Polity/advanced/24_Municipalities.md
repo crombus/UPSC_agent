@@ -99,3 +99,13 @@ Township · Port Trust · Special Purpose Agency.**
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+
+## Precision addendum — Part IXA provisos
+
+- Article 243Q's industrial-township proviso covers an urban area or part where an industrial establishment provides or proposes municipal services; it is not an ordinary fourth municipality.
+- Articles 243R/T/U require exact treatment of non-voting experts, chairperson reservation, pre-dissolution hearing, the short-remainder exception and the unexpired-term rule.
+- Articles 243ZB/ZC/ZF cover Union-Territory adaptation, excluded Scheduled/tribal areas, parliamentary extension and transition of pre-1993 laws/bodies.
+- DPC/MPC elected fractions are floors, not complete composition formulas; both draft plans are forwarded by their chairpersons to the State Government.
+- Cantonment Boards are Union/Defence institutions under central cantonment law, not Article 243Q municipalities; census towns are statistical categories; industrial townships are notified constitutional exceptions.
+- Current controls checked 28 August 2026: RBI municipal-finance report (2022), Sixteenth Finance Commission 2026–31 documents, AMRUT 2.0 guidelines/toolkit, and SEBI municipal-debt framework/statistics.

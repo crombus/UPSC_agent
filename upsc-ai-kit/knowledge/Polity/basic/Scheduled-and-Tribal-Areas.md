@@ -21,8 +21,7 @@ autonomy** via elected **Autonomous District Councils** in the four north-easter
 > amendments create exceptions such as the Bodoland Territorial Council.
 
 ## Must-Know Facts
-- ✅ **Fifth Schedule:** President declares scheduled areas; Governor sends **annual report**; **Tribes Advisory
-  Council** (20 members, 3/4 ST MLAs) advises.
+- ✅ **Fifth Schedule:** President declares scheduled areas; Governor sends **annual report**; **Tribes Advisory Council** (not more than 20 members; as nearly as may be, three-fourths are ST representatives in the Assembly, with a shortfall rule) advises.
 - ✅ **Sixth Schedule:** ordinarily an Autonomous District Council has **up to 30
   members (26 elected + 4 nominated)** and elected members serve 5 years; the Bodoland
   Territorial Council has a special **46-member** design under the 2003 amendment. Councils
@@ -72,7 +71,7 @@ autonomy** via elected **Autonomous District Councils** in the four north-easter
 ### 5.5 Bank B — Sixth Schedule architecture (Tribal Areas)
 
 - **Claim:** Tribal areas in the north-east get elected self-government. → **Evidence:** **Art 244 + Sixth Schedule** — tribal areas of **Assam, Meghalaya, Tripura, Mizoram** constituted as **autonomous districts** (and **autonomous regions** where tribes differ), the **Governor** organising/reorganising them. → **Significance:** genuine devolved government, not mere protection. → **Caution:** ✅ the **Governor** organises districts here; the **President** declares Scheduled Areas under the Fifth Schedule — do not swap.
-- **Claim:** District Councils legislate, adjudicate and tax. → **Evidence:** an **Autonomous District Council** (ordinarily up to **30** — 26 elected + 4 nominated, five-year term; **Bodoland Territorial Council** a special **46-member** design) legislates on **land, forests, canal water, shifting cultivation, inheritance, marriage/divorce and social customs** (Governor's assent), constitutes **village councils/courts**, and levies **land revenue and specified taxes** (professions, trades, animals, vehicles, markets, tolls). → **Significance:** legislative + judicial + fiscal autonomy in one body. → **Caution:** ✅ Central/State Acts apply to autonomous districts **only with modifications**.
+- **Claim:** District Councils legislate, adjudicate and tax. → **Evidence:** an **Autonomous District Council** (ordinarily up to **30** — 26 elected + 4 nominated, five-year term; **Bodoland Territorial Council** a special **46-member** design) legislates on **land, forests, canal water, shifting cultivation, inheritance, marriage/divorce and social customs** (Governor's assent), constitutes **village councils/courts**, and levies **land revenue and specified taxes** (professions, trades, animals, vehicles, markets, tolls). → **Significance:** legislative + judicial + fiscal autonomy in one body. → **Caution:** ✅ The Sixth Schedule contains State-specific rules for whether parliamentary/State laws apply, do not apply, or apply with exceptions/modifications; there is no single blanket non-application rule.
 - **Claim:** Assam has an additional autonomy route. → **Evidence:** **Art 244A** permits an **autonomous State within Assam** with its own legislature/Council of Ministers. → **Significance:** the deepest constitutional autonomy short of statehood. → **Caution:** ✅ Art 244A is specific to **Assam**.
 
 ### 5.6 Bank C — The rights layer: PESA, FRA and *Samatha*

@@ -12,6 +12,7 @@
 ## 1. One-screen advanced map
 
 ```text
+GAUBA'S ALLOCATIVE FRAME:
 SCARCITY + OPEN SOCIETY
         |
         v
@@ -22,7 +23,7 @@ benefits + burdens
         |                              |
         v                              v
 TRADITIONAL JUSTICE               MODERN / SOCIAL JUSTICE
-just man, fixed functions         just society, transform injustice
+just man, differentiated roles    just society, transform injustice
 Plato                             reformers, social justice
         |
         v
@@ -45,7 +46,7 @@ equality further qualified by fraternity
 
 ## 2. Scope, assumptions and conceptual boundary
 
-- ✅ Justice becomes meaningful for Gauba only under two conditions: scarcity of valued goods/opportunities and openness of the social order to criticism and revision (Gauba, PDF pp.432-433, 444-445).
+- ✅ Gauba introduces allocative justice through scarcity of valued goods/opportunities and openness of the social order to criticism and revision. These are conditions of his chapter frame, not universal necessary conditions for every corrective, penal or institutional injustice claim (Gauba, PDF pp.432-433, 444-445).
 - ✅ The chapter is not yet a full survey of rival theories of justice; it is the conceptual groundwork before those later debates, which is why Rawls appears only as a bridge figure here (Gauba, PDF pp.434-435, 443).
 - ✅ Gauba treats legal, political and socio-economic justice as analytically distinct but not watertight, because economic injustice can erode legal and political justice from beneath (Gauba, PDF pp.441-442).
 - ⚠️ The most important boundary for advanced answers is this: procedural justice and substantive justice are not mutually annihilating categories; Gauba criticizes procedure-only views without abolishing due process.
@@ -53,9 +54,9 @@ equality further qualified by fraternity
 ## 3. Direct-book argument reconstruction
 
 1. ✅ Justice is introduced as a problem of allocation of goods, services, opportunities, benefits, power, honours and obligations in a scarcity situation (Gauba, PDF p.432).
-2. ✅ The search for justice is relevant only in an open society where criteria of allocation can be discussed, contested and revised through appeal and protest (Gauba, PDF pp.433-434).
-3. ✅ Gauba then distinguishes justice from mere utility by separating good/bad as a continuum from right/wrong as a dichotomy; justice belongs to the latter field of rightness (Gauba, PDF pp.433-435).
-4. ✅ This move enables him to criticize utilitarian indifference to justice and to note Rawls's resistance to utility-maximizing reasoning that sacrifices rightness (Gauba, PDF pp.434-435).
+2. ✅ In Gauba's frame the public search for allocative justice becomes effective in an open society where criteria can be discussed, contested and revised through appeal and protest; suppression of that contest does not make authoritarian institutions just (Gauba, PDF pp.433-434).
+3. ✅ Gauba distinguishes justice from mere utility by separating good/bad as a continuum from right/wrong as a dichotomy; justice belongs to the latter field of rightness. This is his contrast, not a universal refutation of utilitarian accounts of justice (Gauba, PDF pp.433-435).
+4. ✅ This move enables him to criticize utility-maximizing reasoning that sacrifices rightness and to note Rawls's anti-utilitarian response. Mill's own utilitarian account of justice prevents the whole tradition from being treated as definitionally indifferent to justice (Gauba, PDF pp.434-435).
 5. ✅ Justice is dynamic because social consciousness changes: slavery, serfdom, untouchability, subordination of women and racial hierarchy can move from accepted normalcy to condemned injustice (Gauba, PDF pp.435-436).
 6. ✅ Barker then supplies the chapter's integrative core: justice is the thread that orders liberty, equality and fraternity into a universal principle of governance (Gauba, PDF pp.436-438).
 7. ✅ Liberty, on this reading, must be equal and regulated; equality, especially in the economic sphere, must be further qualified by fraternity in favour of the weaker party (Gauba, PDF pp.436-438).
@@ -76,7 +77,7 @@ equality further qualified by fraternity
 | Justice according to law | ✅ Formal legality, impartial rule-application and efficient legal administration; Ross's line (Gauba, PDF pp.439-440). |
 | Law according to justice | ✅ The law itself must answer to inherent moral value and humanly reasonable standards; Barker's line (Gauba, PDF p.440). |
 | Procedural justice | ✅ Fair rules, equal application and absence of force/fraud, often analogized to a fair race (Gauba, PDF pp.442-444). |
-| Substantive/distributive justice | ✅ Attention to who actually gets improved life-chances and whether weaker sections are protected from structural disadvantage (Gauba, PDF pp.444-445). |
+| Substantive/distributive justice | ✅ In Gauba's chapter usage, attention to who actually gets improved life-chances and whether weaker sections are protected from structural disadvantage. Substantive, social and distributive justice are not universally synonymous across political theory (Gauba, PDF pp.444-445). |
 
 ## 5. Thinker-by-thinker positions
 
@@ -87,10 +88,10 @@ equality further qualified by fraternity
 | Ernest Barker | ✅ Justice integrates liberty, equality and fraternity; authority gives law validity, justice gives it value (Gauba, PDF pp.436-440). |
 | Alf Ross | ✅ Justice is conformity with existing law through general rules correctly and impartially applied; he avoids appeal to extra-legal moral absolutes (Gauba, PDF pp.439-440). |
 | Jeremy Bentham | ✅ Utility can balance pleasure and pain, but that does not by itself answer the question of justice as rightness (Gauba, PDF pp.434-435). |
-| J.S. Mill | ✅ By prioritizing individual liberty over majority pressure, Mill edges away from crude utilitarian aggregation toward justice-sensitive reasoning (Gauba, PDF pp.434-435). |
+| J.S. Mill | ⚠️ Mill develops a utilitarian account of justice and gives liberty special protection within it. He therefore qualifies any claim that utilitarianism is inherently incapable of recognizing justice, even though Gauba rejects reducing rightness to aggregate advantage. |
 | John Rawls | ✅ Rawls is invoked as a major anti-utilitarian thinker and as someone who tries to incorporate substantive concerns within a structured procedural framework (Gauba, PDF pp.434-435, 443). |
 | Herbert Spencer | ✅ Spencer pushes procedural justice to a harsh limit by resisting aid to the weak and effectively importing survival-of-the-fittest logic into civil society (Gauba, PDF pp.443-444). |
-| Hayek / Friedman / Nozick | ✅ These thinkers exemplify procedure-centered liberalism suspicious of distributive justice and redistribution (Gauba, PDF pp.443-444). |
+| Hayek / Friedman / Nozick | ✅ Gauba groups these thinkers as procedure-centred liberals suspicious of patterned redistribution, but their doctrines are not identical: Hayek stresses general rules and spontaneous order, Friedman voluntary market exchange, and Nozick historical entitlement plus rectification (Gauba, PDF pp.443-444). |
 | C.B. Macpherson | ✅ Macpherson criticizes capitalist conditions for destroying creative freedom, thereby exposing the inadequacy of market-centered proceduralism (Gauba, PDF pp.443-445). |
 
 ## 6. Competing perspectives
@@ -107,7 +108,7 @@ equality further qualified by fraternity
 - ✅ Ross's formalism has a real strength: it protects against arbitrariness by insisting on general rules and impartial application (Gauba, PDF pp.439-440).
 - ✅ Its weakness, as Gauba sees it, is that oppressive or stagnant law may remain impeccably administered while still blocking social progress (Gauba, PDF p.440).
 - ✅ Barker's view restores value to law, but it also raises the hard question of how justice is to be identified; Gauba answers through reason informed by modern social consciousness rather than timeless dogma (Gauba, PDF pp.435-440).
-- ✅ Plato's functional justice secures order by assigning duties, yet Gauba treats it as conservative because it begins from a fixed hierarchy rather than from transformation of unjust structures (Gauba, PDF pp.438-439).
+- ✅ Plato's functional justice secures order through hierarchical functional differentiation. Gauba treats it as conservative because it begins from an ordered division of roles rather than transformation of unjust structures; it should not be simplified into absolutely closed hereditary caste because limited movement by aptitude remains conceptually possible (Gauba, PDF pp.438-439).
 - ✅ Procedural justice gains moral force when rules are genuinely fair, but loses credibility when background inequality makes "open competition" a facade for privilege (Gauba, PDF pp.442-445).
 - ✅ Substantive justice corrects that weakness by focusing on minimum needs and the lot of the underprivileged, yet Gauba does not propose abolishing procedural safeguards; rather, he rejects procedure as a sufficient test (Gauba, PDF pp.442-445).
 - ⚠️ The practical synthesis is not "procedure or substance" but "procedure in the service of a substantively defensible social order."
@@ -158,7 +159,7 @@ equality further qualified by fraternity
 ## 12. Factual-risk checks
 
 - ❌ Justice according to law and law according to justice are identical. -> ✅ Gauba explicitly distinguishes legal validity from moral value (Gauba, PDF p.440).
-- ❌ Plato's justice and modern social justice are the same because both seek order. -> ✅ Plato emphasizes right performance of fixed functions; modern justice emphasizes transformation of unjust structures (Gauba, PDF pp.438-439).
+- ❌ Plato's justice and modern social justice are the same because both seek order. -> ✅ Plato emphasizes right performance within a hierarchy of differentiated functions; modern justice emphasizes transformation of unjust structures (Gauba, PDF pp.438-439).
 - ❌ Procedural justice is enough if nobody cheats. -> ✅ Gauba argues that unequal background conditions can still make outcomes unjust (Gauba, PDF pp.442-445).
 - ❌ Substantive justice abolishes the importance of fair procedure. -> ✅ Gauba attacks procedure-only theories, not procedure itself.
 - ✅ References to constitutional promises or democratic mechanisms in this chapter are read here as conceptual illustrations inside a 2009 text, not silently updated present-day institutional claims (Gauba, PDF pp.441-442).

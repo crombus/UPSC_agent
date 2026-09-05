@@ -11,7 +11,7 @@
 |---|---|---|
 | **Nature** | ✅ Permanent (never dissolved) | ✅ 5-yr term, dissolvable |
 | **Max strength** | ✅ 250 | ✅ 550 |
-| **Sanctioned/elected strength** | ✅ 245 sanctioned | ✅ 543 elected |
+| **Stable sanctioned/elected strength** | ✅ 245 sanctioned | ✅ 543 elected seats |
 | **Elected by** | State MLAs (indirect, **STV-PR**) | People (direct, **FPTP**, 18 yrs) |
 | **Retirement** | ✅ 1/3 every 2 yrs; term 6 yrs | Whole House at dissolution |
 | **Nominated** | 12 (by President) | *Anglo-Indian abolished, 104th Amdt* |
@@ -22,7 +22,8 @@ essential (summons, prorogues, assents). Lok Sabha is the **popular, more powerf
 is the **permanent, revising** chamber representing states.
 
 > 🔑 **Quorum = 1/10** → **55 LS / 25 RS.**
-> 🔑 **Sessions:** Budget · Monsoon · Winter — gap between two ≤ **6 months**.
+> 🔑 **Sessions:** Budget · Monsoon · Winter are conventional labels; Article 85 only fixes a maximum
+> **six-month interval** between the last sitting of one session and the first sitting of the next.
 > 🔑 **Zero Hour** = Indian innovation (since 1962), NOT in the Rules; **Question Hour** IS.
 
 ## Money Bill — must remember
@@ -74,7 +75,7 @@ reserved for SCs and STs. Three registers must never be merged in an answer:
 > remains **inoperative** until the **Art 334A** sequence completes: **first census taken after
 > 16 April 2026 → publication of its relevant figures → delimitation undertaken for this purpose →
 > reservation takes effect.** Do **not** convert the commencement date into an implementation year, a
-> first-reserved-seat election, or any seat count. *(Status stated as of **13 August 2026**.)*
+> first-reserved-seat election, or any seat count. *(Status checked **28 August 2026**.)*
 
 **Exact text of the duration clause, because the derived end-year is not safe.** ✅ **Art 334A(1)** ends:
 *"…and shall cease to have effect on the expiration of a period of fifteen years from such commencement."*
@@ -249,7 +250,7 @@ amendment **defeated on 17 April 2026 (298 for : 230 against)** for want of the 
 
 - **Claim — bills fall into four constitutionally distinct classes.** ✅ *Provision:* **Ordinary** (any non-financial matter), **Money (Art 110)**, **Financial (Art 117)** and **Constitution Amendment (Art 368)**. *Mechanism:* each class has a different origination rule and a different Rajya Sabha power. *Limitation:* only the money class strips the RS of amendment power.
 - **Claim — the money-bill definition is exhaustive and the Speaker's certificate is textually final.** ✅ *Provision:* **Art 110(1)(a)–(g)** lists the only matters; **Art 109** gives the special procedure (RS may only *recommend*, must return in **14 days**); **Art 110(3)–(4)** makes the **Speaker's certificate final**. *Mechanism:* a Money Bill cannot be introduced in the RS or amended by it, and **no joint sitting** applies. *Limitation:* "final" is not absolute — see the controversy below.
-- **Claim — the money-bill *route* is the live bicameralism controversy, and it is unsettled.** ✅ *Provision/cases:* the **Aadhaar Act** and Finance Act amendments were certified as Money Bills; ✅ ***K.S. Puttaswamy (Aadhaar), 2018*** upheld the Aadhaar certification **4:1** (Chandrachud J. dissenting); ✅ ***Rojer Mathew v. South Indian Bank (2019)*** doubted that reasoning and **referred the money-bill question to a larger (seven-judge) Bench**. *Significance:* if certification is misused, a bicameral Parliament is reduced to one House. 📰 *Status discipline:* the seven-judge reference is recorded here as **pending**, and this status was **not re-verified in the 13 August 2026 corrective pass** — check the Supreme Court portal before writing any date. Do **not** state that it has been decided.
+- **Claim — the money-bill *route* is the live bicameralism controversy, and it is unsettled.** ✅ *Provision/cases:* the **Aadhaar Act** and Finance Act amendments were certified as Money Bills; ✅ ***K.S. Puttaswamy (Aadhaar), 2018*** upheld the Aadhaar certification **4:1** (Chandrachud J. dissenting); ✅ ***Rojer Mathew v. South Indian Bank (2019)*** doubted that reasoning and **referred the money-bill question to a larger (seven-judge) Bench**. *Significance:* if certification is misused, a bicameral Parliament is reduced to one House. 📰 *Status discipline:* no visible final resolution was located on the official Supreme Court judgment portals on **28 August 2026**. Do **not** state that it has been finally decided.
 - **Claim — the ordinary-bill deadlock is broken by a rare joint sitting.** ✅ *Provision:* **Art 108** — the President may summon a **joint sitting**, presided over by the **Speaker of the Lok Sabha**. *Mechanism:* the numerically larger House effectively prevails. *Limitation:* used only **three times** — ✅ **Dowry Prohibition Bill (1961)**, **Banking Service Commission (Repeal) Bill (1978)**, **POTA (2002)**; **no joint sitting** for a Money Bill or a constitutional amendment.
 - **Claim — bills lapse selectively on dissolution.** ✅ *Rule:* **lapses** — a Bill pending in the LS, or passed by the LS but pending in the RS; **does not lapse** — a Bill pending in the RS (not passed by LS), one passed by both awaiting assent, one returned by the President, or one for which a joint sitting was already notified. *Significance:* the permanence of the RS protects legislation it still holds.
 - **Claim — the ordinance is law-making that bypasses Parliament.** ✅ *Provision:* **Art 123** — the President promulgates an ordinance when a House is not in session; it must be laid before both Houses and **ceases six weeks** after they reassemble. *Cases:* ✅ ***D.C. Wadhwa (1987)*** and ***Krishna Kumar Singh v. State of Bihar (2017)*** — re-promulgation is a "fraud on the Constitution" and ordinances are subject to judicial review. *Limitation:* an ordinance has the **same force** as an Act but is temporary and cannot be a substitute for legislative deliberation.
@@ -332,7 +333,7 @@ the Rajya Sabha are ex-officio Vice-Presidents.
 | MPLADS utilisation and carry-forward (**2020 Q3**) | ✅ MPLADS funds are **non-lapsable** (carry forward to the next year) and utilisation is inspected/monitored by the Ministry (MoSPI); it is a **scheme**, not a statutory entitlement — 📰 verify the current per-MP annual amount before quoting it |
 | Sessions, summoning and minimum sittings (**2020 Q20**) | ✅ The **President summons** (Art 85); the only hard rule is the **≤ 6-month** gap; there is **no constitutional minimum number of sitting days** |
 | Deputy Speaker — election and powers (**2022 Q20**) | ✅ Elected by the House (**Art 93**); when presiding, has the **Speaker's full powers** and a casting vote; answerable to the House, not the Speaker; office may lie vacant (no deadline) |
-| First Lok Sabha Opposition / Leader of Opposition (**2018 Q1**) | ✅ The **Leader of the Opposition** is a **statutory** office (Salary and Allowances Act, **1977**) needing a party with at least **one-tenth** of the House; several Lok Sabhas (e.g., 16th, 17th) had **no recognised LoP** — ⚠️ do not assert a specific first-LS party name unless certain |
+| First Lok Sabha Opposition / Leader of Opposition (**2018 Q1**) | ✅ The **Leader of the Opposition** is a statutory office under the **1977 Act**, which defines it through recognition by the Speaker/Chairman and does **not** prescribe a ten-percent threshold. The one-tenth rule belongs to parliamentary recognition practice, not the Act; the 16th and 17th Lok Sabhas had no recognised LoP. ⚠️ Do not assert a specific first-LS party name unless certain |
 | Ethics Committee vs Privileges Committee (**2024 Q80**) | ✅ The **Ethics Committee** examines member misconduct; the **Committee of Privileges** examines breaches of privilege/contempt — different committees |
 | Nari Shakti Vandan Adhiniyam (**2024 Q81**) | ✅ **106th Amendment (2023)** inserts **Arts 330A, 332A, 334A** — one-third reservation for women (including within SC/ST seats) in the LS, the State Assemblies and the Delhi Assembly. **Enacted 2023 · commenced 16 April 2026** (notification under **s.1(2)**) · **reservation still NOT operational**. **Art 334A(1)** switches it on only after delimitation following publication of the relevant figures of the **first census taken after that commencement** — which is **Census 2027** — and it "shall cease to have effect on the expiration of a period of **fifteen years** from such commencement"; rotation follows each later delimitation. ⚠️ **The trap is `commenced ≠ operational`:** an option saying the Act *has come into force* is **correct**; an option saying women's seats *are reserved*, giving an implementation year/election, or computing a fifteen-year end-date, is **wrong** |
 | DRSC count and composition (**high-risk close option**) | ✅ **17** DRSCs on introduction in **1993**; **24 from 2004**; **31 members each = 21 LS + 10 RS**; 16 LS-serviced, 8 RS-serviced; ministers barred; one-year term. ⚠️ "24 committees since 1993" and "31 = 20 LS + 11 RS" are the two standard distractors |
@@ -344,12 +345,14 @@ the Rajya Sabha are ex-officio Vice-Presidents.
 
 ### 7.14 Factual-risk and current-status controls
 
-- ✅ Strength ceilings: RS **250** (12 nominated), LS **550**; present working **245/543**; Anglo-Indian nomination **abolished** (104th Amendment). Do not cite live Anglo-Indian members.
+- ✅ Strength ceilings: RS **250** (12 nominated), LS **550**; stable sanctioned/elected figures are
+  **245 RS / 543 elected LS seats**, while working strength varies with vacancies. Anglo-Indian
+  nomination was abolished by the 104th Amendment.
 - ✅ Quorum **1/10 (Art 100)** = 55 LS / 25 RS; **no** constitutional minimum sitting-days rule.
 - ✅ Only **three** joint sittings (1961 Dowry, 1978 Banking Service, 2002 POTA); **no** joint sitting for Money Bills or constitutional amendments.
 - ✅ The RS's exclusive powers are **Arts 249 and 312** only; do not add others.
 - ✅ The 2003 change to the RS candidate's domicile and the open-ballot rule was a **Representation of the People Act amendment (statute)**, upheld in *Kuldip Nayar (2006)* — **not** a constitutional amendment.
-- ⚠️/📰 The **money-bill route** (Aadhaar/Finance Act) was **referred to a larger seven-judge Bench in *Rojer Mathew* (2019)** and is recorded here as **pending**. ⚠️ This status was **not re-verified in the 13 August 2026 corrective pass** — verify on the Supreme Court portal before writing any date. Do not state that it has been finally decided; do not convert *Puttaswamy* (2018, 4:1) into settled law on the point.
+- ⚠️/📰 The **money-bill route** (Aadhaar/Finance Act) was **referred to a larger seven-judge Bench in *Rojer Mathew* (2019)**. No visible final resolution was located on the official Supreme Court judgment portals on **28 August 2026**. Do not convert *Puttaswamy* (2018, 4:1) into a final resolution of the referred issue.
 - ✅ ***Sita Soren* (2024)** is a **seven-judge** decision overruling *P.V. Narasimha Rao* (1998); state its proposition (no bribery immunity), not a paraphrase that removes ordinary speech-and-vote privilege.
 - ✅ Committee numbers are exact — PAC 22 (15+7), Estimates 30 (LS only), CoPU 22 (15+7), DRSCs **17 in 1993 → 24 from 2004**, **31 each (21 LS + 10 RS)**, Welfare of SCs/STs 30 (20+10); do not swap these, do not date the 24 to 1993, and do not place RS members in the Estimates Committee.
 - ✅ **Women's Reservation (106th Amendment, 2023)** — keep the **three registers** apart: **enacted/incorporated (Arts 330A, 332A, 334A are in the Constitution, assented September 2023)** · **commenced — YES, 16 April 2026, by notification of the Central Government under s.1(2) of the Act, published in the Gazette of India** · **operational reservation — NO (Art 334A(1) requires delimitation after publication of the relevant figures of the first census taken after that commencement)**. ✅ **Write the 16 April 2026 date.** ⚠️ **`Commenced ≠ operational`** — a constitutional amendment in force is **not** an operative reservation. ⚠️ **Correction recorded:** an earlier pass of this folder wrongly stated that no commencement notification could be located and wrongly rejected the 16 April 2026 date as unverified; that rejection is **withdrawn**, and no line in this folder may now assert that the notification is absent. ⚠️ Note separately that 16 April 2026 is **also** the introduction date of the 2026 delimitation package — two distinct events on one date; do not conflate them.

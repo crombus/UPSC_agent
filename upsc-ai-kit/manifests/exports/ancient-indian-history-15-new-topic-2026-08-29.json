@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-15",
+  "subject": "Ancient-Indian-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "ancient-indian-history-15",
+  "title": "Significance & Decline of Mauryan Rule",
+  "generation_date": "2026-08-29",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — Significance & Decline of Mauryan Rule",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-15_Learning-Session.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\India Ancient Past By RS Sharma.pdf",
+    "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+  ],
+  "live_sources": [
+    "https://asisarnathcircle.in/lion-capital.php",
+    "https://whc.unesco.org/en/list/524/"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\15_Significance-and-Decline-of-Maurya-Rule.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\15_Significance-and-Decline-of-Maurya-Rule.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-15_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md",
+    "books\\India Ancient Past By RS Sharma.pdf",
+    "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf",
+    "notes\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Complete-Topic-Package_2026-08-13.pdf",
+    "notes\\Ancient-Indian-History\\15_Significance-Decline-of-Mauryan-Rule_Solved-Workbook_2026-08-13.pdf",
+    "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-29-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-15.json"
+  ],
+  "practice_profile": "6 verified or routed PYQs; 48 hard and 12 remedial MCQs; 9 original solved Mains questions across 10, 15 and 20 marks.",
+  "current_linkage_note": "ASI Sarnath and UNESCO Sanchi were accessed on 29 August 2026 only for national-symbol afterlife and multi-period monument continuity.",
+  "pyq_status_note": "Official local papers control wording; unavailable historical keys remain explicitly inferred and no UPSC-issued model answer is claimed.",
+  "mcq_answer_policy": "strict-abcd-cycle"
+}

@@ -190,3 +190,21 @@ Paramountcy lapses -> no state can guarantee its own defence, currency or commun
 - India became **independent** on 15 August 1947 and a **Republic** on 26 January 1950.
 - State "**more than 560**" princely states; do not assert 562 or 565 as the correct figure.
 - Do not state privy-purse amounts, troop numbers or casualty figures for any accession episode.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** lapse of paramountcy, States Department, accession,
+  standstill agreements, Junagadh/Kashmir/Hyderabad, mergers and unions,
+  Constituent Assembly settlement, adoption and commencement of the Republic.
+- **Boundary:** Topic 27 owns transfer/Partition; Topic 29 owns colonial-legacy
+  synthesis; Topic 30 owns linguistic redrawing.
+- **Date control:** States Department (27 June 1947), paramountcy lapse
+  (15 August), Kashmir accession (October 1947), Hyderabad standstill
+  (November 1947), Junagadh plebiscite (February 1948), Operation Polo
+  (September 1948), adoption (26 November 1949) and Republic (26 January 1950).
+- **Mechanism control:** paramountcy lapsed rather than transferred; accession,
+  merger and constitutional incorporation were distinct; the three crisis
+  states followed different legal-political sequences.
+- **Verified PYQ ownership, 2018-2026:** 2021 GS-I on princely-state
+  integration is a locally verified direct Mains route. No direct Prelims route
+  is invented.

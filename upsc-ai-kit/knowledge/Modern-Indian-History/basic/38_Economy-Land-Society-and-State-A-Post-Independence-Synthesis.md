@@ -34,7 +34,7 @@
 - ✅ **Land reforms** abolished **zamindari** (largely by 1956) and made about **20 million superior tenants** owners. Tenancy and ceiling results were uneven: records were unreliable, evasion and eviction were common, and **Bhoodan** could not substitute for structural reform.
 - ✅ The **Green Revolution** raised foodgrain output and was initially concentrated in north-western wheat regions. Chandra argues that it later spread, that the technology was broadly scale-neutral and that early predictions of general class polarisation were overstated; critics continue to stress unequal access, regional lags and ecological costs.
 - ✅ **Caste**: untouchability was abolished, reservations extended, and from **Ambedkar** to the **Dalit Panthers**, **BSP** and **Mandal (1990)**, caste became central to politics.
-- ✅ **Women**: the **Hindu Code Bill** reforms gave legal equality; a new women's movement (1970s–90s) took up dowry, rape and domestic violence; **communalism** revived from the 1960s and turned endemic after the late 1970s.
+- ✅ **Women**: the **Hindu-law reforms of 1955–56** substantially expanded rights in marriage, succession, guardianship, adoption and maintenance, but did not create complete legal or social equality; a new women's movement (1970s–90s) took up dowry, rape and domestic violence; **communalism** revived from the 1960s and turned endemic after the late 1970s.
 
 ## 2. Key classification / data
 
@@ -107,7 +107,7 @@
 - **Design-and-deficit thesis:** *India's planned economy achieved precisely what it prioritised — a heavy-industrial base, self-reliance and growth far above the colonial rate — and failed at what it did not: agriculture until the mid-1960s, employment, literacy and efficiency, so the model's failures were consequences of its choices rather than of its execution.*
 - **Disaggregated-land-reform thesis:** *Land reform must be assessed component by component: zamindari abolition largely succeeded because it had powerful political backing and a clear target; tenancy and ceiling reform largely failed because they required the state to act against the very rural classes on whose support it depended.*
 - **Contested-Green-Revolution thesis:** *The Green Revolution ended India's food-import dependence and generated a genuine scholarly dispute about its distributive effects; the defensible position states the output achievement, notes the initial regional and class concentration, records both the diffusion argument and the inequality critique, and adds the ecological cost.*
-- **Law-versus-society thesis:** *On caste and gender the Indian state legislated far ahead of social change — untouchability abolished, legal equality for women, reservations extended — and the persistent gap between legal status and social reality is what made caste and gender into political movements rather than merely legal categories.*
+- **Law-versus-society thesis:** *On caste and gender the Indian state legislated ahead of social change — untouchability abolished, reservations extended and women's rights substantially expanded through the Hindu-law reforms — but formal equality remained incomplete and unevenly enforced; that gap helped turn caste and gender into political movements rather than merely legal categories.*
 
 ### 8.3 Mark-scaled structure
 
@@ -146,7 +146,7 @@
 ### 8.7 Bank D — Caste and gender
 
 - **Caste:** ✅ Untouchability was abolished and reservations extended; ✅ the political trajectory runs from **Ambedkar** through the **Dalit Panthers** and the **BSP** to **Mandal (1990)** (`basic/37`).
-- **Gender:** ✅ The **Hindu Code Bill** reforms — enacted as **four separate Acts** covering Marriage, Succession, Minority and Guardianship, and Adoption and Maintenance — gave legal equality; ✅ a new **women's movement from the 1970s to the 1990s** took up dowry, rape and domestic violence.
+- **Gender:** ✅ The proposed **Hindu Code** was enacted through the **Hindu Marriage Act, 1955**, and the **Hindu Succession**, **Hindu Minority and Guardianship**, and **Hindu Adoptions and Maintenance Acts, 1956**; these substantially expanded women's rights within Hindu personal law but did not create complete equality. ✅ A new **women's movement from the 1970s to the 1990s** took up dowry, rape and domestic violence.
 - **Communalism:** ✅ Communalism **revived from the 1960s and turned endemic after the late 1970s** (`basic/36`, `basic/37`).
 - **Significance:** The common pattern across all three is the law-versus-society gap — formal equality arrived early and social transformation did not follow, which converted each into a political movement demanding enforcement and representation rather than merely legislation.
 - **Limit/caution:** ⚠️ Do not import contemporary statistics, scheme names or case law; the Social Justice, Polity and Indian Society owners hold those. Keep the treatment historical and analytical.
@@ -159,7 +159,7 @@ STATE CAPACITY inherited from the colonial order (basic/29)
    -> not deployed against rural property (tenancy/ceiling reform fails)
    -> technological fix substituted for structural reform in agriculture (Green Revolution)
    -> output secured; rural inequality and ecological cost follow
-   -> legal equality legislated for caste and gender; enforcement lags
+   -> formal rights reform begins for caste and gender; scope and enforcement lag
    -> excluded groups organise politically instead (Dalit Panthers, BSP, women's movement, Mandal)
    -> by 1991 the economic model's inefficiency + a BoP crisis force the market turn
    => VERDICT: India transformed its economy and its politics far more than its social structure
@@ -198,7 +198,7 @@ STATE CAPACITY inherited from the colonial order (basic/29)
 
 ### 8.10 Counter-evidence, balance and caution
 
-- **Achievements:** an industrial base, food self-sufficiency, an end to famine mortality, universal franchise sustained, legal abolition of untouchability, legal equality for women, and abolition of intermediary tenures.
+- **Achievements:** an industrial base, food self-sufficiency, an end to famine mortality, universal franchise sustained, legal abolition of untouchability, substantial expansion of women's rights within Hindu personal law, and abolition of intermediary tenures.
 - **Failures:** literacy, employment, tenancy and ceiling reform, regional and class inequality, ecological cost, and endemic communalism after the late 1970s.
 - **Variation:** Punjab/Haryana against eastern India in agriculture; the south against the Hindi belt in caste mobilisation; Kerala against the national average in social indicators.
 - ⚠️ Every quantitative claim in this owner is source-attributed; carry the attribution into the answer and do not round or update figures.
@@ -276,3 +276,24 @@ STATE CAPACITY inherited from the colonial order (basic/29)
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** thematic synthesis of planning and liberalisation, land
+  reform, Green Revolution, agrarian movements, caste, gender, communalism and
+  state capacity after independence.
+- **Boundary:** Topics 32-37 retain ruler/period chronology. Topic 38 compares
+  mechanisms and outcomes rather than repeating prime-minister narratives;
+  present policy belongs Economy, Society, Polity or Governance as appropriate.
+- **Date control:** IPRs (1948/1956), Bhoodan at Pochampalli (1951), zamindari
+  abolition largely by 1956, Hindu Marriage Act (1955) and three Hindu-law Acts
+  (1956), Green Revolution (mid-1960s), Naxalbari (1967), CPI(ML) (1969),
+  farmers' organisations (1980/1986), Mandal (1990) and reforms (1991).
+- **Mechanism control:** disaggregate abolition, tenancy and ceilings; separate
+  agricultural output from distribution/ecology; distinguish landless/tenant
+  struggles from rich-farmer market movements; legal reform never proves
+  complete social equality or implementation.
+- **Verified PYQ ownership, 2018-2026:** nine routed Prelims entries audited.
+  The 2019 land-reform demand is direct; the 2018 Hind Mazdoor Sabha founder
+  item remains an explicit evidence gap; seven current-affairs routes are
+  artefacts. No unsupported answer/key or direct Mains route is invented.

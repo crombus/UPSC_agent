@@ -74,9 +74,9 @@ unsettled, not a final expansion of Lokpal power.
 | ✅ **Legal source** | **Lokpal and Lokayuktas Act, 2013** (statutory; recommended by the **First ARC, 1966–70**; ombudsman idea from **Sweden, 1809**) | Established by **each State's own law** under **Section 63** of the 2013 Act — design left to the State |
 | ✅ **Appointment authority** | **President** | **Governor** (typically; varies by State) |
 | ✅ **Selection committee** | **PM (chair)** + **Speaker (Lok Sabha)** + **LoP (Lok Sabha)** + **CJI or an SC judge** + **one eminent jurist** (President-nominated on the first four's advice); a **Search Committee** assists | ⚠️ **Varies by State** — no uniform panel |
-| ✅ **Composition** | **Chairperson + maximum 8 members**, of whom **50% (up to 4) are judicial members**; **50% of members from SC/ST/OBC/minorities/women** | ⚠️ **Varies** — some States have an **Upalokayukta**; some are single-member |
-| ✅ **Tenure** | **5 years or age 70**, whichever earlier; salary — Chairperson = **CJI**, Member = **SC judge** | ⚠️ **Varies by State statute** |
-| ✅ **Removal** | By the **President** after a **reference to, and inquiry by, the Supreme Court** (on a petition of ≥100 MPs or suo motu) | ⚠️ **Varies by State statute** |
+| ✅ **Composition** | **Chairperson + maximum 8 members**, of whom **50% (up to 4) are judicial members**; **not less than 50% of members from SC/ST/OBC/minorities/women** | ⚠️ **Varies** — some States have an **Upalokayukta**; some are single-member |
+| ✅ **Tenure** | **5 years or age 70**, whichever earlier; service conditions are statutorily aligned with the **CJI/Supreme Court judge** benchmarks | ⚠️ **Varies by State statute** |
+| ✅ **Removal** | For proved misbehaviour, by the **President** after Supreme Court inquiry on a statutory reference; specified direct-removal grounds follow a separate route | ⚠️ **Varies by State statute** |
 | ✅ **Powers (binding?)** | Orders preliminary inquiry/investigation, **directs the CBI and other agencies**, grants **sanction for prosecution**, can **attach/confiscate** proceeds; **NO suo-motu power** | ⚠️ Mostly **recommendatory** to the Governor/Government; varies |
 | ✅ **Appeal / enforcement limit** | **No independent investigation machinery of its own** — relies on its Inquiry Wing and the **CBI**; **7-year limitation** on complaints; a PM inquiry needs a **two-thirds full-bench approval** and excludes named subjects | ⚠️ Varies; often weak enforcement |
 | ✅ **Independence safeguards** | Fixed tenure, SC-inquiry removal, and **CBI officers investigating Lokpal-referred cases cannot be transferred without Lokpal approval** | ⚠️ Varies by State |
@@ -97,21 +97,21 @@ unsettled, not a final expansion of Lokpal power.
 
 ### 5.5 Bank B — Jurisdiction, including the Prime Minister (the routed "jurisdiction" limb)
 
-- **Claim:** the Lokpal's reach is deliberately wide across public servants. **Evidence:** it covers the **PM, Ministers, MPs and Groups A, B, C and D** officials, plus bodies **wholly or partly financed by the Central Government** and any **society/trust/body receiving foreign contribution above ₹10 lakh a year**. **Significance:** it is a genuinely broad anti-corruption ombudsman. **Limitation:** anything an MP says or a **vote given in Parliament** is outside its ambit (parliamentary privilege).
+- **Claim:** the Lokpal's reach is deliberately wide across public servants. **Evidence:** it covers the **PM, Ministers, MPs and Groups A, B, C and D** officials, plus bodies covered by the government-finance/control clauses and specified foreign-contribution recipients above the statutory threshold. **Significance:** it is a broad but conditional jurisdiction. **Limitation:** section 14(2) preserves Article 105(2) for genuine speech/vote functions, while *Sita Soren* confirms that bribery is not immunised merely because it relates to a vote.
 - **Claim:** the PM is included but ring-fenced. **Evidence:** the Lokpal **can inquire into the PM**, **except** for allegations relating to **international relations, external and internal security, public order, atomic energy and space**; any such inquiry must be held **in-camera** and needs the approval of a **full bench with at least a two-thirds majority**. **Significance:** inclusion of the head of government was the headline reform of 2013. **Limitation/status caution:** the exclusions and the super-majority safeguard make a PM inquiry hard to initiate.
 - **Claim:** its reach into the higher judiciary is unsettled. **Evidence:** 📰 on **20 Feb 2025** the **Supreme Court stayed** the Lokpal's **27 Jan 2025** order asserting jurisdiction over a **High Court judge**. **Significance:** the judiciary question is live. **Limitation/status:** ⚠️ the stayed order is **not settled law** — do not present it as an expansion of Lokpal power.
 
 ### 5.6 Bank C — Composition, selection and reservation (the routed "composition" limb)
 
 - **Claim:** the bench is capped and half-judicial. **Evidence:** **Chairperson + maximum 8 members**; **50% must be judicial members** (a judicial member being a former SC judge or former HC Chief Justice); the Chairperson is a **former CJI / former SC judge / eminent person of integrity**. **Significance:** the judicial weighting signals a quasi-adjudicatory body. **Limitation:** a large bench has proved slow to constitute and staff.
-- **Claim:** the composition is socially representative by law. **Evidence:** **50% of members** must be from **SC/ST/OBC/minorities/women**. **Significance:** a statutory diversity mandate rare among oversight bodies. **Limitation:** it constrains the pool and complicates appointments.
-- **Claim:** the selection process mixes the executive, legislature, judiciary and an independent voice. **Evidence:** the five-member **Selection Committee** — **PM, Speaker, LoP, CJI/SC judge and an eminent jurist** — with a **Search Committee** to shortlist. **Significance:** designed to dilute executive dominance in appointments. **Limitation/status:** ⚠️ the **absence of a recognised Leader of Opposition** after 2014 delayed the first appointment until **2019** (Justice P.C. Ghose).
+- **Claim:** the composition is socially representative by law. **Evidence:** **not less than 50% of members** must be from **SC/ST/OBC/minorities/women**. **Significance:** a statutory diversity mandate rare among oversight bodies. **Limitation:** it constrains the pool and complicates appointments.
+- **Claim:** the selection process mixes the executive, legislature, judiciary and an independent voice. **Evidence:** the five-member **Selection Committee** — **PM, Speaker, LoP, CJI/SC judge and an eminent jurist** — with a **Search Committee** to shortlist. **Significance:** designed to dilute executive dominance in appointments. **Limitation/status:** ⚠️ the first appointment occurred only in **2019**; *Common Cause* (2017) had already held that the LoP vacancy did not make the Act unworkable or create a largest-opposition-party substitute.
 
 ### 5.7 Bank D — Machinery, CBI-dependence and the prosecution sanction
 
 - **Claim:** the Lokpal has wings but no police force. **Evidence:** the Act provides an **Inquiry Wing** (preliminary inquiry) and a **Prosecution Wing** (to prosecute in special courts), but **no independent investigating agency** — investigation of referred cases is done by the **CBI** or other agencies. **Significance:** this is the structural root of its dependence. **Limitation:** its effectiveness is tied to the CBI's own autonomy problems.
 - **Claim:** the Lokpal was meant to insulate the CBI in its cases. **Evidence:** CBI officers investigating **Lokpal-referred** matters **cannot be transferred without the Lokpal's approval**, and the Lokpal exercises superintendence over such cases. **Significance:** a partial answer to the "caged parrot" critique. **Limitation:** it applies only to referred cases, not to the CBI generally.
-- **Claim:** a prior-approval hurdle now sits in front of corruption probes. **Evidence:** the **Prevention of Corruption Act, 1988, as amended in 2018**, inserted **Section 17A**, requiring **prior approval** of the competent authority before any inquiry/investigation into a decision or recommendation taken by a public servant in official functions (except on-the-spot bribery). **Significance:** it affects Lokpal-referred and CBI investigations alike. **Limitation/status caution:** ⚠️ Section 17A's constitutional validity is under judicial scrutiny (a Supreme Court split verdict was referred to a larger bench, 2026) — state the requirement, flag the challenge, do not pre-judge.
+- **Claim:** a prior-approval hurdle now sits in front of corruption probes. **Evidence:** the **Prevention of Corruption Act, 1988, as amended in 2018**, inserted **Section 17A**, requiring **prior approval** of the competent authority before any inquiry/investigation into a decision or recommendation taken by a public servant in official functions (except on-the-spot bribery). **Significance:** it affects Lokpal-referred and CBI investigations alike. **Limitation/status caution:** state the operative requirement; do not add an unverified current-litigation outcome.
 
 ### 5.8 Institutional incentives, mechanism and consequences
 
@@ -147,10 +147,10 @@ unsettled, not a final expansion of Lokpal power.
 | Confusion pair | Correct discrimination |
 |---|---|
 | Lokpal constitutional vs statutory | **Statutory** — Lokpal and Lokayuktas Act, **2013**; never constitutional |
-| Composition cap | **Chairperson + maximum 8 members**; **50% (up to 4) judicial**; **50% from SC/ST/OBC/minorities/women** |
+| Composition cap | **Chairperson + maximum 8 members**; **50% (up to 4) judicial**; **not less than 50% from SC/ST/OBC/minorities/women** |
 | Selection committee | **PM + Speaker (LS) + LoP (LS) + CJI/SC judge + an eminent jurist** — five members |
 | Does it cover the PM? | **Yes, with exclusions** (international relations, security, public order, atomic energy, space) and a **two-thirds full-bench** safeguard |
-| MPs' conduct | A **vote or speech in Parliament** is **outside** the Lokpal's ambit (privilege) |
+| MPs' conduct | Section 14(2) preserves genuine **speech/vote functions**, but bribery is not privileged after *Sita Soren* |
 | Suo-motu power | The Lokpal has **NO suo-motu power** — a key drawback |
 | Complaint limitation | **7 years** from the alleged offence |
 | Own investigators? | **No** — it relies on its Inquiry Wing and the **CBI** |
@@ -166,7 +166,7 @@ unsettled, not a final expansion of Lokpal power.
 - ✅ The Lokpal has **no suo-motu power** and **no investigation agency of its own**; it relies on the **CBI**.
 - ✅ States must establish Lokayuktas under **Section 63**, but the **design varies** — never universalise a Governor–HC-Chief-Justice panel or a fixed tenure to all Lokayuktas.
 - ✅ The **2016 amendment** changed the **asset-declaration** rule (Section 44), easing the form/timeline — attribute it correctly; do not confuse it with a jurisdiction change.
-- ✅ The **Prevention of Corruption Act, 1988** was **amended in 2018** to add the **Section 17A prior-approval** requirement — a statute, in force; ⚠️ its validity is under challenge (2026 reference to a larger bench).
+- ✅ The **Prevention of Corruption Act, 1988** was **amended in 2018** to add the **Section 17A prior-approval** requirement — a statute, in force; do not attach an unverified current-litigation status.
 - 📰 **Justice A.M. Khanwilkar** has chaired the Lokpal since **10 Mar 2024**; the first chair was **Justice P.C. Ghose (2019)**. The **higher-judiciary jurisdiction** question is **stayed and unresolved (SC, 20 Feb 2025)** — do not present it as settled.
 - ⚠️ Do not fabricate complaint/disposal statistics or exact preliminary-inquiry/investigation month-limits where sources differ; state the 7-year complaint limitation and the mechanism.
 

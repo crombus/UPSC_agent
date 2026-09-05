@@ -923,26 +923,45 @@ VERDICT
 
 ### PYQ 1 - UPSC Prelims 2020, GS-I, Q19
 
-**Verified neutral demand:** Appointment of a minister who is not a member of the legislature, read with disqualification from ministerial office.
+**Exact question demand from the locally held official paper:** The question asks whether (1) a person
+merely eligible to vote can be made a State minister for six months without being a State legislator, and
+(2) a person sentenced to five years' imprisonment is permanently disqualified from contesting even after
+release.
 
-**Provenance caution:** The official question paper is routed locally, but the exact option wording and official answer key are unavailable locally. No answer letter is invented here.
+**Provenance caution:** This is a **State-ministry supporting analogue**, not a direct Union-ministry
+question. The official paper is held locally; the official key is not, so no official answer letter is claimed.
 
 **Doctrinal model solution:**
 
-- [FACT] Article 75(5) permits a person who is not a member of either House to be appointed a Union minister, but that person ceases after six consecutive months unless membership of either House is obtained.
-- [FACT] Article 75(1B), inserted by the 91st Amendment, separately bars a member disqualified under the specified Tenth Schedule provision from appointment as minister for the constitutional period.
-- [ANALYSIS] A correct solution must therefore distinguish **temporary non-membership**, which Article 75(5) permits, from **constitutional disqualification**, which cannot be bypassed by invoking the six-month window.
-- [LIMIT] Without the verified options and key, this package does not assign an official answer position.
+- [FACT] Article 164(4), not Article 75(5), governs the State-minister six-month window. Mere eligibility
+  to vote is insufficient because appointment still requires applicable constitutional qualifications and
+  freedom from disqualification.
+- [FACT] A sentence does not produce permanent electoral disqualification after release; the statutory
+  disqualification period must be applied as enacted.
+- [ANALYSIS] Both statements are therefore doctrinally incorrect, while the Union analogue is Article
+  75(5): temporary non-membership must not be confused with eligibility or disqualification.
 
-**Examiner note:** The trap is the word "non-member." Non-membership alone is not disqualification; the Constitution gives six months. A defection-based bar is a different rule.
+**Examiner note:** The trap is the phrase "eligible to vote." It is not a complete qualification for
+ministerial office. Keep Article 164(4)'s State rule separate from Article 75(5)'s Union analogue.
 
-**Why this earns marks:** It names both controlling clauses, separates two legal categories and avoids manufacturing an unverified key.
+**Why this earns marks:** It corrects the owner mismatch, identifies the controlling State provision and
+extracts the precise Union analogy without manufacturing an official key.
+
+**How to improve:** In a revision answer, write the two propositions in separate rows: `Art 164(4) +
+eligibility limits` and `RPA disqualification is time-bound, not permanent`; add Article 75(5) only as a
+one-line Union comparison.
 
 ### PYQ 2 - UPSC Prelims 2022, GS-I, Q14
 
-**Verified neutral demand:** Categories of Union ministers and the constitutional size of the Council of Ministers.
+**Verified question wording:** "Consider the following statements: (1) The Constitution of India
+classifies the ministers into four ranks viz. Cabinet Minister, Minister of State with Independent Charge,
+Minister of State and Deputy Minister. (2) The total number of ministers in the Union Government,
+including the Prime Minister, shall not exceed 15 percent of the total number of members in the Lok
+Sabha. Which of the statements given above is/are correct?"
 
-**Provenance caution:** The official question paper is routed locally, but the exact option wording and official answer key are unavailable locally. No answer letter is invented here.
+**Provenance caution:** Exact wording was cross-checked against the routed 2022 question record. The
+official answer key is not held locally; the solution below is derived directly from the Constitution
+rather than represented as an official keyed letter.
 
 **Doctrinal model solution:**
 
@@ -950,10 +969,14 @@ VERDICT
 - [FACT] Article 75(1A), inserted by the 91st Amendment, limits the total number of ministers including the PM to **not more than 15% of the total membership of Lok Sabha**.
 - [LIMIT] The Constitution does not prescribe a permanent actual Council size and does not require every conventional rank to be present.
 - [ANALYSIS] Any option fixing the Council at a permanent number, calculating the cap on both Houses, excluding the PM, or treating the three ranks as an exhaustive constitutional code must be rejected.
+- **Derived result:** Statement 1 is incorrect and Statement 2 is correct.
 
 **Examiner note:** Separate a **constitutional maximum** from a **variable political strength**, and a **conventional rank structure** from constitutional text.
 
 **Why this earns marks:** It resolves both parts of the routed demand while preserving the official-key caveat.
+
+**How to improve:** Quote Article 75(1A)'s base exactly—total Lok Sabha membership, including the PM—and
+state in one line that ministerial ranks are conventional rather than a four-rank constitutional code.
 
 ### PYQ 3 - UPSC GS-II 2024, Q3
 
@@ -979,6 +1002,10 @@ VERDICT
 **Examiner note:** Do not write that Parliament is legally sovereign in India or that every government-bill defeat removes the ministry.
 
 **Why this earns marks:** It uses Article 75(3), Tenth Schedule, Articles 123/110 and named correctives in a direct 10-mark mechanism chain.
+
+**How to improve:** Compress this 10-marker into three body paragraphs: majority/whip, control of time and
+financial-legislative shortcuts, then scrutiny correctives. End by distinguishing practical
+marginalisation from legal parliamentary sovereignty.
 
 ## Original MCQ loop - strict A -> B -> C -> D rotation
 
@@ -1472,6 +1499,9 @@ D. speak and participate, but not vote by virtue of ministerial office.
 
 **Why this earns marks:** It uses Article 75(1), two named episodes, the floor-test principle and a precise qualification within 10-mark scale.
 
+**How to improve:** Draw a four-arrow margin flow—hung verdict → objective claims → appointment → prompt
+floor test—and retain only one historical example if the answer exceeds 150 words.
+
 ### M2. Distinguish collective, individual and legal responsibility of Union ministers. (10 marks, 150 words)
 
 **Directive fidelity:** "Distinguish" requires separate legal bases, mechanisms and consequences, not a general essay on accountability.
@@ -1489,6 +1519,9 @@ D. speak and participate, but not vote by virtue of ministerial office.
 **Examiner comment:** Keep Article 75(3), Article 75(2) and the countersignature distinction separate.
 
 **Why this earns marks:** It directly compares the three concepts through provisions, consequence, example and legal caveat.
+
+**How to improve:** Use a three-row table keyed to `Art 75(3)`, `Art 75(2)` and `no universal
+countersignature`; reserve the last two lines for the caveat that ordinary legal liability still applies.
 
 ### M3. The Council of Ministers and the Cabinet are related but not interchangeable. Discuss the distinction and the role of Cabinet Committees. (15 marks, 250 words)
 
@@ -1512,6 +1545,9 @@ Cabinet Committees add a specialised layer. [FACT] They are extra-constitutional
 
 **Why this earns marks:** It combines Articles 74, 75, 352, ministerial ranks, committee mechanism and current-control caution.
 
+**How to improve:** Open with a one-line set relationship (`Council ⊃ Cabinet ⊃ specialised committees`),
+then compare nature, composition, function and accountability before adding the dated committee caveat.
+
 ### M4. Explain how Article 77, the Rules of Business, the Cabinet Secretariat and the PMO together shape Union executive decision-making. (15 marks, 250 words)
 
 **Directive fidelity:** "Explain" requires a connected operating chain and clear institutional distinctions.
@@ -1534,6 +1570,10 @@ The PMO performs a different function: [FACT] it is a non-constitutional, non-st
 
 **Why this earns marks:** It provides a complete Article -> rule -> institution -> decision -> accountability chain with official functions and a balanced conclusion.
 
+**How to improve:** Convert the body into the executable chain `Art 77(3) → AoB → ToB → Cabinet/Cabinet
+Committees → Cabinet Secretariat → PMO support`, and explicitly state that PMO has no independent legal
+competence.
+
 ### M5. Has coalition politics diluted collective responsibility of the Union Council of Ministers? Analyse. (15 marks, 250 words)
 
 **Directive fidelity:** "Analyse" requires breaking collective responsibility into components, testing each under coalition conditions and giving a graded verdict.
@@ -1553,6 +1593,9 @@ The PMO performs a different function: [FACT] it is a non-constitutional, non-st
 **Examiner comment:** A binary "diluted/not diluted" answer misses the distinction between legal confidence and political solidarity.
 
 **Why this earns marks:** It uses Article 75(3), three dimensions, named historical phases, counter-evidence and a qualified verdict.
+
+**How to improve:** Structure the answer under confidence, solidarity and unified accountability. Assign
+one coalition effect to each heading and conclude that only the latter two are politically diluted.
 
 ### M6. "The Prime Minister is no longer merely first among equals; Indian government increasingly operates as prime-ministerial government." Critically examine. (20 marks, 250 words)
 
@@ -1576,6 +1619,9 @@ The PMO performs a different function: [FACT] it is a non-constitutional, non-st
 
 **Why this earns marks:** It supplies more than six named evidence units, a mechanism of concentration, institutional counterweights and a conditional verdict suited to 20 marks.
 
+**How to improve:** Keep a balanced two-column rough plan—five concentration levers versus five
+counterweights—and make the final judgment conditional on majority arithmetic and institutional strength.
+
 ### M7. Strong executive coordination and parliamentary accountability are both necessary for responsible government. Evaluate the balance in India's PM-Council system and suggest reforms. (20 marks, 250 words)
 
 **Directive fidelity:** "Evaluate" requires criteria, gains, deficits, named accountability channels, reform and an overall judgment.
@@ -1597,6 +1643,10 @@ The PMO performs a different function: [FACT] it is a non-constitutional, non-st
 **Examiner comment:** Reforms must follow from diagnosed mechanisms; a generic "transparency and good governance" list is insufficient.
 
 **Why this earns marks:** It integrates Articles 74-78 and 88, business rules, Cabinet Secretariat, PMO, parliamentary instruments and targeted reforms into one evaluative chain.
+
+**How to improve:** Link every reform to a diagnosed deficit: narrower whip to legislative autonomy,
+routine committee referral to scrutiny, subsidiarity to PMO over-centralisation, and published business
+allocations to traceable responsibility.
 
 ## Final consolidated register notes
 

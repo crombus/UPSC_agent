@@ -1,12 +1,12 @@
 ---
-export_date: 2026-08-17
+export_date: 2026-08-28
 approval: false
 evidence_key: "[FACT] verified constitutional, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated live control; [LIMIT] qualification preventing overstatement"
 ---
 
 # Polity 18 - Supreme Court - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 18 | **GS-II + Prelims** | **Export date:** 2026-08-17
+> **Subject:** Indian Polity | **Topic:** 18 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -16,10 +16,13 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 
 - Source order followed: authoritative Core owner `Polity/basic/Supreme-Court.md` -> optional depth in `Polity/advanced/18_Supreme-Court.md` -> necessary cross-links in Polity 07, Polity 10, Polity 15, `basic/High-Court.md`, `basic/Administrative-Tribunals.md`, `basic/Comparative-Constitutional-Schemes.md`, `basic/Constitutional-Interpretation-Doctrines.md` and Environment and Ecology 16 -> dated official controls. Qdrant was not used.
 - [LIMIT] Part I is independently answer-complete for Foundation and Core preparation. Part II is optional analytical enrichment; no examination answer depends on opening it.
-- [CURRENT] Status is controlled to **17 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] The Chief Justice of India is **Justice Surya Kant**, sworn in on **24 November 2025**; his scheduled retirement is **9 February 2027**. This is a dated officeholder control, not a major doctrinal fact.
-- [FACT] The sanctioned strength of the Supreme Court is **34 including the CJI**. [LIMIT] This package does not state a current working strength because the exact filled-vacancy position was not established by the official summary used.
-- [CURRENT] The latest visible comprehensive official publication is the **Indian Judiciary Annual Report 2024-25**. No 2025-26 annual report was visible as of the control date, so no unverified pendency total is quoted.
+- [FACT] The sanctioned strength of the Supreme Court is **34 including the CJI**. [CURRENT] The official
+  sitting-judges roster listed **34 judges on 28 August 2026**, so working strength equalled sanctioned
+  strength on that control date. [LIMIT] Working strength changes with appointments and retirements.
+- [CURRENT] The latest visible comprehensive official publication located is the **Indian Judiciary Annual
+  Report 2024-25**. No later comprehensive report was relied on, so no unverified pendency total is quoted.
 - [CURRENT] The Supreme Court continues to publish Collegium Resolutions; the official listing includes a statement dated **27 May 2026** concerning appointments to the Supreme Court. [LIMIT] No exact count of pending recommendations or executive delay is asserted.
 - [CURRENT] The Presidential Reference under Article 143, opinion dated **20 November 2025**, **2025 INSC 1333**, held that the Court cannot impose rigid assent timelines or create deemed assent under Article 142. Prolonged unexplained inaction remains reviewable.
 - [LIMIT] That Article 143 opinion is advisory and non-binding. It did **not** “overrule” *State of Tamil Nadu v. Governor* (8 April 2025); the later position is used narrowly for the assent issue.
@@ -108,6 +111,7 @@ Final constitutional + civil + criminal appellate court
 |---|---|
 | Constitutional range | [FACT] Articles 124-147, Part V |
 | Sanctioned strength | [FACT] 34 including the CJI |
+| Working strength | [CURRENT] 34 on 28 August 2026; re-verify before use |
 | Original constitutional design | [FACT] CJI plus not more than seven other judges |
 | Retirement | [FACT] 65 years |
 | Principal seat | [FACT] Delhi under Article 130 |
@@ -115,7 +119,8 @@ Final constitutional + civil + criminal appellate court
 | Constitution Bench | [FACT] Minimum five judges under Article 145(3) |
 
 - [FACT] Parliament increased the number of puisne judges over time; the **Supreme Court (Number of Judges) Amendment Act, 2019** produced the sanctioned total of 34.
-- [LIMIT] Sanctioned strength is not working strength. Vacancies can change daily and are not frozen here.
+- [LIMIT] Sanctioned strength and working strength are distinct even though both were 34 on the dated
+  28 August 2026 roster. Vacancies can change immediately and the working figure must be re-verified.
 - [FACT] Article 130 places the Court in Delhi but permits another place or places when the CJI, with presidential approval, so appoints.
 
 **Visual 4 - Bench-size ladder**
@@ -1130,6 +1135,10 @@ Can supervision taper and exit?
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 3 comparative dimensions and one qualification.
 
+**Why this earns marks:** The answer compares legal sovereignty by dimensions, uses the correct UK qualification and closes with a precise strong-form-review distinction.
+
+**How to improve this answer:** In 150 words retain precedent, constitutional supremacy versus parliamentary sovereignty, one Human Rights Act qualification and the final contrast; omit institutional history.
+
 ### PYQ-M2. 2020 GS-II Q12 - Judicial legislation, separation of powers and public-interest petitions
 
 **Demand decoding**
@@ -1152,6 +1161,10 @@ Can supervision taper and exit?
 **Examiner note:** The answer justifies rather than merely describes, and the 2013 statute proves the temporary nature of the bridge.
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 5 named units, one mechanism and one hard limit.
+
+**Why this earns marks:** It defines bounded judicial legislation, links PIL to the remedial mechanism and proves the limit through Vishaka, the 2013 Act and SCBA.
+
+**How to improve this answer:** Compress around legal vacuum, Articles 32/141, Vishaka and SCBA; explicitly state that statutory enactment displaces the interim judicial norm.
 
 ### PYQ-M3. 2021 GS-II Q2 - Desirability of greater representation of women in the higher judiciary
 
@@ -1176,6 +1189,10 @@ Can supervision taper and exit?
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 2 constitutional anchors, one historical fact and one pipeline reform.
 
+**Why this earns marks:** Equality text, one historical anchor, pipeline analysis and a non-tokenistic reform directly answer desirability rather than merely listing low representation.
+
+**How to improve this answer:** For 150 words retain Articles 14-16, Fathima Beevi, pipeline inequality and transparent diversity-aware criteria; avoid undated percentages.
+
 ### PYQ-M4. 2022 GS-II Q1 - Constitutionalisation of environmental problems by the Supreme Court
 
 **Demand decoding**
@@ -1198,6 +1215,10 @@ Can supervision taper and exit?
 **Examiner note:** Each case is attached to an exact proposition and followed by an institutional limit.
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 4-5 cases, no case catalogue without analysis.
+
+**Why this earns marks:** Every environmental case is tied to a doctrine, followed by regulator dependence and an institutional-restraint verdict.
+
+**How to improve this answer:** Keep Article 21 with Articles 48A/51A(g), three doctrine-case pairs and the regulator limit; cut the longer case catalogue first.
 
 ### PYQ-M5. 2023 GS-II Q1 - Judicial independence as a prerequisite of democracy
 
@@ -1222,6 +1243,10 @@ Can supervision taper and exit?
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 3-4 Articles, 2 cases and one accountability qualification.
 
+**Why this earns marks:** The answer explains democratic function, names structural safeguards and qualifies independence with accountability instead of treating it as judicial privilege.
+
+**How to improve this answer:** Use Article 32, Article 124(4), Article 121 and the NJAC/basic-structure anchor; add one sentence distinguishing decisional independence from institutional opacity.
+
 ### PYQ-M6. 2024 GS-II Q14 - Growth of PIL and emergence of a powerful Supreme Court
 
 **Demand decoding**
@@ -1245,6 +1270,10 @@ Can supervision taper and exit?
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 5 power units, 3 growth causes and 3 limits.
 
+**Why this earns marks:** It separates causes of PIL growth from sources of judicial power and tests the “most powerful” claim against enforcement and overreach limits.
+
+**How to improve this answer:** In 250 words use two short subheadings—growth and power—then retain Article 144 dependence and an administrable-remedy conclusion.
+
 ### PYQ-M7. 2025 GS-II Q11 - Constitutional morality, judicial independence and accountability
 
 **Demand decoding**
@@ -1267,6 +1296,10 @@ Can supervision taper and exit?
 **Examiner note:** The concept is operationalised through institutions rather than left as an abstract value.
 
 **Mark/word discipline:** 15 marks; target 230-250 words; definition, 5 safeguards, 4 accountability tools and one warning.
+
+**Why this earns marks:** The abstract idea of constitutional morality is operationalised through safeguards, ethical process and the gap between in-house correction and removal.
+
+**How to improve this answer:** Retain a one-line definition, three independence safeguards, three accountability practices and the warning against executive intimidation; drop peripheral case names if compressed.
 
 ### PYQ-M8. 2025 GS-II Q13 - Collegium evolution and India-USA appointment systems
 
@@ -1292,6 +1325,10 @@ Can supervision taper and exit?
 **Examiner note:** The answer compares institutional trade-offs and ends with India-specific reform, not model shopping.
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 4 evolution stages, 3 advantages/risks per system and a reform verdict.
+
+**Why this earns marks:** The answer fulfils every limb: doctrinal evolution, India-USA comparison, costs and a reform verdict grounded in accountable independence.
+
+**How to improve this answer:** Use a four-stage Judges Cases timeline and a two-column trade-off; preserve the non-transplant qualification and prioritise secretariat, criteria and reasoned resolutions.
 
 ## Routed Prelims demand laboratory
 
@@ -1863,6 +1900,10 @@ D. The exact working strength, vacancy count or pendency total is fixed and curr
 
 **Mark/word discipline:** 10 marks; 145-155 words; 3 Article-level units and one limit.
 
+**Why this earns marks:** The answer defines Article 131 through parties, legal-right content and exclusions, then explains why the narrow gateway serves federalism.
+
+**How to improve this answer:** Draw the three eligible party combinations, add the legal-right test and Article 262 qualification, and avoid calling the Court a political mediator.
+
 ### M2. The contempt power protects justice, not judges from criticism. Discuss. (10 marks, 150 words)
 
 **Demand decoding:** “Discuss” requires constitutional purpose, statutory regulation, free-expression concern and a calibrated conclusion.
@@ -1884,6 +1925,10 @@ D. The exact working strength, vacancy count or pendency total is fixed and curr
 **Examiner comment:** The answer separates institution-protection from reputation-protection and avoids treating statutory power as the source of Article 129.
 
 **Mark/word discipline:** 10 marks; target 145-155 words; one Article, one Act, two purposes and one speech qualification.
+
+**Why this earns marks:** It distinguishes the institutional purpose of contempt from personal insulation, integrates statute and free speech, and gives a proportionality-based conclusion.
+
+**How to improve this answer:** Retain Article 129, civil/criminal distinction, truth or fair-criticism protection and one misuse warning; do not imply criticism is immune when it obstructs justice.
 
 ### M3. Article 32 is the guaranteed constitutional remedy, yet Article 226 is the wider practical rights jurisdiction. Analyse. (15 marks, 250 words)
 
@@ -1909,6 +1954,10 @@ D. The exact working strength, vacancy count or pendency total is fixed and curr
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 5 comparative axes, five-writ reference and one case.
 
+**Why this earns marks:** The answer accurately separates Article 32’s guaranteed status from Article 226’s wider purpose and converts that distinction into an access-to-justice analysis.
+
+**How to improve this answer:** Use a compact comparison table covering right, purpose, territorial nexus and discretion; conclude that wider does not mean hierarchically superior.
+
 ### M4. Article 142 is indispensable for complete justice but dangerous when detached from law. Critically examine. (15 marks, 250 words)
 
 **Demand decoding:** “Critically examine” requires utility, hard legal limits, current control and a reasoned threshold for use.
@@ -1933,6 +1982,10 @@ D. The exact working strength, vacancy count or pendency total is fixed and curr
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 2 benefits, 3 limits and one current control.
 
+**Why this earns marks:** It treats Article 142 as remedial power, anchors both constitutional and statutory limits, and gives a calibrated complete-justice test.
+
+**How to improve this answer:** Keep cause-or-matter nexus, Prem Chand Garg and SCBA; remove illustrative uses before removing the two hard limits.
+
 ### M5. Retired judges can add capacity and expertise, but post-retirement deployment can affect perceptions of independence. Examine. (15 marks, 250 words)
 
 **Demand decoding:** “Examine” requires distinguishing Article 128 sitting from other appointments, then balancing capacity against incentives.
@@ -1956,6 +2009,10 @@ D. The exact working strength, vacancy count or pendency total is fixed and curr
 **Examiner comment:** The answer distinguishes constitutional sitting from the wider post-retirement debate and proposes proportionate safeguards.
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 4 Articles, 2 benefits, 3 risks and 4 reforms.
+
+**Why this earns marks:** The answer distinguishes Articles 128 and 124(7), identifies capacity gains and addresses independence risks without inventing a total post-retirement ban.
+
+**How to improve this answer:** Retain consent requirements, the practice bar and two safeguards—cooling-off and transparent selection; distinguish judicial sitting from executive appointment.
 
 ### M6. Judicial review preserves constitutional supremacy, but its legitimacy depends on doctrinal and institutional restraint. Evaluate with reference to amendments, the Ninth Schedule and tribunals. (20 marks, 250 words)
 
@@ -1983,6 +2040,10 @@ D. The exact working strength, vacancy count or pendency total is fixed and curr
 
 **Mark/word discipline:** 20 marks; target 245-260 words; 7 named cases/provisions, 3 applications and 3 legitimacy controls.
 
+**Why this earns marks:** It integrates amendment review, Ninth Schedule impact review and tribunal supervision into one constitutional-supremacy argument with restraint.
+
+**How to improve this answer:** Organise by three review objects—amendments, immunised laws and tribunal decisions—then attach one case and one precise limit to each.
+
 ### M7. The Supreme Court's constitutional authority is strong, but access and implementation determine whether that authority becomes justice. Critically examine and suggest reforms. (20 marks, 250 words)
 
 **Demand decoding:** Test legal authority against delivery constraints; reforms must address docket, access, compliance and accountability.
@@ -2006,6 +2067,10 @@ D. The exact working strength, vacancy count or pendency total is fixed and curr
 **Examiner comment:** The answer moves from constitutional power to delivery mechanisms and prioritises reforms rather than listing technology.
 
 **Mark/word discipline:** 20 marks; target 245-260 words; 6 authority units, 6 constraints and 7 reform actions.
+
+**Why this earns marks:** The authority-delivery chain answers the question causally and matches pendency, digital access and implementation reforms to distinct bottlenecks.
+
+**How to improve this answer:** Use authority → access → hearing → reasoned order → implementation as the spine; cite only dated official data and pair each diagnosed deficit with one feasible reform.
 
 ## Final consolidated register notes
 

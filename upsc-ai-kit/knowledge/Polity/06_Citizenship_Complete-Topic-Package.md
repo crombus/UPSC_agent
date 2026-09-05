@@ -15,8 +15,12 @@ cover_image: "../../../notes/Polity/assets/06_Citizenship/01_citizenship_members
 - Source order followed: canonical Core owner `Polity/basic/Citizenship.md` -> separately labelled optional Advanced owner `Polity/advanced/06_Citizenship.md` -> locally OCR-searchable M. Laxmikanth Chapter 6 and audited PYQ routing -> official constitutional, statutory, judicial and executive materials -> Qdrant not used.
 - [LIMIT] The Core below independently covers the exam outcome. The optional Advanced section adds jurisprudential and analytical depth without becoming necessary for basic command.
 - [FACT] The Constitution's permanent text is the control for Articles 5-11; the current Citizenship Act, 1955 text published by MHA is the control for statutory acquisition, loss, Section 6A, Section 6B and OCI.
-- [CURRENT] The Citizenship (Amendment) Act, 2019 is operative. The Citizenship (Amendment) Rules, 2024 were notified on 11 March 2024. PIB recorded the first set of certificates on 15 May 2024. The official MHA law page checked for this package continues to publish the 2019 Act and the 2024 Rules; this package does not rely on any unsupported claim of a separate "2026 Rules amendment".
-- [CURRENT] No authoritative final Supreme Court disposal of the constitutional challenges to the CAA was located in the official-source sweep completed on 15 August 2026. The validity challenge is therefore described only as pending/sub judice; no hearing calendar or predicted outcome is asserted.
+- [CURRENT] The Citizenship (Amendment) Act, 2019 is operative. The Citizenship (Amendment) Rules, 2024 were notified on 11 March 2024. PIB recorded the first set of certificates on 15 May 2024. The official MHA law page checked for this package continues to publish the 2019 Act and the 2024 Rules; the 19 August 2026 procedural amendment is separately recorded below.
+
+- [CURRENT] **Administrative update, 19 August 2026:** G.S.R. 742(E), the Citizenship (Third Amendment) Rules, 2026, inserted rule 11A(6). For Section 6B applicants ordinarily residing in Gujarat, Rajasthan, Punjab, West Bengal, Assam except tribal areas, Tripura except tribal areas, Jammu and Kashmir, and Ladakh, the electronic application goes to the jurisdictional Collector. The Collector acknowledges, verifies documents, conducts necessary enquiry, administers the oath, decides eligibility and suitability, and grants registration or naturalisation; failure to appear despite reasonable opportunities permits rejection.
+- [CURRENT] S.O. 4583(E), also 19 August 2026, displaced the 2024 committee order for those territories, rescinded specified February/March 2026 orders prospectively, and transferred pending Section 6B applications from Empowered/District Level Committees to the concerned Collector. [LIMIT] These measures change competent authority and procedure; they do **not** alter the six communities, three countries, territorial exclusions or the 31 December 2014 statutory entry cut-off.
+
+- [CURRENT] No authoritative final Supreme Court disposal of the constitutional challenges to the CAA was located in the official-source sweep completed on 28 August 2026. The validity challenge is therefore described only as pending/sub judice; no hearing calendar or predicted outcome is asserted.
 - [FACT] In *In Re: Section 6A of the Citizenship Act, 1955*, decided on 17 October 2024, a Constitution Bench upheld Section 6A by 4:1. The majority also recorded serious implementation deficiencies and issued monitoring-oriented directions. Justice J.B. Pardiwala alone dissented.
 - PYQ control: the audited repository routing identifies one directly relevant demand, 2021 Prelims GS-I Q89. Its text was read from the local official paper. No official 2021 Prelims key is held locally, so the solution is prominently labelled **INFERRED ANSWER - NOT OFFICIALLY VERIFIED**. No genuine directly relevant Mains PYQ was located in the audited ledgers or local official GS-II papers; none is fabricated.
 - Practice counts: 1 solved routed PYQ; 24 original hard MCQs; 8 remedial MCQs; 6 original solved Mains questions across 10, 15 and 20 marks.
@@ -436,6 +440,9 @@ cover_image: "../../../notes/Polity/assets/06_Citizenship/01_citizenship_members
 
 ### Cancellation
 
+[CURRENT] A Section 7D(da) notification dated **11 August 2025** adds a serious-criminality cancellation trigger: OCI registration may be cancelled where the cardholder is sentenced to imprisonment for two years or more, or is charge-sheeted for an offence punishable with imprisonment for seven years or more. This supplements rather than replaces the statutory hearing requirement.
+
+
 [FACT] Section 7D grounds include fraud/concealment, constitutional disaffection, enemy assistance in war, a qualifying two-year sentence within five years, violation of specified law, sovereignty/security/public-interest grounds, and breakdown/breach of the qualifying spouse marriage. A reasonable opportunity of hearing is required.
 
 | Status | Citizen? | Vote? | Passport/nationality | Typical India connection |
@@ -667,6 +674,8 @@ Which of the statements given above is/are correct?
 
 **Why this is a strong solution:** It tests each statement independently, names the controlling constitutional/statutory rule and does not convert a high-confidence inference into an official answer.
 
+**How to improve this answer:** Draw a three-row elimination table: statement 1—*Pradeep Jain*; statement 2—Article 58; statement 3—Section 10 category/ground/procedure gates.
+
 ### Original hard MCQs - strict A -> B -> C -> D rotation
 
 #### Q1. Which one of the following most accurately states the constitutional position of non-citizens?
@@ -881,7 +890,7 @@ Which of the statements given above is/are correct?
 - A. The Rules were first notified in 2026
 - B. The CAA automatically confers citizenship without application
 - C. Section 6B applies uniformly throughout every Sixth Schedule and Inner Line area
-- D. Rules 2024 create an electronic application-verification-oath-decision process, and the aggregate naturalisation period is reduced from eleven to five for the specified class while the immediate twelve-month limb remains
+- D. Rules 2024 created an electronic process and the 19 August 2026 amendment assigns specified applicants to the jurisdictional Collector; and the aggregate naturalisation period is reduced from eleven to five for the specified class while the immediate twelve-month limb remains
 
 **Answer: D.** This option combines the procedural and residence details that close options often split incorrectly.
 
@@ -967,11 +976,15 @@ Which of the statements given above is/are correct?
 
 **Why this earns marks:** It defines all three terms, uses Article 5, *Pradeep Jain* and specific constitutional exceptions, and ends with a qualified rather than absolute conclusion.
 
+**How to improve this answer:** Compress the distinction into a three-column membership–legal-home–factual-presence table, then add one consequence for voting and one Article 16(3) caveat.
+
 ### Original 10-marker 2: Explain why OCI is not dual citizenship. Evaluate the logic of its principal rights and restrictions. (150 words)
 
 **Model answer.** **Thesis:** OCI is a statutory foreign-national card status under Sections 7A-7D, not Indian citizenship. **Evidence:** The 2021 MHA notification describes an OCI cardholder as a foreign national holding a foreign passport and grants a lifelong multiple-entry visa, limited parity in fees, NRI-equivalent access in specified education/property/professional fields and FRRO exemption. Section 7B withholds the vote, legislative membership, Presidency/Vice-Presidency, judgeship and Article 16 public-employment equality. **Analysis:** The design supports diaspora mobility, investment and cultural connection without creating competing political allegiance. The restrictions track the distinction between social-economic access and democratic authorship. **Qualification:** OCI is not secure against all change: rights depend on notification and registration can be cancelled under Section 7D with a hearing. **Conclusion:** OCI is calibrated external membership - deeper than an ordinary visa, but deliberately short of nationality and political membership.
 
 **Why this earns marks:** It names the statutory sections and 2021 notification, links each right/restriction to a design rationale, and avoids the "half citizenship" cliché.
+
+**How to improve this answer:** Separate OCI facilities from political exclusions in two columns and add the 11 August 2025 Section 7D(da) cancellation update as the current-value point.
 
 ### Original 15-marker 1: The Constitution settled citizenship at commencement but left its future architecture to Parliament. Discuss. (250 words)
 
@@ -979,23 +992,31 @@ Which of the statements given above is/are correct?
 
 **Why this earns marks:** It answers both halves, covers every Article without becoming a list, links Article 11 to named statutory institutions and uses current case law as analysis.
 
+**How to improve this answer:** Use a 5→11 constitutional ladder and name one statutory example under Article 11; avoid spending more than one-third of the answer merely listing Articles.
+
 ### Original 15-marker 2: Section 6A is constitutionally valid, but its implementation remains a governance challenge. Analyse in light of the 2024 Constitution Bench judgment. (250 words)
 
 **Model answer.** **Thesis:** The 4:1 judgment separates the validity of Assam's historical settlement from the adequacy of its enforcement. **Scheme:** Section 6A deems pre-1966 Indian-origin entrants citizens; subjects the 1966-before-25 March 1971 stream to detection, registration and a ten-year electoral exclusion; and protects no post-cut-off entrant. **Majority:** Chief Justice Chandrachud and Justice Surya Kant's three-judge opinion upheld Parliament's Article 11 competence and found Assam plus the 1971 date to be a reasonable classification. They rejected challenges under Articles 6, 7, 9, 14, 21, 29, 326 and 355; Article 29 protects the capacity to conserve culture, and destruction of that capacity was not proved. **Governance deficit:** Justice Surya Kant nevertheless found tribunals and statutory machinery inadequate, stressed detection/deportation of post-1971 entrants, effective use of complementary laws and continuing judicial monitoring. **Dissent:** Justice Pardiwala argued that the absence of temporal closure and State-centred detection burden made Section 6A(3) manifestly arbitrary with time; he would invalidate prospectively while preserving past grants. **Assessment:** The dissent identifies design risk, but the majority controls. Administrative failure cannot be casually converted into invalidity; nor can validity excuse indefinite non-enforcement. **Conclusion:** Section 6A survives as law, but legitimacy now depends on timely, rights-respecting and reviewable implementation.
 
 **Why this earns marks:** It gives the exact streams, majority holdings, sole dissent and a reasoned validity-versus-administration verdict.
 
+**How to improve this answer:** State the three Section 6A streams in exact dates, then organise the judgment as majority validity → implementation directions → Pardiwala dissent → controlling verdict.
+
 ### Original 20-marker 1: Critically examine the Citizenship (Amendment) Act, 2019 as a classification under Article 14 and as an instrument of humanitarian policy. (250 words)
 
-**Model answer.** **Thesis:** CAA is an operative humanitarian facilitation whose constitutional legitimacy depends on whether its religion-country-date class is a reasonable response or an impermissibly under-inclusive citizenship preference. **Statutory design:** The law covers Hindus, Sikhs, Buddhists, Jains, Parsis and Christians from Afghanistan, Bangladesh and Pakistan who entered on/before 31 December 2014 and fall within specified exemptions. Section 6B enables registration/naturalisation, deems citizenship from entry upon grant and excludes Sixth Schedule tribal and Inner Line areas. The Third Schedule's aggregate period falls from eleven to five years; Rules 2024 require electronic application, documentary verification, oath and Empowered Committee decision. **Article 14 criticism:** Religion is explicit. Critics cite excluded Muslim sects and persecuted groups from other neighbours, secularism as a basic feature and the possibility that country selection is under-inclusive. Assam adds a federal-cultural objection: the 2014 date departs from the Accord's 1971 settlement. **Defence:** The State frames a narrow remedial class tied to Partition and vulnerable minorities in three selected neighbours; legislatures may address problems in stages. No existing citizen loses status and ordinary citizenship routes remain. Territorial exclusions show regional accommodation. **Assessment:** Humanitarian purpose does not end equality review; equally, under-inclusion does not automatically invalidate classification. The Court must test comparator, differentia, nexus and arbitrariness. **Conclusion:** Because the Act and 2024 Rules operate while constitutional challenges remain pending, the sound verdict is conditional: humanitarian legitimacy will endure only if the classification is judicially accepted as precise, non-arbitrary and secularism-compatible.
+**Model answer.** **Thesis:** CAA is an operative humanitarian facilitation whose constitutional legitimacy depends on whether its religion-country-date class is a reasonable response or an impermissibly under-inclusive citizenship preference. **Statutory design:** The law covers Hindus, Sikhs, Buddhists, Jains, Parsis and Christians from Afghanistan, Bangladesh and Pakistan who entered on/before 31 December 2014 and fall within specified exemptions. Section 6B enables registration/naturalisation, deems citizenship from entry upon grant and excludes Sixth Schedule tribal and Inner Line areas. The Third Schedule's aggregate period falls from eleven to five years; Rules 2024 created electronic application and committee scrutiny; from 19 August 2026, specified applicants use the jurisdictional Collector route under rule 11A(6). **Article 14 criticism:** Religion is explicit. Critics cite excluded Muslim sects and persecuted groups from other neighbours, secularism as a basic feature and the possibility that country selection is under-inclusive. Assam adds a federal-cultural objection: the 2014 date departs from the Accord's 1971 settlement. **Defence:** The State frames a narrow remedial class tied to Partition and vulnerable minorities in three selected neighbours; legislatures may address problems in stages. No existing citizen loses status and ordinary citizenship routes remain. Territorial exclusions show regional accommodation. **Assessment:** Humanitarian purpose does not end equality review; equally, under-inclusion does not automatically invalidate classification. The Court must test comparator, differentia, nexus and arbitrariness. **Conclusion:** Because the Act and 2024 Rules operate while constitutional challenges remain pending, the sound verdict is conditional: humanitarian legitimacy will endure only if the classification is judicially accepted as precise, non-arbitrary and secularism-compatible.
 
 **Why this earns marks:** It states the exact law, separates aggregate and immediate residence, applies both sides of Article 14, adds Assam and current status, and avoids predicting the pending case.
+
+**How to improve this answer:** Add a boxed 2026 procedure update after the statutory design: specified applicants now approach the Collector; expressly say eligibility and the 2014 cut-off did not change.
 
 ### Original 20-marker 2: India's single citizenship coexists with differentiated regional protections. Does this strengthen or weaken the Union? Discuss. (250 words)
 
 **Model answer.** **Thesis:** Single citizenship supplies equal national membership; differentiated protections can strengthen that membership when they are constitutionally bounded, but weaken it when residence becomes a proxy for exclusion. **Integrative core:** Unlike classical federations with State citizenship, India gives one citizenship, one national franchise structure and interstate mobility under Article 19. *Pradeep Jain* rejects a separate State domicile in the constitutional sense. This lowers internal membership barriers and supports fraternity and a national labour market. **Protective asymmetry:** Article 16(3) allows Parliament to prescribe residence conditions for specified public posts; Article 19(5) permits tribal-protection restrictions; Articles 371A-371J protect customary law, land, local cadres or regional opportunity. Section 6A is another historical asymmetry, but it creates Indian rather than Assam citizenship. **Benefits:** These devices can reduce domination fears, preserve indigenous institutions and make national membership credible in culturally vulnerable regions. **Risks:** Excessive local quotas, vague "domicile" barriers or political hostility to interstate migrants can hollow out equal citizenship and conflict with Articles 14, 16(2) and 19. The former Article 35A debate illustrates how entrenched local privilege can become constitutionally contested. **Test:** A valid safeguard should have constitutional/statutory authority, a legitimate vulnerability or governance objective, proportional means, temporal review and no claim to a separate nationality. **Conclusion:** Differentiation strengthens the Union when it secures participation within common citizenship; it weakens the Union when it converts residence into hereditary political closure.
 
 **Why this earns marks:** It uses named Articles, *Pradeep Jain*, Section 6A and a proportionality-style test, while balancing integration against regional vulnerability.
+
+**How to improve this answer:** Use an integration/protection/risk matrix and finish with a four-part validity test: authority, legitimate vulnerability, proportionality and periodic review.
 
 ### Mains PYQ scope note
 

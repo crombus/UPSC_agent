@@ -254,3 +254,27 @@ the answer to "how far".
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the 1914 international system, alliance alignments, arms and
+  naval competition, imperial rivalry, nationalism and Balkan crises; the
+  Sarajevo trigger; July Crisis state choices, mobilisation and the mechanism
+  that converted an Austro-Serb conflict into general war.
+- **Boundary:** Topic 06 owns national unification and Alsace-Lorraine's
+  creation, Topic 07 owns New Imperialism in Africa, and Topic 10 owns the
+  war's military course, total-war consequences and 1919-23 settlements.
+  Topic 09 ends when general war begins.
+- **Date control:** Triple Alliance (1882), Franco-Russian alliance (1894),
+  Entente Cordiale (1904), Anglo-Russian agreement (1907), Bosnia Crisis
+  (1908), Agadir (1911), Balkan Wars (1912-13), Sarajevo (28 June 1914),
+  Austrian declaration (28 July) and 1-4 August escalation remain distinct.
+- **Mechanism control:** diplomatic alignments were not identical automatic
+  war plans; Italy's position disproves a static two-camp map. Sarajevo was a
+  trigger, not a sufficient cause; the July Crisis transmitted Balkan,
+  imperial, national, strategic and operational choices. Responsibility does
+  not equal inevitability.
+- **Verified PYQ ownership, 2018-2025:** the exact 2024 GS-I 15-mark,
+  250-word demand asks how far the First World War was fought essentially for
+  preservation of balance of power. Balance explains the system and part of
+  Britain's entry, not every belligerent motive or the complete purpose.

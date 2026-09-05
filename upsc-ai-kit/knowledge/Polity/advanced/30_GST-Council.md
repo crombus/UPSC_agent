@@ -56,8 +56,8 @@ with bands)**; special disaster rates; special provisions for **NE & hill/specia
 
 # PART E — 📰 CURRENT DEVELOPMENTS ⭐
 - 📰 **GST 2.0 (56th GST Council, effective 22 Sept 2025):** the old four-slab structure (5/12/18/28%) was
-  **rationalised into two main slabs — 5% (merit) & 18% (standard)** — plus a **40% "sin/luxury" rate** (tobacco,
-  pan masala, aerated drinks, luxury vehicles). Individual health & life insurance **fully exempt**.
+  recommended a broad **5% merit rate and 18% standard rate**, plus a special **40% de-merit rate** (tobacco,
+  pan masala, aerated drinks, luxury vehicles). Individual health and life insurance exemptions were recommended. Applicable liability requires the relevant Gazette notification; do not treat the press release as self-executing law.
 - 📰 ⚠️ **Mohit Minerals case (SC, 2022):** GST Council recommendations are **only persuasive, NOT binding** on the
   Centre or states (both have simultaneous power to tax) — a landmark on **fiscal federalism** and states'
   autonomy.

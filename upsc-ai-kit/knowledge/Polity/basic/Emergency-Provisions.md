@@ -14,7 +14,7 @@
 | ✅ **Financial** | **360** | Threat to India's financial stability/credit |
 
 ## Core idea
-✅ During an emergency the **federal system turns unitary** without amending the Constitution (Ambedkar).
+✅ Emergency provisions can **temporarily expand Union executive, legislative or fiscal control** without abolishing States or amending the federal Constitution. Under Article 352, State governments and legislatures continue; Article 356 has sharper State-specific consequences.
 The **44th Amendment (1978)** added most safeguards after the misuse of the **1975 Emergency**.
 
 ## National Emergency (352) — key numbers
@@ -26,8 +26,7 @@ The **44th Amendment (1978)** added most safeguards after the misuse of the **19
 | ✅ Revocation | LS simple-majority disapproval → must revoke |
 | ✅ Declared | **1962, 1971, 1975** (3 times) |
 
-✅ **FR effect:** **Art 358** auto-suspends **Art 19** (only in External Emergency); **Art 359** suspends
-enforcement of specified FRs — but **Art 20 & 21 can NEVER be suspended**.
+✅ **FR effect:** During a war/external-aggression Emergency, **Article 358** automatically removes Article 19 restrictions only for emergency-related laws carrying the constitutional recital and action under them. **Article 359** requires a presidential order suspending the right to move specified courts for enforcement of named rights; **Articles 20 and 21 remain enforceable**.
 
 ## President's Rule (356)
 ✅ Approval within **2 months, simple majority**; max **3 years**. Beyond 1 year needs a National
@@ -50,8 +49,7 @@ state staff **and SC/HC judges**. ✅ **Never declared.**
 - ✅ Financial Emergency modelled on the US **National Recovery Act 1933**.
 
 ## 📰 Current link
-📰 ⚠️ **50 years of the 1975 Emergency (June 2025)** revived debates on democratic safeguards; Art 356 &
-Governor floor-test controversies keep **Bommai** topical.
+📰 ✅ **Current control, 28 August 2026:** no National Emergency or Financial Emergency is in force. President's Rule imposed in Manipur on 13 February 2025 was revoked on **4 February 2026** when an elected government was restored. The 50th anniversary of the 1975 Emergency revived safeguard debates; this changed no constitutional rule.
 
 ➡️ Art 358 vs 359, the *Bommai* propositions and the contrast tables are all held **in this file**.
 *Advanced: optional deeper detail in `advanced/14_Emergency-Provisions.md` — not required for any mark.*

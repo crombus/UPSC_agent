@@ -125,10 +125,31 @@ EXAM HOTSPOTS
 
 **Statement.** ✅ This reflection generates **abhimāna** (false appropriation: "I am the doer/knower/enjoyer"), and that abhimāna is the psychological root of bondage.
 
+**Two-way appearance.** ✅ Through the conjunction or semblance of conjunction, the unconscious internal instrument appears conscious, while the inactive Puruṣa appears to be an agent. Productive agency belongs to the qualities and evolutes of Prakṛti; witnessing belongs to Puruṣa.
+
 **Exam use.** ⚠️ For Sāṃkhya, the mind does not know by itself and Puruṣa does not act by itself; empirical knowing is a reflected-consciousness event in buddhi.
 
 
-## 1. PRAKṚTI (prakriti) — the primal material principle
+## 0B. HISTORICAL-SOURCE IDENTITY AND CANONICAL SCOPE
+
+- ✅ Tradition associates Sāṃkhya with **Kapila**, followed by Āsuri and Pañcaśikha, but their foundational works are not extant in securely recoverable form.
+- ✅ The earliest extant systematic classical text is Īśvarakṛṣṇa's **Sāṃkhyakārikā**, with major explanatory traditions including Gauḍapāda's commentary and Vācaspati Miśra's **Tattvakaumudī**.
+- ⚠️ The later **Sāṃkhyapravacana-sūtra** and Vijñānabhikṣu's commentary represent a later textual and often more theistic phase; they must not be projected uncritically back into every claim of the classical Kārikā system.
+- ✅ “Sāṃkhya” is traditionally connected both with discriminative or right knowledge and with enumeration, fitting a system that seeks liberation through knowledge of twenty-five principles.
+
+### 0B.1 Relation to Yoga without stealing Yoga's ownership
+
+- ✅ Sāṃkhya supplies the dualist metaphysics of primordial material nature and many conscious witnesses that classical Yoga substantially shares.
+- ✅ Yoga develops a distinct practical psychology of mind-field, afflictions, meditative absorption, eight-limbed discipline and a special conscious witness identified as God.
+- ⚠️ Therefore use Yoga only as a bounded comparison: Sāṃkhya is primarily the theoretical discriminative framework; Yoga owns the detailed discipline and theistic-practical additions.
+
+### 0B.2 Marks-essential versus optional depth
+
+- **Marks-essential owner content:** primordial material nature, conscious witness, qualities, all proofs, twenty-five principles, pre-existence of the effect, real transformation, subtle body and transmigration, threefold suffering, discriminative liberation, non-theism, contact problem and all ten routed PYQs.
+- **Core supporting depth:** three means of valid knowledge, internal instrument, reflection/apparent agency, rival causation, Śaṃkara's criticism and named replies.
+- **Optional enrichment:** detailed later commentarial theism, exhaustive disposition cosmology, specialist textual chronology and full Yoga practice taxonomies.
+
+## 1. PRIMORDIAL MATERIAL NATURE (PRAKṚTI)
 
 ### 1.1 Statement
 
@@ -161,11 +182,11 @@ EXAM HOTSPOTS
 - ✅ Such systematic coherence suggests a common material basis.
 - ⚠️ This is an argument from coordinated diversity: if effects hang together, they are likely rooted in one underlying matrix.
 
-#### (3) **kāryataḥ pravṛtteḥ** — from purposive activity directed toward effects
-- ✅ The empirical order is not inert chaos; it is a field of production, activity and transformation.
-- ✅ Productive activity presupposes a causal potency capable of issuing in determinate effects.
-- ✅ Therefore there must be an underlying productive principle possessing the capacity for manifestation.
-- ⚠️ Sāṃkhya here reasons from the fact of becoming to an abiding source of becoming.
+#### (3) From operation due to causal power (**śaktitaḥ pravṛtteś ca**)
+- ✅ Effects arise through the operation of a cause possessing the relevant power (**śakti**).
+- ✅ Evolution is manifestation of what the potent cause can produce; an impotent or unrelated source cannot generate a determinate effect.
+- ✅ Therefore the world-process presupposes an underlying productive power capable of the full range of manifest effects: primordial material nature.
+- ⚠️ **Textual control:** the standard reading of *Sāṃkhyakārikā* 15 is **śaktitaḥ pravṛtteś ca**, not *kāryataḥ pravṛtteḥ*. The argument is from causal power and operation, not from conscious purposive planning.
 
 #### (4) **kāraṇa-kārya-vibhāgāt** — from the distinction between cause and effect
 - ✅ Cause and effect are distinguishable stages: the unmanifest source and the manifest product are not identical in appearance.
@@ -227,7 +248,7 @@ EXAM HOTSPOTS
 - ✅ **Avyakta** emphasizes that it is unmanifest prior to differentiated evolution.
 - ⚠️ An exam-safe definition: **Prakṛti is the avyakta pradhāna, the unmanifest chief material principle constituted by the three guṇas.**
 
-## 2. PURUṢA (purusha) — the conscious principle
+## 2. CONSCIOUS WITNESS (PURUṢA)
 
 ### 2.1 Statement
 
@@ -303,7 +324,9 @@ EXAM HOTSPOTS
 
 **Argument.** ✅ **From liberation of some and not others:** if the self were one, liberation of one would imply liberation of all; since some remain bound while another may be released, Puruṣas must be many.
 
-**Exam use.** ⚠️ Present these as the standard arguments for plurality; do not tie them to an exact canonical count unless the question specifically demands textual enumeration.
+**Source control.** ✅ The first three arguments map directly onto *Sāṃkhyakārikā* 18: fixed distribution of birth/death/faculties, non-simultaneous activity and differential guṇa-constitution. Differential liberation is a standard supplementary inference, not a fourth phrase in that verse.
+
+**Exam use.** ⚠️ Present the three Kārikā arguments first; add non-simultaneous liberation only as reinforcement.
 
 #### 2.4.2 Presuppositions behind the plurality argument
 
@@ -374,7 +397,7 @@ EXAM HOTSPOTS
 - ✅ UPSC 2019 directly asked the metaphysical status of jīva and puruṣa.
 - ⚠️ Best formulation: **jīva is Puruṣa as empirically conditioned through buddhi; Puruṣa is the metaphysical reality behind that appearance.**
 
-## 3. THE 25 TATTVAS — FULL EVOLUTIONARY SEQUENCE
+## 3. THE TWENTY-FIVE PRINCIPLES (TATTVAS) — FULL EVOLUTIONARY SEQUENCE
 
 ### 3.1 Full sequence
 
@@ -404,6 +427,29 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 | 15-19 | **five tanmātras** | subtle elements |
 | 20-24 | **five mahābhūtas** | gross elements |
 | 25 | **Puruṣa** | pure consciousness, non-evolute |
+
+### 3.2A Complete instrument and element taxonomy
+
+| Family | English-first members | Function / evolution |
+|---|---|---|
+| **Five cognitive sense-capacities (jñānendriyas / buddhīndriyas)** | hearing (**śrotra**), touch (**tvak**), sight (**cakṣus**), taste (**rasanā**), smell (**ghrāṇa**) | disclose sound, touch, form/colour, taste and smell |
+| **Five action-capacities (karmendriyas)** | speech (**vāk**), grasping (**pāṇi**), locomotion (**pāda**), excretion (**pāyu**), reproduction (**upastha**) | perform the five principal outward functions |
+| **Five subtle elements (tanmātras)** | sound-potential (**śabda**), touch-potential (**sparśa**), form/colour-potential (**rūpa**), taste-potential (**rasa**), smell-potential (**gandha**) | arise from the tāmasa side of ego-maker with rājasa energy |
+| **Five gross elements (mahābhūtas)** | ether (**ākāśa**), air (**vāyu**), fire/light (**tejas**), water (**ap**), earth (**pṛthivī**) | arise from the subtle-element series and compose the gross world |
+
+- ✅ The standard correspondence runs sound → ether, touch → air, form → fire, taste → water and smell → earth.
+- ⚠️ Do not import Advaita's later fivefold grossification (**pañcīkaraṇa**) into the basic classical Sāṃkhya evolution answer.
+
+### 3.2B Cause–effect classification of the twenty-five principles
+
+| Status | Principles |
+|---|---|
+| **Cause but not effect (prakṛti, not vikṛti)** | primordial material nature alone |
+| **Both cause and effect (prakṛti-vikṛti)** | cosmic/determinative intellect, ego-maker and five subtle elements — seven |
+| **Effects only (vikāra)** | mind, five cognitive capacities, five action capacities and five gross elements — sixteen |
+| **Neither cause nor effect** | conscious witness |
+
+- ✅ This fourfold classification is the quickest way to control the full sequence and prevent miscounting cosmic intellect and determinative intellect as separate principles.
 
 ### 3.3 Mahat, buddhi and ahaṃkāra
 
@@ -449,7 +495,16 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 - ✅ The same Prakṛti that yields matter also yields the faculties through which matter is experienced.
 - ⚠️ UPSC 2024 as a 20-marker is exactly about narrating this structure cleanly and then explaining the buddhi/mahat/ahaṃkāra distinction.
 
-## 4. CAUSATION — SATKĀRYAVĀDA
+### 3.10 Subtle body, transmigration and karma
+
+- ✅ The **subtle body (liṅga-śarīra / sūkṣma-śarīra)** is the continuing psychophysical vehicle between gross embodiments.
+- ✅ It is commonly counted as eighteen principles: cosmic/determinative intellect, ego-maker, eleven sense/action capacities including mind, and five subtle elements.
+- ✅ The subtle body is described as primordially arisen within the evolutionary cycle and conditioned by dispositions and the eight broad tendencies of intellect: merit/demerit, knowledge/ignorance, detachment/non-detachment and power/powerlessness.
+- ✅ At death the gross body produced from parental material falls away, while the subtle body carries dispositions and karmic tendencies into another embodiment.
+- ✅ The pure conscious witness (**Puruṣa**) neither acts nor literally migrates. Transmigration belongs to the subtle body and empirical self-complex operating for a particular witness.
+- ⚠️ This preserves the inactivity of Puruṣa but creates a pressure point: moral ownership must be explained through stable association of a subtle stream with one numerically distinct witness.
+
+## 4. CAUSATION — PRE-EXISTENCE OF THE EFFECT (SATKĀRYAVĀDA)
 
 ### 4.1 Statement
 
@@ -576,6 +631,17 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 
 ## 5. LIBERATION (KAIVALYA)
 
+### 5.0 Three kinds of suffering
+
+Sāṃkhya inquiry begins from the impact of threefold suffering (**duḥkha-traya**):
+
+1. internal or psychophysical suffering (**ādhyātmika**) — bodily disease and mental affliction;
+2. suffering caused by other beings or external natural agents (**ādhibhautika**) — injury from humans, animals and material surroundings;
+3. suffering attributed to cosmic, elemental or unseen agencies (**ādhidaivika**) — environmental or supernormal affliction in the traditional classification.
+
+- ✅ Ordinary remedies and ritual means offer incomplete or temporary relief; discriminative knowledge aims at final and non-returning cessation.
+- ⚠️ The threefold diagnosis is not a separate printed noun, but it explains why liberation is the practical end of the entire system.
+
 ### 5.1 Bondage as aviveka
 
 - ✅ Bondage in Sāṃkhya is **aviveka**, non-discrimination between Puruṣa and Prakṛti.
@@ -608,13 +674,22 @@ Puruṣa = 25th tattva, but not an evolute of Prakṛti
 - ✅ **Jīvanmukti** refers to liberation while the body still continues due to prior momentum.
 - ✅ The standard analogy is the **potter's wheel** that keeps turning even after the impulse ceases.
 - ✅ **Videhamukti** is the final cessation of embodiment when the body falls and residual momentum ends.
+- ✅ The textual nuance is stronger than “Puruṣa becomes free”: in strict Sāṃkhya, the conscious witness (**Puruṣa**) is never really bound, liberated or transmigrating; these processes belong to Prakṛti and the subtle body, while discriminative knowledge ends false attribution.
 - ⚠️ In Sāṃkhya this remains isolation of consciousness, not union with God.
 
 ### 5.6 Nirīśvara character of liberation
 
 - ✅ No God is required for either bondage or liberation in classical Sāṃkhya.
 - ✅ Prakṛti's teleological evolution for Puruṣa's experience and release is treated as sufficient.
-- ⚠️ This is why classical Sāṃkhya must be clearly separated from theistic Yoga.
+- ✅ The classical position is better described as non-theistic or God-unproved than as a proof that no divine being can exist: primordial material nature and conscious witnesses are held sufficient for the explanatory work.
+- ✅ Standard anti-theistic arguments add:
+  1. if God acts from desire or selfish motive, God is not perfect or free;
+  2. if God is eternally fulfilled, there is no motive to create a painful world;
+  3. if God distributes results under karma, divine independence is limited; if distribution is arbitrary, justice fails;
+  4. an immutable conscious God cannot be the material source of a changing unconscious world under Sāṃkhya's cause-effect continuity;
+  5. eternal Puruṣas and primordial nature already explain consciousness and material evolution without a creator hypothesis.
+- ⚠️ Later Sāṃkhya writers such as Vijñānabhikṣu develop more theistic interpretations. Do not project them back into Īśvarakṛṣṇa's classical non-theistic system.
+- ⚠️ This is why classical Sāṃkhya must be clearly separated from Yoga, which adds a special conscious witness identified as God and owns the practical discipline.
 
 ## 6. PURUṢA–PRAKṚTI CONTACT PROBLEM
 
@@ -945,6 +1020,7 @@ Conclude why Sāṃkhya is the chief but rejected rival.
 ## SOURCES
 
 - Īśvarakṛṣṇa, *Sāṃkhya-kārikā*.
+- GRETIL electronic text of Īśvarakṛṣṇa's *Sāṃkhyakārikā*, checked for the exact readings and sequence of Kārikās 1–68, especially **śaktitaḥ pravṛtteś ca** in Kārikā 15 and the subtle-body verses.
 - S. Chatterjee & D. Datta, *An Introduction to Indian Philosophy*.
 - C.D. Sharma, *A Critical Survey of Indian Philosophy*.
 - S. Radhakrishnan, *Indian Philosophy* vol. 2.

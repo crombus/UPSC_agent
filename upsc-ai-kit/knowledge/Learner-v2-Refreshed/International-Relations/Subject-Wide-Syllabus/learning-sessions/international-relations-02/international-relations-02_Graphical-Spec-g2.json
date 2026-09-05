@@ -1,0 +1,1142 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-02",
+  "subject": "International-Relations",
+  "title": "INDIA AND THE NEIGHBOURHOOD",
+  "short_route": "NEIGHBOURHOOD MAP AND FRICTION → GUJRAL DOCTRINE CARD → ASYMMETRY TO POLICY DESIGN → NEIGHBOUR-TYPE COMPARISON → CONNECTIVITY INSTRUMENT LEDGER → DATED BILATERAL INSTRUMENT MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-02\\international-relations-02_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-02-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "60fe4a6d6fabccad89333d8bb3b90b8305c22848d429e8ecd1a6468277c00757",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "NEIGHBOURHOOD MAP AND FRICTION COUNT",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NEIGHBOURHOOD MAP AND FRICTION COUNT",
+          "role": "primary"
+        },
+        {
+          "text": "LAND OR MARITIME BORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "PAKISTAN, CHINA, NEPAL, BHUTAN, BANGLADESH",
+          "role": "comparison"
+        },
+        {
+          "text": "MYANMAR, SRI LANKA, MALDIVES",
+          "role": "evidence"
+        },
+        {
+          "text": "AFGHANISTAN, ADJACENT AFTER PAKISTAN'S 1948 CAPTURE OF A STRIP",
+          "role": "primary"
+        },
+        {
+          "text": "FRICTION RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "A HISTORY OF PROBLEMS WITH SIX OF THE EIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "NEIGHBOURHOOD IS DEFINED BY SECURITY RELEVANCE, NOT ONLY BY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAND OR MARITIME BORDER → Pakistan, China, Nepal, Bhutan, Bangladesh",
+        "Myanmar, Sri Lanka, Maldives",
+        "NEAR-NEIGHBOUR → Afghanistan, adjacent after Pakistan's 1948 capture of a strip of north-western Kashmir",
+        "FRICTION RECORD → a history of problems with six of the eight bordering states",
+        "RULE → neighbourhood is defined by security relevance, not only by contiguity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "LAND OR MARITIME BORDER → Pakistan, China, Nepal, Bhutan, Bangladesh,",
+            "Myanmar, Sri Lanka, Maldives"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEAR-NEIGHBOUR → Afghanistan, adjacent after Pakistan's 1948 capture of a strip of north-western Kashmir",
+            "FRICTION RECORD → a history of problems with six of the eight bordering states"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "RULE → neighbourhood is defined by security relevance, not only by contiguity",
+            "LAND OR MARITIME BORDER → Pakistan, China, Nepal, Bhutan, Bangladesh,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → neighbourhood is defined by security relevance, not only by contiguity.",
+      "source_references": [
+        "India's eight bordering neighbours and Afghanistan as a near-neighbour"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GUJRAL DOCTRINE CARD",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GUJRAL DOCTRINE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCIPLE 1",
+          "role": "outcome"
+        },
+        {
+          "text": "NO RECIPROCITY SOUGHT FROM SMALLER NEIGHBOURS",
+          "role": "caution"
+        },
+        {
+          "text": "PRINCIPLE 2",
+          "role": "evidence"
+        },
+        {
+          "text": "NO INTERFERENCE IN THEIR INTERNAL AFFAIRS",
+          "role": "caution"
+        },
+        {
+          "text": "PRINCIPLE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN TERRITORY NOT TO BE USED AGAINST THEM",
+          "role": "caution"
+        },
+        {
+          "text": "PRINCIPLE 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRINCIPLE 1 → no reciprocity sought from smaller neighbours",
+        "PRINCIPLE 2 → no interference in their internal affairs",
+        "PRINCIPLE 3 → Indian territory not to be used against them",
+        "PRINCIPLE 4 → respect for their territorial integrity",
+        "PRINCIPLE 5 → bilateral and peaceful settlement of disputes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "PRINCIPLE 1 → no reciprocity sought from smaller neighbours",
+            "PRINCIPLE 2 → no interference in their internal affairs"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "PRINCIPLE 3 → Indian territory not to be used against them",
+            "PRINCIPLE 4 → respect for their territorial integrity"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "PRINCIPLE 5 → bilateral and peaceful settlement of disputes",
+            "DEFINING FEATURE → non-reciprocal accommodation, never reciprocity as a precondition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEFINING FEATURE → non-reciprocal accommodation, never reciprocity as a precondition.",
+      "source_references": [
+        "The Gujral Doctrine and its five principles"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ASYMMETRY TO POLICY DESIGN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ASYMMETRY TO POLICY DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "SIZE ASYMMETRY",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA LARGER THAN THE ENTIRE IMMEDIATE NEIGHBOURHOOD COMBINED",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPENDENCE ANXIETY",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALLER STATES PREFER REGIONAL-FRAMEWORK ENGAGEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NON-RECIPROCAL ACCOMMODATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DOCTRINE ANSWERS THE ANXIETY DIRECTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONNECTIVITY AND CREDIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIZE ASYMMETRY → India larger than the entire immediate neighbourhood combined",
+        "DEPENDENCE ANXIETY: smaller states prefer regional-framework engagement",
+        "NON-RECIPROCAL ACCOMMODATION: the doctrine answers the anxiety directly",
+        "CONNECTIVITY AND CREDIT: tangible public goods build confidence over time",
+        "TRANSITION TEST: does the benefit survive a change of government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "SIZE ASYMMETRY → India larger than the entire immediate neighbourhood combined",
+            "DEPENDENCE ANXIETY: smaller states prefer regional-framework engagement"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NON-RECIPROCAL ACCOMMODATION: the doctrine answers the anxiety directly",
+            "CONNECTIVITY AND CREDIT: tangible public goods build confidence over time"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "TRANSITION TEST: does the benefit survive a change of government",
+            "SIZE ASYMMETRY → India larger than the entire immediate neighbourhood combined"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSITION TEST: does the benefit survive a change of government.",
+      "source_references": [
+        "Asymmetric interdependence as the structural starting point",
+        "Sikri's regional-framework preference among smaller neighbours",
+        "Regime-oriented against people-to-people engagement"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NEIGHBOUR-TYPE COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NEIGHBOUR-TYPE COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "SMALLER STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "BHUTAN, NEPAL, MALDIVES, SRI LANKA; GREATER INTEREST IN ECONOMIC",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGER OR MORE COMPLEX",
+          "role": "evidence"
+        },
+        {
+          "text": "PAKISTAN AND BANGLADESH; MORE BILATERAL POSTURE; DISTINCT SECURITY AND",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL PREFERENCE IS REASSURANCE, NOT A REJECTION OF BILATERAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SMALLER STATES → Bhutan, Nepal, Maldives, Sri Lanka",
+        "greater interest in economic integration",
+        "regional framework preferred because numbers give a sense of security",
+        "LARGER OR MORE COMPLEX → Pakistan and Bangladesh; more bilateral posture; distinct security and historical",
+        "QUALIFIER → regional preference is reassurance, not a rejection of bilateral delivery"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "SMALLER STATES → Bhutan, Nepal, Maldives, Sri Lanka",
+          "regional framework preferred because numbers give a sense of security",
+          "QUALIFIER → regional preference is reassurance, not a rejection of bilateral delivery"
+        ],
+        [
+          "greater interest in economic integration",
+          "LARGER OR MORE COMPLEX → Pakistan and Bangladesh; more bilateral posture; distinct security and historical dynamics",
+          "SMALLER STATES → Bhutan, Nepal, Maldives, Sri Lanka"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "SMALLER STATES → Bhutan, Nepal, Maldives, Sri Lanka",
+            "greater interest in economic integration"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "regional framework preferred because numbers give a sense of security",
+            "LARGER OR MORE COMPLEX → Pakistan and Bangladesh; more bilateral posture; distinct security and historical dynamics"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFIER → regional preference is reassurance, not a rejection of bilateral delivery",
+            "SMALLER STATES → Bhutan, Nepal, Maldives, Sri Lanka"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFIER → regional preference is reassurance, not a rejection of bilateral delivery.",
+      "source_references": [
+        "Sikri's regional-framework preference among smaller neighbours",
+        "Asymmetric interdependence as the structural starting point"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONNECTIVITY INSTRUMENT LEDGER",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONNECTIVITY INSTRUMENT LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "1 NOVEMBER 2023",
+          "role": "outcome"
+        },
+        {
+          "text": "AKHAURA-AGARTALA CROSS-BORDER RAIL LINK INAUGURATED",
+          "role": "comparison"
+        },
+        {
+          "text": "BBIN MOTOR VEHICLES AGREEMENT SIGNED; BHUTAN NON-RATIFICATION CONSTRAINS IT",
+          "role": "evidence"
+        },
+        {
+          "text": "720 MW MANGDECHHU COMMISSIONED, THEN HANDED OVER TO BHUTAN",
+          "role": "primary"
+        },
+        {
+          "text": "MAY 2023",
+          "role": "outcome"
+        },
+        {
+          "text": "KALADAN WATERWAY AND SITTWE PORT OPERATIONALISED; ROAD COMPONENT LAGGED",
+          "role": "comparison"
+        },
+        {
+          "text": "1 JUNE 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 NOVEMBER 2023 → Akhaura-Agartala cross-border rail link inaugurated",
+        "2015 → BBIN Motor Vehicles Agreement signed; Bhutan non-ratification constrains it",
+        "2019 / 2022 → 720 MW Mangdechhu commissioned, then handed over to Bhutan",
+        "MAY 2023 → Kaladan waterway and Sittwe Port operationalised; road component lagged",
+        "1 JUNE 2026 → both sides still calling for Kaladan completion"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "1 NOVEMBER 2023 → Akhaura-Agartala cross-border rail link inaugurated",
+          "2019 / 2022 → 720 MW Mangdechhu commissioned, then handed over to Bhutan",
+          "1 JUNE 2026 → both sides still calling for Kaladan completion"
+        ],
+        [
+          "2015 → BBIN Motor Vehicles Agreement signed; Bhutan non-ratification constrains it",
+          "MAY 2023 → Kaladan waterway and Sittwe Port operationalised; road component lagged",
+          "RULE → the gap is segment delivered against corridor completed"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "1 NOVEMBER 2023 → Akhaura-Agartala cross-border rail link inaugurated",
+            "2015 → BBIN Motor Vehicles Agreement signed; Bhutan non-ratification constrains it"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "2019 / 2022 → 720 MW Mangdechhu commissioned, then handed over to Bhutan",
+            "MAY 2023 → Kaladan waterway and Sittwe Port operationalised; road component lagged"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "1 JUNE 2026 → both sides still calling for Kaladan completion",
+            "RULE → the gap is segment delivered against corridor completed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the gap is segment delivered against corridor completed.",
+      "source_references": [
+        "Bangladesh connectivity and the BBIN subregional instrument",
+        "Bhutan hydropower and the current commitment set",
+        "Act East physical routes and the segment-against-corridor distinction"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DATED BILATERAL INSTRUMENT MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATED BILATERAL INSTRUMENT MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SRI LANKA",
+          "role": "outcome"
+        },
+        {
+          "text": "SEVEN MOUS, 5 APRIL 2025; BRIEF CURRENT TO JULY",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINT VISION 7 OCTOBER 2024; FTA TERMS OF REFERENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "INR 4,850 CRORE LINE OF CREDIT; BRIEF CURRENT TO",
+          "role": "primary"
+        },
+        {
+          "text": "INR 100 BILLION FOR THE 13TH FIVE YEAR PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "2025; GELEPHU MINDFULNESS CITY SUPPORT 12 NOVEMBER 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "VISION, TERMS OF REFERENCE, MEMORANDUM AND CREDIT ARE PRE-DELIVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SRI LANKA → seven MoUs, 5 April 2025; brief current to July 2026; Sampur 120",
+        "MALDIVES → Joint Vision 7 October 2024; FTA Terms of Reference 25 July 2025",
+        "INR 4,850 crore line of credit; brief current to June 2026",
+        "BHUTAN → INR 100 billion for the 13th Five Year Plan 2024-29; rail MoU 29",
+        "2025; Gelephu Mindfulness City support 12 November 2025"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "SRI LANKA → seven MoUs, 5 April 2025; brief current to July 2026; Sampur 120 MW had ground-breaking, not commissioning",
+          "INR 4,850 crore line of credit; brief current to June 2026",
+          "2025; Gelephu Mindfulness City support 12 November 2025"
+        ],
+        [
+          "MALDIVES → Joint Vision 7 October 2024; FTA Terms of Reference 25 July 2025",
+          "BHUTAN → INR 100 billion for the 13th Five Year Plan 2024-29; rail MoU 29 September",
+          "LEVEL → vision, terms of reference, memorandum and credit are pre-delivery instruments"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "SRI LANKA → seven MoUs, 5 April 2025; brief current to July 2026; Sampur 120 MW had ground-breaking, not commissioning",
+            "MALDIVES → Joint Vision 7 October 2024; FTA Terms of Reference 25 July 2025"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INR 4,850 crore line of credit; brief current to June 2026",
+            "BHUTAN → INR 100 billion for the 13th Five Year Plan 2024-29; rail MoU 29 September"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "2025; Gelephu Mindfulness City support 12 November 2025",
+            "LEVEL → vision, terms of reference, memorandum and credit are pre-delivery instruments"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEVEL → vision, terms of reference, memorandum and credit are pre-delivery instruments.",
+      "source_references": [
+        "Sri Lanka's current instrument set and its pre-delivery status",
+        "Maldives instruments and the maritime cross-link",
+        "Bhutan hydropower and the current commitment set"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SRI LANKA 2022 FIRST-RESPONDER CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SRI LANKA 2022 FIRST-RESPONDER CARD",
+          "role": "primary"
+        },
+        {
+          "text": "BY 3 MAY 2022",
+          "role": "outcome"
+        },
+        {
+          "text": "MORE THAN USD 3 BILLION RECORDED IN ASSISTANCE DURING",
+          "role": "comparison"
+        },
+        {
+          "text": "USD 1 BILLION",
+          "role": "evidence"
+        },
+        {
+          "text": "FACILITY FOR FOOD, MEDICINES AND ESSENTIALS",
+          "role": "primary"
+        },
+        {
+          "text": "USD 500 MILLION",
+          "role": "outcome"
+        },
+        {
+          "text": "PETROLEUM CREDIT LINE; CLOSE TO 400,000 TONNES OF FUEL",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT USD 1 BILLION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BY 3 MAY 2022 → more than USD 3 billion recorded in assistance during 2022",
+        "USD 1 billion → facility for food, medicines and essentials",
+        "USD 500 million → petroleum credit line; close to 400,000 tonnes of fuel delivered",
+        "ABOUT USD 1 billion → Asian Clearing Union payment deferment",
+        "USD 400 million → Reserve Bank of India currency swap; 25 districts covered"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "BY 3 MAY 2022 → more than USD 3 billion recorded in assistance during 2022",
+          "USD 500 million → petroleum credit line; close to 400,000 tonnes of fuel delivered",
+          "USD 400 million → Reserve Bank of India currency swap; 25 districts covered"
+        ],
+        [
+          "USD 1 billion → facility for food, medicines and essentials",
+          "ABOUT USD 1 billion → Asian Clearing Union payment deferment",
+          "LIMIT → around USD 4 billion is the full-year description; structural problems remained"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "BY 3 MAY 2022 → more than USD 3 billion recorded in assistance during 2022",
+            "USD 1 billion → facility for food, medicines and essentials"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "USD 500 million → petroleum credit line; close to 400,000 tonnes of fuel delivered",
+            "ABOUT USD 1 billion → Asian Clearing Union payment deferment"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "USD 400 million → Reserve Bank of India currency swap; 25 districts covered",
+            "LIMIT → around USD 4 billion is the full-year description; structural problems remained"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → around USD 4 billion is the full-year description; structural problems remained.",
+      "source_references": [
+        "Sri Lanka's 2022 crisis as the first-responder evidence set"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TRANSITION-TEST TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRANSITION-TEST TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "16 AUGUST 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA ENGAGES BANGLADESH'S INTERIM GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "12 SEPTEMBER 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA WELCOMES NEPAL'S INTERIM GOVERNMENT UNDER SUSHILA KARKI",
+          "role": "primary"
+        },
+        {
+          "text": "20 AUGUST 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA PRESSES FOR EARLY INCLUSIVE ELECTIONS IN BANGLADESH",
+          "role": "comparison"
+        },
+        {
+          "text": "12 FEBRUARY 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "16 AUGUST 2024 → India engages Bangladesh's interim government",
+        "12 SEPTEMBER 2025 → India welcomes Nepal's interim government under Sushila Karki",
+        "20 AUGUST 2025 → India presses for early inclusive elections in Bangladesh",
+        "12 FEBRUARY 2026 → Bangladesh parliamentary elections held",
+        "5 MARCH 2026 → Nepal elections held"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "16 AUGUST 2024 → India engages Bangladesh's interim government",
+            "12 SEPTEMBER 2025 → India welcomes Nepal's interim government under Sushila Karki"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "20 AUGUST 2025 → India presses for early inclusive elections in Bangladesh",
+            "12 FEBRUARY 2026 → Bangladesh parliamentary elections held"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "5 MARCH 2026 → Nepal elections held",
+            "READING → India engaged the successor arrangement in each case, not the outgoing one"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → India engaged the successor arrangement in each case, not the outgoing one.",
+      "source_references": [
+        "Bangladesh's political transition and the Ganga Waters Treaty horizon",
+        "Nepal's transition and the power-trade understanding"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WATER-SECURITY LEDGER",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WATER-SECURITY LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "23 APRIL 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET COMMITTEE ON SECURITY HOLDS THE INDUS WATERS TREATY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNTIL PAKISTAN CREDIBLY AND IRREVOCABLY ABJURES CROSS-BORDER TERRORISM SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "16 MAY 2026",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA RESTATES THAT THE COURT OF ARBITRATION IS ILLEGALLY",
+          "role": "institution"
+        },
+        {
+          "text": "DECEMBER 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "THE 1996 GANGA WATERS TREATY EXPIRES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "23 APRIL 2025 → Cabinet Committee on Security holds the Indus Waters Treaty in abeyance",
+        "CONDITION → until Pakistan credibly and irrevocably abjures cross-border terrorism support",
+        "16 MAY 2026 → India restates that the Court of Arbitration is illegally constituted",
+        "DECEMBER 2026 → the 1996 Ganga Waters Treaty expires",
+        "13 FEBRUARY 2026 → India states that renewal talks had not begun"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "23 APRIL 2025 → Cabinet Committee on Security holds the Indus Waters Treaty in abeyance",
+            "CONDITION → until Pakistan credibly and irrevocably abjures cross-border terrorism support"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "16 MAY 2026 → India restates that the Court of Arbitration is illegally constituted",
+            "DECEMBER 2026 → the 1996 Ganga Waters Treaty expires"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "13 FEBRUARY 2026 → India states that renewal talks had not begun",
+            "DOCTRINE TEST → non-reciprocity is least stable where the shared resource is finite"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DOCTRINE TEST → non-reciprocity is least stable where the shared resource is finite.",
+      "source_references": [
+        "Pakistan and the water-security linkage under adversarial conditions",
+        "Bangladesh's political transition and the Ganga Waters Treaty horizon"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "STATUS DISTINCTIONS THAT DECIDE CLOSE OPTIONS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATUS DISTINCTIONS THAT DECIDE CLOSE OPTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "AN EXECUTIVE DECISION ON OPERATION; EXPRESSLY NOT TREATY TERMINATION",
+          "role": "caution"
+        },
+        {
+          "text": "UNDERSTANDING OF 10 MAY 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "TO STOP ALL MILITARY ACTIVITIES; NOT A CEASEFIRE AGREEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "EMBASSY UPGRADE OF 21 OCTOBER 2025",
+          "role": "primary"
+        },
+        {
+          "text": "MISSION LEVEL CHANGED; NO RECOGNITION DECLARATION",
+          "role": "caution"
+        },
+        {
+          "text": "TERMS OF REFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEGOTIATIONS LAUNCHED; NOT A CONCLUDED FREE TRADE AGREEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ABEYANCE → an executive decision on operation; expressly not treaty termination",
+        "UNDERSTANDING OF 10 MAY 2025 → to stop all military activities; not a ceasefire agreement",
+        "EMBASSY UPGRADE OF 21 OCTOBER 2025 → mission level changed; no recognition declaration",
+        "TERMS OF REFERENCE → negotiations launched; not a concluded free trade agreement"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "ABEYANCE → an executive decision on operation; expressly not treaty termination",
+          "EMBASSY UPGRADE OF 21 OCTOBER 2025 → mission level changed; no recognition declaration",
+          "ABEYANCE → an executive decision on operation; expressly not treaty termination"
+        ],
+        [
+          "UNDERSTANDING OF 10 MAY 2025 → to stop all military activities; not a ceasefire agreement",
+          "TERMS OF REFERENCE → negotiations launched; not a concluded free trade agreement",
+          "UNDERSTANDING OF 10 MAY 2025 → to stop all military activities; not a ceasefire agreement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "ABEYANCE → an executive decision on operation; expressly not treaty termination",
+            "UNDERSTANDING OF 10 MAY 2025 → to stop all military activities; not a ceasefire agreement"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EMBASSY UPGRADE OF 21 OCTOBER 2025 → mission level changed; no recognition declaration",
+            "TERMS OF REFERENCE → negotiations launched; not a concluded free trade agreement"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ABEYANCE → an executive decision on operation; expressly not treaty termination",
+            "UNDERSTANDING OF 10 MAY 2025 → to stop all military activities; not a ceasefire agreement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TERMS OF REFERENCE → negotiations launched; not a concluded free trade agreement.",
+      "source_references": [
+        "Pakistan and the water-security linkage under adversarial conditions",
+        "Afghanistan engagement and the presence-against-recognition distinction",
+        "Maldives instruments and the maritime cross-link"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DOMESTIC AND EXTERNAL CONSTRAINT BAND",
+      "structural_type": "root-axes",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DOMESTIC AND EXTERNAL CONSTRAINT BAND",
+          "role": "primary"
+        },
+        {
+          "text": "TEESTA SHOWS INDIAN STATE-LEVEL INTERESTS CONSTRAINING A BILATERAL AGREEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "PARTNER POLITICS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA MUST CLOSELY FOLLOW NEIGHBOURING POLITICAL TRENDS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE GUJRAL PRINCIPLE SITS IN TENSION WITH THAT NECESSITY",
+          "role": "primary"
+        },
+        {
+          "text": "OUTSIDE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "SIKRI'S DATED CRITIQUE OF EXTERNAL GUIDANCE OF SOUTH ASIA",
+          "role": "comparison"
+        },
+        {
+          "text": "CITE THE CONSTRAINT WITH ITS DATE AND ITS AUTHOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FEDERAL → Teesta shows Indian state-level interests constraining a bilateral agreement",
+        "PARTNER POLITICS → India must closely follow neighbouring political trends",
+        "NON-INTERFERENCE → the Gujral principle sits in tension with that necessity",
+        "OUTSIDE POWER → Sikri's dated critique of external guidance of South Asia policy",
+        "RULE → cite the constraint with its date and its author, never as current fact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "FEDERAL → Teesta shows Indian state-level interests constraining a bilateral agreement",
+            "PARTNER POLITICS → India must closely follow neighbouring political trends"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NON-INTERFERENCE → the Gujral principle sits in tension with that necessity",
+            "OUTSIDE POWER → Sikri's dated critique of external guidance of South Asia policy"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "RULE → cite the constraint with its date and its author, never as current fact",
+            "FEDERAL → Teesta shows Indian state-level interests constraining a bilateral agreement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → cite the constraint with its date and its author, never as current fact.",
+      "source_references": [
+        "Teesta and the federal constraint on neighbourhood diplomacy",
+        "Domestic-political sensitivity and the historical-involvement tension",
+        "The implementation-credibility test, the outside-power variable and honest question ownership"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A NEIGHBOURHOOD DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A NEIGHBOURHOOD DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "ESTABLISH STRUCTURAL ASYMMETRY AND THE NON-RECIPROCAL DOCTRINAL RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINGUISH SMALLER-STATE AND LARGER-STATE ENGAGEMENT PATTERNS BY NAME",
+          "role": "institution"
+        },
+        {
+          "text": "CITE ONE DATED INSTRUMENT WITH ITS EXACT EVIDENTIARY LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLY THE IMPLEMENTATION-CREDIBILITY TEST ACROSS A CHANGE OF GOVERNMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → establish structural asymmetry and the non-reciprocal doctrinal response",
+        "BUILD → distinguish smaller-state and larger-state engagement patterns by name",
+        "TEST → cite one dated instrument with its exact evidentiary level and its limitation",
+        "CLOSE → apply the implementation-credibility test across a change of government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "OPEN → establish structural asymmetry and the non-reciprocal doctrinal response",
+            "BUILD → distinguish smaller-state and larger-state engagement patterns by name"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → cite one dated instrument with its exact evidentiary level and its limitation",
+            "CLOSE → apply the implementation-credibility test across a change of government"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "OPEN → establish structural asymmetry and the non-reciprocal doctrinal response",
+            "BUILD → distinguish smaller-state and larger-state engagement patterns by name"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → apply the implementation-credibility test across a change of government.",
+      "source_references": [
+        "The implementation-credibility test, the outside-power variable and honest question ownership",
+        "What this owner holds and how its scope is bounded"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BILATERAL SUMMIT-LEVEL MECHANISMS (ANNUAL OR PERIODIC LEADER-LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "MEA BILATERAL BRIEFS (INDIA-SRI LANKA AND INDIA-BHUTAN, CURRENT TO",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER-GRID AND TRANSIT PROTOCOLS ARE TYPICALLY NEGOTIATED AND RENEWED",
+          "role": "mechanism"
+        },
+        {
+          "text": "REGIONAL-FRAMEWORK OVERLAY (SAARC, BIMSTEC) PROVIDES THE MULTILATERAL",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDARY CASE — HISTORICAL INTERVENTION VS. STATED NON-INTERFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASE — SMALLER-STATE HEDGING",
+          "role": "institution"
+        },
+        {
+          "text": "EVEN NEIGHBOURS THAT VALUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE AND INSTRUMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Bilateral summit-level mechanisms (annual or periodic leader-level",
+            "MEA bilateral briefs (India-Sri Lanka and India-Bhutan, current to July",
+            "CAUTION: Power-grid and transit protocols are typically negotiated and renewed",
+            "CAUTION: Regional-framework overlay (SAARC, BIMSTEC) provides the multilateral"
+          ]
+        },
+        {
+          "heading": "STATUS, DATE AND FIGURE LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Boundary case — historical intervention vs. stated non-interference:",
+            "CAUTION: Boundary case — smaller-state hedging: even neighbours that value",
+            "CAUTION: Boundary case — Afghanistan as a near-neighbour: Tharoor's inclusion of",
+            "CAUTION: Regime change discontinuity risk: any government transition in a"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE DIPLOMATIC NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case — the implementation-credibility test with dated",
+            "CAUTION: Non-reciprocity has fiscal and political cost: the Gujral Doctrine's",
+            "CAUTION: Regional-framework preference vs. bilateral delivery tension: smaller",
+            "CAUTION: Domestic political engagement vs. non-interference principle: the need"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1045 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-15",
+  "subject": "World-History",
+  "title": "COLD WAR AND INTERNATIONAL RELATIONS",
+  "short_route": "COLD WAR SECURITY DILEMMA → ORIGINS WEIGHTING → CONTAINMENT SEQUENCE → KOREAN ESCALATION → THAW VERSUS CONTROL → BERLIN AND CUBA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-15\\world-history-15_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-15-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "9d01f90aab6e107880570dd2b9bf853cad4b526d569d8d700305a8f709ff7ebc",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COLD WAR SECURITY DILEMMA",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COLD WAR SECURITY DILEMMA",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY BELT IN EASTERN EUROPE",
+          "role": "outcome"
+        },
+        {
+          "text": "READS BELT AS EXPANSION",
+          "role": "comparison"
+        },
+        {
+          "text": "USSR READS ENCIRCLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFENSIVE ACTS REPRODUCE HOSTILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "USSR → security belt in eastern Europe",
+        "WEST → reads belt as expansion",
+        "CONTAINMENT → USSR reads encirclement",
+        "RESULT → defensive acts reproduce hostility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "USSR → security belt in eastern Europe",
+            "WEST → reads belt as expansion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTAINMENT → USSR reads encirclement",
+            "RESULT → defensive acts reproduce hostility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "USSR → security belt in eastern Europe",
+            "WEST → reads belt as expansion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTAINMENT → USSR reads encirclement; RESULT → defensive acts reproduce hostility.",
+      "source_references": [
+        "Cold War definition and security dilemma"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ORIGINS WEIGHTING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORIGINS WEIGHTING",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINES FRIEND AND THREAT",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER VACUUM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CREATES STRATEGIC STAKES",
+          "role": "evidence"
+        },
+        {
+          "text": "ATOMIC ASYMMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "RAISES MISTRUST",
+          "role": "outcome"
+        },
+        {
+          "text": "WARTIME LEGACY",
+          "role": "comparison"
+        },
+        {
+          "text": "BEGINS RIVALRY WITH LOW TRUST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDEOLOGY → defines friend and threat",
+        "POWER VACUUM → creates strategic stakes",
+        "ATOMIC ASYMMETRY → raises mistrust",
+        "WARTIME LEGACY → begins rivalry with low trust"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "IDEOLOGY → defines friend and threat",
+          "ATOMIC ASYMMETRY → raises mistrust",
+          "IDEOLOGY → defines friend and threat"
+        ],
+        [
+          "POWER VACUUM → creates strategic stakes",
+          "WARTIME LEGACY → begins rivalry with low trust",
+          "POWER VACUUM → creates strategic stakes"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDEOLOGY → defines friend and threat",
+            "POWER VACUUM → creates strategic stakes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ATOMIC ASYMMETRY → raises mistrust",
+            "WARTIME LEGACY → begins rivalry with low trust"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IDEOLOGY → defines friend and threat",
+            "POWER VACUUM → creates strategic stakes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WARTIME LEGACY → begins rivalry with low trust.",
+      "source_references": [
+        "Ideology, atoms and wartime legacy"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONTAINMENT SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONTAINMENT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "TRUMAN DOCTRINE AND MARSHALL PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "CZECHOSLOVAKIA HARDENS DIVISION",
+          "role": "comparison"
+        },
+        {
+          "text": "BERLIN BLOCKADE AND AIRLIFT",
+          "role": "evidence"
+        },
+        {
+          "text": "NATO, SOVIET BOMB AND COMMUNIST CHINA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1947 → Truman Doctrine and Marshall Plan",
+        "1948 → Czechoslovakia hardens division",
+        "1948-49 → Berlin blockade and airlift",
+        "1949 → NATO, Soviet bomb and communist China"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1947 → Truman Doctrine and Marshall Plan",
+            "1948 → Czechoslovakia hardens division"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1948-49 → Berlin blockade and airlift",
+            "1949 → NATO, Soviet bomb and communist China"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1947 → Truman Doctrine and Marshall Plan",
+            "1948 → Czechoslovakia hardens division"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1949 → NATO, Soviet bomb and communist China.",
+      "source_references": [
+        "Containment through doctrine and aid",
+        "Czechoslovakia and the Berlin blockade",
+        "1949 and institutional bipolarity"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KOREAN ESCALATION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "KOREAN ESCALATION",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH INVADES",
+          "role": "outcome"
+        },
+        {
+          "text": "JUNE 1950",
+          "role": "comparison"
+        },
+        {
+          "text": "UN/US FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCES NORTH",
+          "role": "primary"
+        },
+        {
+          "text": "ENTERS THE WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "FRONTIER REMAINS NEAR 38TH PARALLEL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NORTH INVADES → June 1950",
+        "UN/US FORCE → advances north",
+        "CHINA → enters the war",
+        "1953 → frontier remains near 38th parallel"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORTH INVADES → June 1950",
+            "UN/US FORCE → advances north"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHINA → enters the war",
+            "1953 → frontier remains near 38th parallel"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NORTH INVADES → June 1950",
+            "UN/US FORCE → advances north"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHINA → enters the war; 1953 → frontier remains near 38th parallel.",
+      "source_references": [
+        "Korea as civil and international war"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THAW VERSUS CONTROL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THAW VERSUS CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "KOREAN ARMISTICE AND AUSTRIAN TREATY",
+          "role": "outcome"
+        },
+        {
+          "text": "RHETORIC OF REDUCED TENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "WARSAW PACT",
+          "role": "evidence"
+        },
+        {
+          "text": "BLOC INSTITUTIONALISED IN 1955",
+          "role": "primary"
+        },
+        {
+          "text": "HUNGARY 1956",
+          "role": "outcome"
+        },
+        {
+          "text": "SOVIET SPHERE ENFORCED BY FORCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "THAW → Korean armistice and Austrian treaty",
+        "COEXISTENCE → rhetoric of reduced tension",
+        "WARSAW PACT → bloc institutionalised in 1955",
+        "HUNGARY 1956 → Soviet sphere enforced by force"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "THAW → Korean armistice and Austrian treaty",
+          "WARSAW PACT → bloc institutionalised in 1955",
+          "THAW → Korean armistice and Austrian treaty"
+        ],
+        [
+          "COEXISTENCE → rhetoric of reduced tension",
+          "HUNGARY 1956 → Soviet sphere enforced by force",
+          "COEXISTENCE → rhetoric of reduced tension"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "THAW → Korean armistice and Austrian treaty",
+            "COEXISTENCE → rhetoric of reduced tension"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WARSAW PACT → bloc institutionalised in 1955",
+            "HUNGARY 1956 → Soviet sphere enforced by force"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "THAW → Korean armistice and Austrian treaty",
+            "COEXISTENCE → rhetoric of reduced tension"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HUNGARY 1956 → Soviet sphere enforced by force.",
+      "source_references": [
+        "Thaw and coercive limits"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BERLIN AND CUBA",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BERLIN AND CUBA",
+          "role": "primary"
+        },
+        {
+          "text": "BERLIN WALL 1961",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVISION MADE PHYSICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CUBA 1962",
+          "role": "evidence"
+        },
+        {
+          "text": "NUCLEAR CONFRONTATION PEAKS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "AVOID DIRECT GENERAL WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "STABILITY THROUGH RESTRAINT, NOT SETTLEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BERLIN WALL 1961 → division made physical",
+        "CUBA 1962 → nuclear confrontation peaks",
+        "COMMON RULE → avoid direct general war",
+        "RESULT → stability through restraint, not settlement"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BERLIN WALL 1961 → division made physical",
+          "COMMON RULE → avoid direct general war",
+          "BERLIN WALL 1961 → division made physical"
+        ],
+        [
+          "CUBA 1962 → nuclear confrontation peaks",
+          "RESULT → stability through restraint, not settlement",
+          "CUBA 1962 → nuclear confrontation peaks"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BERLIN WALL 1961 → division made physical",
+            "CUBA 1962 → nuclear confrontation peaks"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMON RULE → avoid direct general war",
+            "RESULT → stability through restraint, not settlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BERLIN WALL 1961 → division made physical",
+            "CUBA 1962 → nuclear confrontation peaks"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON RULE → avoid direct general war; RESULT → stability through restraint, not settlement.",
+      "source_references": [
+        "Berlin Wall and frozen division",
+        "Cuba and nuclear restraint"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GLOBAL COLD WAR MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GLOBAL COLD WAR MAP",
+          "role": "primary"
+        },
+        {
+          "text": "KOREA, VIETNAM AND CHINA",
+          "role": "outcome"
+        },
+        {
+          "text": "LATIN AMERICA",
+          "role": "comparison"
+        },
+        {
+          "text": "CUBA AND CHILE",
+          "role": "evidence"
+        },
+        {
+          "text": "MIDDLE EAST",
+          "role": "primary"
+        },
+        {
+          "text": "SUEZ AND ARAB-ISRAELI WARS",
+          "role": "outcome"
+        },
+        {
+          "text": "RENEWED CONFRONTATION AFTER 1979",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ASIA → Korea, Vietnam and China",
+        "LATIN AMERICA → Cuba and Chile",
+        "MIDDLE EAST → Suez and Arab-Israeli wars",
+        "AFGHANISTAN → renewed confrontation after 1979"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ASIA → Korea, Vietnam and China",
+            "LATIN AMERICA → Cuba and Chile"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MIDDLE EAST → Suez and Arab-Israeli wars",
+            "AFGHANISTAN → renewed confrontation after 1979"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ASIA → Korea, Vietnam and China",
+            "LATIN AMERICA → Cuba and Chile"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MIDDLE EAST → Suez and Arab-Israeli wars; AFGHANISTAN → renewed confrontation after 1979.",
+      "source_references": [
+        "Global theatres and local agency"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MIDDLE EAST CAUSAL LAYERS",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MIDDLE EAST CAUSAL LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONALISM, TERRITORY AND REFUGEES",
+          "role": "outcome"
+        },
+        {
+          "text": "DECOLONISATION AND BORDERS",
+          "role": "comparison"
+        },
+        {
+          "text": "OIL AND STATE SECURITY",
+          "role": "institution"
+        },
+        {
+          "text": "INTERNATIONALISE RATHER THAN CREATE ALL CAUSES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LOCAL → nationalism, territory and refugees",
+        "POST-IMPERIAL → decolonisation and borders",
+        "STRATEGIC → oil and state security",
+        "SUPERPOWERS → internationalise rather than create all causes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCAL → nationalism, territory and refugees",
+            "POST-IMPERIAL → decolonisation and borders"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRATEGIC → oil and state security",
+            "SUPERPOWERS → internationalise rather than create all causes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCAL → nationalism, territory and refugees",
+            "POST-IMPERIAL → decolonisation and borders"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUPERPOWERS → internationalise rather than create all causes.",
+      "source_references": [
+        "Middle East beyond the proxy label"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DETENTE MECHANISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DETENTE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "NUCLEAR RISK BECOMES UNDENIABLE",
+          "role": "caution"
+        },
+        {
+          "text": "SALT I 1972",
+          "role": "comparison"
+        },
+        {
+          "text": "ARMS COMPETITION REGULATED",
+          "role": "evidence"
+        },
+        {
+          "text": "US-CHINA OPENING",
+          "role": "primary"
+        },
+        {
+          "text": "TRIANGULAR DIPLOMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "HELSINKI 1975",
+          "role": "comparison"
+        },
+        {
+          "text": "NORMS WITHOUT ENDING RIVALRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CUBA → nuclear risk becomes undeniable",
+        "SALT I 1972 → arms competition regulated",
+        "US-CHINA OPENING → triangular diplomacy",
+        "HELSINKI 1975 → norms without ending rivalry"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CUBA → nuclear risk becomes undeniable",
+            "SALT I 1972 → arms competition regulated"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "US-CHINA OPENING → triangular diplomacy",
+            "HELSINKI 1975 → norms without ending rivalry"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CUBA → nuclear risk becomes undeniable",
+            "SALT I 1972 → arms competition regulated"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "US-CHINA OPENING → triangular diplomacy; HELSINKI 1975 → norms without ending rivalry.",
+      "source_references": [
+        "Detente's instruments and limits"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NON-ALIGNMENT AS AGENCY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NON-ALIGNMENT AS AGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "NO AUTOMATIC BLOC MEMBERSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "ROOM FOR INDEPENDENT POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "AID AND SUPPORT SOUGHT FROM BOTH SIDES",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESSURE PERSISTS DESPITE AUTONOMY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "REFUSAL → no automatic bloc membership",
+        "SOVEREIGNTY → room for independent policy",
+        "LEVERAGE → aid and support sought from both sides",
+        "CAUTION → pressure persists despite autonomy"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "REFUSAL → no automatic bloc membership",
+          "LEVERAGE → aid and support sought from both sides",
+          "REFUSAL → no automatic bloc membership"
+        ],
+        [
+          "SOVEREIGNTY → room for independent policy",
+          "CAUTION → pressure persists despite autonomy",
+          "SOVEREIGNTY → room for independent policy"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REFUSAL → no automatic bloc membership",
+            "SOVEREIGNTY → room for independent policy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEVERAGE → aid and support sought from both sides",
+            "CAUTION → pressure persists despite autonomy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REFUSAL → no automatic bloc membership",
+            "SOVEREIGNTY → room for independent policy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEVERAGE → aid and support sought from both sides.",
+      "source_references": [
+        "Global theatres and local agency"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMMUNIST BLOC FRACTURE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COMMUNIST BLOC FRACTURE",
+          "role": "primary"
+        },
+        {
+          "text": "AFTER 1956",
+          "role": "outcome"
+        },
+        {
+          "text": "SINO-SOVIET RELATIONS DETERIORATE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISPUTE WIDENS",
+          "role": "evidence"
+        },
+        {
+          "text": "US-CHINA OPENING EXPLOITS THE RIFT",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNIST CHINA ATTACKS COMMUNIST VIETNAM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AFTER 1956 → Sino-Soviet relations deteriorate",
+        "DOCTRINE/TERRITORY → dispute widens",
+        "1972 → US-China opening exploits the rift",
+        "1979 → communist China attacks communist Vietnam"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AFTER 1956 → Sino-Soviet relations deteriorate",
+            "DOCTRINE/TERRITORY → dispute widens"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1972 → US-China opening exploits the rift",
+            "1979 → communist China attacks communist Vietnam"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AFTER 1956 → Sino-Soviet relations deteriorate",
+            "DOCTRINE/TERRITORY → dispute widens"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1972 → US-China opening exploits the rift; 1979 → communist China attacks communist Vietnam.",
+      "source_references": [
+        "The communist bloc fractures"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COLD WAR ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COLD WAR ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY DILEMMA READ THROUGH IDEOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "BERLIN, KOREA AND CUBA DEFINE LIMITS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL CAUSES, AGENCY AND FRACTURED BLOCS",
+          "role": "evidence"
+        },
+        {
+          "text": "STRUCTURAL WEAKNESS PLUS REFORM AND NON-USE OF FORCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ORIGINS → security dilemma read through ideology",
+        "CRISES → Berlin, Korea and Cuba define limits",
+        "GLOBAL → local causes, agency and fractured blocs",
+        "END → structural weakness plus reform and non-use of force"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORIGINS → security dilemma read through ideology",
+            "CRISES → Berlin, Korea and Cuba define limits"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GLOBAL → local causes, agency and fractured blocs",
+            "END → structural weakness plus reform and non-use of force"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORIGINS → security dilemma read through ideology",
+            "CRISES → Berlin, Korea and Cuba define limits"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "END → structural weakness plus reform and non-use of force.",
+      "source_references": [
+        "Gorbachev and multi-causal ending"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FEAR OF NUCLEAR CATASTROPHE",
+          "role": "outcome"
+        },
+        {
+          "text": "AMERICAN EXHAUSTION AND DISAPPOINTMENT AFTER VIETNAM",
+          "role": "comparison"
+        },
+        {
+          "text": "WEST EUROPEAN DESIRE FOR STABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "TRIANGULAR PRESSURE CREATED BY CHINA-US RAPPROCHEMENT.",
+          "role": "primary"
+        },
+        {
+          "text": "LATER INF UNDER GORBACHEV.",
+          "role": "outcome"
+        },
+        {
+          "text": "SS-20 VERSUS PERSHING/CRUISE MISSILE COMPETITION",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILURE OF SALT II RATIFICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "fear of nuclear catastrophe;",
+            "American exhaustion and disappointment after Vietnam;",
+            "West European desire for stability;",
+            "triangular pressure created by China-US rapprochement."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "later INF under Gorbachev.",
+            "SS-20 versus Pershing/Cruise missile competition;",
+            "failure of SALT II ratification;",
+            "Soviet intervention in Afghanistan;"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "persistence of deep mutual suspicion.",
+            "after the Second World War, many newly emerging states wanted to remain neutral or non-aligned in the struggle between communism and capitalism;",
+            "in Asia, the Korean War and SEATO showed that many states wanted to stay uncommitted rather than enter bloc politics.",
+            "Kennan / containment is central to orthodox interpretation."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

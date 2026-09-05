@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-31T18:07:18.102889+00:00",
+  "latest_learner_v2_topics": 231,
+  "master_topics": 231,
+  "review_topics_before": 221,
+  "review_topics_after": 231,
+  "added_count": 10,
+  "added_topic_keys": [
+    "modern-indian-history-22",
+    "modern-indian-history-23",
+    "modern-indian-history-24",
+    "modern-indian-history-25",
+    "modern-indian-history-26",
+    "modern-indian-history-27",
+    "modern-indian-history-28",
+    "modern-indian-history-29",
+    "modern-indian-history-30",
+    "modern-indian-history-31"
+  ],
+  "reset_count": 0,
+  "reset_topic_keys": [],
+  "preserved_count": 221,
+  "summary": {
+    "passed": 170,
+    "pending": 61
+  },
+  "subject_counts": {
+    "Ancient History": 27,
+    "Medieval History": 25,
+    "Modern History": 31,
+    "Geography": 7,
+    "Polity": 55,
+    "Ethics": 23,
+    "Political Theory": 23,
+    "Philosophy Optional": 40
+  },
+  "identity_mismatches": [],
+  "approval_policy": "Review status never changes package approval; explicit topic approval remains separate.",
+  "result": "passed"
+}

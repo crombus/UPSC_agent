@@ -75,7 +75,9 @@ not required for any mark.*
 
 ### 8.0 Direct Mains demands owned by this Core file
 
-**2019 GS-II Q12 — "Article 368 amending power and the Basic Structure" · Explain · 15 marks · 250 words.**
+**2019 GS-II Q12 — “Parliament's power to amend the Constitution is a limited power and it cannot
+be enlarged into absolute power.” In the light of this statement explain whether Parliament under
+Article 368 can destroy the Basic Structure by expanding its amending power. · 15 marks · 250 words.**
 1. ✅ Locate the power: **Art 368 (Part XX)** — Parliament amends by **addition, variation or repeal**, exercising **constituent power**.
 2. ✅ Procedure: initiated only in Parliament; **special majority** in each House (majority of total membership + two-thirds present & voting); federal provisions also need ratification by **half the States**; President **must assent** (24th Amendment, 1971).
 3. ✅ The FR-amendability question: *Shankari Prasad* (1951, can amend FR) → *Golak Nath* (1967, cannot) → **24th Amendment (1971)** restoring the power.
@@ -127,7 +129,10 @@ not required for any mark.*
 | ✅ Special majority | Total-membership majority + 2/3 present & voting | FR, DPSP and most of the Constitution | "Total membership" = full strength regardless of vacancies |
 | ✅ Special majority + State ratification | Above + **half the State legislatures** by simple majority | Federal provisions (see the list below) | Ratification by **simple** majority; no time limit; consent cannot be forced |
 
-- ✅ **The federal list (needs State ratification):** (1) election of the President; (2) extent of Union & State executive power; (3) **Supreme Court & High Courts**; (4) distribution of legislative powers (Centre–State); (5) **GST Council** (Art 279-A, 101st Amendment, 2016); (6) any of the **Seventh Schedule** lists; (7) representation of States in Parliament; (8) **Art 368 itself**.
+- ✅ **The exact federal list (needs State ratification):** (1) Articles **54 and 55**; (2)
+  Articles **73 and 162**; (3) **Article 241**; (4) **Article 279A**; (5) Chapter IV of Part V;
+  (6) Chapter V of Part VI; (7) Chapter I of Part XI; (8) any of the **Seventh Schedule** Lists;
+  (9) representation of States in Parliament; and (10) **Article 368 itself**.
 - ✅ **Procedural discipline:** initiated **only in Parliament**; **each House separately** (no joint sitting); **President must assent** — cannot withhold or return (24th Amendment, 1971).
 
 **📰 Worked example — the two limbs of the special majority, tested on the floor (Constitution (131st Amendment) Bill, 2026):**
@@ -180,7 +185,11 @@ not required for any mark.*
 - ✅ **Criticism of the procedure:** no special amending body (unlike the US convention); States cannot initiate amendments; State consent needed only from **half** (vs three-fourths in the USA); no time-frame for ratification; no joint sitting for deadlock; process resembles ordinary legislation but for the special majority.
 - ⚠️ **Criticism of the doctrine:** it is judicially created and un-enumerated, giving unelected judges the final word — the **judicial-overreach** argument.
 - ⚠️ **Counter-argument:** unlike the UK, Indian Parliament is **not sovereign**; it is a creature of the Constitution, and judicial review (itself a basic feature) is the guarantee of constitutionalism.
-- 📰 **Current status (as of 13 August 2026):** **2023 marked the 50th anniversary** of *Kesavananda* (24 April 1973); **Vice-President Jagdeep Dhankhar** publicly questioned the doctrine as diluting parliamentary sovereignty, and the judiciary/legal community reaffirmed the doctrine — prime Mains/essay material.
+- 📰 **Current status (checked 28 August 2026):** the defeated **131st Amendment Bill, 2026**
+  illustrates the two simultaneous special-majority limbs; Gazette **S.O. 1922(E), 16 April 2026**
+  commenced the 106th Amendment while Article 334A still postpones operational reservation;
+  *Anjum Kadari* (2024 INSC 831) confines the free-standing basic-structure test to constitutional
+  amendments. The 2023 Dhankhar debate remains analytical context, not a change in law.
 
 ### 8.9 Verdict scaffolds
 
@@ -219,7 +228,9 @@ Standard confusion pairs:
 - Do **not** misstate the *Kesavananda* Bench strength — it was a **13-judge** Bench.
 - ⚠️ Do **not** cite the **Constitution (131st Amendment) Bill, 2026** as law, as a precedent or as a forecast. It is a **defeated Bill** (introduced 16 Apr 2026, defeated 17 Apr 2026, **298 : 230** of **528** present and voting). Permitted use: an illustration of the **two limbs of Art 368(2)** and of the fact that dependent ordinary Bills fall with a failed amendment; the **850** ceiling (up to 815 States + 35 UTs) may be cited **only** as that Bill's proposed **Art 81** text. Prohibited: "the Lok Sabha ceiling is 850", "delimitation will use the 2011 census", any State-wise seat projection, any implementation year for the women's quota. ⚠️ Do **not** assert whether the Bill did or did not engage the **representation-of-States** limb of the Art 368 proviso — the Bill failed in the Lok Sabha, so the ratification stage never arose and the question is unresolved.
 - ✅/⚠️ **106th Amendment — three registers.** Enacted **2023**; **commenced 16 April 2026** by notification under **s.1(2)** of the Act (the date may be written); the **reservation is still not operational**, because **Art 334A(1)** requires delimitation after publication of the relevant figures of the first census taken after that commencement (**Census 2027**). ⚠️ `Commenced ≠ operational`. ⚠️ **Notified census conduct and reference dates are not the publication date of final figures**, and the publication date is **not notified** — so no delimitation date and no effective date, year or election for the reservation may be stated. ⚠️ Do **not** compute the fifteen-year end-date — quote *"fifteen years from such commencement"*. Full unit: `Parliament.md` §"📰 Current link" and §7.4.
-- 📰 Status as of **13 August 2026**: the basic-structure doctrine remains authoritative; the 2023–24 Dhankhar critique is a political debate, not a change in law — recheck the Supreme Court portal for any later ruling.
+- 📰 Status checked **28 August 2026**: the basic-structure doctrine remains authoritative;
+  *Anjum Kadari* preserves the ordinary-statute boundary, and the 2023 Dhankhar critique remains
+  political debate rather than a change in law.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

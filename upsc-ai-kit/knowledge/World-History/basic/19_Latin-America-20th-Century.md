@@ -212,3 +212,29 @@ treats "Latin America" as one political unit has already lost marks.
 > **Study link:** World-History → `basic/08_Latin-American-Independence-Movements.md` §8.6 for caudillismo and the 19th-century inheritance.
 > **Study link:** World-History → `basic/15_Cold-War-and-International-Relations.md` for Cuba, Chile and the Cold-War framing.
 > **Study link:** World-History → `basic/20_World-Economy-and-Population-since-1900.md` for the wider debt, North-South and globalisation setting.
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** twentieth-century constrained sovereignty under informal US
+  power; land inequality, commodity dependence and militarised politics;
+  Mexican institutional revolution, Guatemala, Cuba, Nicaragua, Brazil and
+  Venezuela; ISI, external borrowing, the 1980s debt crisis, austerity,
+  liberalisation and dependency as interacting domestic-external mechanisms.
+- **Boundary:** Topic 08 owns nineteenth-century independence movements;
+  Topic 15 owns the global Cold War system; Topic 20 owns the thematic world
+  economy and population; Topic 21 owns the post-Cold-War order. Topic 19 owns
+  twentieth-century Latin American cases and their regional political economy.
+- **Date control:** Mexican Revolution (1910), Guatemala (1954), Cuban
+  Revolution (1959), missile crisis (1962), Sandinista victory (1979), Mexican
+  debt crisis (1982) and later liberalisation remain distinct episodes rather
+  than one regional cycle.
+- **Mechanism control:** US strategic, commercial, financial and covert power
+  interacted with domestic elites and movements rather than erasing agency;
+  commodity vulnerability encouraged ISI, whose market and import constraints
+  encouraged borrowing; debt conditionality transmitted finance into social
+  austerity and narrowed democratic policy choice.
+- **Verified PYQ/current ownership, 2018-2025:** zero direct topic-only routes;
+  all six Mains demands remain original practice. The 19 March 2026 OHCHR
+  statement supplies only a dated Argentina transitional-justice, truth,
+  memory and non-repetition link; no crowd size or unverified regional
+  aggregate is imported.

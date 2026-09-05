@@ -1,0 +1,69 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\ancient-indian-history-13-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-13\ancient-indian-history-13-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-13\ancient-indian-history-13-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-13\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-13\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-13\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-13\REVIEW-REPORT.md
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\13-State-and-Varna-Society-in-the-Age-of-the-Buddha\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-13\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-13\g5\ancient-indian-history-13_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-13\g5\ancient-indian-history-13_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-13\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-13\g5\validation\workbook-visual-audit-map.json
+tools\regenerate_ancient_history_deep_review.py
+tools\test_regenerate_ancient_history_deep_review.py
+upsc-ai-kit\knowledge\Ancient-Indian-History\basic\13_State-and-Varna-Society-Age-of-Buddha.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-13\g5\ancient-indian-history-13_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-13\g5\ancient-indian-history-13_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-13\g5\assets\ancient-indian-history-13_Teaching-Navigation_2026-08-29.png
+upsc-ai-kit\manifests\exports\ancient-indian-history-13-learner-v2-g5-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\ancient-indian-history-13-learner-v2-g5-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\ancient-indian-history-13-learner-v2-g5-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\ancient-indian-history-13-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ancient-indian-history-13-deep-review-2026-09-03-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Ancient-Indian-History\deep-review\ancient-indian-history-13-g5.json
+upsc-ai-kit\manifests\reviews\ancient-history\13-state-varna-society-age-buddha-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\ancient-indian-history--subject-wide-syllabus-content-specs\ancient-indian-history-13-g5.json
+upsc-ai-kit\manifests\v2\ancient-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

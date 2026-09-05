@@ -4,6 +4,27 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The examiner expects reconstruction, presupposition, objection, reply, and Indian–Western comparison. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns **arguments for God's existence and their criticism in
+Indian and Western philosophy**. It owns a proof's premises, inferential force,
+standard objections, replies and the gap between its immediate conclusion and
+the God of religion.
+
+| Owned here | Boundary |
+|---|---|
+| ontological, cosmological, design and moral arguments | the attributes and God–world relation presupposed by an argument remain with [Notions of God](./Notions-of-God.md) |
+| Nyāya–Udayana arguments and Indian anti-creator objections | the full positive case for religious life without a creator remains with [Religion without God](./Religion-without-God.md) |
+| suffering only when it is counter-evidence to a proof's conclusion | the full logical, evidential and theodicy debate remains with [Problem of Evil](./Problem-of-Evil.md) |
+| religious experience only as one bounded strand in a cumulative case | its phenomenology, object and veridicality remain with [Religious Experience](./Religious-Experience.md) |
+| rational warrant and burden attached to an argument | revelation, faith and properly basic belief remain with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
+| pragmatic proposals only to classify their force | Pascal's wager and Jamesian permission are not existence-proofs and cannot substitute for argument |
+
+⚠️ An argument may be valid without being sound, sound without reaching a
+personal or perfect God, or rationally suggestive without being demonstrative.
+The word “proof” in the syllabus therefore does not guarantee mathematical
+certainty.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -24,6 +45,29 @@
 ```
 > 🔑 **Mnemonic — "OCTM + Nyāya":** **O**ntological, **C**osmological, **T**eleological, **M**oral — the 4 Western; **Nyāya's inference** is the Indian. Each answer = *state the proof, then the standard critique.*
 
+## 0A. PROOF-FORCE, BURDEN AND EXPLANATORY TERMINATION ⚠️
+
+| Test | Question | Typical result |
+|---|---|---|
+| Validity | If the premises are granted, does the conclusion follow? | Ontological forms claim deduction; many world-based arguments require defeasible inference |
+| Soundness | Are the premises true—possibility of maximal greatness, causal principle, sufficient reason or design-likeness? | This is where most canonical critics attack |
+| Divine adequacy | Does the conclusion establish one necessary, personal, perfectly good and worship-worthy God? | Most single arguments underdetermine the rich God of religion |
+| Deductive force | Is denial of the conclusion inconsistent with the premises? | Claimed by Anselm and some cosmological reconstructions |
+| Inductive/abductive force | Does the evidence raise probability or make God the best explanation? | Design, fine-tuning and cumulative cases normally claim this weaker force |
+| Practical force | Is belief required for coherent moral commitment rather than theoretical knowledge? | Kant's postulate of practical reason |
+
+**Burden-of-proof rule:** the proponent must defend the starting premise, the
+inference and the theological identification separately. Merely naming a
+“necessary being” does not show why explanatory demand terminates there rather
+than in an infinite regress, a brute contingent totality or another ultimate
+principle. Conversely, allowing the universe to be a brute fact is a rejection
+of the principle of sufficient reason, not a demonstration that every
+cosmological argument is invalid.
+
+⚠️ A finite explanatory gap is not itself evidence for God. A responsible
+argument identifies a positive explanatory feature and compares live rivals;
+it does not infer “science has not explained X, therefore God.”
+
 ---
 
 ## 1. WESTERN PROOFS ✅
@@ -36,12 +80,37 @@
 - Everything is contingent/caused/moved → to avoid infinite regress there must be a **First Cause / Unmoved Mover / Necessary Being** = God. ✅
 - **Critique:** **Hume** — why not an infinite series? why must the cause be God/personal? **Kant** — it secretly relies on the ontological argument (leaps from "necessary being" to "God"). ✅
 
+#### Aquinas, Leibniz and temporal-beginning arguments must be separated
+
+| Form | Starting point | Explanatory terminus | Characteristic pressure |
+|---|---|---|---|
+| **Aquinas, Ways 1–3** | present change, ordered efficient causation and contingency | unmoved actualiser, first efficient cause, necessary being | requires an essentially ordered dependence-series; “first” is explanatory, not necessarily temporal |
+| **Leibnizian contingency argument** | the contingent totality and the principle of sufficient reason | a necessary sufficient reason outside the contingent series | the principle may be denied; a critic may allow a brute fact or ask why God terminates explanation |
+| **Temporal-beginning argument (kalām)** | whatever begins has a cause; the universe began | a cause of the universe's beginning | the beginning premise and the move from a cause to a personal God require separate defence |
+
+✅ Aquinas did not need to prove a first moment of the universe. Leibniz asks
+why there is a contingent world at all, even if its history is beginningless.
+The temporal-beginning argument alone makes a temporal origin its explicit
+premise. Conflating these forms makes the regress objection imprecise.
+
 ### (c) Teleological / Design (a posteriori — Aquinas' 5th Way, Paley)
 - The order, purpose, adaptation in nature implies an intelligent **Designer** (Paley's **watch → watchmaker**). ✅
-- **Critique (Hume — 2025 PYQ):** ✅ (a) weak **analogy** (universe unlike a machine); (b) an imperfect world implies at best an imperfect/finite designer; (c) why one God, not many? why not a "botched" first attempt?; (d) **evil & disorder** count against a good designer; (e) **Darwin** — order can arise from natural selection, no design needed.
+- **Critique (Hume — 2025 PYQ):** ✅ (a) weak **analogy** (universe unlike a machine); (b) an imperfect world implies at best an imperfect/finite designer; (c) why one God, not many? why not a "botched" first attempt?; (d) **evil & disorder** count against a good designer; (e) **Darwinian natural selection** supplies a non-intentional explanation of biological adaptation, though not by itself of cosmic law or fine-tuning.
 
 ### (d) Moral (Kant)
 - Kant demolishes the theoretical proofs but reinstates God as a **postulate of practical reason** — morality (the *summum bonum*, uniting virtue & happiness) requires God + immortality as postulates. ✅
+
+#### Three moral-argument routes
+
+| Route | Argument | Main objection | Controlled verdict |
+|---|---|---|---|
+| Moral law/conscience | binding duty or conscience points to a personal lawgiver or judge | moral psychology and social life may explain conscience without God | an inference to agency, not a demonstration |
+| Objective value and duty | stance-independent moral truths require a transcendent ground | moral realism need not be theistic; Euthyphro pressures divine grounding | at most an abductive grounding argument |
+| Kant's highest good | practical reason requires hope that virtue and happiness can be proportioned; God and immortality are postulated | projection, autonomy and denial that the highest good requires cosmic completion | a practical postulate, explicitly not theoretical knowledge |
+
+⚠️ Do not merge these routes. God grounds obligation in some lawgiver or
+value-ground arguments; in Kant, autonomous moral law already obligates and God
+enters only as a condition for the highest good's possibility.
 
 ---
 
@@ -53,6 +122,7 @@
   - **Cārvāka** — no perception of God; inference unreliable; only this world.
   - **Buddhism/Jainism** — the world runs by karma/law without a creator God.
   - **Mīmāṃsā** — the Vedas are **eternal & authorless** (apauruṣeya) → no need of God; karma is self-operating.
+  - **Sāṃkhya** — primordial nature (*prakṛti*) and its own transformation explain the material order without a creator; Nyāya replies that unconscious nature still does not explain purposive coordination.
   - **Śaṃkara (Advaita)** — Nyāya's God is a *saguṇa* Īśvara at the empirical level, not the absolute Nirguṇa Brahman; the atomistic proof is logically weak.
 
 ---
@@ -430,3 +500,11 @@ two objections and replies → underdetermination of divine attributes → grade
 - Udayana, *Nyāyakusumāñjali*; Śāntarakṣita, *Tattvasaṃgraha* with Kamalaśīla's *Pañjikā*.
 - John Hick, *Philosophy of Religion*.
 - Nyāya, Jain and Buddhist discussions in S. C. Chatterjee & D. M. Datta, *An Introduction to Indian Philosophy*; C. D. Sharma, *A Critical Survey of Indian Philosophy*; S. Radhakrishnan, *Indian Philosophy*, Vol. I.
+- Local searchable John Hick PDF, print pp. 15–29 (PDF pp. 26–40), for
+  ontological, first-cause/cosmological, design/probability and moral arguments.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, especially
+  the ontological chapter beginning at print p. 80, the cosmological/design
+  chapter beginning at print p. 116, and the moral-argument discussion.
+- Local searchable Chatterjee–Datta PDF, especially PDF pp. 259–266, for the
+  Nyāya idea of God, causal, unseen-merit, scriptural-authority and testimony
+  arguments and their anti-theistic objections.

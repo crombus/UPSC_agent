@@ -16,7 +16,7 @@
 | ✅ September 1920 | Calcutta Special Congress approves Non-Cooperation |
 | ✅ December 1920 | Nagpur Congress ratifies programme and creates a mass-party structure |
 | ✅ 1921 | Boycotts, picketing, resignations and khadi campaigns spread across regions |
-| ✅ 5 February 1922 | Chauri Chaura violence creates a crisis for Gandhian non-violence |
+| ✅ 4 February 1922 | Chauri Chaura violence creates a crisis for Gandhian non-violence |
 | ✅ 12 February 1922 | Gandhi withdraws the movement despite opposition from many nationalists |
 | ✅ 1924 | Abolition of Caliphate in Turkey ends the Khilafat issue |
 
@@ -61,7 +61,7 @@
 - ✅ National institutions associated with the period include **Jamia Millia Islamia**, **Kashi Vidyapith**, **Gujarat Vidyapith** and **Bihar Vidyapith**.
 - ✅ The programme included surrender of titles, boycott of councils, courts, schools, foreign cloth and promotion of khadi.
 - ✅ **Prince of Wales boycott** occurred during the high tide of the movement in 1921.
-- ✅ **Chauri Chaura** took place on **5 February 1922**; withdrawal followed on **12 February 1922**.
+- ✅ **Chauri Chaura** took place on **4 February 1922**; withdrawal followed on **12 February 1922**.
 - ✅ Gandhi was tried in **March 1922** and sentenced to six years' imprisonment.
 - ✅ The Turkish Caliphate was abolished in **1924**.
 
@@ -78,6 +78,7 @@
 ## 6. 📰 Current link
 
 - ⚠️ **Civil resistance and ethical protest.** NCM is an evergreen hook for current debates on peaceful protest, boycotts, moral legitimacy and the limits of mass anger in democratic politics. *(Escalate to 📰 when pegged to a verified news item.)*
+- 📰 **Gujarat Vidyapith's 72nd convocation (27 August 2026).** Union Home Minister Amit Shah addressed graduates invoking Gandhi's educational philosophy, with Governor Acharya Devvrat presiding as Chancellor. This is a live Gandhi institution-building and public-memory bridge for the constructive-programme institutions named in Section 4 only; Gujarat Vidyapith was founded in 1920, so 2026 is its **106th year**, not a centenary, and the bridge adds no new fact about 1919-1922 Non-Cooperation itself.
 
 ## 7. Mains angles
 
@@ -87,7 +88,9 @@
 
 ## ➕ Historiography note (PYQ-gap)
 
-⚠️ A high-value answer should cite the **withdrawal debate**: nationalist critics such as C.R. Das and Motilal Nehru saw council-entry and continued pressure as necessary, while Gandhi prioritised non-violent discipline. Shahid Amin's work on **Chauri Chaura** is useful for showing that local participants did not merely obey national commands; they interpreted nationalist language through local anger against police and authority.
+⚠️ A high-value answer should lead with the **directly sourced withdrawal debate**: R. Palme Dutt's *India Today* class-protection thesis reads Gandhi's withdrawal as shielding propertied landlord-capitalist interests from a radicalising peasantry, while Bipin Chandra's own rebuttal (*India's Struggle for Independence*, around the Chauri Chaura discussion) counters that the crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted government repression rather than protected property. Nationalist contemporaries such as C.R. Das and Motilal Nehru separately saw council-entry and continued pressure as necessary. Shahid Amin's work on **Chauri Chaura** remains a useful supplementary point for showing that local participants did not merely obey national commands; they interpreted nationalist language through local anger against police and authority.
+
+⚠️ **Source-book date override:** Bipin Chandra's own *India's Struggle for Independence* prints the Chauri Chaura incident one calendar day earlier than this owner's verified date. This owner overrides that internal figure using the Prime Minister's official centenary-linked commemorative material and Sekhar Bandyopadhyay's *Plassey to Partition* (OCR p.305), both of which independently confirm **4 February 1922**; the **12 February 1922** Bardoli withdrawal date is unaffected and confirmed in the same source.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

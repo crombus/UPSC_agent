@@ -1,0 +1,1080 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-10",
+  "subject": "Internal-Security",
+  "title": "TERROR FINANCING, MONEY LAUNDERING AND FATF",
+  "short_route": "FINANCE-PURPOSE MATRIX → PREDICATE-PROCEEDS GATEWAY → LAUNDERING-STAGE TYPOLOGY → CHANNEL DISTINCTION MAP → PREVENTIVE-CONTROL CHAIN → PMLA INSTITUTION LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-10\\internal-security-10_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-10-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "db76cbd2400bbac344dc483dedea9801c3457d19b397cec96fe03c7593481d56",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FINANCE-PURPOSE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FINANCE-PURPOSE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY LAUNDERING",
+          "role": "outcome"
+        },
+        {
+          "text": "DISGUISE PROCEEDS OF CRIME",
+          "role": "comparison"
+        },
+        {
+          "text": "TERROR FINANCING",
+          "role": "evidence"
+        },
+        {
+          "text": "MOVE VALUE FOR TERROR PURPOSE",
+          "role": "primary"
+        },
+        {
+          "text": "MAY BE LAWFUL OR UNLAWFUL IN ORIGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "PURPOSE, SOURCE AND LEGAL ROUTE MUST ALL BE NAMED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MONEY LAUNDERING → DISGUISE PROCEEDS OF CRIME",
+        "TERROR FINANCING → PROVIDE / MOVE VALUE FOR TERROR PURPOSE",
+        "FUNDS → MAY BE LAWFUL OR UNLAWFUL IN ORIGIN",
+        "RULE → purpose, source and legal route must all be named"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "MONEY LAUNDERING → DISGUISE PROCEEDS OF CRIME",
+          "FUNDS → MAY BE LAWFUL OR UNLAWFUL IN ORIGIN",
+          "MONEY LAUNDERING → DISGUISE PROCEEDS OF CRIME"
+        ],
+        [
+          "TERROR FINANCING → PROVIDE / MOVE VALUE FOR TERROR PURPOSE",
+          "RULE → purpose, source and legal route must all be named",
+          "TERROR FINANCING → PROVIDE / MOVE VALUE FOR TERROR PURPOSE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "MONEY LAUNDERING → DISGUISE PROCEEDS OF CRIME",
+            "TERROR FINANCING → PROVIDE / MOVE VALUE FOR TERROR PURPOSE"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FUNDS → MAY BE LAWFUL OR UNLAWFUL IN ORIGIN",
+            "RULE → purpose, source and legal route must all be named"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "MONEY LAUNDERING → DISGUISE PROCEEDS OF CRIME",
+            "TERROR FINANCING → PROVIDE / MOVE VALUE FOR TERROR PURPOSE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → purpose, source and legal route must all be named.",
+      "source_references": [
+        "Terror-finance laundering distinction",
+        "Clean-clean dirty-clean distinction"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PREDICATE-PROCEEDS GATEWAY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PREDICATE-PROCEEDS GATEWAY",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED PREDICATE OFFENCE REGISTERED",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCEEDS OF CRIME IDENTIFIED",
+          "role": "comparison"
+        },
+        {
+          "text": "PMLA INVESTIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEXPLAINED WEALTH ALONE IS NOT THE COMPLETE GATEWAY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SCHEDULED PREDICATE OFFENCE REGISTERED",
+        "PROCEEDS OF CRIME IDENTIFIED",
+        "PMLA INVESTIGATION",
+        "PROSECUTION / ADJUDICATION",
+        "TRAP → unexplained wealth alone is not the complete gateway"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "SCHEDULED PREDICATE OFFENCE REGISTERED",
+            "PROCEEDS OF CRIME IDENTIFIED"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PMLA INVESTIGATION",
+            "PROSECUTION / ADJUDICATION"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → unexplained wealth alone is not the complete gateway",
+            "SCHEDULED PREDICATE OFFENCE REGISTERED"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → unexplained wealth alone is not the complete gateway.",
+      "source_references": [
+        "Predicate-offence gateway"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LAUNDERING-STAGE TYPOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LAUNDERING-STAGE TYPOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "VALUE ENTERS A CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTANCE FROM CRIMINAL ORIGIN",
+          "role": "comparison"
+        },
+        {
+          "text": "APPARENTLY LEGITIMATE RETURN",
+          "role": "evidence"
+        },
+        {
+          "text": "SAFE RULE",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPTUAL DIAGNOSIS, NEVER EVASION INSTRUCTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PLACEMENT → VALUE ENTERS A CHANNEL",
+        "LAYERING → DISTANCE FROM CRIMINAL ORIGIN",
+        "INTEGRATION → APPARENTLY LEGITIMATE RETURN",
+        "SAFE RULE → conceptual diagnosis, never evasion instruction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "PLACEMENT → VALUE ENTERS A CHANNEL",
+            "LAYERING → DISTANCE FROM CRIMINAL ORIGIN"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTEGRATION → APPARENTLY LEGITIMATE RETURN",
+            "SAFE RULE → conceptual diagnosis, never evasion instruction"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PLACEMENT → VALUE ENTERS A CHANNEL",
+            "LAYERING → DISTANCE FROM CRIMINAL ORIGIN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE RULE → conceptual diagnosis, never evasion instruction.",
+      "source_references": [
+        "Placement typology",
+        "Layering typology",
+        "Integration typology"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHANNEL DISTINCTION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHANNEL DISTINCTION MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "TRADE VALUE",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCUMENT MANIPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BANKING CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSACTION CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "VIRTUAL ASSET",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE TECHNOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "REPORTING RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TBML → TRADE VALUE / DOCUMENT MANIPULATION",
+        "BANKING CHANNEL → REPORTING / TRANSACTION CONTROLS",
+        "VIRTUAL ASSET → SEPARATE TECHNOLOGY / REPORTING RISK",
+        "TERROR DIVERSION → MAY START WITH LAWFUL FUNDS"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "TBML → TRADE VALUE / DOCUMENT MANIPULATION",
+          "VIRTUAL ASSET → SEPARATE TECHNOLOGY / REPORTING RISK",
+          "TBML → TRADE VALUE / DOCUMENT MANIPULATION"
+        ],
+        [
+          "BANKING CHANNEL → REPORTING / TRANSACTION CONTROLS",
+          "TERROR DIVERSION → MAY START WITH LAWFUL FUNDS",
+          "BANKING CHANNEL → REPORTING / TRANSACTION CONTROLS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "TBML → TRADE VALUE / DOCUMENT MANIPULATION",
+            "BANKING CHANNEL → REPORTING / TRANSACTION CONTROLS"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "VIRTUAL ASSET → SEPARATE TECHNOLOGY / REPORTING RISK",
+            "TERROR DIVERSION → MAY START WITH LAWFUL FUNDS"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "TBML → TRADE VALUE / DOCUMENT MANIPULATION",
+            "BANKING CHANNEL → REPORTING / TRANSACTION CONTROLS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TERROR DIVERSION → MAY START WITH LAWFUL FUNDS.",
+      "source_references": [
+        "TBML boundary",
+        "Clean-clean dirty-clean distinction"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PREVENTIVE-CONTROL CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PREVENTIVE-CONTROL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "BENEFICIAL OWNER",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSACTION MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "SUSPICIOUS TRANSACTION REPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "FIU-IND ANALYSIS",
+          "role": "primary"
+        },
+        {
+          "text": "NOT PROVED",
+          "role": "caution"
+        },
+        {
+          "text": "CRIME OR GUILT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CDD / KYC → BENEFICIAL OWNER",
+        "RECORDS / TRANSACTION MONITORING",
+        "SUSPICIOUS TRANSACTION REPORT",
+        "FIU-IND ANALYSIS / DISSEMINATION",
+        "NOT PROVED → crime or guilt"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "CDD / KYC → BENEFICIAL OWNER",
+            "RECORDS / TRANSACTION MONITORING"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUSPICIOUS TRANSACTION REPORT",
+            "FIU-IND ANALYSIS / DISSEMINATION"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT PROVED → crime or guilt",
+            "CDD / KYC → BENEFICIAL OWNER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIU-IND ANALYSIS / DISSEMINATION; NOT PROVED → crime or guilt.",
+      "source_references": [
+        "Reporting-entity controls",
+        "FIU-IND mandate"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PMLA INSTITUTION LADDER",
+      "structural_type": "institution-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PMLA INSTITUTION LADDER",
+          "role": "institution"
+        },
+        {
+          "text": "PREDICATE AGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDERLYING OFFENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCIAL INTELLIGENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PMLA INVESTIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "PROVISIONAL ATTACHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADJUDICATING AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIAL COURT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PREDICATE AGENCY → UNDERLYING OFFENCE",
+        "FIU-IND → FINANCIAL INTELLIGENCE",
+        "ED → PMLA INVESTIGATION / PROVISIONAL ATTACHMENT",
+        "ADJUDICATING AUTHORITY → CONFIRM / RELEASE",
+        "SPECIAL COURT → TRIAL / LEGAL OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "PREDICATE AGENCY → UNDERLYING OFFENCE",
+            "FIU-IND → FINANCIAL INTELLIGENCE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ED → PMLA INVESTIGATION / PROVISIONAL ATTACHMENT",
+            "ADJUDICATING AUTHORITY → CONFIRM / RELEASE"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SPECIAL COURT → TRIAL / LEGAL OUTCOME",
+            "PREDICATE AGENCY → UNDERLYING OFFENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADJUDICATING AUTHORITY → CONFIRM / RELEASE; SPECIAL COURT → TRIAL / LEGAL OUTCOME.",
+      "source_references": [
+        "FIU-IND mandate",
+        "ED mandate",
+        "PMLA property ladder"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PROPERTY-STATUS FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROPERTY-STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PROVISIONAL ATTACHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFIRMATION OR RELEASE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVICTION OR ACQUITTAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFISCATION ONLY ON THE LEGALLY REQUIRED OUTCOME",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TRACE / IDENTIFY",
+        "PROVISIONAL ATTACHMENT",
+        "CONFIRMATION OR RELEASE",
+        "CONVICTION OR ACQUITTAL",
+        "CONFISCATION ONLY ON THE LEGALLY REQUIRED OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "TRACE / IDENTIFY",
+            "PROVISIONAL ATTACHMENT"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONFIRMATION OR RELEASE",
+            "CONVICTION OR ACQUITTAL"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "CONFISCATION ONLY ON THE LEGALLY REQUIRED OUTCOME",
+            "TRACE / IDENTIFY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONVICTION OR ACQUITTAL; CONFISCATION ONLY ON THE LEGALLY REQUIRED OUTCOME.",
+      "source_references": [
+        "PMLA property ladder",
+        "Investigation-prosecution boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TERROR-SANCTIONS ROUTE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TERROR-SANCTIONS ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "TERROR-FUND OFFENCE?",
+          "role": "outcome"
+        },
+        {
+          "text": "UAPA INVESTIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LISTED PERSON",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 51A TARGETED ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "UN 1267 LINK",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC IMPLEMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY ACCURACY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TERROR-FUND OFFENCE? → UAPA INVESTIGATION / TRIAL",
+        "LISTED PERSON / ENTITY? → SECTION 51A TARGETED ACTION",
+        "UN 1267 LINK → DOMESTIC IMPLEMENTATION",
+        "SAFEGUARD → REVIEW / DELISTING / IDENTITY ACCURACY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "TERROR-FUND OFFENCE? → UAPA INVESTIGATION / TRIAL",
+            "LISTED PERSON / ENTITY? → SECTION 51A TARGETED ACTION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "UN 1267 LINK → DOMESTIC IMPLEMENTATION",
+            "SAFEGUARD → REVIEW / DELISTING / IDENTITY ACCURACY"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "TERROR-FUND OFFENCE? → UAPA INVESTIGATION / TRIAL",
+            "LISTED PERSON / ENTITY? → SECTION 51A TARGETED ACTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFEGUARD → REVIEW / DELISTING / IDENTITY ACCURACY.",
+      "source_references": [
+        "UAPA terror-finance route",
+        "Sanctions-listing boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREE-FINANCE-LIMBS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROCEEDS OF CRIME",
+          "role": "primary"
+        },
+        {
+          "text": "FUNDS FOR TERROR PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROHIBITED WMD-RELATED FINANCING",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON NEED",
+          "role": "evidence"
+        },
+        {
+          "text": "RISK CONTROLS + INTELLIGENCE + LAWFUL ADJUDICATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AML → PROCEEDS OF CRIME",
+        "CFT → FUNDS FOR TERROR PURPOSE",
+        "PF → PROHIBITED WMD-RELATED FINANCING",
+        "COMMON NEED → risk controls + intelligence + lawful adjudication"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "AML → PROCEEDS OF CRIME",
+          "PF → PROHIBITED WMD-RELATED FINANCING",
+          "AML → PROCEEDS OF CRIME"
+        ],
+        [
+          "CFT → FUNDS FOR TERROR PURPOSE",
+          "COMMON NEED → risk controls + intelligence + lawful adjudication",
+          "CFT → FUNDS FOR TERROR PURPOSE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "AML → PROCEEDS OF CRIME",
+            "CFT → FUNDS FOR TERROR PURPOSE"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PF → PROHIBITED WMD-RELATED FINANCING",
+            "COMMON NEED → risk controls + intelligence + lawful adjudication"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "AML → PROCEEDS OF CRIME",
+            "CFT → FUNDS FOR TERROR PURPOSE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON NEED → risk controls + intelligence + lawful adjudication.",
+      "source_references": [
+        "Terror-finance laundering distinction",
+        "Proliferation-finance limb"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FATF ASSESSMENT ARCHITECTURE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FATF ASSESSMENT ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "FATF RECOMMENDATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL STANDARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "MUTUAL EVALUATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TECHNICAL COMPLIANCE + EFFECTIVENESS",
+          "role": "primary"
+        },
+        {
+          "text": "POST-EVALUATION REPORTING",
+          "role": "outcome"
+        },
+        {
+          "text": "INCREASED MONITORING",
+          "role": "comparison"
+        },
+        {
+          "text": "CALL FOR ACTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FATF RECOMMENDATIONS → INTERNATIONAL STANDARDS",
+        "MUTUAL EVALUATION → TECHNICAL COMPLIANCE + EFFECTIVENESS",
+        "FOLLOW-UP → POST-EVALUATION REPORTING",
+        "LISTING → INCREASED MONITORING / CALL FOR ACTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "FATF RECOMMENDATIONS → INTERNATIONAL STANDARDS",
+            "MUTUAL EVALUATION → TECHNICAL COMPLIANCE + EFFECTIVENESS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "FOLLOW-UP → POST-EVALUATION REPORTING",
+            "LISTING → INCREASED MONITORING / CALL FOR ACTION"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "FATF RECOMMENDATIONS → INTERNATIONAL STANDARDS",
+            "MUTUAL EVALUATION → TECHNICAL COMPLIANCE + EFFECTIVENESS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LISTING → INCREASED MONITORING / CALL FOR ACTION.",
+      "source_references": [
+        "FATF standards role",
+        "Mutual Evaluation",
+        "Listing-follow-up firewall"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA 2024 BALANCED SCORECARD",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA 2024 BALANCED SCORECARD",
+          "role": "primary"
+        },
+        {
+          "text": "RISK UNDERSTANDING",
+          "role": "caution"
+        },
+        {
+          "text": "FINANCIAL INTELLIGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFICIAL OWNERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSET RECOVERY",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETE ML",
+          "role": "outcome"
+        },
+        {
+          "text": "TF TRIALS + APPROPRIATE SANCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK-BASED NON-PROFIT OUTREACH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRENGTH → RISK UNDERSTANDING / FINANCIAL INTELLIGENCE",
+        "STRENGTH → BENEFICIAL OWNERSHIP / ASSET RECOVERY",
+        "GAP → COMPLETE ML / TF TRIALS + APPROPRIATE SANCTIONS",
+        "GAP → RISK-BASED NON-PROFIT OUTREACH",
+        "STATUS → REGULAR FOLLOW-UP; REPORT BACK IN THREE YEARS"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "STRENGTH → RISK UNDERSTANDING / FINANCIAL INTELLIGENCE",
+          "GAP → COMPLETE ML / TF TRIALS + APPROPRIATE SANCTIONS",
+          "STATUS → REGULAR FOLLOW-UP; REPORT BACK IN THREE YEARS"
+        ],
+        [
+          "STRENGTH → BENEFICIAL OWNERSHIP / ASSET RECOVERY",
+          "GAP → RISK-BASED NON-PROFIT OUTREACH",
+          "STRENGTH → RISK UNDERSTANDING / FINANCIAL INTELLIGENCE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "STRENGTH → RISK UNDERSTANDING / FINANCIAL INTELLIGENCE",
+            "STRENGTH → BENEFICIAL OWNERSHIP / ASSET RECOVERY"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GAP → COMPLETE ML / TF TRIALS + APPROPRIATE SANCTIONS",
+            "GAP → RISK-BASED NON-PROFIT OUTREACH"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → REGULAR FOLLOW-UP; REPORT BACK IN THREE YEARS",
+            "STRENGTH → RISK UNDERSTANDING / FINANCIAL INTELLIGENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → REGULAR FOLLOW-UP; REPORT BACK IN THREE YEARS.",
+      "source_references": [
+        "India MER 2024"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND EFFECTIVENESS RAIL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND EFFECTIVENESS RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "GLOBALISATION + MATCHED CONTROLS",
+          "role": "outcome"
+        },
+        {
+          "text": "FUNDING SOURCES + FATF COMPLIANCE EFFORTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-OWNED DRUG",
+          "role": "evidence"
+        },
+        {
+          "text": "LAUNDERING LINK",
+          "role": "primary"
+        },
+        {
+          "text": "ATTACHMENT, LISTING AND COMPLIANCE ARE NOT CONVICTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "2021 → TECHNOLOGY / GLOBALISATION + MATCHED CONTROLS",
+        "2023 → FUNDING SOURCES + FATF COMPLIANCE EFFORTS",
+        "2018 → CROSS-OWNED DRUG / LAUNDERING LINK",
+        "END → PREVENT / DETECT / DISRUPT / PROSECUTE / ADJUDICATE",
+        "QUALIFY → attachment, listing and compliance are not conviction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "2021 → TECHNOLOGY / GLOBALISATION + MATCHED CONTROLS",
+            "2023 → FUNDING SOURCES + FATF COMPLIANCE EFFORTS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "2018 → CROSS-OWNED DRUG / LAUNDERING LINK",
+            "END → PREVENT / DETECT / DISRUPT / PROSECUTE / ADJUDICATE"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → attachment, listing and compliance are not conviction",
+            "2021 → TECHNOLOGY / GLOBALISATION + MATCHED CONTROLS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → attachment, listing and compliance are not conviction.",
+      "source_references": [
+        "Compliance-outcome end-state"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RECEIVES AND ANALYSES SUSPICIOUS TRANSACTION REPORTS/CASH",
+          "role": "outcome"
+        },
+        {
+          "text": "ENFORCEMENT DIRECTORATE (ED)",
+          "role": "comparison"
+        },
+        {
+          "text": "INVESTIGATES PMLA CASES TIED TO A",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIAL COURTS UNDER PMLA",
+          "role": "primary"
+        },
+        {
+          "text": "THE PROSECUTION LAYER FATF'S 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PREDICATE-OFFENCE DEPENDENCY AS AN INSTITUTIONAL DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "UAPA SECTION 51A AND THE UN 1267 ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "FIU-IND: receives and analyses Suspicious Transaction Reports/Cash",
+            "Enforcement Directorate (ED): investigates PMLA cases tied to a",
+            "CAUTION: Special Courts under PMLA: the prosecution layer FATF's 2024",
+            "CAUTION: The predicate-offence dependency as an institutional design"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "UAPA Section 51A and the UN 1267 route: the terrorist-financing",
+            "FATF's three-year progress-report obligation (in 2027): the",
+            "CAUTION: Emerging virtual-asset regulatory architecture: CAUTION: any specific",
+            "CAUTION: The 26-country MLAT figure (Singh, book-period) as a boundary case"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: JAM-Trinity (Jan Dhan-Aadhaar-Mobile) as an AML/CFT-relevant boundary",
+            "CAUTION: Non-profit-sector terror-financing risk as a boundary case: FATF's",
+            "CAUTION: Strong detection/seizure capacity without matching prosecutorial",
+            "CAUTION: TBML detection depends on customs-agency focus shifting from"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

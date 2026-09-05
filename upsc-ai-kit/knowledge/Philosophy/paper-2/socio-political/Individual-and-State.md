@@ -3,6 +3,20 @@
 > **Evidence key:** ✅ canonical · ⚠️ analytical synthesis · ❓ contested
 > **Placement:** Paper-II, Section-A, socio-political philosophy. This theme asks how the state can be justified **to** the individual, what the individual may claim **against** the state, what she owes **through** social life, and why public power must remain answerable.
 
+## Exact ownership boundary and indispensable bridges
+
+This owner fully teaches the normative relation between individual and state through **rights,
+duties and accountability**. Other doctrines enter only where they execute that relation.
+
+| Bridge | Treatment owned here | Full owner retained elsewhere |
+|---|---|---|
+| **Sovereignty** | Authority, legitimacy and the moral duty to obey or resist | Austin/Bodin/Laski/Kautilya and legal finality remain with [Sovereignty](Sovereignty.md) |
+| **Political ideologies** | Liberal, idealist, anarchist, Marxist, communitarian and welfare-state positions as relation-models | Full anarchism, Marxism and socialism remain with [Political Ideologies](Political-Ideologies.md) |
+| **Forms of government** | Constitutional-democratic checks, minority protection and dissent | Monarchy, theocracy and democracy as forms remain with [Forms of Government](Forms-of-Government.md) |
+| **Social and political ideals** | Negative/positive freedom, harm and common good as prerequisites | The full equality–justice–liberty theories remain with [Social and Political Ideals](Social-Political-Ideals.md) |
+| **Multiculturalism and gender** | The embedded self, minority/dissent safeguard and the public/private boundary | Recognition, group rights and gendered private power remain with their later owners |
+| **Crime and punishment** | Sanction only as one accountability/obedience mechanism | Theories and applications of punishment remain with [Crime and Punishment](Crime-and-Punishment.md) |
+
 ## 0. ONE-SCREEN MAP
 
 | Core term | Minimal meaning | Key philosophical issue | UPSC use-value |
@@ -26,6 +40,25 @@ State secures, limits, and structures both
 ```
 
 **Working thesis:** ✅ rights protect individuality; ✅ duties sustain social order; ✅ accountability legitimises coercive power. ⚠️ Any one of the three without the other two becomes distorted: rights without limits may become license, duties without rights may become subordination, and state power without accountability degenerates into domination.
+
+### The relationship before the three printed terms
+
+| View | Image of the individual and state | Freedom | Main danger |
+|---|---|---|---|
+| **Mechanistic / artificial** ✅ | Individuals are logically prior; the state is an instrument created for security, rights or cooperation | A protected sphere against interference | Atomism and neglect of social conditions |
+| **Organic / ethical** ✅ | Persons become fully human within a natural or ethical political whole | Participation in rational institutions and the common good | Absorption of conscience and rights into the state |
+| **Welfare / positive liberal** ✅ | The state remains instrumental but must remove social hindrances to agency | Effective capacity as well as non-interference | Paternalism and bureaucratic dependence |
+| **Marxist** ✅/⚠️ | The class state presents a partial interest as universal and is expected to disappear with class domination | Emancipation from material domination | Under-protection of civil liberty during transition |
+| **Anarchist** ✅/⚠️ | Coercive authority lacks a demonstrated general right to rule | Autonomous voluntary cooperation | Coordination, adjudication and external-security deficits |
+| **Communitarian** ✅/⚠️ | The self is socially embedded and political life may sustain shared goods | Situated autonomy within relationships and practices | Conformity and suppression of minority/dissent |
+
+**Organic/mechanistic control ✅:** the distinction concerns logical structure, not literal biology
+or engineering. Mechanistic theory treats the state as a means to prior individual ends; organic
+theory treats the political whole as partly constitutive of the person's good.
+
+**Source control ✅:** O. P. Gauba, *An Introduction to Political Theory*, searchable local PDF
+pp. 220–279, supplies the organic, liberal-individualist, welfare, class, communitarian,
+Gandhian and pluralist taxonomy.
 
 ## 1. RIGHTS
 
@@ -286,6 +319,18 @@ State secures, limits, and structures both
 - **Objection:** sovereignty requires finality, not constant answer-giving. ❓
 - **Reply:** ⚠️ finality in decision may be necessary, but legitimacy still requires review, explanation and constraint.
 
+#### Three dimensions inside accountability
+
+| Dimension | Exact demand | Failure if isolated |
+|---|---|---|
+| **Answerability** ✅ | Give information and publicly justify the decision | Explanation without correction can become ritual |
+| **Enforceability / consequences** ✅ | Face review, remedy, sanction or removal where standards were breached | Punishment without reason-giving becomes arbitrary |
+| **Responsiveness / correction** ⚠️ | Change conduct, repair harm and learn institutionally | Reactive correction may lack stable prospective rules |
+
+**Controlling point ⚠️:** accountability is wider than elections and wider than punishment. The
+official must answer, an authorised forum must judge, and an effective remedy or correction must
+remain possible.
+
 ### 3.2 Political accountability
 **Statement:** ✅ Political accountability concerns answerability to the people through representation, elections, debate and public scrutiny.
 
@@ -342,6 +387,21 @@ State secures, limits, and structures both
 
 ## 4. THEORIES OF THE INDIVIDUAL–STATE RELATIONSHIP
 
+### 4.0 Organic and mechanistic views
+
+| Axis | Mechanistic view | Organic view |
+|---|---|---|
+| Priority | Individual purposes are prior to the state | The political whole is logically prior to the fully developed citizen |
+| Origin | Artificial agreement, convention or instrument | Natural growth, historical development or ethical life |
+| State's role | Protect prior rights and coordinate separate agents | Constitute conditions of good life and moral freedom |
+| Paradigm names | Hobbes, Locke and contractarian liberalism, with sharply different contracts | Aristotle as natural-polis theorist; Hegel as ethical-state theorist |
+| Rights | Strong rights **against** state power are intelligible | Rights mature **within** an ethical/legal order |
+| Risk | Atomism, private power and hollow formal freedom | Statism, fixed hierarchy and silencing of conscience |
+
+**Qualified synthesis ⚠️:** modern constitutional democracy is mechanistic in insisting that
+institutions serve persons, but organic in recognising that agency, education and citizenship are
+socially formed. Neither metaphor is a complete theory.
+
 ### 4.1 Liberal view
 **Statement:** ✅ Liberalism typically treats the individual as morally prior to the state.
 
@@ -355,6 +415,33 @@ State secures, limits, and structures both
 - **Objection:** liberal individualism can neglect community and solidarity. ❓
 - **Reply:** ⚠️ modern liberal thought increasingly includes social rights and public goods without abandoning the primacy of personhood.
 
+#### Liberty, harm and paternalism inside the liberal view
+
+- **Negative freedom ✅:** a protected sphere in which competent adults are not coerced by the
+  state or other persons.
+- **Positive freedom ⚠️:** effective capacity to understand and pursue a life-plan; this can
+  justify education, health or a social minimum without licensing total direction of life.
+- **Mill's harm principle ✅:** coercion of a competent adult is presumptively justified to prevent
+  harm to others, not simply because officials judge the person's own choice unwise.
+- **Paternalism ✅:** interference with another's liberty or autonomy for that person's own good.
+  **Soft paternalism** checks whether the choice is informed and voluntary; **hard paternalism**
+  overrides even a competent and voluntary choice.
+
+**Objection → Reply ⚠️:** the harm to self/others boundary is porous because dependency and social
+costs create spillovers. The liberal reply treats harm as a burden-of-proof test, not a claim that
+conduct is ever socially isolated.
+
+#### Neutrality, perfectionism and the private/public boundary
+
+| Question | Neutral/liberal answer | Perfectionist/communitarian answer | Control |
+|---|---|---|---|
+| May the state promote a good life? | Secure fair terms and basic rights without imposing one comprehensive ideal | Public institutions may cultivate genuine goods, virtues or capabilities | Promotion must remain rights-bound and contestable |
+| Is there a protected private sphere? | Yes; conscience, association, family and personal life need protection from public coercion | “Private” arrangements can reproduce dependency and power | Privacy protects autonomy but cannot immunise harm or domination |
+| What protects minorities and dissent? | Equal rights, viewpoint freedom and state neutrality | Shared goods can sustain belonging and responsibility | Common good is legitimate only if dissenters retain equal civic standing |
+
+**Boundary ⚠️:** the feminist claim that “the personal is political” is used here only to expose
+private domination; gender theory itself remains with the Gender Discrimination owner.
+
 ### 4.2 Idealist view
 **Statement:** ✅ Idealist thought, especially in Hegelian and Greenian lines, sees the state as an ethical institution through which freedom is realised.
 
@@ -367,6 +454,33 @@ State secures, limits, and structures both
 **Objection → Reply:**
 - **Objection:** idealism can slide into glorification of state power. ❓
 - **Reply:** ⚠️ Green-style idealism is more balanced: it stresses enabling conditions for moral development, not blind submission.
+
+#### Hegel and Green must not be flattened
+
+- **Hegel ✅/⚠️:** the rational state belongs to ethical life, differentiated into family, civil
+  society and political institutions. Freedom becomes concrete through recognised rights and
+  participation in rational institutions. This is not the claim that every existing government is
+  divine, infallible or entitled to total obedience.
+- **T. H. Green ✅:** the state is a means to the common good, not an end that absorbs persons.
+  Its proper work is to remove remediable hindrances to self-realisation while leaving moral agency
+  with citizens. Political obligation is therefore conditional, not blind.
+
+**Strong objection ⚠️:** once the state defines the rational or higher self, coercion can be
+presented as liberation. **Reply:** the defensible idealist reconstruction makes enabling action
+rights-bound, decentralised where possible and open to public challenge.
+
+### 4.2A Welfare-state and communitarian positions
+
+| Position | Core insight | Limit |
+|---|---|---|
+| **Welfare / positive liberal state** ✅ | Formal rights are hollow where poverty, illness, ignorance or dependency makes choice unusable; the state may secure a social minimum and fair opportunity | Provision can become paternalistic, administratively dominating or dependency-producing |
+| **Communitarian state** ✅/⚠️ | Persons are embedded in histories, practices and relationships; common goods and civic responsibilities cannot be derived from isolated choice alone | Tradition can conceal hierarchy, and “community” may silence internal minorities |
+
+**Liberal reply ⚠️:** liberalism need not equal atomism. Political neutrality can protect fair
+cooperation among socially embedded persons who reasonably disagree about the good.
+
+**Communitarian rejoinder ⚠️:** neutrality itself privileges an autonomous chooser and depends on
+institutions, habits and solidarities that cannot be generated by rights alone.
 
 ### 4.3 Social contract theory: origin and development
 | Thinker | State of nature | Why contract? | Nature of authority | Rights outcome |
@@ -402,6 +516,23 @@ State secures, limits, and structures both
 **Objection → Reply:**
 - **Objection:** contract already treats persons as free and equal, so it is enough. ❓
 - **Reply:** ⚠️ it is powerful but incomplete; free-and-equal starting points need supplementation by universal moral concern not limited to contractors.
+
+### 4.4A Plato and Aristotle between statism and individualism
+
+This is the direct Core route for **2024 Q3(a)**.
+
+| Axis | Plato | Aristotle | Comparative judgment |
+|---|---|---|---|
+| Political whole | The *Republic* makes justice functional harmony under philosopher-rule | The polis is natural and exists for the good life | Both reject atomistic individualism |
+| Unity/plurality | The guardian class gives up private property and private family to prevent faction | Aristotle criticises excessive unity: a polis is a plurality, not one household or one person | Aristotle preserves more social plurality |
+| Household/property | Guardian arrangements subordinate the private domain to political unity | Household and private property remain, though use should serve common purposes | Aristotle better preserves an intermediate sphere |
+| Individual good | The person's good is specified through proper function in the ordered city | Flourishing requires the polis, but citizenship is activity within a differentiated constitution | Aristotle relates rather than simply absorbs person and polis |
+| Main limit | Hierarchy and philosopher-rule risk severe statism | Slavery, gender exclusion and restricted citizenship remain incompatible with modern equality | Aristotle's success is comparative, not liberal-democratic |
+
+**Verdict ⚠️:** Aristotle steers a better middle because he rejects Plato's excessive unity and
+preserves household, property and plurality while retaining the common good. Yet both are
+perfectionists: neither treats the state as neutral among all conceptions of the good, and
+Aristotle's exclusions block an unqualified modern endorsement.
 
 ### 4.5 Anarchist challenge
 **Statement:** ✅ Anarchism questions whether any coercive state can be morally legitimate.
@@ -608,6 +739,16 @@ The fair-play family is the one examiners most often reward, and the one most of
 | Marxism | class instrument in historical conditions |
 | Gandhian thought | morally necessary only in reduced, decentralised, restrained form |
 
+### 5.5 Neutrality vs perfectionism
+The neutralist asks the state to secure fair terms among rival life-plans; the perfectionist permits
+public promotion of valuable capacities or goods. The strongest synthesis permits enabling
+conditions while prohibiting coercive imposition of one comprehensive life.
+
+### 5.6 Plato vs Aristotle on statism and individualism
+Plato's unity and guardian arrangements sit nearer the statist pole; Aristotle retains the natural
+polis and common good but protects plurality, household and private property. Aristotle wins only
+comparatively and remains non-liberal by modern standards.
+
 ## 6. CRITICISMS AND REPLIES
 
 ### 6.1 Critique of rights language
@@ -645,12 +786,26 @@ The fair-play family is the one examiners most often reward, and the one most of
 6. **Do not write** that Indian tradition is simply antagonistic to individual rights. ⚠️ Better: it often articulates moral life in a duty-centred idiom, which can both enrich and complicate rights discourse.
 7. **Do not equate** limitation of rights with destruction of rights. ✅ Rights require principled limits to coexist.
 8. **Do not answer** social contract questions as if Hobbes, Locke and Rousseau say the same thing. ✅ their concepts of freedom, authority and rights differ sharply.
+9. **Do not treat** mechanistic and organic theories as literal science. ✅ They are rival logical metaphors for whether persons or the political whole have explanatory priority.
+10. **Do not flatten** liberalism into atomism. ⚠️ Welfare liberalism and political neutrality can recognise social formation, public goods and fair opportunity while retaining rights.
+11. **Do not treat** Hegel as a defender of every actual state. ⚠️ His claim concerns rational ethical institutions, not automatic sanctification of incumbent government.
+12. **Do not equate** positive freedom or welfare with unlimited paternalism. ✅ Enabling provision must remain rights-bound; Mill's harm principle keeps coercion for a person's own good under special suspicion.
+13. **Do not call** the private sphere non-political in every respect. ⚠️ Privacy protects autonomy, but no private label immunises harm, dependence or domination.
+14. **Do not call** Aristotle a modern individualist. ✅ He is only a comparative middle against Plato; both remain perfectionist and Aristotle retains deep exclusions.
 
 ## 8. KEYWORD & STATEMENT BANK
 
 ### 8.1 Keywords
 
 **Promoted vocabulary (this pass) ⚠️:** political obligation · content-independence · generality · particularity · defeasibility · tacit consent · fair play · free-riding · natural duty of justice · associative obligation · gratitude · philosophical anarchism · service conception · pre-emptive reason · principles vs rules · hard cases · rights as trumps · conscientious objection · civil disobedience · resistance · revolution · acceptance of penalty · grammar of anarchy
+
+- ✅ organic / mechanistic state
+- ✅ state neutrality / perfectionism
+- ✅ private / public boundary
+- ✅ negative / positive freedom
+- ✅ harm principle / paternalism
+- ✅ answerability / enforceability / responsiveness
+- ✅ statism / individualism
 
 - ✅ claim-right
 - ✅ liberty / privilege
@@ -768,6 +923,10 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **I11 · Constitutional methods displace agitational ones.** Claim: where constitutional means of redress exist, extra-constitutional agitation is the grammar of anarchy and should be abandoned → Named: Ambedkar, Constituent Assembly concluding address, **25 November 1949** → Use for: the compulsory counterweight to I9 and I10 → Limit: the argument's force depends on constitutional channels being genuinely open **to the group in question**.
 - **I12 · Duty-centrism as an alternative starting point.** Claim: rights well performed are the fruit of duties well done; obligation is prior in the order of moral cultivation → Named: Gandhi (§2.3); the *dharma* tradition (§2.4) → Use for: rights-versus-duties priority stems → Limit: ⚠️ a duty-first order can be used to postpone rights for the powerless, which is exactly Ambedkar's objection; state that objection rather than leaving the position unqualified.
 - **I13 · Duties in the Indian constitutional text are non-justiciable.** Claim: Article 51A, inserted by the Constitution (Forty-second Amendment) Act, **1976**, lists Fundamental Duties that courts do not directly enforce → Named: constitutional text → Use for: Indian illustration in any rights/duties stem → Limit: ✅ non-justiciability is a legal fact; it neither proves nor disproves any moral thesis about duty.
+- **I14 · Organic and mechanistic theories identify opposite explanatory priorities.** Claim: organic theory treats the political whole as constitutive of the citizen's good; mechanistic theory treats the state as an instrument of prior persons → Named: Gauba, searchable local PDF pp. 220–225 → Use for: any direct individual–state relation answer → Limit: both are metaphors and neither maps every modern institution.
+- **I15 · Aristotle is a comparative middle, not a modern liberal.** Claim: he rejects Plato's excessive unity and preserves household, private property and political plurality while retaining the natural polis and common good → Named: Plato's *Republic* and Aristotle's *Politics* I–II → Use for: 2024 Q3(a) → Limit: slavery, gender exclusion and restricted citizenship bar an absolute endorsement.
+- **I16 · Harm and paternalism discipline liberal state action.** Claim: coercion of competent adults requires more than official belief that it benefits them; prevention of harm to others carries the stronger presumption → Named: Mill's harm principle plus the soft/hard paternalism distinction → Use for: autonomy, state limits and private/public stems → Limit: the self/other boundary is porous.
+- **I17 · Neutrality and perfectionism are rival limits on common-good politics.** Claim: neutralism protects fair terms among rival conceptions of the good, while perfectionism permits public promotion of valuable capacities → Named: liberal–communitarian debate → Use for: welfare, common-good, minority and dissent questions → Limit: neutrality is never institutionally value-free, while perfectionism risks conformity.
 
 ### 10.5 Graded verdict formulas (adapt; never reproduce mechanically)
 
@@ -787,7 +946,8 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - [Caste, Gandhi, Ambedkar](Caste-Gandhi-Ambedkar.md) — Gandhian duty-centrism and constitutional rights discourse.
 
 ## SOURCES
-- O. P. Gauba, *An Introduction to Political Theory* and writings on socio-political philosophy.
+- O. P. Gauba, *An Introduction to Political Theory*, searchable local PDF pp. 220–300 and 338–390.
+- *Socio-Political Philosophy*, local compiled notes PDF pp. 68–83 and 129–132; no named author is asserted.
 - Rajeev Bhargava and Ashok Acharya, works on political theory and Indian political thought.
 - Harold J. Laski, *A Grammar of Politics*.
 - John Locke, *Two Treatises of Government*.
@@ -802,5 +962,7 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - M. K. Gandhi, writings on *satyāgraha*; the Salt Satyagraha of **1930** used as a dated historical illustration.
 - B. R. Ambedkar, concluding address to the Constituent Assembly, **25 November 1949** — the "grammar of anarchy" argument, attributed by occasion and position rather than by extended quotation.
 - [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Articles 19 and 51A, used as dated constitutional illustration only; Fundamental Duties are non-justiciable.
+- Plato, *Republic*, especially the guardian arrangements and functional political justice; used only for the 2024 routed comparison.
+- Aristotle, *Politics* Books I–II, especially the natural polis, criticism of excessive unity, household and property; used only for the 2024 routed comparison.
 
 > ⚠️ **Provenance note for §4A (added in this pass):** the political-obligation grid, the Dworkin module and the disobedience ladder are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Locke, Hart, Rawls, Simmons, Raz, Dworkin, Thoreau, Gandhi or Ambedkar, and no empirical claim is made about any Indian government, party or period. The Austin → Kelsen → Hart jurisprudential sequence is **not** developed here; it is owned by [Sovereignty](Sovereignty.md) §3A.

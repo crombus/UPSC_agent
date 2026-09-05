@@ -200,3 +200,21 @@ Nehru's authority (to 1964) held factions in balance
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** competitive one-party dominance to 1967; Congress breadth,
+  factions, co-option and electoral arithmetic; Socialist/KMPP/PSP/Lohiaite,
+  CPI/CPI(M), Jana Sangh, Swatantra and regional opposition trajectories.
+- **Boundary:** Topic 32 owns Nehru's governmental legacy. Topic 34 owns the
+  consequences of 1967, coalitions/defections, Indira-Syndicate conflict and
+  the 1969 organisational split.
+- **Date control:** Socialist exit (1948), Tandon-Nehru (1950-51), Jana Sangh
+  and KMPP (1951), PSP (1952), Avadi (1955), Kerala (1957), Swatantra (1959),
+  CPI split (1964) and the 1967 watershed remain separate.
+- **Mechanism control:** the Congress system was not a one-party state;
+  first-past-the-post, social breadth, internal pluralism, co-option and
+  fragmented opposition jointly converted sub-50-per-cent votes into dominance.
+- **Verified PYQ ownership, 2018-2026:** one direct 2024 Prelims party-leader
+  route. The local Series-A key exists, but no answer is inferred beyond
+  verified party-founder associations.

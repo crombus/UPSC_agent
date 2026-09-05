@@ -31,9 +31,9 @@ fraternity; (4) **Date of adoption** — **26 November 1949**.
 |---|---|---|
 | ✅ **Sovereign** | Independent, no external authority; can acquire/cede territory. Commonwealth & UN membership don't limit sovereignty | — |
 | ✅ **Socialist** | Added **42nd Amdt 1976** (implicit earlier via DPSP; Congress Avadi session 1955). Indian = **democratic socialism** (mixed economy), not communistic/state socialism; blend of Marxism & Gandhism, leaning **Gandhian**. NEP 1991 diluted it | — |
-| ✅ **Secular** | Added **42nd Amdt 1976**. **Positive secularism** — equal status & support to all religions (Art 25–28) | — |
+| ✅ **Secular** | Added **42nd Amdt 1976**. **Equality-linked secularism** — no State religion, freedom of conscience and constitutionally limited, non-discriminatory engagement with religion (Arts 14–16, 25–28) | — |
 | ✅ **Democratic** | Popular sovereignty; India = **representative parliamentary** democracy; embraces political + **social + economic** democracy (Ambedkar's 25 Nov 1949 speech: liberty-equality-fraternity a "union of trinity") | — |
-| ✅ **Republic** | Elected head (President), fixed 5-yr term; no hereditary ruler; no privileged class; offices open to all | — |
+| ✅ **Republic** | Elected head (President), fixed 5-yr term; no hereditary ruler; rejects hereditary headship; equal access to office rests on the wider equality code | — |
 | ✅ **Justice** (social, economic, political) | Via FR & DPSP; social+economic = "distributive justice" | **Russian Revolution 1917** |
 | ✅ **Liberty** | Absence of restraints + development of personality; qualified, not license | **French Revolution 1789** |
 | ✅ **Equality** | No special privileges; civic (Art 14–18), political (Art 325, 326), economic (Art 39) | **French Revolution 1789** |

@@ -1,0 +1,1095 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T15:56:12.124688+00:00",
+  "subject": "Ancient History",
+  "section": "Subject-wide Syllabus",
+  "represented": 27,
+  "expected": 27,
+  "latest_identities_match_export_master_review_and_library": true,
+  "fresh_scores": true,
+  "zero_mismatches": true,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "all_approval_false": true,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_ancient_history_deep_review (cwd=tools)",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_answer_contract_repair_is_idempotent (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\ntest_answer_contracts_are_added (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\ntest_answer_controls_distinguish_prelims (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\ntest_ascii_replacement_preserves_final_h2 (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\ntest_h2_order_detects_nonfinal_register_notes (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\ntest_rotates_bullet_mcqs_to_abcd (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\ntest_rotates_table_mcq_and_embedded_summary (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\ntest_supplemental_body_respects_width (test_regenerate_ancient_history_deep_review.AncientHistoryDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.003s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 9,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.751s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 38,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 38 tests in 9.165s\n\nOK"
+    }
+  ],
+  "topics": [
+    {
+      "topic_key": "ancient-indian-history-01",
+      "title": "Importance & Historiography of Ancient India",
+      "old_record_id": "ancient-indian-history-01:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-01:learner-v2:g21",
+      "old_generation": 12,
+      "new_generation": 21,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-01-learner-v2-g21-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:28:03.523717+00:00",
+      "identities": {
+        "export": "ancient-indian-history-01:learner-v2:g21",
+        "master": "ancient-indian-history-01:learner-v2:g21",
+        "review": "ancient-indian-history-01:learner-v2:g21"
+      },
+      "generations": {
+        "export": 21,
+        "master": 21,
+        "review": 21
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-02",
+      "title": "Sources of Ancient Indian History",
+      "old_record_id": "ancient-indian-history-02:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-02:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-02-learner-v2-g14-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:33:40.250480+00:00",
+      "identities": {
+        "export": "ancient-indian-history-02:learner-v2:g14",
+        "master": "ancient-indian-history-02:learner-v2:g14",
+        "review": "ancient-indian-history-02:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-03",
+      "title": "Geographical Setting & Ecology",
+      "old_record_id": "ancient-indian-history-03:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-03:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-03-learner-v2-g14-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:34:00.731319+00:00",
+      "identities": {
+        "export": "ancient-indian-history-03:learner-v2:g14",
+        "master": "ancient-indian-history-03:learner-v2:g14",
+        "review": "ancient-indian-history-03:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-04",
+      "title": "The Stone Age: Palaeolithic & Mesolithic",
+      "old_record_id": "ancient-indian-history-04:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-04:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-04-learner-v2-g14-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:34:20.193318+00:00",
+      "identities": {
+        "export": "ancient-indian-history-04:learner-v2:g14",
+        "master": "ancient-indian-history-04:learner-v2:g14",
+        "review": "ancient-indian-history-04:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-05",
+      "title": "Neolithic & Chalcolithic Cultures",
+      "old_record_id": "ancient-indian-history-05:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-05:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-05-learner-v2-g14-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:34:43.496302+00:00",
+      "identities": {
+        "export": "ancient-indian-history-05:learner-v2:g14",
+        "master": "ancient-indian-history-05:learner-v2:g14",
+        "review": "ancient-indian-history-05:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-06",
+      "title": "The Harappan Civilization",
+      "old_record_id": "ancient-indian-history-06:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-06:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-06-learner-v2-g14-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:35:02.167996+00:00",
+      "identities": {
+        "export": "ancient-indian-history-06:learner-v2:g14",
+        "master": "ancient-indian-history-06:learner-v2:g14",
+        "review": "ancient-indian-history-06:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-07",
+      "title": "The Aryan Problem & Identity of Aryan Culture",
+      "old_record_id": "ancient-indian-history-07:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-07:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-07-learner-v2-g14-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:35:21.878399+00:00",
+      "identities": {
+        "export": "ancient-indian-history-07:learner-v2:g14",
+        "master": "ancient-indian-history-07:learner-v2:g14",
+        "review": "ancient-indian-history-07:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-08",
+      "title": "The Rig Vedic Age (Early Vedic)",
+      "old_record_id": "ancient-indian-history-08:learner-v2:g12",
+      "new_record_id": "ancient-indian-history-08:learner-v2:g14",
+      "old_generation": 12,
+      "new_generation": 14,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-08-learner-v2-g14-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:35:41.000627+00:00",
+      "identities": {
+        "export": "ancient-indian-history-08:learner-v2:g14",
+        "master": "ancient-indian-history-08:learner-v2:g14",
+        "review": "ancient-indian-history-08:learner-v2:g14"
+      },
+      "generations": {
+        "export": 14,
+        "master": 14,
+        "review": 14
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-09",
+      "title": "The Later Vedic Phase",
+      "old_record_id": "ancient-indian-history-09:learner-v2:g13",
+      "new_record_id": "ancient-indian-history-09:learner-v2:g15",
+      "old_generation": 13,
+      "new_generation": 15,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-09-learner-v2-g15-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:36:00.037510+00:00",
+      "identities": {
+        "export": "ancient-indian-history-09:learner-v2:g15",
+        "master": "ancient-indian-history-09:learner-v2:g15",
+        "review": "ancient-indian-history-09:learner-v2:g15"
+      },
+      "generations": {
+        "export": 15,
+        "master": 15,
+        "review": 15
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-10",
+      "title": "Jainism and Buddhism",
+      "old_record_id": "ancient-indian-history-10:learner-v2:g13",
+      "new_record_id": "ancient-indian-history-10:learner-v2:g15",
+      "old_generation": 13,
+      "new_generation": 15,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-10-learner-v2-g15-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:36:23.755574+00:00",
+      "identities": {
+        "export": "ancient-indian-history-10:learner-v2:g15",
+        "master": "ancient-indian-history-10:learner-v2:g15",
+        "review": "ancient-indian-history-10:learner-v2:g15"
+      },
+      "generations": {
+        "export": 15,
+        "master": 15,
+        "review": 15
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-11",
+      "title": "Mahajanapadas & Rise of Magadha",
+      "old_record_id": "ancient-indian-history-11:learner-v2:g13",
+      "new_record_id": "ancient-indian-history-11:learner-v2:g15",
+      "old_generation": 13,
+      "new_generation": 15,
+      "old_score": 91,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-11-learner-v2-g15-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:36:49.751163+00:00",
+      "identities": {
+        "export": "ancient-indian-history-11:learner-v2:g15",
+        "master": "ancient-indian-history-11:learner-v2:g15",
+        "review": "ancient-indian-history-11:learner-v2:g15"
+      },
+      "generations": {
+        "export": 15,
+        "master": 15,
+        "review": 15
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-12",
+      "title": "Iranian & Macedonian Invasions",
+      "old_record_id": "ancient-indian-history-12:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-12:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-12-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:37:14.012371+00:00",
+      "identities": {
+        "export": "ancient-indian-history-12:learner-v2:g4",
+        "master": "ancient-indian-history-12:learner-v2:g4",
+        "review": "ancient-indian-history-12:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-13",
+      "title": "State & Varna Society in the Age of the Buddha",
+      "old_record_id": "ancient-indian-history-13:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-13:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-13-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:37:36.043388+00:00",
+      "identities": {
+        "export": "ancient-indian-history-13:learner-v2:g4",
+        "master": "ancient-indian-history-13:learner-v2:g4",
+        "review": "ancient-indian-history-13:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-14",
+      "title": "The Mauryan Empire",
+      "old_record_id": "ancient-indian-history-14:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-14:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-14-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:38:01.688477+00:00",
+      "identities": {
+        "export": "ancient-indian-history-14:learner-v2:g4",
+        "master": "ancient-indian-history-14:learner-v2:g4",
+        "review": "ancient-indian-history-14:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-15",
+      "title": "Significance & Decline of Mauryan Rule",
+      "old_record_id": "ancient-indian-history-15:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-15:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-15-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:38:25.388868+00:00",
+      "identities": {
+        "export": "ancient-indian-history-15:learner-v2:g4",
+        "master": "ancient-indian-history-15:learner-v2:g4",
+        "review": "ancient-indian-history-15:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-16",
+      "title": "Central Asian Contacts: Indo-Greeks, Shakas, Kushanas",
+      "old_record_id": "ancient-indian-history-16:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-16:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-16-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:38:47.718818+00:00",
+      "identities": {
+        "export": "ancient-indian-history-16:learner-v2:g4",
+        "master": "ancient-indian-history-16:learner-v2:g4",
+        "review": "ancient-indian-history-16:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-17",
+      "title": "The Satavahanas & the Deccan",
+      "old_record_id": "ancient-indian-history-17:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-17:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-17-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:39:08.013942+00:00",
+      "identities": {
+        "export": "ancient-indian-history-17:learner-v2:g4",
+        "master": "ancient-indian-history-17:learner-v2:g4",
+        "review": "ancient-indian-history-17:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-18",
+      "title": "The Sangam Age & the Deep South",
+      "old_record_id": "ancient-indian-history-18:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-18:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-18-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:39:29.898889+00:00",
+      "identities": {
+        "export": "ancient-indian-history-18:learner-v2:g4",
+        "master": "ancient-indian-history-18:learner-v2:g4",
+        "review": "ancient-indian-history-18:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-19",
+      "title": "Crafts, Commerce & Urban Growth (200 BC–AD 250)",
+      "old_record_id": "ancient-indian-history-19:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-19:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-19-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:39:47.744309+00:00",
+      "identities": {
+        "export": "ancient-indian-history-19:learner-v2:g4",
+        "master": "ancient-indian-history-19:learner-v2:g4",
+        "review": "ancient-indian-history-19:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-20",
+      "title": "The Gupta Empire",
+      "old_record_id": "ancient-indian-history-20:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-20:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-20-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:40:06.464783+00:00",
+      "identities": {
+        "export": "ancient-indian-history-20:learner-v2:g4",
+        "master": "ancient-indian-history-20:learner-v2:g4",
+        "review": "ancient-indian-history-20:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-21",
+      "title": "Life & Culture in the Gupta Age",
+      "old_record_id": "ancient-indian-history-21:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-21:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-21-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:40:25.800592+00:00",
+      "identities": {
+        "export": "ancient-indian-history-21:learner-v2:g4",
+        "master": "ancient-indian-history-21:learner-v2:g4",
+        "review": "ancient-indian-history-21:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-22",
+      "title": "Post-Gupta India: Harsha & Eastern India",
+      "old_record_id": "ancient-indian-history-22:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-22:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-22-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:40:47.275419+00:00",
+      "identities": {
+        "export": "ancient-indian-history-22:learner-v2:g4",
+        "master": "ancient-indian-history-22:learner-v2:g4",
+        "review": "ancient-indian-history-22:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-23",
+      "title": "Peninsular India: Pallavas, Chalukyas & Brahmanization",
+      "old_record_id": "ancient-indian-history-23:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-23:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-23-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:41:08.971980+00:00",
+      "identities": {
+        "export": "ancient-indian-history-23:learner-v2:g4",
+        "master": "ancient-indian-history-23:learner-v2:g4",
+        "review": "ancient-indian-history-23:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-24",
+      "title": "Developments in Philosophy",
+      "old_record_id": "ancient-indian-history-24:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-24:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-24-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:41:30.900618+00:00",
+      "identities": {
+        "export": "ancient-indian-history-24:learner-v2:g4",
+        "master": "ancient-indian-history-24:learner-v2:g4",
+        "review": "ancient-indian-history-24:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-25",
+      "title": "Cultural Interaction with Asian Countries",
+      "old_record_id": "ancient-indian-history-25:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-25:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-25-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:41:53.136484+00:00",
+      "identities": {
+        "export": "ancient-indian-history-25:learner-v2:g4",
+        "master": "ancient-indian-history-25:learner-v2:g4",
+        "review": "ancient-indian-history-25:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-26",
+      "title": "From Ancient to Medieval: Social Change & Legacy",
+      "old_record_id": "ancient-indian-history-26:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-26:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-26-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:42:12.725742+00:00",
+      "identities": {
+        "export": "ancient-indian-history-26:learner-v2:g4",
+        "master": "ancient-indian-history-26:learner-v2:g4",
+        "review": "ancient-indian-history-26:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    },
+    {
+      "topic_key": "ancient-indian-history-27",
+      "title": "Imperial Cholas: State, Society, Economy & Maritime Power",
+      "old_record_id": "ancient-indian-history-27:learner-v2:g2",
+      "new_record_id": "ancient-indian-history-27:learner-v2:g4",
+      "old_generation": 2,
+      "new_generation": 4,
+      "old_score": 95,
+      "new_score": 98,
+      "scores": {
+        "complete_learning_session": 39,
+        "solved_practice_workbook": 30,
+        "graphical_flowchart": 15,
+        "ascii_master_flowchart": 14,
+        "total": 98
+      },
+      "approval": false,
+      "status": "passed",
+      "validation": "upsc-ai-kit\\manifests\\exports\\ancient-indian-history-27-learner-v2-g4-2026-08-30-validation.json",
+      "review_started_at": "2026-08-30T15:42:35.175796+00:00",
+      "identities": {
+        "export": "ancient-indian-history-27:learner-v2:g4",
+        "master": "ancient-indian-history-27:learner-v2:g4",
+        "review": "ancient-indian-history-27:learner-v2:g4"
+      },
+      "generations": {
+        "export": 4,
+        "master": 4,
+        "review": 4
+      },
+      "review_score": 98,
+      "review_state": "passed",
+      "approval_states": {
+        "export": false,
+        "master": "Approval pending",
+        "review": false
+      },
+      "mismatch_count": 0
+    }
+  ]
+}

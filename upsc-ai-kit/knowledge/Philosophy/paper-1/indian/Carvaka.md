@@ -31,9 +31,25 @@ CĀRVĀKA (Lokāyata)
 │  └─ Svabhāvavāda (svabhavavada): things act by their own nature
 │
 └─ ETHICS
-   ├─ Puruṣārthas reduced to kāma and artha
-   └─ Pleasure in embodied life privileged over unseen goods
+   ├─ Pleasure (kāma) is the end; wealth (artha) is its instrument
+   └─ Embodied pleasure is privileged over unseen religious goods
 ```
+
+## 0A. IDENTITY, CLASSIFICATION, AND HISTORICAL LOCATION ✅/❓
+
+### 0A.1 Three names, three cautions
+
+| English-first name | Sanskrit term | Safe meaning and use |
+|---|---|---|
+| Cārvāka school | Cārvāka | Standard name for the materialist tradition. Proposed derivations from “to chew” or “pleasant speech” are doxographical etymologies, not settled history. |
+| Worldly or popular doctrine | Lokāyata | Common alternative name, often explained as a view widespread among ordinary people or confined to this world. Do not infer a single fixed etymology. |
+| Bṛhaspati tradition | Bārhaspatya | Name connecting the teaching with Bṛhaspati, its traditional founder. The attributed *Bṛhaspati-sūtra* is lost, so founder legends are not independent historical proof. |
+
+**Classification.** ✅ Cārvāka is unorthodox (**nāstika**) primarily because it rejects Vedic authority. It is also nāstika in the secondary sense of rejecting post-mortem existence. “Nāstika” must not be translated simply as “atheist”: some Veda-accepting Indian schools do not require a creator God.
+
+**Historical location.** ❓ Materialist and anti-ritual currents are old and appear in epic, Buddhist, Jaina, and Brahmanical reports before later doxographical systematization. Ajita Kesakambalī is an important early materialist comparator, but the surviving evidence does not justify identifying every early naturalist or amoralist as a member of one organized Cārvāka school.
+
+**Exam consequence.** ⚠️ Open with “Cārvāka, also called Lokāyata or Bārhaspatya, is the nāstika materialist tradition,” then immediately qualify that its positive system is reconstructed mainly from opponents.
 
 ## 1. THEORY OF KNOWLEDGE ✅
 
@@ -57,6 +73,23 @@ CĀRVĀKA (Lokāyata)
 **Objection.** ✅ Everyday life constantly relies on inference.
 
 **Reply.** ⚠️ The Cārvāka reply is not that people never infer, but that such inferential habits are practical and fallible, not genuinely truth-guaranteeing in the strict philosophical sense.
+
+### 1.1A External and internal perception ✅
+
+**Statement.** ✅ Cārvāka accepts externally perceived material objects and does not deny the internally experienced fact of consciousness. It denies the further inference from consciousness to an imperceptible spiritual substance.
+
+| Mode | Sanskrit term | What is immediately given | What is not thereby established |
+|---|---|---|---|
+| External perception | **bāhya-pratyakṣa** | Colours, sounds, tastes, smells, touches, bodies, and material processes | Unseen universals, karmic forces, or a creator |
+| Internal or mental perception | **mānasa / antara-pratyakṣa** | Pleasure, pain, desire, and conscious states | A consciousness-bearing soul existing apart from the living body |
+
+**Argument.** ✅
+1. Consciousness is experienced and therefore cannot be eliminated.
+2. What is experienced is embodied consciousness, not a disembodied bearer.
+3. The move from “consciousness occurs” to “an immaterial soul possesses it” is an inferential addition.
+4. Hence Cārvāka accepts consciousness while explaining it as a property of the organized living body.
+
+**Trap.** ✅ “Cārvāka denies consciousness” is false. The school denies a transcendental self, not the perceived occurrence of awareness.
 
 ### 1.2 Why anumāna is rejected: the vyāpti problem ✅
 
@@ -124,6 +157,18 @@ CĀRVĀKA (Lokāyata)
 
 **Reply.** ⚠️ The Cārvāka can concede pragmatic reliance without granting independent pramāṇa-status. Usefulness is not certainty.
 
+### 1.4A Why comparison, postulation, and non-cognition do not escape ✅/⚠️
+
+**General argument.** ⚠️ Every proposed means of knowledge other than perception either presents something perceptible or moves beyond what is perceived through an unproved universal relation. In the first case it adds nothing independent; in the second it inherits the objection to inference.
+
+| Claimed means | Sanskrit term | Cārvāka reduction or objection |
+|---|---|---|
+| Comparison | **upamāna** | Perceived resemblance is admitted; moving from resemblance to a stable word-kind relation requires generalization. |
+| Postulation | **arthāpatti** | The postulated fact is unperceived, and its alleged necessity depends on a universal rule excluding alternatives. |
+| Non-cognition | **anupalabdhi** | “If the object existed here, it would be perceived” is itself a universal conditional not contained in one perception. |
+
+**Scope caution.** ⚠️ Standard introductory accounts directly emphasize the rejection of inference and testimony. The table applies the same Cārvāka criterion to the larger developed pramāṇa catalogue; use it as systematic reconstruction, not as a claim that one surviving Cārvāka text separately refutes every later category.
+
 ### 1.5 Nyāya rejoinder: how Naiyāyikas defend inference ✅
 
 **Statement.** ✅ Nyāya replies that inference is independently valid, and that vyāpti can be established by repeated observation, elimination of known counter-conditions, and **tarka** (supportive reasoning).
@@ -182,6 +227,8 @@ CĀRVĀKA (Lokāyata)
 **Distinction.** ✅ **Laukika** inference serves worldly action; **alaukika** or **pāramārthika** inference claims to reveal the unseen structure of reality. Cārvāka skepticism bites much harder against the latter.
 
 **Example.** ✅ One may infer that food on the fire is cooking and act accordingly, yet refuse to infer from ritual action an unseen merit producing heaven.
+
+**Accidental truth.** ✅ On the strict account, successful inference does not prove that inference is a pramāṇa. Some inferences happen to be true and others fail; truth is therefore an accidental and separable feature of inferential practice rather than its unfailing mark. This explains how Cārvāka can acknowledge successful prediction without granting inference independent epistemic authority.
 
 **Objection.** ✅ This seems inconsistent: if inference is admitted in one domain, why not in another?
 
@@ -281,6 +328,7 @@ CĀRVĀKA (Lokāyata)
 2. Ākāśa is not directly perceived as an entity in the same way.
 3. Therefore ākāśa lacks epistemic warrant.
 4. Hence the elemental basis of the world is fourfold, not fivefold.
+5. In the standard doxographical account, the elements are eternal material bases; their combinations produce and dissolve particular bodies, senses, objects, and living organisms.
 
 **Presupposition.** ⚠️ The Cārvāka applies its perceptual criterion to cosmology as strictly as to theology.
 
@@ -308,6 +356,8 @@ CĀRVĀKA (Lokāyata)
 
 **Example.** ✅ Injury, intoxication, age, sleep, and disease visibly alter awareness. The Cārvāka reads this as evidence that consciousness belongs to the body-complex itself.
 
+**Identity-language argument.** ✅ Ordinary first-person expressions such as “I am stout” or “I am thin” predicate bodily properties directly of the person. Cārvāka treats this as evidence for body-self identity. The opponent replies that “my body” distinguishes possessor from possessed; Cārvāka can answer that ordinary possessive grammar does not by itself prove a separable substance.
+
 **Objection.** ✅ The continuity of memory seems to require a persisting subject deeper than changing bodily parts.
 
 **Reply.** ⚠️ The Cārvāka can answer that continuity is bodily-psychological continuity, not proof of a separate metaphysical soul.
@@ -334,6 +384,21 @@ CĀRVĀKA (Lokāyata)
 
 **Reply.** ⚠️ The Cārvāka can insist that positing an immaterial soul explains nothing further; it merely renames the unexplained.
 
+### 2.4A Four materialist identifications of the self ❓/⚠️
+
+**Doxographical taxonomy.** ❓ Sadānanda’s *Vedāntasāra* reports four materialist positions according to what each identifies as the self:
+
+| Materialist variant | Self identified with | Sanskrit term |
+|---|---|---|
+| Body theory | Gross body | **sthūla-śarīra** |
+| Sense theory | Sense faculties | **indriya** |
+| Vital-process theory | Vital breaths or life-functions | **prāṇa** |
+| Mind theory | Mental organ | **manas** |
+
+**Shared materialist core.** ✅ None requires an immortal self independent of embodied organization. Even the subtler variants remain materialist because senses, vital processes, or mind depend on the material living complex and do not survive bodily dissolution.
+
+**Boundary warning.** ✅ This fourfold self-taxonomy is not the same as the later crude/refined (**dhūrta/suśikṣita**) contrast. The first classifies the proposed bearer of personhood; the second is a cautious historiographical distinction between cruder and more defensible forms of Cārvāka reasoning.
+
 ### 2.5 Rejection of karma, rebirth, adṛṣṭa, mokṣa, and Īśvara ✅
 
 **Statement.** ✅ Since they are not perceptually established, Cārvāka rejects **karma** as unseen moral force, **rebirth**, **adṛṣṭa**, **mokṣa**, and **Īśvara**.
@@ -349,6 +414,10 @@ CĀRVĀKA (Lokāyata)
 **Distinction.** ✅ The Cārvāka is not merely questioning one proof of God; it undercuts the whole class of suprasensible postulates.
 
 **Example.** ✅ A ritual may visibly consume ghee in fire, but the alleged invisible production of heaven remains unperceived.
+
+**Doxographical formula.** ❓ “Death itself is liberation” (**maraṇam eva apavargaḥ**) means that bodily dissolution ends the person and therefore ends experienced suffering; it does not posit a positive post-mortem state. Present it as an opponent-preserved formula, not as a quotation from an extant Cārvāka scripture.
+
+**Ritual critique.** ✅ Cārvāka attacks sacrifice, ancestral offerings, and priestly claims because their promised unseen results cannot be verified. The social accusation that ritual sustains priestly livelihood is supplementary to the central epistemological argument; satire alone does not establish the doctrine.
 
 **Objection.** ✅ Without karma and rebirth, moral order collapses.
 
@@ -380,23 +449,24 @@ CĀRVĀKA (Lokāyata)
 
 ### 2.7 Ethics: kāma and artha as the operative puruṣārthas ✅
 
-**Statement.** ✅ Cārvāka ethics privileges **kāma** and **artha**, while rejecting **dharma** and **mokṣa** as goals dependent on unseen worlds.
+**Statement.** ✅ Cārvāka treats pleasure (**kāma**) as the ultimate end and wealth (**artha**) as an instrumental means to it, while rejecting duty grounded in scripture (**dharma**) and liberation (**mokṣa**) as goals dependent on unproved authority or unseen worlds.
 
 **Argument.** ✅
 1. Human life is embodied and finite.
-2. Pleasure and material well-being are directly meaningful within such life.
+2. Pleasure and pain are directly experienced within such life.
 3. Dharma and mokṣa, as conventionally defined, depend on scriptural or transcendental assumptions.
-4. Therefore the rational focus should be enjoyment and the means that sustain it.
+4. Therefore pleasure is intrinsically valuable, while wealth is valuable only insofar as it sustains enjoyment.
+5. A prudent action seeks a favourable balance of pleasure over pain rather than immediate gratification at any cost.
 
 **Presupposition.** ⚠️ Value should be anchored in this-worldly experience rather than post-mortem hope.
 
-**Distinction.** ✅ Serious answers should avoid caricaturing Cārvāka as mere debauchery. Prudential enjoyment is more defensible than self-destructive indulgence.
+**Distinction.** ✅ Pleasure and wealth are not co-equal ends: pleasure is the end, wealth the means. Serious answers should also avoid caricaturing Cārvāka as mere debauchery. Rejecting a pleasure because it contains some pain is compared to discarding grain because it has a husk; the rational response is to secure pleasure while limiting foreseeable pain.
 
 **Example.** ✅ The widely quoted line **“yāvat jīvet sukhaṃ jīvet”** (“as long as one lives, let one live happily”) should be presented honestly as a traditional doxographical verse associated with the Cārvāka image, not as a securely locatable quotation from an extant primary Cārvāka text.
 
 **Objection.** ✅ Hedonism may ignore long-term harms and public obligation.
 
-**Reply.** ⚠️ A refined reading allows intelligent pleasure governed by consequences, not reckless appetite.
+**Reply.** ⚠️ A refined reading allows intelligent pleasure governed by consequences, social conditions, and cultivation rather than reckless appetite. Reports of cultured Cārvākas (**suśikṣita Cārvākas**) and their interest in arts, polity, and economy show why “gross sensualism” cannot safely describe the entire reconstructed tradition. However, this prudential refinement still struggles to derive impartial moral obligation from pleasure alone.
 
 ### 2.8 The source problem ❓
 
@@ -499,6 +569,7 @@ CĀRVĀKA (Lokāyata)
 
 ### 4.1 “Cārvāka is self-refuting.”
 - **Criticism.** ✅ The universal rejection of inference itself appears inferential.
+- **Perception tu quoque.** ✅ If occasional error disqualifies inference, perceptual illusion appears to disqualify perception by the same standard. Cārvāka therefore needs a criterion for corrected perception that does not covertly depend on memory, comparison, testimony, or inference.
 - **Reply.** ⚠️ A softened reading treats the thesis as critique of certainty-claims, especially transcendental inference, rather than total practical abolition of all inferential habits.
 - **Assessment.** ⚠️ The criticism remains powerful against an uncompromising formulation.
 
@@ -543,6 +614,13 @@ CĀRVĀKA (Lokāyata)
 - **Dhūrta / suśikṣita Cārvāka** — crude/refined distinction preserved by opponents; use cautiously. ❓
 - **Jayarāśi Bhaṭṭa** — author of *Tattvopaplavasiṃha*, linked with Lokāyata scepticism. ❓/⚠️
 - **Lokāyata** — another name associated with the school/tradition. ✅
+- **Bārhaspatya** — “the Bṛhaspati tradition”; founder attribution is traditional because the associated text is lost. ❓
+- **Nāstika** — unorthodox primarily through rejection of Vedic authority, not merely atheism. ✅
+- **External/internal perception** — material objects and conscious states are given; an immaterial bearer is not. ✅
+- **Upamāna, arthāpatti, anupalabdhi** — either reduce to perceived content or inherit an unproved universal move beyond perception. ⚠️
+- **Four materialist self-models** — gross body, senses, vital processes, or mind; all deny an independently surviving soul. ❓/⚠️
+- **Ethical hierarchy** — pleasure is the end; wealth is its means; prudent enjoyment weighs pleasure against pain. ✅
+- **Maraṇam eva apavargaḥ** — “death itself is liberation,” an opponent-preserved formula denying positive post-mortem release. ❓
 - **“As long as one lives, let one live happily”** — use as a doxographical verse associated with the tradition, not as a securely locatable line from an extant primary text. ⚠️
 - **Exam sentence:** “Cārvāka’s rejection of suprasensible entities is not an independent metaphysical whim; it is the ontological consequence of restricting valid knowledge to perception.” ⚠️
 - **Exam sentence:** “The Achilles’ heel of Cārvāka is that the denial of inference seems itself inferential unless the thesis is softened into a critique of certainty rather than of all worldly reasoning.” ⚠️

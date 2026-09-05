@@ -15,7 +15,7 @@ cover_image: "../../../notes/Polity/assets/05_Union-and-Territory/01_territorial
 - Source order followed: repository Core owner `Polity/basic/Union-and-Territory.md` -> optional distinct Advanced companion `Polity/advanced/05_Union-and-Territory.md` -> local OCR-searchable M. Laxmikanth and audited PYQ ledgers -> authoritative live current-law sources -> Qdrant not used.
 - Constitutional control: official Legislative Department text of Articles 1-4.
 - Judgment control: *In Re Berubari Union* (1960), the Supreme Court's 1969 boundary-settlement distinction, and official *In Re Article 370*, 2023 INSC 1058.
-- Current control checked on 15 August 2026: MHA still identifies J&K as a UT with Legislature and Ladakh as a UT without Legislature. PIB officially recorded Ladakh Statehood/Sixth-Schedule demands in September 2025 and continuing safeguard dialogue in March 2026; neither release changed territorial status.
+- Current control checked through 28 August 2026: MHA still identifies J&K as a UT with Legislature and Ladakh as a UT without Legislature. PIB officially recorded Ladakh Statehood/Sixth-Schedule demands in September 2025 and continuing safeguard dialogue in March 2026; neither release changed territorial status.
 - PYQ control: the local official 2025 Prelims Set A paper and official key directly verify Q52 and answer **C (all three)**. The solved Mains PYQs are neutral renderings from the audited routing ledger: **2018 GS-I Q12** and **2022 GS-I Q11**.
 - Practice counts: 3 relevant solved PYQs; 28 original hard MCQs; 8 remedials; 6 original solved Mains questions.
 - Visual count: 12 original compact PNGs. All are schematics, not legal maps.
@@ -142,7 +142,7 @@ cover_image: "../../../notes/Polity/assets/05_Union-and-Territory/01_territorial
 
 [FACT] That is why different kinds of legal instruments change the same schedule. Article 3 read with Article 4 changes it for internal reorganisation; the Ninth Amendment changed it for Berubari-related cession; the 100th Amendment changed it for the India-Bangladesh Land Boundary Agreement; the 2019 and 2020 laws changed it for the J&K-Ladakh split and the DNH-Daman and Diu merger.
 
-[FACT] As of 15 Aug 2026, the operational constitutional count is 28 States and 8 Union Territories.
+[FACT] As of 28 Aug 2026, the operational constitutional count is 28 States and 8 Union Territories.
 
 [ANALYSIS] The schedule's exam value is twofold: it anchors territorial facts, and it reminds you that territorial questions are constitutional-structural, not merely map-trivia questions.
 
@@ -306,7 +306,7 @@ cover_image: "../../../notes/Polity/assets/05_Union-and-Territory/01_territorial
 
 [FACT] Justice Sanjiv Khanna's concurrence stressed that State-to-UT conversion has grave federal consequences and must rest on strong grounds and strict Article 3 compliance.
 
-[CURRENT STATUS] The MHA page checked on 15 August 2026 still described J&K as a UT with Legislature and Ladakh as a UT without Legislature. **J&K Statehood had not been legally restored.**
+[CURRENT STATUS] The MHA page checked through 28 August 2026 still described J&K as a UT with Legislature and Ladakh as a UT without Legislature. **J&K Statehood had not been legally restored.**
 
 [LIMIT] Do not use the 2023 judgment as a general final approval of every whole-State-to-UT conversion. The case settles parts of the 2019 arrangement, but not every future State-to-UT downgrading controversy.
 
@@ -351,12 +351,12 @@ cover_image: "../../../notes/Polity/assets/05_Union-and-Territory/01_territorial
 
 [LIMIT] Current debates on Statehood, Sixth Schedule demands, delimitation or smaller-State proposals must not be treated as law until backed by enacted text or official notification.
 
-## 16. Current-status dashboard as of 15 Aug 2026
+## 16. Current-status dashboard as of 28 Aug 2026
 
 | Current issue | Safe status statement | Source discipline |
 |---|---|---|
 | Number of States/UTs | India has 28 States and 8 UTs after the 2020 merger of Dadra and Nagar Haveli with Daman and Diu | First Schedule/reorganisation chronology + MHA current description |
-| J&K Statehood | Not restored as of 15 Aug 2026; J&K remains a UT with Legislature | MHA J&K and Ladakh Affairs page, last updated 5 Mar 2026 and checked 15 Aug 2026 |
+| J&K Statehood | Not restored as of 28 Aug 2026; J&K remains a UT with Legislature | MHA status description plus Gazette search, checked 28 Aug 2026 |
 | Ladakh | UT without Legislature; Statehood/Sixth-Schedule demands remain proposals under dialogue | PIB releases dated 24 Sep 2025 and 14 Mar 2026 |
 | New reorganisation | No enacted status change used in this package after the 2020 UT merger | Proposals and demands are not treated as law |
 
@@ -391,7 +391,7 @@ cover_image: "../../../notes/Polity/assets/05_Union-and-Territory/01_territorial
 
 **E. West Bengal is about constitutional status, not map procedure.** Use it to show that States are not classical sovereigns; do not use it to answer the cession route or Article 3 procedure.
 
-**F. J&K current status must be written in two layers.** Layer one is operative law: UT with Legislature. Layer two is political-constitutional promise and judicial direction: Statehood restoration at the earliest, still legally pending on the 15 Aug 2026 check.
+**F. J&K current status must be written in two layers.** Layer one is operative law: UT with Legislature. Layer two is political-constitutional promise and judicial direction: Statehood restoration at the earliest, still legally pending on the 28 Aug 2026 check.
 
 **G. The whole-State-to-UT issue remains qualified.** The 2023 judgment upheld carving out Ladakh but did not finally decide the broader conversion issue because of the restoration assurance.
 
@@ -432,17 +432,23 @@ How many of the above pairs are correctly matched?
 
 **Why this earns marks:** it follows the official key and explains why the ordinary Statehood Act and the accompanying constitutional amendment are not mutually exclusive.
 
+**How to improve this answer:** Reproduce the three-pair table mentally, separate Nagaland’s Statehood Act from the accompanying Thirteenth Amendment, and explicitly defer to the official key instead of treating the constitutional amendment as the sole Statehood instrument.
+
 ### PYQ 2. Mains 2018, GS Paper I, Question 12 - audited routing-ledger neutral rendering
 
-**Question:** Discuss whether the formation of new States in recent times has been beneficial for India's economy. (15 marks, 250 words)
+**Question:** Discuss whether formation of new states in recent times is beneficial or not for the economy of India. (15 marks, 250 words)
 
 **Model solution.** [CLAIM] State creation changes the scale and incentives of government, but economic gains depend on capacity and transition quality rather than size alone. [EVIDENCE] Chhattisgarh brought government closer to a large tribal-mineral region; Uttarakhand could focus on mountain infrastructure and tourism; Jharkhand gained a distinct budgetary platform; Telangana obtained a separate policy arena in 2014. [ANALYSIS] These changes can improve problem recognition, policy focus and accountability. [QUALIFICATION] Statehood did not automatically cure Jharkhand's institutional instability; Uttarakhand faces ecological costs; Andhra-Telangana division generated capital, asset, institution and river-water disputes. New capitals and cadres impose fixed costs, while weak revenue capacity can deepen grant dependence. [VERDICT] New States are economically beneficial when they correct administrative neglect and are backed by viable finances, accountable institutions and negotiated asset division. **Why this earns marks:** it answers the economic test, uses four named examples, links evidence to mechanisms and qualifies every gain.
 
+**How to improve this answer:** Use the exact economic demand, organise gains and costs under capacity, fiscal viability and transition, and add one measurable indicator—per-capita income, own-tax capacity or human development—rather than assuming that smaller size itself proves benefit.
+
 ### PYQ 3. Mains 2022, GS Paper I, Question 11 - audited routing-ledger neutral rendering
 
-**Question:** The political and administrative reorganisation of States and territories has been a continuous process since the mid-nineteenth century. Discuss with examples. (15 marks, 250 words)
+**Question:** The political and administrative reorganization of states and territories has been a continuous ongoing process since the mid-nineteenth century. Discuss with examples. (15 marks, 250 words)
 
 **Model solution.** [CLAIM] India's map is a continuing process shaped by colonial administration, integration, linguistic accommodation and later identity-development claims. [EVIDENCE] Colonial Bengal's partition and reunification showed the political effects of administrative boundaries. After 1947, accession and merger integrated princely States; Hyderabad, Junagadh and J&K illustrate distinct routes. [EVIDENCE] The 1950 Part A/B/C/D map was transitional. Andhra in 1953 forced language onto the agenda; Fazl Ali's qualified principle produced the 1956 Act and Seventh Amendment. [EVIDENCE] Maharashtra-Gujarat, Nagaland, Haryana, the northeast changes, the three States of 2000, Telangana and the 2019 J&K-Ladakh reorganisation show motives ranging from language and ethnicity to peace, administration, development and security. [VERDICT] Article 3 keeps the map flexible while Article 1 keeps the Union indestructible; legitimacy nevertheless requires consultation, viability and minority safeguards. **Why this earns marks:** it follows chronology, uses named commissions/examples and converts narrative into constitutional explanation.
+
+**How to improve this answer:** Make the mid-nineteenth-century starting point explicit with the 1905 Bengal partition or another colonial example, then divide the answer into colonial, integration, linguistic and post-1956 phases so “continuous ongoing process” is demonstrated rather than merely asserted.
 
 ### PYQ scope note
 The 2025 GS-II question on detailed J&K Assembly powers belongs to Polity 25 - Union Territories and is intentionally not duplicated here.
@@ -641,7 +647,7 @@ The 2025 GS-II question on detailed J&K Assembly powers belongs to Polity 25 - U
 
 **Answer: D.** Sikkim's path is constitutionally distinctive and therefore high-yield.
 
-#### Q17. The present practical count of Union Territories as of 15 Aug 2026 is
+#### Q17. The present practical count of Union Territories as of 28 Aug 2026 is
 
 - A. 8
 
@@ -871,7 +877,7 @@ The 2025 GS-II question on detailed J&K Assembly powers belongs to Polity 25 - U
 
 **Answer: C.** Official-key control overrides an incomplete one-statute elimination.
 
-#### Q36. Which is the best present-tense statement on J&K as of 15 Aug 2026?
+#### Q36. Which is the best present-tense statement on J&K as of 28 Aug 2026?
 
 - A. J&K has already regained full Statehood
 
@@ -889,25 +895,37 @@ The 2025 GS-II question on detailed J&K Assembly powers belongs to Polity 25 - U
 
 **Model answer.** [CLAIM] The two expressions are related but not identical. [EVIDENCE] Article 1 and standard polity doctrine treat the Union of India as the States taken as federal members, whereas the Territory of India includes the territories of the States, the Union Territories, and such territories as may be acquired. [MECHANISM] This matters because States share constitutionally distributed powers with the Union, while Union Territories are centrally administered units under Articles 239-241 and acquired territories may await internal constitutional placement. [ANALYSIS] The distinction explains why a UT belongs to India without becoming a full federal partner, and why the First Schedule can list both States and UTs while still preserving their unequal constitutional status. [LIMIT] The distinction is structural, not emotional; one should not collapse sovereignty with federal membership. [VERDICT] The Union of India is the federation's membership core; the Territory of India is the wider constitutional space over which Indian sovereignty extends. **Why this earns marks:** it defines both expressions, links them to operative constitutional consequences, and avoids the common synonym trap.
 
+**How to improve this answer:** Add a two-column Union/Territory distinction and one First-Schedule consequence; do not drift into detailed UT administration, which belongs to the companion topic.
+
 ### Original 10-marker 2: Distinguish cession of Indian territory from settlement of a boundary dispute.
 
 **Model answer.** [CLAIM] The Constitution treats cession and boundary settlement differently because only the former parts with accepted sovereign territory. [EVIDENCE] *Berubari Union* (1960) held that ceding accepted Indian territory to a foreign State cannot be done under Article 3 and requires constitutional amendment under Article 368. [MECHANISM] Cession changes the sovereign content of the Constitution's territorial ledger. By contrast, the Supreme Court's later 1969 ruling held that where the issue is ascertainment or implementation of an existing disputed boundary, and not transfer of accepted Indian territory, executive action need not be preceded by Article 368. [ANALYSIS] The test is not whether another country is involved, but whether India is surrendering what it accepts as its own territory. [LIMIT] A boundary-settlement label cannot disguise actual cession. [VERDICT] Cession changes sovereignty and needs amendment; boundary settlement clarifies or implements an existing line and need not. **Why this earns marks:** it identifies the controlling test, uses the safely verified case/principle and converts the distinction into a usable constitutional rule.
+
+**How to improve this answer:** State the controlling factual test—whether India accepts the land as its territory—then name Berubari, Maganbhai and the 100th Amendment in sequence without implying that the Ninth Amendment completed every proposed transfer.
 
 ### Original 15-marker 1: 'India is an indestructible Union of destructible States.' Examine with special reference to Article 3.
 
 **Model answer.** [CLAIM] The phrase captures the asymmetry built into Indian federalism: the Union's continuity is entrenched, but State boundaries are not. [EVIDENCE] Article 1 names India a Union of States, while Article 3 empowers Parliament to form new States, increase or diminish their area, alter boundaries and alter names. [MECHANISM] An Article 3 bill requires the President's prior recommendation and reference to the affected State legislature for views, but those views are non-binding. Article 4 then keeps the reorganisation law outside Article 368, allowing ordinary-majority change. [ANALYSIS] This makes the Indian federation unlike a compact federation such as the United States, where State consent is structurally stronger. Yet the same flexibility enabled linguistic reorganisation, small-State creation and administrative adaptation without constitutional deadlock. [EVIDENCE] Andhra (1953), the 1956 settlement, and later creations such as Chhattisgarh, Jharkhand and Telangana show the practical utility of this power. [LIMIT] The design can create a democratic-consent deficit when major territorial change proceeds over sharp regional opposition. [VERDICT] India is indestructible because no State can claim a right to continued boundaries or secession; the States are destructible only in the constitutional sense that Parliament may reorganise them, not in the sense of lawless central arbitrariness. **Why this earns marks:** it ties the famous formula to the exact procedural mechanics of Article 3 and balances national flexibility with federal criticism.
 
+**How to improve this answer:** Quote the Article 3 operations accurately, mention the narrow UT/proviso distinction, and replace a generic US comparison with a short qualified contrast tied directly to State consent.
+
 ### Original 15-marker 2: Demands for smaller States should be decided through governance criteria, not identity alone. Discuss.
 
-**Model answer.** [CLAIM] Identity can establish democratic urgency, but it cannot by itself prove that a new State will govern better. [EVIDENCE] Uttarakhand, Chhattisgarh and Jharkhand were created in 2000 to address distinct regional geographies and developmental claims; Telangana followed in 2014 after sustained regional mobilisation. [ANALYSIS] Smaller units may improve administrative access, policy focus and accountability. [QUALIFICATION] Statehood also creates new capital, cadre and institutional costs; weak revenue bases can deepen grant dependence; water, power, debt and assets can generate inter-State disputes; and a new regional majority may create a new minority. Jharkhand's institutional instability and Andhra-Telangana transition disputes show that Statehood is not a self-executing development policy. [CURRENT EVIDENCE] J&K restoration and Ladakh Statehood demands further require federal, security and minority safeguards; neither demand had changed legal status on 15 Aug 2026. [VERDICT] Parliament should use Article 3 after transparent viability studies, broad consultation and negotiated transition, treating Statehood as a governance instrument rather than a reward for mobilisation. **Why this earns marks:** it uses four named examples, connects each claim to a mechanism, includes present debates and supplies operational decision criteria.
+**Model answer.** [CLAIM] Identity can establish democratic urgency, but it cannot by itself prove that a new State will govern better. [EVIDENCE] Uttarakhand, Chhattisgarh and Jharkhand were created in 2000 to address distinct regional geographies and developmental claims; Telangana followed in 2014 after sustained regional mobilisation. [ANALYSIS] Smaller units may improve administrative access, policy focus and accountability. [QUALIFICATION] Statehood also creates new capital, cadre and institutional costs; weak revenue bases can deepen grant dependence; water, power, debt and assets can generate inter-State disputes; and a new regional majority may create a new minority. Jharkhand's institutional instability and Andhra-Telangana transition disputes show that Statehood is not a self-executing development policy. [CURRENT EVIDENCE] J&K restoration and Ladakh Statehood demands further require federal, security and minority safeguards; neither demand had changed legal status on 28 Aug 2026. [VERDICT] Parliament should use Article 3 after transparent viability studies, broad consultation and negotiated transition, treating Statehood as a governance instrument rather than a reward for mobilisation. **Why this earns marks:** it uses four named examples, connects each claim to a mechanism, includes present debates and supplies operational decision criteria.
+
+**How to improve this answer:** Convert the criteria into an executable decision matrix and distinguish ex-ante viability from ex-post outcomes; one counterexample should show why identity or smallness alone is insufficient.
 
 ### Original 20-marker 1: Linguistic reorganisation strengthened rather than weakened the Indian Union. Critically examine.
 
 **Model answer.** [CLAIM] Linguistic reorganisation ultimately strengthened the Indian Union because it channelled identity into constitutional politics rather than leaving it outside the system, though not without centralising tensions and new sub-regional claims. [EVIDENCE] The initial hesitation of the Dhar Commission and the JVP Committee reflected a real fear that language-based States might embolden fragmentation. The creation of Andhra in 1953 after Potti Sriramulu's death showed that these demands could not simply be suppressed. [EVIDENCE] The Fazl Ali / States Reorganisation Commission accepted language as a major organising principle but rejected one language-one State and balanced it with viability, unity and welfare. The resulting States Reorganisation Act, 1956 and Seventh Amendment restructured India without dismantling its constitutional framework. [MECHANISM] By aligning administration with language in many cases, the Union reduced alienation, improved representational legitimacy and absorbed regional mobilisation into parliamentary and electoral channels. [ANALYSIS] Later developments - Nagaland, Meghalaya, Mizoram, Goa, Telangana and smaller-State formations in 2000 - show that Article 3 remained an accommodation device, not merely a linguistic tool. [LIMIT] Reorganisation did not end regionalism; it often displaced it into fresh internal claims for smaller units, capitals or autonomous protections. Nor can every present-day demand be justified by language alone. [VERDICT] Linguistic reorganisation did not dissolve the Union; it made the Union governable by recognising identity inside the Constitution. Its success, however, depended on combining language with viability, asymmetry and central constitutional control. **Why this earns marks:** it uses chronology as argument, gives both the fear and the outcome, and converts the 1956 settlement into a broader federalism verdict.
 
+**How to improve this answer:** Use a chronology-led argument with a separate criticism paragraph on sub-regionalism, capitals and minorities, then return to the SRC’s multi-factor test for a genuinely critical verdict.
+
 ### Original 20-marker 2: Does Article 3 reconcile national unity with democratic consent, or does it privilege unity at the expense of federal trust? Critically examine.
 
 **Model answer.** [CLAIM] Article 3 reconciles unity and democracy only partially: it was designed to privilege the Union's continuity, and democratic consent enters the structure as consultation rather than as a State veto. [EVIDENCE] The President must recommend the bill and refer it to the affected State legislature for views, but Parliament is not bound by those views. Article 4 then keeps the resulting law outside Article 368, reinforcing flexibility. [MECHANISM] This makes Article 3 a nation-preserving safety valve. The Union can respond to secessionary pressures, viability problems, linguistic claims and administrative demands without constitutional paralysis. Andhra, the 1956 settlement, State creation in 2000 and Telangana in 2014 are evidence of this accommodative capacity. [ANALYSIS] Yet the same structure can weaken trust. If an affected State's legislature can only advise and not co-decide, consultation may appear symbolic in politically high-stakes reorganisations. The conversion of a former State into Union Territories in 2019 intensified this anxiety. [EVIDENCE] State of West Bengal v Union of India reinforces the strong-Centre reading, while the continuing democratic force of federalism is better captured by the political need for negotiated legitimacy and, in the broader constitutional order, by Bommai's basic-feature floor. [LIMIT] A compact-federation standard is not fully appropriate for India, whose Constitution deliberately rejected a treaty-union model. [VERDICT] Article 3 does not produce symmetrical federal consent; it privileges unity structurally, but can still generate democratic legitimacy when used through negotiation, transparency and accommodation rather than through bare majoritarian power. **Why this earns marks:** it neither romanticises consent nor demonises unity, and it uses the text, history and case law to produce a graded verdict rather than a slogan.
+
+**How to improve this answer:** Separate constitutional validity, democratic legitimacy and political prudence; use the 2023 Article 370 judgment precisely—Ladakh upheld, whole-State-to-UT issue not finally decided—and end with procedural reforms rather than a slogan.
 
 ## Final consolidated register notes - Union and Territory
 
@@ -965,8 +983,8 @@ ARTICLE 3 = INTERNAL READJUSTMENT OF EXISTING STATES / TERRITORIES
 - No Article 368 deeming and no State ratification requirement.
 
 ### Integration of princely States
-- 552 princely States within India's geographical boundaries; 549 joined.
-- Hyderabad -> police action; Junagadh/Junagarh -> referendum; J&K -> Instrument of Accession.
+- Textbook convention: 552 princely States within India's geographical boundaries; 549 joined. Historical totals vary by counting date and category.
+- Hyderabad -> police action; Junagadh -> plebiscite; J&K -> Instrument of Accession.
 - Patel and V.P. Menon are central figures.
 - Integration established one sovereignty; reorganisation rationalised administration.
 
@@ -1089,7 +1107,7 @@ ACKNOWLEDGED INDIAN TERRITORY SURRENDERED?
 - Sikkim: associate 1974, State 1975.
 - Cession needs Article 368; genuine boundary settlement may not.
 - Current count = 28 States, 8 UTs.
-- J&K Statehood was not legally restored on the 15 Aug 2026 check.
+- J&K Statehood was not legally restored on the 28 Aug 2026 check.
 
 ### Four answer spines
 

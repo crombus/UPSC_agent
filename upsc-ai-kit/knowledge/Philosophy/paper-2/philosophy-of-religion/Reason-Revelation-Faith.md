@@ -4,6 +4,25 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The clause asks how rational warrant, divine disclosure, and existential trust cooperate or conflict. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns the **epistemic roles and relations of reason,
+revelation and faith**, their models of warrant, revelation-authentication,
+committed reception and Indian–Western comparison.
+
+| Owned here | Boundary |
+|---|---|
+| reason as discovery, criticism, interpretation and regulation | detailed arguments for God's existence remain with [Proofs for God](./Proofs-for-God.md) |
+| revelation as proposition, event, self-disclosure or general/special disclosure | phenomenology and object of religious experience remain with [Religious Experience](./Religious-Experience.md) |
+| faith as assent, trust, commitment and way of life | full religious-language meaning and falsification debates remain with [Religious Language](./Religious-Language.md) |
+| competing revelations as an authentication/diversity defeater | complete pluralist theories and absolute-truth debate remain with [Religious Pluralism](./Religious-Pluralism.md) |
+| miracles and testimony only as support for revelation-claims | miracle metaphysics and empirical history are not allowed to replace epistemic analysis |
+| Indian testimony, scripture, reason and verification | complete Mīmāṃsā, Nyāya, Vedānta and Buddhist epistemologies remain with Paper I owners |
+
+⚠️ Faith is not simply belief without evidence; revelation is not any intense
+experience; and reason includes probabilistic, interpretive, critical and
+regulative activity, not only deductive proof.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -17,11 +36,32 @@
         │                              ┌─── Propositional (truths revealed) ──┐
    FOUR STANCES:                       └─── Non-propositional (God's acts/    ┘
    1. Reason > Faith (rationalism)             encounter; Hick)
-   2. Faith > Reason (fideism — Kierkegaard's LEAP)
+   2. Faith-priority / fideism (Kierkegaard: commitment under objective uncertainty)
    3. Faith seeking understanding (Augustine/Anselm — harmony)
    4. Reason & Revelation as two paths (Aquinas — natural + revealed theology)
 ```
 > 🔑 **Mnemonic — "RRF: Reason argues, Revelation discloses, Faith trusts."** The four stances range from *reason-first* (rationalism) to *faith-first* (fideism), with Aquinas' **two-storey harmony** in between.
+
+## 0A. THREE CONCEPTS, THREE EPISTEMIC JOBS ⚠️
+
+| Concept | Core role | Forms | Characteristic danger |
+|---|---|---|---|
+| Reason | discover, infer, test coherence, interpret and regulate belief | deductive, inductive/abductive, critical and hermeneutic | rationalism that permits only what reason can independently prove |
+| Revelation | alleged divine self-disclosure unavailable or insecure through unaided reason | general/special; propositional/non-propositional | circular authentication, rival revelations and projection |
+| Faith | receive, assent, trust, commit and inhabit a religious way of life | belief-that, belief-in, trust, hope and fidelity | credulity, voluntarism, fanaticism or immunity from correction |
+
+**Regulative versus constitutive reason:** reason can veto contradiction,
+compare evidence, discipline interpretation and identify defeaters without
+being the source of all revealed content. This is a critical-rational model:
+faith remains revisable and answerable to objections even when it is not
+deduced from neutral premises.
+
+**General versus special revelation:** general revelation is disclosure
+allegedly available through nature, conscience or universal human history;
+special revelation is tied to particular events, persons, scriptures or
+communities. This distinction concerns **scope and medium**. Propositional
+versus non-propositional revelation instead concerns **what revelation is**:
+truth-content or divine self-disclosure/event.
 
 ---
 
@@ -40,12 +80,27 @@
   - **Non-propositional view (Hick):** revelation is God's **acts/self-presence** in history & experience, humanly *interpreted* — not a set of dictated propositions.
 - **Epistemic justification of revelation (2024 PYQ):** how do we validate a revelation-claim? — internal coherence, moral fruits, the **religious experience** of the recipient, communal testimony, congruence with reason. **Problem:** competing revelations across religions; circularity (using the revelation to validate itself). ⚠️
 
+### Authority, tradition and authentication
+
+| Test | Question | Limit |
+|---|---|---|
+| Source/testimony | Is the witness competent, sincere, suitably placed and independently supported? | testimony can transmit error as well as truth |
+| Coherence | Does the claim contradict itself or secure knowledge? | coherence does not establish divine origin |
+| Moral-spiritual fruit | Does reception produce truthfulness, compassion and transformation? | useful effects can occur under false beliefs |
+| Tradition/community | Has interpretation been publicly transmitted, criticised and corrected? | communal endurance may preserve power or bias |
+| Experience and miracle-sign | Is there an event resistant to ordinary explanation and appropriately connected to the message? | unusual occurrence does not by itself authenticate one interpretation |
+| Cross-revelation comparison | How does the claim answer rival disclosures and the diversity defeater? | criteria are rarely neutral between traditions |
+
+⚠️ Scripture requires interpretation; authority does not eliminate
+hermeneutics. Using a scripture's own claim to prove its unique authority is
+circular unless independent testimony, coherence or other defeasible support is supplied.
+
 ---
 
 ## 3. FAITH ✅
 - **Definition:** faith = **trust in and commitment to** God/the transcendent, involving assent that goes **beyond** conclusive proof (but not necessarily against reason).
 - **Aquinas — faith as "intellectual assent" (2025 PYQ):** faith is an act of the **intellect assenting to revealed truth, commanded by the will** (moved by grace). It is a **mean** between *knowledge* (which has proof/sight) and *opinion* (which has fear of error): faith has the **firmness of knowledge without the vision**. This **reconciles reason & faith** — reason establishes the "preambles" (God exists), faith accepts the "mysteries" (Trinity) that exceed but don't contradict reason. ✅
-- **Kierkegaard — faith as the LEAP:** faith is a **passionate, subjective commitment** in "objective uncertainty"; the **leap of faith** transcends reason (Abraham's "teleological suspension of the ethical"). **Fideism** — faith needs no rational proof and may even require its "crucifixion". ✅
+- **Kierkegaard — faith as committed appropriation:** faith is a **passionate, subjective commitment** under "objective uncertainty"; Abraham dramatises the paradox and the teleological suspension of the ethical. Kierkegaard attacks the claim that an objective philosophical system can replace existential decision; he should not be flattened into the view that contradiction, irresponsibility or every evidence-free belief is religiously licensed. ✅
 - **Faith indispensable for revelation? (2022 PYQ):** revelation must be **received** — it becomes revelation *for someone* only through the **faith** that recognises & accepts it; without faith, an event is just an event. So faith is a **precondition of revelation's efficacy** (Hick's "experiencing-as"). ⚠️
 
 ---
@@ -54,11 +109,23 @@
 | Stance | Relation | Thinker | One-line |
 |---|---|---|---|
 | Rationalism | reason judges faith | Clifford, Locke | believe only on evidence |
-| Fideism | faith over/against reason | Kierkegaard, Tertullian | the leap; "credo quia absurdum" |
+| Faith-priority / fideism | faith cannot be generated by proof | Kierkegaard; later extreme fideist slogans | commitment under uncertainty; reason cannot replace appropriation |
 | Faith seeking understanding | harmony, faith first | Augustine, Anselm | *"credo ut intelligam"* |
 | Two-source harmony | reason + revelation, distinct domains | Aquinas | natural + revealed theology |
 
 > 🔑 **Aquinas is the balanced default:** reason & revelation **cannot conflict** (both from God); reason proves the *preambles*, revelation supplies the *mysteries*; faith is intellectual assent under grace. Deploy this for any "reconcile reason & faith" question.
+
+### Pragmatic and permissive proposals — bounded use
+
+- **Pascal's wager** gives prudential reasons to choose a religious commitment
+  under uncertainty; it does not provide evidence that the belief is true and
+  faces the many-gods and authenticity objections.
+- **William James's will-to-believe** permits commitment where an option is
+  living, forced and momentous and evidence cannot decide in time. It does not
+  license belief at will in ordinary avoidable-evidence cases.
+- **Critical rationalism** allows committed beliefs while keeping them open to
+  criticism and defeaters. It is a middle position between proof-only
+  evidentialism and immunity-producing fideism.
 
 ---
 
@@ -100,6 +167,17 @@
 ---
 
 ## 7. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️
+
+### 7.0 — "What is instrumental to self-revelation: Faith or Reason?" (2019, 10m)
+```text
+Define : self-revelation = divine self-disclosure received by a subject.
+Choose : faith is primary for recognition and appropriation; reason is regulative.
+Argue : non-propositional disclosure remains religiously ambiguous until received
+        in trust and commitment; reason tests coherence, testimony and moral fruit.
+Object : propositional content can be objectively true before anyone accepts it.
+Reply  : concede objective content, but distinguish occurrence from revelation-for-a-person.
+Verdict: faith receives; reason disciplines. Faith is more instrumental, not self-validating.
+```
 
 ### 7.1 — "How does Aquinas' faith-as-intellectual-assent reconcile Reason and Faith?" (2025, 10m)
 ```
@@ -451,3 +529,12 @@ Indian–Western comparison → defended synthesis.
 - Wilfred Cantwell Smith, *Faith and Belief*; Paul Tillich, *Dynamics of Faith*.
 - John Hick, *Philosophy of Religion*.
 - Mīmāṃsā, Nyāya and Vedānta discussions in S. C. Chatterjee & D. M. Datta and C. D. Sharma.
+- Local searchable John Hick, *Philosophy of Religion*, print pp. 56–64
+  (PDF pp. 67–75), for propositional revelation, voluntarist faith and
+  ultimate concern.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, especially
+  “Religious Epistemology” from print p. 245, “Miracles” from p. 304 and
+  “Faith and Revelation” from p. 323 (approximately PDF pp. 257–357).
+- Local searchable Chatterjee–Datta PDF, especially PDF pp. 245–249 for
+  Nyāya testimony and pp. 394–396 for Mīmāṃsā intrinsic validity; Paper I
+  owners remain authoritative for full school doctrine.

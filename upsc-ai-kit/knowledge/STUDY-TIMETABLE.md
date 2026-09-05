@@ -21,8 +21,8 @@ The syllabus architecture is complete and no official clause is unowned. GS/CSAT
 
 | Time | Work | Exact output |
 |---|---|---|
-| 06:30-07:30 | Newspaper | One page of syllabus-tagged notes: issue, fact, static link, Prelims trap, Mains use |
-| 07:30-08:00 | PIB/MEA/current update | Maximum 3 useful items; no indiscriminate clipping |
+| 06:30-07:15 | Newspaper | One page of syllabus-tagged notes: issue, fact, static link, Prelims trap, Mains use |
+| 07:15-08:00 | Current-affairs system | Monday-Thursday: Vajiram Recitals; Friday: official-source verification; Saturday: MCQs, Mains examples and backlog |
 | 09:00-11:00 | Static Topic A | Core file + active recall + routed PYQs |
 | 11:15-12:45 | Static Topic B | Core; Advanced only after Core is secure |
 | 14:00-15:30 | Philosophy Optional | Doctrine/argument/comparison/PYQ according to optional track below |
@@ -95,19 +95,38 @@ python tools\build_study_index.py
 | Mains | One argument/example |
 | Action | Add to existing topic PDF, not a disconnected scrapbook |
 
-## 6. Magazine and monthly-source timetable
+### Current-affairs source rule
 
-| Monthly slot | Source | What to extract |
+- Use **Vajiram & Ravi The Recitals** as the single base monthly compilation.
+- Do not read another complete monthly magazine alongside it.
+- Verify only important figures, laws, schemes and statements that will be quoted in an answer.
+- Use official supplements selectively:
+  - **PIB:** major schemes, Cabinet decisions and reports;
+  - **PRS:** Bills, Acts and parliamentary developments;
+  - **RBI, Economic Survey and Union Budget:** economy and official data;
+  - **MEA:** bilateral relations, agreements and international groupings;
+  - **MoEFCC/Down To Earth:** environment gaps and case studies;
+  - **ISRO/DST:** important science and technology developments.
+- Yojana and Kurukshetra are theme supplements, not compulsory cover-to-cover monthly reading.
+- Recitals provides no practice layer. Convert it into weekly MCQs and Mains material.
+
+## 6. Vajiram Recitals and supplementary-source timetable
+
+| Slot | Source / task | Exact output |
 |---|---|---|
-| First Sunday | Yojana | Theme framework, 3 government examples, 2 challenges, 2 reforms |
-| Second Sunday | Kurukshetra | Rural development, agriculture, Panchayats, SHGs and livelihoods |
-| Third Sunday | Down To Earth | Environment, climate, agriculture, water and health case studies |
-| Fourth Sunday | Vision monthly/current-affairs compilation | Consolidate missed events; map each item to a static owner |
-| Last working day | PIB monthly review | Schemes, ministry, target group, instrument and implementation status |
-| Last working day | MEA monthly review | Visits, agreements, groupings and India's stated position |
+| Monday-Thursday | Vajiram Recitals, approximately 6-8 pages/day | Finish 25-30 pages/week; tag each useful item as Prelims, Mains or both |
+| Friday | PIB/PRS/RBI/MEA/MoEFCC/ISRO verification | Verify only answer-worthy figures, legal provisions, scheme design and official positions |
+| Saturday | Practice conversion | 5-8 MCQs, two Mains question outlines and one diagram/table from the week's Recitals reading |
+| Every Sunday | Weekly CA consolidation | Merge useful material into subject-wise notes; remove duplicates and retain the source month/date |
+| Fourth Sunday | Monthly Recitals closure | Complete the issue, revise Editor's Cut items, update maps/places and create a one-page monthly recall sheet |
+| Last working day | Publication-lag scan | Cover developments after the magazine cut-off through PIB, PRS, MEA and one reliable newspaper |
 | Budget/Survey season | Union Budget + Economic Survey | Concepts, evidence, policy direction and Mains-ready examples |
+| Final 2-3 months before Prelims | Vision PT365 | Revision and gap-check only; do not restart full monthly-magazine reading |
+| After Prelims | Vision Mains365, selectively | Add analytical dimensions, examples and answer-writing value to weak GS themes |
+| Weak-theme requirement only | Yojana, Kurukshetra or Down To Earth | Read only the relevant theme/article; extract examples, challenges and reforms |
 
-Do not read every page. Cap magazine work at **four hours per week** and extract only syllabus-linked material.
+Cap Recitals and supplementary work at **four hours per week**. Do not create a separate
+month-wise scrapbook: merge every retained item into its static subject/topic owner.
 
 ## 7. Weekly Sunday control
 
@@ -116,7 +135,7 @@ Do not read every page. Cap magazine work at **four hours per week** and extract
 | 90 min | 50 topic-linked Prelims MCQs |
 | 60 min | Four GS Mains answers |
 | 45 min | Two Philosophy answers/outlines |
-| 60 min | Weekly current-affairs consolidation |
+| 60 min | Vajiram Recitals consolidation, official verification and publication-lag scan |
 | 60 min | Notes PDF update and index regeneration |
 | 45 min | Backlog and next-week planning |
 
@@ -181,7 +200,7 @@ Topic numbers refer to the linked rows in [`STUDY-INDEX.md`](STUDY-INDEX.md). Co
 | 36 | 19-25 Apr | Prelims revision 1: Ancient/Medieval/Culture + Geography | Two 100-question tests; maps and chronology |
 | 37 | 26 Apr-2 May | Prelims revision 1: Economy + Agriculture | Two 100-question tests; Budget/Survey concepts |
 | 38 | 3-9 May | Prelims revision 1: Environment + Science | Two 100-question tests; species/conventions/technology |
-| 39 | 10-16 May | Current affairs revision: last 12 months, mapped to static owners | Three CA-heavy tests; revise only errors and source-backed facts |
+| 39 | 10-16 May | Current affairs revision: Vajiram subject-wise notes + PT365 gap-check for the last 12 months | Three CA-heavy tests; revise only errors, maps, schemes and source-backed facts |
 | 40 | 17-23 May | Full-syllabus mixed revision + CSAT | Three GS mocks + two CSAT papers |
 | 41 | 24-30 May | Weak-area repair from test error logs | Two GS mocks; no new source; formula/map/fact sheets |
 | 42 | 31 May-6 Jun | Final calm revision window | Two early-week mocks only; then light revision, sleep and logistics |

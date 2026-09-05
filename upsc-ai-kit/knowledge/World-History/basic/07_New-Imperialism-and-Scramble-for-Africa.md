@@ -243,3 +243,29 @@ World History → `advanced/07_New-Imperialism-and-Scramble-for-Africa.md` for m
 World History → `basic/10_First-World-War-and-Aftermath.md` §8.6A for the mandate mechanism that redistributed German and Ottoman territory after 1919
 World History → `basic/18_Decolonization-of-Africa-and-Asia.md` for the reverse movement, the border legacy and the named post-independence cases (§7.6A)
 Modern-Indian-History → `basic/05_British-Territorial-Expansion.md` and `advanced/05_British-Territorial-Expansion.md` for the Indian colonial parallel without duplication
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** New Imperialism and the partition of Africa; industrial,
+  financial, strategic, prestige, technological and ideological drivers;
+  Berlin's recognition rules; conquest and colonial political economy;
+  African resistance, negotiation and adaptation; violence, labour,
+  authority and border consequences.
+- **Boundary:** Topic 04 owns industrialisation, Topic 09 owns imperial rivalry
+  inside the pre-1914 causal system, and Topic 18 owns decolonisation and the
+  post-1945 successor-state settlement. Topic 07 owns imperialism in Africa
+  and uses those owners only for bounded cause and legacy bridges.
+- **Date control:** Suez Canal (1869), limited European control in the 1870s,
+  British occupation of Egypt (1882), Berlin Conference
+  (15 November 1884-26 February 1885), Adwa (1896), Herero and Nama genocide
+  (1904-08), Maji Maji (1905-07) and the 1914 partition benchmark remain
+  distinct.
+- **Mechanism control:** technology and medicine supplied capability rather
+  than motive; Berlin standardised effective occupation but did not draw every
+  border or instantly create control; African societies were agents under
+  unequal power, and border inheritance is not a deterministic explanation
+  for every later conflict.
+- **Verified PYQ/current ownership, 2018-2025:** zero direct topic-only PYQs.
+  The official African Union Africa Day 2026 linkage is confined to the
+  continuing legacy of slavery, colonialism and reparatory justice; it does
+  not directly verify Berlin Conference history.

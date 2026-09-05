@@ -23,8 +23,8 @@
 ## Composition ✅
 | Point | Detail |
 |---|---|
-| ✅ Structure | **Chairperson + max 8 members**; **50% (i.e., up to 4) must be judicial members** |
-| ✅ Reservation | **50%** of members from **SC/ST/OBC/minorities/women** |
+| ✅ Structure | **Chairperson + max 8 members**; **50% must be judicial members** |
+| ✅ Reservation | **not less than 50%** of members from **SC/ST/OBC/minorities/women** |
 | ✅ Chair eligibility | Ex-CJI / ex-SC judge / eminent person of integrity & expertise (anti-corruption/PA/law/finance) |
 
 ## Selection ⭐
@@ -34,12 +34,11 @@ assists.
 
 ## Jurisdiction ⭐
 ✅ **PM** (with safeguards/exclusions — atomic energy, space, security, public order, foreign relations), **Ministers,
-MPs**, and **Groups A/B/C/D** officials. Also covers bodies **fully/partly govt-financed** (aided-only = excluded)
+MPs**, and **Groups A/B/C/D** officials. Also covers specified bodies **established, controlled or financed by government, subject to the statutory conditions**
 and **FCRA recipients > ₹10 lakh/yr**.
 - ✅ **Power of superintendence & direction over any agency incl. the CBI** for referred cases.
 - ✅ **Timelines:** preliminary enquiry 3 (+3) months; investigation 6 (+6); trial 1 (+1) yr via **special courts**.
-- ✅ Can **attach/confiscate** corruptly-acquired property; grants **sanction for prosecution**; PC-Act max
-  punishment **7 → 10 years**.
+- ✅ Can **attach/confiscate** corruptly-acquired property; grants **sanction for prosecution**.
 
 ## Drawbacks ✅ (UPSC favourite)
 ❌ **No suo-motu** power · emphasis on **form over substance** of complaint · **no anonymous** complaints ·
@@ -63,7 +62,7 @@ heavy punishment for false complaints (deterrent) · **7-year** limitation · no
 - ❌ Ombudsman originated in the UK → **Sweden (1809)**.
 - ❌ Every Lokayukta follows one Governor–Chief Justice–LoP panel and 5-year/65 rule →
   **state statutes differ**.
-- ❌ Judiciary is within Lokpal's purview → ARC/ Act kept **judiciary out** (⚠️ see 2025 HC-judge order below).
+- ❌ The 2025 stayed Lokpal order finally settled higher-judiciary coverage → **no**; the Supreme Court stay is interim and the merits remain unresolved.
 
 ## 📰 CA hooks (official/court-verified)
 - 📰 **Justice A.M. Khanwilkar** is the current **Lokpal Chairperson** (assumed office **10 Mar 2024**); the **first**

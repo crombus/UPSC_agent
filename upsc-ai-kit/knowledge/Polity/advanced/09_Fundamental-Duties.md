@@ -16,7 +16,8 @@ perhaps the only democratic constitution that does. Socialist states gave rights
 ✅ Placed in **Part IV-A**, a **single Article — 51A**.
 
 ## 1. Swaran Singh Committee (1976)
-✅ Set up by **Congress Party in 1976** — need felt during the **internal Emergency (1975–77)**.
+✅ Set up by the **Congress government in 1976** — need felt during the **internal Emergency
+(1975–77)**.
 Recommended a **separate chapter** on FDs. Govt accepted → enacted **42nd Amendment Act, 1976**,
 adding **Part IV-A / Art 51A** with **ten** duties.
 
@@ -88,13 +89,15 @@ enforcing some FDs:
 
 ---
 
-## 7. 📰 CURRENT AFFAIRS — Enforcement of FDs (2024–25)
-📰 **Durga Dutt v. Union of India** (SC, Sept 2024, bench of Justices Sanjiv Khanna, Sanjay Kumar,
-R. Mahadevan): petitioner sought to make FDs **legally enforceable** + a High-Powered Committee.
-- 📰 SC held it **cannot direct the legislature** to enact enforcement laws.
-- 📰 Enforcement must come through **"citizen consciousness and awareness,"** not coercion —
-  echoing the **Verma Committee's** emphasis on education & civic values (SC had, in 2003, advised
-  govt to implement Verma recommendations).
+## 7. 📰 CURRENT AFFAIRS — Enforcement of FDs
+📰 **Current status (28 August 2026):** **Durga Dutt v. Union of India**, W.P.(C) 67/2022,
+remains pending. The written Supreme Court order dated **11 September 2024** requested the Attorney
+General to file a synopsis of Central and State enactments effectuating facets of Article 51A and
+relisted the matter.
+- 📰 The written order did **not** make duties enforceable, dismiss the petition or announce a
+  final ratio against legislative directions.
+- 📰 Reported separation-of-powers observations at the hearing remain oral observations. The
+  stable awareness-and-education route is independently supported by the **Verma Committee**.
 - 📰 **Art 51A(g)** is repeatedly read with **Art 21** in environmental jurisprudence;
   the stable exam point is the rights-duties linkage, not an unverified one-line case label.
 
@@ -112,8 +115,8 @@ R. Mahadevan): petitioner sought to make FDs **legally enforceable** + a High-Po
 ## PYQ / CA anchors
 - Recurrent Prelims: exact 11-duty wording; which amendment (42nd vs 86th); Swaran Singh 8-vs-10;
   rejected recommendations (tax/penalty).
-- 📰 Recheck the Supreme Court docket before the exam for later orders; the verified
-  enforcement anchor here is *Durga Dutt* (Sept 2024).
+- 📰 Recheck the Supreme Court docket before the exam; the verified anchor is the pending
+  *Durga Dutt* docket and written order dated 11 September 2024.
 
 ## Mains angles
 - "Rights and duties are two wheels of the same chariot" — evaluate the constitutional status of FDs.

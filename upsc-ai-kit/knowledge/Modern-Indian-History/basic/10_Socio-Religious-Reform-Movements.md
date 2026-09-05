@@ -116,7 +116,7 @@
 ### 8.4 Bank A — Jotirao Phule (2025 GS-I owner requirement)
 
 - **Claim:** Phule reframed social reform as a question of power rather than of custom.
-- **Evidence:** ✅ A leader of the **Mali (gardener) caste**, he founded the **Satyashodhak Samaj (Truthseekers' Society) in 1873**, arguing that **Brahman domination and monopoly over power and opportunity lay at the root of the predicament of the Shudra and Ati-Shudra castes**. ✅ He inverted the Orientalist theory of Aryanisation, holding that Brahmans were the progeny of alien Aryans who had subjugated the land's original inhabitants, and sought to unite non-Brahman peasant castes and dalit groups in a common movement. ✅ In **1851 Phule and his wife started a girls' school at Poona**, and he was a pioneer of the **widow remarriage** movement in Maharashtra; his writings include *Gulamgiri*.
+- **Evidence:** ✅ A leader of the **Mali (gardener) caste**, he founded the **Satyashodhak Samaj (Truthseekers' Society) in 1873**, arguing that **Brahman domination and monopoly over power and opportunity lay at the root of the predicament of the Shudra and Ati-Shudra castes**. ✅ He inverted the Orientalist theory of Aryanisation, holding that Brahmans were the progeny of alien Aryans who had subjugated the land's original inhabitants, and sought to unite non-Brahman peasant castes and dalit groups in a common movement. ✅ Jyotirao and Savitribai opened the **Bhide Wada girls' school at Poona in 1848** and expanded their school work in the following years; he also supported widow remarriage, and his writings include *Gulamgiri*.
 - **Significance:** He converted a religious-cultural argument into a political theory of caste domination, and made education the practical instrument of emancipation — which is why his legacy runs forward into non-Brahman politics, Ambedkarite thought and the Self-Respect movement.
 - **Limit/caution:** ✅ In the 1880s–90s his focus shifted toward mobilising the **Kunbi peasantry**, contesting the Brahman-dominated **Poona Sarvajanik Sabha**'s claim to represent peasants; ⚠️ this brought a privileging of Maratha/Kshatriya identity that **Rosalind O'Hanlon** has argued came "at times perilously close to a simple Sanskritising claim". Use this as the balance paragraph — it prevents a hagiographic answer and shows awareness of the historiography.
 
@@ -145,7 +145,7 @@
 ### 8.7 Bank D — Gender: from reform to rights
 
 - **Claim:** The decisive shift was from reform undertaken for women to reform contested by women.
-- **Evidence:** ✅ The **Bethune School, founded in Calcutta in 1849**, was the first major fruit of the women's-education movement of the 1840s–50s; **Ishwar Chandra Vidyasagar, as Secretary to the Bethune School**, was among the pioneers of higher education for women, organised **thirty-five girls' schools** as a Government Inspector of Schools, and secured **twenty-five widow remarriages between 1855 and 1860**. ✅ Missionaries had taken the first steps in modern girls' education in **1821**, but with an emphasis on Christian religious instruction that limited their acceptance. ✅ In **1851 Jotiba Phule and his wife started a girls' school at Poona**. ⚠️ **Pandita Ramabai** foregrounded women's autonomy rather than male-led improvement.
+- **Evidence:** ✅ The **Bethune School, founded in Calcutta in 1849**, was the first major fruit of the women's-education movement of the 1840s–50s; **Ishwar Chandra Vidyasagar, as Secretary to the Bethune School**, was among the pioneers of higher education for women, organised **thirty-five girls' schools** as a Government Inspector of Schools, and secured **twenty-five widow remarriages between 1855 and 1860**. ✅ Missionaries had taken the first steps in modern girls' education in **1821**, but with an emphasis on Christian religious instruction that limited their acceptance. ✅ Jyotirao and Savitribai Phule opened the **Bhide Wada girls' school at Poona in 1848** and expanded their educational work thereafter. ⚠️ **Pandita Ramabai** foregrounded women's autonomy rather than male-led improvement.
 - **Significance:** Answers the routed "Bethune Female School secretary" demand directly (Vidyasagar) and gives a gender answer a real institutional spine instead of a list of statutes.
 - **Limit/caution:** ✅ Social resistance was severe — Bethune School struggled to secure students, pupils and even their parents faced abuse and boycott — so do not present institutional founding as social acceptance.
 
@@ -159,7 +159,7 @@
 | Evidence for "reform imposed ON women" | Evidence for "reform achieved BY women" |
 |---|---|
 | ✅ The founding campaigns were male-led: **Rammohan Roy** on sati, **Vidyasagar** on widow remarriage and girls' schooling, **Malabari's 1884 "Note"** on child marriage | ✅ **Rukhmabai** initiated nothing less than the decisive test case herself — she **refused to recognise conjugal rights** and **argued in the Bombay High Court that an unconsummated infant marriage was not binding on her as an adult**, forcing the question into public law |
-| ✅ The legislative instruments were framed and enacted by men and by a colonial state — sati (1829), widow remarriage (1856), age of consent (1860, 1891) | ✅ **Savitribai Phule** co-founded and ran the **Poona girls' school of 1851** with Jotiba Phule — teaching, not merely being taught, at a moment when girls' education was violently resisted |
+| ✅ The legislative instruments were framed and enacted by men and by a colonial state — sati (1829), widow remarriage (1856), age of consent (1860, 1891) | ✅ **Savitribai Phule** co-founded and ran the **Bhide Wada girls' school at Poona in 1848** with Jyotirao Phule — teaching, not merely being taught, at a moment when girls' education was violently resisted |
 | ✅ Reform was often argued in terms of the reputation of the community or of scriptural authority rather than of women's rights | ⚠️ **Pandita Ramabai** shifted the argument from improving women's condition to asserting women's **autonomy**, and directed her critique at upper-caste patriarchy itself rather than at particular customs |
 | ✅ Social resistance was directed at the reformers' institutions — the **Bethune School struggled to secure students**, and pupils and even parents faced abuse and boycott | ⚠️ Women's participation in the Swadeshi movement, and on a wide scale in Civil Disobedience, converted them from objects of reform into political actors (`basic/15`, `basic/22`) |
 
@@ -188,7 +188,7 @@
 - Bethune School = Calcutta, **1849**; Vidyasagar was its **Secretary**, not its founder.
 - Periyar left the Congress in **1925**; the 1927 Madras episode is a trigger, not the founding date of the movement.
 - Do not quote Macaulay-style phrases, Phule's or Periyar's words as verbatim quotations.
-- ⚠️ **Unresolved locally:** the routed demands on the *Vital-Vidhvansak* journal (2020 Prelims Q28) and the exact publication chronology of early Dalit journalism have **no supporting content in any source held in this repository**, and the 2020 official key is not held locally. Do not attribute the journal to any named publisher without verified external evidence; record it as an open factual gap. It is a single-fact Prelims point with no Mains consequence.
+- ⚠️ **Supplementary verification:** historical and exam-reference evidence checked on 4 September 2026 associates the first monthly journal aimed at untouchable readers, *Vital-Vidhvansak* (**1888**), with **Gopal Baba Walangkar**. Because the official 2020 key is not held locally, retain the answer as **INFERRED — NOT LOCALLY OFFICIALLY KEYED**, not as an official-key claim.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 
@@ -244,3 +244,19 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** reform, revival, anti-caste, women's and community-specific
+  movements through their ideas, organisations, social bases, methods, limits
+  and historiography.
+- **Boundary:** Topic 09 owns education/press policy and statutes as state
+  action; Topic 14 owns early Congress politics; Topic 17 owns later communal
+  representation. Topic 10 may name these only as bounded contexts or outcomes.
+- **Mechanism control:** reformist/revivalist is a comparison, not a moral
+  ranking; Aligarh and Deoband are distinct; law does not prove implementation;
+  elite-male narratives must be tested against feminist, Dalit-bahujan and
+  regional agency. The Phules' first Bhide Wada girls' school dates to 1848.
+- **Verified PYQ ownership, 2018-2026:** eleven direct routes. Supplementary
+  evidence identifies Gopal Baba Walangkar with *Vital-Vidhvansak* (1888), but
+  the answer remains **INFERRED — LOCAL OFFICIAL 2020 KEY UNAVAILABLE**.

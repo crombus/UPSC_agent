@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "validation_id": "easy-learning-fundamental-rights-2026-08-24",
+  "validated_at": "2026-08-24T11:40:46+05:30",
+  "status": "passed",
+  "scope": {
+    "subject": "Polity",
+    "topic": "Fundamental Rights only",
+    "source_record": "polity-07:learner-v2:g15",
+    "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md",
+    "paired_workbook": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Solved-Practice-Workbook_2026-08-23.md",
+    "source_checked_through": "2026-08-21",
+    "citizenship_revalidated": true
+  },
+  "deliverables": [
+    {
+      "path": "notes\\Easy-Learning\\Polity\\07-Fundamental-Rights\\Fundamental-Rights-Guided-Learning-Edition.pdf",
+      "bytes": 2511913,
+      "sha256": "131001d2a9a5b357d78ecb7cad8e8e0785a817b75b7e88830e7924d138b822d4"
+    },
+    {
+      "path": "notes\\Easy-Learning\\Polity\\07-Fundamental-Rights\\README.txt",
+      "bytes": 1264,
+      "sha256": "9f23f18406ef270b079eb23b4de35462fccf19eb9be39d4e421bc67f4bdd4a88"
+    },
+    {
+      "path": "notes\\Easy-Learning\\Polity\\07-Fundamental-Rights\\COVERAGE-REPORT.md",
+      "bytes": 75727,
+      "sha256": "cf14e92cbf9fa2538a819f7760791e1f100f04547d8d39f742e71386c56b1a69"
+    },
+    {
+      "path": "upsc-ai-kit\\knowledge\\Easy-Learning\\Polity\\07-Fundamental-Rights\\Fundamental-Rights-Guided-Learning-Edition.md",
+      "bytes": 465414,
+      "sha256": "f0e0bbdbe8bb40bc922e38312f431c8feac85780ec15e36eeba206c859097854"
+    },
+    {
+      "path": "notes\\Easy-Learning\\START-HERE.md",
+      "bytes": 1292,
+      "sha256": "a9e9b10963a888fe9ee5235c74355b0f252de6c3be815031badb10614b1b7356"
+    },
+    {
+      "path": "notes\\Easy-Learning\\TRACKER.md",
+      "bytes": 1370,
+      "sha256": "312468238872e0c01b921def0ff1bafb09b843d9d8974d5001ac1ba7ed819964"
+    },
+    {
+      "path": "tools\\easy_learning_pdf.py",
+      "bytes": 22551,
+      "sha256": "4d98fd3ff055488fd9160fcf5461fb32a3564512ce52911af6e477fb3110ef0e"
+    },
+    {
+      "path": "tools\\test_easy_learning_pdf.py",
+      "bytes": 28754,
+      "sha256": "3bdb8dce5ee4c20d24ffd6c09192055e5bcc09291bd8d960ef310f08041f4790"
+    }
+  ],
+  "technical_validation_files": [
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\renderer-validation.json",
+      "bytes": 1823,
+      "sha256": "c35b700622ba4c4b156e54d5535023d6d128d8aae37e02db49bf9b9c8da9b485"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\citizenship-revalidation.json",
+      "bytes": 631,
+      "sha256": "5034d0af39aa0bb1e1b06bddf6778ebf8a6c93191ef754f4d3b3002d60d63adc"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-01.png",
+      "bytes": 1194109,
+      "sha256": "2818a908aed7076636e7cf1531c4dd725138e5b2495b9dd26d50b7210a672b9e"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-02.png",
+      "bytes": 1271569,
+      "sha256": "5957b891b10fce17438a110e66dfc031f94ab24b033cb20b88f92b340206a060"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-03.png",
+      "bytes": 968527,
+      "sha256": "e7e7876d4425843b134a955fd5da8ead9918a94a9942c1483987b021424ad289"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-04.png",
+      "bytes": 1323916,
+      "sha256": "6bb3c3b62d9aa3b3c3ab175827c3bfe636dbca060bbb0f3b7385693ebc99cfb5"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-05.png",
+      "bytes": 1169553,
+      "sha256": "db854b0731f2adf5d8c9b1f20c7dd69038c64fde6af276ebbce09454e2a65070"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-06.png",
+      "bytes": 1205030,
+      "sha256": "91435839ab27fb497e2e25f5dae2bdbb640a264290055dcc81cbb88da4d1ea8d"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-07.png",
+      "bytes": 1250349,
+      "sha256": "5f1effa630f477bf81b6e172f9a81d3aa95f0b641bea1c210ef7a05c2c1e77c8"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-08.png",
+      "bytes": 1496283,
+      "sha256": "310b1122f4dcbcc20d586a12ffab0746135f90fc3786eeb4b6438655ad2ad95a"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-09.png",
+      "bytes": 1201683,
+      "sha256": "0308ce601f9c721c3ae885be1173068872a7730775706ed8942afe523d248d34"
+    },
+    {
+      "path": "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-10.png",
+      "bytes": 1353182,
+      "sha256": "97c2782e356a964d5bfb64e0d8a83c1a4d31c1f7fe740dca59db5d7b0f54a67f"
+    }
+  ],
+  "content_validation": {
+    "module_count": 16,
+    "teacher_led_stages_per_module": 10,
+    "conceptual_check_count": 32,
+    "deferred_answer_count": 32,
+    "answers_deferred_to_final_section": true,
+    "data_vault_sections": 13,
+    "source_heading_coverage": {
+      "active_markdown": 370,
+      "paired_workbook": 85,
+      "mapped": 455,
+      "unexplained_omissions": 0
+    },
+    "named_case_references_inventoried": 21,
+    "articles_reference_rows": 29,
+    "routed_pyqs": 21,
+    "current_source_controls": 6,
+    "coverage_report_claim": "ZERO UNEXPLAINED OMISSIONS",
+    "current_law_caveat": "Current-status claims inherit the repository official-source audit through 21 August 2026; no later outcome is claimed."
+  },
+  "pdf_validation": {
+    "status": "passed",
+    "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Easy-Learning\\Polity\\07-Fundamental-Rights\\Fundamental-Rights-Guided-Learning-Edition.pdf",
+    "page_count": 198,
+    "bookmarks": 20,
+    "toc_page_targets_valid": true,
+    "blank_pages": [],
+    "near_empty_pages": [],
+    "replacement_glyph_pages": [],
+    "overflow_pages": [],
+    "tiny_font_pages": [],
+    "configured_body_font_pt": 10.6,
+    "configured_body_leading_pt": 16.0,
+    "configured_table_font_floor_pt": 8.3,
+    "configured_ascii_font_pt": 7.5,
+    "observed_min_non_footer_font_pt": 7.5,
+    "observed_median_font_pt": 10.6,
+    "contact_sheets": [
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-01.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-02.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-03.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-04.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-05.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-06.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-07.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-08.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-09.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-10.png"
+    ]
+  },
+  "citizenship_renderer_revalidation": {
+    "status": "passed",
+    "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Easy-Learning\\Polity\\06-Citizenship\\Citizenship-Guided-Learning-Edition.pdf",
+    "page_count": 123,
+    "bookmarks": 16,
+    "toc_page_targets_valid": true,
+    "blank_pages": [],
+    "near_empty_pages": [],
+    "replacement_glyph_pages": [],
+    "overflow_pages": [],
+    "tiny_font_pages": [],
+    "configured_body_font_pt": 10.6,
+    "configured_body_leading_pt": 16.0,
+    "configured_table_font_floor_pt": 8.3,
+    "configured_ascii_font_pt": 7.5,
+    "observed_min_non_footer_font_pt": 7.5,
+    "observed_median_font_pt": 10.6
+  },
+  "visual_review": {
+    "contact_sheet_count": 10,
+    "contact_sheets": [
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-01.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-02.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-03.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-04.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-05.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-06.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-07.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-08.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-09.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-fundamental-rights-2026-08-24-preview\\contact-sheet-10.png"
+    ],
+    "manual_review": "passed",
+    "technical_preview_outside_user_topic_folder": true,
+    "notes": [
+      "Opening, TOC and all 16 module bands are readable.",
+      "Original topic visuals are compact and paired with explanations.",
+      "Data Vault uses a distinct green band and readable tables.",
+      "No clipping, overlap, blank pages, replacement glyphs or sub-7.4-point non-footer text.",
+      "Dense source-preservation pages remain reference-only after the guided core."
+    ]
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_easy_learning_pdf -v",
+    "test_count": 23,
+    "status": "passed"
+  },
+  "navigation_validation": {
+    "start_here_links_both_editions": true,
+    "tracker_links_both_editions": true,
+    "guided_layer_not_replacement_statement": true,
+    "relative_links_resolve": true
+  },
+  "protected_integrity": {
+    "status": "passed",
+    "files": [
+      {
+        "path": "EXPORT-PDF-STATUS.json",
+        "sha256_before": "66402036b017f32f0fb234a56e984cd6db70e34d707eabf616ddacf79e20da3c",
+        "sha256_after": "66402036b017f32f0fb234a56e984cd6db70e34d707eabf616ddacf79e20da3c",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\markdown_learning_pdf.py",
+        "sha256_before": "c6717f3d7b651210698a10a758aa04b9b17cb32be3e144479eec6804408b7051",
+        "sha256_after": "c6717f3d7b651210698a10a758aa04b9b17cb32be3e144479eec6804408b7051",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\export_four_item_library.py",
+        "sha256_before": "40fa000d78d50acddd065ba3d3afb41e283a7a4bc3c0e972dcad89d2d52ca444",
+        "sha256_after": "40fa000d78d50acddd065ba3d3afb41e283a7a4bc3c0e972dcad89d2d52ca444",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\test_export_four_item_library.py",
+        "sha256_before": "67e0e7d50534a1da4ead3666ad6353a6340e97ff81a8551ebf11d367aad1c21e",
+        "sha256_after": "67e0e7d50534a1da4ead3666ad6353a6340e97ff81a8551ebf11d367aad1c21e",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-23.json",
+        "sha256_before": "53c32fb79b84e4b23baaa0bdd7830d08f4b6f08b7d21710c02337e46d8a660c0",
+        "sha256_after": "53c32fb79b84e4b23baaa0bdd7830d08f4b6f08b7d21710c02337e46d8a660c0",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24-validation.json",
+        "sha256_before": "45e632c8cb558bbea1bfc38486ed33397d20843d7e60e617bec3183d744553ec",
+        "sha256_after": "45e632c8cb558bbea1bfc38486ed33397d20843d7e60e617bec3183d744553ec",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\finalize_v2_topic.py",
+        "sha256_before": "0d5de3ff92de49d9b3a7e4034dcbdaa398834ca05932d8a7f67f60501da3c039",
+        "sha256_after": "0d5de3ff92de49d9b3a7e4034dcbdaa398834ca05932d8a7f67f60501da3c039",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\generate_v2_section_indexes.py",
+        "sha256_before": "ef2db25a49896c90d4b86fea4edd0328a7af0c2dc4ce0f34c29fbfd1eb0c4b3b",
+        "sha256_after": "ef2db25a49896c90d4b86fea4edd0328a7af0c2dc4ce0f34c29fbfd1eb0c4b3b",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\refresh_all_v2_learning_sessions.py",
+        "sha256_before": "c57bba9f63f09a173fa1c6e4e5f6faaf549efe5d8b8d5fc082fa66ba4f66a1c8",
+        "sha256_after": "c57bba9f63f09a173fa1c6e4e5f6faaf549efe5d8b8d5fc082fa66ba4f66a1c8",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md",
+        "sha256_before": "35ad4b4563d9a1eb8d2b5ee66f7176cd2c6f05308b6ccba081262277fc1720c3",
+        "sha256_after": "35ad4b4563d9a1eb8d2b5ee66f7176cd2c6f05308b6ccba081262277fc1720c3",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Solved-Practice-Workbook_2026-08-23.md",
+        "sha256_before": "de188a4c77774929762118f365c1fb79af7fe2bbc9eb89d29c764568a8d0a411",
+        "sha256_after": "de188a4c77774929762118f365c1fb79af7fe2bbc9eb89d29c764568a8d0a411",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+        "sha256_before": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+        "sha256_after": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\07_Fundamental-Rights.md",
+        "sha256_before": "3a24f3d4ca1caec3d6b1009068381730d4d6de3dddb6e412b0c47ceaf37fafc5",
+        "sha256_after": "3a24f3d4ca1caec3d6b1009068381730d4d6de3dddb6e412b0c47ceaf37fafc5",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Polity\\07_Fundamental-Rights_Complete-Topic-Package.md",
+        "sha256_before": "c58afaf55d856a8eef81795df214430c7134abf75f3276703d654b3474741f0e",
+        "sha256_after": "c58afaf55d856a8eef81795df214430c7134abf75f3276703d654b3474741f0e",
+        "byte_unchanged": true
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.pdf",
+        "sha256_before": "316c4e16d4dc4ff9770d24f66bcfe788bb267fd4df39749de33ed76ac2ee773c",
+        "sha256_after": "316c4e16d4dc4ff9770d24f66bcfe788bb267fd4df39749de33ed76ac2ee773c",
+        "byte_unchanged": true
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Solved-Practice-Workbook_2026-08-23.pdf",
+        "sha256_before": "e0b34765c6f0227f3829374385d808e7f11cdf21d6a749cfa0c4bc070daf1bc0",
+        "sha256_after": "e0b34765c6f0227f3829374385d808e7f11cdf21d6a749cfa0c4bc070daf1bc0",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Easy-Learning\\Polity\\06-Citizenship\\Citizenship-Guided-Learning-Edition.md",
+        "sha256_before": "14f109abedc834ff8a1623bd8fa2b3561c7a67ae0c2c86a16866b507d5b4d596",
+        "sha256_after": "14f109abedc834ff8a1623bd8fa2b3561c7a67ae0c2c86a16866b507d5b4d596",
+        "byte_unchanged": true
+      },
+      {
+        "path": "notes\\Easy-Learning\\Polity\\06-Citizenship\\Citizenship-Guided-Learning-Edition.pdf",
+        "sha256_before": "f5110cbb3e518e3c698e99ef59987d296ef4e1045d146267282ff92dd9696c39",
+        "sha256_after": "f5110cbb3e518e3c698e99ef59987d296ef4e1045d146267282ff92dd9696c39",
+        "byte_unchanged": true
+      }
+    ]
+  },
+  "renderer_change": {
+    "changed": true,
+    "reason": "Prevent TOC page-number shrink below the readable font floor by compacting only overlong TOC labels; add explicit tiny-font validation.",
+    "citizenship_pdf_regenerated": false,
+    "citizenship_existing_pdf_revalidated": "passed"
+  },
+  "approval": {
+    "approved": false,
+    "note": "Additional Easy Learning edition; no learner-v2 or four-item approval/tracker record changed."
+  }
+}

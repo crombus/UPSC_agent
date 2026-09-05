@@ -1,0 +1,1310 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-48",
+  "subject": "Polity",
+  "title": "MINISTRIES DEPARTMENTS AND CENTRAL SECRETARIAT",
+  "short_route": "CONSTITUTION → BUSINESS RULES → UNITS → MINISTER/SECRETARY → SECRETARIAT → HIERARCHY → COORDINATION → AGENCIES → ACCOUNTABILITY → PYQS → SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "051796dc57b013bc6d2e1e90dc4b68d0cf9d2ec73f9e4339fe66ad3c59a576fc",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSTITUTIONAL ROOT AND THE OPERATING CHAIN",
+      "structural_type": "constitutional-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL ROOT AND THE OPERATING CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW DOES PARLIAMENTARY EXECUTIVE AUTHORITY BECOME ORGANISED GOVERNMENTAL ACTION?",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 73 + 74 --+-- UNION EXECUTIVE FIELD AND",
+          "role": "evidence"
+        },
+        {
+          "text": "+-- POLITICAL AUTHORITY REMAINS CONSTITUTION-BOUNDED",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 77 --------+-- ACTION IN PRESIDENT'S NAME AND AUTHENTICATION",
+          "role": "institution"
+        },
+        {
+          "text": "+-- ARTICLE 77(3) BUSINESS-ALLOCATION AND TRANSACTION RULES",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 78 ----------- PM COMMUNICATION AND INFORMATION DUTIES TO",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How does parliamentary executive authority become organised governmental action?",
+        "ARTICLES 73 + 74 --+-- Union executive field and ministerial advice",
+        "+-- political authority remains Constitution-bounded",
+        "ARTICLE 77 --------+-- action in President's name and authentication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How does parliamentary executive authority become organised governmental action?"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLES 73 + 74 --+-- Union executive field and ministerial advice",
+            "+-- political authority remains Constitution-bounded"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 77 --------+-- action in President's name and authentication",
+            "+-- Article 77(3) business-allocation and transaction rules"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 78 ----------- PM communication and information duties to President",
+            "Ministerial direction → Secretariat advice/process → agency delivery → accountability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A ministry joins democratic authority, ministerial responsibility and permanent expertise, while its effectiveness depends on aligning policy, finance, personnel, coordination and accountability Applied here to constitutional root and the operating chain.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "AOB AND TOB: JURISDICTION BEFORE PROCEDURE",
+      "structural_type": "rules-of-business-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AOB AND TOB",
+          "role": "primary"
+        },
+        {
+          "text": "JURISDICTION BEFORE PROCEDURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 77(3)",
+          "role": "institution"
+        },
+        {
+          "text": "ALLOCATION OF BUSINESS RULES TRANSACTION OF BUSINESS RULES WHO",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAP RAIL",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 309",
+          "role": "institution"
+        },
+        {
+          "text": "SCHEDULE CAN CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTE STILL CONTROLS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 77(3)",
+        "ALLOCATION OF BUSINESS RULES TRANSACTION OF BUSINESS RULES who handles what how a proposal is",
+        "subjects disposal + consultation + escalation lawful owner + lawful decision route",
+        "TRAP RAIL",
+        "AoB != ToB"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 77(3)",
+          "TRAP RAIL",
+          "schedule can change",
+          "Allocation supplies jurisdiction; transaction supplies procedure and collective discipline."
+        ],
+        [
+          "ALLOCATION OF BUSINESS RULES TRANSACTION OF BUSINESS RULES who handles what how a proposal is decided ministry/department +",
+          "AoB != ToB",
+          "statute still controls.",
+          ""
+        ],
+        [
+          "subjects disposal + consultation + escalation lawful owner + lawful decision route",
+          "both != Article 309",
+          "ANSWER STRIP",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 77(3)",
+            "ALLOCATION OF BUSINESS RULES TRANSACTION OF BUSINESS RULES who handles what how a proposal is decided ministry/department +",
+            "subjects disposal + consultation + escalation lawful owner + lawful decision route"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TRAP RAIL",
+            "AoB != ToB",
+            "both != Article 309"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "schedule can change",
+            "statute still controls.",
+            "ANSWER STRIP"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Allocation supplies jurisdiction; transaction supplies procedure and collective discipline."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 74, 75, 77 and 88 connect advice, responsibility, business rules and parliamentary participation, thereby linking Union administration to democratic accountability Applied here to aob and tob: jurisdiction before procedure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INSTITUTION MAP: POLITICAL HEAD TO FIELD DELIVERY",
+      "structural_type": "institution-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "POLITICAL HEAD TO FIELD DELIVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "SECRETARIAT POLITICAL BROAD ALLOCATED POLICY/LAW/BUDGET CHARGE UNIT SUBJECT UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTACHED OFFICE SUBORDINATE OFFICE FIELD/DIRECTORATE TECHNICAL LEAD EXECUTION/SERVICE TERRITORIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE LEGAL FORMS STATUTORY BODY",
+          "role": "primary"
+        },
+        {
+          "text": "AUTONOMOUS BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAP ADMINISTRATIVE ASSOCIATION DOES NOT ERASE THE SOURCE INSTRUMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PORTFOLIO → MINISTRY → DEPARTMENT → SECRETARIAT political broad allocated policy/law/budget charge unit subject unit",
+        "ATTACHED OFFICE SUBORDINATE OFFICE FIELD/DIRECTORATE technical lead execution/service territorial chain",
+        "SEPARATE LEGAL FORMS statutory body",
+        "autonomous body",
+        "TRAP administrative association does not erase the source instrument or statutory independence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PORTFOLIO → MINISTRY → DEPARTMENT → SECRETARIAT political broad allocated policy/law/budget charge unit subject unit coordination/memory",
+            "ATTACHED OFFICE SUBORDINATE OFFICE FIELD/DIRECTORATE technical lead execution/service territorial chain"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SEPARATE LEGAL FORMS statutory body",
+            "autonomous body"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP administrative association does not erase the source instrument or statutory independence.",
+            "PORTFOLIO → MINISTRY → DEPARTMENT → SECRETARIAT political broad allocated policy/law/budget charge unit subject unit coordination/memory"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ATTACHED OFFICE SUBORDINATE OFFICE FIELD/DIRECTORATE technical lead execution/service territorial chain",
+            "SEPARATE LEGAL FORMS statutory body"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The delivery chain runs from ministerial policy through Secretariat coordination to directorates and field agencies, while feedback and accountability must travel back upward Applied here to institution map: political head to field delivery.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MINISTER, MINISTER OF STATE AND SECRETARY",
+      "structural_type": "role-responsibility-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MINISTER, MINISTER OF STATE AND SECRETARY",
+          "role": "institution"
+        },
+        {
+          "text": "POLITICAL EXECUTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET MINISTER",
+          "role": "comparison"
+        },
+        {
+          "text": "PORTFOLIO LEADERSHIP, CABINET PARTICIPATION, PARLIAMENT.",
+          "role": "evidence"
+        },
+        {
+          "text": "MINISTER OF STATE",
+          "role": "institution"
+        },
+        {
+          "text": "INDEPENDENT CHARGE OR ASSIGNED ASSISTANCE, AS FORMALLY ALLOCATED.",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMANENT EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE HEAD + PRINCIPAL OFFICIAL ADVISER + TRANSACTION COMPLIANCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POLITICAL EXECUTIVE",
+        "Cabinet Minister → portfolio leadership, Cabinet participation, Parliament.",
+        "Minister of State → independent charge or assigned assistance, as formally allocated.",
+        "PERMANENT EXECUTIVE",
+        "Secretary → administrative head + principal official adviser + transaction compliance."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "POLITICAL EXECUTIVE",
+          "Secretary → administrative head + principal official adviser + transaction compliance.",
+          "oral direction",
+          "Responsive neutrality joins lawful democratic control to professional institutional memory."
+        ],
+        [
+          "Cabinet Minister → portfolio leadership, Cabinet participation, Parliament.",
+          "PRODUCTIVE RELATION elected priority → candid options/legality → recorded decision → loyal implementation.",
+          "short tenure",
+          ""
+        ],
+        [
+          "Minister of State → independent charge or assigned assistance, as formally allocated.",
+          "FAILURE BRANCHES politicised advice",
+          "hidden responsibility.",
+          ""
+        ],
+        [
+          "PERMANENT EXECUTIVE",
+          "bureaucratic veto",
+          "ANSWER STRIP",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "POLITICAL EXECUTIVE",
+            "Cabinet Minister → portfolio leadership, Cabinet participation, Parliament.",
+            "Minister of State → independent charge or assigned assistance, as formally allocated.",
+            "PERMANENT EXECUTIVE"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Secretary → administrative head + principal official adviser + transaction compliance.",
+            "PRODUCTIVE RELATION elected priority → candid options/legality → recorded decision → loyal implementation.",
+            "FAILURE BRANCHES politicised advice",
+            "bureaucratic veto"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "oral direction",
+            "short tenure",
+            "hidden responsibility.",
+            "ANSWER STRIP"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Responsive neutrality joins lawful democratic control to professional institutional memory."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Cabinet makes collective political decisions, Cabinet Committees handle delegated political work, and Committees of Secretaries coordinate administration without acquiring ministerial authority Applied here to minister, minister of state and secretary.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CENTRAL SECRETARIAT FUNCTIONS AND FILE PROCESS",
+      "structural_type": "file-process-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CENTRAL SECRETARIAT FUNCTIONS AND FILE PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL SECRETARIAT POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "FILE RAIL RECEIPT",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION EXAMINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INTER-DEPARTMENT CONSULTATION",
+          "role": "primary"
+        },
+        {
+          "text": "DELEGATED OR HIGHER APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION OFFICER",
+          "role": "comparison"
+        },
+        {
+          "text": "UNDER SECRETARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL SECRETARIAT policy",
+        "FILE RAIL receipt → section examination → facts/law/finance → noting/options",
+        "inter-department consultation → delegated or higher approval",
+        "authentication/issue → implementation → monitoring/audit/RTI.",
+        "Section Officer → Under Secretary → Deputy Secretary/Director"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CENTRAL SECRETARIAT policy",
+            "FILE RAIL receipt → section examination → facts/law/finance → noting/options"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "inter-department consultation → delegated or higher approval",
+            "authentication/issue → implementation → monitoring/audit/RTI."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Section Officer → Under Secretary → Deputy Secretary/Director",
+            "Joint Secretary → Additional/Special Secretary → Secretary."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP not every file reaches Minister/Secretary; delegation is an accountability design, not evasion.",
+            "CENTRAL SECRETARIAT policy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Central Secretariat is the collective policy-support machinery of Union ministries, not a single building and not a synonym for the Cabinet Secretariat Applied here to central secretariat functions and file process.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SECRETARIAT HIERARCHY AND DELEGATED FILE DISPOSAL",
+      "structural_type": "hierarchy-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SECRETARY",
+          "role": "primary"
+        },
+        {
+          "text": "JOINT SECRETARY / DIVISION",
+          "role": "institution"
+        },
+        {
+          "text": "UNDER SECRETARY / SECTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "EXAMINE → CONSULT → APPROVE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWEST COMPETENT LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "RECORDED AUTHORITY",
+          "role": "caution"
+        },
+        {
+          "text": "ISSUE + AUTHENTICATE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONITOR + RETAIN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SECRETARY",
+        "JOINT SECRETARY / DIVISION",
+        "UNDER SECRETARY / SECTION",
+        "EXAMINE → CONSULT → APPROVE",
+        "LOWEST COMPETENT LEVEL",
+        "RECORDED AUTHORITY",
+        "ISSUE + AUTHENTICATE",
+        "MONITOR + RETAIN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "AUTHORITY",
+          "role": "institution",
+          "items": [
+            "SECRETARY",
+            "JOINT SECRETARY / DIVISION"
+          ]
+        },
+        {
+          "heading": "PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "UNDER SECRETARY / SECTION",
+            "EXAMINE → CONSULT → APPROVE"
+          ]
+        },
+        {
+          "heading": "CHECK",
+          "role": "caution",
+          "items": [
+            "LOWEST COMPETENT LEVEL",
+            "RECORDED AUTHORITY"
+          ]
+        },
+        {
+          "heading": "OUTCOME",
+          "role": "outcome",
+          "items": [
+            "ISSUE + AUTHENTICATE",
+            "MONITOR + RETAIN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Secretariat efficiency requires delegated disposal with an authoritative record of competence, consultation, reasons and follow-up Applied here to secretariat hierarchy and delegated file disposal.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md#SESSION 5"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CABINET SECRETARIAT, PMO AND COORDINATION",
+      "structural_type": "centre-of-government-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CABINET SECRETARIAT, PMO AND COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET SECRETARIAT",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET PAPERS/DECISIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "AOB-TOB ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CRISIS AND CONSENSUS.",
+          "role": "primary"
+        },
+        {
+          "text": "PMO DIRECT ASSISTANCE TO PRIME MINISTER",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIORITY REVIEW",
+          "role": "comparison"
+        },
+        {
+          "text": "MATTERS REQUIRING PM ATTENTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CABINET SECRETARIAT",
+        "Cabinet papers/decisions",
+        "AoB-ToB administration",
+        "crisis and consensus.",
+        "PMO direct assistance to Prime Minister"
+      ],
+      "matrix": [
+        [
+          "Cabinet papers/decisions",
+          "AoB-ToB administration",
+          "CoS",
+          "crisis and consensus."
+        ],
+        [
+          "PMO direct assistance to Prime Minister",
+          "priority review",
+          "matters requiring PM attention.",
+          ""
+        ],
+        [
+          "Cabinet Secretariat != Cabinet",
+          "PMO != super-ministry",
+          "Cabinet Secretary != minister.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CABINET SECRETARIAT",
+            "Cabinet papers/decisions",
+            "AoB-ToB administration",
+            "crisis and consensus."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PMO direct assistance to Prime Minister",
+            "priority review",
+            "matters requiring PM attention.",
+            "UNRESOLVED DIFFERENCE department consultation → Committee of Secretaries → concerned ministers"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Cabinet Committee/Cabinet under the prescribed route.",
+            "Cabinet Secretariat != Cabinet",
+            "PMO != super-ministry",
+            "Cabinet Secretary != minister."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER STRIP",
+            "Central coordination should enable departments without erasing ministerial answerability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Over-centralisation in either can weaken departmental initiative; weak central coordination can produce silos and contradictory policies Applied here to cabinet secretariat, pmo and coordination.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGENCIES, AUTONOMY AND WHOLE-OF-GOVERNMENT OUTCOMES",
+      "structural_type": "agency-outcome-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AGENCIES, AUTONOMY AND WHOLE-OF-GOVERNMENT OUTCOMES",
+          "role": "primary"
+        },
+        {
+          "text": "DEPARTMENTAL POLICY OWNER ATTACHED/SUBORDINATE OFFICE",
+          "role": "outcome"
+        },
+        {
+          "text": "TECHNICAL/FIELD EXECUTION AUTONOMOUS BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "CHARTERED SPECIAL FUNCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMERCIAL/STRATEGIC OPERATION REGULATOR",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTE-BASED ARM'S-LENGTH GOVERNANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "WHOLE-OF-GOVERNMENT PROBLEM CLIMATE/DATA/SKILLS/WATER",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY DEPARTMENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEPARTMENTAL POLICY OWNER attached/subordinate office → technical/field execution autonomous body → chartered special function",
+        "CPSE → commercial/strategic operation regulator → statute-based arm's-length governance",
+        "WHOLE-OF-GOVERNMENT PROBLEM climate/data/skills/water → many departments → silo optimisation → outcome failure.",
+        "CORRECTIVE named lead + shared milestones/data + funds/functionaries + State/field feedback.",
+        "LIMIT mission unit or dashboard cannot displace statute, sanction, Cabinet route or audit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DEPARTMENTAL POLICY OWNER attached/subordinate office → technical/field execution autonomous body → chartered special function",
+            "CPSE → commercial/strategic operation regulator → statute-based arm's-length governance"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "WHOLE-OF-GOVERNMENT PROBLEM climate/data/skills/water → many departments → silo optimisation → outcome failure.",
+            "CORRECTIVE named lead + shared milestones/data + funds/functionaries + State/field feedback."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT mission unit or dashboard cannot displace statute, sanction, Cabinet route or audit.",
+            "DEPARTMENTAL POLICY OWNER attached/subordinate office → technical/field execution autonomous body → chartered special function"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CPSE → commercial/strategic operation regulator → statute-based arm's-length governance",
+            "WHOLE-OF-GOVERNMENT PROBLEM climate/data/skills/water → many departments → silo optimisation → outcome failure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Secretariats primarily formulate and supervise policy while executive agencies deliver it, but delegation never removes departmental stewardship or ministerial accountability Applied here to agencies, autonomy and whole-of-government outcomes.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "OVERSIGHT, REFORM AND NOTIFICATION-SENSITIVE CHANGE",
+      "structural_type": "accountability-reform-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OVERSIGHT, REFORM AND NOTIFICATION-SENSITIVE CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNTABILITY GRID",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL AND POLICY SCRUTINY.",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCIAL LEGALITY, PROPRIETY AND PERFORMANCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSPARENCY, LEGALITY AND PERSONAL RESPONSIBILITY.",
+          "role": "primary"
+        },
+        {
+          "text": "2ND ARC PRINCIPLES",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETENCY-TO-POST FIT",
+          "role": "comparison"
+        },
+        {
+          "text": "MISSION KARMAYOGI DIGITAL RECORD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ACCOUNTABILITY GRID",
+        "Parliament/questions/DRSCs → political and policy scrutiny.",
+        "budget/demands/CAG/PAC → financial legality, propriety and performance.",
+        "RTI/courts/vigilance → transparency, legality and personal responsibility.",
+        "2nd ARC principles"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ACCOUNTABILITY GRID",
+          "RTI/courts/vigilance → transparency, legality and personal responsibility.",
+          "Mission Karmayogi digital record",
+          "specialist/lateral support."
+        ],
+        [
+          "Parliament/questions/DRSCs → political and policy scrutiny.",
+          "2nd ARC principles",
+          "impact evaluation",
+          "Article 77(3) rule change → cadres/budgets/records/contracts/statutory references transition."
+        ],
+        [
+          "budget/demands/CAG/PAC → financial legality, propriety and performance.",
+          "competency-to-post fit",
+          "stable tenure",
+          "TRAP renamed organogram != improved outcome; ministry/committee counts must be dated."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ACCOUNTABILITY GRID",
+            "Parliament/questions/DRSCs → political and policy scrutiny.",
+            "budget/demands/CAG/PAC → financial legality, propriety and performance."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RTI/courts/vigilance → transparency, legality and personal responsibility.",
+            "2nd ARC principles",
+            "competency-to-post fit"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Mission Karmayogi digital record",
+            "impact evaluation",
+            "stable tenure"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "specialist/lateral support.",
+            "Article 77(3) rule change → cadres/budgets/records/contracts/statutory references transition.",
+            "TRAP renamed organogram != improved outcome; ministry/committee counts must be dated."
+          ]
+        }
+      ],
+      "mechanism_strip": "Article 77(3) rule change → cadres/budgets/records/contracts/statutory references transition.",
+      "answer_line": "Preserve institutional balance: coordination by Cabinet Secretariat/PMO must enable, not erase, ministerial responsibility and departmental expertise Applied here to oversight, reform and notification-sensitive change.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CABINET COMMITTEES AND INTER-MINISTERIAL RESOLUTION",
+      "structural_type": "coordination-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CABINET",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET COMMITTEES",
+          "role": "institution"
+        },
+        {
+          "text": "COMMITTEES OF SECRETARIES",
+          "role": "mechanism"
+        },
+        {
+          "text": "CABINET SECRETARIAT",
+          "role": "comparison"
+        },
+        {
+          "text": "PMO SUPPORTS PM",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL ≠ ADMINISTRATIVE BODY",
+          "role": "caution"
+        },
+        {
+          "text": "ESCALATE REAL CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESERVE MINISTERIAL ANSWERABILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CABINET",
+        "CABINET COMMITTEES",
+        "COMMITTEES OF SECRETARIES",
+        "CABINET SECRETARIAT",
+        "PMO SUPPORTS PM",
+        "POLITICAL ≠ ADMINISTRATIVE BODY",
+        "ESCALATE REAL CONFLICT",
+        "PRESERVE MINISTERIAL ANSWERABILITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "AUTHORITY",
+          "role": "institution",
+          "items": [
+            "CABINET",
+            "CABINET COMMITTEES"
+          ]
+        },
+        {
+          "heading": "PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMMITTEES OF SECRETARIES",
+            "CABINET SECRETARIAT"
+          ]
+        },
+        {
+          "heading": "CHECK",
+          "role": "caution",
+          "items": [
+            "PMO SUPPORTS PM",
+            "POLITICAL ≠ ADMINISTRATIVE BODY"
+          ]
+        },
+        {
+          "heading": "OUTCOME",
+          "role": "outcome",
+          "items": [
+            "ESCALATE REAL CONFLICT",
+            "PRESERVE MINISTERIAL ANSWERABILITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Centre-of-government coordination should resolve cross-ministry conflict without erasing departmental competence or ministerial responsibility Applied here to cabinet committees and inter-ministerial resolution.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VERIFIED PYQS AND ANSWER EXECUTION",
+      "structural_type": "pyq-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "2025 PAIRS: NONE",
+          "role": "primary"
+        },
+        {
+          "text": "2020 INSTITUTIONAL QUALITY",
+          "role": "institution"
+        },
+        {
+          "text": "2020 E-GOVERNANCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "2024 CABINET GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "EXACT DIRECTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED RULE OR ARTICLE",
+          "role": "caution"
+        },
+        {
+          "text": "MECHANISM + ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFIED REFORM VERDICT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "2025 PAIRS: NONE",
+        "2020 INSTITUTIONAL QUALITY",
+        "2020 E-GOVERNANCE",
+        "2024 CABINET GROWTH",
+        "EXACT DIRECTIVE",
+        "NAMED RULE OR ARTICLE",
+        "MECHANISM + ACCOUNTABILITY",
+        "QUALIFIED REFORM VERDICT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "AUTHORITY",
+          "role": "institution",
+          "items": [
+            "2025 PAIRS: NONE",
+            "2020 INSTITUTIONAL QUALITY"
+          ]
+        },
+        {
+          "heading": "PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2020 E-GOVERNANCE",
+            "2024 CABINET GROWTH"
+          ]
+        },
+        {
+          "heading": "CHECK",
+          "role": "caution",
+          "items": [
+            "EXACT DIRECTIVE",
+            "NAMED RULE OR ARTICLE"
+          ]
+        },
+        {
+          "heading": "OUTCOME",
+          "role": "outcome",
+          "items": [
+            "MECHANISM + ACCOUNTABILITY",
+            "QUALIFIED REFORM VERDICT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A high-scoring answer connects constitutional source, organisational mechanism, accountability consequence and executable reform Applied here to verified pyqs and answer execution.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: ORGANISED AUTHORITY WITH TRACEABLE RESPONSIBILITY",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISED AUTHORITY WITH TRACEABLE RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENT'S NAME",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSONAL DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET SECRETARIAT",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET COMMITTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMITTEE OF SECRETARIES ATTACHED OFFICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "President's name != personal decision",
+        "Secretariat != Cabinet Secretariat",
+        "Cabinet Committee != Committee of Secretaries attached office != autonomous body",
+        "regulator autonomy survives ordinary instruction."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "President's name != personal decision",
+            "Secretariat != Cabinet Secretariat"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Cabinet Committee != Committee of Secretaries attached office != autonomous body",
+            "regulator autonomy survives ordinary instruction.",
+            "MAINS SPINE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Articles 73/74/77/78 → AoB-ToB → ministry/department",
+            "Minister-Secretary → Secretariat/file → coordination",
+            "agencies/outcomes → oversight → reform."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PYQ SPINE",
+            "2025 organisation-ministry pairs → verify allocated subject and parent law.",
+            "VERDICT effective machinery aligns functions, funds, functionaries, expertise and answerability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Executive action is taken in the President's name, but the President does not personally administer each department Applied here to upsc synthesis: organised authority with traceable responsibility.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g4\\polity-48_Complete-Learning-Session_2026-08-28.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE PRINCIPAL DELEGATES AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE AGENT POSSESSES INFORMATION THE PRINCIPAL MAY LACK",
+          "role": "comparison"
+        },
+        {
+          "text": "MONITORING IS INCOMPLETE; AND",
+          "role": "evidence"
+        },
+        {
+          "text": "RESPONSIBILITY CAN BE SHIFTED DOWN OR SIDEWAYS.",
+          "role": "primary"
+        },
+        {
+          "text": "ADVERSE SELECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "APPOINTING AN AGENT WITHOUT KNOWING CAPABILITY/INTEGRITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MORAL HAZARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "the principal delegates authority;",
+            "the agent possesses information the principal may lack;",
+            "monitoring is incomplete; and",
+            "responsibility can be shifted down or sideways."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "adverse selection: appointing an agent without knowing capability/integrity;",
+            "moral hazard: agent acts differently after receiving discretion;",
+            "information asymmetry: ministry/agency knows more than Parliament/citizen;",
+            "multiple principals: an agency answers to ministry, finance, regulator, court and legislature;"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "blame avoidance: success is claimed centrally while failure is attributed to field offices.",
+            "Minister states objectives, political priorities and acceptable trade-offs.",
+            "Secretary supplies options, legality, evidence, implementation constraints and institutional",
+            "Disagreement is recorded professionally."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

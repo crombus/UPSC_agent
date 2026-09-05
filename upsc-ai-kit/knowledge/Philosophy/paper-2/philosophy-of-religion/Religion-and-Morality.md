@@ -4,6 +4,25 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The clause tests dependence, autonomy, motivation, obligation, and reciprocal criticism. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns the **conceptual, epistemic, motivational, sanctioning
+and sociological relations between religion and morality**, together with their
+mutual criticism and Indian–Western comparison.
+
+| Owned here | Boundary |
+|---|---|
+| whether God/religion grounds moral truth or obligation | the moral argument for God's existence remains with [Proofs for God](./Proofs-for-God.md) |
+| faith, conscience, guilt, love, salvation and moral commitment only as religion–morality links | complete faith/revelation epistemology remains with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
+| morality without God and non-theistic ethical systems | the definition and possibility of religion without God remains with [Religion without God](./Religion-without-God.md) |
+| conflicting religious moral interpretations as a moral-criticism problem | full pluralism and absolute-truth theories remain with [Religious Pluralism](./Religious-Pluralism.md) |
+| Indian duty, karma, non-injury and compassion as comparative grounds | complete Indian ethics and liberation doctrines remain with Paper I/Ethics owners |
+| religious violence only because of the direct 2019 PYQ | descriptive history, political ideology and detailed just-war doctrine are not substitutes for philosophical premise-testing |
+
+⚠️ Sociological influence does not establish philosophical dependence.
+Religion may motivate or sanction conduct without constituting moral truth, and
+morality may criticise a religious command without denying every religious role.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -23,12 +42,25 @@
 ```
 > 🔑 **Mnemonic — "Depend / Detach / Dialogue":** morality depends on religion (Divine Command), detaches from it (Kant/secular), or dialogues with it (interaction). The **Euthyphro** splits the dependence view.
 
+## 0A. FOUR DIFFERENT DEPENDENCE CLAIMS ⚠️
+
+| Claim | Question | Religious role | Independent alternative |
+|---|---|---|---|
+| Metaphysical grounding | What makes moral truth or obligation valid? | divine nature, command or created natural order | moral realism, rational autonomy, flourishing, contractual or non-theistic grounds |
+| Moral knowledge | How do agents know what is right? | revelation, scripture, conscience, tradition and exemplars | reason, experience, empathy, public argument |
+| Motivation | Why act morally when it is costly or unseen? | love, gratitude, hope, repentance, salvation, community and divine relationship | duty, character, solidarity, compassion, self-respect |
+| Sanction/accountability | What connects conduct with reward, guilt or consequence? | judgement, sin, forgiveness, karma or eschatological consequence | law, social response, internal conscience, causal consequences |
+
+Success in one role proves no dependence in another. A religion may strengthen
+motivation while accepting independently knowable moral truth; secular ethics
+may justify duty while struggling to motivate every agent in every case.
+
 ---
 
 ## 1. THE DEPENDENCE VIEW — morality needs religion ✅
-- **Divine Command Theory (DCT):** an act is **right because God commands it**; morality is grounded in, and motivated by, God's will. Without God, the view argues, the ultimate authority of moral obligation becomes difficult to explain. ✅
+- **Divine Command Theory (DCT):** moral **obligation** is constituted by God's command. This metaphysical claim must be separated from the epistemic claim that revelation tells us our duty and the motivational claim that love, judgement or sanction moves us to comply. ✅
 - **"One can have morality without religion but not religion without morality" (2022 PYQ):** ⚠️
-  - *Religion without morality is impossible* — every religion prescribes an ethic; a religion sanctioning cruelty is a contradiction. **Morality is internal to religion.**
+  - *Normatively adequate religion without morality is difficult to defend* because religion makes claims about worthy life, duty, transformation or liberation. Yet a descriptively identifiable religious institution can transmit immoral commands or practices; calling it immoral does not make it sociologically nonexistent.
   - *Morality without religion is possible* — secular ethics (Kant, utilitarianism, humanism) grounds morality in reason/consequences, not God. → the asymmetry.
 - **"Must normative principles reference God to create obligation?" (2025 PYQ):** DCT says yes; but Kant shows **autonomy** can ground obligation without God. ⚠️
 
@@ -46,8 +78,25 @@
 ## 3. THE INTERACTION VIEW — mutual influence (2023 PYQ) ✅
 - **Religion influences moral behaviour:** provides **motivation** (reward/punishment, love of God), **community & sanction**, moral exemplars, and a **worldview** that sustains moral commitment. ✅
 - **Morality influences/refines religion:** moral conscience **critiques** religious practice (prophets against ritualism; reform movements against caste/sati); a religion is judged by its **ethical fruits** (James). ⚠️
-- **Empirically:** religion can promote pro-social behaviour *and* (misused) sanction intolerance/violence — the relation is **contingent**, not automatic. ⚠️
+- **Causal caution:** religious narratives and institutions can support care or sanction exclusion, but this contingent influence does not establish that religion is inherently moral or immoral. ⚠️
 - **Indian view:** **dharma** fuses the religious and the moral — right conduct *is* the cosmic-religious order; karma links moral action to spiritual destiny (morality is soteriologically serious). ✅
+
+### 3.1 Moral critique, plural moralities and Indian grounds
+
+- Religious moralities may conflict over duties, authority, exceptions and the
+  interpretation of texts. No inference from “religion supports morality” to
+  “all religions share one moral code” is valid.
+- A claimed command remains answerable to identification, interpretation,
+  consistency, proportionality, human dignity and the moral status of the
+  authority invoked. This is moral criticism **within and across** traditions,
+  not automatic secular hostility.
+- Indian duty (*dharma*) is not one moral theory: Mīmāṃsā grounds ritual duty
+  in injunction; the Gītā joins role-duty with disciplined action and devotion;
+  Buddhism grounds conduct in intention, suffering and compassion; Jainism
+  radicalises non-injury (*ahiṃsā*) through vows; Nyāya and theistic Vedānta
+  connect moral consequence to divine governance.
+- Karma can motivate accountability without a divine commander in some schools,
+  but it does not authorise observers to infer guilt from another's suffering.
 
 ---
 
@@ -508,3 +557,12 @@ Euthyphro plus immoral-religion objections → replies → graded relational the
 - Gordon Allport and Daniel Batson on religious orientation.
 - William J. Wainwright (ed.), *The Oxford Handbook of Philosophy of Religion*; John Hick, *Philosophy of Religion*.
 - *Bhagavad Gītā* and Indian ethics discussions in S. C. Chatterjee & D. M. Datta and C. D. Sharma.
+- Local searchable John Hick, *Philosophy of Religion*, especially PDF
+  pp. 23–24 and 39–40, for ethics' conceptual independence and moral-argument
+  links.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, “Morality and
+  Religion,” print pp. 344–365 (approximately PDF pp. 356–377), for divine
+  command, natural law, motivation and autonomy.
+- Local searchable Chatterjee–Datta, especially PDF pp. 71–73 for Mīmāṃsā
+  duty and pp. 141–143 for Jain non-injury; local C. D. Sharma supplies bounded
+  Gītā and Indian ethical comparisons.

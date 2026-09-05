@@ -1,6 +1,6 @@
 # Science and Technology Learning Session Command Index
 
-> **Topics indexed:** 26  
+> **Topics indexed:** 26
 > **Subject method:** Scientific principle -> application -> Indian programme -> governance risks -> current affairs.
 
 ## How to use these commands
@@ -16,11 +16,13 @@
 
 The complete package remains the master reference. A live session should select all exam-relevant Core material, use advanced material only where it adds marks, run one genuine current-affairs check per integrated block, and end with cumulative retrieval rather than an MCQ after every small heading.
 
+New archives use `learning-sessions/`. `Terminal-Learning-Sessions`, `learning-sessions-v2`, `_learning-sessions` are indexed only as legacy migration aliases; do not create new sessions there.
+
 ## Copy-ready topic commands
 
 | No. | Topic and source status | Core learning | Optional depth | Test | Revision |
 |---:|---|---|---|---|---|
-| 01 | **Space Programme: ISRO, Organisation and Launch Vehicles**<br>complete package available; `basic/01_Space-Programme-ISRO-Launch-Vehicles.md` | `Start Science and Technology 01 - Space Programme: ISRO, Organisation and Launch Vehicles` | `Deep Science and Technology 01` | `Test Science and Technology 01` | `Revise Science and Technology 01` |
+| 01 | **Space Programme: ISRO, Organisation and Launch Vehicles**<br>complete package/session available; `basic/01_Space-Programme-ISRO-Launch-Vehicles.md` | `Start Science and Technology 01 - Space Programme: ISRO, Organisation and Launch Vehicles` | `Deep Science and Technology 01` | `Test Science and Technology 01` | `Revise Science and Technology 01` |
 | 02 | **Satellites, NavIC, GAGAN and Applications**<br>Core owner ready; `basic/02_Satellites-NavIC-GAGAN-and-Applications.md` | `Start Science and Technology 02 - Satellites, NavIC, GAGAN and Applications` | `Deep Science and Technology 02` | `Test Science and Technology 02` | `Revise Science and Technology 02` |
 | 03 | **Human Spaceflight: Gaganyaan and Planetary Missions**<br>Core owner ready; `basic/03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md` | `Start Science and Technology 03 - Human Spaceflight: Gaganyaan and Planetary Missions` | `Deep Science and Technology 03` | `Test Science and Technology 03` | `Revise Science and Technology 03` |
 | 04 | **Nuclear Power and the Three-Stage Programme**<br>Core owner ready; `basic/04_Nuclear-Power-and-Three-Stage-Programme.md` | `Start Science and Technology 04 - Nuclear Power and the Three-Stage Programme` | `Deep Science and Technology 04` | `Test Science and Technology 04` | `Revise Science and Technology 04` |

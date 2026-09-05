@@ -21,6 +21,17 @@
 secret ballot**; MLA vote value uses **1971 census** (84th Amdt). ✅ **42nd Amdt** made CoM advice
 **binding**; **44th Amdt** lets him **return once**, then it's binding.
 
+## Election-law timeline
+
+| Control | What it does |
+|---|---|
+| **Articles 54–55, 66 and 71** | Define the two electoral colleges, voting systems and Supreme Court dispute route |
+| **Presidential and Vice-Presidential Elections Act, 1952** | Governs notification, nominations, scrutiny, withdrawal, poll and election petitions |
+| **Presidential and Vice-Presidential Elections Rules, 1974** | Supply the operative forms, ballot and counting procedure |
+| **1997 Amendment** | Raised serious-candidature thresholds to **50 proposers + 50 seconders** for President, **20 + 20** for Vice-President, and a **₹15,000** deposit for either office |
+
+> 🔑 The Constitution creates the office and electoral design; the 1952 Act and 1974 Rules administer the election.
+
 ## Impeachment (Art 61)
 > 🔑 Only ground = **"violation of the Constitution."** Charge by **1/4 members**, passed by **2/3 of
 > total membership of BOTH Houses**. **Nominated MPs can join impeachment** (but not the election).
@@ -51,7 +62,7 @@ Rajya Sabha**; **no ground needed**.
 - ✅ *D.C. Wadhwa (1987):* re-promulgating ordinances = "fraud on the Constitution."
 
 ## 📰 Current link
-📰 ✅ **Current Art 200/201 position (20 Nov 2025 Article 143 opinion):** courts
+📰 ✅ **Current Art 200/201 position (20 Nov 2025 Article 143 opinion; checked 28 Aug 2026):** courts
 cannot create rigid timelines or automatic deemed assent, but prolonged, unexplained and
 indefinite gubernatorial inaction remains open to limited judicial review and mandamus.
 📰 ✅ **Vice-Presidential transition (2025):** after Jagdeep Dhankhar's resignation,
@@ -59,6 +70,8 @@ C. P. Radhakrishnan was elected on 9 September 2025 and entered office on 12 Sep
 2025. This illustrates Article 68's distinct rule: a casual Vice-Presidential vacancy is
 filled **as soon as possible**, not within the President's six-month deadline, and the
 successor receives a fresh five-year term.
+📰 ✅ **Office control (checked 28 Aug 2026):** Droupadi Murmu remains President and
+C. P. Radhakrishnan remains Vice-President, according to their official constitutional-office profiles.
 
 ➡️ The full powers, the veto tables, the ordinance limits and the President-VP contrast are held **in this file**.
 *Advanced: optional deeper detail in `advanced/15_President-and-Vice-President.md` — not required for any mark.*

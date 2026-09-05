@@ -106,3 +106,10 @@ Chandigarh → Punjab & Haryana; J&K & Ladakh → common J&K HC).
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Deep-review current and legal reconciliation (28 August 2026)
+
+- Read Delhi chronologically: the 2018 Constitution Bench protected aid-and-advice government within the allotted field; the May 2023 services judgment included Entry 41 outside the reserved entries; Act 19 of 2023 then created NCCSA and gives the LG the statutory final decision on disagreement. The Act is operative unless invalidated.
+- Puducherry's Assembly is statutory under Article 239A and the 1963 Act. *K. Lakshminarayanan* upheld Central nomination of up to three members, who have voting rights under the governing law.
+- J&K is a UT with a functioning elected Assembly and Council of Ministers; Section 32 excludes public order and police, not land. Parliament retains overriding UT competence, the 2024 business-rule amendments preserve specified LG control, and Statehood remains pending.
+- High Court language must distinguish Delhi's exclusive High Court from the common High Court of Jammu & Kashmir and Ladakh and the five State-High-Court assignments.

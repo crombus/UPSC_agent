@@ -32,8 +32,7 @@ fully extended and the **Centre has greater responsibility**.
 4. ✅ **Governor's powers:** may direct that an Act of Parliament/state legislature does **not apply** (or applies
    with modifications) to a scheduled area; may make **regulations** (prohibit/restrict land transfer among
    tribals, regulate money-lending) — all such regulations need the **President's assent**.
-- ✅ **Commissions:** President appoints a commission on scheduled-area administration — compulsorily after **10
-  years** (1st = **U.N. Dhebar, 1960**; 2nd = **Dilip Singh Bhuria, 2002**).
+- ✅ **Article 339(1) commissions:** the President was required to appoint one after ten years from commencement and may appoint further commissions; **Dhebar (1960)** and **Bhuria (2002)** are the standard examples.
 
 ---
 
@@ -48,7 +47,7 @@ fully extended and the **Centre has greater responsibility**.
 | ✅ **Law-making** | Councils legislate on **land, forests, canal water, shifting cultivation, inheritance, marriage/divorce, social customs** — need Governor's assent |
 | ✅ **Judicial** | Councils can constitute **village councils/courts** for tribal disputes |
 | ✅ **Finance** | Assess & collect **land revenue** + specified taxes; manage schools, markets, ferries, roads |
-| ✅ **Acts don't auto-apply** | Parliament/state Acts apply to autonomous districts only with modifications |
+| ✅ **Application of Acts varies** | State-specific Sixth-Schedule paragraphs govern non-application or application with exceptions/modifications; do not use one blanket rule |
 
 ✅ **Special Article 244A:** allows formation of an **autonomous state** within Assam (with its own legislature/CoM).
 

@@ -1,0 +1,1262 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-43",
+  "subject": "Polity",
+  "title": "POLITICAL PARTIES",
+  "short_route": "PARTY AS DEMOCRATIC INTERMEDIARY → SECTION 29A REGISTRATION AND → RECOGNITION AND SYMBOL ARCHITECTURE → PARTY SYSTEM EVOLUTION, REGIONALISATION → INTERNAL DEMOCRACY, MEMBERSHIP, CANDIDATES → FINANCE AND THE ELECTORAL-BONDS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g3 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g3\\polity-43_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "bbfb97d264ee98d15e0b21d4254a9c6fd9df9721a2419ee56066ec15fa4c7e0c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PARTY AS DEMOCRATIC INTERMEDIARY, NOT CONSTITUTIONAL SOVEREIGN",
+      "structural_type": "party-role-constitution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PARTY AS DEMOCRATIC INTERMEDIARY, NOT CONSTITUTIONAL SOVEREIGN",
+          "role": "caution"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN PARTIES AGGREGATE CITIZENS AND GOVERN WITHOUT BECOMING",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOCRATIC FUNCTIONS REPRESENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROGRAMME CHOICE GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATIVE COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL LOCATION ORIGINAL CONSTITUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NO COMPREHENSIVE PARTY CODE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can parties aggregate citizens and govern without becoming private constitutional sovereigns?",
+        "DEMOCRATIC FUNCTIONS representation",
+        "programme choice government",
+        "legislative coordination"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can parties aggregate citizens and govern without becoming private constitutional sovereigns?",
+            "DEMOCRATIC FUNCTIONS representation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "programme choice government",
+            "legislative coordination",
+            "LEGAL LOCATION original Constitution: no comprehensive party code."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Tenth Schedule: defection only.",
+            "RPA 1951: registration, contribution and disclosure fields.",
+            "Symbols Order 1968: recognition and symbol disputes."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TENSION public democratic power <→ Article 19(1)(c) associational autonomy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TENSION public democratic power <→ Article 19(1)(c) associational autonomy.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SECTION 29A REGISTRATION AND ECI'S BOUNDED CANCELLATION POWER",
+      "structural_type": "registration-deregistration-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SECTION 29A REGISTRATION AND ECI'S BOUNDED CANCELLATION POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "SECTION 29A ASSOCIATION APPLIES TO ECI",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLEGIANCE DECLARATION TO CONSTITUTION, SOCIALISM, SECULARISM, DEMOCRACY, SOVEREIGNTY, UNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOGNITION REGISTRATION CREATES STATUTORY PARTY STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOGNITION FOLLOWS SYMBOLS ORDER PERFORMANCE CRITERIA.",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN NATIONAL CONGRESS V. INSTITUTE OF SOCIAL WELFARE (2002)",
+          "role": "outcome"
+        },
+        {
+          "text": "ECI HAS NO GENERAL REVIEW/DEREGISTRATION POWER",
+          "role": "caution"
+        },
+        {
+          "text": "NARROW CANCELLATION SURVIVES FOR FRAUD, FOUNDATIONAL DISQUALIFICATION OR ANALOGOUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTION 29A association applies to ECI → memorandum/rules → allegiance",
+        "declaration to Constitution, socialism, secularism, democracy, sovereignty, unity and integrity.",
+        "REGISTRATION != RECOGNITION registration creates statutory party status",
+        "recognition follows Symbols Order performance criteria.",
+        "Indian National Congress v. Institute of Social Welfare (2002)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 29A association applies to ECI → memorandum/rules → allegiance",
+            "declaration to Constitution, socialism, secularism, democracy, sovereignty, unity and integrity."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REGISTRATION != RECOGNITION registration creates statutory party status",
+            "recognition follows Symbols Order performance criteria."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Indian National Congress v. Institute of Social Welfare (2002)",
+            "ECI has no general review/deregistration power"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "narrow cancellation survives for fraud, foundational disqualification or analogous grounds.",
+            "TRAP loss of recognition, symbol consequence and deregistration are different legal events."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP loss of recognition, symbol consequence and deregistration are different legal events.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RECOGNITION AND SYMBOL ARCHITECTURE WITHOUT FREEZING PARTY LISTS",
+      "structural_type": "recognition-criteria-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RECOGNITION AND SYMBOL ARCHITECTURE WITHOUT FREEZING PARTY LISTS",
+          "role": "primary"
+        },
+        {
+          "text": "SYMBOLS ORDER 1968 RECOGNISED NATIONAL PARTY",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNISED STATE PARTY",
+          "role": "institution"
+        },
+        {
+          "text": "REGISTERED-UNRECOGNISED PARTY.",
+          "role": "evidence"
+        },
+        {
+          "text": "ANY ONE DATED ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "6% VALID VOTES IN FOUR OR MORE STATES +",
+          "role": "outcome"
+        },
+        {
+          "text": "2% LOK SABHA SEATS FROM AT LEAST THREE STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE-PARTY RECOGNITION IN FOUR STATES.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SYMBOLS ORDER 1968 recognised National party",
+        "recognised State party",
+        "registered-unrecognised party.",
+        "NATIONAL: ANY ONE DATED ROUTE",
+        "6% valid votes in four or more States + four Lok Sabha seats"
+      ],
+      "matrix": [
+        [
+          "SYMBOLS ORDER 1968 recognised National party",
+          "recognised State party",
+          "registered-unrecognised party.",
+          ""
+        ],
+        [
+          "STATE: ANY ONE DATED ROUTE vote-plus-seat tests",
+          "3% or three Assembly seats",
+          "Lok Sabha ratio route",
+          "8% vote route."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SYMBOLS ORDER 1968 recognised National party",
+            "recognised State party",
+            "registered-unrecognised party.",
+            "NATIONAL: ANY ONE DATED ROUTE"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "6% valid votes in four or more States + four Lok Sabha seats",
+            "2% Lok Sabha seats from at least three States",
+            "State-party recognition in four States.",
+            "STATE: ANY ONE DATED ROUTE vote-plus-seat tests"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "3% or three Assembly seats",
+            "Lok Sabha ratio route",
+            "8% vote route.",
+            "PRIVILEGE reserved symbol and specified electoral facilities."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONTROL criteria are Order-based and re-verifiable; do not freeze the current party list."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL criteria are Order-based and re-verifiable; do not freeze the current party list.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PARTY SYSTEM EVOLUTION, REGIONALISATION AND COALITION FEDERALISM",
+      "structural_type": "party-system-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PARTY SYSTEM EVOLUTION, REGIONALISATION AND COALITION FEDERALISM",
+          "role": "primary"
+        },
+        {
+          "text": "1952-1967 CONGRESS SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "1967 FRAGMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "1977 ALTERNATION",
+          "role": "evidence"
+        },
+        {
+          "text": "1989-2014 COALITION BARGAINING",
+          "role": "primary"
+        },
+        {
+          "text": "2014/2019 SINGLE-PARTY UNION MAJORITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "COALITION-SUPPORTED UNION GOVERNMENT AFTER THE 2024 ELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUED STRONG STATE-PARTY COMPETITION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "1952-1967 Congress system → 1967 fragmentation",
+        "1977 alternation → 1989-2014 coalition bargaining",
+        "2014/2019 single-party Union majorities",
+        "coalition-supported Union government after the 2024 election",
+        "continued strong State-party competition."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1952-1967 Congress system → 1967 fragmentation",
+            "1977 alternation → 1989-2014 coalition bargaining",
+            "2014/2019 single-party Union majorities"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "coalition-supported Union government after the 2024 election",
+            "continued strong State-party competition.",
+            "PARTY-SYSTEM TYPES one-party dominance"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "two-party tendency",
+            "multi-party competition",
+            "coalition system."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REGIONAL PARTIES identity representation + State autonomy + policy innovation",
+            "<→ personalisation + fragmentation + bargaining cost.",
+            "2022 GS-II centralisation/autonomy preference follows organisational position and power incentives, not a permanent ideological law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2022 GS-II centralisation/autonomy preference follows organisational position and power incentives, not a permanent ideological law.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INTERNAL DEMOCRACY, MEMBERSHIP, CANDIDATES AND DYNASTIC CONTROL",
+      "structural_type": "internal-democracy-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTERNAL DEMOCRACY, MEMBERSHIP, CANDIDATES AND DYNASTIC CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "MEMBERSHIP PUBLISHED ELIGIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIABLE ROLL",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTICE/HEARING FOR DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "LEADERSHIP PERIODIC ELECTION",
+          "role": "primary"
+        },
+        {
+          "text": "REAL COMPETITION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPARENT COUNTING",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE-UNIT VOICE.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "MEMBERSHIP published eligibility → reliable roll → notice/hearing for discipline → appeal.",
+        "LEADERSHIP periodic election → real competition → transparent counting → State-unit voice.",
+        "CANDIDATES local consultation + published criteria + integrity + representativeness",
+        "<→ dynasty + money + winnability + central nomination.",
+        "CURRENT GAP"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "MEMBERSHIP published eligibility → reliable roll → notice/hearing for discipline → appeal.",
+            "LEADERSHIP periodic election → real competition → transparent counting → State-unit voice."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CANDIDATES local consultation + published criteria + integrity + representativeness",
+            "<→ dynasty + money + winnability + central nomination."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT GAP",
+            "ECI receives organisational particulars but no comprehensive statutory internal-democracy code exists."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REFORM LIMIT minimum process safeguards must not authorise State selection of ideology or leaders.",
+            "MEMBERSHIP published eligibility → reliable roll → notice/hearing for discipline → appeal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REFORM LIMIT minimum process safeguards must not authorise State selection of ideology or leaders.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FINANCE AND THE ELECTORAL-BONDS CONSTITUTIONAL RESET",
+      "structural_type": "finance-disclosure-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FINANCE AND THE ELECTORAL-BONDS CONSTITUTIONAL RESET",
+          "role": "primary"
+        },
+        {
+          "text": "STATUTORY SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "RPA SECTION 29B",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTRIBUTIONS SUBJECT TO FOREIGN-SOURCE PROHIBITION.",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 29C",
+          "role": "primary"
+        },
+        {
+          "text": "REPORT CONTRIBUTIONS EXCEEDING RS 20,000; TAX-RELIEF CONSEQUENCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "FCRA 2010",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL PARTIES CANNOT ACCEPT FOREIGN CONTRIBUTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATUTORY SPINE",
+        "RPA Section 29B: contributions subject to foreign-source prohibition.",
+        "Section 29C: report contributions exceeding Rs 20,000; tax-relief consequence.",
+        "FCRA 2010: political parties cannot accept foreign contribution.",
+        "Association for Democratic Reforms v. Union of India (2024)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATUTORY SPINE",
+            "RPA Section 29B: contributions subject to foreign-source prohibition."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Section 29C: report contributions exceeding Rs 20,000; tax-relief consequence.",
+            "FCRA 2010: political parties cannot accept foreign contribution."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Association for Democratic Reforms v. Union of India (2024)",
+            "Electoral Bond Scheme and enabling anonymity/unlimited-corporate changes struck down"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "voter Article 19(1)(a) right to information protected; SBI-ECI disclosure ordered.",
+            "The verdict removed one opacity mechanism; it did not enact a complete finance code."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The verdict removed one opacity mechanism; it did not enact a complete finance code.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WHIPS, ANTI-DEFECTION AND PARTY-SYMBOL IDENTITY",
+      "structural_type": "party-discipline-distinction",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHIPS, ANTI-DEFECTION AND PARTY-SYMBOL IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "PARTY ORGANISATION MEMBERSHIP, LEADERSHIP AND CANDIDATE SELECTION.",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGISLATURE PARTY MEMBERS OF THE HOUSE BELONGING TO THE",
+          "role": "comparison"
+        },
+        {
+          "text": "TENTH SCHEDULE VOLUNTARY GIVING UP",
+          "role": "evidence"
+        },
+        {
+          "text": "VOTE/ABSTENTION DIRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDING-OFFICER DECISION.",
+          "role": "outcome"
+        },
+        {
+          "text": "SYMBOLS ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "ECI DECIDES RIVAL-FACTION SYMBOL/RECOGNITION QUESTIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARTY ORGANISATION membership, leadership and candidate selection.",
+        "LEGISLATURE PARTY members of the House belonging to the political party.",
+        "TENTH SCHEDULE voluntary giving up",
+        "vote/abstention direction",
+        "presiding-officer decision."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PARTY ORGANISATION membership, leadership and candidate selection.",
+            "LEGISLATURE PARTY members of the House belonging to the political party.",
+            "TENTH SCHEDULE voluntary giving up"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "vote/abstention direction",
+            "presiding-officer decision.",
+            "SYMBOLS ORDER"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECI decides rival-faction symbol/recognition questions.",
+            "Sadiq Ali v. Election Commission of India (1972) majority in organisational and legislative wings informs symbol identity.",
+            "TRAP symbol dispute, internal leadership, whip authorisation and defection are related but legally separate proceedings."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "vote/abstention direction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP symbol dispute, internal leadership, whip authorisation and defection are related but legally separate proceedings.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CRIMINALISATION, DISCLOSURE AND NOTA LIMITS",
+      "structural_type": "criminalisation-choice-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CRIMINALISATION, DISCLOSURE AND NOTA LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "UNION OF INDIA V. ASSOCIATION FOR DEMOCRATIC REFORMS (2002)",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC INTEREST FOUNDATION (2018) NO JUDICIALLY INVENTED PRE-CONVICTION BAN",
+          "role": "caution"
+        },
+        {
+          "text": "RAMBABU SINGH THAKUR V. SUNIL ARORA (2020) PARTIES PUBLISH",
+          "role": "evidence"
+        },
+        {
+          "text": "LILY THOMAS V. UNION OF INDIA (2013)",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 8(4) SHIELD INVALID; DISQUALIFICATION FOLLOWS CONVICTION.",
+          "role": "outcome"
+        },
+        {
+          "text": "A STAY OF CONVICTION DIFFERS FROM SUSPENSION OF SENTENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMIT DUE PROCESS AND SPEEDY TRIALS MUST ACCOMPANY DISCLOSURE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Union of India v.",
+        "Association for Democratic Reforms (2002) + PUCL (2003) candidate criminal, financial and educational disclosure protects",
+        "Public Interest Foundation (2018) no judicially invented pre-conviction ban; wider publicity ordered.",
+        "Rambabu Singh Thakur v. Sunil Arora (2020) parties publish pending cases and qualification-based selection reasons.",
+        "Lily Thomas v. Union of India (2013)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Union of India v.",
+            "Association for Democratic Reforms (2002) + PUCL (2003) candidate criminal, financial and educational disclosure protects informed voting.",
+            "Public Interest Foundation (2018) no judicially invented pre-conviction ban; wider publicity ordered."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Rambabu Singh Thakur v. Sunil Arora (2020) parties publish pending cases and qualification-based selection reasons.",
+            "Lily Thomas v. Union of India (2013)",
+            "Section 8(4) shield invalid; disqualification follows conviction."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "A stay of conviction differs from suspension of sentence.",
+            "LIMIT due process and speedy trials must accompany disclosure.",
+            "People's Union for Civil Liberties (2013)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NOTA protects negative secret choice but does not trigger automatic re-poll."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Rambabu Singh Thakur v. Sunil Arora (2020) parties publish pending cases and qualification-based selection reasons.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DONATIONS, DISCLOSURE AND FOREIGN-SOURCE CONTROLS",
+      "structural_type": "finance-compliance-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DONATIONS, DISCLOSURE AND FOREIGN-SOURCE CONTROLS",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 29B PERMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPANY/TAX CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "FCRA FOREIGN-SOURCE PROHIBITION.",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 29C",
+          "role": "primary"
+        },
+        {
+          "text": "CONTRIBUTIONS EXCEEDING RS 20,000",
+          "role": "outcome"
+        },
+        {
+          "text": "TREASURER REPORT TO ECI BEFORE INCOME-TAX RETURN DUE DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-COMPLIANCE AFFECTS TAX RELIEF.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Section 29B permission → company/tax controls → FCRA foreign-source prohibition.",
+        "Section 29C: contributions exceeding Rs 20,000",
+        "treasurer report to ECI before income-tax return due date",
+        "non-compliance affects tax relief.",
+        "TRACEABLE ROUTES banking channel"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "Section 29B permission → company/tax controls → FCRA foreign-source prohibition.",
+          "non-compliance affects tax relief.",
+          "audited party account",
+          "limit != Section 29C threshold lawful privacy != blanket donor anonymity."
+        ],
+        [
+          "Section 29C: contributions exceeding Rs 20,000",
+          "TRACEABLE ROUTES banking channel",
+          "beneficial ownership.",
+          ""
+        ],
+        [
+          "treasurer report to ECI before income-tax return due date",
+          "electoral trust",
+          "DO NOT CONFLATE party contribution reporting != candidate expenditure tax cash",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Section 29B permission → company/tax controls → FCRA foreign-source prohibition.",
+            "Section 29C: contributions exceeding Rs 20,000",
+            "treasurer report to ECI before income-tax return due date"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "non-compliance affects tax relief.",
+            "TRACEABLE ROUTES banking channel",
+            "electoral trust"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "audited party account",
+            "beneficial ownership.",
+            "DO NOT CONFLATE party contribution reporting != candidate expenditure tax cash"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "limit != Section 29C threshold lawful privacy != blanket donor anonymity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DO NOT CONFLATE party contribution reporting != candidate expenditure tax cash limit != Section 29C threshold lawful privacy != blanket donor anonymity.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "JUDGMENT CHAIN AND BOUNDED INSTITUTIONAL POWERS",
+      "structural_type": "party-case-law-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JUDGMENT CHAIN AND BOUNDED INSTITUTIONAL POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "SADIQ ALI V. ELECTION COMMISSION OF INDIA (1972)",
+          "role": "outcome"
+        },
+        {
+          "text": "SYMBOL IDENTITY USES ORGANISATIONAL AND LEGISLATIVE SUPPORT.",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION OF INDIA V. ASSOCIATION FOR DEMOCRATIC REFORMS (2002)",
+          "role": "evidence"
+        },
+        {
+          "text": "CANDIDATE INFORMATION AND INFORMED VOTING.",
+          "role": "primary"
+        },
+        {
+          "text": "PUCL (2003)",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCLOSURE SAFEGUARDS SUSTAINED.",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTE OF SOCIAL WELFARE (2002)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Sadiq Ali v. Election Commission of India (1972) → symbol identity uses organisational and legislative",
+        "Union of India v. Association for Democratic Reforms (2002)",
+        "candidate information and informed voting.",
+        "PUCL (2003) → disclosure safeguards sustained.",
+        "Institute of Social Welfare (2002) → no general ECI deregistration power."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Sadiq Ali v. Election Commission of India (1972) → symbol identity uses organisational and legislative support.",
+            "Union of India v. Association for Democratic Reforms (2002)",
+            "candidate information and informed voting."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PUCL (2003) → disclosure safeguards sustained.",
+            "Institute of Social Welfare (2002) → no general ECI deregistration power.",
+            "Lily Thomas v. Union of India (2013) → Section 8(4) protection invalid."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Public Interest Foundation (2018) → no court-created pre-conviction ban.",
+            "Rambabu Singh Thakur v. Sunil Arora (2020) → party publicity and selection reasons.",
+            "Association for Democratic Reforms v. Union of India (2024)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "electoral-bond anonymity struck down.",
+            "State the exact proposition; do not turn a direction or narrow exception into a general power.",
+            "People's Union for Civil Liberties (2013) → NOTA as negative secret choice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "People's Union for Civil Liberties (2013) → NOTA as negative secret choice.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PYQ DEMAND DECODING AND EXECUTABLE ANSWER SPINE",
+      "structural_type": "pyq-answer-architecture",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PYQ DEMAND DECODING AND EXECUTABLE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "2022 GS-II Q13 TEST CENTRALISATION/AUTONOMY PROPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "INCENTIVES AND ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "COALITION CHRONOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "INSTITUTIONAL FEDERAL SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "OTHER HIGH-YIELD DEMANDS INTERNAL DEMOCRACY",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULATION AT EDGES/INTERIOR",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE AFTER 2024 CRIMINALISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2022 GS-II Q13 test centralisation/autonomy proposition → incentives and organisation",
+        "coalition chronology → counter-evidence → institutional federal safeguards → verdict.",
+        "OTHER HIGH-YIELD DEMANDS internal democracy",
+        "regulation at edges/interior",
+        "finance after 2024 criminalisation"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "2022 GS-II Q13 test centralisation/autonomy proposition → incentives and organisation",
+          "regulation at edges/interior",
+          "fragmented oversight.",
+          "QUALITY CONTROL exact year/paper/marks/words"
+        ],
+        [
+          "coalition chronology → counter-evidence → institutional federal safeguards → verdict.",
+          "finance after 2024 criminalisation",
+          "ANSWER METHOD opening thesis → correct legal source → mechanism → named evidence",
+          "no party-list padding"
+        ],
+        [
+          "OTHER HIGH-YIELD DEMANDS internal democracy",
+          "coalition federalism",
+          "limitation/counter → proportionate reform → one-line verdict.",
+          "answer-specific compression."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "2022 GS-II Q13 test centralisation/autonomy proposition → incentives and organisation",
+            "coalition chronology → counter-evidence → institutional federal safeguards → verdict.",
+            "OTHER HIGH-YIELD DEMANDS internal democracy"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "regulation at edges/interior",
+            "finance after 2024 criminalisation",
+            "coalition federalism"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "fragmented oversight.",
+            "ANSWER METHOD opening thesis → correct legal source → mechanism → named evidence",
+            "limitation/counter → proportionate reform → one-line verdict."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "QUALITY CONTROL exact year/paper/marks/words",
+            "no party-list padding",
+            "answer-specific compression."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "coalition chronology → counter-evidence → institutional federal safeguards → verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC ANSWER SYNTHESIS AND REFORM BALANCE",
+      "structural_type": "party-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC ANSWER SYNTHESIS AND REFORM BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "29A REGISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FREE SYMBOL RECOGNITION LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGISLATURE PARTY",
+          "role": "primary"
+        },
+        {
+          "text": "BONDS VERDICT",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCE CODE.",
+          "role": "comparison"
+        },
+        {
+          "text": "MAINS SPINE DEMOCRATIC ROLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "29A registration != recognition",
+        "reserved != free symbol recognition loss != deregistration",
+        "disclosure != disqualification",
+        "NOTA != re-poll"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "29A registration != recognition",
+            "reserved != free symbol recognition loss != deregistration",
+            "disclosure != disqualification"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NOTA != re-poll",
+            "party != legislature party",
+            "bonds verdict != finance code.",
+            "MAINS SPINE democratic role → segmented legal basis → party-system evolution"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "internal democracy → finance → criminalisation → whip/symbol interfaces",
+            "autonomy-transparency balance → reform.",
+            "REFORM PACKAGE verified internal elections",
+            "candidate criteria"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "donation transparency independent audit",
+            "trial expedition",
+            "narrow deregistration amendment proportionate ECI power + judicial review.",
+            "VERDICT regulate the party's public consequences while preserving its legitimate associational core."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT regulate the party's public consequences while preserving its legitimate associational core.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\polity-43-g3-reviewed-source.md#BASIC LEARNING SESSION"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — FEATURES OF THE INDIAN PARTY SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — RECOGNITION",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL VS STATE PARTIES",
+          "role": "institution"
+        },
+        {
+          "text": "MULTI-PARTY SYSTEM — NATIONAL, STATE AND REGISTERED-UNRECOGNISED PARTIES OPERATE",
+          "role": "institution"
+        },
+        {
+          "text": "AVOID UNVERIFIABLE GLOBAL SUPERLATIVES.",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE-DOMINANT-PARTY SYSTEM — RAJNI KOTHARI'S \"CONGRESS SYSTEM\" (DECLINED POST-1967).",
+          "role": "comparison"
+        },
+        {
+          "text": "LACK OF CLEAR IDEOLOGY (EXCEPT BJP, CPI, CPM); PERSONALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — FEATURES OF THE INDIAN PARTY SYSTEM",
+            "PART B — RECOGNITION: NATIONAL vs STATE PARTIES",
+            "Multi-party system — national, State and registered-unrecognised parties operate at multiple territorial scales",
+            "avoid unverifiable global superlatives."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "One-dominant-party system — Rajni Kothari's \"Congress system\" (declined post-1967).",
+            "Lack of clear ideology (except BJP, CPI, CPM); personality cult ; parties based on religion/caste/language .",
+            "Emergence of regional parties ; factions & defections ; lack of an effective Opposition .",
+            "Reserved symbol ; one proposer for nomination; broadcast time on state media; access to electoral rolls."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Star campaigners: recognised = 40 , registered-unrecognised = 20 (their travel not counted in candidate expenditure).",
+            "NOT: Parties are registered under the Constitution → registered under Sec 29A, RPA 1951 (a statute).",
+            "NOT: National-party status needs 6% votes in all states → 6% in any 4+ states + 4 LS seats (or the alternatives).",
+            "NOT: Recognised & unrecognised parties get the same star campaigners → 40 vs 20 ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

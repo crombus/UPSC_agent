@@ -69,8 +69,10 @@ independent judiciary**.
 
 ## 6. 📰 Current link
 
-📰 J&K had its own constitution (Art 370) till 2019; abrogation **upheld by SC in Dec 2023** — a live
-illustration of India's federal-with-unitary-bias design.
+📰 J&K operated under its own Constitution within Article 370's asymmetrical arrangement until 2019.
+In December 2023 the Supreme Court upheld the application of the whole Constitution through the 2019
+measures, treated Article 370 as temporary and recorded the Union's assurance on restoration of statehood.
+No official restoration notification was located in the sources checked on **28 August 2026**.
 
 ➡️ All the features in detail, the sources table, the criticism, the traps and the Mains angles are
 held **in this file**.
@@ -115,14 +117,14 @@ Executable route:
 | Separation of powers / checks and balances | "strict separation", "Explain" | Strict vs checks → Arts 50/121/122/211/212/361 → overlaps → basic structure |
 | Constitutional morality | "essential facets", "with illustrations" | Definition → facets → Preamble/FR source → 2018 cases → caution |
 | Borrowed vs original | "bag of borrowings", Ambedkar's defence | Adapted table → rejected features → indigenous additions → verdict |
-| Parliamentary sovereignty vs judicial supremacy | "synthesis", "who is supreme" | Neither absolute → Art 21 "procedure established by law" → Art 368 vs basic structure |
+| Parliamentary sovereignty vs judicial review | "synthesis", "who is supreme" | Neither absolute → *Maneka Gandhi* qualification of Art 21 procedure → Art 368 vs basic structure |
 | Secularism | "positive secularism", India vs West | No state religion → Arts 25–28 → equal respect (not a wall) → verdict |
 
 ### 7.2 Qualified thesis options
 
 - *India follows checks and balances rather than a strict separation of powers, because a parliamentary executive is by design fused with the legislature, and it is judicial review — not organ isolation — that guards liberty.*
 - *Constitutional morality is not the morality of judges but the disciplined fidelity to constitutional methods and values that Ambedkar thought a young democracy could not take for granted.*
-- *The Indian Constitution is federal in form but unitary in spirit: it distributes power like a federation yet retains, through single citizenship, an integrated judiciary, all-India services and emergency provisions, the capacity to act as a unitary state.*
+- *The Indian Constitution combines federal power-sharing with a strong-centre design: single citizenship, an integrated judiciary, All-India Services and emergency provisions create integration without erasing constitutionally distributed State power.*
 - *The charge that the Constitution is a "bag of borrowings" mistakes adaptation for imitation: what was borrowed was reshaped, and what was most distinctive — universal franchise, positive secularism, a justiciable-plus-directive rights scheme — was not borrowed at all.*
 
 ### 7.3 Mark-scaled structures
@@ -131,14 +133,14 @@ Executable route:
 |---:|---|---|
 | 10 | Direct thesis → 2–3 constitutional anchors → one counterpoint → verdict | 3 units (Articles + one case) |
 | 15 | Thesis → dimension 1 → dimension 2 → adapted/rejected contrast → verdict | 5–6 units |
-| 20 | Thesis → federal/unitary → separation & morality → borrowed/adapted/rejected → indigenous additions → graded verdict | 6–8 units + a sources paragraph |
+| 20 · 250 words | Thesis → federal/unitary → separation & morality → borrowed/adapted/rejected → indigenous additions → graded verdict | 6–8 units + a sources paragraph |
 
 ### 7.4 Bank A — Borrowed, adapted and rejected (value-add engine)
 
 | Source | Adapted into the Constitution | Consciously **rejected / altered** |
 |---|---|---|
 | ✅ British | Parliamentary govt, rule of law, single citizenship, writs, bicameralism | **Parliamentary sovereignty** (India has judicial review) and hereditary monarchy (India is a **republic**) |
-| ✅ US | Fundamental Rights, judicial review, VP, impeachment | **"Due process"** → India uses **"procedure established by law" (Art 21)**; rigid separation and **dual citizenship** rejected |
+| ✅ US | Fundamental Rights, judicial review, VP, impeachment | The text chose **"procedure established by law" (Art 21)** rather than the US phrase "due process", but *Maneka Gandhi* (1978) requires procedure to be fair, just and reasonable; rigid separation and **dual citizenship** were not adopted |
 | ✅ Ireland | DPSP, Rajya Sabha nomination, method of Presidential election | — |
 | ✅ Canada | Strong-Centre federation, residuary powers in the Centre, Centre-appointed Governors | US-style "indestructible states" rejected in favour of a strong Centre |
 | ✅ Australia | Concurrent List, joint sitting, freedom of trade | — |
@@ -159,7 +161,7 @@ Executable route:
 
 ### 7.7 Mechanism, incentives and consequences
 
-- ⚠️ **Federal-with-unitary-bias mechanism:** single citizenship, integrated judiciary, all-India services and Arts 352–360 let the polity **convert to unitary operation** in crisis without formal amendment — efficient in emergencies but prone to central overreach (the Art 356 debate).
+- ⚠️ **Strong-centre federal mechanism:** single citizenship, integrated judiciary, All-India Services and Arts 352–360 permit constitutionally specified centralisation in crisis without dissolving the federal Constitution — useful for emergency coordination but prone to central overreach (the Art 356 debate).
 - ⚠️ **Checks-and-balances incentive:** fusion of executive and legislature concentrates power in the majority party, so **judicial review** and the **basic-structure** limit become the principal external check.
 - ⚠️ **Who gains, who loses:** the design privileges the ruling majority in ordinary times and the Centre in emergencies; the individual and the minority depend on **judicial review** and the basic-structure limit for protection.
 
@@ -178,24 +180,31 @@ Executable route:
 ### 7.10 Prelims close-option distinctions (answers the routed objective demands)
 
 - **Routed 2024 Q74 — Constitution Parts:** ✅ **Part IX-A = Municipalities**; ✅ **Part XVIII = Emergency Provisions (Arts 352–360)**; ✅ **Part XX = Amendment of the Constitution (Art 368)**. (Panchayats = Part IX; Union Territories = Part VIII.)
-- **Routed 2018 Q45 — Rule of Law:** ✅ **Dicey's three elements** — supremacy of (regular) law over arbitrary power; **equality before the law**; and rights flowing from **judicial decisions** (the "predominance of legal spirit").
-- **Routed 2018 Q40 — law and liberty:** ⚠️ in the liberal-constitutional view, **law is the condition of liberty, not its opposite** — ordered liberty exists **because** the rule of law restrains arbitrary power.
+- **Routed 2018 Q45 — Rule of Law:** ✅ exact official-paper answer **C (1, 2 and 4 only)** — limitation of powers, equality before law, and liberty/civil rights. "People's responsibility to the Government" is not a defining limb.
+- **Routed 2018 Q40 — law and liberty:** ✅ exact official-paper answer **B — "If there are no laws, there is no liberty."** Ordered liberty depends on general, constitutionally limited law; this does not mean that every law enlarges liberty.
 - **Routed 2020 Q7 & 2021 Q94 — constitutional government:** ⚠️ a **constitutional (limited) government** is one whose powers are **defined and limited by a constitution** and subject to checks (rule of law, judicial review), as against arbitrary or unlimited government.
+- **Cross-owned 2021 Q86 — federal character:** ✅ exact official-paper answer **A — safeguarded independence of the judiciary**; federal competence requires an independent constitutional umpire. Primary owner: Federal System.
 - **Routed 2023 Q33 — chief purpose of a Constitution:** ⚠️ to **constitute and limit** governmental power — distribute authority among organs and protect citizens' rights — rather than merely to organise administration.
 - **Routed 2021 Q87 — definition of "State" (political science):** ⚠️ the four elements — **population, territory, government and sovereignty**.
-- **Routed 2021 Q90 — best safeguard of liberty in a liberal democracy:** ⚠️ conventionally an **independent judiciary and the rule of law** (with an alert citizenry) rather than mere decentralisation or a free press alone.
-- **Routed 2023 Q84 — National Flag / Flag Code:** ✅ the National Flag's **aspect ratio is 3:2** (length : width) under the **Flag Code of India, 2002**, which prescribes standard sizes; ⚠️ do **not** state specific dimensions unless certain.
+- **Cross-owned 2021 Q89 — single citizenship:** ✅ exact official-paper answer **A (statement 1 only)**. India has one citizenship and one domicile in the question's formulation; the other statements use false absolutes. Primary owner: Citizenship.
+- **Routed 2021 Q90 — best safeguard of liberty in a liberal democracy:** ✅ exact official-paper answer **D — separation of powers**. A "committed judiciary" is not synonymous with an independent judiciary.
+- **Routed 2023 Q84 — National Flag / Flag Code:** ✅ answer **D — Statement I is incorrect but Statement II is correct**. The Flag Code's nine standard sizes do **not** include 600 mm × 400 mm, although the prescribed ratio is 3:2.
 - **Standard traps:** ✅ Art 1 = **"Union of States"** ("Federation" never used); ✅ Art 21 = **"procedure established by law"**, not "due process"; ✅ "socialist/secular" added by the **42nd Amendment, 1976**; ✅ voting age lowered **21 → 18** by the **61st Amendment, 1988**.
 
 ### 7.11 Factual-risk and current-status controls
 
 - Do **not** say the Constitution uses the word **"Federation"** — ✅ Art 1 says **"Union of States."**
-- Do **not** attribute **"due process"** to India — ✅ Art 21 = **"procedure established by law."**
+- Do **not** mechanically equate the wording of Art 21 with narrow review — ✅ the text says **"procedure established by law"**, while *Maneka Gandhi* requires the procedure to be fair, just and reasonable.
 - Do **not** say India follows a **strict** separation of powers — ✅ it follows **checks and balances**.
 - Do **not** present "socialist/secular/integrity" as original Preamble words — ✅ added by the **42nd Amendment, 1976**.
 - Do **not** describe constitutional morality as a judge's personal morality — ✅ it is derived from constitutional text and structure.
-- 📰 **J&K / Art 370:** the special status was abrogated in 2019 and the **Supreme Court upheld the abrogation in December 2023** (*In re Article 370*); state this with its date and as a decided matter.
-- Do **not** quote specific National-Flag dimensions from memory — ✅ only the **3:2 ratio** and the **Flag Code of India, 2002** are safe.
+- Do **not** claim a blanket ban on judges' post-retirement work — ✅ Article 124(7) bars retired Supreme Court judges from pleading or acting before any court or authority in India, while Article 220 permits retired permanent High Court judges to practise only before the Supreme Court and other High Courts.
+- Do **not** homogenise constitutional bodies — ✅ the Election Commission, CAG, Public Service Commissions and Finance Commission have different appointment, tenure, removal, expenditure and reporting designs; charged expenditure is not a generic safeguard for all.
+- Do **not** call crisis centralisation or a constitutional third tier globally unique — ✅ state India's specific Articles 352/356/360 design and Parts IX/IX-A architecture instead.
+- Do **not** say single citizenship eliminates every State-linked distinction — ✅ constitutionally or legally permitted residence, domicile and local qualifications can still matter in specified contexts.
+- 📰 **Co-operative societies:** *Union of India v. Rajendra N. Shah* (20 July 2021) invalidated Part IX-B insofar as it governed State co-operative societies without State ratification; the multi-State portion survived. Source checked **28 August 2026**.
+- 📰 **J&K / Art 370:** the Supreme Court upheld the application of the whole Constitution through the 2019 measures in December 2023 (*In re Article 370*), treated Article 370 as temporary and recorded the Union's statehood assurance. No official restoration notification was located by **28 August 2026**.
+- **National Flag:** ✅ the Flag Code lists 6300×4200, 3600×2400, 2700×1800, 1800×1200, 1350×900, 900×600, 450×300, 225×150 and 150×100 mm; **600×400 mm is not a standard size**. Ratio alone does not establish notified status.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

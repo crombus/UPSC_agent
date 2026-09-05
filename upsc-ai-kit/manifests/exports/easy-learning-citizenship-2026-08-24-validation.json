@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "validation_id": "easy-learning-citizenship-2026-08-24",
+  "validated_at": "2026-08-24T11:08:00+05:30",
+  "status": "passed",
+  "scope": {
+    "subject": "Polity",
+    "topic": "Citizenship only",
+    "fundamental_rights_started": false,
+    "source_record": "polity-06:learner-v2:g14",
+    "source_checked_through": "2026-08-21"
+  },
+  "deliverables": [
+    {
+      "path": "notes\\Easy-Learning\\Polity\\06-Citizenship\\Citizenship-Guided-Learning-Edition.pdf",
+      "bytes": 1913303,
+      "sha256": "f5110cbb3e518e3c698e99ef59987d296ef4e1045d146267282ff92dd9696c39"
+    },
+    {
+      "path": "notes\\Easy-Learning\\Polity\\06-Citizenship\\README.txt",
+      "bytes": 1295,
+      "sha256": "b4c887f23f295269e67b143a7bfb1454ec896c04ce1f7950596b6b19db82c5d7"
+    },
+    {
+      "path": "notes\\Easy-Learning\\Polity\\06-Citizenship\\COVERAGE-REPORT.md",
+      "bytes": 71245,
+      "sha256": "4b40733e315466e722edb336ab03f99e61417576636a87829f83de83fe53b191"
+    },
+    {
+      "path": "upsc-ai-kit\\knowledge\\Easy-Learning\\Polity\\06-Citizenship\\Citizenship-Guided-Learning-Edition.md",
+      "bytes": 293098,
+      "sha256": "14f109abedc834ff8a1623bd8fa2b3561c7a67ae0c2c86a16866b507d5b4d596"
+    },
+    {
+      "path": "tools\\easy_learning_pdf.py",
+      "bytes": 21932,
+      "sha256": "545838bd61e11d635d7d60dea5c178dc18ea7255bd2af78b8e07561e0cd1e193"
+    },
+    {
+      "path": "tools\\test_easy_learning_pdf.py",
+      "bytes": 14291,
+      "sha256": "8564dd6bc8c6a843351ea4ceb60f76135032c558352f8c406cd45e9e63a6dd2b"
+    }
+  ],
+  "content_validation": {
+    "module_count": 12,
+    "module_sequence_complete": true,
+    "conceptual_check_count": 24,
+    "answers_deferred_to_final_section": true,
+    "data_vault_sections": 10,
+    "source_heading_coverage": {
+      "active_markdown": 255,
+      "paired_workbook": 63,
+      "unexplained_omissions": 0
+    },
+    "coverage_report_claim": "ZERO UNEXPLAINED OMISSIONS",
+    "precision_corrections": [
+      "Expanded the Section 10(1) category gate in the guided layer.",
+      "Separated Article 30 from the citizen-only rights line in the reproduced ASCII master."
+    ],
+    "current_law_caveat": "Current-status claims inherit the repository official-source audit through 21 August 2026; no later official final CAA merits judgment was independently located in this run."
+  },
+  "pdf_validation": {
+    "status": "passed",
+    "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Easy-Learning\\Polity\\06-Citizenship\\Citizenship-Guided-Learning-Edition.pdf",
+    "page_count": 123,
+    "bookmarks": 16,
+    "toc_page_targets_valid": true,
+    "blank_pages": [],
+    "near_empty_pages": [],
+    "replacement_glyph_pages": [],
+    "overflow_pages": [],
+    "configured_body_font_pt": 10.6,
+    "configured_body_leading_pt": 16.0,
+    "configured_table_font_floor_pt": 8.3,
+    "configured_ascii_font_pt": 7.5,
+    "observed_min_non_footer_font_pt": 7.5,
+    "observed_median_font_pt": 10.6
+  },
+  "visual_review": {
+    "contact_sheet_count": 7,
+    "contact_sheets": [
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-citizenship-2026-08-24-preview\\contact-sheet-01.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-citizenship-2026-08-24-preview\\contact-sheet-02.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-citizenship-2026-08-24-preview\\contact-sheet-03.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-citizenship-2026-08-24-preview\\contact-sheet-04.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-citizenship-2026-08-24-preview\\contact-sheet-05.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-citizenship-2026-08-24-preview\\contact-sheet-06.png",
+      "upsc-ai-kit\\manifests\\exports\\easy-learning-citizenship-2026-08-24-preview\\contact-sheet-07.png"
+    ],
+    "manual_review": "passed",
+    "technical_preview_outside_user_topic_folder": true,
+    "notes": [
+      "TOC and module bands readable.",
+      "Data Vault uses a distinct green band.",
+      "No clipping, overlap, blank pages or replacement glyphs observed.",
+      "Final short page contains the closing provenance note and is not blank."
+    ]
+  },
+  "tests": {
+    "command": "python -m unittest tools.test_easy_learning_pdf -v",
+    "test_count": 11,
+    "status": "passed"
+  },
+  "protected_integrity": {
+    "status": "passed",
+    "files": [
+      {
+        "path": "EXPORT-PDF-STATUS.json",
+        "sha256_before": "66402036b017f32f0fb234a56e984cd6db70e34d707eabf616ddacf79e20da3c",
+        "sha256_after": "66402036b017f32f0fb234a56e984cd6db70e34d707eabf616ddacf79e20da3c",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\markdown_learning_pdf.py",
+        "sha256_before": "c6717f3d7b651210698a10a758aa04b9b17cb32be3e144479eec6804408b7051",
+        "sha256_after": "c6717f3d7b651210698a10a758aa04b9b17cb32be3e144479eec6804408b7051",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\export_four_item_library.py",
+        "sha256_before": "40fa000d78d50acddd065ba3d3afb41e283a7a4bc3c0e972dcad89d2d52ca444",
+        "sha256_after": "40fa000d78d50acddd065ba3d3afb41e283a7a4bc3c0e972dcad89d2d52ca444",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\test_export_four_item_library.py",
+        "sha256_before": "67e0e7d50534a1da4ead3666ad6353a6340e97ff81a8551ebf11d367aad1c21e",
+        "sha256_after": "67e0e7d50534a1da4ead3666ad6353a6340e97ff81a8551ebf11d367aad1c21e",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-23.json",
+        "sha256_before": "53c32fb79b84e4b23baaa0bdd7830d08f4b6f08b7d21710c02337e46d8a660c0",
+        "sha256_after": "53c32fb79b84e4b23baaa0bdd7830d08f4b6f08b7d21710c02337e46d8a660c0",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-24-validation.json",
+        "sha256_before": "45e632c8cb558bbea1bfc38486ed33397d20843d7e60e617bec3183d744553ec",
+        "sha256_after": "45e632c8cb558bbea1bfc38486ed33397d20843d7e60e617bec3183d744553ec",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\finalize_v2_topic.py",
+        "sha256_before": "0d5de3ff92de49d9b3a7e4034dcbdaa398834ca05932d8a7f67f60501da3c039",
+        "sha256_after": "0d5de3ff92de49d9b3a7e4034dcbdaa398834ca05932d8a7f67f60501da3c039",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\generate_v2_section_indexes.py",
+        "sha256_before": "ef2db25a49896c90d4b86fea4edd0328a7af0c2dc4ce0f34c29fbfd1eb0c4b3b",
+        "sha256_after": "ef2db25a49896c90d4b86fea4edd0328a7af0c2dc4ce0f34c29fbfd1eb0c4b3b",
+        "byte_unchanged": true
+      },
+      {
+        "path": "tools\\refresh_all_v2_learning_sessions.py",
+        "sha256_before": "c57bba9f63f09a173fa1c6e4e5f6faaf549efe5d8b8d5fc082fa66ba4f66a1c8",
+        "sha256_after": "c57bba9f63f09a173fa1c6e4e5f6faaf549efe5d8b8d5fc082fa66ba4f66a1c8",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Complete-Learning-Session_2026-08-23.md",
+        "sha256_before": "527ab9bb9be70863f2f872535d6cc779f45067fb95a46807427578d0f5231ee7",
+        "sha256_after": "527ab9bb9be70863f2f872535d6cc779f45067fb95a46807427578d0f5231ee7",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Solved-Practice-Workbook_2026-08-23.md",
+        "sha256_before": "7627a4b45468012035ca415e67256115a5dbbc9cd0de14165ab80812f4ddee37",
+        "sha256_after": "7627a4b45468012035ca415e67256115a5dbbc9cd0de14165ab80812f4ddee37",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md",
+        "sha256_before": "5a63ab5056f7e111634cd5ddfafcc614100797a1dee93c257b3e762a5ec01656",
+        "sha256_after": "5a63ab5056f7e111634cd5ddfafcc614100797a1dee93c257b3e762a5ec01656",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\06_Citizenship.md",
+        "sha256_before": "c54426b83470c669a1fa4642d7db71d1bd191fc878eccd475a673ad4fd687dbc",
+        "sha256_after": "c54426b83470c669a1fa4642d7db71d1bd191fc878eccd475a673ad4fd687dbc",
+        "byte_unchanged": true
+      },
+      {
+        "path": "upsc-ai-kit\\knowledge\\Polity\\06_Citizenship_Complete-Topic-Package.md",
+        "sha256_before": "b1ffeb37cc7a02741f4adf19003256ec0628479a6d6aced950232ca339812a07",
+        "sha256_after": "b1ffeb37cc7a02741f4adf19003256ec0628479a6d6aced950232ca339812a07",
+        "byte_unchanged": true
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Complete-Learning-Session_2026-08-23.pdf",
+        "sha256_before": "09a3fca51ea177f9119e7d0a596ad7cb51adca0388094b5716bc5a0c8cde7dd7",
+        "sha256_after": "09a3fca51ea177f9119e7d0a596ad7cb51adca0388094b5716bc5a0c8cde7dd7",
+        "byte_unchanged": true
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Solved-Practice-Workbook_2026-08-23.pdf",
+        "sha256_before": "c17ca803528ee6826c537676fc493a962e0c430bb8d941f7aaf95fad519b820d",
+        "sha256_after": "c17ca803528ee6826c537676fc493a962e0c430bb8d941f7aaf95fad519b820d",
+        "byte_unchanged": true
+      }
+    ]
+  },
+  "pdf_text_markers": {
+    "toc": true,
+    "final_answers": true,
+    "data_vault": true,
+    "running_progress": true
+  },
+  "approval": {
+    "approved": false,
+    "note": "Additional Easy Learning edition; no existing learner-v2 approval or tracker record changed."
+  }
+}

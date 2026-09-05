@@ -12,8 +12,9 @@
 ## Organisation ⭐
 ✅ In the **integrated judiciary**, the HC sits below the SC, above subordinate courts. First HCs at
 **Calcutta, Bombay, Madras (1862)**, Allahabad (1866). **Art 214** — an HC for each state, but the **7th Amdt
-(1956)** allows a **common HC for two+ states / states + UT**. At present **25 High Courts** (jurisdiction
-co-terminus with state territory). **Articles 214–231 (Part VI).**
+(1956)** allows a **common HC for two+ states / states + UT**. At present **25 High Courts**; territorial
+jurisdiction follows the Constitution and parliamentary/reorganisation law, so it is not invariably
+co-terminus with one State. **Articles 214–231 (Part VI).**
 
 ## Composition & appointment ⭐
 ✅ CJ + judges **as the President deems necessary** (strength not fixed). Appointed by the **President** — CJ
@@ -22,6 +23,9 @@ At the originating HC, the Chief Justice consults the **two seniormost HC collea
 At the Supreme Court stage, the collegium for an HC appointment is **CJI + 2 seniormost SC
 judges**; HC-judge transfers require broader consultation including four senior SC judges
 (Third Judges Case, 1998). NJAC was struck down in 2015.
+
+📰 The Department of Justice statement dated **1 July 2026** records **1,122 sanctioned posts,
+781 working judges and 341 vacancies** across the High Courts. Quote these only with the date.
 
 ## Qualifications, tenure, removal ⭐
 ✅ Citizen + **10 yrs judicial office OR 10 yrs HC advocate** (NO "distinguished jurist" option, unlike SC;
@@ -35,8 +39,8 @@ can be **transferred** by the President (after consulting CJI).
 | ✅ **Original** | admiralty, contempt, election disputes, **FR enforcement**; 4 HCs (Cal/Bom/Mad/Del) have original **civil** jurisdiction |
 | ✅ **Writ (Art 226)** | 5 writs — for FRs **AND "any other purpose"** → **wider than SC's Art 32**; concurrent with SC. *Chandra Kumar (1997): HC writ power is part of **basic structure**, cannot be excluded* |
 | ✅ **Appellate** | civil & criminal appeals from subordinate courts; **death sentence needs HC confirmation** |
-| ✅ **Supervisory (Art 227)** | superintendence over all courts/tribunals in territory (except military); can be **suo motu** |
-| ✅ **Control over subordinate courts** | consulted on district-judge appointments; withdraws cases involving constitutional questions |
+| ✅ **Supervisory (Art 227)** | superintendence over all courts/tribunals in territory (except Armed-Forces-law forums); can be **suo motu**, but is not a substitute appeal |
+| ✅ **Control over subordinate courts** | Article 235 posting, promotion, leave and disciplinary control; Article 228 constitutional withdrawal is a separate power |
 | ✅ **Court of Record (Art 215)** | precedents + contempt power |
 | ✅ **Judicial Review** | strike down unconstitutional laws/orders |
 
@@ -47,18 +51,26 @@ can be **transferred** by the President (after consulting CJI).
 | Tier | Civil side | Criminal side |
 |---|---|---|
 | ✅ Top | **District Judge** | **Sessions Judge** (same person) |
-| ✅ Middle | Subordinate Judge | Chief Judicial Magistrate (≤7 yrs) |
-| ✅ Lowest | Munsiff | Judicial Magistrate (≤3 yrs) |
+| ✅ Middle | Civil Judge (Senior Division) | Chief Judicial Magistrate |
+| ✅ Lowest | Civil Judge (Junior Division) / Munsiff | Judicial Magistrate |
 
 ✅ **District Judge** — highest judicial authority in the district; original + appellate (civil & criminal);
 as **Sessions Judge** can award **capital punishment** (subject to **HC confirmation**). **Art 233** — district
 judges appointed by the **Governor in consultation with the HC**. Metro cities: **City Civil Courts** &
 **Metropolitan Magistrates**; also **Small Causes Courts**, **Nyaya Panchayats/Gram Kutchery**.
 
+📰 *Rejanish K.V. v. K. Deepa* (2025) prospectively overruled *Dheeraj Mor*: qualifying serving
+judicial officers may compete in direct District-Judge recruitment under the Court's combined
+experience, age and application-date conditions. *All India Judges Association* (20 May 2025)
+restored a prospective three-year Bar-practice requirement for Civil Judge (Junior Division)
+recruitment and revised promotional channels.
+
 ## NALSA (Art 39A) ⭐
 ✅ **National Legal Services Authority** — under the **Legal Services Authorities Act 1987** (in force **1995**);
-free legal aid + **Lok Adalats**; tiered NALSA → SLSA → DLSA → Taluk committees. Eligible: women, children,
-SC/ST, disabled, custody, disaster victims, income ≤ ₹1 lakh, etc.
+free legal aid + **Lok Adalats**; tiered NALSA → SLSA → DLSA → Taluk committees. Section 12 categories
+include women, children, SC/ST persons, persons with disability, persons in custody and disaster victims;
+the income ceiling is prescribed by the competent authority and must not be quoted as one nationwide
+timeless amount.
 
 ---
 
@@ -72,8 +84,9 @@ SC/ST, disabled, custody, disaster victims, income ≤ ₹1 lakh, etc.
 - ❌ Sessions Judge can execute a death sentence directly → needs **HC confirmation**.
 
 ## 📰 CA hooks
-- 📰 ⚠️ **Collegium friction & HC vacancies/pendency** — a large share of India's ~5 crore pending cases is in
-  HCs; recurring reform debate (e.g. All India Judicial Service, tribunalisation).
+- 📰 ⚠️ **Collegium friction & HC vacancies/pendency** — the dated 1 July 2026 DoJ statement records
+  1,122 sanctioned posts, 781 working judges and 341 vacancies; recurring reform debates include
+  appointment calendars, district-judiciary recruitment, AIJS and tribunalisation.
 - 📰 ⚠️ **Lok Adalats & NALSA** drives for pendency reduction; e-Courts and virtual hearings.
 - 📰 ⚠️ Debates on **HC judges' transfers** and elevation transparency.
 

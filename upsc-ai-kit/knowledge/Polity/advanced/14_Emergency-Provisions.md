@@ -9,7 +9,7 @@
 
 ## 0. Overview
 ✅ **Part XVIII, Art 352–360.** Purpose: safeguard sovereignty, unity, integrity, security & the
-Constitution. During an emergency the **federal structure becomes unitary without a formal amendment** —
+Constitution. During an emergency **specified Union powers expand temporarily without abolishing the federal structure or State identity** —
 Ambedkar: the Constitution can be "**both unitary and federal according to time and circumstances**."
 ✅ **Three types:** National (Art 352), President's Rule / State Emergency (Art 356), Financial (Art 360).
 
@@ -41,9 +41,8 @@ effects to **all states**, not just the emergency one.
 **(b) Lok Sabha & assemblies:** LS term extendable **1 year at a time** (max 6 months after emergency
 ends) — e.g. **5th Lok Sabha (1971-77)**; same for state assemblies.
 **(c) Fundamental Rights:** ⭐
-- ✅ **Art 358** — **automatically suspends Art 19** (six freedoms); post-44th Amdt **only during
-  War/External Emergency** & only for laws *related* to the emergency.
-- ✅ **Art 359** — President may **suspend enforcement** (not the rights themselves) of *specified* FRs;
+- ✅ **Art 358** — during a War/External Emergency, Article 19 does not restrict emergency-related laws carrying the required recital or executive action under them; unrelated action remains outside the shield.
+- ✅ **Art 359** — President may suspend the right to move specified courts for enforcement of named Fundamental Rights, and pending proceedings, for the stated scope;
   post-44th Amdt **Art 20 & 21 can NEVER be suspended**.
 
 ### Art 358 vs 359 (7 differences) ⭐
@@ -127,6 +126,7 @@ Constitution**"; **Mahabir Tyagi** — "**safety-valve**."
 - ❌ PM alone can advise National Emergency → needs **written Cabinet recommendation** (44th Amdt).
 
 ## 📰 CA hooks
+📰 ✅ **Proclamation status, 28 August 2026:** No National Emergency or Financial Emergency is in force. President's Rule imposed in Manipur on 13 February 2025 was revoked on **4 February 2026**, restoring elected government.
 📰 ⚠️ **50th anniversary of the 1975 Emergency (25 June 2025)** — recurring debate on democratic
 safeguards; **"Samvidhaan Hatya Diwas"** notified. ⚠️ Frequent Art 356 & Governor-role controversies
 (Maharashtra/Delhi floor-test cases) keep **Bommai** doctrine live. ⚠️ *Financial Emergency* debated but

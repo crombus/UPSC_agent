@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "batch_id": "economy-24-27-sequential-batch-2026-09-03",
+  "scope": "Economy learner-v2 Topics 24-27, strictly sequential",
+  "generated_on": "2026-09-03",
+  "validated_at": "2026-09-03T15:14:43.726539+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "economy-24",
+      "economy-25",
+      "economy-26",
+      "economy-27"
+    ],
+    "topic_count": 4,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "economy-24:learner-v2:g1",
+      "economy-25:learner-v2:g1",
+      "economy-26:learner-v2:g1",
+      "economy-27:learner-v2:g1"
+    ],
+    "unique_records": true,
+    "approvals_false": true,
+    "history_policy": "append-only"
+  },
+  "shared_ascii_coverage": {
+    "baseline_topics": 316,
+    "baseline_panels": 3664,
+    "authored_topics": 320,
+    "authored_panels": 3712,
+    "topic_delta": 4,
+    "panel_delta": 48,
+    "integrity_errors": []
+  },
+  "tests": {
+    "result": "passed",
+    "passed": 61,
+    "scope": "tools.test_generate_economy_24_27_sequential + Economy 01-23 cumulative suites + tools.test_refresh_all_v2_learning_sessions + manual_spec_integrity_errors + four topic graphical validation reports",
+    "unrelated_not_fixed": "tools.test_carvaka_flowchart separately reported 3 failures and 1 error in pre-existing Polity and International Relations artifacts; no unrelated files were repaired."
+  },
+  "aggregate": {
+    "main_pdf_pages": 325,
+    "workbook_pdf_pages": 153,
+    "mcqs": 320,
+    "learning_sessions": 60,
+    "ascii_panels": 48,
+    "graphical_stages": 52
+  },
+  "topics": [
+    {
+      "topic_key": "economy-24",
+      "title": "Services, Digital Economy, Fintech and Platform Markets",
+      "record_id": "economy-24:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "main_pdf_pages": 86,
+        "workbook_pdf_pages": 41
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-24\\economy-24_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-24\\economy-24_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-24\\economy-24_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-24\\economy-24_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-25",
+      "title": "Climate Economics, Green Finance and Circular Economy",
+      "record_id": "economy-25:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "main_pdf_pages": 78,
+        "workbook_pdf_pages": 37
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-25\\economy-25_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-25\\economy-25_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-25\\economy-25_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-25\\economy-25_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-26",
+      "title": "Economic Survey Synthesis and Current Macro Dashboard",
+      "record_id": "economy-26:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "main_pdf_pages": 74,
+        "workbook_pdf_pages": 36
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-26\\economy-26_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-26\\economy-26_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-26\\economy-26_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-26\\economy-26_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-27",
+      "title": "Digital Agriculture, Agritech and e-Technology for Farmers",
+      "record_id": "economy-27:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "main_pdf_pages": 87,
+        "workbook_pdf_pages": 39
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Solved-Practice-Workbook_2026-09-03.md"
+    }
+  ],
+  "attempt_log": [
+    "economy-24 first stage used generic ASCII because its manual spec was not yet registered; failed flow output was removed and staging was retried without regenerating authored content.",
+    "economy-25 first authoring self-check found a required-term punctuation mismatch; the term was corrected before successful staging.",
+    "economy-27 staging exposed definition-quality and Basic-firewall defects; authored data was corrected and regenerated before finalisation.",
+    "Official live-source stubs and failures are recorded inside each generated topic: ONDC title shell, BEE generic redirect, Economic Survey HTTP 403, e-NAM HTTP 404, and the binary agriculture mission PDF."
+  ],
+  "errors": [],
+  "changed_files_ledger": {
+    "path": "upsc-ai-kit\\manifests\\exports\\economy-24-27-sequential-batch-2026-09-03-changed-files.txt",
+    "count": 159
+  }
+}

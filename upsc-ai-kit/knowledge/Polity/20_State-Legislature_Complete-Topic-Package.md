@@ -1,12 +1,12 @@
 ---
-export_date: 2026-08-18
+export_date: 2026-08-28
 approval: false
 evidence_key: "[FACT] verified constitutional, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated legal/current control; [LIMIT] qualification preventing overstatement"
 ---
 
 # Polity 20 - State Legislature - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 20 | **GS-II + Prelims** | **Export date:** 2026-08-18
+> **Subject:** Indian Polity | **Topic:** 20 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -16,14 +16,19 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 
 - Source order followed: `basic/State-Legislature.md` -> `advanced/20_State-Legislature.md` -> `basic/Anti-Defection-Law.md` -> necessary cross-links in Polity 17 and 19 -> live PRS/current legal control. Qdrant was not used.
 - [FACT] The Core owner supersedes any stale or less-qualified Advanced statement.
-- [CURRENT] Legal and institutional status is controlled to **18 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and institutional status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] Six States have Legislative Councils: Andhra Pradesh, Telangana, Uttar Pradesh, Bihar, Maharashtra and Karnataka.
 - [CURRENT] The Constitution (106th Amendment) Act provides one-third reservation for women in the Lok Sabha and State Legislative Assemblies, but it is not yet operational because the constitutionally required census-linked delimitation has not been completed.
 - [CURRENT] Three 2026 Bills sought to use the 2011 Census, enlarge the Lok Sabha and activate reservation. The constitutional amendment Bill failed to obtain the required special majority on 17 April 2026; the connected Bills were withdrawn. They are not law.
-- [CURRENT] Census 2027 has a reference date of 1 March 2027. Publication, delimitation and operational reservation dates remain unknown.
+- [CURRENT] Census 2027 uses 1 March 2027 as the general reference date; Ladakh and specified snow-bound
+  areas of Jammu and Kashmir, Himachal Pradesh and Uttarakhand use 1 October 2026. Publication, delimitation
+  and operational reservation dates remain unknown.
 - [LIMIT] The women-reservation amendment covers the Lok Sabha and State Legislative Assemblies, not Legislative Councils.
 - [CURRENT] On gubernatorial assent, the five-judge Article 143 advisory opinion of 20 November 2025 rejects court-created rigid timelines and automatic deemed assent, while allowing limited review of prolonged, unexplained and indefinite inaction.
 - [LIMIT] The November 2025 opinion is advisory and did not "overrule" the April 2025 Tamil Nadu judgment. Use it as the later controlling qualification on timelines, deemed assent and limited mandamus.
+- [CURRENT] *Padi Kaushik Reddy v. State of Telangana* (31 July 2025) reaffirmed that Tenth Schedule
+  adjudication cannot be indefinitely delayed and directed the Telangana Speaker to conclude the specified
+  petitions within three months.
 - Current delimitation source: PRS Legislative Research, `https://prsindia.org/billtrack/the-delimitation-bill-2026`.
 - Package target: independently answer-complete Foundation/Core, Optional Advanced refinements, more than 30 text-native visuals, two direct solved Mains PYQs, routed Prelims demands, 36 original MCQs, 12 remedial MCQs and eight original solved Mains questions.
 
@@ -245,6 +250,10 @@ Tenth Schedule defection
 - [FACT] Under Article 192, a non-defection question of member disqualification is decided by the Governor after obtaining and acting according to the Election Commission's opinion.
 - [FACT] Tenth Schedule disputes are decided by the Speaker or Chairman, subject to judicial review.
 - [LIMIT] Do not send a Tenth Schedule question to the Governor under Article 192.
+- [FACT] Article 190 governs vacation of seats, including double membership, resignation and absence for
+  sixty days without House permission, subject to the exclusions stated in the provision.
+- [FACT] A resignation does not create a vacancy until the Speaker or Chairman accepts it after being
+  satisfied that it is voluntary and genuine.
 
 ## 07. Sessions, prorogation and dissolution
 
@@ -340,8 +349,10 @@ risk of partisan delay or selective urgency
 ```
 
 - [FACT] The Tenth Schedule assigns defection decisions to the Speaker/Chairman.
-- [FACT] *Kihoto Hollohan* treats the presiding officer as a tribunal subject to judicial review.
+- [FACT] *Kihoto Hollohan (1992)* treats the presiding officer as a tribunal subject to judicial review.
 - [FACT] *Keisham Meghachandra Singh* (2020) stated that petitions should ordinarily be decided within a reasonable period of about three months and urged Parliament to consider an independent tribunal.
+- [CURRENT] *Padi Kaushik Reddy v. State of Telangana* (2025) treated timely Speaker adjudication as
+  judicially enforceable and directed completion of the specified Telangana petitions within three months.
 - [FACT] *Subhash Desai* (2023) holds that the whip and leader recognised for Tenth Schedule purposes must be appointed by the political party, not merely a legislature-party faction.
 - [LIMIT] The independent tribunal and statutory deadline are proposals, not enacted law.
 - [ANALYSIS] Neutrality cannot rest only on personal virtue where office incentives are partisan.
@@ -354,10 +365,11 @@ risk of partisan delay or selective urgency
 |---|---|
 | Ordinary decision | Majority of members present and voting |
 | Presiding officer | No first vote; casting vote on equality |
-| Quorum | 10 members or one-tenth, whichever is greater |
+| Quorum | Until the State Legislature otherwise provides by law: 10 members or one-tenth, whichever is greater |
 | Vacancy | House may act despite vacancies, subject to constitutional limits |
 
-> **UPSC trap:** State quorum is not merely one-tenth; it is **10 or one-tenth, whichever is greater**.
+> **UPSC trap:** Article 189 supplies **10 or one-tenth, whichever is greater** as the default **until the
+> State Legislature otherwise provides by law**.
 
 - [FACT] If quorum is absent, the presiding officer must adjourn or suspend the meeting until quorum exists.
 - [ANALYSIS] Vacancies do not automatically paralyse a House, but disputed majorities must be tested against the effective constitutional membership and valid votes.
@@ -378,6 +390,15 @@ Freedom of speech in legislature
 
 - [FACT] Article 194 protects members from court proceedings for speech or vote in the House or committee.
 - [FACT] Privilege belongs to members and the House; it is not a general immunity for conduct outside legislative functions.
+- [FACT] *Sita Soren (2024) v. Union of India* (2024) holds that bribery is not protected merely because it relates
+  to a legislative vote or speech; the seven-judge Bench overruled the contrary majority rule in
+  *P.V. Narasimha Rao*.
+- [FACT] *Amarinder Singh v. Special Committee, Punjab Vidhan Sabha* (2010) rejects use of privilege as a
+  general punitive jurisdiction over past executive conduct lacking a nexus with House functions.
+- [FACT] *Raja Ram Pal (2007)* (2007) confirms that privilege and expulsion remain reviewable for substantive
+  illegality, unconstitutionality, mala fides and jurisdictional error.
+- [LIMIT] Many privileges remain uncodified; Article 194 does not freeze an unlimited historical catalogue
+  or place House action above the Constitution.
 - [FACT] Article 211 bars discussion of the conduct of Supreme Court or High Court judges in discharge of duties.
 - [LIMIT] The Governor is a component of the legislature but not a House member and does not acquire Article 194 member privilege.
 - [ANALYSIS] Privilege protects deliberative independence, not corruption or substantive constitutional illegality.
@@ -401,6 +422,9 @@ assent / return / withhold / reserve
 - [FACT] Subject to special rules, an ordinary Bill may be introduced by a minister or private member.
 - [FACT] A Bill pending in the Assembly lapses on dissolution unless constitutional doctrine provides otherwise.
 - [FACT] A Bill passed by the Assembly but pending with the Council ordinarily lapses on Assembly dissolution.
+- [FACT] Prorogation does not lapse a Bill.
+- [FACT] A Bill originating in and still pending before the Council does not lapse merely because the
+  Assembly is dissolved.
 - [LIMIT] Bill-lapse questions are status-sensitive; always identify the House and stage.
 
 ## 14. Ordinary Bills in a bicameral State
@@ -428,6 +452,8 @@ Bill deemed passed in Assembly form
 - [FACT] There is no joint sitting of State Houses.
 - [ANALYSIS] The Council is a suspensive or dilatory chamber, not a co-equal revising chamber.
 - [LIMIT] Four months is the maximum constitutional delay across the two-stage route, not a single fixed holding period.
+- [LIMIT] Article 197's Assembly-override route applies to an Assembly-passed Bill. If a Council-originated
+  Bill is rejected by the Assembly, it ends; the Council has no reciprocal override.
 
 **Visual 22 - Assembly versus Council on ordinary Bills**
 
@@ -529,15 +555,15 @@ Finance/financial legislation: Article 207
 
 ## 18. Financial Bills and recommendation
 
-**Visual 28 - Money Bill versus Financial Bill**
+**Visual 28 - Money Bill and the two Article 207 controls**
 
-| Question | Money Bill | Wider Financial Bill |
+| Question | Money Bill / Article 207(1) Bill | Article 207(3) expenditure Bill |
 |---|---|---|
-| Contains only Article 199 matters | Yes | May contain other matters |
-| Introduction | Assembly only | Constitutionally restricted as applicable |
-| Governor recommendation | Required | Required for specified financial provisions |
-| Council power | Recommendation only, 14 days | Ordinary-Bill route may apply |
-| Speaker certification | Conclusive constitutional role | Not a Money Bill certificate unless Article 199 test met |
+| Content | Money Bill contains only Article 199 matters; a wider 207(1) Bill may add other matters | Any Bill that would involve expenditure from the Consolidated Fund |
+| Introduction | Assembly only | Either House |
+| Governor recommendation | Before introduction/moving amendment | Before either House passes it; recommendation for consideration |
+| Council power | Money Bill: recommendations only in 14 days; wider 207(1) Bill: ordinary-Bill route | Ordinary-Bill route |
+| Speaker certificate | Only if the Article 199 Money Bill test is met | No automatic Money Bill certificate |
 
 - [LIMIT] Do not label every Bill involving expenditure a Money Bill.
 - [ANALYSIS] Classification matters because it determines the Council's power and the available legislative route.
@@ -609,7 +635,7 @@ Exception
 
 - [FACT] The 52nd Amendment inserted the Tenth Schedule; the 91st Amendment removed the split exception.
 - [FACT] Only the two-thirds merger defence survives.
-- [FACT] Speaker/Chairman decides, subject to judicial review under *Kihoto Hollohan*.
+- [FACT] Speaker/Chairman decides, subject to judicial review under *Kihoto Hollohan (1992)*.
 - [FACT] "Voluntarily giving up" may be inferred from conduct under *Ravi S. Naik*.
 - [FACT] *Rajendra Singh Rana* confirms that Speaker inaction can be reviewed.
 - [LIMIT] The approximately three-month norm from *Keisham* is not a statutory deadline.
@@ -833,6 +859,8 @@ CLAIM
 
 **Why this earns marks:** It answers provision and performance, uses precise fractions and timelines, supplies counter-arguments and ends with a conditional verdict.
 
+**How to improve this answer:** Compress the Article 171 fractions into one line, devote a separate paragraph to Articles 197-199, and end with a State-specific retain-reform-abolish test rather than a generic defence of bicameralism.
+
 ### PYQ 2 - UPSC GS-II 2023, Q5 - direct owner
 
 **Verified neutral demand:** Discuss the role of Presiding Officers of State legislatures in maintaining order and impartial conduct of business.  
@@ -846,7 +874,7 @@ CLAIM
 
 **Analysis:** These powers determine who speaks, which motion proceeds, whether a government survives and whether bicameral scrutiny applies. Continued party membership creates a conflict, especially when defection petitions are delayed.
 
-**Judicial control:** *Kihoto Hollohan* subjects tribunal-like defection decisions to review. *Keisham Meghachandra* urged decisions ordinarily within three months and proposed an independent tribunal.
+**Judicial control:** *Kihoto Hollohan (1992)* subjects tribunal-like defection decisions to review. *Keisham Meghachandra* urged decisions ordinarily within three months and proposed an independent tribunal.
 
 **Qualification and verdict:** [LIMIT] The tribunal and deadline are not enacted law. Impartiality therefore needs reasoned rulings, equal rules, stronger conventions and transfer of defection adjudication to a neutral body. The chair is indispensable, but neutrality must be institutional rather than merely personal.
 
@@ -855,6 +883,8 @@ CLAIM
 **Evidence chain:** Articles 178-185 -> Articles 189/199 -> Tenth Schedule -> *Kihoto* -> *Keisham* -> reform.
 
 **Why this earns marks:** It fits 150 words conceptually, combines functions with the neutrality problem and gives targeted reform.
+
+**How to improve this answer:** For 150 words retain only office, three decisive functions, the partisan-delay mechanism, Kihoto plus the 2025 Padi Kaushik Reddy control, and one institutional reform.
 
 ## Routed Prelims demands - provenance without invented answer letters
 
@@ -1031,12 +1061,13 @@ State House quorum is:
 
 A. one-fifth.  
 B. exactly ten in every House.  
-C. ten members or one-tenth, whichever is greater.  
+C. until the State Legislature otherwise provides by law, ten members or one-tenth, whichever is greater.  
 D. one-tenth, with no minimum.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 189 contains the ten-member floor.
+**Explanation:** [FACT] Article 189 supplies this default while permitting the State Legislature to provide
+otherwise by law.
 
 ### OM12. Casting vote
 
@@ -1300,7 +1331,7 @@ D. Rajya Sabha and Councils.
 
 ### OM32. Delimitation trigger
 
-Which is accurate as of 18 August 2026?
+Which is accurate as of 28 August 2026?
 
 A. Delimitation automatically occurred on 1 January 2026.  
 B. The failed 2026 Bills are law.  
@@ -1435,13 +1466,13 @@ D. becomes caretaker Chief Minister.
 Correct quorum:
 
 A. one-tenth only.  
-B. ten or one-tenth, whichever is greater.  
+B. until altered by State law, ten or one-tenth, whichever is greater.  
 C. ten or one-tenth, whichever is smaller.  
 D. twenty in every House.
 
 **Answer: B.**
 
-**Remedy:** Remember the State ten-member floor.
+**Remedy:** Remember both the default ten-member floor and the opening legislative-variation clause.
 
 ### R7. Disqualification trap
 
@@ -1539,6 +1570,11 @@ D. substantive constitutional illegality despite Article 212.
 
 **Evidence chain:** Articles 197-199 -> finance/confidence weakness -> scrutiny value -> reform.
 
+
+**Why this earns marks:** It identifies the Council’s exact delay, finance and confidence limits while preserving the counter-case that delay can improve scrutiny.
+
+**How to improve this answer:** In a 150-word answer use one sentence each for Article 197, Articles 198-199, confidence weakness, scrutiny value and conditional verdict; omit the full composition formula.
+
 ### M2. Should Legislative Councils be abolished? Discuss with constitutional and democratic arguments. (15 marks, 250 words)
 
 **Model answer**
@@ -1555,13 +1591,18 @@ D. substantive constitutional illegality despite Article 212.
 
 **Verdict:** Use a State-specific retain-reform-abolish test. Councils that add independent scrutiny deserve reform; those that merely delay and reward patronage may legitimately be abolished through Article 169.
 
+
+**Why this earns marks:** It tests abolition against constitutional optionality, democratic cost, representational benefit and practicable reform instead of choosing an absolute position.
+
+**How to improve this answer:** Group the body under abolition, retention and reform; cite Articles 169, 171 and 197-199 once each and finish with measurable State-specific criteria.
+
 ### M3. Analyse the constitutional position and impartiality challenge of State Speakers. (15 marks, 250 words)
 
 **Model answer**
 
 **Claim:** [FACT] The Speaker is simultaneously procedural judge, constitutional certifier and politically elected member, creating an unavoidable neutrality challenge.
 
-**Named evidence:** Articles 178-181 establish election, continuity and removal. Article 189 provides the casting vote; Article 199 assigns Money Bill certification; the Tenth Schedule assigns defection adjudication. *Kihoto Hollohan* subjects this tribunal role to review. *Keisham Meghachandra* urged decisions ordinarily within three months and an independent tribunal. *Subhash Desai* requires recognition of the political party's authorised whip.
+**Named evidence:** Articles 178-181 establish election, continuity and removal. Article 189 provides the casting vote; Article 199 assigns Money Bill certification; the Tenth Schedule assigns defection adjudication. *Kihoto Hollohan (1992)* subjects this tribunal role to review. *Keisham Meghachandra* urged decisions ordinarily within three months and an independent tribunal. *Subhash Desai* requires recognition of the political party's authorised whip.
 
 **Analysis:** Agenda control, recognition and delayed disqualification can alter confidence arithmetic. Party membership means the adjudicator may have an institutional stake in the outcome.
 
@@ -1570,6 +1611,11 @@ D. substantive constitutional illegality despite Article 212.
 **Reform:** Require reasoned orders, equal scheduling rules, transparent recognition decisions, strong removal safeguards and transfer defection disputes to a neutral tribunal.
 
 **Verdict:** The Speaker should remain master of procedure, but not final partisan judge of government survival. Institutional separation is stronger than appeals to personal restraint.
+
+
+**Why this earns marks:** It links the Speaker’s procedural, certification and defection powers to the concrete incentive for partisan delay and supplies current judicial control.
+
+**How to improve this answer:** Add Padi Kaushik Reddy (2025), distinguish House-procedure autonomy from tribunal-like defection adjudication, and rank reforms rather than listing them.
 
 ### M4. Compare the legislative powers of a State Assembly and Legislative Council. (15 marks, 250 words)
 
@@ -1589,6 +1635,11 @@ D. substantive constitutional illegality despite Article 212.
 
 **Verdict:** The Assembly decides; the Council advises and delays. This asymmetry protects direct democratic control but makes Council legitimacy depend on the quality of scrutiny rather than formal power.
 
+
+**Why this earns marks:** It compares both Houses on ordinary law, finance, confidence, elections and continuity using the same parameters.
+
+**How to improve this answer:** State that a Council-originated Bill rejected by the Assembly ends, distinguish a 207(1) Bill from 207(3) expenditure legislation, and use a compact comparison table in the exam.
+
 ### M5. "State legislative decline strengthens executive federalism at the cost of representative federalism." Analyse. (15 marks, 250 words)
 
 **Model answer**
@@ -1605,6 +1656,11 @@ D. substantive constitutional illegality despite Article 212.
 
 **Verdict:** Strong State autonomy requires not only powerful State executives but capable State legislatures. Representative federalism begins inside each State House.
 
+
+**Why this earns marks:** It explains a causal shift from weak legislative scrutiny to cabinet and intergovernmental executive dominance, then reconnects reform to responsible government.
+
+**How to improve this answer:** Use only verified State-specific performance data if available; otherwise retain qualitative mechanisms and compress reforms to calendar, committee, research and follow-up.
+
 ### M6. Explain how Articles 200-201 balance State democracy, constitutional scrutiny and Union oversight. (15 marks, 250 words)
 
 **Model answer**
@@ -1620,6 +1676,11 @@ D. substantive constitutional illegality despite Article 212.
 **Qualification:** [LIMIT] It is advisory and did not overrule the April judgment. Courts may direct decision, not dictate the option.
 
 **Verdict:** Federal balance requires prompt, reasoned constitutional choice: scrutiny without pocket veto and review without judicial substitution.
+
+
+**Why this earns marks:** It tracks every Article 200-201 option, explains the federal purpose and accurately reconciles the two 2025 decisions.
+
+**How to improve this answer:** Use a four-branch decision tree, separate mandatory High Court-protection reservation, and say the November opinion qualified timelines/deemed assent without technically overruling April.
 
 ### M7. Evaluate the case for reforming Legislative Council composition. (20 marks, 250 words)
 
@@ -1639,6 +1700,11 @@ D. substantive constitutional illegality despite Article 212.
 
 **Verdict:** Reform should preserve plural representation while replacing inherited status categories with transparent, contemporary expertise and democratic linkage.
 
+
+**Why this earns marks:** It evaluates each Article 171 constituency against current representation and scrutiny rather than assuming that expertise automatically justifies indirect franchise.
+
+**How to improve this answer:** Distinguish reforms possible through parliamentary law from those needing constitutional change, and connect nomination transparency to actual committee outputs.
+
 ### M8. Assess how delimitation and women's reservation will reshape State Assemblies. (20 marks, 250 words)
 
 **Model answer**
@@ -1654,6 +1720,11 @@ D. substantive constitutional illegality despite Article 212.
 **Qualification:** [LIMIT] No current seat projection is legally operative, and Councils are outside the reservation.
 
 **Verdict:** Legitimacy needs transparent criteria, federal consultation, timely census publication and safeguards against penalising successful population stabilisation. Representation reform must expand inclusion without converting demographic change into federal distrust.
+
+
+**Why this earns marks:** It gives the constitutional sequence, institutional effects and federal risks while refusing unsupported seat projections.
+
+**How to improve this answer:** Mention the separate 1 October 2026 census reference date only if space permits; focus the answer on publication, delimitation, activation, rotation and federal consultation.
 
 ## Final consolidated register notes
 
@@ -1753,7 +1824,7 @@ President assent / withhold / return non-Money Bill
 ### Current controls
 
 - Women's reservation covers Lok Sabha and Assemblies, not Councils.
-- It is constitutionally provided but not operational as of 18 August 2026.
+- It is constitutionally provided but not operational as of 28 August 2026.
 - 2026 delimitation/women-reservation Bills did not become law.
 - Census 2027 publication and delimitation dates remain unknown.
 - Never write that delimitation automatically began in 2026.
@@ -1789,10 +1860,9 @@ President assent / withhold / return non-Money Bill
 6. Council permanent; Assembly dissolvable.
 7. Ordinary-Bill delay about four months; Money Bill 14 days.
 8. No joint sitting at State level.
-9. State quorum is ten or one-tenth, whichever is greater.
-10. Speaker continues after dissolution until the new Assembly first meets.
+9. Article 189 default quorum is ten or one-tenth, whichever is greater, until State law provides otherwise.
+10. Speaker continues after dissolution until immediately before the new Assembly's first meeting.
 11. Article 192 route does not govern Tenth Schedule disputes.
 12. Governor is part of legislature but not a House member.
 13. Article 212 bars procedural-irregularity review, not substantive review.
 14. Women's reservation is not operational and does not cover Councils.
-

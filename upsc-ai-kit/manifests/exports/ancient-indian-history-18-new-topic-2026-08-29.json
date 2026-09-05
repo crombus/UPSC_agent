@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-18",
+  "subject": "Ancient-Indian-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "ancient-indian-history-18",
+  "title": "The Sangam Age & the Deep South",
+  "generation_date": "2026-08-29",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — The Sangam Age & the Deep South",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-18_Learning-Session.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\India Ancient Past By RS Sharma.pdf",
+    "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+  ],
+  "live_sources": [
+    "https://asi.nic.in/",
+    "https://culture.gov.in/ministry/our-groups/archaeology"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\18_Sangam-Age-Deep-South.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\18_Sangam-Age-Deep-South.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-18_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md",
+    "books\\India Ancient Past By RS Sharma.pdf",
+    "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf",
+    "notes\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Complete-Topic-Package_2026-08-14.pdf",
+    "notes\\Ancient-Indian-History\\18_Sangam-Age-Deep-South_Solved-Workbook_2026-08-14.pdf",
+    "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-21-2026-08-29-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-18.json",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\01_tamilakam_schematic_map.png",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\02_chera_chola_pandya_comparison.png",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\03_sangam_corpus_source_architecture.png",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\04_trade_port_network.png",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\05_social_economy_tinai_matrix.png",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\06_warrior_redistribution_flow.png",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\07_evidence_led_chronology.png",
+    "notes\\Ancient-Indian-History\\assets\\18_Sangam-Age-Deep-South\\08_gs1_answer_spine.png"
+  ],
+  "practice_profile": "4 verified Prelims PYQs; 52 learning/workbook MCQs; 9 original solved Mains questions.",
+  "current_linkage_note": "A live search on 29 August 2026 found no sufficiently specific official Sangam-age update to force into the teaching. Heritage links remain bounded method anchors.",
+  "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+  "mcq_answer_policy": "strict-abcd-cycle"
+}

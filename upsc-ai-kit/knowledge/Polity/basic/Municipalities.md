@@ -141,3 +141,14 @@ ULBs); **16th Finance Commission** grants to urban bodies keep the debate live.
 - 📰 On municipal own-revenue shares, property-tax collection efficiency and devolution rankings, **do not quote a figure** without a named, dated official source; use qualitative evidence (parastatal capture, unformed MPCs, SFC delays).
 - 📰 Urban missions and their status: **JNNURM (2005, concluded)**, **AMRUT (2015)**, **AMRUT 2.0 (2021)**, **Smart Cities Mission (2015, SPV-led)** — verify a mission's current phase before dating it; a mission is a scheme, not a constitutional devolution of the 18 subjects.
 - ⚠️ Mayoral tenure and the directly-elected-mayor model **vary by State** — do not state a single national rule or attribute a current model to a State without checking its present status.
+
+
+## Constitutional precision and current controls
+
+- ✅ **Article 243R:** experts may be represented but cannot vote in municipal meetings; State law may represent specified MPs/MLAs, registered Rajya Sabha/Legislative Council members and committee chairpersons, while State law determines the chairperson's election.
+- ✅ **Article 243T:** SC/ST seat reservation is population-linked; at least one-third of total seats, including SC/ST seats, are for women. State law prescribes SC/ST and women chairperson reservations; backward-class reservation is enabling.
+- ✅ **Article 243U:** a municipality gets a reasonable opportunity before dissolution; election follows before expiry or within six months after dissolution, except when the remainder is below six months; an early reconstituted body serves only the balance.
+- ✅ **Articles 243ZB/ZC/ZF:** the President may adapt Part IXA for Union Territories; Scheduled and tribal areas are excluded and Parliament may extend it to Scheduled Areas; inconsistent old municipal laws continued for at most one year, while existing municipalities continued to term unless lawfully dissolved.
+- ✅ **DPC/MPC:** DPC has at least four-fifths elected from district-Panchayat and municipal elected members in the rural:urban population ratio; MPC has at least two-thirds elected from municipal elected members and Panchayat chairpersons in the municipality:Panchayat population ratio. Both prepare a draft plan which the chair forwards to the State Government.
+- ⚖️ **Judgments:** *Kishansing Tomar* (2006) protects timely local elections; *K. Krishna Murthy* (2010) and *Vikas Kishanrao Gawali* (2021) control backward-class political reservation; *Fouziya Imtiaz Shaikh* (2021) protects SEC independence.
+- 📰 **Dated controls, checked 28 August 2026:** RBI's *Report on Municipal Finances* (2022), Sixteenth Finance Commission report/action memorandum for 2026–31, AMRUT 2.0 guidelines/toolkit, and SEBI's municipal-debt framework/current statistics. Treat dashboard and issuance totals as dated, not permanent.

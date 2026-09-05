@@ -2,13 +2,13 @@
 title: Polity 32 - Comptroller and Auditor General of India - Complete Topic Package
 subject: Polity
 gs_paper: GS-II
-control_date: 2026-08-19
+control_date: 2026-08-28
 approval: false
 ---
 
 # Polity 32 - Comptroller and Auditor General of India - Complete Topic Package
 
-> **Control date:** 19 August 2026, Asia/Kolkata  
+> **Control date:** 28 August 2026, Asia/Kolkata  
 > **Evidence tags:** `[FACT]` directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` dated position; `[LIMIT]` qualification preventing overstatement.  
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** Articles 148-151; the Comptroller and Auditor-General's (Duties, Powers and Conditions of Service) Act, 1971; appointment, oath, tenure, removal and independence; audit-account distinction; expenditure, receipts, grants, companies, corporations and public-private revenue nexus; financial, compliance, propriety and performance audit; reports, PAC and CoPU; local bodies; cases; digital audit; limitations and reforms.
@@ -1000,6 +1000,8 @@ The CAG is a constitutionally insulated auditor whose office is created by Artic
 
 **Why this earns marks:** It answers all three limbs, separates constitutional and statutory rules, names the main powers and ends with the decisive limit.
 
+**How to improve/compress:** Compress appointment, tenure and powers into three labelled limbs; if space remains, add only the ex-post/no-direct-enforcement limit.
+
 ## Verified PYQ 2 - UPSC GS-II 2024, Q4 - 10 marks, 150 words
 
 > “The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.” Comment.
@@ -1026,6 +1028,8 @@ Therefore, legality protects authority; propriety and performance protect value 
 
 **Why this earns marks:** It comments rather than merely defines, uses the Act and two cases, and draws the essential policy boundary.
 
+**How to improve/compress:** Open with a qualified agreement, give one sentence each on legality, propriety and performance, then reserve the last line for the policy-versus-implementation boundary.
+
 ## Verified Adjacent PYQ 3 - UPSC GS-II 2018, Q4 - 10 marks, 150 words
 
 > **Neutral audited rendering:** Discuss the usefulness of parliamentary committees, with particular reference to the Estimates Committee.
@@ -1046,6 +1050,8 @@ Thus, committees are Parliament's working scrutiny machinery; their usefulness d
 
 **Why this earns marks:** It centres the Estimates Committee while using PAC/CAG and CoPU only for sharp institutional comparison.
 
+**How to improve/compress:** Keep the Estimates Committee central; use PAC/CAG and CoPU only as a one-line contrast so the answer does not drift from the named committee.
+
 ## Verified Adjacent PYQ 4 - UPSC GS-II 2021, Q4 - 10 marks, 150 words
 
 > **Neutral audited rendering:** To what extent is Parliament able to ensure the accountability of the executive in India?
@@ -1063,6 +1069,8 @@ However, [ANALYSIS] anti-defection discipline, government control of House time,
 Therefore, Parliament is institutionally capable but politically and procedurally constrained: accountability is strong in instruments, variable in use.
 
 **Why this earns marks:** It directly answers “to what extent”, names the audit chain and balances formal power with operational limits.
+
+**How to improve/compress:** Organise instruments into floor, committee and audit routes; compress generic parliamentary devices before adding the practical constraints.
 
 ## Verified Adjacent PYQ 5 - UPSC GS-II 2023, Q16 - 15 marks, 250 words
 
@@ -1083,6 +1091,8 @@ Parliament's committee system combines continuing oversight with task-specific i
 Thus, financial committees operationalise Parliament's power of the purse, but their impact depends on timely evidence and follow-up.
 
 **Why this earns marks:** It explains both structural categories and the distinctive role of each financial committee, with exact composition and a qualified verdict.
+
+**How to improve/compress:** Use a three-row prospective/post-expenditure/undertaking comparison and avoid spending words on non-financial committees beyond classification.
 
 ## Original MCQs - 36 questions
 
@@ -1734,6 +1744,8 @@ Therefore, Article 148 strongly protects tenure and office, but perceived indepe
 
 **Why this earns marks:** It explains each Article 148 safeguard, links design to purpose and evaluates sufficiency without confusing operational weakness with legal dependence.
 
+**How to improve/compress:** Prioritise four Article 148 safeguards, then add one appointment-process weakness and one operational weakness; do not confuse criticism with removal insecurity.
+
 ## Original Solved Mains 2 - 10 marks, 150 words
 
 **Question:** “India's CAG is a Comptroller only in name.” Explain with suitable constitutional and judicial support.
@@ -1754,6 +1766,8 @@ Thus, the Indian CAG is mainly an Auditor-General; the legislature supplies the 
 
 **Why this earns marks:** It defines the phrase, uses Article 149/151 and a named case, and qualifies the rhetorical expression.
 
+**How to improve/compress:** Define ex-ante comptrolling in the first sentence, contrast India in one clean mechanism chain, and qualify that ex-post audit can still produce legislative consequences.
+
 ## Original Solved Mains 3 - 10 marks, 150 words
 
 **Question:** Distinguish the CAG's audit function from its accounts-related responsibilities after departmentalisation of Union accounts.
@@ -1773,6 +1787,8 @@ Accounts preparation and independent audit serve different institutional purpose
 The post-1976 design therefore narrows Union accounting responsibility while preserving constitutional audit.
 
 **Why this earns marks:** It uses statutory sections, explains the institutional logic and states the variable-responsibility qualification.
+
+**How to improve/compress:** Use a two-column accounts-versus-audit distinction, mention 1976 only as the Union departmentalisation turning point, and retain the variable State responsibility caveat.
 
 ## Original Solved Mains 4 - 15 marks, 250 words
 
@@ -1800,6 +1816,8 @@ Thus, the four lenses are complementary: legality is the floor, reliable account
 
 **Why this earns marks:** It supplies legal anchors, distinguishes the four types, explains value and preserves policy and enforcement boundaries.
 
+**How to improve/compress:** Anchor each audit type to its question and legal basis; shorten descriptive definitions to create room for democratic value and the policy boundary.
+
 ## Original Solved Mains 5 - 15 marks, 250 words
 
 **Question:** To what extent can the CAG audit private entities and public-private partnerships? Discuss with reference to the public-finance nexus.
@@ -1820,6 +1838,8 @@ Therefore, CAG reach over private actors is functionally broad but legally bound
 
 **Why this earns marks:** It rejects both universal exclusion and universal jurisdiction, names four statutory gateways and uses the telecom case narrowly.
 
+**How to improve/compress:** State the public-finance nexus test before listing Sections 14, 15, 16 and 20; end by defining the precise stopping point for private records.
+
 ## Original Solved Mains 6 - 15 marks, 250 words
 
 **Question:** Explain the differentiated audit architecture for government departments, government companies and statutory corporations.
@@ -1839,6 +1859,8 @@ Public ownership does not produce one uniform audit method; legal form determine
 The differentiated model respects corporate form and governing statutes while preserving public accountability. Its weakness is complexity: legislators and examinees must identify the correct legal route rather than rely on the label “PSU”.
 
 **Why this earns marks:** It structures by entity, names exact legal mechanisms and connects audit form to parliamentary scrutiny.
+
+**How to improve/compress:** Classify by legal form first, then give the department/company/corporation route; compress section numbers into one sentence if approaching the word limit.
 
 ## Original Solved Mains 7 - 20 marks, 250 words
 
@@ -1873,6 +1895,8 @@ Therefore, the chain's legitimacy lies in institutional separation; its effectiv
 
 **Why this earns marks:** It evaluates each stage, explains six causal bottlenecks, uses case law and proposes reforms consistent with separation of powers.
 
+**How to improve/compress:** Present the chain as audit, legislature and executive stages; select the three strongest bottlenecks and pair each with a directly responsive reform.
+
 ## Original Solved Mains 8 - 20 marks, 250 words
 
 **Question:** Suggest a reform agenda for strengthening the CAG in an era of digital government, off-budget structures, public-private delivery and decentralisation.
@@ -1900,6 +1924,8 @@ Reform should strengthen mandate clarity, evidence access and legislative conseq
 The reform goal is “auditable government by design”: transparent selection, traceable public money, reproducible evidence and visible legislative follow-up.
 
 **Why this earns marks:** It addresses all four transformations, uses dated official digital evidence, respects federal/private boundaries and offers an integrated institutional agenda.
+
+**How to improve/compress:** Group reforms under selection, data, new delivery forms, local audit and legislative follow-up; retain safeguards against universal private audit and automated guilt.
 
 ## Final consolidated register notes - Comptroller and Auditor General of India
 

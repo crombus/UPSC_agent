@@ -26,7 +26,7 @@ a **Joint SPSC (JSPSC)** can serve two+ states.
 - ✅ Removal for misbehaviour needs a **Supreme Court enquiry** (advice binding).
 - ✅ UPSC expenses are charged on the **Consolidated Fund of India**; SPSC expenses are
   charged on the **Consolidated Fund of the State** (Art 322).
-- ✅ **Chairman:** no further govt job; **Member:** only UPSC/SPSC chairmanship. **No second term.**
+- ✅ **Post-tenure rules are office-specific:** UPSC Chairman gets no further government employment; SPSC Chairman may become UPSC Chairman/member or another SPSC Chairman; members have the narrower Article 319 routes. **No reappointment to the same office.**
 - ✅ Advice is **directory, not mandatory** (SC-held); confers **no right to the post**.
 - ✅ Cadre/pay/training → **DoPT**, not UPSC.
 
@@ -86,9 +86,9 @@ into the bureaucracy remains a live debate on the merit system.
 | On ceasing office | Eligible for | Barred from |
 |---|---|---|
 | ✅ UPSC **Chairman** | Nothing further | **Any** employment under the Union or a State |
-| ✅ SPSC **Chairman** | **UPSC Chairman** or **another SPSC Chairman** only | Any other government employment |
+| ✅ SPSC **Chairman** | **UPSC Chairman or member**, or **Chairman of another SPSC** | Any other government employment |
 | ✅ UPSC **member** | **UPSC Chairman** or **an SPSC Chairman** only | Any other government employment |
-| ✅ SPSC **member** | **UPSC Chairman**, or Chairman of **that or another SPSC** only | Any other government employment |
+| ✅ SPSC **member** | **UPSC Chairman or member**, or Chairman of **that or another SPSC** | Any other government employment |
 
 - **Exact-scope case:** ⚠️ *A.R. Kidwai* — appointment of a retired UPSC chairman as **Governor** was upheld because a **Governor holds a constitutional office**, not "employment under the Government" within Art 319. There is **no reappointment** to the same office (no second term).
 

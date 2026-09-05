@@ -269,3 +269,30 @@ fighting for. That is the causal engine — not a list of dates.
 > **Study link:** World-History → `basic/12_Rise-of-Fascism-Italy-Germany-Japan.md` for the regimes driving revisionist foreign policy.
 > **Study link:** World-History → `basic/10_First-World-War-and-Aftermath.md` §8.6 for the treaty cluster that this order rested on.
 > **Study link:** Modern-Indian-History → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md` and `basic/24_Government-of-India-Act-1935-and-Congress-Ministries.md` for the wider interwar imperial setting without duplicating Indian content here.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the interwar diplomatic system from the League's formal
+  beginning through reparations diplomacy, Washington, Dawes, Locarno,
+  Kellogg-Briand and Young; the Depression's diplomatic transmission;
+  Manchuria, Abyssinia, separate bargains, appeasement and the final collapse
+  of deterrence before Poland.
+- **Boundary:** Topic 10 owns the First World War's course and 1919-23 peace
+  settlement, Topic 12 owns fascist regimes and their domestic power systems,
+  and Topic 14 owns the Second World War's military course. Topic 11 owns the
+  interwar international-relations mechanism connecting those topics.
+- **Date control:** League beginning (10 January 1920), Washington
+  (1921-22), Dawes (1924), Locarno (1925), Germany's League entry (1926),
+  Kellogg-Briand (1928), Young (1929), Manchuria (1931), Abyssinia and the
+  Anglo-German Naval Agreement (1935), Rhineland (1936), Munich
+  (September 1938), Prague (March 1939), Nazi-Soviet Pact and Poland (1939)
+  remain distinct stages.
+- **Mechanism control:** technical administration did not equal coercive
+  collective security; Locarno guaranteed western but not eastern frontiers;
+  American credit sustained conditional stability; Depression narrowed
+  cooperation; and repeated protest without effective force taught aggressors
+  that the next revision would be cheaper.
+- **Verified PYQ/current ownership, 2018-2025:** zero direct topic-only routes.
+  The 2021 democratic-state-system demand remains Topic 12-owned. The official
+  Locarno centenary speech supports only a bounded contemporary reflection on
+  multilateral security and does not alter the historical verdict.

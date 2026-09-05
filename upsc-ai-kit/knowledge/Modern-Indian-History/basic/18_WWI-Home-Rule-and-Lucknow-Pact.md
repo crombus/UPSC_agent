@@ -234,3 +234,18 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** First World War expectations/extraction, Congress reunion,
+  Tilak's and Besant's separate Home Rule Leagues, repression, Lucknow Congress
+  and Congress-League Pact provisions, Montagu response and movement legacy.
+- **Boundary:** Topic 16 owns Ghadar and underground conspiracy; Topic 17 owns
+  communal ideology/League origin; Topic 19 owns Gandhi's Indian campaigns.
+- **Date control:** Congress readmission decision (December 1915), Tilak League
+  (April 1916), Besant League (September 1916), Lucknow Congress/Pact
+  (December 1916) and Montagu Declaration (20 August 1917) remain separate.
+- **Mechanism control:** Home Rule was self-government within the Empire, not
+  Purna Swaraj; two Leagues, Congress reunion and the Pact are not synonyms.
+- **Verified PYQ ownership, 2018-2026:** 2018 Prelims Q79 is direct and locally
+  unkeyed. The 2024 balance-of-power question remains World-History-owned.

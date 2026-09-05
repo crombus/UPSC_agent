@@ -24,10 +24,10 @@
 
 - ✅ This chapter is the direct sequel to the conceptual discussion of justice because it asks how rival traditions operationalize justice in actual distribution. (PDF pp.446-447)
 - ✅ It clarifies why justice debates cannot be reduced to one axis like liberty alone or equality alone. (PDF pp.448-450, 469-473)
-- ✅ Gauba's own ordering of perspectives shows that late-modern justice theory moved from distributive fairness to critiques of ownership, domination, recognition and community. (PDF pp.446-473)
+- ⚠️ Gauba's ordering can be read as widening the debate from distributive fairness toward critiques of ownership, domination and community; recognition-language here is an analytical bridge, not a term attributed to Gauba. (PDF pp.446-473)
 - ⚠️ In GS-II and PSIR, this topic helps distinguish welfare liberalism from libertarianism, socialism from Marxism, and communitarian critique from anti-rights rhetoric.
 - ⚠️ It is also the safest way to avoid caricatures such as "Rawls = equal outcome" or "Nozick = no justice."
-- ⚠️ Use this chapter whenever a question asks whether justice lies in fair procedure, entitlement, need, recognition, community, or emancipation from domination.
+- ⚠️ Use this chapter whenever a question asks whether justice lies in fair procedure, entitlement, need, community, or emancipation from domination. Recognition may be added only as the separately sourced Fraser/Honneth extension in Section 13.
 - ⚠️ It also helps answer mixed questions such as whether social justice requires redistribution alone or also dignity, voice and institutional belonging.
 - ⚠️ In short, this is the chapter that converts the abstract word "justice" into rival political blueprints.
 
@@ -86,7 +86,7 @@
 | Harold Laski / E.F.M. Durbin | ✅ Democratic socialism combines socialist justice with democratic method, civil liberties and public services. (PDF pp.459-461) |
 | Godwin / Proudhon / Bakunin / Kropotkin / Tolstoy / Gandhi / Bookchin | ✅ Anarchist family members differ, but all distrust coercive authority and seek justice through decentralized, voluntary or morally regenerated association. (PDF pp.461-464) |
 | Mary Wollstonecraft / J.S. Mill | ✅ Early feminist demand for equal rights, education, property and political citizenship for women. (PDF pp.465-466) |
-| UNDP-style gender justice discussion | ✅ Gauba uses book-period development and empowerment indicators to show that gender justice includes health, education and power, not merely formal rights. (PDF pp.466-468) |
+| Book-period gender indicators | ✅ Gauba uses development and empowerment indicators to show that gender justice includes health, education and power, not merely formal rights. (PDF pp.466-468) |
 | Antonio Gramsci | ✅ Subaltern justice exposes hegemony, elite-centred history and exploitation masked as consent. (PDF pp.467-469) |
 | MacIntyre / Sandel / Taylor / Walzer | ✅ Communitarian thinkers stress virtue, embeddedness, social context and sphere-specific meanings of goods against abstract liberal universalism. (PDF pp.470-473) |
 
@@ -110,8 +110,8 @@
 | Marxist | ✅ Ultimately distribution by need in communist society; under capitalism, justice cannot be reduced to fair shares inside an exploitative system. (PDF pp.453, 458-459) | ✅ Socialist state is transitional, then expected to wither away with class abolition. (PDF pp.455-459) | ✅ Abolishes private ownership of major means of production while distinguishing personal property. (PDF pp.458-459) | ✅ Seeks abolition of exploitative class inequality. (PDF pp.453-459) | ✅ Envisions classless association where free development of each supports all. (PDF pp.458-459) | ✅ Criticized because new domination may reappear through political or bureaucratic power. (PDF p.459) |
 | Democratic-socialist | ✅ Social justice through partial socialization, welfare, public services and democratic rights. (PDF pp.459-461) | ✅ Strong welfare-democratic state, but not dictatorship. (PDF pp.460-461) | ✅ Mixed regime: some essential sectors under state ownership, not wholesale abolition. (PDF p.459) | ✅ Combines socio-economic justice with civil liberties and personality development. (PDF pp.459-460) | ✅ Public opinion, work culture and democratic institutions are needed to sustain it. (PDF p.461) | ✅ Criticized as hard to fund and politically difficult to sustain without coercion or incentive loss. (PDF p.461) |
 | Anarchist | ✅ Equitable sharing through voluntary cooperation, mutualism or communal association, not imposed hierarchy. (PDF pp.461-464) | ✅ State is coercive evil to be abolished or progressively diluted. (PDF pp.461-464) | ✅ Often hostile to property as domination, though strands differ. (PDF pp.462-464) | ✅ Equality means release from domination by state, hierarchy and exploitative ownership. (PDF pp.462-464) | ✅ Small associations, federations and mutual aid are preferred to centralized rule. (PDF pp.462-464) | ✅ Criticized as politically impracticable, overly optimistic about human nature, and weak on regulation. (PDF p.464) |
-| Feminist | ✅ Justice requires equal rights plus corrective support against gendered disadvantage. (PDF pp.465-468) | ✅ State may need to secure education, representation, reservations and protective benefits. (PDF pp.466-468) | ✅ Challenges women's historic exclusion from property ownership and economic power. (PDF pp.465-468) | ✅ Equality includes status, capability, participation and share in power. (PDF pp.466-468) | ✅ Community arrangements are suspect when they naturalize patriarchal roles. (PDF pp.465-467) | ✅ Critiques social arrangements that turn biological difference into unwarranted subordination. (PDF pp.465-468) |
-| Subaltern | ✅ Justice means restoring equitable shares, rights, dignity and recognition to structurally subordinated groups. (PDF pp.467-469) | ✅ State and history-writing must stop privileging elites and must protect marginalized groups. (PDF pp.468-469) | ✅ Property/class matters, but subordination extends beyond ownership into caste, culture, gender and hegemony. (PDF pp.467-469) | ✅ Equality means ending undeserved subordination and rewarding contribution fairly. (PDF pp.468-469) | ✅ Community is divided by ruling-class hegemony unless subaltern agency is recognized. (PDF pp.467-469) | ✅ Critiques elite theory for naturalizing rule and minimizing subordinate agency. (PDF pp.468-469) |
+| Feminist | ✅ Justice requires equal rights plus corrective support against gendered disadvantage. (PDF pp.465-468) | ✅ State may need to secure education, representation, reservations and protective benefits. (PDF pp.466-468) | ✅ Challenges women's historic exclusion from property ownership and economic power. (PDF pp.465-468) | ✅ Equality includes effective status, empowerment, participation and share in power. (PDF pp.466-468) | ✅ Community arrangements are suspect when they naturalize patriarchal roles. (PDF pp.465-467) | ✅ Critiques social arrangements that turn biological difference into unwarranted subordination. (PDF pp.465-468) |
+| Subaltern | ✅ Justice means restoring equitable shares, rights, dignity and protection to structurally subordinated groups. (PDF pp.467-469) | ✅ State and history-writing must stop privileging elites and must protect marginalized groups. (PDF pp.468-469) | ✅ Property/class matters, but subordination extends beyond ownership into caste, culture, gender and hegemony. (PDF pp.467-469) | ✅ Equality means ending undeserved subordination and rewarding contribution fairly. (PDF pp.468-469) | ✅ Community is divided by ruling-class hegemony unless subaltern agency can organize and speak. (PDF pp.467-469) | ✅ Critiques elite theory for naturalizing rule and minimizing subordinate agency. (PDF pp.468-469) |
 | Communitarian | ✅ Distribution should reflect community meanings, virtue and sphere-specific reasons, not one abstract universal metric. (PDF pp.469-473) | ✅ State is not neutral umpire alone; it may legitimately sustain common goods and proper boundaries between spheres. (PDF pp.470-473) | ✅ Property is not the sole key to social worth; money must not dominate every sphere. (PDF pp.472-473) | ✅ Rejects simple equality; Walzer prefers complex equality across distinct social spheres. (PDF pp.472-473) | ✅ Persons are situated selves whose good is discovered through shared practices and deeper commonality. (PDF pp.470-472) | ✅ Critiques liberal neutrality and the abstract or unencumbered self; is itself criticized for weak political mechanism. (PDF pp.469-473) |
 
 ## 9. UPSC traps and corrections
@@ -136,6 +136,16 @@
 - ⚠️ State-role boundary: `Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md`.
 - ⚠️ Module frame and topic map: `Political-Theory/00_Master-Framework.md` and `Political-Theory/README.md`.
 - ⚠️ Boundary: this file stays conceptual and does not duplicate constitutional reservations law, welfare statutes or court doctrine.
+- ⚠️ Scope boundary: this canonical owner covers Gauba's eight chapter-framed perspectives. Capability and recognition are separately sourced extensions; multicultural, environmental/intergenerational, postcolonial and global justice remain external cross-routes unless independently sourced in their own owners.
+
+### Verified cross-applied Philosophy Optional PYQs
+
+- ✅ **2019, 10 marks:** "How far do you think John Rawls is continuing with Plato's concept of justice?" Primary owner: Philosophy Paper II — Social and Political Ideals.
+- ✅ **2021, 10 marks:** "Discuss critically the distributive theory of justice as propounded by R. Nozick." Primary owner: Philosophy Paper II — Social and Political Ideals.
+- ✅ **2021, 20 marks:** "Discuss whether Amartya Sen's idea of justice is an improvement upon Rawl's theory of justice." Primary owner: Philosophy Paper II — Social and Political Ideals.
+- ✅ **2022, 15 marks:** "Explain the difference between the notion of equity and equality with reference to Marxian philosophy." Primary owner: Philosophy Paper II — Social and Political Ideals.
+- ✅ **2023, 10 marks:** "What is meant by justice as fairness? Explain Rawls' theory of justice." Primary owner: Philosophy Paper II — Social and Political Ideals.
+- ✅ **2025, 20 marks:** "How are both equality and liberty inadequate as social and political ideals without justice? Discuss." Primary owner: Philosophy Paper II — Social and Political Ideals.
 
 ## 11. Revision capsule / answer spine
 
@@ -148,7 +158,7 @@
 - ✅ Anarchist: justice seeks release from coercive authority and domination through voluntary association. (PDF pp.461-464)
 - ✅ Feminist, subaltern and communitarian critiques widen justice beyond market shares to gendered power, structural subordination and embedded community meanings. (PDF pp.464-473)
 - ✅ Walzer adds the important reminder that equality can mean keeping money from colonizing every other sphere of life. (PDF pp.472-473)
-- ⚠️ One-line synthesis: justice debates move from fair procedure, to valid title, to structural exploitation, to recognition and finally to shared meanings of goods.
+- ⚠️ One-line synthesis: Gauba's chapter moves from fair procedure, to valid title, to structural exploitation, structured subordination and finally to shared meanings of goods; recognition is a later analytical extension.
 - ⚠️ Best answer move: compare each theory on rule of distribution, role of state, treatment of property, idea of equality, view of community, and strongest criticism.
 - ✅ **Verified PYQ (2023):** What is justice as fairness? Explain Rawls's theory of justice.
 - ⚠️ PYQ trap: do not write only the difference principle; define original position and veil of
@@ -171,7 +181,7 @@
 - ⚠️ **Nozick, reconstructed** (synthesis of ✅ PDF pp.450-452): P1: individuals are self-owners bearing rights that act as side-constraints on how others, including the state, may treat them. P2: a distribution is just only if it has a just history — just acquisition, voluntary transfer, or rectification of a past injustice. P3: any "patterned" principle (such as the difference principle) requires continual interference with voluntary exchange to keep restoring the pattern, illustrated by the Wilt Chamberlain example (PDF p.451). C: justice is historical and entitlement-based, not end-state patterned; taxing legitimately acquired income to fund redistribution is, on Nozick's view, a rights violation.
 - ⚠️ **Capability approach (Sen/Nussbaum), added as supplementary synthesis — not part of this file's Gauba grounding and not to be cited with a PDF page number:** P1: what matters morally is a person's real freedom to achieve valued functionings (beings and doings), not merely the resources or primary goods they hold. P2: people convert the same resources into capability unevenly because of disability, gender norms or social position. P3: therefore equal primary goods (Rawls) or equal formal titles (Nozick) can still coexist with unequal real freedom. C: justice should also be assessed through capability sets — use this only as a named extension for broader "diverse perspectives" questions, sourced to Sen's *Development as Freedom* (1999) and Nussbaum's capabilities list, not to Gauba's chapter.
 - ⚠️ **Recognition (Fraser/Honneth), supplementary synthesis, not Gauba-grounded:** P1: injustice includes mis-recognition and status subordination (stigma, disrespect), not only maldistribution of goods. P2: redistribution alone cannot repair harms rooted in patterns of cultural valuation. C: justice requires "parity of participation" combining redistribution and recognition (Fraser's formulation) — cite as a named extension, useful for gender/caste-recognition questions, kept separate from the Gauba-sourced feminist/subaltern material already in Sections 4-8.
-- ⚠️ **Postcolonial justice, added cautiously and kept general:** P1: colonial and postcolonial structures produced lasting economic and epistemic hierarchies between and within nations. P2: formal legal equality of citizens or states does not by itself undo these structural legacies. C: justice claims must also reckon with structural/historical inequality and whose knowledge counts, not only domestic distribution rules. Do not attach invented citations, dates or named theorists beyond this general proposition; use it only where a question explicitly invites a postcolonial or global-justice dimension.
+- ⚠️ **Postcolonial and global justice route:** this file does not canonically own a postcolonial/decolonial or global-justice module. When a question explicitly requires those dimensions, route to `Political-Theory/basic/19_Justice-Concepts-and-Dimensions.md` and to separately sourced postcolonial material rather than attaching unnamed claims to this owner.
 
 ## 14. Objection-reply chains (minimum two, for direct reuse in answers)
 
@@ -183,7 +193,7 @@
 ## 15. Cautious Indian application (⚠️ throughout — analytical bridges, not Gauba-sourced)
 
 - ⚠️ Reservations in public employment and education (a widely known constitutional mechanism) can be read through Rawls's fair equality of opportunity and difference principle as compensatory opportunity for structurally disadvantaged groups, while the Nozickian entitlement worry about merit and title supplies the standard counter-argument. Constitutional article numbers and case law belong to the Polity/Law files; this file supplies only the political-theory lens.
-- ⚠️ The shift of the right to property from a fundamental right to a legal right (a well-known constitutional change enacted through the 44th Amendment, 1978) can be used as an illustrative Indian parallel to the liberal-versus-welfare-state tension Gauba discusses in general terms (PDF pp.479-480); state this as an illustrative bridge, not as content drawn from the chapter itself.
+- ⚠️ The shift of the right to property from a fundamental right to a legal right (a well-known constitutional change enacted through the 44th Amendment, 1978) can be used as an illustrative Indian parallel to the broader liberal-versus-welfare-state tension; state this only as an analytical bridge, not as Gauba-sourced content.
 - ⚠️ Welfare and employment-guarantee schemes illustrate the welfare-liberal/democratic-socialist correction of market distribution rather than a Nozickian minimal-state approach; use only as a conceptual illustration, without asserting specific scheme data that is not independently verified.
 - ⚠️ All Indian illustrations in this section are exam-use analytical bridges. They must not be cited with a Gauba PDF page number.
 
@@ -205,4 +215,31 @@
 - ✅ Verified local PYQ: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ⚠️ No post-2009 example has been introduced; all illustrations remain conceptual or clearly book-period.
 - ⚠️ The matrix format and some comparative wording are exam-oriented syntheses built from Gauba's chapter structure and are tagged accordingly.
-- ⚠️ Sections 12-16 (added in this pass) are exam-answer-architecture and supplementary-theory syntheses. The capability, recognition and postcolonial-justice material is explicitly not claimed as part of Gauba's Fifth Edition (2009) Ch.20 and carries no Gauba PDF page citation; it is sourced only to the named scholars identified inline.
+- ⚠️ Sections 12-16 (added in this pass) are exam-answer-architecture and supplementary-theory syntheses. Capability and recognition are explicitly not claimed as part of Gauba's Fifth Edition (2009) Ch.20 and are sourced only to the named scholars identified inline. Postcolonial and global justice are routed out rather than treated as owned content.
+
+## 18. Canonical MCQ concept ledger
+
+- ✅ **Primary goods:** Rawls's distributive object includes rights, liberties, opportunities, income, wealth and the social bases of self-respect.
+- ✅ **Original position:** a hypothetical fair-choice situation in which principles are selected without existing bargaining advantages.
+- ✅ **Veil of ignorance:** the parties do not know their class, talents, status or particular conception of the good.
+- ✅ **Equal basic liberties:** Rawls's first principle protects an equal scheme of compatible basic liberties.
+- ✅ **Fair equality of opportunity:** offices must be genuinely accessible, not merely open in formal law.
+- ✅ **Difference principle:** inequality is permitted only after prior principles are met and when it benefits the least advantaged.
+- ✅ **Entitlement theory:** Nozick tests holdings through just acquisition, voluntary transfer and rectification.
+- ✅ **Self-ownership:** persons possess rights over themselves that constrain how others and the state may use them.
+- ✅ **Minimal protective state:** legitimate government is limited mainly to protection, enforcement and rectification rather than patterned redistribution.
+- ✅ **Wilt Chamberlain example:** repeated voluntary transfers can disrupt a preferred distribution and require continual interference to restore it.
+- ✅ **Water-source example:** appropriation of an indispensable resource shows that initial acquisition is not morally unlimited.
+- ✅ **Rectification principle:** injustice in acquisition or transfer must be corrected before present holdings can count as entitled.
+- ✅ **Surplus value:** labour creates value beyond the wage returned to the worker, while ownership permits appropriation of the remainder.
+- ✅ **Democratic socialism:** welfare, partial socialisation and social justice are combined with civil liberties and competitive democracy.
+- ✅ **Voluntary cooperation:** anarchist justice prefers decentralised association, mutual aid and consent to coercive hierarchy.
+- ✅ **Feminist corrective equality:** identical treatment is inadequate where gendered structures require compensatory support and effective participation.
+- ✅ **Subaltern justice:** justice must protect the dignity, agency and fair reward of structurally subordinated groups.
+- ✅ **Hegemony:** domination persists partly by making elite interests and unequal arrangements appear natural or consensual.
+- ✅ **Situated / embedded self:** communitarian personhood is formed through roles, practices, traditions and shared ends.
+- ✅ **Complex equality:** one social good, especially money, should not purchase dominance across all other spheres.
+- ⚠️ **Chain connection:** Gauba's explanatory image stresses social interdependence but does not replace Rawls's two principles or their priority.
+- ⚠️ **Capability approach:** Sen and Nussbaum shift attention from resources held to real freedoms and functionings; this is a supplementary extension.
+- ⚠️ **Parity of participation:** Fraser's recognition framework asks whether persons can interact as peers across distribution, status and representation.
+- ⚠️ **Mis-recognition:** status subordination or public devaluation can remain unjust even when some material redistribution occurs.

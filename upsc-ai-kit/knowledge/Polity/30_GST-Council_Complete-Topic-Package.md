@@ -2,13 +2,13 @@
 title: Polity 30 - GST Council - Complete Topic Package
 subject: Polity
 gs_paper: GS-II and GS-III
-control_date: 2026-08-19
+control_date: 2026-08-28
 approval: false
 ---
 
 # Polity 30 - GST Council - Complete Topic Package
 
-> **Control date:** 19 August 2026, Asia/Kolkata  
+> **Control date:** 28 August 2026, Asia/Kolkata  
 > **Tags:** `[FACT]` directly supported by a named constitutional, statutory, judicial, official or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive position; `[LIMIT]` qualification, boundary or uncertainty.  
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** the pre-GST problem; Constitution (One Hundred and First Amendment) Act, 2016; Articles 246A, 269A and 279A; composition, recommendations, procedure and voting; legislation and delegated notification; rates, exemptions, input-tax credit and inverted duty; compensation; *Union of India v. Mohit Minerals*; fiscal federalism; institutional comparison; accountability, disputes and reform.
@@ -857,7 +857,7 @@ LEGALITY OF TAX/NOTIFICATION? -------------- COURT / TRIBUNAL
 | electricity equals alcohol exclusion | electricity follows a different entry/notification logic |
 | Council press release itself changes tax | legal effect requires competent instrument |
 
-### Visual 50 - Current-control board, 19 August 2026
+### Visual 50 - Current-control board, 28 August 2026
 
 | Field | Safe statement |
 |---|---|
@@ -915,7 +915,6 @@ D. 1, 2, 3 and 4
 - [ANALYSIS] The historically accepted resolution is **C: 1, 2 and 4**; processed/canned fish was not within the exemption combination.
 - [LIMIT] This is not labelled an official UPSC key in this package. Item-specific 2018 rates are historical and must not be used as a 2026 rate list.
 
-**Why this earns marks:** It answers the historical question while separating question verification, key status and current-rate volatility.
 
 ## Verified PYQ 2 - UPSC GS-III 2019, Q1 - 10 marks, 150 words
 
@@ -939,7 +938,11 @@ The transition was uneven. Rate changes, refund delays, ITC mismatches and compl
 
 GST therefore improved the architecture for long-run revenue and a common market, but its fiscal result depends on base design, compliance, refunds, economic conditions and federal trust rather than the label alone.
 
-**Why this earns marks:** It enumerates named levies, links revenue to Articles 246A/269A and ITC, and qualifies the answer with exclusions and transition costs.
+
+
+**Why this earns marks:** It enumerates both Union and State levies, connects revenue effects to ITC and IGST, and qualifies exclusions and transition costs.
+
+**How to improve / compress:** Use two compact levy columns, then devote half the answer to revenue implications; omit current rate examples and close with buoyancy, compliance and federal trust.
 
 ## Verified PYQ 3 - UPSC GS-III 2020, Q12 - 15 marks, 250 words
 
@@ -957,7 +960,11 @@ The tension was federal because States had lost much unilateral rate space yet r
 
 The five-year compensation entitlement ended in June 2022; current cess servicing must not be described as an extension of that entitlement. Future reform requires transparent cess accounts, predictable settlement and a negotiated shock-sharing framework rather than ad hoc bargaining.
 
-**Why this earns marks:** It explains the statutory formula, connects it causally to surrendered autonomy, addresses both COVID revenue mechanics and competing federal constraints, and ends with a precise post-2022 qualification.
+
+
+**Why this earns marks:** It explains the statutory formula, pandemic shortfall, borrowing response and competing Union-State constraints with the June 2022 boundary.
+
+**How to improve / compress:** Draw the protected-revenue minus actual-revenue formula, separate fund shortfall from legal entitlement, and finish with a three-part shock-sharing reform.
 
 ## Verified PYQ 4 - UPSC GS-II 2023, Q15 - 15 marks, 250 words
 
@@ -983,7 +990,11 @@ Accommodation is qualified. The Union can block a proposal, States lost unilater
 
 Thus, the Amendment is India's boldest experiment in pooled fiscal sovereignty. Its accommodative character is strong in design but depends in practice on transparent evidence, consensus, dispute settlement and respect for State fiscal capacity.
 
-**Why this earns marks:** It answers both limbs, uses the three-article architecture, computes the federal design, deploys compensation and *Mohit Minerals*, and gives a graded rather than celebratory verdict.
+
+
+**Why this earns marks:** It answers constitutional significance and degree of accommodation through Articles 246A, 269A and 279A, voting, compensation and Mohit Minerals.
+
+**How to improve / compress:** Use a pooled-sovereignty thesis, one three-Article table, two accommodative features and two asymmetries; reserve the final line for a graded verdict.
 
 ## Verified adjacent PYQ 5 - UPSC GS-II 2025, Q14 - 15 marks, 250 words
 
@@ -1003,7 +1014,11 @@ Reform should widen transparent untied transfers, rationalise cesses and schemes
 
 Fiscal federalism has become more institutionalised and consultative, but not automatically more decentralised. Its quality depends on the real fiscal space behind the formal forums.
 
-**Why this earns marks:** It keeps GST in its proper place inside the wider transfer-and-borrowing system, uses named constitutional evidence and tests reforms against autonomy, equalisation and transparency.
+
+
+**Why this earns marks:** It keeps GST inside the wider devolution, grants, borrowing and scheme architecture instead of treating the Council as the whole of fiscal federalism.
+
+**How to improve / compress:** Use a plan-era versus post-reform timeline, give GST one bounded paragraph, and retain Finance Commission, cesses and Article 293 for ownership balance.
 
 ## Original MCQs - 36 questions
 
@@ -1653,7 +1668,11 @@ The three provisions solve different parts of one federal tax problem.
 
 Thus, Article 246A answers **who legislates**, Article 269A **how inter-State GST is allocated**, and Article 279A **how common design is negotiated**.
 
-**Why this earns marks:** It uses one precise function and one limitation for each Article, avoiding the common error of treating all three as Council provisions.
+
+
+**Why this earns marks:** It distinguishes special shared competence from ordinary concurrency and identifies Parliament’s exclusive inter-State field.
+
+**How to improve / compress:** Lead with Article 246A’s notwithstanding clause, compare intra-State and inter-State fields in two lines, then add Mohit Minerals only as a legislative-autonomy consequence.
 
 ### Original Solved Mains 2 - 10 marks, 150 words
 
@@ -1671,7 +1690,11 @@ The arithmetic deliberately prevents unilateral passage. The Union alone has onl
 
 The voting design is therefore accommodative but not perfectly equal federalism: it constitutionalises bargaining between a nationally weighted Union and collectively weighted States.
 
-**Why this earns marks:** It computes the five-eighths requirement, explains both non-unilateralism and asymmetry, and distinguishes quorum, weight and consensus.
+
+
+**Why this earns marks:** It traces IGST from levy through place of supply, credit and destination settlement without calling it a third final tax.
+
+**How to improve / compress:** Use a supplier-to-destination flow, name Article 269A(5), and omit detailed statutory settlement formulae unless specifically demanded.
 
 ### Original Solved Mains 3 - 15 marks, 250 words
 
@@ -1693,7 +1716,11 @@ Delegated action forms the next layer. [FACT] CGST Act section 9 permits notifie
 
 Reform should publish a single tracker marking recommendation, instrument, effective date and implementation status.
 
-**Why this earns marks:** It uses Articles 279A/246A, sections 9/11 and *Mohit Minerals* to trace the full legal-effect chain with a practical reform.
+
+
+**Why this earns marks:** It computes the weighted coalition requirement and evaluates both consensus incentives and Union blocking power.
+
+**How to improve / compress:** Show the 1/3–2/3–3/4 arithmetic visually, distinguish quorum from vote weight, and end with one reform for reasoned consensus records.
 
 ### Original Solved Mains 4 - 15 marks, 250 words
 
@@ -1715,7 +1742,11 @@ GST simultaneously strengthens intergovernmental cooperation and narrows unilate
 
 GST is cooperative in institutional design and centralising in some fiscal effects. Its federal legitimacy depends on making pooled sovereignty genuinely reciprocal.
 
-**Why this earns marks:** It presents a balanced thesis, links every side to named provisions and gives a graded autonomy verdict rather than a binary label.
+
+
+**Why this earns marks:** It states Mohit Minerals precisely and preserves the separate rule that delegated notifications remain statute-bound.
+
+**How to improve / compress:** Separate constitutional legislative autonomy from statutory executive conditions; attach the ocean-freight result only to the composite-supply problem.
 
 ### Original Solved Mains 5 - 15 marks, 250 words
 
@@ -1735,7 +1766,11 @@ The compensation entitlement ended in June 2022. [LIMIT] Continuing cess on spec
 
 Post-2022 challenges include weaker trust, uneven State revenue capacity and no settled shock-sharing rule. Reform should publish cess accounts, distinguish entitlement from debt service, model State-specific transition effects and negotiate a rules-based emergency facility.
 
-**Why this earns marks:** It states the exact formula and period, explains political rationale, separates COVID financing from entitlement and offers feasible post-transition reforms.
+
+
+**Why this earns marks:** It compares alcohol, petroleum and electricity through different constitutional and statutory routes, preventing a common exclusion trap.
+
+**How to improve / compress:** Use a three-row boundary table and name Article 366(12A), Article 279A(5) and Entry 53; avoid freezing commodity rates.
 
 ### Original Solved Mains 6 - 20 marks, 250 words
 
@@ -1755,7 +1790,11 @@ The Constitution postpones, rather than prohibits, GST on petroleum crude, high-
 
 Petroleum inclusion has a strong efficiency case but must be a negotiated fiscal transition. The constitutional answer is phased cooperative federalism, not permanent exclusion or abrupt uniformity.
 
-**Why this earns marks:** It begins with exact Article 279A(5), weighs credit-chain gains against State own-revenue loss, differentiates products and supplies an implementable route.
+
+
+**Why this earns marks:** It evaluates compensation as the credibility price of pooled sovereignty and distinguishes entitlement, cess and pandemic debt servicing.
+
+**How to improve / compress:** Organise chronologically—2017 bargain, COVID shock, June 2022 boundary, loan servicing—and propose a transparent future shock-sharing rule.
 
 ### Original Solved Mains 7 - 20 marks, 250 words
 
@@ -1775,7 +1814,11 @@ The judgment nevertheless preserves coordination. Where CGST/IGST statutes condi
 
 The best institutional response is reasoned recommendations, transparent impact data and an operational Article 279A(11) mechanism. *Mohit Minerals* strengthens the Council by grounding its legitimacy in persuasion and law, not command.
 
-**Why this earns marks:** It connects the case facts, constitutional holding, delegated-action qualification and federal consequence, while rejecting both “binding Council” and “irrelevant Council” extremes.
+
+
+**Why this earns marks:** It evaluates common-market gains, autonomy costs, administrative asymmetry and institutional reforms rather than offering one-sided cooperative-federalism praise.
+
+**How to improve / compress:** Group gains and costs under tax base, voice, revenue and compliance; use one current official recommendation only after labelling its legal status.
 
 ### Original Solved Mains 8 - 20 marks, 250 words
 
@@ -1801,7 +1844,11 @@ The Council's durability depends on whether States and taxpayers can trace a rec
 
 The goal is transparent pooled sovereignty: common rules produced by evidence, reciprocal accommodation and enforceable legal instruments.
 
-**Why this earns marks:** It diagnoses transparency, data, dispute, compensation, compliance and federal-accountability gaps and pairs each proposal with an institutional safeguard.
+
+
+**Why this earns marks:** It diagnoses the missing Article 279A(11) mechanism and proposes jurisdiction, composition, procedure and review safeguards.
+
+**How to improve / compress:** Define covered intergovernmental disputes first, expressly exclude taxpayer appeals/GSTAT, and present an implementable neutral-panel design with judicial review.
 
 ## Final consolidated register notes - GST Council and India's fiscal-federal bargain
 

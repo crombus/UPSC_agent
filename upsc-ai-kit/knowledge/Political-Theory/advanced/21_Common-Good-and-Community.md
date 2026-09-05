@@ -60,8 +60,10 @@
 | T.H. Green | ✅ State and political obligation are grounded in common good; only laws promoting it claim moral authority. (PDF pp.475, 481-482) |
 | Locke / Smith / Bentham / J.S. Mill | ✅ Stand for the liberal confidence that rational adjustment of interests under civil rules can yield public/common good. (PDF p.479) |
 | C.B. Macpherson | ✅ Critiques market valuation for destroying creative freedom and undercutting a richer human good. (PDF p.480) |
-| MacIntyre | ✅ Argues that persons flourish within socially established cooperative activity and that rights without duties risk moral disaster. (PDF pp.481-482) |
-| Sandel / Taylor / Walzer | ✅ Stress embeddedness, shared self-understanding and sphere-appropriate distribution within community life. (PDF pp.482-483) |
+| MacIntyre | ✅ Argues that persons flourish within practices and traditions and that rights without duties risk moral disaster. (PDF pp.481-482) |
+| Sandel | ⚠️ Supplementary communitarian bridge: the unencumbered chooser understates constitutive attachments. |
+| Taylor | ⚠️ Supplementary communitarian bridge: identity is dialogical and depends partly on recognition and shared horizons. |
+| Walzer | ✅ Social goods possess sphere-specific meanings, so no master good should dominate every distributive sphere. (PDF pp.482-483) |
 | Marx / Engels | ✅ Common good is blocked by class struggle and becomes fully possible only with classless, need-based communist organization. (PDF pp.482-486) |
 | Gandhi | ✅ Common good means moral regeneration, trusteeship, bread labour, equality across caste/religion/gender and sarvodaya. (PDF pp.486-490) |
 
@@ -118,6 +120,8 @@
 - ⚠️ Communitarian precursor: `Political-Theory/advanced/07_Nature-of-Politics-and-Communitarianism.md`.
 - ⚠️ Civil-society and state boundary: `Political-Theory/advanced/10_State-Civil-Society-Nation-and-Internationalism.md`.
 - ⚠️ Justice companion: `Political-Theory/advanced/20_Diverse-Perspectives-on-Justice.md`.
+- ⚠️ Multiculturalism and group-rights bridge: `Philosophy/paper-2/socio-political/Humanism-Secularism-Multiculturalism.md`.
+- ⚠️ Caste, fraternity and constitutional-morality bridge: `Philosophy/paper-2/socio-political/Caste-Gandhi-Ambedkar.md`.
 - ⚠️ Module frame and topic map: `Political-Theory/00_Master-Framework.md` and `Political-Theory/README.md`.
 - ⚠️ Forward democracy sequel: use `Political-Theory/advanced/22_Democracy-Representation-and-Liberal-Democracy.md` for the later democracy-representation layer.
 - ⚠️ Exclusion: this file does not enter constitutional litigation doctrine, current minority-rights case law or administrative manuals on public policy.

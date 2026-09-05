@@ -1,0 +1,1125 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-17",
+  "subject": "Social-Justice",
+  "title": "SCHEME PERFORMANCE, CONVERGENCE, TARGETING AND DATA",
+  "short_route": "THE FIVE-STAGE PERFORMANCE CYCLE → SOCIAL-ASSISTANCE UMBRELLA → DATABASE AGAINST CENSUS → TARGETING-ERROR MATRIX → DELIVERY MACHINERY → ONE HOUSEHOLD, SIX MINISTRIES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-17\\social-justice-17_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-17-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "9e08b94b201f71262589e53ae12b23ea4554f0b36ed3ad44191c3974090ff78e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE FIVE-STAGE PERFORMANCE CYCLE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE FIVE-STAGE PERFORMANCE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "STAGE 1 TARGETING",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO IS ELIGIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPRIVATION DATABASE, IDENTITY, STATE AND GROUP LISTS",
+          "role": "institution"
+        },
+        {
+          "text": "STAGE 2 DELIVERY",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFER RAILS, FUND-FLOW SYSTEMS AND FRONTLINE CADRES",
+          "role": "mechanism"
+        },
+        {
+          "text": "STAGE 3 CONVERGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERAL MINISTRIES MEETING AT ONE HOUSEHOLD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STAGE 1 TARGETING → who is eligible: deprivation database, identity, State and group lists",
+        "STAGE 2 DELIVERY: transfer rails, fund-flow systems and frontline cadres",
+        "STAGE 3 CONVERGENCE: several ministries meeting at one household",
+        "STAGE 4 OUTCOME: surveys and composite indices measuring what actually changed",
+        "STAGE 5 CORRECTION: evaluation and grievance feeding evidence back into redesign"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STAGE 1 TARGETING → who is eligible: deprivation database, identity, State and group lists",
+            "STAGE 2 DELIVERY: transfer rails, fund-flow systems and frontline cadres"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STAGE 3 CONVERGENCE: several ministries meeting at one household",
+            "STAGE 4 OUTCOME: surveys and composite indices measuring what actually changed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STAGE 5 CORRECTION: evaluation and grievance feeding evidence back into redesign",
+            "STAGE 1 TARGETING → who is eligible: deprivation database, identity, State and group lists"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STAGE 5 CORRECTION: evaluation and grievance feeding evidence back into redesign.",
+      "source_references": [
+        "The five-stage cycle that organises the whole topic",
+        "What this capstone owner holds and which demands are routed to it"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SOCIAL-ASSISTANCE UMBRELLA",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SOCIAL-ASSISTANCE UMBRELLA",
+          "role": "primary"
+        },
+        {
+          "text": "OLD AGE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIRA GANDHI NATIONAL OLD AGE PENSION SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIRA GANDHI NATIONAL WIDOW PENSION SCHEME",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIRA GANDHI NATIONAL DISABILITY PENSION SCHEME",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL FAMILY BENEFIT SCHEME, A LUMP SUM ON A",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNAPURNA, FOR ELDERLY PERSONS NOT COVERED BY A PENSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OLD AGE → Indira Gandhi National Old Age Pension Scheme",
+        "WIDOW → Indira Gandhi National Widow Pension Scheme",
+        "DISABILITY → Indira Gandhi National Disability Pension Scheme",
+        "BEREAVEMENT → National Family Benefit Scheme, a lump sum on a breadwinner's death",
+        "FOOD → Annapurna, for elderly persons not covered by a pension; States may top up"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OLD AGE → Indira Gandhi National Old Age Pension Scheme",
+            "WIDOW → Indira Gandhi National Widow Pension Scheme"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "DISABILITY → Indira Gandhi National Disability Pension Scheme",
+            "BEREAVEMENT → National Family Benefit Scheme, a lump sum on a breadwinner's death"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOOD → Annapurna, for elderly persons not covered by a pension; States may top up",
+            "OLD AGE → Indira Gandhi National Old Age Pension Scheme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FOOD → Annapurna, for elderly persons not covered by a pension; States may top up.",
+      "source_references": [
+        "The social-assistance umbrella and its five components"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DATABASE AGAINST CENSUS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATABASE AGAINST CENSUS",
+          "role": "primary"
+        },
+        {
+          "text": "TARGETING DATABASE 2011",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPRIVATION AND OCCUPATION CRITERIA",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSING, LAND, ASSETS",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE ELIGIBILITY ROUTE OF THE HEALTH-ASSURANCE SCHEME",
+          "role": "primary"
+        },
+        {
+          "text": "NOT USED FOR",
+          "role": "caution"
+        },
+        {
+          "text": "THE SEPARATE AGE-BASED ROUTE COVERING ALL PERSONS AGED SEVENTY",
+          "role": "comparison"
+        },
+        {
+          "text": "DECENNIAL CENSUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TARGETING DATABASE 2011 → deprivation and occupation criteria: housing, land, assets",
+        "USE → core eligibility route of the health-assurance scheme",
+        "NOT USED FOR → the separate age-based route covering all persons aged seventy and above",
+        "DECENNIAL CENSUS → universal population enumeration with a different purpose and method",
+        "CASTE DATA → collected in 2011; not released or validated for general policy use"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "TARGETING DATABASE 2011 → deprivation and occupation criteria: housing, land, assets",
+          "NOT USED FOR → the separate age-based route covering all persons aged seventy and above",
+          "CASTE DATA → collected in 2011; not released or validated for general policy use"
+        ],
+        [
+          "USE → core eligibility route of the health-assurance scheme",
+          "DECENNIAL CENSUS → universal population enumeration with a different purpose and method",
+          "TARGETING DATABASE 2011 → deprivation and occupation criteria: housing, land, assets"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TARGETING DATABASE 2011 → deprivation and occupation criteria: housing, land, assets",
+            "USE → core eligibility route of the health-assurance scheme"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NOT USED FOR → the separate age-based route covering all persons aged seventy and above",
+            "DECENNIAL CENSUS → universal population enumeration with a different purpose and method"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CASTE DATA → collected in 2011; not released or validated for general policy use",
+            "TARGETING DATABASE 2011 → deprivation and occupation criteria: housing, land, assets"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CASTE DATA → collected in 2011; not released or validated for general policy use.",
+      "source_references": [
+        "The targeting database and why it is not the Census",
+        "Universal provision against targeted provision"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TARGETING-ERROR MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TARGETING-ERROR MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION ERROR",
+          "role": "outcome"
+        },
+        {
+          "text": "AN INELIGIBLE PERSON IS INCLUDED; RESOURCES LEAK TO THE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCLUSION ERROR",
+          "role": "evidence"
+        },
+        {
+          "text": "AN ELIGIBLE PERSON IS LEFT OUT; THE NEEDY MISS",
+          "role": "primary"
+        },
+        {
+          "text": "TIGHTER VERIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWERS INCLUSION ERROR AND RAISES EXCLUSION ERROR",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWERS EXCLUSION ERROR AND RAISES INCLUSION ERROR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INCLUSION ERROR → an ineligible person is included; resources leak to the non-poor",
+        "EXCLUSION ERROR → an eligible person is left out; the needy miss the benefit",
+        "TIGHTER VERIFICATION → lowers inclusion error and raises exclusion error",
+        "SELF-DECLARATION → lowers exclusion error and raises inclusion error",
+        "RULE → a design chooses which error to bear; it does not remove both"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "INCLUSION ERROR → an ineligible person is included; resources leak to the non-poor",
+          "TIGHTER VERIFICATION → lowers inclusion error and raises exclusion error",
+          "RULE → a design chooses which error to bear; it does not remove both"
+        ],
+        [
+          "EXCLUSION ERROR → an eligible person is left out; the needy miss the benefit",
+          "SELF-DECLARATION → lowers exclusion error and raises inclusion error",
+          "INCLUSION ERROR → an ineligible person is included; resources leak to the non-poor"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "INCLUSION ERROR → an ineligible person is included; resources leak to the non-poor",
+            "EXCLUSION ERROR → an eligible person is left out; the needy miss the benefit"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TIGHTER VERIFICATION → lowers inclusion error and raises exclusion error",
+            "SELF-DECLARATION → lowers exclusion error and raises inclusion error"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a design chooses which error to bear; it does not remove both",
+            "INCLUSION ERROR → an ineligible person is included; resources leak to the non-poor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a design chooses which error to bear; it does not remove both.",
+      "source_references": [
+        "The two targeting errors and what each one costs"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DELIVERY MACHINERY",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DELIVERY MACHINERY",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFER RAIL",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT BENEFIT TRANSFER ON THE IDENTITY, ACCOUNT AND MOBILE",
+          "role": "comparison"
+        },
+        {
+          "text": "FUND FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "THE PUBLIC FINANCIAL MANAGEMENT SYSTEM AND SINGLE NODAL AGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "LAST MILE",
+          "role": "outcome"
+        },
+        {
+          "text": "AUXILIARY NURSE MIDWIFE, HEALTH ACTIVIST, ANGANWADI WORKER, PANCHAYAT SECRETARY",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN LOCAL BODIES AND PANCHAYATI RAJ INSTITUTIONS IMPLEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRANSFER RAIL → direct benefit transfer on the identity, account and mobile trinity",
+        "FUND FLOW → the public financial management system and single nodal agency arrangement",
+        "LAST MILE → auxiliary nurse midwife, health activist, anganwadi worker, panchayat secretary",
+        "TIER → urban local bodies and panchayati raj institutions implement",
+        "LIMIT → faster transfers do not give a frontline worker a household-wide view"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "TRANSFER RAIL → direct benefit transfer on the identity, account and mobile trinity",
+            "FUND FLOW → the public financial management system and single nodal agency arrangement"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "LAST MILE → auxiliary nurse midwife, health activist, anganwadi worker, panchayat secretary",
+            "TIER → urban local bodies and panchayati raj institutions implement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → faster transfers do not give a frontline worker a household-wide view",
+            "TRANSFER RAIL → direct benefit transfer on the identity, account and mobile trinity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → faster transfers do not give a frontline worker a household-wide view.",
+      "source_references": [
+        "The delivery machinery between a sanction and a household"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ONE HOUSEHOLD, SIX MINISTRIES",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ONE HOUSEHOLD, SIX MINISTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRIBAL AFFAIRS MINISTRY WITH THE STATE FOREST DEPARTMENT",
+          "role": "institution"
+        },
+        {
+          "text": "TRIBAL DEVELOPMENT MISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSING, ROAD AND WATER",
+          "role": "primary"
+        },
+        {
+          "text": "CHILD NUTRITION",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHOOL MEAL PROGRAMME AND THE INTEGRATED NUTRITION PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "HEALTH ASSURANCE ADMINISTERED THROUGH THE NATIONAL HEALTH AUTHORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOREST RIGHTS → tribal affairs ministry with the State forest department",
+        "HABITAT → tribal development mission: housing, road and water",
+        "CHILD NUTRITION → school meal programme and the integrated nutrition programme",
+        "HEALTH → health assurance administered through the national health authority",
+        "OLD AGE → social-assistance pension from the rural development ministry"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "FOREST RIGHTS → tribal affairs ministry with the State forest department",
+            "HABITAT → tribal development mission: housing, road and water"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CHILD NUTRITION → school meal programme and the integrated nutrition programme",
+            "HEALTH → health assurance administered through the national health authority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OLD AGE → social-assistance pension from the rural development ministry",
+            "FOREST RIGHTS → tribal affairs ministry with the State forest department"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OLD AGE → social-assistance pension from the rural development ministry.",
+      "source_references": [
+        "The household that shows why convergence is hard",
+        "What convergence means and the two directions it must work in"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONVERGENCE FAILURE CHAIN",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONVERGENCE FAILURE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH MINISTRY KEEPS ITS OWN ELIGIBILITY DATABASE; NO INTEROPERABLE",
+          "role": "caution"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENT CADRES SERVE DIFFERENT SCHEMES; NO WORKER SEES THE",
+          "role": "caution"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DISTRICT COLLECTOR LACKS REAL-TIME DATA AND AUTHORITY OVER",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → each ministry keeps its own eligibility database; no interoperable record exists",
+        "STEP 2 → different cadres serve different schemes; no worker sees the whole household",
+        "STEP 3 → the district collector lacks real-time data and authority over central agencies",
+        "STEP 4 → disbursement cycles differ, so one benefit arrives and another is missed",
+        "RESULT → convergence is architectural, so exhortation cannot produce it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STEP 1 → each ministry keeps its own eligibility database; no interoperable record exists",
+            "STEP 2 → different cadres serve different schemes; no worker sees the whole household"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → the district collector lacks real-time data and authority over central agencies",
+            "STEP 4 → disbursement cycles differ, so one benefit arrives and another is missed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → convergence is architectural, so exhortation cannot produce it",
+            "STEP 1 → each ministry keeps its own eligibility database; no interoperable record exists"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → convergence is architectural, so exhortation cannot produce it.",
+      "source_references": [
+        "Why convergence fails by design rather than by neglect",
+        "What the failure looks like inside one household"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DATA TYPE AND RESULT LEVEL",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATA TYPE AND RESULT LEVEL",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH FREQUENCY, PROGRAMME-SPECIFIC, EXCLUDES THE NON-ENROLLED",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARABLE INDICATORS, SAMPLED, CARRIES A REPORTING LAG",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIVERSAL COVERAGE, INFREQUENT AND SLOW",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTPUT VERSUS OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "MEALS SERVED AGAINST NUTRITIONAL STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-TERM CAPABILITY SUCH AS COGNITIVE DEVELOPMENT, ESTIMATED BY EVALUATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ADMINISTRATIVE → high frequency, programme-specific, excludes the non-enrolled",
+        "SURVEY → comparable indicators, sampled, carries a reporting lag",
+        "CENSUS → universal coverage, infrequent and slow",
+        "OUTPUT VERSUS OUTCOME → meals served against nutritional status",
+        "IMPACT → long-term capability such as cognitive development, estimated by evaluation"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "ADMINISTRATIVE → high frequency, programme-specific, excludes the non-enrolled",
+          "CENSUS → universal coverage, infrequent and slow",
+          "IMPACT → long-term capability such as cognitive development, estimated by evaluation"
+        ],
+        [
+          "SURVEY → comparable indicators, sampled, carries a reporting lag",
+          "OUTPUT VERSUS OUTCOME → meals served against nutritional status",
+          "ADMINISTRATIVE → high frequency, programme-specific, excludes the non-enrolled"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ADMINISTRATIVE → high frequency, programme-specific, excludes the non-enrolled",
+            "SURVEY → comparable indicators, sampled, carries a reporting lag"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CENSUS → universal coverage, infrequent and slow",
+            "OUTPUT VERSUS OUTCOME → meals served against nutritional status"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPACT → long-term capability such as cognitive development, estimated by evaluation",
+            "ADMINISTRATIVE → high frequency, programme-specific, excludes the non-enrolled"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMPACT → long-term capability such as cognitive development, estimated by evaluation.",
+      "source_references": [
+        "Three kinds of data and what each one can and cannot say",
+        "Output, outcome and impact as three different results"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "OUTCOME INSTRUMENTS CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OUTCOME INSTRUMENTS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "HEALTH AND NUTRITION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE NATIONAL FAMILY HEALTH SURVEY OF THE HEALTH MINISTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE PERIODIC LABOUR FORCE SURVEY OF THE STATISTICS MINISTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCRIMINATION AND CRIME",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL CRIME RECORDS BUREAU DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SUSTAINABLE DEVELOPMENT GOAL INDIA INDEX AND THE POVERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUND RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HEALTH AND NUTRITION → the National Family Health Survey of the health ministry",
+        "EMPLOYMENT → the Periodic Labour Force Survey of the statistics ministry",
+        "DISCRIMINATION AND CRIME → National Crime Records Bureau data",
+        "COMPOSITE → the Sustainable Development Goal India Index and the poverty index",
+        "ROUND RULE → sixth round 2023-24, released 29 May 2026; stunting 29.3% against 35.5%"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "HEALTH AND NUTRITION → the National Family Health Survey of the health ministry",
+          "DISCRIMINATION AND CRIME → National Crime Records Bureau data",
+          "ROUND RULE → sixth round 2023-24, released 29 May 2026; stunting 29.3% against 35.5%"
+        ],
+        [
+          "EMPLOYMENT → the Periodic Labour Force Survey of the statistics ministry",
+          "COMPOSITE → the Sustainable Development Goal India Index and the poverty index",
+          "HEALTH AND NUTRITION → the National Family Health Survey of the health ministry"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HEALTH AND NUTRITION → the National Family Health Survey of the health ministry",
+            "EMPLOYMENT → the Periodic Labour Force Survey of the statistics ministry"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DISCRIMINATION AND CRIME → National Crime Records Bureau data",
+            "COMPOSITE → the Sustainable Development Goal India Index and the poverty index"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ROUND RULE → sixth round 2023-24, released 29 May 2026; stunting 29.3% against 35.5%",
+            "HEALTH AND NUTRITION → the National Family Health Survey of the health ministry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROUND RULE → sixth round 2023-24, released 29 May 2026; stunting 29.3% against 35.5%.",
+      "source_references": [
+        "The outcome instruments and the discipline of the round"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TARGETING-ERROR CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TARGETING-ERROR CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "A 2011 LIST MISSES MOVEMENT, INCOME CHANGE AND NEWLY",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTITY NUMBER, RATION CARD OR CERTIFICATE PROXIES FOR IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "VERIFICATION CHOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "SELF-DECLARATION LEAKS; CERTIFICATION EXCLUDES THE UNDOCUMENTED",
+          "role": "primary"
+        },
+        {
+          "text": "PROXY LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "HOUSING, LAND AND ASSETS IMPERFECTLY TRACK INCOME OR CONSUMPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSISTED AND NON-DIGITAL ALTERNATIVES WITH A CORRECTION ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VINTAGE → a 2011 list misses movement, income change and newly arising deprivation",
+        "DOCUMENTS: identity number, ration card or certificate proxies for identity, not need",
+        "VERIFICATION CHOICE: self-declaration leaks; certification excludes the undocumented",
+        "PROXY LIMITS: housing, land and assets imperfectly track income or consumption poverty",
+        "SAFEGUARD → assisted and non-digital alternatives with a correction route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "VINTAGE → a 2011 list misses movement, income change and newly arising deprivation",
+            "DOCUMENTS: identity number, ration card or certificate proxies for identity, not need"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "VERIFICATION CHOICE: self-declaration leaks; certification excludes the undocumented",
+            "PROXY LIMITS: housing, land and assets imperfectly track income or consumption poverty"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SAFEGUARD → assisted and non-digital alternatives with a correction route",
+            "VINTAGE → a 2011 list misses movement, income change and newly arising deprivation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFEGUARD → assisted and non-digital alternatives with a correction route.",
+      "source_references": [
+        "Why targeting errors arise even when the design is sound"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CORRECTION FAILURE AND ITS INSTRUMENTS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CORRECTION FAILURE AND ITS INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "DASHBOARDS SHOW COVERAGE; SURVEYS SHOW A REMAINING OUTCOME DEFICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DIVERGENCE ITSELF IS NOT TREATED AS A FINDING",
+          "role": "caution"
+        },
+        {
+          "text": "THE THINK TANK'S EVALUATION OFFICE COORDINATES THIRD-PARTY EVALUATION",
+          "role": "evidence"
+        },
+        {
+          "text": "THE OUTPUT-OUTCOME MONITORING FRAMEWORK OF THE FINANCE MINISTRY",
+          "role": "primary"
+        },
+        {
+          "text": "FINDINGS STAY IN REPORTS BECAUSE ALLOCATION DOES NOT DEPEND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIVERGENCE → dashboards show coverage; surveys show a remaining outcome deficit",
+        "UNINVESTIGATED → the divergence itself is not treated as a finding",
+        "EVALUATION → the think tank's evaluation office coordinates third-party evaluation",
+        "BUDGET → the output-outcome monitoring framework of the finance ministry",
+        "BREAK → findings stay in reports because allocation does not depend on them"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "DIVERGENCE → dashboards show coverage; surveys show a remaining outcome deficit",
+            "UNINVESTIGATED → the divergence itself is not treated as a finding"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "EVALUATION → the think tank's evaluation office coordinates third-party evaluation",
+            "BUDGET → the output-outcome monitoring framework of the finance ministry"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BREAK → findings stay in reports because allocation does not depend on them",
+            "DIVERGENCE → dashboards show coverage; surveys show a remaining outcome deficit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BREAK → findings stay in reports because allocation does not depend on them.",
+      "source_references": [
+        "Why evidence does not become correction",
+        "The reform architecture and the rights limits on it"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PENDING DATA AND BOUNDED FINDINGS",
+      "structural_type": "timeline",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PENDING DATA AND BOUNDED FINDINGS",
+          "role": "primary"
+        },
+        {
+          "text": "30 APRIL 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "CASTE ENUMERATION FOR THE 2027 CENSUS IS APPROVED",
+          "role": "comparison"
+        },
+        {
+          "text": "1 APRIL TO 30 SEPTEMBER 2026",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST-PHASE HOUSELISTING IS NOTIFIED",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATIONS BEGUN; NO RESULTS; NOT A DATABASE OR A",
+          "role": "caution"
+        },
+        {
+          "text": "SURVEY FINDING",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSFERS IMPROVE SHORT-TERM CONSUMPTION AND FOOD SECURITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "30 APRIL 2025 → caste enumeration for the 2027 Census is approved",
+        "1 APRIL TO 30 SEPTEMBER 2026 → first-phase houselisting is notified",
+        "STATUS → operations begun; no results; not a database or a targeting list",
+        "SURVEY FINDING → transfers improve short-term consumption and food security",
+        "BOUNDARY → without complementary services, nutrition, education and exits do not follow"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OFFICIAL EVIDENCE / DATE",
+          "role": "evidence",
+          "items": [
+            "30 APRIL 2025 → caste enumeration for the 2027 Census is approved",
+            "1 APRIL TO 30 SEPTEMBER 2026 → first-phase houselisting is notified"
+          ]
+        },
+        {
+          "heading": "WHAT IT PROVES",
+          "role": "mechanism",
+          "items": [
+            "STATUS → operations begun; no results; not a database or a targeting list",
+            "SURVEY FINDING → transfers improve short-term consumption and food security"
+          ]
+        },
+        {
+          "heading": "CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → without complementary services, nutrition, education and exits do not follow",
+            "30 APRIL 2025 → caste enumeration for the 2027 Census is approved"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → without complementary services, nutrition, education and exits do not follow.",
+      "source_references": [
+        "The pending data event and what it does not yet supply",
+        "What the transfer evidence actually supports"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION (TYPE I) - DIFFERENT ELIGIBILITY DBS - COVERAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSION (TYPE II) - DIFFERENT MINISTRIES - ADMINISTRATIVE DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFICATION GAP - DIFFERENT FRONTLINE CADRES ≠ SURVEY DATA",
+          "role": "evidence"
+        },
+        {
+          "text": "SECC CASTE DATA UNRELEASED",
+          "role": "primary"
+        },
+        {
+          "text": "CENSUS 2027 CASTE ENUMERATION APPROVED; OPERATIONS BEGUN, NO RESULTS",
+          "role": "caution"
+        },
+        {
+          "text": "NO UNIVERSALLY INTEROPERABLE, CONTINUOUSLY UPDATED REGISTRY",
+          "role": "caution"
+        },
+        {
+          "text": "NSAP (MORD)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "Inclusion (Type I) - Different eligibility DBs - Coverage ≠ outcome",
+            "Exclusion (Type II) - Different ministries - Administrative data",
+            "Identification gap - Different frontline cadres ≠ survey data",
+            "SECC caste data unreleased"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Census 2027 caste enumeration approved; operations begun, no results (Topic 09)",
+            "No universally interoperable, continuously updated registry",
+            "NSAP (MoRD): Social-assistance umbrella; central contribution is fixed and",
+            "SECC 2011 (MoRD): Static targeting database; no update since 2011; caste data"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "DMEO (NITI Aayog): Evaluation and monitoring; OOMF mandates output-outcome",
+            "CAUTION: Recommended reform: build a federated, purpose-limited interoperability layer with",
+            "CAUTION: Recommended reform: mandate outcome-linked Budget allocations — incremental funding",
+            "CAUTION: Recommended reform: assign District Collectors explicit convergence authority with"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

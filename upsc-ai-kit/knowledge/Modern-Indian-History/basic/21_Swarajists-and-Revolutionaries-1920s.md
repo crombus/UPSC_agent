@@ -184,3 +184,26 @@
 - Chittagong = Bengal, Surya Sen.
 - Do not state Swarajist seat numbers or vote shares without verified figures.
 - Do not quote revolutionary writings or court statements verbatim.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the post-1922 No-changer/Pro-changer debate, constructive
+  continuity, Swaraj Party council obstruction, HRA-Kakori, Naujawan Bharat
+  Sabha, the HRA-to-HSRA socialist turn, Saunders, the two distinct trials,
+  jail resistance, Bhagat Singh's political thought and Chittagong.
+- **Boundary:** Topic 20 owns Non-Cooperation and its withdrawal; Topic 22
+  owns Simon, Nehru Report and Civil Disobedience; Topic 23 owns the mature
+  1930s Left, peasant, worker and states-peoples movements. Topic 26 alone
+  owns INA, RIN and Cabinet Mission; Topic 27 owns independence and partition.
+- **Date control:** Gaya (December 1922), Swaraj Party working date
+  (1 January 1923), HRA (October 1924), Kakori (1925), Naujawan Bharat Sabha
+  (March 1926), HSRA (9-10 September 1928), Assembly bomb (8 April 1929),
+  Jatin Das (13 September 1929) and executions (23 March 1931) remain distinct.
+- **Mechanism control:** council entry meant obstruction, not loyalism; HRA
+  and HSRA are one lineage with an ideological change, not rival bodies;
+  Naujawan Bharat Sabha was an open front; the Assembly Bomb and Lahore
+  Conspiracy cases were separate proceedings.
+- **Verified PYQ ownership, 2018-2026:** 2020 GS-I Q13 is a shared direct
+  ideological-strands route with Topic 23. The 2018 Swarajya Sabha item belongs
+  to Topic 18 and is retained only as a bounded name-confusion control; its
+  local official key is unavailable and no answer letter is invented.

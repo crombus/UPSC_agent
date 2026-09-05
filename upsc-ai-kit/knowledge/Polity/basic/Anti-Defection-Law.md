@@ -10,7 +10,7 @@
 | Amended by | **91st Amdt, 2003** (removed split exception) |
 | Deciding authority | **Presiding Officer** (Speaker/Chairman) |
 | Key case | **Kihoto Hollohan (1992)** — judicial review allowed |
-| Only surviving defence | **Merger** (at least 2/3 of the legislature party) |
+| Only surviving group defence | **Merger** under paragraph 4 (not less than 2/3 of the legislature party agree) |
 
 ## Core idea
 The **anti-defection law (Tenth Schedule, 52nd Amdt 1985)** disqualifies legislators who **switch parties** or
@@ -77,7 +77,7 @@ loophole used to topple governments (Karnataka/MP).
 - **Claim — the ouster of courts was struck down; the Speaker is a reviewable tribunal.** ✅ *Case:* ***Kihoto Hollohan v. Zachillhu (1992)*** (five-judge Bench) — invalidated **para 7** (which barred judicial review) for want of the **State ratification** required by Art 368(2), and held the Speaker acts as a **tribunal** whose decision is subject to **judicial review** on grounds of *mala fides, perversity, or violation of natural justice*. *Limitation:* review is generally available **after** the decision, not by a pre-emptive (*quia timet*) petition.
 - **Claim — "voluntarily giving up membership" is wider than resignation.** ✅ *Case:* ***Ravi S. Naik v. Union of India (1994)*** — the phrase is **not** synonymous with formal resignation; it can be **inferred from conduct** (e.g., publicly acting against the party). *Significance:* a member cannot dodge disqualification merely by not resigning on paper.
 - **Claim — even the Speaker's *inaction* is reviewable.** ✅ *Case:* ***Rajendra Singh Rana v. Swami Prasad Maurya (2007)*** — where the Speaker **fails or refuses to decide** a petition within a reasonable time, the Court can intervene; delay cannot be used to defeat the Tenth Schedule. *Significance:* pinned accountability on omission, not just decision.
-- **Claim — delay is now bounded by a judicial norm.** ✅ *Case:* ***Keisham Meghachandra Singh v. Speaker, Manipur Assembly (2020)*** — petitions should ordinarily be decided within a **reasonable period of three months**, and Parliament should consider an **independent tribunal** headed by a retired judge. *Limitation:* this is a **recommendation/norm**, not an enforceable statutory deadline.
+- **Claim — delay is now bounded by a judicial norm.** ✅ *Case:* ***Keisham Meghachandra Singh v. Speaker, Manipur Assembly (2020)*** — absent exceptional circumstances supported by reasons, petitions should ordinarily be decided within **three months from filing**; Parliament should consider an **independent tribunal**. *Limitation:* three months is a judicially stated ordinary outer limit, not text enacted in the Schedule, and exceptional cases may justify departure.
 - **Claim — the whip belongs to the *political party*, not the legislature party.** ✅ *Case:* ***Subhash Desai v. Principal Secretary, Governor of Maharashtra* (Constitution Bench, 11 May 2023)** — arising from the 2022 Shiv Sena split. Its Tenth-Schedule propositions: (i) the **Speaker must recognise the Whip and the Leader appointed by the *political party***, not by a faction of the **legislature party** — the Tenth Schedule's whole premise is party discipline, so allowing a breakaway legislature-party bloc to appoint the whip would defeat it; (ii) the Speaker deciding disqualification must determine **who the real political party is** by reference to the party's own constitution and leadership structure, not merely by counting legislators; (iii) disqualification petitions must be decided within a **reasonable period**; (iv) the **Election Commission is not barred** from deciding a symbol dispute under the Symbols Order merely because disqualification petitions are pending — the two proceedings run on **different tracks**. *Significance:* the sharpest modern statement that the Tenth Schedule protects the **party**, not the **numbers**. *Limitation:* ⚠️ the Court expressly **referred to a larger (seven-judge) Bench** the *Nabam Rebia* (2016) question — whether a Speaker facing a **notice for his own removal** may adjudicate disqualification — so that point is **open and undecided**; ⚠️ do **not** state that the Court disqualified anyone or restored any government (it did neither), and do not treat the Symbols-Order holding as settling the merits of any symbol dispute.
 
 ### 5.6 Bank C — The 91st Amendment and the office bar
@@ -88,14 +88,14 @@ loophole used to topple governments (Karnataka/MP).
 | Ministries are size-capped | ✅ CoM (incl. PM/CM) **≤ 15%** of the House; States have a **minimum of 12** ministers | Curbs the use of ministerial berths to buy defectors | The cap is 15%, **not** 10% |
 | A disqualified defector is barred from office | ✅ a member disqualified on defection **cannot be a Minister** or hold a **remunerative political post** until re-elected or the term ends | Blocks the "defect-then-reward" route | The bar runs until re-election, not merely to the next session |
 
-- **Reform lineage (state the source and status):** ✅ the **Dinesh Goswami Committee (1990)**, **Law Commission 170th Report (1999)** and **NCRWC (2002)** recommended vesting the decision in the **President/Governor on the ECI's advice** and limiting the whip to **confidence and money votes**; only the **91st Amendment (2003)** was enacted, while the tribunal and whip-limiting proposals **remain proposals**, not law.
+- **Reform lineage (state the source and status):** ✅ reform bodies proposed overlapping but not identical changes: the **Dinesh Goswami Committee (1990)** and **Law Commission 170th Report (1999)** supported narrowing whip-based disqualification to high-stakes votes, while the **Law Commission 255th Report (2015)** proposed decision by the President/Governor on ECI advice; only the **91st Amendment (2003)** was enacted, while the tribunal and whip-limiting proposals **remain proposals**, not law.
 
 ### 5.7 Mechanism, institutional incentives and consequences
 
 - **Why wholesale replaced retail defection:** with the one-third split gone and the two-thirds merger retained, the incentive shifted from individual crossings to **engineering a two-thirds group** — the law rechannelled defection rather than ending it.
 - **Why the Speaker's power invites delay:** the same officer belongs to a party and decides petitions that can save or sink that party's government, so **sitting on a petition** until after a floor test became a rational partisan strategy — the harm *Rajendra Singh Rana* and *Keisham Meghachandra* targeted.
 - **Why the whip chills dissent:** because ground (b) disqualifies a member for defying a whip, the individual legislator's independent judgement is subordinated to the party command — stabilising governments but hollowing intra-party democracy and deliberation.
-- **Consequence — the "resign-and-recontest" workaround:** members **resign** their seats (rather than defect) to reduce the House total and engineer a favourable floor-test majority, then recontest — a route the Tenth Schedule does not reach (Karnataka 2019, Madhya Pradesh 2020).
+- **Consequence — the "resign-and-recontest" workaround:** members **resign** their seats (rather than defect) to reduce the House total and engineer a favourable floor-test majority, then recontest — a route that cannot erase an antecedent defection: *Shrimanth Balasaheb Patil* (2019) preserves jurisdiction where disqualifying conduct preceded resignation, while permitting re-election if otherwise qualified.
 
 ### 5.8 Criticism, counter-argument, variation and implementation constraints
 
@@ -125,7 +125,7 @@ loophole used to topple governments (Karnataka/MP).
 ### 5.11 Factual-risk and current-status controls
 
 - ✅ The **Tenth Schedule** was inserted by the **52nd Amendment (1985)** and amended **Arts 101, 102, 190, 191**; do not place it in the Ninth Schedule.
-- ✅ Only the **merger (2/3)** exception survives; the **split (1/3)** exception was **deleted by the 91st Amendment (2003)**.
+- ✅ Only the **merger group defence (2/3)** survives; the **split (1/3)** exception was **deleted by the 91st Amendment (2003)**.
 - ✅ Nominated member — may join a party **within 6 months** freely; **independent** — disqualified on joining **any** party.
 - ✅ ***Kihoto Hollohan* (1992)** struck down para 7's court-ouster and held the Speaker a **reviewable tribunal**; ✅ ***Ravi S. Naik* (1994)** — conduct can amount to "voluntarily giving up membership"; ✅ ***Rajendra Singh Rana* (2007)** — the Speaker's **inaction** is reviewable; ✅ ***Keisham Meghachandra* (2020)** — decide within **~3 months**, independent tribunal **suggested**.
 - ✅ 91st Amendment — CoM cap **15%** (States min 12) and a **ministerial-office bar** on defectors; do not state 10%.
@@ -146,7 +146,7 @@ loophole used to topple governments (Karnataka/MP).
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 88 | Tenth Schedule disqualification; mention of 'political party' | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2025 | Prelims GS-I | 88 | Tenth Schedule disqualification; mention of 'political party' | Objective question; official Set-A key available; exact answer verified in the reviewed package | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 

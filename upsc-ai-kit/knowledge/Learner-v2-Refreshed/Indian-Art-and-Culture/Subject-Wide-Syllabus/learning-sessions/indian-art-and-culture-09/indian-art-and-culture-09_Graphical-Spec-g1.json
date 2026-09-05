@@ -1,0 +1,1016 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-09",
+  "subject": "Indian-Art-and-Culture",
+  "title": "INDIAN DANCE",
+  "short_route": "COMPOSITE PERFORMANCE ROOT → MOVEMENT VOCABULARY → GESTURE FIREWALL → RECOGNITION MAP → BHARATANATYAM CHANGE → RECITAL SEQUENCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-09\\indian-art-and-culture-09_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-08-09-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "e108a07aba5e747e65e5a441220e1311ec5106171abd006956d99052e1cb50b1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMPOSITE PERFORMANCE ROOT",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "COMPOSITE PERFORMANCE ROOT",
+          "role": "primary"
+        },
+        {
+          "text": "NARRATIVE AND DIALOGUE",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY, FACE AND GESTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "MELODY AND RHYTHM",
+          "role": "evidence"
+        },
+        {
+          "text": "AESTHETIC RECEPTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TEXT → narrative and dialogue",
+        "ENACTMENT → body, face and gesture",
+        "MUSIC → melody and rhythm",
+        "RASA → aesthetic reception"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TEXT → narrative and dialogue",
+            "ENACTMENT → body, face and gesture"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MUSIC → melody and rhythm",
+            "RASA → aesthetic reception"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEXT → narrative and dialogue",
+            "ENACTMENT → body, face and gesture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUSIC → melody and rhythm; RASA → aesthetic reception.",
+      "source_references": [
+        "Natya Veda as composite art"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MOVEMENT VOCABULARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MOVEMENT VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "GRACEFUL AND EXPRESSIVE QUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "VIGOROUS RHYTHMIC QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PURE MOVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPRESSION AND DRAMA",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LASYA → graceful and expressive quality",
+        "TANDAVA → vigorous rhythmic quality",
+        "NRITTA → pure movement",
+        "NRITYA / NATYA → expression and drama"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LASYA → graceful and expressive quality",
+          "NRITTA → pure movement",
+          "LASYA → graceful and expressive quality"
+        ],
+        [
+          "TANDAVA → vigorous rhythmic quality",
+          "NRITYA / NATYA → expression and drama",
+          "TANDAVA → vigorous rhythmic quality"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LASYA → graceful and expressive quality",
+            "TANDAVA → vigorous rhythmic quality"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NRITTA → pure movement",
+            "NRITYA / NATYA → expression and drama"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LASYA → graceful and expressive quality",
+            "TANDAVA → vigorous rhythmic quality"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NRITTA → pure movement; NRITYA / NATYA → expression and drama.",
+      "source_references": [
+        "Lasya and Tandava",
+        "Nritta, Nritya and Natya"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GESTURE FIREWALL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GESTURE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "HAND GESTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WHOLE-BODY MOVEMENT UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTACHED TO KARANAS",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT CONVERT THE NUMBER TO MUDRAS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HASTA / MUDRA → hand gesture",
+        "KARANA → whole-body movement unit",
+        "108 → attached to karanas",
+        "TRAP → do not convert the number to mudras"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HASTA / MUDRA → hand gesture",
+          "108 → attached to karanas",
+          "HASTA / MUDRA → hand gesture"
+        ],
+        [
+          "KARANA → whole-body movement unit",
+          "TRAP → do not convert the number to mudras",
+          "KARANA → whole-body movement unit"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HASTA / MUDRA → hand gesture",
+            "KARANA → whole-body movement unit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "108 → attached to karanas",
+            "TRAP → do not convert the number to mudras"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HASTA / MUDRA → hand gesture",
+            "KARANA → whole-body movement unit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not convert the number to mudras.",
+      "source_references": [
+        "Rasa, hasta and karana"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RECOGNITION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RECOGNITION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "EIGHT CLASSICAL FORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY LIST",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATELY INCLUDES CHHAU",
+          "role": "evidence"
+        },
+        {
+          "text": "UNESCO ICH",
+          "role": "primary"
+        },
+        {
+          "text": "SAFEGUARDING INSCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "THREE NON-INTERCHANGEABLE RECORDS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SNA → eight classical forms",
+        "MINISTRY LIST → separately includes Chhau",
+        "UNESCO ICH → safeguarding inscription",
+        "RULE → three non-interchangeable records"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SNA → eight classical forms",
+            "MINISTRY LIST → separately includes Chhau"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNESCO ICH → safeguarding inscription",
+            "RULE → three non-interchangeable records"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SNA → eight classical forms",
+            "MINISTRY LIST → separately includes Chhau"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNESCO ICH → safeguarding inscription; RULE → three non-interchangeable records.",
+      "source_references": [
+        "Who recognises a classical form"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BHARATANATYAM CHANGE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "BHARATANATYAM CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "HEREDITARY PRACTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "REPERTORY BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "IYER + RUKMINI DEVI",
+          "role": "evidence"
+        },
+        {
+          "text": "MODERN STAGE",
+          "role": "primary"
+        },
+        {
+          "text": "WIDER CANON AND NEW AUTHORITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SADIR / HEREDITARY PRACTICE → repertory base",
+        "ANTI-NAUTCH → disruption",
+        "IYER + RUKMINI DEVI → reconfiguration",
+        "MODERN STAGE → wider canon and new authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SADIR / HEREDITARY PRACTICE → repertory base",
+            "ANTI-NAUTCH → disruption"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IYER + RUKMINI DEVI → reconfiguration",
+            "MODERN STAGE → wider canon and new authority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SADIR / HEREDITARY PRACTICE → repertory base",
+            "ANTI-NAUTCH → disruption"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MODERN STAGE → wider canon and new authority.",
+      "source_references": [
+        "Bharatanatyam's social history"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RECITAL SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RECITAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "MOVEMENT AND EXPRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPED CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "RHYTHMIC CLOSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALARIPPU → opening",
+        "JATISWARAM / SHABDAM → movement and expression",
+        "VARNAM / PADAM / JAWALI → developed core",
+        "THILLANA → rhythmic close"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ALARIPPU → opening",
+            "JATISWARAM / SHABDAM → movement and expression"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VARNAM / PADAM / JAWALI → developed core",
+            "THILLANA → rhythmic close"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ALARIPPU → opening",
+            "JATISWARAM / SHABDAM → movement and expression"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VARNAM / PADAM / JAWALI → developed core.",
+      "source_references": [
+        "Bharatanatyam recital grammar"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ANDHRA DISCRIMINATOR",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ANDHRA DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "ITINERANT DANCE-DRAMA ORIGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "PLACE-NAME ANCHOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENT SOLO HISTORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KUCHIPUDI → itinerant dance-drama origin",
+        "KUCHELAPURAM → place-name anchor",
+        "SIDDHENDRA → association",
+        "BHARATANATYAM → different solo history"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KUCHIPUDI → itinerant dance-drama origin",
+          "SIDDHENDRA → association",
+          "KUCHIPUDI → itinerant dance-drama origin"
+        ],
+        [
+          "KUCHELAPURAM → place-name anchor",
+          "BHARATANATYAM → different solo history",
+          "KUCHELAPURAM → place-name anchor"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KUCHIPUDI → itinerant dance-drama origin",
+            "KUCHELAPURAM → place-name anchor"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIDDHENDRA → association",
+            "BHARATANATYAM → different solo history"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KUCHIPUDI → itinerant dance-drama origin",
+            "KUCHELAPURAM → place-name anchor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIDDHENDRA → association; BHARATANATYAM → different solo history.",
+      "source_references": [
+        "Kuchipudi as dance drama"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "KERALA PAIR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KERALA PAIR",
+          "role": "primary"
+        },
+        {
+          "text": "ATTAKKATHA, MAKE-UP, TROUPE AND PERCUSSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOLO LASYA AND KASAVU",
+          "role": "comparison"
+        },
+        {
+          "text": "KERALA PERFORMANCE ECOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "DRAMA VERSUS LYRICAL SOLO",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "KATHAKALI → Attakkatha, make-up, troupe and percussion",
+        "MOHINIYATTAM → solo lasya and Kasavu",
+        "COMMON → Kerala performance ecology",
+        "DISTINCTION → drama versus lyrical solo"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KATHAKALI → Attakkatha, make-up, troupe and percussion",
+          "COMMON → Kerala performance ecology",
+          "KATHAKALI → Attakkatha, make-up, troupe and percussion"
+        ],
+        [
+          "MOHINIYATTAM → solo lasya and Kasavu",
+          "DISTINCTION → drama versus lyrical solo",
+          "MOHINIYATTAM → solo lasya and Kasavu"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KATHAKALI → Attakkatha, make-up, troupe and percussion",
+            "MOHINIYATTAM → solo lasya and Kasavu"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMON → Kerala performance ecology",
+            "DISTINCTION → drama versus lyrical solo"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KATHAKALI → Attakkatha, make-up, troupe and percussion",
+            "MOHINIYATTAM → solo lasya and Kasavu"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON → Kerala performance ecology; DISTINCTION → drama versus lyrical solo.",
+      "source_references": [
+        "Kathakali and Mohiniyattam"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EASTERN THREE-FORM KEY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EASTERN THREE-FORM KEY",
+          "role": "primary"
+        },
+        {
+          "text": "TRIBHANGA, CHOWK, MAHARI AND GOTIPUA",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNG, RASLILA AND RESTRAINED FACE",
+          "role": "comparison"
+        },
+        {
+          "text": "SATTRA, ANKIYA NAT AND MATI-AKHORA",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVOTION ALONE CANNOT IDENTIFY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ODISSI → tribhanga, chowk, mahari and gotipua",
+        "MANIPURI → pung, raslila and restrained face",
+        "SATTRIYA → sattra, ankiya nat and mati-akhora",
+        "TRAP → devotion alone cannot identify"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ODISSI → tribhanga, chowk, mahari and gotipua",
+          "SATTRIYA → sattra, ankiya nat and mati-akhora",
+          "ODISSI → tribhanga, chowk, mahari and gotipua"
+        ],
+        [
+          "MANIPURI → pung, raslila and restrained face",
+          "TRAP → devotion alone cannot identify",
+          "MANIPURI → pung, raslila and restrained face"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ODISSI → tribhanga, chowk, mahari and gotipua",
+            "MANIPURI → pung, raslila and restrained face"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SATTRIYA → sattra, ankiya nat and mati-akhora",
+            "TRAP → devotion alone cannot identify"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ODISSI → tribhanga, chowk, mahari and gotipua",
+            "MANIPURI → pung, raslila and restrained face"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SATTRIYA → sattra, ankiya nat and mati-akhora; TRAP → devotion alone cannot identify.",
+      "source_references": [
+        "Odissi's sculptural dialogue",
+        "Manipuri and Sattriya"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DANCE-SCULPTURE BRIDGE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DANCE-SCULPTURE BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "MOVEMENT IDIOM MADE VISIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED GESTURAL VOCABULARY",
+          "role": "comparison"
+        },
+        {
+          "text": "TEMPLE SITE",
+          "role": "evidence"
+        },
+        {
+          "text": "PATRON-SELECTED SACRED CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "NO COMPLETE MODERN CHOREOGRAPHY PROVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POSE → movement idiom made visible",
+        "MUDRA → shared gestural vocabulary",
+        "TEMPLE SITE → patron-selected sacred context",
+        "LIMIT → no complete modern choreography proved"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POSE → movement idiom made visible",
+            "MUDRA → shared gestural vocabulary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEMPLE SITE → patron-selected sacred context",
+            "LIMIT → no complete modern choreography proved"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POSE → movement idiom made visible",
+            "MUDRA → shared gestural vocabulary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEMPLE SITE → patron-selected sacred context; LIMIT → no complete modern choreography proved.",
+      "source_references": [
+        "Dance figures as evidence"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "GARBA OFFICIAL CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GARBA OFFICIAL CARD",
+          "role": "primary"
+        },
+        {
+          "text": "LIT EARTHEN POT OR IMAGE OF AMBA",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNAL CIRCULAR DANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNESCO ICH 2023, NOT SNA CLASSICAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OCCASION → Navaratri",
+        "CENTRE → lit earthen pot or image of Amba",
+        "MOVEMENT → communal circular dance",
+        "STATUS → UNESCO ICH 2023, not SNA classical"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OCCASION → Navaratri",
+          "MOVEMENT → communal circular dance",
+          "OCCASION → Navaratri"
+        ],
+        [
+          "CENTRE → lit earthen pot or image of Amba",
+          "STATUS → UNESCO ICH 2023, not SNA classical",
+          "CENTRE → lit earthen pot or image of Amba"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OCCASION → Navaratri",
+            "CENTRE → lit earthen pot or image of Amba"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOVEMENT → communal circular dance",
+            "STATUS → UNESCO ICH 2023, not SNA classical"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OCCASION → Navaratri",
+            "CENTRE → lit earthen pot or image of Amba"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → UNESCO ICH 2023, not SNA classical.",
+      "source_references": [
+        "Garba and recognition boundaries"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DANCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DANCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPONENT, FORM OR RECOGNITION TRACK",
+          "role": "outcome"
+        },
+        {
+          "text": "REGION AND UNIQUE DISCRIMINATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "PATRONAGE, REVIVAL AND COMMUNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUITY, SCULPTURE AND STATUS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → component, form or recognition track",
+        "IDENTIFY → region and unique discriminator",
+        "ANALYSE → patronage, revival and community",
+        "QUALIFY → continuity, sculpture and status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → component, form or recognition track",
+            "IDENTIFY → region and unique discriminator"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → patronage, revival and community",
+            "QUALIFY → continuity, sculpture and status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → component, form or recognition track",
+            "IDENTIFY → region and unique discriminator"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYSE → patronage, revival and community; QUALIFY → continuity, sculpture and status.",
+      "source_references": [
+        "Garba and recognition boundaries"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNESCO'S 2023 INSCRIPTION OF GARBA OF GUJARAT ON THE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESENTING BHARATANATYAM AS AN UNBROKEN TRADITION WITHOUT",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESENTING REVIVALISTS AS CREATING THE FORM FROM NOTHING.",
+          "role": "evidence"
+        },
+        {
+          "text": "EQUATING 108 KARANAS WITH 108 MUDRAS. - KARANAS ARE",
+          "role": "primary"
+        },
+        {
+          "text": "TREATING SNA'S EIGHT-CLASSICAL-FORMS LIST AS AN ANCIENT CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFLATING UNESCO ICH INSCRIPTION (E.G. GARBA, 2023) WITH SNA",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN SOCIETY OWNS THE DEVADASI SYSTEM'S SOCIAL HISTORY, GENDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "UNESCO's 2023 inscription of Garba of Gujarat on the Representative",
+            "NOT: Presenting Bharatanatyam as an unbroken tradition without",
+            "NOT: Presenting revivalists as creating the form from nothing. - They",
+            "NOT: Equating 108 karanas with 108 mudras. - Karanas are whole-body"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / INTERPRETIVE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Treating SNA's eight-classical-forms list as an ancient classification",
+            "NOT: Conflating UNESCO ICH inscription (e.g. Garba, 2023) with SNA",
+            "NOT: Indian Society owns the devadasi system's social history, gender",
+            "NOT: Topic 13 owns the philosophical/aesthetic theory of rasa as"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HERITAGE NUANCE",
+          "role": "comparison",
+          "items": [
+            "This file's shared-vocabulary argument is the direct analytical bridge",
+            "Foundation companion: basic/09 Indian-Dance.md.",
+            "00 Master-Framework.md Section 2 — the \"how to read a monument,",
+            "CAUTION: Cross-links: Topic 03 (Chandella dossier, direct PYQ"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

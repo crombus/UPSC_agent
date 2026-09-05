@@ -291,3 +291,32 @@ and it requires no current negotiation detail.
 > **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the Korea, Hungary, Cuba and détente settings in which the UN operated.
 > **Study link:** World-History -> `basic/11_International-Relations-1919-39.md` for the League record the UN was designed against.
 > **Study link:** Polity -> `advanced/45_National-Integration-and-Foreign-Policy.md` for India's UN, peacekeeping and reform vocabulary in the Indian foreign-policy context.
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the League-to-UN institutional transition; Dumbarton Oaks,
+  San Francisco and October 1945; the six principal Charter bodies; Security
+  Council composition and veto; ICJ-ICC and organ-agency-fund distinctions;
+  peacekeeping, ceasefire supervision, collective enforcement, non-military
+  governance and historically grounded reform logic.
+- **Boundary:** Topic 15 owns the Cold War international-relations narratives
+  surrounding Korea, Suez, Hungary and other crises; Topic 18 owns mass
+  decolonisation and the transformed General Assembly membership; Topic 21
+  owns the focused post-1991 order. Topic 16 owns UN design and institutional
+  performance, while current Indian negotiating positions remain GS-II/IR.
+- **Date control:** Dumbarton Oaks (1944), San Francisco Charter framing and
+  October 1945 establishment, Korea and Uniting for Peace (1950), Suez and
+  Hungary (1956), Congo (1960-64), Gulf enforcement (1991) and Iraq (2003)
+  remain distinct institutional tests.
+- **Mechanism control:** consent-based peacekeeping, ceasefire observation and
+  Security Council-authorised member-state enforcement are not synonyms; UN
+  performance varies by function, mandate, resources and great-power posture;
+  the veto both keeps major powers inside the system and constrains action
+  against them.
+- **Verified PYQ/current ownership, 2018-2025:** zero direct topic-only routes;
+  all six Mains demands remain original practice. Official UN80 material
+  rechecked 4 September 2026 supports three reform workstreams—Secretariat
+  efficiency, mandate implementation review, and structural or programmatic
+  realignment—and a June 2026 shift from diagnosis towards action. No
+  unsupported budget, staffing, mission-count or reform-outcome claim is
+  imported.

@@ -1,12 +1,12 @@
 ---
-export_date: 2026-08-18
+export_date: 2026-08-28
 approval: false
 evidence_key: "[FACT] verified constitutional, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated legal/current control; [LIMIT] qualification preventing overstatement"
 ---
 
 # Polity 19 - Governor CM State Council - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 19 | **GS-II + Prelims** | **Export date:** 2026-08-18
+> **Subject:** Indian Polity | **Topic:** 19 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -17,12 +17,14 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 - Source order followed: `basic/Governor-and-CM.md` -> `advanced/19_Governor-CM-State-Council.md` -> necessary cross-links in Polity 12-17, `basic/Anti-Defection-Law.md`, `basic/State-Legislature.md` and `basic/High-Court.md` -> official/current legal control. Qdrant was not used.
 - [FACT] The authoritative Core owner supersedes any stale or less-qualified Advanced statement.
 - [LIMIT] This is an institutional package. It deliberately avoids live lists of Governors, Chief Ministers, ministers, university Chancellors or office-specific controversies that may change.
-- [CURRENT] Legal status is controlled to **18 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] *State of Tamil Nadu v. Governor of Tamil Nadu*, 8 April 2025, **2025 INSC 481**, prescribed timelines and used deemed assent on its facts.
 - [CURRENT] The later five-judge Article 143 advisory opinion, *In re: Assent, Withholding or Reservation of Bills by the Governor and the President of India*, 20 November 2025, **2025 INSC 1333**, held that Articles 200-201 do not permit court-created rigid timelines or automatic deemed assent. Prolonged, unexplained and indefinite inaction may still attract limited judicial review and a direction to act.
 - [LIMIT] The November opinion is advisory and non-binding. It did **not** "overrule" the April judgment. This package uses it narrowly as the later controlling position on timelines, deemed assent and limited review.
 - Official opinion: `https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf`.
-- [LIMIT] The specified Core and cross-links do not carry a sufficiently qualified proposition from *B.P. Singhal*. This package therefore does not import a free-standing case gloss; it teaches the verified Article 156 rule, the anti-arbitrariness concern analytically and the sourced commission proposals.
+- [FACT] *B.P. Singhal v. Union of India* (2010) holds that Article 156 pleasure is not arbitrary power:
+  removal cannot rest on capricious, unreasonable or mala fide grounds. Reasons need not routinely be
+  disclosed, but the Union must justify removal if a prima facie case of arbitrariness is shown.
 - Package target: independently answer-complete Foundation/Core, separate Optional Advanced, more than 20 text-native visuals, five routed/application Mains PYQs, all four routed Prelims demands, 36 original MCQs, 12 remedial MCQs and eight original solved Mains questions.
 
 ## Roadmap
@@ -193,7 +195,9 @@ Appointment
 - [FACT] The constitutional scheme permits transfer and reappointment; it does not create an enforceable right to remain in one State for five years.
 - [ANALYSIS] Pleasure creates structural dependence because the appointing Union executive can bring the tenure to an end.
 - [LIMIT] Pleasure is not the same as a constitutional impeachment process, and the text specifies no State-legislature removal vote.
-- [LIMIT] The sourced Core does not authorise a detailed *B.P. Singhal* holding. In an answer, safely state the verified proposition: the tenure is not fixed or secure, while constitutional power is never a licence for partisan arbitrariness.
+- [FACT] *B.P. Singhal v. Union of India* (2010) preserves presidential pleasure but subjects removal to
+  constitutional non-arbitrariness. The Governor has no enforceable five-year lease, yet cannot lawfully be
+  removed for capricious, unreasonable or mala fide reasons.
 
 **Visual 7 - Tenure distinctions**
 
@@ -366,6 +370,12 @@ and cannot become general political supervision
 
 > **Core rule:** Discretion fills a constitutional gap; it does not create a rival elected executive.
 
+**Special and tribal responsibilities:** Article **371A(1)(b)** gives the Governor of Nagaland a special
+law-and-order responsibility, and Article **371H(a)** does so for Arunachal Pradesh; both use individual
+judgment after consultation with the Council of Ministers. The Sixth Schedule separately assigns specified
+Governor functions in autonomous tribal-area administration. These are exceptional constitutional texts,
+not a general discretion available in every State.
+
 ## 07. Case-law control: proposition, significance and limitation
 
 **Visual 16 - Doctrine ladder**
@@ -381,6 +391,10 @@ S.R. Bommai (1994)
           v
 Rameshwar Prasad (2006)
   apprehension/horse-trading claim cannot justify mala fide dissolution
+          |
+          v
+B.P. Singhal (2010)
+  pleasure survives; arbitrary removal does not
           |
           v
 Nabam Rebia (2016)
@@ -410,6 +424,14 @@ Subhash Desai (2023)
 - [FACT] Dissolution of the Bihar Assembly based on the Governor's report concerning anticipated horse-trading was held unconstitutional/mala fide.
 - [ANALYSIS] Suspicion about future conduct cannot replace actual House processes and objective evidence.
 - [LIMIT] The case does not make political instability irrelevant; it requires constitutionally probative material and proper testing.
+
+### *B.P. Singhal v. Union of India* (2010)
+
+- [FACT] Article 156 pleasure allows removal before five years and does not require routine disclosure of reasons.
+- [FACT] The power cannot be exercised arbitrarily, capriciously, unreasonably or mala fide.
+- [FACT] If the challenger establishes a prima facie case of arbitrariness, the Union must disclose material
+  justifying the removal.
+- [LIMIT] The Court does not convert the five-year outer term into guaranteed tenure or require a removal inquiry.
 
 ### *Nabam Rebia v. Deputy Speaker* (2016)
 
@@ -702,7 +724,7 @@ Five-judge Article 143 advisory opinion
   - mandamus may require action, not dictate the option
                |
                v
-18 August 2026 package rule
+28 August 2026 package rule
 Use later position narrowly as controlling;
 do not say it "overruled" April judgment
 ```
@@ -1197,7 +1219,7 @@ No track should usurp another.
 - Judicial anchors: *Shamsher Singh*; *S.R. Bommai*; *Rameshwar Prasad*; *Nabam Rebia*; *Subhash Desai*; *D.C. Wadhwa*; *Krishna Kumar Singh*; *B.R. Kapur*; *Maru Ram*; *Epuru Sudhakar*.
 - [LIMIT] Commission recommendations are proposals, not law.
 - [LIMIT] No live office-holder list is maintained.
-- [LIMIT] Any future answer must recheck assent doctrine after 18 August 2026.
+- [LIMIT] Any future answer must recheck assent doctrine after 28 August 2026.
 
 ## PYQ, practice and solved workbook
 
@@ -1230,6 +1252,8 @@ Article 213 permits an ordinance when the session condition is met and immediate
 
 **Why this earns marks:** It answers both limbs, uses more than six precise constitutional/case anchors, explains what abuse does and ends with a qualified verdict.
 
+**How to improve this answer:** In 250 words separate Article 200 from Article 213, retain the six-week rule and both re-promulgation cases, and use the 2025 assent opinion only as a dated qualification.
+
 ### PYQ 2 - UPSC GS-II 2020, Q3 - cross-owned federalism application
 
 **Question:** How far have cooperation, competition and confrontation shaped the nature of federation in India?  
@@ -1250,6 +1274,8 @@ Article 213 permits an ordinance when the session condition is met and immediate
 **Evidence chain:** GST/Finance Commission -> Articles 155/156/200 -> *Bommai* -> 2025 assent control.
 
 **Why this earns marks:** It covers all three terms, links a topic-specific example to federal theory and qualifies confrontation.
+
+**How to improve this answer:** For 150 words keep one example each of cooperation, competition and confrontation, then use Articles 155-156/200 and Bommai as the Governor-specific analytical link.
 
 ### PYQ 3 - UPSC GS-II 2022, Q13 - cross-owned federalism application
 
@@ -1274,6 +1300,8 @@ Article 213 permits an ordinance when the session condition is met and immediate
 
 **Why this earns marks:** It accepts, tests and qualifies the proposition with a Governor-specific mechanism and named reforms.
 
+**How to improve this answer:** Organise by party incentives, office effects and counter-evidence; retain commission reforms but do not present national or regional party behaviour as ideologically fixed.
+
 ### PYQ 4 - UPSC GS-II 2023, Q13 - cross-owned emergency application
 
 **Question:** Account for the legal and political factors responsible for the reduced frequency of Article 356 use since the mid-1990s.  
@@ -1297,6 +1325,8 @@ Article 213 permits an ordinance when the session condition is met and immediate
 
 **Why this earns marks:** It directly "accounts for" decline through two causal groups and preserves the textual qualification.
 
+**How to improve this answer:** Use two labelled causal blocks—legal and political—and preserve the “report or otherwise” qualification; remove generic federalism praise before named evidence.
+
 ### PYQ 5 - UPSC GS-II 2024, Q13 - cross-owned Centre-State application
 
 **Question:** What recent changes have occurred in Centre-State relations, and what measures can build trust and strengthen federalism?  
@@ -1317,6 +1347,8 @@ Article 213 permits an ordinance when the session condition is met and immediate
 **Evidence chain:** GST/NITI/Finance Commission -> Governor/CBI/fiscal disputes -> *Bommai* -> 2025 assent control -> targeted reforms.
 
 **Why this earns marks:** It addresses changes and measures, supplies current legal control and links Governor reform to the federal trust deficit.
+
+**How to improve this answer:** Match each reform to one diagnosed trust deficit: fiscal predictability, consultation, assent reasons, floor-test neutrality or statutory Chancellor conflict.
 
 ## Routed Prelims demands - provenance without invented answer letters
 
@@ -1678,7 +1710,7 @@ D. the Supreme Court must certify it.
 
 ### OM24. Current assent doctrine
 
-As controlled to 18 August 2026, which statement is most accurate?
+As controlled to 28 August 2026, which statement is most accurate?
 
 A. Every Bill is deemed assented after three months.  
 B. Courts may choose whether the Governor should assent or reserve.  
@@ -2025,6 +2057,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 
 **Why this earns marks:** It supplies four named cases, explains both necessity and danger, states a qualification and answers the proposition directly.
 
+**How to improve this answer:** For a 10-marker use advice default, two narrow exceptions, one case and one commission reform; do not catalogue every Governor power.
+
 ### M2. Explain why the Chief Minister and State Council of Ministers constitute the real executive. (10 marks, 150 words)
 
 **Directive fidelity:** "Explain why" requires a constitutional mechanism, not merely the labels "real" and "nominal."
@@ -2044,6 +2078,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 **Evidence chain:** Articles 154/163 -> Article 164(2) -> Article 166 -> Article 167.
 
 **Why this earns marks:** It uses four constitutional provisions to prove, rather than assert, the real-executive conclusion.
+
+**How to improve this answer:** Retain Articles 163, 164(2) and 167, the Assembly-confidence chain and one qualification on Governor pleasure; cut ceremonial functions first.
 
 ### M3. "Article 200 creates a constitutional gate, not a gubernatorial pocket veto." Discuss in light of the 2025 assent cases. (15 marks, 250 words)
 
@@ -2067,6 +2103,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 
 **Why this earns marks:** It uses the exact current legal control, explains both democratic effectiveness and separation-of-powers limits, and avoids the prohibited "overruled" claim.
 
+**How to improve this answer:** Use an Article 200 decision tree, then contrast the April judgment with the November advisory opinion without saying either created a pocket veto or overruled the other.
+
 ### M4. Frame a constitutionally proper response to a hung Assembly and a later claim that the ministry has lost confidence. (15 marks, 250 words)
 
 **Directive fidelity:** The question requires a sequential government-formation and confidence-loss protocol, with cases and limits.
@@ -2089,6 +2127,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 
 **Why this earns marks:** It gives an operational protocol, five named anchors, institutional separation and a qualified verdict.
 
+**How to improve this answer:** Present hung-House invitation and later loss-of-majority as two distinct stages; attach objective material and an early floor test to both.
+
 ### M5. Does the pleasure doctrine make the Governor and State ministers agents of the appointing authority? Analyse. (15 marks, 250 words)
 
 **Directive fidelity:** "Analyse" requires separating gubernatorial pleasure from ministerial pleasure and tracing each through parliamentary responsibility.
@@ -2103,7 +2143,9 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 
 **Named judicial evidence:** *Shamsher Singh* makes ministerial advice the default. *Bommai* and *Subhash Desai* shift confidence questions to objective material and the House floor.
 
-**Qualification:** [LIMIT] The specified source owners do not support an expanded *B.P. Singhal* case gloss, so the safest legal statement remains that the Governor has no fixed enforceable tenure while every constitutional power is subject to rule-of-law limits.
+**Qualification:** [FACT] *B.P. Singhal* preserves presidential pleasure but rejects capricious,
+unreasonable or mala fide removal; routine disclosure of reasons is not mandatory, though a prima facie
+arbitrariness challenge requires the Union to justify its action.
 
 **Verdict:** Pleasure creates dependence, but not agency in the private-law sense. For ministers it is democratically mediated by the CM and Assembly; for Governors its structural Union tilt justifies tenure and appointment reform.
 
@@ -2112,6 +2154,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 **Evidence chain:** Article 156 -> Article 164(1)/(2) -> *Shamsher Singh* -> *Bommai/Subhash Desai* -> commissions.
 
 **Why this earns marks:** It distinguishes two doctrines, explains their mechanisms and uses the source-bound case caution.
+
+**How to improve this answer:** Distinguish Governor pleasure under Article 156 from ministerial pleasure mediated by CM advice and Assembly confidence; add B.P. Singhal to bound the former.
 
 ### M6. Compare Articles 72 and 161 and assess the constitutional limits on the Governor's clemency power. (15 marks, 250 words)
 
@@ -2137,6 +2181,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 
 **Why this earns marks:** It compares on identical parameters, uses three cases and preserves both jurisdiction and review qualifications.
 
+**How to improve this answer:** Use an identical parameter table—field of offence, death sentence, court martial, advice and review—and avoid saying Article 161 lacks every power over death sentences.
+
 ### M7. "The Governor's dual role is a bridge in constitutional theory but a fault line in federal practice." Critically examine and suggest reforms. (20 marks, 250 words)
 
 **Directive fidelity:** "Critically examine and suggest" requires design, benefits, failures, counter-evidence and reforms linked to diagnosed defects.
@@ -2160,6 +2206,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 **Evidence chain:** Articles 155/156/163/167 -> Article 200/356 -> *Rameshwar Prasad*/*Subhash Desai* -> *Bommai* -> 2025 opinion -> commissions.
 
 **Why this earns marks:** It provides eight evidence units, a genuine counter-case, targeted reforms and a graded institutional verdict.
+
+**How to improve this answer:** Define the bridge and fault-line functions separately, attach a case to each misuse channel and rank reforms by appointment, tenure, reasons and House-centred testing.
 
 ### M8. Evaluate the ordinance power of the Governor as a test of executive necessity versus legislative supremacy. (20 marks, 250 words)
 
@@ -2186,6 +2234,8 @@ D. was referred to a larger seven-judge Bench and remains unresolved.
 **Evidence chain:** Article 213 preconditions -> Act-like force/competence -> laying/six weeks -> *Wadhwa* -> *Krishna Kumar Singh* -> urgency-and-scrutiny reform.
 
 **Why this earns marks:** It evaluates against explicit criteria, presents both necessity and abuse, uses more than six precise anchors and gives proportionate reform.
+
+**How to improve this answer:** Build the answer around necessity, session condition, laying, six-week expiry and re-promulgation; preserve legislative supremacy and avoid treating every ordinance as suspect.
 
 ## Final consolidated register notes
 
@@ -2247,7 +2297,7 @@ Assembly confidence
 - Continues until successor enters office.
 - Transfer and reappointment are constitutionally possible.
 - No current State-legislature impeachment process.
-- Source-bound caution: do not improvise an unsupported *B.P. Singhal* holding; use Article 156 plus rule-of-law analysis.
+- *B.P. Singhal* (2010): no fixed enforceable tenure, but no capricious, unreasonable or mala fide removal.
 
 ### Article 361 immunity
 

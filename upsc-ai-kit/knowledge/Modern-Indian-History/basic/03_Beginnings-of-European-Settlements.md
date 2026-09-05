@@ -239,3 +239,14 @@ Charter/monopoly finance in Europe
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Portuguese, Dutch, English and French arrival, companies,
+  trade, factories, fortified settlements, maritime-commercial rivalry and
+  the contingent ladder from factory to corporate power.
+- **Boundary:** Topic 02 owns Indian regional state formation; Topic 04 owns
+  Plassey/Buxar/Diwani/Dual Government; Topic 05 owns pan-Indian expansion.
+- **Verified PYQ ownership, 2018-2026:** four direct Prelims routes—2021 Q33,
+  2021 Q39, 2022 Q59 and 2025 Q75. Only 2025 Q75 has locally held official-key
+  provenance; earlier answers remain inferred. Company-armies is Topic 05.

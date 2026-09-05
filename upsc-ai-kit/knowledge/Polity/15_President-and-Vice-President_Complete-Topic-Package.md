@@ -14,7 +14,7 @@ cover_image: "../../../notes/Polity/assets/15_President-and-Vice-President/01_tw
 
 - Source order followed: certified Core owner `Polity/basic/President-and-Vice-President.md` -> optional Advanced owner `Polity/advanced/15_President-and-Vice-President.md` -> comparative Core for France/USA -> official local PYQ scans and 2025 official Set-A key -> live official constitutional-office controls -> Qdrant not used.
 - [LIMIT] Foundation and Core are independently answer-complete. Optional Advanced adds theory, comparisons and deeper institutional criticism only.
-- [CURRENT] Status is controlled to **16 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] **Droupadi Murmu** is the 15th President of India, in office since 25 July 2022.
 - [CURRENT] **C. P. Radhakrishnan** is the 15th Vice-President of India, in office since 12 September 2025.
 - [CURRENT] His 2025 election followed a casual vacancy. Article 68 requires that election **as soon as possible** and gives the successor a fresh five-year term; it does **not** prescribe the President's six-month casual-vacancy deadline.
@@ -119,6 +119,12 @@ cover_image: "../../../notes/Polity/assets/15_President-and-Vice-President/01_tw
 ## 04. Presidential election administration and disputes
 
 - [FACT] A candidate needs **50 proposers and 50 seconders** and a statutory deposit of **Rs 15,000**.
+- [FACT] The **Presidential and Vice-Presidential Elections Act, 1952** governs notification,
+  nominations, scrutiny, withdrawal, poll and election petitions; the **1974 Rules** supply
+  forms, ballot and counting machinery.
+- [FACT] The **1997 Amendment** raised the serious-candidature thresholds to **50 proposers and
+  50 seconders** for President, **20 and 20** for Vice-President, and a **Rs 15,000 deposit**
+  for either office.
 - [FACT] The Supreme Court finally decides doubts and disputes connected with election of the President or Vice-President under Article 71.
 - [FACT] Acts already done in office are not invalidated merely because the election is later declared void.
 - [FACT] An election cannot be challenged merely because the electoral college contained a vacancy for any reason.
@@ -191,7 +197,10 @@ cover_image: "../../../notes/Polity/assets/15_President-and-Vice-President/01_tw
 - [ANALYSIS] Dismissing a ministry that has lost confidence but refuses to resign.
 - [ANALYSIS] Considering whether dissolution advice from a defeated/minority ministry should be accepted where an alternative government is demonstrably available.
 - [FACT] K. R. Narayanan returned Union Cabinet advice concerning proposed President's Rule in Uttar Pradesh (1997) and Bihar (1998); reiterated advice would have bound him.
-- [LIMIT] The President has no general constitutional discretion equivalent to the Governor's Article 163 formulation. Convention, reasoned choice and floor confidence bound each exceptional decision.
+- [LIMIT] The President has no general personal policy discretion. Article 163 textually recognises
+  some gubernatorial discretion, but only where the Constitution requires it; neither office has
+  an unlimited discretionary domain. Convention, reasoned choice and floor confidence bound each
+  exceptional presidential decision.
 
 ## 10. Executive powers
 
@@ -257,7 +266,7 @@ cover_image: "../../../notes/Polity/assets/15_President-and-Vice-President/01_tw
 ### Judicial controls
 
 - [FACT] *R. C. Cooper* (1970): ordinance satisfaction is not completely beyond review.
-- [FACT] *D. C. Wadhwa* (1987): routine re-promulgation without legislative consideration is a fraud on the Constitution.
+- [FACT] *D. C. Wadhwa* (**1986 judgment**): routine re-promulgation without legislative consideration is a fraud on the Constitution.
 - [FACT] *Krishna Kumar Singh* (2017, seven judges, 5:2): laying is mandatory; re-promulgation subverts legislative supremacy; enduring rights do not automatically survive every lapsed ordinance.
 - [ANALYSIS] The ordinance power is legitimate for urgency, not for avoiding an inconvenient House.
 
@@ -305,7 +314,7 @@ cover_image: "../../../notes/Polity/assets/15_President-and-Vice-President/01_tw
 ### Advice, merits and review
 
 - [FACT] *Maru Ram* (1980): clemency is exercised on binding ministerial advice.
-- [FACT] *Kehar Singh* (1989): the executive may examine the merits afresh; the President is not an appellate court and need not give a judicial-style hearing.
+- [FACT] *Kehar Singh* (**1988 judgment**): the executive may examine the merits afresh; the President is not an appellate court and need not give a judicial-style hearing.
 - [FACT] *Epuru Sudhakar* (2006): limited review lies for mala fides, arbitrariness, non-application of mind and relevant/irrelevant-material defects.
 - [FACT] Unexplained mercy-petition delay can have constitutional consequences in death-sentence cases, but no automatic numerical rule replaces case-sensitive review.
 
@@ -365,7 +374,9 @@ cover_image: "../../../notes/Polity/assets/15_President-and-Vice-President/01_tw
 
 ![The 2025 transition demonstrates the Vice-President's resignation and fresh-term vacancy rules.](../../../notes/Polity/assets/15_President-and-Vice-President/13_vp_transition_2025.png)
 
-- [CURRENT] Droupadi Murmu became the 15th President on 25 July 2022.
+- [CURRENT] Official profiles checked **28 August 2026** list Droupadi Murmu as the 15th
+  President, in office since 25 July 2022, and C. P. Radhakrishnan as the 15th
+  Vice-President, in office since 12 September 2025.
 - [CURRENT] Jagdeep Dhankhar's resignation in July 2025 created a Vice-Presidential casual vacancy.
 - [CURRENT] The Election Commission's official result records C. P. Radhakrishnan elected on 9 September 2025: 452 valid votes to B. Sudershan Reddy's 300, with 15 invalid ballots.
 - [CURRENT] C. P. Radhakrishnan entered office on 12 September 2025 as the 15th Vice-President.
@@ -538,15 +549,23 @@ D. Neither 1 nor 2
 
 **Question:** Discuss the role of the Vice-President of India as the Chairman of the Rajya Sabha. (150 words, 10 marks)
 
+**Demand decoding:** Discuss requires constitutional role, procedural powers, Speaker distinctions, neutrality limits and a concise institutional verdict.
+
 **Model answer:** Article 64 makes the Vice-President ex-officio Chairman of Rajya Sabha; this presiding role, not the rare acting-presidential contingency, is the office's regular constitutional work.
 
 The Chairman maintains order, interprets rules, decides points of order and admissibility, allocates proceedings under House rules and refers matters to committees. Though not a Rajya Sabha member, Article 100 gives a casting vote when votes are equal. Under paragraph 6 of the Tenth Schedule, the Chairman decides defection cases concerning Rajya Sabha members, subject to judicial review after *Kihoto Hollohan*. The Chairman neither votes initially nor certifies Money Bills, unlike the Lok Sabha Speaker's Article 110 function. Under Article 92, while the Vice-President's removal resolution is considered, he/she cannot preside and may speak but not vote.
 
 As Rajya Sabha represents States and revises legislation, neutral rule enforcement is essential. Thus, the Chair's legal powers matter, but perceived impartiality is the foundation of their democratic legitimacy.
 
+**Why this earns marks:** It anchors the answer in Articles 64, 92 and 100, adds the Tenth Schedule and judicial review, and assesses impartiality rather than merely listing powers.
+
+**How to improve this answer:** Compress the opening to one sentence, preserve the Article 92 self-removal limitation, and use a two-column Chairman-versus-Speaker mini-table if space permits.
+
 ### PYQ 3 - 2022 GS-II Q14
 
 **Question:** Critically examine the procedures through which the Presidents of India and France are elected. (250 words, 15 marks)
+
+**Demand decoding:** Critically examine requires accurate election mechanisms, their institutional rationale, one limitation of each and a design-sensitive comparison.
 
 **Model answer:** The two procedures reflect different executive designs. India's President is a nominal federal Head of State; France's President is a powerful actor in a semi-presidential system.
 
@@ -555,6 +574,10 @@ India uses an indirect electoral college of elected MPs and elected State, Delhi
 France uses direct universal suffrage. A candidate needs an absolute majority in the first round; otherwise the two leading candidates contest a second round. The method creates a clear nationwide personal mandate appropriate to a politically active President. However, direct presidential and legislative mandates can conflict, producing cohabitation or divided executive leadership.
 
 Therefore, India's election privileges federal mediation and parliamentary logic; France privileges popular authorization and executive leadership. Neither procedure is superior without reference to the office it elects.
+
+**Why this earns marks:** It compares indirect federal PR-STV with direct two-round election and links each procedure to parliamentary or semi-presidential executive design.
+
+**How to improve this answer:** Use parallel subheadings—electorate, ballot, mandate, strength, risk—and reserve the final two lines for why office design explains the difference.
 
 ### PYQ 4 - 2023 Prelims GS-I Q36
 
@@ -636,6 +659,8 @@ D. Neither 1 nor 2
 
 **Question:** Compare and contrast the President's power to pardon in India and in the USA. Are there any limits to it in both countries? What are "preemptive pardons"? (150 words, 10 marks)
 
+**Demand decoding:** Compare and contrast requires scope, decision-maker, legal limits and the precise meaning and boundary of a pre-emptive pardon.
+
 **Model answer:** Article 72 vests India's President with pardon, reprieve, respite, remission and commutation for Union-field offences, court-martial cases and every death sentence. The power is exercised on binding Council of Ministers advice (*Maru Ram*), may reassess merits (*Kehar Singh*) and is reviewable on narrow grounds such as mala fides, arbitrariness and non-application of mind (*Epuru Sudhakar*).
 
 The US President's Article II power is personal rather than ministerially advised and extends to federal offences. It cannot cover State offences or cases of impeachment. Both powers are constitutionally broad but not legally limitless.
@@ -643,6 +668,11 @@ The US President's Article II power is personal rather than ministerially advise
 A US preemptive pardon covers completed conduct before charge, trial or conviction; it cannot license a future offence. India should not automatically import that doctrine because Article 72 operates within parliamentary government, ministerial responsibility and Indian review doctrine.
 
 Thus, both are safety valves, but India's clemency is government-advised and reviewable, whereas the US model concentrates responsibility in the elected President.
+
+
+**Why this earns marks:** It supplies Article 72 categories, ministerial advice and review doctrine, contrasts US federal/impeachment limits, and defines completed-conduct pre-emption.
+
+**How to improve this answer:** At 150 words, use a compact India/USA table and state explicitly that a pre-emptive pardon cannot authorise future offences.
 
 ## Original MCQ loop
 
@@ -1120,13 +1150,21 @@ Article 92 creates the special rule.
 
 ### M1. "The Indian President is a constitutional sentinel, not an alternative executive." Examine. (10 marks, 150 words)
 
+**Demand decoding:** Examine requires a qualified thesis, normal binding-advice rule, exceptional situational space and a reasoned sentinel-not-rival verdict.
+
 **Model answer:** Articles 53 and 74 create a deliberate duality: Union executive power is formally vested in the President, but is exercised on binding ministerial advice. The 42nd Amendment made advice expressly binding; the 44th permits one reconsideration, after which reiterated advice controls.
 
 Therefore, in ordinary majority government the President cannot pursue an independent policy. Yet the office is not empty. Article 78 supports consultation and information; assent and reconsideration can force reflection; hung Lok Sabhas create bounded choices in appointing a Prime Minister; and disputed confidence must be tested on the floor. K. R. Narayanan's return of President's-Rule advice illustrates warning without final defiance.
 
 Thus, the President protects constitutional process through questions, reasons and carefully bounded delay. The office is a sentinel because it preserves rules, but not an alternative executive because democratic responsibility remains with the Council of Ministers.
 
+**Why this earns marks:** It combines Articles 53, 74 and 78 with the 42nd/44th Amendments and a concrete Narayanan illustration.
+
+**How to improve this answer:** Name the floor-confidence test immediately after the hung-House example and cut any duplicated “not independent” sentence.
+
 ### M2. Explain how the presidential election reconciles popular representation with federal balance. (15 marks, 250 words)
+
+**Demand decoding:** Explain requires the vote-value mechanism and how its Union-State parity logic mediates democracy and federalism.
 
 **Model answer:** India avoids both hereditary headship and direct presidential rivalry. Articles 54-55 create an indirectly elected President whose electoral college contains elected MPs and elected State, Delhi and Puducherry MLAs.
 
@@ -1136,7 +1174,13 @@ The design has limits: its arithmetic is complex, the 1971 freeze no longer refl
 
 The system therefore represents a constitutional compromise: democratic but mediated, national but federal, and majoritarian only after transferable preferences.
 
+**Why this earns marks:** It explains both formulas, PR-STV and the 1971 freeze, then weighs complexity and population-policy concerns.
+
+**How to improve this answer:** Add the rounding rule only if space remains; prioritise one formula line, one parity line and one balanced limitation paragraph.
+
 ### M3. Critically examine the President's veto powers after the 2025 Article 143 opinion on assent. (15 marks, 250 words)
+
+**Demand decoding:** Critically examine requires Article 111 and Article 201 options, the 2025 opinion, competing accountability concerns and a qualified reform verdict.
 
 **Model answer:** Article 111 allows assent, withholding and one return of a non-Money Bill. Re-passage binds the President. A Money Bill cannot be returned, while assent to a constitutional amendment is obligatory. Textual silence on time creates the pocket-veto possibility.
 
@@ -1146,25 +1190,43 @@ The Supreme Court's 20 November 2025 Article 143 opinion rejected rigid judicial
 
 The opinion preserves separation of powers but shifts responsibility toward transparent constitutional conduct. Pocket veto should therefore be treated as a narrow consequence of text, not a routine political weapon. Reasons, expedition and parliamentary/federal accountability are preferable to either executive silence or judicial rewriting.
 
+**Why this earns marks:** It distinguishes Union and reserved-State Bills, accurately rejects deemed assent and fixed judicial clocks, yet preserves review of glaring unexplained delay.
+
+**How to improve this answer:** Separate Article 111 from Article 201 in two short paragraphs and avoid calling every delay a pocket veto; use that label only for Article 111 silence.
+
 ### M4. Ordinance power is necessary for urgency but dangerous as a substitute for Parliament. Discuss. (15 marks, 250 words)
+
+**Demand decoding:** Discuss requires the urgency rationale, constitutional lifecycle, abuse through re-promulgation, case controls and workable safeguards.
 
 **Model answer:** Article 123 permits temporary legislation when both Houses are not simultaneously in session and immediate action is necessary. An ordinance has Act-like force, can amend a Central Act and operate retrospectively, but cannot exceed Parliament's competence, abridge Fundamental Rights or amend the Constitution.
 
 Necessity supports the power: crises and legal gaps may arise between sittings. Democratic danger arises because promulgation precedes debate, committee scrutiny and bicameral approval. Re-promulgation can convert an emergency bridge into executive legislation.
 
-The Constitution therefore requires laying before both Houses and makes the ordinance cease six weeks after the later reassembly date or earlier disapproval. *D. C. Wadhwa* called routine re-promulgation a fraud on the Constitution. *Krishna Kumar Singh* made laying mandatory, reaffirmed review and rejected automatic survival of benefits from every lapsed ordinance.
+The Constitution therefore requires laying before both Houses and makes the ordinance cease six weeks after the later reassembly date or earlier disapproval. *D. C. Wadhwa* (**1986 judgment**) called routine re-promulgation a fraud on the Constitution. *Krishna Kumar Singh* made laying mandatory, reaffirmed review and rejected automatic survival of benefits from every lapsed ordinance.
 
 The appropriate response is not abolition but constitutional discipline: reasons demonstrating urgency, prompt parliamentary scrutiny, committee review and refusal to re-promulgate except on genuinely new circumstances. The power is valid when it bridges time; it becomes abusive when it bypasses representation.
 
+**Why this earns marks:** It combines Article 123 competence and expiry rules with D.C. Wadhwa (1986) and Krishna Kumar Singh (2017), then proposes legislative scrutiny.
+
+**How to improve this answer:** For 250 words, add one sentence on mandatory laying and remove any generic crisis example that does not prove immediate necessity.
+
 ### M5. Compare the pardoning powers of the President and Governor and explain their judicial limits. (10 marks, 150 words)
+
+**Demand decoding:** Compare requires jurisdiction-by-jurisdiction Article 72/161 contrast plus advice and judicial-review limits.
 
 **Model answer:** Article 72 empowers the President to grant pardon, reprieve, respite, remission or commutation in court-martial cases, Union-field offences and every death sentence. Article 161 gives the Governor corresponding authority over State-field offences but no court-martial power and no power to pardon a death sentence, though the Governor may suspend, remit or commute it.
 
-Neither is personal mercy. *Maru Ram* binds both to ministerial advice. *Kehar Singh* allows executive reconsideration of merits without converting the President into an appellate court. *Epuru Sudhakar* permits limited judicial review for mala fides, arbitrariness, non-application of mind and relevant-material defects.
+Neither is personal mercy. *Maru Ram* binds both to ministerial advice. *Kehar Singh* (**1988 judgment**) allows executive reconsideration of merits without converting the President into an appellate court. *Epuru Sudhakar* permits limited judicial review for mala fides, arbitrariness, non-application of mind and relevant-material defects.
 
 Thus, clemency is broader than ordinary adjudication but not above constitutionalism: jurisdiction differs, elected governments bear responsibility, and courts police the integrity rather than the merits of mercy.
 
+**Why this earns marks:** It correctly separates death-sentence pardon from suspension/remission/commutation and uses Maru Ram, Kehar Singh and Epuru Sudhakar.
+
+**How to improve this answer:** Use a three-row President/Governor table and preserve the distinction between reviewing decision-making defects and rehearing mercy merits.
+
 ### M6. Evaluate the neutrality challenge facing the Vice-President as Chairman of Rajya Sabha. (10 marks, 150 words)
+
+**Demand decoding:** Evaluate requires powers, structural source of partisan tension, legal safeguards and an institutional legitimacy judgment.
 
 **Model answer:** Article 64 makes the Vice-President ex-officio Chairman of Rajya Sabha, a chamber representing States and revising national legislation. The Chairman maintains order, interprets rules, controls admissibility under House procedure, uses a casting vote under Article 100 and decides Rajya Sabha defection cases under the Tenth Schedule.
 
@@ -1172,13 +1234,24 @@ Neutrality is difficult because the Vice-President emerges from a political elec
 
 Yet law cannot manufacture trust. Consistent precedents, reasoned rulings and balanced enforcement are essential. The Chairman's formal power secures order; perceived impartiality secures legitimacy.
 
+**Why this earns marks:** It links Articles 64, 92 and 100 and Tenth Schedule authority to concrete neutrality risks, then distinguishes legality from trust.
+
+**How to improve this answer:** Add one balanced example of a reasoned ruling or consistent precedent rather than alleging bias; keep the conclusion focused on perceived impartiality.
+
 ### M7. Distinguish vacancy and removal rules for the President and Vice-President. Why do the differences matter? (10 marks, 150 words)
+
+**Demand decoding:** Distinguish and explain why requires side-by-side removal and vacancy rules followed by a functional rationale.
 
 **Model answer:** The President is impeached under Article 61 for violation of the Constitution: either House may initiate, one-fourth must sign, 14 days' notice applies and both Houses require two-thirds of total membership. A presidential casual vacancy must be filled within six months; the Vice-President acts meanwhile.
 
 The Vice-President is removed by a Rajya Sabha resolution passed by a majority of all then members and agreed to by Lok Sabha. Only Rajya Sabha initiates, no ground is stated and the process is not impeachment. A Vice-Presidential casual vacancy is filled as soon as possible, without a six-month textual deadline; the successor receives a fresh five-year term.
 
 The differences track function: presidential removal protects the Head of State through a very high threshold, while Rajya Sabha leads removal of its own presiding officer. The 2025 transition to C. P. Radhakrishnan illustrates Article 68's prompt-election rule.
+
+
+**Why this earns marks:** It accurately contrasts Article 61 with Article 67(b), the two vacancy timelines and the fresh-term rule, then links procedure to office function.
+
+**How to improve this answer:** Present the rules in a compact table and explicitly state that Lok Sabha agreement to VP removal follows ordinary voting rules, not presidential impeachment arithmetic.
 
 ## Final consolidated register notes
 
@@ -1262,7 +1335,7 @@ The differences track function: presidential removal protects the Head of State 
 - President: court-martial, Union-field offences, every death sentence.
 - Governor: State field; cannot pardon death or touch court-martial; may suspend/remit/commute death.
 - *Maru Ram*: advice.
-- *Kehar Singh*: merits can be reconsidered.
+- *Kehar Singh* (1988 judgment): merits can be reconsidered.
 - *Epuru Sudhakar*: limited review.
 - US pre-emptive pardon: completed conduct before charge/conviction, never future crime.
 

@@ -20,7 +20,7 @@ cover_image: "../../../notes/Polity/assets/13_Centre-State-Relations/01_four_dim
 - [CURRENT] The Sixteenth Finance Commission award for 2026-31 retains **41% vertical devolution** and adds a **10% contribution-to-GDP** criterion.
 - [CURRENT] The November 2025 Article 143 opinion controls Governor assent: no fixed judicial deadlines and no deemed assent, while prolonged unexplained inaction can be reviewed through a direction to act.
 - [LIMIT] Federal theory is owned by Polity 12; detailed Emergency doctrine by Polity 14; Governor office by Polity 19; Finance Commission institution by Polity 29. This package remains complete on how those mechanisms affect relations.
-- Package target: **8 routed PYQs**, **28 original MCQs**, **8 remedials**, **7 solved Mains questions** and **14 original visuals**.
+- Package target: **11 routed PYQs**, **28 original MCQs**, **8 remedials**, **7 original solved Mains questions**, **15 guided Mains answers** and **14 original visuals**.
 
 ## Roadmap
 
@@ -32,6 +32,7 @@ cover_image: "../../../notes/Polity/assets/13_Centre-State-Relations/01_four_dim
 | Doctrines | Harmonious construction, supremacy, repugnancy, pith and substance | Answers 2019 GS-II |
 | Administrative | Articles 256-263, directions, delegation, Article 365 | Explains central leverage |
 | Services/agencies | AIS, integrated institutions and CBI consent | Connects administration to conflict |
+| Emergency-linked relations | Articles 355-365, especially 355-357, 360 and 365 | Separates duty, remedy and fiscal direction |
 | Financial | Articles 265-293, tax sharing, grants and borrowing | Builds fiscal architecture |
 | Evolution | Planning Commission to FC-GST-NITI model | Answers 2025 GS-II |
 | 16th FC | Accepted devolution, formula and grant shifts | Current fiscal control |
@@ -232,7 +233,33 @@ this package owns their Centre-State application.
 - [FACT] Supreme Court and High Courts may order a CBI investigation through constitutional jurisdiction without State consent.
 - [CURRENT] The 2024 *State of West Bengal v. Union of India* decision upheld maintainability of the State's Article 131 suit against preliminary objection; it did not finally decide all merits.
 
-## 08. Financial relations: constitutional architecture
+## 08. Emergency-linked Centre-State consequences: Articles 355-365
+
+| Provision | Centre-State consequence | Exam-safe limit |
+|---|---|---|
+| Article 355 | Union duty to protect every State against external aggression and internal disturbance and ensure constitutional government | A duty and constitutional context; not a self-executing takeover power |
+| Article 356 | Presidential proclamation where State government cannot be carried on according to the Constitution | Parliamentary approval, time limits and *S.R. Bommai* review apply |
+| Article 357 | Parliament may confer State legislative power on the President and authorise delegation during President's Rule | Does not permanently transfer the State List |
+| Articles 358-359 | Modify specified Fundamental-Rights operation/enforcement during a National Emergency | Primarily a rights effect, not a fresh allocation of legislative fields |
+| Article 360 | Permits financial-emergency directions, including State financial propriety and reservation of specified State Money Bills | Never proclaimed as of the control date; do not treat it as ordinary borrowing control |
+| Articles 361-364 | Immunities and limited transitional/special provisions | Not general Union direction powers |
+| Article 365 | Non-compliance with Union directions may support a conclusion relevant to Article 356 | It is an evidentiary bridge, not automatic President's Rule |
+
+[ANALYSIS] The constitutional sequence is **duty (355) → exceptional remedy (356) → temporary legislative consequence (357)**. Article 365 may supply relevant material, but neither it nor Article 355 bypasses the safeguards governing Article 356. Article 360 is a separate fiscal-emergency route and must not be confused with ordinary Article 293 borrowing consent.
+
+### Major judicial controls across the relations map
+
+| Decision | Controlled proposition |
+|---|---|
+| *State of West Bengal v. Union of India* (1962) | States are not sovereign entities immune from constitutionally valid Union power |
+| *State of Rajasthan v. Union of India* (1977) | Article 356 satisfaction is not wholly beyond review, though the earlier review standard was deferential |
+| *M. Karunanidhi v. Union of India* (1979) | Repugnancy requires a real, direct and irreconcilable conflict in the Concurrent field |
+| *S.R. Bommai v. Union of India* (1994) | Federalism is Basic Structure; Article 356 is reviewable and majority ordinarily belongs on the floor |
+| *Jindal Stainless v. State of Haryana* (2016) | Part XIII does not promise tax-free trade; discriminatory State taxation is the central Article 304(a) concern |
+| *Union of India v. Mohit Minerals* (2022) | GST Council recommendations are recommendatory and preserve legislative autonomy |
+| *State of West Bengal v. Union of India* (2024) | The State's Article 131 CBI-consent suit survived the preliminary objection; merits were not finally decided |
+
+## 09. Financial relations: constitutional architecture
 
 ![Tax authority, revenue assignment, grants, the Finance Commission and borrowing create fiscal interdependence.](../../../notes/Polity/assets/13_Centre-State-Relations/08_financial_article_map.png)
 
@@ -262,7 +289,7 @@ this package owns their Centre-State application.
 - [FACT] Article 292 governs Union borrowing; Article 293 limits State borrowing to within India.
 - [FACT] A State requires Union consent to raise a loan where a Union loan or guaranteed loan remains outstanding, and consent may carry conditions.
 
-## 09. Evolution of fiscal federalism
+## 10. Evolution of fiscal federalism
 
 ![Fiscal relations moved from plan-era discretion toward Finance Commission, GST and NITI-based interdependence.](../../../notes/Polity/assets/13_Centre-State-Relations/09_fiscal_evolution.png)
 
@@ -285,7 +312,7 @@ this package owns their Centre-State application.
 - [ANALYSIS] Re-centralisation persists through cesses/surcharges outside the divisible pool, centrally sponsored scheme conditions, borrowing consent and unequal administrative capacity.
 - [LIMIT] “More devolution” cannot be assessed from the percentage alone; the divisible-pool base, grants and expenditure mandates matter.
 
-## 10. Sixteenth Finance Commission: accepted 2026-31 control
+## 11. Sixteenth Finance Commission: accepted 2026-31 control
 
 ![The horizontal formula combines equalisation, population, demographic, ecological and output considerations.](../../../notes/Polity/assets/13_Centre-State-Relations/10_16fc_formula.png)
 
@@ -304,7 +331,7 @@ this package owns their Centre-State application.
 - [CURRENT] Disaster-fund sharing is 90:10 for specified north-eastern/Himalayan States and 75:25 for other States.
 - [ANALYSIS] The formula balances equalisation and contribution, but every criterion creates distributional winners and losers; legitimacy depends on transparent methodology.
 
-## 11. GST Council and fiscal negotiation
+## 12. GST Council and fiscal negotiation
 
 - [FACT] Article 279A creates a joint Union-State forum on GST rates, exemptions, thresholds, model laws and special rates.
 - [FACT] The Union's vote has one-third weight and States together two-thirds; a decision requires at least three-fourths weighted votes of members present and voting.
@@ -312,14 +339,14 @@ this package owns their Centre-State application.
 - [ANALYSIS] Consensus remains politically valuable because divergent GST laws can fragment the common market even where legal autonomy exists.
 - [LIMIT] GST Council recommendations are neither judicial orders nor constitutional amendments.
 
-## 12. Inter-State water disputes: Article 262
+## 13. Inter-State water disputes: Article 262
 
 ![The controlling system remains negotiation followed by dispute-specific tribunal adjudication.](../../../notes/Polity/assets/13_Centre-State-Relations/11_water_dispute_process.png)
 
 - [FACT] Article 262 permits Parliament to provide adjudication of inter-State river-water disputes and exclude Supreme Court and other court jurisdiction over such disputes.
 - [FACT] Parliament enacted the River Boards Act, 1956 and Inter-State River Water Disputes Act, 1956.
 - [FACT] The existing Act uses dispute-specific tribunals; awards become final and binding under the statutory scheme after publication.
-- [CURRENT] The 2019 Amendment Bill proposed a permanent tribunal with multiple benches and a dispute-resolution committee. It passed Lok Sabha but has not been enacted as of the control date.
+- [CURRENT] The 2019 Amendment Bill proposed a dispute-resolution committee and a permanent tribunal with benches. It passed Lok Sabha, **lapsed with dissolution of the Seventeenth Lok Sabha**, and is not law. Official departmental material later described a revised proposal; it too must not be presented as enacted law.
 - [LIMIT] Do not describe a permanent tribunal as current law.
 
 ### Structural weaknesses and reform
@@ -332,7 +359,7 @@ this package owns their Centre-State application.
 | Climate variability | Historical flows become unstable | Adaptive review and ecological-flow planning |
 | Jurisdiction exclusion | Limited ordinary judicial route | Precise statutory review/implementation design |
 
-## 13. Inter-State Council and Zonal Councils
+## 14. Inter-State Council and Zonal Councils
 
 ![The Inter-State Council, Zonal Councils, NEC and NITI differ in constitutional and statutory status.](../../../notes/Polity/assets/13_Centre-State-Relations/12_intergovernmental_forums.png)
 
@@ -353,17 +380,17 @@ this package owns their Centre-State application.
 | NITI Aayog | Executive resolution | PM-chaired national policy forum |
 | National Security Council | Executive/non-statutory | Security advisory architecture |
 
-- [CURRENT] 2026 meetings of Central, Northern and Eastern Zonal mechanisms demonstrate active regional coordination even while the full ISC remains underused.
+- [CURRENT] Official ISCS records show the 26th Central Zonal Council meeting on 19 May 2026, the 22nd Northern Zonal Standing Committee on 19 June, the 15th Eastern Zonal Standing Committee on 7 July and the 31st Southern Zonal Council on 20 August 2026. This demonstrates active regional coordination even while the full ISC remains underused.
 - [ANALYSIS] The design gap is not absence of forums but irregular escalation from regional problem-solving to national intergovernmental settlement.
 
-## 14. Full faith and credit: Article 261
+## 15. Full faith and credit: Article 261
 
 - [FACT] Public acts, records and judicial proceedings of the Union and every State receive full faith and credit throughout India.
 - [FACT] Parliament may prescribe the manner of proof and effect.
 - [FACT] Final judgments or orders delivered or passed by civil courts in any part of India are capable of execution anywhere according to law.
 - [LIMIT] Clause (3) specifically concerns civil judgments; do not convert it into a claim that every criminal or penal rule has extra-territorial operation.
 
-## 15. Freedom of trade, commerce and intercourse
+## 16. Freedom of trade, commerce and intercourse
 
 ![Part XIII creates a common market while allowing public-interest and non-discriminatory regulation.](../../../notes/Polity/assets/13_Centre-State-Relations/13_common_market.png)
 
@@ -386,14 +413,14 @@ this package owns their Centre-State application.
 - [FACT] Article 304(a) and 304(b) operate distinctly; public-interest restriction cannot cure a discriminatory tax.
 - [ANALYSIS] GST supplied fiscal integration that Part XIII litigation alone could not administratively achieve.
 
-## 16. Minor minerals: Union notification, State rule-making
+## 17. Minor minerals: Union notification, State rule-making
 
 - [FACT] The Mines and Minerals (Development and Regulation) Act, 1957 is parliamentary legislation under Union control over mineral regulation to the declared extent.
 - [FACT] Section 3(e) empowers the Central Government to notify additional minerals as “minor minerals.”
 - [FACT] Section 15 empowers State Governments to make rules regulating quarry leases, mining leases and other concessions for minor minerals.
 - [LIMIT] Central power to define/notify the category does not eliminate State rule-making for concessions.
 
-## 17. Commissions on Centre-State relations
+## 18. Commissions on Centre-State relations
 
 | Body | Orientation | High-yield recommendations |
 |---|---|---|
@@ -418,7 +445,7 @@ this package owns their Centre-State application.
 
 ## PART II - Optional Advanced enrichment
 
-## 18. Representation as a fourth Centre-State dimension - optional
+## 19. Representation as a fourth Centre-State dimension - optional
 
 - State influence at the Union depends not only on Lists and transfers but on seats in Lok Sabha, Rajya Sabha and the Presidential Electoral College.
 - The 42nd, 84th and 87th Amendment sequence separated inter-State seat allocation freeze from permissible intra-State boundary readjustment.
@@ -426,7 +453,7 @@ this package owns their Centre-State application.
 - [ANALYSIS] Representation and devolution are two currencies of the same grievance where population growth affects both political and fiscal weight.
 - [LIMIT] Full representational-federalism treatment belongs to Polity 12 and Parliament; no seat projection or implementation date should be invented.
 
-## 19. Executive federalism and institutional under-use - optional
+## 20. Executive federalism and institutional under-use - optional
 
 - Much Indian federal coordination occurs among Prime Minister, Chief Ministers, ministers and officials rather than through legislatures.
 - Executive federalism can respond quickly but may weaken transparency and opposition participation.
@@ -442,6 +469,8 @@ this package owns their Centre-State application.
 **Question:** From the resolution of contentious issues regarding distribution of legislative powers by the courts, “Principle of Federal Supremacy” and “Harmonious Construction” have emerged. Explain.  
 **10 marks | 150 words**
 
+**Demand decoding:** Explain requires a sequential doctrine answer: allocation, reconciliation, irreconcilable conflict and qualified supremacy.
+
 **Model solution**
 
 The Seventh Schedule distributes legislative fields, but modern laws overlap. Courts therefore reconcile entries before invalidating legislation.
@@ -454,10 +483,16 @@ The doctrines are therefore sequential, not contradictory. Harmonious constructi
 
 Thus, Indian legislative federalism is accommodative in interpretation but Union-weighted at the point of irreconcilable conflict.
 
+**Why this earns marks:** It defines both doctrines, anchors Articles 246/254 and shows their order rather than listing them.
+
+**How to improve this answer:** In the exam, draw a three-arrow sequence—pith and substance → harmonious construction → Article 254—and retain the Sarkaria line only if space permits.
+
 ### PYQ 2 - UPSC GS-II 2020, Q11 - direct
 
 **Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the Disaster Management Act, 2005 and the recently passed Farm Acts.  
 **15 marks | 250 words**
+
+**Demand decoding:** Elucidate requires showing how emergency and Concurrent-field laws reveal centralising capacity, with both necessity and federal cost.
 
 **Model solution**
 
@@ -471,10 +506,16 @@ Other centralising tools include residuary power, Articles 249, 250, 253 and 356
 
 Therefore, national coordination may justify central legislation, but legitimacy requires necessity, clear List competence, consultation and proportionality. Unity is strengthened when Union capacity works through cooperative institutions rather than treating States as implementing agencies.
 
+**Why this earns marks:** It uses the named statutes and Farm Acts, connects List entries, and balances centralisation with Bommai and political repeal.
+
+**How to improve this answer:** Compress the general centralising-tool list to one sentence and spend the saved words on consultation and proportionality, which answer the evaluative edge.
+
 ### PYQ 3 - UPSC GS-II 2021, Q11 - supporting
 
 **Question:** The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.  
 **15 marks | 250 words**
+
+**Demand decoding:** Explain the statutory consent rule, its constitutional exceptions and why neither State consent nor Union investigation is absolute.
 
 **Model solution**
 
@@ -490,10 +531,73 @@ The federal balance requires State police autonomy, national coordination for cr
 
 Thus, consent is constitutionally significant statutory federalism, but it cannot override constitutional-court power.
 
-### PYQ 4 - UPSC GS-II 2024, Q13 - direct
+**Why this earns marks:** It distinguishes DSPE consent, constitutional-court power and the limited 2024 West Bengal ruling.
+
+**How to improve this answer:** Add a two-column consent/exception mini-table in rough work; do not claim the 2024 ruling finally decided the merits.
+
+### PYQ 4 - UPSC GS-II 2022, Q13 - supporting
+
+**Question:** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.  
+**15 marks | 250 words**
+
+**Demand decoding:** Comment requires testing the proposition as a political tendency, then qualifying it through changing party incentives and institutions.
+
+**Model solution**
+
+The claim captures a recurrent incentive, not an iron law. National parties seek uniform programmes, national markets and coordinated security, and therefore often favour Union legislation, centrally sponsored schemes and common institutions. Regional parties derive authority from territorially concentrated mandates and more often demand fiscal space, linguistic recognition, control over State subjects and restraint in the use of Governors and central agencies.
+
+Yet party position changes with office. A national party governing a State may resist Union encroachment, while a regional party participating in a Union coalition may support central measures. Coalition governments, the GST Council and Rajya Sabha bargaining have periodically enlarged State influence. Conversely, a dominant parliamentary majority can reduce negotiated federalism.
+
+The constitutional answer is institutional rather than partisan: regular Inter-State Council consultation, meaningful scrutiny of Concurrent legislation, predictable Finance Commission transfers and neutral constitutional offices. Thus, party geography shapes federal preferences, but constitutional forums must prevent temporary electoral advantage from defining Centre-State balance.
+
+**Why this earns marks:** It explains national/regional incentives, supplies coalition and Rajya Sabha counter-evidence, and avoids treating party labels as permanent doctrine.
+
+**How to improve this answer:** Use one concrete coalition-era illustration if confidently recalled; otherwise preserve the office-dependent qualification rather than inventing an example.
+
+### PYQ 5 - UPSC GS-II 2023, Q13 - supporting
+
+**Question:** Account for the legal and political factors responsible for the reduced frequency of use of Article 356 by the Union Governments since the mid-1990s.  
+**15 marks | 250 words**
+
+**Demand decoding:** Account for requires causal explanation of both legal and political factors behind reduced Article 356 use.
+
+**Model solution**
+
+The decline reflects both judicial discipline and a changed party system. In *S.R. Bommai* (1994), the Supreme Court made Article 356 proclamations reviewable, required relevant material, protected floor tests as the normal majority test and permitted restoration of a dismissed government. Parliamentary approval and the possibility of judicial invalidation raised the legal cost of partisan dismissal.
+
+Politically, coalition governments after 1989 depended on regional parties, whose bargaining power discouraged arbitrary action against States. Stronger regional mandates, public criticism of central misuse and the reputational cost of federal confrontation also mattered. Later single-party Union majorities did not erase these constraints because *Bommai* doctrine, electoral competition and the Rajya Sabha continued to impose checks.
+
+The decline does not mean Centre-State conflict disappeared; disputes shifted toward Governors, investigations, finance and assent. Article 356 remains an emergency remedy, while Article 365 non-compliance is only relevant material. The reduced frequency therefore shows constitutional law and political federalisation reinforcing each other.
+
+**Why this earns marks:** It links Bommai safeguards with coalition/regional-party incentives and distinguishes declining proclamations from continuing federal conflict.
+
+**How to improve this answer:** Organise the body under Legal and Political subheads and end by naming the shift toward Governors, finance and agencies.
+
+### PYQ 6 - UPSC GS-II 2023, Q15 - direct
+
+**Question:** Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?  
+**15 marks | 250 words**
+
+**Demand decoding:** Explain significance and assess extent: first map the 101st Amendment, then evaluate how far its design is accommodative.
+
+**Model solution**
+
+The 101st Amendment created a shared constitutional tax field rather than merely altering rates. Article 246A gives Parliament and State legislatures GST competence; Article 269A governs inter-State GST apportionment; Article 279A creates the GST Council with Union and State representation. It replaced multiple indirect taxes with a destination-based system and supported a common market.
+
+Its accommodative character lies in compulsory bargaining: the Union has one-third voting weight, States collectively two-thirds, and decisions require a three-fourths weighted majority. Consensus practice, compensation arrangements and joint administration converted fiscal autonomy into negotiated interdependence. *Mohit Minerals* further held Council recommendations recommendatory, preserving legislative authority at both levels.
+
+Accommodation remains incomplete. States lost independent rate space, compensation disputes exposed dependence, and unequal revenue capacity affects bargaining power. A common tax can become centralising if consultation weakens. The Amendment is therefore a major example of cooperative fiscal federalism, but its success depends on consensus, transparent data, credible dispute resolution and respect for State legislative choice.
+
+**Why this earns marks:** It cites Articles 246A/269A/279A, weighted voting, consensus and Mohit Minerals, followed by limits on State fiscal space.
+
+**How to improve this answer:** Include the one-third/two-thirds/three-fourths voting formula; omit rate trivia unless the question asks current GST reform.
+
+### PYQ 7 - UPSC GS-II 2024, Q13 - direct
 
 **Question:** What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.  
 **15 marks | 250 words**
+
+**Demand decoding:** Suggest demands two balanced halves: identify recent changes and offer institution-matched trust remedies.
 
 **Model solution**
 
@@ -515,7 +619,11 @@ Centre-State relations have shifted from plan-era bargaining to a mixed Finance 
 
 Trust is an institutional output: States must repeatedly experience consultation before compulsion, fiscal predictability and neutral use of constitutional offices.
 
-### PYQ 5 - UPSC Prelims 2024, Q75 - official key
+**Why this earns marks:** It covers fiscal, legislative and administrative change and ties each remedy to ISC, GST, Finance Commission, Governor or CBI architecture.
+
+**How to improve this answer:** Pair every diagnosed deficit with one remedy; avoid an unstructured reform list and keep the conclusion focused on repeated institutional experience.
+
+### PYQ 8 - UPSC Prelims 2024, Q75 - official key
 
 **Question:** Which one of the following statements is correct as per the Constitution of India?
 
@@ -528,10 +636,12 @@ D. Corporation tax is a State subject under the State List.
 
 Union List Entry 81 covers inter-State migration and inter-State quarantine; Entry 42 covers inter-State trade and commerce; corporation tax is also a Union subject.
 
-### PYQ 6 - UPSC GS-II 2025, Q14 - direct
+### PYQ 9 - UPSC GS-II 2025, Q14 - direct
 
 **Question:** Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?  
 **15 marks | 250 words**
+
+**Demand decoding:** Examine requires a chronological fiscal transition, assessment of reforms and a graded verdict on practical autonomy.
 
 **Model solution**
 
@@ -547,7 +657,11 @@ However, vertical imbalance persists. Cesses and surcharges remain outside the d
 
 Thus, fiscal federalism is more rules-based but not fiscally equal. Protecting the divisible pool, predictable schemes, robust GST dispute resolution and stronger State revenue capacity are necessary for meaningful autonomy.
 
-### PYQ 7 - UPSC Prelims 2025, Q53 - official key
+**Why this earns marks:** It connects plan-era discretion, Finance Commission devolution, GST and NITI with cesses, schemes and Article 293 constraints.
+
+**How to improve this answer:** Use a three-stage timeline—Planning era → post-2015 → 16th FC—and distinguish divisible-pool share from gross Union tax revenue.
+
+### PYQ 10 - UPSC Prelims 2025, Q53 - official key
 
 **Question:** With reference to India, consider the following:
 
@@ -566,7 +680,7 @@ D. None
 
 Article 263 provides for establishment of the Inter-State Council. Zonal Councils are statutory and the National Security Council is executive/non-statutory.
 
-### PYQ 8 - UPSC Prelims 2025, Q89 - official key
+### PYQ 11 - UPSC Prelims 2025, Q89 - official key
 
 **Question:** Consider the following statements:
 
@@ -1064,21 +1178,27 @@ Do not turn a Bill into current law.
 
 **Question:** Explain the constitutional relationship between Articles 256, 257, 365 and 356. Why is non-compliance with Union directions not equivalent to automatic President's Rule?
 
-**Model solution**
+**Demand decoding:** Explain the 256-257-365-356 sequence and expressly rebut automaticity.
 
-Articles 256 and 257 coordinate executive power in a federation with shared implementation.
+**Model solution**
 
 Article 256 requires States to ensure compliance with parliamentary and applicable laws and permits Union directions for that purpose. Article 257 requires State executive power not to impede Union executive power and permits specified directions concerning national/military communications and railway protection.
 
 Article 365 provides that failure to comply with Union directions may permit the President to hold that State government cannot be carried on according to the Constitution. It therefore supplies a relevant constitutional inference.
 
-However, it does not automatically impose President's Rule. Article 356 still requires a presidential satisfaction based on relevant material, parliamentary approval and compliance with temporal limits. *S.R. Bommai* makes the proclamation judicially reviewable and ordinarily protects floor determination of political majority.
+It does not automatically impose President's Rule. Article 356 still requires presidential satisfaction based on relevant material, parliamentary approval and temporal limits. *S.R. Bommai* makes the proclamation reviewable and ordinarily protects floor determination of political majority.
 
 Thus, Articles 256-257 enable coordination, Article 365 marks serious non-compliance, and Article 356 supplies the exceptional remedy. Treating the sequence as automatic would convert federal directions into unrestricted Union control.
+
+**Why this earns marks:** The answer separates coordination, evidentiary consequence and exceptional remedy with Bommai control.
+
+**How to improve this answer:** Cut the opening to one line; use a four-box chain and reserve the final sentence for why automaticity would destroy federal balance.
 
 ### M2. 10 marks | 150 words
 
 **Question:** Distinguish the Inter-State Council, Zonal Councils, North Eastern Council and NITI Aayog by source, composition logic and function.
+
+**Demand decoding:** Distinguish four bodies by legal source, composition logic and function.
 
 **Model solution**
 
@@ -1094,9 +1214,15 @@ The **North Eastern Council** is a separate statutory institution under the NEC 
 
 Thus, “intergovernmental body” does not establish legal status. Article, statute and executive resolution must be separately identified.
 
+**Why this earns marks:** Each body is classified by Article, statute or executive resolution and the NEC trap is expressly closed.
+
+**How to improve this answer:** Present a compact four-row table; add that Article 263 enables presidential establishment rather than saying the Constitution itself permanently constituted the ISC.
+
 ### M3. 15 marks | 250 words
 
 **Question:** Examine whether All-India Services strengthen administrative unity at an excessive cost to State autonomy.
+
+**Demand decoding:** Examine both administrative-unity gains and State-autonomy costs before a balanced judgment.
 
 **Model solution**
 
@@ -1112,9 +1238,15 @@ Reform should use transparent deputation rules, meaningful State consultation, p
 
 Thus, All-India Services are a federal bridge, not merely a centralising instrument. Their legitimacy depends on genuinely shared personnel governance.
 
+**Why this earns marks:** It gives constitutional basis, mechanisms, competing accountability concerns and implementable personnel reforms.
+
+**How to improve this answer:** Name the Rajya Sabha trigger early and compress benefits to three points so the shared-control reform paragraph remains visible.
+
 ### M4. 15 marks | 250 words
 
 **Question:** Cesses, surcharges and centrally sponsored schemes can re-centralise fiscal federalism even when tax devolution remains high. Analyse.
+
+**Demand decoding:** Analyse how non-divisible levies and conditional schemes alter effective autonomy despite a headline devolution share.
 
 **Model solution**
 
@@ -1130,9 +1262,15 @@ The corrective is not abolition but transparency and consent: sunset clauses and
 
 Thus, formal devolution and practical autonomy can diverge. Fiscal federalism must be evaluated through total transfer design, not the headline percentage alone.
 
+**Why this earns marks:** It distinguishes Article 270 from Article 271 and tests both justification and federal cost before calibrated reforms.
+
+**How to improve this answer:** Avoid unsupported quantitative claims; add a one-line distinction between the divisible pool and gross Union tax revenue.
+
 ### M5. 20 marks | 250-300 words
 
 **Question:** Critically evaluate the constitutional and institutional framework for inter-State river-water disputes in India.
+
+**Demand decoding:** Critically evaluate constitutional design, statutory process, implementation weaknesses and reform.
 
 **Model solution**
 
@@ -1144,15 +1282,21 @@ Article 262 authorises Parliament to provide adjudication and exclude court juri
 
 **Weaknesses:** Delays occur in negotiation, tribunal creation, evidence and decision. States dispute flow data, project effects and distress-year sharing. Publication and implementation may generate new litigation. Ad-hoc tribunals lose institutional memory, and climate change makes historical averages less reliable.
 
-The 2019 Amendment Bill proposed a dispute-resolution committee and permanent tribunal with benches, but it passed only Lok Sabha and is not current law as of 16 August 2026.
+The 2019 Amendment Bill proposed a dispute-resolution committee and permanent tribunal with benches, but it lapsed with the Seventeenth Lok Sabha. A later revised proposal is also not current law.
 
 Reform requires a permanent professional secretariat even if benches remain dispute-specific, independent basin data, time-bound stages, ecological-flow and climate scenarios, transparent distress-sharing formulas, compliance monitoring and stronger river-basin organisations. Courts should retain narrow constitutional review while respecting Article 262's jurisdiction design.
 
 Thus, adjudication is necessary but insufficient. Durable settlement requires continuous cooperative basin governance before and after an award.
 
+**Why this earns marks:** It covers Article 262, both 1956 laws, strengths, delay/data/climate limits and correctly bounded Bill status.
+
+**How to improve this answer:** Write the process as negotiation → tribunal → publication → implementation; mention the Bill lapsed, not merely that it was unpassed.
+
 ### M6. 20 marks | 250-300 words
 
 **Question:** The constitutional freedom of trade under Part XIII is a federal common-market guarantee, not a promise of tax-free commerce. Discuss with case law.
+
+**Demand decoding:** Discuss Part XIII as a common-market guarantee using the current nine-judge doctrine.
 
 **Model solution**
 
@@ -1168,9 +1312,15 @@ GST later supplied a constitutional fiscal mechanism for a common market through
 
 Therefore, Part XIII balances integration with autonomy. It prohibits economic protectionism, not every tax or regulation. The modern test is non-discrimination, constitutional competence and procedural compliance.
 
+**Why this earns marks:** It maps Articles 301-304, traces doctrine and correctly centres Jindal Stainless on discrimination rather than tax immunity.
+
+**How to improve this answer:** Prioritise Jindal Stainless; compress the two older cases and explicitly separate Article 304(a) taxation from 304(b) restrictions.
+
 ### M7. 20 marks | 250-300 words
 
 **Question:** “The principal weakness of Centre-State relations is institutional under-use rather than constitutional scarcity.” Evaluate and suggest reforms.
+
+**Demand decoding:** Evaluate whether under-use or constitutional design better explains conflict, then suggest matched reforms.
 
 **Model solution**
 
@@ -1185,6 +1335,10 @@ Reform should therefore combine use and redesign: regular ISC meetings with trac
 Sarkaria and Punchhi already provide much of this menu. *S.R. Bommai* and *Mohit Minerals* show that courts can protect boundaries but cannot substitute for political dialogue.
 
 The proposition is substantially correct: India has enough forums, but insufficient habits of consultation. Trust requires repeated, rule-bound use of institutions while correcting the Union's strongest structural asymmetries.
+
+**Why this earns marks:** It supplies both institutional and structural causes, named forums/cases and a reform package tied to each diagnosed weakness.
+
+**How to improve this answer:** Use two body subheads—Under-use and Structural tilt—then pair each reform with ISC, GST, water, CBI or fiscal architecture.
 
 ## Final consolidated register notes
 
@@ -1262,6 +1416,14 @@ The proposition is substantially correct: India has enough forums, but insuffici
 - Concurrent List has no general tax entry; GST uses Article 246A.
 - State borrowing only within India; Union consent if Union loan remains outstanding.
 
+### Emergency-linked relations
+
+- Article 355 is a Union duty, not a free-standing takeover power.
+- Article 356 is exceptional, parliament-controlled and judicially reviewable.
+- Article 357 governs temporary exercise/delegation of State legislative power.
+- Article 360 is a separate financial-emergency route and has never been proclaimed.
+- Article 365 may supply relevant material; it does not automatically impose President's Rule.
+
 ### Fiscal evolution and 16th FC
 
 - Plan era: Planning Commission/NDC + Article 282 discretion.
@@ -1283,7 +1445,7 @@ The proposition is substantially correct: India has enough forums, but insuffici
 
 - Article 262 water disputes; Parliament can exclude courts.
 - Existing system: dispute-specific tribunals.
-- 2019 permanent-tribunal Bill passed Lok Sabha only; not law.
+- 2019 permanent-tribunal Bill passed Lok Sabha, later lapsed; a revised proposal is also not law.
 - Article 263 ISC; established 1990 by presidential order; advisory.
 - Five Zonal Councils statutory under SRA 1956.
 - NEC separate 1971 Act.
@@ -1317,6 +1479,9 @@ The proposition is substantially correct: India has enough forums, but insuffici
 - 2019: harmonious construction first; federal supremacy last.
 - 2020: emergency/disaster/farm legislation -> competence + consultation.
 - 2021: CBI consent is real but not absolute against constitutional courts.
+- 2022: party incentives vary with national reach, regional mandate and whether a party holds Union or State office.
+- 2023 Article 356: *Bommai* review plus coalition and regional-party politics reduced misuse.
+- 2023 GST: Articles 246A/269A/279A institutionalise accommodation, qualified by State fiscal-space concerns.
 - 2024 Mains: diagnose recent change + specific trust reforms.
 - 2024 Prelims: inter-State trade/migration/quarantine are Union fields.
 - 2025 Mains: plan discretion -> FC/GST/NITI rules, with continuing imbalance.

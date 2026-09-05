@@ -119,7 +119,7 @@ The examiner's favourite move is to pit the **normative claim** ("We, the People
 
 **Cross-link:** Making of the Constitution (Topic 02) for the composition and election of the Constituent Assembly.
 
-## 5. Ingredient 2 - the nature of the Indian State: the six descriptors
+## 5. Ingredient 2 - the nature of the Indian State: the five descriptors
 ![Keyword to constitutional anchor: every Preamble word is cashed out in the text](../../../notes/Polity/assets/04_Preamble/03_keyword_anchor_map.png)
 *Preamble words are not adjectives; each is operationalised by identified provisions elsewhere in the Constitution.*
 
@@ -131,9 +131,9 @@ The examiner's favourite move is to pit the **normative claim** ("We, the People
 |---|---|---|
 | Sovereign | Art 1; Art 253 treaty power; Art 368 | No external authority above India; free internally and externally. |
 | Socialist | Part IV, especially Arts 38, 39(b) and 39(c), 41, 43 | Democratic socialism - a mixed economy, not State socialism. |
-| Secular | Arts 14-16; Arts 25-28; Arts 29-30; Art 44 | Positive secularism - equal status and support for all faiths, no State religion. |
+| Secular | Arts 14-16; Arts 25-28; Arts 29-30; Art 44 | Equality-linked secularism - no State religion, equal citizenship and principled, constitutionally limited engagement with faith. |
 | Democratic | Arts 75 and 164 responsibility; Arts 324-326 | Popular sovereignty exercised through representative parliamentary government. |
-| Republic | Arts 52-62; Art 18 abolition of titles | Elected head of State for a fixed term; no privileged class. |
+| Republic | Arts 52-62; Art 18 abolition of titles | Elected, non-hereditary head of State; equal access to public office follows from the wider equality code, not from the word alone. |
 | Justice, Liberty, Equality, Fraternity | Part III read with Part IV; Arts 5-11; Art 51A(e) | The four objectives the State must secure and promote. |
 
 ### Teaching and analysis
@@ -154,7 +154,7 @@ Order is examinable. "Sovereign Socialist Secular Democratic Republic" is the ex
 - [FACT] "Sovereign" means India is **neither a dependency nor a dominion of any other nation**, but an independent State with no authority above it.
 - [FACT] India was a **dominion from 15 August 1947 until 26 January 1950**; it became a sovereign republic only on the latter date. Pakistan by contrast remained a dominion until 1956.
 - [FACT] India's membership of the **Commonwealth** rests on the **1949 declaration**, which is an **extra-constitutional declaration** and does not affect sovereignty; the King or Queen is accepted only as the **symbolic head of the free association**.
-- [FACT] India joined the **United Nations Organisation in 1945**; UNO membership imposes treaty obligations but **does not limit sovereignty**.
+- [FACT] **British India became an original member of the United Nations on 30 October 1945**, and independent India continued that membership; Charter and treaty obligations are voluntarily accepted legal commitments, not subordination to an external sovereign.
 - [FACT] Being sovereign, India **may acquire foreign territory and may cede territory to a foreign State**.
 - [ANALYSIS] Sovereignty is examined through its edge cases, never through its definition. The three edge cases are Commonwealth membership, UN membership, and cession of territory - and in each the answer is that sovereignty survives.
 
@@ -209,7 +209,7 @@ Two errors destroy answers here. The first is to treat "socialist" as requiring 
 
 - [FACT] "Secular" was inserted by the **42nd Amendment, 1976**.
 - [FACT] Even before insertion, the Supreme Court held in **1974** that although the words "secular State" were not expressly mentioned, there could be no doubt that the Constitution-makers wanted to establish such a State, and accordingly Articles 25 to 28 were included.
-- [FACT] The Indian Constitution embodies the **positive concept of secularism**: **all religions in the country have the same status and support from the State**. There is **no State religion**.
+- [FACT] The Indian Constitution embodies a **positive, equality-linked concept of secularism**: there is **no State religion**, citizens enjoy equal status irrespective of faith, and the State may engage with or regulate religion only on constitutionally justified, non-discriminatory grounds. Equal citizenship does not require identical State support to every religious institution.
 - [FACT] Indian secularism is anchored in **Articles 14, 15 and 16** (equality and non-discrimination), **Articles 25-28** (freedom of religion), **Articles 29-30** (minority culture and educational rights), and **Article 44** (uniform civil code as a directive).
 - [FACT] In *Dr Balram Singh v. Union of India* (25 November 2024) the Court held that the State **neither supports any religion nor penalises the profession and practice of any faith**, and that **secularism is a facet of the right to equality**.
 - [ANALYSIS] India's model is best described as **principled distance** or positive secularism: the State keeps equal distance from all faiths but reserves the power to intervene in religion to secure equality and to reform practices that obstruct it.
@@ -218,8 +218,8 @@ Two errors destroy answers here. The first is to treat "socialist" as requiring 
 |---|---|---|
 | Textual basis | Preamble word "secular" plus Arts 14-16, 25-28, 29-30, 44. | First Amendment: no establishment clause plus free exercise clause. |
 | Governing metaphor | Equal respect and principled distance. | Wall of separation. |
-| State reform of religious practice | Permitted, and constitutionally contemplated (Art 25(2)(b) social welfare and reform). | Far harder to justify. |
-| Support to religious institutions | Equal support permissible; minority educational institutions protected under Art 30. | Non-establishment presumption against support. |
+| State reform of religious practice | Permitted, and constitutionally contemplated (Art 25(2)(b) social welfare and reform). | More constrained by the Establishment and Free Exercise Clauses, though current doctrine does not impose an absolute bar on neutral public benefits. |
+| Support to religious institutions | Neutral or reform-oriented engagement may be permissible; minority educational institutions are protected under Art 30. | Government may not establish religion; neutral, generally available public benefits may still reach religious recipients under current doctrine. |
 | Status of secularism | A basic feature (*Kesavananda*, 1973; *S.R. Bommai*, 1994). | A constitutional guarantee, not a basic-structure doctrine. |
 
 ### Teaching and analysis
@@ -227,7 +227,7 @@ The comparison is the examinable core, and it was asked directly in **GS-II 2024
 
 ### UPSC traps
 - WRONG: Indian secularism means the State must stay out of religion entirely.
-- CORRECT: it means equal status and support for all faiths, with a power to regulate secular activity associated with religion and to reform practices that obstruct equality.
+- CORRECT: it means equal citizenship across faiths with constitutionally limited State engagement, with a power to regulate secular activity associated with religion and to reform practices that obstruct equality.
 - WRONG: secularism entered Indian constitutional law only in 1976.
 - CORRECT: the word entered in 1976; the substance was already present, as the Court noted in 1974 and reaffirmed in 2024.
 
@@ -779,7 +779,7 @@ Elimination logic. "By definition" signals that the question is asking for the d
 
 Secularism in India is not the absence of the State from religion but the **equal presence of the State towards all religions**. The Preamble's word "secular", inserted by the 42nd Amendment, 1976, made explicit what the Constitution already carried: as the Supreme Court noted as early as 1974, although the words "secular State" were not expressly mentioned, the makers plainly wanted such a State, and Articles 25 to 28 were included for that purpose. In *Dr Balram Singh v. Union of India* (25 November 2024) the Court restated the operative test - the State **neither supports any religion nor penalises the profession and practice of any faith** - and located it in Articles 14, 15 and 16, describing secularism as **a facet of the right to equality**.
 
-Four structural features define the Indian model. First, there is **no State religion**, yet all religions enjoy the same status and support. Second, Articles 25 to 28 guarantee freedom of religion while Article 25(2) preserves the State's power to regulate **secular activity associated with religion** and to legislate for **social welfare and reform**. Third, Articles 29 and 30 affirmatively protect minority culture and minority educational institutions. Fourth, Article 44 permits the State to strive for a uniform civil code. Secularism is a **basic feature** - *Kesavananda Bharati* (1973), and *S. R. Bommai* (1994) by nine judges - with its scope elaborated in *R. C. Poudyal* (1993) and *M. Ismail Faruqui* (1994).
+Four structural features define the Indian model. First, there is **no State religion**, yet citizens enjoy equal status irrespective of religion; State engagement must have a constitutional, non-discriminatory basis. Second, Articles 25 to 28 guarantee freedom of religion while Article 25(2) preserves the State's power to regulate **secular activity associated with religion** and to legislate for **social welfare and reform**. Third, Articles 29 and 30 affirmatively protect minority culture and minority educational institutions. Fourth, Article 44 permits the State to strive for a uniform civil code. Secularism is a **basic feature** - *Kesavananda Bharati* (1973), and *S. R. Bommai* (1994) by nine judges - with its scope elaborated in *R. C. Poudyal* (1993) and *M. Ismail Faruqui* (1994).
 
 The American model rests on the First Amendment's **establishment and free exercise clauses**, and its governing metaphor is the **wall of separation**. Both systems share a floor: no State religion and protected freedom of conscience. They diverge on the State's competence to enter religion in order to secure equality. India permits and even contemplates such entry, because its founding anxiety was that religious practice itself entrenched social hierarchy. The American design presumes distance, because its founding anxiety was State capture of religion.
 
@@ -787,7 +787,9 @@ The Indian model is therefore better described as **principled distance** than a
 
 > Why this earns marks: the answer defines before it compares; it fixes the Indian model with dated textual and judicial evidence (1976 insertion, the 1974 observation, *Balram Singh* 2024, *Bommai* 1994) rather than with adjectives; it structures the comparison as shared floor, structural divergence and explanation of the divergence, which is the only comparison structure that avoids a two-column listing; and it closes with a graded verdict that names both the strength and the risk instead of declaring one system superior.
 
-### PYQ 7. Mains 2025, GS Paper II, Question 11 (250 words) - verbatim-verified
+> How to improve this answer: Add a compact India–US comparison table in rough work and include one present-day US neutrality qualification so “wall of separation” is not presented as an absolute rule.
+
+### PYQ 7. Mains 2025, GS Paper II, Question 11 (15 marks, 250 words) - verbatim-verified
 "Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike...."
 In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India.
 
@@ -805,7 +807,9 @@ The check therefore runs both ways, and on citizens too: obedience to judicial o
 
 > Why this earns marks: it defines the concept by **derivation** (Preamble values plus Ambedkar's trinity) rather than by assertion, which immediately answers the "explain the concept" limb with authority; it then converts the abstract idea into **four named facets** and maps each side of the judicial tension onto specific facets, so the "application" limb is genuinely analytical; it uses concrete institutional evidence (removal process, charged salaries, open-court reasoning, case allocation) instead of generalities; it answers the quotation's own words by showing the check operating on citizens as well; and it closes with an honest qualification about the doctrine's indeterminacy plus the safeguard, which is exactly the calibrated ending examiners reward.
 
-### PYQ 8. Mains 2025, GS Paper IV, Question 1(b) (150 words) - verbatim-verified
+> How to improve this answer: Name one concrete accountability device—reasoned judgments, recusal disclosure or transparent case allocation—and explain why it preserves rather than subordinates judicial independence.
+
+### PYQ 8. Mains 2025, GS Paper IV, Question 1(b) (10 marks, 150 words) - verbatim-verified
 "Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law." Examine the significance of constitutional morality for public servant highlighting the role in promoting good governance and ensuring accountability in public administration. *(Spellings as printed.)*
 
 **Model solution**
@@ -822,33 +826,37 @@ Because it is cultivated, it must be built - through training that teaches const
 
 > Why this earns marks: it engages the quotation's exact claim - "not natural but cultivated" - and explains **why** cultivation is necessary (the gap between social morality and constitutional morality), which most answers omit; it structures the significance into three distinct administrative consequences rather than listing virtues; it links each consequence to an operative anchor (Preamble values, Article 14 non-arbitrariness, record and reasons, RTI); it answers the "how" implicit in a cultivated disposition through training, institutional design and leadership; and it ends with a limitation that prevents the ethical concept from being read as a licence, which is the standard GS-IV discriminator.
 
+> How to improve this answer: Add one field-level administrative example, such as a reasoned welfare-benefit decision under Article 14, and separate lawful obedience from uncritical compliance with an unlawful instruction.
+
 ### PYQ 9. Mains 2021, GS Paper II, Question 1 (10 marks, 150 words) - routing-ledger sourced
-Examine the doctrine of Constitutional Morality and its essential facets.
+‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions.
 
 **Model solution**
 
-Constitutional morality is fidelity to the **values and processes** of the Constitution in the exercise of public power. It is derived, not free-standing: its content comes from the Preamble's objectives - justice, liberty, equality and fraternity assuring the dignity of the individual - and its logic from Ambedkar's warning of **25 November 1949** that liberty, equality and fraternity form a **union of trinity** that cannot be divided.
+Constitutional morality means fidelity to the Constitution's values, procedures and allocation of institutional power, even when popular or social morality points elsewhere. Its roots lie in the Preamble's liberty, equality, fraternity and dignity, read with rights, federalism, separation of powers and constitutional remedies.
 
-Its essential facets are four. **Process fidelity** requires that power be exercised through the constitutionally assigned institution and procedure, not by convenient shortcut. **Value primacy** requires that constitutional guarantees prevail over majoritarian sentiment, which is why rights do not depend on popularity. **Self-restraint** requires holders of high office to observe limits that no court will enforce, because the Constitution assumes forbearance in the spaces it leaves open. **Dignity and inclusion** supply the test of outcomes: State action is measured by whether it enlarges the individual's dignity.
+Its essential facets are **process fidelity**, **limited power and institutional self-restraint**, **dignity and inclusion**, and the priority of constitutional values over majoritarian preference. In *Government of NCT of Delhi v. Union of India* (2018), the Supreme Court linked constitutional morality to representative government, federal balance and respect for assigned roles. In *Navtej Singh Johar* (2018), it preferred constitutional morality and equal dignity over social morality. In *Indian Young Lawyers Association* (Sabarimala, 2018), the plurality similarly used equality, liberty and dignity to test exclusion, while later review proceedings require the precedent's procedural status to be stated carefully.
 
-Its value is that it disciplines lawful power. Its limit is that, being judicially articulated rather than textually defined, it can be invoked expansively; the discipline is to anchor it, in every use, to identified constitutional text.
+Thus, constitutional morality is not a judge's personal morality. Its legitimacy depends on deriving every use from identifiable text, structure and precedent.
 
-> Why this earns marks: a 10-marker rewards compression, and this answer spends its first block on derivation, its middle on **four named and defined facets** (the word "facets" in the question is a structural instruction), and its last on a two-sided evaluation. It cites Ambedkar with a date, keeps every facet tied to a constitutional function, and never drifts into generic ethics vocabulary.
+> Why this earns marks: it reproduces the exact two-limb demand, defines the doctrine from constitutional text, identifies four facets and proves application through three named 2018 decisions rather than leaving the required judicial-decisions limb unanswered.
+
+> How to improve this answer: in the exam, add one sentence distinguishing constitutional morality from constitutional conventions, and, if space permits, identify the specific institutional value used in each case instead of merely listing case names.
 
 ### PYQ 10. Mains 2019, GS Paper II, Question 5 (10 marks, 150 words) - routing-ledger sourced
-What can India and its citizens learn from the French model of secularism, and what can France learn from India's approach? *(Sourced from the repository's audited PYQ routing files rather than from a locally held 2019 paper PDF; the Preamble content below is independently verified.)*
+What can France learn from the Indian Constitution's approach to secularism?
 
 **Model solution**
 
-The two models answer different founding anxieties. **French laicite** grew from a fear that religion would capture the State, and its technique is the removal of religion from the public sphere. **Indian secularism** grew from a fear that religious practice itself entrenched social hierarchy, and its technique is equal respect with a retained power of reform. India's Preamble word "secular", inserted in 1976, is anchored in Articles 14 to 16 equality, Articles 25 to 28 freedom of religion, Articles 29 and 30 minority protection, and the Article 44 directive; in *Dr Balram Singh* (2024) the Supreme Court described secularism as **a facet of the right to equality**, the State neither supporting nor penalising any faith.
+French *laïcité* protects public authority from religious control through institutional separation and a strongly religion-neutral public sphere. India's Constitution pursues the same end of equal citizenship through a more accommodationist design: Articles 14–16 prohibit discrimination, Articles 25–28 protect conscience while permitting regulation and social reform, and Articles 29–30 protect minority culture and education.
 
-India can learn from France the value of a **clear rule of institutional neutrality**, which reduces the discretion that equal-support arrangements inevitably create and insulates public institutions from competitive religious claims.
+France can therefore learn three lessons. First, neutrality need not require the erasure of religious identity from public life; reasonable accommodation may prevent formally uniform rules from burdening minorities. Second, equality can justify carefully bounded State intervention against discriminatory religious practices rather than complete withdrawal. Third, minority cultural and educational safeguards can integrate plural communities without establishing a State religion.
 
-France can learn from India that **visibility is not establishment**. India's protection of minority educational institutions under Article 30 and its accommodation of religious identity in public life show that pluralism can be managed by recognition rather than by erasure, and that an assimilationist rule can itself become a source of exclusion.
+The Indian model also warns that accommodation requires principled limits: State engagement must remain non-discriminatory and rights-based. France need not copy Indian arrangements, but it can judge *laïcité* by the Preamble's common constitutional end—liberty, equality and fraternity for every citizen.
 
-The shared lesson is that secularism is a means to equal citizenship; each model should be judged by whether it delivers that end.
+> Why this earns marks: it answers the one-way question actually asked, explains the French baseline briefly, then derives three specific lessons from named Indian provisions and closes with a qualified transfer rather than an irrelevant two-country exchange.
 
-> Why this earns marks: it refuses the symmetrical listing trap by first explaining **why** the two models differ (different founding anxieties), which turns a comparison into an argument; it gives each side a single, concrete, defensible lesson rather than a vague exchange of virtues; it carries verified Indian constitutional anchors including a dated 2024 holding; and it closes by supplying a common evaluative standard, which is what a "what can each learn" directive is really asking for.
+> How to improve this answer: add one concrete French controversy only if accurately remembered, and explicitly test the proposed accommodation against neutrality, equality and public order so the lesson does not become an unqualified defence of State involvement in religion.
 
 ## PART III - Hard MCQ loops
 ![Prelims trap grid: the wrong sentence and the correct sentence](../../../notes/Polity/assets/04_Preamble/12_prelims_trap_grid.png)
@@ -1260,6 +1268,8 @@ It is therefore best described as an interpretive charter with constitutional fo
 
 > Why this earns marks: the answer names the analytical distinction in its first line, which is what "examine" demands; it evidences the membership limb with three dated cases in sequence; it states the two caveats in the examiner's own vocabulary and immediately supplies the correct alternative source of legislative power, which shows the candidate knows where power actually comes from; it then answers the unasked but decisive question - if it confers nothing, what does it do - through the two named routes; and it closes with a graded verdict rather than a slogan.
 
+> How to improve this answer: Quote the three-case sequence in one line, then identify Articles 245–246 as the actual source of legislative competence so membership, power and enforceability remain analytically separate.
+
 ### OQ2. "The Preamble was enacted last so that it might conform to the Constitution." Discuss the constitutional significance of this sequence. (10 marks, 150 words)
 
 **Model solution**
@@ -1275,6 +1285,8 @@ Third, it strengthens the *Kesavananda* reasoning that the edifice of the Consti
 The sequence, in short, is what converts a declaration into evidence.
 
 > Why this earns marks: most candidates know the sequencing fact and stop there; this answer treats the fact as a premise and derives **three distinct constitutional consequences** from it, which is exactly what "discuss the significance" requires. Each consequence is tied to named authority - *Berubari*, the operative Articles, *Kesavananda* - so the answer argues rather than narrates, and the closing line compresses the whole argument into one memorable proposition.
+
+> How to improve this answer: Use the 26 November 1949 adoption and 26 January 1950 commencement dates explicitly, and connect “conform to the Constitution” to interpretive reliability rather than merely repeating chronology.
 
 ### OQ3. "Article 368 reaches the Preamble, but the basic features declared in the Preamble do not yield to Article 368." Critically examine. (15 marks, 250 words)
 
@@ -1292,6 +1304,8 @@ The statement is therefore accurate, and the tension it contains is a designed f
 
 > Why this earns marks: it treats the quotation as a **two-part proposition** and defends each part separately with dated authority, which is the correct response to "critically examine" of a compound statement; it supplies the *Kesavananda* identity reasoning in the Court's own terms rather than paraphrasing it away; the "critical" limb is genuinely critical, naming the counter-majoritarian objection instead of gesturing at it, and then answering it with a reasoned reply and an apt quotation; and the verdict resolves the tension rather than restating it.
 
+> How to improve this answer: Identify the exact 42nd-Amendment additions and test a hypothetical deletion of “secular” against basic structure; this converts doctrine into an applied critical answer.
+
 ### OQ4. The word "socialist" in the Preamble fixes ends, not means. Examine this proposition in the light of judicial pronouncements and India's economic experience. (15 marks, 250 words)
 
 **Model solution**
@@ -1308,6 +1322,8 @@ The proposition is sound, and its soundness has now been judicially confirmed.
 
 > Why this earns marks: it adopts the ends-means frame as the answer's own architecture, so the structure itself argues the proposition; each limb carries dated, named judicial evidence rather than assertion; the economic-experience section supplies chronology **and** the corresponding shift in judicial emphasis, which is the analytical value-add; and the qualification prevents the answer from over-claiming, showing the candidate understands that "no mandated model" is not the same as "no constitutional constraint".
 
+> How to improve this answer: Distinguish constitutional welfare ends from policy instruments with one DPSP anchor and one post-1991 example, while avoiding the claim that every privatisation measure raises a constitutional violation.
+
 ### OQ5. "The Preamble is an interpretive charter rather than an enforceable clause; yet it remains the yardstick by which the worth of the Constitution is measured." Critically analyse. (20 marks, 250 words)
 
 **Model solution**
@@ -1323,6 +1339,8 @@ The statement asserts two things - a **legal** claim about force and a **normati
 The statement is therefore accurate on both limbs, and the tension between them is the source of the Preamble's authority rather than a weakness in it.
 
 > Why this earns marks: it identifies that the quotation contains **two separable claims** and tests each on its own terms, which is the highest-value move available in a "critically analyse" question; the legal limb is fully evidenced and names the two routes precisely, avoiding the common error of implying enforceability; the normative limb uses the founders' and scholars' formulations as **argument** and supports it with a 2024 illustration; the critical section raises two genuine objections and answers both, rather than raising one and abandoning it; and the conclusion converts the tension into an explanation of authority instead of leaving it unresolved.
+
+> How to improve this answer: Illustrate indirect force with one ambiguity-resolution example and one basic-structure example, then state the stop rule that clear operative text cannot be rewritten by the Preamble alone.
 
 ### OQ6. "Indian secularism is a facet of the right to equality rather than a wall of separation." Critically examine with reference to constitutional provisions and judicial doctrine. (20 marks, 250 words)
 
@@ -1342,6 +1360,8 @@ The proposition is therefore correct as description and defensible as design, pr
 
 > Why this earns marks: it converts the quotation into a **locatable constitutional claim** and then proves the claim from text, from a dated 2024 holding and from basic-structure doctrine; the *Faruqui* proposition is deployed as the decisive discriminator against the separation model, which is a genuinely analytical use of case law; the contrast section explains **why** the models differ instead of listing differences; the critical assessment names the real cost of the Indian design and then identifies the internal safeguards, which is far stronger than a generic "challenges remain"; and the verdict qualifies the proposition without abandoning it.
 
+> How to improve this answer: Qualify both comparators: Indian engagement must remain rights-based and non-discriminatory, while current US doctrine does not absolutely exclude neutral public benefits reaching religious recipients.
+
 ## Final consolidated register notes - Preamble
 These are the complete revision notes for the topic. Everything taught above is compressed here; nothing new is introduced. Read this section alone in the last week before the examination.
 
@@ -1357,7 +1377,7 @@ These are the complete revision notes for the topic. Everything taught above is 
 ### Keyword to anchor - the one-line map
 - **Sovereign** - Art 1, Art 253, Art 368. No authority above India. Commonwealth (1949 declaration, extra-constitutional) and UN membership (1945) do not limit it. May acquire or cede territory; cession needs a constitutional amendment (Ninth Amendment, 1960). Dominion 15 Aug 1947 to 26 Jan 1950.
 - **Socialist** - Part IV, Arts 38, 39(b), 39(c), 41, 43. **Democratic socialism**, mixed economy. Avadi session **1955**. *Nakara* (1983): Marxism plus Gandhism, leaning Gandhian. *G.B. Pant University* (2000): end poverty, ignorance, disease, inequality of opportunity. NEP **1991** diluted it in practice.
-- **Secular** - Arts 14-16, 25-28, 29-30, 44. **Positive secularism**: no State religion, equal status and support for all faiths. 1974 observation that the makers wanted a secular State. Basic feature: *Kesavananda* (1973), *S. R. Bommai* (1994).
+- **Secular** - Arts 14-16, 25-28, 29-30, 44. **Positive secularism**: no State religion, equal citizenship across faiths with constitutionally limited State engagement. 1974 observation that the makers wanted a secular State. Basic feature: *Kesavananda* (1973), *S. R. Bommai* (1994).
 - **Democratic** - popular sovereignty; representative parliamentary form. Direct-democracy devices **not** adopted: referendum, initiative, recall, plebiscite. Manifested in universal adult franchise, periodic elections, rule of law, independent judiciary, non-discrimination. Broader sense includes social and economic democracy. Ambedkar, **25 November 1949**: liberty, equality, fraternity as a **union of trinity**.
 - **Republic** - elected head for a fixed term (President, indirectly elected, five years); political sovereignty in the people; no privileged class; offices open to all. Arts 52-62, Art 18.
 - **Justice** - social, economic, political. Social plus economic = **distributive justice**. From the **Russian Revolution, 1917**.

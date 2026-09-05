@@ -32,16 +32,18 @@ it; cannot deal with court-martial sentences, unlike the President).
 
 ## Constitutional position & discretion ⭐
 ✅ **Nominal executive** (Art 154, 163, 164). Unlike the President, (a) the Governor **can act in discretion**,
-and (b) **ministerial advice is NOT expressly binding** on him (no equivalent of the 42nd Amdt proviso).
+and (b) Article 163 lacks Article 74's equivalent express binding-advice command. ⚠️ This does **not** create
+general personal discretion: *Shamsher Singh* (1974) makes aid and advice the default.
 | **Constitutional (express) discretion** | **Situational (implied) discretion** |
 |---|---|
 | ✅ Reserving a bill for the President (Art 200) | ✅ Appointing CM in a hung Assembly / on sudden death |
 | ✅ Recommending President's Rule | ✅ Dismissing a CoM that has lost confidence |
 | ✅ Functions as UT administrator (additional charge) | ✅ Dissolving the Assembly if CoM lost majority |
-| ✅ Sixth Schedule tribal royalty (Assam etc.) | |
+| ✅ Article 371A/371H and specified Sixth Schedule responsibilities | |
 
-✅ **Dual role:** constitutional head of the state **and** the Centre's representative — the structural source
-of Centre-state friction.
+⚠️ **Federal duality:** the Governor is the constitutional head of the State but is appointed by the President
+and serves during presidential pleasure. “Centre's representative” is analytical shorthand, not legal authority
+to obey partisan Union directions.
 
 ---
 
@@ -51,12 +53,16 @@ of Centre-state friction.
 **non-MLA CM allowed 6 months**; may be from **either House**. Holds office during Governor's pleasure but
 **can't be dismissed while he holds a majority**.
 
+✅ *B.P. Singhal v. Union of India* (2010): Article 156 pleasure does not permit arbitrary, capricious,
+unreasonable or mala fide removal. The Union need not routinely disclose reasons, but must justify the action
+if a prima facie case of arbitrariness is established.
+
 ## Powers
 ✅ **CoM:** recommends ministers, allocates/reshuffles portfolios, presides over CoM; his resignation/death
 **dissolves the whole CoM**. **Governor:** principal channel of communication (**Art 167**); advises on key
-appointments. **Legislature:** advises summoning/dissolution; announces policies. **Other:** chairs State
-Planning Board; vice-chairman of the **zonal council** (by rotation); member of **Inter-State Council** &
-**NITI Aayog Governing Council**.
+appointments. **Legislature:** advises summoning/dissolution; announces policies. **Other:** member of the
+**Inter-State Council** and **NITI Aayog Governing Council**; a State's planning-board arrangements vary.
+Chief Ministers serve as Zonal Council vice-chairpersons by annual rotation.
 
 ---
 

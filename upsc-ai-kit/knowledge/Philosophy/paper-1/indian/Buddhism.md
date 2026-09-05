@@ -2,22 +2,27 @@
 
 > **Syllabus (verbatim):** Schools of Buddhism : Prat Ityasamutpada; Ksanikavada, Nairatmyavada.
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested/uncertain
-> **Placement:** A compact syllabus clause with very high conceptual density. UPSC repeatedly uses Buddhism to test causation, self, continuity, liberation, and inter-school differences across Hīnayāna and Mahāyāna.
+> **Placement:** A compact syllabus clause with very high conceptual density. UPSC repeatedly uses Buddhism to test causation, self, continuity, liberation, and differences among Buddhist philosophical schools. The historically loaded label Hīnayāna is used below only when explaining older textbook or doxographic classifications; it is not treated as a synonym for Theravāda.
 
 ## 0. ONE-SCREEN MAP
 
 ```text
 FOUR NOBLE TRUTHS = existential frame
     │
-    ├─ duḥkha has a cause → dependent origination (pratītyasamutpāda)
+    ├─ suffering (duḥkha) has a cause → dependent origination (pratītyasamutpāda)
     │        │
     │        ├─ whatever arises dependently lacks self-existence (svabhāva)
     │        ├─ whatever is conditioned is impermanent
     │        └─ what is called "person" is only a dependently arisen aggregate
     │
-    ├─ KṢAṆIKAVĀDA: all conditioned reals are momentary
-    ├─ NAIRĀTMYAVĀDA: no permanent ātman/self
-    └─ NIRVĀṆA: cessation of the causal process of suffering
+    ├─ MIDDLE PATH (madhyamā pratipad; Pali: majjhimā paṭipadā)
+    │        ├─ practical: avoids sensual indulgence and self-mortification
+    │        ├─ path: Noble Eightfold Path (āryāṣṭāṅgamārga)
+    │        └─ doctrinal: avoids eternalism and annihilationism
+    │
+    ├─ MOMENTARINESS (kṣaṇikavāda): all conditioned reals are momentary
+    ├─ NO-SELF (nairātmyavāda): no permanent self (ātman)
+    └─ CESSATION OF SUFFERING (nirvāṇa): the suffering-producing process ends
 
 FOUR SCHOOLS
 Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Śūnyavāda
@@ -26,38 +31,138 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 > ⚠️ **Exam key:** In Buddhism, the three syllabus terms are not separate islands. Dependent origination yields impermanence; impermanence undermines substantial selfhood; no-self reshapes karma, rebirth and nirvāṇa.
 
-## 1. PRATĪTYASAMUTPĀDA (Pratityasamutpada) — DEPENDENT ORIGINATION
+## 0A. HISTORICAL-DOCTRINAL ORIENTATION: EARLY BUDDHISM, THERAVĀDA, THE HĪNAYĀNA LABEL AND MAHĀYĀNA
+
+> ✅ **Why this orientation is marks-essential:** The official Philosophy syllabus directly names the philosophical schools and the doctrines of dependent origination, momentariness and no-self. It does not print a separate tradition-history clause. Yet a candidate cannot place Vaibhāṣika, Sautrāntika, Yogācāra and Mādhyamika accurately without distinguishing early Buddhism, Theravāda, the historically loaded Hīnayāna label and Mahāyāna.
+
+### 0A.1 The broad traditions are not four interchangeable school names
+
+| Orientation category | Historically careful description | Exam-safe caution |
+|---|---|---|
+| **Early Buddhism** | The earliest recoverable discourse and discipline traditions before the later philosophical systems became fully differentiated. The Four Noble Truths, Middle Path, dependent origination, impermanence and no-self form the common diagnostic core. | Do not identify early Buddhism exclusively with any one later school. Early discourses survive in more than one recension, especially the Pāli Nikāyas and parallel Chinese Āgamas, with additional fragmentary witnesses. |
+| **Theravāda** | The surviving “Teaching of the Elders” tradition, with the Pāli Tipiṭaka and its own Abhidhamma and commentarial history. It centrally honours the liberated saint or arhat (Pali: arahant) ideal. | Theravāda is one historical school and living tradition, not the name for every early or non-Mahāyāna school. |
+| **Historically loaded “Lesser Vehicle” label (Hīnayāna)** | A Mahāyāna-origin classificatory and often polemical label applied to non-Mahāyāna or disciple-vehicle traditions. It was not their shared self-designation. Older Indian-philosophy textbooks often retain it as a broad doxographic category. | Do not casually equate Hīnayāna with Theravāda. In a modern answer, either avoid the label or place it in quotation marks and explain its historical use. |
+| **Mahāyāna** | A diverse “Great Vehicle” family of texts, practices and philosophies that foregrounds the bodhisattva path, complete Buddhahood for the benefit of beings, compassion and wisdom. Yogācāra and Mādhyamika are its two major philosophical formations in the standard four-school scheme. | Mahāyāna is not one uniform doctrine, and its bodhisattva orientation should not be turned into a crude contrast between “selfish” arhats and “altruistic” bodhisattvas. |
+
+### 0A.2 Liberated-saint and awakening-being ideals
+
+- ✅ The **liberated saint ideal (arhat; Pali: arahant)** is central to early disciple traditions and Theravāda: the practitioner follows the Buddha's path and extinguishes the causes of rebirth and suffering.
+- ✅ The **awakening-being ideal (bodhisattva)** is foregrounded by Mahāyāna: the practitioner cultivates wisdom and compassion toward complete Buddhahood for the benefit of all beings.
+- ⚠️ “The bodhisattva simply postpones nirvāṇa” is an oversimplification. The stronger formulation is that the bodhisattva does not treat arhatship as the final aim but follows the longer path to complete Buddhahood.
+- ⚠️ The contrast identifies dominant normative ideals, not mutually exclusive vocabulary. Theravāda recognizes the bodhisatta career of a future Buddha, while Mahāyāna texts still know the arhat category.
+
+### 0A.3 How the four philosophical schools map — and do not map — onto the traditions
+
+| Philosophical school in the standard textbook matrix | Broad historical placement | What must not be inferred |
+|---|---|---|
+| **Vaibhāṣika** | A Sarvāstivāda Abhidharma formation, especially associated with the Kashmir *Mahāvibhāṣā* tradition; non-Mahāyāna / disciple-vehicle in the older classification. | It is not a branch of Theravāda merely because an older chart places both outside Mahāyāna. |
+| **Sautrāntika** | A critical current in the Sarvāstivāda orbit that privileges sūtra reasoning over Vaibhāṣika Abhidharma claims; non-Mahāyāna / disciple-vehicle in the older classification. | It is not identical with Theravāda and need not be treated as one perfectly unified monastic institution. |
+| **Yogācāra** | A major Mahāyāna philosophical tradition centred on consciousness-only or representation-only analysis, the three natures and, in important formulations, store-consciousness. | “Mahāyāna” is wider than Yogācāra, and consciousness-only must not be reduced to arbitrary private fantasy. |
+| **Mādhyamika** | A major Mahāyāna philosophical tradition that develops emptiness, dependent designation and the two truths. | “Mahāyāna” is wider than Mādhyamika, and emptiness is not sheer non-being. |
+
+> 🔑 **Exam-safe mapping:** Vaibhāṣika and Sautrāntika are non-Mahāyāna scholastic positions associated with the Sarvāstivāda world; Yogācāra and Mādhyamika are Mahāyāna philosophical traditions. The fourfold scheme is a philosophical teaching matrix used by Indian and Tibetan doxographies, not a complete institutional history of Buddhism.
+
+### 0A.4 Canon and language — use only the accurate minimum
+
+- ✅ Theravāda preserves the **Pāli Tipiṭaka**: discipline basket (Vinaya Piṭaka), discourse basket (Sutta Piṭaka) and higher-teaching basket (Abhidhamma Piṭaka).
+- ✅ Early Buddhist discourse is not historically reducible to “Pāli Buddhism.” Parallel early materials also survive in Chinese Āgamas and in Sanskrit or other fragmentary witnesses.
+- ✅ Sarvāstivāda, Vaibhāṣika and Sautrāntika materials are substantially preserved through Sanskrit, Chinese and Tibetan textual histories; they do not share the Theravāda Pāli canon.
+- ✅ Many Mahāyāna sūtras and treatises were transmitted in Sanskrit or Buddhist Hybrid Sanskrit and through Chinese and Tibetan translations. “Mahāyāna equals Sanskrit” is therefore only a broad orientation, not an exhaustive linguistic rule.
+
+## 0B. CANONICAL OWNERSHIP AND ANSWER-WORTHINESS
+
+- **Marks-essential owner content:** the Four Noble Truths; both senses of the Middle Path; Noble Eightfold Path; three marks; dependent origination and the twelve links; momentariness; causal continuum, memory and karma; no-self, five aggregates, Puggalavāda foil and nirvāṇa; the four philosophical schools; all 13 routed PYQs; objections, replies and answer architecture.
+- **Core supporting depth:** Buddhist epistemology only where it explains causal efficacy, momentary particulars, Yogācāra, inference, exclusion theory or the 2025 cross-school means-of-knowledge debate.
+- **Optional enrichment / cross-owner content:** detailed Prāsaṅgika–Svātantrika disputes, controlled Western comparisons and Buddhist arguments against a creator God. Positive proofs of God and philosophy-of-religion treatment remain owned by the linked Nyāya–Vaiśeṣika and Paper II files.
+
+## 1. DEPENDENT ORIGINATION (pratītyasamutpāda)
 
 ### 1.1 Statement
 
-- ✅ **Pratītyasamutpāda** means dependent origination: whatever arises, arises depending on causes and conditions; whatever ceases, ceases when those conditions cease.
+- ✅ **Dependent origination (pratītyasamutpāda)** means that whatever arises, arises depending on causes and conditions; whatever ceases, ceases when those conditions cease.
 - ✅ The standard formula, in substance, is: **"imasmiṃ sati idaṃ hoti; imass' uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati"** — this being, that becomes; from the arising of this, that arises; this not being, that is not; from the cessation of this, that ceases.
 - ✅ It is not merely a cosmological thesis. It is the key to the arising of **duḥkha** and therefore the key to its cessation.
 
 ### 1.2 The Four Noble Truths as the frame
 
-- ✅ Buddhism states the problem first: **duḥkha**.
-- ✅ It then identifies a causal structure: duḥkha has an origin.
+- ✅ Buddhism states the problem first: **suffering (duḥkha)**.
+- ✅ It then identifies a causal structure: suffering has an origin.
 - ✅ Because the origin is conditioned, it can cease.
 - ✅ Therefore a path is possible.
 - ⚠️ So dependent origination is the philosophical grammar of the Four Noble Truths. The first truth states the fact of suffering; the second gives its dependent arising; the third gives dependent cessation; the fourth is the practical discipline for breaking the chain.
 
-### 1.3 The twelve nidānas in order
+### 1.2A The Middle Path (madhyamā pratipad; Pali: majjhimā paṭipadā)
 
-- ✅ The classical chain of dependent origination is expressed through the **dvādaśa-nidāna** sequence:
-  1. **avidyā** — ignorance
-  2. **saṃskāra** — formations/dispositions
-  3. **vijñāna** — consciousness
-  4. **nāma-rūpa** — name-and-form
-  5. **ṣaḍāyatana** — six sense-bases
-  6. **sparśa** — contact
-  7. **vedanā** — feeling
-  8. **tṛṣṇā** — craving
-  9. **upādāna** — clinging/grasping
-  10. **bhava** — becoming/existence
-  11. **jāti** — birth
-  12. **jarā-maraṇa** — old age and death
+#### Practical meaning
+
+- ✅ In the Buddha's first-sermon framework, the Middle Path rejects two practical extremes:
+  sensual indulgence and self-mortification. It is not an average compromise between them; it is
+  a disciplined route that avoids the defects of both.
+- ✅ Its positive content is the **Noble Eightfold Path (āryāṣṭāṅgamārga)**:
+
+| Training | English-first path factors |
+|---|---|
+| Wisdom (prajñā) | right view (samyag-dṛṣṭi); right intention (samyak-saṃkalpa) |
+| Ethical discipline (śīla) | right speech (samyag-vāc); right action (samyak-karmānta); right livelihood (samyag-ājīva) |
+| Meditative discipline (samādhi) | right effort (samyag-vyāyāma); right mindfulness (samyak-smṛti); right concentration (samyak-samādhi) |
+
+- ✅ The path operationalises the fourth Noble Truth: because suffering arises conditionally,
+  disciplined changes in understanding, conduct and attention can interrupt its causes.
+
+#### Doctrinal meaning
+
+- ✅ At the metaphysical level, dependent origination is a middle between eternalism
+  (śāśvatavāda) and annihilationism (ucchedavāda). Buddhism denies an unchanging substance or
+  self without reducing causal continuity, karma and liberation to sheer nothingness.
+- ⚠️ The practical and doctrinal senses reinforce each other. The path avoids harmful modes of
+  living, while dependent origination avoids harmful extremes of metaphysical grasping.
+
+#### Exam use
+
+- ⚠️ In an answer on dependent origination, no-self, momentariness or liberation, use the Middle
+  Path as the bridge: conditioned continuity explains how Buddhism can reject permanence without
+  rejecting causation, responsibility or the possibility of release.
+- ❌ Do not define the Middle Path merely as moderation. Its examinable content is the Noble
+  Eightfold Path plus the philosophical avoidance of eternalism and annihilationism.
+
+### 1.2B The three marks (trilakṣaṇa; Pali: tilakkhaṇa)
+
+| English-first mark | Doctrinal meaning | Relation to the syllabus |
+|---|---|---|
+| **Impermanence (anitya; Pali: anicca)** | All conditioned formations arise, alter and cease. | Supplies the foundation that later Buddhist logicians radicalize into momentariness (kṣaṇikavāda). |
+| **Suffering or unsatisfactoriness (duḥkha; Pali: dukkha)** | What is impermanent and appropriated as “mine” cannot provide secure satisfaction. | Connects metaphysics to the first Noble Truth and to the diagnosis of craving. |
+| **No-self (anātman; Pali: anattā)** | No permanent, independent owner can be found in the changing aggregates or conditioned processes. | Directly prepares the printed no-self doctrine (nairātmyavāda). |
+
+- ✅ The three marks connect diagnosis and liberation: insight sees conditioned phenomena as impermanent, unsatisfactory when grasped, and not-self.
+- ⚠️ **Historical caution:** impermanence is the early teaching; the universal one-moment thesis of momentariness is a stronger later scholastic development. Do not present the two formulations as verbally identical.
+- ⚠️ **Scope caution:** the standard formula applies impermanence and suffering to conditioned formations, whereas not-self is used more widely. Do not infer that cessation of conditioned suffering (nirvāṇa), classified as unconditioned in important Buddhist traditions, is just another momentary conditioned event.
+
+### 1.3 The twelve links (dvādaśa-nidāna) in order
+
+- ✅ The classical chain of dependent origination is expressed through the **twelve-link sequence (dvādaśa-nidāna)**:
+  1. ignorance (**avidyā**)
+  2. formations or dispositions (**saṃskāra**)
+  3. consciousness (**vijñāna**)
+  4. name-and-form (**nāma-rūpa**)
+  5. six sense-bases (**ṣaḍāyatana**)
+  6. contact (**sparśa**)
+  7. feeling (**vedanā**)
+  8. craving (**tṛṣṇā**)
+  9. clinging or grasping (**upādāna**)
+  10. becoming or existence (**bhava**)
+  11. birth (**jāti**)
+  12. old age and death (**jarā-maraṇa**)
 - ✅ In visual Buddhist pedagogy, this sequence is often represented through the **bhava-cakra** (wheel of becoming), showing how ignorance and craving keep cyclic existence in motion.
+
+### 1.3A Three exam-useful interpretations of the twelve links
+
+| Interpretation | How it reads the chain | Caution |
+|---|---|---|
+| **Three-life pedagogic reading** | Past causes: ignorance and formations; present results: consciousness through feeling; present causes: craving, clinging and becoming; future results: birth, ageing and death. | This common Abhidharma and textbook arrangement explains rebirth and karmic continuity, but it is not the only legitimate reading. |
+| **Present-process or psychological reading** | In each lived episode, ignorance conditions habitual construction, consciousness and name-and-form organize experience, contact and feeling arise, and craving turns feeling into appropriation and renewed becoming. | “Psychological” does not mean merely private or imaginary; the point is the conditioned construction of suffering here and now. |
+| **Structural and soteriological reading** | The chain identifies the conditions that maintain suffering and can be read forward as arising and in reverse as cessation. It diagnoses a pattern, not an absolutely first cause. | Early formulations vary in order and number before the twelve-link list becomes standard; do not force every occurrence into one rigid linear chronology. |
+
+- ⚠️ **Answer use:** State the standard twelve-link sequence, then add one sentence that the three-life model explains rebirth while the present-process model shows why dependent origination is immediately practical.
 
 ### 1.4 Argument structure
 
@@ -75,8 +180,8 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 ### 1.6 Distinction: middle way between extremes
 
 - ✅ Buddhism presents dependent origination as the **middle way** between:
-  - **śāśvatavāda** — eternalism: some enduring self/substance exists unchanged.
-  - **ucchedavāda** — annihilationism: things are sheer nullities or persons are simply obliterated without causal continuity.
+  - eternalism (**śāśvatavāda**): some enduring self or substance exists unchanged.
+  - annihilationism (**ucchedavāda**): things are sheer nullities or persons are simply obliterated without causal continuity.
 - ⚠️ Why is this a middle? Because Buddhism denies permanent substance, yet it also denies that phenomena are sheer nothing. What exists does so dependently.
 
 ### 1.7 Example
@@ -95,10 +200,10 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 ### 1.10 How momentariness follows from dependent origination
 
 - ✅ What depends on conditions cannot remain numerically identical through all times, because it changes with the rise and fall of those conditions.
-- ✅ Therefore what is conditioned is **anitya** (impermanent); Buddhist logicians radicalize this into **kṣaṇikavāda**, according to which what is real is momentary.
+- ✅ Therefore what is conditioned is **impermanent (anitya)**; Buddhist logicians radicalize this into **momentariness (kṣaṇikavāda)**, according to which what is real is momentary.
 - ⚠️ Thus a 2019-style answer can move from pratītyasamutpāda to kṣaṇikavāda by arguing: the dependently arisen has no independent enduring essence; it is event-like, not substance-like.
 
-### 1.11 How 2024's "everything is void" and "everything is real" both arise from pratītyasamutpāda
+### 1.11 How 2024's "everything is void" and "everything is real" both arise from dependent origination (pratītyasamutpāda)
 
 #### (a) Mādhyamika: dependent origination implies emptiness
 
@@ -126,11 +231,11 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ✅ Ignorance of dependent origination is bondage; insight into it is release.
 - ⚠️ Therefore the 2023 question — ignorance of dependent origination is suffering while its knowledge is cessation — should be answered not as a mere epistemic slogan, but as a claim that wrong metaphysical grasping fuels craving and hence suffering.
 
-## 2. KṢAṆIKAVĀDA (Ksanikavada) — DOCTRINE OF MOMENTARINESS
+## 2. MOMENTARINESS (kṣaṇikavāda)
 
 ### 2.1 Statement
 
-- ✅ **Kṣaṇikavāda** holds that whatever is real is momentary.
+- ✅ **Momentariness (kṣaṇikavāda)** holds that whatever is real is momentary.
 - ✅ A standard scholastic formulation runs in substance as: **whatever is truly real is momentary** (*sattve satyeva kṣaṇikatvam*).
 - ⚠️ The doctrine is not that nothing exists; it is that reality is evental rather than substantial.
 
@@ -138,8 +243,8 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 #### Statement
 
-- ✅ **Arthakriyākāritva** (causal efficacy / capacity to perform a function) is the Buddhist pramāṇa-school criterion of the real: **sat = arthakriyā-samartha** — the real is what is capable of producing an effect.
-- ✅ **Kṣaṇikavāda** follows because whatever is causally effective must be moment-specific; a wholly permanent entity cannot explain why an effect appears now rather than always.
+- ✅ **Causal efficacy (arthakriyākāritva)**, the capacity to perform a function, is the Buddhist means-of-knowledge school's criterion of the real: **sat = arthakriyā-samartha** — the real is what is capable of producing an effect.
+- ✅ **Momentariness (kṣaṇikavāda)** follows because whatever is causally effective must be moment-specific; a wholly permanent entity cannot explain why an effect appears now rather than always.
 - ⚠️ This is the bridge between Buddhist epistemology and ontology: the same test that ranks **svalakṣaṇa** (unique particular) as ultimately real also grounds the thesis **yat sat tat kṣaṇikam** — whatever is real is momentary.
 
 #### Argument
@@ -187,7 +292,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ✅ The very nature of the conditioned is to perish; arising already contains ceasing.
 - ⚠️ Hence things are not first fully stable entities and later destroyed; their transience belongs to what they are.
 
-### 2.4 Apparent continuity: santāna
+### 2.4 Apparent continuity: causal continuum (santāna)
 
 - ✅ If everything is momentary, why does the world look continuous?
 - ✅ Buddhism answers through **santāna** — a causal series or stream.
@@ -211,7 +316,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 - ⚠️ The Buddhist answer is deliberately middle-path: the later subject is neither strictly the same nor wholly other than the earlier one.
 
-### 2.6 Karma without a self (2022)
+### 2.6 Action and moral consequence (karma) without a permanent self (2022)
 
 #### Problem
 
@@ -227,7 +332,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 - ⚠️ One lamp lights another. The second flame is not numerically the first, yet it is causally connected to it. Rebirth and karmic fruition are often explained analogically in this way.
 
-### 2.8 Objection — Nyāya pratyabhijñā argument
+### 2.8 Objection — Nyāya recognition (pratyabhijñā) argument
 
 - ❓ Recognition such as "this is the same person I met before" appears to require enduring identity, not merely stream-likeness.
 
@@ -236,21 +341,21 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ✅ Buddhism can say recognition tracks practical continuity and similarity within a series, not metaphysical identity of a substance.
 - ⚠️ The language of sameness belongs to conventional truth; ultimate analysis reveals only a flow of conditioned moments.
 
-## 3. NAIRĀTMYAVĀDA (Nairatmyavada) — NO-SELF DOCTRINE
+## 3. NO-SELF (nairātmyavāda; anātmavāda)
 
 ### 3.1 Statement
 
-- ✅ **Nairātmyavāda** or **anātmavāda** denies a permanent, unchanging ātman behind experience.
+- ✅ **No-self (nairātmyavāda; anātmavāda)** denies a permanent, unchanging self (ātman) behind experience.
 - ✅ What is conventionally called a person is only an aggregate of changing factors.
 
-### 3.2 The five skandhas
+### 3.2 The five aggregates (skandhas)
 
 - ✅ The person is analysed into five **skandhas**:
-  1. **rūpa** — form/material body
-  2. **vedanā** — feeling/sensation
-  3. **saṃjñā** — perception/recognition
-  4. **saṃskāra** — dispositions/formations
-  5. **vijñāna** — consciousness
+  1. form or material body (**rūpa**)
+  2. feeling or sensation (**vedanā**)
+  3. perception or recognition (**saṃjñā**)
+  4. dispositions or formations (**saṃskāra**)
+  5. consciousness (**vijñāna**)
 - ⚠️ The philosophical force of the doctrine lies in exhaustive analysis: if what we call self reduces to these aggregates and no extra owner is found, the self is a conceptual imputation, not an independently real substance.
 
 ### 3.3 Chariot analogy (Milinda-pañha)
@@ -259,37 +364,38 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ✅ Likewise, "person" is a conventional designation for the aggregate of skandhas.
 - ⚠️ The point is not that the person is uselessly unreal. It is that the person is conventionally valid but not ultimately self-subsistent.
 
-### 3.4 Pudgala-nairātmya and dharma-nairātmya (2021)
+### 3.4 Personal no-self (pudgala-nairātmya) and phenomenon no-self (dharma-nairātmya) (2021)
 
-#### Pudgala-nairātmya
+#### Personal no-self (pudgala-nairātmya)
 
 - ✅ Denial of a permanent personal self (**pudgala**, person).
 - ✅ This is the minimum no-self thesis common to Buddhism.
 
-#### Dharma-nairātmya
+#### Phenomenon no-self (dharma-nairātmya)
 
 - ✅ Denial that even dharmas possess intrinsic self-nature.
 - ✅ This is developed most strongly in Mahāyāna, especially Mādhyamika.
 
 #### School difference
 
-- ✅ **Hīnayāna / early realist schools:** primarily affirm **pudgala-nairātmya**; dharmas are treated as real.
-- ✅ **Mahāyāna:** affirms both **pudgala-nairātmya** and **dharma-nairātmya**; neither person nor dharma has svabhāva.
+- ✅ Early Buddhism and non-Mahāyāna Abhidharma traditions share the denial of a permanent personal self. Several realist Abhidharma schools nevertheless treat dharmas as ultimately real.
+- ✅ Mahāyāna, especially Mādhyamika, develops the denial of intrinsic nature in dharmas themselves.
+- ⚠️ This is a difference of philosophical scope, not permission to equate Theravāda with the historically loaded Hīnayāna label.
 
 #### Distinction table
 
 | Thesis | What is denied | Who strongly stresses it |
 |---|---|---|
-| Pudgala-nairātmya | enduring person/self | all Buddhism |
-| Dharma-nairātmya | intrinsic nature of dharmas | Mahāyāna, especially Mādhyamika |
+| Personal no-self (pudgala-nairātmya) | enduring person/self | shared across Buddhist traditions |
+| Phenomenon no-self (dharma-nairātmya) | intrinsic nature of dharmas | developed emphatically in Mahāyāna, especially Mādhyamika |
 
-### 3.5 The Puggalavāda foil
+### 3.5 The Buddhist person-theory foil (Puggalavāda)
 
 - ✅ Some Buddhist groups, often associated with the **Vātsīputrīyas**, proposed a **pudgala** that is neither the same as nor different from the skandhas.
 - ✅ Mainstream Buddhists criticized this as a relapse toward self-theory.
 - ⚠️ In answers, use Puggalavāda as a foil: it shows that the pressure to preserve moral continuity was real, but orthodox Buddhist thought refused to answer it by reintroducing a substantial person.
 
-### 3.6 Triratna and no-self (2022)
+### 3.6 The Three Jewels (Triratna) and no-self (2022)
 
 #### Problem
 
@@ -301,13 +407,13 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ✅ Ethical and spiritual practice proceeds at the level of conventional truth without requiring metaphysical ātman.
 - ⚠️ Thus anātman does not abolish discipline; it purifies it of ego-metaphysics.
 
-### 3.7 Nirvāṇa
+### 3.7 Cessation of conditioned suffering (nirvāṇa)
 
-- ✅ **Nirvāṇa** is the cessation of suffering and the extinguishing of the three fires: **rāga** (attachment), **dveṣa** (aversion), and **moha** (delusion).
+- ✅ **Cessation of conditioned suffering (nirvāṇa)** extinguishes the three fires: attachment (**rāga**), aversion (**dveṣa**) and delusion (**moha**).
 - ✅ It is not best understood as a substantial place or eternal self-state gained by an entity.
 - ⚠️ It is the cessation of the very process that produces bondage.
 
-### 3.8 Is nirvāṇa consistent with kṣaṇikavāda and nairātmyavāda? (2025)
+### 3.8 Is cessation of conditioned suffering (nirvāṇa) consistent with momentariness (kṣaṇikavāda) and no-self (nairātmyavāda)? (2025)
 
 #### Objection — Śaṃkara-type Advaita and Nyāya realist
 
@@ -323,28 +429,33 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 #### Theravāda and Mahāyāna nuance
 
-- ✅ **Theravāda:** emphasizes individual **nibbāna** and the arhat ideal.
-- ✅ **Mahāyāna:** emphasizes the bodhisattva ideal and universal liberation.
+- ✅ **Theravāda:** foregrounds the arhat (Pali: arahant) ideal and describes cessation of suffering as nibbāna; important Theravāda classifications treat nibbāna as unconditioned, without making it the state of an eternal self.
+- ✅ **Mahāyāna:** foregrounds the bodhisattva path toward complete Buddhahood for the benefit of all beings.
+- ⚠️ Do not reproduce the old polemical caricature that arhatship is simply selfish or that the bodhisattva ideal is merely delayed personal salvation.
 - ✅ In Nāgārjuna's radical language, **saṃsāra and nirvāṇa are not two independent realms**; the difference lies in how dependent reality is grasped.
 
 ## 4. THE FOUR SCHOOLS OF BUDDHISM
 
-### 4.1 Vaibhāṣika
+> ✅ **Taxonomy control:** This is the standard four-position philosophical matrix used in Indian-philosophy textbooks. It is not a complete history of Buddhist institutions. Vaibhāṣika and Sautrāntika belong to the Sarvāstivāda-related non-Mahāyāna scholastic world and must not be relabelled as Theravāda; Yogācāra and Mādhyamika are Mahāyāna philosophical traditions.
 
-- ✅ Usually associated with **Sarvāstivāda** realism.
+### 4.1 Vaibhāṣika direct realism
+
+- ✅ Usually associated with **Sarvāstivāda** realism, especially the Kashmir *Mahāvibhāṣā* tradition.
 - ✅ Holds **bāhya-pratyakṣa-vāda**: external objects are directly perceived.
 - ✅ Affirms **sarvam asti** in the technical sense that dharmas of past, present and future have some mode of existence.
+- ⚠️ The doctrine does not mean that all three times are causally active in exactly the same way; present dharmas have the distinctive present efficacy.
 
 #### Philosophical significance
 
 - ⚠️ Vaibhāṣika preserves Buddhist anti-self doctrine while still maintaining a robust realism about dharmas.
 - ⚠️ It is therefore a useful contrast both to Yogācāra idealism and to Mādhyamika anti-essentialism.
 
-### 4.2 Sautrāntika
+### 4.2 Sautrāntika representational realism
 
 - ✅ Holds **bāhyānumeya-vāda**: external objects exist, but are known only inferentially through mental representations.
 - ✅ Rejects the Sarvāstivāda thesis that past and future dharmas exist in the same sense as present ones.
 - ✅ Strongly privileges the present moment.
+- ⚠️ Historically, “Sautrāntika” can designate critical currents rather than one simple institutional school; the exam-relevant doxographic contrast is its appeal to sūtra and inferred external objects against Vaibhāṣika direct realism.
 
 #### Distinction from Vaibhāṣika
 
@@ -354,38 +465,39 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 | How known | directly perceived | inferentially known via representation |
 | Temporal ontology | past-present-future dharmas exist | only present dharmas fully exist |
 
-### 4.3 Yogācāra / Vijñānavāda
+### 4.3 Consciousness-only Yogācāra / Vijñānavāda
 
 #### Statement
 
-- ✅ Yogācāra advances **vijñaptimātra** or consciousness-only.
+- ✅ Yogācāra advances **consciousness-only or representation-only (vijñaptimātra)**.
 - ✅ What appears as external object is inseparable from modes of consciousness.
 
-#### Key doctrine: ālaya-vijñāna
+#### Key doctrine: store-consciousness (ālaya-vijñāna)
 
-- ✅ The **ālaya-vijñāna** (store-consciousness) preserves karmic seeds (**bījas**), explaining continuity, memory and rebirth without a permanent self.
+- ✅ **Store-consciousness (ālaya-vijñāna)** preserves karmic seeds (**bījas**), explaining continuity, memory and rebirth without a permanent self.
+- ⚠️ Store-consciousness is a conditioned, transforming stream, not an eternal ātman in disguise.
 
 #### Arguments against external realism
 
 1. ✅ **Dream argument:** dream-objects are vividly experienced despite lacking corresponding external objects; therefore experienced objecthood does not prove external independent matter.
 2. ✅ **Atom critique:** if atoms are partless, they cannot combine spatially; if they have parts, they are not ultimate atoms. Hence external atomism is unstable.
 
-#### Tri-svabhāva (three natures)
+#### Three natures (tri-svabhāva)
 
-- ✅ **parikalpita-svabhāva** — imagined nature
-- ✅ **paratantra-svabhāva** — dependent nature
-- ✅ **pariniṣpanna-svabhāva** — perfected/consummate nature
+- ✅ imagined nature (**parikalpita-svabhāva**)
+- ✅ dependent nature (**paratantra-svabhāva**)
+- ✅ perfected or consummate nature (**pariniṣpanna-svabhāva**)
 - ⚠️ These explain how deluded objectification arises and how it is overcome.
 
-### 4.4 Mādhyamika / Śūnyavāda
+### 4.4 Emptiness-centred Mādhyamika / Śūnyavāda
 
 #### Statement
 
 - ✅ Associated especially with **Nāgārjuna**.
-- ✅ The central thesis is **śūnyatā** (emptiness): absence of **svabhāva** (intrinsic nature / own-being), not sheer nothingness.
+- ✅ The central thesis is **emptiness (śūnyatā)**: absence of **intrinsic nature or own-being (svabhāva)**, not sheer nothingness.
 - ✅ In substance, Nāgārjuna identifies dependent origination and emptiness: what is dependently arisen is empty of independent essence.
 
-#### Catuṣkoṭi — the four corners
+#### Four-cornered analysis (catuṣkoṭi)
 
 | Corner | Sanskrit | ✅ Basic claim |
 |---|---|---|
@@ -430,7 +542,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ⚠️ Whether this reply fully succeeds is genuinely debated.
 - ❓ The **Prāsaṅgika / Svātantrika** split marks this debate internally: **Candrakīrti** is associated with using reductio (**prasaṅga**) without independent syllogisms, while **Bhāvaviveka** allows independent (**svatantra**) inferences in debate.
 
-#### Śūnyatā is not nihilism
+#### Emptiness (śūnyatā) is not nihilism
 
 - ✅ To say things are empty is to say they lack **svabhāva**.
 - ✅ It is not to say they are absent in every sense.
@@ -438,7 +550,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ⚠️ Emptiness undercuts metaphysical grasping, not dependent functioning.
 
 
-## 5. BUDDHIST ARGUMENTS AGAINST A CREATOR GOD
+## 5. OPTIONAL CROSS-PAPER ENRICHMENT — BUDDHIST ARGUMENTS AGAINST A CREATOR GOD
 
 > ⚠️ This is a cross-paper theme and should be linked with [Proofs for God](../../paper-2/philosophy-of-religion/Proofs-for-God.md) and [Religion without God](../../paper-2/philosophy-of-religion/Religion-without-God.md).
 
@@ -471,7 +583,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ⚠️ Therefore both reject an eternal ātman, but for very different reasons and with very different moral-metaphysical consequences.
 
 
-### 6.2 Internal Buddhist pūrvapakṣa chain — how the four schools answer one another
+### 6.2 Internal Buddhist opponent-position (pūrvapakṣa) chain — how the four schools answer one another
 
 | Stage | ✅ Siddhānta claimed | ⚠️ Becomes pūrvapakṣa for | ✅ Next Buddhist reply |
 |---|---|---|---|
@@ -483,7 +595,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ⚠️ **Exam payoff:** for “Schools of Buddhism”, do not list four schools mechanically. Present them as an argumentative escalation: realism of dharmas → presentist representationalism → idealist consciousness-only → anti-essentialist emptiness.
 
 
-## 7. CRITICISMS AND REPLIES — NAMED PŪRVAPAKṢA
+## 7. CRITICISMS AND REPLIES — NAMED OPPONENT POSITIONS (PŪRVAPAKṢA)
 
 ### 7.1 Nyāya criticism: memory, recognition and moral desert require a permanent self
 
@@ -628,11 +740,11 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 <!-- expanded-pyq-depth:end -->
 
 
-## 9A. BUDDHIST EPISTEMOLOGY — THE PRAMĀṆA SCHOOL (Dignāga, Dharmakīrti)
+## 9A. CORE SUPPORTING DEPTH — BUDDHIST MEANS-OF-KNOWLEDGE (PRAMĀṆA) SCHOOL
 
 > ⚠️ **Why this matters for UPSC:** Buddhist epistemology is not an isolated logic chapter. It translates **nairātmyavāda** and **kṣaṇikavāda** into a theory of knowledge, language and debate.
 
-### 9A.1 Two-pramāṇa thesis
+### 9A.1 Two means of valid knowledge (pramāṇa)
 
 #### Statement
 
@@ -660,7 +772,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 | Testimony | ✅ reducible to inference from reliable signs / speaker-function | ✅ independent pramāṇa |
 | Universals | ✅ conceptual constructions | ✅ real universals inhering in particulars |
 
-### 9A.2 Svalakṣaṇa and sāmānyalakṣaṇa
+### 9A.2 Unique particular (svalakṣaṇa) and general character (sāmānyalakṣaṇa)
 
 | Feature | ✅ **Svalakṣaṇa** | ✅ **Sāmānyalakṣaṇa** |
 |---|---|---|
@@ -676,7 +788,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ✅ The **sāmānyalakṣaṇa** is shareable, expressible and stable only as a conceptual construction.
 - ⚠️ This is why Buddhist realism about momentary particulars can coexist with nominalism about universals.
 
-### 9A.3 Perception as kalpanāpoḍha and abhrānta
+### 9A.3 Perception as non-conceptual (kalpanāpoḍha) and non-erroneous (abhrānta)
 
 #### Statement
 
@@ -700,7 +812,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 - ⚠️ **Svasaṃvedana** connects Buddhist epistemology with Yogācāra idealism because cognition is treated as self-revealing; this is why Nyāya attacks it as collapsing object, cognition and knower.
 
-### 9A.4 Apoha theory of meaning and universals
+### 9A.4 Exclusion theory of meaning (apoha) and universals
 
 #### Statement
 
@@ -731,7 +843,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 - ✅ Apoha is a conceptual construct erected upon that causal convergence, not upon a prior grasp of a real universal.
 - ⚠️ The circularity objection retains residual force; many critics hold that the Buddhist reply does not fully explain positive determination.
 
-### 9A.5 Arthakriyākāritva as the criterion of the real
+### 9A.5 Causal efficacy (arthakriyākāritva) as the criterion of the real
 
 #### Statement
 
@@ -749,7 +861,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 - ⚠️ This is the clean bridge from pramāṇa theory to ontology: what perception ultimately presents is the momentary causally efficient particular; what inference and language manage is the conventional general construction.
 
-### 9A.6 Pramāṇa and pramāṇaphala
+### 9A.6 Means of valid knowledge (pramāṇa) and its result (pramāṇaphala)
 
 #### Statement
 
@@ -773,7 +885,7 @@ Vaibhāṣika → Sautrāntika → Yogācāra/Vijñānavāda → Mādhyamika/Ś�
 
 
 
-## 9B. AVYĀKATA / AVYĀKṚTA QUESTIONS — PRAGMATIC SILENCE
+## 9B. UNDECLARED QUESTIONS (AVYĀKATA / AVYĀKṚTA) — PRAGMATIC SILENCE
 
 ### 9B.1 The undeclared questions
 
@@ -845,7 +957,7 @@ Tathāgata after death: exists? does not exist? both? neither?
 | ✅ **Śūnyatā** | ⚠️ Whatever is dependently arisen lacks svabhāva. | ⚠️ Dependent origination remains a mere causal theory and does not become anti-essentialist. |
 | ✅ **Nirvāṇa** | ⚠️ Bondage is a conditioned process; cessation is possible without a liberated soul-substance. | ⚠️ No-self and liberation appear inconsistent. |
 
-## 9D. PŪRVAPAKṢA–SIDDHĀNTA LEDGER
+## 9D. OPPONENT POSITION (PŪRVAPAKṢA)–ESTABLISHED CONCLUSION (SIDDHĀNTA) LEDGER
 
 | Objector (named) | Objection | Buddhist reply (school / thinker) | Residual force ⚠️ |
 |---|---|---|---|
@@ -888,7 +1000,7 @@ Tathāgata after death: exists? does not exist? both? neither?
 - ✅ Advaita sublates world into Brahman; Madhyamaka refuses to replace empty phenomena with a metaphysical ground.
 - ⚠️ Trap to refute: “Buddhist emptiness is just Advaita Brahman under another name.” The Buddhist case is anti-substantialist; Advaita is absolute-substantialist.
 
-## 9F. CONTROLLED WESTERN COMPARISON
+## 9F. OPTIONAL ENRICHMENT — CONTROLLED WESTERN COMPARISON
 
 | Western comparison | Point of contact | Disanalogy |
 |---|---|---|
@@ -1018,6 +1130,7 @@ Verdict: give a balanced philosophical assessment.
 - Nāgārjuna, *Mūlamadhyamakakārikā*, especially the standard identification in substance of dependent origination and emptiness.
 - Chatterjee & Datta, *An Introduction to Indian Philosophy*.
 - C.D. Sharma, *A Critical Survey of Indian Philosophy*.
+- *Encyclopaedia Britannica*, “Hīnayāna,” accessed 2 September 2026, for the caution that the label was Mahāyāna-applied, not a shared self-designation, and that Theravāda is only one surviving school rather than its synonym.
 - S. Radhakrishnan, *Indian Philosophy*, Vol. I and II, where relevant to Buddhist schools.
 - Standard expositions of *Milinda-pañha* for the chariot analogy, paraphrased where exact wording is uncertain.
 - ✅ Dignāga and Dharmakīrti, standard pramāṇa-school doctrines of perception, inference, apoha and pramāṇaphala, paraphrased without verse-number claims.

@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "id": "disaster-management-04-learner-v2-2026-09-04",
+  "selection": "disaster-management-04",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "disaster-management-04:learner-v2:g1",
+      "topic_key": "disaster-management-04",
+      "variant": "learner-v2",
+      "generation": 1,
+      "supersedes": null,
+      "command": "Generate learner-v2 topic: Disaster Management — Subject-wide Syllabus — Multi-Hazard Early Warning and Disaster Technology",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\disaster-management-04_Complete-Learning-Session_2026-09-04.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\disaster-management-04_Solved-Practice-Workbook_2026-09-04.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\disaster-management-04_Solved-Practice-Workbook_2026-09-04.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\assets",
+      "generated_on": "2026-09-04",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-04_Learning-Session.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\README.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\LEARNING-SESSION-COMMAND-INDEX.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\ANSWER-WORTHINESS-AUDIT.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\00_Master-Framework.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\README.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\ANSWER-WORTHINESS-AUDIT.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\mains\\03 UPSC 2024 Paper-III.pdf",
+          "books\\mains\\UPSC Mains 2025 GS Paper 3 3.pdf",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+          "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
+        ],
+        "live_sources": [
+          "https://sachet.ndma.gov.in/About — attempted 2026-09-04; the official SACHET page failed at the transport layer. Official search metadata confirmed CAP-based multi-channel alerting, but no reach, handset or avoided-loss statistic was imported.",
+          "https://wmo.int/all-activities/build-resilience/early-warnings-all — fetched 2026-09-04; WMO confirms the end-of-2027 aim and four people-centred end-to-end pillars. The page is not treated as proof that every country or community is covered.",
+          "https://tsunami.incois.gov.in/TEWS/dsssop.jsp — fetched 2026-09-04; the official ITEWC procedure confirms event-analysis thresholds, bulletin stages and the use of model and sea-level information. Technical thresholds are not converted into local evacuation outcomes.",
+          "https://cwc.gov.in/flood-forecasting-hydrological-observation — fetched 2026-09-04; CWC confirms its flood-monitoring, forecasting and warning role and multi-channel dissemination to authorities. Dynamic network figures are not used as timeless facts.",
+          "https://www.isro.gov.in/DisasterManagementSupport.html — fetched 2026-09-04; the official ISRO page was content-thin. Official search metadata was used only to confirm disaster-management support through Earth observation, GIS and decision-support applications.",
+          "https://mausam.imd.gov.in/index_en.php — fetched 2026-09-04; the IMD landing page was content-thin for service architecture. No claim about nationwide impact-based forecast coverage or warning performance was made from that page."
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\disaster-management-04_Complete-Learning-Session_2026-09-04.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.5"
+        },
+        "generation_date": "2026-09-04",
+        "superseded_v1": null,
+        "source_hashes": {
+          "books\\mains\\03 UPSC 2024 Paper-III.pdf": "51f91299aef6c27c213b53762bc1390e3b0e3c3991090f805d61248a4e9e0cf7",
+          "books\\mains\\UPSC Mains 2025 GS Paper 3 3.pdf": "80f4ed13eb1545ec2502489178c2cb9ee4750d8925ec5783e747a2e5f8ec0d5a",
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+          "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf": "6518b34b0850117bf0ad2d1c3bfeba997dd2967b66824e7e49585df8aa409d68",
+          "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf": "c5235bb71d1919b1de5d5c810a51b01f21e49340a586b432f024beff4b931253",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf": "a4bd4ef58e6c16af04463eb67312f0d19cfdc6b44d14d74d2727dde8333b691b",
+          "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf": "ec68c17680e62ba6b523fafdd46b8bc3a082c925b568b47a9aa2c4d6e484a7c2",
+          "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+          "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md": "7c231080a1e1b9406aac0c4c5aa6a1c4cdea2cbca1f950552f58a9105ac0cdc5",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md": "42276b5baf09e5d163f6e5ac4050072c908c16477d5eed35bb905bd17518df5d",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\00_Master-Framework.md": "ef07f41f840fb923efaf94abb42a03fb34a5836a22f7f8b6ee084b9b198fb959",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md": "650f0f04e158f065e2914e746828afe5203b63b1aab17847560314f881c5ce66",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\ANSWER-WORTHINESS-AUDIT.md": "5bf3430305dc221f8e9c9a50bb2714eacc0768844ac802ea027abfac3f51a3fb",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md": "09be5b1e1bfa44f68938bf415894553deabc5fd76d9ea13989cb2222dd1171c8",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\LEARNING-SESSION-COMMAND-INDEX.md": "3ad7d10c048f233e898a2d3fed62b91cd5ab21e8ed39e1c25ddca6212024171b",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-04_Learning-Session.md": "3e2ef340ae18c4448386f8d9e18afa4a53550831bc9e1e54bcfa0cd95b5e7745",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\learning-sessions\\v2\\subject-wide-syllabus\\disaster-management-04_Solved-Workbook.md": "08114b18edee4220335171ebe816c1cb419d251b5c5cdf2c97faf8f7c291f77c",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "3e2b8866a57d7162b7800ea9bd5bed9c095d784a7b44f993e8576fbb13cf3329",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\README.md": "4c3f5f3bff605ff5be7725a2ab7d4fc2e9682af6b15d033c8e52d2b7b736e894",
+          "upsc-ai-kit\\knowledge\\Disaster-Management\\REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md": "4d925a25d6ade74c1338f35594c211cbf1307a932bb686142d74f09fc138bedc",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-04-2026-09-04-sequential.json": "1ce8df00fd9a1e3073173288a19135c29e4772505cf23e52504787ceb5dbd700",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Disaster-Management\\disaster-management-04.json": "fcf9169a9e6ec6faa987d2840b834b30ef0da41340b5fafb4b8373908ecf7460",
+          "upsc-ai-kit\\manifests\\v2\\disaster-management--subject-wide-syllabus.json": "b93db8b6eaf557a0fcf23a4c6878b7d368ad193ffd00e2c55cd8817fcd0972ce",
+          "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "80 unique MCQs with A/B/C/D at 20 each; verified routed PYQ concepts; six solved original Mains answers weighted 10,10,15,15,20,20; final topic-specific register notes.",
+        "current_linkage_note": "Official attempts covered WMO's end-to-end benchmark, NDMA SACHET, INCOIS tsunami procedures, CWC flood forecasting, ISRO support and IMD services. Thin or blocked pages are logged, and no platform is treated as proof of last-mile action or avoided loss.",
+        "pyq_status_note": "No audited 2024-2025 question directly owns the whole MHEWS architecture. The two 2024 cards and the 2020 technology card are explicitly limited cross-topic routes with verified year, paper, directive and marks retained in their primary owners.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "abe0e19573c37e5539b8e36120f4c66825893ef8466d624656d28750b6122eba"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "disaster-management-04:learner-v2:g1"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-09-04",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1",
+        "master_image": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-04\\disaster-management-04_Graphical-Spec-g1.json",
+        "graphical_spec_sha256": "eaf98ca2ae65ad937d4bc1a9379ccffbedc0c4d0fd5b5c1b36b73725040b4641",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\flowcharts\\disaster-management-04\\carvaka-g1\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-04-2026-09-04-sequential.json",
+        "ascii_master_spec_sha256": "1ce8df00fd9a1e3073173288a19135c29e4772505cf23e52504787ceb5dbd700"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

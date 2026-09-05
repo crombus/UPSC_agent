@@ -4,6 +4,26 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The clause has two axes: how transcendent predicates signify, and whether religious utterances are truth-apt. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns **how religious expressions signify and whether they
+are truth-apt**, including analogy, symbol, negation, verification,
+falsification, non-cognitive uses and bounded Indian semantic comparisons.
+
+| Owned here | Boundary |
+|---|---|
+| univocal, equivocal, analogical, symbolic, metaphorical, mythical and negative modes | the independent nature and attributes of God remain with [Notions of God](./Notions-of-God.md) |
+| verification, falsification and cognitive content of utterances | the broader Logical Positivist programme remains with Paper I |
+| language-game, grammar and form of life only as religious-language analysis | Later Wittgenstein's complete philosophy remains with Paper I |
+| performative, expressive, prescriptive and self-involving uses | faith/revelation warrant remains with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
+| ineffability as a semantic problem | phenomenology and object of experience remain with [Religious Experience](./Religious-Experience.md) |
+| semantic conditions for plural reference | full pluralism and absolute-truth theory remain with [Religious Pluralism](./Religious-Pluralism.md) |
+| Indian negation, indication and conditional predication | complete Vedānta, Buddhist, Jain and Mīmāṃsā doctrines remain with Paper I owners |
+
+⚠️ Meaningfulness does not entail empirical factuality. A sentence may be
+analytically, morally, symbolically, performatively or practically meaningful;
+the further question is whether it also asserts a truth about reality.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -26,18 +46,53 @@
 ```
 > 🔑 **Mnemonic — two axes: "HOW (Analogy/Symbol/Negation) × WHETHER (Cognitive/Non-cognitive)."** Analogy & symbol rescue *meaning*; the cog/non-cog debate is about *factual truth*.
 
+## 0A. SEMANTIC MODE AND SPEECH FUNCTION ⚠️
+
+| Mode/use | What it does | Truth-aptness |
+|---|---|---|
+| Literal/univocal | applies an ordinary concept in the same semantic sense | cognitive, but risks anthropomorphism |
+| Analogical | preserves ordered similarity through causal participation or proportion | cognitive with qualified mode |
+| Metaphorical | transfers a pattern imaginatively without literal identity | may carry indirect cognitive insight |
+| Symbolic | mediates/participates in a depth of reality and transforms apprehension | symbolic realism or non-cognitive use, depending on theory |
+| Mythic/narrative | organises identity, world and value through a story | may be realist, metaphorical or practice-guiding |
+| Negative/apophatic | denies creaturely limitations and blocks objectification | cognitively restrictive; risks vacuity |
+| Performative | enacts a vow, blessing, confession, commitment or relation | success-conditions differ from factual description, but presuppositions may be truth-apt |
+| Expressive/prescriptive | expresses attitude or commits conduct | primarily non-cognitive, without being meaningless |
+
+The same utterance can be assertoric, symbolic and performative at once.
+Classifying its primary force does not automatically cancel every other force.
+
 ---
 
 ## 1. THE PROBLEM ✅
 - **Univocal** language (same sense as for creatures) makes God **finite/anthropomorphic**; **equivocal** language (wholly different sense) makes God-talk **meaningless/unknowable**. Need a **middle way**. ✅
 - The **Logical Positivist attack (Ayer):** "God exists" is unverifiable → **literally meaningless** (see Paper-I Logical Positivism). This forced the whole 20th-c debate. ✅
 
+### 1.1 Verification, falsification and empirical factuality
+
+- Ayer's verification challenge asks whether experience could establish or
+  count probabilistically for the truth of a synthetic statement. His weaker
+  criterion does not require conclusive verification, but still excludes
+  transcendent God-talk if no possible experience bears on it.
+- The criterion itself faces self-application and over-restriction objections:
+  meaningfulness cannot simply be equated with present empirical testability.
+- Flew's falsification challenge is different: what would count **against** the
+  believer's assertion? In the invisible-gardener parable, cumulative
+  qualifications may preserve words while removing every evidential consequence.
+- Hare's worldview commitment (*blik*) concedes non-factuality but preserves
+  practical importance. Mitchell's partisan concedes adverse evidence while
+  retaining defeasible trust. Hick's celestial-city model preserves present
+  truth-aptness with possible eschatological verification.
+- Meaningful but non-descriptive use does not establish factual truth; equally,
+  failure of empirical verification does not by itself show that an utterance
+  lacks every semantic or performative role.
+
 ---
 
 ## 2. HOW WE SPEAK — Analogy, Symbol, Negation ✅
-- **(a) Analogy (Aquinas — 2024 PYQ):** religious language is **analogical** — between univocal and equivocal. Two types: ✅
-  - **Analogy of attribution** — "God is good" because God is the cause/source of goodness in creatures.
-  - **Analogy of proportionality** — goodness is to God as (proportionate to His infinite nature) goodness is to a human. So "good" applies **proportionally**, truly but not identically. → preserves **meaning without anthropomorphism**.
+- **(a) Analogy (Aquinas — 2024 PYQ):** religious language is **analogical** — between univocal and equivocal. In *Summa Theologiae* I q.13, absolute perfection-terms such as "good" and "wise" signify what is present in God **essentially and eminently**, not merely the fact that God causes corresponding creaturely perfections. The **thing or perfection signified** (*res significata*) applies truly to God, while the creature-derived **mode of signification** (*modus significandi*) remains inadequate to the divine mode of being. ✅
+  - **Later Thomist analogy of attribution** — ordered predication relates secondary instances to a primary term, as "healthy" belongs primarily to an animal and derivatively to medicine as cause or sign. This illustrates ordered predication; it must not reduce divine goodness to causal attribution.
+  - **Later Thomist analogy of proportionality** — goodness belongs to God according to the infinite divine mode as goodness belongs to a creature according to its finite mode. The attribution/proportionality pair is a useful later Thomist, especially Cajetanian, systematisation rather than an unqualified fixed taxonomy authored by Aquinas.
 - **(b) Symbol (Tillich — 2023, 2025 PYQ):** ✅
   - Religious language is **symbolic**, not literal. A **symbol** (unlike a mere sign) **participates in the reality it points to** and "opens up levels of reality otherwise closed". *"God"* is not a being among beings but the **"Ground of Being" / Being-Itself**; to take symbols literally is **idolatry**.
   - ⚠️ **Tillich caution (preserve this; do not simplify it).** Tillich holds that the statement "God is being-itself" is the one **non-symbolic** statement about God — but he **modified** this position in later work, and the status of the exception is disputed among his interpreters. Present it as *Tillich's contested exception*, note that a wholly symbolic theology faces a self-reference problem (the claim that all God-talk is symbolic is itself a claim about God), and do not report the exception as an untroubled doctrine.
@@ -45,13 +100,26 @@
 - **(c) Via negativa / neti neti:** speak of God only by **negation** (God is *not* finite, *not* this, *not* that) — strong in Advaita and Christian mysticism (Pseudo-Dionysius). ✅
 - **(d) Indian — *anirvacanīyatā* (2025 PYQ):** ✅ ⚠️ **Fix the two uses before writing anything else.** In Advaita, **Brahman** is beyond objectifying speech — *avācya*, *"yato vāco nivartante"* ("whence words turn back", Taittirīya 2.9) — approached by the **neti neti** method (Bṛhadāraṇyaka 2.3.6) and by *lakṣaṇā*. ***Anirvacanīya*** ("indeterminable") is the technical status of **māyā/avidyā and the world-appearance**: *sad-asad-vilakṣaṇa*, different from both the real and the unreal, and therefore **unclassifiable** — which is a claim about *ontological category*, not about *ineffability*. Brahman is not indeterminable in that sense: it is *sat*. The 2025 stem asks about *anirvacanīyatā* **in the context of the nature of religious language**, so the answer must present it as a thesis about **predication**: ordinary language classifies, and what cannot be classified as either real or unreal defeats classificatory speech; Brahman, being non-objectifiable, defeats objectifying speech. Language therefore works **eliminatively** (*neti neti*) and **indicatively** (*lakṣaṇā*), never descriptively — and is itself sublated once it has removed the error. Standard spelling: ***anirvacanīya* / *anirvacanīyatā***. Full treatment at §9.5.
 
+### 2.1 Indian semantic strategies — bounded comparison
+
+| Tradition | Primary semantic strategy | Control |
+|---|---|---|
+| Advaita | negation (*neti neti*) and indirect indication (*lakṣaṇā*) remove incompatible objectifying senses | Brahman is ineffable; the world-appearance is indeterminable (*anirvacanīya*) |
+| Viśiṣṭādvaita/Rāmānuja | scriptural predicates name real auspicious attributes of personal Brahman | attributes are not merely lower symbols to be discarded |
+| Madhyamaka Buddhism | conventional truth permits functional discourse while ultimate analysis denies intrinsic nature | conventional meaning is not sheer falsehood or silence |
+| Jainism | many-sidedness and conditional predication (*anekāntavāda/syādvāda*) state a claim under a specified respect | contradictory predicates are not asserted unconditionally in the same respect |
+| Mīmāṃsā | injunction and mantra function within ritual disclosure; word–meaning relations are treated as authoritative | not every scriptural sentence is grammatically imperative; *sphoṭa* is not a Mīmāṃsā doctrine |
+
+These are structural comparisons, not claims that the schools share one theory
+of reference.
+
 ---
 
 ## 3. WHETHER IT STATES FACTS — Cognitive vs Non-cognitive ✅
 - **Cognitivist (realist):** religious statements are **genuine truth-claims** — "God exists" is **true or false**, asserting a fact about reality (Aquinas, Hick, Swinburne). ✅
 - **Non-cognitivist:** religious statements do **not** state facts; they express something else: ✅
   - **R.B. Braithwaite (2024 PYQ):** religious assertions are **declarations of a moral intention / commitment to a way of life** (+ associated stories), not factual claims. "God is love" = an intention to live agapeistically. ✅
-  - **Wittgenstein / Wittgensteinian (2023 PYQ):** religious language is a distinct **"language-game" embedded in a form of life**; its meaning is its **use** in worship/practice, not fact-stating; "belief in the Last Judgement" regulates a life, it's not a prediction. ✅
+  - **Wittgenstein and later Wittgensteinian approaches (2023 PYQ):** Wittgenstein's *Lectures on Religious Belief* contrast belief in the Last Judgement with ordinary empirical prediction and show how it orients a life. Later Wittgensteinian approaches formulate this through **language-game**, **grammar** and **form of life**. Whether Wittgenstein thereby becomes a straightforward non-cognitivist is disputed; **D. Z. Phillips** resisted both reductionist and simple non-cognitivist readings. ✅ ❓
   - **R.M. Hare — "bliks":** religious beliefs are unfalsifiable **"bliks"** — basic, un-provable ways of seeing the world that still matter.
   - **Ayer (Logical Positivism):** non-cognitive because **meaningless** (unverifiable) — the hostile version.
 - **"Does the cognitivist account lead to contradiction?" (2024 — Braithwaite):** ⚠️ Braithwaite argues the cognitivist (factual) reading runs into the **verification problem** (unverifiable → meaningless), so he **reduces** religious language to moral-conative use to save it. *Reply:* the reduction **loses** the believer's own realist intent (they mean God *really* exists) — an "atheist's account of religion". ⚠️
@@ -65,7 +133,7 @@
 | Symbol | (cognitive-ish) | symbols participate in Being-Itself | Tillich | referent vague |
 | Via negativa / neti neti | (limits speech) | only negation/indescribability | Dionysius, Advaita | risks total silence |
 | Moral-conative | non-cognitive | expresses moral intention | Braithwaite | loses realist meaning |
-| Language-game | non-cognitive | use in a form of life | Wittgenstein | fideism/relativism |
+| Language-game/use | contested | religious grammar and life-orienting use | Wittgenstein; later Wittgensteinians | fideism if insulated; simple non-cognitivist classification is disputed |
 | Verificationism | non-cog (hostile) | meaningless | Ayer | self-refuting principle |
 
 > 🔑 The strong answer: religious language is **neither literal nor meaningless** — analogy/symbol give it **cognitive meaning** (realist), while non-cognitivists (Braithwaite/Wittgenstein) capture its **practical/moral force** but at the cost of its **truth-claim**; the believer's own intent is **cognitivist**.
@@ -78,6 +146,15 @@
 3. ✅ Braithwaite analyses religious assertion through commitment to a moral way of life and its sustaining stories.
 4. ✅ Wittgensteinian approaches interpret religious meaning through use within a form of life.
 5. ✅ The Upaniṣadic formula *yato vāco nivartante* marks the limit of objectifying speech; Advaita also deploys *neti neti* and indirect indication.
+
+---
+
+## 5A. CURRENT RESEARCH ILLUSTRATION 📰
+
+- ✅ **Exact item:** Jintao Ma, Junwen Shen, Xinyue Wang, Leqi Liu, Dengkui Hou, Lingxiang Hu, Nicolas Turenne and Dun Li, **"AI as Cultural Mediation: Agentic Sanskrit–English Translation with Linguistic Grounding."**
+- ✅ **Status and date:** poster contribution to the ICML 2026 workshop **Culture x AI: Evaluating AI as a Cultural Technology**, scheduled for 10 July 2026 on the official ICML virtual page.
+- ✅ **Official source:** https://icml.cc/virtual/2026/74717 (accessed 27 August 2026).
+- ⚠️ **Permitted use:** the reported use of dictionary lookup, morpho-syntactic analysis and glossary constraints illustrates how literal word substitution may create semantic drift in Sanskrit–English translation, including religious prose. It is a current research illustration of context-sensitive meaning, **not doctrinal evidence** for analogy, symbolism, cognitivism or any Indian school.
 
 ---
 
@@ -101,8 +178,8 @@
 
 | Exit from the univocal/equivocal dilemma | Western | Indian | Shared objection |
 |---|---|---|---|
-| **Univocity** (common concept, different mode/degree) | Duns Scotus | **Nyāya** — Īśvara's knowledge and will predicated in essentially our sense | Anthropomorphism; God becomes an item in a shared order |
-| **Analogy / indirect indication** | Aquinas (attribution, proportionality) | **Advaita's *lakṣaṇā*** — *bhāga-tyāga* in "*tat tvam asi*" | Indeterminacy: how is the proportion or the retained portion fixed? |
+| **Univocity** (common concept, different mode/degree) | Duns Scotus | **Nyāya as a limited comparative heuristic** — determinate predication of Īśvara's knowledge and will | Anthropomorphism; the comparison does not make Nyāya's doctrine equivalent to Scotus's semantic univocity |
+| **Analogy / indirect indication** | Aquinas; later Thomist attribution/proportionality taxonomy | **Advaita's *lakṣaṇā*** — *bhāga-tyāga* in "*tat tvam asi*" | Indeterminacy: how is the proportion or the retained portion fixed? |
 | **Negation** | Pseudo-Dionysius; **Maimonides** (negations + attributes of action) | ***Neti neti***; *yato vāco nivartante* | Vacuity: unlimited negation cannot distinguish the ultimate from nothing |
 | **Symbol / participation** | Tillich; Ramsey's model-and-qualifier | *Pratīka*/*pratimā*; *oṃkāra* → *turīya* | Vague referent; risk of idolatry/arrest |
 | **Performative / injunctive** | Austin, Evans (self-involving language) | Mīmāṃsā's *vidhi*; mantra as instrument | Does not by itself settle truth-aptness |
@@ -142,8 +219,10 @@ Axes  : function (describe/predict vs worship, invoke, confess, vow, bless);
         register (any competent speaker vs tradition-formed, often a sacral register).
 Tools : Austin — constative vs performative; "I baptise", "I take refuge", saṃkalpa, vow, blessing.
         Evans — self-involving language. Ramsey — model + qualifier producing a disclosure situation.
-Indian: Mīmāṃsā's vidhi (the śāstra's primary mood is imperative, not indicative);
-        mantra as instrument; śabda-nityatva (NOT sphoṭa, which is the grammarians');
+Indian: Mīmāṃsā gives vidhi priority in disclosing dharma; this does not mean the
+        whole śāstra is grammatically imperative. Mantra functions as instrument;
+        Mīmāṃsā defends śabda-nityatva, while classical sphoṭa belongs principally
+        to the grammarian tradition, especially Bhartṛhari;
         Advaita's lakṣaṇā and neti neti as technical non-ordinary uses.
 Caution: religious language remains parasitic on ordinary language and subject to ordinary logic —
         it is a stretched use of a common instrument, not a separate instrument.
@@ -174,17 +253,20 @@ Concl : a normal but not a necessary route; it leads there only when the symbol 
 ### 7.5 — "The analogical nature of religious language." (2024, 10m) — with the Scotist contrast
 ```
 Intro : the dilemma — univocal predication anthropomorphises, equivocal predication silences.
-Body  : Aquinas' middle way — analogy of ATTRIBUTION (healthy: animal primarily, medicine
-        derivatively) and analogy of PROPORTIONALITY (goodness to God as goodness to a creature,
-        each according to its mode); ground = causal participation;
-        res significata (applies to God) vs modus significandi (creaturely).
+Body  : Aquinas' middle way — perfection-terms signify what exists in God essentially and
+        eminently, while their creature-derived modus significandi is inadequate;
+        res significata applies truly to God. Later Thomist, especially Cajetanian,
+        systematisation distinguishes attribution (healthy: animal primarily, medicine
+        derivatively) and proportionality (goodness belongs to God and creature according
+        to their distinct modes); ground = causal participation.
 Contrast: Scotus — unless "being" and the pure perfections are UNIVOCAL, inference to God
         equivocates; the certain/doubtful argument shows the concept of being is neutral;
         univocity is SEMANTIC, with finite/infinite intrinsic modes restoring the ontological gulf.
 Exchange: Scotist charge — analogy without a univocal core is disguised equivocation;
         Thomist reply — the causal relation supplies the middle term, not a shared concept.
 Third pole: Maimonides — only negations and attributes of action; objection = vacuity.
-Indian: Nyāya ≈ univocity; Advaita's lakṣaṇā ≈ analogy; neti neti ≈ negation.
+Indian: Nyāya may be used only as a limited heuristic near the univocity pole;
+        Advaita's lakṣaṇā is structurally comparable to analogy; neti neti to negation.
 Concl : univocity buys inference at the risk of anthropomorphism; analogy buys transcendence at
         the risk of indeterminacy; negation buys purity at the risk of vacuity.
 ```
@@ -194,10 +276,10 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 ## 9. ADVANCED DOCTRINE DOSSIERS
 
 ### 9.1 Aquinas' analogy
-- **Doctrine statement.** ✅ Predicates such as good and wise apply to God neither in exactly the creaturely sense nor in a wholly unrelated sense, but analogically.
-- **Argument.** ✅ (1) Creatures depend causally on God and display perfections; (2) effects resemble causes without matching their mode; (3) perfection terms can therefore signify truly while their mode of possession differs infinitely.
+- **Doctrine statement.** ✅ Predicates such as good and wise apply to God neither in exactly the creaturely sense nor in a wholly unrelated sense, but analogically. They signify perfections present in God **essentially and eminently**, while the manner in which human language signifies them remains creature-derived and inadequate.
+- **Argument.** ✅ (1) Creatures depend causally on God and display perfections; (2) effects resemble causes without matching their mode; (3) the *res significata* can therefore be predicated truly of God, although the *modus significandi* fails to represent the divine mode adequately. Aquinas expressly rejects the reduction of "God is good" to "God causes goodness": God causes goodness because God is good.
 - **Presupposition.** ⚠️ Causal participation warrants semantic continuity and pure perfections can be separated from creaturely limitation.
-- **Distinction.** ✅ Analogy of attribution relates secondary instances to a primary source; proportionality compares relations according to distinct modes of being.
+- **Distinction.** ⚠️ Later Thomist, especially Cajetanian, systematisation distinguishes analogy of attribution, which relates secondary instances to a primary term, from proportionality, which compares relations according to distinct modes of being. This is an explanatory taxonomy, not an unqualified fixed classification stated by Aquinas himself.
 - **Canonical example.** ✅ "Healthy" applies primarily to an animal and derivatively to medicine as cause/sign; divine goodness is not exactly this example but it shows ordered, non-univocal predication.
 - **Objection → reply.** ⚠️ Without a univocal core, analogy is indeterminate. Thomist reply: causal relation and perfection supply ordered content, though critics ask how it can be specified without prior knowledge of God.
 
@@ -218,12 +300,12 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 - **Objection → reply.** ⚠️ Verification criteria may be self-undermining and too narrow. Critics replace strict empirical verification with broader realism and cumulative warrant.
 
 ### 9.4 Braithwaite, Hare and Wittgensteinian use
-- **Doctrine statement.** ✅ Braithwaite interprets religious assertions as commitments to a moral policy supported by stories; Hare's *blik* is a basic world-picture; Wittgensteinian approaches locate meaning in a religious form of life.
+- **Doctrine statement.** ✅ Braithwaite interprets religious assertions as commitments to a moral policy supported by stories; Hare's *blik* is a basic world-picture. Wittgenstein's *Lectures on Religious Belief* distinguish religious commitment from ordinary empirical prediction, while later Wittgensteinian approaches locate meaning in religious grammar, language-games and forms of life.
 - **Argument.** ✅ Meaning is shown by use in worship, repentance, hope and conduct rather than by isolated correspondence tests.
 - **Presupposition.** ⚠️ Practical role can constitute or explain meaning without factual description.
 - **Distinction.** ✅ Non-cognitive does not mean emotionally trivial or meaningless; Ayer's hostile non-cognitivism differs from use/commitment accounts.
 - **Canonical examples.** ✅ Braithwaite's agapeistic policy; Hare's paranoid student; religious use of Last Judgement as life-orienting.
-- **Objection → reply.** ⚠️ Reduction to use or morality misdescribes believers who intend realist claims. Reply: non-cognitivists capture function; a mixed account may retain both truth-claim and performative force.
+- **Objection → reply.** ⚠️ Reduction to use or morality misdescribes believers who intend realist claims. Classifying Wittgenstein as straightforwardly non-cognitivist is disputed, and D. Z. Phillips rejected reductionist and simple non-cognitivist readings. A mixed account may retain truth-claim, grammar and performative force.
 
 ### 9.5 Advaita, negation and indirect indication
 - **Doctrine statement.** ✅ Brahman exceeds literal predication; *neti neti* removes limiting identifications, while Upaniṣadic sentences indirectly indicate non-dual reality.
@@ -248,7 +330,7 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 
 - **The speech-act analysis (the strongest single tool here).** ✅ **J. L. Austin's** distinction between **constative** and **performative**, and between **locutionary / illocutionary / perlocutionary** force, shows that many religious utterances are not *descriptions* that happen to be unverifiable but **performatives** whose success-conditions are different: "I baptise you", "I take refuge in the Buddha", "*saṃkalpa*" at the start of a rite, a vow, a blessing, a curse. ✅ **Donald Evans**, *The Logic of Self-Involvement* (1963), applies this systematically: religious language is characteristically **self-involving** — it expresses attitudes, commits the speaker to conduct, and *constitutes* relationships. ⚠️ This does **not** make religious language non-cognitive: "I baptise" presupposes a whole set of assertions, and a performative can carry assertoric commitments.
 - **Ian Ramsey's "models and qualifiers"** ✅ (*Religious Language*, 1957): religious language works by taking an ordinary **model** ("father", "cause", "good") and applying a **qualifier** ("heavenly", "first", "infinitely") that stretches the model until the "penny drops" — a **disclosure situation** evoking discernment and commitment. This explains how ordinary words are *used* religiously without becoming equivocal.
-- **Indian material.** ✅ **Mantra** is the paradigm of language whose primary function is not description: Mīmāṃsā treats mantras as **liturgical instruments** within an injunctive structure, and the school's doctrines of the **eternity of the word** (*śabda-nityatva*) and the eternal word–meaning relation are advanced precisely to ground a non-conventional sacred register ⚠️ (the *sphoṭa* theory belongs to the grammarians and should not be attributed to Mīmāṃsā). ✅ Vedic **injunctive** language (*vidhi*) is grammatically imperative, not indicative — the *śāstra*'s primary mood is "let it be done", which is a functional difference of exactly the kind this question asks about. ✅ Advaita's *lakṣaṇā* (indirect indication) and *neti neti* are technical devices for a use of language that ordinary predication cannot perform.
+- **Indian material.** ✅ **Mantra** is a paradigm of language whose primary function is not description: Mīmāṃsā treats mantras as **liturgical instruments** within an injunctive structure, and gives ***vidhi*** priority in disclosing otherwise unknowable *dharma*. This priority does **not** imply that the whole *śāstra* is grammatically imperative. Mīmāṃsā's ***śabda-nityatva*** concerns the eternity of word/sound and the word–meaning relation; classical ***sphoṭa*** belongs principally to the grammarian tradition, especially **Bhartṛhari**. ✅ Advaita's *lakṣaṇā* (indirect indication) and *neti neti* are technical devices for a use of language that ordinary predication cannot perform.
 - **The continuity thesis (do not overstate the difference).** ⚠️ Religious language is parasitic on ordinary language, is learned in ordinary contexts, and remains subject to ordinary logic. The best conclusion is that it is a **stretched and re-purposed** use of a common instrument, not a separate instrument.
 - **Verdict formula.** ⚠️ "Secular and religious uses of language differ in **function, referent, logic and self-involvement**, not in vocabulary. Religious language stretches ordinary words by model-and-qualifier, and its characteristic utterances are performative and self-involving as well as assertoric — which is why criteria designed for descriptive discourse alone will always misjudge it."
 
@@ -262,7 +344,7 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
 
 ### 9.8 Aquinas' analogy against Scotus' univocity (and Maimonides' negation)
 - **The problem the three answer.** ✅ If "good" said of God means exactly what it means of creatures (**univocal**), God is finite and anthropomorphic. If it means something wholly different (**equivocal**), we say nothing at all — and every argument to God commits the **fallacy of equivocation**. The three classical exits are *analogy*, *univocity of concept*, and *negation*.
-- **Aquinas: analogy.** ✅ Predicates apply to God and creatures neither univocally nor equivocally but **analogically**, by an ordered proportion. Two forms: **analogy of attribution** (a term applies primarily to one thing and derivatively to others by relation to it — "healthy" of an animal primarily, of medicine and complexion derivatively) and **analogy of proportionality** (goodness is to God as goodness is to a creature, each according to its own mode of being). The metaphysical ground is **causal participation**: effects resemble their cause without matching its mode; so perfection-terms signify truly of God while the *mode* of possession differs infinitely (*res significata* vs *modus significandi* — the thing signified applies to God, the manner of signifying is creaturely).
+- **Aquinas: analogy.** ✅ Predicates apply to God and creatures neither univocally nor equivocally but **analogically**, grounded in causal participation: effects resemble their cause without matching its mode. Perfection-terms therefore signify what pre-exists in God essentially and eminently, while the creature-derived manner of signification remains inadequate (*res significata* versus *modus significandi*). Aquinas explicitly rejects a cause-only interpretation of "God is good." ⚠️ The familiar distinction between **analogy of attribution** ("healthy" of an animal primarily, medicine derivatively) and **analogy of proportionality** (perfection according to each subject's mode) is best presented as a later Thomist, especially Cajetanian, systematisation rather than Aquinas's own fixed two-part taxonomy.
 - **Scotus: univocity of the concept of being.** ✅ Duns Scotus argues that unless "being" and the **pure perfections** are predicated **univocally** of God and creatures, natural knowledge of God is impossible and every inference from creatures to God equivocates.
   - **His argument from certain and doubtful concepts:** one can be **certain** that God is a being while remaining **doubtful** whether God is finite or infinite. A concept about which one is certain cannot be the same concept as one about which one is doubtful; therefore the concept "being" is **neutral** between finite and infinite — hence univocal.
   - ⚠️ **The crucial qualification that most scripts miss:** Scotus' univocity is **semantic/conceptual, not ontological**. He does not say God and creatures *are* beings in the same way; he says the *concept* must be common if our reasoning is to be valid. The real difference is then reintroduced by the **intrinsic modes** finite/infinite — so univocity of concept is fully compatible with an infinite ontological gulf, and the charge of anthropomorphism is not automatic.
@@ -272,7 +354,7 @@ Concl : univocity buys inference at the risk of anthropomorphism; analogy buys t
   - *Thomist objection to univocity:* a common concept of being flattens the Creator–creature distinction and makes God an item within a shared category. ⚠️ Some later critics (Heidegger on **onto-theology**; and, more contentiously, the Radical Orthodoxy readings of Milbank and Pickstock ❓ — a contested historical thesis) trace modern secular metaphysics to this move. Cite the thesis as contested.
   - *Scotist reply:* God is not placed in a genus; "being" is not a genus, and the intrinsic mode of infinity preserves the distinction.
 - **Maimonides: the negative way.** ✅ *Guide for the Perplexed* I.50–60 holds that **no positive essential attribute** may be affirmed of God; permissible speech is confined to **negations** (God is not ignorant, not powerless) and **attributes of action** (God is called merciful from what God does, not from a quality God possesses). ⚠️ The standing objection is that unlimited negation yields silence and cannot distinguish God from nothing — precisely the objection Advaita also faces.
-- **Indian parity (exact, not decorative).** ✅ Advaita's ***lakṣaṇā*** is the structural analogue of analogy: in "*tat tvam asi*" the *jahad-ajahal-lakṣaṇā* (also called *bhāga-tyāga-lakṣaṇā*) **discards** the incompatible portions of both terms (the omniscience of *tat*, the finitude of *tvam*) and **retains** the common import, pure consciousness — a use of language that is neither literal nor arbitrary. ✅ *Neti neti* is the Indian *via negativa*, matching Maimonides. ✅ **Nyāya** is the closest Indian analogue of **univocity**: Īśvara's knowledge, will and agency are predicated in essentially the same sense as ours, differing in degree and scope, and Nyāya accepts the consequence that God is a *self* (*ātman*) among selves, distinguished by eternality and omniscience. ⚠️ So the Western three-way debate has a genuine Indian counterpart: **Nyāya ≈ univocity, Advaita's *lakṣaṇā* ≈ analogy, *neti neti* ≈ negation** — and each faces the same objection as its Western twin.
+- **Indian parity (exact, not decorative).** ✅ Advaita's ***lakṣaṇā*** is structurally comparable to analogy: in "*tat tvam asi*" the *jahad-ajahal-lakṣaṇā* (also called *bhāga-tyāga-lakṣaṇā*) **discards** incompatible connotations and **retains** consciousness as common import — a use of language that is neither literal nor arbitrary. ✅ *Neti neti* is comparable to the negative way. ⚠️ **Nyāya** may be placed near the univocity pole only as a **limited comparative heuristic** because it predicates knowledge, will and agency determinately of Īśvara; this is not a Nyāya doctrine equivalent to Scotus's semantic univocity or intrinsic modes. The comparison illuminates a shared pressure without collapsing distinct systems.
 - **Verdict formula.** ⚠️ "The three positions trade the same currency. Univocity secures **inference** and risks **anthropomorphism**; analogy secures **transcendence** and risks **indeterminacy**; negation secures **purity** and risks **vacuity**. Since a defensible theology needs all three goods, the workable position is analogical predication with a univocal minimum for the terms used in argument and an apophatic limit on their adequacy."
 
 ### 9.9 The cognitivist–non-cognitivist spectrum (not a binary)
@@ -446,7 +528,7 @@ two objections and a mixed, defended conclusion.
 
 | Item | Status | Safe use |
 |---|---|---|
-| Analogy of attribution/proportionality | ✅ Aquinas, *ST* I q.13 (the divine names) | Give the *res significata*/*modus significandi* pair |
+| Attribution/proportionality taxonomy | ⚠️ Later Thomist, especially Cajetanian, systematisation used to explain Aquinas | Give the *res significata*/*modus significandi* pair and do not reduce divine goodness to causal attribution |
 | "Healthy" example | ✅ Aquinas' own example of ordered predication | Note it illustrates *attribution*, not divine goodness directly |
 | Univocity of being | ✅ **Duns Scotus**, *Ordinatio* I d.3 | **Semantic**, not ontological; intrinsic modes finite/infinite |
 | "Univocity produced modern secularity" | ❓ **Radical Orthodoxy** (Milbank, Pickstock) — a contested historical thesis | Cite as contested, never as settled |
@@ -496,3 +578,24 @@ two objections and a mixed, defended conclusion.
 - A. J. Ayer, *Language, Truth and Logic*; R. B. Braithwaite, *An Empiricist's View of the Nature of Religious Belief*; the Flew–Hare–Mitchell symposium "Theology and Falsification"; William Alston, *Divine Nature and Human Language*.
 - John Hick, *Philosophy of Religion* and *An Interpretation of Religion*.
 - Advaita and Mīmāṃsā discussions in S. Radhakrishnan, S. C. Chatterjee & D. M. Datta, and C. D. Sharma.
+- Jintao Ma et al., "AI as Cultural Mediation: Agentic Sanskrit–English Translation with Linguistic Grounding," poster in the ICML 2026 workshop *Culture x AI: Evaluating AI as a Cultural Technology*, 10 July 2026, https://icml.cc/virtual/2026/74717 (accessed 27 August 2026). Current research illustration only.
+- Local searchable John Hick, *Philosophy of Religion*, print pp. 82–107
+  (PDF pp. 93–118), for analogy, symbol, non-cognitive theory, language-game
+  discussion and verification.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, “Religious
+  Language,” print pp. 220–244 (approximately PDF pp. 232–256), for realism,
+  symbolism, Braithwaite and Wittgensteinian boundaries.
+- Local searchable Indian-philosophy sources are used only for bounded
+  negation, indirect indication, conventional truth and conditional-predication
+  comparisons; the Paper I school owners retain doctrinal authority.
+
+## SOURCE-CHANGE LEDGER — 2026-08-27
+
+| Review IDs | Corrected source doctrine |
+|---|---|
+| RL-001, MD-RL-001 | Aquinas now rejects cause-only paraphrase, affirms essential and eminent predication, and uses the *res significata*/*modus significandi* distinction. |
+| RL-002, MD-RL-002 | Attribution/proportionality is labelled a later Thomist, especially Cajetanian, systematisation rather than Aquinas's fixed taxonomy. |
+| RL-004, MD-RL-003 | Wittgenstein is no longer flattened into settled non-cognitivism; later Wittgensteinian use and D. Z. Phillips's dispute are explicit. |
+| RL-005, RL-006, MD-RL-004 | Mīmāṃsā's *vidhi* priority is distinguished from grammatical mood, and classical *sphoṭa* is assigned principally to the grammarian tradition. |
+| RL-007, MD-RL-005 | Nyāya/univocity is retained only as a limited comparative heuristic; Advaita comparison is presented structurally, not as doctrinal identity. |
+| RL-008, MD-RL-006 | The ICML item now has its exact title, eight authors, workshop-poster status, event date, official URL and research-illustration-only boundary. |

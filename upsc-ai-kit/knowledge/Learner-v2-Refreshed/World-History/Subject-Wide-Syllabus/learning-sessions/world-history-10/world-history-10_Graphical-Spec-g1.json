@@ -1,0 +1,1081 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-10",
+  "subject": "World-History",
+  "title": "FIRST WORLD WAR AND AFTERMATH",
+  "short_route": "WHY QUICK WAR FAILED → ATTRITION BATTLEFIELD → SEA-WAR MECHANISM → 1917 STRATEGIC EXCHANGE → HOW THE CENTRAL POWERS → TOTAL-WAR SOCIETY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-10\\world-history-10_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-10-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "a0fcf5cdca269987a7fa196f2f3c14fbdfe54817cacaf19a31baf9d07d663729",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHY QUICK WAR FAILED",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY QUICK WAR FAILED",
+          "role": "primary"
+        },
+        {
+          "text": "MARNE, SEPT 1914",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMAN ADVANCE HALTED",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFENSIVE FIREPOWER",
+          "role": "evidence"
+        },
+        {
+          "text": "MOVEMENT CANNOT EXPLOIT SUCCESS",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN FRONT HARDENS",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGY SHIFTS FROM MANOEUVRE TO ENDURANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MARNE, SEPT 1914 → German advance halted",
+        "DEFENSIVE FIREPOWER → movement cannot exploit success",
+        "TRENCHES → western front hardens",
+        "RESULT → strategy shifts from manoeuvre to endurance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MARNE, SEPT 1914 → German advance halted",
+            "DEFENSIVE FIREPOWER → movement cannot exploit success"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRENCHES → western front hardens",
+            "RESULT → strategy shifts from manoeuvre to endurance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MARNE, SEPT 1914 → German advance halted",
+            "DEFENSIVE FIREPOWER → movement cannot exploit success"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → strategy shifts from manoeuvre to endurance.",
+      "source_references": [
+        "Marne and the failure of quick victory"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ATTRITION BATTLEFIELD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ATTRITION BATTLEFIELD",
+          "role": "primary"
+        },
+        {
+          "text": "VERDUN 1916",
+          "role": "outcome"
+        },
+        {
+          "text": "PROLONGED EXHAUSTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOMME 1916",
+          "role": "evidence"
+        },
+        {
+          "text": "HUGE COST AND LIMITED GROUND",
+          "role": "primary"
+        },
+        {
+          "text": "MACHINE-GUNS AND ARTILLERY DOMINATE",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGIC TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "MANPOWER, INDUSTRY AND MORALE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VERDUN 1916 → prolonged exhaustion",
+        "SOMME 1916 → huge cost and limited ground",
+        "DEFENCE → machine-guns and artillery dominate",
+        "STRATEGIC TEST → manpower, industry and morale"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VERDUN 1916 → prolonged exhaustion",
+          "DEFENCE → machine-guns and artillery dominate",
+          "VERDUN 1916 → prolonged exhaustion"
+        ],
+        [
+          "SOMME 1916 → huge cost and limited ground",
+          "STRATEGIC TEST → manpower, industry and morale",
+          "SOMME 1916 → huge cost and limited ground"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VERDUN 1916 → prolonged exhaustion",
+            "SOMME 1916 → huge cost and limited ground"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEFENCE → machine-guns and artillery dominate",
+            "STRATEGIC TEST → manpower, industry and morale"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDUN 1916 → prolonged exhaustion",
+            "SOMME 1916 → huge cost and limited ground"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOMME 1916 → huge cost and limited ground.",
+      "source_references": [
+        "Verdun, Somme and attrition"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SEA-WAR MECHANISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SEA-WAR MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "BRITISH FLEET",
+          "role": "outcome"
+        },
+        {
+          "text": "BLOCKADE CENTRAL POWERS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO DECISIVE TACTICAL RESOLUTION",
+          "role": "caution"
+        },
+        {
+          "text": "GERMAN U-BOATS",
+          "role": "primary"
+        },
+        {
+          "text": "UNRESTRICTED CAMPAIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "SHIPPING LOSSES REDUCED; BRITISH CONTROL SURVIVES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BRITISH FLEET → blockade Central Powers",
+        "JUTLAND → no decisive tactical resolution",
+        "GERMAN U-BOATS → unrestricted campaign",
+        "CONVOYS → shipping losses reduced; British control survives"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRITISH FLEET → blockade Central Powers",
+            "JUTLAND → no decisive tactical resolution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GERMAN U-BOATS → unrestricted campaign",
+            "CONVOYS → shipping losses reduced; British control survives"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRITISH FLEET → blockade Central Powers",
+            "JUTLAND → no decisive tactical resolution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONVOYS → shipping losses reduced; British control survives.",
+      "source_references": [
+        "Sea power, blockade and Jutland",
+        "The submarine gamble and American entry"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "1917 STRATEGIC EXCHANGE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "1917 STRATEGIC EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "REVOLUTION AND EXIT REDUCE GERMANY'S EASTERN BURDEN",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTRY ADDS FINANCE, FOOD, SHIPPING, MORALE AND TROOPS",
+          "role": "comparison"
+        },
+        {
+          "text": "GERMAN GAMBLE",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBMARINE WARFARE HELPS TRIGGER US ENTRY",
+          "role": "primary"
+        },
+        {
+          "text": "NET EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "AMERICAN RESOURCES OFFSET RUSSIAN WITHDRAWAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RUSSIA → revolution and exit reduce Germany's eastern burden",
+        "USA → entry adds finance, food, shipping, morale and troops",
+        "GERMAN GAMBLE → submarine warfare helps trigger US entry",
+        "NET EFFECT → American resources offset Russian withdrawal"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RUSSIA → revolution and exit reduce Germany's eastern burden",
+          "GERMAN GAMBLE → submarine warfare helps trigger US entry",
+          "RUSSIA → revolution and exit reduce Germany's eastern burden"
+        ],
+        [
+          "USA → entry adds finance, food, shipping, morale and troops",
+          "NET EFFECT → American resources offset Russian withdrawal",
+          "USA → entry adds finance, food, shipping, morale and troops"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RUSSIA → revolution and exit reduce Germany's eastern burden",
+            "USA → entry adds finance, food, shipping, morale and troops"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GERMAN GAMBLE → submarine warfare helps trigger US entry",
+            "NET EFFECT → American resources offset Russian withdrawal"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RUSSIA → revolution and exit reduce Germany's eastern burden",
+            "USA → entry adds finance, food, shipping, morale and troops"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NET EFFECT → American resources offset Russian withdrawal.",
+      "source_references": [
+        "The submarine gamble and American entry",
+        "Russia's exit and the 1918 opportunity"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HOW THE CENTRAL POWERS LOST",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW THE CENTRAL POWERS LOST",
+          "role": "primary"
+        },
+        {
+          "text": "TWO FRONTS",
+          "role": "outcome"
+        },
+        {
+          "text": "GERMANY'S STRUCTURAL BURDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPLIES AND CIVILIAN ENDURANCE WEAKEN",
+          "role": "evidence"
+        },
+        {
+          "text": "1918 OFFENSIVE",
+          "role": "primary"
+        },
+        {
+          "text": "LUDENDORFF FAILS",
+          "role": "outcome"
+        },
+        {
+          "text": "ALLIES COLLAPSE",
+          "role": "comparison"
+        },
+        {
+          "text": "BULGARIA, HABSBURG AND OTTOMAN SYSTEMS FALL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TWO FRONTS → Germany's structural burden",
+        "BLOCKADE → supplies and civilian endurance weaken",
+        "1918 OFFENSIVE → Ludendorff fails",
+        "ALLIES COLLAPSE → Bulgaria, Habsburg and Ottoman systems fall"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TWO FRONTS → Germany's structural burden",
+            "BLOCKADE → supplies and civilian endurance weaken"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1918 OFFENSIVE → Ludendorff fails",
+            "ALLIES COLLAPSE → Bulgaria, Habsburg and Ottoman systems fall"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TWO FRONTS → Germany's structural burden",
+            "BLOCKADE → supplies and civilian endurance weaken"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ALLIES COLLAPSE → Bulgaria, Habsburg and Ottoman systems fall.",
+      "source_references": [
+        "Ludendorff fails and Allied unity improves",
+        "Coalition collapse and armistice"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TOTAL-WAR SOCIETY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TOTAL-WAR SOCIETY",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROLS INDUSTRY, TRANSPORT AND FOOD",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTER EXPANDED WARTIME PRODUCTION ROLES",
+          "role": "comparison"
+        },
+        {
+          "text": "BLOCKADE AND PROPAGANDA MAKE HOME FRONT STRATEGIC",
+          "role": "evidence"
+        },
+        {
+          "text": "COLONIAL MANPOWER AND TERRITORY GLOBALISE THE WAR",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STATE → controls industry, transport and food",
+        "WOMEN → enter expanded wartime production roles",
+        "CIVILIANS → blockade and propaganda make home front strategic",
+        "EMPIRE → colonial manpower and territory globalise the war"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATE → controls industry, transport and food",
+            "WOMEN → enter expanded wartime production roles"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CIVILIANS → blockade and propaganda make home front strategic",
+            "EMPIRE → colonial manpower and territory globalise the war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE → controls industry, transport and food",
+            "WOMEN → enter expanded wartime production roles"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EMPIRE → colonial manpower and territory globalise the war.",
+      "source_references": [
+        "Total war and society"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "POLITICAL EARTHQUAKE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POLITICAL EARTHQUAKE",
+          "role": "primary"
+        },
+        {
+          "text": "BOLSHEVIK RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOLUTION AND WEIMAR REPUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPIRES COLLAPSE INTO NEW ARRANGEMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "GLOBAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "USA AND JAPAN GAIN AS EUROPE WEAKENS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RUSSIA → Bolshevik rule",
+        "GERMANY → revolution and Weimar Republic",
+        "HABSBURG/OTTOMAN → empires collapse into new arrangements",
+        "GLOBAL POWER → USA and Japan gain as Europe weakens"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RUSSIA → Bolshevik rule",
+          "HABSBURG/OTTOMAN → empires collapse into new arrangements",
+          "RUSSIA → Bolshevik rule"
+        ],
+        [
+          "GERMANY → revolution and Weimar Republic",
+          "GLOBAL POWER → USA and Japan gain as Europe weakens",
+          "GERMANY → revolution and Weimar Republic"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RUSSIA → Bolshevik rule",
+            "GERMANY → revolution and Weimar Republic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HABSBURG/OTTOMAN → empires collapse into new arrangements",
+            "GLOBAL POWER → USA and Japan gain as Europe weakens"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RUSSIA → Bolshevik rule",
+            "GERMANY → revolution and Weimar Republic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GLOBAL POWER → USA and Japan gain as Europe weakens.",
+      "source_references": [
+        "Revolutions, empires and global power"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FIVE-TREATY MATCHING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE-TREATY MATCHING",
+          "role": "primary"
+        },
+        {
+          "text": "GERMANY; ST GERMAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "HUNGARY; NEUILLY",
+          "role": "comparison"
+        },
+        {
+          "text": "OTTOMAN TURKEY, REJECTED",
+          "role": "evidence"
+        },
+        {
+          "text": "LAUSANNE 1923",
+          "role": "primary"
+        },
+        {
+          "text": "REVISED TURKISH SETTLEMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "VERSAILLES → Germany; ST GERMAIN → Austria",
+        "TRIANON → Hungary; NEUILLY → Bulgaria",
+        "SEVRES → Ottoman Turkey, rejected",
+        "LAUSANNE 1923 → revised Turkish settlement"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VERSAILLES → Germany; ST GERMAIN → Austria",
+          "SEVRES → Ottoman Turkey, rejected",
+          "VERSAILLES → Germany; ST GERMAIN → Austria"
+        ],
+        [
+          "TRIANON → Hungary; NEUILLY → Bulgaria",
+          "LAUSANNE 1923 → revised Turkish settlement",
+          "TRIANON → Hungary; NEUILLY → Bulgaria"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VERSAILLES → Germany; ST GERMAIN → Austria",
+            "TRIANON → Hungary; NEUILLY → Bulgaria"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEVRES → Ottoman Turkey, rejected",
+            "LAUSANNE 1923 → revised Turkish settlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERSAILLES → Germany; ST GERMAIN → Austria",
+            "TRIANON → Hungary; NEUILLY → Bulgaria"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEVRES → Ottoman Turkey, rejected; LAUSANNE 1923 → revised Turkish settlement.",
+      "source_references": [
+        "The settlement as five treaty routes"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "VERSAILLES CONTAINMENT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VERSAILLES CONTAINMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ALSACE-LORRAINE, POLAND, DANZIG, SAAR",
+          "role": "outcome"
+        },
+        {
+          "text": "100,000 ARMY; NO CONSCRIPTION OR KEY WEAPONS",
+          "role": "caution"
+        },
+        {
+          "text": "UNION WITH GERMANY FORBIDDEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TERRITORY → Alsace-Lorraine, Poland, Danzig, Saar",
+        "MILITARY → 100,000 army; no conscription or key weapons",
+        "RHINELAND → demilitarised",
+        "AUSTRIA → union with Germany forbidden"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TERRITORY → Alsace-Lorraine, Poland, Danzig, Saar",
+          "RHINELAND → demilitarised",
+          "TERRITORY → Alsace-Lorraine, Poland, Danzig, Saar"
+        ],
+        [
+          "MILITARY → 100,000 army; no conscription or key weapons",
+          "AUSTRIA → union with Germany forbidden",
+          "MILITARY → 100,000 army; no conscription or key weapons"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TERRITORY → Alsace-Lorraine, Poland, Danzig, Saar",
+            "MILITARY → 100,000 army; no conscription or key weapons"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RHINELAND → demilitarised",
+            "AUSTRIA → union with Germany forbidden"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TERRITORY → Alsace-Lorraine, Poland, Danzig, Saar",
+            "MILITARY → 100,000 army; no conscription or key weapons"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MILITARY → 100,000 army; no conscription or key weapons.",
+      "source_references": [
+        "Versailles territory and military limits"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ARTICLE 231 AND REPARATIONS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARTICLE 231 AND REPARATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 231",
+          "role": "institution"
+        },
+        {
+          "text": "LEGAL LIABILITY FOR ALLIED LOSS AND DAMAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "READ IN GERMANY AS WAR-GUILT CLAUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "REPARATIONS FIXED AT £6600 MILLION",
+          "role": "primary"
+        },
+        {
+          "text": "REVISIONIST GRIEVANCE PLUS ENFORCEMENT PROBLEM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 231 → legal liability for Allied loss and damage",
+        "POLITICS → read in Germany as war-guilt clause",
+        "1921 → reparations fixed at £6600 million",
+        "EFFECT → revisionist grievance plus enforcement problem"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLE 231 → legal liability for Allied loss and damage",
+            "POLITICS → read in Germany as war-guilt clause"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1921 → reparations fixed at £6600 million",
+            "EFFECT → revisionist grievance plus enforcement problem"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 231 → legal liability for Allied loss and damage",
+            "POLITICS → read in Germany as war-guilt clause"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLITICS → read in Germany as war-guilt clause.",
+      "source_references": [
+        "Article 231, reparations and Turkey"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MANDATES: CHANGE AND CONTINUITY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHANGE AND CONTINUITY",
+          "role": "primary"
+        },
+        {
+          "text": "OLD LANGUAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONQUEST AND ANNEXATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW LANGUAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "LEAGUE TRUSTEESHIP AND PREPARATION FOR INDEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "BRITAIN AND FRANCE RETAIN IMPERIAL CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "EMPIRE SURVIVES UNDER CONDITIONAL JUSTIFICATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OLD LANGUAGE → conquest and annexation",
+        "NEW LANGUAGE → League trusteeship and preparation for independence",
+        "PRACTICE → Britain and France retain imperial control",
+        "VERDICT → empire survives under conditional justification"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OLD LANGUAGE → conquest and annexation",
+          "PRACTICE → Britain and France retain imperial control",
+          "OLD LANGUAGE → conquest and annexation"
+        ],
+        [
+          "NEW LANGUAGE → League trusteeship and preparation for independence",
+          "VERDICT → empire survives under conditional justification",
+          "NEW LANGUAGE → League trusteeship and preparation for independence"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OLD LANGUAGE → conquest and annexation",
+            "NEW LANGUAGE → League trusteeship and preparation for independence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRACTICE → Britain and France retain imperial control",
+            "VERDICT → empire survives under conditional justification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OLD LANGUAGE → conquest and annexation",
+            "NEW LANGUAGE → League trusteeship and preparation for independence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRACTICE → Britain and France retain imperial control.",
+      "source_references": [
+        "League and mandate ambiguity"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "WAR-AND-PEACE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "WAR-AND-PEACE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "FAILED QUICK WAR, ATTRITION, BLOCKADE AND COALITION COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "TOTAL WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE, SOCIETY, WOMEN, CIVILIANS AND EMPIRE",
+          "role": "institution"
+        },
+        {
+          "text": "TREATY CLUSTER, LEAGUE, MANDATES AND MINORITIES",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL EARTHQUAKE FOLLOWED BY UNSTABLE PEACE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "COURSE → failed quick war, attrition, blockade and coalition collapse",
+        "TOTAL WAR → state, society, women, civilians and empire",
+        "SETTLEMENT → treaty cluster, League, mandates and minorities",
+        "VERDICT → political earthquake followed by unstable peace"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COURSE → failed quick war, attrition, blockade and coalition collapse",
+            "TOTAL WAR → state, society, women, civilians and empire"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SETTLEMENT → treaty cluster, League, mandates and minorities",
+            "VERDICT → political earthquake followed by unstable peace"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COURSE → failed quick war, attrition, blockade and coalition collapse",
+            "TOTAL WAR → state, society, women, civilians and empire"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → political earthquake followed by unstable peace.",
+      "source_references": [
+        "Why the peace remained unstable"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TANKS, SUBMARINES, BOMBERS, MACHINE-GUNS, HEAVY ARTILLERY AND GAS CHANGED",
+          "role": "outcome"
+        },
+        {
+          "text": "WOMEN ENTERED FACTORY AND OTHER WARTIME ROLES ON A",
+          "role": "comparison"
+        },
+        {
+          "text": "WHOLE SOCIETIES WERE MOBILIZED",
+          "role": "evidence"
+        },
+        {
+          "text": "BLOCKADE HARDSHIP HIT CIVILIANS, ESPECIALLY IN THE CENTRAL POWERS",
+          "role": "primary"
+        },
+        {
+          "text": "DICTATED PEACE WITHOUT GERMAN PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL LOSSES, ESPECIALLY WHERE GERMANS REMAINED OUTSIDE THE REICH",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 231, READ IN GERMANY AS A WAR-GUILT CLAUSE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "tanks, submarines, bombers, machine-guns, heavy artillery and gas changed warfare;",
+            "women entered factory and other wartime roles on a much larger scale;",
+            "whole societies were mobilized;",
+            "blockade hardship hit civilians, especially in the Central Powers and Russia."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "dictated peace without German participation;",
+            "territorial losses, especially where Germans remained outside the Reich;",
+            "Article 231, read in Germany as a war-guilt clause and used by the Allies as a legal basis for reparations;",
+            "reparations set at £6600 million."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "some territorial changes were defensible on nationality grounds;",
+            "many terms broadly reflected Wilsonian ideas plus later wartime hardening;",
+            "Germany had itself imposed Brest-Litovsk harshly on Russia.",
+            "Europe was split between revisionist states and status-quo states;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

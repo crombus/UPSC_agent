@@ -69,7 +69,10 @@
 | T.H. Green | ✅ The state exists to promote the common good, and political obligation is grounded in it. (PDF pp.475, 481-482) |
 | Liberal thinkers | ✅ Locke, Adam Smith, Bentham and J.S. Mill are presented as exponents of the liberal view that reconciled individual interests can yield common good. (PDF p.479) |
 | Macpherson | ✅ Criticizes market-society common good because demand-and-supply valuation can stunt human capacities and creative freedom. (PDF p.480) |
-| MacIntyre / Sandel / Walzer / Taylor | ✅ Communitarian thinkers stress socially embedded selves, duties, sphere-specific goods and shared purposes. (PDF pp.481-483) |
+| MacIntyre | ✅ Practices and traditions shape identity, goods and duties; rights detached from social obligation become morally thin. (PDF pp.481-482) |
+| Sandel | ⚠️ Supplementary communitarian bridge: the unencumbered chooser is inadequate because constitutive attachments partly form the self. |
+| Taylor | ⚠️ Supplementary communitarian bridge: identity is dialogical, so recognition and shared horizons matter to political membership. |
+| Walzer | ✅ Goods carry social meanings and should be distributed by sphere-specific criteria rather than one master good such as money. (PDF pp.482-483) |
 | Marx and Engels | ✅ Common good is blocked by class antagonism and becomes fully meaningful only in communist society. (PDF pp.482-486) |
 | Gandhi | ✅ Common good is realized through moral regeneration, trusteeship, bread labour, classless equality and sarvodaya. (PDF pp.486-490) |
 
@@ -108,6 +111,8 @@
 - ⚠️ Direct conceptual precursor on community: `Political-Theory/basic/07_Nature-of-Politics-and-Communitarianism.md`.
 - ⚠️ Civil-society boundary: `Political-Theory/basic/10_State-Civil-Society-Nation-and-Internationalism.md`.
 - ⚠️ Justice companion: `Political-Theory/basic/20_Diverse-Perspectives-on-Justice.md`.
+- ⚠️ Multiculturalism and minority-recognition bridge: `Philosophy/paper-2/socio-political/Humanism-Secularism-Multiculturalism.md`.
+- ⚠️ Caste, fraternity and constitutional-morality bridge: `Philosophy/paper-2/socio-political/Caste-Gandhi-Ambedkar.md`.
 - ⚠️ Module frame and topic map: `Political-Theory/00_Master-Framework.md` and `Political-Theory/README.md`.
 - ⚠️ Forward democracy link: use `Political-Theory/basic/22_Democracy-Representation-and-Liberal-Democracy.md` for the representation/democracy sequel.
 - ⚠️ Boundary: this file does not duplicate constitutional public-interest litigation, rights jurisprudence or current welfare policy detail.
@@ -141,6 +146,8 @@
 1. **Liberal objection to common-good/majoritarian rhetoric -> Gauba-consistent reply:** Objection — invoking "the common good" or "the nation's true interest" can be used to brand dissenters as enemies of the whole, licensing coercive homogeneity. Reply — Gauba is explicit that the common good is not the good of the state and not the good of the majority, and may itself be invoked to protect a minority against injustice (PDF p.475); a properly theorised common good treats consensus as a plural, negotiated process, not manufactured unanimity (PDF pp.478-479).
 2. **Liberal objection to Rousseau's general will -> Green/communitarian-liberal reply:** Objection — the general will has historically been invoked to justify "forcing individuals to be free," collapsing plural interests into a single collective will and enabling majoritarian tyranny. Reply — Green's positive-freedom reading and Gauba's liberal-corrected common good treat the concept as enabling individual moral self-realization rather than erasing individuality; a defensible common-good theory keeps rights, dissent and plural voice as conditions of the common good, not exceptions to it.
 3. **Objection to Gandhian/communitarian harmony rhetoric -> qualified reply:** Objection — sarvodaya's and communitarianism's stress on moral unity or shared community meanings risks flattening legitimate social conflict (for instance, entrenched caste or gender hierarchy) under a rhetoric of harmony. Reply — Gandhian sarvodaya explicitly requires uplift of the neglected and structural moral reform, so it cannot coherently mean preserving existing hierarchy behind a veneer of consensus; even so, the tension between voluntarist moral appeal and enforceable structural change is a fair residual criticism that a graded answer should acknowledge rather than dismiss.
+4. **Group-rights objection -> internal-domination reply:** Objection — protecting a cultural community may strengthen dominant elites within it and silence women, dissenters or lower-status members. Reply — a defensible common good protects external coexistence without granting any group an unchecked power over its own members; voice, exit, equal status and review remain internal tests of whether the claimed good is genuinely common.
+5. **Constitutional-morality objection to social consensus -> democratic reply:** Objection — inherited social consensus may reproduce caste, gender or religious hierarchy, so community approval cannot by itself justify a norm. Reply — constitutional morality disciplines popular and customary morality through equal citizenship, rights and public justification while still leaving room for plural communities to pursue shared goods within those limits.
 
 ## 15. Cautious Indian application (⚠️ throughout — analytical bridges, not Gauba-sourced)
 
@@ -162,3 +169,50 @@
 - ✅ Marxian and Gandhian anchors: PDF pp.482-490.
 - ⚠️ The minority-rights and pluralism cautions are analytical safeguards added for exam use and are not presented as direct quotations from Gauba.
 - ⚠️ Sections 12-16 (added in this pass) are exam-answer-architecture and argument-reconstruction syntheses built for answer writing. The Rousseau "forced to be free" reference and the "antyodaya" companion term are general, well-established attributions, not Gauba PDF-page citations, and are tagged accordingly.
+
+## 18. Canonical MCQ ledger, supplementary bridges and PYQ routing
+
+### A. Twenty-four canonical concept pairings
+
+- ✅ **Common-good norm:** the justified welfare of the whole political community rather than one faction's gain.
+- ✅ **Common-interest overlap:** an empirically discoverable convergence among affected persons, narrower than the normative common good.
+- ✅ **Public-interest judgment:** a public authority's justificatory decision about policy, which should remain answerable to the wider common good.
+- ✅ **Consensus process:** continuing accommodation of disagreement rather than complete unanimity.
+- ✅ **Aristotelian whole:** a right constitution serves the good life of the whole community.
+- ✅ **Rousseauian general will:** a public-regarding will directed to common good rather than the sum of private wills.
+- ✅ **Greenian obligation:** political authority earns moral allegiance by enabling a common good of self-development.
+- ✅ **Liberal reconciliation:** civil rules adjust individual interests while rights protect persons from mutual oppression.
+- ✅ **Macpherson's correction:** market valuation can stunt human capacities and therefore needs welfare-oriented correction.
+- ✅ **Communitarian embeddedness:** shared practices and memberships partly constitute persons and their goods.
+- ✅ **MacIntyrean practices:** traditions and cooperative practices generate internal goods, virtues and duties.
+- ✅ **Walzerian spheres:** different social goods require different distributive meanings and boundaries.
+- ✅ **Marxian class barrier:** antagonistic class society cannot realise a genuinely common good.
+- ✅ **Gandhian trusteeship:** wealth-holders should treat surplus property as a moral trust for social welfare.
+- ✅ **Bread labour:** participation in physical labour affirms dignity, equality and restraint.
+- ✅ **Sarvodaya:** uplift of all through non-violence, service and moral transformation.
+- ✅ **State-good error:** what strengthens a state apparatus may still injure the common good.
+- ✅ **Majority-good error:** a numerical majority cannot convert injustice to minorities into common good.
+- ✅ **Utilitarian-aggregate error:** aggregate happiness cannot justify treating a minority's suffering as expendable.
+- ✅ **Excluded-public bargain:** an employer-labour settlement is not common good when consumers or displaced groups bear hidden costs.
+- ✅ **Liberal market weakness:** market prices may undervalue socially necessary but weakly remunerated capacities.
+- ✅ **Communitarian machinery weakness:** moral richness does not automatically supply accountable institutions for resolving conflict.
+- ✅ **Marxian realisation weakness:** abolition of private class power can still be followed by new political domination.
+- ✅ **Gandhian voluntarism weakness:** trusteeship and renunciation depend heavily on sustained moral conversion.
+
+### B. Clearly tagged book-external bridges
+
+- ⚠️ **Aquinas:** natural-law accounts connect common good with a just order directed to human flourishing; use only as a supplementary genealogy, not as a Gauba Ch.21 claim.
+- ⚠️ **Hegel:** ethical life links freedom to family, civil society and the state; use as a bridge between atomism and coercive collectivism, not as direct chapter evidence.
+- ⚠️ **Civic republicanism:** freedom as non-domination and active citizenship can deepen common-good analysis without equating virtue with cultural uniformity.
+- ⚠️ **Commons and common goods:** shared resources require institutions that prevent both private enclosure and unaccountable state control.
+- ⚠️ **Social capital:** trust and associational networks can support cooperation, but exclusionary networks can also reproduce hierarchy.
+- ⚠️ **Constitutional morality:** equal citizenship and rights discipline inherited social morality when caste, gender or religious consensus becomes oppressive.
+
+### C. Verified cross-applied Philosophy Optional PYQs
+
+- ✅ **2018, 10 marks:** "What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context." Primary owner: Philosophy Paper II — Forms of Government.
+- ✅ **2018, 10 marks:** "Do you subscribe to the view that Indian cultural identity needs to integrate the principles of multi-culturalism and respect for the dignity of each person? Justify your answer." Primary owner: Philosophy Paper II — Humanism, Secularism and Multiculturalism.
+- ✅ **2020, 10 marks:** "How far do the liberal democracies safeguard the interests of minorities? Evaluate critically." Primary owner: Philosophy Paper II — Forms of Government.
+- ✅ **2020, 20 marks:** "State and examine the Gandhian concept of social development." Primary owner: Philosophy Paper II — Development and Social Progress.
+- ✅ **2023, 15 marks:** "Critically analyse the social and political significance of Ambedkar's notion of annihilation of caste." Primary owner: Philosophy Paper II — Caste Discrimination: Gandhi and Ambedkar.
+- ✅ **2024, 15 marks:** "Discuss the role of ethical principles of tolerance and coexistence for the rise of multicultural societies." Primary owner: Philosophy Paper II — Humanism, Secularism and Multiculturalism.

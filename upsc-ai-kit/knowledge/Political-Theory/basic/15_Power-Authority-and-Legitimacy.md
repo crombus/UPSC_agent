@@ -67,7 +67,7 @@ HEGEMONY  -> secures rule through consent, culture and values
 - ✅ **Pareto, Mosca and Michels — elite theory, reconstructed with its own vocabulary:**
   - **Vilfredo Pareto**, in *The Mind and Society* (1915-19), introduced "elite" as a sociological category — a minority of superior ability that takes society's major decisions, distinguished from the incapable "masses." Within the elite he separated the **"governing elite"** (currently wielding power) from the **"non-governing elite"** (seeking to replace it), the resulting turnover being the **"circulation of elites."** Pareto further typed elite qualities as **"the lions"** (courage; suited to maintaining the status quo under stable conditions) and **"the foxes"** (cunning; adaptive and innovative in periods of change) (PDF p.312).
   - **Gaetano Mosca**, in *The Ruling Class* (1896), argued every society divides into rulers and ruled, and that the ruling minority's defining strength is its **organisational capacity** ("organised minority" governing an unorganised majority), not mere intelligence as in Pareto. Mosca considered himself more democratic than Pareto because he believed leadership could emerge from any social stratum, and he too traced social change to a "circulation of elites" produced by competition between upper and lower strata (PDF pp.312-313).
-  - **Robert Michels**, in *Political Parties* (1911), propounded the **"Iron Law of Oligarchy"**: any organisation — however democratic its founding aims — is eventually reduced to rule by a chosen few, because growing size and complexity hand management to professional experts who become indispensable and entrench themselves. This iron law **rules out** Pareto's and Mosca's "circulation of elites," since it predicts permanent oligarchy in all organisations and forms of government. ⚠️ Gauba himself records the standard objection: the law cannot be applied uniformly to all organisations, since some (e.g., political parties compared with trade unions) remain more internally democratic than others (PDF pp.313-314).
+  - **Robert Michels**, in *Political Parties* (1911), propounded the **"Iron Law of Oligarchy"**: organisations — however democratic their founding aims — tend toward rule by a chosen few because growing size and complexity hand management to professional experts who become difficult to displace. This is not the logical opposite of Pareto's and Mosca's "circulation of elites": leaders may turn over while organisation remains oligarchic. ⚠️ Gauba records the standard objection that the law cannot be applied uniformly to all organisations, since some (e.g., political parties compared with trade unions) remain more internally democratic than others; use it as a strong tendency, not proof of permanent oligarchy everywhere (PDF pp.313-314).
 - ✅ **C. Wright Mills:** in *The Power Elite* (1956), Mills replaces the Marxian "ruling class" (a single economic class) with **"power elite"** — three loosely interlocking groups (captains of industry, military leaders, prominent politicians) who occupy the pivotal command posts of modern American society and share social origins, culture and mutual reinforcement, without being reducible to one class (PDF pp.314-315).
 - ✅ **Pluralists — Dahl, Lindblom, Polsby, and the internal critique:** contemporary pluralism (Dahl and Lindblom's *Politics, Economics and Welfare*, 1953; Dahl's *A Preface to Democratic Theory*, 1956, and *Who Governs?*, 1961) assumed political resources are widely dispersed and different interests prevail on different issues; Dahl's **"polyarchy"** model treats government as little more than an honest broker among competing groups; Polsby (1963) noted pluralist research's unspoken assumption that "at bottom nobody dominates." **Two internal critiques matter:** (i) critics note pluralism examines only the *decision-making* process and overlooks issues on which no decision is ever taken — even though such "non-decisions" may be very important; (ii) Lindblom's *Politics and Markets* (1977) and Dahl's own *Dilemmas of Pluralist Democracy* (1982) later conceded a privileged position for business/property in Western polyarchies, prompting Dahl to recommend policies redistributing power (PDF pp.317-319).
 - ⚠️ **Bachrach and Baratz — the "second face of power" / non-decision-making (cautious attribution; the *argument* appears in Gauba's text without naming these authors):** Gauba's own critique of pluralism — that it "focuses only on the decision-making process" and "overlooks those issues on which no decision could be taken though some of those issues might be very important" (PDF p.318) — is, in the wider discipline, the argument most associated with **Peter Bachrach and Morton Baratz's** "Two Faces of Power" (1962): power is exercised not only by winning decisions but by keeping issues **off the agenda** altogether ("non-decision-making," the "second face" of power). Use Gauba's own sentence as the source-grounded claim, and attribute the named Bachrach–Baratz framework only as the standard disciplinary label for that same claim.
@@ -112,7 +112,7 @@ HEGEMONY  -> secures rule through consent, culture and values
 |---|---|---|---|
 | ✅ **Pareto** | Superior ability/intelligence; also courage/cunning | "Circulation of elites"; **lions** (courage, status quo) vs **foxes** (cunning, adaptive) (PDF p.312) | Masses never enter elite ranks. |
 | ✅ **Mosca** | Capacity of **organisation** — the "organised minority" over an unorganised majority | "Circulation of elites" via upper/lower-strata competition (PDF pp.312-313) | More democratic than Pareto: leadership can emerge at any social level. |
-| ✅ **Michels** | Technical/managerial indispensability as organisations grow | **"Iron Law of Oligarchy"** (PDF pp.313-314) | Rules out circulation of elites; predicts oligarchy in all organisations, including nominally democratic ones. |
+| ✅ **Michels** | Technical/managerial indispensability as organisations grow | **"Iron Law of Oligarchy"** (PDF pp.313-314) | Predicts a strong organisational tendency toward oligarchic leadership; turnover among leaders does not by itself democratise rule. |
 
 ## 9. UPSC traps and corrections
 
@@ -121,7 +121,7 @@ HEGEMONY  -> secures rule through consent, culture and values
 - ❌ **"Pluralism says nobody has unequal power."** -> ✅ Later pluralists like Lindblom and Dahl admit business privilege and unequal political resources (PDF pp.318-319).
 - ❌ **"Gramsci only repeats classical Marxism."** -> ✅ He gives relative autonomy to superstructure and focuses on civil society, culture and consent (PDF pp.309-311).
 - ❌ **"Arendt glorifies state force as power."** -> ✅ She distinguishes genuine collective power from violence and treats violence as destructive of power (PDF pp.320-321).
-- ❌ **"Pareto, Mosca and Michels all reach the same conclusion about elites."** -> ✅ Pareto and Mosca both expect a **circulation of elites** (change is possible, just never reaches the masses); Michels's iron law explicitly **rules out** that circulation, predicting permanent oligarchy — Gauba records the standard objection that this cannot be applied uniformly to every organisation (PDF pp.313-314).
+- ❌ **"Pareto, Mosca and Michels all reach the same conclusion about elites."** -> ✅ Pareto and Mosca explain turnover among ruling minorities, whereas Michels explains why complex organisations tend toward oligarchic leadership even when founded democratically. These claims are distinct but not strict opposites: elites can circulate while rule remains oligarchic, and Gauba's objection means the iron law should not be applied uniformly (PDF pp.313-314).
 - ❌ **"Non-decision-making and the third dimension of power are the same idea."** -> ⚠️ Keep the ladder distinct: non-decision-making (Bachrach–Baratz-type critique, matching Gauba's own point about issues that never reach decision) blocks an issue from the *agenda*; Lukes's third dimension goes further and argues power can shape the *very wants and preferences* of the subordinate, so that no felt grievance or agenda-exclusion is even necessary (PDF p.318).
 - ❌ **"Macpherson's developmental power is just another name for Arendt's power."** -> ✅ Arendt's power is fundamentally **collective/relational** ("acting in concert" within a public realm), whereas Macpherson's developmental power is about an **individual's** capacity for self-realisation (rational, moral, aesthetic, productive) — related "power to" themes, but built on different units of analysis (group vs person) (PDF pp.320-322).
 - ❌ **"Feminist power theory is only about domestic violence."** -> ✅ Gauba's three accounts extend to culture/symbolism, the household as an implicit labour contract, and the capitalism–patriarchy nexus in market work — a structural, not only interpersonal, claim (PDF pp.315-316).
@@ -172,19 +172,19 @@ HEGEMONY  -> secures rule through consent, culture and values
 
 ### A. Thesis statements
 - **Power/authority/legitimacy question:** "Gauba's formula — authority equals power plus legitimacy — is the anchor for every sub-debate in this chapter: elite theorists ask who holds power, pluralists ask how dispersed it is, and Lukes's three-dimensional ladder asks how deep its reach into preferences can go."
-- **Elite-theory question:** "Pareto and Mosca's optimism about a continuing 'circulation of elites' is directly contradicted by Michels's Iron Law of Oligarchy, which predicts permanent elite entrenchment in any organisation — the strength of an answer lies in showing why Michels's law does or does not survive Gauba's own objection that it cannot be applied uniformly."
+- **Elite-theory question:** "Pareto and Mosca explain how ruling minorities circulate, while Michels explains why democratic organisations tend toward oligarchic leadership. The claims test different dimensions — elite turnover and organisational control — and a strong answer asks whether circulation changes who rules without changing minority rule itself."
 
 ### B. Directive decoder
 | Directive | What it demands | Trap to avoid |
 |---|---|---|
 | **"Distinguish power, authority and legitimacy"** | Use Gauba's exact formula (authority = power + legitimacy) as the spine, then add influence/hegemony as adjacent concepts. | Do not treat the four terms as loose synonyms. |
-| **"Critically examine elite theory"** | Present Pareto → Mosca → Michels in named-vocabulary sequence, then the internal tension (circulation vs iron law) as the critical core. | Do not present the three thinkers as a single undifferentiated "elite theory." |
+| **"Critically examine elite theory"** | Present Pareto → Mosca → Michels in named-vocabulary sequence, then compare circulation of personnel with the organisational tendency to oligarchy. | Do not present the three thinkers as one doctrine or as logically incompatible on every point. |
 | **"Discuss the pluralist theory of power and its limits"** | Cover classical pluralism (Dahl), then non-decision-making, then Lukes's third dimension, as an escalating critique. | Do not stop at "pluralism says power is dispersed" without the two-step internal critique. |
 | **"Evaluate feminist perspectives on power"** | Use Engels's origin argument plus the three sociological accounts (cultural, household, Marxist-feminist), read together. | Do not reduce feminist power theory to a single account or to interpersonal violence alone. |
 
 ### C. Argument reconstruction (elite-theory internal debate, worked example)
 - **Claim (Pareto/Mosca):** ruling minorities are inevitable, but they circulate — an outmoded elite is replaced by a more dynamic one over time.
-- **Objection (Michels):** the Iron Law of Oligarchy shows that as any organisation grows, professional/managerial entrenchment blocks genuine circulation — democracy is undermined even inside organisations founded on democratic aims.
+- **Objection (Michels):** the Iron Law of Oligarchy shifts attention from the turnover of rulers to organisational control: as organisations grow, professional and managerial entrenchment can preserve oligarchic rule even when individual leaders are replaced.
 - **Reply/limit (Gauba's own caution):** the iron law cannot be applied uniformly; some organisations (political parties) remain more internally contestable than others (trade unions), so entrenchment is a tendency to guard against, not an exceptionless law (PDF pp.313-314).
 - **Extension (pluralism's own internal debate):** classical pluralism (Dahl) claims no single group dominates; the non-decision-making critique (matching Gauba's own point, labelled Bachrach–Baratz in the discipline) replies that agenda-exclusion is itself a form of domination pluralism cannot see; Lukes's third dimension pushes further still, into preference-shaping — each step deepens, rather than simply repeats, the previous critique.
 
@@ -192,7 +192,7 @@ HEGEMONY  -> secures rule through consent, culture and values
 1. Weber's traditional/charismatic/legal-rational typology — anchors the authority-forms discussion.
 2. Gramsci's political-society/civil-society distinction — anchors hegemony.
 3. Pareto's lions/foxes and governing/non-governing elite split — anchors elite-theory vocabulary.
-4. Michels's Iron Law of Oligarchy (*Political Parties*, 1911) — anchors the anti-circulation critique.
+4. Michels's Iron Law of Oligarchy (*Political Parties*, 1911) — anchors the organisation-level tendency toward leadership entrenchment.
 5. C. Wright Mills's "power elite" (industry/military/politics) — anchors the American case study.
 6. Dahl's "polyarchy" and later *Dilemmas of Pluralist Democracy* (1982) concession — anchors pluralism's self-correction.
 7. Arendt's "power sustains, violence destroys, the public realm" formula — anchors the power/violence distinction.
@@ -341,9 +341,9 @@ HEGEMONY  -> secures rule through consent, culture and values
   a practical precondition of participation is *formally* present and *substantively* thin. ⚠️ This
   is structurally the same argument this module already makes about a labour contract signed under
   desperation (`Political-Theory/basic/18_Liberty-Equality-and-Property.md` §7) and about pooled
-  sovereignty's "formally consensual but substantively unequal" delegation
-  (`Political-Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md` §13C) — reuse that
-  necessary-vs-sufficient move rather than inventing a new one.
+  sovereignty's formally consented institutional commitments made under unequal bargaining
+  conditions (`Political-Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md` §13C) —
+  reuse that necessary-vs-sufficient move without relabelling conditionality as delegation.
 - ⚠️ **Accountability gap:** the classical answers to "who guards the guardians" — elections,
   legislative oversight, judicial review, a free press — are addressed to **public** power. Where
   the power is private, contractual and transnational, each of those routes is weakened, which is
@@ -385,7 +385,7 @@ HEGEMONY  -> secures rule through consent, culture and values
   subjecting interference to a **structured justification test** — which is exactly the
   non-arbitrariness condition this module analyses conceptually (§14.6;
   `Political-Theory/basic/18_Liberty-Equality-and-Property.md` §22.4).
-- ❌ **Delegation, stated explicitly.** This file authors **no** legal detail: no holding beyond the
+- ❌ **Ownership boundary, stated explicitly.** This file authors **no** legal detail: no holding beyond the
   above, no ratio, no subsequent litigation, no statutory or rule-making position, no application
   to any programme or platform. The verified owner is
   `Polity/basic/Fundamental-Rights.md` (and `Polity/advanced/07_Fundamental-Rights.md`); applied
@@ -443,7 +443,7 @@ HEGEMONY  -> secures rule through consent, culture and values
   its three consequences (§14.5) → the legitimacy/consent/accountability triad (§14.6) → the
   public/private boundary table (§14.7) with the hybrid case named → **two** objection → reply
   chains → the Puttaswamy conceptual anchor used *only* as an example of structured justification,
-  with the delegation stated (§14.8) → a graded verdict on what would make such power rightful.
+  with the ownership boundary stated (§14.8) → a graded verdict on what would make such power rightful.
 - ❌ **Quotation discipline:** Foucault, Zuboff and Pariser are **paraphrased**, never quoted. The
   only bibliographic facts asserted in §14 are *Discipline and Punish* (1975 French; 1977 English),
   *The Age of Surveillance Capitalism* (2019), *The Filter Bubble* (2011) and the *Puttaswamy*

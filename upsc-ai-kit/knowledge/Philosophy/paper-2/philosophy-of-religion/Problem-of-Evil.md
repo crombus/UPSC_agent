@@ -4,15 +4,35 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The issue tests whether evil is logically or evidentially compatible with the God-concept being defended. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns the **logical, evidential, existential and moral
+challenge from evil**, together with defences, theodicies, revised God-concepts,
+Indian responses and the cost of each reply.
+
+| Owned here | Boundary |
+|---|---|
+| the divine omnipotence–omniscience–goodness profile under pressure from evil | the independent definition and coherence of each attribute remains with [Notions of God](./Notions-of-God.md) |
+| evil as evidence against classical theism | the positive and cumulative proofs remain with [Proofs for God](./Proofs-for-God.md) |
+| karma and rebirth only as explanations of suffering/distribution | personal identity, rebirth mechanics and liberation remain with [Soul](./Soul-Immortality-Rebirth.md) |
+| mystery and epistemic limitation only as replies to evidential evil | faith, revelation and properly basic belief remain with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
+| creator-removal as one way of dissolving the classical problem | complete non-creator religious systems remain with [Religion without God](./Religion-without-God.md) |
+| evil/profane as religion-forming categories | sacred/holy as the object of experience remains with [Religious Experience](./Religious-Experience.md) |
+
+⚠️ A **defence** proposes a possible compatibility story and defeats strict
+contradiction; a **theodicy** claims to identify God's actual morally sufficient
+reason. Neither should be mistaken for pastoral permission to explain a
+sufferer's experience to them.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
 
 ```
-   THE INCONSISTENT TRIAD (Epicurus/Mackie): can't hold all three—
+   MACKIE'S TRIAD + BRIDGING PREMISES (not contradictory by itself)—
         God OMNIPOTENT + God OMNIBENEVOLENT + EVIL EXISTS
                             │
-   ┌──────────── responses (THEODICIES) ────────────┐
+   ┌──── responses (DEFENCES / THEODICIES / REVISIONS) ────┐
    FREE-WILL       SOUL-MAKING     PROCESS        AUGUSTINIAN     INDIAN
    (Augustine,     (Irenaeus,      (Whitehead,    (evil=privation KARMA
     Plantinga)     Hick)           Griffin —      of good; sin/    (evil = fruit
@@ -26,10 +46,32 @@
 ---
 
 ## 1. THE PROBLEM ✅
-- **Logical problem (Mackie):** the propositions *God is omnipotent*, *God is omnibenevolent*, and *evil exists* are **logically inconsistent** — if God could and would prevent evil, evil should not exist. ✅
+- **Logical problem (Mackie):** the propositions *God is omnipotent*, *God is perfectly good*, and *evil exists* are **not formally contradictory by themselves**. The contradiction requires added principles: a perfectly good being opposes evil as far as it can, and an omnipotent being has no relevant limit on preventing it. ✅
 - **Evidential problem (Rowe):** even if not a strict contradiction, the **amount and distribution** of pointless suffering makes God's existence **improbable**. ✅
 - **Kinds of evil:** **moral evil** (from human wrongdoing — cruelty, injustice) vs **natural evil** (earthquakes, disease, suffering not caused by will). ✅
 - **"Problem is an offshoot of how God is conceptualised" (2024 PYQ):** the problem bites *only* on a God who is **simultaneously omnipotent + wholly good + creator**. Weaken any attribute (finite God, impersonal Absolute, no God) and the problem dissolves — hence it is **concept-dependent**. ⚠️
+
+### 1.1 Divine profile, additional premises and three burdens
+
+The full classical profile adds **omniscience**: God knows every evil and every
+available prevention. Omniscience is not a separate member of Mackie's familiar
+three-proposition set, but it blocks the reply that evil escaped divine notice.
+
+```text
+G is omnipotent + G is omniscient + G is perfectly good + evil exists
+        + good prevents every evil it can unless a morally sufficient reason exists
+        + unlimited power can prevent any evil whose prevention is logically possible
+        -> alleged contradiction
+```
+
+| Burden | What must be shown |
+|---|---|
+| Logical | The set is inconsistent, or a possible morally sufficient reason restores compatibility |
+| Evidential | The observed amount, kinds or distribution of suffering lowers or does not lower the probability of God |
+| Existential/moral | A response respects lament, agency and the sufferer rather than merely balancing a world-total |
+
+⚠️ Plantinga's defence addresses the first burden. It does not by itself explain
+the actual quantity of suffering or make the divine reason probable.
 
 ---
 
@@ -183,7 +225,12 @@ Concl : it purchases God's innocence at the price of God's sovereignty — the t
 - **Presupposition.** ⚠️ Goodness and being are convertible, and privation can explain experienced evil without trivialising it.
 - **Distinction.** ✅ Calling blindness a privation does not call it unreal; it is a real lack in a subject that ought to possess sight.
 - **Canonical example.** ✅ Rot is not a rival substance to wood but the loss of the wood's proper integrity.
-- **Objection → reply.** ⚠️ Innocent and animal suffering resist punishment-for-sin explanations. Augustinian accounts appeal to fallen order; critics find the historical and moral burden unresolved.
+- **Inherited-guilt control.** ⚠️ A claim that later persons are personally
+  guilty for an ancestor's act is morally harder to defend than the claim that
+  they inherit a damaged condition or disordered social-natural order. The
+  second interpretation reduces the inherited-guilt objection but still owes
+  an account of why a good creator permits the condition and its unequal effects.
+- **Objection → reply.** ⚠️ Innocent and animal suffering resist punishment-for-sin explanations. Augustinian accounts appeal to fallen order; critics find the historical and moral burden unresolved. Privation explains evil's metaphysical dependence on good, but does not by itself justify why this deprivation was permitted.
 
 ### 9.4 Hick's Irenaean soul-making
 - **Doctrine statement.** ✅ Humans are created immature and develop into morally responsible likeness through freedom, epistemic distance and a stable world containing danger.
@@ -206,6 +253,41 @@ Concl : it purchases God's innocence at the price of God's sovereignty — the t
 - **Canonical examples.** ✅ The initial aim as God's persuasive "lure"; Buddhist dependent continuity; Nyāya's *karmādhyakṣa*.
 - **Objection → reply.** ⚠️ Process may yield a God unworthy of worship and unable to guarantee any final victory over evil; karma may rationalise victim-blaming. Replies stress divine solidarity, the objective immortality of achieved value in the consequent nature, and non-retrospective compassion — but neither objection disappears.
 
+#### Karma, beginninglessness and moral caution
+
+- ✅ Karma traditions commonly treat the action–consequence series as
+  **beginningless**, so they do not need to identify a first wrongful act.
+  Beginninglessness blocks one regress question but does not verify any claimed
+  past-life cause.
+- ✅ Non-theistic Buddhist, Jain and Mīmāṃsā accounts do not require a divine
+  distributor; Nyāya and theistic Vedānta assign God a just administrative role
+  without making God the arbitrary author of deserts.
+- ⚠️ The inference from “this person suffers” to “this person deserves it for a
+  specific past act” is unavailable to ordinary observers. Using karma that way
+  is epistemically unsupported and can convert explanation into victim-blaming.
+- ⚠️ Karma addresses distribution more directly than free-will defence, but
+  natural suffering, collective harms and unequal starting conditions still
+  press the fairness and verification of the mechanism.
+- ✅ Whatever its metaphysics, karma does not cancel present duties of
+  compassion, protection and relief; causal explanation is not moral permission
+  to withhold aid.
+
+### 9.5A Greater-good, best-world, mystery, eschatology and anti-theodicy
+
+| Response | Precise claim | Main cost |
+|---|---|---|
+| Greater-good / stable-order | Some goods—freedom, reliable agency, courage or compassion—require risk, regular law and the possibility of loss | May explain the kind of world without explaining the amount or distribution of suffering |
+| Leibnizian best possible world | A perfect God chooses the best total compossible order, not a world containing every local good | There may be no unique best world; world-total optimisation can neglect goodness to particular persons |
+| Eschatological fulfilment | No finite suffering is final; later fulfilment, restoration or union can prevent a life from being finally wasted | Compensation after suffering is not automatically justification for permitting it |
+| Divine mystery | Finite minds may fail to grasp providential reasons | Without an access principle this becomes an unfalsifiable appeal; skeptical theism is the disciplined evidential version |
+| Protest / anti-theodicy | Refusing to justify suffering can protect truthfulness, lament and the moral priority of resistance | Protest diagnoses the ethics of explanation but does not by itself settle the logical or evidential argument |
+
+⚠️ **Compensation is not defeat.** A later good can compensate for loss while
+leaving the evil externally balanced. Adams' stronger requirement is that a
+horrendous evil be defeated within the person's life as a whole. Pastoral
+responsibility therefore requires listening, protection and action before
+speculative explanation; a theodicy never licenses passivity toward preventable harm.
+
 ### 9.6 Evil, the profane and the sacred as religion-forming categories (2019 Q6(b) owner-module)
 > ⚠️ **Ownership rule for this folder.** The **evil / profane** pole is owned *here* (2019 Q6(b): "What role do the concepts of evil and profane play to provide a firm foundation to religion?"). The **sacred / holy as the object of religion** pole is owned by [Religious Experience §9.6](./Religious-Experience.md) (2018 Q7(a)). Each file carries the full conceptual pair so that either question can be answered from one file, and each routes the other half by cross-link. Do not treat this as duplication: the *questions* differ — here the category is **religion-founding**, there it is **object-identifying**.
 
@@ -222,24 +304,24 @@ Concl : it purchases God's innocence at the price of God's sovereignty — the t
 - **Verdict formula.** ⚠️ "Evil and the profane found religion **structurally rather than doctrinally**: they supply the predicament, the boundary and the soteriological task without which religious practice would be unintelligible. But they found *religion*, not *theism* — which is why the same analysis covers Buddhism and Jainism, and why it leaves the theistic problem of evil entirely untouched."
 
 ### 9.7 Horrendous evils (Marilyn McCord Adams)
-- **Doctrine statement.** ✅ **Marilyn McCord Adams** (*Horrendous Evils and the Goodness of God*, 1999) defines a **horrendous evil** as one whose participation — as perpetrator or victim — gives the participant *prima facie* reason to doubt whether their life could be **a great good to them on the whole**. Examples she gives include the betrayal of one's deepest loyalties, participation in the murder of one's own children, and cannibalising one's own offspring.
+- **Doctrine statement.** ✅ **Marilyn McCord Adams** (*Horrendous Evils and the Goodness of God*, 1999) defines a **horrendous evil** as one whose participation — as perpetrator or victim — gives the participant *prima facie* reason to doubt whether their life could be **a great good to them on the whole**. Her cases involve grave betrayal, coerced participation in severe wrongdoing and devastating violence against intimate relations; graphic detail is unnecessary for the philosophical distinction.
 - **Argument.** ✅ (1) Standard theodicies work at the **global** level: they seek a reason why God permits *evil in general*, balancing it off within the world's total value. (2) But horrendous evils threaten the individual's life as a whole — a global balance can be struck while a particular person's life remains, for them, a net disaster. (3) A God who is good *to persons* (not merely a good *producer of worlds*) must therefore **defeat** the horrendous evil **within the frame of the individual's life**, not merely outweigh it globally. (4) Adams argues that only resources internal to a particular religion — divine identification with human suffering, beatific intimacy with God as an incommensurable good — can accomplish that defeat.
 - **Presupposition.** ⚠️ That goodness-to-persons is a distinct and non-negotiable requirement; that there are incommensurable goods (Adams: relationship with God) that can defeat rather than merely counterbalance; and — controversially — that the theodicist is entitled to use religion-specific resources rather than only "generic theism".
 - **Distinction.** ✅ **Balancing off** (the good outweighs the evil in a sum) vs **defeat** (Chisholm's term: the evil becomes an organic part of a whole whose value it contributes to). ✅ **Global** defeat (world-level) vs **local/personal** defeat (life-level). Adams' whole point is that the second is what matters.
-- **Canonical example.** ✅ A parent who, under coercion, participates in the death of their own child: no aggregate of other goods plausibly makes *that life* a great good to *that person* from within.
+- **Canonical example.** ✅ A person coerced into grave harm against someone they love: no aggregate of unrelated goods automatically makes that life a great good to that person from within.
 - **Objection → reply.** ⚠️ **Objection:** the reply is purely eschatological and unverifiable, and it also seems to make the horrendous evil instrumentally necessary. **Reply:** Adams denies instrumentality — the evil need not be *required*; it must be *defeated*. ⚠️ **Second objection:** using Christian-specific resources abandons the neutral philosophical arena. **Reply:** the atheological argument targets a *particular* theism, so a particular theism may answer.
 - **Indian parity.** ⚠️ Karma theory answers a *different* question: it explains the **distribution** of horrendous suffering (why this person) but does not by itself show that the sufferer's life is a great good **to them**; Advaita's ultimate-level sublation and Buddhist liberation both address the predicament by dissolving the standpoint from which the life is evaluated — an answer that critics call evasive and defenders call therapeutic. This contrast is the highest-value paragraph available in a 20-mark answer.
 
 ### 9.8 Animal suffering and the pre-human problem
-- **Doctrine statement.** ✅ Animal pain — predation, parasitism, disease, and mass extinction across hundreds of millions of years before any moral agent existed — is the hardest form of natural evil, because **no free-will defence and no soul-making rationale plainly applies** to a creature that neither chooses nor grows morally.
-- **Argument.** ✅ (1) Vast animal suffering is real and predates humanity; (2) it cannot be the misuse of creaturely free will; (3) it cannot be the environment of *moral* growth for the sufferer; (4) it cannot be retributive; (5) therefore standard theodicies leave it unexplained. **Rowe's fawn** — an animal dying slowly in a lightning-caused forest fire, unseen and unmourned — is the canonical evidential case precisely because it strips away every human-centred justification.
+- **Doctrine statement.** ✅ Animal pain from predation, disease and pre-human natural processes is a hard form of natural evil because **no free-will defence and no soul-making rationale plainly applies** to a creature that neither chooses nor grows morally.
+- **Argument.** ✅ (1) Animal suffering predates human moral agency; (2) it cannot be the misuse of human free will; (3) it cannot straightforwardly be the environment of *moral* growth for the animal sufferer; (4) it cannot simply be called retributive; (5) therefore standard theodicies leave a major remainder. **Rowe's fawn** — severe apparently unobserved suffering after a natural fire — is an evidential case, not a deductive contradiction.
 - **Replies, with their costs.** ⚠️
-  - **Neo-Cartesian:** animals lack the higher-order awareness that makes pain *matter* morally (Michael Murray canvasses this in *Nature Red in Tooth and Claw*, 2008). *Cost:* increasingly implausible given comparative neuroscience.
+  - **Neo-Cartesian:** animals lack the higher-order awareness that makes pain *matter* morally (Michael Murray canvasses this in *Nature Red in Tooth and Claw*, 2008). *Cost:* the premise is philosophically and empirically contested.
   - **Nomic-regularity:** a stable, law-governed world capable of supporting any life at all entails predation and pain; the alternative is constant miracle. *Cost:* explains the *type*, not the *quantity*.
   - **Soul-making extended:** a world of real danger is the only kind in which courage, compassion and stewardship are possible — including *toward animals*. *Cost:* uses animals instrumentally.
   - **Eschatological:** animal fulfilment or redemption in some final state (a minority theological line). *Cost:* unverifiable, and undeveloped.
   - **Fallen-order:** a cosmic fall distorts nature prior to human history. *Cost:* ❓ historically and scientifically strained.
-- **Indian parity (this is where the Indian material genuinely outperforms).** ✅ Karma-saṃsāra extends moral causation to **animal births** (*tiryak-yoni*), so animal suffering is neither gratuitous nor outside the moral order; **Jainism** goes furthest, ascribing *jīva* with graded sense-capacity to every living being — from one-sensed *nigoda* upward — and grounding *ahiṃsā* in that ascription; **Buddhism** places animals within the same field of *dukkha* and extends *karuṇā* to all sentient beings. ⚠️ The cost is symmetrical to karma's general cost: the explanation is unverifiable and risks reading present suffering as deserved.
+- **Indian parity.** ✅ Karma-saṃsāra offers a distinctive distribution-account by extending moral causation to **animal births** (*tiryak-yoni*); **Jainism** ascribes living selves graded sense-capacity and grounds non-injury (*ahiṃsā*) in that recognition; **Buddhism** places animals within the same field of suffering (*dukkha*) and extends compassion (*karuṇā*) to sentient beings. ⚠️ The cost is symmetrical to karma's general cost: the explanation is unverifiable and must not be used to infer that present suffering is deserved.
 - **Objection → reply.** ⚠️ **Objection:** karma explains distribution but is itself the thing in question; and an animal cannot learn from a fruit it cannot understand. **Reply:** karmic maturation is not pedagogical but causal; the moral response it demands (compassion, non-injury) is unaffected by whether the animal grasps it.
 - **Verdict formula.** ⚠️ "Animal suffering is the point at which free-will and soul-making theodicies both run out. Only nomic-regularity survives on the Western side, and it explains the kind of world rather than the amount of pain in it; Indian karma answers the distribution question the West cannot, at the price of an unverifiable trans-life mechanism."
 
@@ -411,3 +493,8 @@ two objections and replies → distinguish defence from theodicy → graded verd
 - Stephen Wykstra on CORNEA; Michael Bergmann and Daniel Howard-Snyder on skeptical theism; Michael Murray, *Nature Red in Tooth and Claw*.
 - Émile Durkheim, *The Elementary Forms of Religious Life*; Mircea Eliade, *The Sacred and the Profane*; Rudolf Otto, *The Idea of the Holy*.
 - Karma discussions in S. C. Chatterjee & D. M. Datta and C. D. Sharma.
+- Local searchable John Hick, *Philosophy of Religion*, print pp. 39–52
+  (PDF pp. 50–64), for the problem, Augustinian, Irenaean and process taxonomy.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, especially
+  PDF pp. 200–230 for defence/theodicy distinctions and the argument from
+  horrors, and PDF pp. 444–446 for the logical-to-evidential transition.

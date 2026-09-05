@@ -1,0 +1,1045 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-02",
+  "subject": "World-History",
+  "title": "AMERICAN REVOLUTION",
+  "short_route": "IMPERIAL GRIEVANCE SYSTEM → CONSTITUTIONAL TAXATION DISPUTE → PROTEST BECOMES COMMON ACTION → THREE ACTORS, THREE FUNCTIONS → WAR INTERNATIONALISES → VICTORY, RECOGNITION, CONSTITUTION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-02\\world-history-02_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-01-02-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "9493fc8b5f2f04323e2676edaef4590d6b572409658dd7fbdf99ab9ab1c580e4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "IMPERIAL GRIEVANCE SYSTEM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IMPERIAL GRIEVANCE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "1763 WAR DEBT",
+          "role": "outcome"
+        },
+        {
+          "text": "TIGHTER BRITISH TAXATION AND REGULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SHIPPING, MARKET AND MANUFACTURING CONSTRAINTS",
+          "role": "evidence"
+        },
+        {
+          "text": "WESTWARD LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "LAND GRIEVANCE PLUS NATIVE DISPOSSESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXISTING INSTITUTIONS CONVERT GRIEVANCE INTO RESISTANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1763 WAR DEBT → tighter British taxation and regulation",
+        "MERCANTILISM → shipping, market and manufacturing constraints",
+        "WESTWARD LIMITS → land grievance plus Native dispossession",
+        "ASSEMBLIES → existing institutions convert grievance into resistance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1763 WAR DEBT → tighter British taxation and regulation",
+            "MERCANTILISM → shipping, market and manufacturing constraints"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WESTWARD LIMITS → land grievance plus Native dispossession",
+            "ASSEMBLIES → existing institutions convert grievance into resistance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1763 WAR DEBT → tighter British taxation and regulation",
+            "MERCANTILISM → shipping, market and manufacturing constraints"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSEMBLIES → existing institutions convert grievance into resistance.",
+      "source_references": [
+        "Post-1763 imperial reordering"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONSTITUTIONAL TAXATION DISPUTE",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL TAXATION DISPUTE",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "PARLIAMENT MAY TAX THE COLONIES",
+          "role": "comparison"
+        },
+        {
+          "text": "COLONIAL CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSEMBLIES REPRESENT COLONIAL TAXPAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "STAMP ACT 1765",
+          "role": "institution"
+        },
+        {
+          "text": "PRINCIPLE BECOMES EXPLICIT",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL PROTEST BECOMES A SOVEREIGNTY DISPUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRITISH CLAIM → Parliament may tax the colonies",
+        "COLONIAL CLAIM → assemblies represent colonial taxpayers",
+        "STAMP ACT 1765 → principle becomes explicit",
+        "OUTCOME → fiscal protest becomes a sovereignty dispute"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRITISH CLAIM → Parliament may tax the colonies",
+            "COLONIAL CLAIM → assemblies represent colonial taxpayers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STAMP ACT 1765 → principle becomes explicit",
+            "OUTCOME → fiscal protest becomes a sovereignty dispute"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRITISH CLAIM → Parliament may tax the colonies",
+            "COLONIAL CLAIM → assemblies represent colonial taxpayers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → fiscal protest becomes a sovereignty dispute.",
+      "source_references": [
+        "Taxation without representation"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PROTEST BECOMES COMMON ACTION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PROTEST BECOMES COMMON ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "BOSTON TEA PARTY",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST CONTINENTAL CONGRESS, PHILADELPHIA",
+          "role": "comparison"
+        },
+        {
+          "text": "LEXINGTON AND CONCORD",
+          "role": "evidence"
+        },
+        {
+          "text": "DECLARATION TURNS RESISTANCE INTO INDEPENDENCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1773 → Boston Tea Party",
+        "1774 → First Continental Congress, Philadelphia",
+        "1775 → Lexington and Concord",
+        "1776 → Declaration turns resistance into independence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1773 → Boston Tea Party",
+            "1774 → First Continental Congress, Philadelphia"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1775 → Lexington and Concord",
+            "1776 → Declaration turns resistance into independence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1773 → Boston Tea Party",
+            "1774 → First Continental Congress, Philadelphia"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1775 → Lexington and Concord; 1776 → Declaration turns resistance into independence.",
+      "source_references": [
+        "Boston resistance and inter-colonial coordination",
+        "From Lexington to independence"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THREE ACTORS, THREE FUNCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE ACTORS, THREE FUNCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DRAFTS THE DECLARATION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMON SENSE SUPPLIES POPULAR IDEOLOGICAL FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMANDS AMERICAN ARMIES",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT EXCHANGE AUTHORSHIP, ARGUMENT AND COMMAND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "JEFFERSON → drafts the Declaration",
+        "PAINE → Common Sense supplies popular ideological force",
+        "WASHINGTON → commands American armies",
+        "RULE → do not exchange authorship, argument and command"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "JEFFERSON → drafts the Declaration",
+          "WASHINGTON → commands American armies",
+          "JEFFERSON → drafts the Declaration"
+        ],
+        [
+          "PAINE → Common Sense supplies popular ideological force",
+          "RULE → do not exchange authorship, argument and command",
+          "PAINE → Common Sense supplies popular ideological force"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JEFFERSON → drafts the Declaration",
+            "PAINE → Common Sense supplies popular ideological force"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WASHINGTON → commands American armies",
+            "RULE → do not exchange authorship, argument and command"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JEFFERSON → drafts the Declaration",
+            "PAINE → Common Sense supplies popular ideological force"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → do not exchange authorship, argument and command.",
+      "source_references": [
+        "Jefferson, Paine and Washington"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WAR INTERNATIONALISES",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WAR INTERNATIONALISES",
+          "role": "primary"
+        },
+        {
+          "text": "SARATOGA 1777",
+          "role": "outcome"
+        },
+        {
+          "text": "COLONIAL SURVIVAL BECOMES CREDIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "FRENCH ALLIANCE 1778",
+          "role": "evidence"
+        },
+        {
+          "text": "MONEY, ARMS, FLEET AND WIDER WAR",
+          "role": "primary"
+        },
+        {
+          "text": "FACES PRESSURE BEYOND NORTH AMERICA",
+          "role": "outcome"
+        },
+        {
+          "text": "YORKTOWN 1781",
+          "role": "comparison"
+        },
+        {
+          "text": "DECISIVE MILITARY TURNING POINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SARATOGA 1777 → colonial survival becomes credible",
+        "FRENCH ALLIANCE 1778 → money, arms, fleet and wider war",
+        "BRITAIN → faces pressure beyond North America",
+        "YORKTOWN 1781 → decisive military turning point"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SARATOGA 1777 → colonial survival becomes credible",
+            "FRENCH ALLIANCE 1778 → money, arms, fleet and wider war"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRITAIN → faces pressure beyond North America",
+            "YORKTOWN 1781 → decisive military turning point"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SARATOGA 1777 → colonial survival becomes credible",
+            "FRENCH ALLIANCE 1778 → money, arms, fleet and wider war"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRENCH ALLIANCE 1778 → money, arms, fleet and wider war.",
+      "source_references": [
+        "Saratoga and internationalisation"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VICTORY, RECOGNITION, CONSTITUTION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "VICTORY, RECOGNITION, CONSTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "YORKTOWN 1781",
+          "role": "outcome"
+        },
+        {
+          "text": "MILITARY DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATY OF PARIS 1783",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGAL RECOGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTION 1789",
+          "role": "outcome"
+        },
+        {
+          "text": "DURABLE FEDERAL STATE FORM",
+          "role": "institution"
+        },
+        {
+          "text": "BILL OF RIGHTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "YORKTOWN 1781 → military decision",
+        "TREATY OF PARIS 1783 → legal recognition",
+        "CONSTITUTION 1789 → durable federal state form",
+        "BILL OF RIGHTS → liberties entrenched against government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "YORKTOWN 1781 → military decision",
+            "TREATY OF PARIS 1783 → legal recognition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTION 1789 → durable federal state form",
+            "BILL OF RIGHTS → liberties entrenched against government"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "YORKTOWN 1781 → military decision",
+            "TREATY OF PARIS 1783 → legal recognition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BILL OF RIGHTS → liberties entrenched against government.",
+      "source_references": [
+        "Yorktown and the Paris settlement",
+        "Written federal constitutionalism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DECLARATION VERSUS CONSTITUTION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DECLARATION VERSUS CONSTITUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DECLARATION 1776",
+          "role": "outcome"
+        },
+        {
+          "text": "WHY INDEPENDENCE IS LEGITIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES PHASE 1781",
+          "role": "evidence"
+        },
+        {
+          "text": "STATES COOPERATE UNDER WEAK UNION",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTION 1789",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW FEDERAL POWER IS ORGANISED",
+          "role": "mechanism"
+        },
+        {
+          "text": "BILL OF RIGHTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DECLARATION 1776 → why independence is legitimate",
+        "ARTICLES PHASE 1781 → states cooperate under weak union",
+        "CONSTITUTION 1789 → how federal power is organised",
+        "BILL OF RIGHTS → what government is forbidden to violate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DECLARATION 1776 → why independence is legitimate",
+          "CONSTITUTION 1789 → how federal power is organised",
+          "DECLARATION 1776 → why independence is legitimate"
+        ],
+        [
+          "ARTICLES PHASE 1781 → states cooperate under weak union",
+          "BILL OF RIGHTS → what government is forbidden to violate",
+          "ARTICLES PHASE 1781 → states cooperate under weak union"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DECLARATION 1776 → why independence is legitimate",
+            "ARTICLES PHASE 1781 → states cooperate under weak union"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTION 1789 → how federal power is organised",
+            "BILL OF RIGHTS → what government is forbidden to violate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DECLARATION 1776 → why independence is legitimate",
+            "ARTICLES PHASE 1781 → states cooperate under weak union"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BILL OF RIGHTS → what government is forbidden to violate.",
+      "source_references": [
+        "The Articles-era problem",
+        "Written federal constitutionalism"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POLITICAL REVOLUTION LEDGER",
+      "structural_type": "comparison-table",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POLITICAL REVOLUTION LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "REPLACED BY FEDERAL REPUBLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "WRITTEN CONSTITUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE POWERS PLACED IN A TEXT",
+          "role": "institution"
+        },
+        {
+          "text": "BECOME STANDARDS OF LEGITIMATE GOVERNMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EMPIRE → rejected",
+        "MONARCHY → replaced by federal republic",
+        "WRITTEN CONSTITUTION → state powers placed in a text",
+        "RIGHTS → become standards of legitimate government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EMPIRE → rejected",
+            "MONARCHY → replaced by federal republic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WRITTEN CONSTITUTION → state powers placed in a text",
+            "RIGHTS → become standards of legitimate government"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EMPIRE → rejected",
+            "MONARCHY → replaced by federal republic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WRITTEN CONSTITUTION → state powers placed in a text.",
+      "source_references": [
+        "What was genuinely revolutionary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SOCIAL LIMITS LEDGER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL LIMITS LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "PROPERTY AND STATUS RESTRICTIONS REMAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "NO EQUIVALENT POLITICAL CITIZENSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "NATIVE PEOPLES",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPANSION INTENSIFIES DISPOSSESSION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SLAVERY → survives",
+        "FRANCHISE → property and status restrictions remain",
+        "WOMEN → no equivalent political citizenship",
+        "NATIVE PEOPLES → expansion intensifies dispossession"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SLAVERY → survives",
+          "WOMEN → no equivalent political citizenship",
+          "SLAVERY → survives"
+        ],
+        [
+          "FRANCHISE → property and status restrictions remain",
+          "NATIVE PEOPLES → expansion intensifies dispossession",
+          "FRANCHISE → property and status restrictions remain"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SLAVERY → survives",
+            "FRANCHISE → property and status restrictions remain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WOMEN → no equivalent political citizenship",
+            "NATIVE PEOPLES → expansion intensifies dispossession"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SLAVERY → survives",
+            "FRANCHISE → property and status restrictions remain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WOMEN → no equivalent political citizenship; NATIVE PEOPLES → expansion intensifies dispossession.",
+      "source_references": [
+        "Rights and exclusions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WORLD-HISTORICAL EXPORT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WORLD-HISTORICAL EXPORT",
+          "role": "primary"
+        },
+        {
+          "text": "ANTI-IMPERIAL CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "REBELLION JUSTIFIED THROUGH RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVIVES WAR AND DIPLOMATIC RECOGNITION",
+          "role": "evidence"
+        },
+        {
+          "text": "WRITTEN CONSTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "BECOMES AN EXPORTABLE STATE MODEL",
+          "role": "institution"
+        },
+        {
+          "text": "FRANCE, EUROPE AND LATIN AMERICA OBSERVE THE PRECEDENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ANTI-IMPERIAL CLAIM → rebellion justified through rights",
+        "REPUBLIC → survives war and diplomatic recognition",
+        "WRITTEN CONSTITUTION → becomes an exportable state model",
+        "INFLUENCE → France, Europe and Latin America observe the precedent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANTI-IMPERIAL CLAIM → rebellion justified through rights",
+            "REPUBLIC → survives war and diplomatic recognition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WRITTEN CONSTITUTION → becomes an exportable state model",
+            "INFLUENCE → France, Europe and Latin America observe the precedent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANTI-IMPERIAL CLAIM → rebellion justified through rights",
+            "REPUBLIC → survives war and diplomatic recognition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INFLUENCE → France, Europe and Latin America observe the precedent.",
+      "source_references": [
+        "The international republican precedent"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "AMERICA VERSUS FRANCE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AMERICA VERSUS FRANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BREAKS EXTERNAL IMPERIAL AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTACKS INTERNAL PRIVILEGE AND FEUDAL ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL STABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DEEPER SOCIAL RUPTURE AND RADICALISATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AMERICA → breaks external imperial authority",
+        "FRANCE → attacks internal privilege and feudal order",
+        "AMERICA → constitutional stability",
+        "FRANCE → deeper social rupture and radicalisation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AMERICA → breaks external imperial authority",
+          "AMERICA → constitutional stability",
+          "AMERICA → breaks external imperial authority"
+        ],
+        [
+          "FRANCE → attacks internal privilege and feudal order",
+          "FRANCE → deeper social rupture and radicalisation",
+          "FRANCE → attacks internal privilege and feudal order"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AMERICA → breaks external imperial authority",
+            "FRANCE → attacks internal privilege and feudal order"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AMERICA → constitutional stability",
+            "FRANCE → deeper social rupture and radicalisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AMERICA → breaks external imperial authority",
+            "FRANCE → attacks internal privilege and feudal order"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRANCE → attacks internal privilege and feudal order.",
+      "source_references": [
+        "America and France compared"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "QUALIFIED AMERICAN VERDICT",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "QUALIFIED AMERICAN VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "EMPIRE, TAXATION, ASSEMBLIES, RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTEST, WAR, ALLIANCE, TREATY",
+          "role": "comparison"
+        },
+        {
+          "text": "WRITTEN FEDERAL REPUBLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "SLAVERY AND EXCLUSION SURVIVE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAUSE → empire, taxation, assemblies, rights",
+        "COURSE → protest, war, alliance, treaty",
+        "CREATION → written federal republic",
+        "QUALIFICATION → slavery and exclusion survive"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAUSE → empire, taxation, assemblies, rights",
+            "COURSE → protest, war, alliance, treaty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CREATION → written federal republic",
+            "QUALIFICATION → slavery and exclusion survive"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUSE → empire, taxation, assemblies, rights",
+            "COURSE → protest, war, alliance, treaty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CREATION → written federal republic; QUALIFICATION → slavery and exclusion survive.",
+      "source_references": [
+        "Integrated verdict: radical and conservative"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OLD NCERT CLEARLY NOTES THAT THE REPUBLIC WAS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "VOTING REMAINED LIMITED AND ENSLAVED BLACKS, NATIVE AMERICANS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS IS A HIGH-VALUE GS-I POINT",
+          "role": "evidence"
+        },
+        {
+          "text": "THE RHETORIC OF UNIVERSAL RIGHTS OUTRAN THE ACTUAL SOCIAL",
+          "role": "primary"
+        },
+        {
+          "text": "OLD NCERT SAYS THE AMERICAN EXAMPLE INSPIRED MANY REVOLUTIONARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE LIBRARY OF CONGRESS AND BRITANNICA BOTH TREAT THE",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS GREATEST LONG-TERM SIGNIFICANCE WAS NOT ONLY INDEPENDENCE FROM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Old NCERT clearly notes that the republic was not truly democratic at birth because",
+            "voting remained limited and enslaved Blacks, Native Americans and women lacked equal political rights.",
+            "CAUTION: This is a high-value GS-I point: the rhetoric of universal rights outran the actual social order .",
+            "Old NCERT says the American example inspired many revolutionaries in France , Europe , and Central and South America ."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The Library of Congress and Britannica both treat the French alliance as the major turning point in making the war international.",
+            "CAUTION: Its greatest long-term significance was not only independence from Britain, but the proof",
+            "that a written republican constitution could replace monarchy as a legitimate state form.",
+            "CAUTION: In comparative answers, call the American Revolution a precedent-setting republic , while"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "the French Revolution was the more socially radical assault on old-order privilege.",
+            "CAUTION: Use cautiously: the American case is not a model of mass anti-colonial nationalism in the later Asian sense.",
+            "CAUTION: Its stronger relevance for Indian and comparative answers lies in the",
+            "language of representation, rights, constitutionalism and resistance to extractive imperial control ."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

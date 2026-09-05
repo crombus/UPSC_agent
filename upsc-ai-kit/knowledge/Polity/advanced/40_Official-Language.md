@@ -8,13 +8,12 @@
 ---
 
 # PART A — LANGUAGE OF THE UNION (Arts 343–344) ⭐⭐
-- ✅ **Art 343:** **Hindi in Devanagari script** = **official language of the Union**; numerals = **international
-  (Indian) form**, not Devanagari.
+- ✅ **Art 343:** **Hindi in Devanagari script** = **official language of the Union**; numerals = the **international form of Indian numerals**, not the Devanagari form.
 - ✅ **English** to continue for **15 years (1950–1965)**; Parliament may extend its use beyond that.
 - ✅ **Language Commissions** (5th & 10th year): first under **B.G. Kher (1955)**; examined by a parliamentary
   committee under **G.B. Pant (1957)**.
-- ✅ **Official Languages Act, 1963** — allows **English indefinitely** (no time limit) alongside Hindi;
-  **amended 1967** to make English use **compulsory** in certain cases (a response to anti-Hindi agitation in the South).
+- ✅ **Official Languages Act, 1963** — continues English **in addition to Hindi** for specified Union purposes and parliamentary business;
+  substituted section 3, effective in 1968 after the 1967 amendment, requires English in specified communications and creates a State-plus-Parliament discontinuance lock.
 
 > ⭐ **Key trap:** Hindi is the **official** language — **NOT the "national language."** India has **no national
 > language** (constitutionally).
@@ -67,9 +66,9 @@ Union Home Minister**; reviews the progress of Hindi and reports to the **Presid
 - ❌ Hindi is the "national language" → it is the **official language of the Union**; **India has no national language**.
 - ❌ The Eighth Schedule has 18 languages → **22** (originally 14).
 - ❌ States must pick an official language from the Eighth Schedule → **not restricted** to it.
-- ❌ English use ended in 1965 → **Official Languages Act 1963** continues it **indefinitely**.
+- ❌ English use ended in 1965 → **Official Languages Act 1963, section 3** continues it subject to its exact statutory safeguards.
 - ❌ Classical-language status is under the Eighth Schedule → it is a **separate government scheme**, unrelated to the 8th Schedule.
-- ❌ HC judgments can be delivered in Hindi with Governor's nod → only **proceedings**; **judgments/orders remain in English**.
+- ❌ Article 348(2) alone authorises non-English HC judgments → it covers proceedings but excludes judgments, decrees and orders; **section 7 of the 1963 Act** supplies a separate route with an authorised English translation.
 
 ## 📰 CA hooks (official-source verified)
 - 📰 **Classical Language** status (a **separate scheme**, not the 8th Schedule): **Oct 2024** — **Marathi, Pali,
@@ -77,7 +76,7 @@ Union Home Minister**; reviews the progress of Hindi and reports to the **Presid
   Kannada & Telugu-2008, Malayalam-2013, Odia-2014).
 - 📰 **NEP 2020 "three-language formula"** row — **Tamil Nadu's** opposition to alleged **Hindi imposition**;
   federal-language politics.
-- 📰 Pending **demands to add ~38 languages** (Bhojpuri, Rajasthani, etc.) to the **Eighth Schedule**.
+- 📰 Additional-language demands remain proposals unless enacted through constitutional amendment; do not freeze a disputed demand count as settled law.
 
 ## Mains angles
 - "India has an official language but no national language." Discuss the constitutional wisdom of this scheme.

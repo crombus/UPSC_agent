@@ -1,0 +1,940 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-16",
+  "subject": "Polity",
+  "title": "PM AND COUNCIL OF MINISTERS",
+  "short_route": "RESPONSIBLE EXECUTIVE → APPOINTMENT → PM POWERS → COUNCIL/CABINET → RESPONSIBILITY → BUSINESS RULES → COMMITTEES → SUPPORT BODIES → POLITICAL VARIATION → ACCOUNTABILITY → PYQS → ANSWER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g4\\polity-16_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-16-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "157d315486ea1dc71e78b81ff6a774f0bc21f6ef39357e58f031c8849cee7d39",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RESPONSIBLE EXECUTIVE AND CONSTITUTIONAL CHAIN",
+      "structural_type": "topic-map",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 74 CREATES PM-HEADED ADVICE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 75 CREATES RESPONSIBILITY TO LOK SABHA",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 77 GIVES FORMAL EXPRESSION AND BUSINESS RULES",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 78 PRESERVES THE INFORMATION BRIDGE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Article 74 creates PM-headed advice",
+        "Article 75 creates responsibility to Lok Sabha",
+        "Article 77 gives formal expression and business rules",
+        "Article 78 preserves the information bridge"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Article 74 creates PM-headed advice",
+            "Article 75 creates responsibility to Lok Sabha"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Article 75 creates responsibility to Lok Sabha",
+            "Article 77 gives formal expression and business rules"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 77 gives formal expression and business rules",
+            "Article 78 preserves the information bridge"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "The President supplies constitutional form while the PM-led Council supplies politically responsible executive choice."
+          ]
+        }
+      ],
+      "mechanism_strip": "The President supplies constitutional form while the PM-led Council supplies politically responsible executive choice.",
+      "answer_line": "The President supplies constitutional form while the PM-led Council supplies politically responsible executive choice.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PRIME MINISTER APPOINTMENT, ELIGIBILITY AND CONFIDENCE",
+      "structural_type": "topic-map",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLEAR MAJORITY NARROWS PRESIDENTIAL CHOICE",
+          "role": "primary"
+        },
+        {
+          "text": "HUNG HOUSE REQUIRES OBJECTIVE SUPPORT MATERIAL",
+          "role": "institution"
+        },
+        {
+          "text": "PROMPT FLOOR TEST DETERMINES SURVIVAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 75(5) ALLOWS ONLY SIX CONSECUTIVE MONTHS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Clear majority narrows presidential choice",
+        "Hung House requires objective support material",
+        "Prompt floor test determines survival",
+        "Article 75(5) allows only six consecutive months"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Clear majority narrows presidential choice",
+            "Hung House requires objective support material"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Hung House requires objective support material",
+            "Prompt floor test determines survival"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Prompt floor test determines survival",
+            "Article 75(5) allows only six consecutive months"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Appointment begins government formation, but Lok Sabha confidence completes democratic authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "Appointment begins government formation, but Lok Sabha confidence completes democratic authority.",
+      "answer_line": "Appointment begins government formation, but Lok Sabha confidence completes democratic authority.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PRIME MINISTER POWERS AND PRESIDENTIAL RELATION",
+      "structural_type": "topic-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SELECTS MINISTERS AND ALLOCATES PORTFOLIOS",
+          "role": "primary"
+        },
+        {
+          "text": "CHAIRS CABINET AND COORDINATES POLICY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 78 CHANNELS INFORMATION TO PRESIDENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTY AND COALITION ARITHMETIC CONDITION POWER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Selects ministers and allocates portfolios",
+        "Chairs Cabinet and coordinates policy",
+        "Article 78 channels information to President",
+        "Party and coalition arithmetic condition power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Selects ministers and allocates portfolios",
+            "Chairs Cabinet and coordinates policy"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Chairs Cabinet and coordinates policy",
+            "Article 78 channels information to President"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 78 channels information to President",
+            "Party and coalition arithmetic condition power"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Prime-ministerial authority combines constitutional position with party leadership and remains conditional on confidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "Prime-ministerial authority combines constitutional position with party leadership and remains conditional on confidence.",
+      "answer_line": "Prime-ministerial authority combines constitutional position with party leadership and remains conditional on confidence.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COUNCIL, CABINET, RANKS AND THE 91ST AMENDMENT",
+      "structural_type": "topic-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COUNCIL IS THE WIDER CONSTITUTIONAL MINISTRY",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET IS THE CABINET-RANK DECISION CORE",
+          "role": "institution"
+        },
+        {
+          "text": "RANKS ARE CONVENTIONAL, NOT A FOUR-RANK CONSTITUTIONAL CODE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 75(1A) USES TOTAL LOK SABHA MEMBERSHIP",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Council is the wider constitutional ministry",
+        "Cabinet is the Cabinet-rank decision core",
+        "Ranks are conventional, not a four-rank constitutional code",
+        "Article 75(1A) uses total Lok Sabha membership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Council is the wider constitutional ministry",
+            "Cabinet is the Cabinet-rank decision core"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Cabinet is the Cabinet-rank decision core",
+            "Ranks are conventional, not a four-rank constitutional code"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Ranks are conventional, not a four-rank constitutional code",
+            "Article 75(1A) uses total Lok Sabha membership"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "The 91st Amendment disciplines ministry size and defectors without fixing the actual size or ranks of the ministry."
+          ]
+        }
+      ],
+      "mechanism_strip": "The 91st Amendment disciplines ministry size and defectors without fixing the actual size or ranks of the ministry.",
+      "answer_line": "The 91st Amendment disciplines ministry size and defectors without fixing the actual size or ranks of the ministry.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COLLECTIVE, INDIVIDUAL AND LEGAL RESPONSIBILITY",
+      "structural_type": "topic-map",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 75(3): MINISTRY STANDS OR FALLS TOGETHER",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 75(2): PM ENFORCES INDIVIDUAL EXIT",
+          "role": "institution"
+        },
+        {
+          "text": "CABINET SOLIDARITY REQUIRES PUBLIC DEFENCE OR RESIGNATION",
+          "role": "evidence"
+        },
+        {
+          "text": "NO UNIVERSAL COUNTERSIGNATURE DOES NOT ERASE ORDINARY LIABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Article 75(3): ministry stands or falls together",
+        "Article 75(2): PM enforces individual exit",
+        "Cabinet solidarity requires public defence or resignation",
+        "No universal countersignature does not erase ordinary liability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Article 75(3): ministry stands or falls together",
+            "Article 75(2): PM enforces individual exit"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Article 75(2): PM enforces individual exit",
+            "Cabinet solidarity requires public defence or resignation"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Cabinet solidarity requires public defence or resignation",
+            "No universal countersignature does not erase ordinary liability"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Responsibility is strongest when confidence, solidarity, personal discipline and legal accountability are kept distinct."
+          ]
+        }
+      ],
+      "mechanism_strip": "Responsibility is strongest when confidence, solidarity, personal discipline and legal accountability are kept distinct.",
+      "answer_line": "Responsibility is strongest when confidence, solidarity, personal discipline and legal accountability are kept distinct.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARTICLE 77 AND GOVERNMENT BUSINESS",
+      "structural_type": "topic-map",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ALLOCATION RULES ANSWER WHO HANDLES A SUBJECT",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSACTION RULES ANSWER HOW IMPORTANT CASES MOVE",
+          "role": "institution"
+        },
+        {
+          "text": "DEFINED CASES ESCALATE TO PM, COMMITTEES, CABINET OR PRESIDENT",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHENTICATION IS NOT PERSONAL PRESIDENTIAL DECISION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Allocation Rules answer who handles a subject",
+        "Transaction Rules answer how important cases move",
+        "Defined cases escalate to PM, committees, Cabinet or President",
+        "Authentication is not personal presidential decision"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Allocation Rules answer who handles a subject",
+            "Transaction Rules answer how important cases move"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Transaction Rules answer how important cases move",
+            "Defined cases escalate to PM, committees, Cabinet or President"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Defined cases escalate to PM, committees, Cabinet or President",
+            "Authentication is not personal presidential decision"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Article 77 turns political direction into traceable departmental action through allocation, consultation and escalation."
+          ]
+        }
+      ],
+      "mechanism_strip": "Article 77 turns political direction into traceable departmental action through allocation, consultation and escalation.",
+      "answer_line": "Article 77 turns political direction into traceable departmental action through allocation, consultation and escalation.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CABINET COMMITTEES AND CURRENT CONTROL",
+      "structural_type": "topic-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STANDING AND AD HOC COMMITTEES SPECIALISE CABINET WORK",
+          "role": "primary"
+        },
+        {
+          "text": "CABINET RETAINS THE COLLECTIVE-RESPONSIBILITY FRAME",
+          "role": "institution"
+        },
+        {
+          "text": "NUMBER, MEMBERSHIP AND CHAIRS VARY BY NOTIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIAL COMPOSITION DOCUMENT IS DATED 27 JULY 2026",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Standing and ad hoc committees specialise Cabinet work",
+        "Cabinet retains the collective-responsibility frame",
+        "Number, membership and chairs vary by notification",
+        "Official composition document is dated 27 July 2026"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Standing and ad hoc committees specialise Cabinet work",
+            "Cabinet retains the collective-responsibility frame"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Cabinet retains the collective-responsibility frame",
+            "Number, membership and chairs vary by notification"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Number, membership and chairs vary by notification",
+            "Official composition document is dated 27 July 2026"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Cabinet Committees improve specialisation, but current composition must come from the dated official notification."
+          ]
+        }
+      ],
+      "mechanism_strip": "Cabinet Committees improve specialisation, but current composition must come from the dated official notification.",
+      "answer_line": "Cabinet Committees improve specialisation, but current composition must come from the dated official notification.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CABINET SECRETARIAT, PMO AND INFORMAL SUPPORT",
+      "structural_type": "topic-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CABINET SECRETARIAT ADMINISTERS BUSINESS RULES",
+          "role": "primary"
+        },
+        {
+          "text": "IT RECORDS, COORDINATES AND MONITORS CABINET DECISIONS",
+          "role": "institution"
+        },
+        {
+          "text": "PMO IS NON-CONSTITUTIONAL STAFF SUPPORT WITHOUT INDEPENDENT COMPETENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "KITCHEN CABINET AND GOMS ARE INFORMAL OR AD HOC MECHANISMS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Cabinet Secretariat administers business rules",
+        "It records, coordinates and monitors Cabinet decisions",
+        "PMO is non-constitutional staff support without independent competence",
+        "Kitchen Cabinet and GoMs are informal or ad hoc mechanisms"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Cabinet Secretariat administers business rules",
+            "It records, coordinates and monitors Cabinet decisions"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "It records, coordinates and monitors Cabinet decisions",
+            "PMO is non-constitutional staff support without independent competence"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "PMO is non-constitutional staff support without independent competence",
+            "Kitchen Cabinet and GoMs are informal or ad hoc mechanisms"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Coordination bodies assist the formal executive but cannot replace ministerial competence or parliamentary responsibility."
+          ]
+        }
+      ],
+      "mechanism_strip": "Coordination bodies assist the formal executive but cannot replace ministerial competence or parliamentary responsibility.",
+      "answer_line": "Coordination bodies assist the formal executive but cannot replace ministerial competence or parliamentary responsibility.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CARETAKER, COALITION AND CONTINUITY",
+      "structural_type": "topic-map",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PM RESIGNATION OR DEATH ENDS THE MINISTRY POLITICALLY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 74 REQUIRES CONTINUITY UNTIL SUCCESSOR ASSUMES OFFICE",
+          "role": "institution"
+        },
+        {
+          "text": "COALITION BARGAINING AFFECTS SOLIDARITY, NOT ARTICLE 75(3)",
+          "role": "evidence"
+        },
+        {
+          "text": "CARETAKER RESTRAINT IS CONVENTION, NOT A SEPARATE CONSTITUTIONAL CODE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PM resignation or death ends the ministry politically",
+        "Article 74 requires continuity until successor assumes office",
+        "Coalition bargaining affects solidarity, not Article 75(3)",
+        "Caretaker restraint is convention, not a separate constitutional code"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "PM resignation or death ends the ministry politically",
+            "Article 74 requires continuity until successor assumes office"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Article 74 requires continuity until successor assumes office",
+            "Coalition bargaining affects solidarity, not Article 75(3)"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Coalition bargaining affects solidarity, not Article 75(3)",
+            "Caretaker restraint is convention, not a separate constitutional code"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Political arithmetic changes the intensity of PM power, while constitutional continuity and confidence remain constant."
+          ]
+        }
+      ],
+      "mechanism_strip": "Political arithmetic changes the intensity of PM power, while constitutional continuity and confidence remain constant.",
+      "answer_line": "Political arithmetic changes the intensity of PM power, while constitutional continuity and confidence remain constant.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PARLIAMENTARY ACCOUNTABILITY AND PRIME-MINISTERIAL GOVERNMENT",
+      "structural_type": "topic-map",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "QUESTION HOUR, COMMITTEES, FINANCE AND AUDIT CREATE SCRUTINY",
+          "role": "primary"
+        },
+        {
+          "text": "NO-CONFIDENCE SUPPLIES THE COLLECTIVE SANCTION",
+          "role": "institution"
+        },
+        {
+          "text": "WHIP AND TENTH SCHEDULE MAY COMPRESS LEGISLATIVE AUTONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "COURTS, FEDERALISM, ELECTIONS AND CABINET COLLEAGUES CONSTRAIN DOMINANCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Question Hour, committees, finance and audit create scrutiny",
+        "No-confidence supplies the collective sanction",
+        "Whip and Tenth Schedule may compress legislative autonomy",
+        "Courts, federalism, elections and Cabinet colleagues constrain dominance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Question Hour, committees, finance and audit create scrutiny",
+            "No-confidence supplies the collective sanction"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "No-confidence supplies the collective sanction",
+            "Whip and Tenth Schedule may compress legislative autonomy"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Whip and Tenth Schedule may compress legislative autonomy",
+            "Courts, federalism, elections and Cabinet colleagues constrain dominance"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "India shows a prime-ministerial tendency within cabinet government, not a legal replacement of cabinet government."
+          ]
+        }
+      ],
+      "mechanism_strip": "India shows a prime-ministerial tendency within cabinet government, not a legal replacement of cabinet government.",
+      "answer_line": "India shows a prime-ministerial tendency within cabinet government, not a legal replacement of cabinet government.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PYQ AND PRELIMS TRAP ROUTES",
+      "structural_type": "topic-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SHAMSHER SINGH (1974): RESPONSIBLE ADVICE",
+          "role": "primary"
+        },
+        {
+          "text": "S.R. CHAUDHURI (2001): SIX-MONTH RULE CANNOT BE SERIALISED",
+          "role": "institution"
+        },
+        {
+          "text": "2024 GS-II Q3 ASKS HOW CABINET GROWTH MARGINALISES SCRUTINY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 88 GIVES PARTICIPATION, NOT A VOTE WITHOUT MEMBERSHIP",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Shamsher Singh (1974) anchors responsible ministerial advice",
+        "S.R. Chaudhuri (2001) bars serial abuse of the six-month rule",
+        "2024 GS-II Q3 asks how Cabinet growth marginalises scrutiny",
+        "Article 88 gives participation, not a vote without membership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Shamsher Singh (1974) anchors responsible ministerial advice",
+            "S.R. Chaudhuri (2001) bars serial abuse of the six-month rule"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "S.R. Chaudhuri (2001) bars serial abuse of the six-month rule",
+            "2024 GS-II Q3 asks how Cabinet growth marginalises scrutiny"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "2024 GS-II Q3 asks how Cabinet growth marginalises scrutiny",
+            "Article 88 gives participation, not a vote without membership"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "High-scoring responses identify the exact provision, reject frozen counts and separate Union rules from State analogues."
+          ]
+        }
+      ],
+      "mechanism_strip": "High-scoring responses identify the exact provision, reject frozen counts and separate Union rules from State analogues.",
+      "answer_line": "High-scoring responses identify the exact provision, reject frozen counts and separate Union rules from State analogues.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER EXECUTION, REFORM AND QUALIFIED VERDICT",
+      "structural_type": "exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "10 MARKS: PROVISION, MECHANISM, LIMITATION, VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "15 MARKS: ADD INSTITUTIONAL CHAIN AND NAMED EVIDENCE",
+          "role": "institution"
+        },
+        {
+          "text": "20 MARKS: BALANCE CONCENTRATION AGAINST COUNTERWEIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "REFORMS MUST TARGET WHIP, SCRUTINY, PMO SUBSIDIARITY AND TRACEABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "10 marks: provision, mechanism, limitation, verdict",
+        "15 marks: add institutional chain and named evidence",
+        "20 marks: balance concentration against counterweights",
+        "Reforms must target whip, scrutiny, PMO subsidiarity and traceability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "10 marks: provision, mechanism, limitation, verdict",
+            "15 marks: add institutional chain and named evidence"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "15 marks: add institutional chain and named evidence",
+            "20 marks: balance concentration against counterweights"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "20 marks: balance concentration against counterweights",
+            "Reforms must target whip, scrutiny, PMO subsidiarity and traceability"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Strong executive coordination earns constitutional legitimacy only when each decision remains traceable to collective responsibility."
+          ]
+        }
+      ],
+      "mechanism_strip": "Strong executive coordination earns constitutional legitimacy only when each decision remains traceable to collective responsibility.",
+      "answer_line": "Strong executive coordination earns constitutional legitimacy only when each decision remains traceable to collective responsibility.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "OPTIONAL ENRICHMENT — NOT REQUIRED FOR A COMPETENT CORE ANSWER",
+      "structural_type": "topic-map",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CROSSMAN AND MACKINTOSH SUPPLY ANALYTICAL LABELS",
+          "role": "primary"
+        },
+        {
+          "text": "MORLEY AND JENNINGS ARE ATTRIBUTED CHARACTERISATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "COMPARATIVE WESTMINSTER PRACTICE CAN REFINE EVALUATION",
+          "role": "evidence"
+        },
+        {
+          "text": "NONE OF THIS ENRICHMENT REPAIRS MISSING CORE DOCTRINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Crossman and Mackintosh supply analytical labels",
+        "Morley and Jennings are attributed characterisations",
+        "Comparative Westminster practice can refine evaluation",
+        "None of this enrichment repairs missing Core doctrine"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS",
+          "role": "institution",
+          "items": [
+            "Crossman and Mackintosh supply analytical labels",
+            "Morley and Jennings are attributed characterisations"
+          ]
+        },
+        {
+          "heading": "OPERATING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Morley and Jennings are attributed characterisations",
+            "Comparative Westminster practice can refine evaluation"
+          ]
+        },
+        {
+          "heading": "CHECK OR LIMIT",
+          "role": "caution",
+          "items": [
+            "Comparative Westminster practice can refine evaluation",
+            "None of this enrichment repairs missing Core doctrine"
+          ]
+        },
+        {
+          "heading": "EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Optional scholarship may refine a strong answer but is unnecessary for a competent Core answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "Optional scholarship may refine a strong answer but is unnecessary for a competent Core answer.",
+      "answer_line": "Optional scholarship may refine a strong answer but is unnecessary for a competent Core answer.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g4-source\\polity-16_g4-reviewed-source.md"
+      ]
+    }
+  ]
+}

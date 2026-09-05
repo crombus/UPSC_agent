@@ -4,6 +4,25 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The issue is whether rival truth-claims permit exclusivism, inclusivism, or principled pluralism without relativism. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns **alethic, epistemic and soteriological theories of
+religious diversity**, the problem of absolute truth, and their implications
+for dialogue, tolerance and coexistence.
+
+| Owned here | Boundary |
+|---|---|
+| exclusivism, inclusivism, pluralism and particularist replies | full God-concepts remain with [Notions of God](./Notions-of-God.md) |
+| conflicting revelation and experience as diversity evidence | revelation authentication and experience-veridicality remain with their own owners |
+| Hick's Real and conditioned manifestations | complete religious-experience and religious-language theories remain with those owners |
+| tolerance, freedom and dialogue only where directly routed by PYQs | full secularism/multiculturalism and political rights remain with Socio-Political Philosophy |
+| Indian many-sidedness, many-paths and equal-respect arguments | complete Jain, Vedānta and thinker doctrines remain with Paper I/other owners |
+| missionary and identity costs of pluralist theories | descriptive history and evaluation of particular communities are outside scope |
+
+⚠️ Social tolerance, epistemic humility, alethic pluralism and soteriological
+pluralism are different theses. Peaceful coexistence neither proves that rival
+claims are true nor requires treating every religion as equally true.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -11,35 +30,69 @@
 ```
    MANY RELIGIONS, CONFLICTING TRUTH-CLAIMS — three responses:
    EXCLUSIVISM        INCLUSIVISM          PLURALISM
-   ONE religion true; other faiths        all are valid responses
-   others false/      partially true,     to ONE ultimate Reality
-   no salvation       fulfilled in mine   (no single religion has
+   one decisive truth other faiths        several authentic responses
+   and/or salvation   partially true,     to ultimate Reality
+   norm               fulfilled in mine   (not every claim is equal)
    outside            (Rahner's           the whole/absolute truth)
         │             "anonymous              │
-   (dogmatic,         Christians")         Hick: the Real;
-    intolerant)            │               Vedānta/Vivekananda:
+   (truth-preserving; Christians")         Hick: the Real;
+    can be tolerant)       │               Vedānta/Vivekananda:
                                            "many paths, one Truth"
    PROBLEM OF ABSOLUTE TRUTH: does claiming ONE absolute truth
    necessarily breed EXCLUSIVISM & conflict?  ← 2022, 2024 PYQ
 ```
-> 🔑 **Mnemonic — "E-I-P: Exclusive (only mine), Inclusive (mine fulfils yours), Pluralist (all reach the one Real)."** Indian Vedānta/Vivekananda = the classic pluralist model.
+> 🔑 **Mnemonic — "E-I-P: Exclusive (one norm), Inclusive (mine fulfils yours), Pluralist (several authentic paths/ends)."** Vivekananda offers a major Indian convergence model, but whether it is fully pluralist or neo-Vedāntically inclusivist must be argued.
 
 ---
 
+## 0A. FOUR AXES THAT MUST NOT BE MERGED ⚠️
+
+| Axis | Question | Possible pluralist answer |
+|---|---|---|
+| Truth/alethic | Which doctrines are true, false, symbolic or partly adequate? | one Real with non-exhaustive formulations; or several irreducible truths/ends |
+| Salvation/liberation | Can other traditions genuinely transform or save? | several efficacious paths, possibly toward different ends |
+| Epistemic access | What should disagreement do to confidence? | fallibilism, humility, steadfast particularism or suspension |
+| Political coexistence | How should citizens/institutions treat disagreement? | freedom, reciprocity, respect and non-coercion without truth-agreement |
+
+Pluralism is not relativism: it can deny that all propositions are equally true,
+retain non-contradiction and still reject one tradition's exhaustive monopoly.
+Conversely, tolerance is a civic ethic and can be defended by an exclusivist.
+
 ## 1. THE THREE POSITIONS ✅
-- **Exclusivism:** **only one** religion is true; salvation is found only within it; other faiths are false. ✅ The lapidary Latin tag is ***extra ecclesiam nulla salus*** ("outside the Church there is no salvation"). ⚠️ **Attribution discipline:** the doctrine is standardly traced to **Cyprian of Carthage** (d. 258), whose own wording in *Epistle* 73 is *salus extra ecclesiam non est* — "there is no salvation outside the Church"; he also writes that one cannot have God as Father who does not have the Church as mother (*De Ecclesiae Catholicae Unitate* 6). The compressed formula *extra ecclesiam nulla salus* is the **later standard phrasing**, given conciliar form in the medieval period (Lateran IV, 1215; *Unam Sanctam*, 1302; Council of Florence, 1442). ✅ Note also that the same tradition later **qualified** it heavily: Vatican II's *Lumen Gentium* 16 and *Nostra Aetate* (1965) move the Roman Catholic position decisively toward **inclusivism** — so citing the tag as the settled Christian view is a factual error. *Strength:* takes truth-claims seriously; *weakness:* intolerance, and the arbitrariness objection (why *this* religion?). ✅
+- **Exclusivism:** one tradition or revelation has uniquely decisive truth and/or soteriological authority. It need not entail coercion or hostility; an exclusivist may defend tolerance while denying equal truth. ✅ The lapidary Latin tag is ***extra ecclesiam nulla salus*** ("outside the Church there is no salvation"). ⚠️ **Attribution discipline:** the doctrine is standardly traced to **Cyprian of Carthage** (d. 258), whose own wording in *Epistle* 73 is *salus extra ecclesiam non est* — "there is no salvation outside the Church"; he also writes that one cannot have God as Father who does not have the Church as mother (*De Ecclesiae Catholicae Unitate* 6). The compressed formula *extra ecclesiam nulla salus* is the **later standard phrasing**, given conciliar form in the medieval period (Lateran IV, 1215; *Unam Sanctam*, 1302; Council of Florence, 1442). ✅ Note also that the same tradition later **qualified** it heavily: Vatican II's *Lumen Gentium* 16 and *Nostra Aetate* (1965) move the Roman Catholic position decisively toward **inclusivism** — so citing the tag as the settled Christian view is a factual error. *Strength:* takes determinate truth seriously; *weakness:* privileged-warrant and arbitrariness pressures. ✅
 - **Inclusivism:** one's own religion is the fullest truth, but **other religions contain partial truth** and their adherents may be saved through it (Karl Rahner's *"anonymous Christians"*). *Weakness:* patronising — judges others by one's own standard. ✅
-- **Pluralism (John Hick):** the great religions are **equally valid** human responses to the **one ultimate divine Reality ("the Real")**; each perceives the Real through its own cultural-conceptual "lens" (Kantian *phenomena* of the Real). *"There is not merely one way but a plurality of ways of salvation/liberation."* ✅
+- **Pluralism:** several traditions may be authentic responses to ultimate reality or may realise genuinely different religious ends. It does not follow that every doctrine, practice or truth-claim is equally valid. **John Hick's version** treats the great post-axial traditions as culturally conditioned responses to the **one ultimate Reality ("the Real")**, assessed by transformation from self-centredness to Reality-centredness. ✅
   - *Weakness:* seems to relativise/dilute each religion's specific claims; the "Real an sich" is unknowable.
+
+### 1.1 Hick's Copernican revolution and its burdens
+
+- Hick shifts the centre from one religion or incarnation to the Real, analogous
+  to a Copernican shift from an ecclesial centre to ultimate Reality.
+- The Real in itself is **transcategorial**: personal/non-personal predicates
+  apply to its experienced manifestations, not literally to the Real as it is
+  independently of human schemes.
+- The Kantian analogy distinguishes the Real in itself from humanly experienced
+  phenomena, but Hick treats the noumenal Real as causally related to religious experience.
+- Transformation from self-centredness to Reality-centredness is the practical
+  criterion; it does not make contradictory doctrines jointly true.
+- **Noumenal objection:** if the Real is unknowable and beyond categories, even
+  existence, causality and goodness appear illicitly predicated.
+- **Self-referential/parity objection:** pluralism presents itself as a superior
+  second-order account while criticising first-order superiority; exclusivists
+  ask why Hick's meta-framework escapes the same contestability.
+- **Identity/mission concern:** traditions may reasonably object that being
+  redescribed as culturally limited appearances erases their self-understanding
+  and weakens witness or mission. Dialogue requires hearing that objection, not
+  declaring it solved.
 
 ---
 
 ## 2. THE VEDANTIC / INDIAN MODEL (2025 PYQ) ✅
 - **"Ekaṃ sad viprā bahudhā vadanti"** — ***Ṛgveda* 1.164.46**, from the *asya vāmasya* riddle-hymn ascribed to Dīrghatamas — "the one existent, the wise speak of in many ways". ⚠️ **Attribution discipline (examiner-visible):** (i) cite the reference as **RV 1.164.46**, not vaguely as "the Vedas"; (ii) the verse's own context is the **naming of deities** — it lists Indra, Mitra, Varuṇa, Agni, the celestial Garutmān, Yama and Mātariśvan as names of "the one existent" — so its native subject is the **unity of the Vedic pantheon**, not the unity of the world's religions; (iii) its extension into a charter of **inter-religious** pluralism is a **nineteenth- and twentieth-century development** (Vivekananda, Radhakrishnan, Gandhi) and must be **argued for**, not asserted by citation; (iv) common transliteration variants (*ekaṃ sat vipra bahudhā vadanti*) are acceptable, but keep one form consistently. ✅ Used with that discipline it remains the strongest single Indian text for the pluralist case — precisely because it distinguishes **one referent** from **many names**. ✅
-- **Vivekananda — Universal Religion:** all religions are **true**, **different paths to the same goal** (the one Reality); they are stages/varieties suited to different temperaments — *"as many faiths, so many paths."* No religion should destroy another; **harmony & acceptance** (not mere tolerance). ✅
-- **Advaita ground:** since the ultimate is the **one non-dual Brahman**, all sincere paths (bhakti, jñāna, karma, yoga) converge on it → pluralism is **metaphysically grounded**, not just pragmatic. ⚠️
+- **Vivekananda — Universal Religion:** religions are presented as valid paths suited to different temperaments and as capable of convergence in realisation; he argues for **acceptance**, not condescending tolerance. ⚠️ The model may still be inclusivist if Vedānta supplies the final meta-framework or hierarchy, so “all religions say the same thing” is not a safe formulation.
+- **Advaita ground:** the one non-dual Brahman can support non-exhaustive formulations and multiple disciplines, but it does not follow without argument that traditions seeking personal communion, creator relation or cessation all have the same end. ⚠️
 - **Radhakrishnan:** religions are diverse interpretations of a common **spiritual experience** (anubhava) → pluralism.
-- **Gandhi:** *sarva dharma sama bhāva* — equal respect for all religions (links to Sec-A secularism).
+- **Gandhi:** equal regard for religions is commonly summarised by the modern formula *sarva-dharma-samabhāva*; use it as a summary of fallibilist equal respect rather than an unverified verbatim slogan.
 
 ---
 
@@ -50,6 +103,10 @@
   - **But** one can hold that there **is** an Absolute Truth (the Real/Brahman) while recognising all religions as **partial, perspectival** approaches to it → an absolute *referent* with pluralist *access*. This **breaks the link** between believing in absolute truth and being exclusivist. ⚠️
   - The **Jain Anekāntavāda/Syādvāda** (many-sidedness) is a powerful Indian tool: reality is many-sided; every viewpoint is **partially true** (the blind-men-and-elephant) → epistemic humility dissolves dogmatic exclusivism. ✅
 - **Does pluralism destroy the truth of religion? (2023):** ⚠️ Critics say pluralism relativises truth. Reply: pluralism need not deny truth — it **relocates** absoluteness in the transcendent Real and treats religions as culturally-conditioned but genuine responses; **coexistence** need not mean "anything goes."
+- **Hard-contradiction control:** a personal creator cannot both exist and not
+  exist in the same respect; the self cannot both be permanent and denied in
+  the same sense. Pluralism may reinterpret level, symbol, standpoint or end,
+  but it must acknowledge any contradiction that remains.
 
 ---
 
@@ -452,3 +509,12 @@ two objections/replies → graded conclusion on truth and coexistence.
 - William Cavanaugh, *The Myth of Religious Violence*; Karen Armstrong, *Fields of Blood*; Amartya Sen, *Identity and Violence*.
 - Robert Fogelin, "The Logic of Deep Disagreement"; Ludwig Wittgenstein, *On Certainty*.
 - Aśokan inscriptions (Rock Edict XII); Jain many-sidedness in S. C. Chatterjee & D. M. Datta and C. D. Sharma.
+- Local searchable John Hick, *Philosophy of Religion*, print pp. 109–119
+  (PDF pp. 120–130), for conflicting truth-claims and the philosophical
+  framework for pluralism.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, “Religious
+  Diversity,” print pp. 392–417 (PDF pp. 404–429), for competing mystical
+  practices, toleration and comparative-philosophy pressures.
+- Local searchable Chatterjee–Datta, especially PDF pp. 109–118, for Jain
+  many-sidedness and conditional predication; local Radhakrishnan is used only
+  for attributed experiential-unity claims, not as proof that all ends coincide.

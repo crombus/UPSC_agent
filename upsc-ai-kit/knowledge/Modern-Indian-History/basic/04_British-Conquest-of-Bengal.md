@@ -197,3 +197,14 @@
 - Do not assign mortality, indemnity or revenue figures for 1757–72 without a verified source.
 - Do not use the "Black Hole" as an established causal fact.
 - Warren Hastings ended Dual Government in 1772; parliamentary regulation follows in 1773 and belongs to `basic/06`.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** farman/dastak, Bengal Nawabi politics, Plassey, post-Plassey
+  extraction, Mir Qasim, Buxar, Allahabad, Diwani/Nizamat, Dual Government,
+  famine vulnerability and the 1772 termination.
+- **Boundary:** Topic 03 owns early companies; Topic 05 owns wider expansion;
+  Topic 06 owns post-1772 constitutional control; Topic 07 owns the full
+  colonial economic and famine synthesis.
+- **Verified PYQ ownership, 2018-2026:** zero direct routes. The 2022
+  Company-armies and famine questions are adjacent-owned by Topics 05 and 07.

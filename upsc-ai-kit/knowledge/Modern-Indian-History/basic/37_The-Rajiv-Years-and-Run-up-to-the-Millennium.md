@@ -11,7 +11,7 @@
 
 | Date | Event |
 |---|---|
-| ✅ Dec 1984 | **Rajiv Gandhi** wins a record majority (~415/543) |
+| ✅ Dec 1984 | Under **Rajiv Gandhi**, Congress wins **404 of 514 elected seats**; polling in Assam and Punjab was deferred |
 | ✅ 1985 | **Anti-Defection Act** (52nd Amendment); **Shah Bano** controversy; Punjab & Assam Accords |
 | ✅ 1987 | **Bofors** scandal breaks; **IPKF** sent to Sri Lanka; V.P. Singh forms Jan Morcha |
 | ✅ 1988 | **Janata Dal / National Front** formed |
@@ -41,7 +41,7 @@
 
 | Item | Core fact |
 |---|---|
-| ✅ Rajiv's mandate | 1984, ~**415/543** — the largest ever |
+| ✅ Rajiv's mandate | 1984, **404/514 elected seats** — the largest majority to that point |
 | ✅ Anti-Defection Act | **1985 (52nd Amendment)** |
 | ✅ Shah Bano | 1985–86 reversal alienated liberals and minorities |
 | ✅ Bofors | Arms-deal scandal, **1987** |
@@ -59,7 +59,7 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ **Rajiv Gandhi** won the **largest-ever majority (1984, ~415 seats)**.
+- ✅ Under **Rajiv Gandhi**, Congress won **404 of 514 elected seats in 1984**; do not use 543 as the election denominator because polling in Assam and Punjab was deferred.
 - ✅ The **Anti-Defection Act** was the **52nd Amendment (1985)**.
 - ✅ The **Shah Bano** case (1985) and its legislative reversal were a turning point in identity politics.
 - ✅ The **Bofors** scandal broke in **1987**.
@@ -120,7 +120,7 @@
 ### 8.4 Named evidence units (claim → evidence → significance → limit)
 
 **A. The 1984 mandate and the modernising agenda**
-- **Evidence:** ✅ **Rajiv Gandhi** won a **record majority in December 1984 (~415 of 543)** and pushed **technology, computerisation, telecom, panchayati raj and education**; ✅ he passed the **Anti-Defection Act (52nd Amendment, 1985)** and signed the **Punjab (Rajiv–Longowal), Assam and Mizoram accords**.
+- **Evidence:** ✅ Under **Rajiv Gandhi**, Congress won a **record majority in December 1984 (404 of 514 elected seats; polling in Assam and Punjab was deferred)** and pushed **technology, computerisation, telecom, panchayati raj and education**; ✅ he passed the **Anti-Defection Act (52nd Amendment, 1985)** and signed the **Punjab (Rajiv–Longowal), Assam and Mizoram accords**.
 - **Significance:** The accords are the most durable achievement — three regional crises of the early 1980s (`basic/36`, `basic/31`) were addressed by negotiated settlement within a year, vindicating the delayed-accommodation argument.
 - **Limit/caution:** ⚠️ The panchayati raj initiative did not become constitutional until the amendments of the early 1990s; describe it as an initiative of this period, not a completed reform.
 
@@ -176,9 +176,30 @@
 
 ### 8.8 Factual-risk cautions
 
-- Rajiv's mandate = **December 1984, ~415 of 543**; **Anti-Defection Act = 52nd Amendment, 1985**, under Rajiv Gandhi — **not** under V.P. Singh.
+- Rajiv's mandate = **December 1984, Congress 404 of 514 elected seats**; polling in Assam and Punjab was deferred, so **543 is not the correct election denominator**. **Anti-Defection Act = 52nd Amendment, 1985**, under Rajiv Gandhi — **not** under V.P. Singh.
 - **Shah Bano = 1985, reversal 1986**; **Bofors = 1987**; **Jan Morcha 1987**; **Janata Dal/National Front 1988**; Congress defeated **1989**.
 - **Mandal = 1990, 27 per cent for OBCs**; **rath yatra = 1990**; **Babri demolition = 6 December 1992**, not 1990.
 - **Liberalisation = 1991, Narasimha Rao with Manmohan Singh** — not under Rajiv Gandhi.
 - **Vajpayee led a short government in 1996** before the NDA government of **1998–99**.
 - Do not state reservation ceilings, court holdings, growth rates or casualty figures in this owner.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Rajiv succession and 1984 mandate; modernisation; 52nd
+  Amendment; Punjab/Assam accords; Shah Bano/Ayodhya identity management;
+  Bofors; 1989 National Front; Mandal, rath yatra, 1991 reforms, 1992 demolition
+  and coalition transition to the millennium.
+- **Boundary:** Topic 36 ends on 31 October 1984; Topic 38 owns thematic
+  economy, land, society and state synthesis. Detailed constitutional doctrine
+  remains Polity-owned and present economic mechanics Economy-owned.
+- **Date control:** election (December 1984), amendment/accords (1985), Shah
+  Bano reversal and Bofors controversy (1986), election (1989), Mandal and rath
+  yatra (1990), reforms (1991), demolition (6 December 1992), coalition phase
+  (1996 onward) are separate.
+- **Mechanism control:** Congress won 404 of 514 elected seats; panchayati raj
+  was not yet constitutionalised; BJP and Left outside support was conjunctural;
+  Mandal employment reservation, 1990 mobilisation and 1992 demolition must
+  not be telescoped into one event.
+- **Verified PYQ ownership, 2018-2026:** zero direct Modern History routes.
+  Original practice stays original and cross-owned constitutional/economic
+  demands are not duplicated.

@@ -190,3 +190,20 @@
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** sector-specific colonial inheritances, nationalist-democratic
+  resources, selective retention, institutional repurposing and founding
+  choices across polity, economy, education and external orientation.
+- **Boundary:** Topic 28 owns integration/republic; Topic 30 owns linguistic
+  states; Topic 31 owns tribal integration; Topic 32 owns Nehru foreign policy.
+- **Date control:** inherited structures must be separated from their
+  post-1947 adaptation; independence, constitutional adoption and commencement
+  are not one event.
+- **Mechanism control:** classify each institution by origin, colonial purpose,
+  social reach, postcolonial adaptation and democratic control; reject both
+  gift and unchanged-burden narratives.
+- **Verified PYQ ownership, 2018-2026:** 2025 GS-I's four-domain consolidation
+  demand is locally verified and direct. The 2021 princely-state demand belongs
+  to Topic 28; no direct Prelims route is fabricated.

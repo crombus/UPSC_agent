@@ -4,7 +4,7 @@ cover_image: "../../../notes/Polity/assets/07_Fundamental-Rights/01_part_iii_arc
 
 # Polity 07 - Fundamental Rights - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 07 | **GS-II + Prelims** | **Export date:** 2026-08-15
+> **Subject:** Indian Polity | **Topic:** 07 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -17,12 +17,13 @@ cover_image: "../../../notes/Polity/assets/07_Fundamental-Rights/01_part_iii_arc
 - [FACT] Part III contains Articles 12-35. The six present rights are equality, freedom, protection against exploitation, freedom of religion, cultural and educational rights, and constitutional remedies.
 - [FACT] The Right to Property ceased to be a Fundamental Right through the Forty-fourth Amendment. Article 300A now protects every person against deprivation of property except by authority of law.
 - [FACT] Fundamental Rights are qualified, not absolute. The Constitution itself specifies the beneficiaries, respondent, exceptions and restriction grounds; courts review whether the State stayed within those limits.
-- [CURRENT] Legal status was checked to 15 August 2026. This package uses only securely verified primary positions. It does not import claims about unverified 2025/2026 judgments, DPDP Rules, Waqf interim litigation, Sabarimala 2026 hearings, Places of Worship proceedings or a final decision on the old sedition challenge.
+- [CURRENT] Legal status was checked through 28 August 2026. This package uses only securely verified primary positions. It does not import claims about unverified 2025/2026 judgments, DPDP Rules, Waqf interim litigation, Sabarimala 2026 hearings, Places of Worship proceedings or a final decision on the old sedition challenge.
 - [CURRENT] *Association for Democratic Reforms v. Union of India*, 15 February 2024, invalidated the Electoral Bond Scheme and enabling non-disclosure architecture: voter information about political funding falls within Article 19(1)(a), while unlimited corporate funding and secrecy impaired political equality and transparency.
 - [CURRENT] *State of Punjab v. Davinder Singh*, 1 August 2024, held that sub-classification within Scheduled Castes is constitutionally permissible. It permits evidence-based sub-classification; it does not compel every State to create a sub-quota.
 - [CURRENT] *Property Owners Association v. State of Maharashtra*, 5 November 2024, confirmed that original Article 31C survives for laws genuinely giving effect to Article 39(b) or (c). Privately owned resources may in context qualify as material resources of the community, but not every private asset does.
 - [CURRENT] The Bharatiya Nyaya Sanhita, 2023 has operated from 1 July 2024. Section 152 is a successor provision concerning secession, armed rebellion, subversive or separatist activity and threats to sovereignty, unity and integrity. It is not accurately described as a simple renaming of IPC section 124A.
-- [CURRENT] The Digital Personal Data Protection Act, 2023 is used only as an enacted statutory privacy anchor. No claim about later rules or commencement stages is made without a primary official control.
+- [CURRENT] Gazette G.S.R. 843(E) and 846(E), 13 November 2025, finally notified phased DPDP Act/Rules commencement. On 28 August 2026 only the first tranche was operative; the one-year and eighteen-month tranches remained future.
+- [CURRENT] *Harish Rana v. Union of India*, 2026 INSC 222 (11 March 2026), treated CANH through a PEG tube as medical treatment and permitted withdrawal within passive-euthanasia safeguards, best-interests review and dignified palliative care; it did not legalise active euthanasia.
 - [LIMIT] Supreme Court/PIL institutional detail belongs to Polity 18; Emergency architecture to Polity 14; amendment/basic structure to Polity 10; FR-DPSP reconciliation to Polity 08; and policy evaluation of reservations to Social Justice. This package retains the constitutional mechanism needed for Fundamental Rights answers.
 
 **Concise source/control note**
@@ -2502,7 +2503,8 @@ How many are correct?
 - 1 Aug 2024 - *Davinder Singh*: SC sub-classification permitted, not mandated.
 - 5 Nov 2024 - *Property Owners*: original 31C survives; contextual private-resource inquiry.
 - 1 Jul 2024 - BNS operative; section 152 not simple 124A renaming.
-- DPDP Act 2023 used only at enacted-Act level; no unverified Rules claim.
+- DPDP Act/Rules: final 2025 notifications use phased commencement; do not describe the whole regime as operative.
+- 11 Mar 2026 - *Harish Rana*: CANH withdrawal permitted within passive-euthanasia safeguards; active euthanasia not legalised.
 - Omitted as live status: unverified 2025/26 judgments/orders, Waqf, Places of Worship and Sabarimala hearing claims.
 
 ### Verified PYQ route

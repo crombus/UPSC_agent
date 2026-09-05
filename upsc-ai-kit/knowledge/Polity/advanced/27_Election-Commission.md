@@ -37,7 +37,7 @@ Legislatures, the offices of President & Vice-President**. An **all-India body**
   **Union Cabinet Minister** → selection committee = **PM (chair) + a Union Minister + LoP**, giving the executive
   a **2:1 majority**. Critics say it dilutes EC independence.
 - 📰 **CEC Gyanesh Kumar** was appointed in **Feb 2025** under the new Act. **Status
-  checked 21 Jul 2026:** the constitutional challenge to section 7 remains pending; the
+  checked 28 Aug 2026:** the constitutional challenge to section 7 remains pending; the
   Supreme Court's 22 Mar 2024 order declined interim interference with the appointments.
   The question is the Act's compatibility with institutional-independence and free-and-fair-
   election principles, not Parliament's competence to enact a law after *Anoop Baranwal*.

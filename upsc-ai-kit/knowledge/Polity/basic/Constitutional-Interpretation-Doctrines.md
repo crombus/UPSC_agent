@@ -32,6 +32,21 @@ answer with the relevant text (for example Arts 13, 245–246, 254, 141), then u
 
 ---
 
+## Interpretive methods before applying doctrine
+
+| Method | Central question | Legitimate use | Limit |
+|---|---|---|---|
+| Textual | What do the enacted words, definitions and grammar permit? | Starting point for every issue | A word cannot be isolated from its Part, proviso or structure |
+| Structural | What arrangement follows from institutions, fields, rights and checks? | Resolves relationships and constitutional silence | Structure cannot contradict express text |
+| Historical | What problem, drafting history or constitutional background explains the clause? | Clarifies context and rejected alternatives | History informs; it does not freeze future application |
+| Purposive | What constitutional object makes the guarantee or power effective? | Rights, remedies and institutional design | Purpose remains anchored in text and competence |
+| Precedent-based | What binding ratio and bench-strength rule controls? | Equality, certainty and disciplined development | Obiter and smaller benches do not overrule |
+
+> **Examiner opening:** Constitutional interpretation moves from text to structure, purpose,
+> history and binding precedent; it is not a choice between literalism and judicial preference.
+
+---
+
 ## 2. Fundamental-rights validity doctrines
 
 ### 2.1 Severability
@@ -71,7 +86,7 @@ the constitutional impediment is removed.
 State action contrary to the Constitution. Fundamental Rights express public constitutional policy,
 not merely private benefits.
 
-⚖️ Standard anchor: *Basheshar Nath v. CIT* (1959).
+⚖️ Standard anchor: *Basheshar Nath v. CIT* (1958).
 
 > **Trap:** This is not a rule that every private legal right or procedural protection is
 > non-waivable.
@@ -138,6 +153,11 @@ India* (1979).
 > **Traps:** Art 254 is not the default answer for Union-List versus State-List overlap; use
 > pith-and-substance/harmonious construction first. Presidential assent is neither permanent
 > immunity nor a cure for lack of State legislative competence.
+
+**Occupied field** is an inference that Parliament intended its law to cover the relevant
+Concurrent field so completely that inconsistent State supplementation cannot co-exist. Mere
+existence of a Union law is insufficient: identify the same field, statutory scheme and actual
+conflict.
 
 ---
 
@@ -217,7 +237,208 @@ Precedent promotes equality, certainty and institutional legitimacy while allowi
 
 ---
 
+## Reading down, reading into and judicial-legislation limits
+
+⚖️ **Reading down** chooses a constitutionally valid meaning that the statutory text can reasonably
+bear. *Kedar Nath Singh v. State of Bihar* (1962) is a standard narrowing example.
+
+⚖️ **Reading into** supplies an implication necessary to protect a constitutional guarantee in a
+defined setting. It is more interventionist and requires a strong textual or structural basis.
+
+⚖️ *Shreya Singhal v. Union of India* (2015) refused to save an incurably vague provision through
+judicial rewriting. A court may interpret but cannot enact a new legislative scheme.
+
+| Tool | Legal effect | Limit |
+|---|---|---|
+| Reading down | Preserves a provision through a narrower valid construction | Text must reasonably support it |
+| Reading into | Recognises a necessary implication or safeguard | Cannot contradict express exclusion or create a complete code |
+| Severability | Removes separable invalid matter | Remainder must be workable and intended |
+| Striking down | Invalidates the unconstitutional provision/law | Used when no valid saving construction exists |
+
+---
+
+## Basic structure as an interpretive limit on amendment
+
+⚖️ *Kesavananda Bharati v. State of Kerala* (1973) holds that Parliament's Art 368 power is wide
+but cannot damage the Constitution's basic structure. *Minerva Mills v. Union of India* (1980)
+confirms limited amending power and harmony between Fundamental Rights and DPSPs.
+
+| Trigger | Provision | Effect | Limit/trap |
+|---|---|---|---|
+| Constitutional amendment challenged | Art 368 read with constitutional structure | Amendment may be invalidated for damaging a basic feature | Doctrine reviews amendments, not every policy disagreement |
+
+The doctrine is interpretive because the Constitution does not enumerate a closed list. It is not
+an independent judicial amendment power.
+
+---
+
+## Presumption, arbitrariness and proportionality
+
+### Presumption of constitutionality
+
+Courts ordinarily presume legislation valid and place an initial burden on the challenger, while
+the intensity of justification varies with the right, classification and available evidence.
+*Ram Krishna Dalmia v. Justice S.R. Tendolkar* (1958) is a standard classification anchor.
+
+> **Trap:** The presumption is rebuttable and cannot cure lack of competence, explicit
+> discrimination or a disproportionate rights restriction.
+
+### Arbitrariness and manifest arbitrariness
+
+⚖️ *E.P. Royappa v. State of Tamil Nadu* (1973) linked arbitrariness and equality. **Manifest
+arbitrariness** is a demanding invalidity standard for legislation that is capricious, irrational
+or without an adequate determining principle; *Shayara Bano v. Union of India* (2017) is a leading
+anchor.
+
+> **Distinction:** Administrative arbitrariness, unreasonable classification and manifest
+> arbitrariness of legislation overlap under Art 14 but are not interchangeable labels.
+
+### Proportionality
+
+⚖️ Proportionality tests lawful authority, legitimate aim, rational connection, necessity or a
+less restrictive alternative, and balance between rights harm and public benefit.
+
+*Modern Dental College v. State of Madhya Pradesh* (2016), *K.S. Puttaswamy v. Union of India*
+(2017) and *Anuradha Bhasin v. Union of India* (2020) are major anchors.
+
+> **Trap:** Proportionality is structured review, not judicial substitution of a preferred policy.
+
+---
+
+## Constitutional morality and transformative constitutionalism
+
+**Constitutional morality** requires fidelity to the Constitution's text, procedures, equal
+citizenship and institutional role morality rather than social or personal morality.
+
+**Transformative constitutionalism** treats the Constitution as a lawful project for dismantling
+status hierarchy and realising liberty, equality, dignity and fraternity.
+
+⚖️ *Navtej Singh Johar v. Union of India* (2018) is a leading rights application. Each use must be
+connected to an identifiable provision, structure and remedy.
+
+> **Trap:** Neither doctrine authorises free-standing moral review or permits a court to ignore
+> democratic competence and precedent.
+
+---
+
+## Essential religious practices and current doctrinal caution
+
+⚖️ *Commissioner, Hindu Religious Endowments v. Sri Lakshmindra Thirtha Swamiar of Shirur Mutt*
+(1954) is the classic source of the essential-religious-practices inquiry. The court distinguishes
+protected matters of religion from secular activities associated with religion, while applying
+public-order, morality, health and other Fundamental Rights limits.
+
+The doctrine may draw courts into theology, freeze internal diversity and obscure a direct
+rights-conflict analysis. *Indian Young Lawyers Association v. State of Kerala* (2018) illustrates
+the interaction among religious freedom, equality, dignity and constitutional morality. Any
+pending larger-bench or review question must be labelled pending, not a fresh final holding.
+
+---
+
+## Constitutionally relevant neighbouring doctrines
+
+These neighbouring doctrines solve narrower problems of tenure, administrative fairness,
+governmental reliance and textual omission. They should not be substituted for the primary
+competence, rights or invalidity doctrine merely because they also invoke rule-of-law values.
+
+| Doctrine | Constitutional relevance | Leading anchor | Distinction/limit |
+|---|---|---|---|
+| Pleasure | Arts 310–311 and responsible government | *Shamsher Singh v. State of Punjab* (1974) | Controlled by express safeguards and constitutional-head conventions |
+| Legitimate expectation | Fair, non-arbitrary administration under Art 14 | *Navjyoti Cooperative Group Housing Society v. Union of India* (1992) | Usually protects fair consideration/procedure, not automatic entitlement |
+| Promissory estoppel | Rule-of-law control of governmental representation | *Motilal Padampat Sugar Mills v. State of Uttar Pradesh* (1978) | Cannot compel violation of statute, duty or overriding public interest |
+| Casus omissus | Judicial restraint where text has a gap | *Padma Sundara Rao v. State of Tamil Nadu* (2002) | Court ordinarily cannot supply an omission because the result is inconvenient |
+| Constitutional silence | Text leaves an institutional matter unstated | Structure, convention and precedent | Silence is not unlimited power |
+
+> **Firewall:** Pleasure concerns tenure; legitimate expectation concerns fair administrative
+> treatment; promissory estoppel concerns reliance; casus omissus concerns an omitted textual case.
+
+---
+
+## Constitutional silence, conventions and restraint
+
+```text
+express text and prohibitions
+        ↓
+constitutional structure and responsible-government logic
+        ↓
+binding precedent and established legal practice
+        ↓
+political convention, comparative aid and history
+        ↓
+minimum rule necessary to preserve accountability
+```
+
+A convention may guide political conduct without becoming judicially enforceable law. Courts may
+protect the legal structure within which conventions operate, but should not constitutionalise
+every political expectation.
+
+Article 142 permits complete justice in the cause before the Supreme Court but does not authorise
+disregard of substantive law. *Supreme Court Bar Association v. Union of India* (1998) is the
+standard limitation anchor. A coordinate or smaller bench that doubts controlling law should seek
+a proper reference rather than silently disregard the larger bench.
+
+---
+
+## Decision trees for competence, rights and remedies
+
+Complex litigation should be solved in a fixed order: establish competence and meaning, apply the
+relevant rights standard, determine the minimum invalidity consequence, and then respect temporal
+and precedential limits. The following trees prevent a remedy doctrine from being applied before
+the underlying constitutional violation is identified.
+
+### Legislative competence
+
+```text
+enacting legislature + entry
+        ↓
+pith and substance
+        ↓
+incidental overlap? → ancillary power
+        ↓
+disguised lack of power? → colourable legislation
+        ↓
+State extra-territorial reach? → territorial nexus
+        ↓
+same Concurrent field + actual conflict? → Art 254 repugnancy/assent
+```
+
+### Rights review
+
+```text
+State action + affected right
+        ↓
+authority of law + legitimate aim
+        ↓
+classification/arbitrariness
+        ↓
+proportionality: connection → necessity → balance
+        ↓
+valid saving meaning? → read down
+        ↓ no
+sever / strike; shape time only through reasoned prospective overruling
+```
+
+### Remedy and precedent
+
+```text
+controlling Article + larger-bench ratio
+        ↓
+apply or distinguish
+        ↓
+doubt remains? → proper reference, not silent overruling
+        ↓
+declaration / severability / reading down / injunction / compensation
+        ↓
+Art 142 remains case-bound and substantively limited
+```
+
+---
+
 ## 6. Doctrine-selection matrix
+
+Selection depends on the legal defect alleged, not on the popularity of a doctrine. Match the
+problem to its governing text, then apply the narrowest test capable of deciding competence,
+meaning, validity, time or remedy.
 
 | Problem in question | Start with | Then test |
 |---|---|---|
@@ -232,6 +453,12 @@ Precedent promotes equality, certainty and institutional legitimacy while allowi
 | New constitutional interpretation threatens settled transactions | Relevant judgment | Prospective overruling |
 | Lower court faces Supreme Court statement | Art 141 | Ratio, bench strength, distinguishing |
 | Text is broad/open-ended | Text + constitutional purpose | Purposive/liberal interpretation within structural limits |
+| Law restricts a right for a public objective | Rights text + authority | Proportionality |
+| Legislation is attacked as capricious | Art 14 | Manifest arbitrariness, with a demanding threshold |
+| Statute has two plausible meanings | Governing text/right | Reading down if the valid meaning is textually available |
+| Amendment damages constitutional identity | Art 368 | Basic structure |
+| Religious-practice claim conflicts with equality/dignity | Arts 25–26 plus other rights | ERP inquiry with current doctrinal caution |
+| Constitutional text is silent | Text + structure + precedent | Convention only as a bounded aid |
 
 ---
 
@@ -298,6 +525,50 @@ rights-liberal reading ─────┘              ancillary power ───
 
 ---
 
+## Comprehensive doctrine atlas
+
+The atlas compresses each doctrine into five examinable elements: definition and trigger,
+constitutional field, leading authority, legal effect and limiting trap. It is a revision tool,
+not a substitute for applying the operative test to facts.
+
+| Doctrine | Definition and trigger | Provision/field | Leading case (decision year) | Legal effect | Limitation and UPSC trap |
+|---|---|---|---|---|---|
+| Textual interpretation | Reads enacted words in context when meaning is disputed | Entire Constitution | *Kesavananda Bharati* (1973) used text with structure | Fixes the permissible semantic starting range | Text is the start, not an isolated dictionary exercise |
+| Structural interpretation | Infers meaning from institutional and federal architecture | Parts, Schedules and relationships | *S.R. Bommai* (1994) | Preserves constitutional relationships/features | Structure cannot override express text |
+| Historical interpretation | Uses framing history/background to clarify ambiguity | Relevant provision | *In re Berubari Union* (1960) | Supplies context | History informs, not freezes |
+| Purposive interpretation | Reads language to make constitutional object effective | Rights/powers | *Maneka Gandhi* (1978) | Gives effective, coherent protection | Purpose cannot create unlimited power |
+| Harmonious construction | Reconciles apparently conflicting provisions | Whole Constitution | *Kerala Education Bill* (1958) | Allows both provisions meaningful operation | Cannot erase an express priority |
+| Pith and substance | Finds a law's true nature where fields overlap | Arts 245–246, Seventh Schedule | *Prafulla Kumar Mukherjee* (1947) | Dominant field controls; incidental overlap tolerated | Does not save disguised incompetence |
+| Colourable legislation | Tests whether form disguises lack of competence | Arts 245–246 | *K.C. Gajapati Narayan Deo* (1953) | Invalidates law outside true competence | Bad motive alone is insufficient |
+| Incidental/ancillary power | Includes measures necessary to make an entry effective | Legislative entry | *State of Bombay v. F.N. Balsara* (1951) | Supports genuine auxiliary provisions | Cannot create an independent forbidden field |
+| Occupied field/repugnancy | Tests conflicting Union/State laws in same Concurrent field | Art 254 | *M. Karunanidhi* (1979) | Union prevails to conflict, subject to assent route | Not the default for List I/List II overlap |
+| Territorial nexus | Requires real connection for extra-territorial State effect | Art 245 | *State of Bombay v. R.M.D. Chamarbaugwala* (1957) | Sustains law where nexus is sufficient | Remote or illusory nexus fails |
+| Severability | Removes a separable unconstitutional part | Art 13 | *R.M.D. Chamarbaugwala v. Union of India* (1957) | Preserves workable valid remainder | Court cannot rewrite scheme |
+| Eclipse | Makes inconsistent pre-Constitution law dormant to that extent | Art 13(1) | *Bhikaji Narain Dhakras* (1955) | Law may revive if impediment removed | Not repeal; classical scope is pre-Constitution law |
+| Waiver of Fundamental Rights | Rejects consent as validation of unconstitutional State action | Part III | *Basheshar Nath* (1958) | Preserves public constitutional policy | Not every private/procedural right is non-waivable |
+| Prospective overruling | Controls future effect of a newly declared rule | Judicial remedy | *I.C. Golaknath* (1967) | Protects specified settled effects | Must be expressly and reasonedly invoked |
+| Basic structure | Limits damage to constitutional identity by amendment | Art 368 | *Kesavananda Bharati* (1973) | Invalidates a damaging amendment | Not an ordinary policy veto |
+| Reading down | Chooses a narrower constitutionally valid meaning | Rights + statute | *Kedar Nath Singh* (1962) | Preserves valid scope | Text must reasonably bear the meaning |
+| Reading into | Recognises a necessary implication/safeguard | Rights + structure | *Vishaka v. State of Rajasthan* (1997) | Temporarily protects a constitutional guarantee | Cannot contradict statute or permanently legislate |
+| Presumption of constitutionality | Starts ordinary legislation as valid | Judicial review | *Ram Krishna Dalmia* (1958) | Initial burden rests on challenger | Rebuttable; cannot cure incompetence |
+| Arbitrariness/equality | Treats arbitrary State action as unequal | Art 14 | *E.P. Royappa* (1973) | Invalidates arbitrary action | Identify administrative/classification context |
+| Manifest arbitrariness | Reviews legislation for caprice/irrationality/no determining principle | Art 14 | *Shayara Bano* (2017) | May invalidate legislation | Demanding standard, not mere disagreement |
+| Constitutional morality | Gives priority to constitutional values/forms over social morality | Preamble, Part III, structure | *Navtej Singh Johar* (2018) | Guides rights and institutional reasoning | Must have textual/structural anchor |
+| Transformative constitutionalism | Applies rights to dismantle status hierarchy | Preamble and Part III | *Navtej Singh Johar* (2018) | Advances liberty, equality, dignity and fraternity | Not free-standing judicial policy |
+| Proportionality | Tests legality, aim, connection, necessity and balance | Part III | *Modern Dental College* (2016) | Invalidates excessive rights restriction | Court reviews justification, not policy preference |
+| Essential religious practices | Distinguishes protected religious matters from regulable secular activity | Arts 25–26 | *Shirur Mutt* (1954) | Defines protected scope subject to limitations | Apply current caution; do not treat pending reconsideration as settled change |
+| Pleasure | Constitutional tenure power subject to safeguards | Arts 310–311 | *Shamsher Singh* (1974) | Explains formal and responsible authority | Not arbitrary dismissal power |
+| Legitimate expectation | Protects fair consideration based on representation/practice | Art 14 administration | *Navjyoti Cooperative Group Housing* (1992) | Usually procedural fairness | Not automatic substantive entitlement |
+| Promissory estoppel | Controls governmental departure from relied-on representation | Rule of law/Art 14 | *Motilal Padampat Sugar Mills* (1978) | May hold government to promise | Cannot compel illegality or defeat overriding public interest |
+| Casus omissus | Restraint against supplying an omitted case | Interpretation | *Padma Sundara Rao* (2002) | Leaves genuine omission to legislature | Inconvenience is not authority to legislate |
+| Precedent/bench strength | Applies binding ratio through judicial hierarchy | Arts 141–142 | *Supreme Court Bar Association* (1998) | Ensures certainty and proper reference | Art 142 is not a source to disregard substantive law |
+
+> **Interpretation–amendment firewall:** Interpretation resolves meaning and remedy within the
+> enacted Constitution. Amendment changes constitutional text through Art 368. Judicial
+> legislation begins where a court abandons available text/structure and creates a policy code.
+
+---
+
 ## 9. Must-Know Facts
 
 - ✅ Art 13 anchors invalid-law doctrine; Arts 245–246 and 254 anchor federal competence/conflict;
@@ -309,6 +580,10 @@ rights-liberal reading ─────┘              ancillary power ───
 - ⚖️ Colourability concerns competence, not motive.
 - ⚖️ Repugnancy is centred on the Concurrent field and is only to the extent of conflict.
 - ⚖️ Prospective overruling controls temporal effect; precedent controls authoritative effect.
+- ⚖️ Reading down preserves only a meaning the text can reasonably bear.
+- ⚖️ Proportionality tests authority, aim, rational connection, necessity and balance.
+- ⚖️ Basic structure limits amendment, while rights doctrines review ordinary State action through
+  their own provisions and standards.
 
 ---
 
@@ -321,4 +596,7 @@ rights-liberal reading ─────┘              ancillary power ───
 - Do not say purposive interpretation permits ignoring text.
 - Do not equate every Supreme Court sentence with binding ratio.
 - Do not use harmonious construction to erase an express priority clause.
+- Do not collapse reading down into judicial legislation.
+- Do not use constitutional morality without a textual or structural anchor.
+- Do not present a pending review/reference as a decided doctrinal change.
 - Separate ✅ text, ⚖️ doctrine/holding, 📜 statutory modification and ⚠️ evaluation.

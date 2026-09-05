@@ -8,9 +8,9 @@
 ---
 
 # PART A — FEATURES OF THE INDIAN PARTY SYSTEM ✅
-- ✅ **Multi-party system** — India has the **largest number of parties** in the world.
-- ✅ **One-dominant-party system** — Rajni Kothari's **"Congress system"** (declined post-1967).
-- ✅ **Lack of clear ideology** (except BJP, CPI, CPM); **personality cult**; parties based on **religion/caste/language**.
+- ✅ **Multi-party system** — national and State-level competition includes recognised and registered-unrecognised parties; avoid unverifiable “largest in the world” claims.
+- ✅ **One-dominant-party phase** — Rajni Kothari's **“Congress system”** describes early dominance; decline was uneven, with later revivals before the coalition era.
+- ⚠️ **Ideology, leadership and social bases vary** — programmatic commitments coexist with catch-all competition, leadership centralisation and mobilisation around class, caste, religion, language and region. Avoid declaring most parties ideology-free.
 - ✅ **Emergence of regional parties**; **factions & defections**; **lack of an effective Opposition**.
 
 ---
@@ -21,7 +21,7 @@
 
 ## Privileges of recognition ✅
 - **Reserved symbol**; **one proposer** for nomination; **broadcast time** on state media; access to electoral rolls.
-- **Star campaigners:** recognised = **40**, registered-unrecognised = **20** (their travel not counted in candidate expenditure).
+- **Star campaigners:** RPA Section 77 permits **40** for a recognised political party and **20** for another political party (their travel not counted in candidate expenditure).
 
 ## National party — any ONE condition ✅
 1. **6%** valid votes in **4+ states** (LS or Assembly) **+ 4 LS seats** (from any states); **OR**
@@ -48,9 +48,7 @@
 - 📰 ⭐ **Electoral Bonds struck down** — SC in **Association for Democratic Reforms (Feb 2024)** held the 2018
   Electoral Bond Scheme **unconstitutional** (violates the **right to information, Art 19(1)(a)**); ordered the SBI to
   disclose donor data.
-- 📰 ✅ **ECI orders dated 10 Apr 2023:** AAP gained national-party status; TMC,
-  NCP and CPI lost it. **Status checked 21 Jul 2026 against ECI's notified list:** six
-  national parties — BJP, INC, CPI(M), BSP, NPP and AAP.
+- 📰 ✅ **Recognition status is date-sensitive:** ECI orders revise party status after electoral performance. Quote a current list only when necessary and attach the order/access date.
 - 📰 Debate on bringing parties under the **RTI Act** (CIC held 6 national parties are "public authorities," 2013 — not
   complied with) and **inner-party democracy** / criminalisation of politics.
 

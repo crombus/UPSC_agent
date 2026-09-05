@@ -3,6 +3,20 @@
 > **Evidence key:** ✅ canonical · ⚠️ analytical synthesis · ❓ contested
 > **Placement:** Paper-II, Section-A, socio-political philosophy. Read this topic as a structured debate on where supreme authority is located, whether it can be absolute, and how it is limited by law, morality, associations, welfare, and interstate strategy.
 
+## Exact ownership boundary and indispensable bridges
+
+This owner fully teaches the concept of sovereignty and the four printed thinkers. Other doctrines
+enter only when they answer an owned sovereignty question.
+
+| Bridge | Treatment owned here | Full owner retained elsewhere |
+|---|---|---|
+| **Hobbes and Rousseau** | Hobbes as the security-first absolutist bridge; Rousseau's general will as the popular-sovereignty counterpoint to Austin | Social-contract and individual–state theory remain with [Individual and State](Individual-and-State.md) |
+| **Rights and political obligation** | Rights as limits on absolutism; allegiance as Laski's test of legitimate authority | Rights, duties, accountability and obligation remain with [Individual and State](Individual-and-State.md) |
+| **Democracy and forms of government** | Compatibility of Austin/Kautilya with democracy because the PYQs demand it | The positive theory and forms of democracy remain with [Forms of Government](Forms-of-Government.md) |
+| **Equality, justice and liberty** | Normative test of Bodin and absolute sovereignty in the 2022 PYQ | The ideals themselves remain with [Social and Political Ideals](Social-Political-Ideals.md) |
+| **International institutions** | What treaty, pooling, delegation and material dependence do to external sovereignty | Institutional design and current diplomatic detail remain with International Relations |
+| **Indian constitutional law** | A jurisdiction-safe illustration of competence-distributed authority | Article-by-article doctrine and federal lists remain with Polity |
+
 ## 0. ONE-SCREEN MAP
 
 | Thinker | Core statement | Type of sovereignty | What limits it? | UPSC use-value |
@@ -51,6 +65,28 @@
 - **Objection:** Global interdependence has made external sovereignty obsolete. ❓
 - **Reply:** Globalization changes the mode of external sovereignty, but does not abolish the question of who makes final decisions on war, treaty, economy, or security. The issue becomes transformed sovereignty, not vanished sovereignty. ⚠️
 
+### 1.2A Classical attributes of sovereignty
+
+The standard monist taxonomy describes legal sovereignty through five connected attributes. These
+are attributes of the **classical doctrine taken together**, not five claims uniquely invented by
+Austin or Bodin.
+
+| Attribute | Exam-safe meaning | Required qualification |
+|---|---|---|
+| **Absoluteness** ✅ | No superior human law-maker legally commands the sovereign within the political order | Legal non-subordination does not prove moral infallibility or practical omnipotence |
+| **Permanence / continuity** ✅ | Governments and office-holders change while sovereignty continues with the state | Permanence means continuity while the state remains independent, not literal eternity |
+| **Universality** ✅ | Sovereign jurisdiction extends in principle across persons and associations within the territory | Immunities and autonomous spheres may exist by constitutional or legal recognition |
+| **Inalienability** ✅ | Sovereignty cannot be transferred away without the old state losing that sovereign status; powers may be delegated | Delegation, devolution or treaty commitment is not automatically alienation of sovereignty |
+| **Indivisibility** ✅ | The classical theory requires one final legal source | Governmental competences may be distributed even where monists insist legal finality remains one |
+
+**Bodin–Austin placement ✅:** Bodin supplies the defining pair **absolute and perpetual**;
+Austin gives the sharpest determinate-superior formulation; the five-part list is a standard
+consolidation of their monist tradition.
+
+**Continuity bridge ⚠️:** Austin's habit theory struggles to explain succession and the persistence
+of old law; Kelsen's norm-hierarchy and Hart's rules later repair that problem without restoring a
+personal absolute sovereign.
+
 ### 1.3 Legal and political sovereignty
 | Type | Meaning | Main association |
 |---|---|---|
@@ -96,6 +132,27 @@
 **Objection → Reply:**
 - **Objection:** Such distinctions dilute the concept of sovereignty beyond usefulness. ❓
 - **Reply:** On the contrary, they rescue the concept from oversimplification. UPSC repeatedly rewards answers that distinguish legal title, actual power, office, and obedience. ⚠️
+
+### 1.5A Popular and national sovereignty
+
+| Form | Core claim | Main problem |
+|---|---|---|
+| **Popular sovereignty** ✅ | The people in their corporate capacity are the source of legitimate public authority; government is their agent | “The people” must be institutionally represented without being reduced to a temporary majority or incumbent government |
+| **National sovereignty** ⚠️ | A national community claims collective self-determination and territorial political independence | Nation, people and state may not coincide; the claim can conflict with minorities or rival national identities |
+
+**Rousseau bridge ✅:** Rousseau locates sovereignty in the **general will**, understood as a claim
+about the common good rather than the numerical sum of private preferences. Sovereignty remains
+with the people and is not identical with whichever government temporarily exercises power.
+
+**Controlling distinction ⚠️:** popular sovereignty answers the internal legitimacy question
+“from whom does authority arise?” National sovereignty primarily answers the collective
+self-determination question “which people may govern itself?” Neither expression makes every
+majority decision morally sovereign.
+
+**Source control ✅:** O. P. Gauba, searchable local PDF pp. 189–193, directly supports popular
+sovereignty and the general will. The Cambridge Dictionary's self-determination entry, searchable
+local PDF p. 858, supports the strict territorial-independence sense used for the bounded national
+sovereignty bridge.
 
 ### 1.6 Why the concept becomes controversial
 **Statement:** Sovereignty becomes controversial because the need for final authority clashes with liberty, plurality, federalism, morality, and global interdependence. ⚠️
@@ -299,6 +356,26 @@
 - **Objection:** Parliament can be treated as the determinate superior in a democracy. ❓
 - **Reply:** Even then, parliament is constitutionally constrained, electorally dependent, and politically shaped by parties and opinion. Thus democratic sovereignty is more complex than Austin's legal monism allows. ⚠️
 
+#### (d1) Parliamentary sovereignty and constitutional supremacy
+
+The phrase **parliamentary sovereignty** is jurisdiction-specific, not a synonym for every
+parliamentary form of government.
+
+| Jurisdictional model | Legal location of finality | Judicial position | Philosophical use |
+|---|---|---|---|
+| **United Kingdom** ✅ | Parliament is the supreme legal authority and may make or unmake law; one Parliament cannot entrench ordinary law against a future Parliament | Courts generally cannot overrule primary legislation | A strong modern approximation to legal sovereignty, qualified by political constraints, devolution and rights arrangements |
+| **India** ✅/⚠️ | The written Constitution is supreme; Parliament exercises constitutionally conferred ordinary and constituent powers | Judicial review enforces constitutional limits; *Kesavananda Bharati* (1973) limits the amending power through the basic-structure doctrine | Competence-distributed authority under constitutional supremacy, not UK-style parliamentary sovereignty |
+
+**Do not overclaim ⚠️:** the United Kingdom's uncodified order is not legally unconstrained in every
+practical sense, and India's judiciary is not “sovereign” merely because it reviews legislation.
+The careful conclusion is that UK legal theory centres Parliament, whereas Indian institutions
+derive limited competences from a supreme Constitution.
+
+**Official-source control ✅:** UK Parliament's current sovereignty page describes Parliament as
+the supreme legal authority and states that courts generally cannot overrule its legislation.
+Article 368 of the Constitution of India confers amendment power through constitutional procedure;
+the official *Kesavananda Bharati* archive supplies the judicial basic-structure limitation.
+
 #### (e) Maine's Ranjit Singh example
 **Statement:** Maine criticizes Austin by pointing to political communities where habitual obedience and determinate superiority do not fit the legal facts neatly. ✅
 
@@ -467,6 +544,25 @@ Six moves, usable inside any sovereignty answer:
 - **Objection:** If many associations claim authority, disorder follows. ✅
 - **Reply:** Laski's point is not to erase coordination but to prevent the state's monopolistic claim from swallowing civil freedom. The state must coordinate, but coordination is not moral absolutism. ⚠️
 
+### 4.1A The supported pluralist lineage
+
+Laski is the printed thinker and must remain central. The following names locate the school rather
+than replace his argument:
+
+| Thinker | Supported contribution | Boundary |
+|---|---|---|
+| **J. N. Figgis** ✅ | Churches and other real associations expose the danger of an absolute state allied with economic concentration | Use as the group-personality and anti-absorption precursor |
+| **G. D. H. Cole** ✅ | A forerunner of pluralism associated with functional/guild representation and socially organised group life | Do not turn the answer into a complete theory of guild socialism |
+| **R. M. MacIver** ✅ | Law and constitution, not a mysterious sovereign will, ground legitimate public force; the state coordinates associations but does not create all their purposes | Use for the strongest sociological supplement and the residual coordination role |
+
+**Source control ✅:** Gauba's searchable local PDF locates Figgis at p. 195, Cole among the
+pluralist forerunners at p. 199, and MacIver's developed associational/coordination argument at
+pp. 204–208.
+
+**Laski phase caution ✅:** his early work attacked sovereignty as a legal fiction; his mature
+position conceded sovereignty's importance for state power while denying omnipotence. Therefore
+“Laski abolishes sovereignty” is as inaccurate as “Laski accepts Austin.”
+
 ### 4.2 Why he rejects absolute sovereignty
 **Statement:** Laski rejects absolute sovereignty because it is philosophically false, politically dangerous, and sociologically unrealistic. ✅
 
@@ -555,7 +651,7 @@ Six moves, usable inside any sovereignty answer:
 - **Objection:** Because he centres the king, Kautilya is just a premodern authoritarian. ❓
 - **Reply:** The king is central, but the state is not reducible to royal whim. The seven limbs, welfare obligations, and strategic constraints all show a more institutional and purposive theory. ⚠️
 
-### 5.2 Saptāṅga theory of the state
+### 5.2 The seven-limbed (saptāṅga) theory of the state
 **Statement:** The state consists of seven interdependent limbs (*saptāṅga* / *prakṛtis*): **svāmī, amātya, janapada, durga, kośa, daṇḍa, mitra**. ✅
 
 | Limb | Meaning | Function in sovereignty |
@@ -580,7 +676,7 @@ Six moves, usable inside any sovereignty answer:
 - **Objection:** If sovereignty is distributed among limbs, the king ceases to be sovereign. ❓
 - **Reply:** Kautilya preserves royal primacy while recognizing that effective sovereignty is organismic and conditional on administrative and strategic capacities. ⚠️
 
-### 5.3 Svāmī as head, but not unlimited master
+### 5.3 The ruler (svāmī) as head, but not unlimited master
 **Statement:** The **svāmī** occupies the highest place, yet Kautilyan sovereignty is not Austinian unlimitedness. ✅
 
 **Argument:** The ruler must govern through counsel, prudence, discipline, and regard for the well-being of subjects. Authority is real, but its legitimacy and success are judged by order and welfare. ⚠️
@@ -593,7 +689,7 @@ Six moves, usable inside any sovereignty answer:
 - **Objection:** A monarch with coercive power can always ignore duty. ✅
 - **Reply:** Kautilya is too realistic to deny abuse; his response is institutional vigilance, ministerial competence, discipline, and reason of state tied to long-term stability. Misrule weakens sovereignty itself. ⚠️
 
-### 5.4 Daṇḍanīti
+### 5.4 Calibrated coercion (daṇḍanīti)
 **Statement:** *Daṇḍanīti* is the science of punishment, coercive order, and disciplined enforcement. ✅
 
 **Argument:** Kautilya sees coercive power as indispensable. Without *daṇḍa*, society falls into disorder; with excessive *daṇḍa*, the ruler breeds resentment and instability. The art of sovereignty lies in calibrated punishment. ✅
@@ -608,10 +704,19 @@ Six moves, usable inside any sovereignty answer:
 - **Objection:** This turns politics into fear. ❓
 - **Reply:** Kautilya's deeper argument is that fear without welfare is self-defeating, while welfare without order is impossible. Thus coercion and welfare are complementary, not mutually exclusive. ⚠️
 
-### 5.5 Maṇḍala theory and ṣāḍguṇya
-**Statement:** Kautilya's external sovereignty is expressed through the *maṇḍala* theory and the six-fold policy (*ṣāḍguṇya*). ✅
+### 5.5 The circle-of-states (maṇḍala) theory and the six-fold policy (ṣāḍguṇya)
+**Statement:** Kautilya's external sovereignty is expressed through the circle-of-states (*maṇḍala*) theory and the six-fold policy (*ṣāḍguṇya*). ✅
 
-**Argument:** The interstate world is competitive and unstable. Alliances are strategic, not sentimental. Hence the line often associated with Kautilyan realism: **there is no permanent friend or permanent enemy**; there are permanent interests. ⚠️
+**Argument:** The interstate world is competitive and unstable. The *maṇḍala* framework locates
+friends and enemies relationally, while the six measures permit policy to change with circumstance,
+relative power and interest. This supports a thesis of **strategic flexibility**, not a verified
+verbatim maxim. ⚠️
+
+**2025 PYQ provenance control ✅/⚠️:** The paper itself prints **“There is no permanent friend or
+permanent enemy.”** Treat that sentence as the examiner's framing. The exact wording has not been
+verified in the local *Arthaśāstra* synopsis or the checked Shamasastry source passages. Do not call
+it a Kautilya quotation. Explain instead why the verified *maṇḍala* and *ṣāḍguṇya* doctrines make
+alliances conditional and policy-responsive.
 
 **Six-fold policy (*ṣāḍguṇya*)** ✅
 | Policy | General sense |
@@ -627,14 +732,15 @@ Six moves, usable inside any sovereignty answer:
 
 **Distinction:** Bodin emphasizes undivided internal supremacy; Kautilya adds the intelligence of survival among rival states. ✅
 
-**Example:** The 2025 question links "no permanent friend or permanent enemy" directly to the way sovereignty operates in a competitive interstate environment. ⚠️
+**Example:** The 2025 question invites the candidate to interpret its printed line through
+Kautilya's competitive interstate framework; it does not establish the line's authorship. ⚠️
 
 **Objection → Reply:**
 - **Objection:** Such realism is cynical and amoral. ✅
 - **Reply:** Kautilya is certainly realistic, but not normless. Strategic flexibility operates alongside the ruler's internal duty toward order and welfare. ⚠️
 
-### 5.6 Yogakṣema and welfare duty
-**Statement:** Kautilyan sovereignty is oriented to **yogakṣema**—security and well-being—and to the ruler's duty toward subjects. ✅
+### 5.6 Security and welfare (yogakṣema) and the ruler's welfare duty
+**Statement:** Kautilyan sovereignty is oriented to security and welfare (**yogakṣema**) and to the ruler's duty toward subjects. ✅
 
 **Argument:** The ruler's welfare is tied to the welfare of the people; the durability of rule depends on prosperity, security, and justice in administration. This moves Kautilya beyond pure force theory. ✅
 
@@ -742,6 +848,24 @@ Austin's sovereign is legally supreme because no superior commands it; Kautilya'
 - **Laski:** interdependence strengthens the critique of absolute state supremacy. ⚠️
 - **Kautilya:** the strategic-relational side of external sovereignty remains highly relevant. ⚠️
 
+#### Mechanisms of constraint and reconfiguration
+
+| Mechanism | What happens | Sovereignty consequence |
+|---|---|---|
+| **Treaty commitment** ✅/⚠️ | A state accepts binding rules through its recognised treaty-making capacity | Self-limitation can constrain future action without creating a global Austinian sovereign |
+| **Delegation** ⚠️ | A state authorises an institution to perform a defined adjudicative, administrative or monitoring function | Exercise of a competence moves outward while the legal source and limits of the delegation remain treaty-based |
+| **Pooling** ⚠️ | States exercise a defined competence jointly through common voting or bargaining rules | Finality becomes shared for the agreed field, not universally transferred |
+| **Material dependence / conditionality** ⚠️ | Finance, markets, technology or security asymmetry narrows feasible choices | Legal independence may survive while effective autonomy declines |
+
+**Supranational caution ⚠️:** not every international organisation is supranational, and even a
+supranational institution is not automatically sovereign in Austin's sense. Ask which competence
+was conferred, by what instrument, with what exit or review rule, and whether material dependence
+makes formal consent substantively unequal.
+
+**IR boundary:** International Relations owns the detailed institutions and current disputes. This
+owner uses them only to distinguish legal persistence, delegated exercise, pooled authority and
+practical constraint.
+
 **Objection → Reply:**
 - **Objection:** If decisions are globally constrained, states are no longer sovereign. ❓
 - **Reply:** Constraint is not extinction. Sovereignty has always existed amidst pressures; the question is the degree and form of autonomy, not a mythical absence of all constraint. ⚠️
@@ -763,6 +887,10 @@ Austin's sovereign is legally supreme because no superior commands it; Kautilya'
 13. **Do not call the *Grundnorm* a moral standard.** ✅ It confers legal validity only; keeping it morally inert is exactly why Kelsen stays a positivist.
 14. **Do not merge Kelsen, Hart and Laski into one "critique of Austin".** ⚠️ They replace the personal sovereign with three different things — a norm-hierarchy, an official social practice, and a plurality of associations.
 15. **Do not develop Dworkin's principles/hard-cases argument in a sovereignty answer.** ⚠️ Name it as the next objection to Hart and route it; the doctrine is owned by [Individual and State](Individual-and-State.md).
+16. **Do not omit permanence and universality from the classical attribute set.** ✅ The standard five are absoluteness, permanence, universality, inalienability and indivisibility.
+17. **Do not equate popular with national sovereignty.** ⚠️ Popular sovereignty locates the source of public authority; national sovereignty concerns collective self-determination and independence.
+18. **Do not call India a system of parliamentary sovereignty.** ✅ India has parliamentary government under constitutional supremacy and judicial review; this does not make the judiciary sovereign.
+19. **Do not present the 2025 printed maxim as a verified Kautilya quotation.** ⚠️ Treat it as PYQ framing and answer through *maṇḍala* and *ṣāḍguṇya*.
 
 ## 9. KEYWORD & STATEMENT BANK
 
@@ -772,14 +900,19 @@ Austin's sovereign is legally supreme because no superior commands it; Kautilya'
 
 - **absolute power** ✅
 - **perpetual authority** ✅
+- **permanence / continuity** ✅
+- **universality** ✅
 - **indivisible sovereignty** ✅
+- **inalienability** ✅
 - **determinate human superior** ✅
 - **habitual obedience** ✅
 - **command and sanction** ✅
 - **legal sovereignty / political sovereignty** ✅
 - **de jure / de facto sovereignty** ✅
 - **titular / actual sovereignty** ✅
+- **popular sovereignty / national sovereignty** ✅/⚠️
 - **pluralism** ✅
+- **Figgis / Cole / MacIver** ✅
 - **associational autonomy** ✅
 - **state as one association among many** ✅
 - **saptāṅga state** ✅
@@ -788,6 +921,8 @@ Austin's sovereign is legally supreme because no superior commands it; Kautilya'
 - **ṣāḍguṇya** ✅
 - **yogakṣema** ✅
 - **prajā-sukha** ✅
+- **parliamentary sovereignty / constitutional supremacy** ✅
+- **delegated / pooled sovereignty** ⚠️
 
 ### 9.2 Statement bank
 Use these as crisp sentence-starters in answers:
@@ -891,9 +1026,11 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **S5 · Sovereignty must be divided and shared.** Claim: the state is one association among many and must compete for allegiance by satisfying wants → Named: Laski, *A Grammar of Politics* → Use for: 2018, 2023 → Limit: under-explains the state's coordinating necessity in emergency.
 - **S6 · Authority is duty-bound and organic.** Claim: the *svāmī* is one of seven interdependent limbs (*saptāṅga*), governs through *daṇḍanīti*, and is obligated to *yogakṣema* → Named: Kautilya, *Arthaśāstra* → Use for: 2018, 2024, 2019 comparison → Limit: prudential statecraft is not consent-based legitimacy; do not read modern democracy into it.
 - **S7 · Interstate relations are structurally, not morally, determined.** Claim: the *maṇḍala* framework and the *ṣāḍguṇya* six-fold policy make friendship and enmity positional rather than permanent → Named: Kautilya → Use for: 2025-pattern quoted-line stems → Limit: a descriptive-strategic model; it does not by itself license amoral policy.
+- **S7A · The 2025 maxim is prompt wording, not a verified quotation.** Claim: the printed line is best reconstructed through relational *maṇḍala* positions and changeable *ṣāḍguṇya* measures → Named: 2025 Q2(c) plus the checked *Arthaśāstra* source trail → Use for: quotation-comment stems → Limit: do not claim verbatim Kautilyan authorship.
 - **S8 · The personal sovereign dissolves in three different directions.** Claim: Kelsen replaces him with a norm-hierarchy, Hart with an official practice, Laski with plural associations → Named: §3A.4 comparison grid → Use for: any "critically examine the theory of sovereignty" stem → Limit: the three are rivals, not allies; do not merge them.
 - **S9 · Legal authority in a modern state is competence-distributed.** Claim: a written supreme constitution with an amendment procedure and judicial review is rule-governed authority, not commander's will → Named: the Constitution of India; *Kesavananda Bharati* (Supreme Court judgment, **1973**) on limits to the amending power → Use for: Indian illustration in any Austin/Hart answer → Limit: ✅ a judgment is a dated judicial decision, not philosophical proof; do not call any Indian body "the Austinian sovereign".
 - **S10 · Globalisation reconfigures rather than abolishes sovereignty.** Claim: treaty obligations, dispute-settlement bodies and transnational regulation pool and constrain competence → Named: §7.3 of this file → Use for: contemporary-relevance closers → Limit: ⚠️ say "reconfigured, constrained, pooled or negotiated", never "disappeared".
+- **S11 · Parliamentary government does not imply parliamentary sovereignty.** Claim: UK Parliament is the supreme legal authority in its jurisdiction, while Indian Parliament acts under a supreme written Constitution and judicially enforceable limits → Named: UK Parliament sovereignty page; Constitution of India Article 368; *Kesavananda Bharati* (1973) → Use for: democracy/federalism/Indian illustration → Limit: courts enforce constitutional supremacy; they do not thereby become sovereign.
 
 ### 11.5 Graded verdict formulas (adapt; never reproduce mechanically)
 
@@ -923,16 +1060,20 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - [Socio-Political PYQ Bank 2018–2025](../_PYQ-SocioPolitical-2018-2025.md) — for routing this topic into answer practice.
 
 ## SOURCES
-- O. P. Gauba, *An Introduction to Political Theory*.
-- O. P. Gauba, *Socio-Political Philosophy*.
+- O. P. Gauba, *An Introduction to Political Theory*, searchable local PDF pp. 179–218.
+- *Socio-Political Philosophy*, local compiled notes PDF pp. 55–67; no named author is asserted.
 - Rajeev Bhargava and Ashok Acharya, *Political Theory: An Introduction*.
 - John Austin, *The Province of Jurisprudence Determined*.
 - Jean Bodin, *Six Books of the Commonwealth*.
 - Harold J. Laski, *A Grammar of Politics*.
 - Harold J. Laski, *Studies in the Problem of Sovereignty*.
 - Kautilya, *Arthaśāstra* (Shamasastry / R. P. Kangle translation).
+- [R. Shamasastry translation of the *Arthaśāstra* — Wikisource](https://en.wikisource.org/wiki/Arthashastra), used to verify the seven constituents, calibrated coercion and six-fold-policy source trail without attributing the 2025 maxim verbatim.
 - Hans Kelsen, *General Theory of Law and State* — first English edition **1945**, translated by Anders Wedberg. Cited by title and year only; no page, chapter, edition or verbatim wording is asserted.
 - H. L. A. Hart, *The Concept of Law* (**1961**) — primary and secondary rules, the rule of recognition and the internal point of view. Cited by title and year only; paraphrased, never quoted.
 - *Kesavananda Bharati v. State of Kerala* (Supreme Court judgment, **1973**), used only as a dated judicial illustration of a legally limited amending competence.
+- [Parliamentary sovereignty — UK Parliament](https://www.parliament.uk/about/how/role/sovereignty/), used only for the current official description of the United Kingdom's jurisdictional doctrine.
+- [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india), especially Article 368, used only for constitutional-status control.
+- [Official *Kesavananda Bharati* judgment archive](https://judgments.ecourts.gov.in/KBJ/), used only for the basic-structure limitation and not as philosophical proof.
 
 > ⚠️ **Provenance note for §3A (added in this pass):** the Kelsen and Hart module is a named-scholar reconstruction adapted into this Philosophy owner. It asserts no page, chapter, edition or verbatim wording, makes no empirical claim about any Indian government, party or period, and deliberately does **not** develop Dworkin's principles/hard-cases argument, which is owned by [Individual and State](Individual-and-State.md).

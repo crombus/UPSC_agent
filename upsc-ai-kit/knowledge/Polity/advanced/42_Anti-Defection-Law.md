@@ -15,17 +15,16 @@
 ---
 
 # PART B — GROUNDS OF DISQUALIFICATION ⭐⭐
-| Member type | Disqualified if… |
+| Member type | Disqualification trigger |
 |---|---|
 | ✅ **Party member** | (a) **voluntarily gives up** party membership, OR (b) **votes/abstains against the party whip** without prior permission & not condoned within **15 days** |
 | ✅ **Independent** | **joins any political party** after election |
 | ✅ **Nominated** | joins a party **after 6 months** of taking the seat (may join within 6 months freely) |
 
-⚠️ "Voluntarily giving up" ≠ only formal resignation — the SC has read it to include **conduct** (e.g., attending
-rival rallies).
+⚠️ "Voluntarily giving up" ≠ only formal resignation — the SC has read it to include **conduct** from the member's proved conduct; no single act such as criticism or attendance is an automatic statutory test.
 
 ## Exceptions ✅ (only ONE survives)
-- ✅ **Merger** — if **at least 2/3 of the legislature party** agree to the merger;
+- ✅ **Merger** — where the original political party merges and **not less than 2/3 of the legislature party** agree, engaging paragraph 4's deeming rule;
   members who do not accept it may function as a separate group without disqualification.
 - ✅ Presiding officer who gives up party membership on taking office (dignity of the chair).
 - ❌ ⭐ The **"split" exception (1/3 members) was REMOVED by the 91st Amendment (2003)** — so **only merger** remains.
@@ -38,7 +37,7 @@ rival rallies).
   jurisdiction-exclusion (it lacked required state ratification) and held that the Presiding
   Officer acts as a **tribunal**, so the decision **is subject to judicial review** (on grounds of *mala fides, perversity,
   violation of natural justice*). Review is generally available **after** the decision, not before.
-- ✅ Defection has **no automatic effect** — needs a complaint; member gets a hearing.
+- ✅ House rules provide a petition, notice, evidence and hearing route; disqualification is adjudicated rather than treated as an unreasoned automatic vacancy.
 
 ---
 
@@ -46,8 +45,8 @@ rival rallies).
 ✅ Beyond deleting the split exception, it:
 1. Capped the **Council of Ministers at 15%** of the House (Lok Sabha / Assembly); **states: minimum 12** ministers.
 2. **Barred a disqualified defector** from being appointed a **Minister** (or holding a remunerative political post)
-   until re-election or the term ends.
-⚠️ Recommended by the **Dinesh Goswami Committee (1990)**, **Law Commission 170th Report (1999)** and **NCRWC (2002)**.
+   from disqualification until the original term would expire or an earlier election in which the person is declared elected, whichever occurs first.
+⚠️ Reform proposals differ by source: narrow-whip models and an independent/ECI-linked decider remain proposals, while only enacted constitutional text controls current law.
 
 ---
 
@@ -63,7 +62,7 @@ rival rallies).
 - 📰 ⚠️ **Speaker's delay** in deciding defection petitions — the recurring theme in the **Maharashtra Shiv Sena split
   (2022)** and similar cases; long pendency defeats the law's purpose.
 - 📰 **Keisham Meghachandra Singh (2020):** SC urged Parliament to consider an **independent tribunal** (retired judge)
-  to decide defection cases and suggested a **~3-month** decision timeline for Speakers.
+  to decide defection cases and stated an ordinary three-month outer limit absent exceptional circumstances supported by reasons, and urged an independent tribunal.
 - 📰 **"Resign-and-recontest" model** (Karnataka/MP) exploiting the law's gaps — engineered defections via mass
   resignations to topple governments.
 - 📰 Debate on whether the **whip** should apply only to no-confidence/money bills (to protect legislators' dissent) —

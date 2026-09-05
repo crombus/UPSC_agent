@@ -4,7 +4,7 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 
 # Polity 11 - Parliamentary System - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 11 | **GS-II + Prelims** | **Export date:** 2026-08-16
+> **Subject:** Indian Polity | **Topic:** 11 | **GS-II + Prelims** | **Content control:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -14,8 +14,8 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 
 - Source order followed: certified answer-complete Core owner `Polity/basic/Parliamentary-System.md` -> separately labelled optional Advanced owner `Polity/advanced/11_Parliamentary-System.md` -> local official-question routing ledgers, official local question papers and OCR-searchable *Indian Polity* -> live Constitution, Supreme Court judgments, Parliament and PRS controls -> Qdrant not used.
 - [LIMIT] The Foundation and Core session is independently answer-complete. Optional Advanced adds analytical labels and comparative theory only. Skipping Advanced does not remove any constitutional Article, mechanism, case, comparison, current control, PYQ route or answer framework needed for marks.
-- [CURRENT] Legal and parliamentary status is controlled to **16 August 2026, Asia/Kolkata**.
-- [CURRENT] The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 was introduced in Lok Sabha on **17 December 2024** and remains under consideration of a Joint Committee of Parliament. Proposed Article 82A is **not** part of the current Constitution, and no implementation year is established.
+- [CURRENT] Legal and parliamentary status is controlled to **28 August 2026, Asia/Kolkata**.
+- [CURRENT] The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 was introduced in Lok Sabha on **17 December 2024** and remains under consideration of a Joint Committee of Parliament. The Committee's term was extended on **30 July 2026** to report by the **Winter Session 2026**. Proposed Article 82A is **not** part of the current Constitution, and no implementation year is established.
 - [LIMIT] This package owns the **system architecture**. Office-specific detail is cross-linked to Polity 15 (President), 16 (PM and Council of Ministers) and 19 (Governor-CM-State Council); parliamentary procedure to Polity 17; anti-defection to Polity 42; full comparative design to Polity 47.
 - Package design target: **5 verified routed PYQs**, **24 original hard MCQs**, **8 remedial MCQs**, **6 original solved Mains questions**, and **12 original compact visuals**.
 
@@ -26,7 +26,7 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 | Definition | Parliamentary, responsible, cabinet and Westminster government; sovereignty distinction | Frames the system by executive-legislature relations |
 | Constitutional architecture | Union Articles 52-53, 74-75, 77-78, 88; State Articles 163-164, 166-167 | Solves Article and mechanism questions |
 | Eight features | Nominal/real executive to secrecy, with coalition and legal caveats | Converts textbook labels into mechanisms |
-| Bedrock principle | Confidence, solidarity, no-confidence, supply defeat and four leading cases | Builds collective-responsibility command |
+| Bedrock principle | Confidence, solidarity, no-confidence, supply defeat and leading continuity/floor-test cases | Builds collective-responsibility command |
 | Exact comparison | Parliamentary versus presidential on nine constitutional axes | Answers Prelims and 2018 GS-II |
 | Indian choice | Familiarity, responsibility, coordination, plural representation, Swaran Singh review | Produces a reasoned adoption answer |
 | Experience | Merits, demerits, coalitions and qualified system verdicts | Avoids one-sided evaluation |
@@ -240,7 +240,7 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 - [LIMIT] Do not mechanically say that defeat of **every** government bill automatically removes the ministry. Context, explicit confidence framing, subsequent confidence testing and constitutional practice matter.
 - [LIMIT] A Money Bill has a special bicameral procedure; Rajya Sabha's inability to veto it must not be confused with Lok Sabha's confidence power.
 
-### Four leading cases
+### Leading cases and the modern floor-test limit
 
 #### U.N.R. Rao v. Indira Gandhi (1971)
 
@@ -263,6 +263,16 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 - [FACT] In the Article 356 context, legislative majority should ordinarily be tested on the Assembly floor rather than inferred from subjective claims outside the House; proclamation material is judicially reviewable.
 - [ANALYSIS] The floor is the institutional site for proving responsible-government support.
 - [LIMIT] Bommai's floor-test doctrine is primarily State and Governor/Article 356 terrain. Use it here to illuminate confidence, then cross-link Polity 19 for operational detail and later refinements.
+
+#### Subhash Desai v. Principal Secretary, Governor of Maharashtra (2023)
+
+- [FACT] The Supreme Court held that a Governor cannot direct a floor test merely because of an
+  intra-party dispute; there must be **objective material** indicating that the government has lost
+  the confidence of the House.
+- [ANALYSIS] A floor test protects legislative confidence only when constitutionally triggered; it
+  cannot become a device for the constitutional head to enter party-management disputes.
+- [LIMIT] Detailed Governor, Speaker and Tenth Schedule consequences remain cross-owned by Polity
+  19 and Polity 42.
 
 ## 06. Parliamentary versus presidential government: exact axes
 
@@ -376,7 +386,7 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 ### Reliable PRS evidence
 
 - [FACT] PRS Legislative Research reports that the **17th Lok Sabha sat for 274 days over five years**, the lowest for a full-term Lok Sabha.
-- [FACT] PRS reported that **16% of Bills** in the 17th Lok Sabha were referred to committees, lower than the **28%** in the 16th and **71%** in the 15th Lok Sabha.
+- [FACT] PRS reported that **16% of Bills** in the 17th Lok Sabha were referred to committees, lower than the **26%** in the 16th and **71%** in the 15th Lok Sabha.
 - [ANALYSIS] The data supports a deliberative-decline argument; it does not prove that every law lacked scrutiny or that the constitutional system ceased to be parliamentary.
 - [LIMIT] No invented 2026 Budget percentages, bill counts or legislative timelines are used.
 
@@ -444,11 +454,11 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 
 ![The pending simultaneous-elections proposal raises a stability-accountability trade-off without changing current constitutional law.](../../../notes/Polity/assets/11_Parliamentary-System/11_onoe_tradeoff.png)
 
-### Verified status on 16 August 2026
+### Verified status on 28 August 2026
 
 - [CURRENT] The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 was introduced in Lok Sabha on **17 December 2024**.
 - [CURRENT] It was referred, with the Union Territories Laws (Amendment) Bill, 2024, to a **Joint Committee of Parliament**, chaired by P.P. Chaudhary.
-- [CURRENT] PRS and Digital Sansad continued to show the Bills under committee consideration; no enacted constitutional amendment or final implementation scheme is claimed here.
+- [CURRENT] The Committee's term was extended on **30 July 2026** to report by the **Winter Session 2026**; the Bills remained under committee consideration at the 28 August control date.
 - [FACT] The Bill proposes a new Article 82A framework and connected changes for simultaneous Lok Sabha and State Assembly elections.
 - [LIMIT] **Article 82A is not current constitutional text.** Do not give an implementation year or claim that the committee has endorsed constitutionality unless a primary report is tabled and verified.
 
@@ -531,7 +541,7 @@ cover_image: "../../../notes/Polity/assets/11_Parliamentary-System/01_responsibl
 - Certified Core: `Polity/basic/Parliamentary-System.md`; optional Advanced: `Polity/advanced/11_Parliamentary-System.md`; both left unmodified.
 - Local OCR-searchable *Indian Polity* chapter on the parliamentary system, used for classic features, merits/demerits, adoption reasons and India-Britain distinctions; corrected here on the US “Kitchen Cabinet” label.
 - Official Constitution of India, Legislative Department: Articles 52-53, 74-75, 77-78, 88, 163-164, 166-167 and Third Schedule.
-- Official Supreme Court judgment records: *U.N.R. Rao v. Indira Gandhi* (1971), *Shamsher Singh v. State of Punjab* (1974), *S.P. Anand v. H.D. Deve Gowda* (1996); *S.R. Bommai v. Union of India* (1994) used for the floor-test/Article 356 principle.
+- Official Supreme Court judgment records: *U.N.R. Rao v. Indira Gandhi* (1971), *Shamsher Singh v. State of Punjab* (1974), *S.P. Anand v. H.D. Deve Gowda* (1996), *S.R. Bommai v. Union of India* (1994) and *Subhash Desai v. Principal Secretary, Governor of Maharashtra* (2023).
 - Local official UPSC papers and routing ledgers for 2020 Prelims Q11, 2021 Prelims Q77, 2018 GS-II Q13, 2023 GS-II Q4 and 2024 GS-II Q3.
 - Historical 2020 and 2021 official Prelims keys are unavailable locally; solutions below are prominently labelled **INFERRED ANSWER - NOT OFFICIALLY VERIFIED**.
 - PRS Legislative Research: *Functioning of the 17th Lok Sabha* and legislative brief/status for the simultaneous-elections Bills; Digital Sansad Joint Committee page checked for current committee control.
@@ -595,19 +605,32 @@ D. Neither 1 nor 2
 
 **Model solution**
 
-India's cabinet is drawn from Parliament and remains responsible to Lok Sabha under Article 75(3). Yet this fusion can allow the executive to dominate the institution meant to scrutinise it.
+Article 75(3) makes the cabinet responsible to Lok Sabha, yet the same fusion can let the executive
+dominate its scrutineer. A disciplined majority and Tenth Schedule-backed whip reduce independent
+legislative voting. Cabinet control of House time, guillotining of grants and limited committee
+referral compress scrutiny. Delegated legislation, ordinances under Article 123 and an overbroad
+Money Bill route can further reduce prior parliamentary examination; PM-centred coordination
+concentrates agenda power.
 
-First, a disciplined majority and the whip, reinforced by the Tenth Schedule, usually make government defeat unlikely and reduce independent legislative voting. Second, the cabinet controls most House business and time; guillotining of demands for grants, compressed debate and limited committee referral weaken financial and legislative examination. Third, delegated legislation, ordinances under Article 123 and an overbroad Money Bill route can reduce prior bicameral scrutiny. PMO-centred coordination may further convert cabinet government into prime-ministerial government.
+Parliament nevertheless retains no-confidence, Question Hour, motions, DRSC and PAC-CAG scrutiny,
+while courts enforce constitutional limits.
 
-However, Parliament retains no-confidence power, Question Hour, motions, DRSCs and PAC-CAG scrutiny. Courts enforce constitutional limits, and elections renew accountability.
-
-Thus, cabinet growth has marginalised Parliament's **deliberative and control functions**, not created British-style cabinet sovereignty. The remedy is more sittings, routine committee scrutiny and narrower whip use.
+Thus, cabinet growth has marginalised Parliament's **deliberative and control functions**, not
+created British-style sovereignty. More sittings, routine committee referral and narrower whip use
+are the appropriate correctives.
 
 #### Why this earns marks
 
 - Opens with Article 75(3) and directly resolves the sovereignty/supremacy ambiguity.
 - Uses a mechanism chain: majority -> whip -> agenda/time -> executive law tools -> PM concentration.
 - Adds named correctives and a reform-oriented, qualified conclusion within 10-mark scope.
+
+#### How to improve this answer
+
+- In 150 words, retain only three dominance mechanisms: whip, control of House time and executive
+  law-making tools; compress correctives into one final sentence.
+- Draw a one-line chain — `fusion → disciplined majority → agenda control → weaker scrutiny` — if
+  space permits.
 
 ### PYQ 4 - UPSC GS-II 2018, Q13 - supporting/cross-owned
 
@@ -626,13 +649,18 @@ Thus, cabinet growth has marginalised Parliament's **deliberative and control fu
 
 India and the United States are constitutional, federal, republican democracies committed to representative government, rights and judicial review. Their basic tenets overlap, but the institutional routes differ.
 
-**Common foundations:** Both derive authority from a written Constitution, divide power federally, protect enforceable rights and entrust courts with constitutional review. Bicameral national legislatures represent population and constituent units, while periodic elections provide democratic legitimacy.
+**Common foundations:** Both derive authority from written Constitutions, divide power federally,
+protect enforceable rights and entrust courts with constitutional review. Bicameral legislatures
+and periodic elections provide representation and democratic legitimacy.
 
 **Different executive principles:** India adopts responsible parliamentary government. Articles 74-75 create a dual executive: the President is the formal head, while the PM-Council governs subject to Lok Sabha confidence. The United States has a single elected President with fixed tenure; cabinet secretaries cannot sit in Congress and are not collectively responsible to it.
 
 **Different separation logic:** India uses functional fusion and coordination, qualified by judicial review and federal distribution. The US uses a stricter separation with presidential veto, Senate confirmation and congressional oversight, creating checks but also deadlock risk.
 
-**Federal and political variation:** India has a stronger Union, single citizenship and an integrated judiciary; the US combines constitutionally stronger States, dual political citizenship and dual court structures. Indian party discipline and anti-defection rules strengthen executive control over the legislature; US divided government may intensify bargaining.
+**Federal and political variation:** India has a stronger Union, single citizenship and an integrated
+judiciary; the US combines stronger States, dual political citizenship and dual court structures.
+Indian anti-defection discipline strengthens executive control; US divided government intensifies
+bargaining.
 
 Therefore, both systems seek limited democratic government, but India prioritises daily legislative responsibility, whereas the US prioritises fixed tenure and institutional separation. Neither model ensures accountability or stability automatically; outcomes depend on parties, federal practice and constitutional restraint.
 
@@ -641,6 +669,13 @@ Therefore, both systems seek limited democratic government, but India prioritise
 - Answers “basic tenets” through shared foundations plus institutional differences.
 - Uses named Articles and exact comparison axes rather than slogans.
 - Includes effects and qualifications: responsibility versus stability, fusion versus deadlock, strong Union versus State autonomy.
+
+#### How to improve this answer
+
+- Use a two-column India/USA mini-table for executive, federal and judicial axes, then reserve the
+  prose for consequences; this prevents a descriptive country-by-country answer.
+- If compressed, retain Articles 74–75, fixed tenure/separation and one federal contrast before the
+  qualified conclusion.
 
 ### PYQ 5 - UPSC GS-II 2023, Q4 - supporting/cross-owned
 
@@ -651,21 +686,35 @@ Therefore, both systems seek limited democratic government, but India prioritise
 
 **Model solution**
 
-Britain and India both practise responsible cabinet government, but their approaches to legislative authority differ fundamentally.
+Britain and India share responsible cabinet government, but not the same source of legal supremacy.
 
-Under orthodox British doctrine, Parliament may enact or repeal any law; courts interpret Acts but cannot invalidate them merely for inconsistency with a superior codified Constitution. The constitutional order is largely uncodified and conventions regulate much executive practice.
+Under orthodox British doctrine, Parliament may enact or repeal any law; courts cannot invalidate
+an Act merely for inconsistency with a superior codified Constitution. Conventions regulate much
+executive practice.
 
-India instead adopts **constitutional supremacy**. Parliament's ordinary law-making is limited by the Seventh Schedule, Fundamental Rights and other constitutional provisions, and is subject to judicial review. Even the Article 368 amending power is limited by the basic-structure doctrine. Federalism and bicameral representation further distribute authority.
+India adopts **constitutional supremacy**. Parliament's competence is limited by the Seventh
+Schedule, Fundamental Rights and other constitutional provisions, and laws face judicial review.
+Even Article 368 power is limited by the basic-structure doctrine; federalism and bicameralism
+further distribute authority.
 
-Similarity remains in political responsibility: in both systems the cabinet survives through lower-House confidence and normally controls the legislative agenda.
-
-Thus, India borrowed Westminster responsible government but constitutionalised and limited it. British parliamentary sovereignty concerns legal competence; Indian “parliamentary supremacy” is better understood as Parliament's political control over the executive within a supreme Constitution.
+The similarity is political: in both systems the cabinet survives through lower-House confidence
+and normally leads the legislative agenda. India therefore borrowed Westminster responsibility
+but constitutionalised and limited Parliament. British sovereignty concerns legal competence;
+Indian parliamentary supremacy means political control over the executive within a supreme
+Constitution.
 
 #### Why this earns marks
 
 - Defines the precise legal contrast before listing institutional evidence.
 - Uses Seventh Schedule, Fundamental Rights, judicial review, Article 368 and basic structure.
 - Ends by separating sovereignty from responsible government, the core trap in the question.
+
+#### How to improve this answer
+
+- Open with `same responsible-government form, different source of legal supremacy`; this answers
+  “compare and contrast” immediately.
+- In a strict 150-word attempt, use three Indian limits only: federal competence, rights/judicial
+  review and the basic-structure limit.
 
 ## Original hard MCQ set - strict A -> B -> C -> D rotation
 
@@ -933,11 +982,11 @@ D. PRS found that parliamentary committees had been abolished.
 
 **Answer: C.**
 
-PRS reported 274 sitting days and a 16% referral rate, down from 28% in the 16th and 71% in the 15th Lok Sabha.
+PRS reported 274 sitting days and a 16% referral rate, down from 26% in the 16th and 71% in the 15th Lok Sabha.
 
 ### OM20. Simultaneous-elections control
 
-As of 16 August 2026, which is correct?
+As of 28 August 2026, which is correct?
 
 A. Article 82A is operative constitutional law.  
 B. Parliament has enacted a mandatory implementation year.  
@@ -1119,19 +1168,34 @@ The proposal is relevant to the stability-accountability debate only; it is not 
 
 **Model solution**
 
-The Constitution formally vests Union executive power in the President, but Articles 74, 75, 77, 78 and 88 make its exercise politically responsible.
+The Constitution formally vests Union executive power in the President, but five provisions make
+its exercise responsible.
 
-Article 74 places a PM-headed Council to aid and advise the President; after one reconsideration, the advice binds, while Article 74(2) protects the advice from judicial inquiry. Article 75 then gives the arrangement democratic content: ministers are appointed within a PM-led structure, hold office during pleasure, take constitutional oaths and are collectively responsible to Lok Sabha. The six-month rule ensures that even an initially non-member minister acquires legislative membership.
+Article 74 places a PM-headed Council to aid and advise the President; after one reconsideration,
+advice binds, while Article 74(2) protects the advice from inquiry. Article 75 gives democratic
+content: ministers operate in a PM-led team and are collectively responsible to Lok Sabha; a
+non-member must enter Parliament within six months.
 
-Article 77 converts decisions into valid executive form through action in the President's name and business-allocation rules. Article 78 requires the PM to communicate decisions and information to the President, preserving consultation without personal presidential government. Article 88 allows ministers to participate in either House, though voting remains tied to membership.
+Article 77 expresses executive action in the President's name and authorises business rules.
+Article 78 requires the PM to communicate decisions and information, preserving consultation
+without personal presidential government. Article 88 lets ministers participate in either House,
+though voting follows membership.
 
-Together, these provisions join constitutional form, cabinet decision and legislative accountability: the President acts formally, the Council decides politically, and Lok Sabha controls survival.
+Thus, the President supplies constitutional form, the Council makes political choices and Lok
+Sabha controls the ministry's survival.
 
 #### Why this earns marks
 
 - Integrates all five Articles through one causal chain.
 - Uses the reconsideration, six-month and voting caveats.
 - Ends with a crisp nominal-head/real-executive/confidence synthesis.
+
+#### How to improve this answer
+
+- Group the provisions as `decision (74–75) → legal form (77) → information (78) → House presence
+  (88)` instead of writing five isolated definitions.
+- Omit secondary clause detail if the answer exceeds 150 words; keep collective responsibility and
+  the Article 88 voting caveat.
 
 ### M2. 10 marks | 150 words
 
@@ -1146,19 +1210,34 @@ Together, these provisions join constitutional form, cabinet decision and legisl
 
 Article 75(3) makes collective responsibility the bedrock of Union parliamentary government in two senses.
 
-**Survival:** The Council must retain Lok Sabha confidence. A carried no-confidence motion requires resignation or a constitutionally proper dissolution route. Denial of essential supply is similarly grave, though not every legislative defeat automatically equals loss of confidence.
+**Survival:** The Council must retain Lok Sabha confidence. A carried no-confidence motion requires
+resignation or a constitutionally proper dissolution route. Denial of essential supply is grave,
+though not every legislative defeat equals confidence loss.
 
-**Solidarity:** Ministers may disagree internally, but once policy is settled they must defend it publicly; a minister who cannot do so should resign. This gives Parliament one accountable government rather than competing departmental executives.
+**Solidarity:** Ministers may disagree internally, but must publicly defend settled policy or
+resign. Parliament therefore confronts one accountable government.
 
-In *U.N.R. Rao* (1971), the Supreme Court held that dissolution does not terminate the Council: Article 74 ensures continuity while Article 75(3) operates when a House exists to test confidence. *Shamsher Singh* (1974) located responsibility in the advice-giving ministry rather than the formal head. At State level, *S.R. Bommai* (1994) reinforced the House floor as the proper place to test disputed majority.
+*U.N.R. Rao* (1971) held that dissolution does not terminate the Council: Article 74 preserves
+continuity while confidence can be tested only when a House exists. *Shamsher Singh* (1974) located
+political responsibility in the advice-giving ministry. At State level, *Subhash Desai* (2023)
+required objective material of lost House confidence before a Governor-directed floor test;
+intra-party disagreement alone is insufficient.
 
-Thus, collective responsibility unifies authority, accountability and continuity, but must not be confused with suppression of internal debate or a claim that every lost vote dismisses government.
+Thus, collective responsibility combines solidarity inside government with confidence before the
+House; it neither prohibits internal debate nor makes every lost vote fatal.
 
 #### Why this earns marks
 
 - Separates the two limbs named in the question.
 - Uses three cases for different propositions rather than decorative citation.
 - Adds the supply/ordinary-defeat and State-level qualifications.
+
+#### How to improve this answer
+
+- Use one case for continuity (*U.N.R. Rao*) and one for the floor-test limit (*Subhash Desai*);
+  additional cases should appear only if space remains.
+- Finish with a two-part verdict — solidarity inside government, confidence before the House — to
+  mirror the question exactly.
 
 ### M3. 15 marks | 250 words
 
@@ -1188,6 +1267,9 @@ The choice has costs. Short-lived governments demonstrate instability; majority,
 
 However, Indian evidence qualifies these objections. Full-term coalitions show that fragmentation need not cause collapse. Expert administration can be supplied without making the executive confidence-independent, while constitutional supremacy, federalism and courts check concentration.
 
+The alternative must also be judged institutionally: fixed tenure can prevent collapse, but divided
+government may produce policy deadlock without creating daily legislative responsibility.
+
 Therefore, parliamentary government remains better suited not because it guarantees good governance, but because its confidence principle, replaceability and coalition capacity align with India's need for continuous accountability and plural accommodation. Reform should strengthen Parliament rather than replace responsible government.
 
 #### Why this earns marks
@@ -1195,6 +1277,12 @@ Therefore, parliamentary government remains better suited not because it guarant
 - Gives an exact comparison before evaluation.
 - Uses Ambedkar, institutional familiarity, pluralism, Swaran Singh and coalition counterevidence.
 - Acknowledges presidential advantages and parliamentary failures before defending a qualified Indian choice.
+
+#### How to improve this answer
+
+- Keep the comparison table to six axes and spend the saved words evaluating Indian suitability;
+  the examiner rewards the assessment, not a catalogue.
+- Add one counterweight — fixed-tenure stability or deadlock risk — immediately before the verdict.
 
 ### M4. 15 marks | 250 words
 
@@ -1207,23 +1295,45 @@ Therefore, parliamentary government remains better suited not because it guarant
 
 **Model solution**
 
-India's parliamentary Constitution deliberately fuses executive and legislative personnel: Articles 74-75 create a ministry drawn from Parliament and sustained by Lok Sabha confidence. Fusion enables coordination and accountability, but does not alone explain cabinet dominance.
+Articles 74–75 create a ministry drawn from Parliament and sustained by Lok Sabha confidence.
+This fusion enables coordination, but does not alone explain cabinet dominance.
 
-**Party amplification:** A governing majority normally controls House outcomes. The whip, backed in relevant cases by Tenth Schedule disqualification risk, prioritises party survival over independent legislative judgment. The cabinet therefore commands the very majority meant to scrutinise it.
+**Party amplification:** A governing majority controls House outcomes. The whip, backed where
+applicable by Tenth Schedule disqualification risk, prioritises party survival over independent
+legislative judgment.
 
-**Procedural amplification:** Government business occupies most agenda time. Guillotining of undiscussed demands for grants compresses financial scrutiny. Delegated legislation transfers operational detail to the executive; ordinances under Article 123 can precede debate; an overbroad Money Bill route can reduce Rajya Sabha's role. PM control over appointments, communication and coordination, strengthened by PMO resources, may further convert cabinet government into prime-ministerial government.
+**Procedural amplification:** Government business occupies most agenda time. Guillotining grants
+compresses financial scrutiny. Delegated legislation, Article 123 ordinances and an overbroad Money
+Bill route can reduce prior or bicameral examination. PM control of appointments, information and
+coordination may further convert cabinet into prime-ministerial government.
 
-**Evidence of weakened deliberation:** PRS records only 274 sitting days for the full-term 17th Lok Sabha and a committee-referral rate lower than in the 16th and 15th Lok Sabhas. This indicates reduced opportunity for detailed scrutiny, though it does not establish that every enactment was unexamined.
+**Evidence:** PRS records 274 sitting days for the full-term 17th Lok Sabha and only 16% of Bills
+referred to committees. This indicates reduced opportunity, not that every enactment lacked scrutiny.
 
-**Correctives:** Article 75(3) still enables removal through no-confidence. Question Hour, motions, DRSCs, PAC-CAG scrutiny, opposition, bicameralism, courts and elections constrain the executive. Judicial review is especially important because India follows constitutional, not parliamentary, sovereignty.
+The concentration is therefore reinforced by an information asymmetry: ministers command the
+administration and legislative timetable, while ordinary members depend on limited research time,
+committee access and disclosure.
 
-Thus, cabinet dominance is best seen as **fusion plus disciplined majority plus control of procedure and information**. It marginalises deliberation in practice, not Parliament's constitutional capacity. More sittings, routine committee referral and narrower whip use are the appropriate correctives.
+**Correctives:** Article 75(3), Question Hour, DRSCs, PAC-CAG scrutiny, opposition, bicameralism,
+courts and elections constrain the executive. Judicial review matters because India follows
+constitutional, not parliamentary, sovereignty.
+
+Thus, cabinet dominance is **fusion plus disciplined majority plus control of procedure and
+information**. It marginalises deliberation, not Parliament's constitutional capacity. More
+sittings, committee referral and narrower whip use are the remedy.
 
 #### Why this earns marks
 
 - Directly tests and proves both parts of the quotation.
 - Adds precise instruments, PRS evidence and constitutional correctives.
 - Avoids the major conceptual error of equating executive dominance with legal sovereignty.
+
+#### How to improve this answer
+
+- Organise the body under `constitutional base`, `party/procedural amplifiers`, `effects` and
+  `correctives`; this makes the causal argument visible.
+- Use either the 274 sitting-day statistic or the 16% referral statistic in the exam, not both, if
+  the word limit is tight.
 
 ### M5. 20 marks | 250-300 words
 
@@ -1236,23 +1346,48 @@ Thus, cabinet dominance is best seen as **fusion plus disciplined majority plus 
 
 **Model solution**
 
-India adopted parliamentary government because a democratic executive must be stable yet accountable, and the framers preferred greater day-to-day responsibility. The central question is whether the resulting instability has become disproportionate.
+India's framers preferred day-to-day responsibility to fixed-term stability. The test is whether
+confidence-based instability prevents governance without improving accountability.
 
-**Responsibility delivered:** Article 75(3) makes government survival dependent on Lok Sabha confidence. Questions, debates, committees, financial voting and no-confidence expose ministers to continuous scrutiny. A failed ministry can be replaced without constitutional rupture. *Shamsher Singh* places political responsibility on the advice-giving Council, while *U.N.R. Rao* preserves responsible continuity even during dissolution.
+**Responsibility delivered:** Article 75(3) makes survival depend on Lok Sabha confidence.
+Questions, committees, financial voting and no-confidence enable continuing scrutiny and
+replacement without constitutional rupture. *Shamsher Singh* locates responsibility in the
+advice-giving Council; *U.N.R. Rao* preserves ministerial continuity during dissolution.
 
-**Stability and continuity costs:** India has seen short-lived governments, particularly in 1979, 1989-91 and 1996-98. Coalition bargaining and defection can delay decisions; a new ministry may reverse policy. Confidence incentives may encourage short-term electoral calculation. The simultaneous-elections proposal itself draws political force from the claim that repeated elections and uncertain terms disrupt governance.
+**Costs:** Short-lived governments in 1979, 1989–91 and 1996–98 show that coalition bargaining and
+defection can delay decisions and disrupt policy. Confidence incentives may also encourage
+short-term calculation.
 
-**Why the cost is not inherently unacceptable:** Full-term coalition governments after 1999 show that negotiated programmes, anti-defection discipline and institutional learning can produce stability. Major economic, welfare, foreign-policy and federal commitments have often continued across governments, demonstrating bureaucratic, judicial and intergovernmental continuity. Presidential fixed tenure would reduce one kind of instability but could create executive-legislative deadlock and concentrate personal mandate.
+**Counterevidence:** Full-term coalitions after 1999 show that negotiated programmes,
+anti-defection discipline and institutional learning can produce stability. Bureaucratic, judicial
+and intergovernmental institutions preserve substantial policy continuity. Presidential tenure
+would reduce one instability but risk executive-legislative deadlock and personal concentration.
 
-**A deeper responsibility deficit:** The more serious modern problem may be too little, not too much, legislative control. Majority whips, reduced sittings, weak committee referral and PMO centralisation can make governments stable while Parliament becomes less deliberative. PRS's 274-day figure for the 17th Lok Sabha illustrates this concern.
+**Deeper deficit:** Majority whips, reduced sittings, weak committee referral and PMO
+centralisation can make government stable while Parliament becomes less deliberative. PRS's
+274-day figure for the 17th Lok Sabha illustrates this concern.
 
-**Judgment:** Parliamentary instability is a designed accountability cost, but it becomes unacceptable only when party fragmentation defeats governance without enabling scrutiny. India's experience is mixed, not a system failure. The priority should be constructive confidence conventions, coalition transparency, stronger committees, predictable sittings and protection of federal/electoral accountability.
+Judicial floor-test doctrine supplies a boundary: *Subhash Desai* (2023) requires objective material
+of lost House confidence and rejects use of a floor test merely to resolve an intra-party dispute.
+This protects accountability from becoming partisan constitutional intervention.
+
+**Judgment:** Instability is a designed accountability cost, unacceptable only when fragmentation
+defeats governance without enabling scrutiny. India's record is mixed, not a system failure.
+Coalition transparency, stronger committees, predictable sittings and protected federal
+accountability are preferable to abandoning responsible government.
 
 #### Why this earns marks
 
 - Establishes explicit evaluation criteria and follows them.
 - Uses Articles, cases, historical instability, coalition counterevidence and PRS evidence.
 - Reframes the debate by showing that excessive executive stability can coexist with weak legislative responsibility.
+
+#### How to improve this answer
+
+- State the evaluation threshold in the introduction: instability is unacceptable only when it
+  prevents governance without improving accountability.
+- Compress historical examples into one line and devote the extra space to reforms that restore
+  scrutiny without abandoning confidence government.
 
 ### M6. 20 marks | 250-300 words
 
@@ -1266,23 +1401,46 @@ India adopted parliamentary government because a democratic executive must be st
 
 **Model solution**
 
-The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, introduced on 17 December 2024, proposes an Article 82A framework for simultaneous Lok Sabha and Assembly elections. As of 16 August 2026 it remains under Joint Committee review: Article 82A is not current law and no implementation year is established.
+The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 proposes Article 82A for
+simultaneous Lok Sabha and Assembly elections. As of 28 August 2026 it remains under Joint
+Committee review after a 30 July extension to report by the Winter Session 2026: it is not law and
+no implementation year is established.
 
-**Stability case:** Fewer election cycles may create a more predictable administrative calendar, reduce repeated mobilisation and give governments a clearer policy horizon. Synchronisation could also reduce the political incentive for continuous campaign mode. These claims echo the presidential advantage of tenure stability without formally replacing parliamentary government.
+**Stability case:** Fewer election cycles may create a predictable administrative calendar, reduce
+repeated mobilisation and lengthen policy horizons. This seeks some benefits of tenure stability
+without replacing parliamentary government.
 
-**Accountability cost:** Parliamentary government permits a ministry to fall when it loses House confidence. The proposal's remainder-term design after premature dissolution may produce legislatures with very short mandates merely to restore the common cycle. This could weaken the value of a fresh electoral mandate and encourage actors to prioritise calendar preservation over responsive government.
+**Accountability cost:** A parliamentary ministry may fall on losing House confidence. The
+remainder-term design after premature dissolution may create very short legislatures merely to
+restore the common cycle, weakening a fresh mandate and privileging calendar preservation.
 
-**Federal concern:** State elections express State-specific accountability. Synchronisation may nationalise campaign issues and alter the balance between Union and State political cycles. A mechanism for deferring a particular Assembly election must also be tested against representative continuity and constitutional safeguards.
+The Bill also permits an Election Commission recommendation to defer a particular Assembly
+election. Any final design therefore needs a time limit, transparent reasons and a route that
+prevents prolonged absence of an elected Assembly.
 
-**Constitutional design issue:** Ambedkar's formulation remains apt: no system maximises stability and responsibility equally. Election expenditure and administrative convenience are relevant, but they cannot by themselves displace confidence, federalism and periodic voter sanction. Conversely, staggered elections are not automatically superior if they cause chronic governance avoidance.
+**Federal concern:** State elections express State-specific accountability. Synchronisation may
+nationalise campaigns; deferring an Assembly election also raises representative-continuity and
+constitutional-safeguard questions.
 
-**Judgment:** The proposal should be assessed through necessity, proportionality, federal consultation, workable treatment of early dissolution and protection of House confidence. Stability is valuable only when it serves, rather than freezes, democratic responsibility. Until enactment, it must remain an analytical current-affairs illustration, not a statement of constitutional law.
+**Design:** Ambedkar's formulation remains apt: no system maximises stability and responsibility
+equally. Expenditure and convenience cannot by themselves displace confidence, federalism and
+voter sanction; staggered elections are not automatically superior either.
+
+**Judgment:** Test the proposal for necessity, proportionality, federal consultation, workable
+early dissolution and protection of House confidence. Stability must serve, not freeze,
+responsibility. Until enactment, this remains an analytical illustration, not constitutional law.
 
 #### Why this earns marks
 
 - Opens with exact current control and repeats the non-law qualification.
 - Organises analysis into stability, accountability, federalism and design.
 - Uses Ambedkar's frame and provides a constitutional test rather than a partisan verdict.
+
+#### How to improve this answer
+
+- Put `Bill, not law` in the first line and avoid predicting an implementation year.
+- Use a four-box answer plan — stability, confidence flexibility, federalism, safeguards — and end
+  with conditions for constitutionally acceptable design rather than a yes/no political position.
 
 ## Final consolidated register notes
 
@@ -1342,6 +1500,7 @@ The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, introduced
 | *Shamsher Singh* (1974) | President/Governor formal heads ordinarily acting on responsible advice | Governor has constitutionally specified discretionary field |
 | *S.P. Anand* (1996) | Non-member may be PM for six months and may enter either House | No permanent non-legislator executive |
 | *S.R. Bommai* (1994) | Disputed State majority belongs on Assembly floor; Article 356 material reviewable | Primary operational owner is Governor/State government |
+| *Subhash Desai* (2023) | Intra-party disagreement alone cannot trigger a Governor-directed floor test | Objective material of lost House confidence is required |
 
 - No-confidence carried -> ministry must resign or use a constitutionally proper dissolution route.
 - Essential supply defeat -> conventionally grave.
@@ -1391,7 +1550,7 @@ The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, introduced
 - Delegated legislation shifts detail to executive, subject to legislative/judicial control.
 - Article 123 ordinance is temporary and reviewable, not a parallel sovereign law source.
 - Money Bill route narrows Rajya Sabha's role and must remain within Article 110.
-- PRS anchor: 17th Lok Sabha = **274 sitting days**; **16%** bills referred, below 16th (**28%**) and 15th (**71%**).
+- PRS anchor: 17th Lok Sabha = **274 sitting days**; **16%** bills referred, below 16th (**26%**) and 15th (**71%**).
 - Qualified conclusion: scrutiny and deliberation are marginalised; constitutional supremacy is not transferred to cabinet.
 
 ### Accountability-corrective stack
@@ -1419,7 +1578,7 @@ The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, introduced
 
 - **Bill:** Constitution (129th Amendment) Bill, 2024.
 - **Introduced:** 17 December 2024.
-- **Status on 16 August 2026:** under Joint Committee consideration with connected UT Laws Bill.
+- **Status on 28 August 2026:** under Joint Committee consideration with the connected UT Laws Bill; term extended on **30 July 2026** to report by the **Winter Session 2026**.
 - **Not law:** proposed Article 82A is not in the current Constitution.
 - **No claim:** no implementation year; no unverified committee endorsement.
 - **Use in answers:** stability/coordination claims versus confidence flexibility, short remainder terms, federal political space and voter accountability.

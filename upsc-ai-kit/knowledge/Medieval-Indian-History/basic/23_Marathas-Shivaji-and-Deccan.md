@@ -1,126 +1,430 @@
-# The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis — MUST-DO
+# Marathas, Shivaji, Aurangzeb's Deccan & the Jagirdari Crisis — MUST-DO
 
-> **Subject:** History (Medieval India) · **Tier:** Must-Do (foundation) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** Satish Chandra, *History of Medieval India* — chapters on "The Rise of the Marathas," Shivaji's administration, Aurangzeb and the Deccan, and decline/jagirdari crisis.
-> ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
-> *Companion: `advanced/23_Marathas-Shivaji-and-Deccan.md`. Chronology spine: `00_Master-Chronology.md`.*
+> **Core sources:** Satish Chandra, Part II and concise volume; official
+> repository owners, chronology and verified 2018-2026 PYQ ledgers.
+>
+> ✅ fact from assigned sources; ⚠️ interpretation. Terms such as guerrilla,
+> Hindu state, nationalism and crisis require historical qualification.
 
 ---
 
-## Mini-timeline
+## 1. Scope and ownership
+
+Topic 23 owns the western-Deccan setting, Shahji, Shivaji's rise and state,
+Mughal-Bijapur-Golconda interaction, Purandar/Agra, coronation, forts, army,
+navy and revenue, successors, Aurangzeb's post-1681 campaigns, annexations,
+Sambhaji-Rajaram-Tarabai resistance, logistics and the jagirdari crisis.
+
+- Topic 18 retains Mughal-Deccan policy through 1657.
+- Topic 22 retains Aurangzeb's religious/Rajput/North India policy.
+- Topic 24 retains full Mughal society/economy/culture.
+- Topic 25 retains the full post-1707 decline and eighteenth-century Maratha
+  expansion.
+
+> ⚠️ Shivaji converted local military, fort, agrarian and coastal resources
+> into a sovereign regional state. Aurangzeb destroyed Bijapur and Golconda but
+> thereby removed buffers, expanded commitments and faced a mobile,
+> decentralised Maratha war that aggravated—not singly created—the jagirdari
+> crisis.
+
+---
+
+## 2. Regional setting and Shahji
+
+Western Deccan state formation drew on:
+
+- Sahyadri hill ranges, passes and defensible forts;
+- **Maval** uplands and mobile infantry;
+- Konkan creeks, ports and maritime communities;
+- deshmukhs, patils, village bodies and hereditary landed rights;
+- Marathi language and regional devotional networks;
+- service mobility among Ahmadnagar, Bijapur, Golconda and the Mughals; and
+- imperial competition that created openings for local chiefs.
+
+⚠️ Geography enabled but did not cause the Maratha state. Organisation,
+leadership, fiscal extraction, diplomacy and rival-state weakness converted
+terrain into power.
+
+✅ **Shahji Bhonsle** served shifting Ahmadnagar, Mughal and Bijapur interests.
+He supported a Nizam Shahi claimant, controlled a Poona-region base and later
+held southern assignments. His career shows mobile service politics, not a
+continuous hereditary anti-Mughal national programme.
+
+✅ Shivaji's mother Jijabai and administrator Dadaji Kondadev are linked to the
+Poona jagir's early management. Later narratives must be checked against
+chronology and courtly/hagiographic purposes.
+
+---
+
+## 3. Chronology
 
 | Date | Event |
 |---|---|
-| ✅ 1645–47 | Shivaji overruns hill forts near Poona — Rajgad (source: Rajgarh), Kondana and Torna |
-| ✅ 1656 | Conquest of Javli gives Shivaji control over the Mavala highlands |
-| ✅ 1659 | Afzal Khan killed; Shivaji's fame and Maratha support expand |
-| ✅ 1664 | Shivaji sacks Surat, the premier Mughal port |
-| ✅ 1665 | Treaty of Purandar with Jai Singh |
-| ✅ 1666 | Shivaji's Agra visit and escape; turning point in Mughal-Maratha relations |
-| ✅ 1674 | Shivaji formally crowned at **Raigad**; assertion of sovereignty |
-| ✅ 1680 | Shivaji dies |
-| ✅ 1686–87 | Aurangzeb annexes Bijapur and Golconda |
-| ✅ 1689 | Sambhaji captured and executed |
-| ✅ 1707 | Aurangzeb dies; Deccan problem unresolved |
-
-## 1. Snapshot & core idea
-
-**Foundation — Shivaji created a regional state, not merely a raiding power.**
-
-✅ Shivaji began from the Poona jagir left by Shahji and Jija Bai, captured nearby hill forts, then used the conquest of **Javli** to control the Mavala region and open the route to Satara and the Konkan.
-- ✅ His power rested on forts, mobile Mavali infantry, rapid cavalry movement, diplomacy, and opportunistic war against Bijapur and the Mughals.
-- ✅ The **Treaty of Purandar (1665)** required him to surrender 23 of 35 forts, while retaining 12 forts; Sambhaji received a mansab of 5000.
-- ✅ The Agra episode (1666) proved a turning point because Aurangzeb undervalued Shivaji; Chandra calls this one of Aurangzeb's biggest political mistakes.
-
-**Foundation — coronation, administration and chauth.**
-
-✅ In **1674**, Shivaji crowned himself to rise above other Maratha chiefs, claim Kshatriya status through Gaga Bhatta, treat with Deccani sultans as an equal, and strengthen Maratha political sentiment.
-- ✅ The **Ashtapradhan** existed, but it was not a modern cabinet; ministers were directly responsible to Shivaji.
-- ✅ Shivaji preferred cash salaries for regular soldiers, maintained discipline, supervised forts carefully, and did not abolish deshmukhi/zamindari or jagir/mokasa entirely.
-- ✅ **Chauth** began as a one-fourth contribution levied on neighbouring Mughal territories to supplement income.
-- ✅ His 1679 measurement-based assessment worked through village headmen after curbing powerful deshmukhs; the source gives a debated state demand of about two-fifths plus cesses.
-- ✅ Shivaji developed a navy of gunboats and trading craft using Koli, Bhandari and Muslim sailors; its immediate aims were creek/coast defence, trade and resistance to the Sidis.
-- ✅ **Sardeshmukhi** was an additional ten-per-cent claim based on asserted superior rights over the deshmukhs; it must not be confused with chauth.
-
-## 2. Key classification / data
-
-| Feature | Basic detail |
-|---|---|
-| ✅ Core area | Poona jagir → Mavala highlands → Satara-Konkan route |
-| ✅ Fort strategy | Hill forts as military and administrative nodes |
-| ✅ Purandar terms | 23 forts surrendered; 12 retained; Sambhaji mansab 5000 |
-| ✅ Coronation 1674 | Sovereignty, status, treaties with Deccani sultans, Maratha sentiment |
-| ✅ Ashtapradhan | Eight ministers; not a collective cabinet |
-| ✅ Chauth | One-fourth contribution from neighbouring Mughal territories |
-| ✅ Sardeshmukhi | Additional 10% superior-deshmukh claim |
-| ✅ Navy | Gunboats/trading vessels for coast, creeks, Sidis and commerce |
-| ⚠️ Deccan effect | Long Mughal war drained resources and morale |
-
-## 3. Study links
-
-> **Study link:** ✅ Rajput rupture and Aurangzeb's overstretched empire → `basic/22_Aurangzeb-Religious-Policy-Rajputs.md`.
-> **Study link:** ⚠️ Eighteenth-century Maratha expansion and Panipat III → `basic/25_Decline-of-the-Mughal-Empire.md` + `00_Master-Chronology.md`.
-
-## 4. Must-Know Facts (Prelims)
-
-- ✅ Shivaji captured **Rajgad (Rajgarh in the source), Kondana and Torna** in 1645–47; conquered **Javli** in 1656.
-- ✅ **Afzal Khan** was killed in 1659; **Surat** was sacked in 1664 and again in 1670.
-- ✅ **Treaty of Purandar (1665)**: 23 forts surrendered; 12 retained; Sambhaji mansab 5000.
-- ✅ **Shivaji's coronation: 1674**; priest **Gaga Bhatta** declared him a high-class Kshatriya.
-- ✅ **Ashtapradhan** = eight ministers; **Peshwa** handled finance/general administration.
-- ✅ **Chauth** = one-fourth contribution; Shivaji died in **1680**.
-- ✅ Shivaji's administration borrowed heavily from Deccani practice; it had a regional-popular base but no exclusively "Hindu" administrative structure.
-
-## 5. UPSC Traps
-
-> 🔑 Trap: Shivaji's Ashtapradhan was **not** a modern cabinet; each minister was responsible to the ruler.
-
-- ❌ Shivaji abolished zamindari/deshmukhi and jagirs. → Correct: he supervised and curbed mirasdars/deshmukhs but did not abolish these systems.
-- ❌ Purandar ended Mughal-Maratha conflict permanently. → Correct: Agra and Aurangzeb's narrow reading revived the conflict.
-- ❌ Chauth originally meant full sovereignty over Mughal lands. → Correct: it began as a contribution/levy, later gaining wider political meaning.
-- ❌ Aurangzeb solved the Deccan by annexing Bijapur and Golconda. → Correct: annexation opened a more difficult Maratha phase.
-
-## 6. 📰 Current link
-
-📰 **Current linkage (verify live before use):** Heritage recognition of Maratha forts can connect Shivaji's fort network, navy and regional state-building with conservation. Verify component sites and inscription dates from UNESCO.
-
-## 7. Mains angles
-
-- ⚠️ "Shivaji converted a frontier jagir into a durable regional state." Examine with reference to forts, revenue and administration.
-- ⚠️ Analyse why Aurangzeb's inability to integrate Shivaji/Marathas became a long-term Mughal political failure.
-- ⚠️ Discuss the Deccan war as a bridge between Mughal expansion and Mughal overextension.
+| ✅ 1640s | Shivaji acquired Torna, Kondana and other Poona-Maval forts; Murumbdev/Rajgad became a major base |
+| ✅ 1656 | conquest of Javli opened Maval-Satara-Konkan movement |
+| ✅ 1659 | Afzal Khan was killed at Pratapgad; Bijapuri pressure broke |
+| ✅ 1660-63 | Panhala crisis, Shaista Khan in Poona and Shivaji's 1663 raid |
+| ✅ 1664 | first sack of Surat |
+| ✅ 1665 | Jai Singh besieged Purandar; treaty surrendered 23 forts and retained 12; Sambhaji received mansab 5000 |
+| ✅ 1666 | Shivaji attended Aurangzeb's Agra court, was detained and escaped |
+| ✅ 1670 | renewed war and second Surat sack |
+| ✅ 1674 | coronation at Raigad with Gaga Bhatta |
+| ✅ 1676-79 | Karnataka expedition and Annaji Datto revenue assessment |
+| ✅ 1680 | Shivaji died; Sambhaji prevailed in succession |
+| ✅ 1681 | Aurangzeb entered the Deccan; Prince Akbar joined Sambhaji briefly |
+| ✅ 1686 | Bijapur annexed |
+| ✅ 1687 | Golconda annexed |
+| ✅ 1689 | Sambhaji captured and executed; Rajaram escaped to Gingee |
+| ✅ 1690s | decentralised Maratha commanders expanded war and chauth collection |
+| ✅ 1698 | Gingee fell after a long Mughal siege; Rajaram had escaped |
+| ✅ 1700 | Rajaram died; Tarabai directed resistance for her son Shivaji II |
+| ✅ 1700-05 | Aurangzeb personally pursued a fort-siege cycle |
+| ✅ 1707 | Aurangzeb died; war and settlement remained unresolved |
 
 ---
 
-## 8. Answer Architecture (Future-Question Support)
+## 4. Fort-network state formation
 
-### 8.1 Thesis options
+✅ Torna, Rajgad, Kondana/Sinhagad, Purandar, Pratapgad, Panhala and coastal
+forts formed a network. Forts served as:
 
-| Directive family | Qualified thesis |
+- refuge and treasury;
+- stores and garrison;
+- control of pass, valley and local countryside;
+- bargaining assets in treaties;
+- symbols of sovereignty; and
+- nodes linked by mobile field forces.
+
+⚠️ A fort was not useful in isolation. The system required food, water,
+repair, intelligence, local cooperation, relief and nearby revenue.
+
+### Javli, 1656
+
+✅ Control of Javli and the More chiefs' territory strengthened Shivaji in the
+Maval highlands and opened routes toward Satara and Konkan.
+
+⚠️ Use Javli as geographical-institutional consolidation, not romantic proof
+of inevitable statehood.
+
+---
+
+## 5. Bijapur, Afzal Khan and Mughal entry
+
+✅ Bijapur treated Shivaji as a rebellious subordinate within Shahji's service
+world. Afzal Khan's 1659 expedition ended with his death at Pratapgad, followed
+by rapid Maratha gains.
+
+✅ The Panhala/Salher-type war environment showed that mobile tactics did not
+eliminate siege, set battle or diplomacy. Shivaji could retreat, negotiate or
+trade forts.
+
+✅ Mughal viceroy Shaista Khan occupied Poona; Shivaji's 1663 night raid damaged
+prestige. Surat in 1664 supplied wealth and political theatre but did not mean
+permanent Maratha rule over the port.
+
+---
+
+## 6. Purandar and Agra: missed accommodation
+
+✅ Jai Singh's 1665 campaign combined siege, diplomacy and a wider plan against
+Bijapur. Purandar terms:
+
+- 23 of 35 forts surrendered;
+- 12 retained;
+- Sambhaji received mansab 5000;
+- Shivaji was to cooperate in the Deccan.
+
+⚠️ The treaty made Shivaji a subordinate ally for a political project; it did
+not erase his independent base or permanently settle status.
+
+✅ At Agra in 1666, court placement, rank expectation and detention created a
+prestige crisis. Shivaji escaped.
+
+⚠️ Satish Chandra treats Aurangzeb's failure to value Shivaji as a durable ally
+as a major political mistake. Avoid teleology: settlement was possible but not
+guaranteed.
+
+---
+
+## 7. Coronation and sovereignty, 1674
+
+✅ Coronation at Raigad:
+
+- raised Shivaji above competing Maratha chiefs;
+- asserted independent kingship;
+- used Gaga Bhatta to validate Kshatriya status;
+- regularised ritual, titles and era;
+- improved treaty standing with Deccan rulers; and
+- strengthened a wider Maratha political identity.
+
+⚠️ It did not create modern democracy, nationalism or an exclusively Hindu
+administration. Brahmanical status contest and a second rite show that
+legitimacy had to be made, not merely declared.
+
+---
+
+## 8. Administration: Ashtapradhan and local power
+
+The **Ashtapradhan** comprised eight named offices, but was not a modern
+collectively responsible cabinet. Ministers served the ruler and could hold
+military as well as civil duties.
+
+| Office | Core function |
 |---|---|
-| Examine Shivaji's state-building | "Shivaji converted a Poona jagir into a durable regional state through fort strategy, measured revenue, disciplined cash-paid army, naval capacity, Kshatriya coronation and assertion of Maratha political identity — creating institutions, not merely a raiding power." |
-| Analyse Mughal failure | "Aurangzeb's undervaluation of Shivaji (Agra 1666), annexation of Bijapur/Golconda (1686–87), and subsequent inability to defeat guerrilla warfare produced a 20-year Deccan 'ulcer' that drained the empire's treasury and morale." |
-| Discuss jagirdari crisis | "The Deccan war swelled the nobility (defeated Deccani/Maratha entrants) while shrinking productive jagir supply — converting the month-scale adjustment of Shah Jahan's time into the full-blown be-jagiri crisis that fragmented the post-1707 empire." |
+| Peshwa | general administration/finance coordination |
+| Amatya/Mazumdar | accounts and finance |
+| Sachiv | correspondence/records |
+| Mantri/Waqia-navis | court/intelligence chronicle functions |
+| Sumant/Dabir | external/diplomatic affairs |
+| Senapati | military command |
+| Nyayadhish | justice |
+| Panditrao | religious grants and duties |
 
-### 8.2 Named evidence units
+Names/functions varied in practice and drew heavily on Deccani administrative
+precedents.
 
-| # | Evidence | Claim it supports | Analytical function | Limitation |
-|---|---|---|---|---|
-| 1 | ✅ Javli conquest (1656): opened route to Satara and Konkan | Territory was built step-by-step from geographic logic | Shows strategic planning, not mere opportunism | Early phase depended on Bijapur's distraction; not purely Shivaji's genius |
-| 2 | ✅ Treaty of Purandar (1665): 23 forts surrendered, 12 retained; Sambhaji mansab 5000 | Mughal-Maratha relations oscillated between accommodation and confrontation | Demonstrates that Mughals could negotiate but not permanently integrate | Treaty failed because Agra episode broke trust |
-| 3 | ✅ Coronation (1674): Gaga Bhatta, Kshatriya status, Raigad | Sovereignty assertion raised Shivaji above other Maratha chiefs | Introduced political legitimacy distinct from Mughal/Deccani systems | Coronation debate (Shudra origin) was controversial; acceptance was not universal |
-| 4 | ✅ Chauth (¼) + Sardeshmukhi (10%): levied on Mughal territories | Fiscal instruments turned military capability into sustainable revenue | Distinguished Maratha state from mere raids | Chauth initially lacked theoretical backing; it hardened into a system over time |
-| 5 | ✅ Shivaji's navy: gunboats, Koli/Bhandari/Muslim sailors | State-building included maritime dimension | Shows that the Maratha state was not purely land-based | Navy's scope was coastal/creek defence; not a blue-water force |
-| 6 | ✅ Ashtapradhan: eight ministers, directly responsible to the ruler | Administrative structure existed but was not a collective cabinet | Qualifies both "modern cabinet" and "personal dictatorship" interpretations | Evidence is thin on actual functioning; hagiography inflates the system |
+✅ Shivaji curbed illegal exactions and over-mighty deshmukhs/mirasdars but did
+not abolish hereditary local rights, mokasa/jagir or landed intermediaries.
 
-### 8.3 Counterpoints
+⚠️ Central supervision coexisted with negotiated local power.
 
-- ⚠️ Shivaji's administration borrowed heavily from Deccani Sultanate practice — it was syncretic, not exclusively "Hindu."
-- ⚠️ After Shivaji's death (1680), the state fragmented temporarily under Sambhaji; durability required Peshwa-era reforms.
-- ⚠️ Chauth and sardeshmukhi must not be confused; sardeshmukhi was an additional 10% claim based on asserted deshmukh superiority.
+---
 
-### 8.4 Verdict scaffolding
+## 9. Revenue
 
-- **10-mark:** Forts + revenue + coronation (3 units); conclude: institutional state-building, not mere raiding.
-- **15-mark:** Add navy + chauth/sardeshmukhi + Mughal-failure; conclude: created an alternative political system that the Mughals could not absorb.
-- **20-mark:** Full 6-unit + jagirdari crisis link + compare with Vijayanagara's nayankara system; graded verdict on "regional state" vs "proto-national" framing.
+✅ Measurement and classification were used, with village headmen and officials
+in collection. Annaji Datto's 1679 assessment is a key anchor.
+
+✅ The source associates the demand with a substantial share, often stated
+around two-fifths plus cesses, but incidence and comparison are debated.
+Do not present one fraction as uniform realised extraction in every village.
+
+### Chauth and sardeshmukhi
+
+- **chauth**: one-fourth claim/contribution, initially linked to protection and
+  non-raiding arrangements in neighbouring territory; later a wider political
+  claim;
+- **sardeshmukhi**: additional ten-per-cent claim based on asserted superior
+  deshmukh right.
+
+They were distinct and did not automatically equal full territorial
+sovereignty. During the later war, kamaishdars and local agents made chauth a
+parallel fiscal network.
+
+---
+
+## 10. Army, intelligence and ganimi kava
+
+✅ Shivaji used Mavali infantry, light cavalry, forts, intelligence, rapid
+movement, night attacks, dispersed operations and disciplined command.
+Regular troops were often cash-paid; plunder and local assignments also
+existed.
+
+**Ganimi kava** is best understood as enemy-style/irregular mobile warfare
+adapted to terrain and intelligence, not a single timeless “guerrilla doctrine”.
+
+Maratha forces also fought sieges and battles. Mughal difficulties arose from:
+
+`long communications + numerous forts + seasonal terrain + dispersed opponents
++ uncertain local revenue + need to garrison captured places`.
+
+---
+
+## 11. Navy and coast
+
+✅ Shivaji used gunboats, grabs/gallivats and trading craft; recruited Koli,
+Bhandari and Muslim seafarers; and built or strengthened coastal forts such as
+Sindhudurg.
+
+Aims:
+
+- creek and coast defence;
+- checking Sidis of Janjira;
+- protecting or taxing trade;
+- coastal supply and intelligence; and
+- limiting Portuguese/English leverage.
+
+⚠️ It was a regional littoral force, not a modern blue-water navy capable of
+commanding the Indian Ocean.
+
+---
+
+## 12. State character
+
+Shivaji used Sanskritic kingship, protection language and Hindu symbols, but:
+
+- institutions borrowed from Deccani-Persianate practice;
+- Muslims served in army, navy and administration;
+- war was directed against Hindu and Muslim opponents;
+- revenue and fort control, not communal identity alone, structured conflict;
+- local peasants and chiefs experienced both protection and extraction.
+
+⚠️ “Hindu state” can describe an important legitimacy idiom only if it is not
+turned into an ethnically pure administration or modern communal nation-state.
+
+---
+
+## 13. Sambhaji, Rajaram and Tarabai
+
+### Sambhaji, 1680-89
+
+✅ Sambhaji defeated rivals after Shivaji's death, continued war and sheltered
+Prince Akbar for a time. He faced Mughal, Sidi and Portuguese pressures.
+Captured in 1689, he was executed with brutal punishment.
+
+⚠️ His execution removed a recognised opponent with whom negotiation might
+have been possible; it did not end resistance.
+
+### Rajaram and Gingee
+
+✅ Rajaram escaped to **Gingee**, creating a distant royal centre while
+commanders operated across Maharashtra. The long Mughal siege ended in 1698,
+but Rajaram escaped.
+
+### Tarabai
+
+✅ After Rajaram's death in 1700, Tarabai led resistance in the name of her son.
+Maratha command became decentralised but politically connected through the
+royal cause, forts, local chiefs and revenue collection.
+
+⚠️ Decentralisation increased resilience but also strengthened autonomous
+commanders and later confederate tendencies.
+
+---
+
+## 14. Aurangzeb in the Deccan after 1681
+
+Aurangzeb's objectives included:
+
+- control of rebellious Prince Akbar and Sambhaji;
+- enforcement of Mughal authority over Bijapur/Golconda;
+- ending Maratha raiding and parallel revenue claims;
+- securing routes, forts and tribute; and
+- integrating new territories and elites.
+
+### Annexations
+
+✅ Bijapur fell in 1686 and Golconda in 1687. Annexation removed independent
+states but also:
+
+- ended potential buffers and negotiating partners;
+- added vast territory, forts and officials;
+- absorbed unemployed Deccani nobles and soldiers;
+- expanded mansab/jagir claims;
+- exposed longer communication lines; and
+- left local power networks unsettled.
+
+⚠️ Conquest was not durable pacification.
+
+### Fort-siege cycle
+
+✅ From about 1700 Aurangzeb personally moved against forts. Marathas could
+surrender a fort, recover it after Mughal movement, cut supplies or negotiate
+payments.
+
+The imperial dilemma:
+
+`capture -> garrison -> supply -> move onward -> Maratha return -> recapture
+cost`.
+
+Military persistence remained formidable, but strategic returns declined.
+
+---
+
+## 15. Jagirdari crisis
+
+Topic 21 supplies the early claim-resource gap. Topic 23 owns its acute Deccan
+form.
+
+### Mechanisms
+
+1. **be-jagiri** — delay/shortage of assignable productive jagirs;
+2. **jama-hasil gap** — paper assessment exceeded collection;
+3. **paibaqi pressure** — land awaiting assignment or administratively
+   unsettled did not guarantee real income;
+4. **war disruption** — raiding, forts and uncertain local control reduced
+   collection;
+5. **parallel chauth** — Maratha agents claimed revenue in Mughal jagirs;
+6. **private bargains** — jagirdars paid or negotiated to protect collection;
+7. **expanded nobility** — Mughal, Deccani and Maratha entrants increased
+   claims;
+8. **transfers/corruption** — short tenure encouraged extraction and influence
+   trading;
+9. **thin contingents** — poor income weakened the ability to maintain troops;
+10. **zamindar/local power** — collection required cooperation that war eroded.
+
+### Feedback loop
+
+`bad jagir/low hasil -> weak contingent and harsh collection -> local
+resistance/Maratha bargain -> lower hasil -> noble dissatisfaction and
+faction -> more transfers and coercion`.
+
+⚠️ Debate:
+
+- “too many mansabdars, too few jagirs” identifies one real mechanism;
+- a purely fiscal account misses war, ecology, zamindars and administration;
+- a pure Deccan-war account misses pressures visible before 1681;
+- crisis did not mean the state ceased to function before 1707.
+
+---
+
+## 16. Why Mughal-Maratha settlement failed
+
+Potential settlement moments included Purandar, Agra, Sambhaji and later
+Shahu. Failure arose from:
+
+- conflicting rank and sovereignty claims;
+- distrust after Agra;
+- repeated changes in Deccan strategy;
+- Mughal insistence on subordination;
+- Maratha value of forts and chauth;
+- rival Deccan and European/Sidi actors;
+- succession and court politics; and
+- gains from continued war for local commanders.
+
+⚠️ A settlement was possible, not inevitable. Avoid claiming that one
+decision alone doomed the empire.
+
+---
+
+## 17. Sources and PYQs
+
+Use Persian chronicles for Mughal campaign/state views; Marathi bakhars and
+letters for regional memory with genre caution; European factory records for
+trade and war observation; revenue papers for claims/collections; and forts,
+routes and archaeology for material capacity. No single source transparently
+records Shivaji's motives or popular support.
+
+- Direct Topic-23 CSE Prelims/GS-I routes, 2018-2026: **zero verified**.
+- The 2024 Bhatkal fort question belongs Topic 09.
+- Eighteenth-century Maratha Confederacy belongs Topic 25.
+- Heritage/current-affairs routes do not become historical PYQs.
+- Original practice is labelled; Mains has no objective key.
+
+---
+
+## 18. Answer architecture and traps
+
+### Shivaji state-building
+
+`regional ecology -> Shahji/service world -> forts/Javli -> Purandar/Agra ->
+coronation -> administration/revenue -> army/navy -> qualified regional-state
+verdict`.
+
+### Aurangzeb and crisis
+
+`1681 objectives -> 1686/87 annexations -> 1689 execution -> Rajaram/Tarabai ->
+fort-logistics loop -> jagir feedback -> capacity-with-overextension verdict`.
+
+### Traps
+
+- Ashtapradhan was not a cabinet.
+- Chauth and sardeshmukhi were distinct.
+- fort network required revenue, stores and local support.
+- navy was littoral, not blue-water.
+- Shivaji's state was not institutionally pure or modern nationalist.
+- Sambhaji's execution decentralised resistance.
+- annexation removed buffers and added liabilities.
+- jagirdari crisis was fiscal, administrative, military and social.
+- Topic 22 religious-policy core and Topic 25 full decline remain separate.
+

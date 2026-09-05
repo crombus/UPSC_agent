@@ -376,13 +376,13 @@
 ### Optional depth modules
 
 1. **Quine beyond Two Dogmas: indeterminacy and ontological relativity — second-order layer** ⚠️  
-   - **✅ Core status (15 Aug 2026 — promotion trigger fired):** radical translation, the ***gavagai*** construction and the **indeterminacy of translation** **now live in Core** at [`Quine-Strawson.md`](../paper-1/western/Quine-Strawson.md) §1.7, together with the identity-predicate move, compensating analytical hypotheses and the verdict that indeterminacy is the *constructive* half of the critique of empiricism. Do not describe *gavagai* as optional.  
+   - **Bounded status after the 2 September 2026 semantic review:** radical translation, the ***gavagai*** construction, indeterminacy of translation, inscrutability of reference and ontological relativity remain fully available at [`Quine-Strawson.md`](../paper-1/western/Quine-Strawson.md) §1.7, but they are not independently printed or PYQ-owned in 2018–2025. Use them only after the two-dogmas/holism burden is complete.
    - **Issue (second-order):** given Core's account, is indeterminacy a distinct metaphysical thesis, or merely the ordinary underdetermination of theory by evidence applied to semantics?  
    - **Competing interpretations:** strong anti-meaning reading; moderate underdetermination reading; naturalistic reading that treats translation and ontology as theory-relative practices, not nihilism. **Chomsky** presses the underdetermination collapse; **Davidson** accepts indeterminacy but confines it.  
    - **Extra objection / counter-reply:** **Objection:** it goes too far and seems to dissolve meaning altogether. **Counter-reply:** Quine's target is intensional "meaning" as an explanatory primitive; successful language-use survives inside theory and behaviour. The residue is ontological relativity — reference is fixed only relative to a background theory.  
    - **Safe 15/20 use ⚠️:** one line only, and only after Core's gavagai steps have been stated.  
    - **What not to over-study ⚠️:** do not make the whole of *Word and Object* compulsory for an ordinary Two Dogmas answer.  
-   - **Promotion status:** ✅ **fired and executed** for indeterminacy. Ontological relativity remains optional; promote it if a PYQ asks about inscrutability of reference directly.
+   - **Promotion status:** bounded enrichment. Promote to marks-essential Core only if a future PYQ directly asks about radical translation, reference or ontological relativity.
 
 2. **Strawson's descriptive vs revisionary metaphysics as a methodological dispute** ❓  
    - **Issue:** is Strawson merely conservative about ordinary thought, or offering a transcendental defence of the conceptual scheme within which all revision must begin?  

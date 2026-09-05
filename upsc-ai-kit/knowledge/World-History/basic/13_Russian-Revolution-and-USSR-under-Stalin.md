@@ -279,3 +279,31 @@ not any single mistake, is why it fell.
 > **Study link:** World-History -> `basic/14_Second-World-War.md` for the war that both exposed and then magnified Soviet power.
 > **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the USSR's post-1945 superpower role, and §10.6A for the bloc's internal division.
 > **Study link:** World-History -> `basic/21_Cold-War-End-and-New-World-Order.md` for the system's eventual collapse.
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the unresolved 1905 settlement, collapse of tsarism,
+  February and October 1917 as distinct revolutions, Provisional Government
+  failure, Bolshevik consolidation, Civil War, War Communism and NEP, Stalin's
+  rise, industrialisation, collectivisation, famine, purges, war and postwar
+  repression through Stalin's death.
+- **Boundary:** Topic 10 supplies the First World War context, Topic 14 owns
+  the Second World War's global military course and genocide, Topic 15 owns
+  Soviet external relations in the Cold War, and Topic 21 owns the focused
+  1989-91 collapse and post-Cold-War order. Topic 13 owns Russia's domestic
+  revolutionary and Stalinist transformation.
+- **Date control:** 1905 and October Manifesto, abdication
+  (2 March 1917), Bolshevik seizure (night of 25-26 October), Constituent
+  Assembly dispersal (January 1918), Brest-Litovsk (March 1918), Civil War
+  (1918-20), NEP (1921), Lenin's death (January 1924), Stalin's consolidation
+  (1928-29), Constitution and Purges (1936-38), first Soviet atomic bomb
+  (1949) and Stalin's death (5 March 1953) remain distinct.
+- **Mechanism control:** war converted structural weakness into collapse;
+  February was a broad overthrow while October was an organised seizure;
+  decree, coercion, central geography, war-winning and tactical retreat
+  consolidated Bolshevik power; Stalinist capacity gains must be weighed
+  against famine, terror, destroyed expertise and evidentiary limits.
+- **Verified PYQ ownership, 2018-2025:** zero direct topic-only routes. All
+  revolution, Lenin-Stalin continuity and transformation questions in this
+  package remain original practice; no famine total beyond source-bounded
+  attribution, constitutional claim or live commemoration is invented.

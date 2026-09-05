@@ -191,3 +191,26 @@ sharing its aims.
 World History → `basic/05_Congress-of-Vienna-and-Concert-of-Europe.md` for the divided map after 1815
 World History → `basic/09_World-in-1914-and-Outbreak-of-WWI.md` for the later consequences of a united Germany
 World History → `advanced/06_Unification-of-Italy-and-Germany.md` for the from-above/from-below historiography (optional)
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the national unification of Italy and Germany; their
+  ideological, popular, diplomatic, monarchical and military agents; exact
+  territorial sequences; comparison of state nuclei and methods; political
+  forms, incomplete integration and effects on the European balance.
+- **Boundary:** Topic 05 owns the Vienna settlement, Topic 07 owns New
+  Imperialism and Africa, and Topic 09 owns the pre-1914 alliance system,
+  causes and outbreak. Topic 06 uses Vienna and Alsace-Lorraine only as the
+  opening condition and bounded consequence of national unification.
+- **Date control:** Young Italy (1831), failed revolutions (1848), Lombardy
+  (1859), Garibaldi's southern campaign (1860), Kingdom of Italy (1861),
+  Danish War (1864), Seven Weeks' War and Venetia (1866), Rome (1870), and
+  German Empire at Versailles (January 1871) remain separate stages.
+- **Mechanism control:** Italy visibly combined Mazzini's programme, Cavour's
+  statecraft, Garibaldi's popular arms and Victor Emmanuel II's monarchy;
+  Germany's timing, small-German boundary and federal-authoritarian form were
+  more decisively imposed by Prussia, Bismarck and three wars. Proclamation
+  did not complete social integration or make 1914 inevitable.
+- **Verified PYQ ownership, 2018-2025:** zero direct topic-only routes.
+  Comparison and from-above/from-below questions remain original practice; no
+  Bismarck quotation, objective key or current linkage is invented.

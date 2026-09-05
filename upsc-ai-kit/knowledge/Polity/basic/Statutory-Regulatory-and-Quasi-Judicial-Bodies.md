@@ -473,6 +473,59 @@ The CCPA is a statutory **regulatory/enforcement** authority protecting consumer
 
 ---
 
+
+
+## 16A. VERIFIED ENABLING-LAW AND APPELLATE-ROUTE MATRIX
+
+| Institution | Source and precise field | Ordinary statutory route |
+|---|---|---|
+| **RBI** | Reserve Bank of India Act, 1934 establishes the central bank; banking-supervision powers also arise under the Banking Regulation Act, 1949. It is statutory, not constitutional. | There is no single all-purpose RBI appellate tribunal. The remedy depends on the particular power and statute; constitutional judicial review remains distinct. |
+| **SEBI** | SEBI Act, 1992: investor protection, securities-market development and regulation; rule-making, investigation, directions and adjudication are function-specific. | Appealable SEBI/adjudicating-officer orders → **SAT** → Supreme Court on the statutory question-of-law route. |
+| **TRAI / TDSAT** | TRAI Act, 1997: TRAI recommends and regulates within Section 11; the 2000 amendment separated dispute settlement and appellate work into **TDSAT**. | Specified disputes and appeals → **TDSAT** → Supreme Court under the Act. TRAI and TDSAT are not interchangeable. |
+| **CCI** | Competition Act, 2002: anti-competitive agreements, abuse of dominant position and combinations. Dominance itself is not prohibited; **abuse** is. | Appealable CCI orders → **NCLAT** → Supreme Court. An investigative or prima-facie step is not automatically a final appealable order. |
+| **CERC / SERC** | Electricity Act, 2003: statutory commissions regulate allocated tariff, licensing, transmission/trading and adjudicatory fields. CERC's central field is not identical to every SERC field. | Appealable commission/adjudicating-officer orders → **APTEL** → Supreme Court. |
+| **PNGRB** | Petroleum and Natural Gas Regulatory Board Act, 2006 regulates specified downstream/midstream petroleum, petroleum-product and natural-gas activities; production of crude oil and natural gas is excluded. | Use the parent Act's specified appellate route; never infer jurisdiction merely from the word “petroleum.” |
+
+**Legal-status firewall:** A regulator may issue subordinate legislation, supervise, investigate,
+enforce and decide cases, but each act must be traced to its parent statute. A policy paper,
+consultation, Bill or proposed “super-regulator” is not operative law.
+
+## 16B. QUASI-JUDICIAL DECISION PROTOCOL
+
+```text
+STATUTORY POWER
+   -> competent authority and correct stage
+   -> notice of the case/material
+   -> reasonable opportunity to answer
+   -> unbiased decision-maker and recusal where required
+   -> findings tied to relevant evidence
+   -> reasoned, proportionate order
+   -> statutory appeal, if provided
+   -> Articles 226/227 or 32 constitutional review on their proper field
+```
+
+Natural justice is context-sensitive, not optional. A full civil trial is not invariably required,
+but urgency, expertise or statutory silence does not authorise bias, undisclosed decisive material
+or an unreasoned adverse order. **A.K. Kraipak** explains the thin administrative/quasi-judicial
+line; **S.N. Mukherjee** supports reasons; **L. Chandra Kumar** preserves the constitutional
+judicial-review floor; **CCI v SAIL** requires attention to the statutory stage and appealability.
+
+## 16C. INDEPENDENCE, CAPTURE AND ACCOUNTABILITY TEST
+
+| Design axis | Diagnostic question | Repair |
+|---|---|---|
+| Mandate | Are objectives and powers bounded by statute? | Clear objectives, jurisdiction and review clauses |
+| Appointment | Is expertise balanced with a credible selection process? | Published criteria, conflict checks and timely appointments |
+| Tenure/removal | Can case outcomes be influenced through insecurity? | Protected tenure and lawful removal safeguards |
+| Finance/staff/data | Does dependence defeat operational capacity? | Predictable resources and independent technical capacity |
+| Functional separation | Does the same team investigate, prosecute and decide? | Separate wings, disclosure, recusal and independent appeal |
+| Transparency | Can affected persons and Parliament understand the decision? | Consultation, response to comments, speaking orders and reports |
+| Capture | Is information or access controlled by industry, ministry or organised insiders? | Diverse participation, cooling-off/conflict rules and ex-post review |
+
+**Answer-grabbing line:** Regulatory independence is insulation from case-specific pressure, not
+immunity from statute, reasons, legislative scrutiny, appeal or constitutional review.
+
+
 ## 17. Historical and recent PYQ answer engines
 
 ### 17.1 2018 GS-II: tribunals and ordinary courts

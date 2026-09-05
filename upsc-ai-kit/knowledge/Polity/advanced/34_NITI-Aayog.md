@@ -45,8 +45,7 @@ Transforming India)** was established on **1 January 2015** as its successor —
 (3) **Monitoring & evaluation**; (4) **Think-tank / Knowledge & Innovation Hub**.
 - ✅ Two hubs: **Team India Hub** (cooperative federalism + policy design) & **Knowledge & Innovation Hub**
   (resource centre / best practices).
-- ⚠️ **Key limitation:** NITI Aayog **only recommends** — it has **NO power to allocate funds** (that power moved to
-  the **Finance Ministry**). It cannot impose plans on states.
+- ⚠️ **Key limitation:** NITI Aayog **only recommends** — it has **NO power to allocate funds** (budgetary allocation belongs to competent governments and fiscal institutions). It cannot impose plans on states.
 
 ---
 
@@ -57,7 +56,7 @@ Transforming India)** was established on **1 January 2015** as its successor —
 | ✅ Role | Allocated **funds/grants** to states | **Advisory think tank** — no fund allocation |
 | ✅ Federal approach | **Top-down** (command) | **Bottom-up** (cooperative) |
 | ✅ Plans | Five-Year Plans (imposed) | Strategy/vision docs, no imposition |
-| ⚠️ States' role | Passive recipients | **Equal partners** (Governing Council) |
+| ⚠️ States' role | Passive recipients | Participants through the Governing Council |
 | ⚠️ Members | Full-time economists | PM-led + CMs + experts |
 
 ⚠️ **Note:** Five-Year Plans ended with the **12th Plan (2012–17)**; NITI Aayog issued a **3-year Action Agenda**,

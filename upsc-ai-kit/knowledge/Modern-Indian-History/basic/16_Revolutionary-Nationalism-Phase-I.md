@@ -205,3 +205,19 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** underground revolutionary organisations and actions in
+  Bengal, Maharashtra and overseas; India House, European propaganda, Ghadar,
+  Komagata Maru, wartime plans, repression, achievements and strategic limits.
+- **Boundary:** Topic 15 owns open Swadeshi/militant politics; Topic 18 owns
+  Home Rule and Lucknow; Topic 21 owns HRA, HSRA, Kakori and Bhagat Singh.
+- **Date control:** Muzaffarpur (April 1908), Alipore (1908-09), Dhingra
+  (1 July 1909), Nasik (December 1909), Hardinge (23 December 1912), Ghadar
+  (1913), Komagata Maru (1914) and the failed rising (February 1915) remain
+  distinct events and organisations.
+- **Verified PYQ ownership, 2018-2026:** one direct route, 2022 Prelims Q53.
+  Supplementary evidence identifies only Rash Behari Bose among the three
+  named figures as Ghadar-associated; the answer remains **INFERRED — LOCAL
+  OFFICIAL KEY UNAVAILABLE**.

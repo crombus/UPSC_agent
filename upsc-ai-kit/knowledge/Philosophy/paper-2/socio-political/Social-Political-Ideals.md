@@ -4,13 +4,36 @@
 > **Evidence key:** ✅ canonical · ⚠️ analytical synthesis · ❓ contested
 > **Placement:** Foundational socio-political triad for Paper II, Section A; this node also feeds [Sovereignty](Sovereignty.md), political obligation within [Individual and State](Individual-and-State.md), the religion–ethics overlap in [Religion and Morality](../philosophy-of-religion/Religion-and-Morality.md), the Paper I background in [Kant](../../paper-1/western/Kant.md), and the framing logic of the [Master Framework](../../00_Master-Framework.md).
 
+## Exact ownership boundary and indispensable bridges
+
+The printed owner is deliberately narrow: **Equality, Justice and Liberty**. The following
+concepts appear here only where they execute that triad; their complete positive theories remain
+with later syllabus owners.
+
+| Concept | What this owner must teach | Canonical boundary |
+|---|---|---|
+| **Citizenship and democracy** | Equal civic standing, equal political liberty and the exact 2018 PYQ bridge asking whether liberty and equality are distinctive of democracy | Theories and institutional forms of democracy belong to [Forms of Government](Forms-of-Government.md) |
+| **Rights and duties** | Rights as protected claims/basic liberties and duties only as the correlative limit that prevents one person's liberty from becoming another's subjection | The full rights–duties–accountability architecture belongs to [Individual and State](Individual-and-State.md) |
+| **Authority and legitimacy** | The burden of justifying coercion, and the distinction between a legally valid rule and a morally justified one | Sovereign authority belongs to [Sovereignty](Sovereignty.md); political obligation belongs to [Individual and State](Individual-and-State.md) |
+| **Welfare** | Aggregate welfare as the utilitarian criterion and enabling provision as one possible condition of effective liberty | Welfare is not a fourth printed ideal here; institutional development and social-progress questions belong to [Development and Social Progress](Development-Social-Progress.md) |
+| **Recognition and social standing** | Humiliation, stigma and second-class status as failures of social equality and justice | Taylor, Fraser, Honneth and the positive recognition/redistribution debate belong to [Humanism, Secularism and Multiculturalism](Humanism-Secularism-Multiculturalism.md) |
+| **Affirmative action** | The general compensatory principle only | Reservation policy, reverse-discrimination arguments and the Indian caste record belong to [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md) |
+
+### Individual and social dimensions
+
+| Ideal | Individual dimension | Social/institutional dimension | Controlling warning |
+|---|---|---|---|
+| **Equality** | Each person has equal moral worth and may demand equal concern | Laws, offices, resources and social status must not reproduce arbitrary hierarchy | Equal worth does not imply identical treatment or outcome |
+| **Liberty** | A protected sphere of choice, thought and self-direction | Background conditions and non-domination determine whether formal options are usable | Effective freedom must not become perfectionist coercion |
+| **Justice** | Each person is owed reasons, due treatment and rectification of wrong | Procedures, distributions and status relations must be publicly justifiable | Fair procedure and fair outcome are distinct, and neither alone is sufficient |
+
 ## 0. ONE-SCREEN MAP
 
 | Ideal | Core question | Canonical pivot | Central danger if absolutised | UPSC use-case |
 |---|---|---|---|---|
 | **Equality** | In what sense are persons equal? | Equal moral worth; equal concern | Levelling sameness, neglect of merit, coercive uniformity | Distinguish legal, political, social, economic equality; opportunity vs outcome |
 | **Liberty** | What may a person do without interference, and what capacities must she possess to be truly free? | Negative vs positive liberty | Licence, domination by the strong, or paternal coercion in the name of freedom | Berlin, Mill, Hobbes–Locke–Rousseau, Green |
-| **Justice** | What is due to each, and by what rule? | Fairness, due proportion, entitlement, capability | Sacrificing persons to aggregates, or freezing historical privilege | Plato, Aristotle, Rawls, Nozick, Sen, Ambedkar |
+| **Justice** | What is due to each, by what rule and through what procedure? | Fairness, procedure, due proportion, entitlement, capability | Fair-looking rules that preserve injustice, or outcomes imposed arbitrarily | Plato, Aristotle, Rawls, Nozick, Sen, Ambedkar |
 
 ```text
                 LIBERTY  <——— tension / complementarity ———>  EQUALITY
@@ -348,7 +371,7 @@ Equality is strongest when treated as **equal status, fair opportunity, and prot
 
 **Relation to the ideals in this file ⚠️:** non-domination reframes the classic liberty–equality "trade-off" of §2.6. On the negative reading, redistributive or regulatory equality subtracts liberty. On the republican reading, material dependence *is* a source of domination, so certain equalising measures **increase** freedom rather than trading against it — a decisive line for 2019 Q4(b), 2022 Q1(d) and 2024 Q2(b).
 
-**Indian application (legal-status caution) ⚠️:** the vocabulary is an analytical lens, not an empirical verdict about any Indian government, party or period. ✅ The Bonded Labour System (Abolition) Act, **1976** is an **enacted statute** that legally dissolves a relation of personal dependence; ✅ the Minimum Wages Act, **1948** and the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, **2013** are enacted statutes that replace employer discretion with rule-governed entitlement and complaint machinery. ⚠️ Enactment is not implementation, and none of these establishes that domination has in fact ended; cite them as dated illustrations of the *form* of a non-domination remedy, never as proof of a philosophical thesis.
+**Indian application (legal-status caution) ⚠️:** the vocabulary is an analytical lens, not an empirical verdict about any Indian government, party or period. ✅ The Bonded Labour System (Abolition) Act, **1976** legally attacks a relation of personal dependence; ✅ the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, **2013** replaces unchecked workplace discretion with rule-governed duties and complaint machinery; and ✅ Gazette notification **S.O. 5322(E), 21 November 2025** brought the relevant provisions of the Code on Wages, **2019**, including its repeal-and-savings framework, into force. ⚠️ Enactment or commencement is not implementation, and none of these establishes that domination has ended; use them only as dated illustrations of the *form* of a non-domination remedy.
 
 **UPSC hook:** the strongest depth marker available on any liberty question; also usable as a supplement in **2018: 2(a) 20m** (liberty and equality as democratic features).
 
@@ -364,6 +387,51 @@ Equality is strongest when treated as **equal status, fair opportunity, and prot
 - **Objection → Reply ⚠️:**
   - **Objection:** justice is only what the sovereign says.
   - **Reply:** most traditions in political philosophy distinguish enacted law from moral legitimacy.
+
+### 3.1A Formal, procedural and substantive justice
+
+| Form | Exact question | Core demand | Failure if isolated |
+|---|---|---|---|
+| **Formal justice** ✅ | Are the announced principles applied impartially and consistently to like cases? | Generality, consistency and absence of personal favour | An unjust principle can still be applied consistently |
+| **Procedural justice** ✅ | Is the decision or allocation produced by fair rules, hearing, publicity, impartiality and non-cheating? | A just process that excludes arbitrary power and allows relevant claims to be considered | A fair-looking procedure can operate against a grossly unequal background |
+| **Substantive justice** ✅ | Are the governing principles, distribution and social relations themselves just? | Rights, fair life-chances, protection against deprivation and status subordination | A desired outcome imposed without due process can become arbitrary |
+
+**Controlling distinction ✅:** formal justice concerns consistent application; procedural
+justice concerns the fairness of the decision-producing process; substantive justice concerns
+the justice of the standard, distribution or social relation produced. The terms overlap in some
+texts but are not interchangeable.
+
+**Reconstructed argument ⚠️:**
+
+1. a procedure can be impartial while starting positions remain radically unequal;
+2. the resulting outcome can therefore satisfy a rule yet preserve domination or deprivation;
+3. but substantive correction without publicity, hearing and consistent limits can itself become
+   arbitrary;
+4. justice consequently requires **fair procedure plus a defensible substantive criterion**.
+
+**Rawls–Nozick placement ⚠️:** Rawls uses a fair choice situation and a just basic structure to
+discipline permissible outcomes; Nozick asks whether acquisition, transfer and rectification
+followed a just history. Neither view licenses the inference that any outcome produced by any
+procedure is automatically just.
+
+**Source control ✅:** This taxonomy is directly corroborated by O. P. Gauba, *An Introduction
+to Political Theory*, searchable local PDF pp. 442–445; *Socio-Political Philosophy*, searchable
+local PDF pp. 40 and 47–54; and *The Cambridge Dictionary of Philosophy*, searchable local PDF
+pp. 489–490.
+
+### 3.1B Legal, political, socio-economic and recognition/status dimensions
+
+| Dimension | What justice evaluates | Triad connection | Boundary |
+|---|---|---|---|
+| **Legal justice** ✅ | Impartial administration **and** whether law itself answers to justice | Equal legal status and protected liberty | Detailed constitutional doctrine is not owned here |
+| **Political justice** ✅ | Equal citizenship, voice, participation and non-arbitrary public power | Political equality plus civic liberty | Forms of government belong to the democracy owner |
+| **Socio-economic justice** ✅ | Distribution of benefits, burdens and real opportunities | Substantive equality and effective liberty | Development/welfare programmes are later-topic applications |
+| **Recognition/status justice** ⚠️ | Whether institutions reproduce stigma, humiliation or second-class standing | Social equality and Ambedkar's fraternity-based criticism | Full recognition theory belongs to the multiculturalism owner |
+
+**Legality and legitimacy bridge ⚠️:** legality identifies a rule's valid place in a legal
+system; legitimacy asks whether the exercise of authority is morally justified to those subject
+to it. Justice supplies the critical standpoint, while the complete theories of sovereign
+authority and political obligation remain cross-owned as stated above.
 
 ### 3.2 Plato: justice as each doing one's own work
 
@@ -649,6 +717,14 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 
 **Analytical verdict ⚠️:** Rawls continues Plato only in a very broad sense that justice structures a well-ordered society; he departs radically in method, egalitarian citizenship, and rejection of fixed functional hierarchy.
 
+### 4.7 Procedural and substantive justice
+
+| Axis | Procedural emphasis | Substantive emphasis | Best synthesis |
+|---|---|---|---|
+| Primary test | Was a fair rule or historical procedure followed? | Are the governing principle, distribution and status relations just? | Require fair process and publicly defensible outcomes |
+| Strong exemplar | Nozick's acquisition–transfer–rectification history | Rawlsian fair background institutions, capability and social equality | Procedure cannot cleanse unjust starting conditions; outcomes cannot excuse arbitrary means |
+| Central objection | Background inequality can make formally voluntary choice hollow | Officials may impose one contested pattern paternalistically | Preserve due process, rights, contestability and substantive minimums together |
+
 ## 5. CRITICISMS AND REPLIES
 
 ### 5.1 Equality
@@ -678,6 +754,10 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
    - **Reply ⚠️:** His side-constraint view remains a major warning against overreaching state redistribution.
 5. **Criticism of Sen:** too open-ended and less institutionally determinate.
    - **Reply ⚠️:** openness is deliberate; public reasoning and comparative assessment suit plural societies.
+6. **Criticism of procedural justice:** fair rules are enough, so outcomes need no further moral test.
+   - **Reply ⚠️:** procedures can inherit unjust starting conditions; substantive scrutiny remains necessary.
+7. **Criticism of substantive justice:** outcome-correction may ignore due process and plural conceptions of the good.
+   - **Reply ⚠️:** substantive justice is defensible only when pursued through rights-bound, public and contestable procedures.
 
 ## 6. COMMON UPSC TRAPS
 
@@ -697,8 +777,8 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
    - **Correction:** In political philosophy, stress nīti/nyāya, comparative justice, capability, and public reasoning.
 8. **Trap:** Using Ambedkar merely as a constitutional name-drop.
    - **Correction:** Use him philosophically—as a critic of social inequality that hollows out liberty and justice.
-9. **Trap:** Collapsing justice into law.
-   - **Correction:** legality may diverge from legitimacy; justice evaluates law itself.
+9. **Trap:** Collapsing justice into law or fair procedure.
+   - **Correction:** legality may diverge from legitimacy, and procedural regularity may coexist with substantive injustice.
 10. **Trap:** Forgetting balanced evaluation.
    - **Correction:** UPSC rewards thesis + strongest counter-position + reasoned verdict, not one-sided advocacy.
 
@@ -706,7 +786,7 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 
 ### 7.1 Keywords
 
-**Promoted vocabulary (this pass) ⚠️:** non-domination · arbitrary interference · freedom as status · benevolent master · contestability · interest-tracking law · merit · desert · need · contribution · equal share · sphere-sensitivity · morally arbitrary advantage · corrective justice · compensatory principle · transmitted disadvantage
+**Promoted vocabulary (this pass) ⚠️:** non-domination · arbitrary interference · freedom as status · benevolent master · contestability · interest-tracking law · merit · desert · need · contribution · equal share · sphere-sensitivity · morally arbitrary advantage · formal justice · procedural justice · substantive justice · corrective justice · compensatory principle · recognition/status justice · transmitted disadvantage
 
 - equal moral worth ✅
 - formal/legal equality ✅
@@ -721,7 +801,11 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 - self-regarding / other-regarding ✅
 - self-realisation ✅
 - distributive justice ✅
+- formal justice ✅
+- procedural justice ✅
+- substantive justice ✅
 - corrective / rectificatory justice ✅
+- recognition/status justice ⚠️
 - proportional equality ✅
 - original position ✅
 - veil of ignorance ✅
@@ -749,6 +833,7 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 8. **Sen reorients justice from perfect institutions to comparative reduction of manifest injustice.** ✅
 9. **Ambedkar reminds us that political equality is fragile where social hierarchy denies fraternity.** ⚠️
 10. **Liberty and equality remain normatively incomplete unless justice decides their scope and priority.** ⚠️
+11. **Fair procedure is necessary but cannot by itself vindicate an unjust principle, distribution or status order.** ⚠️
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -844,6 +929,7 @@ Each unit is **Claim → Named anchor → Use for → Limitation**. Select by th
 - **E10 · Equity as need-sensitivity.** Claim: "to each according to need" supersedes equal shares only at a later stage; distribution under scarcity still reflects contribution → Named: Marx's *Critique of the Gotha Programme* formula → Use for: 2022 Q2(c) → Limit: the two-stage structure is a normative projection, not a demonstrated historical law.
 - **E11 · Political liberty and social democracy.** Claim: political equality without social and economic equality is a contradiction that a polity cannot sustain indefinitely → Named: Ambedkar (§3.8) → Use for: any stem joining democracy to equality → Limit: this is the Indian normative anchor; the constitutional detail is owned by the Caste file.
 - **E12 · The compensatory principle.** Claim: corrective justice, generalised from transactions to structures, requires positive remedy for transmitted disadvantage → Named: §3.3B → Use for: social-justice stems → Limit: terminus and over-inclusion problems; the affirmative-action debate itself belongs to the Caste owner.
+- **E13 · Procedure and substance.** Claim: consistent and impartial rules are necessary, but a fair-looking process can reproduce unjust starting conditions → Named: formal/procedural/substantive taxonomy (§3.1A) → Use for: any composite justice answer or legality–legitimacy bridge → Limit: substantive correction must itself remain rights-bound, public and contestable.
 
 ### 9.5 Graded verdict formulas (adapt; do not reproduce mechanically)
 
@@ -864,8 +950,10 @@ Each unit is **Claim → Named anchor → Use for → Limitation**. Select by th
 - [Master Framework](../../00_Master-Framework.md)
 
 ## SOURCES
-- O. P. Gauba, *An Introduction to Political Theory*.
+- O. P. Gauba, *An Introduction to Political Theory*, searchable local PDF pp. 367–412 (liberty/equality) and 432–453 (justice taxonomy and perspectives).
 - Rajeev Bhargava and Ashok Acharya, *Political Theory: An Introduction*.
+- *Socio-Political Philosophy*, searchable local PDF pp. 7–11, 25–40 and 47–54.
+- Robert Audi (ed.), *The Cambridge Dictionary of Philosophy*, searchable local PDF pp. 489–490 and 536.
 - John Rawls, *A Theory of Justice*.
 - Robert Nozick, *Anarchy, State and Utopia*.
 - Amartya Sen, *The Idea of Justice*.
@@ -876,7 +964,9 @@ Each unit is **Claim → Named anchor → Use for → Limitation**. Select by th
 - Philip Pettit, *Republicanism: A Theory of Freedom and Government* (1997) — freedom as non-domination; cited by title and year only, paraphrased and never quoted.
 - Quentin Skinner, *Liberty before Liberalism* (1998) — historical recovery of the republican conception; cited by title and year only.
 - Karl Marx, *Critique of the Gotha Programme* — the need-based distributive formula used in §3.3A and E10.
-- [The Bonded Labour System (Abolition) Act, 1976 — India Code](https://www.indiacode.nic.in/handle/123456789/1911?view_type=browse), used only as a dated statutory illustration of a non-domination remedy, not as evidence that domination has ended.
+- [The Bonded Labour System (Abolition) Act, 1976 — India Code](https://www.indiacode.nic.in/handle/123456789/11219?locale=en), used only as a dated statutory illustration of a non-domination remedy, not as evidence that domination has ended.
+- [The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 — India Code](https://www.indiacode.nic.in/handle/123456789/17057), used only as a rule-governed complaint-mechanism illustration.
+- [Code on Wages commencement notification S.O. 5322(E), 21 November 2025 — Gazette of India](https://egazette.gov.in/WriteReadData/2025/267885.pdf), used only for current legal-status control; commencement is not proof of implementation.
 - [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Articles 14–16, used as dated constitutional illustration only.
 
 > ⚠️ **Provenance note for §2.8, §3.3A and §3.3B (added in this pass):** the republican non-domination module, the distributive-criteria grid and the compensatory-principle reconstruction are named-scholar syntheses adapted into this Philosophy owner. They carry no page, chapter, edition or verbatim wording for Pettit, Skinner, Rawls, Nozick or Aristotle, and no empirical claim about any Indian government, party or period. The affirmative-action policy debate is deliberately **not** developed here; it is owned by the Caste file.

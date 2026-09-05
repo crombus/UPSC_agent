@@ -188,3 +188,20 @@ Colonial provinces ignored linguistic cohesion -> administration and courts alie
 - Bombay split = **1960**; Punjab reorganisation and Haryana = **1966**; Chandigarh = shared UT capital.
 - English continued for Union official purposes under the **Official Languages Act 1963** and the assurances after **1965**; "associate official language" is shorthand, not a constitutional term.
 - Shiv Sena = **1966**, Bal Thackeray, "sons of the soil".
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** linguistic-state principle, Dar/JVP postponement, Andhra,
+  SRC and 1956 settlement, Bombay/Punjab corrections, official-language
+  compromise and accommodative/nativist/secessionist regionalism.
+- **Boundary:** Topic 29 owns founding synthesis; Topic 31 exclusively owns
+  tribal integration; Topic 32 owns foreign-policy legacy.
+- **Date control:** Congress linguistic organisation (1921), Dar/JVP (1948),
+  Andhra (1953), SRC report (1955), Act effective 1 November 1956, Bombay
+  (1960), Official Languages Act (1963), Punjab (1966) and amendment (1967).
+- **Mechanism control:** state-boundary language and Union official language
+  are distinct; linguistic accommodation generally strengthened integration
+  but did not erase minority, border, capital or nativist conflicts.
+- **Verified PYQ ownership, 2018-2026:** 2018 and 2022 GS-I are routed Mains
+  demand summaries rather than locally verified verbatim stems. No direct
+  Modern History Prelims route is invented.

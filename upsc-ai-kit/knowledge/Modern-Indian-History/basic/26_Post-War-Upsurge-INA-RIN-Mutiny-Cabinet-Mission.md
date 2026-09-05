@@ -334,3 +334,20 @@ The ambiguity-collapse thesis — that the Mission failed because its grouping c
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** first and second INA, Azad Hind, Imphal-Kohima, Red Fort
+  trials, labour/service upsurge, RIN, Simla, 1945-46 elections and the Cabinet
+  Mission's constitutional design.
+- **Boundary:** Topic 25 owns wartime/Quit India. Topic 27 exclusively owns the
+  Cabinet Mission breakdown, Direct Action, final transfer and Partition.
+- **Date control:** first INA (1942), Bose's reorganisation and Azad Hind
+  (1943), Imphal campaign (1944), Red Fort trials (1945-46), Cabinet decision
+  (22 January 1946), RIN (18-23 February) and Cabinet plan (16 May) are distinct.
+- **Mechanism control:** INA military defeat and trial impact differ; RIN
+  sharpened coercive-legitimacy fears but did not cause the Mission's dispatch;
+  Congress, Patel, Jinnah and left responses were differentiated.
+- **Verified PYQ ownership, 2018-2026:** 2019 Prelims Q15, 2021 Prelims Q47
+  and 2019 GS-I Q12 are routed demand summaries; exact objective stems and
+  official keys are unavailable locally and none is invented.

@@ -108,7 +108,7 @@ required for any mark.*
 |---:|---|---|
 | 10 | Continuity thesis → two strands (centralise + represent) → 1935 as chief source → one rejection → verdict | 3–4 named Acts |
 | 15 | Thesis → centralisation strand → representative strand → Act→feature map → what was rejected → verdict | 6–7 Acts with seeded features |
-| 20 | Thesis → structural continuity → representative evolution → federal origins → 1935 in detail → rejected features → indigenous additions → graded verdict | 8–10 Acts + a "borrowed vs original" paragraph |
+| 20 | Thesis → structural continuity → representative evolution → federal origins → 1935 in detail → rejected features → indigenous additions → graded verdict | 250 words; 8–10 Acts + a "borrowed vs original" paragraph |
 
 ### 7.4 Bank A — Centralisation strand (the executive / administrative inheritance)
 
@@ -155,7 +155,7 @@ required for any mark.*
 ### 7.9 Criticism, counter-argument and variation
 
 - ⚠️ **"The Constitution is a mere colonial continuation"** overstates: universal adult franchise, justiciable Fundamental Rights, an independent Election Commission and single citizenship have **no colonial parent**.
-- ⚠️ **"It is wholly original"** also fails: over half the provisions resemble the 1935 Act (book), and the parliamentary form is Westminster-derived.
+- ⚠️ **"It is wholly original"** also fails: the Constitution retained substantial administrative detail and institutional architecture from the 1935 Act, while the parliamentary form drew on Westminster practice.
 - ⚠️ **Temporal variation:** the centralising Acts (1773–1858) and the devolving Acts (1861–1935) pull in opposite directions; an answer that cites only one strand misreads the inheritance.
 
 ### 7.10 Verdict scaffolds

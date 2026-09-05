@@ -15,7 +15,7 @@
 | ✅ September 1920 | Calcutta Special Congress adopts Non-Cooperation programme |
 | ✅ December 1920 | Nagpur Congress ratifies Non-Cooperation and reorganises Congress |
 | ✅ 1921 | Movement spreads; boycott of Prince of Wales visit and foreign cloth intensifies |
-| ✅ 5 February 1922 | **Chauri Chaura** incident: police station burnt at Gorakhpur district |
+| ✅ 4 February 1922 | **Chauri Chaura** incident: police station burnt at Gorakhpur district |
 | ✅ 12 February 1922 | Gandhi withdraws the Non-Cooperation Movement |
 | ✅ March 1922 | Gandhi is arrested and sentenced to six years' imprisonment |
 | ✅ 1924 | Mustafa Kemal abolishes the Caliphate, ending the Khilafat issue |
@@ -45,7 +45,7 @@
 | ✅ Boycott programme | Titles, schools, courts, councils, foreign cloth and official functions |
 | ✅ Constructive programme | Khadi, charkha, swadeshi, national schools, panchayats and Hindu-Muslim unity |
 | ✅ National institutions | Jamia Millia Islamia, Kashi Vidyapith, Gujarat Vidyapith and Bihar Vidyapith |
-| ✅ Withdrawal | Chauri Chaura on 5 February 1922; withdrawal on 12 February 1922 |
+| ✅ Withdrawal | Chauri Chaura on 4 February 1922; withdrawal on 12 February 1922 |
 
 ## 3. Study links
 
@@ -60,7 +60,7 @@
 - ✅ Non-Cooperation was adopted at **Calcutta Special Session (September 1920)** and ratified at **Nagpur (December 1920)**.
 - ✅ The programme included surrender of titles, boycott of schools/courts/councils/foreign cloth and promotion of khadi.
 - ✅ Nagpur Congress reorganised Congress on **linguistic provincial committee** lines and created a stronger Working Committee structure.
-- ✅ **Chauri Chaura** occurred on **5 February 1922**; Gandhi withdrew NCM on **12 February 1922**.
+- ✅ **Chauri Chaura** occurred on **4 February 1922**; Gandhi withdrew NCM on **12 February 1922**.
 - ✅ Gandhi was arrested in **March 1922** and sentenced to six years.
 - ✅ The Caliphate was abolished by **Mustafa Kemal in 1924**.
 
@@ -170,9 +170,9 @@
 
 ### 8.7 Bank D — Chauri Chaura and the withdrawal
 
-- **Evidence:** ✅ On **5 February 1922** members of a Congress and Khilafat procession at **Chauri Chaura in Gorakhpur district, United Provinces**, irritated by police behaviour, attacked the police; the police opened fire; the procession then attacked the police station, set it on fire, and **twenty-two policemen were killed**. ✅ Gandhi decided to withdraw the movement and persuaded the **Congress Working Committee to ratify the decision on 12 February 1922** — the resolution known as the **Bardoli resolution**, because it was passed where mass civil disobedience was to have begun. ✅ Gandhi was arrested in **March 1922** and sentenced to six years.
+- **Evidence:** ✅ On **4 February 1922** members of a Congress and Khilafat procession at **Chauri Chaura in Gorakhpur district, United Provinces**, irritated by police behaviour, attacked the police; the police opened fire; the procession then attacked the police station, set it on fire, and **twenty-two policemen were killed**. ✅ Gandhi decided to withdraw the movement and persuaded the **Congress Working Committee to ratify the decision on 12 February 1922** — the resolution known as the **Bardoli resolution**, because it was passed where mass civil disobedience was to have begun. ✅ Gandhi was arrested in **March 1922** and sentenced to six years.
 - **Significance:** The naming of the withdrawal resolution after Bardoli captures the whole controversy in one fact: the same meeting that was to authorise escalation instead ordered retreat.
-- **Limit/caution:** ✅ The decision "raised a controversy" that historians still contest — present the debate. Gandhi withdrew because of the violence, **not** because the movement was weak; and Bardoli itself **waited another six years** before it launched a no-tax movement (the 1928 Bardoli Satyagraha under Vallabhbhai Patel — see `basic/23`).
+- **Limit/caution:** ✅ The decision "raised a controversy" that historians still contest — present the debate. **R. Palme Dutt's** *India Today* class-protection thesis reads the withdrawal as shielding propertied landlord-capitalist interests from a radicalising peasantry; **Bipin Chandra's own rebuttal** counters that the Chauri Chaura crowd showed no anti-property intent, that agrarian unrest was already ebbing by late 1921, and that withdrawal pre-empted repression rather than protected property. Gandhi withdrew because of the violence, **not** because the movement was weak; and Bardoli itself **waited another six years** before it launched a no-tax movement (the 1928 Bardoli Satyagraha under Vallabhbhai Patel — see `basic/23`).
 
 **Consequences to name:** ⚠️ the Swarajist–No-changer split over council entry (`basic/21`), the drift of younger activists toward revolutionary and later socialist politics (`basic/21`), and the erosion of the Khilafat alliance, completed when **Mustafa Kemal abolished the Caliphate in 1924**.
 
@@ -181,7 +181,7 @@
 | Routed demand | Correct handling |
 |---|---|
 | **"Sedition has become my religion"** | ⚠️ **Corrected placement.** The statement is Gandhi's, and the repository's source material places it at the launch of the **Second Civil Disobedience Movement**, begun with the **Dandi March on 12 March 1930**, when Gandhi walked with **78 chosen followers** from **Sabarmati Ashram to Dandi** — declaring that British rule had brought moral, material, cultural and spiritual ruin, that he regarded it as a curse, that he was out to destroy that system of government, and that "sedition has become my religion. Ours is a non-violent battle." It therefore belongs analytically to **`basic/22`**, not to the 1920–22 movement; answer it there and cross-reference. Do not associate the statement with Non-Cooperation or with the 1922 trial. |
-| **Legal defence of those arrested after Chauri Chaura** | ⚠️ **Unresolved locally.** No source book held in this repository records who led the legal defence of the Chauri Chaura accused, and the relevant official key is not held locally. Do not attribute the defence to any named leader without verified evidence. What *is* verified and usable is the incident, the death toll of twenty-two policemen, the withdrawal decision and the Bardoli resolution. |
+| **Legal defence of those arrested after Chauri Chaura** | ✅ **Official key confirmed.** The 2025 Prelims GS-I Series-A key (`books/prelima_question_paper_answers/Ans-2025-GS1.pdf`, page 1, header "CS(P)-2025 Series A") gives **Q73 = (b) Madan Mohan Malaviya and Krishna Kant [Malaviya]**. This is presented strictly as the confirmed exam answer key; no source book held in this repository otherwise records or corroborates who led the legal defence of the Chauri Chaura accused, so do not extend this beyond the confirmed key into an independently sourced historical narrative. What *is* independently verified and usable is the incident, the death toll of twenty-two policemen, the withdrawal decision and the Bardoli resolution. |
 
 ### 8.9 Counter-evidence, balance and variation
 
@@ -198,7 +198,8 @@
 
 ### 8.11 Factual-risk cautions
 
-- Calcutta Special Session = **September 1920**; Nagpur = **December 1920**; Chauri Chaura = **5 February 1922**; withdrawal = **12 February 1922**; Gandhi's arrest = **March 1922**; Caliphate abolished = **1924**.
+- Calcutta Special Session = **September 1920**; Nagpur = **December 1920**; Chauri Chaura = **4 February 1922**; withdrawal = **12 February 1922**; Gandhi's arrest = **March 1922**; Caliphate abolished = **1924**.
+- **Source-book date override:** Bipin Chandra's own *India's Struggle for Independence* prints the Chauri Chaura incident one calendar day earlier than the date used here. This owner overrides that internal figure using the Prime Minister's official centenary-linked commemorative material and Sekhar Bandyopadhyay's *Plassey to Partition* (OCR p.305), both of which independently confirm **4 February 1922**; the **12 February 1922** Bardoli withdrawal date is unaffected and confirmed in the same source.
 - Chauri Chaura is in **Gorakhpur district, United Provinces** — not Punjab, not Bihar.
 - The **twenty-two** police deaths and the **fifty per cent** rent excess in the Eka areas are the figures attested in the repository's sources; do not substitute others.
 - The fifth stage — mass civil disobedience and tax refusal — was **announced for Bardoli and never launched** in 1922.
@@ -253,3 +254,20 @@
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Khilafat grievance and organisation; Congress alliance and
+  authorisation; Non-Cooperation stages, constructive institutions, social and
+  regional spread, Moplah complexity, Chauri Chaura and withdrawal debate.
+- **Boundary:** Topic 19 owns Rowlatt/Jallianwala; Topic 21 owns Swarajists,
+  No-changers and the HRA/HSRA revolutionary phase.
+- **Date control:** Calcutta Special Session (September 1920), Nagpur
+  ratification (December 1920), Moplah rebellion (1921), Chauri Chaura
+  (4 February 1922) and withdrawal (12 February 1922) remain distinct.
+- **Mechanism control:** Swarajya Sabha was the renamed Home Rule organisation,
+  not the 1923 Swaraj Party; Moplah and withdrawal require attributed,
+  multi-causal interpretation rather than a one-label verdict.
+- **Verified PYQ ownership, 2018-2026:** three 2025 Prelims routes have locally
+  confirmed Series-A keys; 2026 Q9 remains unkeyed and 2021 GS-I is bounded
+  across Non-Cooperation and Civil Disobedience.

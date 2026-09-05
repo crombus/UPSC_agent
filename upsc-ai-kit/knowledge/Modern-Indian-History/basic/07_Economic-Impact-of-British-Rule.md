@@ -265,7 +265,7 @@
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
 | 2024 | GS-I | 13 | Industrial Revolution in England and decline of Indian handicrafts | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | Prelims GS-I | 57 | Revenue collection under Cornwallis (Ryotwari / Permanent Settlement) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2024 | Prelims GS-I | 57 | Revenue collection under Cornwallis (Ryotwari / Permanent Settlement) | Objective question; official disposition `X` | Officially dropped; retained only as a demand-control | Cover the named fact/concept and its likely statement-level distinctions without assigning a correct option. |
 
 ### What this owner must now support
 
@@ -304,3 +304,21 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** differentiated land-revenue systems, commercialisation and
+  credit risk, deindustrialisation, drain channels, colonial infrastructure
+  and industry, famine vulnerability, poverty and economic historiography.
+- **Boundary:** Topic 04 owns Diwani/Dual Government mechanics; Topic 06 owns
+  Charter Acts; Topic 08 owns administrative enforcement; Topic 14 owns the
+  Moderate political programme; Topic 23 owns wider peasant-worker movements.
+  Indigo, Pabna and Deccan appear here only as economic-response case studies.
+- **Mechanism control:** Permanent Settlement fixed the state's zamindar
+  demand, not peasant rent; drain is not deindustrialisation; famine is climate
+  shock plus entitlement, revenue, market, relief and disease vulnerability.
+  Exact drain totals, mortality totals and unsourced exchange rates are barred.
+- **Verified PYQ ownership, 2018-2026:** six active direct routes—2018
+  Prelims Q52/Q68, 2020 Q23/Q33, 2022 GS-I Q3 and 2024 GS-I Q13. The 2024
+  Prelims Q57 item was officially dropped; 2026 Q2 is provisional. The 2018
+  post-Santhal and indentured-labour items remain adjacent/bounded.

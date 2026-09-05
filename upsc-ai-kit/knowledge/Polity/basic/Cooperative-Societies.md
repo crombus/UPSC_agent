@@ -10,7 +10,7 @@
 | Fundamental Right | **Art 19(1)(c)** — right to form co-operatives |
 | DPSP | **Art 43-B** — promotion of co-operatives |
 | New Part | **Part IX-B**, **Arts 243-ZH → 243-ZT** |
-| SC verdict | **Rajendra N. Shah (2021)** — Part IX-B struck for **state** co-ops |
+| SC verdict | **Rajendra N. Shah (2021)** — Part IX-B inapplicable to **State-field** co-ops |
 
 ## Core idea
 The **97th Amendment (2011)** gave co-operatives constitutional status via **three** changes (a **FR**, a **DPSP**,
@@ -19,7 +19,7 @@ for state co-operatives** (no state ratification under Art 368) — it **survive
 
 > 🔑 **Three-in-one:** FR **19(1)(c)** · DPSP **43-B** · Part **IX-B (243-ZH→ZT)**.
 > 🔑 Part **IX-A = Municipalities**; Part **IX-B = Co-operatives** (don't swap!).
-> 🔑 2021 SC: struck for **state** co-ops, **survives for multi-state**.
+> 🔑 2021 SC: invalid for **State-field** co-ops; survives only for the valid **multi-State field**.
 
 ## Must-Know Facts
 - ✅ Parliament legislates for **multi-state** co-ops; **states** for the rest.
@@ -29,8 +29,8 @@ for state co-operatives** (no state ratification under Art 368) — it **survive
 - ✅ Art 19(1)(c) & Art 43-B remain valid after the 2021 verdict.
 
 ## 📰 Current link
-📰 New **Ministry of Cooperation** (July 2021, Amit Shah) — *"Sahakar se Samriddhi."* **Multi-State Co-operative
-Societies (Amendment) Act, 2023** added an Election Authority & rehabilitation fund; new bodies **NCOL / NCEL /
+📰 The **Ministry of Cooperation** was created in July 2021 — *"Sahakar se Samriddhi."* **Multi-State Co-operative
+Societies (Amendment) Act, 2023** added a **Co-operative Election Authority**, **Co-operative Ombudsman**, member-facing **Co-operative Information Officer**, concurrent-audit and conflict controls, and a rehabilitation/reconstruction/development fund; new bodies **NCOL / NCEL /
 BBSSL** and PACS computerisation.
 
 ## 5. Answer architecture (10/15/20-mark support)
@@ -66,17 +66,17 @@ BBSSL** and PACS computerisation.
 
 - **Claim:** The amendment made forming a co-operative a fundamental right. → **Evidence:** the **97th Amendment 2011** inserted **"or co-operative societies"** into **Art 19(1)(c)**, so the right to form associations or unions now expressly covers co-operatives. → **Significance:** raises co-operative formation to a justiciable freedom. → **Caution:** ✅ this FR **survived** the 2021 verdict.
 - **Claim:** It added a Directive Principle to promote co-operatives. → **Evidence:** **Art 43-B** — the State shall endeavour to promote the **voluntary formation, autonomous functioning, democratic control and professional management** of co-operatives. → **Significance:** a constitutional policy goal, non-justiciable but directive. → **Caution:** ✅ Art 43-B is a **DPSP**, not a Fundamental Right.
-- **Claim:** It created a dedicated constitutional Part for co-operatives. → **Evidence:** **Part IX-B (Articles 243-ZH to 243-ZT)** — board of **max 21** directors, fixed **five-year** term, reservation of **one SC/ST and two women** seats where individual membership includes those categories, **audit within six months**, **maximum six-month** board supersession, and members' right to information. → **Significance:** a uniform governance code for co-operatives. → **Caution:** ✅ Part **IX-B** = co-operatives; Part **IX-A** = municipalities — do not swap; the Articles are **243-ZH to 243-ZT**, not the 243-G panchayat range.
+- **Claim:** It created a dedicated constitutional Part for co-operatives. → **Evidence:** **Part IX-B (Articles 243-ZH to 243-ZT)** — board of **max 21** directors, fixed **five-year** term, reservation of **one SC/ST and two women** seats where individual membership includes those categories, **audit within six months**, **maximum six-month** board supersession, subject to the separate banking-cooperative ceiling and the no-government-finance protection, and members' right to information. → **Significance:** a uniform governance code for co-operatives. → **Caution:** ✅ Part **IX-B** = co-operatives; Part **IX-A** = municipalities — do not swap; the Articles are **243-ZH to 243-ZT**, not the 243-G panchayat range.
 
 ### 5.5 Bank B — *Rajendra N. Shah* (2021) and the federal-competence argument
 
 - **Claim:** Co-operatives are constitutionally a State subject. → **Evidence:** **Entry 32, State List** — incorporation, regulation and winding up of co-operative societies; **multi-state** co-operatives fall under **Entry 44, Union List** (corporations with objects not confined to one State). → **Significance:** Parliament may legislate only for multi-state co-operatives; States own the rest. → **Caution:** ✅ this competence split is *why* Part IX-B ran into trouble.
 - **Claim:** Part IX-B was struck for State co-operatives for want of ratification. → **Evidence:** ✅ *Union of India v. Rajendra N. Shah* (2021, three-judge Bench, 2:1) held **Part IX-B ultra vires insofar as it applies to co-operative societies within a State**, because the amendment was **not ratified by at least half the State legislatures** as **Article 368(2)** requires for a State-List matter. → **Significance:** federalism enforced through the amendment procedure. → **Caution:** ✅ only the **State-co-operative application** fell; the amendment was **not wholly struck down**.
-- **Claim:** The Court saved the multi-state field by severance. → **Evidence:** ✅ applying **severability**, the Court held **Part IX-B survives for multi-state co-operative societies (and UTs)**; single-state co-operatives revert to **State law**. → **Significance:** the constitutional code now binds only the field Parliament could legislate for. → **Caution:** ⚠️ note the dissent would have struck Part IX-B entirely — cite the majority position.
+- **Claim:** The Court saved the multi-state field by severance. → **Evidence:** ✅ applying **severability**, the majority held **Part IX-B survives for multi-State cooperative societies**, including MSCS operations in Union Territories; paragraph 78 rejects blanket application to a society confined within one Union Territory. State-field cooperatives return to **State law**. → **Significance:** the constitutional code now binds only the field Parliament could legislate for. → **Caution:** ⚠️ note the dissent would have struck Part IX-B entirely — cite the majority position.
 
 ### 5.6 Bank C — The statutory and executive layer
 
-- **Claim:** Multi-state co-operatives have their own parliamentary statute. → **Evidence:** the **Multi-State Co-operative Societies Act 2002** (under Union-List Entry 44), amended by the **Multi-State Co-operative Societies (Amendment) Act 2023**, which created a **Co-operative Election Authority** and a **Rehabilitation, Reconstruction & Development Fund** and strengthened governance. → **Significance:** the operative national framework runs through statute, not Part IX-B alone. → **Caution:** ✅ the 2023 Act is a **statute** amending the 2002 Act — not a constitutional amendment.
+- **Claim:** Multi-state co-operatives have their own parliamentary statute. → **Evidence:** the **Multi-State Co-operative Societies Act 2002** (under Union-List Entry 44), amended by the **Multi-State Co-operative Societies (Amendment) Act 2023**, which created a **Co-operative Election Authority**, **Co-operative Ombudsman**, member-facing **Co-operative Information Officer** and a **Rehabilitation, Reconstruction & Development Fund**, alongside audit and governance controls. → **Significance:** the operative national framework runs through statute, not Part IX-B alone. → **Caution:** ✅ the 2023 Act is a **statute** amending the 2002 Act — not a constitutional amendment.
 - **Claim:** The Ministry of Cooperation is an executive creation, not a constitutional one. → **Evidence:** the **Ministry of Cooperation** was carved out in **July 2021** (motto "Sahakar se Samriddhi"), earlier handled under Agriculture; new bodies (**NCOL, NCEL, BBSSL**) and PACS computerisation followed. → **Significance:** central push on a State subject through administrative and financial means. → **Caution:** ✅ it is an **executive/administrative act** (allocation of business), not a law or amendment.
 
 ### 5.7 Mechanism, institutional incentives and consequences

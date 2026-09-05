@@ -35,9 +35,9 @@ Fraternity**.
 |---|---|---|
 | ✅ Sovereign | Independent | — |
 | ✅ Socialist | Democratic socialism (mixed economy); added 1976 | — |
-| ✅ Secular | Equal respect to all religions; added 1976 | — |
+| ✅ Secular | No State religion; equal citizenship and freedom of conscience; added 1976 | — |
 | ✅ Democratic | Rule by the people (representative) | — |
-| ✅ Republic | Elected head (President) | — |
+| ✅ Republic | Non-hereditary elected head (President) | — |
 | ✅ **Justice** | Social, economic, political | **Russian Revolution** |
 | ✅ **Liberty · Equality · Fraternity** | Freedom, no privileges, brotherhood | **French Revolution** |
 
@@ -117,7 +117,7 @@ amended (Art 368) but not its basic features.
 | ✅ Socialist | **Democratic socialism / mixed economy** (not state socialism); implicit earlier via DPSP; ⚠️ diluted after 1991 NEP | Added 42nd Amdt 1976 |
 | ✅ Secular | **Positive secularism** — equal respect and support to all religions (Arts 25–28), not a wall of separation | Added 42nd Amdt 1976 |
 | ✅ Democratic | Popular sovereignty; representative parliamentary democracy; extends to **social and economic** democracy | — |
-| ✅ Republic | Elected head (President), fixed term; no hereditary ruler or privileged class; offices open to all | — |
+| ✅ Republic | Non-hereditary elected head (President), fixed term; no hereditary ruler or privileged class; offices open to all | — |
 | ✅ Justice | Social, economic, political — realised through **FR + DPSP** ("distributive justice") | **Russian Revolution 1917** |
 | ✅ Liberty · Equality · Fraternity | Freedom (Arts 19/21, qualified); no privileges (Arts 14–18); brotherhood via **single citizenship + FD (Art 51A)**, assuring dignity and **unity & integrity** | **French Revolution 1789** |
 

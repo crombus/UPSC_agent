@@ -2,13 +2,13 @@
 title: Polity 28 - UPSC and SPSC - Complete Topic Package
 subject: Polity
 gs_paper: GS-II
-control_date: 2026-08-19
+control_date: 2026-08-28
 approval: false
 ---
 
 # Polity 28 - UPSC and SPSC - Complete Topic Package
 
-> **Control date:** 19 August 2026, Asia/Kolkata  
+> **Control date:** 28 August 2026, Asia/Kolkata  
 > **Tags:** `[FACT]` directly supported by a named constitutional, statutory, judicial, official or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive legal or institutional control; `[LIMIT]` boundary or qualification preventing overstatement.  
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** constitutional rationale and evolution; Articles 315-323 article by article; UPSC, SPSC and Joint State Public Service Commission; composition, appointment, tenure, removal and post-office restrictions; examinations and consultation; recruitment boundaries; independence and accountability; judicial review; examination integrity; current controls and reforms.
@@ -22,6 +22,7 @@ approval: false
 - [CURRENT] The **Public Examinations (Prevention of Unfair Means) Rules, 2024**, G.S.R. 342(E), were notified on 23 June 2024 and published on 24 June 2024. They prescribe institutional roles, computer-based-test standards, incident reporting and monitoring architecture.
 - [CURRENT] G.S.R. 203(E), dated 15 March 2024, amended the Union Public Service Commission (Exemption from Consultation) Regulations, 1958 for specified Group A and Group B posts up to pay level 13A filled by named deputation/re-employment, short-term-contract, absorption or composite methods.
 - [LIMIT] That 2024 amendment is **not** a general constitutional exemption called “lateral entry”. Every lateral recruitment must be analysed through the post's recruitment rules, level, mode of filling, reservation law, the operative consultation regulations and the actual role assigned to the UPSC.
+- [CURRENT] The official UPSC portal checked on 28 August 2026 identifies **Dr Ajay Kumar** as Chairman. This officeholder statement is date-controlled and must be rechecked before reuse.
 - [CURRENT] Official UPSC and State PSC portals continue to use examination calendars/programmes, results pages, recruitment notices, contact/grievance channels, RTI disclosures and conference/newsletter mechanisms. These are transparency instruments, not substitutes for lawful selection rules or reasoned remedies.
 - [LIMIT] This package does not freeze current chairperson/member names, vacancies, candidate counts, annual calendars or changing examination statistics.
 - [LIMIT] No adopted constitutional “collegium” for PSC appointments was located. Proposals for broader selection committees are reform arguments, not current law.
@@ -1844,6 +1845,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Outstanding-answer test:** It names all four clauses, distinguishes removal from suspension and avoids importing “impeachment”.
 
+**How to improve / compress:** Use a three-branch diagram—misbehaviour inquiry, direct clause (3) grounds and suspension—and name the different SPSC suspending authority; omit general independence discussion in a 10-marker.
+
 ### M2. Public Service Commission advice is non-binding, yet constitutionally consequential. Comment. (10 marks, 150 words)
 
 **Model solution**
@@ -1862,6 +1865,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Outstanding-answer test:** It links Articles 320 and 323 and states *Manbodhan Lal* without saying advice is meaningless.
 
+**How to improve / compress:** Define directory consultation through *Manbodhan Lal*, then connect Article 323 reporting to accountability; compress the exceptions list to one constitutional and one regulatory example.
+
 ### M3. A Joint State Public Service Commission is neither purely statutory nor automatically created by the Constitution. Clarify. (10 marks, 150 words)
 
 **Model solution**
@@ -1879,6 +1884,8 @@ D. claim -> named evidence -> analysis -> qualification.
 **Verdict:** It is best described as a constitutionally authorised common Commission instantiated by parliamentary statute through State consent.
 
 **Outstanding-answer test:** It separates source, trigger, law, appointing authority and two neighbouring devices.
+
+**How to improve / compress:** State the constitutional enabling route and statutory creation route separately; finish with appointment, term, finance and reporting in one compact comparison.
 
 ### M4. Examine the constitutional safeguards and practical limits of UPSC/SPSC independence. (15 marks, 250 words)
 
@@ -1913,6 +1920,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Outstanding-answer test:** It uses at least five exact Articles, presents both institutional case and democratic limit, and offers implementable reforms.
 
+**How to improve / compress:** Compare UPSC, SPSC and Joint Commission on identical axes—creation, appointment, age, removal, finance and report—to prevent federal-design omissions.
+
 ### M5. Courts review Public Service Commission selections, but they do not sit as appellate selection boards. Analyse. (15 marks, 250 words)
 
 **Model solution**
@@ -1942,6 +1951,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Outstanding-answer test:** It gives four named cases with propositions and distinguishes selection, recommendation and appointment.
 
+**How to improve / compress:** Build the answer around removal, service-condition protection, charged expenditure and Article 319; add one residual weakness rather than listing generic reform slogans.
+
 ### M6. Examination integrity requires more than criminal punishment. Discuss with reference to the Public Examinations framework and PSC governance. (15 marks, 250 words)
 
 **Model solution**
@@ -1969,6 +1980,8 @@ D. claim -> named evidence -> analysis -> qualification.
 **Verdict:** Criminal law punishes the breach; trustworthy PSC design prevents it, detects it early and gives candidates a lawful remedy.
 
 **Outstanding-answer test:** It names the Act's UPSC Schedule, verified Rules and a full prevent-detect-report-remedy cycle.
+
+**How to improve / compress:** Separate examination duty, consultation catalogue and lawful exemptions; conclude that executive responsibility survives but rejection must face reporting scrutiny.
 
 ### M7. “The SPSC is State-rooted but Union-insulated.” Evaluate this federal design and suggest reforms. (20 marks, 300 words)
 
@@ -2014,6 +2027,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Outstanding-answer test:** It evaluates both federal poles, uses Articles 315-323 and rejects both centralisation and local capture.
 
+**How to improve / compress:** Use bias, stable criteria, no automatic appointment right and limited merits review as four case-law rules; attach each case only to its precise proposition.
+
 ### M8. Critically examine whether lateral recruitment is inconsistent with the constitutional role of the UPSC and the equality code in public employment. (20 marks, 300 words)
 
 **Model solution**
@@ -2054,6 +2069,8 @@ Publish a post-wise skills gap, recruitment rule and reservation position; use w
 **Verdict:** Lateral recruitment can supplement the constitutional merit system only when it is more transparent and rule-bound than patronage—not a label used to escape it.
 
 **Outstanding-answer test:** It avoids a yes/no slogan, cites Articles 309/320, the exact 2024 regulation, reservation, four cases and a workable design.
+
+**How to improve / compress:** Give actor-specific reforms for Union Commission, State Commissions and examination providers; keep current officeholders/statistics out unless date-controlled.
 
 ## Final consolidated register notes - UPSC, SPSC and Joint State PSC
 

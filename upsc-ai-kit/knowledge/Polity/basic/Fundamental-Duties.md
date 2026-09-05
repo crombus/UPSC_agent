@@ -60,9 +60,12 @@ not enforceable by courts, but Parliament **may** legislate to enforce them.
 
 ## 6. 📰 Current link
 
-📰 In *Durga Dutt v. Union of India* (2024), the Supreme Court said FDs can't be made enforceable by
-directing the legislature — enforcement should come through **citizen awareness**, echoing the
-**Verma Committee (1999)**.
+📰 **Current legal control (28 August 2026):** *Durga Dutt v. Union of India*,
+W.P.(C) 67/2022, remains pending. The Supreme Court's written order dated 11 September 2024 asked
+the Attorney General for a synopsis of Central and State enactments effectuating Article 51A and
+relisted the matter. Reported separation-of-powers observations at the hearing are not a final
+ratio. The stable implementation lesson comes from the **Verma Committee (1999)**: constitutional
+education, awareness and effective use of precise existing laws.
 
 ➡️ The Swaran Singh recommendations that were rejected, the Verma Committee's list of enforcing laws,
 the criticism, the significance, the traps and the Mains angles are all held **in this file**.
@@ -78,7 +81,7 @@ the criticism, the significance, the traps and the Mains angles are all held **i
 |---|---|---|
 | Status & justiciability | "Non-justiciable yet significant — discuss" | Art 51A text → non-enforceability → interpretive/reasonableness use → verdict |
 | Rights–duties balance | "Two wheels of the same chariot — evaluate" | Origin (post-Emergency) → complementarity with FR/DPSP → limits → verdict |
-| Should FDs be justiciable | "Examine the case for enforcing FDs" | Verma Committee's existing laws → *Durga Dutt* (2024) caution → awareness vs coercion → verdict |
+| Should FDs be justiciable | "Examine the case for enforcing FDs" | Verma Committee's existing laws → pending *Durga Dutt* institutional caution → awareness vs coercion → verdict |
 | Specific duty in action | "Art 51A(g) and environmental protection" | The duty → its statutory backing → read with a FR/DPSP → limit |
 | Reform of FDs | "Are FDs adequate?" | Non-exhaustive list → omitted duties (tax/vote) → criticism → verdict |
 
@@ -86,7 +89,7 @@ the criticism, the significance, the traps and the Mains angles are all held **i
 
 - *Fundamental Duties are constitutionally weighted moral obligations, not enforceable commands: their significance lies in shaping citizen conduct and in aiding statutory interpretation, not in judicial coercion.*
 - *The 42nd Amendment answered a real gap — a Constitution of rights with no reciprocal duties — but placing Part IV-A after the Directive Principles left duties looking subordinate to both rights and directives.*
-- *The right way to "enforce" FDs is through the very laws the Verma Committee catalogued and through civic awareness, not by directing Parliament to legislate — the position the Supreme Court took in* Durga Dutt *(2024).*
+- *The right way to operationalise FDs is through the precise laws and civic-education measures the Verma Committee mapped; pending* Durga Dutt *proceedings must not be presented as a final judicial command or holding.*
 - *Duties and rights are two wheels of the same chariot: FDs supply the citizen-side discipline that makes the rights framework sustainable, which is why even the government that reversed much of the 42nd Amendment retained them.*
 
 ### 7.3 Mark-scaled structures
@@ -113,7 +116,10 @@ the criticism, the significance, the traps and the Mains angles are all held **i
 - ⚠️ **Incentive/consequence:** because they are unenforceable, compliance depends on civic culture; their main institutional effect is to legitimise reasonable restrictions on rights and to guide public conduct.
 - ✅ **Criticism (5):** non-exhaustive (omits paying taxes, voting, family planning); vague ("noble ideals", "composite culture", "scientific temper"); a mere code of moral precepts; superfluous; **wrongly placed after Part IV**, signalling subordination to FRs.
 - ⚠️ **Counter-argument:** the eventual **consensus** — the Janata government that reversed much of the 42nd Amendment via the 43rd/44th Amendments **retained** the FDs, and the 2002 addition reinforced them.
-- 📰 **Current status (as of 13 August 2026):** in **_Durga Dutt v. Union of India_ (Supreme Court, September 2024)** the Court declined to direct Parliament to enact FD-enforcement laws, holding that enforcement should come through **citizen consciousness and awareness**, echoing the Verma Committee; recheck the Supreme Court portal for any later order.
+- 📰 **Current status (as of 28 August 2026):** **_Durga Dutt v. Union of India_**,
+  W.P.(C) 67/2022, remains pending. The written order of **11 September 2024** requested a synopsis
+  of Central and State enactments effectuating Article 51A and relisted the matter. Do not convert
+  reported oral observations into a final holding.
 
 ### 7.6 Prelims close-option distinctions and verdict scaffolds
 
@@ -128,7 +134,9 @@ This file carries no routed objective PYQ blocks. Standard confusion pairs:
 Verdict scaffolds:
 - **Status demands:** ⚠️ *FDs are constitutionally weighted but judicially unenforceable; their value is civic and interpretive, and demanding judicial enforcement mistakes their design.*
 - **Rights–duties balance demands:** ⚠️ *Duties complete the citizenship the rights create; the post-Emergency addition and its cross-party retention show a settled consensus that rights and duties are two wheels of one chariot.*
-- **Justiciability-reform demands:** ⚠️ *The realistic route to "enforcing" FDs is the Verma Committee's existing statutes plus civic awareness — the* Durga Dutt *(2024) position — not a judicial command to legislate.*
+- **Justiciability-reform demands:** ⚠️ *The realistic route is the Verma Committee's existing
+  statutes plus civic awareness; pending* Durga Dutt *proceedings supply an institutional caution,
+  not a final merits rule.*
 
 ### 7.7 Factual-risk and current-status controls
 
@@ -139,4 +147,5 @@ Verdict scaffolds:
 - Do **not** state FDs apply to all persons — they apply to **citizens only**.
 - Do **not** state FDs were borrowed from the USA or Japan — they are inspired by the erstwhile **USSR**.
 - Do **not** state the Verma Committee added new duties — it **identified existing laws** enforcing some duties.
-- 📰 Cite the enforcement position as **_Durga Dutt_ (September 2024)** with its date; do not overstate it as making FDs enforceable.
+- 📰 Cite **_Durga Dutt_**, W.P.(C) 67/2022, as **pending** and use the written order dated
+  **11 September 2024**; do not turn oral hearing observations into a final ratio.

@@ -61,11 +61,11 @@ suspensive, pocket** vetoes — **NO qualified veto** (that's the US President).
 to assent even if re-passed (state legislature cannot override); can also **pocket veto**.
 
 ## 6. Ordinance-making power (Art 123) ⭐
-✅ Most important legislative power; ordinances = temporary laws with the force of an Act. **Limits:**
+✅ A major legislative power; ordinances = temporary laws with the force of an Act. **Limits:**
 (1) only when a House is **not in session**; (2) only on subjects Parliament can legislate & **cannot
 abridge FRs**; (3) must be laid before Parliament, **ceases 6 weeks** after reassembly (max life ≈ **6
-months + 6 weeks**); (4) **cannot amend the Constitution**. ✅ *Cooper case (1970)* — satisfaction
-justiciable on **mala fide**; ✅ *D.C. Wadhwa (1987)* — **re-promulgation** of ordinances is a "fraud on
+months + 6 weeks**); (4) **cannot amend the Constitution**. ✅ *R. C. Cooper (1970)* — satisfaction
+is reviewable on limited grounds; ✅ *D.C. Wadhwa (1986 judgment)* — **re-promulgation** of ordinances is a "fraud on
 the Constitution."
 
 ## 7. Pardoning power (Art 72) ⭐
@@ -79,7 +79,7 @@ arbitrary/mala fide.
 ✅ **42nd Amdt (1976):** advice of CoM made **binding**. ✅ **44th Amdt (1978):** President can **return
 once** for reconsideration, but **reconsidered advice is binding**. (K.R. Narayanan used this over UP 1997
 & Bihar 1998 President's Rule.)
-✅ **Situational discretion** (no constitutional discretion): appointing a PM in a **hung Lok Sabha**;
+✅ **Situational discretion** (not a general personal policy power): appointing a PM in a **hung Lok Sabha**;
 dismissing a CoM that can't prove confidence; dissolving LS when CoM has lost majority.
 
 ---
@@ -123,6 +123,8 @@ after Jagdeep Dhankhar's resignation, C. P. Radhakrishnan was elected on 9 Septe
 and entered office on 12 September 2025. Article 68 requires a casual VP vacancy to be
 filled **as soon as possible**, gives the successor a fresh five-year term, and contains
 no six-month outer deadline.
+📰 **Current office control (checked 28 August 2026):** official profiles continue to list
+Droupadi Murmu as President and C. P. Radhakrishnan as Vice-President.
 
 ## Mains angles
 - "The President is a rubber stamp." Critically examine the situational discretion of the office.

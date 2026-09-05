@@ -166,6 +166,83 @@ distinct remedial routes.
 
 ## 7. Accountability logic
 
+### 7.1 Article 300A: lawful deprivation of property
+
+✅ Article **300A** protects **every person**, not only citizens: no person may be deprived of
+property except by authority of law. It is a constitutional right outside Part III, not a
+Fundamental Right and not merely an ordinary statutory right.
+
+| Authority | Exam-safe proposition |
+|---|---|
+| ⚖️ *K.T. Plantation v. State of Karnataka* (2011) | Deprivation must serve public purpose; compensation cannot be illusory or the law arbitrary/confiscatory |
+| ⚖️ *Vidya Devi v. State of Himachal Pradesh* (2020) | Executive occupation without acquisition under law and compensation violates Article 300A |
+| ⚖️ *Kolkata Municipal Corporation v. Bimal Kumar Shah* (2024 INSC 435) | Valid acquisition requires a fair process built around seven property sub-rights |
+
+The seven 2024 safeguards are: **notice, hearing, a reasoned decision, public purpose, restitution
+or fair compensation, an efficient and expeditious process, and conclusion of the proceedings**.
+
+> **Trap:** “Authority of law” excludes deprivation by unsupported executive action. Article 300A
+> does not constitutionalise an absolute right to a particular market price in every statutory
+> acquisition, but illusory compensation and arbitrary confiscation remain vulnerable.
+
+### 7.2 State secrets, evidence privilege and RTI
+
+📜 Under the **Bharatiya Sakshya Adhiniyam, 2023**, section **129** concerns unpublished official
+records relating to affairs of State, while section **130** protects official communications when
+their disclosure would injure public interest. These evidentiary rules do not create an
+unreviewable executive veto.
+
+⚖️ *State of U.P. v. Raj Narain* (1975) rejected absolute secrecy and linked open government to the
+people's right to know. ⚖️ *S.P. Gupta v. Union of India* (1981) strengthened the presumption of
+open government while retaining a document-specific public-interest balance.
+
+📜 The **Right to Information Act, 2005** separately governs access:
+
+- section **8(1)(a)** protects specified sovereignty, security, strategic, scientific, economic
+  and foreign-relations interests and incitement;
+- section **8(2)** permits disclosure where public interest in disclosure outweighs protected harm;
+- section **22** gives the Act overriding effect over inconsistent law, including the Official
+  Secrets Act, 1923.
+
+> **Source firewall:** evidentiary privilege in litigation and an RTI exemption are distinct legal
+> questions. In either setting, identify the exact provision, claimed harm, decision-maker,
+> balancing rule and available review.
+
+### 7.3 Remedy and official-liability decision tree
+
+```text
+WHAT IS THE WRONG?
+  |
+  +-- valid government contract breached
+  |      -> civil/commercial claim or valid arbitration route
+  |
+  +-- Article 299 form defective but lawful non-gratuitous benefit retained
+  |      -> prove Contract Act section 70 restitution independently
+  |
+  +-- operational negligence or other civil wrong
+  |      -> private tort: duty + breach + causation + damage + defences
+  |
+  +-- Fundamental-Right violation by State action
+  |      -> constitutional remedy/public-law compensation under Arts 32 or 226
+  |
+  +-- deprivation of property without lawful acquisition process
+  |      -> Article 300A challenge + statutory acquisition remedies
+  |
+  +-- illegal administrative decision without completed damage claim
+         -> judicial review: legality, jurisdiction, fairness and rights
+```
+
+📜 For ordinary government civil litigation, **CPC section 79** names the Union of India or the
+State as the proper party. **CPC section 80(1)** ordinarily requires two months' prior notice for
+specified suits against government/public officers; section **80(2)** permits a court-controlled
+urgent or immediate-relief route without prior notice. This notice rule is procedural, not
+substantive immunity.
+
+📜 **BNSS section 218** governs prior sanction before cognizance of specified offences alleged
+against judges or protected public servants acting or purporting to act in official duty, subject
+to its text and exceptions. It is distinct from Article 361, Article 299(2), CPC notice and State
+tort liability.
+
 ### Why formalities exist
 
 - Article 299 prevents informal officers from binding the public exchequer.
@@ -192,6 +269,9 @@ tort and official protection.
 | Sovereign immunity | Art 300 baseline → case trajectory → constitutional tort → qualified verdict |
 | Public-official immunity | Actor-by-actor source map → distinction between personal protection and reviewability |
 | Government as juristic person | Proper party → continuity → legal accountability → institutional significance |
+| Article 300A | Authority of law → public purpose → seven safeguards → remedy → qualified compensation rule |
+| State secrets/RTI | Exact source → claimed public harm → disclosure balance → independent review |
+| Remedy selection | Wrong → legal route → ingredients → forum → protection/limitation → relief |
 
 ### 8.2 Thesis options
 
@@ -234,20 +314,26 @@ tort and official protection.
 - ✅ Art 298 grants executive capacity to trade, hold property and contract.
 - ✅ Art 299 imposes three mandatory contract formalities.
 - ✅ Art 300 names the Union of India/State as the suable juristic party.
+- ✅ Art 300A protects every person against deprivation of property except by authority of law.
 - ✅ Art 361 concerns President/Governor immunity; it is not the source of State tort immunity.
 - ⚖️ Public-law compensation for rights violations is distinct from private-law damages.
+- 📜 CPC sections 79–80 govern party description and notice; they do not create sovereign immunity.
+- 📜 BSA sections 129–130 and RTI sections 8/22 answer different disclosure questions.
 
 ---
 
 ## 10. UPSC traps and source discipline
 
 - Do not cite Article 300A for government contracts or suits.
+- Do not call Article 300A either a Fundamental Right or merely an ordinary statutory right.
 - Do not say the President/Governor personally enters executive contracts.
 - Do not treat an officer's signature as enough without Article 299 authority and form.
 - Do not state "government can never be sued for sovereign functions" as settled modern law.
 - Do not state that official immunity prevents review of the governmental action.
 - Do not use a repealed procedural-code section from memory; verify the current statute before
   citing notice or sanction provisions.
+- Do not collapse State-affairs privilege, official confidence, RTI exemption and the Official
+  Secrets Act into one blanket secrecy power.
 - Write separately: ✅ constitutional text · 📜 statute/rule · ⚖️ holding · 🧾 proposal ·
   ⚠️ inference.
 

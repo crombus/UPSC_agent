@@ -223,3 +223,24 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** constitutional lineage and provisions of the 1935 Act,
+  unrealised federation, provincial autonomy and safeguards, franchise and
+  representation, 1937 elections, office acceptance, ministry performance,
+  resignation and the immediate Deliverance Day/Lahore Resolution bridge.
+- **Boundary:** Topic 22 owns Simon/RTCs/CDM, Topic 23 owns class and states
+  movements, and Topic 25 owns the wartime political sequence. Topic 26 alone
+  owns INA/RIN/Cabinet Mission; Topic 27 owns independence and partition.
+- **Date control:** Simon report (1930), RTCs (1930-32), White Paper (1933),
+  Joint Select Committee report (1934), royal assent (1935), elections and
+  Federal Court/Burma separation (1937), resignations (October-November 1939),
+  Deliverance Day (December 1939) and Lahore Resolution (March 1940) are distinct.
+- **Mechanism control:** provincial dyarchy ended; central dyarchy and the
+  federation never operated; reserved and residuary powers preserved imperial
+  control. Franchise is a 30-35 million / 10-14 per cent qualified range, and
+  the RBI derives from the 1934 RBI Act.
+- **Verified PYQ ownership, 2018-2026:** 2024 Prelims Q62 has a locally
+  confirmed official Series-A key. The 2018 Prelims Q38 content is source-backed
+  but its local official key is unavailable; no answer letter is invented.

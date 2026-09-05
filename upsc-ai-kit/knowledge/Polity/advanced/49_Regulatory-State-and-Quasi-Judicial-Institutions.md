@@ -305,6 +305,3 @@ Rankings based only on disposal totals reward easy-case clearance and can hide p
 8. parliamentary technical capacity;
 9. independent data and research;
 10. periodic consolidation where overlap exceeds specialisation benefit.
-
-> **Firewall confirmation:** No PYQ is routed here. Skipping this file cannot remove required body
-> classification, facts, appeal routes, traps or answer structures from preparation.

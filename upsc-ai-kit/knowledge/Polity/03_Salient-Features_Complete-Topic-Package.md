@@ -632,6 +632,8 @@ feature-level application rather than duplicating the full conceptual chapter.
 
 Why this earns marks: direct thesis; named Articles and cases; mechanism; qualification; directive answered.
 
+How to improve this answer: distinguish valid functional overlap from capture of another organ's essential domain, then use basic-structure review as the limiting principle.
+
 #### 2021 GS-II Q1 - Explain the doctrine of constitutional morality and its essential facets with illustrations. (10 marks, 150 words)
 
 [ANALYSIS] Constitutional morality is disciplined fidelity to constitutional forms, methods and values over personal, partisan or majoritarian preference. Ambedkar used the expression, drawing on George Grote, to stress that democratic institutions require habits of restraint.
@@ -646,20 +648,26 @@ Why this earns marks: direct thesis; named Articles and cases; mechanism; qualif
 
 Why this earns marks: definition, essential facets, three illustrations, textual evidence and a clear limiting caution.
 
+How to improve this answer: tie each judgment to a separate facet — dignity, anti-exclusion and representative responsibility — rather than listing cases.
+
 ### Locally routed Prelims PYQs and ownership-aware solutions
 [LIMIT] Exact wording is reproduced only where the local official paper was directly extractable. Demand-only ledger entries are not reverse-engineered into invented options. When the official key is unavailable, the answer is prominently labelled inferred.
 
-#### 2018 Q40 routed demand: relationship between law and liberty
+#### 2018 Q40 exact official-paper demand: relationship between law and liberty
 
-INFERRED ANSWER - NOT OFFICIALLY VERIFIED LOCALLY: law is a condition of ordered liberty when general and constitutional law restrains arbitrary power. Confidence: high.
+INFERRED ANSWER - OFFICIAL KEY NOT HELD LOCALLY: **B, if there are no laws, there is no liberty.** General and constitutionally limited law is a condition of ordered liberty; this does not mean that every additional law enlarges freedom. Confidence: high.
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
+
+How to improve this answer: eliminate the close trap expressly — arbitrary law can itself destroy liberty, so law is necessary but not sufficient.
 
 #### 2018 Q45 routed demand: main features of rule of law
 
-INFERRED ANSWER - NOT OFFICIALLY VERIFIED LOCALLY: supremacy of regular law, equality before law and legal protection against arbitrariness are core. Confidence: high.
+INFERRED ANSWER - OFFICIAL KEY NOT HELD LOCALLY: **C, 1, 2 and 4 only** — limitation of powers, equality before law, and liberty/civil rights. “People's responsibility to Government” is not a defining limb. Confidence: high.
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
+
+How to improve this answer: explain that constitutional accountability runs from government to the people under law, not as an unconditional duty of the people to government.
 
 #### 2020 Q7 exact locally extracted: A constitutional government by definition is (a) government by legislature (b) popular government (c) multi-party government (d) limited government
 
@@ -667,17 +675,39 @@ Answer: D, limited government. The defining idea is enforceable limitation of pu
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
 
+How to improve this answer: connect “limited” to divided competence, enforceable rights, judicial review and accountable procedure.
+
+#### 2021 Q86 exact official-paper demand: essential federal feature (cross-owned)
+
+INFERRED ANSWER - OFFICIAL KEY NOT HELD LOCALLY: **A, safeguarded independence of the judiciary.** A federal distribution of power requires an independent constitutional umpire. Confidence: high. Primary owner: Federal System.
+
+Why this earns marks: it separates a necessary federal safeguard from features that can also occur in non-federal systems.
+
+How to improve this answer: state the mechanism — courts adjudicate Union-State competence disputes and preserve constitutional supremacy.
+
 #### 2021 Q87 routed demand: definition of State in political theory
 
 INFERRED ANSWER - NOT OFFICIALLY VERIFIED LOCALLY: population, territory, government and sovereignty form the conventional four-element definition. Confidence: high.
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
 
+How to improve this answer: eliminate options that replace sovereignty with welfare functions, cultural duration or a particular institutional form.
+
+#### 2021 Q89 exact official-paper demand: single citizenship and domicile (cross-owned)
+
+INFERRED ANSWER - OFFICIAL KEY NOT HELD LOCALLY: **A, statement 1 only.** The propositions that only a citizen by birth may become Head of State and that citizenship can never be deprived use false absolutes. Confidence: high. Primary owner: Citizenship.
+
+Why this earns marks: it tests each absolute against constitutional and statutory rules.
+
+How to improve this answer: add that single citizenship does not erase every constitutionally or legally permitted residence/domicile distinction.
+
 #### 2021 Q90 routed demand: best safeguard of liberty in liberal democracy
 
-INFERRED ANSWER - NOT OFFICIALLY VERIFIED LOCALLY: an independent judiciary and rule of law are the strongest institutional safeguard among conventional options. Confidence depends on exact options.
+INFERRED ANSWER - OFFICIAL KEY NOT HELD LOCALLY: **D, separation of powers.** The exact alternatives are a committed judiciary, centralisation, elected government and separation of powers. Confidence: high.
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
+
+How to improve this answer: explain that elections confer authority but do not alone restrain it, and a “committed judiciary” is not synonymous with an independent judiciary.
 
 #### 2021 Q94 routed demand: constitutional government and limiting authority
 
@@ -685,23 +715,39 @@ INFERRED ANSWER - NOT OFFICIALLY VERIFIED LOCALLY: constitutional government is 
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
 
+How to improve this answer: distinguish possession of a written constitution from constitutionalism — effective legal limitation of authority.
+
+#### 2023 Q31 exact official-paper demand: due process of law (cross-owned)
+
+INFERRED ANSWER - OFFICIAL KEY NOT HELD LOCALLY: **A, the principle of natural justice.** Due process tests fairness and reasonableness rather than merely formal statutory existence. Confidence: high. Primary owner: Fundamental Rights.
+
+Why this earns marks: it identifies the broad principle rather than a partial procedural effect.
+
+How to improve this answer: connect the answer to *Maneka Gandhi* (1978), under which Article 21 procedure must be fair, just and reasonable.
+
 #### 2023 Q33 exact locally extracted: Which statement best reflects the chief purpose of a Constitution? (a) determines objectives for necessary laws (b) enables political offices and government (c) defines and limits powers of government (d) secures social justice, equality and security
 
 Answer: C. A Constitution both constitutes and limits public power; the other options describe possible purposes but not the chief defining function. Official key unavailable locally; confidence: high.
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
 
+How to improve this answer: use the two-verb memory aid — a Constitution creates power and constrains power.
+
 #### 2023 Q84 exact locally extracted: Flag Code statement I says 600 mm x 400 mm is a standard size; statement II says length:width is 3:2
 
-INFERRED ANSWER - NOT OFFICIALLY VERIFIED LOCALLY: both statements are correct and statement II explains statement I, because 600:400 equals 3:2. Confidence: high; this is a cross-owned national-symbol detail.
+LEGAL-SOURCE ANSWER - OFFICIAL KEY NOT HELD LOCALLY: **D, Statement I is incorrect but Statement II is correct.** The MHA Flag Code lists nine standard sizes but not 600 mm x 400 mm; it prescribes a 3:2 ratio.
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
+
+How to improve this answer: memorise the trap pair — 900 x 600 mm is standard; 600 x 400 mm is not, despite the same arithmetic ratio.
 
 #### 2024 Q74 exact official Set A: Part IX-A Municipalities; Part XVIII Emergencies; Part XX Amendment - which are correct?
 
 OFFICIALLY VERIFIED SET-A ANSWER: D, 1, 2 and 3. All three Part mappings are correct. This is directly owned by Salient Features and cross-owned by Local Government, Emergency and Amendment topics.
 
 Why this earns marks: it states answer-key status, gives the constitutional distinction and preserves ownership limits.
+
+How to improve this answer: contrast Part IX Panchayats, Part VIII Union Territories and Part IV-A Fundamental Duties.
 
 ## PART III - Learning MCQ loops
 
@@ -807,6 +853,8 @@ Use these as six four-question loops. Correct keys rotate A -> B -> C -> D witho
 
 Why this earns marks: balanced classification, named constitutional evidence, operational explanation and a qualified verdict.
 
+How to improve this answer: replace “unitary spirit” as a conclusion with a weighted strong-Centre federal verdict and one example of cooperative/asymmetric federalism.
+
 ### Original 15-marker - The Indian Constitution is borrowed yet original. Discuss.
 
 [FACT] The Constitution's components have identifiable sources, but constitutional originality lies in selection, alteration and combination for Indian conditions.
@@ -822,6 +870,8 @@ Why this earns marks: balanced classification, named constitutional evidence, op
 [ANALYSIS] Therefore the 'bag of borrowings' criticism confuses the ancestry of parts with the identity of the whole.
 
 Why this earns marks: comparative evidence is used analytically, rejected models demonstrate choice, and the conclusion directly answers originality.
+
+How to improve this answer: present the examples in borrowed/adapted/rejected columns and add universal adult franchise as a transformative Indian choice.
 
 ### Original 20-marker - Evaluate the strengths and tensions within the salient features of the Indian Constitution.
 
@@ -840,6 +890,8 @@ Why this earns marks: comparative evidence is used analytically, rejected models
 [ANALYSIS] The Constitution is strongest when central capacity remains federal, majority rule remains rights-bound, and transformative action remains accountable.
 
 Why this earns marks: covers multiple dimensions with named evidence, explains each trade-off, includes limitations and gives a graded evaluative conclusion.
+
+How to improve this answer: organise the body under federal, institutional, rights-welfare and democratic-accountability axes, pairing each strength with one risk and one constitutional control.
 
 ## PART V - Complete consolidated register notes (FINAL SECTION)
 

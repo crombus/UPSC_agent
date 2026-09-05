@@ -101,9 +101,9 @@ existence depends on the Assembly.
 | Claim | Named provision / case | Mechanism / significance | Limitation / status caution |
 |---|---|---|---|
 | The Assembly's presiding officers are constitutionally entrenched | ✅ **Arts 178–181** — Speaker and Deputy Speaker; the Council has a **Chairman and Deputy Chairman (Art 182)** | Elected by the House; the Speaker vacates only by ceasing to be a member, resignation, or **removal by a majority of all then members after 14 days' notice (Art 179)** | ✅ The Speaker does **not** vacate on dissolution — continues until immediately before the first meeting of the new Assembly; does not preside over his own removal (**Art 181**) |
-| Quorum at the State level is a distinct figure | ✅ **Art 189(3)** — **10 members or one-tenth** of the House, **whichever is greater** | Below quorum the presiding officer adjourns | Do not import the Union's flat 1/10 rule — the State floor is "10 **or** 1/10, whichever is greater" |
-| The presiding officer holds decisive, contested powers | ✅ **Art 199** money-bill certification; ✅ **Art 189** casting vote; ✅ Tenth Schedule anti-defection | Concentrates interpretive and disqualification authority in one office → the impartiality debate | ✅ ***Keisham Meghachandra (2020)*** — defection petitions must be decided within a **reasonable period (ordinarily three months)**; the Court urged an **independent tribunal** |
-| The Governor is a gate on State legislation | ✅ **Art 200** — the Governor may **assent, withhold, return** (a non-Money Bill) for reconsideration, or **reserve for the President**; ✅ **Art 201** — the President may assent, withhold, or direct return | A channel of central oversight over State law; a repassed Bill (after return) must ordinarily be assented to | 📰 **Status (Nov 2025 SC advisory opinion under Art 143):** courts **cannot fix rigid timelines** and there is **no "deemed assent"**, but **prolonged, unexplained inaction is judicially reviewable** and must be cured within a "reasonable time" — treat the April-2025 two-judge "deemed assent" ruling as **superseded on that point**; verify before dating |
+| Quorum at the State level is a distinct default | ✅ **Art 189(3)** — **until the State Legislature otherwise provides by law**, **10 members or one-tenth** of the House, **whichever is greater** | Below quorum the presiding officer adjourns or suspends the meeting | Do not present the constitutional figure as incapable of legislative alteration |
+| The presiding officer holds decisive, contested powers | ✅ **Art 199** money-bill certification; ✅ **Art 189** casting vote; ✅ Tenth Schedule anti-defection | Concentrates interpretive and disqualification authority in one office → the impartiality debate | ✅ ***Keisham Meghachandra* (2020)** stated an ordinarily three-month outer limit absent exceptional circumstances; ***Padi Kaushik Reddy* (2025)** reaffirmed judicial power to require a decision and directed the Telangana Speaker to conclude specified petitions within three months |
+| The Governor is a gate on State legislation | ✅ **Art 200** — the Governor may **assent, withhold, return** (a non-Money Bill) for reconsideration, or **reserve for the President**; ✅ **Art 201** — the President may assent, withhold, or direct return | A channel of constitutional scrutiny and Union oversight over State law | 📰 **Status (20 Nov 2025 Article 143 opinion):** no court-created rigid timelines or automatic deemed assent, but prolonged unexplained inaction remains reviewable. The advisory opinion did **not** technically overrule the April 2025 judgment; use the later position narrowly on timelines and deemed assent |
 | The legislature governs its own procedure, largely beyond the courts | ✅ **Arts 208–212** — rules of procedure (208), regulation of financial business (209), language (210), bar on discussing judges' conduct (211), and **courts not to inquire into proceedings for procedural irregularity (Art 212)** | Protects legislative autonomy and orderly business | **Art 212** bars review of *procedural irregularity*, **not** of substantive unconstitutionality |
 
 ### 6.7 Mechanism, institutional incentives and consequences
@@ -120,6 +120,20 @@ existence depends on the Assembly.
 - **Variation:** ⚠️ the Council's usefulness is State-specific — meaningful where it holds a different majority from the Assembly, ornamental where it mirrors it.
 - **Implementation constraint:** ⚠️ presiding-officer neutrality and timely defection rulings depend on convention and judicial nudging, not on binding text; there is no statutory deadline and no independent tribunal yet.
 - **Practical working (the "scrutiny deficit"):** ⚠️ State legislatures typically **sit for very few days a year**, frequent **disruptions** compress debate, most States lack a developed **committee (DRSC) system**, and a large share of Bills is passed **without detailed scrutiny** — with heavy reliance on the **ordinance route** — so the second chamber's revising value, where it exists, is rarely realised. *(Cite this qualitatively; do not quote unverified sitting-day counts.)*
+
+### 6.8A Financial Bill classification and Bill-lapse controls
+
+- ✅ **Article 207(1) category:** a Bill or amendment containing an Article 199(1)(a)-(f) matter requires
+  the Governor's recommendation and cannot be introduced in the Council. If it also contains non-Money
+  matters, it follows the ordinary-Bill route after valid Assembly introduction.
+- ✅ **Article 207(3) expenditure category:** a Bill which would involve expenditure from the Consolidated
+  Fund of the State cannot be **passed by either House** unless the Governor has recommended its consideration.
+  It is not automatically a Money Bill and may originate in either House.
+- ✅ **Article 196(3)-(5):** prorogation does not lapse Bills; a Council-originated Bill pending in the
+  Council does not lapse on Assembly dissolution; a Bill pending in the Assembly, or passed by the Assembly
+  and pending in the Council, does lapse.
+- ✅ A Council-originated ordinary Bill rejected by the Assembly ends; Article 197 does not let the Council
+  override the Assembly.
 
 ### 6.9 Verdict scaffolds
 
@@ -142,10 +156,14 @@ existence depends on the Assembly.
 - ✅ Only **six** States are bicameral (AP, Telangana, UP, Bihar, Maharashtra, Karnataka); J&K's Council was **abolished in 2019** — do not list J&K as bicameral.
 - ✅ **Art 169** creation/abolition is by an Assembly special-majority resolution plus a simple-majority Act of Parliament, and is **not** a constitutional amendment.
 - ✅ Council strength = **max 1/3 of the Assembly, min 40**; the composition formula is **1/3 + 1/12 + 1/12 + 1/3 + 1/6**.
-- ✅ State quorum is **10 members or 1/10, whichever is greater (Art 189)** — distinct from the Union's flat 1/10.
+- ✅ State quorum is, **until altered by State law**, **10 members or 1/10, whichever is greater (Art 189)**.
 - ✅ The Council can delay an ordinary Bill **~4 months (Art 197)** and a Money Bill **14 days (Arts 198–199)**; there is **no joint sitting** at the State level.
-- ✅ ***Keisham Meghachandra (2020)*** — decide defection petitions within a **reasonable period, ordinarily three months**; the Court *urged* (did not mandate) an independent tribunal.
-- 📰 **Governor's assent (Arts 200–201):** the current position (SC advisory opinion, Nov 2025) is **no fixed judicial timelines and no "deemed assent," but prolonged unexplained inaction is reviewable** — do not cite the April-2025 "deemed assent" outcome as good law; verify status before dating.
+- ✅ ***Keisham Meghachandra* (2020)** stated an ordinarily three-month outer limit absent exceptional
+  circumstances; ***Padi Kaushik Reddy* (2025)** directed completion of the specified Telangana petitions
+  within three months and reaffirmed that constitutional courts may compel timely adjudication.
+- 📰 **Governor's assent (Arts 200–201):** the November 2025 advisory opinion rejects fixed judicial
+  timelines and automatic deemed assent while preserving review of prolonged unexplained inaction. It did
+  not technically overrule the April judgment.
 - ⚠️ Do not describe the Council as a "revising chamber like the Rajya Sabha" — it has **no federal role** and only a dilatory power.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -2,14 +2,14 @@
 title: Polity 31 - National Commissions for SCs, STs and Backward Classes - Complete Topic Package
 subject: Polity
 gs_paper: GS-II
-control_date: 2026-08-19
+control_date: 2026-08-28
 approval: false
 cover_image: ../../../notes/Polity/assets/31_National-Commissions-SC-ST-BC/cover.png
 ---
 
 # Polity 31 - National Commissions for SCs, STs and Backward Classes - Complete Topic Package
 
-> **Control date:** 19 August 2026, Asia/Kolkata  
+> **Control date:** 28 August 2026, Asia/Kolkata  
 > **Tags:** `[FACT]` directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive control; `[LIMIT]` qualification preventing overstatement.  
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** Articles 338, 338A, 338B, 341, 342, 342A and 366(26C); institutional evolution; composition; safeguards, complaints, development and reporting functions; civil-court powers; consultation; SC/ST/SEBC list mechanics; the 65th, 89th, 102nd and 105th Amendments; *Indra Sawhney*, *Jaishri Laxmanrao Patil* and *State of Punjab v. Davinder Singh*; domain overlaps, limits, comparison, accountability and reform.
@@ -1060,7 +1060,7 @@ BETTER FIRST STEP:
 timely evidence + reasoned response + legislative scrutiny
 ```
 
-## 19. Current-control board, 19 August 2026
+## 19. Current-control board, 28 August 2026
 
 ### Visual 65 - Stable and volatile facts
 
@@ -1257,7 +1257,11 @@ The NCSC cannot itself enforce SC reservation in religious-minority educational 
 
 Thus, NCSC has monitoring and persuasive authority, but the Articles 15(5)-30(1) boundary and its advisory character prevent it from enforcing such reservation.
 
-**Why this earns marks:** It answers “whether” immediately, links Article 338 power to the Articles 15(5)/30 limit, uses named cases and qualifies rather than absolutising minority autonomy.
+
+
+**Why this earns marks:** It identifies the NCSC’s constitutional powers and correctly separates investigation/recommendation from enforceable minority-reservation authority.
+
+**How to improve / compress:** Answer in a power-limit-verdict structure; name Article 338 civil-court powers but avoid drifting into the statutory Minority Commission.
 
 ## Verified PYQ 2 - UPSC GS-II 2018, Q16 - 15 marks, 250 words
 
@@ -1282,7 +1286,11 @@ A better model is **coordinated specialisation**: a shared digital intake and re
 
 Therefore, rationalisation of statutory overlap is defensible, but wholesale merger is disproportionate. Coordination secures administrative efficiency without sacrificing constitutional history, domain expertise and group-specific accountability.
 
-**Why this earns marks:** It takes a clear position, gives the strongest argument on both sides, distinguishes legal bases, uses NCST as named evidence and proposes an institutionally feasible middle path.
+
+
+**Why this earns marks:** It tests the umbrella-commission proposal against specialised mandates, overlap, federal implementation and access.
+
+**How to improve / compress:** Use a comparison matrix for NCSC, NCST, NCBC and statutory bodies; propose shared intake/data systems without erasing specialist commissions.
 
 ## Verified PYQ 3 - UPSC GS-II 2020, Q15 - 15 marks, 250 words
 
@@ -1300,7 +1308,11 @@ Constitutionalising the National Commission for Women requires more than renamin
 
 Therefore, constitutionalisation can improve permanence and accountability, but greater empowerment requires transparent appointments, resources, reasoned government responses, time-bound reports and coordination with enforcement agencies. Status is an enabling platform, not an outcome guarantee.
 
-**Why this earns marks:** It separately answers the procedural and evaluative limbs, uses Article 368 and the 338-series comparison, and ends with a qualified institutional verdict.
+
+
+**Why this earns marks:** It explains why constitutional status improves visibility and accountability while showing staffing, compliance and remedial limits.
+
+**How to improve / compress:** Organise around status, powers, reporting, consultation and enforcement gaps; add one dated NCBC constitutionalisation example.
 
 ## Verified PYQ 4 - UPSC GS-II 2022, Q5 - 10 marks, 150 words
 
@@ -1320,7 +1332,11 @@ After *Jaishri Laxmanrao Patil* read the 102nd Amendment as displacing State ide
 
 Thus, constitutionalisation strengthened status, scope and visibility, but effective social justice still depends on data, capacity, reasoned follow-up and constitutionally valid reservation policy.
 
-**Why this earns marks:** It answers the post-transformation “role”, distinguishes new and continuing features, and integrates the 105th Amendment without allowing federal list doctrine to overwhelm the 150-word demand.
+
+
+**Why this earns marks:** It distinguishes the constitutional NCBC’s safeguard role from legal authority over Central and State SEBC lists after the 105th Amendment.
+
+**How to improve / compress:** Lead with Articles 338B and 342A, state Central-list and State-list amendment routes separately, and compress general reservation doctrine.
 
 ## Verified PYQ 5 - UPSC Prelims 2023, Q35
 
@@ -1999,6 +2015,11 @@ D. reform proposals unless enacted through the competent route
 
 **Question:** “Civil-court powers do not make the National Commissions for SCs, STs and Backward Classes courts.” Explain.
 
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 1.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
+
 ### Model solution
 
 The statement distinguishes institutional tools from adjudicatory status.
@@ -2011,11 +2032,15 @@ The statement distinguishes institutional tools from adjudicatory status.
 
 Thus, the bodies are constitutional investigative-recommendatory institutions with selected court-like tools, not courts of plenary jurisdiction.
 
-**Why this earns marks:** It gives the exact clause context and powers, explains their purpose and states four clear legal limits.
 
 ### Original Solved Mains 2 - 10 marks, 150 words
 
 **Question:** Examine how the reporting clauses of Articles 338, 338A and 338B create legislative accountability.
+
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 2.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
 
 ### Model solution
 
@@ -2031,11 +2056,15 @@ The reporting design converts expert findings into an answerable constitutional 
 
 Therefore, the clauses create transparency and deliberative sanction, but practical accountability depends on timeliness and recommendation-wise scrutiny.
 
-**Why this earns marks:** It identifies the NCBC textual difference, links reason-giving to accountability and avoids equating laying with enforcement.
 
 ### Original Solved Mains 3 - 15 marks, 250 words
 
 **Question:** Compare the constitutional design and distinctive domains of the NCSC, NCST and NCBC.
+
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 3.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
 
 ### Model solution
 
@@ -2057,11 +2086,15 @@ Articles 338, 338A and 338B use one institutional template for three different t
 
 Thus, the commissions share constitutional stature but derive relevance from differentiated expertise.
 
-**Why this earns marks:** It compares both common architecture and four precise differences, with named rules and limits rather than three disconnected descriptions.
 
 ### Original Solved Mains 4 - 15 marks, 250 words
 
 **Question:** Explain the constitutional architecture for identifying Scheduled Castes, Scheduled Tribes and socially and educationally backward classes. What role do the national commissions play?
+
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 4.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
 
 ### Model solution
 
@@ -2081,11 +2114,15 @@ The Constitution separates expert advice from the final legal act of identificat
 
 Therefore, list legitimacy combines constitutional authority, territorial sensitivity, expert evidence and legislative accountability.
 
-**Why this earns marks:** It covers all four requested Articles, names each final authority, positions the commissions accurately and adds the current sub-classification distinction.
 
 ### Original Solved Mains 5 - 15 marks, 250 words
 
 **Question:** NCST's distinctive mandate reflects the territorial and resource dimensions of tribal justice, but it does not administer tribal self-government. Discuss.
+
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 5.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
 
 ### Model solution
 
@@ -2103,11 +2140,15 @@ The appropriate reform is therefore stronger monitoring, regional access, joint 
 
 Thus, NCST is a constitutional sentinel over tribal safeguards. Its effectiveness lies in connecting dispersed institutions to accountability while respecting their legal competence.
 
-**Why this earns marks:** It names the 2005 domains, distinguishes every major tribal institution and derives a boundary-respecting reform conclusion.
 
 ### Original Solved Mains 6 - 20 marks, 250 words
 
 **Question:** “Constitutional status is necessary but insufficient for effective social-justice commissions.” Evaluate with reference to NCSC, NCST and NCBC.
+
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 6.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
 
 ### Model solution
 
@@ -2123,11 +2164,15 @@ Constitutional status is valuable because it entrenches an institution and creat
 
 Therefore, constitutional status secures voice, continuity and visibility; institutional independence, evidence and accountable implementation convert those assets into justice.
 
-**Why this earns marks:** It evaluates against explicit criteria, uses body-specific evidence, gives a counterweight to the critique and proposes proportionate reforms.
 
 ### Original Solved Mains 7 - 20 marks, 250 words
 
 **Question:** Trace how the 102nd and 105th Constitutional Amendments reshaped the backward-classes institution and Centre-State identification power.
+
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 7.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
 
 ### Model solution
 
@@ -2147,11 +2192,15 @@ The two amendments separate two questions: the status of NCBC and the federal au
 
 Thus, the trajectory moved from status enhancement with centralising text to an explicit dual-list federal settlement.
 
-**Why this earns marks:** It follows chronology, separates institutional and federal questions, gives commencement dates and uses the case-amendment relationship accurately.
 
 ### Original Solved Mains 8 - 20 marks, 250 words
 
 **Question:** Suggest reforms to improve the independence, accountability and coordination of the National Commissions for SCs, STs and Backward Classes without converting them into parallel courts.
+
+
+**Why this earns marks:** It applies exact Articles, institutional powers and legal limits to the question’s commission-specific demand 8.
+
+**How to improve / compress:** Use a commission-by-commission or actor-process-remedy structure; name the controlling amendment or case and remove generic social-justice slogans in the word limit.
 
 ### Model solution
 
@@ -2173,7 +2222,6 @@ Reform should strengthen evidence, voice and follow-up while preserving the comm
 
 Therefore, the preferred model is “strong evidence + mandatory reasons + visible follow-up”, not unreviewable commission command.
 
-**Why this earns marks:** It answers all three reform dimensions, differentiates body capacities, states implementable proposals and expressly respects separation of functions.
 
 ## Final consolidated register notes - National Commissions for SCs, STs and Backward Classes
 

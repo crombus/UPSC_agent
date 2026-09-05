@@ -26,8 +26,7 @@ legal effect to those recommendations; they are **not binding** (*Mohit Minerals
 - ✅ Recommended **5-year compensation** to states (ended June 2022).
 
 ## 📰 Current link
-📰 **GST 2.0 (effective 22 Sep 2025)** — slabs rationalised to **5% & 18%** (+ 40% sin/luxury rate); health & life
-insurance exempt. **Mohit Minerals (2022):** Council recommendations are **persuasive, not binding**.
+📰 **56th Council recommendation (3 Sep 2025):** proposed broad **5% and 18%** rates plus a special **40%** de-merit rate, with most changes intended from **22 Sep 2025**; individual life and health insurance exemptions were recommended. Verify the applicable Gazette notification before stating any supply’s legal rate. **Mohit Minerals (2022):** Council recommendations are **persuasive, not binding**.
 
 ## 5. Answer architecture (10/15/20-mark support)
 
@@ -144,6 +143,6 @@ Every unit: **claim → named Article → mechanism → limitation.**
 - ✅ GST is the **101st** Constitutional Amendment Act (2016); the enabling **Bill** was numbered the 122nd — do not present the Bill number as the Act number.
 - ✅ The GST Council is **constitutional** (Art 279A); its recommendations are **not binding** (*Mohit Minerals*, 2022) — never state them as binding commands.
 - ✅ Voting: Centre **1/3**, States **2/3**, decision **≥ 3/4** of weighted votes; quorum **½**.
-- 📰 ✅ **GST 2.0** (effective **22 Sep 2025**) rationalised slabs to **5% and 18%** plus a **40%** sin/luxury rate — verify the current slab structure before dating it.
+- 📰 ✅ The **56th Council meeting release (3 Sep 2025)** recommended broad **5% and 18%** rates plus a special **40%** de-merit rate, mostly intended from **22 Sep 2025**. A recommendation is not self-executing: verify the relevant Gazette notification and effective date.
 - 📰 ✅ GST compensation's statutory five-year window ended in **June 2022**; the cess continues to service pandemic-era loans — re-verify its current end-date.
 - ⚠️ Do not claim petroleum, alcohol for human consumption or electricity are under GST; alcoholic liquor for human consumption is **constitutionally excluded**, the others are **kept out until the Council decides**.

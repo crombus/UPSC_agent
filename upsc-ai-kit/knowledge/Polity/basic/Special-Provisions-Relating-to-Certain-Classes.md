@@ -34,13 +34,13 @@ legally distinct.
 | Provision | Subject | Status/trap |
 |---:|---|---|
 | **330** | SC/ST reservation in Lok Sabha | Population-linked constitutional reservation |
-| **330A** | Women's reservation in Lok Sabha, including within SC/ST seats | ✅ In constitutional text; current operation/status is controlled in `Parliament.md` |
+| **330A** | Women's reservation in Lok Sabha, including within SC/ST seats | Inserted by the 106th Amendment; commencement notification and the Art 334A electoral trigger remain distinct legal gates |
 | **331** | Anglo-Indian nomination to Lok Sabha | Text remains, but Art 334's nomination period was not extended beyond seventy years |
 | **332** | SC/ST reservation in State Assemblies | Population-linked, with special Assam/NE provisions |
-| **332A** | Women's reservation in State Assemblies | Route live status to `Parliament.md` |
+| **332A** | Women's reservation in State Assemblies | Same census-publication-delimitation activation chain |
 | **333** | Anglo-Indian nomination to State Assemblies | Same Art 334 expiry distinction |
 | **334** | Time limit for SC/ST seat reservation and Anglo-Indian nomination | 104th Amendment extended SC/ST reservation to eighty years; did not extend nomination |
-| **334A** | Commencement/duration/rotation framework for women's reservation | **Commenced ≠ operational**; use the dated controls in `Parliament.md` |
+| **334A** | Commencement/duration/rotation framework for women's reservation | **Amendment in force ≠ reservation operational** |
 | **335** | SC/ST claims in services/posts, consistently with administrative efficiency | Not a self-executing quota |
 | **336–337** | Transitional Anglo-Indian services and educational-grant protections | Historical; ended after ten years |
 | **338** | NCSC | Constitutional commission; Art 338(10) retains an Anglo-Indian reference |
@@ -64,8 +64,8 @@ not create a separate electorate—voters in the constituency vote in the ordina
 election.
 
 ✅ Article 334 now provides an **eighty-year** period from commencement for SC/ST legislative-seat
-reservation. The 104th Amendment made this extension while leaving the Anglo-Indian nomination
-period at seventy years.
+reservation—ending on **25 January 2030**, subject to the existing-House proviso. The 104th
+Amendment made this extension while leaving the Anglo-Indian nomination period at seventy years.
 
 ### 3.2 Anglo-Indian nomination
 
@@ -78,8 +78,49 @@ period under Article 334 was not extended beyond seventy years and ceased in 202
 ### 3.3 Women's reservation cross-route
 
 ✅ Arts 330A, 332A and 334A are part of Part XVI. They are not a "certain class" list mechanism like
-Arts 341/342. For their **2026 commencement, census/delimitation condition and non-operational
-status**, use `Parliament.md`; do not duplicate or simplify that dated control here.
+Arts 341/342. The 106th Amendment covers the Lok Sabha, State Legislative Assemblies and the
+Legislative Assembly of the NCT of Delhi; it does **not** reserve seats in the Rajya Sabha or State
+Legislative Councils. It reserves one-third of seats, including one-third within seats reserved for
+SCs/STs.
+
+✅ The official consolidated Constitution incorporates the 106th Amendment, but incorporation in
+an updated constitutional edition is not a commencement notification under section 1(2) of the
+Amendment Act. As at **29 August 2026**, no verified Central Government Gazette notification
+appointing a commencement date has been located. Even after commencement, Article 334A separately
+postpones **electoral operation** until:
+
+```text
+first census after commencement of the 106th Amendment
+        -> relevant figures published
+        -> delimitation undertaken for this purpose
+        -> women's legislative reservation takes effect
+```
+
+📜 Census 2027 was officially notified on **16 June 2025**. Its general reference date is
+1 March 2027, with 1 October 2026 for specified snow-bound areas. As at **28 August 2026**, the
+relevant population figures have not been published and the Article 334A delimitation trigger has
+not been completed. The reservation is therefore in constitutional text but not yet operational in
+elections.
+
+✅ Article 334A links the fifteen-year period to the commencement of the reservation provisions
+under clause (1), permits Parliament by law to determine continuation, and ties rotation to each
+subsequent delimitation as Parliament by law determines. Existing Houses remain unaffected until
+dissolution.
+
+> **Current-status trap:** enactment/incorporation, commencement notification, publication of
+> census figures, delimitation and electoral operation are five different legal events.
+
+### 3.4 Current delimitation boundary
+
+✅ Articles **82** and **170** retain a separate general delimitation framework. Until the relevant
+figures of the first census taken after 2026 are published, the allocation/total-seat freeze rests
+on the **1971 Census**, while territorial constituencies may remain readjusted on the **2001
+Census** basis. The Delimitation Order, 2008 currently supplies the constituency and reserved-seat
+map in the ordinary covered States/UTs.
+
+> **Trap:** publication of Census 2027 figures will not by itself draw constituencies or activate
+> women's reservation. The constitutionally and statutorily competent delimitation process must
+> still occur.
 
 ---
 
@@ -97,6 +138,32 @@ of qualifying marks or lowering evaluation standards for reservation in promotio
 
 ⚖️ Detailed promotion, data, creamy-layer and efficiency doctrine belongs in
 `Fundamental-Rights.md`.
+
+### 4.1 Equality-enabling clauses and EWS cross-route
+
+Part XVI is not the source of every educational or service reservation:
+
+| Provision | Enabling field | Essential limit |
+|---|---|---|
+| **15(4)** | Special provisions for SEBCs, SCs and STs | Enabling equality clause |
+| **15(5)** | Admission measures, including aided/unaided private institutions | Excludes Article 30(1) minority institutions |
+| **16(4)** | Appointment reservation for a backward class inadequately represented in State services | Not a guaranteed individual quota |
+| **16(4A)** | Promotion reservation for SC/ST | Subject to controlling promotion doctrine |
+| **16(4B)** | Carry-forward reserved vacancies | Separate class of vacancies for ceiling analysis within its text |
+| **15(6), 16(6)** | EWS advancement/admission and appointment reservation | Inserted by 103rd Amendment; additional reservation capped at 10% in each category |
+
+✅ Article 15(6) can reach aided and unaided private educational institutions but excludes
+Article 30(1) minority institutions. Articles 15(6) and 16(6) exclude the classes already covered
+by the clauses they identify; the State notifies EWS using family income and other indicators of
+economic disadvantage.
+
+⚖️ *Janhit Abhiyan v. Union of India* (2022), by **3:2**, upheld the 103rd Amendment, including
+economic criteria, the exclusion of classes covered by existing reservation clauses and the
+additional ten-per-cent design. It does not erase the ordinary *Indra Sawhney* 50% framework for
+other reservation routes.
+
+> **Owner firewall:** EWS is not an Article 342A SEBC list and not an Article 335 SC/ST service
+> claim. Its constitutional source is Articles 15(6) and 16(6).
 
 ---
 
@@ -123,6 +190,13 @@ State concerning schemes essential for ST welfare.
 ⚠️ Article 339 is a Union-supervision mechanism. Fifth/Sixth Schedule institutions and PESA/FRA
 detail belong in `Scheduled-and-Tribal-Areas.md`.
 
+### Article 275 welfare-grant cross-link
+
+✅ Article 275(1), outside Part XVI, authorises grants-in-aid to States in need and contains a
+specific route for schemes promoting Scheduled Tribe welfare and raising the administration of
+Scheduled Areas. It is a fiscal support provision, not a power to alter an Art 342 list or replace
+the Fifth/Sixth Schedules.
+
 ### Article 340
 
 ✅ The President may appoint a commission to investigate SEBC conditions and recommend measures and
@@ -148,6 +222,24 @@ Commissions are the standard examples.
 ⚖️ *State of Punjab v. Davinder Singh* (2024) permits evidence-based sub-classification within the
 Scheduled Castes for distribution of benefits, but does not transfer Article 341 list-alteration
 power to a State or require sub-classification.
+
+### 6.3 List, benefit and sub-classification case matrix
+
+| Decision | Decision year | Safe proposition |
+|---|---:|---|
+| *Indra Sawhney v. Union of India* | 1992 | Backward-class reservation doctrine, creamy layer and the ordinary 50% framework arise under equality provisions, not Part XVI list alteration |
+| *E.V. Chinnaiah v. State of Andhra Pradesh* | 2004 | Earlier decision treated notified SCs as an indivisible class for sub-classification |
+| *M. Nagaraj v. Union of India* | 2006 | Promotion-reservation enabling provisions were upheld subject to constitutional conditions |
+| *Jarnail Singh v. Lachhmi Narain Gupta* | 2018 | Modified the *Nagaraj* data rule and applied creamy-layer exclusion logic in the promotion context |
+| *Jaishri Laxmanrao Patil v. Chief Minister, Maharashtra* | 2021 | Interpreted the 102nd Amendment before the 105th Amendment restored express State/UT list competence |
+| *State of Punjab v. Davinder Singh* | 2024 | Overruled *E.V. Chinnaiah* on this point and permitted evidence-based SC sub-classification for fair distribution of benefits |
+| *Janhit Abhiyan v. Union of India* | 2022 | Upheld the 103rd Amendment's EWS architecture by 3:2; does not convert EWS into an SEBC list |
+
+> **Davinder firewall:** A State may sub-classify for distribution on a constitutionally defensible
+> evidentiary basis; it may not add to or delete from the Presidential SC list. The decision does
+> not command every State to sub-classify, and a scheme cannot use sub-classification to exclude a
+> listed caste completely from the benefit. Separate opinions discussing a creamy-layer principle
+> must not be converted into a universal list-deletion power or an automatic nationwide rule.
 
 ### 6.2 Socially and educationally backward classes
 
@@ -176,11 +268,42 @@ power to a State or require sub-classification.
 ⚠️ This classification is analytical; the Constitution does not label every Article with these
 categories.
 
+### 7.1 Amendment boundary map
+
+| Amendment | Exact Part XVI/equality effect | What it did not do |
+|---:|---|---|
+| **102nd (2018)** | Constitutionalised NCBC through Art 338B; inserted Art 342A and Art 366(26C) | Did not create an EWS quota |
+| **103rd (2019)** | Inserted Arts 15(6) and 16(6) for EWS | Did not amend SC/ST/SEBC identification lists |
+| **104th (2019; effective 2020)** | Extended SC/ST legislative-seat reservation to eighty years; Anglo-Indian nomination remained at seventy | Did not necessarily delete the printed text of Arts 331/333 |
+| **105th (2021)** | Restored express State/UT power, by law, to maintain own-purpose SEBC lists; Central List retained | Did not give States power to alter Arts 341/342 SC/ST lists |
+| **106th (2023; commencement not verified as at 29 August 2026)** | Inserted Arts 330A, 332A, 334A and Delhi-Assembly clauses; section 1(2) requires a Gazette-appointed commencement date | Did not make women's reservation immediately operational or extend it to Rajya Sabha/Legislative Councils |
+
 ---
 
-## 8. Answer architecture (10/15/20-mark support)
+## 8. Local-body reservation and owner-scope firewall
 
-### 8.1 Demand map
+✅ Articles 243D and 243T separately govern reservation in Panchayats and Municipalities, including
+SC/ST seats and offices and women's reservation. They are cross-references, not Part XVI
+legislative-seat provisions.
+
+| Question asked | Correct owner |
+|---|---|
+| Who is constitutionally specified as SC/ST/SEBC? | Arts 341, 342 and 342A |
+| What is the parliamentary/assembly representation architecture? | Arts 330–334A |
+| What is the local-body reservation architecture? | Arts 243D and 243T |
+| What reservation is available in education/employment? | Arts 15–16, law/policy and controlling case law |
+| How are Scheduled Areas administered? | Fifth/Sixth Schedules, PESA and specialist owner |
+| What welfare scheme applies? | The exact statute, rule, budget or scheme—not constitutional-list status alone |
+
+> **Master distinction:** A constitutional list identifies a class; a reservation provision
+> authorises a representational benefit; a welfare scheme supplies a dated programme; and area
+> administration allocates territorial governance. None is a synonym for the others.
+
+---
+
+## 9. Answer architecture (10/15/20-mark support)
+
+### 9.1 Demand map
 
 | Demand | Answer spine |
 |---|---|
@@ -190,7 +313,7 @@ categories.
 | Commission effectiveness | Constitutional design → civil-court powers/report route → advisory limit |
 | Reservation and efficiency | Art 335 → Art 16 route → case-law discipline → substantive-equality verdict |
 
-### 8.2 Thesis options
+### 9.2 Thesis options
 
 - *Part XVI is not a single reservation code; it combines political representation, service claims,
   constitutional monitoring and list identification through legally distinct mechanisms.*
@@ -199,7 +322,7 @@ categories.
 - *The 102nd–105th Amendment sequence constitutionalised the NCBC while restoring a federal division
   between the Central SEBC List and State lists.*
 
-### 8.3 Mark-scaled structures
+### 9.3 Mark-scaled structures
 
 | Marks | Structure | Evidence |
 |---:|---|---|
@@ -207,7 +330,7 @@ categories.
 | 15 | Representation/services/commission/list map → amendment/case → limit → verdict | 5–6 anchors |
 | 20 | Part XVI architecture → equality rationale → SC/ST/SEBC mechanisms → federal/implementation critique → graded conclusion | 7–9 anchors |
 
-### 8.4 Evidence units
+### 9.4 Evidence units
 
 - **Claim:** list power is constitutionally centralised for SC/STs. **Evidence:** ✅ Arts 341/342.
   **Analysis:** uniform legal alteration through Parliament protects list integrity.
@@ -222,19 +345,29 @@ categories.
 
 ---
 
-## 9. Must-Know Facts
+## 10. Must-Know Facts
 
 - ✅ Part XVI runs from Arts **330–342A** and now also contains 330A, 332A and 334A.
 - ✅ SC/ST seat reservation and Anglo-Indian nomination have different Article 334 time positions.
+- ✅ SC/ST legislative reservation currently runs to 25 January 2030; Anglo-Indian nomination
+  ceased from 25 January 2020.
+- ✅ The 106th Amendment is enacted and incorporated in updated official constitutional text, but
+  a section 1(2) commencement notification was not verified as at 29 August 2026; after
+  commencement, electoral operation still awaits publication of the first post-commencement
+  census figures and a purpose-specific delimitation.
 - ✅ Art 335 is a service-claim/efficiency provision, not a universal reservation clause.
+- ✅ EWS reservation arises from Arts 15(6)/16(6), not Part XVI or the SEBC list.
 - ✅ NCSC/NCST/NCBC are constitutional; Article 340 commissions are separately appointed.
 - ✅ President specifies SC/ST lists; Parliament alone includes/excludes.
 - ✅ After the 105th Amendment, Central and State/UT SEBC lists are distinct.
 - ✅ Arts 336–337 are exhausted transitional provisions.
+- ✅ Arts 243D/243T and Art 275 are cross-links, not substitutes for Part XVI.
+- ⚖️ *Davinder Singh* (2024) distinguishes benefit distribution through sub-classification from
+  alteration of the Art 341 list.
 
 ---
 
-## 10. UPSC traps and source discipline
+## 11. UPSC traps and source discipline
 
 - Do not equate SC/ST legislative reservation with separate electorates.
 - Do not say States can add a caste/tribe to Arts 341/342 lists by executive order.

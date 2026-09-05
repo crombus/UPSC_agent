@@ -1,0 +1,2984 @@
+---
+title: "Urban Poor, Homeless and Migrant Workers — Learner-v2 Refreshed"
+topic_key: social-justice-16
+cover_image: assets/social-justice-16_Teaching-Navigation_2026-09-02.png
+---
+# Urban Poor, Homeless and Migrant Workers — Learner-v2 Complete Learning Session
+
+> **Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.
+
+### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+
+- **Generation date:** 2026-09-02.
+- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
+- **OCR evidence:** Repository Markdown was primary. The OCR-searchable official General Studies question papers held under books\mains and books\more_previous_papers were read only to confirm the printed wording of routed Mains demands. No official answer key, marking scheme, page precision or unsupported quotation was imported from them.
+- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
+- **PYQ integrity:** This owner's previous-year record is a transparent zero, and it is stated precisely rather than softened, because the questions the owners themselves reproduce belong to other owners. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns, with the directive Discuss, ten marks and one hundred and fifty words, to the Geography migration-theories-and-patterns owner; it routes the 2025 General Studies Paper I question numbered 8 on smart cities addressing urban poverty and distributive justice, with the directive Discuss, ten marks and one hundred and fifty words, to the Indian Society urbanisation owner; and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner. The audited General Studies Paper III and Paper IV ledgers route the case studies involving migrant workers during the pandemic lockdown and the confidential report on migrant infiltration to the Ethics case-study and public-service-values owners. The audited 2018-2023 and 2024-2025 Mains routing ledgers therefore route no General Studies question to this owner, and the audited 2018-2023, 2024-2025 and 2026 Prelims routing ledgers route no objective question to it. This package accordingly claims no previous-year ownership, solves no demand card and asserts no year, paper, question number, directive, mark value or word limit as its own, while continuing to teach the migration and smart-city analysis that the repository owners carry as cross-paper anchors. In place of a claimed demand, the package supplies six original Mains questions with model solutions and eighty original objective questions on a strict A → B → C → D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that the reproduced wording matches the printed questions routed elsewhere; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+- **Live-link boundary:** One live official page was verified for this topic on 2026-09-02. The official portal of the street-vendor credit scheme of the Ministry of Housing and Urban Affairs, read on that date, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging to only those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That statement is used only for what it says, as the scheme's own eligibility condition linking access to credit to State-level implementation of the 2014 statute, and no disbursement, loan, vendor, repayment, cashback, certificate or State-count figure is inferred from it. Two further official checks were attempted on the same date, namely a subordinate page of the same portal and a national social-assistance portal address, of which the first returned a requested-URL-not-found page and the second failed to resolve at the transport level, so nothing was read or used from either and no secondary summary, coaching site or news report has been treated as an official source. The package therefore relies on that verified page together with the dated official anchors already carried by the repository owners, each cited with its issuing instrument or status date: the Deendayal Antyodaya Yojana National Urban Livelihoods Mission of the Ministry of Housing and Urban Affairs with its self-employment, skill-training and self-help-group livelihood components, its Shelter for Urban Homeless component providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages, its guideline norm of one shelter per one hundred thousand urban population, and its centrally sponsored cost share of sixty to forty with ninety to ten for north-eastern and special-category States, implemented by urban local bodies under State urban livelihoods missions; the street-vendor credit scheme launched in 2020 with collateral-free tranches of ten thousand, twenty thousand and fifty thousand rupees contingent on timely repayment, a seven per cent interest subsidy and a digital-payment cashback delivered through banks with local bodies issuing certificates and letters of recommendation; the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 with Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction; the second-generation urban housing mission of 2024 with beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme under which eligible households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions; the one-nation-one-ration-card portability mechanism operating within the food-security framework on existing cards seeded with the national identity number and electronic point-of-sale machines, with pan-India rollout achieved and transaction data published on the departmental portal; the Code on Occupational Safety, Health and Working Conditions, 2020, commenced on 21 November 2025 and thereby repealing the Inter-State Migrant Workmen Act, 1979, with final Central Rules notified in May 2026 and State rules and enforcement recorded as still material; the smart-cities model of special-purpose-vehicle-based area development with pan-city components; and the Census 2011 count of about 65.5 million people in slums, around 17.4 per cent of the urban population, used only with the owners' recorded exclusions of informal renters, homeless persons and unnotified settlements. No homeless count, shelter count, occupancy figure, vendor-loan disbursement, housing sanction or completion figure, portability transaction count, migrant count, slum population other than the recorded Census 2011 anchor, urban poverty ratio, smart-city project or expenditure figure, budget or allocation number is asserted anywhere in this package. No scheme is described as universal, no sanction is described as a completed house, no portability mechanism is described as a separate entitlement or a new card, no repealed statute is described as in force, no commenced Code is described as fully enforced, no norm is described as achieved coverage, and no previous-year question, official answer key, option or answer letter is asserted or inferred for this owner, whose routed record is a transparent zero.
+- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+
+## BASIC LEARNING SESSION
+
+### DEEP-REVIEW LEARNING CONTRACT
+
+| Control | Binding rule for this package |
+|---|---|
+| Syllabus boundary | Complete Social Justice Basic/Core is answer-complete before optional Advanced depth. |
+| Legal-status boundary | Constitutional value/right, statute, rule, judgment, executive policy, scheme, eligibility rule, implementation and outcome remain distinct. |
+| Rights-holder map | Rights-holder → entitlement/need → competent institution/duty-bearer → accountability forum → grievance/appeal/remedy. |
+| Delivery chain | Identification → eligibility → documentation → enrolment → finance → frontline access → service/benefit → portability → outcome → audit and correction. |
+| Inclusion method | Intersectional caste, tribe, gender, age, disability, religion, occupation, migration and regional variation is retained without homogenising groups. |
+| Evidence method | Claim → named India-centric law/institution/scheme/case/dataset → analysis → source, reference period, release date, denominator, status and causal qualification. |
+| Dignity and safeguards | Accessibility, privacy, participation, social audit, portability, offline access, due process and protection from stigma or coercion are tested. |
+| Practice contract | Every model has demand decoding, detailed examiner-grade answer, executable timed/compression plan, marks rationale and answer-specific improvement. |
+| Approval | This immutable successor remains `approved: false` pending explicit approval. |
+
+**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Social-Justice\basic\16_Urban-Poor-Homeless-and-Migrant-Workers.md`  
+**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Social-Justice\16_Urban-Poor-Homeless-and-Migrant-Workers_Learner-V2-Complete-Topic-Package.md`  
+**Optional Advanced owner:** `upsc-ai-kit\knowledge\Social-Justice\advanced\16_Urban-Poor-Homeless-and-Migrant-Workers.md`  
+**Official syllabus mapping:** `upsc-ai-kit\knowledge\Social-Justice\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+
+### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
+
+- **Prohibition/outcome discipline:** a legal prohibition, reported case, registration, conviction, rehabilitation measure and lived eradication are different claims.
+- **Eligibility discipline:** universal, categorical, means-tested, self-declared, notified-list and residence-linked routes require exact scope; coverage never proves adequacy or access.
+- **Reservation discipline:** constitutional basis, beneficiary category, competent list, ceiling, creamy-layer rule, EWS route, horizontal/vertical operation and judicial status are qualified separately.
+- **Fiscal discipline:** allocation, release, expenditure, unit cost, beneficiary transfer and outcome are not interchangeable.
+- **Data discipline:** retain numerator, denominator, unit, geography, reference period, release date, provisional/final status and survey-versus-administrative character.
+- **Causal discipline:** headline change, before-after sequence or cross-state correlation does not establish scheme impact without mechanism and counterfactual limits.
+- **PYQ discipline:** exact wording is preserved only when verified; routed or reconstructed demands remain labelled and no model is presented as an official UPSC answer.
+- **Current-status note, rechecked 2026-09-03:** volatile law, scheme, judgment, list, budget and dataset claims retain issuing authority, date and operative/interim/final status.
+
+**Generation-local live/current sources:**
+- `https://pmsvanidhi.mohua.gov.in/ (Ministry of Housing and Urban Affairs, PM SVANidhi official portal, notified States and Union Territories statement, read on 2 September 2026)`
+
+
+
+![Refreshed teaching navigation](assets/social-justice-16_Teaching-Navigation_2026-09-02.png)
+
+*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
+
+### SESSION 1 — FOUNDATION — WHAT THE URBAN-DEPRIVATION OWNER HOLDS AND WHAT IT DECLINES TO CLAIM
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+**Technical definition:** Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to What the urban-deprivation owner holds and what it declines to claim, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to What the urban-deprivation owner holds and what it declines to claim, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+
+#### MUST-WRITE KEYWORDS
+
+- **FOUNDATION**
+- **What the urban-deprivation owner holds**
+- **what it declines to claim**
+- **Evidence chain**
+- **Qualified use**
+- **2024-2025**
+
+**How to use them:** Frame the answer through FOUNDATION; define What the urban-deprivation owner holds, connect what it declines to claim with Evidence chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+WHAT THE URBAN-DEPRIVATION OWNER HOLDS AND WHAT IT DECLINES TO CLAIM
+01. What this owner holds and where its cross-paper questions actually belong
+BOUNDARY -> The two cross-paper questions the owners reproduce are routed by the ledger to other owners.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+#### EXAMINER CAUTION
+
+- The two cross-paper questions the owners reproduce are routed by the ledger to other owners.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to What the urban-deprivation owner holds and what it declines to claim, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Open an urban answer by naming the deprivation the question engages and the owner that holds it.
+
+#### MINI RECAP
+
+- **Evidence chain:** What this owner holds and where its cross-paper questions actually belong
+- **Qualified use:** Open an urban answer by naming the deprivation the question engages and the owner that holds it.
+
+#### CLOSING RECALL FLOW — FOUNDATION — WHAT THE URBAN-DEPRIVATION OWNER HOLDS AND WHAT IT DECLINES TO CLAIM
+
+```text
+START / CONCEPT: FOUNDATION — What the urban-deprivation owner holds and what it declines to claim
+        |
+        v
+EXACT TERMS: FOUNDATION · What the urban-deprivation owner holds · what it declines to claim · Evidence chain · Qualified use · 2024-2025
+        |
+        v
+MECHANISM / ARGUMENT: Evidence chain: What this owner holds and where its cross-paper questions actually belong Qualified use: Open an urban answer by naming the deprivation the question engages and the owner that holds it.
+        |
+        v
+CONSEQUENCE / CONTRAST: Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: open an urban answer by naming the deprivation the question engages and the owner...
+        |
+        v
+ANSWER-GRABBING FORMULATION: Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to What the urban-deprivation owner holds and what it declines to claim, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+```
+### SESSION 2 — FOUNDATION — THE NEXUS AND THE HOUSING-DEPRIVATION SPECTRUM
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Evidence chain: The housing-livelihood-portability nexus as the organising claim - The housing-deprivation spectrum and why the categories differ Qualified use: Classify the deprivation precisely before selecting the scheme that is supposed to answer it.
+
+**Technical definition:** The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: The housing-livelihood-portability nexus as the organising claim - The housing-deprivation spectrum and why the categories differ Qualified use: Classify the deprivation precisely before selecting the scheme that is supposed to answer it.
+
+#### MUST-WRITE KEYWORDS
+
+- **FOUNDATION**
+- **The nexus**
+- **the housing-deprivation spectrum**
+- **Evidence chain**
+- **Qualified use**
+- **The examinable consequence**
+
+**How to use them:** Frame the answer through FOUNDATION; define The nexus, connect the housing-deprivation spectrum with Evidence chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+THE NEXUS AND THE HOUSING-DEPRIVATION SPECTRUM
+01. The housing-livelihood-portability nexus as the organising claim
+    |
+    v
+02. The housing-deprivation spectrum and why the categories differ
+BOUNDARY -> Rooflessness and slum residence are different conditions requiring different instruments.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+- The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+
+#### EXAMINER CAUTION
+
+- Rooflessness and slum residence are different conditions requiring different instruments.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The nexus and the housing-deprivation spectrum, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Classify the deprivation precisely before selecting the scheme that is supposed to answer it.
+
+#### MINI RECAP
+
+- **Evidence chain:** The housing-livelihood-portability nexus as the organising claim -> The housing-deprivation spectrum and why the categories differ
+- **Qualified use:** Classify the deprivation precisely before selecting the scheme that is supposed to answer it.
+
+#### CLOSING RECALL FLOW — FOUNDATION — THE NEXUS AND THE HOUSING-DEPRIVATION SPECTRUM
+
+```text
+START / CONCEPT: FOUNDATION — The nexus and the housing-deprivation spectrum
+        |
+        v
+EXACT TERMS: FOUNDATION · The nexus · the housing-deprivation spectrum · Evidence chain · Qualified use · The examinable consequence
+        |
+        v
+MECHANISM / ARGUMENT: They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+        |
+        v
+CONSEQUENCE / CONTRAST: The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+        |
+        v
+UPSC TRAP / ANSWER-USE: The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: The housing-livelihood-portability nexus as the organising claim - The housing-deprivation spectrum and why the categories differ Qualified use: Classify the deprivation precisely before selecting the scheme that is supposed to answer it.
+```
+### SESSION 3 — FOUNDATION — THE URBAN LIVELIHOODS MISSION AND ITS COMPONENTS
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components.
+
+**Technical definition:** Evidence chain: The urban livelihoods mission and its livelihood components Qualified use: Name the mission, the ministry and the component before evaluating livelihood support.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components.
+
+#### MUST-WRITE KEYWORDS
+
+- **FOUNDATION**
+- **The urban livelihoods mission**
+- **its components**
+- **Evidence chain**
+- **Qualified use**
+- **The Deendayal Antyodaya Yojana National Urban Livelihoods Mission**
+
+**How to use them:** Frame the answer through FOUNDATION; define The urban livelihoods mission, connect its components with Evidence chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+THE URBAN LIVELIHOODS MISSION AND ITS COMPONENTS
+01. The urban livelihoods mission and its livelihood components
+BOUNDARY -> The urban mission and the similarly branded rural mission belong to different ministries.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+
+#### EXAMINER CAUTION
+
+- The urban mission and the similarly branded rural mission belong to different ministries.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The urban livelihoods mission and its components, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Name the mission, the ministry and the component before evaluating livelihood support.
+
+#### MINI RECAP
+
+- **Evidence chain:** The urban livelihoods mission and its livelihood components
+- **Qualified use:** Name the mission, the ministry and the component before evaluating livelihood support.
+
+#### CLOSING RECALL FLOW — FOUNDATION — THE URBAN LIVELIHOODS MISSION AND ITS COMPONENTS
+
+```text
+START / CONCEPT: FOUNDATION — The urban livelihoods mission and its components
+        |
+        v
+EXACT TERMS: FOUNDATION · The urban livelihoods mission · its components · Evidence chain · Qualified use · The Deendayal Antyodaya Yojana National Urban Livelihoods Mission
+        |
+        v
+MECHANISM / ARGUMENT: Evidence chain: The urban livelihoods mission and its livelihood components Qualified use: Name the mission, the ministry and the component before evaluating livelihood support.
+        |
+        v
+CONSEQUENCE / CONTRAST: They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: on the livelihood side the owners record three instruments.
+        |
+        v
+ANSWER-GRABBING FORMULATION: The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components.
+```
+### SESSION 4 — CORE — THE SHELTER COMPONENT AND THE NORM THAT MEASURES IT
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Evidence chain: The shelter component and the norm that governs it Qualified use: Separate a coverage norm from evidence that the facility is located where it is used.
+
+**Technical definition:** They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: The shelter component and the norm that governs it Qualified use: Separate a coverage norm from evidence that the facility is located where it is used.
+
+#### MUST-WRITE KEYWORDS
+
+- **The shelter component**
+- **the norm that measures it**
+- **Evidence chain**
+- **Qualified use**
+- **They**
+- **Retain**
+
+**How to use them:** Frame the answer through The shelter component; define the norm that measures it, connect Evidence chain with Qualified use to explain the mechanism, and use They for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+THE SHELTER COMPONENT AND THE NORM THAT MEASURES IT
+01. The shelter component and the norm that governs it
+BOUNDARY -> A provision norm measures facilities planned rather than homeless persons served.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+#### EXAMINER CAUTION
+
+- A provision norm measures facilities planned rather than homeless persons served.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The shelter component and the norm that measures it, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Separate a coverage norm from evidence that the facility is located where it is used.
+
+#### MINI RECAP
+
+- **Evidence chain:** The shelter component and the norm that governs it
+- **Qualified use:** Separate a coverage norm from evidence that the facility is located where it is used.
+
+#### CLOSING RECALL FLOW — CORE — THE SHELTER COMPONENT AND THE NORM THAT MEASURES IT
+
+```text
+START / CONCEPT: CORE — The shelter component and the norm that measures it
+        |
+        v
+EXACT TERMS: The shelter component · the norm that measures it · Evidence chain · Qualified use · They · Retain
+        |
+        v
+MECHANISM / ARGUMENT: They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+        |
+        v
+CONSEQUENCE / CONTRAST: Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The shelter component and the norm that measures it, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+        |
+        v
+UPSC TRAP / ANSWER-USE: A provision norm measures facilities planned rather than homeless persons served.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: The shelter component and the norm that governs it Qualified use: Separate a coverage norm from evidence that the facility is located where it is used.
+```
+### SESSION 5 — CORE — WHERE SHELTER PROVISION ACTUALLY BREAKS DOWN
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability.
+
+**Technical definition:** Evidence chain: Why shelter coverage fails even where the scheme exists Qualified use: Locate a delivery failure at a named input rather than asserting weak implementation.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: Why shelter coverage fails even where the scheme exists Qualified use: Locate a delivery failure at a named input rather than asserting weak implementation.
+
+#### MUST-WRITE KEYWORDS
+
+- **Where shelter provision actually breaks down**
+- **Evidence chain**
+- **Qualified use**
+- **Why**
+- **Qualified**
+- **Locate**
+
+**How to use them:** Frame the answer through Where shelter provision actually breaks down; define Evidence chain, connect Qualified use with Why to explain the mechanism, and use Qualified for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+WHERE SHELTER PROVISION ACTUALLY BREAKS DOWN
+01. Why shelter coverage fails even where the scheme exists
+BOUNDARY -> Land, matching finance and service linkage fail separately and need separate corrections.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+
+#### EXAMINER CAUTION
+
+- Land, matching finance and service linkage fail separately and need separate corrections.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Where shelter provision actually breaks down, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Locate a delivery failure at a named input rather than asserting weak implementation.
+
+#### MINI RECAP
+
+- **Evidence chain:** Why shelter coverage fails even where the scheme exists
+- **Qualified use:** Locate a delivery failure at a named input rather than asserting weak implementation.
+
+#### CLOSING RECALL FLOW — CORE — WHERE SHELTER PROVISION ACTUALLY BREAKS DOWN
+
+```text
+START / CONCEPT: CORE — Where shelter provision actually breaks down
+        |
+        v
+EXACT TERMS: Where shelter provision actually breaks down · Evidence chain · Qualified use · Why · Qualified · Locate
+        |
+        v
+MECHANISM / ARGUMENT: The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability.
+        |
+        v
+CONSEQUENCE / CONTRAST: The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: why shelter coverage fails even where the scheme exists Qualified use.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: Why shelter coverage fails even where the scheme exists Qualified use: Locate a delivery failure at a named input rather than asserting weak implementation.
+```
+### SESSION 6 — CORE — VENDOR CREDIT AND ITS ESCALATING TRANCHES
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Evidence chain: The street-vendor credit scheme and what it is not Qualified use: State a credit instrument by its terms and its repayment condition before assessing reach.
+
+**Technical definition:** They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: The street-vendor credit scheme and what it is not Qualified use: State a credit instrument by its terms and its repayment condition before assessing reach.
+
+#### MUST-WRITE KEYWORDS
+
+- **Vendor credit**
+- **its escalating tranches**
+- **Evidence chain**
+- **Qualified use**
+- **They record the trap explicitly: these**
+- **They**
+
+**How to use them:** Frame the answer through Vendor credit; define its escalating tranches, connect Evidence chain with Qualified use to explain the mechanism, and use They record the trap explicitly: these for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+VENDOR CREDIT AND ITS ESCALATING TRANCHES
+01. The street-vendor credit scheme and what it is not
+BOUNDARY -> These are loans with a subsidy and an incentive, not grants and not a right to vend.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+
+#### EXAMINER CAUTION
+
+- These are loans with a subsidy and an incentive, not grants and not a right to vend.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Vendor credit and its escalating tranches, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** State a credit instrument by its terms and its repayment condition before assessing reach.
+
+#### MINI RECAP
+
+- **Evidence chain:** The street-vendor credit scheme and what it is not
+- **Qualified use:** State a credit instrument by its terms and its repayment condition before assessing reach.
+
+#### CLOSING RECALL FLOW — CORE — VENDOR CREDIT AND ITS ESCALATING TRANCHES
+
+```text
+START / CONCEPT: CORE — Vendor credit and its escalating tranches
+        |
+        v
+EXACT TERMS: Vendor credit · its escalating tranches · Evidence chain · Qualified use · They record the trap explicitly: these · They
+        |
+        v
+MECHANISM / ARGUMENT: They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+        |
+        v
+CONSEQUENCE / CONTRAST: These are loans with a subsidy and an incentive, not grants and not a right to vend.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the street-vendor credit scheme and what it is not Qualified use.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: The street-vendor credit scheme and what it is not Qualified use: State a credit instrument by its terms and its repayment condition before assessing reach.
+```
+### SESSION 7 — CORE — THE VENDING STATUTE AND THE RIGHTS IT CREATES
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Evidence chain: The street-vending statute and the rights it actually creates Qualified use: Match the instrument to the harm: eviction is answered by law, not by working capital.
+
+**Technical definition:** Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The vending statute and the rights it creates, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: The street-vending statute and the rights it actually creates Qualified use: Match the instrument to the harm: eviction is answered by law, not by working capital.
+
+#### MUST-WRITE KEYWORDS
+
+- **The vending statute**
+- **the rights it creates**
+- **Evidence chain**
+- **Qualified use**
+- **They**
+- **Credit**
+
+**How to use them:** Frame the answer through The vending statute; define the rights it creates, connect Evidence chain with Qualified use to explain the mechanism, and use They for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+THE VENDING STATUTE AND THE RIGHTS IT CREATES
+01. The street-vending statute and the rights it actually creates
+BOUNDARY -> Credit does not supply the legal livelihood layer that the statute supplies.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+
+#### EXAMINER CAUTION
+
+- Credit does not supply the legal livelihood layer that the statute supplies.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The vending statute and the rights it creates, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Match the instrument to the harm: eviction is answered by law, not by working capital.
+
+#### MINI RECAP
+
+- **Evidence chain:** The street-vending statute and the rights it actually creates
+- **Qualified use:** Match the instrument to the harm: eviction is answered by law, not by working capital.
+
+#### CLOSING RECALL FLOW — CORE — THE VENDING STATUTE AND THE RIGHTS IT CREATES
+
+```text
+START / CONCEPT: CORE — The vending statute and the rights it creates
+        |
+        v
+EXACT TERMS: The vending statute · the rights it creates · Evidence chain · Qualified use · They · Credit
+        |
+        v
+MECHANISM / ARGUMENT: Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The vending statute and the rights it creates, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+        |
+        v
+CONSEQUENCE / CONTRAST: Credit does not supply the legal livelihood layer that the statute supplies.
+        |
+        v
+UPSC TRAP / ANSWER-USE: They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: The street-vending statute and the rights it actually creates Qualified use: Match the instrument to the harm: eviction is answered by law, not by working capital.
+```
+### SESSION 8 — CORE — THE ELIGIBILITY CONDITION THE SCHEME'S OWN PORTAL RECORDS
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.
+
+**Technical definition:** Evidence chain: The official condition attached to the vendor credit scheme Qualified use: Cite an official eligibility condition for exactly what it says and no further.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.
+
+#### MUST-WRITE KEYWORDS
+
+- **The eligibility condition the scheme's own portal records**
+- **Evidence chain**
+- **Qualified use**
+- **States**
+- **Union Territories**
+- **Street Vendors**
+
+**How to use them:** Frame the answer through The eligibility condition the scheme's own portal records; define Evidence chain, connect Qualified use with States to explain the mechanism, and use Union Territories for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+THE ELIGIBILITY CONDITION THE SCHEME'S OWN PORTAL RECORDS
+01. The official condition attached to the vendor credit scheme
+BOUNDARY -> Statutory notification by the State is a precondition for the credit route, not a parallel track.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+
+#### EXAMINER CAUTION
+
+- Statutory notification by the State is a precondition for the credit route, not a parallel track.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The eligibility condition the scheme's own portal records, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Cite an official eligibility condition for exactly what it says and no further.
+
+#### MINI RECAP
+
+- **Evidence chain:** The official condition attached to the vendor credit scheme
+- **Qualified use:** Cite an official eligibility condition for exactly what it says and no further.
+
+#### CLOSING RECALL FLOW — CORE — THE ELIGIBILITY CONDITION THE SCHEME'S OWN PORTAL RECORDS
+
+```text
+START / CONCEPT: CORE — The eligibility condition the scheme's own portal records
+        |
+        v
+EXACT TERMS: The eligibility condition the scheme's own portal records · Evidence chain · Qualified use · States · Union Territories · Street Vendors
+        |
+        v
+MECHANISM / ARGUMENT: That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+        |
+        v
+CONSEQUENCE / CONTRAST: Evidence chain: The official condition attached to the vendor credit scheme Qualified use: Cite an official eligibility condition for exactly what it says and no further.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Statutory notification by the State is a precondition for the credit route, not a parallel track.
+        |
+        v
+ANSWER-GRABBING FORMULATION: The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.
+```
+### SESSION 9 — CORE — HOUSING SANCTION AND FOOD PORTABILITY AS TWO REALISATION TESTS
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Evidence chain: The urban housing mission and the difference between sanction and shelter - Ration portability and what it is built on Qualified use: Test an entitlement against the moment of realisation rather than the moment of approval.
+
+**Technical definition:** A sanction is not an occupied house, and portability is a mechanism within an existing entitlement.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: The urban housing mission and the difference between sanction and shelter - Ration portability and what it is built on Qualified use: Test an entitlement against the moment of realisation rather than the moment of approval.
+
+#### MUST-WRITE KEYWORDS
+
+- **Housing sanction**
+- **food portability as two realisation tests**
+- **Evidence chain**
+- **Qualified use**
+- **They then record the evaluative rule: a sanction**
+- **They**
+
+**How to use them:** Frame the answer through Housing sanction; define food portability as two realisation tests, connect Evidence chain with Qualified use to explain the mechanism, and use They then record the evaluative rule: a sanction for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+HOUSING SANCTION AND FOOD PORTABILITY AS TWO REALISATION TESTS
+01. The urban housing mission and the difference between sanction and shelter
+    |
+    v
+02. Ration portability and what it is built on
+BOUNDARY -> A sanction is not an occupied house, and portability is a mechanism within an existing entitlement.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+- The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+
+#### EXAMINER CAUTION
+
+- A sanction is not an occupied house, and portability is a mechanism within an existing entitlement.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Housing sanction and food portability as two realisation tests, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Test an entitlement against the moment of realisation rather than the moment of approval.
+
+#### MINI RECAP
+
+- **Evidence chain:** The urban housing mission and the difference between sanction and shelter -> Ration portability and what it is built on
+- **Qualified use:** Test an entitlement against the moment of realisation rather than the moment of approval.
+
+#### CLOSING RECALL FLOW — CORE — HOUSING SANCTION AND FOOD PORTABILITY AS TWO REALISATION TESTS
+
+```text
+START / CONCEPT: CORE — Housing sanction and food portability as two realisation tests
+        |
+        v
+EXACT TERMS: Housing sanction · food portability as two realisation tests · Evidence chain · Qualified use · They then record the evaluative rule: a sanction · They
+        |
+        v
+MECHANISM / ARGUMENT: A sanction is not an occupied house, and portability is a mechanism within an existing entitlement.
+        |
+        v
+CONSEQUENCE / CONTRAST: They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+        |
+        v
+UPSC TRAP / ANSWER-USE: They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: The urban housing mission and the difference between sanction and shelter - Ration portability and what it is built on Qualified use: Test an entitlement against the moment of realisation rather than the moment of approval.
+```
+### SESSION 10 — CORE — THE MIGRANT'S LEGAL ROUTE AND THE FRICTION IN PORTABILITY
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration.
+
+**Technical definition:** Evidence chain: The migrant-worker legal route as it now stands - Why portability fails at the counter Qualified use: Separate a commenced statute from State rules and from what happens at the counter.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: The migrant-worker legal route as it now stands - Why portability fails at the counter Qualified use: Separate a commenced statute from State rules and from what happens at the counter.
+
+#### MUST-WRITE KEYWORDS
+
+- **The migrant's legal route**
+- **the friction in portability**
+- **Evidence chain**
+- **Qualified use**
+- **Code**
+- **Occupational Safety**
+
+**How to use them:** Frame the answer through The migrant's legal route; define the friction in portability, connect Evidence chain with Qualified use to explain the mechanism, and use Code for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+THE MIGRANT'S LEGAL ROUTE AND THE FRICTION IN PORTABILITY
+01. The migrant-worker legal route as it now stands
+    |
+    v
+02. Why portability fails at the counter
+BOUNDARY -> Central commencement is not enforcement, and authentication failure blocks a valid entitlement.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+- The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+#### EXAMINER CAUTION
+
+- Central commencement is not enforcement, and authentication failure blocks a valid entitlement.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The migrant's legal route and the friction in portability, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Separate a commenced statute from State rules and from what happens at the counter.
+
+#### MINI RECAP
+
+- **Evidence chain:** The migrant-worker legal route as it now stands -> Why portability fails at the counter
+- **Qualified use:** Separate a commenced statute from State rules and from what happens at the counter.
+
+#### CLOSING RECALL FLOW — CORE — THE MIGRANT'S LEGAL ROUTE AND THE FRICTION IN PORTABILITY
+
+```text
+START / CONCEPT: CORE — The migrant's legal route and the friction in portability
+        |
+        v
+EXACT TERMS: The migrant's legal route · the friction in portability · Evidence chain · Qualified use · Code · Occupational Safety
+        |
+        v
+MECHANISM / ARGUMENT: The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration.
+        |
+        v
+CONSEQUENCE / CONTRAST: They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Central commencement is not enforcement, and authentication failure blocks a valid entitlement.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: The migrant-worker legal route as it now stands - Why portability fails at the counter Qualified use: Separate a commenced statute from State rules and from what happens at the counter.
+```
+### SESSION 11 — CORE — THE SLUM SCALE ANCHOR AND THE POPULATION IT MISSES
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Evidence chain: The slum scale anchor and its exclusions Qualified use: Cite a census figure with its year and its recorded exclusions attached.
+
+**Technical definition:** They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: The slum scale anchor and its exclusions Qualified use: Cite a census figure with its year and its recorded exclusions attached.
+
+#### MUST-WRITE KEYWORDS
+
+- **The slum scale anchor**
+- **the population it misses**
+- **Evidence chain**
+- **Qualified use**
+- **They**
+- **Qualified**
+
+**How to use them:** Frame the answer through The slum scale anchor; define the population it misses, connect Evidence chain with Qualified use to explain the mechanism, and use They for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+THE SLUM SCALE ANCHOR AND THE POPULATION IT MISSES
+01. The slum scale anchor and its exclusions
+BOUNDARY -> The recorded count excludes informal renters, homeless persons and unnotified settlements.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+
+#### EXAMINER CAUTION
+
+- The recorded count excludes informal renters, homeless persons and unnotified settlements.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to The slum scale anchor and the population it misses, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Cite a census figure with its year and its recorded exclusions attached.
+
+#### MINI RECAP
+
+- **Evidence chain:** The slum scale anchor and its exclusions
+- **Qualified use:** Cite a census figure with its year and its recorded exclusions attached.
+
+#### CLOSING RECALL FLOW — CORE — THE SLUM SCALE ANCHOR AND THE POPULATION IT MISSES
+
+```text
+START / CONCEPT: CORE — The slum scale anchor and the population it misses
+        |
+        v
+EXACT TERMS: The slum scale anchor · the population it misses · Evidence chain · Qualified use · They · Qualified
+        |
+        v
+MECHANISM / ARGUMENT: They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+        |
+        v
+CONSEQUENCE / CONTRAST: The resulting consequence is that the slum scale anchor and its exclusions Qualified use.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the slum scale anchor and its exclusions Qualified use.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: The slum scale anchor and its exclusions Qualified use: Cite a census figure with its year and its recorded exclusions attached.
+```
+### SESSION 12 — CORE — CIRCULAR MOVEMENT AGAINST FIXED-PLACE ENTITLEMENT DESIGN
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+**Technical definition:** Evidence chain: Circular migration and why fixed-entitlement design fails it Qualified use: Match the unit of entitlement to the actual pattern of the worker's movement.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: Circular migration and why fixed-entitlement design fails it Qualified use: Match the unit of entitlement to the actual pattern of the worker's movement.
+
+#### MUST-WRITE KEYWORDS
+
+- **Circular movement against fixed-place entitlement design**
+- **Evidence chain**
+- **Qualified use**
+- **They**
+- **Circular**
+- **Qualified**
+
+**How to use them:** Frame the answer through Circular movement against fixed-place entitlement design; define Evidence chain, connect Qualified use with They to explain the mechanism, and use Circular for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+CIRCULAR MOVEMENT AGAINST FIXED-PLACE ENTITLEMENT DESIGN
+01. Circular migration and why fixed-entitlement design fails it
+BOUNDARY -> A place-attached entitlement fails a person attached to a circuit, however well funded it is.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+#### EXAMINER CAUTION
+
+- A place-attached entitlement fails a person attached to a circuit, however well funded it is.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Circular movement against fixed-place entitlement design, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Match the unit of entitlement to the actual pattern of the worker's movement.
+
+#### MINI RECAP
+
+- **Evidence chain:** Circular migration and why fixed-entitlement design fails it
+- **Qualified use:** Match the unit of entitlement to the actual pattern of the worker's movement.
+
+#### CLOSING RECALL FLOW — CORE — CIRCULAR MOVEMENT AGAINST FIXED-PLACE ENTITLEMENT DESIGN
+
+```text
+START / CONCEPT: CORE — Circular movement against fixed-place entitlement design
+        |
+        v
+EXACT TERMS: Circular movement against fixed-place entitlement design · Evidence chain · Qualified use · They · Circular · Qualified
+        |
+        v
+MECHANISM / ARGUMENT: They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+        |
+        v
+CONSEQUENCE / CONTRAST: A place-attached entitlement fails a person attached to a circuit, however well funded it is.
+        |
+        v
+UPSC TRAP / ANSWER-USE: The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: Circular migration and why fixed-entitlement design fails it Qualified use: Match the unit of entitlement to the actual pattern of the worker's movement.
+```
+### SESSION 13 — CORE SYNTHESIS — WHY METROPOLITAN PULL IS STRUCTURAL RATHER THAN ACCIDENTAL
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Why metropolitan pull is structural rather than accidental, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+
+**Technical definition:** Evidence chain: Why large cities pull migrants more strongly than small towns Qualified use: Explain a migration pattern through push, pull and density before prescribing policy.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Why metropolitan pull is structural rather than accidental, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+
+#### MUST-WRITE KEYWORDS
+
+- **CORE SYNTHESIS**
+- **Evidence chain**
+- **Qualified use**
+- **Agricultural**
+- **Agglomeration**
+- **Retain**
+
+**How to use them:** Frame the answer through CORE SYNTHESIS; define Evidence chain, connect Qualified use with Agricultural to explain the mechanism, and use Agglomeration for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+WHY METROPOLITAN PULL IS STRUCTURAL RATHER THAN ACCIDENTAL
+01. Why large cities pull migrants more strongly than small towns
+BOUNDARY -> Agglomeration and informal-work availability explain the pattern; blaming the destination does not.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+
+#### EXAMINER CAUTION
+
+- Agglomeration and informal-work availability explain the pattern; blaming the destination does not.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Why metropolitan pull is structural rather than accidental, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Explain a migration pattern through push, pull and density before prescribing policy.
+
+#### MINI RECAP
+
+- **Evidence chain:** Why large cities pull migrants more strongly than small towns
+- **Qualified use:** Explain a migration pattern through push, pull and density before prescribing policy.
+
+#### CLOSING RECALL FLOW — CORE SYNTHESIS — WHY METROPOLITAN PULL IS STRUCTURAL RATHER THAN ACCIDENTAL
+
+```text
+START / CONCEPT: CORE SYNTHESIS — Why metropolitan pull is structural rather than accidental
+        |
+        v
+EXACT TERMS: CORE SYNTHESIS · Evidence chain · Qualified use · Agricultural · Agglomeration · Retain
+        |
+        v
+MECHANISM / ARGUMENT: Evidence chain: Why large cities pull migrants more strongly than small towns Qualified use: Explain a migration pattern through push, pull and density before prescribing policy.
+        |
+        v
+CONSEQUENCE / CONTRAST: Agglomeration and informal-work availability explain the pattern; blaming the destination does not.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push...
+        |
+        v
+ANSWER-GRABBING FORMULATION: Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Why metropolitan pull is structural rather than accidental, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+```
+### SESSION 14 — CORE SYNTHESIS — AREA-BASED DEVELOPMENT, UPGRADING AND TENURE TRADE-OFFS
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution.
+
+**Technical definition:** Area selection can exclude the poorest, and neither upgrading nor resettlement is first-best.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution.
+
+#### MUST-WRITE KEYWORDS
+
+- **CORE SYNTHESIS**
+- **Area-based development**
+- **upgrading**
+- **tenure trade-offs**
+- **Evidence chain**
+- **Qualified use**
+
+**How to use them:** Frame the answer through CORE SYNTHESIS; define Area-based development, connect upgrading with tenure trade-offs to explain the mechanism, and use Evidence chain for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+AREA-BASED DEVELOPMENT, UPGRADING AND TENURE TRADE-OFFS
+01. The smart-city model and the distributive-justice critique
+    |
+    v
+02. Upgrading against resettlement and tenure against title
+BOUNDARY -> Area selection can exclude the poorest, and neither upgrading nor resettlement is first-best.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+- The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+
+#### EXAMINER CAUTION
+
+- Area selection can exclude the poorest, and neither upgrading nor resettlement is first-best.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Area-based development, upgrading and tenure trade-offs, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Argue a spatial policy through its selection rule and its distributional consequence.
+
+#### MINI RECAP
+
+- **Evidence chain:** The smart-city model and the distributive-justice critique -> Upgrading against resettlement and tenure against title
+- **Qualified use:** Argue a spatial policy through its selection rule and its distributional consequence.
+
+#### CLOSING RECALL FLOW — CORE SYNTHESIS — AREA-BASED DEVELOPMENT, UPGRADING AND TENURE TRADE-OFFS
+
+```text
+START / CONCEPT: CORE SYNTHESIS — Area-based development, upgrading and tenure trade-offs
+        |
+        v
+EXACT TERMS: CORE SYNTHESIS · Area-based development · upgrading · tenure trade-offs · Evidence chain · Qualified use
+        |
+        v
+MECHANISM / ARGUMENT: Evidence chain: The smart-city model and the distributive-justice critique - Upgrading against resettlement and tenure against title Qualified use: Argue a spatial policy through its selection rule and its distributional consequence.
+        |
+        v
+CONSEQUENCE / CONTRAST: Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+        |
+        v
+UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: area selection can exclude the poorest.
+        |
+        v
+ANSWER-GRABBING FORMULATION: In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution.
+```
+### SESSION 15 — CORE SYNTHESIS — WHO PAYS, WHO IMPLEMENTS AND WHAT IS NOT CLAIMED
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Who pays, who implements and what is not claimed, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+
+**Technical definition:** Evidence chain: Who pays and who implements the urban mission - What this owner does not claim and what it recommends instead Qualified use: Close with a graded verdict, a named institutional correction and an explicit ownership statement.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Evidence chain: Who pays and who implements the urban mission - What this owner does not claim and what it recommends instead Qualified use: Close with a graded verdict, a named institutional correction and an explicit ownership statement.
+
+#### MUST-WRITE KEYWORDS
+
+- **CORE SYNTHESIS**
+- **Who pays**
+- **who implements**
+- **what is not claimed**
+- **Evidence chain**
+- **Qualified use**
+
+**How to use them:** Frame the answer through CORE SYNTHESIS; define Who pays, connect who implements with what is not claimed to explain the mechanism, and use Evidence chain for the decisive comparison or qualification.
+
+#### VISUAL FIRST
+
+```text
+WHO PAYS, WHO IMPLEMENTS AND WHAT IS NOT CLAIMED
+01. Who pays and who implements the urban mission
+    |
+    v
+02. What this owner does not claim and what it recommends instead
+BOUNDARY -> The State matching share and local-body capacity decide delivery, and no routed demand is claimed here.
+```
+
+*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+
+#### CORE EXPLANATION
+
+The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+#### NAMED EVIDENCE AND MECHANISM
+
+- The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+- The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+#### EXAMINER CAUTION
+
+- The State matching share and local-body capacity decide delivery, and no routed demand is claimed here.
+
+#### EXAM LINK
+
+- **Prelims:** Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Who pays, who implements and what is not claimed, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+- **Mains:** Close with a graded verdict, a named institutional correction and an explicit ownership statement.
+
+#### MINI RECAP
+
+- **Evidence chain:** Who pays and who implements the urban mission -> What this owner does not claim and what it recommends instead
+- **Qualified use:** Close with a graded verdict, a named institutional correction and an explicit ownership statement.
+#### COMPLETE BASIC OWNER EVIDENCE BANK
+
+> **Subject:** Social Justice | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II;
+> GS-I (urbanisation, migration — see PYQ anchors below).
+> **Core area:** Urban homelessness, slum upgrading, migrant-worker protection,
+> street-vendor livelihoods, ration portability.
+> **Grounded in:** DAY-NULM (Shelter for Urban Homeless, MoHUA); PM SVANidhi (2020);
+> Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014;
+> Code on Occupational Safety, Health and Working Conditions, 2020 (commenced
+> 21 November 2025); repealed Inter-State Migrant Workmen Act, 1979;
+> ONORC (cross-link Topic 02); 2024 GS-I PYQ (migration to large cities); 2025 GS-I PYQ
+> (smart city and urban poverty).
+> ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
+> *Companion: `advanced/16_Urban-Poor-Homeless-and-Migrant-Workers.md`.*
+
+#### 1. Visual foundation
+
+```text
+URBAN VULNERABILITY: HOUSING-LIVELIHOOD-PORTABILITY NEXUS
+
+┌───────────────────────────────────────────────────────────────────────┐
+│ HOUSING DEPRIVATION          LIVELIHOOD PRECARITY                     │
+│ ┌─────────────────────┐      ┌─────────────────────┐                  │
+│ │ HOUSELESS/ROOFLESS  │      │ STREET VENDORS      │                  │
+│ │ (pavement dwellers, │      │ (informal, unlicensed,                 │
+│ │  no shelter)        │      │  periodic eviction)  │                  │
+│ │         |           │      │         |           │                  │
+│ │         v           │      │         v           │                  │
+│ │ DAY-NULM SUH        │      │ PM SVANidhi (2020)  │                  │
+│ │ (Shelter for Urban  │      │ (collateral-free    │                  │
+│ │  Homeless)          │      │  micro-loan, digital │                  │
+│ │                     │      │  incentive)         │                  │
+│ └─────────────────────┘      └─────────────────────┘                  │
+│         |                              |                              │
+│         +──────────────+───────────────+                              │
+│                        |                                              │
+│                        v                                              │
+│                MIGRANT WORKERS                                        │
+│         (seasonal/circular, inter-state)                              │
+│         - applicable migrant-law route (OSHWC status / 1979 Act)       │
+│         - ONORC portability (ration entitlement)                      │
+│         - housing-livelihood intersection                             │
+│                        |                                              │
+│                        v                                              │
+│         PYQ ANCHORS (GS-I cross-paper)                                │
+│         2024: Why large cities attract more migrants than towns       │
+│         2025: Smart city and urban poverty/distributive justice       │
+└───────────────────────────────────────────────────────────────────────┘
+
+SLUM TYPOLOGY (housing-insecurity spectrum):
+  Houseless/roofless -> Inadequate housing -> Slum dwelling
+  (no roof)           (kutcha, unsafe,       (informal settlement,
+                       overcrowded)          tenure insecurity)
+```
+
+**Core proposition:** ✅ Urban poverty manifests as a housing-livelihood-portability
+nexus: homeless and slum-dwelling populations lack secure shelter; street vendors and
+migrant workers face livelihood precarity; and migrant workers additionally face
+entitlement-portability barriers — DAY-NULM (SUH), the Street Vendors Act/PM SVANidhi
+combination and ONORC address these distinct but intersecting vulnerabilities.
+
+#### 2. Essential definitions
+
+| Concept | Exam-ready meaning |
+|---|---|
+| ✅ **DAY-NULM** | Deendayal Antyodaya Yojana - National Urban Livelihoods Mission (MoHUA); provides livelihood support (self-employment, skill training, SHG-based urban livelihood) and the Shelter for Urban Homeless (SUH) component for urban poor. |
+| ✅ **Shelter for Urban Homeless (SUH)** | DAY-NULM component providing permanent all-weather shelters with 24x7 access, bedding, water/sanitation and referral linkages to health/skill/livelihood services for the urban homeless population. |
+| ✅ **PM SVANidhi (2020)** | PM Street Vendor's AtmaNirbhar Nidhi — launched during COVID-19 recovery; provides collateral-free working-capital micro-loans to street vendors in escalating tranches (initial loan, higher-value renewal contingent on timely repayment), with interest subsidy and digital-payment cashback incentive. |
+| ✅ **PMAY-U 2.0 (2024)** | Urban housing mission with Beneficiary-Led Construction, Affordable Housing in Partnership, Affordable Rental Housing and Interest Subsidy Scheme. Under ISS, eligible EWS/LIG/MIG households can receive 4% subsidy on the first ₹8 lakh of a qualifying loan, with maximum actual subsidy ₹1.80 lakh subject to conditions. Sanction is not a completed, occupied house. |
+| ✅ **ONORC** | One Nation One Ration Card — enables portability of NFSA entitlements across states using Aadhaar-seeded ration cards and ePoS machines; critical for migrant workers whose seasonal/circular migration disrupts fixed-ration-shop access. |
+| ✅ **Street Vendors Act, 2014** | The Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act recognises vending as a regulated livelihood, provides Town Vending Committees, surveys/certificates of vending, vending plans and procedural safeguards against eviction. PM SVANidhi credit does not replace these legal protections. |
+| ✅ **OSHWC Code, 2020 and migrant law status** | The Code commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979. Final Central Rules followed in May 2026; State rules and enforcement still matter because labour is concurrent. |
+| ⚠️ **Houseless vs slum-dwelling** | Houseless/roofless persons have no shelter at all (pavement dwellers); slum-dwellers have shelter but in informal settlements with tenure insecurity and inadequate services — distinct categories of housing deprivation. |
+| ⚠️ **Circular/seasonal migration** | Migration patterns where workers move repeatedly between origin (often rural) and destination (often urban) in response to seasonal labour demand — disrupts fixed-entitlement models. |
+
+#### 3. How urban-poor welfare mechanisms work
+
+1. **DAY-NULM livelihood components:** Self-Employment Programme provides interest
+   subsidy on bank loans for micro-enterprise; skill training links urban poor to
+   certified vocational courses; SHG-based urban livelihood support mirrors DAY-NRLM's
+   rural model (cross-link `Governance/basic/04` for SHG social-capital theory).
+2. **Shelter for Urban Homeless (SUH):** Urban local bodies establish and operate
+   permanent shelters; shelters provide 24x7 access, bedding, water, sanitation, health
+   referral and livelihood-linkage services. The guideline norm is one shelter per
+   100,000 urban population, but location, capacity and service linkage determine use.
+3. **PM SVANidhi (2020):** Street vendors receive an initial micro-loan (₹10,000);
+   timely repayment qualifies for a higher second tranche (₹20,000) and third tranche
+   (₹50,000); interest subsidy (7%) and digital-payment cashback incentivise formal
+   banking and digital-transaction adoption.
+4. **ONORC portability:** A migrant worker with an Aadhaar-seeded ration card can draw
+   NFSA foodgrain entitlement at any ePoS-enabled Fair Price Shop across states; this
+   addresses the portability barrier for seasonal/circular migrants.
+5. **Migrant-worker legal route:** Use the commenced OSHWC Code for registration,
+   journey allowance and equal-treatment architecture, then test applicable Central/State
+   rules and actual enforcement; cross-link `basic/15` and `Economy/basic/22`.
+
+#### 4. Institutions and tools
+
+- ✅ **DAY-NULM (MoHUA):** Central scheme; implemented by states/UTs through State Urban
+  Livelihoods Missions; covers livelihood, shelter and social-mobilisation components.
+- ✅ **PM SVANidhi (MoHUA, 2020):** Micro-credit scheme for street vendors; administered
+  through banks and lending institutions; digital-payment cashback via UPI incentives.
+- ✅ **Street Vendors Act, 2014:** Town Vending Committees, survey/certificate and vending-
+  plan framework; the legal right/regulated-livelihood issue is distinct from PM SVANidhi
+  credit.
+- ✅ **ONORC (cross-link `basic/02`):** Portability mechanism under NFSA; depends on
+  Aadhaar-seeding and ePoS infrastructure; full national rollout achieved.
+- ✅ **OSHWC Code, 2020:** commenced migrant-worker framework; the 1979 Act was repealed.
+  State-rule and implementation variation remains relevant.
+- ⚠️ Cross-link `Governance/basic/04_NGOs-SHGs-and-Civil-Society-Stakeholders.md` —
+  SHG-based livelihood and social-capital concepts applicable to DAY-NULM's urban SHGs.
+
+#### 5. Indian applications and examples — PYQ-anchored
+
+##### 2024 GS-I PYQ (10 marks, 150 words)
+**Question:** "Why do large cities tend to attract more migrants than smaller towns?
+Discuss in the light of conditions in developing countries."
+
+- ⚠️ **Push factors (rural origin):** Agricultural underemployment, distress (drought,
+  debt), limited non-farm opportunity push workers toward urban centres.
+- ⚠️ **Pull factors (large cities):** Agglomeration economies (industry clusters, service
+  hubs) concentrate jobs; informal-sector job availability (construction, domestic work,
+  street vending) is higher in metros than in small towns; better public services
+  (health, education) and infrastructure attract migrants.
+- ⚠️ **Developing-country specificity:** Large cities offer wage premiums despite
+  informal housing; social networks of earlier migrants lower entry barriers; smaller
+  towns lack the economic density to absorb surplus labour.
+- ⚠️ **Implication for policy:** Migrant welfare (ONORC portability, SUH shelters,
+  PM SVANidhi) must be concentrated in large-city ULBs; decentralised industrialisation
+  could spread opportunity but requires investment beyond metros.
+
+##### 2025 GS-I PYQ (150 words)
+**Question:** "How does smart city in India address the issues of urban poverty and
+distributive justice?"
+
+- ⚠️ **Smart Cities Mission model:** Special Purpose Vehicle (SPV)-based area
+  development; emphasis on ICT-enabled infrastructure, mobility, sanitation, e-governance.
+- ⚠️ **Critique — distributive-justice gap:** Mission selects limited "smart" zones
+  within cities; benefits (upgraded infrastructure, digital services) may accrue to
+  already-served areas rather than slums or peripheral informal settlements; area-based
+  development can exclude the poorest unless explicitly inclusive.
+- ⚠️ **Counter-argument — pan-city component:** Some smart-city projects include pan-city
+  transport, water and waste-management improvements benefiting wider populations; digital
+  platforms can improve service access for street vendors (PM SVANidhi linkage) and
+  homeless (shelter-locator apps).
+- ⚠️ **Assessment:** Smart Cities Mission has been critiqued for prioritising showcase
+  infrastructure over inclusive service access; distributive justice requires explicit
+  targeting of slums, homeless shelters and migrant-worker services within smart-city
+  plans.
+
+- ✅ **Scale anchor:** Census 2011 counted about 65.5 million people in slums, around
+  17.4% of the urban population. It does not include every informal renter, homeless
+  person or unnotified settlement.
+- ⚠️ **Housing evaluation:** PMAY-U 2.0 covers ownership, partnership, rental and credit,
+  but land, beneficiary contribution, tenure documents, location and occupancy determine
+  whether a sanctioned unit reduces deprivation.
+
+#### 6. Must-Know Facts for Prelims
+
+- ✅ DAY-NULM is implemented by the Ministry of Housing and Urban Affairs; its Shelter
+  for Urban Homeless (SUH) component provides permanent all-weather shelters.
+- ✅ PM SVANidhi was launched in 2020; it provides collateral-free micro-loans to street
+  vendors with an interest subsidy and digital-payment cashback.
+- ✅ ONORC enables NFSA entitlement portability across states using Aadhaar-seeded ration
+  cards and ePoS machines.
+- ✅ The OSHWC Code commenced on 21 November 2025 and repealed the 1979 Act; distinguish
+  central legal commencement from State-rule and enforcement completeness.
+
+#### 7. UPSC traps
+
+- ❌ DAY-NULM is a rural scheme. -> DAY-NULM is the urban livelihoods mission (MoHUA);
+  DAY-NRLM is the rural counterpart (MoRD).
+- ❌ PM SVANidhi provides grant assistance. -> PM SVANidhi provides micro-loans
+  (collateral-free, with interest subsidy), not grants.
+- ❌ PM SVANidhi itself gives a vendor a legal vending right. -> Credit is separate from
+  the Street Vendors Act's Town Vending Committee, survey/certificate and vending-plan
+  protections.
+- ❌ ONORC is a new scheme separate from NFSA. -> ONORC is a portability mechanism within
+  the existing NFSA framework, not a separate entitlement.
+- ❌ Smart Cities Mission directly targets urban poverty alleviation. -> The Mission's
+  primary focus is ICT-enabled urban infrastructure; distributive-justice outcomes depend
+  on whether slum/homeless/migrant needs are explicitly included.
+
+#### 8. 📰 Current anchor
+
+- 📰 **Status check (21 July 2026):** PM SVANidhi disbursement and SUH shelter counts are
+  dynamic dashboard outputs. Pair the commenced OSHWC migrant architecture with ONORC
+  and applicable Central/State rules and enforcement.
+- ✅ 2024 GS-I PYQ and 2025 GS-I PYQ (cited above) provide direct exam anchors for
+  migration and smart-city-urban-poverty questions.
+
+#### 9. PYQ application
+
+- ✅ 2024 GS-I (migration to large cities): use push-pull framework + agglomeration +
+  informal-sector job availability; connect to ONORC portability and SUH shelter policy.
+- ✅ 2025 GS-I (smart city and urban poverty): critically assess SPV-based area
+  development vs inclusive service access; take a reasoned ⚠️ position on distributive-
+  justice gaps.
+
+#### 10. Mains angles
+
+- ⚠️ Frame urban poverty as a housing-livelihood-portability nexus — answers should
+  address all three, not just one dimension.
+- ⚠️ Use the 2024 and 2025 GS-I PYQs as cross-paper anchors; GS-II answers on urban-poor
+  welfare should reference migration dynamics and smart-city critique.
+- ⚠️ Distinguish houseless (no roof) from slum-dwelling (informal settlement, tenure
+  insecurity) — different policy responses required.
+
+> **Answer thesis:** Urban poverty is a housing-livelihood-portability nexus requiring
+> shelters for the homeless (DAY-NULM SUH), micro-credit for street vendors (PM SVANidhi)
+> and entitlement portability for migrants (ONORC) — while large-city-centric migration
+> and smart-city infrastructure must be assessed for their distributive-justice reach.
+
+#### 11. Probable questions
+
+- ⚠️ **Prelims:** Which scheme provides collateral-free micro-loans to street vendors
+  with a digital-payment cashback incentive?
+- ⚠️ **Mains (10 marks):** Why do large cities tend to attract more migrants than smaller
+  towns? Discuss in the light of conditions in developing countries. *(2024 GS-I PYQ)*
+- ⚠️ **Mains (10 marks):** How does smart city in India address the issues of urban
+  poverty and distributive justice? *(2025 GS-I PYQ)*
+- ⚠️ **Mains (15 marks):** Examine the welfare architecture for urban homeless and
+  migrant workers in India with reference to DAY-NULM and ONORC.
+
+#### 11A. Answer architecture (10/15/20-mark support)
+
+**10 marks:** distinguish homelessness, slums, vending and circular migration; one legal
+and two delivery anchors. **15 marks:** tenure, livelihoods, portable food/social
+security, labour protection, shelter and governance. **20 marks:** origin distress,
+intermediation, rental housing, segregation, gender/child risk, fiscal federalism and
+migrant voice; qualify authentication/document exclusion.
+
+> **Reasoned verdict:** Urban inclusion needs portable person-based entitlements and
+> place-based housing, services and livelihood rights.
+
+#### 12. Study links
+
+- ✅ Advanced companion: `advanced/16_Urban-Poor-Homeless-and-Migrant-Workers.md`.
+- ✅ `basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md` — ONORC portability, NFSA
+  entitlement framework.
+- ✅ `basic/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md` — labour-code
+  status ladder, e-Shram and social-security access.
+- ✅ `Governance/basic/04_NGOs-SHGs-and-Civil-Society-Stakeholders.md` — SHG social-
+  capital concept applicable to DAY-NULM urban SHGs.
+
+#### CLOSING RECALL FLOW — CORE SYNTHESIS — WHO PAYS, WHO IMPLEMENTS AND WHAT IS NOT CLAIMED
+
+```text
+START / CONCEPT: CORE SYNTHESIS — Who pays, who implements and what is not claimed
+        |
+        v
+EXACT TERMS: CORE SYNTHESIS · Who pays · who implements · what is not claimed · Evidence chain · Qualified use
+        |
+        v
+MECHANISM / ARGUMENT: Prelims: Retain the exact statute, section, article, ministry, official category, survey round or dated edition attached to Who pays, who implements and what is not claimed, and never upgrade a policy document into a statute or a targeted scheme into a universal entitlement.
+        |
+        v
+CONSEQUENCE / CONTRAST: The guideline norm is one shelter per 100,000 urban population, but location, capacity and service linkage determine use.
+        |
+        v
+UPSC TRAP / ANSWER-USE: ⚠️ Push factors (rural origin): Agricultural underemployment, distress (drought, debt), limited non-farm opportunity push workers toward urban centres. ⚠️ Pull factors (large cities): Agglomeration economies (industry clusters, service hubs) concentrate jobs; informal-sector job availability (construction, domestic work, street vending) is higher in metros than in small towns; better public services (health, education) and infrastructure attract migrants. ⚠️ Developing-country specificity: Large cities offer wage premiums despite informal housing; social networks of earlier migrants lower entry barriers; smaller towns lack the economic density to absorb surplus labour. ⚠️ Implication for policy: Migrant welfare (ONORC portability, SUH shelters, PM SVANidhi) must be concentrated in large-city ULBs; decentralised industrialisation could spread opportunity but requires investment beyond metros.
+        |
+        v
+ANSWER-GRABBING FORMULATION: Evidence chain: Who pays and who implements the urban mission - What this owner does not claim and what it recommends instead Qualified use: Close with a graded verdict, a named institutional correction and an explicit ownership statement.
+```
+### SOCIAL JUSTICE DEEP-REVIEW CORE CONTROL
+
+- **Must remember:** Urban poverty is shaped by insecure work, rent and land markets, service deficits, documentation, mobility and disaster or health shocks; homeless persons and migrant workers have distinct housing, shelter, portability and labour-protection needs.
+- **Close distinction:** Urban poor is not synonymous with slum resident, migrant is not necessarily homeless, domicile is not citizenship, shelter occupancy is not housing security, portability is not universal eligibility, and city averages conceal intra-urban deprivation.
+- **Authority / evidence / implementation limit:** Use urban livelihoods, shelters, PMAY-U and ONORC/e-Shram portability with programme-specific status; map origin-destination governments, ULBs, employers, landlords, frontline workers and migrants through documents, access, grievance, social audit and outcomes.
+
+## BASIC MCQS / REMEDIATION
+
+### Q1. Which statement correctly identifies What this owner holds and where its cross-paper questions actually belong?
+
+A. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+B. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+C. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+D. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+
+**Answer: A.**
+**Explanation:** This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q2. Which chronology card should be filed under What this owner holds and where its cross-paper questions actually belong?
+
+A. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+B. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+C. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+D. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+
+**Answer: B.**
+**Explanation:** This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q3. Which option preserves the source-bounded meaning of What this owner holds and where its cross-paper questions actually belong?
+
+A. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+B. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+C. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+D. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+**Answer: C.**
+**Explanation:** This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q4. Which statement avoids a close-option trap about What this owner holds and where its cross-paper questions actually belong?
+
+A. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+B. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+C. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+D. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+**Answer: D.**
+**Explanation:** This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q5. Which statement correctly identifies The housing-livelihood-portability nexus as the organising claim?
+
+A. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+B. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+C. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+D. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+**Answer: A.**
+**Explanation:** The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q6. Which chronology card should be filed under The housing-livelihood-portability nexus as the organising claim?
+
+A. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+B. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+C. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+D. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+**Answer: B.**
+**Explanation:** The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q7. Which option preserves the source-bounded meaning of The housing-livelihood-portability nexus as the organising claim?
+
+A. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+B. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+C. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+D. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+**Answer: C.**
+**Explanation:** The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q8. Which statement avoids a close-option trap about The housing-livelihood-portability nexus as the organising claim?
+
+A. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+B. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+C. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+D. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+
+**Answer: D.**
+**Explanation:** The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q9. Which statement correctly identifies The housing-deprivation spectrum and why the categories differ?
+
+A. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+B. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+C. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+D. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+**Answer: A.**
+**Explanation:** The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q10. Which chronology card should be filed under The housing-deprivation spectrum and why the categories differ?
+
+A. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+B. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+C. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+D. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+
+**Answer: B.**
+**Explanation:** The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q11. Which option preserves the source-bounded meaning of The housing-deprivation spectrum and why the categories differ?
+
+A. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+B. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+C. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+D. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+
+**Answer: C.**
+**Explanation:** The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q12. Which statement avoids a close-option trap about The housing-deprivation spectrum and why the categories differ?
+
+A. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+B. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+C. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+D. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+
+**Answer: D.**
+**Explanation:** The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q13. Which statement correctly identifies The urban livelihoods mission and its livelihood components?
+
+A. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+B. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+C. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+D. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+**Answer: A.**
+**Explanation:** The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q14. Which chronology card should be filed under The urban livelihoods mission and its livelihood components?
+
+A. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+B. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+C. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+D. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+
+**Answer: B.**
+**Explanation:** The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q15. Which option preserves the source-bounded meaning of The urban livelihoods mission and its livelihood components?
+
+A. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+B. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+C. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+D. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+
+**Answer: C.**
+**Explanation:** The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q16. Which statement avoids a close-option trap about The urban livelihoods mission and its livelihood components?
+
+A. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+B. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+C. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+D. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+
+**Answer: D.**
+**Explanation:** The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q17. Which statement correctly identifies The shelter component and the norm that governs it?
+
+A. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+B. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+C. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+D. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+
+**Answer: A.**
+**Explanation:** The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q18. Which chronology card should be filed under The shelter component and the norm that governs it?
+
+A. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+B. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+C. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+D. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+
+**Answer: B.**
+**Explanation:** The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q19. Which option preserves the source-bounded meaning of The shelter component and the norm that governs it?
+
+A. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+B. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+C. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+D. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+
+**Answer: C.**
+**Explanation:** The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q20. Which statement avoids a close-option trap about The shelter component and the norm that governs it?
+
+A. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+B. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+C. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+D. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+
+**Answer: D.**
+**Explanation:** The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q21. Which statement correctly identifies Why shelter coverage fails even where the scheme exists?
+
+A. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+B. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+C. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+D. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+
+**Answer: A.**
+**Explanation:** The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q22. Which chronology card should be filed under Why shelter coverage fails even where the scheme exists?
+
+A. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+B. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+C. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+D. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+
+**Answer: B.**
+**Explanation:** The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q23. Which option preserves the source-bounded meaning of Why shelter coverage fails even where the scheme exists?
+
+A. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+B. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+C. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+D. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+
+**Answer: C.**
+**Explanation:** The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q24. Which statement avoids a close-option trap about Why shelter coverage fails even where the scheme exists?
+
+A. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+D. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+
+**Answer: D.**
+**Explanation:** The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q25. Which statement correctly identifies The street-vendor credit scheme and what it is not?
+
+A. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+B. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+C. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+D. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+
+**Answer: A.**
+**Explanation:** The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q26. Which chronology card should be filed under The street-vendor credit scheme and what it is not?
+
+A. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+B. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+C. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+D. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+
+**Answer: B.**
+**Explanation:** The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q27. Which option preserves the source-bounded meaning of The street-vendor credit scheme and what it is not?
+
+A. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+D. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+
+**Answer: C.**
+**Explanation:** The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q28. Which statement avoids a close-option trap about The street-vendor credit scheme and what it is not?
+
+A. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+D. The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+
+**Answer: D.**
+**Explanation:** The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q29. Which statement correctly identifies The street-vending statute and the rights it actually creates?
+
+A. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+B. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+C. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+D. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+
+**Answer: A.**
+**Explanation:** The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q30. Which chronology card should be filed under The street-vending statute and the rights it actually creates?
+
+A. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+B. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+C. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+D. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+
+**Answer: B.**
+**Explanation:** The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q31. Which option preserves the source-bounded meaning of The street-vending statute and the rights it actually creates?
+
+A. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+B. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+C. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+D. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+
+**Answer: C.**
+**Explanation:** The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q32. Which statement avoids a close-option trap about The street-vending statute and the rights it actually creates?
+
+A. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+B. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+C. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+D. The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+
+**Answer: D.**
+**Explanation:** The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q33. Which statement correctly identifies The official condition attached to the vendor credit scheme?
+
+A. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+D. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+
+**Answer: A.**
+**Explanation:** The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q34. Which chronology card should be filed under The official condition attached to the vendor credit scheme?
+
+A. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+B. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+C. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+D. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+**Answer: B.**
+**Explanation:** The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q35. Which option preserves the source-bounded meaning of The official condition attached to the vendor credit scheme?
+
+A. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+D. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+**Answer: C.**
+**Explanation:** The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q36. Which statement avoids a close-option trap about The official condition attached to the vendor credit scheme?
+
+A. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+B. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+C. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+D. The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+
+**Answer: D.**
+**Explanation:** The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q37. Which statement correctly identifies The urban housing mission and the difference between sanction and shelter?
+
+A. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+D. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+**Answer: A.**
+**Explanation:** The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q38. Which chronology card should be filed under The urban housing mission and the difference between sanction and shelter?
+
+A. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+B. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+C. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+D. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+
+**Answer: B.**
+**Explanation:** The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q39. Which option preserves the source-bounded meaning of The urban housing mission and the difference between sanction and shelter?
+
+A. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+B. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+C. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+D. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+**Answer: C.**
+**Explanation:** The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q40. Which statement avoids a close-option trap about The urban housing mission and the difference between sanction and shelter?
+
+A. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+B. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+C. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+D. The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+
+**Answer: D.**
+**Explanation:** The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q41. Which statement correctly identifies Ration portability and what it is built on?
+
+A. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+D. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+**Answer: A.**
+**Explanation:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q42. Which chronology card should be filed under Ration portability and what it is built on?
+
+A. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+B. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+C. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+D. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+**Answer: B.**
+**Explanation:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q43. Which option preserves the source-bounded meaning of Ration portability and what it is built on?
+
+A. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+B. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+C. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+D. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+**Answer: C.**
+**Explanation:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q44. Which statement avoids a close-option trap about Ration portability and what it is built on?
+
+A. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+B. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+C. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+D. The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+
+**Answer: D.**
+**Explanation:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q45. Which statement correctly identifies The migrant-worker legal route as it now stands?
+
+A. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+B. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+C. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+D. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+**Answer: A.**
+**Explanation:** The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q46. Which chronology card should be filed under The migrant-worker legal route as it now stands?
+
+A. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+B. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+C. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+D. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+
+**Answer: B.**
+**Explanation:** The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q47. Which option preserves the source-bounded meaning of The migrant-worker legal route as it now stands?
+
+A. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+B. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+C. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+D. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+
+**Answer: C.**
+**Explanation:** The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q48. Which statement avoids a close-option trap about The migrant-worker legal route as it now stands?
+
+A. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+B. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+C. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+D. The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+
+**Answer: D.**
+**Explanation:** The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q49. Which statement correctly identifies Why portability fails at the counter?
+
+A. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+B. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+C. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+D. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+
+**Answer: A.**
+**Explanation:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q50. Which chronology card should be filed under Why portability fails at the counter?
+
+A. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+B. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+C. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+D. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+**Answer: B.**
+**Explanation:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q51. Which option preserves the source-bounded meaning of Why portability fails at the counter?
+
+A. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+B. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+C. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+D. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+
+**Answer: C.**
+**Explanation:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q52. Which statement avoids a close-option trap about Why portability fails at the counter?
+
+A. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+B. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+C. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+D. The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+
+**Answer: D.**
+**Explanation:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q53. Which statement correctly identifies The slum scale anchor and its exclusions?
+
+A. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+B. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+C. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+D. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+**Answer: A.**
+**Explanation:** The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q54. Which chronology card should be filed under The slum scale anchor and its exclusions?
+
+A. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+B. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+C. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+D. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+
+**Answer: B.**
+**Explanation:** The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q55. Which option preserves the source-bounded meaning of The slum scale anchor and its exclusions?
+
+A. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+B. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+C. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+D. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+
+**Answer: C.**
+**Explanation:** The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q56. Which statement avoids a close-option trap about The slum scale anchor and its exclusions?
+
+A. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+B. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+C. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+D. The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+
+**Answer: D.**
+**Explanation:** The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q57. Which statement correctly identifies Circular migration and why fixed-entitlement design fails it?
+
+A. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+B. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+C. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+D. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+
+**Answer: A.**
+**Explanation:** The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q58. Which chronology card should be filed under Circular migration and why fixed-entitlement design fails it?
+
+A. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+B. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+C. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+D. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+
+**Answer: B.**
+**Explanation:** The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q59. Which option preserves the source-bounded meaning of Circular migration and why fixed-entitlement design fails it?
+
+A. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+B. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+C. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+D. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+**Answer: C.**
+**Explanation:** The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q60. Which statement avoids a close-option trap about Circular migration and why fixed-entitlement design fails it?
+
+A. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+B. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+C. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+D. The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+
+**Answer: D.**
+**Explanation:** The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q61. Which statement correctly identifies Why large cities pull migrants more strongly than small towns?
+
+A. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+B. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+C. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+D. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+
+**Answer: A.**
+**Explanation:** The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q62. Which chronology card should be filed under Why large cities pull migrants more strongly than small towns?
+
+A. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+B. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+C. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+D. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+**Answer: B.**
+**Explanation:** The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q63. Which option preserves the source-bounded meaning of Why large cities pull migrants more strongly than small towns?
+
+A. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+B. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+C. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+D. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+**Answer: C.**
+**Explanation:** The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q64. Which statement avoids a close-option trap about Why large cities pull migrants more strongly than small towns?
+
+A. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+B. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+C. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+D. The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+
+**Answer: D.**
+**Explanation:** The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q65. Which statement correctly identifies The smart-city model and the distributive-justice critique?
+
+A. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+B. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+C. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+D. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+**Answer: A.**
+**Explanation:** The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q66. Which chronology card should be filed under The smart-city model and the distributive-justice critique?
+
+A. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+B. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+C. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+D. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+**Answer: B.**
+**Explanation:** The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q67. Which option preserves the source-bounded meaning of The smart-city model and the distributive-justice critique?
+
+A. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+B. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+C. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+D. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+**Answer: C.**
+**Explanation:** The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q68. Which statement avoids a close-option trap about The smart-city model and the distributive-justice critique?
+
+A. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+B. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+C. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+D. The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+
+**Answer: D.**
+**Explanation:** The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q69. Which statement correctly identifies Upgrading against resettlement and tenure against title?
+
+A. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+B. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+C. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+D. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+
+**Answer: A.**
+**Explanation:** The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q70. Which chronology card should be filed under Upgrading against resettlement and tenure against title?
+
+A. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+B. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+C. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+D. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+
+**Answer: B.**
+**Explanation:** The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q71. Which option preserves the source-bounded meaning of Upgrading against resettlement and tenure against title?
+
+A. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+B. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+C. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+D. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+**Answer: C.**
+**Explanation:** The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q72. Which statement avoids a close-option trap about Upgrading against resettlement and tenure against title?
+
+A. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+B. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+C. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+D. The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+
+**Answer: D.**
+**Explanation:** The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q73. Which statement correctly identifies Who pays and who implements the urban mission?
+
+A. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+B. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+C. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+D. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+
+**Answer: A.**
+**Explanation:** The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q74. Which chronology card should be filed under Who pays and who implements the urban mission?
+
+A. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+B. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+C. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+D. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+
+**Answer: B.**
+**Explanation:** The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q75. Which option preserves the source-bounded meaning of Who pays and who implements the urban mission?
+
+A. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+B. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+C. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+D. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+
+**Answer: C.**
+**Explanation:** The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q76. Which statement avoids a close-option trap about Who pays and who implements the urban mission?
+
+A. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+B. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+C. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+D. The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+
+**Answer: D.**
+**Explanation:** The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q77. Which statement correctly identifies What this owner does not claim and what it recommends instead?
+
+A. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+B. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+C. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+D. This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+
+**Answer: A.**
+**Explanation:** The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q78. Which chronology card should be filed under What this owner does not claim and what it recommends instead?
+
+A. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+B. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+C. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+D. The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+
+**Answer: B.**
+**Explanation:** The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q79. Which option preserves the source-bounded meaning of What this owner does not claim and what it recommends instead?
+
+A. The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+B. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+C. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+D. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+
+**Answer: C.**
+**Explanation:** The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval. The remaining options belong to different chronology, actor or analytical categories.
+
+### Q80. Which statement avoids a close-option trap about What this owner does not claim and what it recommends instead?
+
+A. The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+B. The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+C. The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+D. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+**Answer: D.**
+**Explanation:** The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval. The remaining options belong to different chronology, actor or analytical categories.
+
+## PYQS AND ANSWER PRACTICE
+
+### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
+
+This owner's previous-year record is a transparent zero, and it is stated precisely rather than softened, because the questions the owners themselves reproduce belong to other owners. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns, with the directive Discuss, ten marks and one hundred and fifty words, to the Geography migration-theories-and-patterns owner; it routes the 2025 General Studies Paper I question numbered 8 on smart cities addressing urban poverty and distributive justice, with the directive Discuss, ten marks and one hundred and fifty words, to the Indian Society urbanisation owner; and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner. The audited General Studies Paper III and Paper IV ledgers route the case studies involving migrant workers during the pandemic lockdown and the confidential report on migrant infiltration to the Ethics case-study and public-service-values owners. The audited 2018-2023 and 2024-2025 Mains routing ledgers therefore route no General Studies question to this owner, and the audited 2018-2023, 2024-2025 and 2026 Prelims routing ledgers route no objective question to it. This package accordingly claims no previous-year ownership, solves no demand card and asserts no year, paper, question number, directive, mark value or word limit as its own, while continuing to teach the migration and smart-city analysis that the repository owners carry as cross-paper anchors. In place of a claimed demand, the package supplies six original Mains questions with model solutions and eighty original objective questions on a strict A → B → C → D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that the reproduced wording matches the printed questions routed elsewhere; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
+**Demand decoding:** The directive **answer** requires a direct position on “TRANSPARENT ZERO-DIRECT-PYQ AUDIT”, every clause, constitutional/statutory/policy distinction, rights-holder and institution map, eligibility/exclusion and delivery chain, intersectional and regional variation, named Indian evidence, accountability and qualified conclusion.
+
+**Detailed examiner-grade model answer:**
+
+**Introduction and thesis:** The answer must resolve the Social Justice demand in “TRANSPARENT ZERO-DIRECT-PYQ AUDIT”.
+
+**Analytical body:**
+
+1. **Claim and named evidence:** Define the vulnerable group, deprivation, right or policy concept and distinguish the nearest legal and measured category. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+2. **Claim and named evidence:** Identify the constitutional, statutory, judicial or executive basis and the competent Union, state or local institution. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+3. **Claim and named evidence:** Map rights-holder, household/community context, duty-bearer, frontline worker, provider and accountability forum. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+4. **Claim and named evidence:** Trace identification, eligibility, documentation, finance, access, portability, grievance, appeal and correction. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+5. **Claim and named evidence:** Use a named Indian law, judgment, scheme, institution or official dataset with source, date, denominator and status. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+6. **Claim and named evidence:** Test intersectionality, regional variation, stigma, accessibility, privacy, fiscal adequacy, exclusion and causal limits. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+
+**Counter-position / limit:** A constitutional promise, prohibition, reservation provision, scheme catalogue, allocation, registration count or headline statistic cannot alone establish accessible implementation, adequate benefit, dignity, remedy or attributable outcome; test eligibility, institutions, frontline capacity, intersectionality, regional variation, grievance and evidence status.
+
+**Qualified conclusion:** The answer must resolve the Social Justice demand in “TRANSPARENT ZERO-DIRECT-PYQ AUDIT”.
+
+**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing right/need → institution → eligibility → delivery → outcome → remedy; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for dignity, accessibility, portability, grievance, denominator, fiscal and causal limits.
+
+**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses named India-centric evidence and preserves legal, institutional, group, eligibility, implementation, fiscal, data and outcome distinctions.
+
+**How to improve this answer:** For “TRANSPARENT ZERO-DIRECT-PYQ AUDIT”, replace the weakest scheme-catalogue point with one named rights-holder, duty-bearer, eligibility bottleneck, safeguard, grievance route, process/outcome indicator and source-status qualification.
+
+### OWNER PYQ LEDGER EXTRACTS
+
+#### 5. Indian applications and examples — PYQ-anchored
+
+##### 2024 GS-I PYQ (10 marks, 150 words)
+**Question:** "Why do large cities tend to attract more migrants than smaller towns?
+Discuss in the light of conditions in developing countries."
+
+- ⚠️ **Push factors (rural origin):** Agricultural underemployment, distress (drought,
+  debt), limited non-farm opportunity push workers toward urban centres.
+- ⚠️ **Pull factors (large cities):** Agglomeration economies (industry clusters, service
+  hubs) concentrate jobs; informal-sector job availability (construction, domestic work,
+  street vending) is higher in metros than in small towns; better public services
+  (health, education) and infrastructure attract migrants.
+- ⚠️ **Developing-country specificity:** Large cities offer wage premiums despite
+  informal housing; social networks of earlier migrants lower entry barriers; smaller
+  towns lack the economic density to absorb surplus labour.
+- ⚠️ **Implication for policy:** Migrant welfare (ONORC portability, SUH shelters,
+  PM SVANidhi) must be concentrated in large-city ULBs; decentralised industrialisation
+  could spread opportunity but requires investment beyond metros.
+
+##### 2025 GS-I PYQ (150 words)
+**Question:** "How does smart city in India address the issues of urban poverty and
+distributive justice?"
+
+- ⚠️ **Smart Cities Mission model:** Special Purpose Vehicle (SPV)-based area
+  development; emphasis on ICT-enabled infrastructure, mobility, sanitation, e-governance.
+- ⚠️ **Critique — distributive-justice gap:** Mission selects limited "smart" zones
+  within cities; benefits (upgraded infrastructure, digital services) may accrue to
+  already-served areas rather than slums or peripheral informal settlements; area-based
+  development can exclude the poorest unless explicitly inclusive.
+- ⚠️ **Counter-argument — pan-city component:** Some smart-city projects include pan-city
+  transport, water and waste-management improvements benefiting wider populations; digital
+  platforms can improve service access for street vendors (PM SVANidhi linkage) and
+  homeless (shelter-locator apps).
+- ⚠️ **Assessment:** Smart Cities Mission has been critiqued for prioritising showcase
+  infrastructure over inclusive service access; distributive justice requires explicit
+  targeting of slums, homeless shelters and migrant-worker services within smart-city
+  plans.
+
+- ✅ **Scale anchor:** Census 2011 counted about 65.5 million people in slums, around
+  17.4% of the urban population. It does not include every informal renter, homeless
+  person or unnotified settlement.
+- ⚠️ **Housing evaluation:** PMAY-U 2.0 covers ownership, partnership, rental and credit,
+  but land, beneficiary contribution, tenure documents, location and occupancy determine
+  whether a sanctioned unit reduces deprivation.
+
+#### 9. PYQ application
+
+- ✅ 2024 GS-I (migration to large cities): use push-pull framework + agglomeration +
+  informal-sector job availability; connect to ONORC portability and SUH shelter policy.
+- ✅ 2025 GS-I (smart city and urban poverty): critically assess SPV-based area
+  development vs inclusive service access; take a reasoned ⚠️ position on distributive-
+  justice gaps.
+
+#### 10. PYQ-based analytical application
+
+##### 2024 GS-I PYQ (migration to large cities)
+- ⚠️ Answer spine: (1) Define push (rural distress, underemployment) and pull
+  (agglomeration, informal jobs, services) factors. (2) Developing-country specificity:
+  wage premium despite informal housing; migrant networks. (3) Policy implication:
+  concentrate migrant welfare (ONORC, SUH) in metros; decentralised industrialisation
+  as structural remedy.
+
+##### 2025 GS-I PYQ (smart city and distributive justice)
+- ⚠️ Answer spine: (1) Describe SPV-based area development. (2) Critique: area-based
+  selection excludes slums; showcase infrastructure priority; participation gap. (3)
+  Counter: pan-city components, digital-service access. (4) Conclude: distributive
+  justice requires explicit slum/homeless targeting within smart-city plans.
+
+### ORIGINAL MAINS 1 — 10 MARKS
+
+**Question:** Explain why urban poverty in India must be analysed as a housing, livelihood and portability nexus rather than as a housing shortage. Answer in about 150 words.
+
+**Model thesis:** Claim: the three deprivations have different units, a place, an occupation and a person in motion, so a single-instrument answer necessarily leaves two of them unaddressed. Named evidence: the spectrum from houseless and roofless persons through inadequate housing to slum dwelling with tenure insecurity; the urban livelihoods mission with its self-employment, skill-training and self-help-group components and its shelter component with round-the-clock access, bedding, water and sanitation and referral linkages; the street-vending statute of 2014 with Town Vending Committees, surveys and certificates, vending plans and eviction safeguards alongside the collateral-free credit scheme of 2020; and the ration-portability mechanism operating on the existing card with electronic point-of-sale authentication. Analysis: a shelter answers rooflessness but not tenure, a loan answers working capital but not eviction, and portability answers movement but not housing, so the instruments are complements rather than substitutes and the diagnosis must name which deprivation the question engages. Qualification: the answer should record that the categories are analytically distinct while the same household often experiences all three at once, which is precisely why convergence at the urban local body matters.
+
+**Claim → named evidence → analysis → qualification:**
+
+- The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+- The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+- The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+- The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+- The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+- The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+
+**Qualified conclusion:** Claim: the three deprivations have different units, a place, an occupation and a person in motion, so a single-instrument answer necessarily leaves two of them unaddressed. Named evidence: the spectrum from houseless and roofless persons through inadequate housing to slum dwelling with tenure insecurity; the urban livelihoods mission with its self-employment, skill-training and self-help-group components and its shelter component with round-the-clock access, bedding, water and sanitation and referral linkages; the street-vending statute of 2014 with Town Vending Committees, surveys and certificates, vending plans and eviction safeguards alongside the collateral-free credit scheme of 2020; and the ration-portability mechanism operating on the existing card with electronic point-of-sale authentication. Analysis: a shelter answers rooflessness but not tenure, a loan answers working capital but not eviction, and portability answers movement but not housing, so the instruments are complements rather than substitutes and the diagnosis must name which deprivation the question engages. Qualification: the answer should record that the categories are analytically distinct while the same household often experiences all three at once, which is precisely why convergence at the urban local body matters.
+
+**Demand decoding:** The directive **explain** requires a direct position on “Explain why urban poverty in India must be analysed as a housing, livelihood and portability…”, every clause, constitutional/statutory/policy distinction, rights-holder and institution map, eligibility/exclusion and delivery chain, intersectional and regional variation, named Indian evidence, accountability and qualified conclusion.
+
+**Detailed examiner-grade model answer:**
+
+**Introduction and thesis:** Claim: the three deprivations have different units, a place, an occupation and a person in motion, so a single-instrument answer necessarily leaves two of them unaddressed. Named evidence: the spectrum from houseless and roofless persons through inadequate housing to slum dwelling with tenure insecurity; the urban livelihoods mission with its self-employment, skill-training and self-help-group components and its shelter component with round-the-clock access, bedding, water and sanitation and referral linkages; the street-vending statute of 2014 with Town Vending Committees, surveys and certificates, vending plans and eviction safeguards alongside the collateral-free credit scheme of 2020; and the ration-portability mechanism operating on the existing card with electronic point-of-sale authentication. Analysis: a shelter answers rooflessness but not tenure, a loan answers working capital but not eviction, and portability answers movement but not housing, so the instruments are complements rather than substitutes and the diagnosis must name which deprivation the question engages. Qualification: the answer should record that the categories are analytically distinct while the same household often experiences all three at once, which is precisely why convergence at the urban local body matters.
+
+**Analytical body:**
+
+1. **Claim and named evidence:** The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+2. **Claim and named evidence:** The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+3. **Claim and named evidence:** The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+4. **Claim and named evidence:** The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+5. **Claim and named evidence:** The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+6. **Claim and named evidence:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+
+**Counter-position / limit:** A constitutional promise, prohibition, reservation provision, scheme catalogue, allocation, registration count or headline statistic cannot alone establish accessible implementation, adequate benefit, dignity, remedy or attributable outcome; test eligibility, institutions, frontline capacity, intersectionality, regional variation, grievance and evidence status.
+
+**Qualified conclusion:** Claim: the three deprivations have different units, a place, an occupation and a person in motion, so a single-instrument answer necessarily leaves two of them unaddressed. Named evidence: the spectrum from houseless and roofless persons through inadequate housing to slum dwelling with tenure insecurity; the urban livelihoods mission with its self-employment, skill-training and self-help-group components and its shelter component with round-the-clock access, bedding, water and sanitation and referral linkages; the street-vending statute of 2014 with Town Vending Committees, surveys and certificates, vending plans and eviction safeguards alongside the collateral-free credit scheme of 2020; and the ration-portability mechanism operating on the existing card with electronic point-of-sale authentication. Analysis: a shelter answers rooflessness but not tenure, a loan answers working capital but not eviction, and portability answers movement but not housing, so the instruments are complements rather than substitutes and the diagnosis must name which deprivation the question engages. Qualification: the answer should record that the categories are analytically distinct while the same household often experiences all three at once, which is precisely why convergence at the urban local body matters.
+
+**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing right/need → institution → eligibility → delivery → outcome → remedy; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for dignity, accessibility, portability, grievance, denominator, fiscal and causal limits.
+
+**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses named India-centric evidence and preserves legal, institutional, group, eligibility, implementation, fiscal, data and outcome distinctions.
+
+**How to improve this answer:** For “Explain why urban poverty in India must be analysed as a housing, livelihood and portability…”, replace the weakest scheme-catalogue point with one named rights-holder, duty-bearer, eligibility bottleneck, safeguard, grievance route, process/outcome indicator and source-status qualification.
+
+### ORIGINAL MAINS 2 — 10 MARKS
+
+**Question:** Distinguish the legal protection available to a street vendor from the credit available to one, and explain why the distinction is decisive. Answer in about 150 words.
+
+**Model thesis:** Claim: credit and legal recognition solve different problems, and the credit route is in fact conditional on the legal route having been implemented by the State. Named evidence: the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 with Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction; the credit scheme of 2020 with collateral-free tranches of ten thousand, twenty thousand and fifty thousand rupees contingent on repayment, a seven per cent interest subsidy and a digital-payment cashback, administered through banks with urban local bodies issuing certificates and letters of recommendation; and the scheme's own official portal recording that it is available only for beneficiaries in States and Union Territories that have notified rules and scheme under the 2014 Act. Analysis: a vendor evicted during a municipal clearance drive loses the livelihood that the loan was financing, so credit without vending rights transfers risk to the borrower, and the notification condition means that a State's failure to implement the statute also closes the credit route. Qualification: the answer should treat the credit scheme as a genuine liquidity instrument whose value depends on statutory implementation rather than dismissing it as irrelevant.
+
+**Claim → named evidence → analysis → qualification:**
+
+- The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+- The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+- The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+
+**Qualified conclusion:** Claim: credit and legal recognition solve different problems, and the credit route is in fact conditional on the legal route having been implemented by the State. Named evidence: the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 with Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction; the credit scheme of 2020 with collateral-free tranches of ten thousand, twenty thousand and fifty thousand rupees contingent on repayment, a seven per cent interest subsidy and a digital-payment cashback, administered through banks with urban local bodies issuing certificates and letters of recommendation; and the scheme's own official portal recording that it is available only for beneficiaries in States and Union Territories that have notified rules and scheme under the 2014 Act. Analysis: a vendor evicted during a municipal clearance drive loses the livelihood that the loan was financing, so credit without vending rights transfers risk to the borrower, and the notification condition means that a State's failure to implement the statute also closes the credit route. Qualification: the answer should treat the credit scheme as a genuine liquidity instrument whose value depends on statutory implementation rather than dismissing it as irrelevant.
+
+**Demand decoding:** The directive **explain** requires a direct position on “Distinguish the legal protection available to a street vendor from the credit available to…”, every clause, constitutional/statutory/policy distinction, rights-holder and institution map, eligibility/exclusion and delivery chain, intersectional and regional variation, named Indian evidence, accountability and qualified conclusion.
+
+**Detailed examiner-grade model answer:**
+
+**Introduction and thesis:** Claim: credit and legal recognition solve different problems, and the credit route is in fact conditional on the legal route having been implemented by the State. Named evidence: the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 with Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction; the credit scheme of 2020 with collateral-free tranches of ten thousand, twenty thousand and fifty thousand rupees contingent on repayment, a seven per cent interest subsidy and a digital-payment cashback, administered through banks with urban local bodies issuing certificates and letters of recommendation; and the scheme's own official portal recording that it is available only for beneficiaries in States and Union Territories that have notified rules and scheme under the 2014 Act. Analysis: a vendor evicted during a municipal clearance drive loses the livelihood that the loan was financing, so credit without vending rights transfers risk to the borrower, and the notification condition means that a State's failure to implement the statute also closes the credit route. Qualification: the answer should treat the credit scheme as a genuine liquidity instrument whose value depends on statutory implementation rather than dismissing it as irrelevant.
+
+**Analytical body:**
+
+1. **Claim and named evidence:** The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+2. **Claim and named evidence:** The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+3. **Claim and named evidence:** The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+
+**Counter-position / limit:** A constitutional promise, prohibition, reservation provision, scheme catalogue, allocation, registration count or headline statistic cannot alone establish accessible implementation, adequate benefit, dignity, remedy or attributable outcome; test eligibility, institutions, frontline capacity, intersectionality, regional variation, grievance and evidence status.
+
+**Qualified conclusion:** Claim: credit and legal recognition solve different problems, and the credit route is in fact conditional on the legal route having been implemented by the State. Named evidence: the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 with Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction; the credit scheme of 2020 with collateral-free tranches of ten thousand, twenty thousand and fifty thousand rupees contingent on repayment, a seven per cent interest subsidy and a digital-payment cashback, administered through banks with urban local bodies issuing certificates and letters of recommendation; and the scheme's own official portal recording that it is available only for beneficiaries in States and Union Territories that have notified rules and scheme under the 2014 Act. Analysis: a vendor evicted during a municipal clearance drive loses the livelihood that the loan was financing, so credit without vending rights transfers risk to the borrower, and the notification condition means that a State's failure to implement the statute also closes the credit route. Qualification: the answer should treat the credit scheme as a genuine liquidity instrument whose value depends on statutory implementation rather than dismissing it as irrelevant.
+
+**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing right/need → institution → eligibility → delivery → outcome → remedy; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for dignity, accessibility, portability, grievance, denominator, fiscal and causal limits.
+
+**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses named India-centric evidence and preserves legal, institutional, group, eligibility, implementation, fiscal, data and outcome distinctions.
+
+**How to improve this answer:** For “Distinguish the legal protection available to a street vendor from the credit available to…”, replace the weakest scheme-catalogue point with one named rights-holder, duty-bearer, eligibility bottleneck, safeguard, grievance route, process/outcome indicator and source-status qualification.
+
+### ORIGINAL MAINS 3 — 15 MARKS
+
+**Question:** Critically examine the implementation gaps in India's welfare architecture for the urban homeless and for migrant workers. Answer in about 250 words.
+
+**Model thesis:** Claim: the gaps are locatable rather than general, sitting in land and matching finance for shelter and in authentication and infrastructure for portability, and each requires a different corrective authority. Named evidence: the shelter component with its norm of one facility per one hundred thousand urban population; the failure chain of absent central land, unmatched allocations and State matching-share delay, and shelters lacking health, skill and livelihood linkage; the sixty to forty Centre-State cost share with ninety to ten for north-eastern and special-category States and implementation by urban local bodies under State urban livelihoods missions; the portability mechanism operating on seeded existing cards with electronic point-of-sale authentication; and its friction chain of unseeded or un-updated cards, low awareness, non-functional machines in remote destination areas and historical State resistance arising from a feared fiscal burden from inward migration. Analysis: shelter fails upstream at land and finance while portability fails downstream at the counter, so raising shelter allocation does not fix authentication and expanding machine coverage does not build shelters, and the boundary cases of an underused distant shelter and an unseeded card at a destination shop show the same scheme succeeding and failing for different reasons. Qualification: the examination should record that both instruments work where the missing input is supplied, so the finding is of specific administrative failure rather than of policy absence.
+
+**Claim → named evidence → analysis → qualification:**
+
+- The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+- The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+- The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+- The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+- The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+
+**Qualified conclusion:** Claim: the gaps are locatable rather than general, sitting in land and matching finance for shelter and in authentication and infrastructure for portability, and each requires a different corrective authority. Named evidence: the shelter component with its norm of one facility per one hundred thousand urban population; the failure chain of absent central land, unmatched allocations and State matching-share delay, and shelters lacking health, skill and livelihood linkage; the sixty to forty Centre-State cost share with ninety to ten for north-eastern and special-category States and implementation by urban local bodies under State urban livelihoods missions; the portability mechanism operating on seeded existing cards with electronic point-of-sale authentication; and its friction chain of unseeded or un-updated cards, low awareness, non-functional machines in remote destination areas and historical State resistance arising from a feared fiscal burden from inward migration. Analysis: shelter fails upstream at land and finance while portability fails downstream at the counter, so raising shelter allocation does not fix authentication and expanding machine coverage does not build shelters, and the boundary cases of an underused distant shelter and an unseeded card at a destination shop show the same scheme succeeding and failing for different reasons. Qualification: the examination should record that both instruments work where the missing input is supplied, so the finding is of specific administrative failure rather than of policy absence.
+
+**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the implementation gaps in India's welfare architecture for the urban…”, every clause, constitutional/statutory/policy distinction, rights-holder and institution map, eligibility/exclusion and delivery chain, intersectional and regional variation, named Indian evidence, accountability and qualified conclusion.
+
+**Detailed examiner-grade model answer:**
+
+**Introduction and thesis:** Claim: the gaps are locatable rather than general, sitting in land and matching finance for shelter and in authentication and infrastructure for portability, and each requires a different corrective authority. Named evidence: the shelter component with its norm of one facility per one hundred thousand urban population; the failure chain of absent central land, unmatched allocations and State matching-share delay, and shelters lacking health, skill and livelihood linkage; the sixty to forty Centre-State cost share with ninety to ten for north-eastern and special-category States and implementation by urban local bodies under State urban livelihoods missions; the portability mechanism operating on seeded existing cards with electronic point-of-sale authentication; and its friction chain of unseeded or un-updated cards, low awareness, non-functional machines in remote destination areas and historical State resistance arising from a feared fiscal burden from inward migration. Analysis: shelter fails upstream at land and finance while portability fails downstream at the counter, so raising shelter allocation does not fix authentication and expanding machine coverage does not build shelters, and the boundary cases of an underused distant shelter and an unseeded card at a destination shop show the same scheme succeeding and failing for different reasons. Qualification: the examination should record that both instruments work where the missing input is supplied, so the finding is of specific administrative failure rather than of policy absence.
+
+**Analytical body:**
+
+1. **Claim and named evidence:** The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+2. **Claim and named evidence:** The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+3. **Claim and named evidence:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+4. **Claim and named evidence:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+5. **Claim and named evidence:** The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+
+**Counter-position / limit:** A constitutional promise, prohibition, reservation provision, scheme catalogue, allocation, registration count or headline statistic cannot alone establish accessible implementation, adequate benefit, dignity, remedy or attributable outcome; test eligibility, institutions, frontline capacity, intersectionality, regional variation, grievance and evidence status.
+
+**Qualified conclusion:** Claim: the gaps are locatable rather than general, sitting in land and matching finance for shelter and in authentication and infrastructure for portability, and each requires a different corrective authority. Named evidence: the shelter component with its norm of one facility per one hundred thousand urban population; the failure chain of absent central land, unmatched allocations and State matching-share delay, and shelters lacking health, skill and livelihood linkage; the sixty to forty Centre-State cost share with ninety to ten for north-eastern and special-category States and implementation by urban local bodies under State urban livelihoods missions; the portability mechanism operating on seeded existing cards with electronic point-of-sale authentication; and its friction chain of unseeded or un-updated cards, low awareness, non-functional machines in remote destination areas and historical State resistance arising from a feared fiscal burden from inward migration. Analysis: shelter fails upstream at land and finance while portability fails downstream at the counter, so raising shelter allocation does not fix authentication and expanding machine coverage does not build shelters, and the boundary cases of an underused distant shelter and an unseeded card at a destination shop show the same scheme succeeding and failing for different reasons. Qualification: the examination should record that both instruments work where the missing input is supplied, so the finding is of specific administrative failure rather than of policy absence.
+
+**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing right/need → institution → eligibility → delivery → outcome → remedy; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for dignity, accessibility, portability, grievance, denominator, fiscal and causal limits.
+
+**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses named India-centric evidence and preserves legal, institutional, group, eligibility, implementation, fiscal, data and outcome distinctions.
+
+**How to improve this answer:** For “Critically examine the implementation gaps in India's welfare architecture for the urban…”, replace the weakest scheme-catalogue point with one named rights-holder, duty-bearer, eligibility bottleneck, safeguard, grievance route, process/outcome indicator and source-status qualification.
+
+### ORIGINAL MAINS 4 — 15 MARKS
+
+**Question:** Assess how far the smart-cities approach addresses urban poverty and distributive justice. Answer in about 250 words.
+
+**Model thesis:** Claim: the approach improves urban infrastructure quality while leaving distributive outcomes to a selection rule that systematically disadvantages the poorest, so its record on distributive justice depends on screening that is not built into the model. Named evidence: the special-purpose-vehicle-based area development model emphasising technology-enabled infrastructure, mobility, sanitation and electronic governance; the critique that area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations, that investment flows to showcase projects rather than basic services, and that slum and homeless populations have limited voice in the vehicle's decisions; the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access including for street vendors and shelter users; and the recommended integration of investment appraisal with slum mapping and shelter inventory. Analysis: the model concentrates capital where returns are visible and measurable, which is efficient for infrastructure and regressive for deprivation, so the corrective is a screening requirement at project approval rather than an additional scheme. Qualification: the assessment should record that pan-city components genuinely broaden benefit and should avoid asserting any project, expenditure or coverage figure, since the owners supply none.
+
+**Claim → named evidence → analysis → qualification:**
+
+- The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+- The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+- The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+- The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+
+**Qualified conclusion:** Claim: the approach improves urban infrastructure quality while leaving distributive outcomes to a selection rule that systematically disadvantages the poorest, so its record on distributive justice depends on screening that is not built into the model. Named evidence: the special-purpose-vehicle-based area development model emphasising technology-enabled infrastructure, mobility, sanitation and electronic governance; the critique that area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations, that investment flows to showcase projects rather than basic services, and that slum and homeless populations have limited voice in the vehicle's decisions; the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access including for street vendors and shelter users; and the recommended integration of investment appraisal with slum mapping and shelter inventory. Analysis: the model concentrates capital where returns are visible and measurable, which is efficient for infrastructure and regressive for deprivation, so the corrective is a screening requirement at project approval rather than an additional scheme. Qualification: the assessment should record that pan-city components genuinely broaden benefit and should avoid asserting any project, expenditure or coverage figure, since the owners supply none.
+
+**Demand decoding:** The directive **assess** requires a direct position on “Assess how far the smart-cities approach addresses urban poverty and distributive justice.…”, every clause, constitutional/statutory/policy distinction, rights-holder and institution map, eligibility/exclusion and delivery chain, intersectional and regional variation, named Indian evidence, accountability and qualified conclusion.
+
+**Detailed examiner-grade model answer:**
+
+**Introduction and thesis:** Claim: the approach improves urban infrastructure quality while leaving distributive outcomes to a selection rule that systematically disadvantages the poorest, so its record on distributive justice depends on screening that is not built into the model. Named evidence: the special-purpose-vehicle-based area development model emphasising technology-enabled infrastructure, mobility, sanitation and electronic governance; the critique that area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations, that investment flows to showcase projects rather than basic services, and that slum and homeless populations have limited voice in the vehicle's decisions; the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access including for street vendors and shelter users; and the recommended integration of investment appraisal with slum mapping and shelter inventory. Analysis: the model concentrates capital where returns are visible and measurable, which is efficient for infrastructure and regressive for deprivation, so the corrective is a screening requirement at project approval rather than an additional scheme. Qualification: the assessment should record that pan-city components genuinely broaden benefit and should avoid asserting any project, expenditure or coverage figure, since the owners supply none.
+
+**Analytical body:**
+
+1. **Claim and named evidence:** The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+2. **Claim and named evidence:** The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+3. **Claim and named evidence:** The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+4. **Claim and named evidence:** The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+
+**Counter-position / limit:** A constitutional promise, prohibition, reservation provision, scheme catalogue, allocation, registration count or headline statistic cannot alone establish accessible implementation, adequate benefit, dignity, remedy or attributable outcome; test eligibility, institutions, frontline capacity, intersectionality, regional variation, grievance and evidence status.
+
+**Qualified conclusion:** Claim: the approach improves urban infrastructure quality while leaving distributive outcomes to a selection rule that systematically disadvantages the poorest, so its record on distributive justice depends on screening that is not built into the model. Named evidence: the special-purpose-vehicle-based area development model emphasising technology-enabled infrastructure, mobility, sanitation and electronic governance; the critique that area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations, that investment flows to showcase projects rather than basic services, and that slum and homeless populations have limited voice in the vehicle's decisions; the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access including for street vendors and shelter users; and the recommended integration of investment appraisal with slum mapping and shelter inventory. Analysis: the model concentrates capital where returns are visible and measurable, which is efficient for infrastructure and regressive for deprivation, so the corrective is a screening requirement at project approval rather than an additional scheme. Qualification: the assessment should record that pan-city components genuinely broaden benefit and should avoid asserting any project, expenditure or coverage figure, since the owners supply none.
+
+**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing right/need → institution → eligibility → delivery → outcome → remedy; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for dignity, accessibility, portability, grievance, denominator, fiscal and causal limits.
+
+**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses named India-centric evidence and preserves legal, institutional, group, eligibility, implementation, fiscal, data and outcome distinctions.
+
+**How to improve this answer:** For “Assess how far the smart-cities approach addresses urban poverty and distributive justice.…”, replace the weakest scheme-catalogue point with one named rights-holder, duty-bearer, eligibility bottleneck, safeguard, grievance route, process/outcome indicator and source-status qualification.
+
+### ORIGINAL MAINS 5 — 20 MARKS
+
+**Question:** Analyse why large cities attract migrants more strongly than small towns, and evaluate what that pattern requires of urban welfare policy. Answer in about 300 words.
+
+**Model thesis:** Claim: migration to large cities is a rational response to spatial concentration of opportunity rather than a failure of urban management, so welfare policy must follow the migrant's circuit instead of penalising the destination. Named evidence: push factors of agricultural underemployment and distress from drought and debt with limited non-farm opportunity; pull factors of agglomeration economies generating productivity gains through knowledge spillovers, labour-market pooling and input sharing; higher availability of informal work in construction, domestic service and street vending in metropolitan centres; better public services; the wage premium available despite informal housing; migrant networks that lower entry barriers; the inability of smaller towns to absorb surplus labour; the distinction between circular or seasonal and permanent migration; and the portability mechanism, the shelter component and the vendor credit route as the destination-side instruments. Analysis: because the migration is circular for a large share of workers, an entitlement attached to a fixed shop or a fixed address fails structurally rather than administratively, so the policy requirement is person-attached portability, destination-side shelter near work sites and vending rights that survive a clearance drive, while decentralised industrialisation is a structural remedy that requires investment beyond the metropolitan centres. Qualification: the analysis must record that the audited ledger routes the migration question to the Geography owner, must not assert migration volumes or urban population shares beyond the Census 2011 slum anchor with its exclusions, and must concede that decentralisation is a long-horizon answer that does not relieve present destination-side deprivation.
+
+**Claim → named evidence → analysis → qualification:**
+
+- This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+- The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+- The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+- The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+- The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+- The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+
+**Qualified conclusion:** Claim: migration to large cities is a rational response to spatial concentration of opportunity rather than a failure of urban management, so welfare policy must follow the migrant's circuit instead of penalising the destination. Named evidence: push factors of agricultural underemployment and distress from drought and debt with limited non-farm opportunity; pull factors of agglomeration economies generating productivity gains through knowledge spillovers, labour-market pooling and input sharing; higher availability of informal work in construction, domestic service and street vending in metropolitan centres; better public services; the wage premium available despite informal housing; migrant networks that lower entry barriers; the inability of smaller towns to absorb surplus labour; the distinction between circular or seasonal and permanent migration; and the portability mechanism, the shelter component and the vendor credit route as the destination-side instruments. Analysis: because the migration is circular for a large share of workers, an entitlement attached to a fixed shop or a fixed address fails structurally rather than administratively, so the policy requirement is person-attached portability, destination-side shelter near work sites and vending rights that survive a clearance drive, while decentralised industrialisation is a structural remedy that requires investment beyond the metropolitan centres. Qualification: the analysis must record that the audited ledger routes the migration question to the Geography owner, must not assert migration volumes or urban population shares beyond the Census 2011 slum anchor with its exclusions, and must concede that decentralisation is a long-horizon answer that does not relieve present destination-side deprivation.
+
+**Demand decoding:** The directive **analyse** requires a direct position on “Analyse why large cities attract migrants more strongly than small towns, and evaluate what…”, every clause, constitutional/statutory/policy distinction, rights-holder and institution map, eligibility/exclusion and delivery chain, intersectional and regional variation, named Indian evidence, accountability and qualified conclusion.
+
+**Detailed examiner-grade model answer:**
+
+**Introduction and thesis:** Claim: migration to large cities is a rational response to spatial concentration of opportunity rather than a failure of urban management, so welfare policy must follow the migrant's circuit instead of penalising the destination. Named evidence: push factors of agricultural underemployment and distress from drought and debt with limited non-farm opportunity; pull factors of agglomeration economies generating productivity gains through knowledge spillovers, labour-market pooling and input sharing; higher availability of informal work in construction, domestic service and street vending in metropolitan centres; better public services; the wage premium available despite informal housing; migrant networks that lower entry barriers; the inability of smaller towns to absorb surplus labour; the distinction between circular or seasonal and permanent migration; and the portability mechanism, the shelter component and the vendor credit route as the destination-side instruments. Analysis: because the migration is circular for a large share of workers, an entitlement attached to a fixed shop or a fixed address fails structurally rather than administratively, so the policy requirement is person-attached portability, destination-side shelter near work sites and vending rights that survive a clearance drive, while decentralised industrialisation is a structural remedy that requires investment beyond the metropolitan centres. Qualification: the analysis must record that the audited ledger routes the migration question to the Geography owner, must not assert migration volumes or urban population shares beyond the Census 2011 slum anchor with its exclusions, and must concede that decentralisation is a long-horizon answer that does not relieve present destination-side deprivation.
+
+**Analytical body:**
+
+1. **Claim and named evidence:** This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+2. **Claim and named evidence:** The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+3. **Claim and named evidence:** The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+4. **Claim and named evidence:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+5. **Claim and named evidence:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+6. **Claim and named evidence:** The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+
+**Counter-position / limit:** A constitutional promise, prohibition, reservation provision, scheme catalogue, allocation, registration count or headline statistic cannot alone establish accessible implementation, adequate benefit, dignity, remedy or attributable outcome; test eligibility, institutions, frontline capacity, intersectionality, regional variation, grievance and evidence status.
+
+**Qualified conclusion:** Claim: migration to large cities is a rational response to spatial concentration of opportunity rather than a failure of urban management, so welfare policy must follow the migrant's circuit instead of penalising the destination. Named evidence: push factors of agricultural underemployment and distress from drought and debt with limited non-farm opportunity; pull factors of agglomeration economies generating productivity gains through knowledge spillovers, labour-market pooling and input sharing; higher availability of informal work in construction, domestic service and street vending in metropolitan centres; better public services; the wage premium available despite informal housing; migrant networks that lower entry barriers; the inability of smaller towns to absorb surplus labour; the distinction between circular or seasonal and permanent migration; and the portability mechanism, the shelter component and the vendor credit route as the destination-side instruments. Analysis: because the migration is circular for a large share of workers, an entitlement attached to a fixed shop or a fixed address fails structurally rather than administratively, so the policy requirement is person-attached portability, destination-side shelter near work sites and vending rights that survive a clearance drive, while decentralised industrialisation is a structural remedy that requires investment beyond the metropolitan centres. Qualification: the analysis must record that the audited ledger routes the migration question to the Geography owner, must not assert migration volumes or urban population shares beyond the Census 2011 slum anchor with its exclusions, and must concede that decentralisation is a long-horizon answer that does not relieve present destination-side deprivation.
+
+**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing right/need → institution → eligibility → delivery → outcome → remedy; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for dignity, accessibility, portability, grievance, denominator, fiscal and causal limits.
+
+**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses named India-centric evidence and preserves legal, institutional, group, eligibility, implementation, fiscal, data and outcome distinctions.
+
+**How to improve this answer:** For “Analyse why large cities attract migrants more strongly than small towns, and evaluate what…”, replace the weakest scheme-catalogue point with one named rights-holder, duty-bearer, eligibility bottleneck, safeguard, grievance route, process/outcome indicator and source-status qualification.
+
+### ORIGINAL MAINS 6 — 20 MARKS
+
+**Question:** Evaluate the proposition that urban inclusion requires portable person-based entitlements alongside place-based housing, services and livelihood rights. Answer in about 300 words.
+
+**Model thesis:** Claim: the proposition is correct because the two families of instrument fail in opposite directions, portability without place leaves a person with food and no shelter while place without portability leaves a person with an address they cannot occupy for most of the year. Named evidence: the portability mechanism using the existing seeded card with electronic point-of-sale authentication and pan-India rollout, together with its friction chain and the need for assisted alternatives and grievance redress; the shelter component with its norm, its land, finance and service-linkage failures; the housing mission of 2024 with beneficiary-led construction, partnership, rental and interest-subsidy verticals, the four per cent subsidy on the first eight lakh rupees capped at one lakh eighty thousand rupees, and the rule that a sanction is not an occupied house; the 2014 vending statute and its notification condition for credit; the commenced occupational safety Code that repealed the 1979 migrant statute with Central Rules of May 2026 and continuing State-rule relevance; and the distinctions between in-situ upgrading and resettlement and between tenure security and title. Analysis: rental housing and tenure security are the instruments that bridge the two families, because they attach to a place while tolerating impermanence, which is why the housing mission's rental vertical and intermediate tenure instruments matter more for circular migrants than ownership-based subsidy does. Qualification: the evaluation should record that neither upgrading nor resettlement is first-best, that authentication and documentation create exclusion and privacy risks that require assisted routes, and that the two General Studies Paper I questions the owners reproduce belong to other owners and are used here only as analysis.
+
+**Claim → named evidence → analysis → qualification:**
+
+- The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+- The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+- The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+- The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+- The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+- The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+**Qualified conclusion:** Claim: the proposition is correct because the two families of instrument fail in opposite directions, portability without place leaves a person with food and no shelter while place without portability leaves a person with an address they cannot occupy for most of the year. Named evidence: the portability mechanism using the existing seeded card with electronic point-of-sale authentication and pan-India rollout, together with its friction chain and the need for assisted alternatives and grievance redress; the shelter component with its norm, its land, finance and service-linkage failures; the housing mission of 2024 with beneficiary-led construction, partnership, rental and interest-subsidy verticals, the four per cent subsidy on the first eight lakh rupees capped at one lakh eighty thousand rupees, and the rule that a sanction is not an occupied house; the 2014 vending statute and its notification condition for credit; the commenced occupational safety Code that repealed the 1979 migrant statute with Central Rules of May 2026 and continuing State-rule relevance; and the distinctions between in-situ upgrading and resettlement and between tenure security and title. Analysis: rental housing and tenure security are the instruments that bridge the two families, because they attach to a place while tolerating impermanence, which is why the housing mission's rental vertical and intermediate tenure instruments matter more for circular migrants than ownership-based subsidy does. Qualification: the evaluation should record that neither upgrading nor resettlement is first-best, that authentication and documentation create exclusion and privacy risks that require assisted routes, and that the two General Studies Paper I questions the owners reproduce belong to other owners and are used here only as analysis.
+
+**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the proposition that urban inclusion requires portable person-based entitlements…”, every clause, constitutional/statutory/policy distinction, rights-holder and institution map, eligibility/exclusion and delivery chain, intersectional and regional variation, named Indian evidence, accountability and qualified conclusion.
+
+**Detailed examiner-grade model answer:**
+
+**Introduction and thesis:** Claim: the proposition is correct because the two families of instrument fail in opposite directions, portability without place leaves a person with food and no shelter while place without portability leaves a person with an address they cannot occupy for most of the year. Named evidence: the portability mechanism using the existing seeded card with electronic point-of-sale authentication and pan-India rollout, together with its friction chain and the need for assisted alternatives and grievance redress; the shelter component with its norm, its land, finance and service-linkage failures; the housing mission of 2024 with beneficiary-led construction, partnership, rental and interest-subsidy verticals, the four per cent subsidy on the first eight lakh rupees capped at one lakh eighty thousand rupees, and the rule that a sanction is not an occupied house; the 2014 vending statute and its notification condition for credit; the commenced occupational safety Code that repealed the 1979 migrant statute with Central Rules of May 2026 and continuing State-rule relevance; and the distinctions between in-situ upgrading and resettlement and between tenure security and title. Analysis: rental housing and tenure security are the instruments that bridge the two families, because they attach to a place while tolerating impermanence, which is why the housing mission's rental vertical and intermediate tenure instruments matter more for circular migrants than ownership-based subsidy does. Qualification: the evaluation should record that neither upgrading nor resettlement is first-best, that authentication and documentation create exclusion and privacy risks that require assisted routes, and that the two General Studies Paper I questions the owners reproduce belong to other owners and are used here only as analysis.
+
+**Analytical body:**
+
+1. **Claim and named evidence:** The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+2. **Claim and named evidence:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+3. **Claim and named evidence:** The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+4. **Claim and named evidence:** The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+5. **Claim and named evidence:** The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+6. **Claim and named evidence:** The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval. **Analysis:** Connect right or deprivation → institutional duty and eligibility rule → frontline implementation → differentiated access and outcome → grievance, audit or course correction. **Qualification:** State internal group and regional variation, legal/operative status, denominator, fiscal or causal limit, accessibility, dignity, privacy, portability or residual exclusion.
+
+**Counter-position / limit:** A constitutional promise, prohibition, reservation provision, scheme catalogue, allocation, registration count or headline statistic cannot alone establish accessible implementation, adequate benefit, dignity, remedy or attributable outcome; test eligibility, institutions, frontline capacity, intersectionality, regional variation, grievance and evidence status.
+
+**Qualified conclusion:** Claim: the proposition is correct because the two families of instrument fail in opposite directions, portability without place leaves a person with food and no shelter while place without portability leaves a person with an address they cannot occupy for most of the year. Named evidence: the portability mechanism using the existing seeded card with electronic point-of-sale authentication and pan-India rollout, together with its friction chain and the need for assisted alternatives and grievance redress; the shelter component with its norm, its land, finance and service-linkage failures; the housing mission of 2024 with beneficiary-led construction, partnership, rental and interest-subsidy verticals, the four per cent subsidy on the first eight lakh rupees capped at one lakh eighty thousand rupees, and the rule that a sanction is not an occupied house; the 2014 vending statute and its notification condition for credit; the commenced occupational safety Code that repealed the 1979 migrant statute with Central Rules of May 2026 and continuing State-rule relevance; and the distinctions between in-situ upgrading and resettlement and between tenure security and title. Analysis: rental housing and tenure security are the instruments that bridge the two families, because they attach to a place while tolerating impermanence, which is why the housing mission's rental vertical and intermediate tenure instruments matter more for circular migrants than ownership-based subsidy does. Qualification: the evaluation should record that neither upgrading nor resettlement is first-best, that authentication and documentation create exclusion and privacy risks that require assisted routes, and that the two General Studies Paper I questions the owners reproduce belong to other owners and are used here only as analysis.
+
+**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing right/need → institution → eligibility → delivery → outcome → remedy; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for dignity, accessibility, portability, grievance, denominator, fiscal and causal limits.
+
+**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses named India-centric evidence and preserves legal, institutional, group, eligibility, implementation, fiscal, data and outcome distinctions.
+
+**How to improve this answer:** For “Evaluate the proposition that urban inclusion requires portable person-based entitlements…”, replace the weakest scheme-catalogue point with one named rights-holder, duty-bearer, eligibility bottleneck, safeguard, grievance route, process/outcome indicator and source-status qualification.
+
+## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+> **Subject:** Social Justice | **Tier:** Advanced | **GS Paper:** GS-II;
+> GS-I (urbanisation, migration — see PYQ anchors).
+> **Core area:** Urban homelessness implementation gaps, slum-upgrading trade-offs,
+> migrant-worker protection limitations, smart-city distributive-justice critique.
+> **Grounded in:** DAY-NULM (SUH); PM SVANidhi (2020); Street Vendors Act, 2014;
+> OSHWC Code, 2020 (commenced 21 November 2025); repealed Inter-State Migrant
+> Workmen Act, 1979; ONORC;
+> 2024 GS-I PYQ (migration); 2025 GS-I PYQ (smart city); academic/policy literature.
+> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
+> *Companion: `basic/16_Urban-Poor-Homeless-and-Migrant-Workers.md`.*
+
+#### 1. Architecture
+
+```text
+URBAN-POVERTY DELIVERY GAP: POLICY → IMPLEMENTATION → OUTCOME
+
+POLICY LAYER                 IMPLEMENTATION LAYER           OUTCOME LAYER
+┌──────────────────┐         ┌──────────────────┐          ┌──────────────────┐
+│ DAY-NULM (SUH)   │         │ ULB capacity     │          │ Shelter coverage │
+│ PM SVANidhi      │  ──>    │ varies; land/    │   ──>    │ gaps; vendor     │
+│ ONORC            │         │ fund constraints │          │ formalisation    │
+│ ISMW Act /       │         │ ePoS/Aadhaar     │          │ partial; ONORC   │
+│ OSHWC status     │         │ connectivity     │          │ uptake uneven    │
+└──────────────────┘         └──────────────────┘          └──────────────────┘
+         |                            |                             |
+         v                            v                             v
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ STRUCTURAL CONSTRAINTS                                                       │
+│ 1. Housing-tenure insecurity (slums lack title, eviction risk)               │
+│ 2. Livelihood informality (street vendors face periodic clearance drives)    │
+│ 3. Migration-portability friction (documentation, awareness, ePoS gaps)      │
+│ 4. Smart-city area-based model excludes peripheral slums                     │
+└──────────────────────────────────────────────────────────────────────────────┘
+         |
+         v
+PYQ ANALYTICAL ANCHORS (GS-I cross-paper)
+2024: Push-pull migration dynamics + agglomeration economies
+2025: Smart-city distributive-justice critique
+```
+
+**Analytical claim:** ⚠️ Urban-poor welfare policies exist (DAY-NULM, PM SVANidhi, ONORC,
+Street Vendors Act and the applicable migrant-labour route) but face structural constraints: housing-tenure insecurity, livelihood
+informality, migration-portability friction and smart-city's area-based model that may
+exclude the poorest — the gap between policy intent and outcome is the analytical core.
+
+#### 2. Concepts and distinctions
+
+| Concept | Precise meaning |
+|---|---|
+| ⚠️ **In-situ slum upgrading vs resettlement** | In-situ upgrading improves services (water, sanitation, electricity) within existing slum location, preserving livelihoods; resettlement relocates slum-dwellers to distant sites, often disrupting employment and social networks — trade-off between land efficiency and livelihood continuity. |
+| ⚠️ **Tenure security vs title** | Tenure security is assurance against eviction; title is formal ownership — intermediate instruments (occupancy certificates, slum-notification) can provide tenure security without full title. |
+| ⚠️ **Agglomeration economies** | Productivity gains from spatial concentration of firms and workers (knowledge spillovers, labour-market pooling, input sharing) — explain why large cities attract migrants despite housing costs. |
+| ⚠️ **Circular vs permanent migration** | Circular migration involves repeated, seasonal movement between origin and destination; permanent migration is one-way relocation — policy design (fixed ration shop vs ONORC portability) must match migration pattern. |
+| ⚠️ **Area-based vs pan-city smart-city model** | Area-based development concentrates investment in selected smart zones; pan-city components (transport, ICT backbone) benefit wider populations — distributive justice depends on balance. |
+
+#### 3. Detailed causal chains and failure modes
+
+##### Homeless-shelter coverage failure chain
+1. **Land constraint:** ULBs lack land for permanent shelters in central locations; distant
+   shelters are underutilised because homeless populations concentrate near work sites.
+2. **Funding gap:** DAY-NULM allocations may not match urban-homeless population; state
+   matching-share delays slow shelter construction.
+3. **Quality and service linkage:** Shelters may exist but lack health-referral, skill-
+   training and livelihood-linkage services that convert shelter into capability.
+
+##### Migrant-portability friction failure chain
+1. **Documentation barrier:** Migrants without Aadhaar-seeding or ration-card update
+   cannot use ONORC; awareness of portability mechanism is low.
+2. **ePoS connectivity gap:** Fair Price Shops in remote destination areas may lack
+   functional ePoS machines; transaction failures block entitlement access.
+3. **State-level resistance:** Some states have historically resisted portability, fearing
+   fiscal burden from inward migration.
+
+##### Smart-city distributive-justice failure chain
+1. **Area-based selection bias:** Smart-city SPV selects zones with existing infrastructure
+   potential, often excluding peripheral slums and homeless concentrations.
+2. **Showcase infrastructure priority:** Investment flows to visible projects (smart roads,
+   command centres) rather than basic services in underserved areas.
+3. **Participation gap:** Slum-dwellers and homeless populations have limited voice in
+   SPV decision-making; smart-city plans may not reflect their needs.
+
+#### 4. Institutional and reform architecture
+
+- ✅ **DAY-NULM (MoHUA):** Centrally sponsored; 60:40 Centre-state cost share (90:10 for
+  NE/special states); ULBs implement; State Urban Livelihoods Missions coordinate.
+- ✅ **PM SVANidhi (MoHUA):** Administered through banks; ULBs issue vendor certificates
+  and Letters of Recommendation; digital-payment cashback via UPI.
+- ✅ **ONORC (DoFPD):** Portability under NFSA; depends on Aadhaar-seeding and ePoS; pan-
+  India rollout achieved; transaction data published on Annavitaran portal.
+- ✅ **Street Vendors Act, 2014:** Town Vending Committees, survey/certificates, vending
+  plans and procedural eviction safeguards provide the legal livelihood layer that
+  complements, but is not supplied by, PM SVANidhi credit.
+- ⚠️ Recommended reform: mandate shelter-space targets per ULB linked to census homeless
+  count, with time-bound land identification and construction.
+- ⚠️ Recommended reform: integrate smart-city investment appraisal with slum-mapping and
+  homeless-shelter inventory to ensure distributive-justice screening.
+
+#### 5. Indian applications and boundary cases
+
+- ⚠️ A migrant construction worker in a metro who possesses a ration card from the home
+  state but lacks Aadhaar-seeding cannot draw entitlement at the destination FPS —
+  illustrating documentation friction.
+- ⚠️ A street vendor with a PM SVANidhi loan who is evicted during a municipal clearance
+  drive loses livelihood despite formal credit — illustrating livelihood-informality risk.
+- ⚠️ A smart-city SPV that upgrades a commercial zone while ignoring an adjacent
+  notified slum illustrates area-based distributive-justice failure.
+
+#### 6. Limitations and trade-offs
+
+- ⚠️ In-situ slum upgrading preserves livelihoods but may perpetuate suboptimal land use;
+  resettlement frees central land but disrupts employment — no first-best solution.
+- ⚠️ ONORC portability depends on authentication/interoperability and can reduce migration
+  exclusion, but authentication failure, documentation and privacy risks need assisted
+  alternatives and grievance redress.
+- ⚠️ Smart-city investment can improve city-wide infrastructure quality but may
+  exacerbate intra-city inequality if benefits concentrate in selected zones.
+
+#### 7. Must-Know Facts for Advanced Prelims
+
+- ✅ DAY-NULM's cost-sharing ratio is 60:40 Centre-state (90:10 for NE/special states).
+- ✅ PM SVANidhi provides escalating loan tranches (₹10,000 → ₹20,000 → ₹50,000)
+  contingent on timely repayment.
+- ✅ The OSHWC Code commenced on 21 November 2025 and repealed the Inter-State Migrant
+  Workmen Act, 1979; final Central Rules followed in May 2026, while State rules and
+  enforcement remain material.
+- ✅ Smart Cities Mission uses an SPV (Special Purpose Vehicle) model for area-based
+  development.
+
+#### 8. Advanced Prelims traps
+
+- ❌ DAY-NULM and DAY-NRLM are the same scheme. -> DAY-NULM is urban (MoHUA); DAY-NRLM is
+  rural (MoRD) — distinct schemes with similar branding.
+- ❌ ONORC requires a new ration card. -> ONORC uses the existing NFSA ration card with
+  Aadhaar-seeding; no separate card is issued.
+- ❌ Smart Cities Mission is primarily an urban-poverty-alleviation programme. -> The
+  Mission's primary focus is ICT-enabled urban infrastructure; poverty-alleviation
+  outcomes depend on explicit inclusion of slum/homeless needs.
+
+#### 9. 📰 Current-anchor note
+
+- 📰 **Status check (21 July 2026):** PM SVANidhi disbursement and DAY-NULM shelter counts
+  are dashboard outputs. For migrant-labour claims, distinguish central commencement
+  from applicable State rules and enforcement.
+- ✅ 2024 GS-I PYQ (migration) and 2025 GS-I PYQ (smart city) are direct exam anchors.
+
+#### 10. PYQ-based analytical application
+
+##### 2024 GS-I PYQ (migration to large cities)
+- ⚠️ Answer spine: (1) Define push (rural distress, underemployment) and pull
+  (agglomeration, informal jobs, services) factors. (2) Developing-country specificity:
+  wage premium despite informal housing; migrant networks. (3) Policy implication:
+  concentrate migrant welfare (ONORC, SUH) in metros; decentralised industrialisation
+  as structural remedy.
+
+##### 2025 GS-I PYQ (smart city and distributive justice)
+- ⚠️ Answer spine: (1) Describe SPV-based area development. (2) Critique: area-based
+  selection excludes slums; showcase infrastructure priority; participation gap. (3)
+  Counter: pan-city components, digital-service access. (4) Conclude: distributive
+  justice requires explicit slum/homeless targeting within smart-city plans.
+
+#### 11. Mains-ready framework
+
+**Central thesis:** Urban-poor welfare policies exist but structural constraints — tenure
+insecurity, livelihood informality, migration-portability friction and smart-city's
+area-based model — create a gap between policy intent and outcome; closing this gap
+requires explicit distributive-justice screening and last-mile delivery strengthening.
+
+1. **Define the vulnerability nexus:** housing, livelihood, portability.
+2. **Map the policy architecture:** DAY-NULM (SUH), PM SVANidhi, Street Vendors Act,
+   ONORC and the correctly stated migrant-labour route.
+3. **Diagnose implementation gaps:** land constraint, funding delay, documentation
+   barrier, ePoS connectivity, area-based exclusion.
+4. **Apply PYQ anchors:** migration push-pull (2024); smart-city critique (2025).
+5. **Recommend corrections:** shelter-space targets linked to census, assisted
+   portability, Street Vendors Act implementation, smart-city slum-mapping integration
+   and in-situ upgrading with tenure security.
+
+#### 12. Probable questions
+
+- ⚠️ **Prelims:** What is the cost-sharing ratio for DAY-NULM between Centre and states?
+- ⚠️ **Mains (10 marks):** Why do large cities tend to attract more migrants than smaller
+  towns? Discuss in the light of conditions in developing countries. *(2024 GS-I PYQ)*
+- ⚠️ **Mains (10 marks):** How does smart city in India address the issues of urban
+  poverty and distributive justice? *(2025 GS-I PYQ)*
+- ⚠️ **Mains (15 marks):** Critically examine the implementation gaps in India's welfare
+  architecture for urban homeless and migrant workers.
+
+#### 13. Study links
+
+- ✅ Foundation companion: `basic/16_Urban-Poor-Homeless-and-Migrant-Workers.md`.
+- ✅ `advanced/02_Poverty-Hunger-Food-and-Nutrition-Security.md` — ONORC portability
+  implementation.
+- ✅ `advanced/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md` — Code on OSH,
+  migrant provisions.
+- ✅ `Governance/basic/13_Public-Finance-and-Service-Delivery-Tools.md` — DBT/PFMS
+  for benefit delivery.
+
+## CONSOLIDATED REGISTER NOTES
+
+### Urban Poor, Homeless and Migrant Workers: RAPID RIGHT, SCHEME AND MEASURED-OUTCOME MAP
+
+1. **What this owner holds and where its cross-paper questions actually belong:** This owner holds urban deprivation as a nexus of three linked failures rather than as a housing problem alone: shelter for those with no roof, livelihood security for those who work on the street, and portability of entitlements for those who move. The owners reproduce two General Studies Paper I questions as cross-paper anchors, one on why large cities attract more migrants than smaller towns and one on how smart cities address urban poverty and distributive justice, and the audited 2024-2025 Mains routing ledger routes the first to the Geography migration owner and the second to the Indian Society urbanisation owner. Neither is routed to this owner, so this package claims neither as its own previous-year ownership and solves neither as a demand card, while continuing to teach the underlying analysis the owners carry.
+2. **The housing-livelihood-portability nexus as the organising claim:** The owners state the core proposition as a nexus: homeless and slum-dwelling populations lack secure shelter, street vendors and migrant workers face livelihood precarity, and migrant workers additionally face entitlement-portability barriers, so the shelter component of the urban livelihoods mission, the street-vending statute paired with the vendor credit scheme, and ration portability address distinct but intersecting vulnerabilities. The examinable consequence is that an urban-poverty answer addressing only housing, or only credit, has answered one third of the problem and will read as a scheme list rather than as a diagnosis.
+3. **The housing-deprivation spectrum and why the categories differ:** The owners set out a spectrum rather than a single category: houseless or roofless persons such as pavement dwellers have no shelter at all; inadequate housing means kutcha, unsafe or overcrowded shelter; and slum dwelling means shelter within an informal settlement with tenure insecurity and inadequate services. They insist the categories require different policy responses, because a shelter answers rooflessness while tenure security and service upgrading answer slum deprivation, and an answer that treats homelessness and slum residence as one condition will prescribe the wrong instrument for at least one of them.
+4. **The urban livelihoods mission and its livelihood components:** The Deendayal Antyodaya Yojana National Urban Livelihoods Mission is the urban livelihoods programme of the Ministry of Housing and Urban Affairs, and the owners record it as covering livelihood, shelter and social-mobilisation components. On the livelihood side the owners record three instruments: a self-employment programme providing interest subsidy on bank loans for micro-enterprise, skill training that links the urban poor to certified vocational courses, and self-help-group-based urban livelihood support that mirrors the rural mission's model. They record the frequently tested contrast that this urban mission belongs to the housing and urban affairs ministry while the similarly branded rural livelihoods mission belongs to the rural development ministry, so the branding resemblance is itself the trap.
+5. **The shelter component and the norm that governs it:** The owners record the Shelter for Urban Homeless component as providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages to health, skill and livelihood services, operated by urban local bodies. They record the guideline norm as one shelter for every one hundred thousand of urban population, and they immediately qualify it, recording that location, capacity and service linkage determine whether a shelter is used, so the norm measures provision rather than utilisation and cannot by itself establish that the homeless population is served.
+6. **Why shelter coverage fails even where the scheme exists:** The owners set out the shelter failure chain in three steps: urban local bodies lack land for permanent shelters in central locations, so distant shelters are underused because homeless populations concentrate near work sites; allocations may not match the urban-homeless population and State matching-share delays slow construction; and shelters may exist without the health-referral, skill-training and livelihood-linkage services that convert shelter into capability. The chain locates the failure in land, finance and service linkage separately, which is what allows an answer to prescribe a specific correction rather than a general demand for more shelters.
+7. **The street-vendor credit scheme and what it is not:** The owners record the street-vendor credit scheme launched in 2020 during the pandemic recovery as providing collateral-free working-capital micro-loans in escalating tranches, an initial loan of ten thousand rupees, a second tranche of twenty thousand rupees and a third of fifty thousand rupees, each higher tranche contingent on timely repayment, with an interest subsidy of seven per cent and a digital-payment cashback incentive delivered through banks and lending institutions with urban local bodies issuing vendor certificates and letters of recommendation. They record the trap explicitly: these are loans and not grants, and credit is not a legal right to vend.
+8. **The street-vending statute and the rights it actually creates:** The owners record the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 as recognising vending as a regulated livelihood and providing Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction. They state the relationship between the two instruments precisely: the statute supplies the legal livelihood layer that the credit scheme does not supply, so a vendor holding a loan can still be evicted during a municipal clearance drive, and an answer that offers credit as the response to eviction has confused a financing instrument with a legal protection.
+9. **The official condition attached to the vendor credit scheme:** The official portal of the street-vendor credit scheme, read on 2 September 2026, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging only to those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That verified statement converts the relationship between statute and credit from an analytical observation into an eligibility condition, because a vendor in a State that has not notified rules and scheme under the 2014 Act is outside the credit route by the scheme's own terms, which makes statutory implementation a precondition for financial inclusion rather than a parallel track.
+10. **The urban housing mission and the difference between sanction and shelter:** The owners record the second-generation urban housing mission of 2024 as covering beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme, and they record the subsidy detail that eligible economically weaker section, lower income group and middle income group households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions. They then record the evaluative rule: a sanction is not a completed and occupied house, and land, beneficiary contribution, tenure documents, location and occupancy determine whether a sanctioned unit reduces deprivation.
+11. **Ration portability and what it is built on:** The owners record the one-nation-one-ration-card mechanism as enabling portability of food-security entitlements across States using ration cards seeded with the national identity number and electronic point-of-sale machines at fair price shops, with pan-India rollout achieved and transaction data published on the departmental portal. They record two corrections that objective questions target: it is a portability mechanism within the existing food-security framework rather than a separate entitlement or scheme, and it uses the existing ration card rather than issuing a new one, so a migrant does not apply for a fresh card to become portable.
+12. **The migrant-worker legal route as it now stands:** The owners record that the Code on Occupational Safety, Health and Working Conditions, 2020 commenced on 21 November 2025 and repealed the Inter-State Migrant Workmen Act, 1979, with final Central Rules following in May 2026, and they record that State rules and enforcement remain material because labour is a concurrent subject. They instruct that the commenced Code be used for the registration, journey-allowance and equal-treatment architecture and that applicable Central and State rules and actual enforcement then be tested separately, so that central legal commencement is not presented as completed protection on the ground.
+13. **Why portability fails at the counter:** The owners set out the portability friction chain in three steps: migrants whose cards are not seeded with the national identity number or not updated cannot use the mechanism, and awareness of portability is low; fair price shops in remote destination areas may lack functional electronic point-of-sale machines so transaction failures block access; and some States have historically resisted portability, fearing a fiscal burden from inward migration. They add the boundary case of a worker holding a home-State card without seeding who cannot draw an entitlement at the destination shop, and they record that authentication failure and documentation risk require assisted alternatives and grievance redress.
+14. **The slum scale anchor and its exclusions:** The owners record one quantitative anchor for urban housing deprivation: Census 2011 counted about 65.5 million people in slums, around 17.4 per cent of the urban population. They immediately bound it, recording that the count does not include every informal renter, every homeless person or every unnotified settlement, so the figure understates the population living in insecure housing and must be cited with its year and its exclusions rather than offered as a current measure of urban housing deprivation.
+15. **Circular migration and why fixed-entitlement design fails it:** The owners distinguish circular or seasonal migration, in which workers move repeatedly between an origin that is often rural and a destination that is often urban in response to seasonal labour demand, from permanent migration, which is a one-way relocation. They record the design implication directly: a fixed ration-shop model matches permanent settlement while a portability model matches repeated movement, so policy fails not because it is under-funded but because its unit of entitlement is attached to a place while the worker is attached to a circuit.
+16. **Why large cities pull migrants more strongly than small towns:** The owners record the explanation as a push-and-pull structure with a developing-country specificity. Agricultural underemployment and distress from drought and debt, together with limited non-farm opportunity, push workers out of rural origins; agglomeration economies concentrate industry and services and generate productivity gains from the spatial concentration of firms and workers through knowledge spillovers, labour-market pooling and input sharing; informal-sector work in construction, domestic service and street vending is more available in metropolitan centres than in small towns; and better public services attract migrants. They add that large cities offer a wage premium despite informal housing, that networks of earlier migrants lower entry barriers, and that smaller towns lack the economic density to absorb surplus labour.
+17. **The smart-city model and the distributive-justice critique:** The owners record the smart-cities model as special-purpose-vehicle-based area development emphasising information-and-communication-technology-enabled infrastructure, mobility, sanitation and electronic governance, and they record the critique in three parts: area-based selection favours zones with existing infrastructure potential and can exclude peripheral slums and homeless concentrations; investment flows to visible showcase projects rather than to basic services in underserved areas; and slum-dwellers and homeless populations have limited voice in the vehicle's decision-making. They record the counter-argument that pan-city components in transport, water and waste management benefit wider populations and that digital platforms can improve service access, and they conclude that distributive justice requires explicit targeting of slums, shelters and migrant services within smart-city plans.
+18. **Upgrading against resettlement and tenure against title:** The owners record two paired distinctions that decide a housing answer. In-situ upgrading improves water, sanitation and electricity within the existing settlement and preserves livelihoods and social networks, while resettlement relocates residents to distant sites and frees central land but disrupts employment, so neither is a first-best solution. Tenure security is assurance against eviction while title is formal ownership, and intermediate instruments such as occupancy certificates and slum notification can supply security without full ownership, which is what allows a policy to reduce eviction risk without resolving the land question.
+19. **Who pays and who implements the urban mission:** The owners record the financing and administrative architecture of the urban livelihoods mission: it is centrally sponsored with a cost share of sixty to forty between the Centre and the States, and ninety to ten for the north-eastern and special-category States, with urban local bodies implementing and State urban livelihoods missions coordinating. The examinable point is that the State matching share and urban-local-body capacity are the two places where a centrally announced norm becomes a locally delivered shelter or fails to, which is why the owners locate shelter-construction delay in matching-share delay rather than in central allocation alone.
+20. **What this owner does not claim and what it recommends instead:** The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns to the Geography migration owner and the 2025 General Studies Paper I question numbered 8 on smart cities and urban poverty to the Indian Society urbanisation owner, and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner; the audited General Studies Paper IV ledgers route the case studies involving migrant workers to the Ethics case-study owners. None is claimed here. In place of a claimed demand the owners record two institutional corrections, shelter-space targets per urban local body linked to the census homeless count with time-bound land identification and construction, and integration of smart-city investment appraisal with slum mapping and shelter inventory so that distributive-justice screening becomes part of project approval.
+
+### Urban Poor, Homeless and Migrant Workers: CLOSE-OPTION AND ENTITLEMENT TRAPS
+
+- Do not treat the urban livelihoods mission as a rural scheme, because it belongs to the urban ministry while the similarly branded rural mission belongs to the rural development ministry.
+- Do not merge houselessness with slum dwelling, because one describes the absence of shelter and the other describes insecure tenure and inadequate services within shelter.
+- Do not present the shelter norm of one facility per one hundred thousand urban population as achieved coverage, because location, capacity and service linkage determine use.
+- Do not describe the street-vendor credit scheme as grant assistance, because it provides collateral-free micro-loans with an interest subsidy and a digital-payment incentive.
+- Do not misstate the loan tranches, because they escalate from ten thousand to twenty thousand and then to fifty thousand rupees contingent on timely repayment.
+- Do not treat the credit scheme as conferring a legal right to vend, because Town Vending Committees, surveys and certificates and vending plans under the 2014 Act supply that layer.
+- Do not ignore the scheme's own eligibility condition, because its official portal records that it is available only in States and Union Territories that have notified rules and scheme under the 2014 Act.
+- Do not present a housing sanction as a completed and occupied house, because land, beneficiary contribution, tenure documents, location and occupancy determine the outcome.
+- Do not misstate the interest-subsidy detail, because it is four per cent on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions.
+- Do not describe ration portability as a new scheme separate from the food-security framework, because it is a portability mechanism within that framework.
+- Do not say a migrant must obtain a new ration card to use portability, because the mechanism uses the existing card seeded with the national identity number.
+- Do not present the migrant-labour statute of 1979 as being in force, because the occupational safety and working conditions Code commenced on 21 November 2025 and repealed it.
+- Do not treat central commencement as completed protection, because final Central Rules of May 2026, State rules and actual enforcement are separate questions.
+- Do not quote the Census 2011 slum figure of about 65.5 million and 17.4 per cent of the urban population without its year and its exclusions.
+- Do not describe the smart-cities mission as primarily an urban-poverty programme, because its focus is technology-enabled urban infrastructure delivered through a special purpose vehicle.
+- Do not present in-situ upgrading or resettlement as a first-best solution, because each preserves one value at the cost of another.
+- Do not equate tenure security with title, because occupancy certificates and settlement notification can secure against eviction without conferring ownership.
+- Do not omit the cost share, because the urban mission runs on a sixty to forty Centre-State ratio with ninety to ten for north-eastern and special-category States.
+- Do not claim the 2024 or 2025 General Studies Paper I questions as this owner's previous-year ownership, because the audited ledger routes them to the Geography and Indian Society owners.
+- Do not design portability without an assisted alternative, because authentication failure, documentation gaps and non-functional point-of-sale machines block entitlement at the counter.
+
+### Urban Poor, Homeless and Migrant Workers: ANSWER-WRITING SPINE
+
+```text
+NAME THE DEPRIVATION OR CLAIM -> IDENTIFY THE RIGHT-HOLDER AND THE DUTY-BEARER
+-> SEPARATE THE CONSTITUTIONAL OR STATUTORY ENTITLEMENT FROM THE SCHEME THAT CARRIES IT
+-> TRACE ADMINISTRATIVE DELIVERY: IDENTIFICATION, ENROLMENT, ACCESS, QUALITY
+-> TEST THE MEASURED OUTCOME AGAINST THE INPUT, NAMING SURVEY, ROUND AND YEAR
+-> SEPARATE INCLUSION ERROR FROM EXCLUSION ERROR AND COVERAGE FROM CAPABILITY
+-> CLOSE WITH A GRADED VERDICT AND AN EXPLICIT INDICATOR OR STATUS CAVEAT
+```
+
+### Urban Poor, Homeless and Migrant Workers: DATED-INDICATOR AND STATUS BOUNDARY
+
+One live official page was verified for this topic on 2026-09-02. The official portal of the street-vendor credit scheme of the Ministry of Housing and Urban Affairs, read on that date, records under the heading of notified States and Union Territories that the scheme is available for beneficiaries belonging to only those States and Union Territories which have notified rules and scheme under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. That statement is used only for what it says, as the scheme's own eligibility condition linking access to credit to State-level implementation of the 2014 statute, and no disbursement, loan, vendor, repayment, cashback, certificate or State-count figure is inferred from it. Two further official checks were attempted on the same date, namely a subordinate page of the same portal and a national social-assistance portal address, of which the first returned a requested-URL-not-found page and the second failed to resolve at the transport level, so nothing was read or used from either and no secondary summary, coaching site or news report has been treated as an official source. The package therefore relies on that verified page together with the dated official anchors already carried by the repository owners, each cited with its issuing instrument or status date: the Deendayal Antyodaya Yojana National Urban Livelihoods Mission of the Ministry of Housing and Urban Affairs with its self-employment, skill-training and self-help-group livelihood components, its Shelter for Urban Homeless component providing permanent all-weather shelters with round-the-clock access, bedding, water and sanitation and referral linkages, its guideline norm of one shelter per one hundred thousand urban population, and its centrally sponsored cost share of sixty to forty with ninety to ten for north-eastern and special-category States, implemented by urban local bodies under State urban livelihoods missions; the street-vendor credit scheme launched in 2020 with collateral-free tranches of ten thousand, twenty thousand and fifty thousand rupees contingent on timely repayment, a seven per cent interest subsidy and a digital-payment cashback delivered through banks with local bodies issuing certificates and letters of recommendation; the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014 with Town Vending Committees, surveys and certificates of vending, vending plans and procedural safeguards against eviction; the second-generation urban housing mission of 2024 with beneficiary-led construction, affordable housing in partnership, affordable rental housing and an interest-subsidy scheme under which eligible households can receive a four per cent subsidy on the first eight lakh rupees of a qualifying loan with a maximum actual subsidy of one lakh eighty thousand rupees subject to conditions; the one-nation-one-ration-card portability mechanism operating within the food-security framework on existing cards seeded with the national identity number and electronic point-of-sale machines, with pan-India rollout achieved and transaction data published on the departmental portal; the Code on Occupational Safety, Health and Working Conditions, 2020, commenced on 21 November 2025 and thereby repealing the Inter-State Migrant Workmen Act, 1979, with final Central Rules notified in May 2026 and State rules and enforcement recorded as still material; the smart-cities model of special-purpose-vehicle-based area development with pan-city components; and the Census 2011 count of about 65.5 million people in slums, around 17.4 per cent of the urban population, used only with the owners' recorded exclusions of informal renters, homeless persons and unnotified settlements. No homeless count, shelter count, occupancy figure, vendor-loan disbursement, housing sanction or completion figure, portability transaction count, migrant count, slum population other than the recorded Census 2011 anchor, urban poverty ratio, smart-city project or expenditure figure, budget or allocation number is asserted anywhere in this package. No scheme is described as universal, no sanction is described as a completed house, no portability mechanism is described as a separate entitlement or a new card, no repealed statute is described as in force, no commenced Code is described as fully enforced, no norm is described as achieved coverage, and no previous-year question, official answer key, option or answer letter is asserted or inferred for this owner, whose routed record is a transparent zero.
+
+### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+#### ASCII MASTER FLOW — PANEL 1/12: Urban deprivation nexus
+
+```ascii-master
+HOUSING -> houseless and roofless; inadequate housing; slum dwelling with tenure insecurity
+-> LIVELIHOOD: street vending, informal work, periodic clearance drives and eviction risk
+-> PORTABILITY: seasonal and circular movement detaches the worker from a fixed shop
+-> INSTRUMENTS: shelter component; vending statute with credit scheme; ration portability
+TEST -> secure shelter, protected livelihood and an entitlement that travels with the person
+MUST REMEMBER: Urban poverty is shaped by insecure work, rent and land markets, service...
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: Housing deprivation spectrum
+
+```ascii-master
+HOUSELESS OR ROOFLESS -> pavement dwellers with no shelter at all
+INADEQUATE HOUSING -> kutcha, unsafe or overcrowded shelter
+SLUM DWELLING -> informal settlement with tenure insecurity and inadequate services
+RESPONSE -> shelter answers rooflessness; upgrading and tenure answer slum deprivation
+ERROR -> treating homelessness and slum residence as a single condition
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: Urban mission structure
+
+```ascii-master
+MISSION -> the urban livelihoods mission of the housing and urban affairs ministry
+LIVELIHOOD -> self-employment with interest subsidy on bank loans for micro-enterprise
+SKILL -> linkage of the urban poor to certified vocational courses
+MOBILISATION -> self-help-group-based urban livelihood support
+SHELTER -> permanent all-weather shelters for the urban homeless
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: Shelter norm and its failure chain
+
+```ascii-master
+NORM -> one shelter for every one hundred thousand of urban population
+CONTENT -> round-the-clock access, bedding, water and sanitation, referral linkages
+FAILURE 1 -> no central land, so distant shelters stand underused away from work sites
+FAILURE 2 -> allocations unmatched to need; State matching-share delay slows construction
+FAILURE 3 -> shelters without health, skill and livelihood linkage do not build capability
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: Vendor credit card
+
+```ascii-master
+LAUNCHED -> 2020, during pandemic recovery, as collateral-free working capital
+TRANCHES -> ten thousand, then twenty thousand, then fifty thousand rupees
+CONDITION -> each higher tranche depends on timely repayment of the previous one
+SUPPORT -> seven per cent interest subsidy and a digital-payment cashback incentive
+DELIVERY -> banks and lenders; local bodies issue certificates and recommendation letters
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: Statute against credit
+
+```ascii-master
+STATUTE 2014 -> recognises vending as a regulated livelihood
+MACHINERY -> Town Vending Committees, surveys and certificates, vending plans
+PROTECTION -> procedural safeguards against eviction
+CREDIT -> supplies working capital; supplies no vending right
+OFFICIAL CONDITION -> credit available only where a State has notified rules and scheme
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: Housing mission verticals
+
+```ascii-master
+BENEFICIARY-LED -> construction on the household's own land
+PARTNERSHIP -> affordable housing built in partnership
+RENTAL -> affordable rental housing for workers who do not settle permanently
+INTEREST SUBSIDY -> four per cent on the first eight lakh rupees of a qualifying loan
+CAP AND RULE -> maximum actual subsidy of one lakh eighty thousand; sanction is not occupancy
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: Portability mechanism
+
+```ascii-master
+BASIS -> the existing food-security ration card, seeded with the national identity number
+TERMINAL -> electronic point-of-sale machines at fair price shops
+SCOPE -> pan-India rollout achieved; transaction data published on the departmental portal
+NOT -> a separate entitlement, a separate scheme or a newly issued card
+PURPOSE -> a person-attached claim for a worker who moves between States
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Portability friction chain
+
+```ascii-master
+DOCUMENT -> unseeded or un-updated cards cannot be used; awareness of the route is low
+INFRASTRUCTURE -> remote destination shops may lack functional point-of-sale machines
+POLITICS -> some States resisted portability fearing a burden from inward migration
+CASE -> a home-State card without seeding fails at the destination shop
+REQUIREMENT -> assisted alternatives and grievance redress for authentication failure
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Migrant legal route
+
+```ascii-master
+UNTIL 2025 -> the Inter-State Migrant Workmen Act, 1979 supplied the migrant framework
+21 NOVEMBER 2025 -> the occupational safety and working conditions Code commences
+SAME EVENT -> that commencement repeals the 1979 Act
+MAY 2026 -> final Central Rules are notified for Central-jurisdiction establishments
+STILL OPEN -> State rules and actual enforcement, because labour is concurrent
+CLOSE DISTINCTION: Urban poor is not synonymous with slum resident, migrant is not...
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: Migration pull structure
+
+```ascii-master
+PUSH -> agricultural underemployment, drought and debt distress, thin non-farm opportunity
+-> PULL: agglomeration economies through spillovers, labour pooling and input sharing
+-> PULL: informal work in construction, domestic service and vending concentrated in metros
+-> PULL: better public services and a wage premium despite informal housing
+NETWORK -> earlier migrants lower entry barriers; small towns lack absorptive density
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use urban livelihoods, shelters, PMAY-U and...
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: Spatial policy trade-offs
+
+```ascii-master
+AREA-BASED -> special purpose vehicle concentrates investment in selected zones
+PAN-CITY -> transport, water and waste components reach wider populations
+CRITIQUE -> selection favours served areas; showcase priority; weak slum and homeless voice
+UPGRADING VERSUS RESETTLEMENT -> livelihood continuity against central land release
+TENURE VERSUS TITLE -> occupancy certificates secure against eviction without ownership
+```

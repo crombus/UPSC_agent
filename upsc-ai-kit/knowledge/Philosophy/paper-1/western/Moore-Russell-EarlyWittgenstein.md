@@ -15,7 +15,7 @@ THE ANALYTIC REVOLT AGAINST ABSOLUTE IDEALISM
   ─────────────────────          ────────────────────          ─────────────────────────────
   Defence of Commonsense         Logical Atomism               Picture Theory of Meaning
   Refutation of Idealism         Logical Constructions         Saying vs Showing
-  "Here is one hand"             Incomplete Symbols            (Tractatus Logico-Philosophicus, 1921)
+  "Here is one hand"             Incomplete Symbols              (German 1921; bilingual *Tractatus*, 1922)
   analysis ≠ system              Theory of Descriptions
                                  "paradigm of philosophy"
 ═══════════════════════════════════════════════════════════════
@@ -30,12 +30,35 @@ THE ANALYTIC REVOLT AGAINST ABSOLUTE IDEALISM
 | **Logical Atomism** | **RUSSELL** (and distinctly Wittgenstein in the *Tractatus*) | "The Philosophy of Logical Atomism" (1918); *Tractatus* |
 | **Logical Constructions** | **RUSSELL** | "The Relation of Sense-Data to Physics" (1914); *Our Knowledge of the External World* |
 | **Incomplete Symbols** | **RUSSELL** | "On Denoting" (1905); *Principia Mathematica* |
-| **Picture Theory of Meaning** | **EARLY WITTGENSTEIN** | *Tractatus Logico-Philosophicus* (1921) |
+| **Picture Theory of Meaning** | **EARLY WITTGENSTEIN** | German publication 1921; bilingual *Tractatus* 1922 |
 | **Saying and Showing** | **EARLY WITTGENSTEIN** | *Tractatus*, propositions 4.12–4.1212, 6.522, 7 |
 
 > 🔑 **Mnemonic — "Moore DEFENDS, Russell DISSECTS, Wittgenstein PICTURES."**
 
-> ⚠️ **UPSC Trap:** Do NOT blur the three. Moore's commonsense realism is not Russell's logical analysis; Russell's logical atomism (built on the theory of descriptions) is not identical to Wittgenstein's *Tractatus* atomism (built on the picture theory). Attribute precisely.
+> ⚠️ **UPSC Trap:** Do NOT blur the three. Moore's commonsense method is not Russell's logical analysis; Russell's atomism is supported by contextual elimination but not proved by description theory; Wittgenstein's *Tractatus* gives a distinct condition-of-sense atomism. Attribute precisely.
+
+---
+
+### 0A. SOURCE, PERIOD AND OWNER-SCOPE MAP
+
+- 📝 The official syllabus prints **“Sying and Showing.”** Retain that wording when quoting the syllabus, then use the correct doctrine-name **Saying and Showing**.
+
+| Thinker/work | Marks-essential ownership |
+|---|---|
+| Moore, “The Refutation of Idealism” (1903) | awareness/object distinction and the limited anti-idealist conclusion |
+| Moore, “A Defence of Common Sense” (1925); “Proof of an External World” (1939) | truisms, comparative certainty, proof conditions and sceptical burden |
+| Russell, “On Denoting” (1905) | contextual analysis of definite descriptions |
+| Russell, *The Problems of Philosophy* (1912) and related papers | acquaintance/description as prerequisite to description theory |
+| Russell, *Our Knowledge of the External World* (1914) and construction papers | logical constructions and external-world reconstruction |
+| Russell, “The Philosophy of Logical Atomism” (1918) | atomic facts/propositions, analysis and negative facts |
+| Early Wittgenstein, *Tractatus Logico-Philosophicus* (1921/22) | facts, objects, logical space, picture theory, truth-functions and saying/showing |
+
+- Russell's views changed. Sense-data/acquaintance, 1918 atomism and later neutral monism must not be presented as one timeless doctrine.
+- Moore's naturalistic fallacy and Open Question Argument belong to ethics and are not printed in this owner. The paradox of analysis is useful method-context, not a separate syllabus limb.
+- Russell's paradox, theory of types and later neutral monism are optional orientation unless a question explicitly asks for them.
+- The verification principle belongs to **Logical Positivism**, the next topic. The *Tractatus* supplies historical pressure and a say/show boundary, not verificationism.
+- Meaning-as-use, language-games, family resemblance and private language belong to **Later Wittgenstein**. Colour exclusion and the 1929 transition may diagnose an internal pressure only.
+- Analysis is the cross-cutting method, but it differs: Moore distinguishes what ordinary judgment commits us to; Russell exposes quantified logical form; early Wittgenstein investigates conditions and limits of propositional representation.
 
 ---
 
@@ -44,6 +67,8 @@ THE ANALYTIC REVOLT AGAINST ABSOLUTE IDEALISM
 ### 1.1 "A Defence of Common Sense" (1925)
 
 **Thesis:** There exist numerous propositions about the world that we know to be true *with certainty*. Moore provides a list of "truisms" — "The earth has existed for many years past," "I have a body," "There are other human beings," "They have bodies," etc. Any philosophical argument whose conclusion contradicts these truisms is **less certain** than the truisms themselves and should therefore be rejected. ✅
+
+“Common sense” here is not opinion polling, convention or whatever most people happen to believe. It is a set of ordinary world-claims Moore says each of us knows, together with a comparative-certainty method: a sceptical or idealist premiss must be more credible than the truism it would overturn. The list is philosophically contestable rather than infallible by definition.
 
 **Key distinction — knowing a proposition vs analysing it:**
 
@@ -77,7 +102,7 @@ Moore insists we must not confuse failure of analysis with failure of knowledge.
 
 **Philosophical significance:** Moore reverses the burden of proof. Instead of proving the external world to the sceptic's satisfaction, he challenges the sceptic: any argument *concluding* hands don't exist must contain at least one premise *less* certain than the conclusion it denies. ✅
 
-**Strongest objection → reply ❓:** the proof is question-begging — the sceptic doubts precisely whether Moore *knows* the premiss, so asserting it settles nothing. **Moore's reply:** he never claimed to convince the sceptic; he claimed to show that the sceptic's argument cannot be *sound*, because its premisses are always less certain than what it denies. **Wittgenstein's diagnosis** (*On Certainty*, 1969) is the deepest response to both: propositions like "here is a hand" are not things we *know* at all but hinges on which knowing and doubting turn — Moore misdescribes his own certainty as knowledge. See [`Later-Wittgenstein.md`](Later-Wittgenstein.md). Contrast **Kant's Refutation of Idealism**, which *derives* the external world from the sceptic's own premiss rather than refusing the demand: [`Kant.md`](Kant.md) §3.7.
+**Strongest objection → reply ❓:** the proof is question-begging—the sceptic doubts precisely whether Moore *knows* the premiss. **Moore's reply:** he need not first prove every known premiss; he claims that no sceptical argument has premises more certain than the ordinary proposition denied. **Later boundary:** *On Certainty* re-examines whether such propositions function as ordinary knowledge-claims or as framework/hinge certainties. That positive later account belongs to [`Later-Wittgenstein.md`](Later-Wittgenstein.md). Contrast Kant's transcendental strategy in [`Kant.md`](Kant.md) §3.7.
 
 ### 1.3 The Paradox of Analysis ⚠️
 
@@ -85,7 +110,7 @@ If a correct analysis of "X is a brother" is "X is a male sibling," then either:
 - The analysis says the same thing as the original → it is trivially uninformative; or
 - It says something different → it is incorrect (not an *analysis* of the same concept).
 
-This paradox troubled Moore. His pragmatic response: analysis can be genuinely informative even though analysandum and analysans refer to the same concept — the *mode of presentation* differs. The paradox shows why philosophical analysis is harder than it looks.
+This Moore-associated paradox has no settled Moorean solution. Fregean differences of sense/mode of presentation and later accounts of concepts or synonymy are proposed responses. Use it only to explain why analysis cannot be reduced to trivial verbal substitution; it is optional context here.
 
 ---
 
@@ -112,7 +137,7 @@ Moore's central move: In every sensation or experience, we must **distinguish** 
 
 ### 2.3 Result
 
-If the object of awareness is *not identical with* the act of awareness, then objects can exist independently of being perceived. *Esse* is NOT *percipi*. Idealism's master equation fails. **Realism** — the mind-independent existence of objects — is restored. ✅
+If the object of awareness is not identical with the act of awareness, *esse* cannot simply be defined as *percipi*. This blocks a central argument for idealism. It does **not**, by that distinction alone, prove that the object exists unperceived or establish a complete mind-independent realism. ✅
 
 ### 2.4 Significance for UPSC
 
@@ -130,11 +155,11 @@ If the object of awareness is *not identical with* the act of awareness, then ob
 
 ### 3.1 Statement ✅
 
-The world is composed of **atomic facts** — simple, irreducible facts that cannot be analysed further. A logically perfect language would mirror this structure: **atomic propositions** (built from logically proper names + predicates) would correspond one-to-one with atomic facts. Complex propositions are **truth-functions** of atomic ones. ✅
+In Russell's 1918 lectures an **atomic fact** contains no other facts as constituents: a particular exemplifies a quality or several particulars stand in a relation. It may therefore contain particulars and universals without being a microscopic or constituent-less object. A logically analysed language uses **atomic propositions** for such facts; molecular propositions are built with logical operations. ✅
 
 **Core claims:**
-1. The world has an ultimate logical structure — it is composed of **simples** (logical atoms).
-2. **Language**, at its logically fundamental level, mirrors this structure — the structure of a true proposition mirrors the structure of the fact it asserts.
+1. Analysis seeks particulars, qualities and relations that function as logical atoms in a given phase of Russell's theory.
+2. Language, at its logically fundamental level, represents the structure of facts; this is not yet Wittgenstein's stricter doctrine of picturing and logical form.
 3. The task of philosophy is **logical analysis** — decomposing complex propositions into their atomic constituents and revealing the logical form hidden beneath grammatical form.
 
 ### 3.2 Atomic vs Molecular Propositions
@@ -150,7 +175,16 @@ The world is composed of **atomic facts** — simple, irreducible facts that can
 
 A true proposition and the fact it asserts share the same **logical structure** (isomorphism). Names in the proposition correspond to objects in the fact; the arrangement of names corresponds to the arrangement of objects. This is the bridge between language and world in Russell's atomism.
 
-> ⚠️ **Distinction from Wittgenstein's atomism:** Russell's logical atoms include sense-data and universals as simples; Wittgenstein's *Tractatus* atoms ("objects") are unspecified as to their nature and are known only by their logical role. Russell's atomism is *epistemologically* grounded (sense-data); Wittgenstein's is *logically* grounded (what must be the case for language to be meaningful at all). See §5.2 below.
+> ⚠️ **Distinction from Wittgenstein's atomism:** Russell's logical atoms include acquainted particulars and universals, often sense-data in this phase; Wittgenstein's *Tractatus* objects remain unspecified and are characterised by combinatorial possibilities. Russell's programme combines logical and epistemological analysis; Wittgenstein's argument is primarily transcendental-logical. See §7 below.
+
+### 3.4 Facts, propositions and negative facts
+
+- **Facts** are what make propositions true or false; facts themselves are not truth-bearers. A proposition/sentence represents or asserts that a fact obtains.
+- Russell's positive atomic fact has a particular–quality or relational structure. “Atomic” means no facts as constituents, not no internal constituents whatsoever.
+- Russell reluctantly accepts **negative facts** to account for true negative propositions such as “Socrates is not alive”: truth seems to require the fact that a positive state does not obtain.
+- The move is contested because a negative fact appears to add absences to ontology. Russell treats this as a cost of preserving a direct truth-making relation.
+- Early Wittgenstein takes a different route: obtaining elementary states constitute the world, while their totality also determines which possible states do not obtain; negation is not a further object or logical constant standing for something.
+- Russell's views of propositions, acquaintance and neutral events changed across works. Do not combine every phase into one ontology.
 
 ---
 
@@ -210,6 +244,8 @@ The *scope* of a description matters when negation or propositional-attitude ver
 
 The theory of descriptions establishes the **fundamental principle of analytic philosophy:** the surface grammatical structure of a sentence may radically mislead about its logical structure. The task of philosophy is to reveal the **logical form** hidden by language. ✅
 
+Its relation to logical atomism must be stated carefully. Contextual analysis removes merely apparent constituents and leaves quantified structure plus genuine logical constituents; this supports the atomist search for final residues. It does not, by itself, prove that analysis terminates, identify all simples or show that reality is exhaustively atomic.
+
 ### 4.7 KNOWLEDGE BY ACQUAINTANCE vs KNOWLEDGE BY DESCRIPTION ✅ — the epistemology that makes the Theory of Descriptions work
 
 **Why it is indispensable here.** The Theory of Descriptions is not merely a piece of logical grammar; it exists to discharge an **epistemological** debt. Russell needs to explain how we can think and speak truly about things we have never encountered — the centre of mass of the solar system, Bismarck, the golden mountain. The apparatus is the acquaintance/description distinction (*Problems of Philosophy*, 1912, Ch. 5; "Knowledge by Acquaintance and Knowledge by Description," *PAS* 1910–11).
@@ -220,7 +256,7 @@ The theory of descriptions establishes the **fundamental principle of analytic p
 |---|---|
 | **Direct**, presentational, non-inferential — I am *directly aware* of the item, without any intermediary of inference or knowledge of truths | **Indirect**, propositional — I know that *there is exactly one thing* answering to a description, and whatever is inferred of it |
 | Objects: **sense-data** (this patch of red, this hardness), **memory** data, **introspective** data of my own mental states, and **universals** (redness, before, diversity) | Objects: physical objects, other minds, historical persons, unobservables of science — everything I have not met |
-| Yields **logically proper names** — for Russell, only demonstratives like "this," "that," used of a present sense-datum | Yields **denoting phrases** — "the F," which Russell's 1905 analysis shows to be an **incomplete symbol**, with no meaning in isolation |
+| In Russell's austere 1910s phase, demonstratives such as "this/that" used for present acquaintance are candidates for **logically proper names** | Yields denoting phrases—“the F”—contextually eliminated rather than treated as names |
 | Basis of all understanding | Built out of acquaintance-items by logical construction |
 
 **The Principle of Acquaintance ✅ (state it verbatim in any descriptions answer):**
@@ -247,7 +283,7 @@ Russell's moral: "**we shall say that we have *merely descriptive* knowledge of 
 - **P1** There is a class of items given *without inference* — the whole edifice depends on this, and it is exactly what Sellars later attacks as "the Myth of the Given."
 - **P2** Understanding is *constituent-grasping* (a compositional, quasi-Fregean model of thought).
 - **P3** Sense-data are objects distinct from the act of sensing (Moore's act/object distinction, §2.2 — Russell inherits it).
-- **P4** Only "this/that" are genuine names; ordinary proper names are **disguised definite descriptions**. This last is the thesis Kripke will destroy.
+- **P4** In Russell's austere phase, only demonstratives tied to present acquaintance count as logically proper names; ordinary proper names are analysed as disguised descriptions. This is phase-specific, and Kripke later attacks the ordinary-name thesis.
 
 **Strongest objections → replies:**
 | Objection | Source | Reply | Residual |
@@ -268,6 +304,8 @@ Russell's moral: "**we shall say that we have *merely descriptive* knowledge of 
 
 This is Russell's "supreme maxim of scientific philosophizing" — a methodological application of Occam's razor. If we can account for all the truths about Xs by analysing X-talk in terms of entities we *already* know (sense-data, classes of experiences), we should *not* posit Xs as additional entities.
 
+This is a period-specific construction programme, not Russell's permanent final ontology. Later neutral monism reconceives mental and physical items in terms of neutral events; it is not a printed limb and must not be folded back into the 1914/1918 account.
+
 **Examples:**
 | Apparent entity | Constructed out of… |
 |---|---|
@@ -281,12 +319,12 @@ This is Russell's "supreme maxim of scientific philosophizing" — a methodologi
 | Logical Atoms (basic) | Logical Constructions (derived) |
 |---|---|
 | Genuinely exist as independent simples | Do not exist as additional entities; *symbols* for them are defined contextually |
-| Known by acquaintance (sense-data, universals) | Known by *description* — and analysed away |
+| Constituents treated as basic within the relevant analysis | Derived discourse receives a contextual construction and adds no separate entity |
 | Ground of knowledge | Convenient shorthand for complexes of atoms |
 
 ### 5.3 Connection to Incomplete Symbols
 
-Logical constructions are treated as **incomplete symbols at the ontological level**: just as "the present King of France" disappears upon analysis, so "the table" can be made to disappear — replaced by talk of actual and possible sense-data. The table is not a *fiction* (we still say true things about it) but it is not an irreducible entity in the furniture of the world.
+Talk of logical constructions can be given contextual definitions: just as a description disappears as a constituent, “the table” may be reconstructed through ordered actual and possible perceptual data in Russell's phenomenalist phase. This is a proposed reduction/structural reconstruction, not the claim that ordinary objects are meaningless or mere imaginary fictions.
 
 ---
 
@@ -298,7 +336,7 @@ Logical constructions are treated as **incomplete symbols at the ontological lev
 
 The world is not a collection of objects but of **facts** — objects standing in determinate relations (states of affairs / *Sachverhalte*). What exists is not a list of things but the *way things are arranged*.
 
-**States of affairs (*Sachverhalt*):** A possible combination of objects. If a state of affairs obtains, it is a **fact**. Objects are simple; they combine into states of affairs; the totality of obtaining states of affairs = the world.
+**State of affairs (*Sachverhalt*):** a possible combination of objects; if it obtains, it contributes to the facts that constitute the world. Translation is delicate: Ogden/Ramsey often renders *Sachverhalt* as “atomic fact,” while Pears–McGuinness uses “state of affairs.” Use one translation consistently and do not equate Wittgenstein's object-combinations with Russell's epistemically identified atoms.
 
 ### 6.2 The Picture Theory of Meaning ✅ (PYQ 2022 Q3(c))
 
@@ -336,10 +374,10 @@ These three are one doctrine seen from three sides, and no *Tractatus* answer is
 3. ∴ Sense requires the genuine availability of both truth-values.
 4. **Consequence 1 — tautologies and contradictions are *sinnlos*.** A tautology cannot be false and a contradiction cannot be true; they lack bipolarity, hence lack sense. They are not *nonsense* — they are well-formed but say nothing, showing the scaffolding of logic instead (4.461–4.4611).
 5. **Consequence 2 — metaphysical sentences are *unsinnig*.** "The Absolute is perfect," "objects exist" do not fail bipolarity by being always-true; they fail to depict any possible situation at all.
-6. **Consequence 3 — elementary propositions must be logically independent** (2.061, 4.211). If p entailed q, then given p, q could not be false — q would lose bipolarity relative to p. This is the requirement that later collapses.
-7. **Consequence 4 — this is the direct ancestor of verificationism.** The positivists convert "must be capable of truth and falsity" into "must be capable of verification"; the lineage runs *Tractatus* → Schlick/Waismann → Ayer. See [`Logical-Positivism.md`](Logical-Positivism.md).
+6. **Consequence 3 — elementary propositions are postulated as logically independent** (2.061, 4.211): no elementary proposition follows from another, so every combination of their truth-values must represent a possible configuration. This is stronger than ordinary bipolarity and becomes difficult to maintain.
+7. **Consequence 4 — boundary from verificationism.** The *Tractatus* asks whether a proposition depicts a possible fact; it does **not** state the Vienna Circle's verification principle. Logical positivists later transform Tractarian resources into an empiricist criterion of significance. That positive doctrine belongs to [`Logical-Positivism.md`](Logical-Positivism.md).
 
-**Where it breaks — the COLOUR-EXCLUSION problem ✅❓.** "This patch is red all over" and "This patch is blue all over" cannot both be true, yet neither is a truth-function of the other and both look elementary. So elementary propositions are **not** logically independent after all. Wittgenstein concedes this in "Some Remarks on Logical Form" (1929) — his first published paper after the *Tractatus*, and one he immediately disliked. **This is the internal crack that opens the road to the later philosophy**, and naming it is the strongest available link between §6 and [`Later-Wittgenstein.md`](Later-Wittgenstein.md).
+**Where it is pressured—the colour-exclusion problem ✅❓.** “This patch is red all over” and “This patch is blue all over” are incompatible although neither looks like a truth-function of the other. The case pressures the assumption that apparently elementary propositions are mutually independent and helped drive Wittgenstein's 1929 search for a richer logical form. It does not by itself prove that no deeper analysis could preserve independence. Later positive developments remain with [`Later-Wittgenstein.md`](Later-Wittgenstein.md).
 
 #### 6.3.2 LOGICAL SPACE (*logischer Raum*) — where possibilities live
 
@@ -372,7 +410,7 @@ Read it as a **rule for generating every proposition** in three slots:
 | **ξ̄** | any arbitrarily selected **set** of propositions already formed |
 | **N(ξ̄)** | the result of applying the **N-operator** to that set |
 
-**The N-operator (5.502, 5.51)** is **joint negation** — "none of these is true" (the generalised Sheffer stroke / NOR). Its power is that **every truth-function whatsoever can be generated from N alone**: ¬p = N(p); p ∨ q = N(N(p), N(q)); p ∧ q = N(N(p), N(q)) suitably arranged; and quantification is handled by taking ξ̄ to be the set of values of a propositional function (5.52).
+**The N-operator (5.502, 5.51)** is **joint negation**—none of the selected propositions is true. If `N(p,q)` means `not-p and not-q`, then `not-p = N(p)`, `p or q = N(N(p,q))`, and `p and q = N(N(p),N(q))`. Wittgenstein treats quantification through sets of values of propositional functions (5.52); the adequacy of the notation for infinite or multiply general cases is disputed.
 
 **What proposition 6 therefore asserts — numbered:**
 1. Every proposition is a **truth-function** of elementary propositions (5).
@@ -382,23 +420,23 @@ Read it as a **rule for generating every proposition** in three slots:
 5. ∴ Since the form is fixed in advance, "**there can be no surprises in logic**" (6.1251) and logic's propositions are tautologies (6.1).
 6. ∴ Whatever cannot be produced by this rule is **not a proposition**. The general form is therefore simultaneously the **criterion of the sayable** and the boundary drawn in the Preface: "the limit… can only be drawn in language, and what lies on the other side of the limit will simply be nonsense."
 
-**Presuppositions ⚠️ (of the whole §6.3 apparatus):** (P1) there **are** elementary propositions and simple objects — Wittgenstein never produces an example of either, arguing only that there *must* be, on pain of sense being indeterminate (2.021, 3.23); (P2) elementary propositions are logically independent (falsified by colour exclusion); (P3) every proposition is truth-functional (falsified by belief-contexts and modality — Wittgenstein's attempted answer at 5.542, that "A believes p" is of the form "'p' says p," is widely judged inadequate); (P4) the N-operator can handle **infinite** domains, which is disputed (Fogelin's objection that the notation cannot express multiply-general propositions; Geach's partial defence).
+**Presuppositions ⚠️ (of the whole §6.3 apparatus):** (P1) there are elementary propositions and simple objects, although Wittgenstein gives no uncontested example; (P2) elementary propositions are logically independent, which colour exclusion seriously pressures; (P3) all propositions are truth-functions of elementary ones, while belief-contexts and modality create difficulties; (P4) the N-operator can handle infinite domains, which remains disputed. State these as pressures and later developments, not as simple refutations already conceded inside the *Tractatus*.
 
-**Executable verdict for §6.3:** "Bipolarity, logical space and the general form are one doctrine: sense is position in a fixed field of possibilities, and the field is generated by a single operation on an elementary base. The doctrine is the most economical account of meaning ever constructed — and it is defeated by its own economy, since colour exclusion shows the elementary base cannot be independent, and belief-contexts show that not every proposition is truth-functional. Wittgenstein's later work is not a change of subject but the systematic dismantling of these two presuppositions."
+**Executable verdict for §6.3:** Bipolarity, logical space and the general form link sense to a field of possible configurations generated from an elementary base. Colour incompatibility and non-extensional contexts pressure independence and truth-functionality; they motivate later revision without licensing an automatic leap to meaning-as-use inside this owner.
 
 ### 6.4 Tautology, Contradiction and the Limits of Sense ✅
 
 Every proposition is a truth-function of elementary propositions. Elementary propositions consist of names in immediate combination; they are logically independent of one another. A proposition is meaningful iff it pictures a possible state of affairs — i.e., is a truth-function of elementary propositions that could be true or false.
 
-**Tautology and Contradiction — *sinnlos* (senseless) vs *unsinnig* (nonsensical):**
+**Tautology and contradiction—senseless (*sinnlos*) versus nonsensical (*unsinnig*):**
 
 | Term | Status | Example | Cognitive value |
 |---|---|---|---|
-| **Tautology** (*sinnlos*) | True under all truth-conditions; says nothing about the world | "It is raining or it is not raining" | Logically valid but factually empty — *senseless*, not *nonsensical* |
-| **Contradiction** (*sinnlos*) | False under all truth-conditions | "It is raining and it is not raining" | Logically impossible — also senseless |
-| **Metaphysical pseudo-proposition** (*unsinnig*) | Violates the conditions of sense — tries to *say* what can only be *shown* | "The Absolute is perfect"; "There are objects" | **Nonsensical** — not even in the truth-function game |
+| **Tautology**—senseless (*sinnlos*) | True under all truth-conditions; says nothing about the world | "It is raining or it is not raining" | Logically valid but factually empty—not nonsensical |
+| **Contradiction**—senseless (*sinnlos*) | False under all truth-conditions | "It is raining and it is not raining" | A limiting case that says nothing |
+| **Metaphysical pseudo-proposition**—nonsensical (*unsinnig*) | Fails the conditions of factual sense | "The Absolute is perfect"; "There are objects" | Not a truth-functional picture of a possible fact |
 
-> ⚠️ **UPSC Trap:** *Sinnlos* ≠ *unsinnig*. Tautologies of logic are *senseless* (empty of factual content but perfectly well-formed); metaphysical sentences are *nonsensical* (they fail to picture any possible fact). The Logical Positivists later absorbed this distinction into their rejection of metaphysics.
+> ⚠️ **UPSC Trap:** senseless (*sinnlos*) is not nonsensical (*unsinnig*). Logical positivists later transform this boundary; do not attribute their verification criterion to the *Tractatus*.
 
 ### 6.5 Saying vs Showing ✅ (PYQ 2021 Q4(c))
 
@@ -414,11 +452,11 @@ Every proposition is a truth-function of elementary propositions. Elementary pro
 
 > ✅ *"What can be shown, cannot be said."* (*Tractatus* 4.1212)
 
-**The Mystical:** "There are, indeed, things that cannot be put into words. They make themselves *manifest*. They are what is mystical." (*Tractatus* 6.522) — Ethics, God, the meaning of life are not denied; they are placed beyond the reach of meaningful discourse. ✅
+**Interpretive control:** on the standard ineffability reading, logical form, value and the mystical manifest themselves although they cannot be stated as facts. On resolute/therapeutic readings, 6.54 does not license a body of ineffable truths; the apparent doctrines are elucidatory nonsense to be discarded. Both readings agree that ethics, aesthetics and the mystical are not factual propositions within logical space.
 
 ### 6.6 The Ladder Metaphor and Proposition 7 ✅ (PYQ 2021 Q4(c))
 
-> ✅ *"My propositions serve as elucidations in the following way: anyone who understands me eventually recognises them as nonsensical, when he has used them — as steps — to climb beyond them. (He must, so to speak, throw away the ladder after he has climbed it.)"* (*Tractatus* 6.54)
+> ✅ Pears–McGuinness rendering: *"My propositions serve as elucidations in the following way: anyone who understands me eventually recognises them as nonsensical, when he has used them—as steps—to climb beyond them. (He must, so to speak, throw away the ladder after he has climbed it.)"* (*Tractatus* 6.54)
 
 The *Tractatus* is self-consciously paradoxical: its own propositions attempt to *say* what can only be *shown* (e.g. the nature of logical form, the limits of language). Once the reader grasps this, the propositions are discarded — their purpose fulfilled.
 
@@ -426,7 +464,7 @@ The *Tractatus* is self-consciously paradoxical: its own propositions attempt to
 
 > ✅ *"Whereof one cannot speak, thereof one must be silent."* (*Tractatus* 7)
 
-This is not anti-intellectualism; it is a precise demarcation. The sayable (science, logic) is fully legitimate; the unsayable (ethics, aesthetics, the mystical, the logical structure of language itself) is *real* but not articulable in propositions. Silence is respect, not denial.
+This is not a verification principle or a declaration that value-claims are empirically false. Standard readers treat value and the mystical as manifest but unsayable; resolute readers resist calling them ineffable truths. The ladder therefore creates a deliberate interpretive problem rather than one uncontested metaphysical doctrine.
 
 > ⚠️ **2021 Q4(c) strategy:** Explain the say/show distinction, then show that the *Tractatus* itself falls on the "showing" side — hence the ladder metaphor; silence is the *logical* consequence, not a personal preference.
 
@@ -436,19 +474,19 @@ This is not anti-intellectualism; it is a precise demarcation. The sayable (scie
 
 | Axis | Moore | Russell | Early Wittgenstein |
 |---|---|---|---|
-| **Target** | Idealism (*esse est percipi*) | Metaphysical excess / ontological inflation | Limits of meaningful language |
+| **Target** | Scepticism and idealist conflation | Misleading grammar and ontological inflation | Conditions and limits of propositional sense |
 | **Core tool** | Commonsense + act/object distinction | Logical analysis (theory of descriptions) | Picture theory of propositions |
-| **Ontology** | Realism — mind-independent objects | Logical atoms (sense-data + universals); constructions | Facts (states of affairs), not things; objects unspecified |
-| **Metaphysics** | Analyse it, don't abolish it | Trim by constructions; tolerate what survives analysis | Most is *unsinnig* — silence; only what can be pictured is sayable |
-| **Private mental life** | Real; distinct from objects | Sense-data as epistemic base | Not addressed (but language presupposes logical form, not private experience) |
-| **Legacy** | Oxford ordinary-language philosophy | Logical positivism; Quine | Logical positivism (initially); then repudiated by his *own* later self |
+| **Ontology** | Ordinary objects accepted; full perceptual theory underdetermined | Particulars, qualities/relations, facts and phase-specific constructions | Facts in logical space; simple objects left unspecified |
+| **Metaphysics** | Reject conclusions less certain than truisms; analyse commitments | Eliminate pseudo-constituents and test what remains | Factual propositions say; logic/value/metaphysics raise the say/show problem |
+| **Self/subject** | Conscious act distinguished from its object | Acquaintance framework varies across phases | Solipsism and the metaphysical subject appear at the limit of the world, but are optional here |
+| **Legacy** | Analytic/common-sense method | Formal analysis and ontological economy | Influences positivism, then undergoes Wittgenstein's own later criticism |
 
 ### Russell's Logical Atomism vs Wittgenstein's *Tractatus* Atomism
 
 | | Russell | Wittgenstein |
 |---|---|---|
-| What are the "atoms"? | Sense-data, universals — identifiable by acquaintance | "Objects" — logical simples whose nature is unspecified; known only via their combinatorial possibilities |
-| Epistemological ground | Foundationalist: knowledge by acquaintance vs description | Not epistemological — purely logical: what *must* be the case for propositions to have determinate sense |
+| What are the "atoms"? | Acquainted particulars plus qualities/relations in the 1918 programme; not physical particles | Objects—logical simples whose nature is unspecified and whose possibilities of combination determine logical space |
+| Epistemological ground | Combines logical analysis with a changing acquaintance-based epistemology | Primarily a condition-of-sense argument, not Russell's sense-datum identification |
 | Logical independence of atoms | Acknowledged, somewhat loosely | Strictly insisted upon — elementary propositions are logically independent |
 | Published expression | "The Philosophy of Logical Atomism" lectures (1918) — acknowledges Wittgenstein's influence | *Tractatus* (written 1918, pub. 1921) |
 
@@ -470,16 +508,39 @@ This is not anti-intellectualism; it is a precise demarcation. The sayable (scie
 |---|---|
 | Strawson ("On Referring", 1950): "The present King of France is bald" is not false but involves a failed *presupposition*; the question of truth/falsehood does not arise | ✅ A genuine rival analysis; see [Quine-Strawson](Quine-Strawson.md) §3.4 |
 | What are "logically proper names" that refer directly to simples? Russell admits only "this" and "that" in moments of sense-experience qualify — deeply restrictive | ✅ Yes; Russell was aware this shrinks the realm of genuine names drastically |
-| Quine: the analytic–synthetic distinction on which "meaning in isolation" rests is itself untenable | ⚠️ Quine's holism undermines the isolation criterion; but the *logical* move of the theory of descriptions (contextual definition) survives within a holistic framework |
+| Negative facts inflate ontology, while the final atoms remain unstable across Russell's phases | Russell accepts negative facts as a truth-making cost and treats analysis as provisional; this weakens any claim that one fixed final inventory was established |
 
 ### 8.3 Criticisms of the *Tractatus*
 
 | Objection | Assessment |
 |---|---|
-| The picture theory cannot account for ethical, aesthetic, or religious language — it consigns them to silence | ✅ This is Wittgenstein's own admission and the motive for his *later* philosophy |
-| Self-refutation: the *Tractatus* tries to *say* what (by its own lights) can only be *shown* — so its own propositions are nonsensical | ✅ Wittgenstein acknowledges this (the ladder metaphor); it is a feature, not a bug — but it makes the work's *status* deeply puzzling |
-| No examples of genuine elementary propositions are ever given | ✅ Wittgenstein admits this; it remains a lacuna — we never learn what "objects" are |
-| Later Wittgenstein: the assumption of one logical form behind all language is wrong — there are indefinitely many language-games with no common essence | ✅ See [Later Wittgenstein](Later-Wittgenstein.md) |
+| Ethics, aesthetics and religion are not factual pictures | This is deliberate demarcation, but standard ineffability and resolute therapeutic readings disagree over whether ineffable truths remain |
+| Self-application: the *Tractatus*'s own elucidations fail its factual-sense criterion | Proposition 6.54 acknowledges the ladder problem; whether this is successful therapy or unstable doctrine remains disputed |
+| No uncontested examples of simple objects or elementary propositions are supplied | The text argues that simples are required for determinate sense; critics question whether transcendental necessity identifies an actual base |
+| Colour exclusion and other uses resist one independent elementary base | These pressures motivate later revision; meaning-as-use and language-games remain with the later owner |
+
+---
+
+## 8A. MARKS-ESSENTIAL OWNER CONTENT AND OPTIONAL ENRICHMENT
+
+### Core owner
+
+- ✅ Moore: common-sense defence, external-world proof and refutation of idealism.
+- ✅ Russell: logical analysis, atomism, constructions, incomplete symbols, descriptions and acquaintance prerequisite.
+- ✅ Early Wittgenstein: facts/objects/states, logical space, picture theory, truth-functions, saying/showing and ladder problem.
+- ✅ All fourteen routed PYQs with thinker-specific answer routes.
+
+### Bounded orientation
+
+- ⚠️ Moore's paradox of analysis, Russell's negative facts/universals and Wittgenstein's logical-space/solipsism remarks appear only where they make printed limbs executable.
+- ⚠️ Colour exclusion and the 1929 paper diagnose internal pressure but do not import the later positive philosophy.
+
+### Cross-owned or optional
+
+- ⚠️ Moore's naturalistic fallacy/Open Question Argument belongs to ethics.
+- ⚠️ Russell's paradox, theory of types, logicism and later neutral monism are not printed limbs.
+- ⚠️ Verificationism belongs to Logical Positivism; meaning-as-use, language-games and private language belong to Later Wittgenstein.
+- ⚠️ Strawson, Kripke, Sellars and Quine are one-objection enrichment only; their positive systems remain with later owners.
 
 ---
 
@@ -487,14 +548,16 @@ This is not anti-intellectualism; it is a precise demarcation. The sayable (scie
 
 | Trap | Discrimination |
 |---|---|
-| "Russell's logical atomism = Wittgenstein's logical atomism" | No. Russell's atoms are sense-data known by acquaintance; Wittgenstein's objects are logical simples unspecified in nature. |
+| "Russell's logical atomism = Wittgenstein's logical atomism" | No. Russell combines particulars/universals, facts and changing acquaintance commitments; Wittgenstein postulates unspecified objects through conditions of sense. |
 | "Incomplete symbols are meaningless" | No. They have no meaning *in isolation*; they contribute systematically to the meaning of whole sentences. |
 | "The theory of descriptions shows the King-of-France sentence is meaningless" | No — it shows the sentence is **false**. Meaninglessness is what it *avoids*. |
-| "Moore *proves* realism" | Not quite — he shows the idealist's *argument* fails; he shifts the burden of proof. He does not construct a positive proof of the existence of matter beyond commonsense. |
+| "Moore's act/object distinction proves mind-independent objects" | No. It blocks identity of awareness and object; unperceived existence requires further argument. His hands proof separately shifts the sceptical burden. |
 | "*Sinnlos* (senseless) = *unsinnig* (nonsensical)" | No. Tautologies are *sinnlos* (empty but well-formed); metaphysical pseudo-propositions are *unsinnig* (violations of sense). |
-| "The *Tractatus* rejects ethics and religion as false" | No — it says they lie *beyond* the sayable; they *show* themselves. "Silence" is demarcation, not dismissal. |
+| "The *Tractatus* rejects ethics and religion as false" | No. They are not factual propositions; whether they manifest ineffable value or are therapeutic pseudo-sentences divides standard and resolute readings. |
 | "Saying and showing" = the easy/hard problem | No. It is about *logical expressibility*: propositions can SAY facts; the logical form that makes this possible can only SHOW itself in propositions. |
 | "Logical constructions = fictions" | No. We can say true things about a nation or a table; they are not *additional ontological posits* but are analysable in terms of simpler entities. |
+| "The *Tractatus* states the verification principle" | No. Possible factual picturing is not the Vienna Circle's empirical verifiability criterion. |
+| Importing meaning-as-use into early Wittgenstein | Keep language-games, family resemblance and private language in the later owner; use colour exclusion only as a bounded transition pressure. |
 
 ---
 
@@ -545,22 +608,22 @@ This is not anti-intellectualism; it is a precise demarcation. The sayable (scie
 
 > ⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
 
-| Year | Question | Marks | Exact demand |
-|---|---|---:|---|
-| 2018 | Q3(c) | 15 marks | How does Wittgenstein apply the distinction between 'saying' and 'showing' to point to a single way of apprehending the most decisive problems of philosophy? Is he justified? Give reasons for your answer. |
-| 2018 | Q4(c) | 15 marks | How is Russell's theory of definite description related to his Logical Atomism? Discuss and give reasons for your answer. |
-| 2019 | Q3(c) | 15 marks | Why is Moore’s philosophy called common-sense realism? |
-| 2020 | Q2(b) | 15 marks | Critically discuss the following statement by Moore: “If anyone tells us that to say 'Blue exists' is the same thing as to say that 'Both blue and consciousness exist', he makes a mistake and a self-contradictory mistake.” |
-| 2020 | Q2(c) | 15 marks | “The reason that I call my doctrine logical atomism is because the atoms that I wish to arrive at as the sort of last residue in analysis are logical atoms and not physical atoms.” Write a note on the nature of atomic facts according to Russell in the light of the above statement. |
-| 2021 | Q3(a) | 20 marks | What are the main arguments put forward by Moore in his paper “A Defence of Common Sense” to prove that there are possible propositions about the world that are known to be true with certainty? Do you think Moore’s arguments provide a sufficient response to objections presented by the sceptic against the possibility of knowledge? Give reasons in support of your answer. |
-| 2021 | Q4(c) | 15 marks | What does Wittgenstein mean by the statement — “Whereof one cannot speak, thereof one must be silent?” Critically discuss. |
-| 2022 | Q1(b) | 10 marks | What is Bertrand Russell’s method of logical analysis? How does it ultimately end in establishing atomic theory of meaning? Discuss. |
-| 2022 | Q3(c) | 15 marks | Is there any difference between pictorial form and logical form in Ludwig Wittgenstein’s picture theory of language? How does the logical form define the relation between language and reality? Explain. |
-| 2023 | Q4(b) | 15 marks | Why according to Russell is the proposition — “The present king of France is bald” problematic? Critically discuss. |
-| 2024 | Q1(c) | 10 marks | What arguments are offered by Moore to prove that there are certain truisms, knowledge of which is a matter of common sense? Critically discuss. |
-| 2024 | Q3(a) | 20 marks | Explain Russell’s notion of incomplete symbols. Also explain how this notion leads to the doctrine of logical atomism. |
-| 2025 | Q1(d) | 10 marks | “The golden mountain is very high.” Discuss this statement in the context of Russell’s theory of descriptions. |
-| 2025 | Q3(c) | 15 marks | “Blue is one object of sensation and green is another, and consciousness, which both sensations have in common, is different from either.” Present an account of Moore’s refutation of idealism with reference to this statement. |
+| Year | Question | Marks | Exact demand | Answer route |
+|---|---|---:|---|---|
+| 2018 | Q3(c) | 15 marks | How does Wittgenstein apply the distinction between 'saying' and 'showing' to point to a single way of apprehending the most decisive problems of philosophy? Is he justified? Give reasons for your answer. | picture/logical-form limit → say/show table → 6.54 ladder → standard/resolute readings → verdict |
+| 2018 | Q4(c) | 15 marks | How is Russell's theory of definite description related to his Logical Atomism? Discuss and give reasons for your answer. | contextual elimination → genuine logical constituents → atomist search → does not prove termination/complete atomism |
+| 2019 | Q3(c) | 15 marks | Why is Moore’s philosophy called common-sense realism? | truisms → knowing/analysis distinction → comparative certainty → hands proof → sceptical objection |
+| 2020 | Q2(b) | 15 marks | Critically discuss the following statement by Moore: “If anyone tells us that to say 'Blue exists' is the same thing as to say that 'Both blue and consciousness exist', he makes a mistake and a self-contradictory mistake.” | awareness/object distinction → transparency → anti-identity conclusion → no automatic proof of unperceived existence |
+| 2020 | Q2(c) | 15 marks | “The reason that I call my doctrine logical atomism is because the atoms that I wish to arrive at as the sort of last residue in analysis are logical atoms and not physical atoms.” Write a note on the nature of atomic facts according to Russell in the light of the above statement. | logical not physical → particulars/qualities/relations → atomic/molecular propositions → negative-fact cost |
+| 2021 | Q3(a) | 20 marks | What are the main arguments put forward by Moore in his paper “A Defence of Common Sense” to prove that there are possible propositions about the world that are known to be true with certainty? Do you think Moore’s arguments provide a sufficient response to objections presented by the sceptic against the possibility of knowledge? Give reasons in support of your answer. | truism list → knowledge before analysis → certainty comparison → question-begging objection → qualified burden-shift |
+| 2021 | Q4(c) | 15 marks | What does Wittgenstein mean by the statement — “Whereof one cannot speak, thereof one must be silent?” Critically discuss. | proposition 7 translation → factual sense → ethics/mystical boundary → ladder/self-application → graded reading |
+| 2022 | Q1(b) | 10 marks | What is Bertrand Russell’s method of logical analysis? How does it ultimately end in establishing atomic theory of meaning? Discuss. | grammar/logical form → descriptions/constructions → atomic facts/propositions → provisional endpoint and limits |
+| 2022 | Q3(c) | 15 marks | Is there any difference between pictorial form and logical form in Ludwig Wittgenstein’s picture theory of language? How does the logical form define the relation between language and reality? Explain. | objects/states → depicting relation → pictorial form → logical form common to representation/reality → showing |
+| 2023 | Q4(b) | 15 marks | Why according to Russell is the proposition — “The present king of France is bald” problematic? Critically discuss. | empty apparent subject → existence/uniqueness/predication → false, not meaningless → scope/presupposition objection |
+| 2024 | Q1(c) | 10 marks | What arguments are offered by Moore to prove that there are certain truisms, knowledge of which is a matter of common sense? Critically discuss. | list and comparative certainty → no popular-opinion reading → sceptical burden → limited verdict |
+| 2024 | Q3(a) | 20 marks | Explain Russell’s notion of incomplete symbols. Also explain how this notion leads to the doctrine of logical atomism. | contextual definition → description analysis → constructions → genuine residues → supports but does not entail atomism |
+| 2025 | Q1(d) | 10 marks | “The golden mountain is very high.” Discuss this statement in the context of Russell’s theory of descriptions. | quantificational expansion → failed existence/uniqueness → false not meaningless → no Meinongian object |
+| 2025 | Q3(c) | 15 marks | “Blue is one object of sensation and green is another, and consciousness, which both sensations have in common, is different from either.” Present an account of Moore’s refutation of idealism with reference to this statement. | exact paper/target → awareness/object → transparency → *esse/percipi* non-identity → bounded conclusion |
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
@@ -587,7 +650,8 @@ Quote   : "Blue is one object of sensation and green is another, and consciousne
           which both sensations have in common, is different from either."
 Key move: Consciousness is DIAPHANOUS/transparent — we "see through" it to the object;
           this tempts us to conflate act and object. But they are distinct.
-Result  : If object ≠ act, objects can exist unperceived. Esse ≠ percipi. Realism restored.
+Result  : Object ≠ act, so esse cannot be defined as percipi; this blocks one idealist
+          argument but does not alone prove unperceived mind-independent existence.
 Assess  : Moore refutes one argument FOR idealism (Berkeley's equation) but does not
           directly address Absolute Idealism (Hegel) or provide a full theory of perception.
           Still, the act-object distinction became foundational for analytic philosophy.
@@ -604,7 +668,8 @@ Body-B  : Logical Constructions — "substitute constructions for inferences."
 Body-C  : Logical Atomism — the world mirrors the ideal logical language:
           atomic facts ↔ atomic propositions; molecular = truth-functions of atomic.
           The method of analysis terminates in logical atoms — simples.
-          The theory of descriptions is the ENGINE that drives analysis toward atoms.
+          Description theory removes pseudo-constituents and supports the search for
+          genuine residues; it does not prove that analysis terminates or identify all atoms.
 Assess  : Strengths — Occam's razor applied brilliantly; dissolves pseudo-problems.
           Weaknesses — what are the genuine "atoms"? Sense-data? Russell never fully identifies them.
           Strawson's rival account of descriptions (presupposition, not assertion of existence).
@@ -634,14 +699,14 @@ Close   : Incomplete symbols are the scalpel of analytic philosophy; logical ato
 
 | Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict** |
 |---|---|---|---|
-| **Defence of common sense** | Moore does not refute scepticism; he changes what needs defending, by insisting that no sceptical premiss is more certain than "here is a hand." | …The distinction between *knowing* a proposition and *analysing* it is the durable contribution: it shows that philosophical difficulty about analysis never by itself impugns ordinary knowledge. | Moore's method is a *procedure for weighing certainties*, and as such it is unanswerable but also unilluminating — it tells the sceptic he is wrong without saying why. Wittgenstein's *On Certainty* supplies what Moore lacked: hinge propositions are not known but *stand fast*, so Moore misdescribes his own certainty as knowledge. Moore is right against the sceptic and wrong about himself. |
-| **Refutation of Idealism** | Moore's refutation turns wholly on the act/object distinction: sensation has a content that is *not* the sensing of it. | …The "diaphanous" claim (consciousness is transparent, easily overlooked) is both the argument's engine and its weak point — if awareness is that elusive, the alleged distinction is asserted rather than exhibited. | Moore's paper is historically decisive and philosophically incomplete: it broke the hold of British Idealism by refusing *esse est percipi* rather than by disproving it, and it bequeathed the sense-datum theory whose collapse (Sellars) removed its own foundation. The revolt succeeded; the positive doctrine did not. |
-| **Theory of descriptions** | Descriptions is not a theory of meaning but a method of **elimination**: it removes an apparent constituent by rewriting the sentence. | …Its three payoffs are exact — the law of excluded middle is preserved by the scope distinction, negative existentials become intelligible, and identity puzzles dissolve — and each is a genuine solution, not a redescription. | Strawson's objection ("On Referring," 1950) that Russell confuses *asserting* existence with *presupposing* it identifies a real feature of ordinary use but does not damage the logical analysis, which was never offered as a description of conversation. The theory therefore survives as **logic** and fails as **semantics of natural language** — and Russell's own further claim, that ordinary names are disguised descriptions, is refuted by Kripke. Separate these three claims and the answer writes itself. |
-| **Acquaintance vs description** | The distinction exists to pay an epistemological debt: how we speak of what we have never met. | …The Principle of Acquaintance is the premiss and the Theory of Descriptions is the device that saves it — they are one doctrine, not two. | The logical machinery has proved permanent; the epistemology it was built to serve — sense-data as bedrock, names as disguised descriptions — has not survived Sellars's attack on the Given and Kripke's on the description theory of names. That asymmetry is the most instructive fact about Russell: his instruments outlived his purposes. |
-| **Logical atomism** | Atomism is the ontology that logical analysis *requires*: if analysis terminates, it terminates in simples. | …Russell's atoms are epistemic (sense-data, universals), Wittgenstein's are logical posits never exemplified — a difference that makes Russell's version empirically vulnerable and Wittgenstein's unfalsifiable. | Logical atomism is best read as a **conditional**: *if* language is fully analysable into truth-functions of independent elementary propositions, *then* the world has the structure of independent atomic facts. The antecedent fails — colour exclusion breaks independence, belief-contexts break truth-functionality — so the ontology lapses while the method of analysis survives. Wittgenstein drew this conclusion first, and against himself. |
-| **Logical constructions** | "Wherever possible, substitute constructions out of known entities for inferences to unknown entities" is Occam's razor turned into a working method. | …It succeeds for numbers and points; it strains for physical objects, since "possible sense-data" reintroduce unactualised entities the maxim was meant to avoid. | The maxim's real legacy is not its ontology but its *style*: it establishes reduction-by-contextual-definition as the characteristic technique of analytic philosophy, and it is the direct ancestor of Carnap's *Aufbau* and of Quine's ontological relativity. It failed as a programme and succeeded as a paradigm. |
-| **Picture theory** | Sense is the possession of a logical place: a proposition depicts by sharing logical form with a possible situation. | …Bipolarity is the condition, logical space the field, and the general form [p̄, ξ̄, N(ξ̄)] the generating rule — three faces of one doctrine. | The picture theory is the most economical account of meaning ever constructed and is defeated by its own economy: the elementary base cannot be logically independent (colour exclusion), and not every proposition is truth-functional (belief). Wittgenstein's later work is therefore not a recantation but the systematic dismantling of two presuppositions he was the first to identify. |
-| **Saying vs showing** | The distinction is not stipulated but forced: logical form is presupposed by all depiction, hence cannot itself be depicted. | …It makes the *Tractatus* self-consuming, which the ladder passage concedes rather than conceals; the book's own propositions are *unsinnig* by its own criterion. | Whether the self-application is a fatal contradiction or the book's deepest teaching is the standard-vs-resolute reading dispute (Anscombe/Hacker vs Diamond/Conant). The examiner-safe ruling: it is **not an inconsistency Wittgenstein overlooked** — 6.54 shows he saw it — so the *Tractatus* must be read as an activity of elucidation rather than a body of doctrine, which is precisely the conception of philosophy he retains for the rest of his life. |
+| **Defence of common sense** | Moore changes the burden by claiming no sceptical premiss is more certain than the ordinary proposition denied. | …Knowing/analysing prevents conceptual difficulty from automatically defeating ordinary knowledge. | The method weighs certainty but does not supply a neutral proof of its premiss; later hinge analysis is relevant comparison, not owner content here. |
+| **Refutation of Idealism** | Moore distinguishes awareness from its presented object, so *esse* cannot simply mean *percipi*. | …Transparency explains the temptation to conflate act and object, but introspective distinction alone may not establish mind-independence. | The paper blocks one route to idealism and historically aids analytic realism; it neither refutes every idealism nor completes a theory of perception. |
+| **Theory of descriptions** | A description is contextually eliminated into existence, uniqueness and predication conditions. | …This handles empty descriptions, negative existentials and scope without a nonexistent denoted object. | Strawson pressures the account as natural-language pragmatics/presupposition; Russell's quantificational analysis remains powerful without being the only complete semantic account. |
+| **Acquaintance vs description** | The distinction explains how discourse can concern items not directly presented. | …The acquaintance principle motivates contextual analysis, but description theory also has independent logical payoffs. | Russell's candidates for acquaintance and genuine names change across phases; later Sellars/Kripke objections are bounded evaluation only. |
+| **Logical atomism** | Analysis seeks atomic facts and propositions, but description theory does not prove that a final base exists. | …Russell identifies phase-specific particulars/universals; Wittgenstein postulates objects through combinatorial logical role. | Negative facts, unstable simples, colour incompatibility and non-extensional contexts pressure atomist programmes differently; do not treat the two atomisms as one failed thesis. |
+| **Logical constructions** | Contextual construction substitutes an analysed structure for an extra inferred entity. | …Physical-object construction is phase-specific and strained by possible sense-data. | The technique establishes ontological economy; full Carnap/Quine afterlives remain later ownership. |
+| **Picture theory** | A proposition has sense by presenting a possible situation through shared logical form. | …Bipolarity, logical space and truth-functional generation form the programme. | Colour incompatibility and attitude/modal contexts pressure its elementary and extensional assumptions; later meaning-as-use must not be smuggled into the early answer. |
+| **Saying vs showing** | Logical form cannot be pictured as one more fact because every picture already presupposes it. | …The ladder passage makes self-application deliberate rather than unnoticed. | Standard ineffability and resolute therapeutic readings disagree about what, if anything, remains as ineffable truth; a graded answer states both before ruling. |
 
 ---
 
@@ -673,11 +738,13 @@ Close   : Incomplete symbols are the scalpel of analytic philosophy; logical ato
 | **What the decimals mean** | 1, 2, 3… are the seven principal propositions; n.1 is a comment on n; n.11 a comment on n.1. Saying this in one sentence demonstrates familiarity with the text's architecture. ⚠️ **There is no proposition 7.1** — proposition 7 is deliberately uncommented and stands alone. Writing "7.1" is a giveaway error. |
 | **"The world is the totality of facts, not of things"** | **1.1** — ✅ both translations agree; safe verbatim. |
 | **"What can be shown, cannot be said"** | **4.1212** — ✅ safe. |
+| **State of affairs / atomic fact** | *Sachverhalt* is rendered “atomic fact” by Ogden/Ramsey and “state of affairs” by Pears–McGuinness. Choose one consistently and do not identify it with Russell's sense-datum-based atoms. |
 | **The general form** | **6: [ p̄ , ξ̄ , N(ξ̄) ]** — ✅ reproduce the schema; it is notation, not translation. Explain N as **joint negation** ("none of these is true"). |
 | **"Es verhält sich so und so"** | **4.5** — ⚠️ Ogden: "Such and such is the case"; Pears–McGuinness: "This is how things stand." Flag the rendering. |
 | **"Logical constants are not representatives"** (*Grundgedanke*) | **4.0312** — ✅ safe; call it Wittgenstein's "fundamental idea," which is his own word. |
-| **Colour exclusion** | "Some Remarks on Logical Form," *PAS Supp.* **1929** — ⚠️ the **only** philosophical paper Wittgenstein published in his lifetime besides the *Tractatus*, and he disowned it before delivering it. Both facts are worth one clause. |
+| **Colour exclusion** | "Some Remarks on Logical Form," *PAS Supp.* **1929**—the only philosophical article Wittgenstein published in his lifetime besides the *Tractatus*. He quickly abandoned its proposed analysis; do not treat it as his settled later solution. |
 | **"Picture theory"** | ⚠️ **Provenance:** the label is the commentators'; Wittgenstein writes of *Bild* (picture/model) and *abbilden* (depict). Say "the doctrine usually called the picture theory." |
+| **Ladder passage** | **6.54**; wording differs between Ogden/Ramsey and Pears–McGuinness. Name the translation or paraphrase; use it to frame the standard-versus-resolute dispute rather than asserting one uncontested reading. |
 
 > ❌ **Never write:** that the *Tractatus* was "published in English in 1921"; that Wittgenstein "said language is a picture of the world" without the *logical form* qualification; or that Russell invented logical atomism unaided — his own 1918 preface attributes it to Wittgenstein.
 
@@ -686,8 +753,8 @@ Close   : Incomplete symbols are the scalpel of analytic philosophy; logical ato
 ## 13. LINK-OUTS
 
 - [Hegel](Hegel.md) — the idealism against which Moore-Russell revolted.
-- [Logical Positivism](Logical-Positivism.md) — radicalises the anti-metaphysics; absorbs saying/showing as the rejection of metaphysics.
-- [Later Wittgenstein](Later-Wittgenstein.md) — W. repudiates the picture theory; meaning = use replaces picturing.
+- [Logical Positivism](Logical-Positivism.md) — develops a distinct verification criterion from some Tractarian pressures; not identical to picture theory.
+- [Later Wittgenstein](Later-Wittgenstein.md) — later critique of the early programme; meaning-as-use remains outside this owner.
 - [Quine-Strawson](Quine-Strawson.md) — Strawson's "On Referring" challenges Russell's theory of descriptions; Quine's holism questions analytic/synthetic underpinning.
 - [Kant](Kant.md) — the epistemological background (phenomena/noumena) that shapes the debate.
 - [Critiques of Metaphysics](../_themes/Critiques-of-metaphysics.md) — Moore → Russell → Tractatus → Logical Positivism → Later Wittgenstein.
@@ -701,9 +768,10 @@ Close   : Incomplete symbols are the scalpel of analytic philosophy; logical ato
 
 - G.E. Moore, "The Refutation of Idealism" (1903); "A Defence of Common Sense" (1925); "Proof of an External World" (1939).
 - Bertrand Russell, "On Denoting" (1905); "The Philosophy of Logical Atomism" (1918); *Our Knowledge of the External World* (1914).
-- Ludwig Wittgenstein, *Tractatus Logico-Philosophicus* (1921).
+- Ludwig Wittgenstein, *Logisch-Philosophische Abhandlung* (1921); bilingual *Tractatus Logico-Philosophicus* (1922).
 - A.J. Ayer, *Russell and Moore: The Analytical Heritage* (for the relationship between the three).
 - Y. Masih, *A Critical History of Western Philosophy* (Moore, Russell, Wittgenstein chapters).
 - Anthony Kenny, *A New History of Western Philosophy*, vol. 4 (analytic philosophy section).
+- Robert Audi (ed.), *The Cambridge Dictionary of Philosophy*, entries on Russell and Wittgenstein (local searchable reference).
 - P.F. Strawson, "On Referring" (1950) — for the rival to Russell on descriptions.
 - Nigel Warburton, *Philosophy: The Classics* (accessible overview).

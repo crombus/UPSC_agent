@@ -42,6 +42,30 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 
 ---
 
+## 0A. SHARED TEXTUAL FOUNDATION AND SCHOOL TAXONOMY
+
+### 0A.1 Threefold canon
+
+- ✅ The shared **threefold canon (prasthāna-traya)** is the starting field rather than a guarantee of one interpretation.
+- ✅ The **revealed foundation (śruti-prasthāna)** is the principal Upaniṣads.
+- ✅ The **remembered synthesis (smṛti-prasthāna)** is the Bhagavad Gītā, which coordinates knowledge, devotion and action.
+- ✅ The **reasoned systematization (nyāya-prasthāna)** is Bādarāyaṇa's Brahma Sūtra, which harmonizes Upaniṣadic teaching and answers rival views.
+- ⚠️ The Brahma Sūtra does not contain every later school-formulation ready-made; its compact aphorisms become the common site of competing commentaries.
+
+### 0A.2 Commentarial schools
+
+| School | Foundational teacher and secure textual orientation | Root relation |
+|---|---|---|
+| **Non-dualism (Advaita)** | Śaṅkara's *Brahma-sūtra-bhāṣya* and Upaniṣad/Gītā commentaries | identity; difference is ignorance-conditioned appearance |
+| **Qualified non-dualism (Viśiṣṭādvaita)** | Rāmānuja's *Śrī-bhāṣya*, *Vedārthasaṅgraha* and Gītā commentary | real selves/world inseparably qualify Brahman |
+| **Dualism (Dvaita)** | Madhva's *Brahma-sūtra-bhāṣya*, *Anuvyākhyāna* and Gītā commentary | God, selves and matter are really different; only God is independent |
+| **Dualistic non-dualism (Dvaitādvaita)** | Nimbārka's *Vedānta-pārijāta-saurabha* | real difference and non-difference through dependence |
+| **Pure non-dualism (Śuddhādvaita)** | Vallabha's *Aṇubhāṣya* and Bhāgavata-centred works | world is a real unchanged manifestation of Brahman |
+| **Inconceivable difference–non-difference (Acintyabhedābheda)** | Caitanya tradition systematized by Rūpa, Jīva and Baladeva | real difference and non-difference through divine powers |
+
+- ⚠️ UPSC's printed clause names doctrines rather than a closed list of philosophers, while the verified PYQs directly require Nimbārka, Vallabha and the Caitanya tradition. The “big three” remain the comparative spine, not the whole examinable taxonomy.
+- ✅ Pūrva-Mīmāṃsā owns the injunction-centred reading of the earlier Veda; Vedānta owns the Brahman-centred interpretation of the Upaniṣads while retaining debate over the roles of action, knowledge and devotion.
+
 ## 1. BRAHMAN
 
 ### 1.1 Svarūpa-lakṣaṇa and taṭastha-lakṣaṇa
@@ -90,12 +114,15 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 #### (b) Viśiṣṭādvaita
 
 - ✅ Rāmānuja also makes Brahman both efficient and material cause.
-- ✅ But here causation is **real**: cit and acit are inseparable from Brahman, and the world-process is a real manifestation of Brahman's body through prakṛti.
+- ✅ But here causation is **real**: subtle conscious and non-conscious modes become gross manifestation, while Brahman remains their controlling substantive whole.
+- ⚠️ The transformation belongs to Brahman through the real transformation of the non-conscious mode, not through corruption of God's essential auspicious nature.
 
 #### (c) Dvaita
 
-- ✅ Madhva preserves God as supreme cause, but without collapsing God, souls and matter into identity.
-- ✅ Dependence on God is universal, yet difference remains real and eternal.
+- ✅ Madhva makes God the **efficient cause (nimitta-kāraṇa)**, not the material cause.
+- ✅ Primordial matter (**prakṛti**) is the real dependent material cause energized and governed by God.
+- ✅ Dependence on God is universal, yet God, souls and matter remain really and eternally different.
+- ⚠️ Therefore the claim “Brahman is both efficient and material cause” belongs to Advaita and Viśiṣṭādvaita in different senses, not uniformly to every Vedānta school.
 
 ### 1.6 Contrast with Sāṃkhya and Nyāya
 
@@ -131,7 +158,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 |---|---|---|
 | ✅ **Pratyakṣa** (perception) | ✅ Immediate cognition generated through sense-contact with a present object. | ✅ “This pot is blue.” |
 | ✅ **Anumāna** (inference) | ✅ Knowledge of an unperceived fact through a perceived mark (**liṅga**) and universal concomitance (**vyāpti**). | ✅ Smoke on a hill leads to the inference of fire. |
-| ✅ **Upamāna** (comparison) | ✅ Knowledge of an unknown object through similarity to a previously described known object. | ✅ A **gavaya** is recognised in the forest by comparison with a cow. |
+| ✅ **Upamāna** (comparison) | ✅ Fresh cognition of an absent familiar object's similarity to a presently perceived object, following the Bhāṭṭa account accepted by Advaita. | ✅ Seeing a gavaya as cow-like yields the new cognition that the remembered cow is similar to this gavaya. |
 | ✅ **Śabda** (verbal testimony) | ✅ Valid cognition from reliable words, supremely the **apauruṣeya** (authorless) Veda in matters beyond ordinary means. | ✅ The Upaniṣadic mahāvākya teaches Ātman-Brahman identity. |
 | ✅ **Arthāpatti** (postulation) | ✅ Presumption of an unseen fact required to reconcile otherwise incompatible known facts. | ✅ Devadatta is fat and does not eat by day, so he must eat at night. |
 | ✅ **Anupalabdhi** (non-apprehension) | ✅ Cognition of absence through non-perception under proper conditions. | ✅ “There is no pot on the floor” when the floor is fit for perception. |
@@ -235,18 +262,19 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 ### 2.4 Bimba-pratibimba-vāda
 
 - ✅ Asked in **2025** as a 20-marker.
-- ✅ In one important Advaita line, Īśvara is described as the **bimba** (original), while the jīva is the **pratibimba** (reflection).
-- ✅ Īśvara is the original consciousness reflected in **māyā**.
-- ✅ Jīva is consciousness reflected in **avidyā** or the internal limiting medium.
-- ✅ The original remains unaffected by the defects of the reflecting medium, just as a face is not altered by defects in a mirror.
+- ✅ The basic **original–reflection model (bimba-pratibimba-vāda)** takes Brahman or pure consciousness as the original (**bimba**) and the empirical self as its reflection (**pratibimba**) in the internal organ conditioned by ignorance.
+- ✅ The original remains unaffected by defects, motion or multiplicity in the reflecting media, just as one face remains unchanged while mirrors yield many differently conditioned images.
+- ✅ Some later Advaita formulations distinguish the reflection of consciousness in total cosmic appearance as Īśvara and its reflections in individual ignorance/internal organs as jīvas.
+- ❓ Other formulations treat Īśvara as original relative to the jīva or prefer limitation and appearance models. These are later explanatory alternatives, not one uniform proposition attributable without qualification to Śaṅkara.
+- ⚠️ Do not write that Īśvara is simultaneously “the original” and “consciousness reflected in māyā” without naming the relative or later model being used.
 
 ### 2.5 Soteriological significance of bimba-pratibimba-vāda
 
 - ⚠️ The theory is not a mere ontological curiosity; it serves liberation.
 - ⚠️ The reflected image has only derivative reality.
-- ⚠️ When the reflecting medium of avidyā is removed, the finite self recognises that it was never an autonomous substance over against Brahman.
-- ⚠️ Mokṣa is thus the discovery that one was always the **bimba** in truth and never truly an independent **pratibimba**.
-- ⚠️ The reflection does not travel somewhere new; ignorance is removed and original identity is disclosed.
+- ⚠️ When ignorance is removed, the finite self is known never to have possessed independent reality apart from original consciousness.
+- ⚠️ Liberation is therefore recognition of the non-difference of reflected consciousness from its original, not the physical movement, merging or destruction of one substance by another.
+- ⚠️ The metaphor protects Brahman's non-division, but critics object that a formless original, formless medium and non-dual reality make literal reflection impossible; the model should be used for suggestive value rather than pushed as optical physics.
 
 ### 2.6 Contrast with avacchedavāda and ābhāsavāda
 
@@ -301,10 +329,21 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ The sākṣī is not a passive blank but the condition for all experience.
 - ⚠️ This gives Advaita its elegant distinction between changing psychology and changeless consciousness.
 
+### 3.2A Waking, dream and deep sleep
+
+- ✅ The **waking state (jāgrat)** presents an external object-world; the **dream state (svapna)** presents internally generated objects; the **deep-sleep state (suṣupti)** lacks manifest subject–object cognition.
+- ✅ Advaita argues that the later report “I slept peacefully; I knew nothing” presupposes continuity through deep sleep and supports a witness not identical with any particular mental mode.
+- ✅ The **fourth standpoint (turīya)** is not merely another temporal episode after the first three; it is the non-dual consciousness that underlies and illumines all three.
+- ⚠️ Memory after sleep is an argument within Advaita, not a neutral proof accepted by every school. Rāmānuja and Nyāya retain an enduring self while rejecting Advaita's identity of that self with non-dual Brahman.
+- ✅ Self-luminosity belongs to consciousness as the condition of manifestation; episodic mental cognitions, objects and the empirical knower remain within the subject–object structure.
+
 ### 3.3 Viśiṣṭādvaita: real but non-identical self
 
 - ✅ Rāmānuja accepts the reality, eternity and consciousness of the self.
-- ✅ The self is **aṇu** (atomic in size), though capable of pervasive knowledge through dharma-bhūta-jñāna.
+- ✅ The self is an atomic subject (**aṇu**) and self-luminous knower, not an impersonal mass of pure consciousness.
+- ✅ Its **attributive consciousness (dharma-bhūta-jñāna)** reveals objects, can contract under karmic obstruction and expands without obstruction in liberation.
+- ✅ Atomic size therefore does not confine the range of cognition: the self remains the substantive knower while its attributive consciousness can be pervasive.
+- ✅ In deep sleep the self persists, but object-manifesting cognition is unexpressed because no object is presented; in liberation its cognitive reach becomes unobstructed.
 - ✅ It is a **prakāra** or mode of Brahman, not identical with Brahman.
 - ✅ It is dependent, but not illusory.
 - ⚠️ Thus selfhood is preserved without making the self an independent absolute.
@@ -374,8 +413,9 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ Madhva treats the jīva as a real, distinct, dependent entity.
 - ✅ It is never reducible to God, never a mere mode of God, and never illusory.
 - ✅ Difference among jīvas is also real.
-- ❓ Madhva is often presented as teaching a hierarchy among souls — **sāttvikas, rājasas, tāmasas** — but the rigidity and exact doctrinal framing of this classification is debated in scholarship.
-- ⚠️ In UPSC, mention the hierarchy but tag its most rigid formulations as contested.
+- ✅ Standard Dvaita taxonomy distinguishes the eternally free (**nitya**), the liberated (**mukta**) and the bound (**baddha**).
+- ✅ Bound souls are further described as **liberation-eligible (mukti-yogya)**, **eternal transmigrators (nitya-saṃsārin)** and **darkness-eligible (tamo-yogya)**; the scheme corresponds broadly to qualitative gradation among souls.
+- ⚠️ This is a real Madhva doctrine, but it is not needed in every five-difference answer. Use it where hierarchy, grace or differentiated liberation is directly relevant, and evaluate its severe ethical implications rather than presenting predestination casually.
 
 ### 4.7 Jīva in the 2021 and 2022 questions
 
@@ -417,18 +457,23 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ If the cause is the absolute Brahman, and Brahman admits no real modification, then the effect cannot be equally real as transformation.
 - ✅ Therefore transformation must be only **apparent** — not pariṇāma but **vivarta**.
 - ⚠️ This is why one may say vivartavāda is the logical development of pariṇāmavāda: it preserves causal dependence while preventing real change in the absolute.
+- ❌ The opposing verdict is equally important: real transformation and apparent transformation give contrary ontological status to the effect, so vivarta may be a rejection rather than a logical completion of pariṇāma.
+- ✅ Milk becoming curd illustrates a real altered effect; rope appearing as snake illustrates a sublatable appearance whose substrate does not change.
+- ⚠️ **Graded conclusion:** vivarta develops the search for an effect dependent on its cause, but abandons pariṇāma's central commitment to real transformation. Agreement is therefore structural, not ontological.
 
 ### 5.4 Viśiṣṭādvaita: the world is real
 
 - ✅ Rāmānuja firmly rejects world-appearance doctrine.
 - ✅ The world is real and forms the **acit** dimension of Brahman's body.
-- ✅ Creation is a real manifestation or transformation involving Brahman's attribute **prakṛti**.
+- ✅ Creation is a real manifestation or transformation involving Brahman's non-conscious mode **prakṛti**; the cause-state is subtle and the effect-state gross.
+- ✅ Brahman is both efficient and material cause because conscious and non-conscious modes are inseparable from Brahman, while God's essential perfection remains unchanged.
 - ✅ Since effects are real, the universe is a meaningful field of duty, devotion and divine manifestation.
 
 ### 5.5 Dvaita: world as real and eternally distinct
 
 - ✅ Madhva accepts the world as real.
 - ✅ Its dependence on God does not cancel its distinctness.
+- ✅ God is its efficient governor, while dependent primordial matter is its material cause.
 - ✅ Matter is not absorbed into identity by knowledge.
 - ⚠️ This gives Dvaita the strongest realist posture among the three schools.
 
@@ -470,6 +515,14 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ✅ It is neither **sat** nor **asat**, but **anirvacanīya** — indescribable.
 - ⚠️ Māyā is not pure nothingness; if it were, no appearance could occur.
 - ⚠️ Yet it cannot be fully real, because knowledge sublates its products.
+
+### 6.1A Two different senses of indescribability
+
+- ✅ Brahman's **indescribability (anirvacanīyatā)** means that non-dual, non-objectifiable reality exceeds limiting subject–predicate description; it does not mean that Brahman has uncertain reality.
+- ✅ Māyā's **indescribability (anirvacanīyatā)** means that appearance cannot be classified as ultimately real because it is sublated, or as sheer non-being because it is experienced.
+- ✅ Brahman is the unsublated reality because of which description and experience are possible; māyā is a dependent and sublatable explanatory principle.
+- ❌ Therefore the two uses are not identical: Brahman is beyond finite predication, while māyā is indeterminate between ultimate being and sheer non-being.
+- ⚠️ A critical answer should add that realist schools accept Brahman's transcendence more readily than the alleged third ontological status of māyā.
 
 ### 6.2 Two powers of māyā
 
@@ -703,6 +756,15 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
   3. **ṣaṭ-sampatti** — sixfold discipline,
   4. **mumukṣutva** — desire for liberation.
 
+### 9.2A From preparation to stable knowledge
+
+- ✅ **Scriptural hearing (śravaṇa)** establishes the intended non-dual teaching of the Upaniṣads under a competent teacher.
+- ✅ **Reasoned reflection (manana)** removes intellectual doubt and tests the teaching against apparently contrary reasoning.
+- ✅ **Deep contemplation (nididhyāsana)** removes entrenched contrary habits of identification and stabilizes direct assimilation.
+- ✅ Action (**karma**) and worship/meditation (**upāsanā**) prepare and purify; they do not combine with knowledge as a second co-producer of an already existent identity.
+- ⚠️ Standard Advaita pedagogy also describes **superimposition and rescission (adhyāropa-apavāda)**: provisional distinctions are first employed for instruction and then withdrawn when non-dual understanding is secure.
+- ⚠️ Do not attribute every later technical expression, including undivided-form mental mode (**akhaṇḍākāra-vṛtti**), as a verbatim formula of Śaṅkara; use it as a later systematic explanation of knowledge's error-removing function.
+
 ### 9.3 Jīvanmukti and videhamukti
 
 - ✅ A distinctive strength of Advaita is **jīvanmukti** — liberation while still embodied.
@@ -719,32 +781,38 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 
 ### 9.5 Viśiṣṭādvaita: communion, not identity
 
-- ✅ Mokṣa for Rāmānuja is the jīva's attainment of likeness to God and eternal loving communion with him.
+- ✅ Mokṣa for Rāmānuja is the jīva's recovery of its unobstructed nature, likeness to God and eternal loving communion/service without numerical identity.
 - ✅ The liberated self remains real and distinct.
-- ✅ The path is **bhakti** culminating in **prapatti** (self-surrender).
+- ✅ Disinterested action and scriptural knowledge prepare the self; sustained contemplation matures as devotion (**bhakti**).
+- ✅ Self-surrender (**prapatti / śaraṇāgati**) is the direct reliance on divine protection and is presented as an inclusive route where the longer discipline of devotion is unavailable.
+- ✅ Divine grace (**prasāda**) is indispensable: devotion and surrender dispose the self toward the immediate God-realization that liberates.
+- ✅ Karmic obstruction ends and attributive consciousness (**dharma-bhūta-jñāna**) becomes unrestricted; the self enjoys knowledge and bliss while remaining a dependent mode of Brahman.
 - ✅ There is no Advaitic jīvanmukti in the strict sense, because embodiment remains a condition of bondage and liberation is not mere epistemic sublation of individuality.
 - ⚠️ This makes liberation relational and devotional rather than absorptive.
 
 ### 9.6 Dvaita: blissful service and tāratamya
 
 - ✅ For Madhva, mokṣa is eternal blissful service of Viṣṇu in Vaikuṇṭha.
-- ✅ Liberation requires God's grace.
+- ✅ Right knowledge of Viṣṇu's supremacy, devotion and God's grace are indispensable.
 - ✅ Difference from God is never abolished.
 - ✅ A distinctive doctrine is **tāratamya** — gradation among liberated souls.
 - ✅ Not all released souls enjoy identical bliss or rank.
-- ❓ Some accounts go further and suggest that some souls remain eternally bound or destined to darkness; the exact interpretation is contested and should be marked carefully.
+- ✅ Standard Dvaita sources also classify some bound souls as eternal transmigrators or darkness-eligible; this severe hierarchy is doctrinally supportable but philosophically contested.
 
-### 9.7 Madhva's mokṣa versus Śaṃkara's
+### 9.7 Madhva's mokṣa versus Rāmānuja's
 
 - ✅ Asked in **2022**.
 
-| Issue | Śaṃkara | Madhva |
+| Issue | Rāmānuja | Madhva |
 |---|---|---|
-| Nature of liberation | identity-realisation | eternal difference and service |
-| Means | jñāna | devotion plus grace |
-| World-status | ultimately sublated | remains real |
-| Selfhood | ultimately non-different | permanently distinct |
-| Equality of liberated souls | no real plurality ultimately | gradation (tāratamya) |
+| Shared theistic ground | real God, soul and world; liberation through devotion and grace | real God, soul and world; liberation through devotion and grace |
+| God–self relation | self is an inseparable mode/body of Brahman | self is a distinct dependent substance, not God's body |
+| Liberated individuality | retained in communion and service | retained in eternal difference and service |
+| Knowledge and bliss | karmic obstruction removed; attributive knowledge becomes unrestricted | degree of knowledge and bliss follows real hierarchy |
+| Equality of liberated souls | souls are alike in essential type; no Madhva-style intrinsic gradation | liberated souls retain gradation (**tāratamya**) |
+| Causal background | Brahman is efficient and material cause through real modes | God is efficient cause; primordial matter is material cause |
+
+- ⚠️ The highest-scoring conclusion is not “both are devotional.” Rāmānuja resolves plurality through inseparable qualification, whereas Madhva treats qualitative difference and hierarchy as permanent even in liberation.
 
 ### 9.8 Comparative insight
 
@@ -752,6 +820,48 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
   - non-dual ontology → liberation as recognition,
   - qualified non-dual ontology → liberation as communion,
   - dualist ontology → liberation as service.
+
+---
+
+## 9A. WIDER VEDĀNTA AND THE 2018 LIBERATION COMPARISON
+
+### 9A.1 Why the wider taxonomy is core rather than decorative
+
+- ✅ The verified 2018 paper directly asks liberation in qualified non-dualism, dualism, pure non-dualism and inconceivable difference–non-difference.
+- ⚠️ Nimbārka, Vallabha and the Caitanya tradition therefore cannot remain only a name-list, even though the printed syllabus foregrounds doctrines rather than philosophers.
+
+### 9A.2 Pure non-dualism: Vallabha
+
+- ✅ **Pure non-dualism (Śuddhādvaita)** identifies the supreme with Kṛṣṇa and treats souls and world as real manifestations, not products of an indefinable illusion.
+- ✅ Vallabha's **unchanged real manifestation (avikṛta-pariṇāma)** is neither Advaita's merely apparent transformation nor an ordinary transformation that alters Brahman: the effect is real while Brahman remains unchanged.
+- ✅ The world (**jagat**) remains a divine manifestation; the cycle of possessive bondage (**saṃsāra**) arises from ignorance and egoic identification.
+- ✅ The path of grace (**puṣṭi-mārga**) makes divine grace, loving devotion and service central rather than treating devotion as a merely provisional aid to identity-knowledge.
+- ⚠️ Liberation is participation in Kṛṣṇa's bliss and loving service; do not describe it as the disappearance of the real world or as Śaṅkara-style loss of individuality.
+
+### 9A.3 Inconceivable difference–non-difference: Caitanya tradition
+
+- ✅ **Inconceivable difference–non-difference (acintyabhedābheda)** holds that Kṛṣṇa, souls and world are really non-different as dependent divine powers and really different as distinct manifestations.
+- ✅ “Inconceivable” (**acintya**) marks the inability of finite reasoning to reduce this relation to identity alone or difference alone; it is not permission for contradiction without doctrine.
+- ✅ Souls remain atomic, real and dependent; the world is a real manifestation of divine external power, not an Advaita illusion.
+- ✅ Loving devotion (**bhakti / prema**) is the sole direct path, culminating in eternal loving relation and service rather than erasure of distinction.
+
+### 9A.4 Four-school liberation matrix
+
+| School | Metaphysical relation | Direct path | Liberated condition |
+|---|---|---|---|
+| **Qualified non-dualism (Viśiṣṭādvaita)** | self is real inseparable mode/body of Brahman | devotion or surrender with grace | unobstructed knowledge, bliss, communion and service without identity |
+| **Dualism (Dvaita)** | self remains a distinct dependent reality | right knowledge, devotion and grace | eternal service with graded bliss and permanent difference |
+| **Pure non-dualism (Śuddhādvaita)** | self/world are real unchanged manifestations of Kṛṣṇa | grace-nourished loving devotion | participation in divine bliss and loving service; world is not sublated |
+| **Inconceivable difference–non-difference (Acintyabhedābheda)** | self is simultaneously dependent non-difference and real difference | loving devotion culminating in divine love | eternal loving relation with Kṛṣṇa; individuality remains |
+
+- ⚠️ Common ground is theistic devotion and grace; the decisive difference is whether the soul is an inseparable mode, an eternally distinct dependent, a real manifestation or an inconceivably different–non-different power.
+
+### 9A.5 Dualistic non-dualism: Nimbārka orientation
+
+- ✅ Nimbārka's **dualistic non-dualism (dvaitādvaita)** treats God, conscious selves and non-conscious reality as real; selves and matter differ from Brahman because they are limited, yet are non-different because they have no independent existence.
+- ✅ Non-conscious reality (**acit**) includes ordinary primordial matter (**prākṛta**), non-prakritic divine substance (**aprākṛta**) and time (**kāla**).
+- ✅ Creation is a real transformation of Brahman's dependent powers, and liberation arises through knowledge enabled by devotion and grace without destroying individuality.
+- ⚠️ This bounded orientation answers the 2020 matter question and locates Nimbārka without displacing the three primary comparative schools.
 
 ---
 
@@ -919,6 +1029,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 - ⚠️ Viśiṣṭādvaita and Dvaita reject this identity-reading.
 - ⚠️ For them, mahāvākyas indicate dependence, participation or special relation, not absolute identity.
 - ⚠️ So the interpretation of one sentence becomes a battleground for the whole architecture of Vedānta.
+- ⚠️ **Textual caution:** distinguish an Upaniṣadic great statement from a later doctrinal slogan or semantic apparatus. The formula “Brahman is real, the world is dependent appearance, the self is none other than Brahman” is a traditional Advaita summary used in the 2022 PYQ, not itself one of the four standard Upaniṣadic mahāvākyas.
 
 ---
 
@@ -1193,7 +1304,7 @@ VEDĀNTA CORE QUESTION: How are Brahman, Īśvara, Ātman, Jīva and Jagat relat
 |---|---|---|---|
 | Viśiṣṭādvaita | souls and matter are real modes/body of Brahman | real and inseparable | communion and service through knowledge, devotion and grace |
 | Dvaita | eternal difference | real, dependent on Viṣṇu | blissful God-directed existence without identity |
-| Śuddhādvaita | world is a real manifestation of Brahman, not Māyā-produced illusion | pure real transformation/manifestation | participation in Kṛṣṇa through grace/devotion |
+| Śuddhādvaita | world is a real manifestation of Brahman, not Māyā-produced illusion | unchanged real manifestation (**avikṛta-pariṇāma**) | participation in Kṛṣṇa's bliss through grace and loving service |
 | Acintyabhedābheda | inconceivable difference-and-non-difference | real divine energy | loving devotion without erasing distinction |
 
 ### Nimbārka and Advaitic Jīva–sākṣī
@@ -1291,10 +1402,11 @@ See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018
 |---|---|---|---|---|---|---|---|
 | ✅ **Advaita** | ✅ Six; śabda primary for Brahman. | ✅ Nirguṇa Brahman ultimate; Īśvara is māyā-upahita Brahman at vyavahāra. | ✅ Ultimately Brahman; empirically limited by avidyā through avaccheda/pratibimba/ābhāsa models. | ✅ Jagat is mithyā; error is anirvacanīya-khyāti. | ✅ Vivarta; Brahman is material basis without real change. | ✅ Jñāna removes avidyā; mokṣa is identity-recognition. | ✅ Central doctrine. |
 | ✅ **Viśiṣṭādvaita** | ✅ Three: pratyakṣa, anumāna, śabda. | ✅ Saguṇa Brahman/Nārāyaṇa with infinite auspicious qualities; no nirguṇa higher level. | ✅ Real atomic self, inseparable mode of Brahman. | ✅ World is real acit as Brahman's body; error is satkhyāti. | ✅ Real manifestation through Brahman's modes; God is efficient and material cause in qualified sense. | ✅ Bhakti and prapatti lead to communion/service, not identity. | ✅ Not accepted in strict Advaita sense. |
-| ✅ **Dvaita** | ✅ Three: pratyakṣa, anumāna, āgama. | ✅ Viṣṇu is independent supreme personal reality. | ✅ Real dependent self eternally different from God and other selves. | ✅ World is real; difference is pañcavidha; error explained without mithyātva. | ✅ God is supreme cause while preserving real difference. | ✅ Bhakti, right knowledge and grace lead to eternal service with tāratamya. | ✅ Not accepted as identity-realisation while embodied. |
+| ✅ **Dvaita** | ✅ Three: pratyakṣa, anumāna, āgama. | ✅ Viṣṇu is independent supreme personal reality. | ✅ Real dependent self eternally different from God and other selves. | ✅ World is real; difference is pañcavidha; error explained without mithyātva. | ✅ God is efficient cause; dependent prakṛti is material cause. | ✅ Bhakti, right knowledge and grace lead to eternal service with tāratamya. | ✅ Not accepted as identity-realisation while embodied. |
 | ⚠️ **Bhāskara / Bhedābheda** | ❓ Usually accepts a realist Vedic epistemology rather than Advaita's sublation-model. | ✅ Brahman is both one and really transformed into plurality. | ✅ Jīva is both different and non-different from Brahman. | ✅ World is real, not māyā-produced illusion. | ✅ Pariṇāma/bhedābheda rather than vivarta. | ⚠️ Knowledge integrated with action/devotion is stressed against Śaṃkara. | ❓ Not central like Advaita jīvanmukti. |
 | ✅ **Nimbārka / Dvaitādvaita** | ❓ Standard summaries stress scripture, perception and inference without Advaita's sixfold emphasis. | ✅ Brahman/Kṛṣṇa is the ground of real cit and acit. | ✅ Jīva is different from and non-different from Brahman through dependence. | ✅ Matter is real and dependent; not Advaitic mithyā. | ✅ Difference-and-non-difference is real, not merely apparent. | ✅ Bhakti and grace culminate in communion without identity-erasure. | ❓ Not central in the Advaita sense. |
-| ✅ **Vallabha / Śuddhādvaita** | ❓ Usually presented through śruti-centred devotional Vedānta. | ✅ Brahman/Kṛṣṇa is pure non-dual and full of qualities. | ✅ Jīvas are real manifestations/parts dependent on Brahman. | ✅ World is real manifestation of Brahman, not māyā-illusion. | ✅ Real manifestation rather than vivarta. | ✅ Grace and devotion lead to participation in divine bliss. | ❓ Not framed as Śaṃkara-style jīvanmukti. |
+| ✅ **Vallabha / Śuddhādvaita** | ❓ Usually presented through śruti-centred devotional Vedānta. | ✅ Brahman/Kṛṣṇa is pure non-dual and full of qualities. | ✅ Jīvas are real manifestations/parts dependent on Brahman. | ✅ World is real manifestation of Brahman, not māyā-illusion. | ✅ Unchanged real manifestation (**avikṛta-pariṇāma**), neither ordinary transformation nor vivarta. | ✅ Grace and devotion lead to participation in divine bliss. | ❓ Not framed as Śaṃkara-style jīvanmukti. |
+| ✅ **Caitanya / Acintyabhedābheda** | ❓ Bhāgavata- and scripture-centred devotional epistemology. | ✅ Kṛṣṇa possesses real powers that are non-different yet distinct. | ✅ Atomic selves are dependent divine powers and retain individuality. | ✅ World is a real manifestation of external divine power. | ✅ God is efficient cause and, through powers, material cause. | ✅ Loving devotion culminates in eternal loving service without identity-erasure. | ❓ Not framed as Śaṃkara-style jīvanmukti. |
 
 ### 20C.2 Advaita and non-Vedāntic schools
 
@@ -1465,10 +1577,17 @@ Conclusion   : balanced judgement with one comparative line.
 
 ## SOURCES
 
+- Principal Upaniṣads and the *Bhagavad Gītā*.
+- Bādarāyaṇa, *Brahma Sūtra*.
 - Śaṃkara, *Brahma-sūtra-bhāṣya*.
 - Śaṃkara, *Adhyāsa-bhāṣya*.
 - Rāmānuja, *Śrī-bhāṣya*.
+- Rāmānuja, *Vedārthasaṅgraha*.
+- Madhva, *Brahma-sūtra-bhāṣya*.
 - Madhva, *Anuvyākhyāna*.
+- Nimbārka, *Vedānta-pārijāta-saurabha*.
+- Vallabha, *Aṇubhāṣya*.
+- Jīva Gosvāmin, *Ṣaṭ-sandarbha*.
 - S. Chatterjee and D. Datta, *An Introduction to Indian Philosophy*.
 - C.D. Sharma, *A Critical Survey of Indian Philosophy*.
 - S. Radhakrishnan, *Indian Philosophy*, Vol. II.

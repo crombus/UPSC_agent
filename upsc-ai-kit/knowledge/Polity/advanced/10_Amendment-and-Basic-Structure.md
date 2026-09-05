@@ -1,7 +1,9 @@
 # Amendment of the Constitution & Basic Structure (Article 368) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Part XX (Art 368) (direct check of the local Sixth Revised Edition PDF) + official court update.
+> **Grounded in:** Indian Polity by M. Laxmikant, Part XX (Art 368), the official Constitution,
+> Supreme Court judgments, Gazette S.O. 1922(E) and official/PRS parliamentary records checked
+> through 28 August 2026.
 > ✅ = from source book · ⚠️ = inference / case law · 📰 = official/court-verified update.
 > *Companion: `basic/Amendment-and-Basic-Structure.md`.*
 
@@ -44,10 +46,14 @@ delimitation; **UTs**; **5th Schedule** (scheduled areas); **6th Schedule** (tri
 vacancies/absentees.
 
 ### (c) SPECIAL majority + STATE ratification — the federal list
-✅ (1) Election of President & its manner; (2) extent of Union & state executive power; (3) **SC &
-HCs**; (4) distribution of legislative powers (Centre-state); (5) **GST Council** (added by **101st
-Amdt, 2016**, Art 279-A); (6) any of the **7th Schedule** lists; (7) representation of states in
-Parliament; (8) **Art 368 itself**.
+✅ (1) **Articles 54 and 55**; (2) **Articles 73 and 162**; (3) **Article 241**; (4)
+**Article 279A**; (5) **Chapter IV of Part V**; (6) **Chapter V of Part VI**; (7)
+**Chapter I of Part XI**; (8) any of the **Seventh Schedule Lists**; (9) representation of
+States in Parliament; and (10) **Article 368 itself**.
+
+> 🔑 Exact-text trap: “Supreme Court and High Courts” is useful shorthand but incomplete because
+> the proviso separately names Article 241. “Centre-State relations” is overbroad; use the exact
+> Articles, Chapters, Lists and representation limb.
 
 ## 3. Criticism of the amendment procedure (7)
 ✅ (1) No special body (Constitutional Convention as in USA). (2) States **can't initiate** amendments
@@ -71,7 +77,7 @@ conceived… merely diverse").
 | ✅ **Indira Nehru Gandhi** | 1975 | Reaffirmed doctrine; struck down part of **39th Amdt** (removing PM/Speaker election disputes from courts) as violating basic structure. |
 | ✅ **42nd Amdt** | 1976 | Declared **no limitation** on constituent power; no amendment questionable in any court. |
 | ✅ **Minerva Mills** | 1980 | Struck that down — **judicial review** & **limited amending power** are basic features. "A limited amending power… cannot be converted into an unlimited one." |
-| ✅ **Waman Rao** | 1981 | Basic-structure doctrine applies to amendments **after 24 April 1973** (Kesavananda date). |
+| ✅ **Waman Rao** | 1981 | Ninth-Schedule amendments made after **24 April 1973** are open to basic-structure challenge. The judgment was delivered in 1980 and reported in 1981. |
 
 ## 5. Elements of the Basic Structure (illustrative, court hasn't defined exhaustively)
 ✅ Supremacy of Constitution · sovereign-democratic-republican nature · **secular** character ·
@@ -86,13 +92,21 @@ powers of **SC (Art 32,136,141,142)** · powers of **HCs (Art 226,227)**.
 
 ---
 
-## 6. 📰 CURRENT AFFAIRS — Basic Structure at 50 (2023–24)
-📰 **2023 = 50th anniversary** of *Kesavananda Bharati* (24 April 1973). 📰 **VP Jagdeep Dhankhar**
-publicly questioned the doctrine — argued it **dilutes parliamentary sovereignty** and that Parliament
-(as the elected sovereign) shouldn't be subject to a judicial "veto." 📰 Judiciary/legal community
-reaffirmed: unlike Britain, **Indian Parliament is not supreme** — its power is bounded by the
-Constitution and **judicial review** (itself part of the basic structure). This "Legislature vs
-Judiciary" tension is prime **Mains/essay** material.
+## 6. 📰 CURRENT AND TECHNICAL CONTROLS (status checked 28 August 2026)
+
+- 📰 **2023 = 50th anniversary** of *Kesavananda Bharati* (24 April 1973). Vice-President Jagdeep
+  Dhankhar publicly criticised the doctrine in the parliamentary-sovereignty debate. These remarks
+  did not alter Article 368 or overrule the doctrine.
+- 📰 The **Constitution (131st Amendment) Bill, 2026** was introduced in Lok Sabha on 16 April and
+  negatived on 17 April 2026. The division — 298 ayes and 230 noes, with 528 present and voting —
+  illustrates that both special-majority limbs must be satisfied. The proposed 850-seat ceiling
+  never became law.
+- 📰 Gazette **S.O. 1922(E), 16 April 2026** commenced the 106th Amendment. Article 334A still
+  postpones operational reservation until publication of the relevant figures of the first census
+  taken after commencement and a delimitation exercise for that purpose.
+- 📰 *Anjum Kadari v. Union of India*, 2024 INSC 831: an ordinary statute cannot be invalidated
+  solely for violating an undefined basic feature; the defect must be traced to legislative
+  incompetence, Part III or another constitutional provision.
 
 ---
 

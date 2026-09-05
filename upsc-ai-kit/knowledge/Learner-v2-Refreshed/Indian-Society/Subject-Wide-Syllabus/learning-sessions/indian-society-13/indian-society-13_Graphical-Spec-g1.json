@@ -1,0 +1,1032 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-13",
+  "subject": "Indian-Society",
+  "title": "COMMUNALISM",
+  "short_route": "WHAT THE TERM NAMES → THREE FORMS CARD → THEORY DEBATE → TWO EXPLANATIONS, ONE INTERACTION → TWO-LAYER RISK MODEL → ESCALATION CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-13\\indian-society-13_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-13-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "0c1c2773beb84d0e5d4bbee775a43be9aeb233ffea5019ef16cc1b9e746bf70a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHAT THE TERM NAMES",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WHAT THE TERM NAMES",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS IDENTITY USED AS A POLITICAL AND SOCIAL ORGANISING",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT THE OBJECT",
+          "role": "caution"
+        },
+        {
+          "text": "PERSONAL BELIEF, DEVOTION OR RITUAL OBSERVANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PREVENTIVE INSTRUMENTS ARE INSTITUTIONAL AND INFORMATIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "AIMING A RECOMMENDATION AT FAITH INSTEAD OF AT ORGANISATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OBJECT → religious identity used as a political and social organising axis",
+        "NOT THE OBJECT → personal belief, devotion or ritual observance",
+        "CONSEQUENCE → preventive instruments are institutional and informational",
+        "ERROR → aiming a recommendation at faith instead of at organisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OBJECT → religious identity used as a political and social organising axis",
+            "NOT THE OBJECT → personal belief, devotion or ritual observance"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CONSEQUENCE → preventive instruments are institutional and informational",
+            "ERROR → aiming a recommendation at faith instead of at organisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OBJECT → religious identity used as a political and social organising axis",
+            "NOT THE OBJECT → personal belief, devotion or ritual observance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → aiming a recommendation at faith instead of at organisation.",
+      "source_references": [
+        "What communalism names",
+        "Mobilisation against piety"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE FORMS CARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE FORMS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "MOBILISATION BY A DOMINANT GROUP ASSERTING PRIMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFENSIVE OR ASSERTIVE MOBILISATION BY A MINORITY GROUP",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMAND FOR SEPARATE POLITICAL OR TERRITORIAL STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE HEURISTIC, AND NEVER A LICENCE TO FLATTEN POWER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "MAJORITY → mobilisation by a dominant group asserting primacy",
+        "MINORITY → defensive or assertive mobilisation by a minority group",
+        "SEPARATIST → demand for separate political or territorial status",
+        "LIMIT → one heuristic, and never a licence to flatten power asymmetry"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "MAJORITY → mobilisation by a dominant group asserting primacy",
+          "SEPARATIST → demand for separate political or territorial status",
+          "MAJORITY → mobilisation by a dominant group asserting primacy"
+        ],
+        [
+          "MINORITY → defensive or assertive mobilisation by a minority group",
+          "LIMIT → one heuristic, and never a licence to flatten power asymmetry",
+          "MINORITY → defensive or assertive mobilisation by a minority group"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MAJORITY → mobilisation by a dominant group asserting primacy",
+            "MINORITY → defensive or assertive mobilisation by a minority group"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SEPARATIST → demand for separate political or territorial status",
+            "LIMIT → one heuristic, and never a licence to flatten power asymmetry"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAJORITY → mobilisation by a dominant group asserting primacy",
+            "MINORITY → defensive or assertive mobilisation by a minority group"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → one heuristic, and never a licence to flatten power asymmetry.",
+      "source_references": [
+        "The three forms and the limits of the typology"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THEORY DEBATE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THEORY DEBATE",
+          "role": "primary"
+        },
+        {
+          "text": "ANCIENT, DURABLE, EMOTIONALLY MEANINGFUL ATTACHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTORS ACTIVATE AND FRAME IDENTITY FOR MOBILISATION GAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARIES HARDEN THROUGH SUSTAINED MOBILISATION OVER TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NEITHER VIEW MAKES CONFLICT NATURAL OR INEVITABLE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PRIMORDIALISM → ancient, durable, emotionally meaningful attachment",
+        "INSTRUMENTALISM → actors activate and frame identity for mobilisation gain",
+        "CONSTRUCTIVISM → boundaries harden through sustained mobilisation over time",
+        "SHARED LIMIT → neither view makes conflict natural or inevitable"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PRIMORDIALISM → ancient, durable, emotionally meaningful attachment",
+          "CONSTRUCTIVISM → boundaries harden through sustained mobilisation over time",
+          "PRIMORDIALISM → ancient, durable, emotionally meaningful attachment"
+        ],
+        [
+          "INSTRUMENTALISM → actors activate and frame identity for mobilisation gain",
+          "SHARED LIMIT → neither view makes conflict natural or inevitable",
+          "INSTRUMENTALISM → actors activate and frame identity for mobilisation gain"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PRIMORDIALISM → ancient, durable, emotionally meaningful attachment",
+            "INSTRUMENTALISM → actors activate and frame identity for mobilisation gain"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CONSTRUCTIVISM → boundaries harden through sustained mobilisation over time",
+            "SHARED LIMIT → neither view makes conflict natural or inevitable"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIMORDIALISM → ancient, durable, emotionally meaningful attachment",
+            "INSTRUMENTALISM → actors activate and frame identity for mobilisation gain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHARED LIMIT → neither view makes conflict natural or inevitable.",
+      "source_references": [
+        "Primordial attachment and instrumental activation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWO EXPLANATIONS, ONE INTERACTION",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO EXPLANATIONS, ONE INTERACTION",
+          "role": "primary"
+        },
+        {
+          "text": "POWER STRUGGLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPETITION OVER OFFICE, RESOURCES AND STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "RELATIVE DEPRIVATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PERCEIVED UNFAIR GAP AGAINST A REFERENCE GROUP",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISATION CONVERTS A GRIEVANCE INTO MOBILISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GRIEVANCE WITHOUT ORGANISATION NEED NOT BECOME VIOLENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POWER STRUGGLE → competition over office, resources and status",
+        "RELATIVE DEPRIVATION → perceived unfair gap against a reference group",
+        "INTERACTION → organisation converts a grievance into mobilisation",
+        "ASYMMETRY → grievance without organisation need not become violence"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "POWER STRUGGLE → competition over office, resources and status",
+          "INTERACTION → organisation converts a grievance into mobilisation",
+          "POWER STRUGGLE → competition over office, resources and status"
+        ],
+        [
+          "RELATIVE DEPRIVATION → perceived unfair gap against a reference group",
+          "ASYMMETRY → grievance without organisation need not become violence",
+          "RELATIVE DEPRIVATION → perceived unfair gap against a reference group"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "POWER STRUGGLE → competition over office, resources and status",
+            "RELATIVE DEPRIVATION → perceived unfair gap against a reference group"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INTERACTION → organisation converts a grievance into mobilisation",
+            "ASYMMETRY → grievance without organisation need not become violence"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "POWER STRUGGLE → competition over office, resources and status",
+            "RELATIVE DEPRIVATION → perceived unfair gap against a reference group"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASYMMETRY → grievance without organisation need not become violence.",
+      "source_references": [
+        "Power struggle beside relative deprivation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TWO-LAYER RISK MODEL",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TWO-LAYER RISK MODEL",
+          "role": "caution"
+        },
+        {
+          "text": "SEGREGATION, RESOURCE COMPETITION, GRIEVANCE, WEAK INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "A SPECIFIC INCIDENT, A PROVOCATIVE ACT OR AN INFLAMMATORY",
+          "role": "institution"
+        },
+        {
+          "text": "REMOVING ONLY THE TRIGGER LEAVES THE STRUCTURAL RISK INTACT",
+          "role": "caution"
+        },
+        {
+          "text": "AN INTERRUPTION STRATEGY MUST ADDRESS BOTH LAYERS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL → segregation, resource competition, grievance, weak institutions",
+        "TRIGGER → a specific incident, a provocative act or an inflammatory rumour",
+        "RULE → removing only the trigger leaves the structural risk intact",
+        "OUTPUT → an interruption strategy must address both layers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STRUCTURAL → segregation, resource competition, grievance, weak institutions",
+            "TRIGGER → a specific incident, a provocative act or an inflammatory rumour"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "RULE → removing only the trigger leaves the structural risk intact",
+            "OUTPUT → an interruption strategy must address both layers"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURAL → segregation, resource competition, grievance, weak institutions",
+            "TRIGGER → a specific incident, a provocative act or an inflammatory rumour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → removing only the trigger leaves the structural risk intact.",
+      "source_references": [
+        "Structural conditions and proximate triggers"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ESCALATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ESCALATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "UNVERIFIED ACCOUNT CIRCULATES WHERE INFORMATION CHANNELS ARE DISTRUSTED",
+          "role": "outcome"
+        },
+        {
+          "text": "A LOCAL DISPUTE BECOMES A COMMUNITY-VERSUS-COMMUNITY EVENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTINE CONTACT STOPS AND INFORMAL TRUST REPAIR DISAPPEARS",
+          "role": "evidence"
+        },
+        {
+          "text": "A DIAGNOSTIC RISK HEURISTIC, NEVER A UNIVERSAL CHRONOLOGY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RUMOUR → unverified account circulates where information channels are distrusted",
+        "REFRAMING → a local dispute becomes a community-versus-community event",
+        "SEGREGATION → routine contact stops and informal trust repair disappears",
+        "STATUS → a diagnostic risk heuristic, never a universal chronology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "RUMOUR → unverified account circulates where information channels are distrusted",
+            "REFRAMING → a local dispute becomes a community-versus-community event"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SEGREGATION → routine contact stops and informal trust repair disappears",
+            "STATUS → a diagnostic risk heuristic, never a universal chronology"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RUMOUR → unverified account circulates where information channels are distrusted",
+            "REFRAMING → a local dispute becomes a community-versus-community event"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → a diagnostic risk heuristic, never a universal chronology.",
+      "source_references": [
+        "Rumour amplification and segregation",
+        "Violence as a contingent outcome"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PRESENCE AGAINST IMPARTIALITY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRESENCE AGAINST IMPARTIALITY",
+          "role": "primary"
+        },
+        {
+          "text": "POLICE AND ADMINISTRATIVE MACHINERY ARE DEPLOYED ON THE GROUND",
+          "role": "outcome"
+        },
+        {
+          "text": "EVEN-HANDED ACTION REGARDLESS OF THE COMMUNITY INVOLVED",
+          "role": "comparison"
+        },
+        {
+          "text": "ONLY THE SECOND PRODUCES THE TRUST-REPAIR RESULT",
+          "role": "evidence"
+        },
+        {
+          "text": "ASK WHAT WAS DONE, NOT HOW MANY WERE DEPLOYED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRESENCE → police and administrative machinery are deployed on the ground",
+        "IMPARTIALITY → even-handed action regardless of the community involved",
+        "EFFECT → only the second produces the trust-repair result",
+        "TEST → ask what was done, not how many were deployed"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PRESENCE → police and administrative machinery are deployed on the ground",
+          "EFFECT → only the second produces the trust-repair result",
+          "PRESENCE → police and administrative machinery are deployed on the ground"
+        ],
+        [
+          "IMPARTIALITY → even-handed action regardless of the community involved",
+          "TEST → ask what was done, not how many were deployed",
+          "IMPARTIALITY → even-handed action regardless of the community involved"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PRESENCE → police and administrative machinery are deployed on the ground",
+            "IMPARTIALITY → even-handed action regardless of the community involved"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EFFECT → only the second produces the trust-repair result",
+            "TEST → ask what was done, not how many were deployed"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRESENCE → police and administrative machinery are deployed on the ground",
+            "IMPARTIALITY → even-handed action regardless of the community involved"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → only the second produces the trust-repair result.",
+      "source_references": [
+        "Impartiality against mere presence"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TRUST-REPAIR SEQUENCE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRUST-REPAIR SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "STEP ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "IMMEDIATE CREDIBLE FACT VERIFICATION AGAINST THE RUMOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "VISIBLE EVEN-HANDED INVESTIGATION, ARREST AND PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "STEP THREE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUSTAINED CONTACT THROUGH JOINT CIVIC AND ECONOMIC INSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP THREE IS FAR SLOWER THAN STEP ONE, SO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP ONE → immediate credible fact verification against the rumour",
+        "STEP TWO → visible even-handed investigation, arrest and protection",
+        "STEP THREE → sustained contact through joint civic and economic institutions",
+        "TIMING → step three is far slower than step one, so order matters"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STEP ONE → immediate credible fact verification against the rumour",
+            "STEP TWO → visible even-handed investigation, arrest and protection"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STEP THREE → sustained contact through joint civic and economic institutions",
+            "TIMING → step three is far slower than step one, so order matters"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STEP ONE → immediate credible fact verification against the rumour",
+            "STEP TWO → visible even-handed investigation, arrest and protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TIMING → step three is far slower than step one, so order matters.",
+      "source_references": [
+        "The trust-repair sequence"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STATUTE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATUTE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "PLACES OF WORSHIP (SPECIAL PROVISIONS) ACT, 1991, SECTION 4",
+          "role": "institution"
+        },
+        {
+          "text": "RELIGIOUS CHARACTER AS IT STOOD ON 15 AUGUST 1947",
+          "role": "comparison"
+        },
+        {
+          "text": "AYODHYA PLUS SPECIFIED MONUMENTS AND SETTLED CATEGORIES",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGISLATIVE STABILITY MECHANISM, NOT ADJUDICATION ON THE MERITS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATUTE → Places of Worship (Special Provisions) Act, 1991, Section 4",
+        "FREEZE → religious character as it stood on 15 August 1947",
+        "EXCEPTIONS → Ayodhya plus specified monuments and settled categories",
+        "STATUS → legislative stability mechanism, not adjudication on the merits"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "STATUTE → Places of Worship (Special Provisions) Act, 1991, Section 4",
+          "EXCEPTIONS → Ayodhya plus specified monuments and settled categories",
+          "STATUTE → Places of Worship (Special Provisions) Act, 1991, Section 4"
+        ],
+        [
+          "FREEZE → religious character as it stood on 15 August 1947",
+          "STATUS → legislative stability mechanism, not adjudication on the merits",
+          "FREEZE → religious character as it stood on 15 August 1947"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "STATUTE → Places of Worship (Special Provisions) Act, 1991, Section 4",
+            "FREEZE → religious character as it stood on 15 August 1947"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EXCEPTIONS → Ayodhya plus specified monuments and settled categories",
+            "STATUS → legislative stability mechanism, not adjudication on the merits"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUTE → Places of Worship (Special Provisions) Act, 1991, Section 4",
+            "FREEZE → religious character as it stood on 15 August 1947"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → legislative stability mechanism, not adjudication on the merits.",
+      "source_references": [
+        "The 1991 Act and its status boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ECONOMY AND IDENTITY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ECONOMY AND IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENTIATED GAINS, INSECURE WORK, LOCAL RESOURCE COMPETITION",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTITY ENTREPRENEURS CONVERT INSECURITY INTO A COMMUNAL NARRATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "CIVIC INSTITUTIONS AND CREDIBLE IMPARTIALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO AGGREGATE REFORM EXPLAINS A SPECIFIC EPISODE BY ITSELF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "REFORM → differentiated gains, insecure work, local resource competition",
+        "FRAMING → identity entrepreneurs convert insecurity into a communal narrative",
+        "COUNTER-CONDITION → civic institutions and credible impartiality",
+        "PROHIBITION → no aggregate reform explains a specific episode by itself"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "REFORM → differentiated gains, insecure work, local resource competition",
+            "FRAMING → identity entrepreneurs convert insecurity into a communal narrative"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "COUNTER-CONDITION → civic institutions and credible impartiality",
+            "PROHIBITION → no aggregate reform explains a specific episode by itself"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REFORM → differentiated gains, insecure work, local resource competition",
+            "FRAMING → identity entrepreneurs convert insecurity into a communal narrative"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION → no aggregate reform explains a specific episode by itself.",
+      "source_references": [
+        "Post-liberalisation economy and identity framing"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TWO REGISTERS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO REGISTERS",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL INTEGRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL AND CONSTITUTIONAL MANAGEMENT OF DIVERSITY",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMUNAL HARMONY",
+          "role": "evidence"
+        },
+        {
+          "text": "EVERYDAY SOCIAL COEXISTENCE AND INTER-COMMUNITY TRUST",
+          "role": "primary"
+        },
+        {
+          "text": "THE FIRST DOES NOT AUTOMATICALLY DELIVER THE SECOND",
+          "role": "caution"
+        },
+        {
+          "text": "THE NATIONAL INTEGRATION COUNCIL'S STATUS BELONGS TO POLITY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "NATIONAL INTEGRATION → institutional and constitutional management of diversity",
+        "COMMUNAL HARMONY → everyday social coexistence and inter-community trust",
+        "RELATION → the first does not automatically deliver the second",
+        "CROSS-LINKED → the National Integration Council's status belongs to Polity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "NATIONAL INTEGRATION → institutional and constitutional management of diversity",
+            "COMMUNAL HARMONY → everyday social coexistence and inter-community trust"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "RELATION → the first does not automatically deliver the second",
+            "CROSS-LINKED → the National Integration Council's status belongs to Polity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NATIONAL INTEGRATION → institutional and constitutional management of diversity",
+            "COMMUNAL HARMONY → everyday social coexistence and inter-community trust"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CROSS-LINKED → the National Integration Council's status belongs to Polity.",
+      "source_references": [
+        "National integration beside communal harmony"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COMMUNALISM ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COMMUNALISM ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE MOBILISATION AND SEPARATE IT FROM RELIGIOUS BELIEF",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURAL LAYER, TRIGGER LAYER AND THE ACTOR WHO LINKS",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER STRUGGLE AGAINST RELATIVE DEPRIVATION, WITH INTERACTION NAMED",
+          "role": "mechanism"
+        },
+        {
+          "text": "VERIFICATION, IMPARTIALITY AND CONTACT, WITH REVERSIBILITY STATED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → define mobilisation and separate it from religious belief",
+        "BODY → structural layer, trigger layer and the actor who links them",
+        "TEST → power struggle against relative deprivation, with interaction named",
+        "CLOSE → verification, impartiality and contact, with reversibility stated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OPEN → define mobilisation and separate it from religious belief",
+            "BODY → structural layer, trigger layer and the actor who links them"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "TEST → power struggle against relative deprivation, with interaction named",
+            "CLOSE → verification, impartiality and contact, with reversibility stated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → define mobilisation and separate it from religious belief",
+            "BODY → structural layer, trigger layer and the actor who links them"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → verification, impartiality and contact, with reversibility stated.",
+      "source_references": [
+        "Question ownership and the answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL INTEGRATION COUNCIL (CROSS-LINKED)",
+          "role": "institution"
+        },
+        {
+          "text": "ESTABLISHED AS A FORUM TO BUILD",
+          "role": "comparison"
+        },
+        {
+          "text": "PLACES OF WORSHIP (SPECIAL PROVISIONS) ACT, 1991 (CURRENT-STATUS DISCIPLINE)",
+          "role": "institution"
+        },
+        {
+          "text": "COMMUNITY-POLICING AND LOCAL TRUST-BUILDING MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURED COMMUNITY-LIAISON",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — PRIMORDIALIST MISDIAGNOSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING A SPECIFIC COMMUNAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORETICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: National Integration Council (cross-linked): established as a forum to build",
+            "Places of Worship (Special Provisions) Act, 1991 (current-status discipline): the",
+            "CAUTION: Community-policing and local trust-building models: structured community-liaison",
+            "CAUTION: Boundary case 1 — primordialist misdiagnosis: treating a specific communal"
+          ]
+        },
+        {
+          "heading": "DATA / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Boundary case 2 — structural risk without triggering incident: a segregated,",
+            "CAUTION: Boundary case 3 — effective trust repair vs live flashpoint: a locality where prompt,",
+            "CAUTION: Trigger-control-versus-structural-reform trade-off: rumour control and impartial",
+            "CAUTION: Freeze-mechanism-versus-adjudication trade-off: the Places of Worship Act's"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE SOCIAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Institutional-presence-versus-impartiality gap: simply increasing police or",
+            "CAUTION: Instrumentalist/constructivist accounts are powerful explanations of mobilisation, but",
+            "The Places of Worship (Special Provisions) Act, 1991 preserves religious character as of",
+            "The Act remains on the statute book; verify the official case-status/order record before"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

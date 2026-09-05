@@ -1,0 +1,1015 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-06",
+  "subject": "Indian-Art-and-Culture",
+  "title": "SCULPTURE, POTTERY AND ICONOGRAPHY",
+  "short_route": "SIX-VARIABLE READING RAIL → LOST-WAX AND LABEL FIREWALL → POTTERY CHRONOLOGY → THREE-SCHOOL MATRIX → ANICONIC TO ICONIC → GUPTA BRIDGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-06\\indian-art-and-culture-06_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-06-07-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "6f4a898cab481628c5d5464edd32cc749c752a49d9111d7ea5b2de31847e9b95",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SIX-VARIABLE READING RAIL",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SIX-VARIABLE READING RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT CARVING OR CASTING PERMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "POSTURE + ATTRIBUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY AND ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "PATRON + SITE",
+          "role": "primary"
+        },
+        {
+          "text": "COMMISSIONED CONTEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMILARITY, DIFFERENCE AND LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MATERIAL → what carving or casting permits",
+        "POSTURE + ATTRIBUTE → identity and action",
+        "PATRON + SITE → commissioned context",
+        "COMPARISON → similarity, difference and limit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MATERIAL → what carving or casting permits",
+            "POSTURE + ATTRIBUTE → identity and action"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PATRON + SITE → commissioned context",
+            "COMPARISON → similarity, difference and limit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MATERIAL → what carving or casting permits",
+            "POSTURE + ATTRIBUTE → identity and action"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PATRON + SITE → commissioned context; COMPARISON → similarity, difference and limit.",
+      "source_references": [
+        "How to read sculpture"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LOST-WAX AND LABEL FIREWALL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOST-WAX AND LABEL FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "WAX MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAY INVESTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "WAX LEAVES A CAVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MOLTEN METAL",
+          "role": "primary"
+        },
+        {
+          "text": "BRONZE FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE FROM A MUSEUM LABEL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WAX MODEL → clay investment",
+        "HEAT → wax leaves a cavity",
+        "MOLTEN METAL → bronze form",
+        "MEANING → separate from a museum label"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAX MODEL → clay investment",
+            "HEAT → wax leaves a cavity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOLTEN METAL → bronze form",
+            "MEANING → separate from a museum label"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WAX MODEL → clay investment",
+            "HEAT → wax leaves a cavity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MOLTEN METAL → bronze form; MEANING → separate from a museum label.",
+      "source_references": [
+        "Lost-wax bronze and Harappan labels"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "POTTERY CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POTTERY CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "COARSE HAND-MADE WARE",
+          "role": "outcome"
+        },
+        {
+          "text": "AHAR, MALWA AND JORWE PAINTED WARES",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE CHRONOLOGICAL MARKERS",
+          "role": "evidence"
+        },
+        {
+          "text": "FINE EARLY HISTORIC TABLEWARE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NEOLITHIC → coarse hand-made ware",
+        "CHALCOLITHIC → Ahar, Malwa and Jorwe painted wares",
+        "HARAPPAN / PGW → separate chronological markers",
+        "NBPW → fine early historic tableware"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NEOLITHIC → coarse hand-made ware",
+            "CHALCOLITHIC → Ahar, Malwa and Jorwe painted wares"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HARAPPAN / PGW → separate chronological markers",
+            "NBPW → fine early historic tableware"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEOLITHIC → coarse hand-made ware",
+            "CHALCOLITHIC → Ahar, Malwa and Jorwe painted wares"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHALCOLITHIC → Ahar, Malwa and Jorwe painted wares.",
+      "source_references": [
+        "Pottery as chronological evidence"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THREE-SCHOOL MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE-SCHOOL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "GREY STONE, BUDDHIST, LAYERED INFLUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RED STONE, THREE RELIGIONS, ATTRIBUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMESTONE, BUDDHIST NARRATIVE, TRIBHANGA",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPARE ON THE SAME AXES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GANDHARA → grey stone, Buddhist, layered influence",
+        "MATHURA → red stone, three religions, attributes",
+        "AMARAVATI → limestone, Buddhist narrative, tribhanga",
+        "RULE → compare on the same axes"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GANDHARA → grey stone, Buddhist, layered influence",
+          "AMARAVATI → limestone, Buddhist narrative, tribhanga",
+          "GANDHARA → grey stone, Buddhist, layered influence"
+        ],
+        [
+          "MATHURA → red stone, three religions, attributes",
+          "RULE → compare on the same axes",
+          "MATHURA → red stone, three religions, attributes"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GANDHARA → grey stone, Buddhist, layered influence",
+            "MATHURA → red stone, three religions, attributes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AMARAVATI → limestone, Buddhist narrative, tribhanga",
+            "RULE → compare on the same axes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GANDHARA → grey stone, Buddhist, layered influence",
+            "MATHURA → red stone, three religions, attributes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AMARAVATI → limestone, Buddhist narrative, tribhanga; RULE → compare on the same axes.",
+      "source_references": [
+        "Gandhara's layered idiom",
+        "Mathura's indigenous breadth"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ANICONIC TO ICONIC",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANICONIC TO ICONIC",
+          "role": "primary"
+        },
+        {
+          "text": "EMPTY THRONE",
+          "role": "outcome"
+        },
+        {
+          "text": "SYMBOLIC PRESENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVOTIONAL CHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAN IMAGE BECOMES CENTRAL",
+          "role": "primary"
+        },
+        {
+          "text": "GANDHARA + MATHURA",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERLAPPING EARLY-CE CONTEXTS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO UNCONTESTED SOLE ORIGIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EMPTY THRONE / TREE / WHEEL → symbolic presence",
+        "DEVOTIONAL CHANGE → human image becomes central",
+        "GANDHARA + MATHURA → overlapping early-CE contexts",
+        "CAUTION → no uncontested sole origin"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EMPTY THRONE / TREE / WHEEL → symbolic presence",
+            "DEVOTIONAL CHANGE → human image becomes central"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GANDHARA + MATHURA → overlapping early-CE contexts",
+            "CAUTION → no uncontested sole origin"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EMPTY THRONE / TREE / WHEEL → symbolic presence",
+            "DEVOTIONAL CHANGE → human image becomes central"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EMPTY THRONE / TREE / WHEEL → symbolic presence.",
+      "source_references": [
+        "Aniconism and the iconic shift"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GUPTA BRIDGE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GUPTA BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "CREAM SANDSTONE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBTLE MODELLING AND THIN DRAPERY",
+          "role": "comparison"
+        },
+        {
+          "text": "LATE OR POST-GUPTA CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "RESTRAINT BEFORE DENSER TEMPLE PROGRAMMES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SARNATH → cream sandstone",
+        "BODY → subtle modelling and thin drapery",
+        "SULTANGANJ → late or post-Gupta caution",
+        "BRIDGE → restraint before denser temple programmes"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SARNATH → cream sandstone",
+          "SULTANGANJ → late or post-Gupta caution",
+          "SARNATH → cream sandstone"
+        ],
+        [
+          "BODY → subtle modelling and thin drapery",
+          "BRIDGE → restraint before denser temple programmes",
+          "BODY → subtle modelling and thin drapery"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SARNATH → cream sandstone",
+            "BODY → subtle modelling and thin drapery"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SULTANGANJ → late or post-Gupta caution",
+            "BRIDGE → restraint before denser temple programmes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SARNATH → cream sandstone",
+            "BODY → subtle modelling and thin drapery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SULTANGANJ → late or post-Gupta caution; BRIDGE → restraint before denser temple programmes.",
+      "source_references": [
+        "Gupta restraint and dating limits"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NATARAJA CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NATARAJA CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY KNOWN ANTECEDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CANONICAL PORTABLE BRONZE",
+          "role": "comparison"
+        },
+        {
+          "text": "TEMPLE PROCESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "RITUAL MOBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "PEAK IS NOT ORIGIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AIHOLE → early known antecedent",
+        "CHOLA → canonical portable bronze",
+        "TEMPLE PROCESSION → ritual mobility",
+        "RULE → peak is not origin"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AIHOLE → early known antecedent",
+            "CHOLA → canonical portable bronze"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEMPLE PROCESSION → ritual mobility",
+            "RULE → peak is not origin"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AIHOLE → early known antecedent",
+            "CHOLA → canonical portable bronze"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEMPLE PROCESSION → ritual mobility; RULE → peak is not origin.",
+      "source_references": [
+        "Nataraja from Aihole to Chola"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NATARAJA ATTRIBUTE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NATARAJA ATTRIBUTE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CREATION AND DESTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RAISED FOOT",
+          "role": "comparison"
+        },
+        {
+          "text": "REASSURANCE AND RELEASE",
+          "role": "evidence"
+        },
+        {
+          "text": "IGNORANCE SUBDUED",
+          "role": "primary"
+        },
+        {
+          "text": "RECURRING TIME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DAMARU / FIRE → creation and destruction",
+        "ABHAYA / RAISED FOOT → reassurance and release",
+        "APASMARA → ignorance subdued",
+        "AUREOLE → recurring time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DAMARU / FIRE → creation and destruction",
+            "ABHAYA / RAISED FOOT → reassurance and release"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APASMARA → ignorance subdued",
+            "AUREOLE → recurring time"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DAMARU / FIRE → creation and destruction",
+            "ABHAYA / RAISED FOOT → reassurance and release"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ABHAYA / RAISED FOOT → reassurance and release.",
+      "source_references": [
+        "Nataraja from Aihole to Chola"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LION-BULL EVIDENCE LADDER",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LION-BULL EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "BULL VISIBLE, MEANING UNRECOVERABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "INSCRIBED LION, UNINSCRIBED BULL",
+          "role": "comparison"
+        },
+        {
+          "text": "ANIMALS INSIDE A BUDDHIST-IMPERIAL SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "NANDI, YALI AND VYALA GAIN PLACED ROLES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HARAPPAN → bull visible, meaning unrecoverable",
+        "RAMPURVA → inscribed lion, uninscribed bull",
+        "SARNATH → animals inside a Buddhist-imperial system",
+        "TEMPLE → Nandi, Yali and Vyala gain placed roles"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HARAPPAN → bull visible, meaning unrecoverable",
+          "SARNATH → animals inside a Buddhist-imperial system",
+          "HARAPPAN → bull visible, meaning unrecoverable"
+        ],
+        [
+          "RAMPURVA → inscribed lion, uninscribed bull",
+          "TEMPLE → Nandi, Yali and Vyala gain placed roles",
+          "RAMPURVA → inscribed lion, uninscribed bull"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HARAPPAN → bull visible, meaning unrecoverable",
+            "RAMPURVA → inscribed lion, uninscribed bull"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SARNATH → animals inside a Buddhist-imperial system",
+            "TEMPLE → Nandi, Yali and Vyala gain placed roles"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HARAPPAN → bull visible, meaning unrecoverable",
+            "RAMPURVA → inscribed lion, uninscribed bull"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEMPLE → Nandi, Yali and Vyala gain placed roles.",
+      "source_references": [
+        "Lion and bull across media"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TEMPLE ANIMAL PLACEMENT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TEMPLE ANIMAL PLACEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "AXIAL PAVILION BEFORE SHIVA",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPOSITE GUARDIAN ON SOUTHERN PILLARS",
+          "role": "comparison"
+        },
+        {
+          "text": "LION-BODIED HYBRID AT KHAJURAHO",
+          "role": "evidence"
+        },
+        {
+          "text": "BUILDING, GUARDIAN AND MOTIF",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NANDI → axial pavilion before Shiva",
+        "YALI → composite guardian on southern pillars",
+        "VYALA → lion-bodied hybrid at Khajuraho",
+        "DISTINCTION → building, guardian and motif"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NANDI → axial pavilion before Shiva",
+          "VYALA → lion-bodied hybrid at Khajuraho",
+          "NANDI → axial pavilion before Shiva"
+        ],
+        [
+          "YALI → composite guardian on southern pillars",
+          "DISTINCTION → building, guardian and motif",
+          "YALI → composite guardian on southern pillars"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NANDI → axial pavilion before Shiva",
+            "YALI → composite guardian on southern pillars"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VYALA → lion-bodied hybrid at Khajuraho",
+            "DISTINCTION → building, guardian and motif"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NANDI → axial pavilion before Shiva",
+            "YALI → composite guardian on southern pillars"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VYALA → lion-bodied hybrid at Khajuraho; DISTINCTION → building, guardian and motif.",
+      "source_references": [
+        "Nandi, Yali and Vyala"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SOCIAL-EVIDENCE TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SOCIAL-EVIDENCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "DANCER, MUSICIAN, TEACHER OR COUPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTED WHAT BECAME VISIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "VALUED ACTIVITY OR RITUAL IDIOM",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT A CENSUS OF SOCIETY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIGURE → dancer, musician, teacher or couple",
+        "PATRON → selected what became visible",
+        "CLAIM → valued activity or ritual idiom",
+        "LIMIT → not a census of society"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIGURE → dancer, musician, teacher or couple",
+            "PATRON → selected what became visible"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLAIM → valued activity or ritual idiom",
+            "LIMIT → not a census of society"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FIGURE → dancer, musician, teacher or couple",
+            "PATRON → selected what became visible"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLAIM → valued activity or ritual idiom; LIMIT → not a census of society.",
+      "source_references": [
+        "Sculpture as social evidence"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SCULPTURE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SCULPTURE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOL, OBJECT OR SYMBOL",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERIAL, POSTURE, ATTRIBUTE AND SITE",
+          "role": "evidence"
+        },
+        {
+          "text": "PERIOD OR REGIONAL WORKSHOP",
+          "role": "evidence"
+        },
+        {
+          "text": "ATTRIBUTION, PRIORITY AND SOCIAL INFERENCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → school, object or symbol",
+        "EVIDENCE → material, posture, attribute and site",
+        "COMPARE → period or regional workshop",
+        "QUALIFY → attribution, priority and social inference"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → school, object or symbol",
+            "EVIDENCE → material, posture, attribute and site"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → period or regional workshop",
+            "QUALIFY → attribution, priority and social inference"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → school, object or symbol",
+            "EVIDENCE → material, posture, attribute and site"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE → period or regional workshop; QUALIFY → attribution, priority and social inference.",
+      "source_references": [
+        "Verified PYQs and final answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NO URGENT CURRENT-STATUS CORRECTION IS REQUIRED FOR THIS TOPIC'S",
+          "role": "caution"
+        },
+        {
+          "text": "TREATING CHOLA PATRONAGE AS THE ORIGIN OF NATARAJA ICONOGRAPHY.",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING \"INDO-GREEK\" (GANDHARA) AS MEANING THE SCULPTURE IS",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSUMING ICONOGRAPHIC ATTRIBUTE IDENTIFICATION ALWAYS OVER-RIDES",
+          "role": "primary"
+        },
+        {
+          "text": "TREATING TRADITIONAL MUSEUM LABELS AS DECODED HARAPPAN IDENTITIES.",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSIGNING DIDARGANJ AUTOMATICALLY TO THE MAURYAS. - ITS POLISH",
+          "role": "comparison"
+        },
+        {
+          "text": "TOPIC 13 OWNS THE DOCTRINAL/THEOLOGICAL SIGNIFICANCE OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "No urgent current-status correction is required for this topic's",
+            "NOT: Treating Chola patronage as the origin of Nataraja iconography. - The",
+            "NOT: Treating \"Indo-Greek\" (Gandhara) as meaning the sculpture is",
+            "NOT: Assuming iconographic attribute identification always over-rides"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / INTERPRETIVE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Treating traditional museum labels as decoded Harappan identities.",
+            "NOT: Assigning Didarganj automatically to the Mauryas. - Its polish supports",
+            "NOT: Topic 13 owns the doctrinal/theological significance of",
+            "NOT: Ancient/Medieval History owns the political chronology of the"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HERITAGE NUANCE",
+          "role": "comparison",
+          "items": [
+            "This file's six-factor method is directly reusable for topic 03's",
+            "Foundation companion: basic/06 Sculpture-Pottery-and-Iconography.md.",
+            "00 Master-Framework.md Section 2 — the \"how to read a monument,",
+            "CAUTION: Cross-links: Topic 03 (Chandella sculptural-programme dossier,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1025 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-10",
+  "subject": "Indian-Art-and-Culture",
+  "title": "THEATRE, PUPPETRY AND PERFORMANCE TRADITIONS",
+  "short_route": "DRAMATIC ROOT SYSTEM → DRAMATIC-MODE FIREWALL → SUTRADHAR ROLE CHAIN → CHARACTER-LANGUAGE MAP → DECLINE AND SURVIVAL → FOLK-THEATRE ARC",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-10\\indian-art-and-culture-10_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-10-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "3722d0e624fca07c0d1a556b474a27b441df64e26d3889c8ad3bebd612d1ddc3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DRAMATIC ROOT SYSTEM",
+      "structural_type": "root-axes",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DRAMATIC ROOT SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "CODIFIED PROGRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "NAYAKA, NAYIKA AND VIDUSAKA",
+          "role": "comparison"
+        },
+        {
+          "text": "AUDIENCE RECEPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "RITUAL OPENING AND CONVENTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PLOT → codified progression",
+        "CHARACTER → Nayaka, Nayika and Vidusaka",
+        "RASA → audience reception",
+        "STAGE → ritual opening and convention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLOT → codified progression",
+            "CHARACTER → Nayaka, Nayika and Vidusaka"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RASA → audience reception",
+            "STAGE → ritual opening and convention"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLOT → codified progression",
+            "CHARACTER → Nayaka, Nayika and Vidusaka"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RASA → audience reception; STAGE → ritual opening and convention.",
+      "source_references": [
+        "Natyashastra and dramatic modes"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DRAMATIC-MODE FIREWALL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DRAMATIC-MODE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "REALISTIC DAILY-LIFE REPRESENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "STYLISED SYMBOLIC NARRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY COMBINE BOTH",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT REVERSE THE PAIR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LOKADHARMI → realistic daily-life representation",
+        "NATYADHARMI → stylised symbolic narration",
+        "PERFORMANCE → may combine both",
+        "TRAP → do not reverse the pair"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LOKADHARMI → realistic daily-life representation",
+          "PERFORMANCE → may combine both",
+          "LOKADHARMI → realistic daily-life representation"
+        ],
+        [
+          "NATYADHARMI → stylised symbolic narration",
+          "TRAP → do not reverse the pair",
+          "NATYADHARMI → stylised symbolic narration"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOKADHARMI → realistic daily-life representation",
+            "NATYADHARMI → stylised symbolic narration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERFORMANCE → may combine both",
+            "TRAP → do not reverse the pair"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOKADHARMI → realistic daily-life representation",
+            "NATYADHARMI → stylised symbolic narration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PERFORMANCE → may combine both; TRAP → do not reverse the pair.",
+      "source_references": [
+        "Natyashastra and dramatic modes"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SUTRADHAR ROLE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SUTRADHAR ROLE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RITUAL PREPARATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TIME, PLACE AND PLAY",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE MANAGEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PERFORMANCE ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "NARRATOR AND HOLDER-OF-STRINGS SENSE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PRELIMINARIES → ritual preparation",
+        "INTRODUCTION → time, place and play",
+        "STAGE MANAGEMENT → performance order",
+        "PUPPETRY → narrator and holder-of-strings sense"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRELIMINARIES → ritual preparation",
+            "INTRODUCTION → time, place and play"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STAGE MANAGEMENT → performance order",
+            "PUPPETRY → narrator and holder-of-strings sense"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRELIMINARIES → ritual preparation",
+            "INTRODUCTION → time, place and play"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STAGE MANAGEMENT → performance order; PUPPETRY → narrator and holder-of-strings sense.",
+      "source_references": [
+        "Rupakas and the Sutradhar"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHARACTER-LANGUAGE MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHARACTER-LANGUAGE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "HERO TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "HEROINE TYPE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMIC AND SATIRICAL FRIEND",
+          "role": "evidence"
+        },
+        {
+          "text": "MARKED SPEECH REGISTER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NAYAKA → hero type",
+        "NAYIKA → heroine type",
+        "VIDUSAKA → comic and satirical friend",
+        "PRAKRIT → marked speech register"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NAYAKA → hero type",
+          "VIDUSAKA → comic and satirical friend",
+          "NAYAKA → hero type"
+        ],
+        [
+          "NAYIKA → heroine type",
+          "PRAKRIT → marked speech register",
+          "NAYIKA → heroine type"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAYAKA → hero type",
+            "NAYIKA → heroine type"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VIDUSAKA → comic and satirical friend",
+            "PRAKRIT → marked speech register"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAYAKA → hero type",
+            "NAYIKA → heroine type"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VIDUSAKA → comic and satirical friend; PRAKRIT → marked speech register.",
+      "source_references": [
+        "Character and language on stage"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DECLINE AND SURVIVAL",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DECLINE AND SURVIVAL",
+          "role": "caution"
+        },
+        {
+          "text": "WRITERS SHIFT",
+          "role": "outcome"
+        },
+        {
+          "text": "POETRY AND SONG",
+          "role": "comparison"
+        },
+        {
+          "text": "LANGUAGE BARRIER",
+          "role": "evidence"
+        },
+        {
+          "text": "SANSKRIT LOSES REACH",
+          "role": "primary"
+        },
+        {
+          "text": "PATRONAGE SHIFT",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT ECOLOGY CHANGES",
+          "role": "institution"
+        },
+        {
+          "text": "REGIONAL LIVING CONTINUITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WRITERS SHIFT → poetry and song",
+        "LANGUAGE BARRIER → Sanskrit loses reach",
+        "PATRONAGE SHIFT → court ecology changes",
+        "KUTIYATTAM → regional living continuity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WRITERS SHIFT → poetry and song",
+            "LANGUAGE BARRIER → Sanskrit loses reach"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PATRONAGE SHIFT → court ecology changes",
+            "KUTIYATTAM → regional living continuity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WRITERS SHIFT → poetry and song",
+            "LANGUAGE BARRIER → Sanskrit loses reach"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PATRONAGE SHIFT → court ecology changes; KUTIYATTAM → regional living continuity.",
+      "source_references": [
+        "Why Sanskrit theatre contracted",
+        "Kutiyattam as living continuity"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FOLK-THEATRE ARC",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FOLK-THEATRE ARC",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY REGIONAL THEMES",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL NARRATIVE EXPANSION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL MESSAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "POST-INDEPENDENCE USE",
+          "role": "primary"
+        },
+        {
+          "text": "STAGES OVERLAP BY REGION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEVOTIONAL → early regional themes",
+        "ROMANCE / HERO → local narrative expansion",
+        "SOCIAL MESSAGE → post-Independence use",
+        "RULE → stages overlap by region"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEVOTIONAL → early regional themes",
+            "ROMANCE / HERO → local narrative expansion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOCIAL MESSAGE → post-Independence use",
+            "RULE → stages overlap by region"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEVOTIONAL → early regional themes",
+            "ROMANCE / HERO → local narrative expansion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOCIAL MESSAGE → post-Independence use; RULE → stages overlap by region.",
+      "source_references": [
+        "Folk theatre's changing public"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MODERN THEATRE SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MODERN THEATRE SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "COLONIAL CITY AND COMMERCE",
+          "role": "outcome"
+        },
+        {
+          "text": "1876 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "POLITICAL CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "CIRCULATION AND MOBILISATION",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONAL TRAINING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PROSCENIUM → colonial city and commerce",
+        "1876 ACT → political control",
+        "PARSI / IPTA → circulation and mobilisation",
+        "SNA / NSD → institutional training"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROSCENIUM → colonial city and commerce",
+            "1876 ACT → political control"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARSI / IPTA → circulation and mobilisation",
+            "SNA / NSD → institutional training"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROSCENIUM → colonial city and commerce",
+            "1876 ACT → political control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARSI / IPTA → circulation and mobilisation; SNA / NSD → institutional training.",
+      "source_references": [
+        "Colonial proscenium and censorship",
+        "Parsi, IPTA and institutions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PUPPETRY MECHANISM MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PUPPETRY MECHANISM MATRIX",
+          "role": "mechanism"
+        },
+        {
+          "text": "SUSPENDED MARIONETTE",
+          "role": "outcome"
+        },
+        {
+          "text": "CUT-OUT BEFORE A LIT SCREEN",
+          "role": "comparison"
+        },
+        {
+          "text": "FIGURE MOVED FROM BELOW OR BEHIND",
+          "role": "evidence"
+        },
+        {
+          "text": "FINGERS INSIDE A SLEEVE BODY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRING → suspended marionette",
+        "SHADOW → cut-out before a lit screen",
+        "ROD → figure moved from below or behind",
+        "GLOVE → fingers inside a sleeve body"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STRING → suspended marionette",
+          "ROD → figure moved from below or behind",
+          "STRING → suspended marionette"
+        ],
+        [
+          "SHADOW → cut-out before a lit screen",
+          "GLOVE → fingers inside a sleeve body",
+          "SHADOW → cut-out before a lit screen"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRING → suspended marionette",
+            "SHADOW → cut-out before a lit screen"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ROD → figure moved from below or behind",
+            "GLOVE → fingers inside a sleeve body"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRING → suspended marionette",
+            "SHADOW → cut-out before a lit screen"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROD → figure moved from below or behind.",
+      "source_references": [
+        "Four puppetry mechanisms"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STRING-PUPPET DISTINCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STRING-PUPPET DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "LEGLESS RAJASTHAN DOLL",
+          "role": "outcome"
+        },
+        {
+          "text": "JOINTED ODISHA FIGURE",
+          "role": "comparison"
+        },
+        {
+          "text": "YAKSHAGANA-STYLED KARNATAKA FIGURE",
+          "role": "evidence"
+        },
+        {
+          "text": "STRINGS, BUT DIFFERENT BODIES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "KATHPUTLI → legless Rajasthan doll",
+        "KUNDHEI → jointed Odisha figure",
+        "GOMBEYATTA → Yakshagana-styled Karnataka figure",
+        "CONTROL → strings, but different bodies"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KATHPUTLI → legless Rajasthan doll",
+          "GOMBEYATTA → Yakshagana-styled Karnataka figure",
+          "KATHPUTLI → legless Rajasthan doll"
+        ],
+        [
+          "KUNDHEI → jointed Odisha figure",
+          "CONTROL → strings, but different bodies",
+          "KUNDHEI → jointed Odisha figure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KATHPUTLI → legless Rajasthan doll",
+            "KUNDHEI → jointed Odisha figure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOMBEYATTA → Yakshagana-styled Karnataka figure",
+            "CONTROL → strings, but different bodies"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KATHPUTLI → legless Rajasthan doll",
+            "KUNDHEI → jointed Odisha figure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GOMBEYATTA → Yakshagana-styled Karnataka figure; CONTROL → strings, but different bodies.",
+      "source_references": [
+        "String-puppet regional grammar"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SHADOW, ROD AND GLOVE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SHADOW, ROD AND GLOVE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "THOLU BOMMALATA",
+          "role": "outcome"
+        },
+        {
+          "text": "ANDHRA SHADOW",
+          "role": "comparison"
+        },
+        {
+          "text": "RAVANA CHHAYA",
+          "role": "evidence"
+        },
+        {
+          "text": "ODISHA SHADOW",
+          "role": "primary"
+        },
+        {
+          "text": "PUTUL NACH",
+          "role": "outcome"
+        },
+        {
+          "text": "KERALA GLOVE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "THOLU BOMMALATA → Andhra shadow",
+        "RAVANA CHHAYA → Odisha shadow",
+        "PUTUL NACH / YAMPURI → rod",
+        "PAVAKOOTHU → Kerala glove"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "THOLU BOMMALATA → Andhra shadow",
+            "RAVANA CHHAYA → Odisha shadow"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUTUL NACH / YAMPURI → rod",
+            "PAVAKOOTHU → Kerala glove"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "THOLU BOMMALATA → Andhra shadow",
+            "RAVANA CHHAYA → Odisha shadow"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PUTUL NACH / YAMPURI → rod; PAVAKOOTHU → Kerala glove.",
+      "source_references": [
+        "Shadow-puppet screen grammar",
+        "Rod, glove and control"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PERFORMANCE VULNERABILITY TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PERFORMANCE VULNERABILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "TEXT SURVIVES?",
+          "role": "outcome"
+        },
+        {
+          "text": "ARCHIVE AND TEACHING",
+          "role": "comparison"
+        },
+        {
+          "text": "PERFORMER SURVIVES?",
+          "role": "evidence"
+        },
+        {
+          "text": "SKILL TRANSMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "AUDIENCE + FUNDING?",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVING ECOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "FORM-SPECIFIC SAFEGUARDING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEXT SURVIVES? → archive and teaching",
+        "PERFORMER SURVIVES? → skill transmission",
+        "AUDIENCE + FUNDING? → living ecology",
+        "RESPONSE → form-specific safeguarding"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TEXT SURVIVES? → archive and teaching",
+            "PERFORMER SURVIVES? → skill transmission"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUDIENCE + FUNDING? → living ecology",
+            "RESPONSE → form-specific safeguarding"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEXT SURVIVES? → archive and teaching",
+            "PERFORMER SURVIVES? → skill transmission"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUDIENCE + FUNDING? → living ecology; RESPONSE → form-specific safeguarding.",
+      "source_references": [
+        "Puppetry as archive and livelihood"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PERFORMANCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PERFORMANCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MODE, GENRE OR CONTROL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PATRONAGE AND PUBLIC",
+          "role": "comparison"
+        },
+        {
+          "text": "REGION, BODY AND INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "CONVENTION, CONTINUITY AND VULNERABILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → mode, genre or control mechanism",
+        "TRACE → patronage and public",
+        "COMPARE → region, body and institution",
+        "QUALIFY → convention, continuity and vulnerability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → mode, genre or control mechanism",
+            "TRACE → patronage and public"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → region, body and institution",
+            "QUALIFY → convention, continuity and vulnerability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → mode, genre or control mechanism",
+            "TRACE → patronage and public"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE → region, body and institution; QUALIFY → convention, continuity and vulnerability.",
+      "source_references": [
+        "Martial performance and two decline types"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "KUTIYATTAM (SANSKRIT THEATRE, KERALA) REMAINS UNESCO ICH-INSCRIBED",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING SANSKRIT THEATRE'S DECLINE AND PUPPETRY'S DECLINE AS THE",
+          "role": "caution"
+        },
+        {
+          "text": "SAYING HISTORICAL SANSKRIT THEATRE NEEDS ONLY TEXTUAL STUDY.",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESENTING PUPPETRY AS MERELY A CHILDREN'S ENTERTAINMENT FORM.",
+          "role": "primary"
+        },
+        {
+          "text": "ASSUMING ALL FOUR PUPPETRY CATEGORIES FACE IDENTICAL DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "INDIAN SOCIETY OWNS THE LIVELIHOOD AND SOCIO-ECONOMIC",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNANCE OWNS CULTURAL-POLICY FUNDING MECHANISMS AS A PUBLIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Kutiyattam (Sanskrit theatre, Kerala) remains UNESCO ICH-inscribed",
+            "NOT: Treating Sanskrit theatre's decline and puppetry's decline as the",
+            "NOT: Saying historical Sanskrit theatre needs only textual study.",
+            "NOT: Presenting puppetry as merely a children's entertainment form. - The"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / INTERPRETIVE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Assuming all four puppetry categories face identical decline",
+            "NOT: Indian Society owns the livelihood and socio-economic",
+            "NOT: Governance owns cultural-policy funding mechanisms as a public",
+            "This file's completed-vs-ongoing decline distinction is reusable"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HERITAGE NUANCE",
+          "role": "comparison",
+          "items": [
+            "00 Master-Framework.md Section 5 — the current-claim verification",
+            "CAUTION: Cross-links: Topic 12 (craft-ecology safeguarding parallels),",
+            "Verified against Nitinpdf , PDF pp. 500-503 and PDF pp. 540-548",
+            "CAUTION: Open caution: this file's account of the \"reasons for decline\" of"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

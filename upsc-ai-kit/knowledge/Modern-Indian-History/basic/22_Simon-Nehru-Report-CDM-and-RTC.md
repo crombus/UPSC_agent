@@ -250,3 +250,26 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Simon exclusion and protest, Nehru Report and Fourteen
+  Points, Lahore/Purna Swaraj, Dandi and the full regional-social Civil
+  Disobedience field, Gandhi-Irwin, all three RTCs, Communal Award, Poona Pact,
+  resumed repression and withdrawal in 1934.
+- **Boundary:** Topic 21 owns Swarajists and HRA-HSRA; Topic 23 owns organised
+  Left, peasant, worker and states-peoples movements; Topic 24 owns the 1935
+  Act and ministries. Topic 26 owns INA/RIN/Cabinet Mission and Topic 27 owns
+  independence/partition.
+- **Date control:** Simon appointment (1927), arrival (3 February 1928), Lahore
+  lathi-charge (30 October), Lajpat Rai's death (17 November), Lahore Congress
+  (December 1929), Independence Day (26 January 1930), Dandi march
+  (12 March-6 April 1930), Gandhi-Irwin (5 March 1931), Communal Award
+  (August 1932), Poona Pact (September 1932) and withdrawal (1934) are distinct.
+- **Mechanism control:** Nehru Report meant dominion status, not Purna Swaraj;
+  salt launched but did not exhaust CDM; Congress missed the First RTC and
+  Gandhi attended the Second; Communal Award separate electorates differ from
+  Poona Pact reserved seats in joint electorates.
+- **Verified PYQ ownership, 2018-2026:** two direct objective routes are
+  retained. The 2025 Prelims Q74 Series-A key is locally official-confirmed;
+  the 2020 Prelims Q27 key is unavailable and no answer letter is invented.

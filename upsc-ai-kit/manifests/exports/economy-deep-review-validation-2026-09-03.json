@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-03T12:17:15.895749+00:00",
+  "subject": "Economy",
+  "section": "Subject-wide Syllabus",
+  "topic_count": 31,
+  "topic_validations_passed": 31,
+  "tests": [
+    {
+      "command": "python -m unittest -v test_regenerate_economy_deep_review (cwd=tools)",
+      "tests": 11,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_allocation_rereads_live_state_and_publish_precedes_review (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_answer_contract_is_exam_executable_and_answer_specific (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_contract_enforces_economy_precision (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_every_economy_generator_range_is_wired (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_full_library_count_is_dynamic (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_inventory_is_utf8_nul_safe_and_verifies_paths (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_live_tracker_scope_is_twenty_seven_or_thirty_one_before_review (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_manifest_order_scope_and_provenance_owners_are_exact (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_review_controls_cover_all_thirty_one_topics (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\ntest_review_lines_and_paths_are_windows_safe (test_regenerate_economy_deep_review.EconomyDeepReviewTests) ... ok\n\n----------------------------------------------------------------------\nRan 10 tests in 1.084s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_economy_01_05_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_deep_quality_has_no_high_defects (test_generate_economy_01_05_sequential.EconomySequentialTests) ... ok\ntest_exact_economy_distinctions_survive (test_generate_economy_01_05_sequential.EconomySequentialTests) ... ok\ntest_full_contract_for_every_topic (test_generate_economy_01_05_sequential.EconomySequentialTests) ... ok\ntest_topic_01_uses_legacy_history_without_regeneration_flag (test_generate_economy_01_05_sequential.EconomySequentialTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.890s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_economy_06_10_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_deep_quality_has_no_high_defects (test_generate_economy_06_10_sequential.EconomySequentialTests) ... ok\ntest_exact_economy_distinctions_survive (test_generate_economy_06_10_sequential.EconomySequentialTests) ... ok\ntest_full_contract_for_every_topic (test_generate_economy_06_10_sequential.EconomySequentialTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.765s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_economy_11_15_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_agriculture_policy_boundaries_survive (test_generate_economy_11_15_sequential.EconomySequentialTests) ... ok\ntest_deep_quality_has_no_high_defects (test_generate_economy_11_15_sequential.EconomySequentialTests) ... ok\ntest_full_contract_for_every_topic (test_generate_economy_11_15_sequential.EconomySequentialTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.832s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_economy_16_19_sequential (cwd=tools)",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_deep_quality_has_no_high_defects (test_generate_economy_16_19_sequential.EconomySequentialTests) ... ok\ntest_full_contract_for_every_topic (test_generate_economy_16_19_sequential.EconomySequentialTests) ... ok\ntest_policy_accounting_boundaries_survive (test_generate_economy_16_19_sequential.EconomySequentialTests) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.730s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_economy_20_23_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_deep_quality_has_no_high_defects (test_generate_economy_20_23_sequential.EconomySequentialTests) ... ok\ntest_full_contract_for_every_topic (test_generate_economy_20_23_sequential.EconomySequentialTests) ... ok\ntest_measurement_and_status_boundaries_survive (test_generate_economy_20_23_sequential.EconomySequentialTests) ... ok\ntest_verified_pyq_concepts_are_in_basic_and_practice (test_generate_economy_20_23_sequential.EconomySequentialTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.682s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_economy_24_27_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_deep_quality_has_no_high_defects (test_generate_economy_24_27_sequential.EconomySequentialTests) ... ok\ntest_full_contract_for_every_topic (test_generate_economy_24_27_sequential.EconomySequentialTests) ... ok\ntest_measurement_and_status_boundaries_survive (test_generate_economy_24_27_sequential.EconomySequentialTests) ... ok\ntest_verified_pyq_concepts_are_in_basic_and_practice (test_generate_economy_24_27_sequential.EconomySequentialTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.913s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_generate_economy_28_31_sequential (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_deep_quality_has_no_high_defects (test_generate_economy_28_31_sequential.EconomySequentialTests) ... ok\ntest_full_contract_for_every_topic (test_generate_economy_28_31_sequential.EconomySequentialTests) ... ok\ntest_measurement_legal_and_status_boundaries_survive (test_generate_economy_28_31_sequential.EconomySequentialTests) ... ok\ntest_verified_pyq_concepts_are_in_basic_and_practice (test_generate_economy_28_31_sequential.EconomySequentialTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.898s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_v2_section_indexes (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_ancient_topics_are_done_and_queue_is_empty (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_ambiguous_discovery_requires_explicit_manifest (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_has_no_duplicate_copy_paste_commands (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_guide_scans_new_valid_manifests_and_is_deterministic (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_command_states_are_adjacent_and_use_public_state_labels (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_current_pilot_copy_paste_commands_are_exact (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_notes_and_workbook_indexes_are_strictly_separate (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_planned_generated_approved_and_incomplete_are_independent (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_quick_commands_are_state_aware_manifest_ordered_and_unicode (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_registered_sections_resolve_latest_paths_and_scope (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_rerun_is_deterministic_and_has_no_duplicate_rows (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_root_command_guide_is_human_facing_and_complete (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_table_range_discovery_expands_all_owned_topics (test_v2_section_indexes.SectionIndexTests) ... ok\ntest_unicode_title_is_preserved_as_utf8 (test_v2_section_indexes.SectionIndexTests) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 19.963s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_export_four_item_library (cwd=tools)",
+      "tests": 14,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_ascii_pdf_round_trip_preserves_panels (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_replace_retries_transient_permission_error (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_atomic_topic_replacement_removes_short_backup (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_canonical_destination_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_exact_topic_shape_rejects_extra_files (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_full_publication_prunes_only_stale_topic_destinations (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_human_readable_sanitization (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_latest_selection_uses_highest_generation (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_destination_file_io_exceeds_windows_max_path (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_long_topic_slug_is_bounded_and_stable (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_navigation_and_indexes_use_canonical_destination (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_real_inventory_resolves_all_latest_topics (test_export_four_item_library.ExportLibraryTests) ... ok\ntest_unknown_selected_topic_is_an_error (test_export_four_item_library.ExportLibraryTests) ... ok\n\n----------------------------------------------------------------------\nRan 13 tests in 3.558s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_sync_deep_review_tracker (cwd=tools)",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_key_set_mismatch_is_reported_without_key_error (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_matching_trackers_pass (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_summary_counts_are_compared_by_value (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\ntest_sync_scope_may_ignore_unpublished_export_keys (test_sync_deep_review_tracker.DeepReviewTrackerCheckTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK"
+    },
+    {
+      "command": "python -m unittest -v test_refresh_all_v2_learning_sessions (cwd=tools)",
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "exit_code": 0,
+      "output_tail": "test_all_topic_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_option_relabelling_does_not_rewrite_ordinary_prose (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rebalancing_preserves_correct_option_content (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_does_not_gain_double_punctuation (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_rotation_note_repairs_mutated_letter_sequence (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_sequential_polity_keys_use_required_abcd_cycle (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_validator_extracts_bold_answers_with_option_text (test_refresh_all_v2_learning_sessions.McqTests) ... ok\ntest_ascii_master_is_added_inside_final_register (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_big_bang_metadata_never_enters_semantic_aids (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_duplicate_panel_titles_are_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_session_keeps_nested_content_in_major_session (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_generic_sessionizer_preserves_meta_and_adds_complete_contract (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_legitimate_conceptual_classification_is_not_globally_removed (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_linear_session_card_dump_is_rejected (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_notions_style_reference_is_accepted (test_refresh_all_v2_learning_sessions.SessionContractTests) ... ok\ntest_explicit_mcq_answer_text_must_match_selected_option (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_full_refreshed_markdown_contract_passes (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_refreshed_paths_are_accepted (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_validator_rejects_exact_old_big_bang_malformation (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\ntest_workbook_extractor_replaces_learning_session_title (test_refresh_all_v2_learning_sessions.ValidatorTests) ... ok\n\n----------------------------------------------------------------------\nRan 40 tests in 19.611s\n\nOK"
+    }
+  ],
+  "test_count": 108,
+  "failures": 0,
+  "unrelated_pre_existing_failures": [],
+  "tracker_mismatch_count": 0,
+  "approval_false": true,
+  "export_validation": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03-validation.json",
+  "subject_wide_validation": {
+    "latest_topic_count": 31,
+    "learning_and_workbook_pdfs_checked": 62,
+    "pdf_layout_failures": 0,
+    "strict_rotation_failures": 0,
+    "answer_contract_failures": 0,
+    "flow_stage_failures": 0,
+    "final_library_hash_mismatches": 0
+  },
+  "status": "passed",
+  "full_library_validation": {
+    "topic_count": 419,
+    "manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03.json",
+    "validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-09-03-validation.json",
+    "status": "passed",
+    "complete_live_key_set": true,
+    "scope": "all",
+    "library_totals": {
+      "file_count": 8063,
+      "pdf_count": 2097,
+      "png_count": 723,
+      "txt_count": 890,
+      "markdown_count": 1319,
+      "json_count": 3019,
+      "total_bytes": 3758294542,
+      "by_extension": {
+        ".json": 3019,
+        ".md": 1319,
+        ".pdf": 2097,
+        ".png": 723,
+        ".txt": 890,
+        ".zip": 15
+      }
+    },
+    "shared_export_pdf_validation_mode": "quick (all Economy PDFs retain prior full validation)"
+  },
+  "post_shared_checks": [
+    {
+      "command": "Economy-scoped live EXPORT/MASTER/REVIEW identity check",
+      "exit_code": 0,
+      "result": "passed",
+      "output_tail": "All 31 Economy identities agree; unrelated concurrent identities were not reset or overwritten."
+    }
+  ],
+  "canonical_source_change_status": "unchanged_hash_locked",
+  "canonical_source_owner_count": 93,
+  "represented": 31,
+  "passed": 31,
+  "target_score": 98,
+  "failure_count": 0,
+  "changed_file_inventory": "upsc-ai-kit\\manifests\\exports\\economy-deep-review-2026-09-03-changed-files.txt",
+  "changed_file_inventory_nul": "upsc-ai-kit\\manifests\\exports\\economy-deep-review-2026-09-03-changed-files.nul",
+  "changed_file_inventory_count": 1527,
+  "changed_file_inventory_all_paths_exist": true,
+  "changed_file_inventory_utf8_nul_safe": true,
+  "final_persistent_verification": {
+    "verified_at": "2026-09-03T16:06:59.793953+00:00",
+    "represented": 31,
+    "passed": 31,
+    "target_score": 98,
+    "failure_count": 0,
+    "mismatch_count": 0,
+    "approval_false": true,
+    "manifest_order_exact": true,
+    "latest_identity_agreement": true,
+    "all_hard_gates_passed": true,
+    "final_library_hashes_match": true,
+    "generation_transitions_exact": true,
+    "preserved_intermediates": [
+      "economy-01:learner-v2:g3",
+      "economy-01:learner-v2:g4"
+    ],
+    "canonical_source_change_status": "unchanged_hash_locked",
+    "subject_library_topic_count": 31,
+    "master_topic_count_at_verification": 419,
+    "library_file_count": 8063,
+    "changed_file_inventory_count": 1527,
+    "changed_file_inventory_all_paths_exist": true,
+    "changed_file_inventory_utf8_nul_safe": true,
+    "shared_test_count": 108,
+    "shared_test_failures": 0,
+    "full_library_topic_count": 419,
+    "canonical_full_manifest_scope": "all",
+    "selected_export_overwrite_regression": true
+  },
+  "publication_repair_tests": {
+    "tests": 108,
+    "failures": 0,
+    "tracker_sync_check": "passed",
+    "selected_export_overwrite_regression": "passed"
+  }
+}

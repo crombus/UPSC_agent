@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-04T14:38:09.626861+00:00",
+  "latest_learner_v2_topics": 483,
+  "master_topics": 483,
+  "review_topics_before": 483,
+  "review_topics_after": 483,
+  "added_count": 0,
+  "added_topic_keys": [],
+  "reset_count": 0,
+  "reset_topic_keys": [],
+  "preserved_count": 483,
+  "summary": {
+    "passed": 439,
+    "pending": 44
+  },
+  "subject_counts": {
+    "Ancient History": 27,
+    "Medieval History": 25,
+    "Modern History": 38,
+    "World History": 21,
+    "Indian Art and Culture": 15,
+    "Geography": 37,
+    "Indian Society": 15,
+    "Polity": 55,
+    "Governance": 16,
+    "Social Justice": 17,
+    "International Relations": 12,
+    "Economy": 31,
+    "Environment and Ecology": 28,
+    "Science and Technology": 26,
+    "Internal Security": 12,
+    "Disaster Management": 18,
+    "Ethics": 23,
+    "Political Theory": 23,
+    "Essay": 4,
+    "Philosophy Optional": 40
+  },
+  "identity_mismatches": [],
+  "ignored_unpublished_export_keys": [],
+  "approval_policy": "Review status never changes package approval; explicit topic approval remains separate.",
+  "result": "passed"
+}

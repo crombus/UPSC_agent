@@ -14,12 +14,12 @@ cover_image: "../../../notes/Polity/assets/14_Emergency-Provisions/01_three_emer
 
 - Source order followed: certified Core owner `Polity/basic/Emergency-Provisions.md` -> optional Advanced owner `Polity/advanced/14_Emergency-Provisions.md` -> official/local PYQ routes and recent official key -> Constitution, judgments and current controls -> Qdrant not used.
 - [LIMIT] Foundation and Core are independently answer-complete. Optional Advanced adds Constituent Assembly criticism and deeper theory only.
-- [CURRENT] Status is controlled to **16 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] *S.R. Bommai*, the 44th Amendment safeguards and *K.S. Puttaswamy*'s rejection of *ADM Jabalpur* remain controlling.
-- [CURRENT] India has never proclaimed a Financial Emergency under Article 360.
+- [CURRENT] No National Emergency or Financial Emergency is in force. India has never proclaimed a Financial Emergency under Article 360. President's Rule imposed in Manipur on 13 February 2025 was revoked on **4 February 2026**, restoring elected government; State-specific Article 356 status must always be dated rather than treated as permanent history.
 - [CURRENT] 25 June is officially observed as **Samvidhaan Hatya Diwas**, commemorating resistance to abuse during the 1975 Emergency; this is commemorative policy, not a constitutional amendment.
 - [LIMIT] Centre-State relation mechanics are cross-linked to Polity 13; Governor office to Polity 19; Fundamental Rights doctrine to Polity 07. Every emergency-specific rule remains complete here.
-- Package target: **6 routed PYQs**, **28 original MCQs**, **8 remedials**, **7 solved Mains questions** and **14 original visuals**.
+- Package target: **6 routed PYQs**, **28 original MCQs**, **8 remedials**, **7 original solved Mains questions**, **10 guided Mains answers** and **14 original visuals**.
 
 ## Roadmap
 
@@ -37,7 +37,7 @@ cover_image: "../../../notes/Polity/assets/14_Emergency-Provisions/01_three_emer
 | Financial | Trigger, consequences and never-used status | Answers 2018 GS-II |
 | Comparison | 352 versus 356 versus 360 | Rapid revision |
 | Advanced | Criticism, constitutional dictatorship and safety-valve debate | Optional analytical lift |
-| Practice | Six PYQs, 36 MCQs and seven Mains models | Converts knowledge into marks |
+| Practice | Six PYQs, 36 MCQs and ten guided Mains models | Converts knowledge into marks |
 
 ## Scope ownership and cross-links
 
@@ -148,7 +148,7 @@ cover_image: "../../../notes/Polity/assets/14_Emergency-Provisions/01_three_emer
 | Right affected | Article 19 only | Rights named in presidential order except 20 and 21 |
 | Trigger | War/external aggression Emergency only | Either external or armed-rebellion Emergency |
 | Operation | Automatic | Requires presidential order |
-| What is suspended | Article 19 restriction on emergency-related State action | Right to move specified courts for enforcement |
+| Constitutional effect | Article 19 restrictions do not constrain qualifying emergency-related law/action | Right to move specified courts for enforcement is suspended as ordered |
 | Territorial/duration scope | Emergency operation subject to constitutional text | Whole/part and period stated in order |
 
 ### Post-44th nexus protection
@@ -188,6 +188,7 @@ cover_image: "../../../notes/Polity/assets/14_Emergency-Provisions/01_three_emer
 - [FACT] 44th Amendment (1978): added the principal democratic safeguards.
 - [FACT] *Minerva Mills* recognised review of emergency satisfaction for mala fides or wholly extraneous grounds.
 - [CURRENT] 25 June is officially observed as Samvidhaan Hatya Diwas to commemorate those who resisted abuse during the 1975 Emergency.
+- [CURRENT] No Article 352 proclamation is in force as of 28 August 2026. President's Rule in Manipur (imposed 13 February 2025) was revoked on 4 February 2026; this recent State-specific episode must not be confused with National Emergency.
 - [LIMIT] The official observance changes no Emergency Article.
 
 ## 09. President's Rule: trigger and procedure
@@ -341,17 +342,23 @@ cover_image: "../../../notes/Polity/assets/14_Emergency-Provisions/01_three_emer
 **Question:** Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force?  
 **10 marks | 150 words**
 
+**Demand decoding:** Under what circumstances requires Article 360's trigger, procedure and consequences, followed by the never-used qualified verdict.
+
 **Model solution**
 
 Article 360 permits the President to proclaim Financial Emergency when satisfied that the financial stability or credit of India or any part is threatened.
 
-Both Houses must approve within two months by simple majority. Once approved, the proclamation continues indefinitely without six-month renewal and may be revoked by the President.
+Both Houses must approve within two months by simple majority. It then continues without periodic renewal and may be revoked by the President.
 
 Its consequences are strongly centralising. Union executive power extends to directing States to observe canons of financial propriety and other necessary measures. Directions may require reduction of salaries and allowances of persons serving a State and reservation of State Money Bills or specified financial Bills for presidential consideration. The President may also direct salary reductions for persons serving Union affairs, including Supreme Court and High Court judges.
 
-The provision makes the financial federation temporarily unitary without suspending Fundamental Rights or State institutions as such. It has never been invoked, including during the 1991 crisis, reflecting its severity.
+The provision sharply centralises finance without suspending Fundamental Rights or abolishing State institutions. It has never been invoked, reflecting its severity.
 
 Thus, Article 360 is a last-resort stabilisation power whose constitutional legitimacy depends on necessity, proportionality and review.
+
+**Why this earns marks:** It states the constitutional threshold, approval, duration and every major direction without confusing Financial Emergency with ordinary fiscal stress.
+
+**How to improve this answer:** Use a trigger → approval → consequences → status flow; omit 1991 detail if the 150-word limit is tight.
 
 ### PYQ 2 - UPSC Prelims 2018, Q53 - direct
 
@@ -371,6 +378,8 @@ Article 356 permits declaration that State legislative powers are exercisable by
 **Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the Disaster Management Act, 2005 and the recently passed Farm Acts.  
 **15 marks | 250 words**
 
+**Demand decoding:** Elucidate requires showing centralising capacity through the named laws while distinguishing ordinary legislation from formal Emergency powers.
+
 **Model solution**
 
 India's holding-together Constitution gives the Union crisis and common-market capacity beyond a classical federation.
@@ -384,6 +393,10 @@ Emergency provisions strengthen this tendency: Article 352 permits Union directi
 The counterbalance lies in *S.R. Bommai*, judicial competence doctrines, parliamentary accountability, GST/ISC consultation and State electoral power.
 
 Thus, centralising authority may protect unity, but ordinary statutes should not borrow emergency logic. Necessity, correct List entry and structured State consultation distinguish coordination from coercion.
+
+**Why this earns marks:** It discusses each named statute, locates the federal competence dispute and balances Union coordination with State consultation.
+
+**How to improve this answer:** Give the three named statutes separate lines and explicitly say Articles 352-360 were not the direct legal basis of the Farm Acts.
 
 ### PYQ 4 - UPSC Prelims 2023, Q77 - direct
 
@@ -409,6 +422,8 @@ Article 355 establishes the Union duty. Article 22(3) excludes preventive-detent
 **Question:** Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since the mid-1990s.  
 **15 marks | 250 words**
 
+**Demand decoding:** Account for requires causal explanation of both legal and political reasons for declining Article 356 use.
+
 **Model solution**
 
 Article 356 declined after the mid-1990s because judicial doctrine and political federalisation raised the cost of partisan dismissal.
@@ -422,6 +437,10 @@ Article 356 declined after the mid-1990s because judicial doctrine and political
 The decline is not attributable to textual repeal: Article 356 retains broad “report or otherwise” language and Governor disputes continue. Rather, law altered litigation risk while political federalism altered survival incentives.
 
 Thus, Article 356 moved from a routine partisan instrument toward an exceptional constitutional remedy through the combined discipline of courts, coalitions and conventions.
+
+**Why this earns marks:** It combines Bommai and Rameshwar Prasad with coalition, regional-party and commission factors, then qualifies the continuing Governor problem.
+
+**How to improve this answer:** Use Legal, Political and Institutional subheads; retain Rameshwar Prasad's non-restoration limit if adding case detail.
 
 ### PYQ 6 - UPSC Prelims 2024, Q74 - supporting, official key
 
@@ -922,6 +941,8 @@ The severity helps explain its non-use.
 
 **Question:** Explain the written-Cabinet, parliamentary and Lok Sabha safeguards governing a National Emergency.
 
+**Demand decoding:** Explain the three safeguards and show how each checks executive initiation or continuation.
+
 **Model solution**
 
 Article 352 now combines executive initiation with strong parliamentary checks.
@@ -936,13 +957,17 @@ Finally, presidential satisfaction is judicially reviewable after removal of the
 
 These 44th Amendment safeguards respond directly to 1975. They preserve rapid crisis action but require written collective advice, recurring legislative legitimacy, lower-House control and constitutional review.
 
+**Why this earns marks:** It gives written Cabinet advice, special-majority renewal, Lok Sabha exit and restored review in a compact sequence.
+
+**How to improve this answer:** Draw four boxes in rough work and keep the special-majority definition exact.
+
 ### M2. 10 marks | 150 words
 
 **Question:** Differentiate Articles 358 and 359 and explain the significance of the protection of Articles 20 and 21.
 
-**Model solution**
+**Demand decoding:** Differentiate requires a side-by-side 358/359 comparison and the significance of the 20/21 firewall.
 
-Articles 358 and 359 affect Fundamental Rights differently during National Emergency.
+**Model solution**
 
 Article 358 operates automatically and concerns only Article 19. After the 44th Amendment, it applies only to Emergency based on war or external aggression, not armed rebellion, and protects only emergency-related laws carrying the required recital and action under them.
 
@@ -950,13 +975,19 @@ Article 359 requires a presidential order. It suspends the right to move specifi
 
 Articles 20 and 21 are constitutionally excluded from Article 359. Protection against retrospective punishment, double jeopardy and compelled self-incrimination, along with life and personal liberty, remain enforceable.
 
-This protection answers the constitutional failure exposed by *ADM Jabalpur*, whose majority denied habeas corpus during the 1975 Emergency. *Puttaswamy* later overruled that decision.
+This protection answers *ADM Jabalpur*, whose majority denied habeas corpus during the 1975 Emergency. *Puttaswamy* overruled it.
 
 Thus, Article 358 creates a narrow automatic Article 19 rule; Article 359 creates a specified enforcement restriction, bounded by an inviolable liberty core.
+
+**Why this earns marks:** It distinguishes trigger, operation, rights and legal effect, then connects ADM Jabalpur to Puttaswamy.
+
+**How to improve this answer:** Avoid saying rights are abolished or suspended generally; use 'Article 19 limits do not apply' and 'right to move court is suspended'.
 
 ### M3. 15 marks | 250 words
 
 **Question:** “Emergency provisions make the Indian federation unitary without formally abolishing States.” Examine.
+
+**Demand decoding:** Examine requires testing temporary functional centralisation separately under Articles 352, 356 and 360.
 
 **Model solution**
 
@@ -972,9 +1003,15 @@ Post-1978 safeguards qualify the unitary transformation. National Emergency requ
 
 Therefore, Emergency creates temporary functional unitarism within a continuing federal Constitution. The provisions are legitimate as a safety-valve only where necessity, parliamentary control, rights protection and judicial review prevent exceptional power from becoming ordinary governance.
 
+**Why this earns marks:** It explains different institutional effects and balances them with the 44th Amendment and Bommai safeguards.
+
+**How to improve this answer:** Use one paragraph per emergency and replace 'unitary' with 'temporarily Union-weighted' in the conclusion.
+
 ### M4. 15 marks | 250 words
 
 **Question:** Assess the constitutional significance of S.R. Bommai beyond merely reducing misuse of Article 356.
+
+**Demand decoding:** Assess significance beyond frequency by identifying Bommai's federal, democratic, remedial and secularism doctrines.
 
 **Model solution**
 
@@ -994,9 +1031,15 @@ The judgment's reach extends beyond frequency statistics. It links federalism, r
 
 Thus, *Bommai* did not merely tame a provision; it converted emergency federalism into a justiciable branch of constitutional morality.
 
+**Why this earns marks:** It covers review, floor test, dissolution, restoration, Basic Structure and burden of producing material.
+
+**How to improve this answer:** Add Rameshwar Prasad's invalidation-without-restoration qualification as the best later application.
+
 ### M5. 20 marks | 250-300 words
 
 **Question:** Critically evaluate whether the 44th Amendment adequately prevents repetition of the constitutional abuses associated with the 1975 Emergency.
+
+**Demand decoding:** Critically evaluate requires achievements, residual vulnerabilities and a graded adequacy verdict.
 
 **Model solution**
 
@@ -1012,9 +1055,15 @@ Prevention therefore also depends on opposition capacity, free media, independen
 
 The 44th Amendment substantially closes the exact 1975 pathways, especially vague grounds and denial of life/liberty remedies. It cannot guarantee democratic courage. Its adequacy is institutional rather than automatic: strong text must be activated by Parliament, courts and citizens.
 
+**Why this earns marks:** It maps each 1975 vulnerability to a 44th Amendment repair and recognises institutional limits that text cannot eliminate.
+
+**How to improve this answer:** Prioritise armed rebellion, Cabinet writing, special-majority renewal and 20/21 protection; compress commemorative material.
+
 ### M6. 20 marks | 250-300 words
 
 **Question:** Why has Article 360 never been invoked despite serious economic crises? Does non-use indicate redundancy?
+
+**Demand decoding:** Why and redundancy require explaining non-use through severity, alternatives and retained contingency value.
 
 **Model solution**
 
@@ -1032,9 +1081,15 @@ Reform could require published reasons, periodic parliamentary renewal rather th
 
 Article 360 is a constitutional fire alarm: rarely or never used because activation itself signals catastrophe. Its legitimacy lies in last-resort availability, but its indefinite duration deserves scrutiny.
 
+**Why this earns marks:** It accurately sets out Article 360, compares ordinary fiscal tools and gives a balanced reform-oriented conclusion.
+
+**How to improve this answer:** Do not call 1991 a near-proclamation; call it a crisis managed without Article 360.
+
 ### M7. 20 marks | 250-300 words
 
 **Question:** Emergency powers are necessary for constitutional survival but dangerous when crisis reasoning enters ordinary governance. Discuss.
+
+**Demand decoding:** Discuss requires a necessity-versus-normalisation dialectic with safeguards and a constitutional-survival test.
 
 **Model solution**
 
@@ -1049,6 +1104,10 @@ India's safeguards now distinguish exception from normality: armed rebellion is 
 Yet institutions must actively enforce these rules. Parliament requires information, courts must remain accessible, media must remain free and emergency-related laws must show genuine nexus and proportionality.
 
 Emergency power is therefore legitimate only as temporary constitutional self-defence. The decisive test is whether exceptional authority restores ordinary democratic government or becomes a convenient model for governing without it.
+
+**Why this earns marks:** It uses all three emergencies, 1975 evidence, amendments and cases to reach a qualified temporary-self-defence standard.
+
+**How to improve this answer:** Keep ordinary disaster/preventive-detention examples subordinate and end with restoration of normal government as the decisive test.
 
 ## Final consolidated register notes
 

@@ -4,6 +4,19 @@
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested/empirical claim
 > **Placement:** This clause asks what counts as a better society. It tests the difference between **economic growth, structural development, human capability and morally justified social progress**.
 
+## Exact printed ownership and cross-topic firewall
+
+The official clause is the broad but single item **Development and Social Progress**. It owns the
+meaning, metric, agency, justice, cultural and ecological evaluation of development—not every
+economic, environmental or welfare policy.
+
+| Content | Ownership here | Boundary |
+|---|---|---|
+| Development concepts and measures | growth/development/progress distinctions, basic needs, quality of life, human development and capability | Current GDP, poverty, health, education or scheme data remain with Economy and GS |
+| Normative perspectives | capability/humanistic, Gandhian and bounded liberal, Marxist and Ambedkarite tests | Full ideologies remain with [Political Ideologies](Political-Ideologies.md); full equality/justice theory remains with [Social and Political Ideals](Social-Political-Ideals.md) |
+| Culture, participation and exclusion | agency, empowerment, recognition, tribal values and decision-power | Full multicultural, gender and caste doctrines retain their separate owners |
+| Sustainability | ecological standing, intergenerational justice, productivism, degrowth and just transition | Environment facts and current climate policy remain outside this philosophical owner |
+
 ## 0. ONE-SCREEN MAP
 
 ```text
@@ -50,6 +63,24 @@ The concept contains both:
 
 **Discriminating test:** if income rises while preventable unfreedom, humiliation or ecological destruction intensifies, there may be growth without social progress.
 
+### 1.2A Measures: basic needs, welfare, quality of life and agency
+
+No current figure is required. The philosophical issue is what each indicator family treats as the
+good and what it leaves invisible.
+
+| Measure family | Typical informational space | What it adds | What it can hide |
+|---|---|---|---|
+| Output/income | aggregate or per-capita production and command over goods | resource capacity | distribution, unpaid work, externalities |
+| Basic needs | nutrition, shelter, health, sanitation and elementary education | deprivation threshold | voice, choice and quality above the threshold |
+| Welfare/quality of life | security, health, work, environment and experienced well-being | lived conditions | adaptive preferences and unequal power |
+| Human-development indicators | longevity, knowledge and material command | people rather than output | within-group inequality and political freedom |
+| Capabilities | real opportunities for valued beings and doings | conversion, freedom and agency | selection and measurement disagreement |
+| Social-progress indicators | equality, dignity, participation, security and institutions | relations and public value | aggregation across contested dimensions |
+| Ecological indicators | stocks, sinks, resilience, irreversibility and future options | biophysical and intergenerational limits | distribution of adjustment burdens |
+
+⚠️ A composite index is evidence within one evaluative space, not a complete theory of the good
+society.
+
 ### 1.3 The economistic model
 
 ✅ The economistic model identifies development chiefly with industrialisation, investment, productivity and rising income.
@@ -65,6 +96,33 @@ The concept contains both:
 
 **Objection:** growth says little about distribution, work quality, displacement, political voice or ecological cost.
 **Reply:** ⚠️ the proper conclusion is not that growth is irrelevant, but that it is **instrumental and conversion-dependent**.
+
+### 1.3A Modernisation and its assumptions
+
+✅ Modernisation theory interprets development as a transition from “traditional” to “modern”
+social organisation through industrialisation, urbanisation, education, occupational
+differentiation, bureaucratic capacity, scientific rationality and expanding markets.
+
+Its common assumptions are:
+
+1. **linear sequence:** societies move through broadly comparable stages;
+2. **convergence:** institutional differences diminish as productive and administrative capacity grows;
+3. **traditional/modern contrast:** inherited authority and local production yield to rational,
+   mobile and differentiated institutions;
+4. **diffusion:** capital, knowledge and technology can transmit development;
+5. **expert direction:** planners can identify obstacles and accelerate transition.
+
+**Hostile objections:**
+
+- dependency theory denies that underdevelopment is merely an earlier stage;
+- post-development exposes the power to define others as deficient;
+- cultural and Gandhian critiques reject homogenisation of the good life;
+- Marxist criticism asks who owns production and appropriates the gains;
+- Ambedkarite criticism asks whether modernisation dismantles or merely reorganises graded hierarchy.
+
+⚠️ **Verdict:** modernisation names real structural transformations but is not a neutral or
+inevitable law. Its institutions count as progress only when they enlarge equal capability,
+democratic agency and ecological security.
 
 ### 1.4 Human development
 
@@ -133,6 +191,18 @@ The concept contains both:
 **Objection:** the concept is vague and can legitimise “green” versions of the same growth model.
 **Reply:** ⚠️ specify thresholds, distribution, participation and non-substitutable ecological limits.
 
+### 1.9 Bounded perspective map
+
+| Perspective | Developmental focus | Characteristic warning | Ownership control |
+|---|---|---|---|
+| Liberal/welfare | resources, opportunity, rights, public goods and individual choice | formal opportunity may coexist with unequal conversion | comparison only; full liberalism is elsewhere |
+| Marxist | production, class power, alienation and control of surplus | growth can reproduce exploitation and commodity domination | comparison only; full Marxism is elsewhere |
+| Humanistic/capability | each person as an end and agent with real freedoms | beneficiaries can be counted while agency is denied | full owner here through Sen/Nussbaum and human-development theory |
+| Gandhian | need, non-violence, local self-rule, dignity of labour and restraint | scale and multiplied wants can centralise domination | direct owner through the 2020 PYQ |
+| Ambedkarite bridge | constitutional rights, social democracy, mobility and destruction of graded hierarchy | a village or growth strategy is not progress if caste power survives | bounded bridge; full caste theory remains elsewhere |
+
+⚠️ The matrix supplies evaluation criteria, not five complete ideologies.
+
 ---
 
 ## 2. SOCIAL PROGRESS
@@ -153,6 +223,19 @@ It is **teleological** in a weak sense: to call change progress is to judge move
 2. institutions distribute its control and risks;
 3. moral learning can be reversed;
 4. therefore, progress requires agency, conflict, institutions and judgment.
+
+### 2.2A Linear, cyclical and plural conceptions of progress
+
+| Conception | Core claim | Strength | Failure |
+|---|---|---|---|
+| Linear/cumulative | reason, knowledge or productive capacity can generate movement toward a better condition | explains learning and institutional accumulation | mistakes capacity for moral improvement and one route for a universal sequence |
+| Cyclical | societies rise, stabilise and decline rather than advance indefinitely | resists complacent inevitability | can become fatalistic and understate deliberate reform |
+| Dialectical/conflictual | contradiction and struggle transform institutions | explains conflict and discontinuity | may impose a single historical direction |
+| Plural/non-linear | societies pursue several partly incommensurable goods through multiple paths | respects culture, contingency and reversibility | risks relativism and loss of common standards |
+
+⚠️ **Controlling position:** social progress is neither automatic nor one-dimensional. It is
+directional only after the valued ends are stated, and plural only within a universal floor of
+dignity, freedom from severe deprivation, equal civic standing and ecological responsibility.
 
 ### 2.3 Criteria of social progress
 
@@ -193,6 +276,20 @@ It is **teleological** in a weak sense: to call change progress is to judge move
 
 **Objection:** consultation delays urgent projects and lets local elites veto wider welfare.
 **Reply:** ⚠️ participation requires inclusive design, reasons, representation and review; its defects do not justify treating affected persons as objects.
+
+### 2.6A Participation and empowerment
+
+| Level | What affected persons possess | Limitation |
+|---|---|---|
+| Information | notice and intelligible reasons | one-way disclosure is not voice |
+| Consultation | opportunity to express preferences and knowledge | decision-makers may ignore it |
+| Participation | continuing role in design, implementation and review | local elites can monopolise representation |
+| Co-decision | shared authority over alternatives and conditions | requires clear responsibility and rights safeguards |
+| Empowerment | durable capability and institutional power to shape options, resources and rules | cannot be inferred from attendance or nominal representation |
+
+⚠️ Participation is both a means to better knowledge/accountability and part of the end of
+development. Empowerment is the stronger claim: control over the conditions of action, including
+the capacity to dissent, exit, organise and demand reasons.
 
 ---
 
@@ -237,7 +334,9 @@ It is **teleological** in a weak sense: to call change progress is to judge move
 
 ### 4.1 Doctrine statement
 
-✅ Gandhian development seeks *sarvodaya*—the welfare and moral elevation of all—through *swarāj*, non-violence, decentralisation, dignity of labour, trusteeship, restraint of wants and village-centred production.
+✅ Gandhian development seeks welfare and moral elevation of all (*sarvodaya*) through self-rule
+(*swarāj*), non-violence, decentralisation, dignity of labour, trusteeship, restraint of wants and
+village-centred production.
 
 ### 4.2 Argument
 
@@ -474,7 +573,8 @@ This is where the section earns its place. The tribal-development clause is not 
 
 ### 6.4 Gandhi vs Ambedkar on the village
 
-✅ Gandhi treats the self-governing village as a potential school of *swarāj*. ✅ Ambedkar warns that the village can institutionalise caste exclusion.
+✅ Gandhi treats the self-governing village as a potential school of self-rule (*swarāj*).
+✅ Ambedkar warns that the village can institutionalise caste exclusion.
 
 ⚠️ Local self-government is progressive only where constitutional rights, mobility and anti-caste safeguards transform local power.
 
@@ -509,6 +609,12 @@ This is where the section earns its place. The tribal-development clause is not 
 8. **Do not romanticise tribal culture or the village.**
 9. **Do not treat PESA/FRA enactment as implementation or success.**
 10. **Do not cite a scheme, statute or judgment as philosophical proof.** Use it as a dated institutional illustration.
+11. **Do not treat an indicator as a complete theory of development.** State its informational space and blind spot.
+12. **Do not present modernisation as neutral convergence or an inevitable sequence.** Name its linearity, diffusion and expert-authority assumptions.
+13. **Do not call every social change progress.** State the valued direction and permit regress, reversal and plural paths.
+14. **Do not equate consultation with empowerment.** Empowerment requires durable decision-power, resources, voice and reasons.
+15. **Do not use current social or economic figures without an authoritative dated source.** No figure is required for the philosophical argument.
+16. **Do not import full liberalism, Marxism or Ambedkar's caste theory.** Use only the development criterion and route the full doctrine.
 
 ---
 
@@ -518,8 +624,13 @@ This is where the section earns its place. The tribal-development clause is not 
 
 **Promoted vocabulary (this pass) ⚠️:** anthropocentric · biocentric · ecocentric · moral considerability · shallow ecology · deep ecology · productivism · degrowth · throughput · sufficiency · contraction and convergence · subsistence vs luxury consumption · intergenerational justice · non-identity problem · pure time preference · precaution and irreversibility · environmentalism of the poor · ecological distribution conflict · eco-authoritarianism · just transition
 
+- **Measure families:** output · basic needs · welfare/quality of life · human development · capability · social progress · ecology
+- **Modernisation assumptions:** linear sequence · convergence · traditional/modern binary · diffusion · expert direction
+- **Progress conceptions:** linear/cumulative · cyclical · dialectical/conflictual · plural/non-linear
+- **Agency ladder:** information · consultation · participation · co-decision · empowerment
+- **Bounded perspectives:** liberal/welfare · Marxist · humanistic/capability · Gandhian · Ambedkarite
 
-growth · structural transformation · human development · functioning · capability · conversion factors · agency · adaptive preferences · social progress · intergenerational justice · sustainability · participation · recognition · dependency · post-development · *sarvodaya* · *swarāj* · trusteeship · dignity of labour
+growth · structural transformation · human development · functioning · capability · conversion factors · agency · adaptive preferences · social progress · intergenerational justice · sustainability · participation · recognition · dependency · post-development · welfare of all (*sarvodaya*) · self-rule (*swarāj*) · trusteeship · dignity of labour
 
 ### 9.2 Reusable statement lines
 
@@ -614,7 +725,7 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **D4 · Human development is not income.** Claim: longevity, knowledge and a decent standard displace output as the measure → Named: Mahbub ul Haq; the UNDP framework → Use for: 10-mark distinction stems → Limit: composite national indices conceal distribution, gender, disability and ecological dependence.
 - **D5 · Underdevelopment can be produced, not merely inherited.** Claim: unequal incorporation into global economic relations generates underdevelopment, rather than it being an earlier stage on one universal path → Named: dependency approaches → Use for: critique of modernisation teleology → Limit: can understate domestic institutional and political factors.
 - **D6 · Who authorises the diagnosis?** Claim: post-development critics question the authority by which external experts define whole societies as deficient → Named: post-development critique → Use for: paternalism objections → Limit: romanticising the local can ignore internal hierarchy and genuine demands for health, education and mobility.
-- **D7 · *Sarvodaya*, restraint of wants and trusteeship.** Claim: unlimited wants generate dependence and violence, means shape ends, and self-rule requires economic capacity at the local level → Named: Gandhi → Use for: 2020-pattern Gandhian stems → Limit: ⚠️ Ambedkar's objection that the village reproduces caste and patriarchy is compulsory, not optional.
+- **D7 · Welfare of all (*sarvodaya*), restraint of wants and trusteeship.** Claim: unlimited wants generate dependence and violence, means shape ends, and self-rule requires economic capacity at the local level → Named: Gandhi → Use for: 2020-pattern Gandhian stems → Limit: ⚠️ Ambedkar's objection that the village reproduces caste and patriarchy is compulsory, not optional.
 - **D8 · Moral standing is the prior question.** Claim: anthropocentric, biocentric and ecocentric positions differ on what counts morally, not merely on how much nature to protect → Named: §5A.1 → Use for: environment-and-development stems → Limit: ⚠️ strong ecocentrism can subordinate individuals to systemic goods; adopt a position and defend it rather than gesturing at harmony.
 - **D9 · Depth of questioning, not degree of concern.** Claim: shallow ecology treats symptoms in the interest of affluent human welfare; deep ecology questions the framework that generates them and affirms intrinsic value in non-human life → Named: Naess (**1973**) → Use for: any sustainability stem needing philosophical, not policy, content → Limit: risks equating subsistence consumption with luxury consumption unless the distinction is drawn.
 - **D10 · Permanent aggregate growth is not a coherent universal objective.** Claim: efficiency gains have been offset by expanded output, and beyond a threshold further output adds little to health, longevity or education → Named: productivism critique and the degrowth argument (§5A.3) → Use for: limits-of-growth stems → Limit: ✅ apply asymmetrically — contraction where consumption is far above any defensible threshold, expansion where it is far below. ❌ Never prescribe degrowth for a society below the deprivation threshold.
@@ -623,6 +734,10 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **D13 · Participation is a condition of durable ecological policy, not an obstacle.** Claim: epistemic, compliance, accountability and distributive arguments all tell against insulating ecological decisions from democratic contestation; a just transition conditions restructuring on livelihood guarantees and participation → Named: §5A.6 → Use for: the constructive close of any environment stem → Limit: it does not resolve the timing problem where a threshold is genuinely imminent.
 - **D14 · Technology expands power without supplying ends.** Claim: technical capacity alters what can be done but not what ought to be done, so ethical progress does not follow from technological progress → Named: §3.1 → Use for: 2019-pattern technology stems → Limit: technology does reshape the moral problems that arise, so the relation is not simply null — say so.
 - **D15 · Indian institutional illustrations, correctly classified.** Claim: PESA (**1996**) and the Forest Rights Act (**2006**) are **enacted statutes**; *Orissa Mining Corporation v. Ministry of Environment & Forest* (**2013**) is a **Supreme Court judgment** involving Gram Sabha consideration; Articles 48A and 51A(g) are **non-justiciable** constitutional provisions → Use for: the Indian paragraph in any 15- or 20-mark answer → Limit: ✅ enactment, judgment and constitutional commitment are dated legal facts; ❌ none of them proves reconciliation, implementation or philosophical correctness.
+- **D16 · Indicators disclose and conceal.** Claim: output, basic-needs, quality-of-life, human-development, capability, social and ecological measures occupy different informational spaces → Named: §1.2A → Use for: every “measure development” opening → Limit: no composite settles the weights among dimensions.
+- **D17 · Modernisation is a theory, not neutral inevitability.** Claim: linear transition, convergence, diffusion and expert direction explain its programme → Named: §1.3A → Use for: dependency/post-development and technology comparisons → Limit: real structural change does not prove one universal route.
+- **D18 · Progress is directional but plural.** Claim: linear, cyclical, dialectical and plural conceptions disagree about accumulation, reversibility and historical direction → Named: §2.2A → Use for: progress-definition and inevitability questions → Limit: pluralism still needs a universal floor against deprivation and domination.
+- **D19 · Empowerment exceeds consultation.** Claim: development is agent-centred only where affected persons possess durable capability and institutional power to shape options, resources and rules → Named: §2.6A → Use for: skill, tribal and democratic-development stems → Limit: local power requires rights, representation and review.
 
 ### 11.5 Graded verdict formulas (adapt; never reproduce mechanically)
 
@@ -636,7 +751,7 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 
 ### 11.6 Stem-specific spines
 
-- **For Gandhian development:** *sarvodaya–swarāj–*trusteeship–village → anti-industrial critique → Ambedkarite objection on caste and the village → reconstructed decentralisation under equal rights → verdict.
+- **For Gandhian development:** welfare of all (*sarvodaya*) → self-rule (*swarāj*) → trusteeship → village → anti-industrial critique → Ambedkarite objection on caste and the village → reconstructed decentralisation under equal rights → verdict.
 - **For skill education:** capability rather than employability → what skill secures and what it cannot → obsolescence and work-quality objections → critical citizenship and dignity of labour → conditional verdict.
 - **For tribal reconciliation:** environmentalism of the poor reframes the question as distributive → the four tests of §5A.7 → PESA/FRA/Niyamgiri correctly classified → verdict on agency.
 
@@ -654,12 +769,12 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 
 ## SOURCES
 
-- Local course source, *Socio-Political Philosophy*, sections on development, social progress, human development and Gandhian development.
+- Local compiled notes PDF, *Socio-Political Philosophy*, searchable pp. 169–186; no named author is asserted.
 - O. P. Gauba, *An Introduction to Political Theory*, chapters on development, social change, environmentalism and Gandhism.
 - Amartya Sen, *Development as Freedom* and *Commodities and Capabilities*.
 - Martha C. Nussbaum, *Creating Capabilities* and *Women and Human Development*.
 - Mahbub ul Haq, *Reflections on Human Development*.
-- M. K. Gandhi, *Hind Swaraj* and writings on trusteeship, village *swarāj* and *sarvodaya*.
+- M. K. Gandhi, *Hind Swaraj* and writings on trusteeship, village self-rule (*swarāj*) and welfare of all (*sarvodaya*).
 - B. R. Ambedkar, writings on caste, democracy and the Indian village.
 - [The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 — India Code](https://www.indiacode.nic.in/handle/123456789/1973?view_type=browse).
 - [The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 — India Code](https://www.indiacode.nic.in/bitstream/123456789/8311/1/a2007-02.pdf).

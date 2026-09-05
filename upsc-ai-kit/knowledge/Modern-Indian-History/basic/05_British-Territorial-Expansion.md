@@ -214,3 +214,15 @@ Bengal revenue (post-1765)
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the Bengal-funded fiscal-military state; Mysore, Maratha and
+  Sikh wars; Sindh; Indian sepoys/allies/credit; ring-fence, Subsidiary
+  Alliance, paramountcy, conquest, lapse and misgovernment annexation.
+- **Boundary:** Topics 02-04 own regional synthesis, commercial rivalry and
+  Bengal conquest; Topic 06 owns constitutional structure; Topic 11 owns 1857.
+- **Mechanism control:** Subsidiary Alliance is not Doctrine of Lapse; Awadh
+  was annexed for alleged misgovernment and Nana Sahib's issue was pension.
+- **Verified PYQ ownership, 2018-2026:** exactly two direct routes—2018
+  Prelims Q75 (key inferred) and 2022 GS-I Q2 (Mains has no objective key).

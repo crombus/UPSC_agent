@@ -37,7 +37,7 @@ SCOPE RELATION
 ## 2. Scope, assumptions and conceptual boundary
 
 - ✅ Gauba's chapter is both conceptual and classificatory: it defines rights, compares rival theories of rights and then reconstructs human-rights discourse after the Second World War (PDF pp.338-366).
-- ✅ He treats human rights as broader than rights of citizens, yet insists that rights become meaningful only when they are institutionally enforceable as rights (PDF p.338).
+- ✅ He treats human rights as broader than rights of citizens (PDF p.338). Moral validity, legal recognition, justiciability and effective realisation must remain distinct rather than making enforceability the definition of every right.
 - ✅ The chapter also maintains a constant tension between **ideal rights** and **legal rights**, especially through Barker and Laski (PDF pp.345-352).
 - ⚠️ This file therefore studies the **theory of rights**, not the doctrinal detail of any one constitution.
 - ⚠️ Boundary: if the question becomes article-by-article, court-specific or institution-specific, move to Polity; if it is about the meaning, basis or classification of rights, stay here.
@@ -55,12 +55,11 @@ SCOPE RELATION
 
 ## 4. Definitions and distinctions
 
-- ✅ **Rights:** claims restricting arbitrary state power and/or prescribing beneficial functions of the state (PDF pp.339-340).
+- ✅ **Rights:** justified normative or legal positions; Hohfeld's claim, liberty, power and immunity categories prevent every right from being reduced to a claim against the state. Gauba especially emphasises restraint and beneficial state functions (PDF pp.339-340).
 - ✅ **Human rights:** the broadest class of rights grounded in human dignity, not merely in citizenship status (PDF p.338).
-- ✅ **Negative rights:** zones of non-interference where the state must not intrude (PDF pp.340-341).
-- ✅ **Positive rights:** claims requiring state action for protection, development and welfare (PDF pp.340-341).
-- ✅ **Civil liberties:** legal freedoms protecting the person against arbitrary government action, including fair trial and expressive liberties (PDF pp.362-363).
-- ✅ **Democratic rights:** political rights enabling participation in public life and government formation (PDF pp.361-362).
+- ✅ **Negative and positive dimensions:** duties of restraint and duties to protect or fulfil. Most rights combine both rather than belonging to exclusive classes (PDF pp.340-341).
+- ✅ **Civil liberties:** legal freedoms against arbitrary power whose exercise may also require positive protection from private interference (PDF pp.362-363).
+- ✅ **Democratic rights:** political participation rights normally conditioned by citizenship and reasonable eligibility rules (PDF pp.361-362).
 - ✅ **Ideal rights:** morally necessary rights that ought to be recognized, even if not yet legally embodied, as emphasized by Barker and Laski (PDF pp.345-352).
 - ✅ **Personality / idealist theory:** rights are outward conditions necessary for rational
   personality-development; the supplied second source associates this with Green and the idealist
@@ -69,19 +68,19 @@ SCOPE RELATION
 
 ## 5. Thinker-by-thinker positions
 
-- ✅ **John Locke:** defends natural rights to life, liberty and property and the right to resist a state that violates them (PDF pp.341-342, 365).
-- ✅ **Tom Paine:** gives a teleological natural-rights account in which civil rights draw sanction from pre-existing natural rights (PDF p.342).
-- ✅ **T.H. Green:** locates rights in moral consciousness and ideal objects shared by persons, not merely in state command (PDF p.342).
+- ✅ **John Locke:** defends natural rights to life, liberty and property and resistance after serious breach or forfeiture of governmental trust (PDF pp.341-342, 365).
+- ✅ **Tom Paine:** derives civil rights from pre-existing natural rights; "teleological" is not the safest characterisation (PDF p.342).
+- ✅ **T.H. Green:** locates rights in socially recognised conditions of moral personality and common good, not atomistic pre-social possession (PDF p.342).
 - ✅ **Ernest Barker:** a full right requires both its source in personality and its guarantee in
   state law; either alone is a quasi-right (Gauba, PDF p.345).
 - ✅ **Jeremy Bentham:** attacks natural rights as rhetorical fiction and insists that real rights are creatures of law (PDF pp.344-345).
-- ✅ **Edmund Burke:** treats rights as historically evolved inheritances rather than abstract universal declarations (PDF pp.346-347).
-- ✅ **Roscoe Pound and Zechariah Chafee:** represent social-welfare thinking where rights are judged by social usefulness and balance of interests (PDF p.347).
-- ✅ **Harold Laski:** provides Gauba's richest normative theory of rights by fusing liberty, equality, social justice, common welfare and correlated duties (PDF pp.348-353).
-- ✅ **Marx and Lenin:** criticize bourgeois rights as class-conditioned and seek social transformation, though Gauba notes the practical suppression of liberal-democratic freedoms under socialism (PDF pp.354-358).
-- ✅ **Robert Nozick:** appears in the final comparative grid as a libertarian defender of strong individual rights and a minimal redistributive state (PDF p.365).
-- ✅ **Alasdair MacIntyre:** represents communitarian theory subordinating individual-rights talk to community and common interest (PDF pp.365-366).
-- ✅ **Shulamith Firestone and Sheila Rowbotham:** symbolize feminist rights theory aimed at overcoming male domination embedded in prevailing systems of rights (PDF p.366).
+- ✅ **Edmund Burke:** treats rights as prescriptive inheritances embodied in evolved institutions; longevity alone is not moral validation (PDF pp.346-347).
+- ✅ **Roscoe Pound and Zechariah Chafee:** contribute different social-interest and civil-liberty arguments and should not be presented as a standard jointly authored theory (PDF p.347).
+- ✅ **Harold Laski:** joins liberty, equality, social justice, common welfare and social-ethical duties; this is not strict Hohfeldian correlativity (PDF pp.348-353).
+- ✅ **Marx:** criticises bourgeois rights and formally equal political emancipation within unequal civil society. Leninist theory and the records of particular socialist regimes must be analysed separately (PDF pp.354-358).
+- ✅ **Robert Nozick:** defends strong individual rights and a minimal **anti-redistributive** state (PDF p.365).
+- ✅ **Alasdair MacIntyre:** challenges the grounding of abstract universal rights-talk; he does not simply subordinate every right to community (PDF pp.365-366).
+- ✅ **Shulamith Firestone and Sheila Rowbotham:** represent distinct radical-reproductive and socialist-feminist analyses rather than one interchangeable feminist theory (PDF p.366).
 
 ## 6. Competing perspectives
 
@@ -119,7 +118,7 @@ SCOPE RELATION
 
 ## 9. Application without current-affairs dependence
 
-- ⚠️ A prisoner denied torture protection but lacking ordinary civic rights still illustrates why human rights are broader than citizenship rights.
+- ⚠️ A prisoner retains dignity, bodily integrity, torture protection and procedural rights even though lawful custody restricts selected liberties; this illustrates why human rights are broader than ordinary civic freedom.
 - ⚠️ A citizen who can vote but cannot criticize government without fear lacks full civil liberties despite possessing democratic rights on paper.
 - ⚠️ A constitution that formally protects speech but provides no educational access shows the difference between negative and positive rights.
 - ⚠️ A legal system that recognizes a right, but social conditions make it unusable, illustrates the gap between legal and ideal rights.
@@ -132,8 +131,7 @@ SCOPE RELATION
 - ⚠️ **Prompt 3:** Explain Laski's social-democratic theory of rights as a synthesis of liberty and social justice.
 - ⚠️ **Prompt 4:** Why does Gauba say there is, strictly speaking, no full Marxist theory of rights, yet still discuss socialist rights?
 - ⚠️ **Prompt 5:** How does the post-war human-rights turn expand but not abolish the earlier theories of rights?
-- ✅ **Verified PYQ cluster:** unconditional rights and anarchy (2022); whether rights and duties
-  lack a necessary connection (2025).
+- ✅ **Verified cross-applied PYQ cluster:** 2018, 2019, 2020, 2021, 2022, 2023 and 2025 rights questions; primary ownership remains Individual and State.
 - ⚠️ Argument map: classify the right -> identify duty-bearer -> separate moral and legal status ->
   test universalisability/equal rights -> explain justified limits -> conclude on institutional
   enforceability.
@@ -149,7 +147,7 @@ SCOPE RELATION
 ## 12. Factual-risk checks
 
 - ❌ Do **not** say the UDHR is itself enforceable as a domestic constitution; Gauba presents it as a declaration and standard-setting scheme (PDF pp.358-360).
-- ❌ Do **not** call all rights absolute; Gauba explicitly links rights with duties, law, public order, general welfare and equal rights of others (PDF pp.351-352, 360, 362-363).
+- ❌ Do **not** say either that all rights are absolute or that no right is absolute; distinguish lawful limitation, emergency derogation, non-derogability and absolute prohibitions.
 - ❌ Do **not** flatten human rights into only civil liberties; Gauba includes socio-economic and cultural rights too (PDF pp.359-360, 364-365).
 - ❌ Do **not** universalize Gauba's nested-circle graphic into a strict set relation; his prose
   distinguishes democratic rights and civil liberties by arena, and democracy itself is not
@@ -163,4 +161,5 @@ SCOPE RELATION
 - ✅ Direct supplementary source: *Socio-Political Philosophy*, PDF pp.69-76.
 - ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Major argument blocks used: meaning of human rights and rights (PDF pp.338-340); negative/positive rights and conventional theories (PDF pp.340-347); Laski's social-democratic rights theory (PDF pp.348-353); Marxist perspective and socialist rights (PDF pp.354-358); genesis of human rights and UDHR (PDF pp.358-360); distinctions among rights and comparative theories (PDF pp.361-366).
+- ✅ Official extensions: UDHR; ICCPR and ICESCR; Vienna Declaration para. 5; UN Treaty Collection status; and constitutional concepts routed outward to Polity for doctrinal detail.
 - ⚠️ All concrete institutional and abuse examples are treated as historical/book-period unless independently re-dated elsewhere.

@@ -16,7 +16,7 @@ evidence_key: "[FACT] verified constitutional, statutory, judicial or official p
 ## Package method, source priority and current legal control
 
 - [FACT] Source order followed: `basic/Union-Territories.md` -> `advanced/25_Union-Territories.md` -> `basic/Union-and-Territory.md` and Polity 05 only for Articles 1-4 boundaries -> local OCR-searchable M. Laxmikanth Union Territories chapter -> audited PYQ ledgers and the locally held official 2025 GS-II paper -> authoritative constitutional, statutory, judicial, MHA, Department of Justice and Jammu and Kashmir government sources. Qdrant was not used.
-- [CURRENT] Legal and institutional control date is **18 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and institutional control date is **28 August 2026, Asia/Kolkata**.
 - [CURRENT] India has **8 Union Territories**: Andaman and Nicobar Islands; Chandigarh; Dadra and Nagar Haveli and Daman and Diu; National Capital Territory of Delhi; Jammu and Kashmir; Ladakh; Lakshadweep; and Puducherry.
 - [CURRENT] The three UTs with legislatures are **NCT Delhi, Puducherry and Jammu and Kashmir**. Their legal bases are not identical.
 - [CURRENT] Jammu and Kashmir has an elected Assembly and Council of Ministers after the 2024 election. The official J&K Budget Speech 2026-27 is presented by Omar Abdullah as Chief Minister and Minister of Finance to the House. Statehood has **not** been legally restored.
@@ -115,7 +115,7 @@ former UTs become States / acquired territories become UTs
         |
 26 Jan 2020 DNH + Daman & Diu merger
         |
-18 Aug 2026: 8 UTs
+28 Aug 2026: 8 UTs
 ```
 
 - [FACT] The Seventh Amendment and States Reorganisation Act, 1956 replaced the earlier Part C/D arrangements with the modern UT framework.
@@ -869,7 +869,7 @@ elected Chief Minister + Council + functioning House
           |
 official Budget 2026-27 presented to House
           |
-18 Aug 2026: UT status continues; Statehood pending
+28 Aug 2026: UT status continues; Statehood pending
 ```
 
 - [CURRENT] It is stale and false to say J&K remains without an elected legislature.
@@ -1000,7 +1000,7 @@ CLAIM
 
 **Visual 44 - Dated current controls**
 
-| Issue | Current control at 18 Aug 2026 | Unsafe statement |
+| Issue | Current control at 28 Aug 2026 | Unsafe statement |
 |---|---|---|
 | count | 8 UTs | "India has 9 UTs" |
 | legislatures | Delhi, Puducherry, J&K | "only Delhi and Puducherry" |
@@ -1057,6 +1057,8 @@ CLAIM
 
 **Why this earns marks:** It answers the extent question, uses Article 239AA and the operative 2018 propositions, tests them against the named 2023 sequel and ends with a qualified verdict.
 
+**How to improve:** For 250 words, organise the answer as constitutional field → 2018 ratio → 2023 services holding → operative 2023 statute → qualified verdict; do not narrate litigation without evaluating the shift.
+
 ### PYQ 2 - UPSC GS-II 2025, Q4
 
 **Verified question from the locally held official paper:** Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.  
@@ -1084,6 +1086,8 @@ CLAIM
 
 **Why this earns marks:** It classifies the institution, names sections and functions, supplies current evidence and directly qualifies the extent of autonomy.
 
+**How to improve:** For 150 words, spend one sentence on statutory origin, two on legislative/executive powers, one on current elected functioning and one on the Statehood limitation.
+
 ### PYQ coverage control
 
 - [FACT] The audited local ledgers route these two direct Mains demands to Union Territories.
@@ -1093,7 +1097,7 @@ CLAIM
 
 ### OM1. Current inventory
 
-Which statement is correct as on 18 August 2026?
+Which statement is correct as on 28 August 2026?
 
 A. India has 8 Union Territories.  
 B. India has 9 Union Territories.  
@@ -1492,7 +1496,7 @@ D. J&K has a constitutional right to a specified restoration year.
 
 **Answer: C.**
 
-**Explanation:** [CURRENT] No enacted restoration or appointed-day legal change was located by 18 August 2026.
+**Explanation:** [CURRENT] No enacted restoration or appointed-day legal change was located by 28 August 2026.
 
 ### OM32. J&K 2024 business rules
 
@@ -1735,6 +1739,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 
 **Why this earns marks:** It explains rationale, names the governing Articles, compares the two categories and avoids treating every UT as identical.
 
+**How to improve:** Use a three-column State–UT with legislature–UT without legislature comparison and reserve the conclusion for a proportionality test linking Union interest with democratic accountability.
+
 ### M2. Article 240 is an exceptional law-making mechanism, not a general synonym for Union Territory administration. Explain. (10 marks, 150 words)
 
 **Model solution**
@@ -1752,6 +1758,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 **Verdict:** Article 240 is a territory-specific legislative safety mechanism nested inside, but distinct from, Article 239 administration.
 
 **Why this earns marks:** It separates source, territories, legal effect and Puducherry's switch between representative and direct law-making.
+
+**How to improve:** Name Article 240 territories precisely, distinguish Puducherry’s conditional revival and explain why a presidential regulation is stronger than ordinary delegated legislation.
 
 ### M3. Compare the legislatures of Delhi, Puducherry and Jammu and Kashmir. Why is the category "Union Territory with legislature" internally unequal? (15 marks, 250 words)
 
@@ -1773,6 +1781,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 
 **Why this earns marks:** It compares legal source, competence, executive relation and current status rather than offering three disconnected descriptions.
 
+**How to improve:** Compare Delhi, Puducherry and J&K under four fixed heads—legal source, excluded fields, Administrator relationship and parliamentary override—then add one dated status line.
+
 ### M4. "The 2018 Delhi judgment protected representative government, but the 2023 developments reconfigured its operational content." Critically examine. (15 marks, 250 words)
 
 **Model solution**
@@ -1792,6 +1802,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 **Verdict:** 2018 remains the constitutional grammar of representative government, but current services administration must be stated through the 2023 statute until judicially altered.
 
 **Why this earns marks:** It preserves chronological and doctrinal sequence, presents both legitimacy arguments and states the exact current-law limitation.
+
+**How to improve:** Compress the litigation chronology into 2018 principle, May 2023 services holding and August 2023 statutory response; separate constitutional validity from policy desirability.
 
 ### M5. Evaluate the democratic and constitutional implications of nominated members in the Puducherry Legislative Assembly. (15 marks, 250 words)
 
@@ -1813,6 +1825,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 
 **Why this earns marks:** It separates validity from desirability, names the Act and case, explains the confidence-vote mechanism and offers legally compatible safeguards.
 
+**How to improve:** Anchor the answer in Section 3(3) and K. Lakshminarayanan, then evaluate voting power, confidence consequences and safeguards without implying nominated members lack full voting rights.
+
 ### M6. Assess the nature and democratic significance of the Jammu and Kashmir Assembly after the 2024 election. (15 marks, 250 words)
 
 **Model solution**
@@ -1832,6 +1846,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 **Verdict:** The Assembly is meaningful self-government under Union supervision, not symbolic, but only Statehood can restore full constituent-unit parity.
 
 **Why this earns marks:** It uses the current election and budget as evidence, distinguishes democracy from federal status and identifies the exact LG/Parliament limits.
+
+**How to improve:** Use the 2024 election and 2026–27 Budget only as dated evidence of functioning democracy; contrast that with reserved subjects, LG powers and pending Statehood.
 
 ### M7. "Union Territory asymmetry is administratively useful but democratically costly." Critically examine with reference to Delhi, Puducherry, Jammu and Kashmir and UTs without legislatures. (20 marks, 250 words)
 
@@ -1854,6 +1870,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 **Verdict:** Asymmetry is defensible as calibrated governance, not as permanent democratic discount.
 
 **Why this earns marks:** It covers four models, supplies named legal mechanisms, balances utility and cost and derives a proportional reform test.
+
+**How to improve:** Classify each model before evaluating it; use one benefit, one democratic cost and one tailored reform for direct administration, Delhi, Puducherry and J&K.
 
 ### M8. Design a reform framework to reduce Administrator-elected government conflict while preserving legitimate Union interests. (20 marks, 250 words)
 
@@ -1881,6 +1899,8 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 
 **Why this earns marks:** It provides a sequenced institution-specific framework, protects Union interests and applies claim -> named evidence -> mechanism -> qualification throughout.
 
+**How to improve:** Present reforms in sequence—clear field allocation, bounded referral, accountable services, fiscal transparency and judicial remedy—and tie each proposal to a named institutional friction.
+
 ## Final consolidated register notes
 
 ### Current territorial ledger
@@ -1896,7 +1916,7 @@ D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/
 - DNH and Daman and Diu merged from 26 January 2020.
 - J&K and Ladakh became UTs from 31 October 2019.
 - J&K has an elected Assembly after the 2024 election.
-- J&K Statehood remains pending as on 18 August 2026.
+- J&K Statehood remains pending as on 28 August 2026.
 - Ladakh remains without a legislature.
 
 ### Constitutional spine

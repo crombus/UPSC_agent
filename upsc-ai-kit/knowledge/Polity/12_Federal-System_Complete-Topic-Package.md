@@ -4,7 +4,7 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 
 # Polity 12 - Federal System - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 12 | **GS-II + Prelims** | **Export date:** 2026-08-16
+> **Subject:** Indian Polity | **Topic:** 12 | **GS-II + Prelims** | **Content control:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -14,12 +14,19 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 
 - Source order followed: certified Core owner `Polity/basic/Federal-System.md` -> optional Advanced owner `Polity/advanced/12_Federal-System.md` -> local PYQ routing ledgers -> Constitution, Supreme Court and official current controls -> Qdrant not used.
 - [LIMIT] Foundation and Core are independently answer-complete. Optional Advanced adds scholar labels and deeper classifications only. Skipping it does not remove a provision, doctrine, case, current control, PYQ route or answer framework required for marks.
-- [CURRENT] Legal and policy status is controlled to **16 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and policy status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] The standard examination counts used here are **Union List 100, State List 61 and Concurrent List 52**. Omitted and inserted entry numbers can make a literal count of visible live clauses look different; quote the standard subject counts unless a question reproduces the Schedule itself.
 - [CURRENT] For Governor assent, the controlling position is the Constitution Bench advisory opinion of **20 November 2025**: no judicially fixed timelines and no deemed assent, but prolonged unexplained inaction can attract limited judicial direction to act.
 - [CURRENT] The Constitution (131st Amendment) Bill, 2026 and connected delimitation package were defeated in Lok Sabha. Their proposed numbers are not law. The Census 2027 schedule does not establish a publication date, delimitation date or a women's-reservation election date.
 - [LIMIT] This package owns federal **architecture and concepts**. Detailed legislative, administrative and financial Centre-State mechanisms are cross-linked to Polity 13; Governor procedure to Polity 19; Finance Commission to Polity 29; GST Council to Polity 33; inter-State bodies and water disputes to Polity 14.
-- Package target: **5 routed PYQs**, **28 original hard MCQs**, **8 remedials**, **7 original solved Mains questions**, and **14 original visuals**.
+- [CURRENT] The Sixteenth Finance Commission submitted its report on **17 November 2025** for
+  the 2026-31 award period and recommended retaining States' vertical share at **41% of the
+  divisible pool**.
+- [CURRENT] The GST Council and Inter-State Council Secretariat remain official consultation
+  anchors. Their existence does not make Union-State bargaining equal or every recommendation
+  binding.
+- Package target: **10 routed PYQs**, **28 original hard MCQs**, **8 remedials**, **7 original
+  solved Mains questions**, and **14 original visuals**.
 
 ## Roadmap
 
@@ -31,6 +38,7 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 | Centralising features | Fourteen features grouped by logic | Explains the strong-Union tilt |
 | Power distribution | Articles 245-255, Seventh Schedule, residuary power and doctrines | Solves lists and conflict questions |
 | State-field entry | Articles 249, 250, 252, 253 and 356 | Prevents exception traps |
+| Administrative relations | Articles 256-263 and 355-357 | Distinguishes directions, delegation, consultation, duty and emergency remedy |
 | Judicial doctrine | West Bengal, Kesavananda, Rajasthan and Bommai | Uses federalism as Basic Structure |
 | Working modes | Cooperative, competitive, bargaining, coercive and confrontational | Answers the 2020 GS-II demand |
 | Institutions | ISC, Zonal Councils, GST Council, Finance Commission, NITI and courts | Links architecture to operation |
@@ -38,7 +46,7 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 | Fiscal dimension | Assignment, devolution, grants, cesses and 16th FC control | Adds contemporary depth |
 | Representation | Rajya Sabha, seat freeze, delimitation and demographic fairness | Handles emerging federalism debate |
 | Advanced | Scholars, quasi-federal debate, multi-level and dialogic federalism | Optional analytical lift |
-| Practice | All routed PYQs, 36 MCQs and seven solved Mains | Converts knowledge into marks |
+| Practice | All ten routed PYQs, 36 MCQs and seven solved Mains | Converts knowledge into marks |
 
 ## Scope ownership and cross-links
 
@@ -191,6 +199,47 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 - [ANALYSIS] Articles 249 and 252 contain federal safeguards: the first uses the States' chamber; the second starts with State initiative.
 - [LIMIT] Article 253 is powerful but remains subject to constitutional rights, judicial review and the actual treaty-implementation nexus.
 
+## 06A. Administrative and financial distribution: the missing operational bridge
+
+### Articles 256-263: administration, delegation and consultation
+
+| Provision | Exact Core rule | Federal significance / trap |
+|---|---|---|
+| Article 256 | State executive power must secure compliance with parliamentary laws and existing laws applicable in the State; Union directions may be given for that purpose | A compliance power, not a general Union takeover of State administration |
+| Article 257 | State executive power must not impede Union executive power; specified Union directions and cost rules apply | Coordination is text-bounded and reviewable |
+| Article 258 | With State consent, the President may entrust Union functions to the State or its officers, with conditions | Delegation does not transfer legislative ownership |
+| Article 258A | A Governor may, with Union consent, entrust State functions to the Union or its officers | The Constitution permits delegation in both directions |
+| Article 261 | Public acts, records and judicial proceedings receive full faith and credit throughout India | Supports one legal space across federal units |
+| Article 262 | Parliament may provide adjudication of inter-State river-water disputes and may exclude court jurisdiction by law | Exclusion is not automatic from Article 262 alone |
+| Article 263 | The President may establish an Inter-State Council for inquiry, discussion and recommendations | Consultative and recommendatory unless another legal rule supplies binding force |
+
+### Article 355 is a duty; Articles 356-357 provide an exceptional remedy
+
+- [FACT] Article 355 places a duty on the Union to protect every State against external aggression
+  and internal disturbance and to ensure constitutional government.
+- [FACT] Article 356 requires the President to be satisfied that State government cannot be
+  carried on according to the Constitution; Article 357 governs exercise of legislative powers
+  under such a proclamation.
+- [LIMIT] Article 355 is not a free-standing licence for every coercive measure, and a difficulty
+  under Article 355 does not automatically establish the Article 356 threshold.
+- [FACT] *S.R. Bommai* subjects a proclamation to judicial review and permits restoration; House
+  majority should ordinarily be tested on the floor rather than inferred by the Governor.
+
+### Articles 268-281 and 293: fiscal capacity follows constitutional assignment
+
+| Route | Core constitutional anchor | Answer use |
+|---|---|---|
+| Levy/collection assignment | Articles 268, 269 and GST-specific 269A | Revenue may be levied, collected and assigned through different Union-State combinations |
+| Divisible pool | Article 270 | Prescribed Union taxes are distributed between Union and States |
+| Grants | Articles 275 and 282 | Constitutional grants-in-aid coexist with discretionary public-purpose grants; do not treat them as identical |
+| GST shared rule | Articles 246A, 269A and 279A | Simultaneous competence, inter-State apportionment and Council negotiation form one design |
+| Finance Commission | Articles 280-281 | A periodic constitutional body recommends distribution and grants; its report and explanatory memorandum go before Parliament |
+| State borrowing | Article 293 | State borrowing can require Union consent where specified Union debt remains outstanding |
+
+> **Answer-grabbing line:** Indian federalism distributes not only law-making subjects but also
+> administrative responsibility and usable fiscal capacity; autonomy without implementation
+> machinery or predictable finance is merely formal.
+
 ## 07. Federalism as Basic Structure: case chronology
 
 ![The case chain moves from strong-Union description to enforceable basic-structure protection.](../../../notes/Polity/assets/12_Federal-System/07_basic_structure_case_chain.png)
@@ -240,13 +289,16 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 | GST Council | Article 279A | Union-State tax negotiation and harmonisation |
 | Finance Commission | Article 280 | Vertical and horizontal tax devolution and grants |
 | NITI Aayog | Executive resolution | Policy consultation, data and programme coordination |
-| Supreme Court | Articles 131, 136, 226/32 framework and judicial review | Adjudicates legal boundaries and Union-State disputes |
+| Constitutional courts | Supreme Court: Articles 32, 131 and 136; High Courts: Article 226 | Adjudicate legal boundaries, rights and specified Union-State disputes |
 | Rajya Sabha | Articles 80, 249, 312 | State representation and special federal powers |
 
 ### GST Council after *Union of India v. Mohit Minerals* (2022)
 
 - [FACT] GST Council recommendations are not binding commands on Parliament or State legislatures.
 - [FACT] Article 246A gives simultaneous GST legislative power within its scheme.
+- [CURRENT] The official GST Council continues to describe consultation and cooperative federalism
+  as its operating aspiration; the 56th meeting was held in September 2025. This is a dated
+  institutional illustration, not proof that every decision is unanimous or binding.
 - [ANALYSIS] The Council works through political persuasion, structured voting and the need for harmonisation: cooperative federalism is dialogic, not hierarchical.
 - [LIMIT] “Not binding” does not mean irrelevant; departure can create political, administrative and market costs.
 
@@ -294,8 +346,11 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 
 ### 16th Finance Commission current control
 
+- [CURRENT] The Sixteenth Finance Commission submitted its report to the President on **17
+  November 2025** for the award period **2026-27 to 2030-31**; the official report is public.
 - [CURRENT] The Commission's 2026-31 award retains States' vertical share at **41% of the divisible pool**.
-- [CURRENT] Its horizontal formula combines equity, population, demographic performance, area, forest/ecology and contribution-related considerations.
+- [CURRENT] Its horizontal formula combines equalisation and performance considerations. Quote
+  exact criteria or weights only from the official report, not from memory.
 - [LIMIT] The detailed weights and grant architecture belong to Polity 29; in this chapter use the award to show that fiscal federalism balances **equalisation, performance and political legitimacy**.
 
 ## 12. Representational federalism and delimitation
@@ -404,17 +459,32 @@ cover_image: "../../../notes/Polity/assets/12_Federal-System/01_federal_design_t
 
 **Model solution**
 
-Indian federalism is constitutionally divided but politically dynamic. Cooperation, competition and confrontation operate simultaneously rather than as successive phases.
+Indian federalism is constitutionally divided but politically dynamic; cooperation, competition
+and confrontation operate simultaneously.
 
-**Cooperation** appears in the GST Council, Finance Commission transfers, disaster response and centrally supported programmes. These institutions recognise interdependence: the Union has scale and resources, while States possess implementation capacity and local knowledge.
+**Cooperation** appears in the GST Council, Finance Commission, disaster response and shared
+schemes: the Union contributes scale while States supply implementation and local knowledge.
+**Competition** arises through investment, welfare innovation and outcome rankings, though unequal
+capacity can widen gaps. **Confrontation** occurs over Governor assent, CBI consent, devolution,
+cesses and river waters.
 
-**Competition** arises when States seek investment, improve service outcomes and innovate in welfare or regulation. It can diffuse good practice, but unequal capacity may widen regional gaps.
+Conflict need not destroy federalism when councils, Parliament, courts and elections channel it.
+*S.R. Bommai* makes federalism Basic Structure, while *Mohit Minerals* preserves legislative
+autonomy within GST cooperation. Granville Austin states the cooperative aspiration; Morris-Jones
+better captures bargaining practice.
 
-**Confrontation** occurs over Governor assent, CBI consent, tax devolution, cesses, scheme conditions and river waters. Such conflict need not destroy federalism if channelled through councils, Parliament, courts and elections.
+Thus, cooperation remains the institutional base, competition drives innovation and confrontation
+tests whether bargaining remains constitutional.
 
-*S.R. Bommai* makes federalism a Basic Structure feature, limiting coercive centralisation. Granville Austin's cooperative model states the aspiration, while Morris-Jones's bargaining federalism better describes operation.
+#### Why this earns marks
 
-Thus, the Indian federation is predominantly cooperative and bargaining, sharpened by competition and periodically tested by confrontation. Its success lies not in eliminating conflict but in keeping conflict constitutional and negotiable.
+It answers the extent demand, gives named examples of all three modes and closes with a hierarchy
+rather than treating them as chronological stages.
+
+#### How to improve this answer
+
+Use a three-branch diagram and one example per branch; do not spend scarce 150-word space defining
+general federal features.
 
 ### PYQ 2 - UPSC GS-II 2021, Q11 - cross-owned
 
@@ -435,6 +505,16 @@ Federalism here requires balance. State consent protects police autonomy; consti
 
 Thus, consent is a federal safeguard, not an immunity from constitutional judicial power.
 
+#### Why this earns marks
+
+It states Section 6, explains general and case-specific consent, identifies the constitutional-
+court exception and qualifies the 2024 Article 131 order.
+
+#### How to improve this answer
+
+Separate `rule`, `exceptions` and `federal balance`; avoid implying that maintainability finally
+decided the legality of every investigation.
+
 ### PYQ 3 - UPSC GS-II 2022, Q13 - cross-owned
 
 **Question:** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.  
@@ -453,6 +533,16 @@ However, counterevidence qualifies the claim. National parties seek State autono
 The Constitution itself combines both impulses: State List autonomy and federal amendment safeguards coexist with a strong Union and emergency powers. *S.R. Bommai* prevents the political majority at the Centre from erasing the federal basic structure.
 
 Therefore, party type influences federal preference, but control of office, coalition arithmetic and issue-specific interests explain behaviour more reliably than the national/regional label alone.
+
+#### Why this earns marks
+
+It comments rather than agrees mechanically, supplies constitutional tools and political
+counterevidence, and gives a qualified causal verdict.
+
+#### How to improve this answer
+
+Organise around `incentive → evidence → reversal`; use one coalition-era example if confidently
+recalled, rather than listing parties.
 
 ### PYQ 4 - UPSC Prelims 2021, Q86 - direct
 
@@ -484,6 +574,211 @@ D. Statement-I is incorrect, but Statement-II is correct
 **Answer: B. INFERRED ANSWER - NOT OFFICIALLY VERIFIED.**
 
 Prisons are a State List subject under Entry 4, explaining current State management. The colonial Act also placed administration with provincial governments, but it is not the constitutional reason for the present federal allocation.
+
+### PYQ 6 - UPSC GS-II 2020, Q11 - supporting/cross-owned
+
+**Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and
+integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the
+Disaster Management Act, 2005 and the recently passed Farm Acts.  
+**15 marks | 250 words**
+
+**Demand decoding:** Explain the constitutional centralising design, apply it to all three named
+laws, acknowledge the federal objection and give a graded verdict.
+
+**Model solution**
+
+India's holding-together federation equips the Union to coordinate threats crossing State
+boundaries, but that capacity must remain tied to constitutional competence and consultation.
+
+During COVID-19, the Union used the Disaster Management Act, 2005 for nationwide directions,
+while States also used the Epidemic Diseases Act, 1897 and their public-health machinery. The
+arrangement displayed national coordination resting heavily on State implementation. The 2020
+Farm Acts relied principally on Concurrent List Entry 33 concerning trade and commerce in
+foodstuffs, but affected agriculture and markets associated with State List Entries 14 and 28.
+Their enactment without adequate State consensus produced a competence-and-legitimacy dispute;
+their 2021 repeal showed political federalism correcting legislative centralisation.
+
+The wider constitutional tilt includes Parliament's Articles 249, 250, 252 and 253 routes,
+residuary power under Article 248, Union directions and emergency provisions. Yet State List
+autonomy, Rajya Sabha, judicial review, Finance Commission transfers and the *Bommai* basic-
+structure limit prevent a general Union police power.
+
+Thus, centralising capacity can protect unity during genuine externalities, but legitimacy
+depends on necessity, List competence, proportionality and prior intergovernmental consultation.
+
+#### Why this earns marks
+
+It addresses every named statute, connects each to the competence structure, supplies a
+counterweight and distinguishes constitutional coordination from unlimited centralisation.
+
+#### How to improve this answer
+
+In the exam, compress the examples to one line each and add a small `Union capacity ↔ State
+implementation` diagram; do not analyse the merits of farm policy beyond the federal demand.
+
+### PYQ 7 - UPSC GS-II 2023, Q13 - supporting/cross-owned
+
+**Question:** Account for the legal and political factors responsible for the reduced frequency
+of using Article 356 by the Union Governments since the mid-1990s.  
+**15 marks | 250 words**
+
+**Demand decoding:** Explain causation after the mid-1990s through both law and politics; do not
+merely describe Article 356 procedure.
+
+**Model solution**
+
+The decline in Article 356 use reflects the conversion of President's Rule from a broad political
+weapon into a reviewable exceptional remedy.
+
+Legally, *S.R. Bommai* (1994) made federalism part of the Basic Structure, subjected
+proclamations to judicial review, preferred a floor test for disputed majority and permitted
+restoration after unconstitutional dismissal. The Court's insistence on relevant material,
+combined with later floor-test jurisprudence, raised the legal and reputational cost of partisan
+action. Article 355's Union duty cannot by itself prove the Article 356 threshold that government
+cannot be carried on according to the Constitution.
+
+Politically, coalition governments and stronger regional parties after 1989 increased State
+bargaining power. A more competitive party system made dismissals electorally costly, while
+media scrutiny, civil society and an assertive judiciary strengthened accountability. The
+Sarkaria and Punchhi recommendations also reinforced the convention that Article 356 is a last
+resort after warnings and feasible alternatives.
+
+Use has not disappeared: breakdowns, hung Houses and security crises may still trigger it.
+Therefore, the reduced frequency is best explained by legal discipline interacting with
+coalition-era political federalism, not by removal of the constitutional power.
+
+#### Why this earns marks
+
+It answers “account for” with two causal baskets, uses Article 355 as a close distinction, and
+ends with a qualified rather than absolute conclusion.
+
+#### How to improve this answer
+
+Use a two-column `legal/political` structure and reserve procedure details for one sentence; avoid
+unsupported counts of proclamations unless recalled from an authoritative source.
+
+### PYQ 8 - UPSC GS-II 2023, Q15 - supporting/cross-owned
+
+**Question:** Explain the significance of the 101st Constitutional Amendment Act. To what extent
+does it reflect the accommodative spirit of federalism?  
+**15 marks | 250 words**
+
+**Demand decoding:** Explain the constitutional redesign and then evaluate, rather than merely
+celebrate, its accommodative character.
+
+**Model solution**
+
+The 101st Amendment restructured India's fiscal Constitution by creating a shared indirect-tax
+field instead of transferring the whole field to either level.
+
+Article 246A gives Parliament and State legislatures simultaneous GST competence, while
+inter-State supplies remain with Parliament. Article 269A creates the levy-and-apportionment
+bridge for inter-State GST. Article 279A establishes the GST Council, where the Union holds
+one-third and States collectively two-thirds of weighted votes; a three-fourths majority means
+neither side can decide alone. The reform reduced cascading, supported a common market and
+replaced several separate Union and State taxes.
+
+Its federalism is accommodative because both levels pooled pre-existing tax autonomy, States
+participate institutionally and the transition included compensation. The qualification is
+substantial: States lost unilateral rate flexibility, the Union can block the voting threshold,
+compensation disputes exposed unequal fiscal capacity and exclusions prevent a completely uniform
+base. In *Mohit Minerals* (2022), the Supreme Court held Council recommendations non-binding,
+preserving legislative autonomy within cooperative dialogue.
+
+Thus, the Amendment embodies negotiated, not hierarchical, federalism; accommodation depends on
+reasoned consultation and fair revenue adjustment in practice.
+
+#### Why this earns marks
+
+It uses the three-Article architecture, explains the voting safeguard, evaluates both autonomy and
+coordination, and deploys the controlling judgment.
+
+#### How to improve this answer
+
+Draw the `246A → 269A → 279A` chain and keep compensation as a qualification, not the whole answer.
+
+### PYQ 9 - UPSC GS-II 2024, Q13 - direct application
+
+**Question:** What changes has the Union Government recently introduced in the domain of
+Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and
+the States and for strengthening federalism.  
+**15 marks | 250 words**
+
+**Demand decoding:** Identify recent changes across more than one federal dimension, assess their
+trust effect and make institution-specific suggestions.
+
+**Model solution**
+
+Recent Centre-State relations combine greater rule-based coordination with new sites of mistrust.
+GST created a permanent shared-tax council and Finance Commission devolution remains the principal
+constitutional transfer route. NITI Aayog replaced plan allocation through the Planning
+Commission with a consultative platform. At the same time, cesses outside the divisible pool,
+centrally sponsored scheme conditions, borrowing controls, Governor-assent disputes and central-
+agency jurisdiction have generated claims of coercive federalism. Nationwide use of disaster
+powers and legislation touching State fields intensified the competence debate.
+
+Trust requires process, predictability and neutral offices. The Inter-State Council should meet
+regularly with published follow-up; States should be consulted early on laws and schemes affecting
+List II. Finance Commission transfers and scheme shares should be predictable, with transparent
+cess data and a credible GST dispute mechanism. Governors should give prompt, reasoned decisions
+within the current Article 200 doctrine, without partisan delay. Article 356 must retain
+*Bommai* discipline, while central investigations should follow clear consent and accountability
+rules. Parliamentary committees and Rajya Sabha should scrutinise major federal measures.
+
+India needs a capable Union, but capacity earns legitimacy when exercised through consultation.
+Cooperative federalism therefore requires institutionalised disagreement, not compelled unanimity.
+
+#### Why this earns marks
+
+It answers both limbs, covers legislative, administrative and fiscal change, and pairs each trust
+deficit with an executable institutional remedy.
+
+#### How to improve this answer
+
+Use a `change → trust deficit → remedy` table. Name only changes you can date or legally anchor;
+avoid turning the response into a list of political allegations.
+
+### PYQ 10 - UPSC GS-II 2025, Q14 - direct application
+
+**Question:** Examine the evolving pattern of Centre-State financial relations in the context of
+planned development in India. How far have the recent reforms impacted the fiscal federalism in
+India?  
+**15 marks | 250 words**
+
+**Demand decoding:** Trace the shift from plan-era discretion to the current mixed system, then
+judge how far reforms improved State autonomy and equalisation.
+
+**Model solution**
+
+Centre-State finance has moved from a dual system of constitutional Finance Commission transfers
+and Planning Commission plan assistance toward a more rule-based but still mixed architecture.
+
+During planned development, discretionary plan grants and centrally sponsored schemes gave the
+Union substantial influence over State priorities. After the Planning Commission's replacement by
+NITI Aayog, Finance Commission devolution became more prominent. GST pooled major indirect-tax
+powers through Articles 246A, 269A and 279A, while Article 280 remains the equalisation mechanism.
+The Sixteenth Finance Commission's 2026-31 award retains 41% vertical devolution.
+
+Reforms improved transparency, formula-based transfers and common-market coordination. States
+participate in GST decisions, and *Mohit Minerals* confirms that Council recommendations do not
+erase legislative autonomy. Yet vertical imbalance persists because States carry major service
+responsibilities while the Union controls buoyant bases. Cesses and surcharges outside the
+divisible pool, conditional schemes, unequal tax capacity and Article 293 borrowing constraints
+can narrow effective choice.
+
+The impact is therefore significant but incomplete: India has shifted from plan discretion toward
+constitutionalised interdependence, not fiscal independence. Predictable scheme design,
+transparent cesses, stronger State tax capacity and regular Union-State consultation are needed.
+
+#### Why this earns marks
+
+It supplies chronology, Articles, a current Finance Commission anchor, benefits, limits and a
+clear “how far” verdict.
+
+#### How to improve this answer
+
+Use a three-stage timeline—Planning Commission, post-2015 devolution, GST/16th FC—and avoid quoting
+horizontal weights unless verified from the official report.
 
 ## Original hard MCQ set - strict A -> B -> C -> D rotation
 
@@ -972,19 +1267,38 @@ Always preserve the proposal/not-law label.
 
 **Model solution**
 
-Federalism constitutionally protects authority of two levels, whereas administrative decentralisation transfers powers that the superior government can ordinarily withdraw by law.
+Federalism constitutionally protects two levels; administrative decentralisation grants powers
+that the superior government may ordinarily withdraw.
 
-India satisfies the federal test through a written supreme Constitution, dual polity, Seventh Schedule distribution, selective amendment ratification, an independent judiciary and State representation in Rajya Sabha. States legislate directly on police, public health, agriculture and other List II subjects; their authority is not ordinary Union delegation.
+India meets the federal test through a supreme written Constitution, dual polity, Seventh Schedule
+distribution, selective State ratification, judicial review and Rajya Sabha. States legislate
+directly on police, public health and agriculture; this is not Union delegation.
 
-The Union is nevertheless stronger. Parliament holds residuary power, can enter the State field under Articles 249, 250, 252, 253 and 356, reorganise States under Articles 2-4, and operates through integrated institutions, All-India Services and greater fiscal capacity.
+The Union is stronger: Parliament has residuary power, exceptional access to State subjects under
+Articles 249, 250, 252 and 253, territorial reorganisation power, integrated services and greater
+fiscal capacity. These features qualify rather than erase federalism because they are
+constitutionally limited and reviewable. *S.R. Bommai* makes federalism Basic Structure and
+disciplines Article 356.
 
-These features qualify rather than destroy federalism because they arise from the Constitution, remain limited by rights and judicial review, and operate within political safeguards. *S.R. Bommai* identifies federalism as Basic Structure and subjects Article 356 to review.
+India is therefore a holding-together, Union-weighted federation. The decisive test is protected
+State competence, not equal institutional weight.
 
-Thus, India is not classically balanced federalism; it is a holding-together, Union-weighted federation. The decisive point is constitutionally protected State power, not numerical equality between Union and States.
+#### Why this earns marks
+
+It defines the distinction, proves both autonomy and Union tilt through Articles, and reaches a
+case-supported classification within 150 words.
+
+#### How to improve this answer
+
+Open with a two-line comparison and use only one Article cluster; do not reproduce all fourteen
+centralising features in a 10-marker.
 
 ### M2. 10 marks | 150 words
 
 **Question:** Explain how the doctrines of pith and substance, repugnancy and harmonious construction maintain the federal distribution of legislative power.
+
+**Demand decoding:** Define each doctrine's distinct job, show their sequence in resolving overlap
+and include the Article 254 qualification.
 
 **Model solution**
 
@@ -996,9 +1310,22 @@ Together, the doctrines combine autonomy with national coherence. Pith and subst
 
 The qualification is important: Article 254 is not a universal conflict rule, and judicial interpretation cannot create legislative competence absent from the Constitution.
 
+#### Why this earns marks
+
+It distinguishes three doctrines, explains how each preserves workable allocation and states the
+Concurrent-List limit on repugnancy.
+
+#### How to improve this answer
+
+Present the sequence as `characterise → reconcile → resolve`; if space permits, add one verified
+case name rather than another abstract definition.
+
 ### M3. 15 marks | 250 words
 
 **Question:** Indian federalism is cooperative in design, bargaining in operation and sometimes coercive in effect. Discuss.
+
+**Demand decoding:** Test all three labels with institutions and examples, then determine how they
+coexist without treating every Union standard as coercive.
 
 **Model solution**
 
@@ -1014,9 +1341,22 @@ Confrontation is also constitutionalised. States litigate under Article 131, wit
 
 Therefore, Indian federalism is a negotiated continuum. Cooperation is its institutional aspiration, bargaining its daily method and coercion its recurrent risk. Regular consultation, transparent transfers and neutral constitutional offices are needed to keep Union capacity from becoming domination.
 
+#### Why this earns marks
+
+It evaluates three analytical labels with named institutions, includes a counterpoint and gives a
+graded verdict plus reforms.
+
+#### How to improve this answer
+
+Use a three-column comparison and attach one constitutional anchor to each mode; avoid repeating
+the same Governor/GST example under multiple headings.
+
 ### M4. 15 marks | 250 words
 
 **Question:** Critically examine the role of the Governor in India's federal system in the light of the current law on assent to State Bills.
+
+**Demand decoding:** Balance constitutional headship against federal friction, state the current
+Article 200 doctrine precisely and suggest convention-based as well as legal correctives.
 
 **Model solution**
 
@@ -1032,9 +1372,22 @@ Reform should emphasise politically detached appointments, consultation with the
 
 Thus, the Governor should be a constitutional sentinel and mediator, not a parallel executive or partisan gatekeeper. Federal balance depends as much on convention and restraint as on justiciable rules.
 
+#### Why this earns marks
+
+It identifies the source of federal concern, states the controlling 2025 opinion without deemed-
+assent error, and balances review with constitutional discretion.
+
+#### How to improve this answer
+
+Keep government formation, Article 356 and assent as three separate functions; spend most space on
+assent because the question expressly demands it.
+
 ### M5. 20 marks | 250-300 words
 
 **Question:** Evaluate whether fiscal federalism in India provides States meaningful autonomy or primarily produces transfer dependence.
+
+**Demand decoding:** Establish a test for meaningful fiscal autonomy, weigh own-source and transfer
+institutions against dependence, and deliver an extent-based verdict.
 
 **Model solution**
 
@@ -1050,9 +1403,22 @@ However, dependence is not inherently anti-federal: redistribution and national 
 
 India therefore has constitutionally mediated interdependence, not fiscal independence. Greater transparency on cesses, predictable scheme shares, stronger State tax administration, a robust GST dispute mechanism and regular intergovernmental consultation would convert transfer dependence into accountable shared finance.
 
+#### Why this earns marks
+
+It balances autonomy and dependence, uses Articles and current 16th Finance Commission evidence,
+and explains when redistribution becomes coercive.
+
+#### How to improve this answer
+
+Add an `own revenue / shared revenue / grants / borrowing` matrix; avoid unverified percentages
+other than the official 41% vertical award.
+
 ### M6. 20 marks | 250-300 words
 
 **Question:** Delimitation after a new Census presents a conflict between democratic equality and federal fairness. Analyse.
+
+**Demand decoding:** Explain both constitutional values, identify the current legal sequence and
+propose safeguards without forecasting seats or implementation dates.
 
 **Model solution**
 
@@ -1070,9 +1436,22 @@ Delimitation seeks broadly equal population representation, but long-term demogr
 
 The solution cannot be arithmetic alone. Democratic equality requires updated representation, but federal legitimacy requires that population stabilisation not translate into abrupt political dispossession. A negotiated constitutional bargain is therefore essential.
 
+#### Why this earns marks
+
+It treats delimitation as a two-value constitutional conflict, uses Articles 81/82/334A, dates the
+defeated proposal and avoids speculative projections.
+
+#### How to improve this answer
+
+Draw a balance scale labelled `vote equality` and `federal fairness`; clearly separate current law,
+the defeated 2026 proposal and your reform suggestions.
+
 ### M7. 20 marks | 250-300 words
 
 **Question:** Does the combination of regional parties, judicial review and intergovernmental councils adequately counterbalance India's centralising constitutional design?
+
+**Demand decoding:** Evaluate each counterweight's mechanism and limitation, then answer
+“adequately” through a graded institutional verdict.
 
 **Model solution**
 
@@ -1087,6 +1466,16 @@ India's Constitution gives the Union substantial power, but political and instit
 These safeguards are meaningful but uneven. A single-party Union majority reduces coalition bargaining; councils can become consultative rituals; litigation is slow and adversarial. Governors, central agencies, conditional schemes and cesses can still generate coercive effects.
 
 Therefore, the counterbalance is adequate to prevent easy destruction of federalism but not always adequate to ensure equal participation. Regular council meetings, reasoned decisions, stronger parliamentary scrutiny, neutral Governors, transparent transfers and better State capacity are required. India's federal equilibrium is maintained through repeated political contestation, not by constitutional text alone.
+
+#### Why this earns marks
+
+It tests three distinct counterweights, supplies limits for each and answers adequacy rather than
+merely listing institutions.
+
+#### How to improve this answer
+
+Allocate one short paragraph to each counterweight and one comparative paragraph to their combined
+effect; avoid treating non-binding councils as legally co-equal with courts.
 
 ## Final consolidated register notes
 
@@ -1182,8 +1571,12 @@ Therefore, the counterbalance is adequate to prevent easy destruction of federal
 ### Fiscal federalism
 
 - Vertical imbalance = Union revenue strength versus State spending responsibilities.
-- Instruments = assignment, divisible pool, Finance Commission, grants, schemes, GST.
-- 16th FC: 41% of divisible pool for States in 2026-31.
+- Administrative bridge = Articles 256-263: compliance/directions, reciprocal delegation,
+  full faith and credit, water-dispute law and Inter-State Council consultation.
+- Article 355 creates a Union duty; Articles 356-357 provide a reviewable exceptional remedy.
+- Instruments = Articles 268/269/269A assignment, Article 270 divisible pool, Articles 275/282
+  grants, Articles 280-281 Finance Commission, Article 293 borrowing and GST.
+- 16th FC: report submitted 17 Nov 2025; 41% of divisible pool for States in 2026-31.
 - Cesses/surcharges outside divisible pool are a recurring State grievance.
 - Autonomy requires predictable finance, not merely List II competence.
 
@@ -1202,6 +1595,11 @@ Therefore, the counterbalance is adequate to prevent easy destruction of federal
 - 2022 GS-II Q13: qualified party-incentive thesis.
 - 2021 Prelims Q86: independent judiciary as essential federal feature.
 - 2023 Prelims Q32: prisons in State List; colonial Act is not constitutional explanation.
+- 2020 GS-II Q11: centralising laws -> competence + consultation + political correction.
+- 2023 GS-II Q13: reduced Article 356 use -> *Bommai* + coalition/party federalism.
+- 2023 GS-II Q15: Articles 246A/269A/279A -> accommodative but unequal GST federalism.
+- 2024 GS-II Q13: recent changes -> trust deficits paired with institutional remedies.
+- 2025 GS-II Q14: plan discretion -> rule-based devolution/GST -> persistent dependence.
 
 ### Mains answer spines
 
@@ -1221,6 +1619,9 @@ Therefore, the counterbalance is adequate to prevent easy destruction of federal
 - Article 254 principally concerns Concurrent List repugnancy.
 - Article 249 uses Rajya Sabha; Article 252 starts with State resolutions.
 - Article 253 can reach State subjects for treaty implementation.
+- Article 256 directions are compliance-specific, not a general takeover power.
+- Article 262 permits Parliament to exclude jurisdiction by law; exclusion is not automatic.
+- Article 355 duty does not automatically satisfy Article 356.
 - Bommai does not create State sovereignty or secession.
 - GST Council recommendations are not binding.
 - Governor assent has no current deemed-assent rule.

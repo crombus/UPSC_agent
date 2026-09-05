@@ -243,3 +243,26 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** unconsulted wartime entry, Congress response and resignation
+  consequence, August Offer, Individual Satyagraha, Cripps provisions and
+  rejection, Quit India authorisation, decapitation, regional/social spread,
+  underground networks, parallel governments, repression and results.
+- **Boundary:** Topic 24 owns the 1935 Act and ministries. Topic 26 exclusively
+  owns INA, INA trials, RIN, Wavell/Simla, 1945-46 elections and Cabinet
+  Mission; Topic 27 owns independence and partition. Later endgame evidence is
+  qualification only, never transferred ownership.
+- **Date control:** 3 September 1939 belligerency, October-November ministry
+  resignations, 22 December Deliverance Day, March 1940 Lahore Resolution,
+  August Offer, October 1940 Individual Satyagraha, March-April 1942 Cripps,
+  8 August Quit India resolution and 9 August arrests remain distinct.
+- **Mechanism control:** Cripps meant post-war dominion status with provincial
+  non-accession, not immediate independence; Individual Satyagraha was limited;
+  Quit India was leaderless after arrests but retained underground continuity;
+  official non-violence and actual sabotage must both be stated.
+- **Verified PYQ ownership, 2018-2026:** 2024 GS-I Q3 is locally official and
+  verbatim. The 2021 Quit India and 2022 Cripps objective entries are neutral
+  routing summaries because exact local stems and keys are unavailable; no
+  wording or answer letter is fabricated.

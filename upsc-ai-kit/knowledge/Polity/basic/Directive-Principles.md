@@ -47,7 +47,7 @@ democracy**). Not legally enforceable, but morally & politically binding — the
 
 ## 5. Amendments that added DPSP
 
-- ✅ **42nd (1976):** Art 39(f), 39A (legal aid), 43A (workers in management), 48A (environment).
+- ✅ **42nd (1976):** substituted/recast Art 39(f), and inserted Arts 39A (legal aid), 43A (workers in management) and 48A (environment).
 - ✅ **44th (1978):** Art 38 — minimise inequalities.
 - ✅ **86th (2002):** Art 45 changed → elementary education became FR (Art 21A).
 - ✅ **97th (2011):** Art 43B — co-operative societies.
@@ -65,8 +65,10 @@ democracy**). Not legally enforceable, but morally & politically binding — the
 - ✅ DPSP = Articles **36–51**, Part IV; borrowed from **Ireland**.
 - ✅ **Non-justiciable** (Art 37); no court enforcement.
 - ✅ Art **44** = UCC; Art **40** = panchayats; Art **50** = separate judiciary.
-- ✅ **Present position:** FR prevail over DPSP, but Parliament can amend FR to implement DPSP without
-  damaging **basic structure** (Minerva Mills, 1980).
+- ✅ **Present position:** Neither Part III nor Part IV enjoys abstract, unlimited supremacy. Parliament may
+  amend rights to pursue DPSP without damaging the **basic structure**, while the harmony and balance between
+  the two Parts is itself basic structure (*Minerva Mills*, 1980). The surviving Art 31C shield is the specific
+  exception for genuine Art 39(b)/(c) laws against Arts 14 and 19.
 
 ➡️ The full case-law spine (Champakam → Golaknath → Kesavananda → Minerva Mills), the named critics,
 Art 31C and the directives outside Part IV are all held **in this file** (§8.4–§8.10).
@@ -126,14 +128,16 @@ any mark.*
 | ✅ *Unni Krishnan* | 1993 | Read the right to education into Art 21 in the light of Arts 41, 45, 46 (DPSP illuminating a FR) | Later given textual form by Art 21A (86th Amdt) |
 | 📰 *Property Owners Association* | 2024 | The unamended Art 31C survives; not every private resource is a "material resource of the community" under Art 39(b) | Contextual inquiry (judgment of 5 Nov 2024) |
 
-- ⚠️ **Present position:** FR enjoy supremacy over DPSP, **but** Parliament may amend FR to implement DPSP **so long as the basic structure is not damaged** — harmony, not hierarchy.
+- ⚠️ **Present position:** use **harmony, not abstract hierarchy**. Enforceable rights ordinarily control an
+  inconsistent ordinary law, but Parliament may amend rights to pursue DPSP without damaging basic structure;
+  the surviving Art 31C specifically protects genuine Art 39(b)/(c) laws against Arts 14 and 19.
 
 ### 8.5 Bank B — Implementation evidence (with honest limits)
 
 | Directive (Article) | Delivery vehicle | Outcome / significance | Honest limit |
 |---|---|---|---|
 | ✅ Art 39A — equal justice & free legal aid | Legal Services Authorities Act, 1987; NALSA; Lok Adalats | Institutionalised free legal aid and mass dispute settlement | Uneven counsel quality; low awareness |
-| ✅ Art 40 — village panchayats | **73rd & 74th Amendments (1992)** — Parts IX & IX-A | Gave constitutional status to local self-government | Devolution of funds/functions/functionaries still weak |
+| ✅ Art 40 — village panchayats | **73rd Amendment (1992)** — Part IX | Constitutionalised Panchayati Raj, the direct institutional expression of Art 40 | Devolution of funds/functions/functionaries still weak; the 74th Amendment separately constitutionalised municipalities but is not the textual implementation of Art 40 |
 | ✅ Art 45 → Art 21A — education | **86th Amendment (2002)**; **RTE Act, 2009** | Made elementary education a fundamental right | Quality and learning-outcome gaps persist |
 | ✅ Art 43B — co-operatives | **97th Amendment (2011)** | Promotes voluntary, autonomous, democratic co-operatives | State-list overlap; governance issues |
 | ✅ Art 47 — nutrition, public health, prohibition | Public-health and food-security programmes | Advances welfare-state commitments | Outcomes vary sharply across States |
@@ -170,9 +174,9 @@ any mark.*
 | ✅ The judicial prompts | **Mohd. Ahmed Khan v. Shah Bano Begum (1985)**, **Sarla Mudgal (1995)**, **John Vallamattom (2003)** | In each the Court decided the case on the statute before it and **additionally observed** that Art 44 remained unimplemented | ⚠️ These are **observations urging the legislature**, not directions to enact a UCC — do **not** write that the Supreme Court "ordered" or "directed" a UCC |
 | ✅ Reform without a UCC | **Shayara Bano v. Union of India (2017)** set aside instant triple talaq; the **Muslim Women (Protection of Rights on Marriage) Act, 2019** followed | Shows that **targeted statutory reform inside a personal-law system** can deliver the equality outcome a UCC is asked to deliver | ⚠️ *Shayara Bano* invalidated a **practice**; it did not rule on the constitutionality of personal-law systems as a whole |
 | ✅ Codification precedent | The **Hindu Code** statutes of the mid-1950s (marriage, succession, minority and guardianship, adoption and maintenance) | Proves that codification of one community's personal law is constitutionally and politically feasible, and is the standard example of a "step towards Art 44" | ⚠️ It was **community-specific codification**, not a uniform code — do not present it as a partial UCC |
-| ✅ Existing uniform option | The **Special Marriage Act, 1954** | Supplies a secular, religion-neutral civil route for marriage and its consequences that **any two citizens may choose** | ⚠️ It is **opt-in**; it does not displace personal law, so it demonstrates the model rather than the mandate |
-| ✅ Sub-national implementation | **Goa** has applied a common family-law regime inherited from Portuguese civil law and is routinely cited as India's working example; 📰 **Uttarakhand** enacted a State Uniform Civil Code, which was **brought into force on 27 January 2025**, making it the first State to implement one (status verified **13 August 2026**; the State law has been litigated, so cite it as an **enacted and operative State law under challenge**, not as settled doctrine) | Establishes that "uniform civil code" is a **State-competent** subject too, because personal law sits in **Concurrent List Entry 5** | ⚠️ Do **not** claim Goa's regime is fully uniform across all communities and all matters; do **not** state the Uttarakhand Act's section numbers or the outcome of any challenge to it |
-| 📰 The **January 2026 Uttarakhand UCC amendment — treat the instrument precisely** | 📰 Reporting from **January 2026** records a **Uniform Civil Code (Amendment) Ordinance** promulgated by the Governor of Uttarakhand under **Art 213**, amending the State's 2024 UCC | Two examinable points, both of which survive whatever the amendment's fine print turns out to be: **(i) the instrument** — an **Ordinance** is temporary executive law-making that must be **laid before the State Legislature and ceases six weeks after it reassembles** unless replaced by an Act; **(ii) the pattern** — a brand-new codification needed correction within its first year, which is direct evidence for the "implementation is harder than enactment" limb of any Art 44 answer | ⚠️ **Cautious summary only.** The changes reported include treating **concealment of identity** as a ground going to the validity of a marriage or live-in relationship (with annulment consequences), adjustments to **live-in registration and termination** procedure, **digital/online registration** and **time-bound sub-registrar** processing, and alignment of penal references with the **BNS, 2023** in place of the IPC. These rest on **secondary reporting, not on the Gazette text seen here** — write them as *reported* changes, name **no section numbers, no penalty quantum and no registration statistics**, and re-verify against the Uttarakhand Gazette before use. ⚠️ Do **not** assert whether the Ordinance has since been **replaced by an Act, lapsed or been re-promulgated**; ⚠️ do **not** state any outcome of litigation over it |
+| ✅ Existing uniform option | The **Special Marriage Act, 1954** | Supplies a secular civil-marriage route to persons who satisfy the Act's statutory conditions; it is not accurately described as a route open only to, or automatically available to, “any two citizens” | ⚠️ It is **opt-in** and does not itself create a comprehensive UCC |
+| ✅ Sub-national implementation | **Goa** has a common family-law regime with exceptions; **Uttarakhand's UCC Act, 2024 commenced on 27 January 2025** | Personal law lies in **Concurrent List Entry 5**, so both Parliament and State legislatures can legislate subject to constitutional/federal rules | ⚠️ Do not call Goa perfectly uniform or treat one State model as the constitutionally required national design |
+| 📰 Uttarakhand's **2026 amendment — current instrument** | The Governor promulgated an Amendment Ordinance on 27 January 2026; the official UCC portal now publishes **The Uniform Civil Code, Uttarakhand (Amendment) Act, 2026**, GO dated **7 April 2026** | The succession from Ordinance to Act is a clean Art 213 illustration and shows post-enactment correction in a new codification | ✅ Cite the operative **Amendment Act**, not the Ordinance as the current instrument. Use the official Act/Gazette for fine detail; do not invent litigation outcomes or statistics |
 | ⚠️ Law Commission position | The **21st Law Commission's consultation paper (2018)** took the view that a uniform civil code was **not necessary or desirable at that stage** and favoured reforming discriminatory practices within each personal law; the **22nd Law Commission** reopened public consultation on the subject | Gives the answer a non-partisan institutional voice on both sides | ⚠️ A Law Commission paper is **advice, not law**; do not attribute a final recommendation to the 22nd Commission unless verified |
 
 - **Two-sided verdict scaffold (use for any "Critically examine"/"Discuss" UCC demand):** ⚠️ *Article 44 states a constitutional goal that equality under Articles 14 and 15 independently supports; but because it is non-justiciable and touches identity, the constitutionally safer route India has actually travelled is reform-within-personal-law — Shah Bano to Shayara Bano to the 2019 Act — and a uniform code will be legitimate only when it is arrived at through consultation rather than imposed as a majoritarian settlement.*
@@ -210,9 +214,13 @@ Standard confusion pairs:
 - Do **not** state NALSA is a constitutional body — it is **statutory** (Legal Services Authorities Act, 1987).
 - Do **not** state a single national income ceiling for legal-aid eligibility — the ceiling is **notified by the appropriate government** and varies by State.
 - 📰 On Art 39(b): as of the *Property Owners Association v. State of Maharashtra* judgment (**5 November 2024**), not every privately owned asset is automatically a "material resource of the community"; the inquiry is contextual.
-- 📰 **UCC status discipline, dated 13 August 2026 (§8.7A):** ✅ **Uttarakhand's UCC was brought into force on 27 January 2025** — the first State to do so — and is **under challenge**; state it as *enacted and operative, litigation pending*. 📰 A **Uniform Civil Code (Amendment) Ordinance** was reported in **January 2026**: name it as an **Ordinance under Art 213** (temporary, must be laid before the State Legislature, ceases six weeks after it reassembles unless replaced by an Act), summarise its reported content **cautiously** (identity-concealment as a ground affecting validity/annulment; live-in registration and termination procedure; digital and time-bound registration; alignment of penal references with the **BNS, 2023**), and **do not** state section numbers, penalty quantum, registration statistics, whether it has since been replaced by an Act or lapsed, or any litigation outcome. Re-verify against the **Uttarakhand Gazette** before use.
+- 📰 **UCC status discipline, dated 28 August 2026 (§8.7A):** Uttarakhand's UCC commenced on
+  **27 January 2025**. The 27 January 2026 Amendment Ordinance was succeeded by the officially published
+  **Uniform Civil Code, Uttarakhand (Amendment) Act, 2026**, GO dated **7 April 2026**. Cite the Act as the
+  current amending instrument, and do not invent a litigation outcome, penalty figure or implementation statistic.
 - ⚠️ Do **not** write that any court has "ordered" or "directed" a Uniform Civil Code; the judicial record consists of **observations urging the legislature**, not mandamus.
-- 📰 Status as of **13 August 2026**: the FR–DPSP present position (FR primacy subject to the basic-structure balance) is settled; recheck for any later ruling on Art 31C.
+- 📰 Status as of **28 August 2026**: the Part III–Part IV harmony/basic-structure formulation and the
+  surviving Art 31C shield remain controlling; recheck for any later ruling on Art 31C.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

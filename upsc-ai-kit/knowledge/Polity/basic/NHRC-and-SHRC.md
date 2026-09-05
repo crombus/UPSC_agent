@@ -9,7 +9,7 @@
 | Law | **Protection of Human Rights Act, 1993** |
 | Nature | **Statutory** (not constitutional) |
 | NHRC term | **3 years or 70 years** (post-2019) |
-| NHRC chair | Retired **CJI or SC judge** |
+| NHRC chair | A person who has been **CJI or an SC judge** |
 | SHRC removal | By the **President** (not Governor) |
 
 ## Core idea
@@ -24,7 +24,7 @@ List matters; it does not mean every state necessarily has a functioning commiss
 ## Must-Know Facts
 - ✅ NHRC = chairperson + members + **7 ex-officio** (national commission chairs + Chief Commissioner PwD).
 - ✅ Appointed by the **President** on a **6-member committee** (PM head).
-- ✅ **Civil-court powers**; own investigating staff; recommendations only — govt responds in **1 month**.
+- ✅ **Civil-court powers**; government-provided/investigation-agency support under the Act; recommendations only — government ordinarily responds in **1 month**, or further time allowed.
 - ✅ **Armed forces:** NHRC can only seek a **report** & recommend.
 - ✅ **Human Rights Courts** in each district (with HC Chief Justice's concurrence).
 
@@ -80,12 +80,12 @@ reform concerns, but a proposed/recommended downgrade must not be reported as an
 | ✅ **Legal source** | **Protection of Human Rights Act, 1993** (statutory, *not* constitutional) | Same Act; a State government **may** constitute one (establishment is enabling, not automatic) |
 | ✅ **Appointment authority** | **President** | **Governor** |
 | ✅ **Selection committee** | **Six-member**: **PM (head)**, **Speaker of Lok Sabha**, **Deputy Chairman of Rajya Sabha**, **Leader of Opposition in both Houses**, **Union Home Minister** | **CM (head)**, **Speaker of the Assembly**, **State Home Minister**, **Leader of Opposition** (+ Council Chairman and its LoP where bicameral) |
-| ✅ **Composition** | Chairperson (**retired CJI or a retired Judge of the Supreme Court**, widened by the **2019 Amendment**) + a serving/retired SC judge + a serving/retired HC Chief Justice + three HR experts (**≥1 woman**) + **seven deemed/ex-officio members** (chairs of the National Commissions for Minorities, SCs, STs, Women, **BCs**, **Protection of Child Rights** + the **Chief Commissioner for PwD**) | Chairperson (**retired HC Chief Justice or a Judge of a High Court**, widened by the 2019 Amendment) + one serving/retired HC judge or District Judge (≥7 yrs) + one HR expert |
+| ✅ **Composition** | Chairperson (a person who has been **CJI or a Judge of the Supreme Court**, widened by the **2019 Amendment**) + a serving/former SC judge + a serving/former HC Chief Justice + three HR experts (**≥1 woman**) + **seven deemed members** (chairs of the National Commissions for Minorities, SCs, STs, Women, **BCs**, **Protection of Child Rights** + the **Chief Commissioner for PwD**) | Chairperson (a person who has been **HC Chief Justice or a High Court judge**, widened by the 2019 Amendment) + one serving/former HC judge or District Judge (≥7 yrs) + one HR expert |
 | ✅ **Tenure** | **3 years or 70 years**, whichever earlier (**reduced from 5 years** by the 2019 Amendment); **re-appointment allowed** | **3 years or 70 years**; re-appointment allowed |
-| ✅ **Removal** | By the **President**; for **proved misbehaviour/incapacity** only after a **Supreme Court inquiry** whose advice is binding | By the **President** (not the Governor) on the same grounds and the same SC-inquiry route |
+| ✅ **Removal** | By the **President**; proved misbehaviour/incapacity requires the statutory **Supreme Court inquiry and report** | By the **President** (not the Governor) on the same grounds and the same Supreme Court-inquiry route |
 | ✅ **Powers (recommendatory?)** | Powers of a **civil court** for inquiries (**Section 13**); may inquire, visit jails, intervene in court; **recommendations are advisory, not binding** (**Section 18**) — **cannot punish or award compensation as of right** | Same powers within the State; same recommendatory ceiling |
 | ✅ **Appeal / enforcement limit** | No power to enforce its own recommendations; must **approach the SC/HC** for writs; government need only **respond within one month**; **one-year bar** on cognisance (**Section 36(2)**) | Same; confined to **State List / Concurrent List** subjects; barred where the NHRC/another commission is already seized (**Section 36(1)**) |
-| ✅ **Independence safeguards** | Fixed statutory tenure, SC-inquiry-protected removal, own investigating staff (**Section 11**), financial provision from the Consolidated Fund | Same architecture at State level; **President-only removal** insulates it from the State executive |
+| ✅ **Independence safeguards** | Fixed statutory tenure and Supreme Court-inquiry-protected removal; sections 11 and 14 provide government-supplied staff and agency support, which is also an autonomy concern | Same removal architecture at State level; **President-only removal** reduces direct State-executive control |
 | ✅ **Accountability route** | **Annual/special report → Central Government → laid before Parliament** with an action-taken memorandum | **Report → State Government → laid before the State Legislature** |
 
 - **Analytical use:** every "toothless/limitations" and "distinguish NHRC from SHRC" answer is won or lost on this grid — the recommendatory power (row 7) plus the one-year and armed-forces limits (rows 8) are the exact points where marks are scored.

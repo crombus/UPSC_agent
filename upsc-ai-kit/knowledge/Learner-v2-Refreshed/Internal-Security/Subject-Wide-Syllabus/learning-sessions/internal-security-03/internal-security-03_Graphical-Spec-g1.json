@@ -1,0 +1,999 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-03",
+  "subject": "Internal-Security",
+  "title": "LEFT-WING EXTREMISM AND INTEGRATED RESPONSE",
+  "short_route": "LWE CONCEPT RAIL → FIVE-PHASE EXPANSION → CAUSE-ACTOR MATRIX → MINERAL-EXTORTION LOOP → INSTRUMENTAL UNDERDEVELOPMENT → PEOPLE-AFFECTED MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-03\\internal-security-03_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-03-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "9e7ac3d782132638e06e9e96135c831e7ccce2a83d6781e55f0136f84e7cec14",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LWE CONCEPT RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LWE CONCEPT RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "MAY 1967 NAXALBARI",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVEMENT ORIGIN",
+          "role": "comparison"
+        },
+        {
+          "text": "MAOIST OBJECTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPTURE STATE POWER",
+          "role": "institution"
+        },
+        {
+          "text": "PROTRACTED PEOPLE'S WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT A SECESSIONIST CLAIM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAY 1967 NAXALBARI → MOVEMENT ORIGIN",
+        "MAOIST OBJECTIVE → CAPTURE STATE POWER",
+        "METHOD → PROTRACTED PEOPLE'S WAR",
+        "BOUNDARY → NOT A SECESSIONIST CLAIM"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "MAY 1967 NAXALBARI → MOVEMENT ORIGIN",
+            "MAOIST OBJECTIVE → CAPTURE STATE POWER"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METHOD → PROTRACTED PEOPLE'S WAR",
+            "BOUNDARY → NOT A SECESSIONIST CLAIM"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "MAY 1967 NAXALBARI → MOVEMENT ORIGIN",
+            "MAOIST OBJECTIVE → CAPTURE STATE POWER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD → PROTRACTED PEOPLE'S WAR; BOUNDARY → NOT A SECESSIONIST CLAIM.",
+      "source_references": [
+        "Naxalbari origin",
+        "LWE objective"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FIVE-PHASE EXPANSION",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FIVE-PHASE EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "LIBERATED PHASE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDERSTAND ORGANISATIONAL INTENT",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT INFER PRESENT TERRITORIAL STATUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PREPARATORY → PERSPECTIVE → GUERRILLA",
+        "BASE → LIBERATED PHASE",
+        "USE → understand organisational intent",
+        "TRAP → do not infer present territorial status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "PREPARATORY → PERSPECTIVE → GUERRILLA",
+            "BASE → LIBERATED PHASE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "USE → understand organisational intent",
+            "TRAP → do not infer present territorial status"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PREPARATORY → PERSPECTIVE → GUERRILLA",
+            "BASE → LIBERATED PHASE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not infer present territorial status.",
+      "source_references": [
+        "Five-phase strategy"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CAUSE-ACTOR MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CAUSE-ACTOR MATRIX",
+          "role": "mechanism"
+        },
+        {
+          "text": "FOREST EXCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNANCE ABSENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL ALIENATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANISED MAOIST ACTOR",
+          "role": "primary"
+        },
+        {
+          "text": "RECRUITMENT AND COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "GRIEVANCE IS VULNERABILITY, NOT AUTOMATIC VIOLENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAND / FOREST EXCLUSION",
+        "GOVERNANCE ABSENCE",
+        "POVERTY / SERVICES",
+        "SOCIAL ALIENATION",
+        "ORGANISED MAOIST ACTOR → recruitment and coercion"
+      ],
+      "matrix": [
+        [
+          "LAND / FOREST EXCLUSION",
+          "GOVERNANCE ABSENCE"
+        ],
+        [
+          "POVERTY / SERVICES",
+          "SOCIAL ALIENATION"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "LAND / FOREST EXCLUSION",
+            "GOVERNANCE ABSENCE"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "POVERTY / SERVICES",
+            "SOCIAL ALIENATION"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "ORGANISED MAOIST ACTOR → recruitment and coercion",
+            "RULE → grievance is vulnerability, not automatic violence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → grievance is vulnerability, not automatic violence.",
+      "source_references": [
+        "Land-forest causes",
+        "Development-governance causes"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MINERAL-EXTORTION LOOP",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MINERAL-EXTORTION LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "INFRASTRUCTURE ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTRACTING AND MOVEMENT OF FUNDS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTORTION OPPORTUNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "FINANCE FOR COERCIVE CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCE WEALTH IS NOT ITSELF THE CAUSE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MINERAL / INFRASTRUCTURE ACTIVITY",
+        "CONTRACTING AND MOVEMENT OF FUNDS",
+        "EXTORTION OPPORTUNITY",
+        "FINANCE FOR COERCIVE CONTROL",
+        "QUALIFY → resource wealth is not itself the cause"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "MINERAL / INFRASTRUCTURE ACTIVITY",
+            "CONTRACTING AND MOVEMENT OF FUNDS"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXTORTION OPPORTUNITY",
+            "FINANCE FOR COERCIVE CONTROL"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → resource wealth is not itself the cause",
+            "MINERAL / INFRASTRUCTURE ACTIVITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → resource wealth is not itself the cause.",
+      "source_references": [
+        "Mineral-extortion nexus"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INSTRUMENTAL UNDERDEVELOPMENT",
+      "structural_type": "feedback-loop",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INSTRUMENTAL UNDERDEVELOPMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATIVE GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "RECRUITMENT VULNERABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MAOIST OBSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER DELAYED",
+          "role": "primary"
+        },
+        {
+          "text": "PARALLEL AUTHORITY PERSISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "FURTHER OBSTRUCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "POVERTY / ADMINISTRATIVE GAP → RECRUITMENT VULNERABILITY",
+        "MAOIST OBSTRUCTION → ROADS / POWER / WATER DELAYED",
+        "DELAY → PARALLEL AUTHORITY PERSISTS",
+        "PERSISTENCE → FURTHER OBSTRUCTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "POVERTY / ADMINISTRATIVE GAP → RECRUITMENT VULNERABILITY",
+            "MAOIST OBSTRUCTION → ROADS / POWER / WATER DELAYED"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DELAY → PARALLEL AUTHORITY PERSISTS",
+            "PERSISTENCE → FURTHER OBSTRUCTION"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "POVERTY / ADMINISTRATIVE GAP → RECRUITMENT VULNERABILITY",
+            "MAOIST OBSTRUCTION → ROADS / POWER / WATER DELAYED"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAOIST OBSTRUCTION → ROADS / POWER / WATER DELAYED.",
+      "source_references": [
+        "Instrumental underdevelopment"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PEOPLE-AFFECTED MAP",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PEOPLE-AFFECTED MAP",
+          "role": "primary"
+        },
+        {
+          "text": "VIOLENCE AND COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTORTION, DISPLACEMENT, FOREST INSECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ROADS, SCHOOLS, HEALTH ACCESS BLOCKED",
+          "role": "evidence"
+        },
+        {
+          "text": "PANCHAYAT AND JUSTICE PRESENCE WEAKENED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LIFE / SAFETY → violence and coercion",
+        "LIVELIHOOD → extortion, displacement, forest insecurity",
+        "SERVICES → roads, schools, health access blocked",
+        "GOVERNANCE → panchayat and justice presence weakened"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "LIFE / SAFETY → violence and coercion",
+            "LIVELIHOOD → extortion, displacement, forest insecurity"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SERVICES → roads, schools, health access blocked",
+            "GOVERNANCE → panchayat and justice presence weakened"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "LIFE / SAFETY → violence and coercion",
+            "LIVELIHOOD → extortion, displacement, forest insecurity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SERVICES → roads, schools, health access blocked; GOVERNANCE → panchayat and justice presence weakened.",
+      "source_references": [
+        "Civilian impact"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CLEAR-HOLD-DEVELOP CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLEAR-HOLD-DEVELOP CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SECURE LAWFUL ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "RESIDENT POLICE + CIVIL ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS + SERVICES + INFRASTRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCOUNTABLE DELIVERY PREVENTS RELAPSE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CLEAR → secure lawful access",
+        "HOLD → resident police + civil administration",
+        "DEVELOP → rights + services + infrastructure",
+        "TRUST → accountable delivery prevents relapse"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "CLEAR → secure lawful access",
+            "HOLD → resident police + civil administration"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEVELOP → rights + services + infrastructure",
+            "TRUST → accountable delivery prevents relapse"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CLEAR → secure lawful access",
+            "HOLD → resident police + civil administration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEVELOP → rights + services + infrastructure; TRUST → accountable delivery prevents relapse.",
+      "source_references": [
+        "Clear-hold-develop"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "2015 POLICY TRIPOD",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "2015 POLICY TRIPOD",
+          "role": "primary"
+        },
+        {
+          "text": "SECURITY RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPMENT RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS AND ENTITLEMENTS OF LOCAL COMMUNITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "NO PRONG SUBSTITUTES FOR THE OTHERS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECURITY RESPONSE",
+        "DEVELOPMENT RESPONSE",
+        "RIGHTS AND ENTITLEMENTS OF LOCAL COMMUNITIES",
+        "RULE → no prong substitutes for the others"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "SECURITY RESPONSE",
+            "DEVELOPMENT RESPONSE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RIGHTS AND ENTITLEMENTS OF LOCAL COMMUNITIES",
+            "RULE → no prong substitutes for the others"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "SECURITY RESPONSE",
+            "DEVELOPMENT RESPONSE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → no prong substitutes for the others.",
+      "source_references": [
+        "Three-pronged policy"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RIGHTS-GOVERNANCE PAIR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIGHTS-GOVERNANCE PAIR",
+          "role": "primary"
+        },
+        {
+          "text": "FRA 2006",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIVIDUAL AND COMMUNITY FOREST-RIGHT CLAIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "PESA 1996",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAM SABHA ROLE IN FIFTH SCHEDULE GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL BASIS",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE VERIFIED OUTCOME",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FRA 2006 → individual and community forest-right claims",
+        "PESA 1996 → Gram Sabha role in Fifth Schedule governance",
+        "ENACTMENT → legal basis",
+        "IMPLEMENTATION → separate verified outcome"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "FRA 2006 → individual and community forest-right claims",
+          "ENACTMENT → legal basis",
+          "FRA 2006 → individual and community forest-right claims"
+        ],
+        [
+          "PESA 1996 → Gram Sabha role in Fifth Schedule governance",
+          "IMPLEMENTATION → separate verified outcome",
+          "PESA 1996 → Gram Sabha role in Fifth Schedule governance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "FRA 2006 → individual and community forest-right claims",
+            "PESA 1996 → Gram Sabha role in Fifth Schedule governance"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ENACTMENT → legal basis",
+            "IMPLEMENTATION → separate verified outcome"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "FRA 2006 → individual and community forest-right claims",
+            "PESA 1996 → Gram Sabha role in Fifth Schedule governance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PESA 1996 → Gram Sabha role in Fifth Schedule governance.",
+      "source_references": [
+        "FRA rights boundary",
+        "PESA governance boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INTER-STATE PRESSURE MAP",
+      "structural_type": "institution-map",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INTER-STATE PRESSURE MAP",
+          "role": "institution"
+        },
+        {
+          "text": "FORMER ANDHRA REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE IN ONE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "MOVEMENT TOWARD ANOTHER",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERING POLICIES",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLOITABLE DISCONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED INTELLIGENCE AND COMPATIBLE STRATEGY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FORMER ANDHRA REGION",
+        "PRESSURE IN ONE STATE → MOVEMENT TOWARD ANOTHER",
+        "DIFFERING POLICIES → exploitable discontinuity",
+        "RESPONSE → shared intelligence and compatible strategy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "FORMER ANDHRA REGION",
+            "PRESSURE IN ONE STATE → MOVEMENT TOWARD ANOTHER"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "DIFFERING POLICIES → exploitable discontinuity",
+            "RESPONSE → shared intelligence and compatible strategy"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "FORMER ANDHRA REGION",
+            "PRESSURE IN ONE STATE → MOVEMENT TOWARD ANOTHER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRESSURE IN ONE STATE → MOVEMENT TOWARD ANOTHER.",
+      "source_references": [
+        "Inter-State trijunction",
+        "Specialised-force lesson"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SURRENDER STATUS FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SURRENDER STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ONE-TIME RECORDED EVENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE STEPS",
+          "role": "comparison"
+        },
+        {
+          "text": "REHABILITATION PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "SOCIAL REINTEGRATION",
+          "role": "primary"
+        },
+        {
+          "text": "LONG-TERM OUTCOME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SURRENDER → one-time recorded event",
+        "SCREENING / PACKAGE → administrative steps",
+        "LIVELIHOOD / SAFETY → rehabilitation process",
+        "SOCIAL REINTEGRATION → long-term outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SURRENDER → one-time recorded event",
+            "SCREENING / PACKAGE → administrative steps"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LIVELIHOOD / SAFETY → rehabilitation process",
+            "SOCIAL REINTEGRATION → long-term outcome"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "SURRENDER → one-time recorded event",
+            "SCREENING / PACKAGE → administrative steps"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIVELIHOOD / SAFETY → rehabilitation process; SOCIAL REINTEGRATION → long-term outcome.",
+      "source_references": [
+        "Surrender-rehabilitation firewall"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "OUTCOME AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "OUTCOME AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PEOPLE AFFECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY + DEVELOPMENT + RIGHTS + TRUST",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVELOP + INTER-STATE COORDINATION",
+          "role": "institution"
+        },
+        {
+          "text": "DISTRICT LABEL",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFIED STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUSTED CONSTITUTIONAL GOVERNANCE WITHOUT PARALLEL COERCION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE → CAUSES → ACTOR / EXTORTION → PEOPLE AFFECTED",
+        "MAP → SECURITY + DEVELOPMENT + RIGHTS + TRUST",
+        "TEST → CLEAR / HOLD / DEVELOP + INTER-STATE COORDINATION",
+        "GRADE → TARGET / METRIC / DISTRICT LABEL / QUALIFIED STATUS",
+        "CONCLUDE → TRUSTED CONSTITUTIONAL GOVERNANCE WITHOUT PARALLEL COERCION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE → CAUSES → ACTOR / EXTORTION → PEOPLE AFFECTED",
+            "MAP → SECURITY + DEVELOPMENT + RIGHTS + TRUST"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "TEST → CLEAR / HOLD / DEVELOP + INTER-STATE COORDINATION",
+            "GRADE → TARGET / METRIC / DISTRICT LABEL / QUALIFIED STATUS"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUDE → TRUSTED CONSTITUTIONAL GOVERNANCE WITHOUT PARALLEL COERCION",
+            "DEFINE → CAUSES → ACTOR / EXTORTION → PEOPLE AFFECTED"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUDE → TRUSTED CONSTITUTIONAL GOVERNANCE WITHOUT PARALLEL COERCION.",
+      "source_references": [
+        "Dated decline metrics",
+        "Post-deadline status"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INTER-STATE TRIJUNCTION PROBLEM",
+          "role": "institution"
+        },
+        {
+          "text": "SINGH IDENTIFIES THE",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATION GREYHOUND AS AN INSTITUTIONAL DESIGN PRECEDENT",
+          "role": "evidence"
+        },
+        {
+          "text": "FOREST RIGHTS ACT, 2006 IMPLEMENTATION",
+          "role": "institution"
+        },
+        {
+          "text": "NAMED EXPLICITLY AS PART",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS DELIVERY AS A SECURITY INSTRUMENT, NOT A PARALLEL",
+          "role": "caution"
+        },
+        {
+          "text": "CURRENT-ANCHOR INSTITUTIONAL DETAIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "Inter-State trijunction problem: Singh identifies the",
+            "CAUTION: Operation Greyhound as an institutional design precedent: a",
+            "Forest Rights Act, 2006 implementation: named explicitly as part",
+            "CAUTION: Rights delivery as a security instrument, not a parallel track:"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "Current-anchor institutional detail: verify current SRE/SIS/IAP",
+            "CAUTION: Surrender-and-rehabilitation policy variance across States:",
+            "CAUTION: Civic Action Programme's \"individual-oriented\" pivot: Singh notes",
+            "CAUTION: Boundary case — declining violence vs. declining root causes: a"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: \"Security before development\" risks alienating populations if",
+            "CAUTION: Inter-State coordination remains a standing constraint even after",
+            "CAUTION: Forest Rights Act implementation gaps can undercut security gains",
+            "NOT: A declared 2026 elimination target is not, by itself, evidence of"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

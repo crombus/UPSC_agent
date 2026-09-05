@@ -1,0 +1,1228 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-49",
+  "subject": "Polity",
+  "title": "REGULATORY STATE AND QUASI JUDICIAL INSTITUTIONS",
+  "short_route": "WHY REGULATION -> THREE AXES -> FAIR DECISION -> SECTOR LAW/APPEAL -> INDEPENDENCE/CAPTURE -> PYQ EXECUTION -> SYNTHESIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "fd6b6e0655bbba803eaaa0ee08f317ed7be031fda56fd4edf4d8ddbb2a8868ab",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHY THE REGULATORY STATE EMERGED",
+      "structural_type": "regulatory-rationale-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WHY THE REGULATORY STATE EMERGED",
+          "role": "institution"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN THE STATE GOVERN COMPLEX MARKETS AND RIGHTS",
+          "role": "institution"
+        },
+        {
+          "text": "LIBERALISATION/SPECIALISATION LESS DIRECT PRODUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "MORE RULE-SETTING, NETWORK ACCESS, PRUDENTIAL OVERSIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "CONSUMER/COMPETITION PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIALISED ENFORCEMENT AND ADJUDICATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET FAILURES ----- MONOPOLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can the State govern complex markets and rights without daily ministerial case control?",
+        "LIBERALISATION/SPECIALISATION less direct production → more rule-setting, network access, prudential oversight",
+        "consumer/competition protection → specialised enforcement and adjudication.",
+        "MARKET FAILURES ----- monopoly"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can the State govern complex markets and rights without daily ministerial case control?",
+            "LIBERALISATION/SPECIALISATION less direct production → more rule-setting, network access, prudential oversight"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "consumer/competition protection → specialised enforcement and adjudication.",
+            "MARKET FAILURES ----- monopoly",
+            "information asymmetry"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "systemic risk",
+            "GOVERNANCE NEEDS ---- expertise",
+            "credible commitment"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "rapid updating",
+            "CONSTITUTIONAL NEED - mandate",
+            "Regulation is a change in State technique, not disappearance of the State."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The regulatory state expanded to manage technical and rapidly changing sectors, but expertise and continuity can create insulation, capture and democratic deficit.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SOURCE, FUNCTION AND DECISIONAL CHARACTER",
+      "structural_type": "three-axis-taxonomy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SOURCE, FUNCTION AND DECISIONAL CHARACTER",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGAL SOURCE PRIMARY FUNCTION CHARACTER OF ACT CONSTITUTIONAL REGULATORY",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY REGULATORS WITH DIFFERENT MANDATES.",
+          "role": "comparison"
+        },
+        {
+          "text": "MASTER TRAP ONE BODY MAY OCCUPY SEVERAL BOXES; IT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BODY / AUTHORITY",
+        "LEGAL SOURCE PRIMARY FUNCTION CHARACTER OF ACT constitutional regulatory quasi-legislative rule statutory advisory administrative inquiry",
+        "RBI/SEBI/TRAI/CERC/IRDAI/CCI → statutory regulators with different mandates.",
+        "MASTER TRAP one body may occupy several boxes; it is not quasi-judicial in every function."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "BODY / AUTHORITY",
+            "LEGAL SOURCE PRIMARY FUNCTION CHARACTER OF ACT constitutional regulatory quasi-legislative rule statutory advisory administrative inquiry executive investigative quasi-judicial"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RBI/SEBI/TRAI/CERC/IRDAI/CCI → statutory regulators with different mandates.",
+            "MASTER TRAP one body may occupy several boxes; it is not quasi-judicial in every function."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BODY / AUTHORITY",
+            "LEGAL SOURCE PRIMARY FUNCTION CHARACTER OF ACT constitutional regulatory quasi-legislative rule statutory advisory administrative inquiry executive investigative quasi-judicial"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "RBI/SEBI/TRAI/CERC/IRDAI/CCI → statutory regulators with different mandates.",
+            "MASTER TRAP one body may occupy several boxes; it is not quasi-judicial in every function."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Bar Council regulates a profession under statute, whereas the Law Commission recommends reform without itself changing law.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "REGULATORY CYCLE AND SEPARATION PROBLEM",
+      "structural_type": "regulatory-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REGULATORY CYCLE AND SEPARATION PROBLEM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PARENT ACT REGULATION/STANDARD",
+          "role": "institution"
+        },
+        {
+          "text": "INVESTIGATION SHOW-CAUSE NOTICE",
+          "role": "mechanism"
+        },
+        {
+          "text": "REASONED ORDER/PENALTY",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUTORY APPEAL",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH COURT/SUPREME COURT CONSTITUTIONAL REVIEW.",
+          "role": "institution"
+        },
+        {
+          "text": "CONCENTRATION RISK MAKE RULE + INVESTIGATE + PROSECUTE +",
+          "role": "caution"
+        },
+        {
+          "text": "CONFIRMATION BIAS/SELF-VINDICATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARENT ACT regulation/standard → licence/tariff → data/monitoring → investigation show-cause notice → hearing → reasoned",
+        "High Court/Supreme Court constitutional review.",
+        "CONCENTRATION RISK make rule + investigate + prosecute + decide → confirmation bias/self-vindication.",
+        "SAFEGUARDS separate wings",
+        "unbiased member"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PARENT ACT regulation/standard → licence/tariff → data/monitoring → investigation show-cause notice → hearing → reasoned order/penalty → statutory",
+            "High Court/Supreme Court constitutional review."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONCENTRATION RISK make rule + investigate + prosecute + decide → confirmation bias/self-vindication.",
+            "SAFEGUARDS separate wings"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "unbiased member",
+            "external appeal."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER STRIP",
+            "Efficiency can justify combined functions; fairness requires functional separation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The regulatory cycle moves from standards and licences through monitoring, hearing and reasoned orders to appeal, making procedural fairness integral to enforcement.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NATURAL JUSTICE AND DELEGATED-POWER CASES",
+      "structural_type": "case-doctrine-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NATURAL JUSTICE AND DELEGATED-POWER CASES",
+          "role": "mechanism"
+        },
+        {
+          "text": "IN RE DELHI LAWS ACT (1951)",
+          "role": "institution"
+        },
+        {
+          "text": "ESSENTIAL LEGISLATIVE FUNCTION CANNOT BE ABDICATED.",
+          "role": "comparison"
+        },
+        {
+          "text": "A.K. KRAIPAK V. UNION OF INDIA (1969)",
+          "role": "evidence"
+        },
+        {
+          "text": "BIAS RULE; ADMINISTRATIVE/QUASI-JUDICIAL LINE IS THIN.",
+          "role": "primary"
+        },
+        {
+          "text": "MANEKA GANDHI (1978)",
+          "role": "outcome"
+        },
+        {
+          "text": "FAIR, JUST AND REASONABLE PROCEDURE.",
+          "role": "comparison"
+        },
+        {
+          "text": "S.N. MUKHERJEE V. UNION OF INDIA (1990)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "In re Delhi Laws Act (1951)",
+        "essential legislative function cannot be abdicated.",
+        "A.K. Kraipak v. Union of India (1969)",
+        "bias rule; administrative/quasi-judicial line is thin.",
+        "Maneka Gandhi (1978) → fair, just and reasonable procedure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "In re Delhi Laws Act (1951)",
+            "essential legislative function cannot be abdicated."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "A.K. Kraipak v. Union of India (1969)",
+            "bias rule; administrative/quasi-judicial line is thin."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Maneka Gandhi (1978) → fair, just and reasonable procedure.",
+            "S.N. Mukherjee v. Union of India (1990) → reasoned decision supports review."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NATURAL-JUSTICE CORE notice + hearing + no bias + relevant evidence + speaking order.",
+            "LIMIT procedure is context-sensitive; statutory silence is not permission for arbitrariness."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Natural justice restrains bias and unheard adverse decisions, but its flexible content varies with context rather than reproducing full court procedure everywhere.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "REGULATOR, TRIBUNAL, COMMISSION AND COURT",
+      "structural_type": "institution-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGULATOR, TRIBUNAL, COMMISSION AND COURT",
+          "role": "institution"
+        },
+        {
+          "text": "COURT GENERAL CONSTITUTIONAL/STATUTORY ADJUDICATION + FORMAL JUDICIAL AUTHORITY.",
+          "role": "institution"
+        },
+        {
+          "text": "TRIBUNAL SPECIALISED STATUTORY ADJUDICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MERITS APPEAL/REVIEW CHAIN.",
+          "role": "evidence"
+        },
+        {
+          "text": "REGULATOR SECTOR RULE/LICENCE/SUPERVISION/ENFORCEMENT + CASE-SPECIFIC ADJUDICATION WHEN EMPOWERED.",
+          "role": "primary"
+        },
+        {
+          "text": "COMMISSION NAME ALONE PROVES NOTHING",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY ADVISE, INVESTIGATE, REGULATE OR ADJUDICATE.",
+          "role": "comparison"
+        },
+        {
+          "text": "L. CHANDRA KUMAR (1997) TRIBUNALISATION CANNOT REMOVE HIGH COURT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "COURT general constitutional/statutory adjudication + formal judicial authority.",
+        "TRIBUNAL specialised statutory adjudication → merits appeal/review chain.",
+        "REGULATOR sector rule/licence/supervision/enforcement + case-specific adjudication when empowered.",
+        "COMMISSION name alone proves nothing: may advise, investigate, regulate or adjudicate.",
+        "L. Chandra Kumar (1997) tribunalisation cannot remove High Court judicial review."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "COURT general constitutional/statutory adjudication + formal judicial authority.",
+          "REGULATOR sector rule/licence/supervision/enforcement + case-specific adjudication when empowered.",
+          "L. Chandra Kumar (1997) tribunalisation cannot remove High Court judicial review.",
+          "civil-court powers != court"
+        ],
+        [
+          "TRIBUNAL specialised statutory adjudication → merits appeal/review chain.",
+          "COMMISSION name alone proves nothing: may advise, investigate, regulate or adjudicate.",
+          "TRAP specialised != tribunal",
+          "recommendation != binding order."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COURT general constitutional/statutory adjudication + formal judicial authority.",
+            "TRIBUNAL specialised statutory adjudication → merits appeal/review chain."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REGULATOR sector rule/licence/supervision/enforcement + case-specific adjudication when empowered.",
+            "COMMISSION name alone proves nothing: may advise, investigate, regulate or adjudicate."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "L. Chandra Kumar (1997) tribunalisation cannot remove High Court judicial review.",
+            "TRAP specialised != tribunal"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "civil-court powers != court",
+            "recommendation != binding order."
+          ]
+        }
+      ],
+      "mechanism_strip": "REGULATOR sector rule/licence/supervision/enforcement + case-specific adjudication when empowered.",
+      "answer_line": "Courts exercise general judicial power, tribunals specialise in adjudication, and regulators combine policy with enforcement, while each remains subject to constitutional review.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REGULATOR POWER, APPEALABILITY AND JUDICIAL CONTROL",
+      "structural_type": "regulator-case-control",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REGULATOR POWER, APPEALABILITY AND JUDICIAL CONTROL",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPETITION COMMISSION OF INDIA V. SAIL (2010)",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY STAGE AND CHARACTER DETERMINE HEARING/APPEALABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT EVERY CCI STEP IS A FINAL QUASI-JUDICIAL ORDER.",
+          "role": "caution"
+        },
+        {
+          "text": "CELLULAR OPERATORS ASSOCIATION OF INDIA V. TRAI (2016)",
+          "role": "primary"
+        },
+        {
+          "text": "REGULATION MUST REMAIN WITHIN STATUTE AND SATISFY NON-ARBITRARINESS.",
+          "role": "outcome"
+        },
+        {
+          "text": "APPEAL CHAIN EXAMPLES",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPREME COURT QUESTION OF LAW.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "Competition Commission of India v. SAIL (2010)",
+        "statutory stage and character determine hearing/appealability",
+        "not every CCI step is a final quasi-judicial order.",
+        "Cellular Operators Association of India v. TRAI (2016)",
+        "regulation must remain within statute and satisfy non-arbitrariness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Competition Commission of India v. SAIL (2010)",
+            "statutory stage and character determine hearing/appealability",
+            "not every CCI step is a final quasi-judicial order."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Cellular Operators Association of India v. TRAI (2016)",
+            "regulation must remain within statute and satisfy non-arbitrariness.",
+            "APPEAL CHAIN EXAMPLES"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEBI → SAT → Supreme Court question of law.",
+            "CCI → NCLAT → Supreme Court.",
+            "TRAI dispute/appeal field → TDSAT → Supreme Court."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CERC/SERC → APTEL → Supreme Court.",
+            "LIMIT statutory merits appeal differs from Article 226/227 legality review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAT exercises adjudicatory authority but does not become a constitutional court equal to a High Court.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDEPENDENCE, ACCOUNTABILITY AND CAPTURE",
+      "structural_type": "independence-capture-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDEPENDENCE, ACCOUNTABILITY AND CAPTURE",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENCE AXES APPOINTMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DECISIONAL NON-INTERFERENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPTURE BRANCHES INDUSTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "INFORMATION/REVOLVING DOOR/COGNITIVE DEPENDENCE.",
+          "role": "primary"
+        },
+        {
+          "text": "SHORT-TERM DIRECTION OR INSECURE TENURE.",
+          "role": "outcome"
+        },
+        {
+          "text": "PARENT MINISTRY TREATS REGULATOR AS SUBORDINATE OFFICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCOUNTABILITY PARENT ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "INDEPENDENCE AXES appointment",
+        "decisional non-interference.",
+        "CAPTURE BRANCHES industry → information/revolving door/cognitive dependence.",
+        "political → short-term direction or insecure tenure.",
+        "bureaucratic → parent ministry treats regulator as subordinate office."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "INDEPENDENCE AXES appointment",
+          "political → short-term direction or insecure tenure.",
+          "CAG where applicable",
+          "judicial review."
+        ],
+        [
+          "decisional non-interference.",
+          "bureaucratic → parent ministry treats regulator as subordinate office.",
+          "RTI consultation",
+          "ANSWER STRIP"
+        ],
+        [
+          "CAPTURE BRANCHES industry → information/revolving door/cognitive dependence.",
+          "ACCOUNTABILITY parent Act",
+          "published reasons",
+          "Independence means insulation from case-specific control, not freedom from public reasons."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INDEPENDENCE AXES appointment",
+            "decisional non-interference.",
+            "CAPTURE BRANCHES industry → information/revolving door/cognitive dependence."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "political → short-term direction or insecure tenure.",
+            "bureaucratic → parent ministry treats regulator as subordinate office.",
+            "ACCOUNTABILITY parent Act"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAG where applicable",
+            "RTI consultation",
+            "published reasons"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "judicial review.",
+            "ANSWER STRIP",
+            "Independence means insulation from case-specific control, not freedom from public reasons."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Civil-court powers during inquiry do not convert a commission into a civil court or make every recommendation binding.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ENABLING LAWS AND APPELLATE ROUTES",
+      "structural_type": "sector-law-appeal-matrix",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SOURCE -> REGULATOR -> APPEAL",
+          "role": "institution"
+        },
+        {
+          "text": "RBI ACT 1934 / BANKING REGULATION ACT 1949 -> RBI -> REMEDY DEPENDS ON POWER",
+          "role": "primary"
+        },
+        {
+          "text": "SEBI ACT 1992 -> SEBI -> SAT -> SUPREME COURT",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAI ACT 1997 -> TRAI -> TDSAT -> SUPREME COURT",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETITION ACT 2002 -> CCI -> NCLAT -> SUPREME COURT",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTRICITY ACT 2003 -> CERC/SERC -> APTEL -> SUPREME COURT",
+          "role": "institution"
+        },
+        {
+          "text": "PNGRB ACT 2006 -> DOWNSTREAM/MIDSTREAM FIELD; CRUDE OIL/GAS PRODUCTION EXCLUDE",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER STRIP",
+          "role": "evidence"
+        },
+        {
+          "text": "NEVER INFER POWER OR APPEAL FROM AN INSTITUTIONAL LABEL; TRACE THE PARENT ACT.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SOURCE -> REGULATOR -> APPEAL",
+        "RBI Act 1934 / Banking Regulation Act 1949 -> RBI -> remedy depends on power",
+        "SEBI Act 1992 -> SEBI -> SAT -> Supreme Court",
+        "TRAI Act 1997 -> TRAI -> TDSAT -> Supreme Court",
+        "Competition Act 2002 -> CCI -> NCLAT -> Supreme Court",
+        "Electricity Act 2003 -> CERC/SERC -> APTEL -> Supreme Court"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "LEGAL SOURCE / FIELD",
+          "role": "institution",
+          "items": [
+            "SOURCE -> REGULATOR -> APPEAL",
+            "RBI Act 1934 / Banking Regulation Act 1949 -> RBI -> remedy depends on power",
+            "SEBI Act 1992 -> SEBI -> SAT -> Supreme Court"
+          ]
+        },
+        {
+          "heading": "PROCEDURE / CONTROL",
+          "role": "mechanism",
+          "items": [
+            "TRAI Act 1997 -> TRAI -> TDSAT -> Supreme Court",
+            "Competition Act 2002 -> CCI -> NCLAT -> Supreme Court",
+            "Electricity Act 2003 -> CERC/SERC -> APTEL -> Supreme Court"
+          ]
+        },
+        {
+          "heading": "EXAM LIMIT / USE",
+          "role": "caution",
+          "items": [
+            "PNGRB Act 2006 -> downstream/midstream field; crude oil/gas production excluded",
+            "ANSWER STRIP",
+            "Never infer power or appeal from an institutional label; trace the parent Act."
+          ]
+        }
+      ],
+      "mechanism_strip": "Read source, power, procedure and remedy as one bounded chain.",
+      "answer_line": "Never infer power or appeal from an institutional label; trace the parent Act.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md#SESSION 64"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "QUASI-JUDICIAL DECISION PROTOCOL",
+      "structural_type": "fair-decision-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "STATUTORY POWER -> COMPETENT STAGE -> NOTICE + DISCLOSURE",
+          "role": "institution"
+        },
+        {
+          "text": "> OPPORTUNITY TO ANSWER -> NO BIAS / RECUSAL -> RELEVANT EVIDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "> REASONED PROPORTIONATE ORDER -> STATUTORY APPEAL",
+          "role": "evidence"
+        },
+        {
+          "text": "> CONSTITUTIONAL REVIEW ON ITS PROPER FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE",
+          "role": "comparison"
+        },
+        {
+          "text": "A.K. KRAIPAK V. UNION OF INDIA (1969): THIN ADMINISTRATIVE/QUASI-JUDICIAL LINE",
+          "role": "institution"
+        },
+        {
+          "text": "S.N. MUKHERJEE V. UNION OF INDIA (1990): REASONS SUPPORT REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "L. CHANDRA KUMAR (1997): CONSTITUTIONAL REVIEW FLOOR",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPETITION COMMISSION OF INDIA V. SAIL (2010): STATUTORY STAGE CONTROLS APPEA",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "STATUTORY POWER -> COMPETENT STAGE -> NOTICE + DISCLOSURE",
+        "> OPPORTUNITY TO ANSWER -> NO BIAS / RECUSAL -> RELEVANT EVIDENCE",
+        "> REASONED PROPORTIONATE ORDER -> STATUTORY APPEAL",
+        "> CONSTITUTIONAL REVIEW ON ITS PROPER FIELD",
+        "DOCTRINE",
+        "A.K. Kraipak v. Union of India (1969): thin administrative/quasi-judicial line"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "LEGAL SOURCE / FIELD",
+          "role": "institution",
+          "items": [
+            "STATUTORY POWER -> COMPETENT STAGE -> NOTICE + DISCLOSURE",
+            "> OPPORTUNITY TO ANSWER -> NO BIAS / RECUSAL -> RELEVANT EVIDENCE",
+            "> REASONED PROPORTIONATE ORDER -> STATUTORY APPEAL"
+          ]
+        },
+        {
+          "heading": "PROCEDURE / CONTROL",
+          "role": "mechanism",
+          "items": [
+            "> CONSTITUTIONAL REVIEW ON ITS PROPER FIELD",
+            "DOCTRINE",
+            "A.K. Kraipak v. Union of India (1969): thin administrative/quasi-judicial line"
+          ]
+        },
+        {
+          "heading": "EXAM LIMIT / USE",
+          "role": "caution",
+          "items": [
+            "S.N. Mukherjee v. Union of India (1990): reasons support review",
+            "L. Chandra Kumar (1997): constitutional review floor",
+            "Competition Commission of India v. SAIL (2010): statutory stage controls appealability"
+          ]
+        }
+      ],
+      "mechanism_strip": "Read source, power, procedure and remedy as one bounded chain.",
+      "answer_line": "Natural justice is context-sensitive, but expertise is not a licence for arbitrariness.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md#SESSION 65"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PYQ EXECUTION AND REFORM DIAGNOSIS",
+      "structural_type": "answer-execution-framework",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRELIMS",
+          "role": "institution"
+        },
+        {
+          "text": "SOURCE -> FUNCTION -> JURISDICTION EXCLUSION -> APPELLATE ROUTE -> CURRENT-STA",
+          "role": "primary"
+        },
+        {
+          "text": "MAINS",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTIFY DEMAND -> QUALIFIED THESIS -> STATUTE/CASE -> MECHANISM",
+          "role": "outcome"
+        },
+        {
+          "text": "> LIMITATION/CAPTURE -> ANSWER-SPECIFIC REFORM -> BALANCED VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM MATCH",
+          "role": "institution"
+        },
+        {
+          "text": "MANDATE GAP -> CLARIFY LAW | CAPACITY GAP -> STAFF/DATA",
+          "role": "primary"
+        },
+        {
+          "text": "BIAS RISK -> FUNCTIONAL SEPARATION | CAPTURE -> CONFLICTS/CONSULTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FRAGMENTATION -> REFERRAL PROTOCOL | WEAK REMEDY -> COHERENT APPEAL",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PRELIMS",
+        "source -> function -> jurisdiction exclusion -> appellate route -> current-status firewall",
+        "MAINS",
+        "identify demand -> qualified thesis -> statute/case -> mechanism",
+        "> limitation/capture -> answer-specific reform -> balanced verdict",
+        "REFORM MATCH"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "LEGAL SOURCE / FIELD",
+          "role": "institution",
+          "items": [
+            "PRELIMS",
+            "source -> function -> jurisdiction exclusion -> appellate route -> current-status firewall",
+            "MAINS"
+          ]
+        },
+        {
+          "heading": "PROCEDURE / CONTROL",
+          "role": "mechanism",
+          "items": [
+            "identify demand -> qualified thesis -> statute/case -> mechanism",
+            "> limitation/capture -> answer-specific reform -> balanced verdict",
+            "REFORM MATCH"
+          ]
+        },
+        {
+          "heading": "EXAM LIMIT / USE",
+          "role": "caution",
+          "items": [
+            "mandate gap -> clarify law | capacity gap -> staff/data",
+            "bias risk -> functional separation | capture -> conflicts/consultation",
+            "fragmentation -> referral protocol | weak remedy -> coherent appeal"
+          ]
+        }
+      ],
+      "mechanism_strip": "Read source, power, procedure and remedy as one bounded chain.",
+      "answer_line": "A reform earns marks when it repairs the diagnosed institutional failure.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DIGITAL AND PLATFORM REGULATION WITH LEGAL-STATUS FIREWALL",
+      "structural_type": "digital-regulation-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DIGITAL AND PLATFORM REGULATION WITH LEGAL-STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL HARMS NETWORK EFFECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "DATA CONCENTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DARK PATTERNS ALGORITHMIC OPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSUMER/CHILD/CYBER RISK.",
+          "role": "caution"
+        },
+        {
+          "text": "TOOL CHOICE COMPETITION LAW --+-- DATA-PROTECTION DUTY CONSUMER LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM TEST CLEAR HARM",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY POWER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "DIGITAL HARMS network effects",
+        "data concentration",
+        "dark patterns algorithmic opacity",
+        "consumer/child/cyber risk.",
+        "TOOL CHOICE competition law --+-- data-protection duty consumer law -----+-- sector regulation cyber law --------+"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIGITAL HARMS network effects",
+            "data concentration"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "dark patterns algorithmic opacity",
+            "consumer/child/cyber risk."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TOOL CHOICE competition law --+-- data-protection duty consumer law -----+-- sector regulation cyber law --------+-- interoperability/access obligation.",
+            "REFORM TEST clear harm → statutory power → impact assessment → consultation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "conflict control → proportionate rule → appeal → ex-post review.",
+            "CURRENT FIREWALL dated Act/rule/order != draft Bill/committee paper/proposal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Digital, data and platform proposals or subordinate frameworks are used only with their dated legal status; no draft is represented as enacted law.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: CALIBRATED INDEPENDENCE UNDER LAW",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CALIBRATED INDEPENDENCE UNDER LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL STATUTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "CCI APPEAL=NCLAT REGULATOR INDEPENDENT",
+          "role": "evidence"
+        },
+        {
+          "text": "BEYOND PARLIAMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MAINS SPINE RATIONALE",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE AXES",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATORY CYCLE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL statutory != regulatory != quasi-judicial",
+        "dominance != abuse",
+        "NGT != CPCB",
+        "TRAI != TDSAT",
+        "CCI appeal=NCLAT regulator independent != beyond Parliament"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL statutory != regulatory != quasi-judicial",
+            "dominance != abuse",
+            "NGT != CPCB",
+            "TRAI != TDSAT"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CCI appeal=NCLAT regulator independent != beyond Parliament",
+            "proposal != law.",
+            "MAINS SPINE rationale → three axes → regulatory cycle → natural justice",
+            "institutional comparison → appeal/review → independence/capture"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "digital boundary → reform.",
+            "PYQ SPINE",
+            "FSSAI source",
+            "CCI dominance"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PNGRB jurisdiction.",
+            "VERDICT expert regulation is legitimate only when mandate, fairness, reasons and review converge."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "No single appointment formula suits every body, but independence is weak where the regulated ministry controls appointment, tenure, budget, staff and case-specific direction simultaneously.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 4",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g4\\polity-49_Complete-Learning-Session_2026-08-28.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SECTORS ARE TECHNICALLY COMPLEX",
+          "role": "outcome"
+        },
+        {
+          "text": "STANDARDS NEED FREQUENT UPDATING",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIVIDUAL LICENSING/ENFORCEMENT DECISIONS ARE NUMEROUS",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL COMMITMENT MUST SURVIVE SHORT CYCLES; AND",
+          "role": "primary"
+        },
+        {
+          "text": "EXPERTISE MUST BE CONCENTRATED.",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPARENT CONSULTATION AND RESPONSE-TO-COMMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONFLICT AND ASSET DISCLOSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "sectors are technically complex;",
+            "standards need frequent updating;",
+            "individual licensing/enforcement decisions are numerous;",
+            "political commitment must survive short cycles; and"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "expertise must be concentrated.",
+            "transparent consultation and response-to-comments;",
+            "conflict and asset disclosure;",
+            "published dissents/reasons where law permits;"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "appeal and parliamentary scrutiny; and",
+            "continuity through staggered terms; and",
+            "chair domination despite formal collegiality.",
+            "separate investigation and adjudication wings;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 0
+  }
+}

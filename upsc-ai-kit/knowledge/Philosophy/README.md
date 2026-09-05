@@ -168,9 +168,20 @@ thinker, the Philosophy owner's argument reconstruction controls the Optional an
 - ❓ = contested interpretation, textual uncertainty or unresolved source conflict.
 - ❌ = trap, false equivalence or proposition to reject.
 
-`❓` is an evidence-status marker, **not a missing Sanskrit glyph**. Indian terms use standard
-IAST in prose. Their Devanāgarī forms and exact exam meanings are collected in
-[`Sanskrit-and-Pali-Terms.md`](_revision/Sanskrit-and-Pali-Terms.md).
+`❓` is an evidence-status marker, **not a missing Sanskrit glyph**. In learner-facing
+Philosophy material, use the English concept first and place the standard Sanskrit/Pali IAST form
+immediately afterward in parentheses, for example `dependent origination
+(pratītyasamutpāda)`. Their Devanāgarī forms and exact exam meanings are collected in
+[`Sanskrit-and-Pali-Terms.md`](_revision/Sanskrit-and-Pali-Terms.md). Verbatim quotations and
+explicit linguistic analysis may retain the original order, but must provide an immediate English
+gloss.
+
+The printed syllabus is the minimum coverage spine. Owner files and generated notes must also
+teach indispensable doctrines required to understand the named terms and answer the verified
+PYQs. In Buddhism, this includes substantial treatment of both the practical Middle Path
+(madhyamā pratipad; Pali: majjhimā paṭipadā) through the Noble Eightfold Path
+(āryāṣṭāṅgamārga), and the doctrinal middle between eternalism (śāśvatavāda) and annihilationism
+(ucchedavāda).
 
 Retrieval from a book does not by itself authenticate every transcription or interpretation.
 Sources identify the works used; the argument in the note must remain independently checkable.

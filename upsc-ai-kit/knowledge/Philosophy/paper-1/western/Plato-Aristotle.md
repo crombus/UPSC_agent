@@ -14,21 +14,51 @@ PLATO                                       ARISTOTLE (pupil → critic)
 Forms/Ideas: TRANSCENDENT, SEPARATE         Forms: IMMANENT, IN the particular
 Real = the universal Idea (eidos)           Real = the primary substance (tode ti)
 Two-world ontology (intelligible/sensible)  One-world ontology (form IN matter)
-Knowledge = recollection (anamnesis)        Knowledge = abstraction from sense
-Causation: Forms as paradigmatic causes     Four Causes (material/formal/efficient/final)
-Change = degradation (flux of copies)       Change = potentiality → actuality
-God = the Form of the Good                  God = Unmoved Mover (pure actuality)
+Knowledge = dialectical grasp of Forms      Knowledge begins from sense and reaches universals
+Causation: Forms + Good; Timaeus adds        Four explanatory causes (material/formal/efficient/final)
+             Demiurge/Receptacle
+Change = sensible becoming; Forms stable    Change = potentiality → actuality
+Highest principle = Form of the Good;       God = Unmoved Mover (pure actuality)
+Timaeus Demiurge is not simply identical
 ```
 
 > 🔑 **Mnemonic — "Plato Points UP ☝️, Aristotle Points HERE 👇."** Plato's reality is *above* the world of sense; Aristotle's is *in* it. Keep this spatial image and no comparison question will wrong-foot you.
 
 ---
 
+## 0A. TEXTUAL MAP AND OWNERSHIP BOUNDARY
+
+### 0A.1 Plato: dialogue context rather than one flat doctrine
+
+| Dialogue family | Marks-essential ownership | Caution |
+|---|---|---|
+| *Meno* and *Phaedo* | recollection, equality, soul and motivations for Forms | recollection is one route to knowledge, not Plato's complete epistemology |
+| *Republic* V–VII | knowledge/opinion, Forms, Good, Sun, Line, Cave and dialectic | political education follows from, but is not identical with, the printed metaphysics |
+| *Parmenides* | participation dilemma, self-predication pressure and regress | Plato states powerful objections to his own theory |
+| *Sophist* | being/non-being and relations among highest kinds | evidence of later refinement, not simple abandonment of Forms |
+| *Timaeus* | Demiurge, Forms as paradigms, becoming and Receptacle | mythical-likely cosmology must not be collapsed into the *Republic*'s Good |
+
+- ⚠️ Dialogue chronology and developmental interpretation remain disputed. Attribute an argument to its dialogue instead of writing that every Platonic dialogue teaches one unchanged “two-world theory.”
+
+### 0A.2 Aristotle: context-sensitive ownership
+
+| Work | Marks-essential ownership |
+|---|---|
+| *Categories* | primary/secondary substance and predication |
+| *Metaphysics* I | critique of separated Forms |
+| *Metaphysics* VII–VIII (Z–H) | substance, essence, matter/form and compound |
+| *Metaphysics* IX (Θ) | potentiality and actuality |
+| *Metaphysics* XII (Λ) | Unmoved Mover and pure actuality |
+| *Physics* I–III | form/matter/privation, causes, change and motion |
+
+- ✅ Aristotle's “substance” answers different questions in the *Categories* and *Metaphysics*; neither usage should be silently flattened into the other.
+- ⚠️ Plato's soul/justice/state and Aristotle's soul/ethics/politics/logic are legitimate cross-links but not marks-essential owner content under this printed clause unless a comparison or future PYQ explicitly opens them.
+
 ## 1. PLATO — THEORY OF IDEAS/FORMS ✅
 
 ### 1.1 The Doctrine
 
-**The Forms** (*eidos*, *idea*) are eternal, immutable, non-material, self-identical universals existing in a **transcendent realm** (the *kosmos noētos*), entirely independent of the sensible world. ✅ The Form of Beauty is Beauty *itself* — not any beautiful thing, but that by virtue of which all beautiful things are beautiful.
+In the standard middle-dialogue reconstruction, **Forms** (*eidos*, *idea*) are eternal, immutable, non-material, self-identical universals ontologically separate from sensible particulars. ✅ “Intelligible realm” is a useful structural expression, not a claim that Forms occupy another physical location. The Form of Beauty is Beauty *itself* — not any beautiful thing, but that by virtue of which all beautiful things are beautiful.
 
 **The two-world ontology:**
 
@@ -42,6 +72,16 @@ God = the Form of the Good                  God = Unmoved Mover (pure actuality)
 **Relation of particular to Form — Participation (*methexis*) / Imitation (*mimēsis*):** A particular rose is beautiful because it *participates in* (or *imitates*) the Form of Beauty. The Form is the **paradigm**; the particular is the imperfect copy. ✅
 
 **The Form of the Good** is the supreme Form — "the sun of the intelligible realm" (*Republic* VI 508b–509c): it gives to the other Forms both their *being* and their *knowability*, just as the sun gives things both visibility and life. ✅
+
+### 1.1A Worked PYQ: “There is a red chair”
+
+1. ✅ This sensible object is one particular chair with derivative, changing reality.
+2. ✅ It is intelligible as a chair through participation (**methexis**) in the Form of Chair.
+3. ✅ It is red through participation in Redness; one particular can participate in several Forms without those Forms becoming physical parts.
+4. ✅ Sense supplies belief about this chair, while knowledge concerns the stable Forms by which “chair” and “red” are intelligible.
+5. ⚠️ The example exposes the main difficulty: saying that the chair “participates” in Chairness and Redness names the relation but does not yet explain its mechanism.
+
+- ❌ Do not treat the Form of Red as a red object in another place or as a mental concept shared by observers.
 
 ### 1.2 Arguments FOR the Forms ⚠️
 
@@ -119,6 +159,18 @@ The Cave is the Line **narrated as an education** (*paideia*) and a conversion (
 
 For Plato, **true substance (*ousia*) = the Form**. The truly real is the universal, not the individual. Particular objects *have* being only derivatively, by participation. This is the exact inversion of Aristotle's position. The examiner exploits this inversion frequently.
 
+### 1.7 Plato's causal resources — keep the dialogues distinct
+
+| Context | Explanatory role | Limitation |
+|---|---|---|
+| Forms in the *Phaedo* | a thing is beautiful because of Beauty and equal because of Equality | gives formal explanation but not a mechanism of motion |
+| Form of the Good in the *Republic* | grounds being and intelligibility and supplies an ultimate normative orientation | not simply a personal creator-God |
+| Demiurge in the *Timaeus* | orders becoming by looking to Forms as paradigms | crafts order; does not create Forms or Receptacle from nothing |
+| Receptacle (**chōra**) in the *Timaeus* | provides the difficult “third kind” in which sensible becoming appears | not straightforwardly identical with Aristotle's matter |
+
+- ✅ Plato therefore has more than “Forms as one cause,” but Aristotle can still object that separated Forms themselves do not explain motion, generation or the internal organization of a substance.
+- ❌ Do not equate the Form of the Good with the Demiurge without qualification. Their exact relation across dialogues is interpretively contested.
+
 ---
 
 ## 2. ARISTOTLE'S CRITIQUE OF PLATO'S SEPARATED FORMS ✅
@@ -150,8 +202,10 @@ Aristotle had been Plato's student for 20 years; his critique in *Metaphysics* I
 Here Aristotle deepens the analysis. What makes *this individual* the substance it is?
 
 - Substance = **form-matter compound** (*synolon*), but *form* (essence, the "what-it-is-to-be" = *to ti ēn einai*) has priority: it is what *makes* the thing what it is. ✅
-- **Form is not the universal species** (that would re-introduce Platonism); it is the *individual organising principle* — ❓ this interpretation (individual forms vs universal forms in Aristotle) is contested among scholars, but for UPSC purposes: form = essence = the principle of identity and intelligibility internal to the substance. ⚠️
-- **Prime matter** (*prōtē hylē*) is the limiting concept of utterly indeterminate matter — it has no properties of its own; all properties belong to form. Pure form without matter = God (the Unmoved Mover); prime matter without form is a theoretical posit that never exists independently. ✅
+- ✅ Aristotle denies that a universal **as predicated of many** is a substance and denies Plato's separated universal.
+- ❓ Whether a substantial form is numerically individual in each substance or is the species-level essence grasped by science remains a major scholarly dispute. The safe UPSC claim is narrower: form is the immanent essence and explanatory principle of the concrete composite.
+- ⚠️ **Prime matter** (*prōtē hylē*) is a limiting posit of matter considered without any determinate form and never exists independently. How fully Aristotle himself commits to one featureless prime matter is disputed; do not present it as an observed stuff.
+- ✅ The Unmoved Mover is pure form/actuality without matter, but it is not the substantial form of every sensible thing.
 
 ### 3.3 THE *CATEGORIES* / *METAPHYSICS* TENSION ⚠️→✅ — the nuance examiners reward
 
@@ -189,9 +243,17 @@ Here Aristotle deepens the analysis. What makes *this individual* the substance 
 | Quantity | "six feet tall" | depends on substance |
 | Quality | "pale" | depends on substance |
 | Relation | "taller than Simmias" | depends on substance |
-| … (10 categories total) | | |
+| Place | "in the Lyceum" | depends on substance |
+| Time | "yesterday" | depends on substance |
+| Position | "sitting" | depends on substance |
+| State / having | "armed" or "shod" | depends on substance |
+| Action | "cuts" | depends on substance |
+| Being affected | "is cut" | depends on substance |
 
 Substance *is*; accidents *belong to* substance. Change of accidents = alteration; change of substance = generation / destruction. ✅
+
+- ⚠️ The ten categories classify fundamental modes of predication/being in the *Categories*; they are not ten physical components inside a substance.
+- ✅ Only substance can function as the underlying subject in the primary way; the other nine are in or said of substances.
 
 ---
 
@@ -199,7 +261,7 @@ Substance *is*; accidents *belong to* substance. Change of accidents = alteratio
 
 ### 4.1 The Doctrine
 
-Every natural substance is a **composite (synolon)** of **matter (hylē)** and **form (morphē)**:
+Every sensible natural substance is analysed as a **compound (synolon)** of **matter (hylē)** and **form (morphē)**:
 
 | Component | Role | Example (bronze statue) | Example (wooden table) |
 |---|---|---|---|
@@ -207,6 +269,10 @@ Every natural substance is a **composite (synolon)** of **matter (hylē)** and *
 | **Form** | the structure/essence/actuality | the shape of Hermes | the functional design of a table |
 
 Matter is *relative*: bronze is matter relative to the statue, but bronze itself is a form imposed on copper and tin. Matter is "potential"; form is "actual." ✅
+
+- ⚠️ Artefacts are useful examples, but Aristotle's strongest hylomorphic cases are living natural substances whose form is an internal principle of activity and development.
+- ✅ The 2025 “everything in the empirical world” formulation should be evaluated as applying to sensible substances, not to accidents considered apart, mathematical abstractions or the immaterial Unmoved Mover.
+- ❌ Matter and form are not two independently existing objects mechanically joined together; they are correlative principles of one concrete substance.
 
 ### 4.2 Form as Immanent (vs Plato's Transcendent Form)
 
@@ -223,6 +289,8 @@ Matter is *relative*: bronze is matter relative to the statue, but bronze itself
 ### 4.3 Why Hylomorphism Matters for the Syllabus
 
 Hylomorphism solves problems that plagued pre-Socratic monism and Platonic dualism: how can *one* thing be both material and intelligible? Answer: it is matter *informed* by form. Change is possible because matter can *receive different forms* (the bronze can be re-cast). Identity persists because the *substantial form* persists through accidental change. ⚠️
+
+- ⚠️ In substantial change the prior substantial form does not persist as the identity of the new substance; an underlying material potential acquires a new substantial form. Reserve persistence of the same form for accidental change.
 
 ---
 
@@ -241,9 +309,10 @@ To *know* a thing (for Aristotle, *knowledge = knowledge of causes*) is to give 
 
 ### 5.2 Teleology (the Primacy of the Final Cause) ✅
 
-- The final cause is **primary** — it is what the other causes *aim at*. The sculptor sculpts (efficient) bronze (material) into a certain shape (formal) **for the sake of** honouring the god (final). ✅
+- In purposive and natural-developmental explanation, the final cause has special priority because it states what the process is *for*. The sculptor sculpts (efficient) bronze (material) into a certain shape (formal) **for the sake of** honouring the god (final). ✅
 - **"Nature does nothing in vain"** — natural processes are inherently teleological: the seed grows into a tree *for the sake of* the tree's complete actuality.
 - In natural substances the formal, efficient, and final causes often coincide: the form of "oak" is both the organising principle and the end toward which the acorn develops. ✅
+- ⚠️ This does not make material and efficient explanation dispensable in every case, or imply that nature consciously plans like an artisan.
 
 ### 5.3 Causation and Change: why the Four Causes answer the "developmental changes in substance" question (PYQ 2019 Q2b) ⚠️
 
@@ -255,9 +324,29 @@ A substance changes because:
 
 Change is therefore the *actualisation of matter's potentiality under the direction of the final cause*. This binds causation to the potentiality-actuality doctrine (§6).
 
+### 5.3A Form, matter and privation in change
+
+- ✅ Aristotle analyses coming-to-be through an underlying subject, an acquired form and the prior privation (**sterēsis**) of that form.
+- ✅ A not-yet-musical person becomes musical: the person persists, musical form is acquired and non-musical privation is removed.
+- ✅ Accidental change preserves the substance while quantity, quality, place or another accident changes.
+- ✅ Substantial generation and destruction concern the coming-to-be or passing-away of the substance itself through a new substantial form.
+- ⚠️ Matter/form/privation explain the structure of change; potentiality/actuality explain its modal transition; the four causes explain why this determinate process occurs.
+
 ### 5.4 Contrast with Plato's Causation ⚠️
 
-Plato's Forms serve as **paradigmatic causes** — a thing is beautiful *because* it imitates the Form of Beauty. But this gives only a *formal/paradigmatic* cause and no efficient or final cause of *change*. Aristotle's four-cause scheme is explicitly richer. The examiner who asks "Is Aristotle's view of the nature of identity in consonance with his metaphysical view of causes as processes?" (PYQ 2022 Q2b) is testing whether you can show that the four causes are *processual* — they describe becoming, not a static snapshot.
+Plato's Forms serve as **formal/paradigmatic causes** — a thing is beautiful *because* it participates in Beauty. The *Republic* gives the Good an ultimate explanatory and normative role, while the *Timaeus* adds a Demiurge ordering the Receptacle after Forms. Aristotle's criticism is therefore not that Plato names no other explanatory factor anywhere, but that **separated Forms themselves** do not internally explain motion, generation or the organization of this substance. Aristotle's four-cause scheme places the explanatory factors within one process.
+
+### 5.5 Identity and causes as processes — 2022 answer
+
+1. ✅ A substance's identity is supplied by its substantial form or essence: the form answers what the thing is.
+2. ✅ Its matter supplies determinate capacities for change rather than a second complete identity.
+3. ✅ Efficient causation initiates or transmits the change, while final causation identifies the completed actuality toward which development is ordered.
+4. ✅ During accidental change the same substantial form persists; during substantial generation a new form constitutes a new substance.
+5. ✅ Thus identity and process are consonant: form is both the principle by which the substance is intelligible and, in natural development, the actuality toward which its potential matter moves.
+
+- ⚠️ **Objection:** defining the process by its completed form reads the end back into the beginning and can understate contingency or failed development.
+- ✅ **Reply:** a potentiality is always a capacity of a determinate material under determinate conditions, not a guarantee that every process reaches completion.
+- ⚠️ **Verdict:** Aristotle integrates identity and becoming more successfully than a static essence theory, but the integration depends on accepting internal teleology.
 
 ---
 
@@ -311,12 +400,12 @@ Aristotle claims actuality is prior in three senses:
 |---|---|---|
 | **Location of Form** | transcendent (separate realm) | immanent (in the composite) |
 | **What is most real** | the universal Form | the individual substance (*tode ti*) |
-| **Knowledge** | recollection (anamnēsis); objects = Forms | abstraction from sense-experience; objects = formed substances |
-| **Change** | degradation (sensible world is inferior flux) | central explanatory task (potency → act) |
-| **Causation** | Forms as paradigmatic causes | four causes; teleology (final cause primary) |
-| **God** | the Form of the Good (impersonal) | the Unmoved Mover (pure actuality, final cause) |
+| **Knowledge** | rational/dialectical grasp of Forms; recollection is one supporting argument | knowledge begins from sensible particulars and reaches universal form/causes |
+| **Change** | sensible becoming contrasted with stable Forms; later cosmology adds ordered becoming | central explanatory task (potency → act) |
+| **Causation** | Forms as paradigms; Good as highest principle; *Timaeus* adds Demiurge/Receptacle | four causes; internal teleology in natural development |
+| **Highest principle / God** | Form of the Good in *Republic*; Demiurge in *Timaeus*—not simply identical | the Unmoved Mover (pure actuality, final cause) |
 | **The universal** | the *ousia* (truly real) | a secondary substance — less real than the individual |
-| **Matter** | the *Receptacle* (*Timaeus*) — barely real | one of the two principles of every substance |
+| **Matter** | difficult Receptacle or “third kind” in *Timaeus* | correlative potential principle within sensible substances |
 
 **Key for cross-paper link:** Plato's critique of democracy (*Republic* VIII) feeds directly into Paper II Forms-of-Government; Aristotle's natural-teleological politics feeds into Paper II's state/individual section. See [`../../paper-2/socio-political/Forms-of-Government.md`](../../paper-2/socio-political/Forms-of-Government.md).
 
@@ -328,7 +417,7 @@ Aristotle claims actuality is prior in three senses:
 | Criticism | Source | Plato's possible reply |
 |---|---|---|
 | Third Man regress | Aristotle; Plato himself (*Parmenides*) | Perhaps Forms are not self-predicating in the same way (the Form of Large is not *large* in the same sense a mountain is) ❓ |
-| Causal impotence of separated Forms | Aristotle *Met.* I.9 | The *Timaeus* introduces a Demiurge who *uses* Forms as blueprints — adds efficient causation |
+| Causal impotence of separated Forms | Aristotle *Met.* I.9 | The *Timaeus* introduces a Demiurge who orders becoming by Forms as paradigms—an efficient-like factor, not creation from nothing |
 | Duplication / Ockham-style parsimony | Aristotle | Forms are not a "second set" — they are *that which makes things intelligible* |
 
 ### Against Aristotle ✅
@@ -338,6 +427,24 @@ Aristotle claims actuality is prior in three senses:
 | Teleology is anthropomorphic / unscientific | Modern science (no final causes in physics) | Natural teleology is not conscious intention; it is the *regularity of outcomes* (the acorn reliably becomes an oak, not a cat) ❓ |
 | The Unmoved Mover moves only as final cause — can that explain physical motion? | Neoplatonists; Aquinas adjusts | The entire cosmos is a system of desire oriented toward the divine; sublunary efficient causes mediate |
 | "Substance" differs between *Categories* and *Metaphysics* — inconsistency? | Scholars (Owen, Frede) | Different works, different contexts; the *Metaphysics* deepens (not contradicts) the *Categories* ❓ |
+
+---
+
+## 8A. MARKS-ESSENTIAL OWNER CONTENT AND OPTIONAL ENRICHMENT
+
+### Core owner
+
+- ✅ Plato: Forms, their motivations, knowledge/opinion, participation, timelessness/spacelessness and Aristotle's critique.
+- ✅ Aristotle: context-sensitive substance, immanent form/matter, four causes, change, actuality/potentiality and their priority.
+- ✅ Comparative axis: separated paradigm versus immanent essence, and the consequences for knowledge, causation, identity and becoming.
+- ✅ All twelve routed PYQs.
+
+### Optional enrichment
+
+- ⚠️ Plato's tripartite soul, immortality proofs beyond recollection, justice, philosopher-ruler, education and critique of democracy belong to ethics/political philosophy unless used briefly to explain the Cave's return.
+- ⚠️ The Demiurge and Receptacle belong only to the bounded causal/cosmological qualification needed to avoid equating the Good with a creator.
+- ⚠️ Aristotle's soul-faculties, separate/intellect problem, virtue, voluntary action, flourishing, contemplation, political animal, constitutions, syllogistic and full logic are not printed owner limbs here.
+- ⚠️ The Unmoved Mover is retained because pure actuality completes the actuality/potentiality and causal system, not as a general philosophy-of-religion survey.
 
 ---
 

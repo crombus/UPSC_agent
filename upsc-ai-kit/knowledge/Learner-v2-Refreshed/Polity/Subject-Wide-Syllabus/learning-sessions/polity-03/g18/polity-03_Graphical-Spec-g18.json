@@ -1,0 +1,1206 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-03",
+  "subject": "Polity",
+  "title": "SALIENT FEATURES OF THE INDIAN CONSTITUTION",
+  "short_route": "COMPLETE 17-FEATURE CONTROL: FOUR → WRITTEN DETAIL, SUPREMACY AND → BORROWED, ADAPTED AND REJECTED → FEDERAL POWER-SHARING WITH INTEGRATIVE → PARLIAMENTARY RESPONSIBILITY, OVERLAP AND → JUDICIARY, RULE OF LAW",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g18 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_spec_sha256": "7931139c556c4d30f099c41d79de8fffb1825f7ea3ad99db9cff512218e95896",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMPLETE 17-FEATURE CONTROL: FOUR INTERACTING LAYERS",
+      "structural_type": "constitutional-feature-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMPLETE 17-FEATURE CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR INTERACTING LAYERS",
+          "role": "outcome"
+        },
+        {
+          "text": "FORM AND CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "01 LENGTHY WRITTEN TEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "02 VARIED SOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "03 RIGIDITY + FLEXIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER AND GOVERNMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "04 FEDERAL STRONG-CENTRE DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORM AND CHANGE",
+        "01 lengthy written text",
+        "02 varied sources",
+        "03 rigidity + flexibility",
+        "POWER AND GOVERNMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FORM AND CHANGE",
+            "01 lengthy written text",
+            "02 varied sources",
+            "03 rigidity + flexibility",
+            "POWER AND GOVERNMENT"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "05 parliamentary government",
+            "06 parliamentary power + judicial review",
+            "07 integrated independent judiciary",
+            "VALUES AND PARTICIPATION",
+            "08 Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "10 Fundamental Duties",
+            "11 secular State",
+            "12 universal adult franchise",
+            "13 single citizenship",
+            "INSTITUTIONS AND CONSTITUTIONAL MODES"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "15 Emergency provisions",
+            "16 constitutional local government",
+            "17 co-operative societies",
+            "CONTROL: a feature is a system-level interaction, not one isolated Article."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(OPENING DEFINITION): A salient constitutional feature matters through its relationship with other features, as federal distribution, parliamentary responsibility, rights and review jointly structure limited government.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 1 — WHAT COUNTS AS A SALIENT CONSTITUTIONAL FEATURE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 20 — CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WRITTEN DETAIL, SUPREMACY AND THREE AMENDMENT TRACKS",
+      "structural_type": "articles-procedure-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WRITTEN DETAIL, SUPREMACY AND THREE AMENDMENT TRACKS",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINAL CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "PREAMBLE + 395 ARTICLES + 22 PARTS + 8",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "AVOID ONE FIXED ARTICLE TOTAL; INSERTED/OMITTED TEXT CHANGES COUNTS",
+          "role": "institution"
+        },
+        {
+          "text": "CHANGE ROUTES SIMPLE-MAJORITY MATTERS OUTSIDE ARTICLE 368",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 368 SPECIAL MAJORITY IN EACH HOUSE; NO JOINT",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 368 POWER",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ORIGINAL CONTROL: Preamble + 395 Articles + 22 Parts + 8 Schedules",
+        "CURRENT CONTROL: avoid one fixed Article total; inserted/omitted text changes counts",
+        "CHANGE ROUTES simple-majority matters outside Article 368",
+        "Article 368 special majority in each House; no joint sitting special majority + ratification by",
+        "LIMIT: Article 368 power → constitutional change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORIGINAL CONTROL: Preamble + 395 Articles + 22 Parts + 8 Schedules",
+            "CURRENT CONTROL: avoid one fixed Article total; inserted/omitted text changes counts"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CHANGE ROUTES simple-majority matters outside Article 368",
+            "Article 368 special majority in each House; no joint sitting special majority + ratification by at least half State Legislatures"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT: Article 368 power → constitutional change",
+            "no destruction of basic structure"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: detail secures inclusion; calibrated amendment balances continuity and change.",
+            "ORIGINAL CONTROL: Preamble + 395 Articles + 22 Parts + 8 Schedules"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: detail secures inclusion; calibrated amendment balances continuity and change.",
+      "answer_line": "detail secures inclusion; calibrated amendment balances continuity and change.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 2 — WRITTEN, LENGTHY AND DETAILED CONSTITUTION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 4 — BLEND OF RIGIDITY AND FLEXIBILITY"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BORROWED, ADAPTED AND REJECTED: DESIGN RATHER THAN PHOTOCOPY",
+      "structural_type": "source-adaptation-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BORROWED, ADAPTED AND REJECTED",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN RATHER THAN PHOTOCOPY",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE ADAPTED INPUT REJECTED",
+          "role": "evidence"
+        },
+        {
+          "text": "1935 ACT FEDERAL/ADMIN/JUDICIAL SCHEME COLONIAL RULE + RESTRICTED FRANCHISE",
+          "role": "institution"
+        },
+        {
+          "text": "BRITAIN CABINET, RULE OF LAW, BICAMERALISM MONARCHY + UNLIMITED",
+          "role": "primary"
+        },
+        {
+          "text": "UNITED STATES RIGHTS, REVIEW, IMPEACHMENT, VP PRESIDENTIALISM + DUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "IRELAND DPSPS, RS NOMINATION, PRESIDENT FITTED TO INDIAN PARLIAMENTARY",
+          "role": "comparison"
+        },
+        {
+          "text": "CANADA STRONG CENTRE + RESIDUARY POWER NO COPY OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCE ADAPTED INPUT REJECTED / TRANSFORMED",
+        "1935 Act federal/admin/judicial scheme colonial rule + restricted franchise",
+        "Britain cabinet, rule of law, bicameralism monarchy + unlimited Parliament",
+        "United States rights, review, impeachment, VP presidentialism + dual citizenship",
+        "Ireland DPSPs, RS nomination, President fitted to Indian parliamentary system"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "SOURCE ADAPTED INPUT REJECTED / TRANSFORMED",
+          "United States rights, review, impeachment, VP presidentialism + dual citizenship",
+          "Australia Concurrent List + joint sitting inserted into different federal balance",
+          "Maneka Gandhi (1978): 'procedure established' requires fair, just, reasonable procedure."
+        ],
+        [
+          "1935 Act federal/admin/judicial scheme colonial rule + restricted franchise",
+          "Ireland DPSPs, RS nomination, President fitted to Indian parliamentary system",
+          "USSR/France duties/justice + republic/fraternity single-party/statist model rejected",
+          ""
+        ],
+        [
+          "Britain cabinet, rule of law, bicameralism monarchy + unlimited Parliament",
+          "Canada strong Centre + residuary power no copy of an indissoluble State model",
+          "S Africa/Japan amendment route + Art 21 wording both altered by Indian doctrine",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SOURCE ADAPTED INPUT REJECTED / TRANSFORMED",
+            "1935 Act federal/admin/judicial scheme colonial rule + restricted franchise",
+            "Britain cabinet, rule of law, bicameralism monarchy + unlimited Parliament"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "United States rights, review, impeachment, VP presidentialism + dual citizenship",
+            "Ireland DPSPs, RS nomination, President fitted to Indian parliamentary system",
+            "Canada strong Centre + residuary power no copy of an indissoluble State model"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Australia Concurrent List + joint sitting inserted into different federal balance",
+            "USSR/France duties/justice + republic/fraternity single-party/statist model rejected",
+            "S Africa/Japan amendment route + Art 21 wording both altered by Indian doctrine"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Maneka Gandhi (1978): 'procedure established' requires fair, just, reasonable procedure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Britain cabinet, rule of law, bicameralism monarchy + unlimited Parliament.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 3 — BORROWED SOURCES AS ADAPTATION, NOT COPYING",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FEDERAL POWER-SHARING WITH INTEGRATIVE AND ASYMMETRIC DEVICES",
+      "structural_type": "federal-relations-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FEDERAL POWER-SHARING WITH INTEGRATIVE AND ASYMMETRIC DEVICES",
+          "role": "mechanism"
+        },
+        {
+          "text": "FEDERAL CORE TWO LEVELS + DIVIDED COMPETENCE + WRITTEN",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 1",
+          "role": "institution"
+        },
+        {
+          "text": "'UNION OF STATES'",
+          "role": "evidence"
+        },
+        {
+          "text": "NO STATE RIGHT TO SECEDE",
+          "role": "caution"
+        },
+        {
+          "text": "SINGLE CITIZENSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEGRATED COURTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ALL-INDIA SERVICES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FEDERAL CORE two levels + divided competence + written supremacy + independent judiciary",
+        "Article 1: 'Union of States' → no State right to secede",
+        "INTEGRATIVE: single citizenship",
+        "integrated courts",
+        "All-India Services"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FEDERAL CORE two levels + divided competence + written supremacy + independent judiciary",
+            "Article 1: 'Union of States' → no State right to secede",
+            "INTEGRATIVE: single citizenship",
+            "integrated courts"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "All-India Services",
+            "COOPERATIVE: Inter-State Council",
+            "Finance Commission",
+            "GST Council"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ASYMMETRIC: differentiated regional, tribal and language arrangements",
+            "CENTRALISING: residuary power",
+            "Emergency provisions",
+            "J&K CONTROL: In Re: Article 370 of the Constitution (2023) treated it as temporary"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2019 measures upheld; statehood assurance recorded; no restoration notice located.",
+            "VERDICT: real federal distribution plus constitutionally strong integration."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: real federal distribution plus constitutionally strong integration.",
+      "answer_line": "(ANALYTICAL TRANSITION): Indian federalism distributes power to accommodate diversity, but retains centralising, cooperative and asymmetric devices so the Union can coordinate without erasing the States.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 5 — FEDERAL SYSTEM WITH CENTRALISING, COOPERATIVE AND ASYMMETRIC DIMENSIONS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 14 — SINGLE CITIZENSHIP, ADMINISTRATIVE/LEGAL UNITY AND ALL-INDIA SERVICES",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 19 — ASYMMETRY, LANGUAGE, PLURALISM AND ACCOMMODATION OF DIVERSITY"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PARLIAMENTARY RESPONSIBILITY, OVERLAP AND SEPARATION-OF-POWERS CHECKS",
+      "structural_type": "executive-legislative-checks",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PARLIAMENTARY RESPONSIBILITY, OVERLAP AND SEPARATION-OF-POWERS CHECKS",
+          "role": "primary"
+        },
+        {
+          "text": "LOK SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "COUNCIL OF MINISTERS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 75 COLLECTIVE RESPONSIBILITY CONFIDENCE + QUESTIONS + COMMITTEES",
+          "role": "institution"
+        },
+        {
+          "text": "ORDINANCES ARTICLES 123/213 AND DELEGATED LEGISLATION",
+          "role": "primary"
+        },
+        {
+          "text": "LAW + ARTICLE 368 CONSTITUENT POWER",
+          "role": "institution"
+        },
+        {
+          "text": "REVIEW ARTICLES 13/32/226 + RULES/CONTEMPT",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 50, 121/211, 122/212",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PEOPLE → LOK SABHA → COUNCIL OF MINISTERS",
+        "Article 75 collective responsibility confidence + questions + committees + finance",
+        "Executive → ordinances Articles 123/213 and delegated legislation",
+        "Legislature → law + Article 368 constituent power",
+        "Judiciary → review Articles 13/32/226 + rules/contempt"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PEOPLE → LOK SABHA → COUNCIL OF MINISTERS",
+            "Article 75 collective responsibility confidence + questions + committees + finance",
+            "Executive → ordinances Articles 123/213 and delegated legislation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Legislature → law + Article 368 constituent power",
+            "Judiciary → review Articles 13/32/226 + rules/contempt",
+            "INSULATION: Articles 50, 121/211, 122/212"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "institutional core domains",
+            "CASE CONTROL: Ram Jawaya = no rigid separation; basic structure limits capture",
+            "PYQ 2021 Q90: best liberty safeguard among exact options = separation of powers."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Legislature → law + Article 368 constituent power"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(ANALYTICAL TRANSITION): Articles 13, 32 and 226 make constitutional limits enforceable; Article 368 supplies broad amendment power.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 6 — PARLIAMENTARY GOVERNMENT AND RESPONSIBLE EXECUTIVE",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 7 — A. SYNTHESIS OF PARLIAMENTARY POWER, JUDICIAL REVIEW AND CONSTITUTIONAL SUPREMACY",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 8 — SEPARATION OF POWERS THROUGH CHECKS AND BALANCES"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "JUDICIARY, RULE OF LAW AND THE RIGHTS-DPSP-DUTIES TRIANGLE",
+      "structural_type": "rights-dpsp-duty-balance",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JUDICIARY, RULE OF LAW AND THE RIGHTS-DPSP-DUTIES TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL SUPREMACY RULE OF LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITED, REASONED AND REVIEWABLE POWER INTEGRATED JUDICIARY",
+          "role": "mechanism"
+        },
+        {
+          "text": "SC HIGH COURTS SUBORDINATE COURTS INDEPENDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TENURE/REMOVAL/SERVICE/CHARGED-EXPENSE SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 124(7)",
+          "role": "institution"
+        },
+        {
+          "text": "RETIRED SC JUDGE CANNOT PLEAD/ACT BEFORE COURT/AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 220",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL SUPREMACY rule of law → limited, reasoned and reviewable power integrated judiciary → SC",
+        "courts independence → tenure/removal/service/charged-expense safeguards",
+        "Article 124(7): retired SC judge cannot plead/act before court/authority",
+        "Article 220: retired permanent HC judge limited to SC/other HCs",
+        "NORMATIVE TRIANGLE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL SUPREMACY rule of law → limited, reasoned and reviewable power integrated judiciary → SC High Courts subordinate",
+            "courts independence → tenure/removal/service/charged-expense safeguards",
+            "Article 124(7): retired SC judge cannot plead/act before court/authority"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 220: retired permanent HC judge limited to SC/other HCs",
+            "NORMATIVE TRIANGLE",
+            "FR: enforceable liberty/equality/dignity"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DPSPs: non-justiciable welfare/transformation directives",
+            "Duties: civic obligations; no licence to erase rights",
+            "Minerva Mills (1980): harmony of Parts III and IV belongs to basic structure."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 220: retired permanent HC judge limited to SC/other HCs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSTITUTIONAL SUPREMACY rule of law → limited, reasoned and reviewable power integrated judiciary → SC High Courts subordinate courts independence → tenure/removal/service/charged-expense safeguards.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 9 — CONSTITUTIONAL SUPREMACY, RULE OF LAW AND LIMITED GOVERNMENT",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 10 — INDEPENDENT, INTEGRATED JUDICIARY AND JUDICIAL REVIEW",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 11 — RIGHTS, DIRECTIVE PRINCIPLES AND DUTIES AS NORMATIVE ARCHITECTURE"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DEMOCRACY, CITIZENSHIP, BODIES, LOCAL GOVERNMENT AND CO-OPERATIVES",
+      "structural_type": "institution-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEMOCRACY, CITIZENSHIP, BODIES, LOCAL GOVERNMENT AND CO-OPERATIVES",
+          "role": "primary"
+        },
+        {
+          "text": "ADULT FRANCHISE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOK SABHA/ASSEMBLIES",
+          "role": "comparison"
+        },
+        {
+          "text": "RESPONSIBLE GOVERNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SINGLE CITIZENSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON MEMBERSHIP, NOT ERASURE OF EVERY DOMICILE RULE",
+          "role": "caution"
+        },
+        {
+          "text": "BODY ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "DISTINCT DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CITIZEN → adult franchise → Lok Sabha/Assemblies → responsible government",
+        "SINGLE CITIZENSHIP → common membership, not erasure of every domicile rule",
+        "BODY ARTICLE / DISTINCT DESIGN",
+        "Election Commission 324 election superintendence; safeguards not same as CAG",
+        "CAG 148-151 tenure/removal/reporting + charged expenditure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CITIZEN → adult franchise → Lok Sabha/Assemblies → responsible government",
+            "SINGLE CITIZENSHIP → common membership, not erasure of every domicile rule",
+            "BODY ARTICLE / DISTINCT DESIGN"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Election Commission 324 election superintendence; safeguards not same as CAG",
+            "CAG 148-151 tenure/removal/reporting + charged expenditure",
+            "PSCs 315-323 service advice + own constitutional protections"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Finance Commission 280 periodic expert commission, not permanent body",
+            "LOCAL: Parts IX/IX-A + Schedules 11/12; detailed status is distinctive, not unique",
+            "CO-OPS: Union of India v. Rajendra N. Shah (2021) limits Part IX-B for State co-ops."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Election Commission 324 election superintendence; safeguards not same as CAG"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SINGLE CITIZENSHIP → common membership, not erasure of every domicile rule.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 13 — UNIVERSAL ADULT FRANCHISE, REPRESENTATIVE DEMOCRACY AND BICAMERALISM",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 15 — INDEPENDENT CONSTITUTIONAL BODIES AND ACCOUNTABILITY ECOSYSTEM",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 17 — LOCAL SELF-GOVERNMENT, SOCIAL JUSTICE AND AFFIRMATIVE ACTION",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 18 — A. COOPERATIVE SOCIETIES AS CONSTITUTIONALISED DEMOCRATIC ASSOCIATION"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THREE EMERGENCY MODES, SAFEGUARDS AND RETURN TO NORMAL BALANCE",
+      "structural_type": "emergency-mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE EMERGENCY MODES, SAFEGUARDS AND RETURN TO NORMAL BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "NORMAL FEDERAL-RESPONSIBLE MODE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 352",
+          "role": "institution"
+        },
+        {
+          "text": "EXTERNAL AGGRESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "ARMED REBELLION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 358/359 HAVE DISTINCT EFFECTS; ARTS 20/21 PROTECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 356",
+          "role": "institution"
+        },
+        {
+          "text": "FAILURE OF STATE CONSTITUTIONAL MACHINERY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "NORMAL FEDERAL-RESPONSIBLE MODE",
+        "Article 352: war / external aggression / armed rebellion",
+        "Articles 358/359 have distinct effects; Arts 20/21 protected",
+        "Article 356: failure of State constitutional machinery",
+        "Article 365 may inform satisfaction; S.R. Bommai (1994) review applies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NORMAL FEDERAL-RESPONSIBLE MODE",
+            "Article 352: war / external aggression / armed rebellion",
+            "Articles 358/359 have distinct effects; Arts 20/21 protected"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 356: failure of State constitutional machinery",
+            "Article 365 may inform satisfaction; S.R. Bommai (1994) review applies",
+            "Article 360: financial-stability threat and fiscal directions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTROLS: written Cabinet advice + parliamentary approval + duration + review",
+            "RETURN TO ORDINARY CONSTITUTIONAL BALANCE",
+            "CONTROL: temporary centralisation is India's specified design, not a unique world claim."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 356: failure of State constitutional machinery"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(CORE ARGUMENT): Emergency provisions permit temporary constitutional centralisation for crisis management, but they do not authorise permanent unitary rule or extra-constitutional government.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 16 — EMERGENCY PROVISIONS AND CONSTITUTIONAL MODES"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STRENGTH-RISK PAIRS AND LIVE CONSTITUTIONAL CONTROLS",
+      "structural_type": "comparison-problem-response",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STRENGTH-RISK PAIRS AND LIVE CONSTITUTIONAL CONTROLS",
+          "role": "caution"
+        },
+        {
+          "text": "FEATURE GAIN RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CONTROL STRONG CENTRE COORDINATION/INTEGRITY OVERREACH",
+          "role": "comparison"
+        },
+        {
+          "text": "FEDERAL REVIEW PARLIAMENTARY FUSION DAILY ACCOUNTABILITY MAJORITY DOMINANCE JUDICIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "LIVE CONTROLS (28 AUG 2026)",
+          "role": "primary"
+        },
+        {
+          "text": "106TH AMENDMENT COMMENCED; SEAT OPERATION AWAITS ARTICLE 334A SEQUENCE.",
+          "role": "institution"
+        },
+        {
+          "text": "J&K REMAINS A UT WITH LEGISLATURE; NO STATEHOOD-RESTORATION NOTICE",
+          "role": "caution"
+        },
+        {
+          "text": "RAJENDRA N SHAH REMAINS CONTROLLING FOR STATE CO-OPERATIVE PART",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "FEATURE GAIN RISK / CONTROL strong Centre coordination/integrity overreach → federal review parliamentary fusion daily",
+        "judicial review rights/limited government reasoned institutional restraint detail + amendment inclusion + adaptation complexity/basic structure",
+        "+ equal respect majoritarian capture risk independent bodies specialised accountability appointments + transparency",
+        "LIVE CONTROLS (28 AUG 2026)",
+        "106th Amendment commenced; seat operation awaits Article 334A sequence."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FEATURE GAIN RISK / CONTROL strong Centre coordination/integrity overreach → federal review parliamentary fusion daily accountability majority dominance",
+          "+ equal respect majoritarian capture risk independent bodies specialised accountability appointments + transparency",
+          "106th Amendment commenced; seat operation awaits Article 334A sequence.",
+          "Rajendra N Shah remains controlling for State co-operative Part IX-B limits."
+        ],
+        [
+          "judicial review rights/limited government reasoned institutional restraint detail + amendment inclusion + adaptation complexity/basic structure secular engagement reform",
+          "LIVE CONTROLS (28 AUG 2026)",
+          "J&K remains a UT with legislature; no statehood-restoration notice located.",
+          "FEATURE GAIN RISK / CONTROL strong Centre coordination/integrity overreach → federal review parliamentary fusion daily accountability majority dominance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FEATURE GAIN RISK / CONTROL strong Centre coordination/integrity overreach → federal review parliamentary fusion daily accountability majority dominance",
+            "judicial review rights/limited government reasoned institutional restraint detail + amendment inclusion + adaptation complexity/basic structure secular engagement reform"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "+ equal respect majoritarian capture risk independent bodies specialised accountability appointments + transparency",
+            "LIVE CONTROLS (28 AUG 2026)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "106th Amendment commenced; seat operation awaits Article 334A sequence.",
+            "J&K remains a UT with legislature; no statehood-restoration notice located."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Rajendra N Shah remains controlling for State co-operative Part IX-B limits.",
+            "FEATURE GAIN RISK / CONTROL strong Centre coordination/integrity overreach → federal review parliamentary fusion daily accountability majority dominance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(FEDERAL LIMIT): [LIVE OFFICIAL — checked 28 August 2026] The Supreme Court judgment remains the controlling legal position: Article 19(1)(c) and Article 43B survive, while Part IX-B cannot govern State cooperatives in the invalidated field; the Union retains competence over multi-State cooperative societies.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 20 — CONTINUITY, TRANSFORMATION, STRENGTHS AND INTERNAL TENSIONS",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 21 — A. CONSTITUTIONAL MORALITY AS THE OPERATING ETHIC",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 22 — CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "VERIFIED PYQ CONTROL PANEL: EXACT ANSWERS AND TRAPS",
+      "structural_type": "pyq-control-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VERIFIED PYQ CONTROL PANEL",
+          "role": "primary"
+        },
+        {
+          "text": "EXACT ANSWERS AND TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "YEAR Q CONTROLLED ANSWER",
+          "role": "comparison"
+        },
+        {
+          "text": "2018 Q40 B",
+          "role": "evidence"
+        },
+        {
+          "text": "WITHOUT LAW THERE IS NO LIBERTY",
+          "role": "caution"
+        },
+        {
+          "text": "2018 Q45 C",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITATION + EQUALITY + LIBERTY/CIVIL RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "2020 Q7 D",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "YEAR Q CONTROLLED ANSWER / ROUTE",
+        "2018 Q40 B: without law there is no liberty",
+        "2018 Q45 C: limitation + equality + liberty/civil rights",
+        "2020 Q7 D: constitutional government = limited government",
+        "2021 Q86 A: independent judiciary is essential federal safeguard"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "YEAR Q CONTROLLED ANSWER / ROUTE",
+          "2021 Q86 A: independent judiciary is essential federal safeguard",
+          "2021 Q94 D: government limited by constitutional terms",
+          "2024 Q74 D officially keyed: Parts IX-A, XVIII and XX all matched."
+        ],
+        [
+          "2018 Q40 B: without law there is no liberty",
+          "2021 Q87 A: population + territory + government + sovereignty",
+          "2023 Q31 A: due process = principle of natural justice",
+          ""
+        ],
+        [
+          "2018 Q45 C: limitation + equality + liberty/civil rights",
+          "2021 Q89 A: statement 1 only on single citizenship/domicile",
+          "2023 Q33 C: Constitution defines and limits government",
+          ""
+        ],
+        [
+          "2020 Q7 D: constitutional government = limited government",
+          "2021 Q90 D: separation of powers safeguards liberty",
+          "2023 Q84 D: 600x400 not standard; 3:2 ratio correct",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "YEAR Q CONTROLLED ANSWER / ROUTE",
+            "2018 Q40 B: without law there is no liberty",
+            "2018 Q45 C: limitation + equality + liberty/civil rights",
+            "2020 Q7 D: constitutional government = limited government"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2021 Q86 A: independent judiciary is essential federal safeguard",
+            "2021 Q87 A: population + territory + government + sovereignty",
+            "2021 Q89 A: statement 1 only on single citizenship/domicile",
+            "2021 Q90 D: separation of powers safeguards liberty"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2021 Q94 D: government limited by constitutional terms",
+            "2023 Q31 A: due process = principle of natural justice",
+            "2023 Q33 C: Constitution defines and limits government",
+            "2023 Q84 D: 600x400 not standard; 3:2 ratio correct"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2024 Q74 D officially keyed: Parts IX-A, XVIII and XX all matched."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "(CORE ARGUMENT): An integrated and independent judiciary supplies national legal unity and makes constitutional supremacy effective through review and remedies.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "synthesis",
+      "title": "EXECUTABLE 10/15/20-MARK ANSWER SPINE",
+      "structural_type": "answer-architecture",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXECUTABLE 10/15/20-MARK ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "150 WORDS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINE DEMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "3 FEATURE CLUSTERS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE/CASE FOR EACH",
+          "role": "institution"
+        },
+        {
+          "text": "ONE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS",
+        "Define demand → 3 feature clusters → Article/case for each → one limit → verdict",
+        "15 MARKS / 250 WORDS",
+        "Thesis → written/amendment → federal/integrative → parliamentary/checks",
+        "rights-welfare → participation/bodies → two tensions → graded conclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS",
+            "Define demand → 3 feature clusters → Article/case for each → one limit → verdict",
+            "15 MARKS / 250 WORDS",
+            "Thesis → written/amendment → federal/integrative → parliamentary/checks"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "rights-welfare → participation/bodies → two tensions → graded conclusion",
+            "20 MARKS / 250 WORDS",
+            "1 Decode directive and state synthesis thesis.",
+            "2 Form/change: detail, sources, three amendment tracks."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "3 Power: federal, strong-Centre, cooperative and asymmetric dimensions.",
+            "4 Government/checks: responsibility, separation, judicial review, rule of law.",
+            "5 Purpose: FR-DPSP-Duties, secularism, franchise, local democracy.",
+            "6 Institutions/modes: bodies, co-ops, Emergency design."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "7 Pair every strength with risk + authority/current control.",
+            "8 Conclude: constitutional morality sustains dynamic balance."
+          ]
+        }
+      ],
+      "mechanism_strip": "4 Government/checks: responsibility, separation, judicial review, rule of law.",
+      "answer_line": "rights-welfare → participation/bodies → two tensions → graded conclusion.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#SESSION 22 — CRITICISMS, COUNTERARGUMENTS, CROSS-TOPIC BOUNDARIES AND FINAL VERDICT",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md#PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. LENGTHIEST WRITTEN CONSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "2. DRAWN FROM VARIOUS SOURCES",
+          "role": "comparison"
+        },
+        {
+          "text": "3. BLEND OF RIGIDITY & FLEXIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "4. FEDERAL SYSTEM WITH UNITARY BIAS",
+          "role": "primary"
+        },
+        {
+          "text": "5. PARLIAMENTARY FORM OF GOVERNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "6. SYNTHESIS OF PARLIAMENTARY GOVERNMENT & JUDICIAL REVIEW",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTEGRATED & INDEPENDENT JUDICIARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "1. Lengthiest written constitution",
+            "2. Drawn from various sources",
+            "3. Blend of rigidity & flexibility",
+            "4. Federal system with unitary bias"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "5. Parliamentary form of government",
+            "6. Synthesis of parliamentary government & judicial review",
+            "7. Integrated & independent judiciary",
+            "8. Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Directive Principles of State Policy",
+            "10. Fundamental Duties",
+            "11. A secular state",
+            "12. Universal adult franchise"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

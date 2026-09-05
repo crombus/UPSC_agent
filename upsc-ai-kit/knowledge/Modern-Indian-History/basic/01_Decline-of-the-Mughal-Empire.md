@@ -186,3 +186,23 @@ Deccan over-stretch + rising elite numbers
 - Do not make Aurangzeb's religious policy the stated cause; present it as a contested and insufficient explanation.
 - Keep the *be-jagiri* concept distinct from ordinary corruption: it is a structural shortfall of assignable revenue.
 - Panipat III (1761) belongs to the Maratha-Abdali contest; it is a consequence of the fragmented order, not a cause of Mughal decline.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the weakening of enforceable imperial command from 1707 through the
+  1740s: succession, court factions, jagir/paibaqi/be-jagiri and jama-hasil pressure,
+  agrarian-regional assertion, provincial autonomy, Nadir Shah and institutional
+  continuity.
+- **Medieval Topic 25 boundary:** use the late-Aurangzeb Deccan and jagirdari crisis as
+  inherited causes, but do not reproduce its full 1707-1761 regional synthesis.
+- **Modern Topic 02 boundary:** Bengal, Awadh, Hyderabad, Marathas, Sikhs, Jats and
+  eighteenth-century society appear here only to prove the contraction of Delhi's
+  command; their comparative state formation and social economy belong to Topic 02.
+- **Forward boundary:** Abdali and Panipat are consequences/bridges. European commercial
+  rivalry belongs to Topic 03, Bengal conquest to Topic 04 and Company territorial
+  expansion to Topic 05.
+- **Verified PYQ ownership, 2018-2026:** zero direct routed CSE questions. The 2021
+  successor-state question belongs to Topic 02, the 2021 pargana-sarkar-suba question
+  to Medieval Topic 24, and the 2022 Company-armies Mains question to Modern Topic 05.
+  Retained adjacent questions must preserve those labels; unavailable objective keys
+  remain **INFERRED ANSWER — NOT OFFICIALLY VERIFIED**.

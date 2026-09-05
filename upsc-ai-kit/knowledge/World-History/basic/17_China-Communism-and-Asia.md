@@ -254,3 +254,29 @@ Asian **historical record**. Do not define communism here or narrate China there
 > **Study link:** World-History → `basic/15_Cold-War-and-International-Relations.md` for the Korea, Vietnam and US-China dimensions of this story.
 > **Study link:** World-History → `basic/18_Decolonization-of-Africa-and-Asia.md` for the anti-colonial context that Vietnamese communism grew out of.
 > **Study link:** India-side foreign-policy overlap -> `Polity/basic/National-Integration-and-Foreign-Policy.md` and `Polity/advanced/45_National-Integration-and-Foreign-Policy.md`.
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Qing legitimacy crisis, 1911 and warlordism; Sun Yat-sen,
+  KMT-CCP cooperation and rupture; Mao's peasant strategy, Long March,
+  Japanese invasion and 1949 victory; Maoist consolidation and campaigns;
+  post-1978 reform without democratisation; Asian communist diversity and the
+  Sino-Soviet and Sino-Vietnamese fractures.
+- **Boundary:** Topic 13 owns the Russian Revolution and Stalinist USSR;
+  Topic 15 owns superpower Cold War structure; Topic 18 owns colonial transfer
+  and postcolonial state formation; Topic 21 owns the post-1991 order. Topic 17
+  owns China's revolution, domestic transformation and the Asian communist
+  comparison needed to disprove a monolithic bloc.
+- **Date control:** 1911 revolution, CCP foundation (1921), KMT rupture
+  (1927), Long March (1934-35), full-scale Japanese invasion (1937), PRC
+  proclamation (1949), Great Leap (1958-61), Cultural Revolution (1966-76),
+  reform after 1978, China-Vietnam war (February 1979), Tiananmen (1989) and
+  Sino-Soviet reconciliation (May 1989) remain separate stages.
+- **Mechanism control:** KMT governance failure and war burden are compared
+  with CCP discipline, land, peasant organisation and patriotic legitimacy;
+  military retreat can create political legitimacy; market adaptation did not
+  entail multiparty reform; Asian communist regimes followed distinct local
+  routes and could fight one another.
+- **Verified PYQ ownership, 2018-2025:** zero direct topic-only routes. All six
+  Mains demands remain original practice; no famine or casualty total,
+  objective key, quotation or current geopolitical analogy is invented.

@@ -44,7 +44,7 @@ identity.**
 | **Australia** | Written federal constitution; constitutional monarchy | Federal Westminster system | Coming-together federation | High Court; constitutionally divided powers |
 | **France** | Written Constitution of the Fifth Republic; republic | Semi-presidential: President plus Prime Minister | Unitary, decentralised state | Constitutional Council and other courts within a specialised system |
 | **Switzerland** | Written federal constitution; republic | Plural Federal Council; collegial executive | Confederation by name, federation in law | Strong direct democracy; limited review of federal statutes |
-| **South Africa** | Written, supreme and transformative Constitution; republic | Parliamentary executive; President elected by National Assembly | Unitary state with constitutionally protected provinces and cooperative government | Constitutional Court; enforceable civil-political and socio-economic rights |
+| **South Africa** | Written, supreme and transformative Constitution; republic | Parliamentary executive; President elected by National Assembly | Constitutionally decentralised cooperative government across national, provincial and local spheres; not an Indian-style federation | Constitutional Court; enforceable civil-political and socio-economic rights |
 | **Germany** | Written Basic Law; parliamentary federal republic | Chancellor-led parliamentary government | Federation with direct Land-government participation through Bundesrat | Separate Federal Constitutional Court; textual eternity clause |
 | **Japan** | Written, supreme Constitution; constitutional monarchy | Parliamentary cabinet; symbolic Emperor | Unitary state | Supreme Court judicial review; rigid amendment plus referendum |
 
@@ -129,13 +129,25 @@ India's limit is judicially developed.
 
 ## 5. Federal design and upper houses
 
-| Dimension | India | USA | Canada | Australia | Germany | Switzerland |
-|---|---|---|---|---|---|---|
-| Formation tendency | Holding together | Coming together | Holding together/strong-centre design | Coming together | Federal reconstruction | Coming together |
-| Residuary power | Union | States/people under Tenth Amendment | Federal Parliament | States | Länder unless assigned | Cantons unless assigned |
-| State equality in upper house | No; representation varies broadly by population | Yes; two Senators per state | No equal provincial representation; Senate is appointed | Yes; equal state representation in Senate | Länder governments represented with weighted votes | Equal cantonal representation, with reduced representation for former half-cantons |
-| Judiciary | Integrated | Federal and state systems | Federal-provincial structure with Supreme Court at apex | Federal and state systems | Ordinary courts plus specialised Constitutional Court | Federal and cantonal systems |
-| State alteration | Parliament can alter state areas/boundaries under Constitution | States are constitutionally indestructible without required consent | Provinces constitutionally protected | States constitutionally protected | Länder participate through Bundesrat | Cantonal autonomy strongly protected |
+**Federal design — India, USA and Canada**
+
+| Dimension | India | USA | Canada |
+|---|---|---|---|
+| Formation tendency | Holding together | Coming together | Holding together/strong-centre design |
+| Residuary power | Union | States/people under Tenth Amendment | Federal Parliament |
+| Upper house | Population-linked variation | Equal State representation | Appointed regional representation |
+| Judiciary | Integrated | Federal and State systems | Federal-provincial structure; Supreme Court at apex |
+| Unit alteration | Parliament can alter State areas/boundaries under the Constitution | Required State consent protects States | Provinces are constitutionally protected |
+
+**Federal design — Australia, Germany and Switzerland**
+
+| Dimension | Australia | Germany | Switzerland |
+|---|---|---|---|
+| Formation tendency | Coming together | Federal reconstruction | Coming together |
+| Residuary power | States | Länder unless assigned | Cantons unless assigned |
+| Upper house | Equal State representation | Land governments with weighted votes | Cantonal representation, reduced for former half-cantons |
+| Judiciary | Federal and State systems | Ordinary courts plus Federal Constitutional Court | Federal and cantonal systems |
+| Unit protection | States constitutionally protected | Länder participate through Bundesrat | Cantonal autonomy strongly protected |
 
 ### Indian distinctiveness
 
@@ -405,6 +417,20 @@ conclude with accountable independence.
 
 ---
 
+
+### COMPARATIVE METHOD FIREWALL
+
+```text
+same function -> each constitutional source -> institutional mechanism
+             -> political and social context -> consequence -> qualified lesson for India
+```
+
+- **Codified/uncodified** and **rigid/flexible** are separate axes.
+- A common institutional title does not prove common power.
+- “Borrowed from” identifies a source influence, not operational identity.
+- Electoral, emergency and constitutional-office comparisons must include appointment, power, accountability and review.
+- South Africa's cooperative provincial design and enforceable socio-economic rights are comparisons, not one-to-one Indian equivalents.
+
 ## 14. High-yield traps
 
 - UK Constitution is **uncodified**, not wholly unwritten.
@@ -535,7 +561,7 @@ an institution.
 | Residuary powers | **Centre** in India and **Canada**; **States** in the **USA** and **Australia** |
 | Rajya Sabha vs US/Australian Senate vs Bundesrat | RS = **population-weighted, indirectly elected**; US/Australian Senate = **equal-State**; Bundesrat = **Land-government delegation** — not interchangeable |
 | Eternity clause vs basic structure | Germany's **Art 79(3)** is **textual**; India's **basic structure** is **judicially developed** |
-| Indian vs French secularism | India = **principled engagement/accommodation**; France = **laïcité** (strict separation) |
+| Indian vs French secularism | India = **principled engagement/accommodation**; France = **laïcité** (historically stronger public-state separation, applied through its own legal context) |
 | US judicial appointment | President nominates **with Senate advice and consent** — not the President alone |
 | US pardon limits | **No State offences, no impeachment, no future acts** |
 | Swiss President | **Annually rotating** head of a collegial Council — **not** a US-style executive President |
@@ -558,52 +584,269 @@ an institution.
 - ⚠️ **Attribution is contested at the edges:** DPSPs are conventionally cited from **Ireland** (which itself drew on Spain), and emergency/rights-suspension ideas from the **Weimar/German** and **Government of India Act 1935** lineage — present these as **conventional attributions**, not as the Constitution's own statements (detail lives in §12).
 - ✅ **India's amendment procedure is *sui generis*** (multiple routes under Art 368) — never describe it as a copy of any single foreign model, and do not quote foreign amendment fractions from memory.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-## Recent PYQ Integration (2024-2025)
+## PYQS AND ANSWER PRACTICE
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+### VERIFIED DIRECT PYQ 1 — 2018 GS-II Q13 — 15 marks — 250 words
 
-- **Years represented:** 2024
-- **Paper(s):** GS-II
-- **Routed question demands:** 1
+**Question (exact):** “India and USA are two large democracies. Examine the basic tenets on which the two political systems are based.”
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-II | 15 | India as a secular state compared with US secular principles | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Model answer:** India and the United States share popular sovereignty, written constitutional supremacy, elected government, federalism, bicameralism, enforceable rights and judicial review. Their institutional tenets nevertheless differ.
 
-### What this owner must now support
+India has a parliamentary executive: the President is the constitutional head, while the Council of Ministers is collectively responsible to the Lok Sabha. The United States has a presidential executive with a separately elected, fixed-tenure President and institutional separation from Congress.
 
-- India as a secular state compared with US secular principles
+Indian federalism gives residuary power to the Union, single citizenship, an integrated judiciary and unequal State representation in Rajya Sabha. The US Tenth Amendment reserves undelegated powers to States or the people, each State has equal Senate representation, and federal and State courts coexist.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+Both protect rights, but India combines Fundamental Rights with DPSPs, affirmative constitutional commitments and express reasonable restrictions. The US Bill of Rights and Fourteenth Amendment operate through due process and equal protection. Both courts review legislation, while India's amendment power is additionally limited by basic structure.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
+Thus, the systems share democratic constitutionalism but choose different accountability, stability and federal-representation mechanisms. Similar labels must be compared through powers and consequences, not treated as equivalence.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+**Why this earns marks:** It covers common foundations and four institutional contrasts, then links design to consequences.
 
-- **Years represented:** 2018, 2019, 2020, 2022, 2023
-- **Paper(s):** GS-II
-- **Routed question demands:** 5
+**How to improve this answer:** Add one exact constitutional provision per country; avoid calling India or the USA purely separated or purely unitary.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-II | 13 | Basic tenets of the Indian and US political systems | Examine · 15 marks · 250 words | Dedicated comparative owner plus parliamentary-system support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-II | 5 | What France can learn from India's approach to secularism | What can it learn · 10 marks · 150 words | Dedicated comparative owner plus constitutional-rights and society support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-II | 4 | Convergence and divergence of Indian and UK judicial systems | Highlight the key points · 10 marks · 150 words | Dedicated comparative owner plus judiciary support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-II | 14 | Election procedures for the Presidents of India and France | Critically examine · 15 marks · 250 words | Dedicated comparative owner plus presidential-office support | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-II | 4 | British and Indian approaches to Parliamentary sovereignty | Compare and contrast · 10 marks · 150 words | Dedicated comparative owner plus parliamentary-system support; final noun verified against official scan | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Compression guidance:** Keep the common core, executive, federal, rights and review contrasts, and the qualified synthesis.
 
-### What this owner must now support
+### VERIFIED DIRECT PYQ 2 — 2019 GS-II Q5 — 10 marks — 150 words
 
-- Basic tenets of the Indian and US political systems
-- What France can learn from India's approach to secularism
-- Convergence and divergence of Indian and UK judicial systems
-- Election procedures for the Presidents of India and France
-- British and Indian approaches to Parliamentary sovereignty
+**Question (exact):** “What can France learn from the Indian Constitution’s approach to secularism?”
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Model answer:** French laicite protects republican public authority through state neutrality and a religion-independent civic sphere. India's Constitution instead combines equal citizenship with religious freedom, denominational rights and principled state engagement for social reform.
+
+France can draw three lessons. First, neutrality should be tested through proportionality so that common rules do not unnecessarily exclude individual believers. Second, minority cultural and educational protection can support integration in a diverse society. Third, state engagement may be legitimate when directed to equality, dignity and reform rather than religious preference.
+
+The transfer cannot be mechanical. French secularism arose from conflict with clerical authority, while India's model addresses deep religious plurality and social hierarchy. India itself also struggles with selective intervention and majoritarian pressure.
+
+The valid lesson is therefore a rights-centred balance: preserve state neutrality while accommodating diversity where accommodation is compatible with liberty, equality and public order.
+
+**Why this earns marks:** It answers what France can learn, identifies mechanisms and limits transplantation.
+
+**How to improve this answer:** Use Articles 25-30 as Indian anchors; avoid slogans such as equal distance unless their institutional meaning is explained.
+
+**Compression guidance:** Retain laicite, three lessons, historical-context caveat and rights-centred verdict.
+
+### VERIFIED DIRECT PYQ 3 — 2020 GS-II Q4 — 10 marks — 150 words
+
+**Question (exact):** “The judicial systems in India and the UK seem to be converging as well as diverging in recent times. Highlight the key points of convergence and divergence between the two nations in terms of their judicial practices.”
+
+**Model answer:** India and the United Kingdom share common-law reasoning, precedent, open justice, adversarial procedure and institutional concern for judicial independence. The UK Supreme Court's separation from the House of Lords and modern appointments machinery also create visible institutional convergence.
+
+Divergence begins with constitutional authority. India's written supreme Constitution permits the Supreme Court and High Courts to invalidate legislation and issue constitutional writs. Under orthodox UK parliamentary sovereignty, courts ordinarily cannot invalidate a Westminster Act; a Human Rights Act declaration of incompatibility does not itself annul it.
+
+India has an integrated national hierarchy and broad public-interest constitutional access. The UK contains distinct legal jurisdictions and relies more heavily on statutory and common-law remedies. Judicial appointments also differ in constitutional source and accountability structure.
+
+Therefore, professional practices may converge, while the source and remedial force of judicial power continue to diverge.
+
+**Why this earns marks:** It highlights both convergence and divergence and identifies the controlling supremacy distinction.
+
+**How to improve this answer:** Add one appointment or rights-remedy example; do not call the UK Constitution unwritten or the UK Supreme Court a legislative invalidation court.
+
+**Compression guidance:** Use two convergence points, three divergence points and the authority-based conclusion.
+
+### VERIFIED DIRECT PYQ 4 — 2022 GS-II Q14 — 15 marks — 250 words
+
+**Question (exact):** “Critically examine the procedures through which the Presidents of India and France are elected.”
+
+**Model answer:** Election procedure reflects the different offices occupied by the two Presidents.
+
+India elects its President indirectly through an electoral college of elected Members of Parliament and elected members of State and specified Union Territory legislative assemblies. Votes are weighted to balance Union-State and population considerations, and the single transferable vote with proportional representation and secret ballot seeks broad federal acceptability. The office ordinarily functions on ministerial advice.
+
+France elects its President by direct universal suffrage. A two-round majority system permits a second ballot between leading candidates if no candidate secures the required first-round majority. Direct election supplies a personal national mandate appropriate to a semi-presidential system in which the President has substantial powers, while the Prime Minister and Government remain responsible to the National Assembly.
+
+India's method promotes federal inclusion and a non-majoritarian constitutional head but is remote from voters and mathematically complex. France's method provides direct legitimacy and majority endorsement but may personalise politics and create dual legitimacy or cohabitation when the parliamentary majority differs.
+
+The procedures should not be ranked in isolation. India's indirect federal election fits a parliamentary republic; France's direct two-round election fits a politically active semi-presidential presidency.
+
+**Why this earns marks:** It accurately explains both procedures and critically evaluates why each fits its office.
+
+**How to improve this answer:** Mention vote-value mechanics only if exact; do not infer comparable powers merely from the shared title President.
+
+**Compression guidance:** Keep both procedures, two advantages, two risks and the office-design verdict.
+
+### VERIFIED DIRECT PYQ 5 — 2023 GS-II Q4 — 10 marks — 150 words
+
+**Question (exact):** “Compare and contrast the British and Indian approaches to Parliamentary sovereignty.”
+
+**Model answer:** Both systems developed responsible cabinet government, legislative privilege and executive accountability to the lower House. Their location of ultimate legal authority differs.
+
+The orthodox British doctrine treats Parliament as the supreme law-maker: it may enact or repeal any law, courts ordinarily cannot invalidate a Westminster Act, and one Parliament cannot entrench law against successors. Political constraints, devolution and rights review qualify practice without creating Indian-style constitutional supremacy.
+
+Indian Parliament is constituted and limited by a written supreme Constitution. Federal distribution, Fundamental Rights, bicameral procedures and judicial review bind ordinary legislation. Constitutional amendment under Article 368 is also limited by the basic-structure doctrine.
+
+Thus, Britain centres legal sovereignty in Parliament, whereas India centres it in the Constitution. India borrowed parliamentary government but transformed it through republicanism, federalism, entrenched rights and constitutional adjudication.
+
+**Why this earns marks:** It compares shared parliamentary practice but contrasts the different legal sovereignty foundations.
+
+**How to improve this answer:** Use the Human Rights Act declaration carefully; it does not itself invalidate primary legislation.
+
+**Compression guidance:** Retain commonality, British rule, Indian limits, basic structure and adaptation verdict.
+
+### VERIFIED DIRECT PYQ 6 — 2024 GS-II Q15 — 15 marks — 250 words
+
+**Question (exact):** “Discuss India as a secular state and compare it with the secular principles of the US Constitution.”
+
+**Model answer:** India and the United States reject an established theocratic state and protect religious liberty, but their constitutional techniques reflect different histories.
+
+The US First Amendment prohibits establishment and protects free exercise. Government must not establish religion, and religious exercise receives constitutional protection subject to generally applicable constitutional limits. The separation metaphor is influential but not absolute.
+
+India's secularism arises from the Preamble, equality provisions and Articles 25-30. It protects conscience and practice, permits denominational institutions and minority education, and authorises regulation of secular activities and social reform. The State may engage with religious institutions, but engagement must satisfy equality, dignity, liberty and non-discrimination. Secularism is part of the basic structure under *S. R. Bommai*.
+
+Both systems therefore protect freedom and resist state preference. The US places stronger textual emphasis on non-establishment; India combines religious liberty with reform and accommodation in a deeply plural society. Both face disputes over neutrality, exemptions and majoritarian influence.
+
+India is secular not because the State never encounters religion, but because constitutional engagement must preserve equal citizenship. Comparison should avoid caricaturing either model as complete separation or unlimited intervention.
+
+**Why this earns marks:** It supplies textual foundations, shared aims, differences, limits and an Indian basic-structure anchor.
+
+**How to improve this answer:** Add one doctrine or institutional example only if exact; distinguish denominational rights from state preference.
+
+**Compression guidance:** Use common core, US clauses, Indian Articles, reform/accommodation contrast and qualified verdict.
+
+### VERIFIED SUPPORTING PYQ 7 — 2025 GS-II Q3 — 10 marks — 150 words
+
+**Question (exact):** “Compare and contrast the President's power to pardon in India and in the USA. Are there any limits to it in both the countries? What are ‘preemptive pardons’?”
+
+**Model answer:** Article 72 empowers India's President to grant clemency in court-martial cases, offences concerning Union executive power and death sentences. The President acts on ministerial advice, and the decision is judicially reviewable on limited grounds such as mala fides, arbitrariness or irrelevant considerations.
+
+Article II, section 2 gives the US President clemency power for federal offences, except impeachment. It does not reach State offences and is exercised personally rather than on cabinet advice. Constitutional and political accountability remain despite broad discretion.
+
+A preemptive pardon protects against federal prosecution for already committed conduct before charge or conviction; it cannot license future offences. US practice recognises such pardons. Indian Article 72 is ordinarily framed around conviction and sentence, so the US doctrine should not be mechanically imported.
+
+Both powers temper justice with mercy, but differ in advice, jurisdiction, express limits and review.
+
+**Why this earns marks:** It answers comparison, limits and the distinct preemptive-pardon limb.
+
+**How to improve this answer:** Avoid the absolute claim that all US pardons are unreviewable or that a preemptive pardon covers future conduct.
+
+**Compression guidance:** Keep constitutional sources, advice, jurisdiction, limits, definition and verdict.
+
+### VERIFIED SUPPORTING PYQ 8 — 2025 GS-II Q13 — 15 marks — 250 words
+
+**Question (exact):** “Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.”
+
+**Model answer:** India's Constitution formally vests Supreme Court appointments in the President after consultation. The First Judges Case favoured executive primacy; the Second Judges Case created judicial primacy through the collegium; the Third Judges Case expanded the consultative collegium. The NJAC amendment was invalidated in 2015 for violating judicial independence.
+
+India's collegium insulates appointments from direct party control and protects decisional independence. Its disadvantages are opacity, limited published criteria, weak diversity accountability, delay and an unclear responsibility chain.
+
+The United States uses presidential nomination and Senate advice and consent. Public hearings and separated institutional participation create visible democratic accountability and a clear record. Yet partisan polarisation, strategic vacancies and ideological confirmation can make appointments openly political. Life tenure raises the stakes further.
+
+Neither model resolves the independence-accountability tension. India should retain judicial independence while publishing selection criteria, reasons, diversity data and timelines and improving secretariat capacity. The US comparison warns against converting transparency into party capture.
+
+The lesson is accountable independence, not transplantation: appointment design must be evaluated with tenure, political parties, conventions and the wider constitutional structure.
+
+**Why this earns marks:** It traces collegium evolution, critically assesses both systems and derives a context-sensitive reform lesson.
+
+**How to improve this answer:** Name the Judges Cases and NJAC without inventing vote details; distinguish public accountability from partisan control.
+
+**Compression guidance:** Preserve chronology, two merits and defects per system, and accountable-independence reform.
+
+### ORIGINAL MAINS PRACTICE 1 — 10 marks — 150 words
+
+**Question:** Distinguish constitutional borrowing from constitutional adaptation.
+
+**Directive:** Distinguish
+
+**Model answer:** Begin with a demand-specific comparative thesis. Define borrowing as source influence and adaptation as altered text, institution and operation. Use parliamentary government, federal residuary power, DPSPs and judicial review as examples. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+
+### ORIGINAL MAINS PRACTICE 2 — 15 marks — 250 words
+
+**Question:** Compare Rajya Sabha, the US Senate, Canadian Senate and German Bundesrat.
+
+**Directive:** Compare
+
+**Model answer:** Begin with a demand-specific comparative thesis. Hold territorial representation constant; compare selection, equality, government representation, special powers and democratic legitimacy. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+
+### ORIGINAL MAINS PRACTICE 3 — 10 marks — 150 words
+
+**Question:** Compare written/uncodified and rigid/flexible constitutions without treating the pairs as synonyms.
+
+**Directive:** Analyse
+
+**Model answer:** Begin with a demand-specific comparative thesis. Separate codification from amendment difficulty and legal from political constraint, using India, UK, USA and Australia. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+
+### ORIGINAL MAINS PRACTICE 4 — 15 marks — 250 words
+
+**Question:** Assess India's parliamentary-federal hybrid against the UK, Canada and Australia.
+
+**Directive:** Assess
+
+**Model answer:** Begin with a demand-specific comparative thesis. Compare responsible government, constitutional supremacy, residuary power, upper houses, judiciary and amendment, then explain India's synthesis. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+
+### ORIGINAL MAINS PRACTICE 5 — 20 marks — 300 words
+
+**Question:** Compare judicial review in India, USA, UK, France and South Africa.
+
+**Directive:** Compare and evaluate
+
+**Model answer:** Begin with a demand-specific comparative thesis. Distinguish diffuse/concentrated review, strong/dialogic remedies, constitutional supremacy, access and rights text. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+
+### ORIGINAL MAINS PRACTICE 6 — 15 marks — 250 words
+
+**Question:** Compare Indian DPSPs with Irish directive principles and South African socio-economic rights.
+
+**Directive:** Compare
+
+**Model answer:** Begin with a demand-specific comparative thesis. Trace source influence but distinguish justiciability, textual rights, legislative guidance, remedies and Indian judicial harmonisation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+
+### ORIGINAL MAINS PRACTICE 7 — 15 marks — 250 words
+
+**Question:** Evaluate emergency constitutionalism in India through comparative safeguards.
+
+**Directive:** Evaluate
+
+**Model answer:** Begin with a demand-specific comparative thesis. Use declaration threshold, approval, duration, rights, federal effect, judicial review and anti-normalisation safeguards; avoid one-to-one borrowing claims. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+
+### ORIGINAL MAINS PRACTICE 8 — 20 marks — 300 words
+
+**Question:** Design a method for deciding whether India should adopt a foreign constitutional institution.
+
+**Directive:** Propose
+
+**Model answer:** Begin with a demand-specific comparative thesis. Apply functional, structural, incentive, capacity, rights, transition and accountability fit before recommending adaptation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+
+**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+
+**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+
+**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+

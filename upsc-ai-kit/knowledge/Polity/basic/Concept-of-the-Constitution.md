@@ -187,6 +187,214 @@ powers. These cases explain **how the design operates**; they do not replace the
 
 ---
 
+
+
+## 7A. CONSTITUTION AS LEGAL, POLITICAL AND ASPIRATIONAL ORDER
+
+| Dimension | Core meaning | Indian operation | Limit |
+|---|---|---|---|
+| **Legal constitution** | Superior rules create competence, rights, procedures and remedies | Written text, judicial doctrine, constitutional statutes and binding rules structure public power | Legal enforcement cannot substitute for every political judgment |
+| **Political constitution** | Elections, confidence, legislative scrutiny, conventions, federal bargaining and public reason discipline power | Parliamentary responsibility and democratic contest make legal offices politically answerable | Electoral victory does not authorise constitutional destruction |
+| **Aspirational constitution** | Founding values and social goals orient future public action | Preamble, Fundamental Rights, Directive Principles and reform provisions pursue dignity, equality and social justice | Aspirations require lawful competence, resources, evidence and accountable implementation |
+
+These are not three separate constitutions. They describe interacting dimensions of one order:
+**law supplies authority and limits; politics supplies representation and accountability; aspiration
+supplies direction and legitimacy**.
+
+## 7B. CONSTITUTIONALISM STRESS TEST
+
+```text
+SOURCE       Is power traceable to the Constitution or valid law?
+   |
+PURPOSE      Does its use serve the constitutional end for which it was granted?
+   |
+PROCEDURE    Were debate, notice, reasons and institutional roles respected?
+   |
+RIGHTS       Are liberty, equality, dignity and minority citizenship protected?
+   |
+STRUCTURE    Are federalism, responsibility, separation/checks and review preserved?
+   |
+REMEDY       Can an independent institution correct illegality proportionately?
+   |
+LEGITIMACY   Can the decision be justified to citizens beyond bare political success?
+```
+
+**Rule of law** requires authorised, non-arbitrary and reviewable power. **Separation of powers**
+in India is functional and checks-based rather than watertight. **Limited government** restrains
+every constituted organ, including a democratic majority and the courts themselves.
+
+## 7C. QUALIFIED INDIAN DOCTRINE MATRIX
+
+| Idea | Judicial illustration | Exam-safe proposition | Qualification |
+|---|---|---|---|
+| Limited amending power | *Kesavananda Bharati* (1973); *Minerva Mills* (1980) | Article 368 permits wide change but not destruction of basic structure | The doctrine does not freeze every policy or provision |
+| Fair rule of law | *Maneka Gandhi* (1978) | Procedure affecting life or liberty must be fair, just and reasonable | Courts still require a textual right and disciplined remedy |
+| Constitutional morality | *Government of NCT of Delhi v Union of India* (2018); *Navtej Singh Johar* (2018) | Constitutional forms, roles, equality and minority citizenship prevail over raw majoritarian morality | It is not a judge's free-floating personal morality |
+| Transformative constitutionalism | *Navtej Singh Johar* (2018); *Joseph Shine* (2018) | Rights and constitutional values can dismantle entrenched status hierarchy | Transformation operates through text, competence, evidence and lawful institutions |
+| Living constitutional application | *K.S. Puttaswamy* (2017) | Enduring liberty and dignity principles can govern technological conditions | A living Constitution is not amendment by unbounded judicial preference |
+| Federal/secular restraint | *S.R. Bommai* (1994) | Federalism and secularism constrain partisan exercises of central power | Review remains tied to constitutional standards and material |
+
+> **Answer-grabbing line:** Constitutional morality and transformative constitutionalism are
+methods of fidelity to the Constitution's text, structure and equal citizenship—not licences to
+replace constitutional law with personal moral choice.
+
+
+
+
+## 7A. CONSTITUTION AS LEGAL, POLITICAL AND ASPIRATIONAL ORDER
+
+| Dimension | Core meaning | Indian operation | Limit |
+|---|---|---|---|
+| **Legal constitution** | Superior rules create competence, rights, procedures and remedies | Written text, judicial doctrine, constitutional statutes and binding rules structure public power | Legal enforcement cannot substitute for every political judgment |
+| **Political constitution** | Elections, confidence, legislative scrutiny, conventions, federal bargaining and public reason discipline power | Parliamentary responsibility and democratic contest make legal offices politically answerable | Electoral victory does not authorise constitutional destruction |
+| **Aspirational constitution** | Founding values and social goals orient future public action | Preamble, Fundamental Rights, Directive Principles and reform provisions pursue dignity, equality and social justice | Aspirations require lawful competence, resources, evidence and accountable implementation |
+
+These are not three separate constitutions. They describe interacting dimensions of one order:
+**law supplies authority and limits; politics supplies representation and accountability; aspiration
+supplies direction and legitimacy**.
+
+## 7B. CONSTITUTIONALISM STRESS TEST
+
+```text
+SOURCE       Is power traceable to the Constitution or valid law?
+   |
+PURPOSE      Does its use serve the constitutional end for which it was granted?
+   |
+PROCEDURE    Were debate, notice, reasons and institutional roles respected?
+   |
+RIGHTS       Are liberty, equality, dignity and minority citizenship protected?
+   |
+STRUCTURE    Are federalism, responsibility, separation/checks and review preserved?
+   |
+REMEDY       Can an independent institution correct illegality proportionately?
+   |
+LEGITIMACY   Can the decision be justified to citizens beyond bare political success?
+```
+
+**Rule of law** requires authorised, non-arbitrary and reviewable power. **Separation of powers**
+in India is functional and checks-based rather than watertight. **Limited government** restrains
+every constituted organ, including a democratic majority and the courts themselves.
+
+## 7C. QUALIFIED INDIAN DOCTRINE MATRIX
+
+| Idea | Judicial illustration | Exam-safe proposition | Qualification |
+|---|---|---|---|
+| Limited amending power | *Kesavananda Bharati* (1973); *Minerva Mills* (1980) | Article 368 permits wide change but not destruction of basic structure | The doctrine does not freeze every policy or provision |
+| Fair rule of law | *Maneka Gandhi* (1978) | Procedure affecting life or liberty must be fair, just and reasonable | Courts still require a textual right and disciplined remedy |
+| Constitutional morality | *Government of NCT of Delhi v Union of India* (2018); *Navtej Singh Johar* (2018) | Constitutional forms, roles, equality and minority citizenship prevail over raw majoritarian morality | It is not a judge's free-floating personal morality |
+| Transformative constitutionalism | *Navtej Singh Johar* (2018); *Joseph Shine* (2018) | Rights and constitutional values can dismantle entrenched status hierarchy | Transformation operates through text, competence, evidence and lawful institutions |
+| Living constitutional application | *K.S. Puttaswamy* (2017) | Enduring liberty and dignity principles can govern technological conditions | A living Constitution is not amendment by unbounded judicial preference |
+| Federal/secular restraint | *S.R. Bommai* (1994) | Federalism and secularism constrain partisan exercises of central power | Review remains tied to constitutional standards and material |
+
+> **Answer-grabbing line:** Constitutional morality and transformative constitutionalism are
+methods of fidelity to the Constitution's text, structure and equal citizenship—not licences to
+replace constitutional law with personal moral choice.
+
+
+
+
+## 7A. CONSTITUTION AS LEGAL, POLITICAL AND ASPIRATIONAL ORDER
+
+| Dimension | Core meaning | Indian operation | Limit |
+|---|---|---|---|
+| **Legal constitution** | Superior rules create competence, rights, procedures and remedies | Written text, judicial doctrine, constitutional statutes and binding rules structure public power | Legal enforcement cannot substitute for every political judgment |
+| **Political constitution** | Elections, confidence, legislative scrutiny, conventions, federal bargaining and public reason discipline power | Parliamentary responsibility and democratic contest make legal offices politically answerable | Electoral victory does not authorise constitutional destruction |
+| **Aspirational constitution** | Founding values and social goals orient future public action | Preamble, Fundamental Rights, Directive Principles and reform provisions pursue dignity, equality and social justice | Aspirations require lawful competence, resources, evidence and accountable implementation |
+
+These are not three separate constitutions. They describe interacting dimensions of one order:
+**law supplies authority and limits; politics supplies representation and accountability; aspiration
+supplies direction and legitimacy**.
+
+## 7B. CONSTITUTIONALISM STRESS TEST
+
+```text
+SOURCE       Is power traceable to the Constitution or valid law?
+   |
+PURPOSE      Does its use serve the constitutional end for which it was granted?
+   |
+PROCEDURE    Were debate, notice, reasons and institutional roles respected?
+   |
+RIGHTS       Are liberty, equality, dignity and minority citizenship protected?
+   |
+STRUCTURE    Are federalism, responsibility, separation/checks and review preserved?
+   |
+REMEDY       Can an independent institution correct illegality proportionately?
+   |
+LEGITIMACY   Can the decision be justified to citizens beyond bare political success?
+```
+
+**Rule of law** requires authorised, non-arbitrary and reviewable power. **Separation of powers**
+in India is functional and checks-based rather than watertight. **Limited government** restrains
+every constituted organ, including a democratic majority and the courts themselves.
+
+## 7C. QUALIFIED INDIAN DOCTRINE MATRIX
+
+| Idea | Judicial illustration | Exam-safe proposition | Qualification |
+|---|---|---|---|
+| Limited amending power | *Kesavananda Bharati* (1973); *Minerva Mills* (1980) | Article 368 permits wide change but not destruction of basic structure | The doctrine does not freeze every policy or provision |
+| Fair rule of law | *Maneka Gandhi* (1978) | Procedure affecting life or liberty must be fair, just and reasonable | Courts still require a textual right and disciplined remedy |
+| Constitutional morality | *Government of NCT of Delhi v Union of India* (2018); *Navtej Singh Johar* (2018) | Constitutional forms, roles, equality and minority citizenship prevail over raw majoritarian morality | It is not a judge's free-floating personal morality |
+| Transformative constitutionalism | *Navtej Singh Johar* (2018); *Joseph Shine* (2018) | Rights and constitutional values can dismantle entrenched status hierarchy | Transformation operates through text, competence, evidence and lawful institutions |
+| Living constitutional application | *K.S. Puttaswamy* (2017) | Enduring liberty and dignity principles can govern technological conditions | A living Constitution is not amendment by unbounded judicial preference |
+| Federal/secular restraint | *S.R. Bommai* (1994) | Federalism and secularism constrain partisan exercises of central power | Review remains tied to constitutional standards and material |
+
+> **Answer-grabbing line:** Constitutional morality and transformative constitutionalism are
+methods of fidelity to the Constitution's text, structure and equal citizenship—not licences to
+replace constitutional law with personal moral choice.
+
+
+
+
+## 7A. CONSTITUTION AS LEGAL, POLITICAL AND ASPIRATIONAL ORDER
+
+| Dimension | Core meaning | Indian operation | Limit |
+|---|---|---|---|
+| **Legal constitution** | Superior rules create competence, rights, procedures and remedies | Written text, judicial doctrine, constitutional statutes and binding rules structure public power | Legal enforcement cannot substitute for every political judgment |
+| **Political constitution** | Elections, confidence, legislative scrutiny, conventions, federal bargaining and public reason discipline power | Parliamentary responsibility and democratic contest make legal offices politically answerable | Electoral victory does not authorise constitutional destruction |
+| **Aspirational constitution** | Founding values and social goals orient future public action | Preamble, Fundamental Rights, Directive Principles and reform provisions pursue dignity, equality and social justice | Aspirations require lawful competence, resources, evidence and accountable implementation |
+
+These are not three separate constitutions. They describe interacting dimensions of one order:
+**law supplies authority and limits; politics supplies representation and accountability; aspiration
+supplies direction and legitimacy**.
+
+## 7B. CONSTITUTIONALISM STRESS TEST
+
+```text
+SOURCE       Is power traceable to the Constitution or valid law?
+   |
+PURPOSE      Does its use serve the constitutional end for which it was granted?
+   |
+PROCEDURE    Were debate, notice, reasons and institutional roles respected?
+   |
+RIGHTS       Are liberty, equality, dignity and minority citizenship protected?
+   |
+STRUCTURE    Are federalism, responsibility, separation/checks and review preserved?
+   |
+REMEDY       Can an independent institution correct illegality proportionately?
+   |
+LEGITIMACY   Can the decision be justified to citizens beyond bare political success?
+```
+
+**Rule of law** requires authorised, non-arbitrary and reviewable power. **Separation of powers**
+in India is functional and checks-based rather than watertight. **Limited government** restrains
+every constituted organ, including a democratic majority and the courts themselves.
+
+## 7C. QUALIFIED INDIAN DOCTRINE MATRIX
+
+| Idea | Judicial illustration | Exam-safe proposition | Qualification |
+|---|---|---|---|
+| Limited amending power | *Kesavananda Bharati* (1973); *Minerva Mills* (1980) | Article 368 permits wide change but not destruction of basic structure | The doctrine does not freeze every policy or provision |
+| Fair rule of law | *Maneka Gandhi* (1978) | Procedure affecting life or liberty must be fair, just and reasonable | Courts still require a textual right and disciplined remedy |
+| Constitutional morality | *Government of NCT of Delhi v Union of India* (2018); *Navtej Singh Johar* (2018) | Constitutional forms, roles, equality and minority citizenship prevail over raw majoritarian morality | It is not a judge's free-floating personal morality |
+| Transformative constitutionalism | *Navtej Singh Johar* (2018); *Joseph Shine* (2018) | Rights and constitutional values can dismantle entrenched status hierarchy | Transformation operates through text, competence, evidence and lawful institutions |
+| Living constitutional application | *K.S. Puttaswamy* (2017) | Enduring liberty and dignity principles can govern technological conditions | A living Constitution is not amendment by unbounded judicial preference |
+| Federal/secular restraint | *S.R. Bommai* (1994) | Federalism and secularism constrain partisan exercises of central power | Review remains tied to constitutional standards and material |
+
+> **Answer-grabbing line:** Constitutional morality and transformative constitutionalism are
+methods of fidelity to the Constitution's text, structure and equal citizenship—not licences to
+replace constitutional law with personal moral choice.
+
+
 ## 8. Answer architecture (10/15/20-mark support)
 
 ### 8.1 Demand map

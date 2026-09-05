@@ -2,13 +2,13 @@
 title: Polity 33 - Attorney General and Advocate General - Complete Topic Package
 subject: Polity
 gs_paper: GS-II
-control_date: 2026-08-19
+control_date: 2026-08-28
 approval: false
 ---
 
 # Polity 33 - Attorney General and Advocate General - Complete Topic Package
 
-> **Control date:** 19 August 2026, Asia/Kolkata  
+> **Control date:** 28 August 2026, Asia/Kolkata  
 > **Evidence tags:** `[FACT]` directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive control; `[LIMIT]` qualification preventing overstatement.  
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** Articles 76, 88, 105(4), 124(3), 165, 177, 194(4) and 217(2); appointment, qualifications, pleasure tenure, remuneration, advice, litigation, audience, legislative participation, privilege, professional restrictions, legal ethics, confidentiality, institutional comparisons, limits, reforms and current controls.
@@ -973,7 +973,7 @@ THIRD: timely advice, litigation and compliance
 FOURTH: transparent performance and systemic learning
 ```
 
-## 29. Current-control board as on 19 August 2026
+## 29. Current-control board as on 28 August 2026
 
 ### Visual 56 - Stable, current and deliberately omitted
 
@@ -1123,6 +1123,8 @@ Thus, the office advances lawful governance, but professional credibility must o
 
 **Why this earns marks:** It answers all three limbs, distinguishes Constitution from Rules, links advice to governance and ends with a qualified institutional verdict.
 
+**How to improve/compress:** Lead with Article 76, divide the answer into responsibilities, rights and limitations, and use the Rules only to qualify rather than displace the constitutional text.
+
 ## Verified PYQ 2 - UPSC GS-II 2019, Q14 - 15 marks, 250 words
 
 > **Neutral audited rendering:** Discuss the Attorney General as the chief legal adviser and lawyer of the Government of India.
@@ -1148,6 +1150,8 @@ Article 76 creates the Attorney General as the Union's highest law officer: a co
 The Attorney General is therefore the government's lawyer but not its uncritical mouthpiece: institutional value lies in loyal representation combined with candour to court and preventive constitutional advice.
 
 **Why this earns marks:** It treats adviser and lawyer as distinct limbs, uses named provisions, corrects overstatements and evaluates the office's dual-role tension.
+
+**How to improve/compress:** Separate adviser and advocate functions; compress appointment detail and reserve one paragraph for the government-client versus constitutional-functionary tension.
 
 ## Verified PYQ 3 - UPSC Prelims 2022, Q17 - routed distinction
 
@@ -1812,6 +1816,8 @@ Thus, high qualification is combined with politically responsive tenure, making 
 
 **Why this earns marks:** It separates cross-referenced qualification, formal appointment, constitutional pleasure and current service-rule detail while correcting the age trap.
 
+**How to improve/compress:** Treat this as an elimination exercise: classify Article 76 and Article 165 as constitutional, then reject constitutional status for SG/ASG without inventing an official key.
+
 ## Original Solved Mains 2 - 10 marks, 150 words
 
 **Question:** Distinguish legislative participation from legislative membership and privilege in the case of the Attorney General and Advocate General.
@@ -1830,6 +1836,8 @@ Therefore, the design admits legal expertise into legislative deliberation while
 
 **Why this earns marks:** It uses all four controlling Articles, states the joint-sitting difference and precisely limits privilege.
 
+**How to improve/compress:** Use four labelled lines—qualification, appointment, tenure and remuneration—and explicitly separate constitutional pleasure from the administrative Rule 3 term.
+
 ## Original Solved Mains 3 - 10 marks, 150 words
 
 **Question:** “The Attorney General is not an ordinary full-time civil servant, but neither is private practice unrestricted.” Explain with reference to current rules.
@@ -1847,6 +1855,8 @@ The statement corrects two opposite simplifications about the Union's chief law 
 Thus, the office remains professional rather than a regular civil post, but loyalty and conflict restrictions sharply bound outside work.
 
 **Why this earns marks:** It identifies the current rule, gives exact restriction categories and avoids the stale “free private practice” formulation.
+
+**How to improve/compress:** Build a Union/State table around Articles 88/177 and 105(4)/194(4); state “participation without vote” before discussing privilege.
 
 ## Original Solved Mains 4 - 15 marks, 250 words
 
@@ -1870,6 +1880,8 @@ Therefore, the offices share a constitutional purpose but operate through distin
 
 **Why this earns marks:** It compares six dimensions, names each Article, highlights the decisive audience asymmetry and uses State variation as a qualification.
 
+**How to improve/compress:** List Rule 8 prohibitions in grouped form; avoid saying private practice is unrestricted and add one sentence on permission-controlled conduct.
+
 ## Original Solved Mains 5 - 15 marks, 250 words
 
 **Question:** Is the Attorney General primarily government counsel or a constitutional functionary? Examine.
@@ -1889,6 +1901,8 @@ The Attorney General is constitutionally constituted government counsel whose pr
 The better view is not either/or: the Attorney General is government counsel by function and a constitutional functionary by source and enabling rights. The office succeeds when loyalty means lawful, candid representation rather than uncritical endorsement.
 
 **Why this earns marks:** It frames both sides, uses Constitution, Rules, evidence law and contempt law, and reaches a graded rather than rhetorical verdict.
+
+**How to improve/compress:** Compare source, appointer, qualification, audience text, legislative participation and pleasure; do not import Article 76(3) into Article 165.
 
 ## Original Solved Mains 6 - 15 marks, 250 words
 
@@ -1914,6 +1928,8 @@ These offices differ by legal source, territorial level and institutional functi
 
 **Why this earns marks:** It classifies every named office by source and function, gives relevant Articles/statute and ends with a reusable discrimination test.
 
+**How to improve/compress:** Classify every office by its creating source before comparing functions; use one sentence each for AGI, SG/ASG, Advocate General and prosecutor.
+
 ## Original Solved Mains 7 - 20 marks, 250 words
 
 **Question:** Analyse the ethical and institutional challenges facing India's constitutional law officers. Suggest reforms without undermining responsible government.
@@ -1938,6 +1954,8 @@ Reform should create “independent candour within responsible government”: tr
 
 **Why this earns marks:** It addresses ethics, tenure, privilege, federal variation and litigation management, names current law and keeps every proposal constitutionally qualified.
 
+**How to improve/compress:** Structure the answer as client loyalty, court duty, conflict controls and confidentiality; conclude with a recusal/disclosure standard.
+
 ## Original Solved Mains 8 - 20 marks, 250 words
 
 **Question:** Evaluate the constitutional and operational architecture through which legal advice becomes government litigation in India. Identify its principal limits.
@@ -1957,6 +1975,8 @@ India's architecture is layered: the Constitution creates law officers, rules al
 Therefore, good government litigation begins before court: lawful policy design, complete facts, candid advice, conflict-free allocation and timely compliance. Constitutional prestige without institutional preparation produces weak advocacy.
 
 **Why this earns marks:** It traces the entire chain from constitutional source to litigation outcome, integrates current rules and identifies doctrinal and administrative limits.
+
+**How to improve/compress:** Link transparent selection to professional competence and public interest, while preserving the Governor’s Article 165 appointment and executive need for trusted counsel.
 
 ## Final consolidated register notes - Attorney General and Advocate General
 

@@ -18,7 +18,7 @@
 | ✅ 1786 | **Act of 1786** strengthens Cornwallis by allowing override of council and combining posts |
 | ✅ 1813 | **Charter Act** ends Company trade monopoly except tea and China trade |
 | ✅ 1833 | **Charter Act** makes the Governor-General of Bengal the Governor-General of India |
-| ✅ 1853 | **Charter Act** separates legislative and executive functions and opens civil service competition |
+| ✅ 1853 | **Charter Act** separates legislative and executive functions and removes Directors' patronage, opening the route to competition |
 
 ## 1. Snapshot & core idea
 
@@ -34,7 +34,7 @@
 - ✅ The **Regulating Act** placed Bombay and Madras under Bengal in matters of war and peace, created a Council of four, and set up the **Supreme Court at Calcutta**.
 - ✅ **Pitt's India Act, 1784** introduced a Board of Control representing the British Crown while the Company Court of Directors retained commercial administration — a classic system of **dual control**.
 - ✅ The **Charter Act, 1833** converted the Governor-General of Bengal into the **Governor-General of India**; **William Bentinck** was the first Governor-General of India.
-- ✅ The **Charter Act, 1853** separated legislative from executive work in the Governor-General's Council and introduced open competitive recruitment for the civil service.
+- ✅ The **Charter Act, 1853** separated legislative from executive work in the Governor-General's Council and removed the Directors' patronage monopoly; the **Macaulay Committee (1854)** and first open examination (**1855**) implemented the competitive route.
 
 ## 2. Key classification / data
 
@@ -47,7 +47,7 @@
 | ✅ Charter Act, 1793 | Renewed Company's privileges and continued the existing system | Regular charter renewal |
 | ✅ Charter Act, 1813 | Ended trade monopoly except tea and China; ₹1 lakh for education; missionaries permitted | Trade monopoly weakened |
 | ✅ Charter Act, 1833 | Governor-General of India; Law Member; Law Commission; Company purely administrative | Centralisation and codification |
-| ✅ Charter Act, 1853 | Legislative/executive separation; open competitive civil service exam; expanded Indian Legislative Council | Exam and legislative split |
+| ✅ Charter Act, 1853 | Legislative/executive separation; Directors' patronage ended; competitive route authorised | Recruitment and legislative split |
 
 ## 3. Study links
 
@@ -66,7 +66,7 @@
 - ✅ The **Charter Act, 1813** sanctioned **₹1 lakh** annually for education and allowed Christian missionaries.
 - ✅ The **Charter Act, 1833** made **William Bentinck** the first **Governor-General of India**.
 - ✅ The **Charter Act, 1833** added a **Law Member** to the Council; **Macaulay** became the first Law Member.
-- ✅ The **Charter Act, 1853** introduced open competitive examination for civil service recruitment.
+- ✅ The **Charter Act, 1853** ended the Directors' patronage monopoly and authorised competition; the Macaulay Committee reported in **1854** and the first open examination followed in **1855**.
 - ⚠️ The acts show a shift from Company autonomy to parliamentary sovereignty and eventual Crown rule in 1858.
 
 ## 5. UPSC Traps
@@ -76,7 +76,7 @@
 - ❌ Regulating Act made Warren Hastings Governor-General of India. → ✅ It made him **Governor-General of Bengal**.
 - ❌ Pitt's India Act ended Company rule. → ✅ It created **dual control**; Company rule continued.
 - ❌ Charter Act 1813 ended all Company monopoly. → ✅ It ended Indian trade monopoly but kept **tea and China trade**.
-- ❌ Charter Act 1833 introduced competitive civil service exam. → ✅ It spoke of open recruitment; the **1853 Act** introduced competition.
+- ❌ Charter Act 1853 by itself instantly created the competitive examination. → ✅ It removed patronage and authorised competition; the **1854 committee** and **1855 examination** were separate implementation steps.
 - ❌ Supreme Court at Calcutta was created by Pitt's India Act. → ✅ It was created under the **Regulating Act framework** and began in **1774**.
 
 ## 6. 📰 Current link
@@ -166,7 +166,8 @@
 1786  divided council               -> strong personal executive authority
 1813  chartered monopoly            -> open British trade + education + missions
 1833  presidency legislation        -> all-India legislature + codification
-1853  patronage recruitment         -> competitive bureaucracy + legislative separation
+1853  Directors' patronage          -> competitive route + legislative separation
+1854-55 committee/rules             -> first open examination
 1858  company agency                -> direct Crown rule (continues in basic/12)
 ```
 
@@ -188,7 +189,7 @@
 - **Governor-General of Bengal (1773)** and **Governor-General of India (1833)** are different offices — the commonest error in this topic.
 - Warren Hastings was the first Governor-General of Bengal; William Bentinck the first Governor-General of India.
 - The 1813 Act ended the Indian trade monopoly but retained tea and the China trade.
-- The 1833 Act spoke of non-discrimination in office; the **1853** Act introduced competitive examination.
+- The 1833 Act stated non-discrimination in office; the **1853 Act** removed Directors' patronage, followed by the **1854 Macaulay Committee** and **1855 open examination**.
 - Pitt's India Act did not end Company rule.
 - Do not attribute the Supreme Court at Calcutta to Pitt's India Act; it belongs to the 1773 framework and began in 1774.
 
@@ -215,3 +216,21 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Company-state constitutional structure from the post-Diwani
+  anomaly through the Government of India Act and Queen's Proclamation of
+  1858: parliamentary supervision, executive and judicial design, Charter Act
+  centralisation, codification, patronage reform and the legal Crown transfer.
+- **Boundary:** Topic 04 owns Bengal conquest and Dual Government; Topic 07
+  owns economic consequences; Topic 08 owns detailed administrative
+  institutions; Topic 09 owns education/press policy; Topic 11 owns the Revolt
+  core; Topic 12 owns the 1861 and later constitutional sequence.
+- **Mechanism control:** the 1853 Act removed Directors' patronage and
+  authorised competition; the Macaulay Committee (1854) and first open
+  examination (1855) were separate implementation steps. The 1858 Act and
+  Queen's Proclamation of 1 November 1858 are distinct instruments.
+- **Verified PYQ ownership, 2018-2026:** exactly two direct routes—2019
+  Prelims Q4 and 2023 Prelims Q50. Both local official keys are unavailable;
+  no official answer is fabricated.

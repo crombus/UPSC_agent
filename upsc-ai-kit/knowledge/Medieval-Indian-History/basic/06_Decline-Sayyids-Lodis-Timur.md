@@ -43,8 +43,8 @@
 | Phase | Main feature | UPSC marker |
 |---|---|---|
 | ✅ Post-Firuz Tughlaqs | Succession struggle, slaves and nobles intervene | Centre collapses from within |
-| ✅ Timur (1398) | Plundering raid; Delhi sacked; artisans taken to Samarqand | Shock, not administrative replacement |
-| ✅ Sayyids (1414–51) | Weak Delhi rule under Khizr Khan's line | Transitional dynasty |
+| ⚠️ Timur (1398) | Conquest raid combining plunder, prestige, strategic and religious self-justification; Delhi sacked | Shock, not administrative replacement or sole cause |
+| ⚠️ Sayyids (1414–51) | Limited Delhi-centred rule under Khizr Khan's line | Transitional state with real but restricted fiscal-military capacity |
 | ✅ Sharqis of Jaunpur | Cultural centre; "Shiraz of the East" | Regional kingdom after decline |
 | ✅ Bahlul Lodi | Afghan consolidation; Jaunpur annexed | Lodi power begins |
 | ✅ Sikandar Lodi | Efficient administration; Agra; grain-octroi abolition | Strongest Lodi ruler |
@@ -58,7 +58,8 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ Timur invaded Delhi in **1398** and the raid was primarily for plunder.
+- ⚠️ Timur invaded in **1398**; plunder was central, alongside imperial prestige,
+  frontier strategy and religious self-justification in Timurid narratives.
 - ✅ Timur carried Indian artisans such as masons, stone-cutters and carpenters to Samarqand.
 - ✅ Sayyids ruled **1414–51**; Lodis ruled **1451–1526**.
 - ✅ Bahlul Lodi was an Afghan and annexed Jaunpur in **1484**.
@@ -71,7 +72,8 @@
 > 🔑 Trap: Timur did not establish a new Indian dynasty directly; the Sultanate's decline had already begun.
 
 - ❌ Timur's invasion alone caused the decline. → It **accelerated** a decline rooted in weak central authority and regional breakaways.
-- ❌ Sayyids were a strong revival of Delhi power. → They were a **weak transitional dynasty**.
+- ❌ Sayyid rule was either a strong empire or meaningless weakness. → It was a
+  limited Delhi-centred polity negotiating tribute, nobles and regional powers.
 - ❌ Lodis were Turks like earlier Delhi rulers. → Lodis were **Afghans**.
 - ❌ Sikandar Lodi was only orthodox. → He was orthodox, but also an efficient administrator and patron of Persian learning.
 
@@ -118,3 +120,303 @@
 - **10-mark:** Internal decline (unit 1) + Timur as catalyst (unit 2) + brief Lodi recovery; conclude: process not event.
 - **15-mark:** Add regional-state-formation point (Jaunpur) + Sikandar's recovery; conclude: devolution ≠ civilisational collapse.
 - **20-mark:** Full 5-unit + Afghan political-culture analysis; compare Sultanate's institutional weakness with later Mughal solutions; graded verdict on decline debates.
+
+---
+
+## 9. Semantic-completeness repair: late Tughlaq fragmentation
+
+Firuz's death in 1388 intensified a crisis already rooted in hereditary
+assignments, a weakened army, competing princes, nobles, slaves and provincial
+power.
+
+| Structural factor | Mechanism |
+|---|---|
+| Open succession | rival Tughlaq claimants and court factions |
+| Elite faction | nobles, military households and Firuzi slaves backed competing rulers |
+| Fiscal-military constraints | shrinking revenue/control weakened army, forts and communication |
+| Provincial dynamics | governors and regional courts retained resources and autonomy |
+| Geography/communication | distance made repeated enforcement costly |
+| Regional state formation | Jaunpur, Gujarat, Malwa, Bengal and others became viable polities |
+
+The Sultanate's Delhi core contracted before Timur. The "Delhi to Palam"
+remark is a rhetorical image of narrow reach, not a surveyed boundary.
+
+---
+
+## 10. Timur's 1398 campaign
+
+### 10.1 Context, route and motives
+
+Timur was a Central Asian conqueror ruling a Timurid empire centred on
+Transoxiana/Samarqand. His Indian campaign followed prior Timurid operations
+toward Multan and the Punjab.
+
+```text
+Central Asian base
+    -> Indus crossing / Punjab route
+    -> Tulamba-Dipalpur and north-western towns
+    -> Delhi battle and sack, December 1398
+    -> return through north-west with captives and booty
+```
+
+Motives included wealth/plunder, imperial prestige, frontier strategy, rewarding
+the army and religious self-justification. His memoir/official traditions should
+not be read as an objective motive statement.
+
+### 10.2 Sources
+
+| Source | Use | Limit |
+|---|---|---|
+| Timurid memoir traditions | ruler's claims, route and self-justification | textual history/redaction and conqueror's rhetoric |
+| Nizam al-Din Shami/Sharaf al-Din Yazdi *Zafarnama* traditions | campaign narrative and Timurid legitimacy | court-sponsored victory history |
+| Yahya bin Ahmad Sirhindi, *Tarikh-i Mubarak Shahi* | late Tughlaq/Sayyid political sequence | Delhi-centred court perspective |
+| Afif and other Indian chronicles | pre-invasion Tughlaq structures and remembered disruption | chronology and patronage vary |
+| Inscriptions, coins and architecture | local authority, minting, tombs and urban continuity | patchy survival |
+| Later chronicles | remembered scale and moral interpretation | casualty/loot inflation and hindsight |
+
+### 10.3 Delhi sack and consequences
+
+- Delhi suffered mass violence, enslavement, looting and urban/economic
+  disruption.
+- Artisans and captives were taken toward Samarqand.
+- Court and commercial confidence, population and symbolic prestige were badly
+  affected, but recovery and habitation continued.
+- Exact army, captive, casualty and loot numbers are not independently verified.
+- Timur left; he did not establish a continuously administered Indian empire.
+- The invasion accelerated fragmentation but did not solely cause it or end
+  Delhi permanently.
+
+---
+
+## 11. Sayyid state, 1414–1451
+
+### 11.1 Khizr Khan and legitimacy
+
+Khizr Khan built power in Multan/Punjab, had a Timurid relationship and took
+Delhi in 1414. His claimed Sayyid descent is a legitimating tradition, not
+securely proven hereditary genealogy.
+
+- He did not initially project the same sovereign titulature as stronger
+  sultans and retained Timurid names/relationship in legitimacy practices.
+- Timurid connection did not make Delhi a directly administered province in a
+  modern sense.
+- His rule depended on tribute campaigns, noble cooperation and a restricted
+  territorial core.
+
+### 11.2 Ruler ladder
+
+| Ruler | Reign | Historical issue |
+|---|---:|---|
+| Khizr Khan | 1414–21 | Delhi capture, Timurid relationship and limited sovereignty |
+| Mubarak Shah | 1421–34 | campaigns against Khokhars/Mewatis and nobles; murdered |
+| Muhammad Shah | 1434–45 | factional pressure and shrinking effective authority |
+| Ala al-Din Alam Shah | 1445–51 | withdrew to Badaun; Delhi yielded to Bahlul |
+
+Sayyid administration relied on older revenue, iqta/jagir-like assignments,
+nobles, military expeditions and tribute. Sources are too thin to reconstruct a
+uniform bureaucracy. Limited reach is not "non-history": the dynasty maintained
+Delhi and negotiated a crowded regional field.
+
+---
+
+## 12. Regional political geography
+
+| Region/power | Relation to Delhi |
+|---|---|
+| Jaunpur/Sharqis | major Ganga eastern rival and cultural centre |
+| Bengal | independent eastern sultanate with its own agrarian-commercial base |
+| Gujarat | wealthy regional sultanate and western commercial power |
+| Malwa | strategic central Indian state |
+| Mewar/Rajput powers | expanding military-political actors in Rajasthan-Malwa |
+| Punjab/Khokhars | frontier and recruitment/resistance zone |
+| Mewat | persistent local/regional pressure near Delhi |
+
+The fifteenth century was a system of regional sultanates and kingdoms, not a
+vacuum between Delhi and the Mughals.
+
+---
+
+## 13. Afghan political networks and Bahlul Lodi
+
+Afghan/Lodi political networks connected Punjab, the **Roh** frontier and armed
+lineages seeking service and land/revenue assignments.
+
+Afghan kingship often involved stronger claims of clan/noble consultation and
+relative equality among armed chiefs. This does not mean democracy,
+decentralization by nature or equality for subjects.
+
+### Bahlul
+
+- Bahlul's accession in 1451 followed Alam Shah's withdrawal and bargaining
+  within the Delhi-Punjab political field;
+- rose through Punjab/Sirhind power and Afghan recruitment;
+- accepted Delhi in 1451 after Alam Shah's withdrawal;
+- used alliance, kinship, bargaining, grants and military pressure;
+- fought a prolonged Sharqi-Jaunpur struggle;
+- brought Jaunpur under Lodi control through campaigns culminating in the
+  1470s–1480s;
+- expanded Delhi's effective upper-Ganga reach without restoring all earlier
+  Sultanate territory.
+
+---
+
+## 14. Sikandar Lodi, 1489–1517
+
+### 14.1 State-building
+
+| Measure | Historical significance | Caution |
+|---|---|---|
+| Agra, c. 1504–06 | new strategic centre for doab, Rajasthan and Malwa routes | founding/date language varies by source |
+| *Gazz-i Sikandari* | measurement standard associated with revenue | application was not necessarily uniform |
+| rent/revenue rolls | improved claims, accounting and agrarian supervision | normative record versus local practice |
+| grain octroi abolition | supported grain movement and lower prices | cannot prove empire-wide market prosperity |
+| roads/security/justice | aided communication and trade | court praise may magnify reach |
+| noble discipline | required attendance, respect for farmans and accounts | Afghan chiefs retained bargaining power |
+
+### 14.2 Religion and culture
+
+Sikandar patronized Persian learning and poetry and is associated with
+administrative/economic recovery. Sources also report orthodox policies,
+temple actions and restrictions. These require event-specific chronology.
+Neither "solely tolerant" nor "solely intolerant" is adequate.
+
+---
+
+## 15. Ibrahim Lodi and dynastic fracture
+
+Ibrahim, 1517–26, attempted stronger monarchical centralization over Afghan
+chiefs accustomed to consultation, partition and lineage bargaining.
+
+- removal/punishment of nobles intensified rebellion;
+- Daulat Khan Lodi in Punjab and Alam Khan sought outside support against him;
+- eastern and other Afghan chiefs pursued their own interests;
+- Rana Sanga's expansion in the Mewar-Malwa region pressured Lodi power;
+- the exact nature of Rana Sanga-Babur communications/expectations is debated;
+- Babur entered an active coalition/faction field, not an empty India.
+
+Afghan polity was not inherently decentralized or democratic. Bahlul, Sikandar
+and Ibrahim adopted different bargains between crown and chiefs.
+This rejects ethnic-political stereotype as explanation.
+
+---
+
+## 16. First Battle of Panipat, 1526
+
+### 16.1 Route and battlefield system
+
+Babur moved from Kabul through Punjab after earlier probes and negotiations,
+defeated Lodi resistance and confronted Ibrahim at Panipat.
+
+| Element | Function | Evidence caution |
+|---|---|---|
+| Field artillery/firearms | shock, fire and defensive frontage under Ottoman-associated specialists | not the sole cause |
+| Carts (*araba*) and barriers | protected firing positions and channelled movement | exact arrangement derives strongly from Babur's memoir |
+| *Tulughma* | flanking/divisional manoeuvre | terminology and battlefield application need contextual explanation |
+| Cavalry/mounted archery | mobility, encirclement and repeated attack | integrated with command, not technology alone |
+| Intelligence/discipline | deployment and response | political cohesion mattered |
+
+### 16.2 Contingency and numbers
+
+Babur's memoir is unusually proximate but also royal self-representation.
+Exact troop, elephant and casualty numbers in memoirs/later chronicles are
+uncertain. Ibrahim's elite conflicts, Punjab defections, tactical deployment,
+Babur's experience and field system interacted. Artillery alone did not decide
+the battle.
+
+Panipat ended Lodi rule but did not instantaneously create a fully consolidated
+Mughal empire; Khanwa, Chanderi, Ghagra and later struggles remained.
+
+---
+
+## 17. Why the Sultanate declined
+
+| Factor | Mechanism |
+|---|---|
+| Succession | no fixed primogeniture; recurrent civil conflict |
+| Elite faction | slave, Turkish, Afghan and regional noble competition |
+| Fiscal-military stress | assignments, army quality, audits and shrinking central revenue |
+| Provincial state formation | durable local agrarian-commercial resources sustained independent courts |
+| Communication/geography | distant enforcement was slow and expensive |
+| External incursions | Timur exploited and intensified weakness |
+| Changing warfare | artillery/firearms mattered when integrated with tactics and command |
+| Political contingency | individual alliances, defections and decisions affected outcomes |
+
+No single ruler, Timur or artillery explains decline.
+
+---
+
+## 18. Institutional continuity and culture
+
+- Iqta/jagir-like revenue assignments, Persian chancery, urban mints, qazi and
+  local revenue personnel continued in changing forms.
+- Delhi, Agra, Jaunpur and regional capitals persisted or grew.
+- Coinage and architecture show both dynastic claims and institutional
+  continuity.
+- Sayyid-Lodi tomb architecture and garden/tomb landscapes belong to a
+  transitional urban-cultural world.
+- Mughal rulers adapted existing revenue, elite, language and urban practices;
+  1526 was not total institutional replacement.
+- Existing institutions were altered and redeployed rather than erased at once.
+- Continuity should not be written teleologically as if the Sultanate existed
+  only to prepare Mughal rule.
+
+---
+
+## 19. PYQ ownership and Prelims traps
+
+No verified PYQ is routed directly to Topic 06. Four retained applications are:
+
+| PYQ | True owner |
+|---|---|
+| 2021 Prelims Q38, rulers/events | Topic 05 |
+| 2022 Prelims Q57, Mongol chronology | Topic 04 |
+| 2020 GS-I Q12, Persian literary sources | Topic 24 |
+| 2023 GS-I Q12, Sultanate technology | Topic 07 |
+
+Prelims traps:
+
+- Timur = 1398, after Muhammad/Firuz; he did not found the Sayyid dynasty
+  directly.
+- Khizr Khan begins Sayyids; Bahlul begins Lodis.
+- Mubarak Shah, Muhammad Shah and Alam Shah are Sayyids.
+- Sikandar founded/developed Agra and used *gazz-i Sikandari*.
+- Ibrahim, not Sikandar, faced Babur at Panipat.
+- Yahya Sirhindi wrote *Tarikh-i Mubarak Shahi*.
+- Lodi tombs and coinage must be matched to dynasty/site evidence.
+
+---
+
+## 20. Executable Mains architecture
+
+### 10 marks / 150 words: Timur as catalyst
+
+Pre-existing fragmentation → route/motives → Delhi sack → human/economic/
+symbolic effects → regional continuity → catalyst-not-sole-cause verdict.
+
+### 15 marks / 250 words: Sayyid-Lodi transition
+
+```text
+restricted Sayyid sovereignty
+        |
+regional balance of power
+        |
+Bahlul alliance/recruitment and Jaunpur
+        |
+Sikandar administration/Agra
+        |
+Ibrahim crown-chief conflict
+        |
+contingent Panipat transition
+```
+
+### 20 marks / 250 words: decline of Delhi Sultanate
+
+- post-Firuz succession and faction;
+- fiscal-military and communication constraints;
+- provincial/regional state formation;
+- Timur external shock;
+- Sayyid limited recovery;
+- Lodi Afghan political bargains;
+- Ibrahim/Babur coalition and battlefield system;
+- institutional continuities after 1526;
+- non-teleological, multicausal verdict.

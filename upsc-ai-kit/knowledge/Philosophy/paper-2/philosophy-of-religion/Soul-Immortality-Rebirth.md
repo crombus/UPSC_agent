@@ -4,6 +4,25 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The clause requires separating survival, transmigration, karmic continuity, and the several meanings of liberation. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns **soul/self/person concepts only insofar as they control
+immortality, rebirth and liberation**, together with survival arguments,
+identity criteria, school-specific continuity and liberation-termini.
+
+| Owned here | Boundary |
+|---|---|
+| comparative soul, self and person models needed for survival | full Indian-school self metaphysics remains with the Paper I canonical owners |
+| arguments and objections concerning post-mortem survival | revelation and faith-based warrant remain with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
+| religious experience only as a bounded survival argument | phenomenology and veridicality remain with [Religious Experience](./Religious-Experience.md) |
+| karma only as continuity, rebirth and liberation mechanism | karma as an answer to suffering remains with [Problem of Evil](./Problem-of-Evil.md) |
+| Buddhist/Jain liberation and non-creator implications | the full case for religion without a creator remains with [Religion without God](./Religion-without-God.md) |
+| resurrection, replica and duplication only as identity tests | detailed doctrinal eschatology and intermediate-state speculation are not independently required by the PYQ corpus |
+
+⚠️ Soul, self, person, immortality, resurrection, rebirth, reincarnation and
+liberation are not synonyms. No empirical or neuroscientific claim in this
+owner is presented as scientific proof of survival.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -17,11 +36,29 @@
    WESTERN                          INDIAN
    Plato: soul immortal (a priori   Vedānta: ātman eternal → mokṣa (jīvanmukti/videhamukti)
     proofs, Phaedo)                 Nyāya-Vaiśeṣika: soul eternal substance → apavarga (release)
-   Christianity: resurrection       Jainism: jīva eternal → kaivalya
+   Christianity: resurrection       Jainism: jīva eternal → liberation/siddhahood
                                     Buddhism: NO permanent soul (anātman!) → nirvāṇa
                                        — rebirth WITHOUT a transmigrating self
 ```
 > 🔑 **Mnemonic — "I→R→L":** Immortality → Rebirth → Liberation. The exam's favourite question: *is immortality of the soul a NECESSARY condition for rebirth / for liberation?* Buddhism is the great counter-example (rebirth **without** an immortal soul).
+
+## 0A. SOUL, SELF, PERSON AND CONTINUITY-BEARER ⚠️
+
+| Model | What the person/self is | Survival implication | Main pressure |
+|---|---|---|---|
+| Substance dualism | an immaterial thinking substance distinct from body | the soul may survive bodily death | interaction, individuation and dependence on brain/body |
+| Hylomorphism | the soul is the organising form of a living body | isolated disembodied survival is harder; resurrection restores the embodied person | how the same person is reconstituted |
+| Bundle/no-substantial-self | a series or bundle of physical/mental events without a permanent owner | causal or psychological continuity may replace substance survival | responsibility and “who” survives |
+| Embodied-person view | the person is an irreducibly embodied psychophysical unity | survival requires resurrection, re-creation or another continuity relation | replica and duplication problems |
+| Indian substantial-self models | enduring self (*ātman*), individual soul (*jīva*) or Nyāya self carries continuity | transmigration/reincarnation is intelligible | memory, evidence and school-specific attributes |
+| Buddhist no-permanent-self model | dependently arisen aggregates and causal continuity without an unchanging self (*anātman/anattā*) | rebirth does not require a transmigrating substance | neither-same-nor-different identity and moral responsibility |
+
+**Personal-identity criteria:** bodily continuity, memory/psychological
+continuity, soul-substance and causal continuity answer different questions.
+Hick's replica thought experiment tests whether a unique psychophysical
+duplicate with memory and character is survival; the possibility of two
+replicas exposes the difference between qualitative similarity and numerical
+identity.
 
 ---
 
@@ -34,11 +71,26 @@
 - **Critique:** the affinity/simplicity claims are assumptions; Kant — the soul is not a knowable substance (paralogism). ⚠️
 - **Indian:** ātman (Vedānta), jīva (Jain), and the Nyāya self are **eternal** in their respective systems. The *Gītā* 2.23 uses the canonical image that weapons, fire, water and wind cannot destroy the embodied self. ✅
 
+### 1.1 Arguments for immortality and their limits
+
+| Argument family | Core reasoning | Main objection |
+|---|---|---|
+| Simplicity/indivisibility | an immaterial simple soul has no parts into which it can decompose | simplicity is not established; even a simple subject could cease or depend on embodiment |
+| Identity/continuity | stable agency, responsibility or first-person unity requires a persisting subject | psychological or causal continuity may explain persistence without an immortal substance |
+| Moral order | complete justice or the highest good requires survival beyond one life | postulation expresses moral hope, not theoretical demonstration |
+| Desire/fulfilment | a deep natural desire for unending fulfilment points toward a possible object | desires can be frustrated or socially formed; existence does not follow from longing |
+| Religious experience/testimony | experiences interpreted as contact with the dead or an eternal self support survival | interpretation, diversity and alternative explanations prevent demonstrative force |
+
+**Body/brain objection:** systematic dependence of memory, personality and
+agency on bodily conditions pressures separable-soul theories. It does not by
+itself deductively prove that no subject can survive, but it shifts the burden
+to an account of interaction, identity and evidence.
+
 ---
 
 ## 2. REBIRTH (Karma-Saṃsāra) ✅
-- **Doctrine:** the soul, driven by **karma**, is repeatedly reborn until liberated; birth-conditions reflect past deeds. Shared by Vedānta, Nyāya, Jainism, and (transformed) Buddhism. ✅
-- **Rebirth in Karma theory (2023 PYQ):** rebirth is the **mechanism by which karmic debts are discharged** — without rebirth, karma's justice (fruits maturing beyond one life) is impossible. ✅
+- **Doctrine:** karmically conditioned continuity extends across lives until liberation. Vedānta, Nyāya and Jainism assign continuity to an enduring self or soul; Buddhism explains renewed becoming through causal continuity without a permanent self. ✅
+- **Rebirth in Karma theory (2023 PYQ):** rebirth widens the temporal field in which karmic consequences can mature beyond one life. “Debt” is only an analogy and must not replace each school's own causal account. ✅
 - **Gītā (2025 PYQ):** the imperishable soul *"casts off worn-out bodies and enters new ones"* — rebirth presupposes the deathless self.
 - **The Buddhist challenge (2022, 2024 PYQ):** Buddhism denies a permanent soul (**anātman/anattā**) yet affirms rebirth — what is reborn is **not a self but a causal continuum** of momentary states (a flame passing from candle to candle; *pratītyasamutpāda*). → **rebirth WITHOUT an immortal soul.** ✅
 - **"Is immortality a necessary condition for rebirth?" (2022, 2024, 2025):** ⚠️
@@ -54,8 +106,8 @@
 | **Viśiṣṭādvaita** | mokṣa | jīva reaches God, serves in bliss (never becomes God) | individual soul persists in communion |
 | **Nyāya-Vaiśeṣika** | apavarga (2024) | absolute cessation of pain; soul freed of all qualities incl. consciousness | soul exists, but **without consciousness/bliss** |
 | **Sāṃkhya-Yoga** | kaivalya | puruṣa isolated from prakṛti | pure isolated consciousness |
-| **Jainism** | kaivalya/mokṣa | jīva sheds all karmic matter → infinite knowledge/bliss, rises to top of universe | perfected, omniscient soul |
-| **Buddhism** | nirvāṇa | extinction of craving/dukkha; blowing-out | **no self** — cessation of the causal stream |
+| **Jainism** | liberation (*mokṣa/siddhahood*) | the soul (*jīva*) sheds all karmic matter; perfect knowledge (*kevala-jñāna*) is manifested before final disembodied release | perfected, omniscient individual soul |
+| **Buddhism** | liberation (*nirvāṇa*) | cessation of craving, ignorance and suffering; final nirvāṇa (*parinirvāṇa*) is not described as the survival or annihilation of a self | no permanent self; conventional and causal continuity operates until liberation |
 | **Plato/Western** | — | soul returns to the realm of Forms/the divine | immortal soul contemplating truth |
 
 - **Jīvanmukti (2025 PYQ — Advaita):** **liberation WHILE living** — the knower of Brahman is free *now*; the body continues by *prārabdha* karma (momentum of a spun wheel) until it drops (videhamukti). ✅
@@ -95,8 +147,8 @@
 | *Mokṣa* | Viśiṣṭādvaita | Release | Karmic bondage | Eternal jīva with God | ✅ Personal, in communion |
 | *Apavarga* | Nyāya-Vaiśeṣika | Cessation | Pain **and** its conditions | The self-substance | ❌ No consciousness or bliss |
 | *Kaivalya* | Sāṃkhya-Yoga | Aloneness | *Aviveka* | Puruṣa, isolated | ✅ Pure, contentless |
-| *Kevala/Siddhatva* | Jainism | Alone/perfected | Karmic matter | Perfected omniscient jīva | ✅ *Ananta-catuṣṭaya* |
-| *Nirvāṇa* | Buddhism | Blowing out | Craving, *dukkha* | ❓ Not stated as a self | ⚠️ "Object" language misleads |
+| Liberation (*mokṣa/siddhahood*) | Jainism | Release/perfection | Karmic matter | Perfected omniscient individual soul (*jīva*) | ✅ Four infinitudes (*ananta-catuṣṭaya*) |
+| Liberation (*nirvāṇa*) | Buddhism | Extinguishing craving | Craving, ignorance and suffering (*dukkha*) | ❓ Not stated as a self | ⚠️ "Object" or annihilation language misleads |
 | Resurrection | Semitic | Raising | Death | The embodied person | ✅ Embodied, before God |
 
 ---
@@ -455,3 +507,14 @@ graded conclusion on continuity without conflation.
 - John Hick, *Philosophy of Religion* and *Death and Eternal Life*; Oscar Cullmann, *Immortality of the Soul or Resurrection of the Dead?*
 - Peter van Inwagen on the possibility of resurrection.
 - S. C. Chatterjee & D. M. Datta, *An Introduction to Indian Philosophy*; C. D. Sharma, *A Critical Survey of Indian Philosophy*; S. Radhakrishnan, *Indian Philosophy*, Vols. I–II.
+- Local searchable John Hick, *Philosophy of Religion*, print pp. 120–143
+  (PDF pp. 131–154), for immortality, resurrection/replica identity and
+  karma/reincarnation.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, especially
+  the “Death and the Afterlife” chapter beginning at print p. 366
+  (PDF pp. 378–391), for soul, embodied-person, personal-identity and
+  resurrection alternatives.
+- Local searchable Chatterjee–Datta PDF, especially the school chapters on
+  Buddhist rebirth, Jain bondage/liberation, Nyāya release and Advaita
+  liberation; page references are used as comparative evidence, not as a
+  substitute for the Paper I canonical owners.

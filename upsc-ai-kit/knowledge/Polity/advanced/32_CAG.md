@@ -47,13 +47,12 @@ UPSC**).
 - ✅ Ascertains & certifies the **net proceeds** of any tax (Art 279) — certificate is **final**.
 - ✅ **Guide, friend & philosopher of the Public Accounts Committee (PAC)**.
 
-✅ **Three audit reports** to the President: (1) **Appropriation Accounts** (actual vs sanctioned expenditure),
-(2) **Finance Accounts** (annual receipts & disbursements), (3) **Public Undertakings**.
+✅ Audit reports include appropriation/finance-account and sector/entity-specific families. Their number and titles vary; the Constitution does not freeze an exhaustive three-report taxonomy.
 
 ---
 
 # PART D — ROLE, TYPES OF AUDIT & LIMITATIONS ⭐⭐
-- ✅ CAG is an **agent of Parliament**, responsible **only to Parliament** — secures executive accountability.
+- ✅ CAG is an independent constitutional authority whose reports enable legislative financial accountability; it is not a parliamentary officer controlled by either House.
 - ✅ **Legal/regulatory audit** (was money legally available & properly spent?) is **obligatory**; **propriety
   audit** (wisdom, faithfulness, economy — wastefulness/extravagance) is **discretionary**.
 - ⚠️ **Comptroller in name only:** unlike Britain's CAG, India's CAG has **no control over the issue of money** from
@@ -63,9 +62,8 @@ UPSC**).
 - ⚠️ **Appleby's criticism:** wanted the CAG's office abolished — called auditing "repressive/negative," a colonial
   inheritance.
 
-## CAG & public corporations (3 categories) ✅
-(i) **Audited fully by CAG** (e.g., ONGC, Air India, DVC); (ii) **private auditors + CAG supplementary audit**
-(e.g., IFC); (iii) **exclusively private audit** — CAG not involved (e.g., **RBI, LIC, SBI, FCI**).
+## CAG and public-sector entities ✅
+Coverage depends on legal form and the governing statute: departments follow the DPC Act; government companies use the DPC Act with Companies Act sections 139/143; statutory corporations follow their establishing laws; other bodies require a valid sections 14, 15, 16 or 20 nexus. Historical entity lists are unsafe substitutes for this legal test.
 
 ---
 
@@ -75,7 +73,7 @@ UPSC**).
 - ❌ CAG audits state accounts and reports to Parliament → state reports go to the **Governor → State Legislature**.
 - ❌ CAG can take another government job after retirement → **barred** from any further Centre/state office.
 - ❌ Propriety audit is compulsory → it is **discretionary** (only legal/regulatory audit is obligatory).
-- ❌ CAG audits RBI/LIC/SBI → these are **exclusively private-audited** (CAG not involved).
+- ❌ Every public-sector-labelled entity is audited identically → coverage depends on legal form, governing law and the relevant statutory gateway.
 - ❌ CAG's term is fixed at 6 years only → **6 years or 65**, whichever earlier.
 - ❌ CAG is removed by the President at pleasure → removed **only** like a Supreme Court judge.
 

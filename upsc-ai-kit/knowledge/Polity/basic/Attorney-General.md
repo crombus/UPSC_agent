@@ -14,8 +14,7 @@ The **AG** is India's highest law officer (Art 76), advising the GoI and represe
 **Advocate General** is the state counterpart (Art 165). Both hold office during **pleasure**, have **no fixed
 term**, and can **speak but not vote** in the legislature.
 
-> 🔑 **AG = President + all courts of India + Parliament.** **Advocate General = Governor + state courts + state
-> legislature.**
+> 🔑 **AG = President + all courts of India + Parliament.** **Advocate General = Governor + State legal advice + State legislature.** Its court-audience position depends on applicable law and practice; Article 165 has no Article 76(3) equivalent.
 > 🔑 Both the **AG (Art 76)** and **Advocate General (Art 165)** are constitutional
 > offices; **Solicitor General/ASGs are non-statutory executive law offices**.
 
@@ -111,7 +110,7 @@ precondition for every contempt proceeding. Debate continues over law-officer in
 |---|---|---|
 | ✅ Appointed by | **President** | **Governor** |
 | ✅ Qualification | Qualified to be a **Supreme Court** judge | Qualified to be a **High Court** judge |
-| ✅ Right of audience | **All courts in India** | **Any court in the State** |
+| ✅ Right of audience | **All courts in India** under Article 76(3) | Article 165 has no matching express clause; check applicable State/professional law |
 | ✅ Legislative participation (no vote) | Both Houses of **Parliament** (Art 88) | Both Houses of the **State legislature** |
 | ✅ Holds office during | The **President's** pleasure | The **Governor's** pleasure |
 

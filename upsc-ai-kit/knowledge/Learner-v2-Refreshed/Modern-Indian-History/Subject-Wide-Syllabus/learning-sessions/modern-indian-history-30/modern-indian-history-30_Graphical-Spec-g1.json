@@ -1,0 +1,1184 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-30",
+  "subject": "Modern-Indian-History",
+  "title": "LINGUISTIC REORGANISATION OF STATES & REGIONALISM (1947–1967)",
+  "short_route": "INHERITED MAP, THE 1921 → DAR 1948, JVP DECEMBER → ANDHRA: A CAPITAL CITY → SRIRAMULU: FAST, DEATH AND → SEQUENCING LOCK: AGITATION PRECEDES → THE COMMISSION: THREE MEMBERS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-30\\modern-indian-history-30_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-30-31-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "b503ce61f77cdcf9897241e4031f9a72e8904edd5d0e4efb0d30cbf56cf1d5f2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INHERITED MAP, THE 1921 COMMITMENT AND THE 1947 PAUSE",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INHERITED MAP, THE 1921 COMMITMENT AND THE 1947 PAUSE",
+          "role": "primary"
+        },
+        {
+          "text": "STARTING CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "A MAP ACCUMULATED OVER ~100 YEARS OF CONQUEST, NEVER",
+          "role": "comparison"
+        },
+        {
+          "text": "NO COHESION TEST",
+          "role": "caution"
+        },
+        {
+          "text": "MOST PROVINCES MULTILINGUAL; PRINCELY STATES ADD HETEROGENEITY",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATIVE COST",
+          "role": "outcome"
+        },
+        {
+          "text": "EDUCATION, COURTS AND POLITICS RUN IN AN ALIEN LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS AMENDS ITS OWN CONSTITUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STARTING CONDITION → a map accumulated over ~100 years of conquest, never designed",
+        "NO COHESION TEST → most provinces multilingual; princely states add heterogeneity",
+        "ADMINISTRATIVE COST → education, courts and politics run in an alien language",
+        "1921 → CONGRESS AMENDS ITS OWN CONSTITUTION: regional branches on a linguistic basis",
+        "1947 → PARTITION DISLOCATION + Kashmir + economic and law-and-order emergencies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STARTING CONDITION → a map accumulated over ~100 years of conquest, never designed",
+            "NO COHESION TEST → most provinces multilingual; princely states add heterogeneity",
+            "ADMINISTRATIVE COST → education, courts and politics run in an alien language"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1921 → CONGRESS AMENDS ITS OWN CONSTITUTION: regional branches on a linguistic basis",
+            "1947 → PARTITION DISLOCATION + Kashmir + economic and law-and-order emergencies",
+            "27 NOV 1947 → NEHRU PRIORITY: security and stability of India must come first"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "READ IT CORRECTLY → PRINCIPLE UNCHANGED SINCE 1921; ONLY THE PRIORITY WAS LOWERED"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READ IT CORRECTLY → PRINCIPLE UNCHANGED SINCE 1921; ONLY THE PRIORITY WAS LOWERED.",
+      "source_references": [
+        "Why colonial provinces made no linguistic sense",
+        "The 1921 commitment and the post-Partition pause"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DAR 1948, JVP DECEMBER 1948 AND THE ESCAPE CLAUSE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DAR 1948, JVP DECEMBER 1948 AND THE ESCAPE CLAUSE",
+          "role": "primary"
+        },
+        {
+          "text": "1948 CONSTITUENT ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "LINGUISTIC PROVINCES COMMISSION (JUSTICE S.K. DAR) FINDING",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVISE AGAINST NOW",
+          "role": "evidence"
+        },
+        {
+          "text": "RISK TO UNITY, ADMINISTRATIVE INCONVENIENCE",
+          "role": "caution"
+        },
+        {
+          "text": "THE LINGUISTIC PRINCIPLE IS NOT WRITTEN INTO THE CONSTITUTION",
+          "role": "caution"
+        },
+        {
+          "text": "DEC 1948 CONGRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "JVP COMMITTEE MEMBERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1948 CONSTITUENT ASSEMBLY → LINGUISTIC PROVINCES COMMISSION (Justice S.K.",
+        "Dar) finding → advise against now: risk to unity, administrative inconvenience",
+        "effect → the linguistic principle is NOT written into the Constitution",
+        "DEC 1948 CONGRESS → JVP COMMITTEE members → Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1948 CONSTITUENT ASSEMBLY → LINGUISTIC PROVINCES COMMISSION (Justice S.K.",
+            "Dar) finding → advise against now: risk to unity, administrative inconvenience",
+            "effect → the linguistic principle is NOT written into the Constitution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEC 1948 CONGRESS → JVP COMMITTEE members → Jawaharlal Nehru",
+            "Sardar Patel",
+            "Pattabhi Sitaramayya finding → delay again: unity, national security, economic development"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROVISO → demand \"insistent and overwhelming\" + other language groups agreeable",
+            "= a new state MAY be created",
+            "CONSEQUENCE → the refusal carries its own escape clause, and Andhra later uses it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → the refusal carries its own escape clause, and Andhra later uses it.",
+      "source_references": [
+        "Dar Commission 1948 and the JVP Committee of December 1948"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ANDHRA: A CAPITAL CITY, NOT A LANGUAGE, BLOCKS THE DEMAND",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "A CAPITAL CITY, NOT A LANGUAGE, BLOCKS THE DEMAND",
+          "role": "caution"
+        },
+        {
+          "text": "A TELUGU STATE CARVED OUT OF THE MADRAS PRESIDENCY",
+          "role": "institution"
+        },
+        {
+          "text": "POPULAR FOR NEARLY HALF A CENTURY; SUPPORTED BY ALL",
+          "role": "comparison"
+        },
+        {
+          "text": "JVP TEST 1",
+          "role": "evidence"
+        },
+        {
+          "text": "IS THE DEMAND INSISTENT AND OVERWHELMING?",
+          "role": "primary"
+        },
+        {
+          "text": "JVP TEST 2",
+          "role": "outcome"
+        },
+        {
+          "text": "ARE THE OTHER LANGUAGE GROUPS AGREEABLE (TAMIL NADU)?",
+          "role": "comparison"
+        },
+        {
+          "text": "WHICH SUCCESSOR STATE TAKES MADRAS CITY?",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEMAND → a Telugu state carved out of the Madras Presidency",
+        "AGE → popular for nearly half a century; supported by all political parties",
+        "JVP TEST 1 → is the demand insistent and overwhelming? → PASSED",
+        "JVP TEST 2 → are the other language groups agreeable (Tamil Nadu)? → PASSED",
+        "BLOCKER → WHICH SUCCESSOR STATE TAKES MADRAS CITY? → UNRESOLVED"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEMAND → a Telugu state carved out of the Madras Presidency",
+            "AGE → popular for nearly half a century; supported by all political parties",
+            "JVP TEST 1 → is the demand insistent and overwhelming? → PASSED"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JVP TEST 2 → are the other language groups agreeable (Tamil Nadu)? → PASSED",
+            "BLOCKER → WHICH SUCCESSOR STATE TAKES MADRAS CITY? → UNRESOLVED",
+            "INFERENCE → the obstacle is territorial and fiscal, not linguistic"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CARRY FORWARD → Bombay city (1956-60) and Chandigarh (1966) repeat the same obstacle"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CARRY FORWARD → Bombay city (1956-60) and Chandigarh (1966) repeat the same obstacle.",
+      "source_references": [
+        "The Andhra demand and the Madras-city deadlock"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SRIRAMULU: FAST, DEATH AND IMMEDIATE CONCESSION",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FAST, DEATH AND IMMEDIATE CONCESSION",
+          "role": "primary"
+        },
+        {
+          "text": "19 OCT 1952",
+          "role": "outcome"
+        },
+        {
+          "text": "POTTI SRIRAMULU BEGINS A FAST UNTO DEATH FOR A",
+          "role": "comparison"
+        },
+        {
+          "text": "DEC 1952",
+          "role": "evidence"
+        },
+        {
+          "text": "THREE DAYS OF RIOTING, DEMONSTRATIONS, HARTALS AND VIOLENCE ACROSS",
+          "role": "primary"
+        },
+        {
+          "text": "\"IMMEDIATELY GAVE IN\" AND CONCEDES A SEPARATE STATE OF",
+          "role": "institution"
+        },
+        {
+          "text": "NUMBERS TO FIX TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "19 OCTOBER 1952",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "19 OCT 1952 → POTTI SRIRAMULU BEGINS A FAST UNTO DEATH for a separate Andhra",
+        "DEC 1952 → DEATH",
+        "AFTERMATH → three days of rioting, demonstrations, hartals and violence across Andhra",
+        "GOVERNMENT → \"immediately gave in\" and concedes a separate state of Andhra",
+        "NUMBERS TO FIX TOGETHER → 19 October 1952"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "19 OCT 1952 → POTTI SRIRAMULU BEGINS A FAST UNTO DEATH for a separate Andhra v (fifty-eight days)",
+            "DEC 1952 → DEATH",
+            "AFTERMATH → three days of rioting, demonstrations, hartals and violence across Andhra"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOVERNMENT → \"immediately gave in\" and concedes a separate state of Andhra",
+            "NUMBERS TO FIX TOGETHER → 19 October 1952",
+            "fifty-eight days"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "December 1952",
+            "OCR NOTE → the local book text renders the name \"Patti Sriramalu\"; owner spelling retained"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OCR NOTE → the local book text renders the name \"Patti Sriramalu\"; owner spelling retained.",
+      "source_references": [
+        "Potti Sriramulu: the fast of 19 October 1952 and its aftermath"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SEQUENCING LOCK: AGITATION PRECEDES COMMISSION AND STATUTE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SEQUENCING LOCK",
+          "role": "primary"
+        },
+        {
+          "text": "AGITATION PRECEDES COMMISSION AND STATUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "OCT 1953 ANDHRA CREATED",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FIRST LINGUISTIC STATE",
+          "role": "institution"
+        },
+        {
+          "text": "OCT 1955 SRC REPORT SUBMITTED",
+          "role": "primary"
+        },
+        {
+          "text": "THE PRINCIPLE GENERALISED",
+          "role": "outcome"
+        },
+        {
+          "text": "NOV 1956 STATES REORGANISATION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "THE SETTLEMENT ENACTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OCT 1953 ANDHRA CREATED → the FIRST linguistic state",
+        "OCT 1955 SRC REPORT SUBMITTED → the principle generalised",
+        "NOV 1956 STATES REORGANISATION ACT → the settlement enacted",
+        "MAY 1960 BOMBAY BIFURCATED → first refused case closed",
+        "1966 PUNJAB DIVIDED; HARYANA CREATED → second refused case closed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OCT 1953 ANDHRA CREATED → the FIRST linguistic state",
+            "OCT 1955 SRC REPORT SUBMITTED → the principle generalised",
+            "NOV 1956 STATES REORGANISATION ACT → the settlement enacted"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAY 1960 BOMBAY BIFURCATED → first refused case closed",
+            "1966 PUNJAB DIVIDED; HARYANA CREATED → second refused case closed",
+            "16 DEC 1967 AMENDING ACT ADOPTED → language settlement legislated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → any statement that places the Commission or the Act before Andhra is wrong"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → any statement that places the Commission or the Act before Andhra is wrong.",
+      "source_references": [
+        "Andhra in October 1953: agitation before commission"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE COMMISSION: THREE MEMBERS, TWO YEARS, ONE REPORT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE COMMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "THREE MEMBERS, TWO YEARS, ONE REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATES REORGANISATION COMMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "APPOINTED AUGUST 1953 BY NEHRU",
+          "role": "evidence"
+        },
+        {
+          "text": "JUSTICE FAZL ALI",
+          "role": "primary"
+        },
+        {
+          "text": "K.M. PANIKKAR",
+          "role": "outcome"
+        },
+        {
+          "text": "HRIDAYNATH KUNZRU",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAMINE \"OBJECTIVELY AND DISPASSIONATELY\" THE WHOLE REORGANISATION QUESTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATES REORGANISATION COMMISSION → appointed AUGUST 1953 by Nehru",
+        "Justice Fazl Ali",
+        "K.M. Panikkar",
+        "Hridaynath Kunzru",
+        "MANDATE → examine \"objectively and dispassionately\" the whole reorganisation question"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATES REORGANISATION COMMISSION → appointed AUGUST 1953 by Nehru",
+            "Justice Fazl Ali",
+            "K.M. Panikkar"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Hridaynath Kunzru",
+            "MANDATE → examine \"objectively and dispassionately\" the whole reorganisation question",
+            "CONDITIONS → two years of meetings, demonstrations, agitations and hunger strikes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ITS OWN WORDS → \"a kind of border warfare\" among old comrades-in-arms in the freedom struggle",
+            "REPORT → submitted OCTOBER 1955"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ITS OWN WORDS → \"a kind of border warfare\" among old comrades-in-arms in the freedom struggle.",
+      "source_references": [
+        "The States Reorganisation Commission: members, method and report"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ONE ENDORSEMENT AND THREE REFUSALS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ONE ENDORSEMENT AND THREE REFUSALS",
+          "role": "primary"
+        },
+        {
+          "text": "THE LINGUISTIC PRINCIPLE \"FOR THE MOST PART\" QUALIFIED BY",
+          "role": "outcome"
+        },
+        {
+          "text": "REFUSED 1",
+          "role": "comparison"
+        },
+        {
+          "text": "SPLITTING BOMBAY",
+          "role": "evidence"
+        },
+        {
+          "text": "REOPENS AS AGITATION",
+          "role": "primary"
+        },
+        {
+          "text": "SETTLED MAY 1960",
+          "role": "outcome"
+        },
+        {
+          "text": "REFUSED 2",
+          "role": "comparison"
+        },
+        {
+          "text": "SPLITTING PUNJAB",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENDORSED → the linguistic principle \"for the most part\" qualified by due consideration for administrative",
+        "REFUSED 1 → splitting BOMBAY → reopens as agitation → settled MAY 1960",
+        "REFUSED 2 → splitting PUNJAB → reopens as agitation → settled 1966",
+        "REFUSED 3 → separate JHARKHAND → region lacked one common language the Centre adds: a",
+        "IMPLEMENTATION → recommendations accepted with modifications and quickly implemented"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ENDORSED → the linguistic principle \"for the most part\" qualified by due consideration for administrative and economic factors",
+          "REFUSED 2 → splitting PUNJAB → reopens as agitation → settled 1966",
+          "IMPLEMENTATION → recommendations accepted with modifications and quickly implemented"
+        ],
+        [
+          "REFUSED 1 → splitting BOMBAY → reopens as agitation → settled MAY 1960",
+          "REFUSED 3 → separate JHARKHAND → region lacked one common language the Centre adds: a local minority cannot claim a state of its own",
+          "LESSON → a linguistic criterion cannot settle bilingual capitals or tribal demands"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENDORSED → the linguistic principle \"for the most part\" qualified by due consideration for administrative and economic factors",
+            "REFUSED 1 → splitting BOMBAY → reopens as agitation → settled MAY 1960"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REFUSED 2 → splitting PUNJAB → reopens as agitation → settled 1966",
+            "REFUSED 3 → separate JHARKHAND → region lacked one common language the Centre adds: a local minority cannot claim a state of its own"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPLEMENTATION → recommendations accepted with modifications and quickly implemented",
+            "LESSON → a linguistic criterion cannot settle bilingual capitals or tribal demands"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → a linguistic criterion cannot settle bilingual capitals or tribal demands.",
+      "source_references": [
+        "What the Commission endorsed and what it refused"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE ACT OF NOVEMBER 1956: THE COUNT AND THE TRANSFERS",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE ACT OF NOVEMBER 1956",
+          "role": "institution"
+        },
+        {
+          "text": "THE COUNT AND THE TRANSFERS",
+          "role": "outcome"
+        },
+        {
+          "text": "STATES REORGANISATION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "PASSED BY PARLIAMENT, NOVEMBER 1956",
+          "role": "evidence"
+        },
+        {
+          "text": "HEADLINE COUNT",
+          "role": "primary"
+        },
+        {
+          "text": "FOURTEEN STATES + SIX CENTRALLY ADMINISTERED TERRITORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORY MOVED",
+          "role": "comparison"
+        },
+        {
+          "text": "TELANGANA AREA OF HYDERABAD STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "STATES REORGANISATION ACT → passed by Parliament, NOVEMBER 1956",
+        "HEADLINE COUNT → FOURTEEN STATES + SIX CENTRALLY ADMINISTERED TERRITORIES",
+        "TERRITORY MOVED",
+        "DESTINATION / RESULT",
+        "Telangana area of Hyderabad state"
+      ],
+      "matrix": [
+        [
+          "TERRITORY MOVED",
+          "DESTINATION / RESULT"
+        ],
+        [
+          "Telangana area of Hyderabad state",
+          "transferred to ANDHRA"
+        ],
+        [
+          "Malabar district (old Madras Presidency)",
+          "merged with Travancore-Cochin"
+        ],
+        [
+          "+ Travancore-Cochin",
+          "= KERALA created"
+        ],
+        [
+          "Kannada areas of Bombay, Madras, Hyderabad,",
+          "added to MYSORE"
+        ],
+        [
+          "Kutch, Saurashtra, Marathi areas of Hyderabad",
+          "merged INTO BOMBAY (state enlarged)"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATES REORGANISATION ACT → passed by Parliament, NOVEMBER 1956",
+            "HEADLINE COUNT → FOURTEEN STATES + SIX CENTRALLY ADMINISTERED TERRITORIES",
+            "TERRITORY MOVED",
+            "DESTINATION / RESULT",
+            "Telangana area of Hyderabad state"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "transferred to ANDHRA",
+            "Malabar district (old Madras Presidency)",
+            "merged with Travancore-Cochin",
+            "+ Travancore-Cochin",
+            "= KERALA created"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kannada areas of Bombay, Madras, Hyderabad,",
+            "added to MYSORE",
+            "Kutch, Saurashtra, Marathi areas of Hyderabad",
+            "merged INTO BOMBAY (state enlarged)",
+            "CONSEQUENCE → enlarging Bombay rather than dividing it detonates the Maharashtra crisis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → enlarging Bombay rather than dividing it detonates the Maharashtra crisis.",
+      "source_references": [
+        "The States Reorganisation Act of November 1956 and its content"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "BOMBAY 1956 TO 1960: WHAT A CAPITAL CITY COSTS",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "BOMBAY 1956 TO 1960",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT A CAPITAL CITY COSTS",
+          "role": "outcome"
+        },
+        {
+          "text": "JAN 1956",
+          "role": "comparison"
+        },
+        {
+          "text": "80 KILLED IN POLICE FIRINGS IN BOMBAY CITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SAMYUKTA MAHARASHTRA SAMITI AND MAHA GUJARAT JANATA PARISHAD LEAD",
+          "role": "primary"
+        },
+        {
+          "text": "16 KILLED AND 200 INJURED IN POLICE FIRINGS IN",
+          "role": "outcome"
+        },
+        {
+          "text": "C.D. DESHMUKH RESIGNS FROM THE UNION CABINET ON THE",
+          "role": "comparison"
+        },
+        {
+          "text": "JUN 1956",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAN 1956 → 80 killed in police firings in Bombay city",
+        "Samyukta Maharashtra Samiti and Maha Gujarat Janata Parishad lead rival movements",
+        "16 killed and 200 injured in police firings in Gujarat",
+        "1956 → C.D. Deshmukh resigns from the Union Cabinet on the question",
+        "JUN 1956 → government decides to divide, with the city a separate administered unit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAN 1956 → 80 killed in police firings in Bombay city",
+            "Samyukta Maharashtra Samiti and Maha Gujarat Janata Parishad lead rival movements",
+            "16 killed and 200 injured in police firings in Gujarat"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1956 → C.D. Deshmukh resigns from the Union Cabinet on the question",
+            "JUN 1956 → government decides to divide, with the city a separate administered unit",
+            "JUL 1956 → government REVERTS to a bilingual greater Bombay → opposed on BOTH sides"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1957 → the Bombay Congress scrapes through the elections",
+            "1959-60 → Indira Gandhi as Congress president reopens it; President S. Radhakrishnan supports",
+            "MAY 1960 → BIFURCATION: Maharashtra (with Bombay city) + Gujarat (capital Ahmedabad)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAY 1960 → BIFURCATION: Maharashtra (with Bombay city) + Gujarat (capital Ahmedabad).",
+      "source_references": [
+        "Bombay: the first unfinished case, settled in May 1960"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PUNJAB 1966: A SHARED CAPITAL AND AN ATTRIBUTED READING",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PUNJAB 1966",
+          "role": "primary"
+        },
+        {
+          "text": "A SHARED CAPITAL AND AN ATTRIBUTED READING",
+          "role": "outcome"
+        },
+        {
+          "text": "PEPSU MERGED INTO PUNJAB",
+          "role": "comparison"
+        },
+        {
+          "text": "A TRILINGUAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "SRC REFUSES A PUNJABI SUBA",
+          "role": "primary"
+        },
+        {
+          "text": "IT WOULD SOLVE \"NEITHER THE LANGUAGE NOR THE COMMUNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVISION EXECUTED",
+          "role": "comparison"
+        },
+        {
+          "text": "HARYANA (CREATED 1966, NOT 1956)",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "1956 → PEPSU merged into Punjab → a TRILINGUAL state: Punjabi",
+        "SRC refuses a Punjabi Suba: it would solve \"neither the language nor the communal problem\"",
+        "1966 → DIVISION EXECUTED",
+        "Punjabi-speaking → PUNJAB",
+        "Hindi-speaking → HARYANA (created 1966, NOT 1956)"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "1956 → PEPSU merged into Punjab → a TRILINGUAL state: Punjabi",
+          "Hindi-speaking → HARYANA (created 1966, NOT 1956)",
+          "the issue \"assumed communal overtones\" through AKALI DAL and JAN SANGH mobilisation"
+        ],
+        [
+          "SRC refuses a Punjabi Suba: it would solve \"neither the language nor the communal problem\"",
+          "Kangra + part of Hoshiarpur . to HIMACHAL PRADESH",
+          "Nehru and most Punjab Congressmen: a communal demand \"dressed up as a language plea\""
+        ],
+        [
+          "1966 → DIVISION EXECUTED",
+          "CHANDIGARH → UNION TERRITORY, JOINT capital of both states",
+          "COUNTER-EVIDENCE → the Communist Party and a section of Congress supported it"
+        ],
+        [
+          "Punjabi-speaking → PUNJAB",
+          "ATTRIBUTED READING (local Bipan Chandra text, report it with its attribution)",
+          "RULE → never generalise the charge to every supporter of Punjabi"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1956 → PEPSU merged into Punjab → a TRILINGUAL state: Punjabi",
+            "SRC refuses a Punjabi Suba: it would solve \"neither the language nor the communal problem\"",
+            "1966 → DIVISION EXECUTED",
+            "Punjabi-speaking → PUNJAB"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Hindi-speaking → HARYANA (created 1966, NOT 1956)",
+            "Kangra + part of Hoshiarpur . to HIMACHAL PRADESH",
+            "CHANDIGARH → UNION TERRITORY, JOINT capital of both states",
+            "ATTRIBUTED READING (local Bipan Chandra text, report it with its attribution)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "the issue \"assumed communal overtones\" through AKALI DAL and JAN SANGH mobilisation",
+            "Nehru and most Punjab Congressmen: a communal demand \"dressed up as a language plea\"",
+            "COUNTER-EVIDENCE → the Communist Party and a section of Congress supported it",
+            "RULE → never generalise the charge to every supporter of Punjabi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never generalise the charge to every supporter of Punjabi.",
+      "source_references": [
+        "Punjab 1966: the second unfinished case and Chandigarh",
+        "The attributed communal reading of the Punjabi Suba demand"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THE LANGUAGE SETTLEMENT AT THREE LEVELS AND ITS 1967 VOTE",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE LANGUAGE SETTLEMENT AT THREE LEVELS AND ITS 1967",
+          "role": "primary"
+        },
+        {
+          "text": "LEVEL 1 CONSTITUTIONAL TEXT (PART XVII, DEPARTMENT OF OFFICIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ART 343(1) HINDI IN DEVANAGARI",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL LANGUAGE OF THE UNION",
+          "role": "evidence"
+        },
+        {
+          "text": "ART 343(2) ENGLISH CONTINUES FOR ALL UNION OFFICIAL PURPOSES",
+          "role": "primary"
+        },
+        {
+          "text": "ART 343(3) PARLIAMENT MAY PROVIDE BY LAW FOR ENGLISH",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVEL 2 STATUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL LANGUAGES ACT, 1963 (ACT NO. 19 OF 1963",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LEVEL 1 CONSTITUTIONAL TEXT (Part XVII, Department of Official Language publication)",
+        "Art 343(1) Hindi in Devanagari = official language of the Union",
+        "Art 343(2) English continues for ALL Union official purposes for FIFTEEN YEARS",
+        "Art 343(3) Parliament MAY provide by law for English after that period",
+        "LEVEL 2 STATUTE → Official Languages Act, 1963 (Act No."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEVEL 1 CONSTITUTIONAL TEXT (Part XVII, Department of Official Language publication)",
+            "Art 343(1) Hindi in Devanagari = official language of the Union",
+            "Art 343(2) English continues for ALL Union official purposes for FIFTEEN YEARS",
+            "Art 343(3) Parliament MAY provide by law for English after that period",
+            "LEVEL 2 STATUTE → Official Languages Act, 1963 (Act No."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "19 of 1963, 10 May 1963) section 3 to come into force on 26 JANUARY 1965 statutory rule",
+            "LEVEL 3 POLITICS → Nehru's assurances, 7 August and 4 September 1959",
+            "26 JAN 1965 crisis → DMK conference of 17 January",
+            "\"Hindi never, English ever\" cost → over sixty lives",
+            "Subramaniam and Alagesan resign from the Union Cabinet"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "16 DEC 1967 → Lok Sabha adopts the amending bill 205 to 41 → indefinite bilingualism three-language formula for the states",
+            "CAUTION → \"associate official language\" comes from the April 1960 Presidential order and the later settlement",
+            "it is not a phrase in the Constitution's own text"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEVEL 2 STATUTE → Official Languages Act, 1963 (Act No. 19 of 1963, 10 May 1963) section 3 to come into force on 26 JANUARY 1965 statutory rule → English may continue to be used in addition to Hindi criticism → \"may\", not \"shall\" → read as no statutory guarantee.",
+      "source_references": [
+        "The Union's official language: constitutional text and the Act of 1963",
+        "26 January 1965 and the settlement legislated on 16 December 1967"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "REGIONALISM TYPOLOGY AND THE GRADED VERDICT",
+      "structural_type": "balance-sheet",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REGIONALISM TYPOLOGY AND THE GRADED VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "WHOM IS THE DEMAND DIRECTED AGAINST?",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTED AT",
+          "role": "comparison"
+        },
+        {
+          "text": "THE UNION",
+          "role": "evidence"
+        },
+        {
+          "text": "FELLOW CITIZENS",
+          "role": "primary"
+        },
+        {
+          "text": "NATIVIST, \"SONS OF THE SOIL\"",
+          "role": "outcome"
+        },
+        {
+          "text": "STATEHOOD, RECOGNITION, SHARE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCLUSION OF MIGRANTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CRITERION → WHOM IS THE DEMAND DIRECTED AGAINST?",
+        "DIRECTED AT",
+        "THE UNION",
+        "FELLOW CITIZENS",
+        "nativist, \"sons of the soil\""
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CRITERION → WHOM IS THE DEMAND DIRECTED AGAINST?",
+            "DIRECTED AT",
+            "THE UNION",
+            "FELLOW CITIZENS",
+            "nativist, \"sons of the soil\""
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "coercion against residents",
+            "Andhra 1953; Maharashtra and",
+            "Shiv Sena 1966 (Bal",
+            "Gujarat 1960; Haryana 1966",
+            "Thackeray); Bombay 1969"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "absorbed; federal legitimacy",
+            "citizenship guarantees hurt",
+            "ARGUED VERDICT (Rajni Kothari) → language proved \"a cementing and integrating influence\"",
+            "RESIDUAL COSTS → inter-state boundary disputes",
+            "sharing of waters, power, surplus food"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE IT AS → a defended conclusion supported by evidence, never as a self-evident fact.",
+      "source_references": [
+        "Regionalism: accommodative, nativist, secessionist — and the graded verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE CONGRESS HAD ACCEPTED THE LINGUISTIC PRINCIPLE SINCE 1921",
+          "role": "outcome"
+        },
+        {
+          "text": "THE POST-1947 HESITATION WAS TACTICAL (PARTITION, KASHMIR, ECONOMIC CRISIS)",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANDRA'S CORE ARGUMENT, ECHOING RAJNI KOTHARI, IS THAT LANGUAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CEMENTING AND INTEGRATING INFLUENCE \" — REORGANISATION DEFUSED, RATHER",
+          "role": "primary"
+        },
+        {
+          "text": "THE ANDHRA BREAKTHROUGH (1953) SHOWS THE CAUSAL PATTERN",
+          "role": "outcome"
+        },
+        {
+          "text": "ELITE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "MARTYRDOM (SRIRAMULU)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Congress had accepted the linguistic principle since 1921",
+            "the post-1947 hesitation was tactical (Partition, Kashmir, economic crisis), not a reversal of principle.",
+            "CAUTION: Chandra's core argument, echoing Rajni Kothari, is that language became a \"",
+            "cementing and integrating influence \" — reorganisation defused, rather than fuelled, secession."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The Andhra breakthrough (1953) shows the causal pattern: elite caution → popular",
+            "mobilisation → martyrdom (Sriramulu) → concession → generalisation via the SRC.",
+            "CAUTION: The comparative point (against the fears of the 1950s) is that",
+            "linguistic states made democracy and administration legible to citizens, deepening participation."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The SRC declined to split bilingual Bombay and Punjab immediately; both were later reorganised (1960, 1966) only after sustained agitation.",
+            "In Chandra's account, the Punjab (1966) demand had acquired communal overtones through Akali Dal and Jan Sangh mobilisation",
+            "this does not make every supporter or the linguistic issue itself \"communal\".",
+            "The official-language settlement evolved through repeated agitation into bilingualism (Hindi +"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

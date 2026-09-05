@@ -206,3 +206,22 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Nehru-era democracy, planning, mixed economy, rural
+  development, science/education, secular citizenship, non-alignment,
+  decolonisation, Kashmir as a contested choice, China policy and the 1962 test.
+- **Boundary:** Topic 31 retains tribal policy; Topic 33 owns the Congress
+  system and opposition; Topic 34 begins the Shastri succession; Topic 38 owns
+  detailed post-independence economic, land and social synthesis.
+- **Date control:** Planning Commission (15 March 1950), election (1951-52),
+  Community Development (2 October 1952), Panchsheel (1954), Avadi/Bandung
+  (1955), IPR/Second Plan (1956), Kerala (1957), Belgrade/Goa (1961), China war
+  (1962), Kamaraj Plan (1963) and Nehru's death (27 May 1964) are distinct.
+- **Mechanism control:** Planning Commission was extra-constitutional; Bandung
+  preceded NAM's Belgrade founding; non-alignment was active autonomy, not
+  neutrality; 1962 exposed capability limits without erasing the whole record.
+- **Verified PYQ ownership, 2018-2026:** one direct 2018 Prelims chronology
+  route with no local official key. The 2025 consolidation Mains route belongs
+  Topic 29 and remains adjacent.

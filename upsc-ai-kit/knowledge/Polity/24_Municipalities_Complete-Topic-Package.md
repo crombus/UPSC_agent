@@ -15,12 +15,14 @@ evidence_key: "[FACT] verified constitutional, official or source-book propositi
 ## Package method, source priority and current control
 
 - [FACT] Source order followed: `basic/Municipalities.md` -> `advanced/24_Municipalities.md` -> the locally held M. Laxmikanth municipality chapter -> routed PYQ ledgers and official local question papers/keys -> `Governance/basic/12_Local-Governance-and-Service-Delivery.md` -> official Sixteenth Finance Commission and MoHUA AMRUT 2.0 documents. Qdrant was not used.
-- [CURRENT] Legal and programme control date is **18 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and programme control date is **28 August 2026, Asia/Kolkata**.
 - [FACT] The controlling constitutional framework is Part IX-A, Articles **243P-243ZG**, inserted by the **74th Constitutional Amendment Act, 1992**, with the **Twelfth Schedule of 18 matters**.
 - [CURRENT] The official Sixteenth Finance Commission report covers **2026-27 to 2030-31**. It treats Union local-body grants as supplements to, not substitutes for, State devolution and State Finance Commission action.
 - [CURRENT] The Sixteenth Finance Commission recommends an **80:20 basic-performance split** within rural and urban grant components. For ULBs, the performance component begins from the second award year and includes an own-source-revenue condition; entry conditions include a duly constituted body, online provisional/audited accounts and timely State Finance Commission action.
 - [CURRENT] The same report recommends GIS-based property-tax systems, strengthened accounts/audit, a rural-to-urban transition policy and support for peri-urban merger into qualifying ULBs.
 - [CURRENT] MoHUA's official AMRUT 2.0 framework links water security with property-tax and user-charge reform, GIS-based planning, online services, double-entry accounting, creditworthiness and municipal bonds.
+- [CURRENT] RBI’s 2022 *Report on Municipal Finances* identifies property tax as the principal municipal tax while documenting incomplete registers, undervaluation and uneven collection.
+- [CURRENT] SEBI’s municipal-debt framework and statistics page remain the authoritative controls for bond regulation and dated issuances; a bond is borrowing, not own-tax revenue or devolution.
 - [LIMIT] Mission outlays, city counts, project completions, bond issuance totals and dashboard values change. This package uses dated official institutional design and avoids treating dashboard counts as permanent facts.
 - [LIMIT] State municipal laws differ on mayoral election, tenure, commissioner powers, committee design, taxation and staffing. No single State model is presented as a national rule.
 - [LIMIT] A scheme, SPV, portal, credit rating or Finance Commission grant does not by itself amount to constitutional devolution of functions, functionaries and funds.
@@ -144,6 +146,10 @@ Caption: Urban democracy is meaningful only when the elected institution control
 
 > **Memory chain:** P definitions; Q bodies; R composition; S wards; T reservation; U term; V disqualification; W work; X tax; Y finance review; Z audit; ZA elections; ZD district plan; ZE metro plan; ZG election bar.
 
+- [FACT] Under Article 243ZB, the President may apply Part IXA to a Union Territory with exceptions and modifications.
+- [FACT] Article 243ZC excludes Fifth Schedule Scheduled Areas and Sixth Schedule tribal areas; Parliament may extend Part IXA to Scheduled Areas by law with exceptions and modifications.
+- [FACT] Article 243ZF allowed inconsistent pre-existing municipal laws to continue for at most one year and protected existing municipalities until term unless lawfully dissolved.
+
 ## 05. Article 243P definitions
 
 **Visual 5 - Definition box**
@@ -219,6 +225,7 @@ No municipality need be constituted for that area
 
 - [FACT] All territorial seats are filled by direct election from wards.
 - [FACT] State law determines the manner of electing the chairperson.
+- [FACT] Persons with special knowledge or experience may be represented but have **no voting right in municipal meetings**; Article 243R also permits specified legislative and committee representation through State law.
 - [LIMIT] Direct election of councillors does not imply that every mayor is directly elected by all city voters.
 
 ## 09. Wards Committees and intra-city decentralisation
@@ -263,6 +270,7 @@ MUNICIPAL COUNCIL / CORPORATION
 | backward classes | State legislature may provide reservation |
 
 - [FACT] One-third is a constitutional floor, not a ceiling.
+- [FACT] Article 243T separately requires State-law reservation of chairperson offices for SCs, STs and women; backward-class reservation remains enabling.
 - [ANALYSIS] Reservation alters access to office; substantive authority additionally requires stable tenure, information, staff support and freedom from proxy control.
 - [LIMIT] Reservation percentages above the constitutional floor and rotation rules vary by State.
 
@@ -287,6 +295,7 @@ new body serves only the unexpired remainder
 ```
 
 - [FACT] If the remaining period is less than six months, an election need not be held merely for that short remainder.
+- [FACT] Elections must be completed before ordinary expiry or within six months after dissolution, and a prematurely reconstituted municipality serves only the unexpired balance.
 - [FACT] A legal amendment cannot dissolve an existing municipality before the end of its five-year duration.
 - [ANALYSIS] The remainder rule prevents a government from manufacturing a fresh five-year mandate through premature dissolution.
 
@@ -667,6 +676,7 @@ Municipal plans ----/          |
 - [FACT] Every State must constitute a DPC at district level.
 - [FACT] At least **four-fifths** of members are elected by and from elected district-Panchayat and municipal members, proportional to rural and urban populations.
 - [FACT] State law determines composition details, election, functions and chairperson selection within constitutional requirements.
+- [FACT] The DPC chairperson forwards the recommended district development plan to the State Government.
 - [ANALYSIS] The DPC is the constitutional bridge between rural and urban planning in one district.
 
 ## 32. Metropolitan Planning Committee under Article 243ZE
@@ -692,6 +702,7 @@ draft metropolitan development plan -> State Government
 
 - [FACT] Every metropolitan area must have an MPC.
 - [FACT] At least **two-thirds** of members are elected by and from elected municipal members and Panchayat chairpersons, proportional to their populations in the metropolitan area.
+- [FACT] The MPC chairperson forwards the recommended metropolitan development plan to the State Government.
 - [ANALYSIS] The MPC is designed for the functional city region, not merely the core municipal corporation.
 - [LIMIT] Constitutional creation does not ensure primacy over development authorities, transport bodies or State investment decisions.
 
@@ -967,6 +978,8 @@ CLAIM
 
 **Why this earns marks:** It answers both mandated dimensions, uses exact Articles, explains mechanisms, adds dated official evidence and gives a graded rather than absolute judgement.
 
+**How to improve:** In 150 words, use two labelled dimensions—functions and finance—then one State-variation qualification and a one-line verdict.
+
 ### PYQ 2 - UPSC GS-II 2024, Q5 - supporting Governance cross-owner
 
 **Verified question:** Analyse the role of local bodies in providing good governance at the local level and bring out the pros and cons of merging rural local bodies with urban local bodies.  
@@ -987,6 +1000,8 @@ CLAIM
 **Verdict:** Use transparent density, employment, contiguity, finance and service criteria, with consultation and transition protection, rather than automatic merger.
 
 **Why this earns marks:** It separates role, pros and cons, uses constitutional mechanisms and ends with criteria-based balance.
+
+**How to improve:** Compress the role of local bodies to two mechanisms; spend the balance on merger benefits, costs and a criteria-based alternative.
 
 ### PYQ 3 - UPSC GS-II 2020, Q13 - supporting three-F cross-owner
 
@@ -1012,6 +1027,8 @@ CLAIM
 **Verdict:** A local body is functional when authority, capacity and public responsibility converge around measurable services.
 
 **Why this earns marks:** It follows the stem's three-F structure, then adds the missing outcome and accountability layer with named constitutional and current evidence.
+
+**How to improve:** Use a Functions–Functionaries–Funds table and reserve the final quarter for measurable functionality and accountable coordination.
 
 ### PYQ 4 - UPSC Prelims 2024, Q74 - official local paper and key verified
 
@@ -1681,6 +1698,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 
 **Why this earns marks:** It distinguishes constitutional status from power, uses exact Articles and supports the extent judgement with current evidence and qualification.
 
+**How to improve:** For 150 words, contrast mandatory democratic form with enabling Articles 243W/X and give one parastatal and one fiscal consequence.
+
 ### M2. Assess the constitutional logic and democratic cost of the industrial-township exception. (10 marks, 150 words)
 
 **Model solution**
@@ -1698,6 +1717,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 **Verdict:** The exception is defensible as a narrow service-delivery arrangement only when democratic and regulatory safeguards prevent a private administrative enclave.
 
 **Why this earns marks:** It explains the constitutional mechanism, analyses both efficiency and democratic legitimacy, and gives proportionate safeguards.
+
+**How to improve:** State the exact Article 243Q test first, then balance service efficiency against representation and propose periodic review.
 
 ### M3. Analyse the causes of municipal fiscal weakness and propose an equitable reform strategy. (15 marks, 250 words)
 
@@ -1719,6 +1740,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 
 **Why this earns marks:** It links constitutional channels to administrative mechanisms, gives a sequenced and equity-aware solution, and uses two dated official anchors.
 
+**How to improve:** Classify reforms under tax base, collection, transfers and equity; retain one RBI and one Finance Commission anchor.
+
 ### M4. "The Metropolitan Planning Committee is the constitutional answer to a city-region problem, but not yet necessarily the operational answer." Discuss. (15 marks, 250 words)
 
 **Model solution**
@@ -1738,6 +1761,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 **Verdict:** The MPC becomes operational when elected regional planning shapes budgets and agency action, not merely when a committee exists.
 
 **Why this earns marks:** It explains the Article in detail, proves the functional need, identifies the mechanism of weakness and proposes institution-specific reform.
+
+**How to improve:** Draw the municipal/Panchayat plans → MPC → regional plan chain, then identify why agency budgets may still bypass it.
 
 ### M5. Evaluate the mayor-commissioner model from the perspective of democratic accountability and administrative professionalism. (15 marks, 250 words)
 
@@ -1759,6 +1784,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 
 **Why this earns marks:** It avoids a simplistic pro-mayor answer, identifies the legal source of variation and balances mandate, expertise and safeguards.
 
+**How to improve:** Separate elected mandate, professional execution and safeguards; avoid assuming one national mayoral model.
+
 ### M6. Do parastatals and mission SPVs strengthen or weaken urban local self-government? Critically examine. (15 marks, 250 words)
 
 **Model solution**
@@ -1778,6 +1805,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 **Verdict:** These bodies strengthen cities only when expertise is nested within elected planning and answerability; otherwise they build projects while hollowing out municipal government.
 
 **Why this earns marks:** It distinguishes parastatals from SPVs, supplies benefits and costs, anchors criticism in Articles and proposes integration rather than abolition.
+
+**How to improve:** Distinguish permanent parastatals from mission SPVs, then propose service agreements and elected-plan conformity instead of abolition.
 
 ### M7. Design a governance framework for India's metropolitan and peri-urban regions. (20 marks, 250 words)
 
@@ -1800,6 +1829,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 **Verdict:** The objective is not a larger bureaucracy but congruence between the lived city-region and democratically accountable planning, finance and services.
 
 **Why this earns marks:** It covers classification, institutions, finance, democracy, regional systems, equity and alternatives, with constitutional and current evidence.
+
+**How to improve:** Organise the 20-marker at neighbourhood, municipality and metropolitan-region levels, with a transition safeguard for peri-urban residents.
 
 ### M8. Prepare a reform roadmap to move municipalities from constitutional status to measurable functionality. (20 marks, 250 words)
 
@@ -1826,6 +1857,8 @@ D. Article 243X/243Y -> revenue/SFC mechanism -> official XVI FC evidence -> Sta
 **Verdict:** Functionality exists when an elected municipality can decide, direct, finance and publicly explain measurable service outcomes.
 
 **Why this earns marks:** It provides a complete implementation sequence, named evidence, institutional safeguards and an outcome-based test rather than a generic wish list.
+
+**How to improve:** Sequence activity mapping, staff control, finance, planning, accountability and outcome measurement; name the responsible actor for each.
 
 ## Final consolidated register notes
 

@@ -1,0 +1,72 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\ancient-indian-history-08-g14-to-g15.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-08\ancient-indian-history-08-g14-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-08\ancient-indian-history-08-g15-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-08\g14-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-08\g15-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-08\g15-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\08-The-Rig-Vedic-Age-Early-Vedic\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\ascii-master.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\ascii-master.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\build-audit.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\editable\README.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\master.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\poster.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\preservation-hashes.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\previews\master-overview.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\previews\page-001.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\previews\page-002.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\previews\page-003.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\previews\page-004.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\README.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\tiled.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-08\carvaka-g15\validation-report.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\ancient-indian-history-08_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\validation\workbook-visual-audit-map.json
+tools\regenerate_ancient_history_deep_review.py
+tools\test_regenerate_ancient_history_deep_review.py
+upsc-ai-kit\knowledge\Ancient-Indian-History\basic\08_Rig-Vedic-Age.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\ancient-indian-history-08_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\ancient-indian-history-08_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\assets\ancient-indian-history-08-6299b4b529.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\assets\ancient-indian-history-08-e14faec36c.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\assets\ancient-indian-history-08_-cea7d02177.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-08\g15\assets\ancient-indian-history-08_Teaching-Navigation_2026-08-23.png
+upsc-ai-kit\manifests\exports\ancient-indian-history-08-learner-v2-g15-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\ancient-indian-history-08-learner-v2-g15-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\ancient-indian-history-08-learner-v2-g15-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\ancient-indian-history-08-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ancient-indian-history-08-deep-review-2026-09-03-g15.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Ancient-Indian-History\deep-review\ancient-indian-history-08-g15.json
+upsc-ai-kit\manifests\reviews\ancient-history\08-rig-vedic-age-early-vedic-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\ancient-indian-history--subject-wide-syllabus-content-specs\ancient-indian-history-08-g15.json
+upsc-ai-kit\manifests\v2\ancient-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

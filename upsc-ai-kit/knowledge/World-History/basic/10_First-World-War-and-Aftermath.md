@@ -284,3 +284,28 @@ victors whose own imperial reckoning was deferred to 1945."
 > **Study link:** World-History → `advanced/10_First-World-War-and-Aftermath.md` for the Versailles-harshness and Haig debates (optional).
 > **Study link:** World-History → `basic/11_International-Relations-1919-39.md` for the League of Nations and the interwar order.
 > **Study link:** Modern-Indian-History → `basic/18_WWI-Home-Rule-and-Lucknow-Pact.md` and `basic/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md` for India's wartime and immediate postwar context.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the First World War's military and imperial course; trench
+  stalemate, attrition, sea power, coalition endurance and defeat; total-war
+  state and social effects; empire collapse; the distinct armistice and
+  1919-23 treaty cluster, mandates, minorities and unstable peace.
+- **Boundary:** Topic 09 owns causes, July escalation and the exact 2024
+  balance-of-power PYQ. Topic 11 owns interwar international relations,
+  reparations diplomacy, collective-security failure and appeasement. Topic 10
+  ends with immediate consequences and the peace settlement's inherited
+  problems.
+- **Date control:** Marne (September 1914), Gallipoli (1915), Verdun and Somme
+  (1916), unrestricted submarine warfare and US entry (1917),
+  Brest-Litovsk (March 1918), armistice (11 November 1918), Versailles,
+  St Germain and Neuilly (1919), Trianon and Sevres (1920), and Lausanne
+  (1923) remain distinct military, diplomatic and legal stages.
+- **Mechanism control:** military victory, armistice, Paris negotiations,
+  individual treaties and League arrangements are not synonyms. Total war
+  mobilised states, civilians, women, industry and empires; treaty grievance
+  neither explains the war's outbreak nor makes a second war automatic.
+- **Verified PYQ ownership, 2018-2025:** zero direct topic-only routes. The
+  exact 2024 balance-of-power demand remains Topic 09-owned; probable
+  course, total-war and settlement questions remain original practice. No
+  unsourced casualty figure or current linkage is invented.

@@ -10,8 +10,8 @@
 ---
 
 # PART A — CENTRAL INFORMATION COMMISSION (CIC) ⭐
-✅ Established **2005** under the **Right to Information (RTI) Act, 2005** — a **high-powered independent statutory
-body** that decides **complaints & appeals** on offices/PSUs/financial institutions under the **Centre & UTs**.
+✅ Established under the **Right to Information (RTI) Act, 2005** — a statutory, quasi-judicial
+commission that handles complaints and second appeals concerning Central public authorities.
 
 ## Composition
 | Point | Detail |
@@ -29,10 +29,11 @@ body** that decides **complaints & appeals** on offices/PSUs/financial instituti
 - ✅ Removed by the **President**; for **proved misbehaviour/incapacity**, a **Supreme Court inquiry** is required.
 
 ## Powers & functions ✅
-Receive & inquire into **complaints** (no PIO, refusal, delay, unreasonable fees, false/incomplete info);
-**suo-motu** inquiry; **civil-court powers**; can examine **any public record** (none can be withheld); **secure
-compliance** — order disclosure, appoint a PIO, **impose penalties**, award **compensation**; submits an **annual
-report** → Parliament.
+Receive and inquire into statutory **complaints** (no PIO, inability to apply, refusal, delay,
+unreasonable fees, false/incomplete information); exercise **civil-court powers** and inspect covered
+records. In a **section 19 appeal**, it can secure compliance, order disclosure, direct PIO appointment,
+award compensation and issue binding decisions; section 20 permits personal PIO penalties and
+disciplinary recommendations. It submits an annual report through government for legislative laying.
 
 ---
 
@@ -64,8 +65,8 @@ members the Governor appoints but only the **President** can remove.
 - 📰 **RTI (Amendment) Act, 2019** — Centre controls tenure/salary → the **independence** debate.
 - 📰 ✅ **DPDP Act, 2023 section 44(3)** substituted RTI section 8(1)(j) with effect
   from **13 Nov 2025** under MeitY's commencement notification. The new text exempts
-  information relating to personal information; its interaction with the public-interest
-  override and constitutional right-to-information doctrine remains contested.
+  information relating to personal information. Section 8(2) and constitutional
+  right-to-information doctrine remain relevant; no unverified litigation outcome is asserted.
 - 📰 ⚠️ **Vacancies & pendency** in the CIC/SICs — several commissions functioning below strength or defunct, delaying
   appeals (SC has flagged this).
 

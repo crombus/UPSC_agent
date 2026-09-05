@@ -221,3 +221,18 @@
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** causes, trigger, course, centre-wise leadership, regional and
+  social participation, failure, nature/interpretation and consequences of the
+  Revolt of 1857.
+- **Boundary:** Topic 05 owns annexation instruments; Topic 08 owns the detailed
+  army and administrative apparatus; Topic 12 owns Crown rule and councils.
+  Earlier rebellions enter only for the direct 2019 culmination demand.
+- **Mechanism control:** cartridge is trigger, not cause; Awadh was annexed for
+  alleged misgovernment; Bahadur Shah Zafar was symbolic; military origin,
+  popular civil depth and uneven geography require a composite verdict.
+- **Verified PYQ ownership, 2018-2026:** two direct routes--2019 GS-I on
+  recurrent rebellions and provisional 2026 Prelims Q17 on Awadh taluqdars.
+  The provisional key is not promoted into an official answer letter.

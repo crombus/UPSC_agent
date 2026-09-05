@@ -29,7 +29,7 @@ Anglo-Indians, Christians, SCs, STs, women) — **except Mahatma Gandhi** (not a
 ## 3. Working
 ✅ First meeting **9 Dec 1946**; Muslim League **boycotted** (211 attended). **Dr. Sachchidananda
 Sinha** = temporary President (oldest member, French practice). Later **Dr. Rajendra Prasad** =
-President; **two Vice-Presidents** (H.C. Mukherjee & V.T. Krishnamachari).
+President; **two Vice-Presidents** (H.C. Mookherjee & V.T. Krishnamachari).
 
 ### Objectives Resolution ⭐
 ✅ Moved by **Nehru on 13 Dec 1946**; laid down philosophy & fundamentals. Adopted **22 Jan 1947**.
@@ -65,11 +65,12 @@ draft debated **114 days**; cost **₹64 lakh**. Continued as **provisional parl
 | ✅ Steering Committee | Rajendra Prasad |
 
 > 🔑 Trap: **Nehru chaired 3** major committees (Union Powers, Union Constitution, States);
-> **Rajendra Prasad chaired 3** (Rules, Steering, + minor Finance/Flag); **Patel chaired 2**
-> (Provincial, Advisory).
+> Within the **eight major committees listed here**, **Nehru chaired 3**, **Patel chaired 2**,
+> **Rajendra Prasad chaired 2**, and **Ambedkar chaired the Drafting Committee**. Do not mix
+> non-major committees into this count.
 
 **FR/Minorities sub-committees:** FR Sub-Committee — **J.B. Kripalani**; Minorities — **H.C.
-Mukherjee**; NE Frontier/Assam — **Gopinath Bardoloi**; Excluded Areas (non-Assam) — **A.V. Thakkar**.
+Mookherjee**; NE Frontier/Assam — **Gopinath Bardoloi**; Excluded Areas (non-Assam) — **A.V. Thakkar**.
 
 ## 7. Drafting Committee (set up 29 Aug 1947) — 7 members ⭐
 ✅ (1) **Dr. B.R. Ambedkar (Chairman)**, (2) N. Gopalaswamy Ayyangar, (3) Alladi Krishnaswamy Ayyar,
@@ -80,9 +81,9 @@ Mukherjee**; NE Frontier/Assam — **Gopinath Bardoloi**; Excluded Areas (non-As
 ## 8. Enactment
 ✅ Ambedkar introduced final draft **4 Nov 1948** (1st reading). 2nd reading (clause-by-clause)
 15 Nov 1948 – 17 Oct 1949 (**7653 amendments proposed, 2473 discussed**). 3rd reading from 14 Nov
-1949; **passed 26 Nov 1949** — signed by **284 of 299** present. As adopted: **Preamble + 395 Articles
-+ 8 Schedules** (Preamble enacted **last**). ✅ **Ambedkar = "Father of the Constitution" / "Modern
-Manu."**
+1949; **passed 26 Nov 1949**. **284 members signed on 24 Jan 1950**; do not describe all 299 members
+as present at signing. As adopted: **Preamble + 395 Articles + 8 Schedules** (Preamble enacted
+**last**). ✅ Ambedkar chaired the Drafting Committee and piloted the Draft through the Assembly.
 
 ## 9. Enforcement
 ✅ Some Articles (citizenship, elections, provisional parliament etc. — **Art 5,6,7,8,9,60,324,366,
@@ -113,8 +114,8 @@ Sinha**). ✅ Authoritative **Hindi text** provided by **58th Amendment, 1987**.
 
 ## 📰 CA / relevance
 - 📰 **26 November = Constitution Day (Samvidhan Divas)**, declared 2015 (marks 1949 adoption).
-- 📰 2024 = **75 years** of the Constitution's adoption → govt commemorations; recurrent editorials on
-  constitutional values, Ambedkar's legacy, and the Objectives Resolution → Preamble continuity.
+- 📰 The Union's year-long **75th-anniversary commemoration began on 26 November 2024**. Treat this
+  as a dated official illustration, not a continuing undated claim.
 
 ## UPSC Traps
 - ❌ CA directly elected on adult franchise → **indirectly** elected, partly nominated.

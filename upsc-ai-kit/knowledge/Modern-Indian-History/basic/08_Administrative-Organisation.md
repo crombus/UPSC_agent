@@ -12,7 +12,7 @@
 | Date | Event |
 |---|---|
 | ✅ 1793 | Cornwallis Code and covenanted civil service strengthen colonial bureaucracy |
-| ✅ 1853 | Charter Act opens civil service recruitment through competitive examination |
+| ✅ 1853 | Charter Act ends Directors' patronage and authorises the competitive route |
 | ✅ 1860 | Indian Penal Code codification associated with Macaulay's Law Commission legacy |
 | ✅ 1861 | Police Act creates modern colonial police structure |
 | ✅ 1878–79 | Lytton's Statutory Civil Service scheme attempts limited Indian entry |
@@ -27,7 +27,7 @@
 - ✅ **Cornwallis** is associated with founding the covenanted civil service, high official salaries and efforts to curb corruption among Company servants.
 - ✅ The higher civil service was effectively European; Indians were excluded from top posts despite later talk of open competition.
 - ✅ **Haileybury College** trained Company civil servants before the competitive-exam era.
-- ✅ The **Charter Act, 1853** introduced open competitive examination, but the exam in London and restrictive age limits made Indian entry difficult.
+- ✅ The **Charter Act, 1853** ended the Directors' patronage monopoly and authorised competition; the **Macaulay Committee (1854)** and first open examination (**1855**) were separate implementation steps, and London-based access remained restrictive.
 
 **Foundation — rule of law existed in theory, racial hierarchy in practice.**
 
@@ -59,7 +59,7 @@
 
 - ✅ **Cornwallis** is linked with the covenanted civil service, high salaries and anti-corruption administrative reform.
 - ✅ **Haileybury College** trained Company civil servants.
-- ✅ **Charter Act, 1853** introduced open competition for civil service recruitment.
+- ✅ **Charter Act, 1853** removed Directors' patronage and authorised competition; Macaulay's committee reported in **1854** and the first open examination followed in **1855**.
 - ✅ **Statutory Civil Service (1878–79)** is associated with **Lytton**.
 - ✅ **Aitchison Commission (1886)** examined public services and Indianisation.
 - ✅ **Cornwallis** created the **thana/daroga** police system.
@@ -124,7 +124,7 @@
 
 **A. Civil service — professional and closed**
 - **Claim:** Professionalisation and exclusion were designed together, not accidentally combined.
-- **Evidence:** ✅ Cornwallis founded the covenanted service on high salaries and anti-corruption discipline while reserving higher posts for Europeans; **Haileybury** trained Company servants before the examination era; the **Charter Act, 1853** introduced open competition — but the examination was held in London with age limits that made Indian entry very difficult. ⚠️ Fort William College at Calcutta (Wellesley) had earlier trained European civil servants in Indian languages and law before its closure in 1802.
+- **Evidence:** ✅ Cornwallis founded the covenanted service on high salaries and anti-corruption discipline while reserving higher posts for Europeans; **Haileybury** trained Company servants before the examination era; the **Charter Act, 1853** removed Directors' patronage and authorised competition, followed by the **1854 Macaulay Committee** and **1855 first open examination** in London. ⚠️ Fort William College at Calcutta (Wellesley) had earlier trained European civil servants in Indian languages and law before its closure in 1802.
 - **Significance:** The service acquired competence, permanence and prestige precisely as it acquired a colour bar; the "steel frame" phrase describes both properties.
 - **Limit/caution:** Do not treat 1853 as Indianisation; distinguish formal eligibility from effective access, which is the examinable point.
 
@@ -195,9 +195,24 @@ Revenue demand (basic/07)
 
 ### 8.8 Factual-risk cautions
 
-- The 1853 Act introduced competition; it did not open the service to Indians in practice.
+- The 1853 Act authorised the competitive route; the 1854 committee and 1855 examination implemented it, without making Indian access effective in practice.
 - The Police Act is **1861**; the thana/daroga system is Cornwallis's earlier arrangement.
 - The Indian Penal Code was enacted in **1860** and belongs to the Law Commission tradition begun under the 1833 Act.
 - Ilbert Bill = **1883**, Aitchison Commission = **1886**, Statutory Civil Service = **1878–79**.
 - Do not state European–Indian troop ratios or service-composition percentages.
 - "Martial races" must be flagged as colonial doctrine, never asserted as fact.
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** civil services and district administration, army, police,
+  judiciary, codification and the rule-of-law/racial-privilege contradiction.
+- **Boundary:** Topic 06 owns constitutional statutes; Topic 07 owns economic
+  consequences; Topic 09 owns education, press and social policy; Topic 11
+  owns the Revolt core; Topic 12 owns post-1858 constitutional councils.
+- **Mechanism control:** 1853 removed Directors' patronage and authorised
+  competition; Macaulay's 1854 report and the first open exam in 1855 were
+  separate. Cornwallis's thana/daroga arrangement predates the Police Act 1861.
+  'Martial races' is a colonial recruitment ideology, not a factual taxonomy.
+- **Verified PYQ ownership, 2018-2026:** zero direct routes. Every MCQ and
+  Mains answer in the package is original practice; adjacent questions stay
+  explicitly adjacent and no official key is invented.

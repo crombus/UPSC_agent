@@ -1,6 +1,6 @@
 # Qualifying English Learning Session Command Index
 
-> **Topics indexed:** 7  
+> **Topics indexed:** 7
 > **Subject method:** Rule/skill -> worked example -> timed language exercise -> correction and retest.
 
 ## How to use these commands
@@ -15,6 +15,8 @@
 ### Learning-session rule
 
 The complete package remains the master reference. A live session should select all exam-relevant Core material, use advanced material only where it adds marks, run one genuine current-affairs check per integrated block, and end with cumulative retrieval rather than an MCQ after every small heading.
+
+New archives use `learning-sessions/`. `Terminal-Learning-Sessions`, `learning-sessions-v2`, `_learning-sessions` are indexed only as legacy migration aliases; do not create new sessions there.
 
 ## Copy-ready topic commands
 

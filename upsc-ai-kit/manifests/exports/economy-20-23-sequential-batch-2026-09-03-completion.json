@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "batch_id": "economy-20-23-sequential-batch-2026-09-03",
+  "scope": "Economy learner-v2 Topics 20-23, strictly sequential",
+  "generated_on": "2026-09-03",
+  "validated_at": "2026-09-03T14:47:15.226468+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "economy-20",
+      "economy-21",
+      "economy-22",
+      "economy-23"
+    ],
+    "topic_count": 4,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "economy-20:learner-v2:g1",
+      "economy-21:learner-v2:g1",
+      "economy-22:learner-v2:g1",
+      "economy-23:learner-v2:g1"
+    ],
+    "unique_records": true,
+    "approvals_false": true
+  },
+  "shared_ascii_coverage": {
+    "baseline_topics": 312,
+    "baseline_panels": 3616,
+    "authored_topics": 316,
+    "authored_panels": 3664,
+    "topic_delta": 4,
+    "panel_delta": 48,
+    "integrity_errors": []
+  },
+  "tests": {
+    "result": "passed",
+    "passed": 57,
+    "scope": "tools.test_generate_economy_20_23_sequential + tools.test_generate_economy_16_19_sequential + tools.test_generate_economy_11_15_sequential + tools.test_generate_economy_06_10_sequential + tools.test_generate_economy_01_05_sequential + tools.test_refresh_all_v2_learning_sessions + manual_spec_integrity_errors"
+  },
+  "aggregate": {
+    "main_pdf_pages": 305,
+    "workbook_pdf_pages": 146,
+    "mcqs": 320,
+    "learning_sessions": 60,
+    "ascii_panels": 48,
+    "graphical_stages": 52
+  },
+  "topics": [
+    {
+      "topic_key": "economy-20",
+      "record_id": "economy-20:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 76,
+        "workbook_pdf_pages": 36
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\economy-20-learner-v2-g1-2026-09-03-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-20\\economy-20_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-20\\economy-20_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-20\\economy-20_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-20\\economy-20_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-21",
+      "record_id": "economy-21:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 74,
+        "workbook_pdf_pages": 34
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\economy-21-learner-v2-g1-2026-09-03-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-21\\economy-21_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-21\\economy-21_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-21\\economy-21_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-21\\economy-21_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-22",
+      "record_id": "economy-22:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 78,
+        "workbook_pdf_pages": 38
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\economy-22-learner-v2-g1-2026-09-03-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-22\\economy-22_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-22\\economy-22_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-22\\economy-22_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-22\\economy-22_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-23",
+      "record_id": "economy-23:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 77,
+        "workbook_pdf_pages": 38
+      },
+      "per_topic_completion": "upsc-ai-kit\\manifests\\exports\\economy-23-learner-v2-g1-2026-09-03-completion.json",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-23\\economy-23_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-23\\economy-23_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-23\\economy-23_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-23\\economy-23_Solved-Practice-Workbook_2026-09-03.md"
+    }
+  ],
+  "errors": [],
+  "changed_files_ledger": {
+    "path": "upsc-ai-kit\\manifests\\exports\\economy-20-23-sequential-batch-2026-09-03-changed-files.txt",
+    "count": 157
+  }
+}

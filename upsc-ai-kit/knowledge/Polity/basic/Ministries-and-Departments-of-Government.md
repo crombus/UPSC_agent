@@ -2,8 +2,8 @@
 
 > **Subject:** Polity · **Tier:** Core · **GS Paper:** GS-II
 > **Official clause:** "Structure, organization and functioning of the Executive and the
-> Judiciary-Ministries and Departments of the Government..."
-> **Grounded in:** Constitution Articles 73-78; Government of India (Allocation of Business)
+> Judiciary-Ministries and Departments of the Government."
+> **Grounded in:** Constitution Articles 53, 73-78; Government of India (Allocation of Business)
 > Rules, 1961; Government of India (Transaction of Business) Rules, 1961; Cabinet Secretariat;
 > Central Secretariat Manual of Office Procedure.
 > **Advanced (optional):** `../advanced/48_Ministries-Departments-and-Central-Secretariat.md` — optional deeper detail; not required for any mark.
@@ -50,6 +50,7 @@ responsibility, finance, personnel, coordination and accountability**.
 
 | Provision | Exam-ready meaning |
 |---|---|
+| **Article 53** | Union executive power is formally vested in the President and exercised directly or through subordinate officers in accordance with the Constitution; parliamentary aid and advice and business rules control institutional exercise. |
 | **Article 73** | Union executive power extends broadly to matters on which Parliament may legislate and to rights/authority exercisable under treaties, subject to the constitutional federal distribution. |
 | **Article 74** | Council of Ministers headed by the Prime Minister aids and advises the President. |
 | **Article 75** | Ministers are appointed by the President on the Prime Minister's advice and are collectively responsible to Lok Sabha. |
@@ -361,7 +362,36 @@ can produce silos and contradictory policies.
 
 ---
 
-## 13. Reform architecture
+## 13. Office procedure, e-Office and dated reform controls
+
+The **Central Secretariat Manual of Office Procedure, 16th edition (2022)** supplies the current
+official office-procedure frame for ministries/departments and their attached/subordinate offices.
+Its governing logic is prompt disposal at the appropriate delegated level, traceable responsibility,
+recorded decisions, knowledge/record management and digital processing through e-Office.
+
+Digital movement does not alter constitutional competence. An electronic file still requires:
+
+```text
+receipt -> diarisation/registration -> examination and noting -> consultation
+        -> competent approval -> issue/authentication -> record/monitoring
+```
+
+Reform tests are therefore:
+
+- **delayering and delegation**, not automatic upward escalation;
+- **single authoritative digital record**, not parallel informal approval;
+- **interoperability with security and retention controls**;
+- **time-bound consultation with recorded disagreement**;
+- **data and algorithmic accountability** where platforms shape decisions; and
+- **citizen-facing grievance and service tracking**, without confusing a dashboard with legal accountability.
+
+Current ministry/department names, Cabinet Committee composition and PMO staffing are
+notification-sensitive. Verify them from the dated Allocation of Business Rules, Cabinet Secretariat
+and PMO pages; do not freeze a permanent count.
+
+---
+
+## 14. Reform architecture
 
 1. **Whole-of-government outcomes:** organise cross-ministry work around measurable public outcomes,
    not only departmental expenditure.
@@ -383,7 +413,7 @@ can produce silos and contradictory policies.
 
 ---
 
-## 14. PYQ and answer applications
+## 15. PYQ and answer applications
 
 ### 14.1 2020 GS-II: institutional quality and civil-service reform
 
@@ -399,21 +429,7 @@ the organisational setting in which civil-service quality becomes policy quality
    e-office, transparent consultation and outcome evaluation; and
 5. conclude that personnel reform fails unless departmental processes and incentives also change.
 
-### 14.2 2024 GS-II: civil-service integrity and democratic governance
-
-Use this Core for the organisational dimension:
-
-- recorded, reasoned advice;
-- lawful ministerial direction;
-- transparent allocation of responsibility;
-- institutional protection for neutral professional advice;
-- audit, legislative scrutiny and grievance redress; and
-- visible service outcomes.
-
-The complete civil-service legitimacy answer remains with
-`../../Governance/basic/09_Civil-Services-and-Mission-Karmayogi.md`.
-
-### 14.3 2024 GS-II: cabinet system and parliamentary supremacy
+### 14.2 2024 GS-II: cabinet system and parliamentary supremacy
 
 Ministries give the Cabinet control over policy information, legislative drafting, delegated
 legislation, budget preparation and the parliamentary agenda. This can marginalise Parliament when
@@ -430,7 +446,7 @@ and escalation -> Cabinet Secretariat/Cabinet Committees -> parliamentary and le
 
 ---
 
-## 15. Prelims traps
+## 16. Prelims traps
 
 - AoB Rules and ToB Rules are framed under **Article 77(3)**, not Article 309.
 - AoB answers **who handles the subject**; ToB answers **how the decision moves**.
@@ -449,9 +465,9 @@ and escalation -> Cabinet Secretariat/Cabinet Committees -> parliamentary and le
 
 ---
 
-## 16. Mains-ready template
+## 17. Mains-ready template
 
-**Introduction:** Articles 74-77 translate the parliamentary executive into organised government;
+**Introduction:** Articles 53, 73-77 translate the parliamentary executive into organised government;
 AoB allocates subjects and ToB regulates decision procedure.
 
 **Body:**
@@ -471,7 +487,7 @@ level.
 > **Core firewall:** Skipping Advanced does not remove any indispensable definition, institution,
 > distinction, trap or PYQ application needed for this syllabus area.
 
-## 17. Answer architecture (10/15/20-mark support)
+## 18. Answer architecture (10/15/20-mark support)
 
 > Purpose: this file already carries the full institutional spine (sections 1–13), PYQ answer engines (section 14), Prelims traps (section 15) and a Mains template (section 16). This section adds **only the directive-sensitive answer layer** — a demand map, thesis options, mark-scaled structures, **named-example evidence banks** the earlier sections do not hold, and verdict/Prelims/fact-risk controls. It does **not** repeat sections 1–16.
 
@@ -568,46 +584,3 @@ level.
 - 📰 Named reorganisations (Jal Shakti 2019, Cooperation 2021, AYUSH 2014, DMA 2019, NITI Aayog 2015, Railway-Budget merger 2017) are **illustrative and dated**; verify current allocation against the latest **Allocation of Business Rules** before asserting a present-day pairing.
 - ✅ Do **not** memorise a permanent number of ministries, departments or Cabinet Committees.
 - ✅ A **statutory regulator's** legal autonomy cannot be overridden by ordinary ministerial instruction; delegation of delivery does **not** remove ministerial/departmental accountability.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-## Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
-
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 57 | Organization-Union Ministry pairs (Automotive Board, Coir Board, NCTI) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-### What this owner must now support
-
-- Organization-Union Ministry pairs (Automotive Board, Coir Board, NCTI)
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2020
-- **Paper(s):** GS-II
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-II | 7 | Institutional quality and civil service reform for strengthening democracy | Suggest reforms · 10 marks · 150 words | Cross-cutting; official-paper question verified; civil-service and departmental-institution owners linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-### What this owner must now support
-
-- Institutional quality and civil service reform for strengthening democracy
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

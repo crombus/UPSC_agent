@@ -43,8 +43,7 @@ need President's **prior sanction**; during **financial emergency** money bills 
 ## A2. Administrative Relations (Art 256–263, Part XI) ⭐
 ✅ **Executive power** divided along legislative lines. **Two obligations on states (Art 256-257):**
 (a) comply with Central laws; (b) not impede Centre's executive power. **Art 365:** if a state fails to
-comply with Centre's directions → President may hold that government "**cannot be carried on**" → **Art
-356 (President's Rule)**.
+comply with Centre's directions → President may hold that government "**cannot be carried on**" according to the Constitution; any **Art 356** proclamation still requires separate satisfaction, parliamentary control and *S.R. Bommai* review.
 ✅ **Centre's directions** to states on: communications of national/military importance, protection of
 railways, mother-tongue instruction for linguistic minorities, welfare schemes for STs.
 ✅ **Mutual delegation:** President→state (with consent) or Governor→Centre (with consent); Centre can
@@ -91,8 +90,7 @@ and **needs Centre's consent** if a Central loan is outstanding.
 
 ## B1. Inter-State Water Disputes (Art 262)
 ✅ Parliament may bar even the **Supreme Court's jurisdiction**. Two laws (**both 1956**): **River Boards
-Act** + **Inter-State Water Disputes Act** (ad hoc **tribunal**, decision final & binding). ✅ **9
-tribunals** set up so far — e.g. **Cauvery (1990:** Karnataka/Kerala/TN/Puducherry**)**, Krishna, Godavari,
+Act** + **Inter-State Water Disputes Act** (ad hoc **tribunal**, decision final & binding). ✅ Multiple dispute-specific tribunals have been constituted — e.g. **Cauvery (1990:** Karnataka/Kerala/TN/Puducherry**)**, Krishna, Godavari,
 Narmada, Ravi-Beas, **Mahanadi (2018:** Odisha/Chhattisgarh**)**.
 
 ## B2. Inter-State Council (Art 263) ⭐
@@ -101,7 +99,7 @@ recommend policy coordination (function is **advisory**, unlike Art 131 SC bindi
 Commission** urged a permanent council ("Inter-Governmental Council") → **V.P. Singh govt set it up in
 1990**. **Chair = PM**; members = all CMs, UT CMs/administrators, 6 Union cabinet ministers.
 Its procedural guidelines envisage at least three meetings a year, in camera and by consensus;
-actual practice has been much less regular. Standing Committee (1996, chaired by the Union Home Minister).
+actual full-Council practice has been much less regular; 2026 official activity is stronger in Zonal Councils and their standing committees. Standing Committee (1996, chaired by the Union Home Minister).
 
 ## B3. Full Faith & Credit (Art 261)
 ✅ Public acts/records/judicial proceedings of Centre & states recognised throughout India; **civil**

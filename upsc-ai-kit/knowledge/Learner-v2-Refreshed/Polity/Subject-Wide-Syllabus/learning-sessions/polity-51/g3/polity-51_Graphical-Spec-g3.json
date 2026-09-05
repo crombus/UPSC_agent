@@ -1,0 +1,1215 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-51",
+  "subject": "Polity",
+  "title": "RIGHTS AND LIABILITIES OF THE GOVERNMENT",
+  "short_route": "LEGAL PERSONALITY → PROPERTY → CONTRACT → SUITS → TORT → ARTICLE 300A → SECRECY → REMEDY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g3 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g3\\polity-51_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "2930a922432954e848876379f41fb529fb8d6203993a9d4f14108398e046a00a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GOVERNMENT AS PROPERTY-HOLDER, CONTRACTOR AND SUABLE LEGAL PERSON",
+      "structural_type": "legal-person-root",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GOVERNMENT AS PROPERTY-HOLDER, CONTRACTOR AND SUABLE LEGAL PERSON",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN THE STATE EXERCISE PUBLIC POWER YET REMAIN",
+          "role": "institution"
+        },
+        {
+          "text": "PART XII, CHAPTER III",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 294-297",
+          "role": "primary"
+        },
+        {
+          "text": "SUCCESSION, OWNERLESS AND MARITIME PROPERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 298",
+          "role": "institution"
+        },
+        {
+          "text": "TRADE, BUSINESS, PROPERTY AND CONTRACT CAPACITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "How can the State exercise public power yet remain answerable as a legal actor?",
+        "PART XII, CHAPTER III",
+        "Articles 294-297 → succession, ownerless and maritime property",
+        "Article 298 → trade, business, property and contract capacity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "How can the State exercise public power yet remain answerable as a legal actor?",
+            "PART XII, CHAPTER III"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Articles 294-297 → succession, ownerless and maritime property",
+            "Article 298 → trade, business, property and contract capacity",
+            "Article 299 → mandatory government-contract form"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 300 → suits, proceedings and liability continuity.",
+            "SEPARATE LINK",
+            "Article 300A → private property may be deprived only by authority of law."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MASTER DISTINCTION official personal protection != governmental immunity from review or liability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 298 governs governmental property capacity and Article 300A protects against deprivation without law, but neither substitutes for contract or suit provisions.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 1",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SUCCESSION, OWNERLESS PROPERTY AND REORGANISATION",
+      "structural_type": "property-succession-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SUCCESSION, OWNERLESS PROPERTY AND REORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 294-295 COMMENCEMENT CONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION/STATE SUCCEEDS TO PROPERTY, RIGHTS AND LIABILITIES.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 296 ESCHEAT/LAPSE/BONA VACANTIA",
+          "role": "institution"
+        },
+        {
+          "text": "LOCATION RULE + GOVERNMENTAL-PURPOSE PROVISO.",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 297 SPECIFIED MARITIME LANDS, MINERALS AND RESOURCES",
+          "role": "institution"
+        },
+        {
+          "text": "LATER REORGANISATION STATUTE/AGREEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSETS + DEBT + GUARANTEES + EMPLOYEES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLES 294-295 commencement continuity → Union/State succeeds to property, rights and liabilities.",
+        "ARTICLE 296 escheat/lapse/bona vacantia → location rule + governmental-purpose proviso.",
+        "ARTICLE 297 specified maritime lands, minerals and resources → Union.",
+        "LATER REORGANISATION statute/agreement → assets + debt + guarantees + employees",
+        "contracts/licences + records + pending proceedings."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLES 294-295 commencement continuity → Union/State succeeds to property, rights and liabilities.",
+            "ARTICLE 296 escheat/lapse/bona vacantia → location rule + governmental-purpose proviso."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 297 specified maritime lands, minerals and resources → Union.",
+            "LATER REORGANISATION statute/agreement → assets + debt + guarantees + employees"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "contracts/licences + records + pending proceedings.",
+            "TRAP no universal apportionment formula; use the exact reorganisation instrument."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLES 294-295 commencement continuity → Union/State succeeds to property, rights and liabilities.",
+            "ARTICLE 296 escheat/lapse/bona vacantia → location rule + governmental-purpose proviso."
+          ]
+        }
+      ],
+      "mechanism_strip": "ARTICLE 296 escheat/lapse/bona vacantia → location rule + governmental-purpose proviso.",
+      "answer_line": "Articles 294 and 295 manage constitutional commencement, while later territorial reorganisation allocates assets, liabilities and proceedings through the applicable statute or agreement.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 3",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLES 298 AND 299: CAPACITY BEFORE VALID COMMITMENT",
+      "structural_type": "government-contract-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLES 298 AND 299",
+          "role": "primary"
+        },
+        {
+          "text": "CAPACITY BEFORE VALID COMMITMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 298 EXECUTIVE CAPACITY TO TRADE, DO BUSINESS, ACQUIRE/HOLD/DISPOSE",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 299 MANDATORY FORM EXPRESSED IN PRESIDENT/GOVERNOR'S NAME EXECUTED",
+          "role": "institution"
+        },
+        {
+          "text": "VALID PUBLIC COMMITMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NO PERSONAL LIABILITY OF HEAD/AUTHORISED SIGNATORY.",
+          "role": "caution"
+        },
+        {
+          "text": "TRAP CAPACITY",
+          "role": "caution"
+        },
+        {
+          "text": "PERSONAL IMMUNITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 298 executive capacity to trade, do business, acquire/hold/dispose property and contract.",
+        "ARTICLE 299 MANDATORY FORM expressed in President/Governor's name executed on behalf of that constitutional head",
+        "prescribed manner.",
+        "valid public commitment → no personal liability of head/authorised signatory.",
+        "TRAP capacity != authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 298 executive capacity to trade, do business, acquire/hold/dispose property and contract.",
+            "ARTICLE 299 MANDATORY FORM expressed in President/Governor's name executed on behalf of that constitutional head authorised person and"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "prescribed manner.",
+            "valid public commitment → no personal liability of head/authorised signatory."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP capacity != authority",
+            "signature != authorisation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "personal immunity != State immunity.",
+            "ARTICLE 298 executive capacity to trade, do business, acquire/hold/dispose property and contract."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 294 and 295 preserve succession of public assets and liabilities, establishing the State as a juristic successor rather than personally liable officeholders.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 5",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DEFECTIVE CONTRACT AND RESTITUTION",
+      "structural_type": "contract-restitution-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEFECTIVE CONTRACT AND RESTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 299 DEFECT PURPORTED CONTRACT UNENFORCEABLE AS GOVERNMENT CONTRACT.",
+          "role": "institution"
+        },
+        {
+          "text": "INDEPENDENT SECTION 70 ROUTE LAWFUL ACT/DELIVERY + NON-GRATUITOUS INTENTION",
+          "role": "institution"
+        },
+        {
+          "text": "RESTITUTION MEASURED BY BENEFIT.",
+          "role": "evidence"
+        },
+        {
+          "text": "B.K. MONDAL & SONS (1961) NON-GRATUITOUS BENEFIT CAN CREATE",
+          "role": "primary"
+        },
+        {
+          "text": "MULAMCHAND V. STATE OF MADHYA PRADESH (1968) MANDATORY ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "LIMIT QUANTUM MERUIT DOES NOT VALIDATE THE CONTRACT OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 299 DEFECT purported contract unenforceable as government contract.",
+        "INDEPENDENT SECTION 70 ROUTE lawful act/delivery + non-gratuitous intention + government enjoys benefit",
+        "restitution measured by benefit.",
+        "B.K. Mondal & Sons (1961) non-gratuitous benefit can create restitutionary liability.",
+        "Mulamchand v. State of Madhya Pradesh (1968) mandatory Article 299 form remains separate."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 299 DEFECT purported contract unenforceable as government contract.",
+          "restitution measured by benefit.",
+          "Mulamchand v. State of Madhya Pradesh (1968) mandatory Article 299 form remains separate.",
+          "ARTICLE 299 DEFECT purported contract unenforceable as government contract."
+        ],
+        [
+          "INDEPENDENT SECTION 70 ROUTE lawful act/delivery + non-gratuitous intention + government enjoys benefit",
+          "B.K. Mondal & Sons (1961) non-gratuitous benefit can create restitutionary liability.",
+          "LIMIT quantum meruit does not validate the contract or automatically award contract price.",
+          "INDEPENDENT SECTION 70 ROUTE lawful act/delivery + non-gratuitous intention + government enjoys benefit"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 299 DEFECT purported contract unenforceable as government contract.",
+            "INDEPENDENT SECTION 70 ROUTE lawful act/delivery + non-gratuitous intention + government enjoys benefit"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "restitution measured by benefit.",
+            "B.K. Mondal & Sons (1961) non-gratuitous benefit can create restitutionary liability."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Mulamchand v. State of Madhya Pradesh (1968) mandatory Article 299 form remains separate.",
+            "LIMIT quantum meruit does not validate the contract or automatically award contract price."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 299 DEFECT purported contract unenforceable as government contract.",
+            "INDEPENDENT SECTION 70 ROUTE lawful act/delivery + non-gratuitous intention + government enjoys benefit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Failure of Article 299 form can defeat contractual enforcement, but restitution may still prevent the State from retaining a non-gratuitous benefit unjustly.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 7",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARTICLE 300 AND THE CIVIL-SUIT ROUTE",
+      "structural_type": "suit-procedure-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 300 AND THE CIVIL-SUIT ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "PROPER PARTY",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION MATTER",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION OF INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE MATTER",
+          "role": "institution"
+        },
+        {
+          "text": "NAME OF STATE.",
+          "role": "institution"
+        },
+        {
+          "text": "CPC SECTION 79 PARTY DESCRIPTION IN GOVERNMENT LITIGATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "CPC SECTION 80 ORDINARY OFFICIAL-ACT SUIT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PROPER PARTY",
+        "Union matter → Union of India",
+        "State matter → name of State.",
+        "CPC SECTION 79 party description in government litigation.",
+        "CPC SECTION 80 ordinary official-act suit → two-month prior notice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PROPER PARTY",
+            "Union matter → Union of India",
+            "State matter → name of State."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CPC SECTION 79 party description in government litigation.",
+            "CPC SECTION 80 ordinary official-act suit → two-month prior notice",
+            "Section 80(2) court-controlled urgent/immediate-relief route."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROCEEDING cause of action → correct party → notice/exception → pleading/evidence",
+            "decree/appeal/enforcement subject to law.",
+            "TRAP procedural notice != substantive sovereign immunity."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CPC SECTION 79 party description in government litigation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 296 allocates escheat, lapse and bona vacantia by territorial and governmental purpose, preventing ownerless property from remaining legally unvested.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 9",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRIVATE TORT AND THE NARROWING OF SOVEREIGN IMMUNITY",
+      "structural_type": "tort-case-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PRIVATE TORT AND THE NARROWING OF SOVEREIGN IMMUNITY",
+          "role": "primary"
+        },
+        {
+          "text": "P & O STEAM NAVIGATION (1861) COLONIAL SOVEREIGN/NON-SOVEREIGN DISTINCTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE OF RAJASTHAN V. VIDYAWATI (1962) ORDINARY OPERATIONAL NEGLIGENCE",
+          "role": "institution"
+        },
+        {
+          "text": "KASTURI LAL V. STATE OF UTTAR PRADESH (1964) OLDER",
+          "role": "institution"
+        },
+        {
+          "text": "N. NAGENDRA RAO & CO. (1994) BROAD IMMUNITY UNTENABLE",
+          "role": "primary"
+        },
+        {
+          "text": "VERDICT NO BLANKET FORMULA",
+          "role": "caution"
+        },
+        {
+          "text": "IDENTIFY FUNCTION, DUTY, CAUSATION AND REMEDY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "P & O Steam Navigation (1861) colonial sovereign/non-sovereign distinction.",
+        "State of Rajasthan v. Vidyawati (1962) ordinary operational negligence can attract State liability.",
+        "Kasturi Lal v. State of Uttar Pradesh (1964) older police-sovereign immunity line.",
+        "N. Nagendra Rao & Co. (1994) broad immunity untenable in welfare State; any residue is",
+        "VERDICT no blanket formula: identify function, duty, causation and remedy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "P & O Steam Navigation (1861) colonial sovereign/non-sovereign distinction.",
+            "State of Rajasthan v. Vidyawati (1962) ordinary operational negligence can attract State liability."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Kasturi Lal v. State of Uttar Pradesh (1964) older police-sovereign immunity line.",
+            "N. Nagendra Rao & Co. (1994) broad immunity untenable in welfare State; any residue is narrow."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT no blanket formula: identify function, duty, causation and remedy.",
+            "P & O Steam Navigation (1861) colonial sovereign/non-sovereign distinction."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State of Rajasthan v. Vidyawati (1962) ordinary operational negligence can attract State liability.",
+            "Kasturi Lal v. State of Uttar Pradesh (1964) older police-sovereign immunity line."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Private-law sovereign immunity has narrowed as welfare-state functions expanded, but liability still depends on the governing facts, statute and current judicial doctrine.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 11",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CONSTITUTIONAL TORT AND VICARIOUS RESPONSIBILITY",
+      "structural_type": "public-private-remedy-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL TORT AND VICARIOUS RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC-LAW COMPENSATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RUDUL SAH V. STATE OF BIHAR (1983)",
+          "role": "institution"
+        },
+        {
+          "text": "UNLAWFUL DETENTION COMPENSATION.",
+          "role": "evidence"
+        },
+        {
+          "text": "NILABATI BEHERA V. STATE OF ORISSA (1993)",
+          "role": "institution"
+        },
+        {
+          "text": "FUNDAMENTAL-RIGHT REMEDY DISTINCT.",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE OF ANDHRA PRADESH V. CHALLA RAMKRISHNA REDDY (2000)",
+          "role": "institution"
+        },
+        {
+          "text": "PRISON-RIGHTS ACCOUNTABILITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUBLIC-LAW COMPENSATION",
+        "Rudul Sah v. State of Bihar (1983) → unlawful detention compensation.",
+        "Nilabati Behera v. State of Orissa (1993) → Fundamental-Right remedy distinct.",
+        "State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000)",
+        "prison-rights accountability."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PUBLIC-LAW COMPENSATION",
+            "Rudul Sah v. State of Bihar (1983) → unlawful detention compensation.",
+            "Nilabati Behera v. State of Orissa (1993) → Fundamental-Right remedy distinct."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000)",
+            "prison-rights accountability.",
+            "PRIVATE TORT duty + breach + causation + damage + vicarious-employment nexus."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OFFICIAL RESPONSIBILITY",
+            "State liability may coexist with disciplinary, criminal or personal liability.",
+            "LIMIT writ compensation vindicates rights; it does not replace every civil trial."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Constitutional tort awards public-law compensation for established rights violations, but neither determines every private damages claim nor eliminates ordinary trial.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 13",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 14"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PROPERTY, PROCUREMENT, ARBITRATION AND PROTECTION BOUNDARIES",
+      "structural_type": "accountable-contracting-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROPERTY, PROCUREMENT, ARBITRATION AND PROTECTION BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 300A DEPRIVATION OF PRIVATE PROPERTY ONLY BY AUTHORITY",
+          "role": "institution"
+        },
+        {
+          "text": "PROCUREMENT RAIL NEED/SANCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FAIR CRITERIA/COMPETITION",
+          "role": "evidence"
+        },
+        {
+          "text": "REASONED AWARD",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 299 EXECUTION",
+          "role": "institution"
+        },
+        {
+          "text": "ARBITRATION VALID AUTHORISED CLAUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY CHALLENGE/ENFORCEMENT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 300A deprivation of private property only by authority of law.",
+        "PROCUREMENT RAIL need/sanction → fair criteria/competition → reasoned award",
+        "Article 299 execution → performance/payment → CAG/audit.",
+        "ARBITRATION valid authorised clause → tribunal → award → statutory challenge/enforcement.",
+        "PROTECTION FIREWALL"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 300A deprivation of private property only by authority of law.",
+          "ARBITRATION valid authorised clause → tribunal → award → statutory challenge/enforcement.",
+          "Article 299 signatory rule",
+          "GeM/manual/draft reform != constitutional or statutory amendment."
+        ],
+        [
+          "PROCUREMENT RAIL need/sanction → fair criteria/competition → reasoned award",
+          "PROTECTION FIREWALL",
+          "CPC notice",
+          ""
+        ],
+        [
+          "Article 299 execution → performance/payment → CAG/audit.",
+          "Article 361",
+          "privilege are separate sources with separate limits.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 300A deprivation of private property only by authority of law.",
+            "PROCUREMENT RAIL need/sanction → fair criteria/competition → reasoned award",
+            "Article 299 execution → performance/payment → CAG/audit."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARBITRATION valid authorised clause → tribunal → award → statutory challenge/enforcement.",
+            "PROTECTION FIREWALL",
+            "Article 361"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 299 signatory rule",
+            "CPC notice",
+            "privilege are separate sources with separate limits."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "GeM/manual/draft reform != constitutional or statutory amendment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Public contracts, property disposal, procurement and commercial action remain subject to equality, statutory power, appropriation, audit and judicial review.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ARTICLE 300A: LAWFUL ACQUISITION AND SEVEN SAFEGUARDS",
+      "structural_type": "property-rights-safeguard-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EVERY PERSON; CONSTITUTIONAL RIGHT OUTSIDE PART III",
+          "role": "primary"
+        },
+        {
+          "text": "DEPRIVATION ONLY BY AUTHORITY OF LAW",
+          "role": "institution"
+        },
+        {
+          "text": "K.T. PLANTATION (2011): PUBLIC PURPOSE; NO ILLUSORY COMPENSATION",
+          "role": "evidence"
+        },
+        {
+          "text": "VIDYA DEVI (2020): EXECUTIVE OCCUPATION IS NOT ACQUISITION",
+          "role": "caution"
+        },
+        {
+          "text": "NOTICE; HEARING; REASONED DECISION; PUBLIC PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "FAIR COMPENSATION OR RESTITUTION; EFFICIENT PROCESS; CONCLUSION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "Every person; constitutional right outside Part III",
+        "Deprivation only by authority of law",
+        "K.T. Plantation (2011): public purpose; no illusory compensation",
+        "Vidya Devi (2020): executive occupation is not acquisition",
+        "Notice; hearing; reasoned decision; public purpose",
+        "Fair compensation or restitution; efficient process; conclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL STATUS",
+          "role": "institution",
+          "items": [
+            "Every person; constitutional right outside Part III",
+            "Deprivation only by authority of law"
+          ]
+        },
+        {
+          "heading": "CASE TRAJECTORY",
+          "role": "evidence",
+          "items": [
+            "K.T. Plantation (2011): public purpose; no illusory compensation",
+            "Vidya Devi (2020): executive occupation is not acquisition"
+          ]
+        },
+        {
+          "heading": "SEVEN SAFEGUARDS",
+          "role": "mechanism",
+          "items": [
+            "Notice; hearing; reasoned decision; public purpose",
+            "Fair compensation or restitution; efficient process; conclusion"
+          ]
+        },
+        {
+          "heading": "LIMIT",
+          "role": "caution",
+          "items": [
+            "No automatic single market-value formula in every statutory acquisition"
+          ]
+        }
+      ],
+      "mechanism_strip": "Article 300A joins authority of law to public purpose, fair acquisition procedure and effective restitution.",
+      "answer_line": "Article 300A joins authority of law to public purpose, fair acquisition procedure and effective restitution.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "STATE SECRETS: EVIDENCE PRIVILEGE, RTI AND REVIEW",
+      "structural_type": "privilege-disclosure-balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "BSA SECTION 129: UNPUBLISHED STATE-AFFAIRS RECORDS",
+          "role": "primary"
+        },
+        {
+          "text": "BSA SECTION 130: OFFICIAL CONFIDENCE AND PUBLIC-INTEREST HARM",
+          "role": "institution"
+        },
+        {
+          "text": "RAJ NARAIN (1975): NO ABSOLUTE PRIVILEGE",
+          "role": "evidence"
+        },
+        {
+          "text": "S.P. GUPTA (1981): QUALIFIED OPENNESS",
+          "role": "caution"
+        },
+        {
+          "text": "8(1)(A): SPECIFIED PREJUDICIAL HARMS",
+          "role": "outcome"
+        },
+        {
+          "text": "8(2): PUBLIC-INTEREST OVERRIDE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BSA section 129: unpublished State-affairs records",
+        "BSA section 130: official confidence and public-interest harm",
+        "Raj Narain (1975): no absolute privilege",
+        "S.P. Gupta (1981): qualified openness",
+        "8(1)(a): specified prejudicial harms",
+        "8(2): public-interest override"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "EVIDENCE LAW",
+          "role": "institution",
+          "items": [
+            "BSA section 129: unpublished State-affairs records",
+            "BSA section 130: official confidence and public-interest harm"
+          ]
+        },
+        {
+          "heading": "OPEN-GOVERNMENT CASES",
+          "role": "evidence",
+          "items": [
+            "Raj Narain (1975): no absolute privilege",
+            "S.P. Gupta (1981): qualified openness"
+          ]
+        },
+        {
+          "heading": "RTI ROUTE",
+          "role": "mechanism",
+          "items": [
+            "8(1)(a): specified prejudicial harms",
+            "8(2): public-interest override",
+            "22: inconsistent-law override"
+          ]
+        },
+        {
+          "heading": "DECISION TEST",
+          "role": "caution",
+          "items": [
+            "Source; material; harm; severance; balance; reasons; review"
+          ]
+        }
+      ],
+      "mechanism_strip": "State secrecy is justified by proved public harm under the correct provision, not by an official label.",
+      "answer_line": "State secrecy is justified by proved public harm under the correct provision, not by an official label.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REMEDY-FIRST GOVERNMENT LIABILITY DECISION TREE",
+      "structural_type": "remedy-decision-tree",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "VALID CONTRACT: CONTRACT OR ARBITRATION",
+          "role": "primary"
+        },
+        {
+          "text": "RETAINED BENEFIT: SECTION 70 RESTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "CIVIL WRONG: PRIVATE TORT",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS VIOLATION: PUBLIC-LAW COMPENSATION",
+          "role": "caution"
+        },
+        {
+          "text": "PROPERTY DEPRIVATION: ARTICLE 300A",
+          "role": "outcome"
+        },
+        {
+          "text": "ILLEGALITY: JUDICIAL REVIEW",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "Valid contract: contract or arbitration",
+        "Retained benefit: section 70 restitution",
+        "Civil wrong: private tort",
+        "Rights violation: public-law compensation",
+        "Property deprivation: Article 300A",
+        "Illegality: judicial review"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRIVATE-LAW ROUTES",
+          "role": "mechanism",
+          "items": [
+            "Valid contract: contract or arbitration",
+            "Retained benefit: section 70 restitution",
+            "Civil wrong: private tort"
+          ]
+        },
+        {
+          "heading": "PUBLIC-LAW ROUTES",
+          "role": "institution",
+          "items": [
+            "Rights violation: public-law compensation",
+            "Property deprivation: Article 300A",
+            "Illegality: judicial review"
+          ]
+        },
+        {
+          "heading": "PROCEDURAL SOURCES",
+          "role": "evidence",
+          "items": [
+            "CPC 79 proper party; CPC 80 notice/urgency",
+            "BNSS 218 specified prosecution sanction"
+          ]
+        },
+        {
+          "heading": "FIREWALL",
+          "role": "caution",
+          "items": [
+            "Article 361; Article 299(2); CPC notice; sanction; privilege are distinct"
+          ]
+        }
+      ],
+      "mechanism_strip": "Start with the wrong, ingredients, forum and remedy; only then test the exact protection claimed.",
+      "answer_line": "Start with the wrong, ingredients, forum and remedy; only then test the exact protection claimed.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: CAPACITY WITH FORM, PROTECTION WITH REMEDY",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "NO BLANKET IMMUNITY IN GOVERNMENT UNDER LAW",
+          "role": "caution"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "comparison"
+        },
+        {
+          "text": "294/295 SUCCESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "296 OWNERLESS PROPERTY",
+          "role": "primary"
+        },
+        {
+          "text": "297 MARITIME RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "298 CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "299 FORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "294/295 succession",
+        "296 ownerless property",
+        "297 maritime resources",
+        "298 capacity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "294/295 succession",
+            "296 ownerless property",
+            "297 maritime resources"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "298 capacity",
+            "299 form",
+            "300 suits",
+            "300A property right"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Section 70 restitution != valid contract",
+            "Section 80 notice != immunity.",
+            "MAINS SPINE legal person → property/succession → capacity/form",
+            "restitution → suit procedure → private tort"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "constitutional tort → procurement/arbitration → qualified reform.",
+            "PYQ SPINE",
+            "2025 immunity statements test source separation, not blanket State immunity.",
+            "VERDICT public power carries special form and protection, but remains legally answerable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Government under law combines institutional continuity with source-specific limits, review and effective remedies.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 1",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 4",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 8",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 12",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md#SESSION 15"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT - ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FORCE MAJEURE AND CHANGE IN LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "TERMINATION FOR PUBLIC INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "BLACKLISTING AND PROCEDURAL FAIRNESS",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC-LAW REVIEW OF AN OTHERWISE CONTRACTUAL DECISION.",
+          "role": "primary"
+        },
+        {
+          "text": "COMBAT, FOREIGN AFFAIRS AND CORE LEGISLATIVE/JUDICIAL FUNCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICING, CUSTODY AND COERCIVE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ORDINARY TRANSPORT, PROPERTY AND COMMERCIAL OPERATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "force majeure and change in law;",
+            "termination for public interest;",
+            "blacklisting and procedural fairness;",
+            "public-law review of an otherwise contractual decision."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "combat, foreign affairs and core legislative/judicial functions;",
+            "policing, custody and coercive power;",
+            "ordinary transport, property and commercial operations;",
+            "every official wrong creates State liability;"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "State liability excludes personal liability;",
+            "a bona fide mistake automatically attracts damages; or",
+            "mala fide conduct is protected merely because public office supplied the opportunity.",
+            "waive every statutory or constitutional defence;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "presentation_quality_repair": {
+    "repair_id": "polity-answer-line-visual-boundary-repair-2026-08-25",
+    "date": "2026-08-25",
+    "generation_preserved": 2,
+    "answer_strips_audited": 9,
+    "answer_strips_changed": 2
+  }
+}

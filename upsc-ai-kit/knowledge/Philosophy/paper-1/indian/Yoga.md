@@ -33,13 +33,36 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 - ⚠️ Thus the school may be summed up as: **Sāṃkhya gives the metaphysical map; Yoga gives the psychology and method of release.**
 - ⚠️ In UPSC answers, this introductory framing immediately prevents two confusions: Yoga is neither merely physical culture nor an Advaitic path of union with Brahman.
 
+## 0A. PĀTAÑJALA YOGA: TEXTUAL IDENTITY, FOUR CHAPTERS AND OWNERSHIP
+
+- ✅ Patañjali is the traditional systematizer of classical Yoga through the **Yoga Sūtra**, read in the classical tradition with Vyāsa's **Yoga Bhāṣya** and later commentators such as Vācaspati Miśra and Vijñānabhikṣu.
+- ⚠️ The historical layering and dating of the text/commentary tradition remain debated. For UPSC, identify the received Pātañjala system without building an answer on uncertain chronology.
+- ✅ The Yoga Sūtra has four chapters (**pādas**):
+
+| Chapter | Safe orientation | Owner emphasis |
+|---|---|---|
+| absorption chapter (**Samādhi-pāda**) | definition of Yoga, mental modifications, practice/dispassion, Īśvara and object-supported/seedless absorption | mind and absorption |
+| practice chapter (**Sādhana-pāda**) | afflictions, karma, eight-limbed discipline and discriminative removal of conjunction | causal therapy and practice |
+| powers chapter (**Vibhūti-pāda**) | concentration–meditation–absorption as combined discipline, transformations and extraordinary powers | advanced contemplative application |
+| isolation chapter (**Kaivalya-pāda**) | mind/object realism, latent tendencies, discriminative knowledge, cloud-of-dharma absorption and isolation | final metaphysics and liberation |
+
+- ✅ In Pātañjala usage, Yoga is not defined as union with a universal God; it is **restraint of mental modifications (citta-vṛtti-nirodha)** so that the seer abides in its own nature.
+- ⚠️ **Source caution:** the five mind-levels (**citta-bhūmis**) are standard in Vyāsa's commentarial exposition, not a five-item sūtra list stated by Patañjali himself.
+
+### 0A.1 Canonical ownership and answer-worthiness
+
+- **Marks-essential Yoga owner content:** mind-field, five modifications, afflicted/non-afflicted status, practice and dispassion, five afflictions, karma, eight limbs, absorption taxonomies, combined discipline, Īśvara, discriminative knowledge, cloud-of-dharma absorption, isolation and all seven routed PYQs.
+- **Bridge material owned by Sāṃkhya:** primordial nature, conscious witness, qualities, twenty-five principles and real transformation. Yoga restates only enough metaphysics to explain its psychology and path.
+- **Optional enrichment:** exhaustive power catalogues, specialist commentarial disputes, uncertain textual chronology and modern wellness claims.
+
 ## 1. CITTA
 
 ### 1.1 Statement
 
 - ✅ **Citta** (citta) is the internal organ or mind-complex through which cognition, affect, volition and meditative discipline become possible.
 - ✅ In Yoga, citta is not merely **manas** in isolation; it functions as the unified internal apparatus comprising **buddhi**, **ahaṃkāra** and **manas**.
-- ✅ Its material basis is from prakṛti and, more specifically, from the **sāttvika** aspect of **ahaṃkāra** in the Sāṃkhyan evolutionary scheme.
+- ✅ Its material basis is primordial nature: determinative intellect evolves first, ego-maker from intellect, and coordinating mind from the sattva-predominant side of ego-maker. Therefore only one component of citta—mind in the narrow sense—arises directly from sattva-predominant ego-maker.
+- ✅ Citta as a functioning whole is **sattva-predominant**, which explains its transparency, but it should not be said that intellect, ego and mind all arise directly from sattva-predominant ego-maker.
 - ⚠️ Therefore citta is best understood as **the psychical instrument of experience**, not as the true self.
 
 ### 1.2 Constitution of citta
@@ -100,6 +123,7 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 
 - ✅ Yoga tradition classifies citta into **five bhūmis** or operative levels.
 - ✅ These levels indicate the dominance of the guṇas and the fitness of the mind for yoga.
+- ⚠️ Textual placement: this fivefold scheme is standard in Vyāsa's Yoga Bhāṣya and later exposition; use it confidently for the 2019 PYQ but do not cite it as a verbatim five-level sūtra of Patañjali.
 
 | Citta-bhūmi | Dominant guṇa-pattern | Basic character | Exam use |
 |---|---|---|---|
@@ -251,6 +275,19 @@ End: kaivalya = isolation/aloneness of puruṣa from prakṛti
 - ✅ Aṣṭāṅga-yoga progressively disciplines the body-sense-mind complex.
 - ✅ Īśvara-praṇidhāna offers a theistic aid to concentration and obstacle-removal.
 - ⚠️ Thus nirodha is methodical, not abrupt.
+
+### 2.12A Practice and lower/higher dispassion
+
+| Discipline | Textual meaning | Exam use |
+|---|---|---|
+| sustained practice (**abhyāsa**) | effort to remain stable in restraint; it becomes firmly grounded when cultivated for a long time, without interruption and with devoted seriousness | supplies continuity against old impressions |
+| lower dispassion (**apara-vairāgya / vaśīkāra-vairāgya**) | mastery in which thirst for seen and scripturally promised objects has ceased | weakens ordinary and heavenly attachment |
+| higher dispassion (**para-vairāgya**) | non-thirst even for the qualities of nature, arising from direct discernment of conscious witness | releases attachment to subtle states, knowledge and powers |
+
+- ✅ Yoga Sūtra 1.12 makes practice and dispassion jointly responsible for restraint; neither repetition without detachment nor detachment without stabilized practice is sufficient.
+- ✅ Commentarial tradition analyses lower dispassion through effort toward control (**yatamāna**), separation of subdued and unsubdued tendencies (**vyatireka**), withdrawal to a single residual mental desire (**ekendriya**) and mastery (**vaśīkāra**).
+- ⚠️ The four lower stages are commentarial elaboration; Patañjali's own concise definition in Yoga Sūtra 1.15 is mastery over thirst for seen and heard-of objects.
+- ✅ Higher dispassion in Yoga Sūtra 1.16 follows knowledge of conscious witness and extends renunciation even to sattvic insight and the qualities themselves.
 
 ### 2.13 Cittavṛtti and the 2023 demand
 
@@ -484,6 +521,8 @@ Kleśas → Karma → Vipāka → Āśaya → Punarjanma
   4. **brahmacarya** — chastity / disciplined energy,
   5. **aparigraha** — non-possessiveness.
 - ⚠️ Philosophically, yama reduces the rajasic-tāmasic turbulence that continually destabilizes citta.
+- ✅ When unrestricted by class/birth, place, time or circumstance, the restraints constitute the **universal great vow (sārvabhauma-mahāvrata)** under Yoga Sūtra 2.31.
+- ⚠️ This prevents ethics from becoming an optional preliminary: no exceptional context licenses violence, falsehood or possessiveness for the yogin.
 
 ### 4.5 Niyama
 
@@ -663,6 +702,13 @@ WRITE INSTEAD:
 - ⚠️ **Do not equate the two terms.** Asamprajñāta (YS 1.18) is defined by *residual saṃskāra*; nirbīja (YS 1.51) is defined by *the cessation of even that residue*. Nirbīja is best treated as the culminating condition reached within the asamprajñāta phase, not as a synonym for it.
 - ⚠️ ✅ Safe answer formula: *asamprajñāta = vṛttis stopped, saṃskāra-śeṣa remains; nirbīja = even that residual saṃskāra restrained.*
 
+### 5.9B Two routes associated with supra-cognitive absorption
+
+- ✅ Yoga Sūtra 1.19 identifies a condition-based route (**bhava-pratyaya**) associated with disembodied beings and those merged in primordial nature (**videha / prakṛti-laya**).
+- ✅ Yoga Sūtra 1.20 gives the means-based route (**upāya-pratyaya**) for other yogins through faith, energy, mindfulness, absorption and wisdom (**śraddhā-vīrya-smṛti-samādhi-prajñā**).
+- ⚠️ Commentators warn that mere condition-based absorption or nature-mergence need not equal final discriminative isolation; the explicitly cultivated route better displays Yoga's soteriological method.
+- ⚠️ Do not turn these into a third main samādhi classification. They qualify routes or bases within the movement beyond ordinary cognitive absorption.
+
 ### 5.10 Relation between saṃskāra and nirodha
 
 - ✅ Even when active vṛttis cease, latent impressions can remain as residual potency — this is exactly the *saṃskāra-śeṣa* of YS 1.18.
@@ -679,8 +725,9 @@ WRITE INSTEAD:
 ### 5.12 Samādhi and siddhis
 
 - ✅ Higher concentrations may yield extraordinary capacities or **siddhis**.
-- ⚠️ But Yoga warns that these are obstacles if appropriated by egoity or fascination.
-- ⚠️ They belong to the side-effects of concentration, not to the essence of kaivalya.
+- ✅ Yoga Sūtra 3.37 states that such capacities are attainments in the outward-turned state but **obstacles to absorption** (**samādhāv upasargāḥ**) when they attract appropriation.
+- ⚠️ Powers are not intrinsically liberation and can reactivate egoity, attachment and pride.
+- ⚠️ They belong to side-effects of combined discipline, not to the essence of isolation.
 
 ### 5.13 Role of Īśvara in samādhi
 
@@ -691,8 +738,11 @@ WRITE INSTEAD:
 
 ### 5.14 Obstacles and their removal
 
-- ✅ Classical Yoga lists obstacles (**antarāyas**) such as disease, mental dullness, doubt, carelessness, laziness, sensuality, false perception, failure to attain stages and instability in attained stages.
+- ✅ Classical Yoga lists nine obstacles (**antarāyas**):
+  disease (**vyādhi**), mental stagnation (**styāna**), doubt (**saṃśaya**), carelessness (**pramāda**), laziness (**ālasya**), sensual non-restraint (**avirati**), false vision (**bhrānti-darśana**), failure to attain a stage (**alabdha-bhūmikatva**) and instability in an attained stage (**anavasthitatva**).
+- ✅ Their accompanying symptoms are suffering (**duḥkha**), dejection (**daurmanasya**), bodily tremor (**aṅgamejayatva**) and disturbed inhalation/exhalation (**śvāsa-praśvāsa**).
 - ✅ Īśvara-praṇidhāna is one of the important means of overcoming these.
+- ✅ Other sūtra-level remedies include practice of one principle, friendliness/compassion/joy/equanimity, breath regulation and suitable meditative supports.
 - ⚠️ This is why questions on samādhi often open into the role of God: Yoga's God is not a creator-first doctrine but a **practice-enabling doctrine**.
 
 ### 5.15 Samādhi in the 2022 PYQ
@@ -841,6 +891,12 @@ Kaivalya
 - ✅ He is denoted by **praṇava (OṂ)**.
 - ⚠️ These predicates make Īśvara the ideal meditative and pedagogic principle in Yoga.
 
+### 7.3A Grounds for Īśvara and historical control
+
+- ✅ Patañjali's own compact grounds are internal to practice and definition: a special conscious witness untouched by affliction/action/fruition/deposit; unsurpassed seed of omniscience; teacher of the ancients beyond temporal limitation; and praṇava-mediated contemplation.
+- ✅ Later Yoga commentators add more theoretical arguments from scripture, maximal degrees of knowledge/power and the need for intelligent coordination of witness and nature.
+- ⚠️ Do not attribute the full later creator/administrator proof-set to Patañjali. The Yoga Sūtra primarily presents Īśvara as a uniquely free teacher and optional yet powerful meditative support.
+
 ### 7.4 Īśvara is not creator in the Nyāya sense
 
 - ✅ Yoga does **not** primarily present Īśvara as creator-God.
@@ -869,6 +925,7 @@ Kaivalya
 - ✅ Because it preserves the Sāṃkhyan dualistic ontology while adding Īśvara.
 - ✅ Hence the expression **seśvara-sāṃkhya** — Sāṃkhya with God.
 - ⚠️ This is not a small decorative addition; it changes the psychological and devotional resources of the path while leaving the basic metaphysical dualism intact.
+- ⚠️ Yoga is genuinely theistic because it affirms a real Īśvara, but its theism is limited: Īśvara is not the material cause, not clearly the Patañjala creator of the cosmos, and not the external giver of isolation.
 
 ### 7.8 Īśvara and praṇava
 
@@ -1244,6 +1301,7 @@ Conclusion: kaivalya as the school's final soteriological meaning.
 ## SOURCES
 
 - Patañjali, *Yoga-sūtra*.
+- GRETIL electronic text of Patañjali's *Yoga Sūtra*, checked for the exact chapter structure and the readings used for practice/dispassion, afflictions, eight limbs, supra-cognitive absorption, Īśvara, obstacles, powers and isolation.
 - Vyāsa, *Yoga-bhāṣya*.
 - Vācaspati Miśra, *Tattvavaiśāradī*.
 - Vijñānabhikṣu, *Yogavārttika*.

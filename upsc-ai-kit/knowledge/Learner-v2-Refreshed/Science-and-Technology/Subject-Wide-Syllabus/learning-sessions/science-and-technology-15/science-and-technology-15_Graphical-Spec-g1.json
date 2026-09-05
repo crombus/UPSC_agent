@@ -1,0 +1,1078 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-15",
+  "subject": "Science-and-Technology",
+  "title": "VACCINES, MONOCLONAL ANTIBODIES AND BIOPHARMA",
+  "short_route": "IMMUNE-OBJECT RECOGNITION MAP → ACTIVE PASSIVE ANTIVIRAL TRIAD → ADAPTIVE IMMUNITY PROCESS RAIL → VACCINE PLATFORM TAXONOMY → GENETIC-PLATFORM CELLULAR MAP → MONOCLONAL ANTIBODY PRODUCTION CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-15\\science-and-technology-15_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-15-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "7d506a3b4fbe698272e149919021428a86a86f03c85d7b3607bc5ed57ac6041a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "IMMUNE-OBJECT RECOGNITION MAP",
+      "structural_type": "concept-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "IMMUNE-OBJECT RECOGNITION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CONTAINS OR PRESENTS ANTIGEN",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIC RECOGNISED PART OF ANTIGEN",
+          "role": "comparison"
+        },
+        {
+          "text": "B-CELL RECEPTOR",
+          "role": "evidence"
+        },
+        {
+          "text": "BINDS EPITOPE",
+          "role": "primary"
+        },
+        {
+          "text": "T-CELL RECEPTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNISES PRESENTED ANTIGEN FRAGMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ANTIGEN CAPABLE OF PROVOKING AN IMMUNE RESPONSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PATHOGEN / PRODUCT → contains or presents ANTIGEN",
+        "EPITOPE → specific recognised part of antigen",
+        "B-CELL RECEPTOR / ANTIBODY → binds epitope",
+        "T-CELL RECEPTOR → recognises presented antigen fragment",
+        "IMMUNOGEN → antigen capable of provoking an immune response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "PATHOGEN / PRODUCT → contains or presents ANTIGEN",
+            "EPITOPE → specific recognised part of antigen"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "B-CELL RECEPTOR / ANTIBODY → binds epitope",
+            "T-CELL RECEPTOR → recognises presented antigen fragment"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "IMMUNOGEN → antigen capable of provoking an immune response",
+            "PATHOGEN / PRODUCT → contains or presents ANTIGEN"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMMUNOGEN → antigen capable of provoking an immune response.",
+      "source_references": [
+        "Antigen-antibody boundary",
+        "Adaptive-immune mechanism"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ACTIVE PASSIVE ANTIVIRAL TRIAD",
+      "structural_type": "three-way-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACTIVE PASSIVE ANTIVIRAL TRIAD",
+          "role": "primary"
+        },
+        {
+          "text": "ENDOGENOUS RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "MEMORY MAB",
+          "role": "comparison"
+        },
+        {
+          "text": "READY-MADE ANTIBODY",
+          "role": "evidence"
+        },
+        {
+          "text": "DIRECT BINDING",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPORARY EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "REPLICATION-STEP INHIBITION",
+          "role": "comparison"
+        },
+        {
+          "text": "PHARMACOLOGICAL ACTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VACCINE → antigen/code → endogenous response → memory mAb → ready-made antibody → direct binding",
+        "ANTIVIRAL → replication-step inhibition → pharmacological action",
+        "ONSET / DURATION / PURPOSE → compare, never merge"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "VACCINE → antigen/code → endogenous response → memory mAb → ready-made antibody → direct binding → temporary effect",
+          "ONSET / DURATION / PURPOSE → compare, never merge",
+          "ANTIVIRAL → replication-step inhibition → pharmacological action"
+        ],
+        [
+          "ANTIVIRAL → replication-step inhibition → pharmacological action",
+          "VACCINE → antigen/code → endogenous response → memory mAb → ready-made antibody → direct binding → temporary effect",
+          "ONSET / DURATION / PURPOSE → compare, never merge"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "VACCINE → antigen/code → endogenous response → memory mAb → ready-made antibody → direct binding → temporary effect",
+            "ANTIVIRAL → replication-step inhibition → pharmacological action"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ONSET / DURATION / PURPOSE → compare, never merge",
+            "VACCINE → antigen/code → endogenous response → memory mAb → ready-made antibody → direct binding → temporary effect"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ANTIVIRAL → replication-step inhibition → pharmacological action",
+            "ONSET / DURATION / PURPOSE → compare, never merge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ONSET / DURATION / PURPOSE → compare, never merge.",
+      "source_references": [
+        "Active-passive-antiviral boundary",
+        "Monoclonal-antibody mechanism"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ADAPTIVE IMMUNITY PROCESS RAIL",
+      "structural_type": "process-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ADAPTIVE IMMUNITY PROCESS RAIL",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANTIGEN PRESENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LYMPHOCYTE ACTIVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "B CELL",
+          "role": "evidence"
+        },
+        {
+          "text": "PLASMA CELL",
+          "role": "primary"
+        },
+        {
+          "text": "T CELL",
+          "role": "outcome"
+        },
+        {
+          "text": "MEMORY POPULATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "HELPER T CELL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANTIGEN PRESENTATION → lymphocyte activation",
+        "B CELL → plasma cell → antibodies",
+        "B / T CELL → memory populations",
+        "HELPER T CELL → coordination; CYTOTOXIC T CELL → cellular killing",
+        "RULE → antibody titre is not the entire immune response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "ANTIGEN PRESENTATION → lymphocyte activation",
+            "B CELL → plasma cell → antibodies"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "B / T CELL → memory populations",
+            "HELPER T CELL → coordination; CYTOTOXIC T CELL → cellular killing"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → antibody titre is not the entire immune response",
+            "ANTIGEN PRESENTATION → lymphocyte activation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → antibody titre is not the entire immune response.",
+      "source_references": [
+        "Adaptive-immune mechanism"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "VACCINE PLATFORM TAXONOMY",
+      "structural_type": "branch-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VACCINE PLATFORM TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "WHOLE PATHOGEN",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVE ATTENUATED",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTED MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "GENETIC CODE",
+          "role": "primary"
+        },
+        {
+          "text": "VIRAL VECTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTIGEN FORM",
+          "role": "comparison"
+        },
+        {
+          "text": "CELL LOCATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHOLE PATHOGEN → live attenuated",
+        "SELECTED MATERIAL → subunit",
+        "GENETIC CODE → viral vector",
+        "COMPARE → antigen form",
+        "cell location"
+      ],
+      "matrix": [
+        [
+          "WHOLE PATHOGEN → live attenuated",
+          "inactivated",
+          "",
+          ""
+        ],
+        [
+          "SELECTED MATERIAL → subunit",
+          "toxoid",
+          "VLP",
+          "conjugate"
+        ],
+        [
+          "GENETIC CODE → viral vector",
+          "mRNA",
+          "DNA",
+          ""
+        ],
+        [
+          "COMPARE → antigen form",
+          "replication",
+          "cell location",
+          "manufacture"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "WHOLE PATHOGEN → live attenuated",
+            "SELECTED MATERIAL → subunit"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GENETIC CODE → viral vector",
+            "COMPARE → antigen form"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "cell location",
+            "DO NOT IMPORT → product approval, efficacy or present availability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DO NOT IMPORT → product approval, efficacy or present availability.",
+      "source_references": [
+        "Whole-pathogen platform boundary",
+        "Subunit-toxoid-VLP-conjugate boundary",
+        "Vector-mRNA-DNA boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GENETIC-PLATFORM CELLULAR MAP",
+      "structural_type": "cell-compartment-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GENETIC-PLATFORM CELLULAR MAP",
+          "role": "primary"
+        },
+        {
+          "text": "VIRAL VECTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ENGINEERED CARRIER DELIVERS ANTIGEN CODE MRNA + LNP",
+          "role": "comparison"
+        },
+        {
+          "text": "ANTIGEN EXPRESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "B/T RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "ACTIVE IMMUNITY DOES NOT MEAN IDENTICAL DELIVERY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VIRAL VECTOR → engineered carrier delivers antigen code mRNA + LNP → CYTOPLASM → translation",
+        "DNA → NUCLEUS → transcription → mRNA",
+        "ANTIGEN EXPRESSION → B/T response → memory",
+        "TRAP → active immunity does not mean identical delivery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "VIRAL VECTOR → engineered carrier delivers antigen code mRNA + LNP → CYTOPLASM → translation",
+            "DNA → NUCLEUS → transcription → mRNA"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ANTIGEN EXPRESSION → B/T response → memory",
+            "TRAP → active immunity does not mean identical delivery"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "VIRAL VECTOR → engineered carrier delivers antigen code mRNA + LNP → CYTOPLASM → translation",
+            "DNA → NUCLEUS → transcription → mRNA"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → active immunity does not mean identical delivery.",
+      "source_references": [
+        "Vector-mRNA-DNA boundary",
+        "Adjuvant-and-formulation boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MONOCLONAL ANTIBODY PRODUCTION CHAIN",
+      "structural_type": "assembly-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MONOCLONAL ANTIBODY PRODUCTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "B CELL + MYELOMA",
+          "role": "outcome"
+        },
+        {
+          "text": "HYBRIDOMA CLONE",
+          "role": "comparison"
+        },
+        {
+          "text": "OR SEQUENCE DISCOVERY",
+          "role": "evidence"
+        },
+        {
+          "text": "ANTIBODY ENGINEERING",
+          "role": "primary"
+        },
+        {
+          "text": "RECOMBINANT MAMMALIAN CELL LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "TARGET BINDING",
+          "role": "comparison"
+        },
+        {
+          "text": "PROVEN CLINICAL BENEFIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "B CELL + MYELOMA → HYBRIDOMA CLONE",
+        "OR SEQUENCE DISCOVERY → ANTIBODY ENGINEERING",
+        "RECOMBINANT MAMMALIAN CELL LINE → EXPRESSION",
+        "HARVEST → PURIFICATION → FORMULATION → FILL-FINISH",
+        "TARGET BINDING != PROVEN CLINICAL BENEFIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "B CELL + MYELOMA → HYBRIDOMA CLONE",
+            "OR SEQUENCE DISCOVERY → ANTIBODY ENGINEERING"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECOMBINANT MAMMALIAN CELL LINE → EXPRESSION",
+            "HARVEST → PURIFICATION → FORMULATION → FILL-FINISH"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "TARGET BINDING != PROVEN CLINICAL BENEFIT",
+            "B CELL + MYELOMA → HYBRIDOMA CLONE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HARVEST → PURIFICATION → FORMULATION → FILL-FINISH; TARGET BINDING != PROVEN CLINICAL BENEFIT.",
+      "source_references": [
+        "Monoclonal-antibody mechanism",
+        "Hybridoma-recombinant-production boundary",
+        "Antibody-engineering boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BIOPHARMA MANUFACTURING QUALITY SYSTEM",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BIOPHARMA MANUFACTURING QUALITY SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "WORKING CELL BANK + RAW MATERIAL CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "STERILE PRODUCT AND PACKAGING",
+          "role": "comparison"
+        },
+        {
+          "text": "MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL",
+        "UPSTREAM → culture / fermentation / bioreactor",
+        "DOWNSTREAM → capture / purification / clearance",
+        "FILL-FINISH → sterile product and packaging",
+        "RELEASE → identity / purity / potency / sterility / consistency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL",
+            "UPSTREAM → culture / fermentation / bioreactor"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "DOWNSTREAM → capture / purification / clearance",
+            "FILL-FINISH → sterile product and packaging"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RELEASE → identity / purity / potency / sterility / consistency",
+            "MASTER / WORKING CELL BANK + RAW MATERIAL CONTROL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELEASE → identity / purity / potency / sterility / consistency.",
+      "source_references": [
+        "Biopharma-manufacturing chain",
+        "Quality-and-scale-up boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COLD-CHAIN INTEGRITY LOOP",
+      "structural_type": "control-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COLD-CHAIN INTEGRITY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "VALIDATED STORAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONITORED TRANSPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "DELIVERY POINT",
+          "role": "evidence"
+        },
+        {
+          "text": "DATA LOGGER",
+          "role": "primary"
+        },
+        {
+          "text": "DEVIATION DETECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER, EQUIPMENT, ROUTE AND STOCK RESPONSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "INTEGRITY ENABLES ACCESS; IT DOES NOT PROVE UPTAKE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VALIDATED STORAGE → monitored transport → delivery point",
+        "DATA LOGGER / INDICATOR → deviation detection",
+        "EXCURSION → quarantine / assessment / disposition",
+        "CONTINGENCY → power, equipment, route and stock response",
+        "OUTCOME → integrity enables access; it does not prove uptake"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "VALIDATED STORAGE → monitored transport → delivery point",
+            "DATA LOGGER / INDICATOR → deviation detection"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXCURSION → quarantine / assessment / disposition",
+            "CONTINGENCY → power, equipment, route and stock response"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OUTCOME → integrity enables access; it does not prove uptake",
+            "VALIDATED STORAGE → monitored transport → delivery point"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → integrity enables access; it does not prove uptake.",
+      "source_references": [
+        "Cold-chain boundary",
+        "Efficacy-effectiveness-access firewall"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CLINICAL AND REGULATORY LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLINICAL AND REGULATORY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "LABORATORY AND ANIMAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PHASE I",
+          "role": "comparison"
+        },
+        {
+          "text": "INITIAL SAFETY",
+          "role": "evidence"
+        },
+        {
+          "text": "PHASE II",
+          "role": "primary"
+        },
+        {
+          "text": "EXPANDED DOSE, SAFETY AND RESPONSE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PHASE III",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGER-POPULATION BENEFIT AND SAFETY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRECLINICAL → laboratory and animal evidence",
+        "PHASE I → initial safety / dose",
+        "PHASE II → expanded dose, safety and response evidence",
+        "PHASE III → larger-population benefit and safety",
+        "AUTHORISATION → MANUFACTURE / RELEASE → PHASE IV SURVEILLANCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PRECLINICAL → laboratory and animal evidence",
+            "PHASE I → initial safety / dose"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PHASE II → expanded dose, safety and response evidence",
+            "PHASE III → larger-population benefit and safety"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "AUTHORISATION → MANUFACTURE / RELEASE → PHASE IV SURVEILLANCE",
+            "PRECLINICAL → laboratory and animal evidence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUTHORISATION → MANUFACTURE / RELEASE → PHASE IV SURVEILLANCE.",
+      "source_references": [
+        "Clinical-development ladder",
+        "CDSCO-NDCTR boundary",
+        "Pharmacovigilance-and-AEFI boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIAN INSTITUTION ROUTER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAN INSTITUTION ROUTER",
+          "role": "institution"
+        },
+        {
+          "text": "BIOTECH POLICY, MISSIONS AND RESEARCH SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSLATION, ENTERPRISE AND MISSION IMPLEMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BIOMEDICAL RESEARCH AND EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TRIALS AND NEW-DRUG",
+          "role": "primary"
+        },
+        {
+          "text": "BIOLOGIC REGULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PHARMACOVIGILANCE COORDINATION AND SAFETY LEARNING",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DBT → biotech policy, missions and research support",
+        "BIRAC → translation, enterprise and mission implementation",
+        "ICMR → biomedical research and evidence",
+        "CDSCO / DCGI → trials and new-drug / biologic regulation",
+        "IPC / PvPI → pharmacovigilance coordination and safety learning"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DBT → biotech policy, missions and research support",
+            "BIRAC → translation, enterprise and mission implementation"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ICMR → biomedical research and evidence",
+            "CDSCO / DCGI → trials and new-drug / biologic regulation"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "IPC / PvPI → pharmacovigilance coordination and safety learning",
+            "DBT → biotech policy, missions and research support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IPC / PvPI → pharmacovigilance coordination and safety learning.",
+      "source_references": [
+        "CDSCO-NDCTR boundary",
+        "DBT-BIRAC-ICMR boundary",
+        "Mission-and-policy status boundary",
+        "Pharmacovigilance-and-AEFI boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BIOSIMILAR COMPARABILITY PYRAMID",
+      "structural_type": "evidence-pyramid",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BIOSIMILAR COMPARABILITY PYRAMID",
+          "role": "primary"
+        },
+        {
+          "text": "EXTENSIVE ANALYTICAL AND QUALITY COMPARABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FUNCTIONAL AND APPROPRIATE NON-CLINICAL COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "JUSTIFIED CLINICAL PK/PD, EFFICACY, SAFETY, IMMUNOGENICITY",
+          "role": "evidence"
+        },
+        {
+          "text": "AFTER USE",
+          "role": "primary"
+        },
+        {
+          "text": "PHARMACOVIGILANCE AND TRACEABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTOMATIC INTERCHANGEABILITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FOUNDATION → extensive analytical and quality comparability",
+        "NEXT → functional and appropriate non-clinical comparison",
+        "NEXT → justified clinical PK/PD, efficacy, safety, immunogenicity",
+        "AFTER USE → pharmacovigilance and traceability",
+        "RULE → BIOSIMILAR != GENERIC != AUTOMATIC INTERCHANGEABILITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "FOUNDATION → extensive analytical and quality comparability",
+            "NEXT → functional and appropriate non-clinical comparison"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "NEXT → justified clinical PK/PD, efficacy, safety, immunogenicity",
+            "AFTER USE → pharmacovigilance and traceability"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → BIOSIMILAR != GENERIC != AUTOMATIC INTERCHANGEABILITY",
+            "FOUNDATION → extensive analytical and quality comparability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → BIOSIMILAR != GENERIC != AUTOMATIC INTERCHANGEABILITY.",
+      "source_references": [
+        "Biosimilar-generic boundary",
+        "Pharmacovigilance-and-AEFI boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BIOPHARMA CLAIM AND ANSWER FIREWALL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BIOPHARMA CLAIM AND ANSWER FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "IMMUNE MECHANISM AND PRODUCT CATEGORY",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRIAL + REGULATION + MANUFACTURING + COLD CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINE → IMMUNE MECHANISM AND PRODUCT CATEGORY",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "DEFINE → immune mechanism and product category",
+        "CLASSIFY → platform / mAb / biosimilar",
+        "TRACE → trial + regulation + manufacturing + cold chain",
+        "MAP → CDSCO / DBT / BIRAC / ICMR / PvPI",
+        "QUALIFY → efficacy != effectiveness != approval != access != impact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "DEFINE → immune mechanism and product category",
+            "CLASSIFY → platform / mAb / biosimilar"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRACE → trial + regulation + manufacturing + cold chain",
+            "MAP → CDSCO / DBT / BIRAC / ICMR / PvPI"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → efficacy != effectiveness != approval != access != impact",
+            "DEFINE → immune mechanism and product category"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → efficacy != effectiveness != approval != access != impact.",
+      "source_references": [
+        "Antigen-antibody boundary",
+        "CDSCO-NDCTR boundary",
+        "DBT-BIRAC-ICMR boundary",
+        "Efficacy-effectiveness-access firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SPEED VERSUS EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTBREAK RESPONSE CREATES PRESSURE FOR FASTER APPROVALS, BUT BIOLOGICS",
+          "role": "comparison"
+        },
+        {
+          "text": "PLATFORM ADAPTABILITY DEBATE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEWER PLATFORMS MAY ALLOW FASTER REDESIGN, BUT THEY ALSO",
+          "role": "primary"
+        },
+        {
+          "text": "BIOLOGICS-REGULATION COMPLEXITY",
+          "role": "outcome"
+        },
+        {
+          "text": "VACCINES, RECOMBINANT PRODUCTS AND ANTIBODIES ALL FALL",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHIN BIOLOGICAL-PRODUCT OVERSIGHT, BUT NOT UNDER IDENTICAL SCIENTIFIC CONSIDERATIONS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Speed versus evidence: outbreak response creates pressure for faster approvals, but biologics need rigorous evidence and quality control.",
+            "CAUTION: Platform adaptability debate: newer platforms may allow faster redesign, but they also require manufacturing ecosystem readiness.",
+            "CAUTION: Biologics-regulation complexity: vaccines, recombinant products and antibodies all fall",
+            "within biological-product oversight, but not under identical scientific considerations."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Public-sector research versus private manufacturing: India’s ecosystem depends on both, not one or the other alone.",
+            "CAUTION: Vaccine capacity contributes to health security, diplomatic leverage and supply-chain resilience.",
+            "CAUTION: Monoclonal antibody and biologics capability matters for advanced therapeutics, oncology and next-generation precision medicine.",
+            "CAUTION: Biopharma deepening aligns with India’s wider biomanufacturing ambition under BioE3."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Cold chain and logistics: platform choice affects storage and transport demands.",
+            "CAUTION: Manufacturing consistency: biological products are highly process-sensitive.",
+            "CAUTION: Regulatory complexity: quality, safety and pharmacovigilance requirements remain demanding.",
+            "CAUTION: Affordability: advanced antibodies and some new platforms may face cost barriers."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

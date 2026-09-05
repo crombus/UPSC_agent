@@ -12,7 +12,7 @@
 | **Appointed by** | President (Art 75) — no fixed procedure |
 | **May be from** | **Either House** (Indira, Deve Gowda, Manmohan = Rajya Sabha) |
 | **Non-MP limit** | **6 months** (SC 1997) |
-| **CoM cap** | **≤ 15% of Lok Sabha** (91st Amdt, 2003) |
+| **CoM cap** | **≤ 15% of total Lok Sabha membership**, including PM (91st Amdt, 2003) |
 | **Key articles** | 74 (aid & advise), 75 (ministers), 77, 78, 88 |
 | **Responsible to** | **Lok Sabha** (collective responsibility) |
 
@@ -24,8 +24,8 @@ responsibility to the Lok Sabha: one no-confidence motion sinks the **whole** mi
 > 🔑 **PM's role tags:** Morley = *"primus inter pares"* + *"keystone of the cabinet arch"*; Jennings = *"the
 > sun around which planets revolve"*; Ambedkar = *"if any office matches the US President, it's the PM."*
 
-> 🔑 **CoM vs Cabinet:** CoM = **60-70** (all ranks, never meets together) ⊃ **Cabinet** = **15-20** (senior
-> ministers who actually decide, meet weekly).
+> 🔑 **CoM vs Cabinet:** CoM = wider constitutional ministry (all ranks) ⊃ **Cabinet** = smaller
+> Cabinet-rank decision core. Their actual sizes and meeting frequency vary; no permanent count is constitutional.
 
 ## Three ranks of ministers
 ✅ **Cabinet Ministers** (top, in Cabinet) → **Ministers of State** (independent charge / attached) →
@@ -35,8 +35,8 @@ responsibility to the Lok Sabha: one no-confidence motion sinks the **whole** mi
 - ✅ **91st Amdt 2003:** ministers ≤ **15% of LS**; defector can't be a minister.
 - ✅ **Art 88:** ministers **speak in either House, vote only in their own**.
 - ✅ PM's resignation/death = resignation of the **entire** CoM.
-- ✅ **Cabinet Committees** = extra-constitutional; **Political Affairs Committee** = "Super-Cabinet";
-  **Parliamentary Affairs Committee** chaired by the **Home Minister**, the rest usually by the **PM**.
+- ✅ **Cabinet Committees** = extra-constitutional ministerial bodies under business-rule practice.
+  Their number, membership and chairs vary by notification; never freeze an old textbook list.
 - ✅ **Kitchen Cabinet** = informal inner circle of the PM (very powerful under Indira Gandhi).
 
 ## 📰 Current link
@@ -84,9 +84,9 @@ implementation, use `Ministries-and-Departments-of-Government.md`.
 | Claim | Named anchor | Mechanism / significance | Limitation / caution |
 |---|---|---|---|
 | The ministry is collectively answerable to the popular House | ✅ **Art 75(3)** | The CoM is **collectively responsible to the Lok Sabha**; a passed **no-confidence motion forces the entire ministry** (including RS ministers) to resign | The **Rajya Sabha cannot remove** the ministry; only the LS can |
-| Cabinet decisions bind every minister | ✅ **Cabinet-solidarity convention** | A minister who cannot defend a Cabinet decision must resign | ✅ **Ambedkar resigned (1953)** over the Hindu Code Bill — dissent means exit, not public opposition |
+| Cabinet decisions bind every minister | ✅ **Cabinet-solidarity convention** | A minister who cannot defend a Cabinet decision must resign | ✅ **Ambedkar tendered resignation in 1951** over the Hindu Code Bill issue — dissent means exit, not public opposition |
 | Ministers hold office individually at pleasure | ✅ **Art 75(2)** | Ministers hold office **during the pleasure of the President**; the President removes a minister **on the PM's advice** | Individual responsibility is weaker in practice — the PM, not Parliament, is the effective enforcer |
-| The ministry's advice is legally insulated | ✅ **Art 74(2)** | Whether and what advice the CoM gave the President **cannot be inquired into by courts** | Protects collective deliberation; unlike Britain, no counter-signature requirement |
+| The ministry's advice is legally insulated | ✅ **Art 74(2)** | Whether and what advice the CoM gave the President **cannot be inquired into by courts** | The inquiry bar does not immunise every resulting executive act from review |
 | The PM is the hinge of communication | ✅ **Art 78** | The PM communicates CoM decisions to the President and furnishes information he seeks | Makes the PM the sole authoritative channel between the ministry and the head of State |
 | Ministers may speak widely but vote narrowly | ✅ **Art 88** | A minister may **speak and take part in either House** and its committees | **Votes only in the House of which he is a member** |
 
@@ -94,17 +94,17 @@ implementation, use `Ministries-and-Departments-of-Government.md`.
 
 ### 6.5 Bank B — Appointment of the PM and the hung-house convention
 
-- **Claim:** the Constitution leaves the PM's appointment to convention, which is why it matters most when convention is silent. **Provision:** ✅ **Art 75(1)** — the PM is "appointed by the President"; **no procedure or qualification** is prescribed. **Mechanism:** by convention the President appoints the **leader of the majority party** in the Lok Sabha. **Discretion arises** in two situations: ⚠️ (a) **no clear majority** — the President invites the leader of the largest party/likely coalition to **prove confidence** (first used with **Charan Singh, 1979**); (b) **sudden death of an incumbent PM** with no obvious successor (**Rajiv Gandhi, 1984**). **Limitation/status:** ✅ the **Delhi HC (1980)** held the PM need not prove majority *before* appointment; ✅ the **SC (1997)** held a **non-MP can be PM for six months** (Art 75(5)); the PM may be from **either House** — ✅ **Indira Gandhi (1966), Deve Gowda (1996), Manmohan Singh (2004)** were **Rajya Sabha** members.
+- **Claim:** the Constitution leaves the PM's appointment to convention, which is why it matters most when convention is silent. **Provision:** ✅ **Art 75(1)** — the PM is "appointed by the President"; **no detailed selection procedure** is prescribed. **Mechanism:** by convention the President appoints the recognised leader capable of commanding a Lok Sabha majority. **Situational judgment arises** where no claimant has a clear majority or an incumbent dies before a successor is settled; it is bounded by objective support material and a prompt floor test. **Illustrations:** Charan Singh (1979), Rajiv Gandhi (1984) and Vajpayee (1996). **Limitation/status:** ✅ *S. P. Anand v. H. D. Deve Gowda* (1996) accepted a non-member PM subject to Article 75(5); the PM may be from **either House**.
 - **Floor-test discipline:** ⚠️ the constitutional test of majority is a **vote on the floor**, not the President's subjective assessment — the same rule the courts apply to Governors and Chief Ministers.
 
 ### 6.6 Bank C — Council, Cabinet, committees and the PMO
 
 | Body | Named anchor | Mechanism | Caution |
 |---|---|---|---|
-| ✅ **Council of Ministers** | Art 74, 75 | **60–70** members of all three ranks; **never meets as a body**; holds power "in theory" | The full CoM is not the decision forum |
-| ✅ **Cabinet** | Convention (not in the original text) | **15–20** senior ministers; **meets, deliberates and decides**; directs the CoM | The word **"Cabinet" entered the Constitution only via the 44th Amdt (1978) in Art 352** (Emergency on the Cabinet's written recommendation) |
+| ✅ **Council of Ministers** | Art 74, 75 | Wider body containing ministers of the ranks currently appointed; carries collective responsibility | Its actual strength varies within Article 75(1A)'s ceiling |
+| ✅ **Cabinet** | Cabinet-rank inner core | Deliberates and decides major policy and directs the wider ministry | Article 352(3), inserted by the 44th Amendment, expressly defines Cabinet for emergency advice |
 | ✅ **Three ranks** | Convention | **Cabinet Ministers** → **Ministers of State** (independent charge/attached) → **Deputy Ministers** | A "Deputy PM" is **descriptive only** (SC upheld Devi Lal's 1990 oath) |
-| ✅ **Cabinet Committees** | **Rules of Business (extra-constitutional)** | Set up by the **PM**, 3–8 members; **Political Affairs** = "Super-Cabinet"; **CCS/CCEA/Appointments** chaired by the PM; **Parliamentary Affairs** chaired by the **Home Minister** | Names/number change; learn the **mechanism**, not a frozen count |
+| ✅ **Cabinet Committees** | **Business-rule practice (extra-constitutional)** | Standing or ad hoc ministerial bodies that specialise and coordinate Cabinet work | Number, membership and chairs are notification-sensitive; check the dated official Cabinet Secretariat document |
 | ✅ **Kitchen Cabinet** | Convention (extra-constitutional) | Informal inner circle of the PM + a few trusted colleagues; powerful under **Indira Gandhi** | Not a decision body known to law |
 | ⚠️ **Prime Minister's Office (PMO)** | **Non-constitutional / non-statutory** staff agency | Headed by the **Principal Secretary to the PM**; processes matters needing the PM's attention | **Not** a constitutional decision-maker and **not** the Cabinet Secretariat |
 
@@ -149,11 +149,11 @@ implementation, use `Ministries-and-Departments-of-Government.md`.
 |---|---|
 | **Minister without legislature membership + defection** (2020 Q19) | ✅ A **non-member can be a minister** but must become a member of either House **within six consecutive months** (Art 75(5)); a person **disqualified for defection is barred** from ministership (Art 75(1B)) |
 | **Ministerial categories + council size** (2022 Q14) | ✅ **Three ranks** — Cabinet, Minister of State, Deputy; total ministers **incl. PM ≤ 15% of the Lok Sabha** (91st Amdt, Art 75(1A)) — **not** 15% of both Houses |
-| CoM vs Cabinet | ✅ CoM (60–70, all ranks, never meets) is wider; the **Cabinet** (15–20) is the inner body that actually decides |
+| CoM vs Cabinet | ✅ CoM is the wider constitutional ministry; the **Cabinet** is its smaller Cabinet-rank decision core; neither has a permanently fixed actual size |
 | "Cabinet" in the Constitution | ✅ Absent from the original text; inserted by the **44th Amdt** into **Art 352** |
 | Where a minister votes | ✅ Speaks in either House (Art 88) but **votes only in his own** |
 | 15% cap base | ✅ **Lok Sabha** strength, not both Houses |
-| Cabinet Committee chairs | ✅ Political Affairs/CCS/CCEA/Appointments — **PM**; **Parliamentary Affairs — Home Minister** |
+| Cabinet Committee chairs | ✅ Notification-sensitive; do not infer a universal chairmanship rule from an old list |
 
 ### 6.12 Factual-risk and current-status controls
 

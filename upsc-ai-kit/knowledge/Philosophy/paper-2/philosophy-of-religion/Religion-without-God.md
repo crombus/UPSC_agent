@@ -4,6 +4,24 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The issue is whether religion is essentially theistic or can be constituted by practice, liberation, and an impersonal ultimate. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns the **necessity question**—whether belief in a personal
+creator is required for religion—and the non-theistic cases, definitions,
+functions, objections and costs needed to answer it.
+
+| Owned here | Boundary |
+|---|---|
+| substantive, functional, multidimensional and family-resemblance definitions of religion | complete definitions of God and ultimate reality remain with [Notions of God](./Notions-of-God.md) |
+| Buddhism, Jainism, Mīmāṃsā, Sāṃkhya-Yoga and modern non-theistic cases | complete school doctrines remain with Paper I owners |
+| ritual, sacred order, community, liberation and religious attitudes without a creator | full nature/object analysis remains with [Religious Experience](./Religious-Experience.md) |
+| the extent to which prayer, worship, revelation, grace and providence require deity | detailed faith/revelation questions remain with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
+| whether non-theistic religion retains moral motivation | full dependence of morality on religion remains with [Religion and Morality](./Religion-and-Morality.md) |
+| religious naturalism, fictionalism and humanistic religion only as boundary cases | Humanism/Secularism and complete religious-language theories retain their own owners |
+
+⚠️ Non-theistic is not identical with atheistic. Rejecting a creator does not
+entail denying every deity, sacred being, devotional act or transcendent value.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -11,16 +29,16 @@
 ```
    IS GOD ESSENTIAL TO RELIGION?  —— NO, say these:
    ┌──────────────┬─────────────────┬──────────────────┬───────────────┐
-   BUDDHISM        JAINISM           MĪMĀṂSĀ /           SECULAR/HUMANIST
-   (non-theistic;  (no creator God;  SĀṂKHYA (early)     RELIGION
+   BUDDHISM        JAINISM           MĪMĀṂSĀ /           NATURALISTIC/
+   (non-theistic;  (no creator God;  SĀṂKHYA (early)     HUMANISTIC RELIGION
    nirvāṇa, no     jīvas + karma)    (no creator;        (Comte's Religion
    creator)                          karma self-runs)    of Humanity; ethical
-        │                                                 humanism; Marx)
+        │                                                 humanism; naturalism)
    religion = a way of life / ethics / liberation, NOT theism
    WESTERN CRITIQUES OF (theistic) RELIGION: Nietzsche ("God is dead"),
    Marx ("opium"), Freud (illusion), Feuerbach (projection)
 ```
-> 🔑 **Mnemonic — "Religion = the 3 D's minus God: Discipline, Dharma, Deliverance."** A religion can offer a path, ethics and liberation without a creator deity — Buddhism is the proof.
+> 🔑 **Mnemonic — "Religion = the 3 D's minus God: Discipline, Dharma, Deliverance."** A religion can offer a path, ethics and liberation without a creator deity; Buddhism is the strongest counterexample to a creator-necessity definition.
 
 ---
 
@@ -29,13 +47,49 @@
 - A **functional definition:** religion = a way of life orienting one toward **ultimate meaning, liberation, and the transcendent/absolute** — which need not be a personal God. ⚠️
 - Hence "religion without God" is coherent: **the sacred/ultimate ≠ necessarily a deity.**
 
+### 1.1 Necessary, sufficient and over-broad criteria
+
+No single feature below is uncontroversially necessary for every religion.
+A defensible examination definition uses a **cluster**:
+
+| Candidate feature | Necessary? | Why not alone sufficient? |
+|---|---|---|
+| Personal creator God | No—Buddhism, Jainism and classical Mīmāṃsā are countercases | Defines theism, not religion as such |
+| Sacred or ultimate concern | Strong candidate but very broad | Nations, art or political causes can become ultimate concerns |
+| Ritual and disciplined practice | Widespread but not universal in one form | Secular ceremonies also have ritual |
+| Ethical orientation | Common | Ethical philosophies are not automatically religions |
+| Community and tradition | Common | Clubs and nations also organise community |
+| Diagnosis and liberation/salvation | Strong discriminator | Some traditions emphasise worship or belonging more than liberation |
+| Myth, doctrine and experience | Family features | Each may be thin or absent in a particular strand |
+
+**Working sufficient cluster:** a socially embodied and disciplined orientation
+to an ultimate/sacred order, expressed through some combination of doctrine,
+ritual, ethical formation, experience, community and a transformative or
+soteriological goal. This excludes neither non-theistic traditions nor every
+secular analogue, while blocking the claim that any strong commitment is religion.
+
+### 1.2 Which religious functions require a deity?
+
+| Function | Personal deity required? | Non-theistic form |
+|---|---|---|
+| Petitionary prayer | Normally yes—a responsive addressee is built into petition | meditation, aspiration or recitation is not petition in the same sense |
+| Worship/veneration | No | reverence for Dharma, liberated exemplars, scripture or sacred value |
+| Propositional revelation from God | Yes by definition | Mīmāṃsā has authorless scriptural authority, not creator-revelation |
+| Grace and providence | Yes in their personal-agency sense | self-effort, karmic law, disciplined path or communal support performs other functions |
+| Ritual efficacy | No | Mīmāṃsā's unseen ritual potency (*apūrva*); Buddhist/Jain discipline |
+| Moral motivation | No | compassion, non-injury, karma, vows, insight and human flourishing |
+| Liberation/salvation | No as a generic function | nirvāṇa, Jain liberation, Sāṃkhya-Yoga isolation and other non-creator goals |
+
+God is therefore necessary for **some specifically theistic goods**, not for
+every religious function.
+
 ---
 
 ## 2. BUDDHISM as religion without God (2024 PYQ) ✅
-- **Non-theistic:** the Buddha was **silent/agnostic on a creator God** (the *avyākata* — unanswered questions); the world runs by **pratītyasamutpāda** (dependent origination) and **karma**, needing no creator. ✅
+- **Non-theistic:** early Buddhism does not make a creator God part of its diagnosis or path. Dependent origination (*pratītyasamutpāda*) and karma explain conditioned arising, while gods and Brahmā figures remain impermanent beings within saṃsāra rather than creators or final saviours. The undeclared questions (*avyākata*) concern specific speculative issues and should not be used as the whole Buddhist case. ✅
 - **Yet fully a religion:** it has the **Four Noble Truths**, the **Eightfold Path**, ethics (*śīla*), meditation, the **Saṅgha**, and a soteriology (**nirvāṇa** — liberation from dukkha). ✅
-- **What replaces God:** the **Dharma** (law/teaching) and the goal of **nirvāṇa** — an impersonal ultimate. (Later Mahāyāna develops quasi-devotional Buddha/Bodhisattva figures, but the core is non-theistic.) ⚠️
-- **Verdict:** Buddhism decisively shows **religion does not require God.** ✅
+- **What orients the religion:** Dharma, the community (*Saṅgha*) and liberation (*nirvāṇa*) organise doctrine, practice and value without functioning as one-for-one substitutes for a personal creator. Later Mahāyāna devotion to Buddhas and bodhisattvas confirms that non-theistic does not mean devotion-free. ⚠️
+- **Verdict:** Buddhism is a strong actual counterexample to the claim that a personal creator is necessary, provided religion is defined multidimensionally rather than stipulated as God-relation. ✅
 
 ---
 
@@ -83,7 +137,7 @@
 |---|---|---|---|---|
 | **Buddhism** | Creator and permanent self | *Pratītyasamutpāda*, Dharma, Saṅgha, nirvāṇa | ✅ Yes, fully | 2024 Q7(a) |
 | **Jainism** | Creator only | Karmic matter, vows, the perfected *siddha* | ✅ Yes, fully | 2018 Q5(c) |
-| **Mīmāṃsā** | Author of the Veda **and** dispenser of fruit | *Apauruṣeya* authority + *apūrva* efficacy | ✅ Yes — the cleanest case | 2020 Q6(c) |
+| **Mīmāṃsā** | Author of the Veda **and** dispenser of fruit | *Apauruṣeya* authority + *apūrva* efficacy | ✅ Strong case under ritual/functional definitions | 2020 Q6(c) |
 | **Sāṃkhya / Yoga** | Creator (Yoga keeps a non-creating Īśvara) | Prakṛti's evolution; *viveka-khyāti*; *kaivalya* | ✅ Yes | 2021 Q5(d) |
 | **Modern naturalism / fictionalism** | Supernatural ontology, or assertion itself | Nature as locus of ultimacy; practice without assertion | ⚠️ Only on a functional definition | 2018 Q5(c) |
 | **Cārvāka** | The whole supersensible order | Nothing — *svabhāva* and this-worldly ends | ❌ **No** — the limiting case | 2025 Q5(a) |
@@ -213,13 +267,13 @@ Concl : religion without God is possible; religion without a SACRED ORDER is not
 - **Verdict formula.** ⚠️ "Cārvāka's critique succeeds exactly as far as its epistemology does. If the strong thesis is held — perception alone — it is self-refuting and pragmatically unliveable. If the moderate thesis is held — inference is admissible only where its concomitance can in principle be perceptually checked — the critique is powerful, unrefuted, and fatal to every *anumāna*-based natural theology, including Udayana's."
 
 ### 9.7 Mīmāṃsā: *apūrva* and religion without a deity
-- **Doctrine statement.** ✅ Pūrva-Mīmāṃsā is the fullest case of a **fully religious system with no God doing any work**. The Veda is *apauruṣeya* — **authorless**, hence eternal, hence not dependent on any speaker's reliability; its injunctions (*codanā*) are self-validating (*svataḥ-prāmāṇya*); and the efficacy of ritual is secured internally by **apūrva**.
+- **Doctrine statement.** ✅ Classical Pūrva-Mīmāṃsā is a strong case of a **ritual and scriptural religious order in which no creator God performs the main explanatory work**. The Veda is *apauruṣeya* — **authorless**, hence eternal, hence not dependent on any speaker's reliability; its injunctions (*codanā*) are self-validating (*svataḥ-prāmāṇya*); and the efficacy of ritual is secured internally by **apūrva**.
 - **The core definition.** ✅ Jaimini's *Mīmāṃsā-sūtra* 1.1.2 defines dharma as *codanā-lakṣaṇo 'rtho dharmaḥ* — that which is **characterised by (Vedic) injunction** and is beneficial. Dharma is thus known **only** from injunction, not from perception, inference or any deity's command.
 - ***Apūrva* — the argument.** ✅ (1) A Vedic injunction promises a result (heaven from the *jyotiṣṭoma*) that does not follow immediately upon the act. (2) The act is momentary and perishes; the result comes much later, often after death. (3) A perished cause cannot produce a later effect. (4) Therefore the act must generate an **unseen potency** that persists until the result matures. (5) That potency is ***apūrva*** ("the not-before", i.e. something new not previously existing). ⚠️ It is a **postulate (*arthāpatti*)**, not a perceived entity — Mīmāṃsā's own epistemology licenses postulation to explain an otherwise inexplicable fact.
 - **The two schools' versions.** ⚠️ **Kumārila Bhaṭṭa** treats *apūrva* as a **potency (*śakti*)** residing in the act or the agent, linking act to fruit. **Prabhākara Miśra** reframes the whole matter around ***niyoga*/*kārya*** — the sheer "ought-to-be-done" disclosed by the injunction, which motivates action without needing a promised fruit as its primary content. The difference matters: Prabhākara's ethics is closer to a **deontology of the injunction**, Kumārila's to a **consequential mechanism of desert**.
 - **Why this removes God.** ✅ (1) No author is needed for the Veda (*apauruṣeya*), so Udayana's *vākyāt*/*pratyayataḥ*/*śruteḥ* arguments have no purchase. (2) No dispenser of karmic fruit is needed, since *apūrva* does that work — so the Nyāya *karmādhyakṣa* argument is answered. (3) Deities named in the mantras function as **elements within the ritual structure** — the dative to which the oblation is offered — not as agents who hear, choose and grant. ⚠️ Kumārila's *Ślokavārttika* contains sustained arguments against a creator God, including the motive problem and the impossibility of a bodiless agent acting on matter — the same family as the Jain arguments at [Proofs §8.6](./Proofs-for-God.md).
 - **Objection → reply.** ⚠️ **Objection (Nyāya):** an unconscious potency cannot *select* the appropriate fruit for the appropriate agent at the appropriate time; only an intelligent superintendent can. **Reply:** the relation is law-like, not deliberative — the objection assumes that only agents can produce determinate outcomes, which begs the question against natural law. ⚠️ **Second objection:** how can a beginningless, authorless text have determinate meaning? **Reply:** meaning is carried by the eternal relation of word and referent (*śabdārtha-sambandha nityatva*), which Nyāya denies as conventional. ⚠️ **Third objection:** is this religion or bureaucracy? **Reply:** it has a sacred order, a soteriological promise, a disciplined practice and a community — which is exactly what a functional definition requires. ⚠️ Note honestly that **later Mīmāṃsā authors drift toward theism** ❓, so the atheistic reading is of the *classical* system.
-- **Verdict formula.** ⚠️ "Mīmāṃsā is the cleanest disproof of the claim that religion requires God. It keeps scripture, ritual, duty, merit and a soteriological goal, and replaces the deity with two devices — *apauruṣeya* authority and *apūrva* efficacy. What it thereby shows is that the religious functions God performs are **separable**: authority, efficacy and desert can each be secured otherwise."
+- **Verdict formula.** ⚠️ "Mīmāṃsā is a strong counterexample to the claim that religion requires God under ritual, functional or multidimensional definitions. It keeps scripture, ritual, duty, merit and a soteriological goal, and relocates authority and efficacy in *apauruṣeya* Veda and *apūrva*. What it thereby shows is that the religious functions God performs are **separable**."
 
 ### 9.8 Religious naturalism and religious fictionalism
 - **Why the module is needed.** ⚠️ Buddhism, Jainism and Mīmāṃsā show religion without God in *classical* forms. The modern Western debate asks a sharper question: can someone who accepts a **naturalistic ontology** — or who does not believe the doctrines at all — nonetheless be religious? Two families answer yes.
@@ -234,6 +288,12 @@ Concl : religion without God is possible; religion without a SACRED ORDER is not
   - **Objection → reply.** ⚠️ (i) **Insincerity/self-deception:** worship presupposes belief; make-believe worship is either dishonest or hollow. *Reply:* immersion in a fiction is a familiar, non-deceptive human capacity (literature, ritual drama). (ii) **The motivational objection:** the practice's power derives from believing it true; remove that and it hollows out. *Reply:* fictionalists appeal to the sustained efficacy of narrative and ritual — an empirical claim that remains contested. (iii) **The internal objection:** believers themselves reject the description, so the account is revisionary of the very thing it purports to save.
 - **Indian comparison (do not omit).** ⚠️ ✅ Advaita already contains a **two-level** apparatus that does structurally similar work without fictionalism: saguṇa worship is genuinely efficacious at the *vyāvahārika* level and is *sublated*, not exposed as fiction, at the *pāramārthika* level — sublation is not falsification. ✅ Buddhism's **two truths** (*saṃvṛti*/*paramārtha*) permit full participation in conventional religious practice while denying ultimate substantial reference. ⚠️ The comparative point that earns marks: **Indian systems offer graded truth where Western fictionalism offers pretence** — the Indian device preserves the practitioner's sincerity in a way fictionalism struggles to.
 - **Verdict formula.** ⚠️ "Naturalism and fictionalism both show that the *functions* of religion — reverence, community, ritual, orientation to ultimacy, self-transformation — are detachable from theistic belief. Whether what survives is still *religion* depends on the definition adopted at the start, which is why this clause always returns to the substantive-versus-functional question."
+
+**Bounded modern caution:** civil religion and secular spirituality may display
+ritual, sacred symbols, community and ultimate concern, but without a
+transformative/soteriological discipline the category becomes too broad. They
+are useful boundary tests, not additional syllabus owners or substitutes for
+the Indian cases.
 
 
 
@@ -404,3 +464,13 @@ graded conclusion avoiding an over-broad definition.
 - John Dewey, *A Common Faith*; Ronald Dworkin, *Religion without God*; Ursula Goodenough, *The Sacred Depths of Nature*.
 - Don Cupitt, *Taking Leave of God*; Robin Le Poidevin, *Arguing for Atheism*.
 - John Hick, *Philosophy of Religion*; Ninian Smart's multidimensional study of religion.
+- Local searchable John Hick, *Philosophy of Religion*, especially PDF p. 14
+  for the point that Theravāda Buddhism lacks worship of a creator while
+  remaining within comparative definitions of religion.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, “Nontheistic
+  Conceptions of the Divine,” print pp. 59–79 (PDF pp. 71–90), for the
+  theistic/non-theistic discrimination.
+- Local searchable Chatterjee–Datta, especially PDF pp. 37–39 and 144–146,
+  for the common religious problem and Jainism/Buddhism as religions without a
+  creator; local C. D. Sharma controls the caution that creator-denial is not
+  equivalent to absence of spiritual or ethical religion.

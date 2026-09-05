@@ -25,7 +25,7 @@ plebiscite), occupation, conquest or subjugation.
 ## 2. Articles 2 vs 3 — the key distinction ⭐
 | | Article 2 | Article 3 |
 |---|---|---|
-| ✅ Deals with | **Admit / establish NEW states** (not part of Union) | **Reorganise EXISTING states** (internal readjustment) |
+| ✅ Deals with | **Admit / establish new States**; standard doctrine treats this as entry or establishment beyond the existing internal map | **Reorganise existing Indian units** (internal readjustment) |
 | ✅ Powers | (a) admit existing states; (b) establish new ones | form/increase/diminish/alter boundary/alter name |
 
 ## 3. Article 3 — Parliament's power to reorganise ⭐
@@ -44,7 +44,7 @@ by **simple majority**, ordinary legislative process.
 ## 4. Cession of territory — case law ⭐
 ✅ **Berubari Union (1960, Presidential reference):** power to *diminish* a state's area (Art 3) does
 **NOT** include **ceding Indian territory to a foreign country** → cession needs a **constitutional
-amendment (Art 368)**. → **9th Amendment Act (1960)** transferred Berubari to Pakistan.
+amendment (Art 368)**. → the **Ninth Amendment Act (1960)** supplied constitutional authority for the contemplated transfer; the package must not imply that every contemplated Berubari transfer was actually completed then.
 ✅ **1969 ruling:** settling a **boundary dispute** does **not** need an amendment — done by **executive
 action** (no cession involved).
 
@@ -56,8 +56,7 @@ Agreement 1958 → LBA 1974 + 2011 Protocol.
 
 ## 6. Evolution — integration & reorganisation ⭐
 ✅ **Integration of princely states:** Independence Act 1947 gave 3 options (India/Pakistan/independent).
-Of **552** princely states, **549 joined India**; **3 refused** — **Hyderabad** (police action),
-**Junagarh** (referendum), **Kashmir** (Instrument of Accession).
+The local textbook uses the conventional **552 / 549 / three difficult cases** shorthand. Historical totals vary with the counting date and category; use the figure only with that source caveat. The three best-known difficult cases were **Hyderabad** (police action), **Junagadh** (plebiscite) and **Jammu and Kashmir** (Instrument of Accession).
 ✅ **1950 four-fold classification:** Part A (9 ex-governors' provinces), Part B (9 ex-princely states
 w/ legislatures), Part C (10, centrally administered), Part D (Andaman & Nicobar).
 
@@ -68,8 +67,7 @@ w/ legislatures), Part C (10, centrally administered), Part D (Andaman & Nicobar
 | ✅ **JVP Committee** (Nehru, Patel, Pattabhi Sitaramayya) | 1948–49 | **rejected** language as basis |
 | ✅ **Fazl Ali Commission** (Fazl Ali, K.M. Panikkar, H.N. Kunzru) | 1953–55 | **accepted language** but rejected "one language–one state" |
 
-✅ **First linguistic state = Andhra (Oct 1953)** — after **Potti Sriramulu's 56-day hunger strike &
-death**. ✅ **States Reorganisation Act 1956 + 7th Amendment 1956:** abolished Part A/B/C/D distinction
+✅ **First linguistic state = Andhra (Oct 1953)** — after **Potti Sriramulu's fast and death**; date-based accounts commonly count 58 days, so avoid the disputed 56-day shorthand. ✅ **States Reorganisation Act 1956 + 7th Amendment 1956:** abolished Part A/B/C/D distinction
 → **14 states + 6 UTs (1 Nov 1956)**. Fazl Ali's 4 factors: unity/security, linguistic-cultural
 homogeneity, financial/economic/administrative, welfare.
 
@@ -110,7 +108,7 @@ were **merged into one UT** ("Dadra and Nagar Haveli and Daman and Diu") via the
 **8 UTs** in exams post-2020.
 
 ## UPSC Traps
-- ❌ Art 2 = reorganising existing states → Art 2 = **new** states; **Art 3** = existing states.
+- ❌ Art 2 = reorganising existing Indian units → Article 2 concerns admission/establishment; **Article 3** is the internal-reorganisation power.
 - ❌ State consent is required for reorganisation → **not required** (Parliament not bound by state views).
 - ❌ Reorganisation needs a constitutional amendment → **simple majority** (Art 4, outside Art 368).
 - ❌ Ceding territory to a foreign country can be done under Art 3 → needs **Art 368 amendment** (Berubari).

@@ -22,7 +22,7 @@ The 73rd Amendment gave **constitutional status** to **Panchayati Raj Institutio
 > Commission (SEC).
 
 ## Must-Know Facts
-- ✅ **3-tier** system; a state **< 20 lakh** population may skip the **intermediate** level.
+- ✅ **3-tier** system; a state with population **not exceeding 20 lakh** may skip the **intermediate** level.
 - ✅ **All territorial seats** at all three levels are directly elected; chairpersons at
   intermediate/district levels are elected indirectly, the village-chair method is left to
   state law, and legislatures may provide representation for MPs/MLAs and others under Art 243-C.
@@ -31,7 +31,7 @@ The 73rd Amendment gave **constitutional status** to **Panchayati Raj Institutio
 - ✅ Candidate minimum age = **21** (not 25).
 - ✅ **State Election Commission** conducts polls; **State Finance Commission** every 5 years.
 - ✅ **PESA Act 1996** extends Part IX to **Fifth Schedule (tribal) areas**.
-- ✅ Not applicable to **Nagaland, Meghalaya, Mizoram** & scheduled/tribal areas.
+- ✅ Article 243M excludes **Nagaland, Meghalaya and Mizoram**, Fifth Schedule Scheduled Areas, Sixth Schedule tribal areas, specified Manipur hill areas and the constitutionally described Darjeeling hill arrangement; Parliament may extend Part IX only through the prescribed constitutional route.
 
 ## 📰 Current link
 📰 ⚠️ Many states have raised **women's reservation in PRIs to 50%**; **16th Finance Commission** grants to local
@@ -183,3 +183,14 @@ bodies keep the fiscal-devolution ("3 Fs") debate alive.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## Constitutional precision and judicial controls
+
+- ✅ **Article 243D(4):** chairperson offices are reserved for SCs/STs in the State-wide population proportion prescribed by State law, and **not less than one-third** of all chairperson offices are reserved for women. Backward-class reservation is enabling under Article 243D(6).
+- ✅ **Article 243E:** elections follow before expiry or within six months after dissolution; no election is required for a remainder shorter than six months, and an early reconstituted body serves only the unexpired term.
+- ✅ **Article 243I:** the SFC recommends State-local tax distribution, assigned taxes, grants-in-aid and measures to improve finances; the Governor lays recommendations and an action memorandum before the State legislature.
+- ✅ **Article 243K:** the SEC controls rolls and elections; its Commissioner has High-Court-judge removal protection, service conditions cannot be worsened after appointment, and the Governor must provide requested staff.
+- ✅ **Articles 243L and 243N:** the President may apply Part IX to a Union Territory with exceptions; inconsistent pre-existing Panchayat laws could continue only up to one year from commencement unless earlier changed.
+- ✅ **Article 243M:** the Nagaland/Meghalaya/Mizoram extension route requires a State Assembly resolution supported by a majority of total membership and at least two-thirds present and voting; the parliamentary extension law is not treated as an Article 368 amendment. PESA uses the separate Scheduled-Area route for Fifth Schedule areas.
+- ⚖️ **Kishansing Tomar (2006):** timely local elections are a constitutional mandate. **K. Krishna Murthy (2010)** and **Vikas Kishanrao Gawali (2021)** require local-body-specific empirical justification and the triple test for OBC political reservation. **State of Goa v. Fouziya Imtiaz Shaikh (2021)** protects SEC independence.
+- 📰 **Dated current controls (28 August 2026):** use the Ministry's **Devolution Index Report 2024**, the Sixteenth Finance Commission's **2026–31** report/action memorandum, and the Ministry's live State-wise PESA-rules directory. Do not freeze changing portal totals or infer implementation from rule notification alone.

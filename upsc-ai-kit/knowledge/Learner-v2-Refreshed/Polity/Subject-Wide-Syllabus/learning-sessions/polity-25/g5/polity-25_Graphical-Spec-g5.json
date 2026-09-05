@@ -1,0 +1,1304 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-25",
+  "subject": "Polity",
+  "title": "UNION TERRITORIES",
+  "short_route": "RATIONALE, EVOLUTION AND THE → PART VIII CONSTITUTIONAL MAP → ADMINISTRATOR, LEGISLATURE AND DIRECT → HIGH COURTS AND LEGISLATURE-FREE → DELHI ARTICLE 239AA DESIGN → DELHI CASES, SERVICES AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g5 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-25-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "6c0f3d8f2bd9e64a9217582274c8586f6fcf416bccaca6fca77ace94fec820f4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RATIONALE, EVOLUTION AND THE CURRENT EIGHT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RATIONALE, EVOLUTION AND THE CURRENT EIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "WHY UTS EXIST",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION RESPONSIBILITY + DIFFERENTIATED LOCAL DEMOCRACY.",
+          "role": "comparison"
+        },
+        {
+          "text": "PART C/D ARRANGEMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "7TH AMENDMENT AND 1956 REORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "MODERN UT CATEGORY.",
+          "role": "outcome"
+        },
+        {
+          "text": "J&K AND LADAKH CREATED",
+          "role": "comparison"
+        },
+        {
+          "text": "26 JAN 2020",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHY UTS EXIST",
+        "Union responsibility + differentiated local democracy.",
+        "Part C/D arrangements → 7th Amendment and 1956 reorganisation → modern UT category.",
+        "2019: J&K and Ladakh created",
+        "26 Jan 2020: DNH and DD merged."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WHY UTS EXIST",
+            "Union responsibility + differentiated local democracy."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Part C/D arrangements → 7th Amendment and 1956 reorganisation → modern UT category.",
+            "2019: J&K and Ladakh created"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "26 Jan 2020: DNH and DD merged.",
+            "CURRENT EIGHT"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "WITH LEGISLATURE: Delhi, Puducherry, J&K",
+            "WITHOUT: the other five."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WITH LEGISLATURE: Delhi, Puducherry, J&K | WITHOUT: the other five.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 1",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 2",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 3",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PART VIII CONSTITUTIONAL MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PART VIII CONSTITUTIONAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE MAP",
+          "role": "institution"
+        },
+        {
+          "text": "239 ADMINISTRATION THROUGH PRESIDENT-APPOINTED ADMINISTRATOR.",
+          "role": "comparison"
+        },
+        {
+          "text": "239A PUDUCHERRY LEGISLATURE/COM ENABLING POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "239B ORDINANCE ROUTE.",
+          "role": "primary"
+        },
+        {
+          "text": "239AA DELHI NCT SCHEME",
+          "role": "outcome"
+        },
+        {
+          "text": "239AB DELHI FAILURE-OF-MACHINERY ROUTE.",
+          "role": "comparison"
+        },
+        {
+          "text": "240 PRESIDENTIAL REGULATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE MAP",
+        "239 administration through President-appointed Administrator.",
+        "239A Puducherry legislature/CoM enabling power",
+        "239B ordinance route.",
+        "239AA Delhi NCT scheme"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE MAP",
+            "239 administration through President-appointed Administrator.",
+            "239A Puducherry legislature/CoM enabling power"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "239B ordinance route.",
+            "239AA Delhi NCT scheme",
+            "239AB Delhi failure-of-machinery route."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "240 presidential regulations",
+            "241 High Courts.",
+            "246(4): Parliament may legislate on every list for territory outside a State."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORE RULE",
+            "A local UT legislature never removes Parliament's continuing competence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A local UT legislature never removes Parliament's continuing competence.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 13"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ADMINISTRATOR, LEGISLATURE AND DIRECT RULE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ADMINISTRATOR, LEGISLATURE AND DIRECT RULE",
+          "role": "primary"
+        },
+        {
+          "text": "UT ADMINISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ADMINISTRATOR IS THE PRESIDENT'S AGENT, NOT A PART",
+          "role": "caution"
+        },
+        {
+          "text": "A STATE GOVERNOR ACTING AS ADJOINING-UT ADMINISTRATOR ACTS INDEPENDENTLY",
+          "role": "institution"
+        },
+        {
+          "text": "THREE MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT ADMINISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY LEGISLATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DELHI'S CONSTITUTIONAL NCT DESIGN.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRESIDENT → ADMINISTRATOR/LG → UT ADMINISTRATION",
+        "The Administrator is the President's agent, not a Part VI Governor.",
+        "A State Governor acting as adjoining-UT Administrator acts independently of the State CoM.",
+        "THREE MODELS",
+        "Direct administration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRESIDENT → ADMINISTRATOR/LG → UT ADMINISTRATION",
+            "The Administrator is the President's agent, not a Part VI Governor.",
+            "A State Governor acting as adjoining-UT Administrator acts independently of the State CoM."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "THREE MODELS",
+            "Direct administration",
+            "statutory legislature"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Delhi's constitutional NCT design.",
+            "ARTICLE 240",
+            "Specified-territory regulations have the force of an Act of Parliament."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "THREE MODELS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Specified-territory regulations have the force of an Act of Parliament.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 7",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 9",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 10",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 11",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 12",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 13",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 16"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HIGH COURTS AND LEGISLATURE-FREE UTS",
+      "structural_type": "spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HIGH COURTS AND LEGISLATURE-FREE UTS",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH COURT MAP",
+          "role": "institution"
+        },
+        {
+          "text": "DELHI HC",
+          "role": "comparison"
+        },
+        {
+          "text": "J&K + LADAKH",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON J&K AND LADAKH HC.",
+          "role": "primary"
+        },
+        {
+          "text": "PUNJAB & HARYANA",
+          "role": "outcome"
+        },
+        {
+          "text": "WITHOUT LEGISLATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT UNION ADMINISTRATION STILL COEXISTS WITH MPS, COURTS, LOCAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HIGH COURT MAP",
+        "Delhi → Delhi HC",
+        "J&K + Ladakh → common J&K and Ladakh HC.",
+        "A&N → Calcutta",
+        "Chandigarh → Punjab & Haryana"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "HIGH COURT MAP",
+            "Delhi → Delhi HC",
+            "J&K + Ladakh → common J&K and Ladakh HC."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "A&N → Calcutta",
+            "Chandigarh → Punjab & Haryana",
+            "DNHDD → Bombay."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Lakshadweep → Kerala",
+            "Puducherry → Madras.",
+            "WITHOUT LEGISLATURE"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Direct Union administration still coexists with MPs, courts, local bodies and legal remedies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Direct Union administration still coexists with MPs, courts, local bodies and legal remedies.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 14",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 15",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 16",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 17",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 18",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 19",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 20",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 21"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DELHI ARTICLE 239AA DESIGN",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DELHI ARTICLE 239AA DESIGN",
+          "role": "institution"
+        },
+        {
+          "text": "DELHI NCT",
+          "role": "outcome"
+        },
+        {
+          "text": "69TH AMENDMENT 1991",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 239AA",
+          "role": "institution"
+        },
+        {
+          "text": "ASSEMBLY + COM + LG.",
+          "role": "institution"
+        },
+        {
+          "text": "ASSEMBLY FIELD",
+          "role": "institution"
+        },
+        {
+          "text": "STATE AND CONCURRENT LISTS EXCEPT ENTRIES 1, 2 AND",
+          "role": "institution"
+        },
+        {
+          "text": "RESERVED CORE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DELHI NCT",
+        "69th Amendment 1991 → Article 239AA → Assembly + CoM + LG.",
+        "ASSEMBLY FIELD",
+        "State and Concurrent Lists except Entries 1, 2 and 18, plus related 64, 65 and",
+        "Reserved core: public order"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DELHI NCT",
+          "ASSEMBLY FIELD",
+          "Reserved core: public order",
+          "LG reference to President is exceptional, not routine."
+        ],
+        [
+          "69th Amendment 1991 → Article 239AA → Assembly + CoM + LG.",
+          "State and Concurrent Lists except Entries 1, 2 and 18, plus related 64, 65 and 66.",
+          "Aid and advice is the rule inside the allotted field.",
+          "Parliament retains overriding competence; Article 239AB is the breakdown route."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DELHI NCT",
+            "69th Amendment 1991 → Article 239AA → Assembly + CoM + LG."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ASSEMBLY FIELD",
+            "State and Concurrent Lists except Entries 1, 2 and 18, plus related 64, 65 and 66."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Reserved core: public order",
+            "Aid and advice is the rule inside the allotted field."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LG reference to President is exceptional, not routine.",
+            "Parliament retains overriding competence; Article 239AB is the breakdown route."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Aid and advice is the rule inside the allotted field.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 26"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DELHI CASES, SERVICES AND STATUTORY RESPONSE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DELHI CASES, SERVICES AND STATUTORY RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "GNCTD AID-AND-ADVICE JUDGMENT (2018)",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRESENTATIVE GOVERNMENT AND AID/ADVICE PREVAIL WITHIN DELHI'S ALLOTTED FIELD.",
+          "role": "comparison"
+        },
+        {
+          "text": "DELHI SERVICES JUDGMENT (2023) — 11 MAY",
+          "role": "evidence"
+        },
+        {
+          "text": "ENTRY 41 SERVICES FOLLOWED ELECTED ACCOUNTABILITY OUTSIDE THE RESERVED",
+          "role": "primary"
+        },
+        {
+          "text": "ACT 19 OF 2023",
+          "role": "institution"
+        },
+        {
+          "text": "NCCSA RECOMMENDS TRANSFERS/POSTINGS; LG HAS STATUTORY FINAL SAY ON",
+          "role": "comparison"
+        },
+        {
+          "text": "28 AUGUST 2026 CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GNCTD aid-and-advice judgment (2018)",
+        "Representative government and aid/advice prevail within Delhi's allotted field.",
+        "Delhi services judgment (2023) — 11 MAY",
+        "Entry 41 services followed elected accountability outside the reserved fields.",
+        "ACT 19 OF 2023"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GNCTD aid-and-advice judgment (2018)",
+            "Representative government and aid/advice prevail within Delhi's allotted field."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Delhi services judgment (2023) — 11 MAY",
+            "Entry 41 services followed elected accountability outside the reserved fields."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACT 19 OF 2023",
+            "NCCSA recommends transfers/postings; LG has statutory final say on disagreement."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "28 AUGUST 2026 CONTROL",
+            "The Act remains operative; pending constitutional challenge is not invalidation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Act remains operative; pending constitutional challenge is not invalidation.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 28",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 30"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PUDUCHERRY STATUTORY MODEL",
+      "structural_type": "dialectic",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PUDUCHERRY STATUTORY MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT 1963",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY ASSEMBLY + COM; PARLIAMENT RETAINS UT-WIDE POWER.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 239B ORDINANCE REQUIRES PRIOR PRESIDENTIAL INSTRUCTIONS.",
+          "role": "institution"
+        },
+        {
+          "text": "K. LAKSHMINARAYANAN (2018)",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL NOMINATION OF UP TO THREE MEMBERS UPHELD; NOMINEES",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 240",
+          "role": "institution"
+        },
+        {
+          "text": "REGULATION POWER IS UNAVAILABLE DURING NORMAL ASSEMBLY FUNCTIONING.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT 1963",
+        "Statutory Assembly + CoM; Parliament retains UT-wide power.",
+        "Article 239B ordinance requires prior presidential instructions.",
+        "K. LAKSHMINARAYANAN (2018)",
+        "Central nomination of up to three members upheld; nominees possess voting rights."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT 1963",
+            "Statutory Assembly + CoM; Parliament retains UT-wide power."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 239B ordinance requires prior presidential instructions.",
+            "K. LAKSHMINARAYANAN (2018)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Central nomination of up to three members upheld; nominees possess voting rights.",
+            "ARTICLE 240"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Regulation power is unavailable during normal Assembly functioning.",
+            "It revives during constitutionally qualifying suspension or dissolution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "It revives during constitutionally qualifying suspension or dissolution.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 31",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 32",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 33"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JAMMU AND KASHMIR AND LADAKH AFTER 2019",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JAMMU AND KASHMIR AND LADAKH AFTER 2019",
+          "role": "primary"
+        },
+        {
+          "text": "J&K REORGANISATION ACT 2019 — EFFECTIVE 31 OCTOBER",
+          "role": "institution"
+        },
+        {
+          "text": "UT WITH LEGISLATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "UT WITHOUT LEGISLATURE.",
+          "role": "evidence"
+        },
+        {
+          "text": "J&K ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "STATE/CONCURRENT COMPETENCE EXCEPT PUBLIC ORDER AND POLICE; LAND IS",
+          "role": "institution"
+        },
+        {
+          "text": "BUDGET, LEGISLATION AND EXECUTIVE ACCOUNTABILITY OPERATE UNDER THE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "ELECTED ASSEMBLY AND COM FUNCTION AFTER 2024; STATEHOOD NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "J&K REORGANISATION ACT 2019 — EFFECTIVE 31 OCTOBER",
+        "J&K → UT with legislature",
+        "Ladakh → UT without legislature.",
+        "J&K ASSEMBLY",
+        "State/Concurrent competence except public order and police; land is not generally excluded."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "J&K REORGANISATION ACT 2019 — EFFECTIVE 31 OCTOBER",
+            "J&K → UT with legislature"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Ladakh → UT without legislature.",
+            "J&K ASSEMBLY"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "State/Concurrent competence except public order and police; land is not generally excluded.",
+            "Budget, legislation and executive accountability operate under the Act and rules."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Elected Assembly and CoM function after 2024; Statehood not restored by 28 Aug 2026.",
+            "Ladakh has no legislature; safeguard demands are proposals, not enacted status."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Ladakh has no legislature; safeguard demands are proposals, not enacted status.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 34",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 35",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 36",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 37"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DELHI, PUDUCHERRY AND J&K COMPARED",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DELHI, PUDUCHERRY AND J&K COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL ARTICLE 239AA",
+          "role": "institution"
+        },
+        {
+          "text": "EXCLUDES PUBLIC ORDER, POLICE, LAND.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 239A + 1963 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "BROAD STATUTORY STATE/CONCURRENT FIELD.",
+          "role": "institution"
+        },
+        {
+          "text": "2019 ACT + ARTICLE 239A APPLICATION",
+          "role": "institution"
+        },
+        {
+          "text": "EXCLUDES PUBLIC ORDER AND POLICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ALL THREE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "constitutional Article 239AA",
+        "excludes public order, police, land.",
+        "Article 239A + 1963 Act",
+        "broad statutory State/Concurrent field.",
+        "2019 Act + Article 239A application"
+      ],
+      "matrix": [
+        [
+          "DELHI",
+          "constitutional Article 239AA",
+          "excludes public order, police, land."
+        ],
+        [
+          "PUDUCHERRY",
+          "Article 239A + 1963 Act",
+          "broad statutory State/Concurrent field."
+        ],
+        [
+          "J&K",
+          "2019 Act + Article 239A application",
+          "excludes public order and police."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "constitutional Article 239AA",
+            "excludes public order, police, land.",
+            "Article 239A + 1963 Act"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "broad statutory State/Concurrent field.",
+            "2019 Act + Article 239A application",
+            "excludes public order and police."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ALL THREE",
+            "Assembly + CoM + Administrator/LG; Parliament retains overriding UT competence.",
+            "DO NOT FLATTEN"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Legal source, nominated membership, services control and referral rules differ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Legal source, nominated membership, services control and referral rules differ.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 22",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 23",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 24",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 25",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 26",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 28",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 30",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 31",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 32",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 33",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 34",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 35",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 36",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 37",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 38"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FRICTION, ACCOUNTABILITY AND REFORM",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FRICTION, ACCOUNTABILITY AND REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "WHY FRICTION OCCURS",
+          "role": "outcome"
+        },
+        {
+          "text": "SPLIT LEGISLATIVE FIELD + DIVIDED OFFICER CONTROL + REFERRAL/OVERRIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCOUNTABILITY TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "EXACT FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "COURT REMEDY.",
+          "role": "institution"
+        },
+        {
+          "text": "CLARIFY RESERVED FIELDS",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUND REFERRALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHY FRICTION OCCURS",
+        "Split legislative field + divided officer control + referral/override powers.",
+        "ACCOUNTABILITY TEST",
+        "Exact field → decision-maker → staff/finance → override → court remedy.",
+        "Clarify reserved fields"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WHY FRICTION OCCURS",
+            "Split legislative field + divided officer control + referral/override powers.",
+            "ACCOUNTABILITY TEST"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Exact field → decision-maker → staff/finance → override → court remedy.",
+            "Clarify reserved fields",
+            "bound referrals"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "align officers with accountability.",
+            "Publish reasons and timelines",
+            "preserve judicial review"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "date every current claim.",
+            "Union safeguards are strongest when narrow, reasoned and democratically accountable."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Union safeguards are strongest when narrow, reasoned and democratically accountable.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 38",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 39",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 40",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 41",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 42"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PYQS, CASE LAW AND CLOSE-OPTION TRAPS",
+      "structural_type": "synthesis",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PYQS, CASE LAW AND CLOSE-OPTION TRAPS",
+          "role": "primary"
+        },
+        {
+          "text": "PYQ 2018 GS-II Q11",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 239AA",
+          "role": "institution"
+        },
+        {
+          "text": "2018 RATIO",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICES SEQUEL",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATIVE 2023 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "PYQ 2025 GS-II Q4",
+          "role": "comparison"
+        },
+        {
+          "text": "2019 ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PYQ 2018 GS-II Q11",
+        "Article 239AA → 2018 ratio → services sequel → operative 2023 Act → verdict.",
+        "PYQ 2025 GS-II Q4",
+        "2019 Act → J&K Assembly field/functions → LG/Parliament limits → Statehood caveat.",
+        "CASE CONTROLS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PYQ 2018 GS-II Q11",
+            "Article 239AA → 2018 ratio → services sequel → operative 2023 Act → verdict.",
+            "PYQ 2025 GS-II Q4"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2019 Act → J&K Assembly field/functions → LG/Parliament limits → Statehood caveat.",
+            "CASE CONTROLS",
+            "GNCTD aid-and-advice judgment (2018)."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Delhi services judgment (2023).",
+            "K. Lakshminarayanan (2018).",
+            "In Re: Article 370 of the Constitution (2023)."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "239AB != 239B",
+            "Chandigarh not Article 240-listed",
+            "Delhi exclusions != J&K exclusions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 239AA → 2018 ratio → services sequel → operative 2023 Act → verdict.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 27",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 28",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 30",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 31",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 32",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 33",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 34",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 35",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 36",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 37",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 38",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 39",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 40",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 41",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 42",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 43",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 44"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAM ANSWER SPINE AND CURRENT FIREWALL",
+      "structural_type": "synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAM ANSWER SPINE AND CURRENT FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSIFY MODEL",
+          "role": "comparison"
+        },
+        {
+          "text": "EXACT ARTICLE/STATUTE",
+          "role": "institution"
+        },
+        {
+          "text": "LOCAL DEMOCRATIC MECHANISM.",
+          "role": "mechanism"
+        },
+        {
+          "text": "ADD UNION SAFEGUARD",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL FRICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CALIBRATED REFORM.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANSWER SPINE",
+        "Classify model → exact Article/statute → local democratic mechanism.",
+        "Add Union safeguard → institutional friction → case/year → calibrated reform.",
+        "EVIDENCE METHOD",
+        "Claim → named authority → mechanism → dated control → limitation → verdict."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ANSWER SPINE",
+            "Classify model → exact Article/statute → local democratic mechanism.",
+            "Add Union safeguard → institutional friction → case/year → calibrated reform.",
+            "EVIDENCE METHOD"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Claim → named authority → mechanism → dated control → limitation → verdict.",
+            "CURRENT FIREWALL — 28 AUGUST 2026",
+            "8 UTs",
+            "3 legislatures"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "J&K elected but still UT.",
+            "GNCTD Act 2023 operative",
+            "challenge unresolved",
+            "proposal is not law."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "A UT legislature is real self-government, but not State-equivalent autonomy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Claim → named authority → mechanism → dated control → limitation → verdict.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 40",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 41",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 42",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 43",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 44",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g5\\polity-25_Complete-Learning-Session_2026-08-28.md#SESSION 45"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PART A — CREATION & LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "PART B — ADMINISTRATION (ART 239–241)",
+          "role": "comparison"
+        },
+        {
+          "text": "PART C — SPECIAL STATUS OF DELHI (ART 239-AA)",
+          "role": "evidence"
+        },
+        {
+          "text": "J&K AND LADAKH CREATED 2019 BY THE J&K REORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "DADRA & NAGAR HAVELI AND DAMAN & DIU MERGED",
+          "role": "outcome"
+        },
+        {
+          "text": "TOTAL DROPPED FROM 9 TO",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT 8",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "PART A — CREATION & LIST",
+            "PART B — ADMINISTRATION (Art 239–241)",
+            "PART C — SPECIAL STATUS OF DELHI (Art 239-AA)",
+            "J&K and Ladakh created 2019 by the J&K Reorganisation Act (J&K with legislature, Ladakh"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Dadra & Nagar Haveli and Daman & Diu merged into a single UT on 26 Jan 2020 → total dropped from 9 to",
+            "Current 8: A&N Islands · Chandigarh · DNH & Daman & Diu · Delhi (NCT) · J&K · Ladakh · Lakshadweep ·",
+            "LG: Delhi, Puducherry, A&N, J&K, Ladakh. Administrator: Chandigarh, DNH-DD, Lakshadweep.",
+            "President may appoint a state Governor as administrator of an adjoining UT (acts independently of his"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CM appointed by the President (not the LG); ministers hold office during President's pleasure.",
+            "On a difference between LG and ministers, the LG refers the matter to the President .",
+            "President's Rule provision resembles Art 356 .",
+            "SC (May 2023): the elected Delhi government has control over services (admin control over officers),"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -9,11 +9,10 @@
 
 ## 1. Citizen vs alien
 ✅ India has **citizens** (full members, all civil + political rights, owe allegiance) and **aliens**
-(citizens of another state). Aliens = **friendly** (cordial-relation countries) or **enemy** (country
-at war with India — get fewer rights, e.g. **no Art 22** protection against arrest/detention).
+(citizens of another state). Aliens = **friendly** (cordial-relation countries) or **enemy** (country at war with India). Article **22(3)(a)** excludes enemy aliens from clauses **22(1)-(2)**; it is inaccurate to erase Article 22 wholesale.
 
 ✅ **Rights available ONLY to citizens** (denied to aliens): Art **15** (non-discrimination), Art **16**
-(equality in public employment), Art **19** (six freedoms), Art **29 & 30** (cultural/educational),
+(equality in public employment), Art **19** (six freedoms), Art **29** (citizen-specific cultural protection), while Art **30** speaks textually of minorities rather than citizens;
 right to **vote** (LS + state assembly), right to **contest** Parliament/state legislature, eligibility
 for **high offices** (President, VP, SC/HC judges, Governor, AG, Advocate General). ✅ In India **both
 birth & naturalised** citizens can be President (in USA, only birth citizen).
@@ -53,8 +52,7 @@ or 7 yrs continuous residence abroad).
 ## 5. Single citizenship ⭐
 ✅ Despite a federal dual polity, India (like **Canada**) has **single citizenship** — no separate state
 citizenship; all citizens owe allegiance only to the Union. USA & Switzerland have **double citizenship**.
-Aim: fraternity, unity, integrated nation. **Exceptions to uniform rights:** (1) Art 16 residence
-qualification for certain state jobs (Public Employment Act 1957, now only AP & Telangana); (2) states
+Aim: fraternity, unity, integrated nation. **Exceptions to uniform rights:** (1) Art 16(3) permits Parliament to prescribe residence qualifications for specified public employment; (2) states
 may give residents concessions outside constitutional rights (e.g. education fees); (3) Art 19
 restricted to protect **STs / tribal areas**; (4) *till 2019* J&K permanent-resident privileges under
 **Art 35A** (inserted by 1954 Presidential Order under Art 370; **abolished 2019**).
@@ -64,7 +62,7 @@ restricted to protect **STs / tribal areas**; (4) *till 2019* J&K permanent-resi
 Act 2003** created **OCI** for PIOs of 16 countries (except Pakistan & Bangladesh) and repealed
 Commonwealth citizenship. **2005 Amdt** widened it to PIOs of all countries (except Pak/Bangladesh).
 **2015 Amdt** merged **PIO + OCI** into a single **"OCI Cardholder"** scheme.
-✅ **OCI is NOT dual citizenship** (Art 9 forbids it). ✅ OCI cardholders **cannot**: vote, become
+✅ **OCI is NOT dual citizenship** (Article 9 directly disqualifies specified commencement claims after voluntary foreign citizenship; the present no-dual-citizenship result also depends on the Citizenship Act, especially Section 9). ✅ OCI cardholders **cannot**: vote, become
 President/VP/SC-HC judge, become MP/MLA, get public employment, or equality of opportunity in public
 jobs. Registration cancellable for fraud/disaffection/trading with enemy.
 
@@ -78,7 +76,7 @@ hence the equality/secularism (Art 14) debate.
 📰 **Rules notified March 2024**; **first citizenship certificates granted May 2024**
 (online portal). The Act does **not grant automatic citizenship** merely by community/origin;
 the applicant must satisfy the statutory route and scrutiny.
-⚠️ Constitutional challenge pending in Supreme Court (Art 14 discrimination + linkage with NRC fears).
+⚠️ Constitutional challenges remain pending on the official record checked through **28 August 2026**. Under G.S.R. 742(E) and S.O. 4583(E), both **19 August 2026**, specified Section 6B applicants in Gujarat, Rajasthan, Punjab, West Bengal, non-tribal Assam/Tripura, J&K and Ladakh apply electronically to the jurisdictional Collector; pending committee applications transfer to that Collector. The change is procedural and does not alter the six-community, three-country or 31 December 2014 class.
 
 ## UPSC Traps
 - ❌ Constitution has detailed permanent citizenship provisions → only **who were citizens in 1950**; rest is by **Parliament (Citizenship Act 1955)**.

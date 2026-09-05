@@ -181,3 +181,18 @@
 - Ripon's Resolution is **1882**; Mayo's financial decentralisation begins **1870**.
 - The Proclamation's equality promise was **not** implemented — state the gap explicitly.
 - Do not describe any pre-1909 arrangement as introducing separate electorates or elected majorities.
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Crown control after 1858, Queen's Proclamation, princely and
+  landed conciliation, security reconstruction, financial/local decentralisation,
+  and the Indian Councils Acts of 1861 and 1892.
+- **Boundary:** Topic 06 owns the Company constitutional ladder and legal 1858
+  transfer; Topic 08 owns detailed services/army/police/courts; Topic 11 owns
+  the revolt; Topic 14 owns Moderate council politics; Topic 17 owns separate
+  electorates and communal representation.
+- **Mechanism control:** the 1858 Act and 1 November Proclamation are distinct;
+  Secretary of State is not Viceroy; 1861 nomination is not election; 1892
+  discussion is not budget control or responsible government.
+- **Verified PYQ ownership, 2018-2026:** zero direct routes. All questions are
+  original practice and every neighbouring constitutional demand stays bounded.

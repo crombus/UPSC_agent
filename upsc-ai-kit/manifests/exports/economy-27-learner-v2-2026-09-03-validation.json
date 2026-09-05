@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "economy-27-learner-v2-2026-09-03-validation",
+  "validated_on": "2026-09-03T15:10:03.599704+05:30",
+  "selection": "economy-27",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "tests": {
+    "passed": 1,
+    "scope": "economy-27 corrected authoring self-check"
+  },
+  "topics": [
+    {
+      "topic_key": "economy-27",
+      "source_generation": 0,
+      "refreshed_generation": 1,
+      "subject": "Economy",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "economy-27",
+      "main_pdf_pages": 87,
+      "workbook_pdf_pages": 39,
+      "session_count": 15,
+      "ascii_panel_count": 12,
+      "ascii_max_line_width": 39,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-27-2026-09-03-sequential.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 12,
+        "panel_pages": [
+          86,
+          86,
+          86,
+          86,
+          86,
+          86,
+          86,
+          87,
+          87,
+          87,
+          87,
+          87
+        ],
+        "rendered_page_count": 2,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\flowcharts\\economy-27\\carvaka-g1\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 80,
+      "mcq_key_counts": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 20
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Complete-Learning-Session_2026-09-03.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Solved-Practice-Workbook_2026-09-03.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Complete-Learning-Session_2026-09-03.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-27\\economy-27_Solved-Practice-Workbook_2026-09-03.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\flowcharts\\economy-27\\carvaka-g1"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 87,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 39,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 4
+    }
+  ]
+}

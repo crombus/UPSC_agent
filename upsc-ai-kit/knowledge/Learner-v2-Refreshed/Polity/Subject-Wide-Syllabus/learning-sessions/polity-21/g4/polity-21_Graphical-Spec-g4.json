@@ -1,0 +1,1263 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-21",
+  "subject": "Polity",
+  "title": "HIGH COURT AND SUBORDINATE COURTS",
+  "short_route": "CONSTITUTIONAL LOCATION, COURT MAP → HIGH COURT JUDGES: APPOINTMENT → TRANSFER, TEMPORARY JUDGES AND → JURISDICTION GATEWAY AND ARTICLE → FIVE WRITS AND THE → TRIBUNALS, BASIC STRUCTURE AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g4\\polity-21_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-21-2026-08-24-sequential.json",
+  "ascii_spec_sha256": "b63f4493917409da25b209efde53fa8989efeae6bbbe5bef8c595c04a8d1cf00",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSTITUTIONAL LOCATION, COURT MAP AND DATED CAPACITY",
+      "structural_type": "judicial-architecture-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL LOCATION, COURT MAP AND DATED CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 214-237",
+          "role": "mechanism"
+        },
+        {
+          "text": "STATE-LEVEL CONSTITUTIONAL JUSTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPREME COURT",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH COURT",
+          "role": "institution"
+        },
+        {
+          "text": "DISTRICT AND SUBORDINATE COURTS.",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH COURT FOR EACH STATE",
+          "role": "institution"
+        },
+        {
+          "text": "COMMON HIGH COURT BY PARLIAMENTARY LAW.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLES 214-237: STATE-LEVEL CONSTITUTIONAL JUSTICE",
+        "Supreme Court → High Court → district and subordinate courts.",
+        "214: High Court for each State",
+        "231: common High Court by parliamentary law.",
+        "25 HIGH COURTS as at 28 August 2026; one-per-State/UT is false."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLES 214-237: STATE-LEVEL CONSTITUTIONAL JUSTICE",
+            "Supreme Court → High Court → district and subordinate courts.",
+            "214: High Court for each State",
+            "231: common High Court by parliamentary law."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "25 HIGH COURTS as at 28 August 2026; one-per-State/UT is false.",
+            "1862: Calcutta, Bombay and Madras",
+            "1866: Allahabad.",
+            "Inherited jurisdiction continues through Article 225 subject to Constitution and law."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DATED CAPACITY: DEPARTMENT OF JUSTICE, 1 JULY 2026",
+            "1,122 sanctioned",
+            "781 working",
+            "341 vacant"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "vacancy share about 30.4%.",
+            "Never quote working strength or vacancy without its date.",
+            "CORE ROLE constitutional remedies + appeals + supervision + judicial administration."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORE ROLE constitutional remedies + appeals + supervision + judicial administration.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HIGH COURT JUDGES: APPOINTMENT, QUALIFICATION AND INDEPENDENCE",
+      "structural_type": "judge-appointment-service-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HIGH COURT JUDGES",
+          "role": "institution"
+        },
+        {
+          "text": "APPOINTMENT, QUALIFICATION AND INDEPENDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 216",
+          "role": "institution"
+        },
+        {
+          "text": "CHIEF JUSTICE + OTHER JUDGES AS PRESIDENT CONSIDERS NECESSARY.",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 217 APPOINTMENT",
+          "role": "institution"
+        },
+        {
+          "text": "CJI + GOVERNOR CONSULTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "HC CHIEF JUSTICE FOR A PUISNE JUDGE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ORIGINATING HC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 216",
+        "Chief Justice + other judges as President considers necessary.",
+        "ARTICLE 217 APPOINTMENT",
+        "President → CJI + Governor consultation → HC Chief Justice for a puisne judge.",
+        "ORIGINATING HC: Chief Justice + two senior-most colleagues."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 216",
+            "Chief Justice + other judges as President considers necessary.",
+            "ARTICLE 217 APPOINTMENT",
+            "President → CJI + Governor consultation → HC Chief Justice for a puisne judge.",
+            "ORIGINATING HC: Chief Justice + two senior-most colleagues."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SC COLLEGIUM FOR HC APPOINTMENT: CJI + two senior-most SC judges.",
+            "Indian citizen + ten judicial-office years OR ten High Court advocacy years.",
+            "No distinguished-jurist route; no constitutional minimum age.",
+            "Article 219 oath before Governor/appointee",
+            "retirement 62"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "resignation to President.",
+            "Article 218 applies the Article 124 removal route",
+            "Article 221 protects conditions.",
+            "Article 229 administrative expenses are charged on the State Consolidated Fund.",
+            "CASE ARC"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "First Judges Case (1981) → executive primacy",
+            "Second Judges Case (1993) → judicial primacy",
+            "Third Judges Case (1998) → plural collegium",
+            "Fourth Judges Case (2015) → collegium remains operative."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "First Judges Case (1981) → executive primacy | Second Judges Case (1993) → judicial primacy.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TRANSFER, TEMPORARY JUDGES AND HIGH COURT ADMINISTRATION",
+      "structural_type": "transfer-capacity-administration-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRANSFER, TEMPORARY JUDGES AND HIGH COURT ADMINISTRATION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 222 TRANSFER",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT ACTS AFTER CJI CONSULTATION; CONSENT IS NOT CONSTITUTIONALLY",
+          "role": "caution"
+        },
+        {
+          "text": "CURRENT PROCEDURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CJI CONSULTS FOUR SENIOR-MOST SC JUDGES + BOTH AFFECTED",
+          "role": "primary"
+        },
+        {
+          "text": "SANKALCHAND HIMMATLAL SHETH (1977)",
+          "role": "outcome"
+        },
+        {
+          "text": "FULL, EFFECTIVE CONSULTATION; PUBLIC INTEREST, NOT PUNISHMENT.",
+          "role": "caution"
+        },
+        {
+          "text": "TEMPORARY CAPACITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 222 TRANSFER",
+        "President acts after CJI consultation; consent is not constitutionally required.",
+        "CURRENT PROCEDURE: CJI consults four senior-most SC judges + both affected HC Chief Justices.",
+        "Sankalchand Himmatlal Sheth (1977): full, effective consultation; public interest, not punishment.",
+        "TEMPORARY CAPACITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 222 TRANSFER",
+            "President acts after CJI consultation; consent is not constitutionally required.",
+            "CURRENT PROCEDURE: CJI consults four senior-most SC judges + both affected HC Chief Justices.",
+            "Sankalchand Himmatlal Sheth (1977): full, effective consultation; public interest, not punishment."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TEMPORARY CAPACITY",
+            "223 acting Chief Justice",
+            "224 additional/acting judges",
+            "224A consenting retired judge."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "These address temporary need; they do not replace regular appointments.",
+            "ARTICLE 229",
+            "Chief Justice/authorised officer appoints HC staff; Governor has limited rule/salary role.",
+            "TERRITORIAL DESIGN"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "230: Parliament may extend/exclude HC jurisdiction over a UT.",
+            "231: Parliament may create a common High Court.",
+            "Seats and benches follow constitutional, statutory and reorganisation arrangements."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Chief Justice/authorised officer appoints HC staff; Governor has limited rule/salary role.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JURISDICTION GATEWAY AND ARTICLE 226 SAFEGUARDS",
+      "structural_type": "jurisdiction-writ-gateway",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "JURISDICTION GATEWAY AND ARTICLE 226 SAFEGUARDS",
+          "role": "institution"
+        },
+        {
+          "text": "JURISDICTION MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "225 INHERITED/EXISTING JURISDICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "226 WRIT",
+          "role": "evidence"
+        },
+        {
+          "text": "227 SUPERVISION",
+          "role": "primary"
+        },
+        {
+          "text": "228 WITHDRAWAL STATUTORY CIVIL, CRIMINAL, ELECTION, ADMIRALTY AND TESTAMENTARY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 226 PURPOSE",
+          "role": "institution"
+        },
+        {
+          "text": "FUNDAMENTAL RIGHTS + ANY OTHER LEGAL PURPOSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JURISDICTION MAP",
+        "225 inherited/existing jurisdiction",
+        "226 writ",
+        "227 supervision",
+        "228 withdrawal statutory civil, criminal, election, admiralty and testamentary fields."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "JURISDICTION MAP",
+            "225 inherited/existing jurisdiction",
+            "226 writ",
+            "227 supervision"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "228 withdrawal statutory civil, criminal, election, admiralty and testamentary fields.",
+            "ARTICLE 226 PURPOSE",
+            "Fundamental Rights + any other legal purpose: wider in purpose than Article 32.",
+            "Territorial, discretionary and respondent-sensitive: not a national writ."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 226(2)",
+            "Cause of action wholly or partly within territory can support relief against an outside respondent.",
+            "Residence alone is insufficient.",
+            "ARTICLE 226(3)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Qualifying application to vacate an ex parte interim order → disposal within two weeks from the later trigger,",
+            "or next open day → otherwise interim order stands vacated.",
+            "Not every High Court has identical ordinary original civil jurisdiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Not every High Court has identical ordinary original civil jurisdiction.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FIVE WRITS AND THE ALTERNATIVE-REMEDY FIREWALL",
+      "structural_type": "writ-remedy-decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FIVE WRITS AND THE ALTERNATIVE-REMEDY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "WRIT UNLAWFUL DETENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HABEAS CORPUS, INCLUDING PRIVATE DETENTION REFUSED PUBLIC/LEGAL DUTY",
+          "role": "comparison"
+        },
+        {
+          "text": "MANDAMUS, INCLUDING A BODY PERFORMING PUBLIC DUTY ONGOING JURISDICTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PROHIBITION COMPLETED JURISDICTIONAL ERROR",
+          "role": "primary"
+        },
+        {
+          "text": "CERTIORARI UNLAWFUL OCCUPATION OF PUBLIC OFFICE",
+          "role": "outcome"
+        },
+        {
+          "text": "QUO WARRANTO.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 226 ALSO PERMITS ORDERS AND DIRECTIONS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "WRONG → WRIT unlawful detention → HABEAS CORPUS, including private detention refused public/legal duty →",
+        "body performing public duty ongoing jurisdictional excess → PROHIBITION completed jurisdictional error → CERTIORARI unlawful",
+        "office → QUO WARRANTO.",
+        "ARTICLE 226 ALSO PERMITS ORDERS AND DIRECTIONS",
+        "Do not imprison remedies inside old English technical forms."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WRONG → WRIT unlawful detention → HABEAS CORPUS, including private detention refused public/legal duty → MANDAMUS, including a",
+            "body performing public duty ongoing jurisdictional excess → PROHIBITION completed jurisdictional error → CERTIORARI unlawful occupation of public",
+            "office → QUO WARRANTO.",
+            "ARTICLE 226 ALSO PERMITS ORDERS AND DIRECTIONS"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Do not imprison remedies inside old English technical forms.",
+            "ALTERNATIVE REMEDY",
+            "Statutory appeal/revision ordinarily first, but writ discretion survives for",
+            "Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "natural-justice failure",
+            "want of jurisdiction",
+            "challenge to vires.",
+            "EXAM FIREWALL"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Alternative remedy is self-restraint, not extinction of jurisdiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Alternative remedy is self-restraint, not extinction of jurisdiction.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TRIBUNALS, BASIC STRUCTURE AND SUPERVISORY RESTRAINT",
+      "structural_type": "review-supervision-control-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRIBUNALS, BASIC STRUCTURE AND SUPERVISORY RESTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "L. CHANDRA KUMAR (1997)",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 226/227 AND 32 REVIEW ARE BASIC STRUCTURE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 323A/323B TRIBUNAL DECISIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGH COURT DIVISION BENCH SCRUTINY.",
+          "role": "institution"
+        },
+        {
+          "text": "TRIBUNALS SUPPLEMENT; THEY NEITHER DISAPPEAR NOR FINALLY REPLACE CONSTITUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 227",
+          "role": "institution"
+        },
+        {
+          "text": "JUDICIAL + ADMINISTRATIVE SUPERINTENDENCE OVER TERRITORIAL COURTS/TRIBUNALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "L. CHANDRA KUMAR (1997)",
+        "Articles 226/227 and 32 review are Basic Structure.",
+        "Articles 323A/323B tribunal decisions → High Court Division Bench scrutiny.",
+        "Tribunals supplement; they neither disappear nor finally replace constitutional courts.",
+        "ARTICLE 227"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "L. CHANDRA KUMAR (1997)",
+            "Articles 226/227 and 32 review are Basic Structure.",
+            "Articles 323A/323B tribunal decisions → High Court Division Bench scrutiny.",
+            "Tribunals supplement; they neither disappear nor finally replace constitutional courts."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 227",
+            "Judicial + administrative superintendence over territorial courts/tribunals",
+            "Armed-Forces-law forums excluded; petition or suo motu possible.",
+            "RADHEY SHYAM (2015): civil-court judicial orders belong under 227, not 226."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "K. VALARMATHI (2025): supervision cannot supplant trial and statutory appeal.",
+            "ARTICLE 228",
+            "Substantial constitutional-interpretation question → HC withdraws",
+            "decides question or case → may return case with binding answer."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP: supervision and withdrawal are not routine appeals."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP: supervision and withdrawal are not routine appeals.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARTICLES 233-237 AND CURRENT RECRUITMENT LAW",
+      "structural_type": "subordinate-recruitment-constitution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLES 233-237 AND CURRENT RECRUITMENT LAW",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 233 DISTRICT JUDGES",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR APPOINTS/POSTS/PROMOTES IN CONSULTATION WITH HIGH COURT.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 233(2) TEXT",
+          "role": "institution"
+        },
+        {
+          "text": "OUTSIDE-SERVICE CANDIDATE",
+          "role": "primary"
+        },
+        {
+          "text": "SEVEN ADVOCACY YEARS + HC RECOMMENDATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "REJANISH K.V. V. K. DEEPA (2025 INSC 1208)",
+          "role": "comparison"
+        },
+        {
+          "text": "PROSPECTIVELY OVERRULES DHEERAJ MOR.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 233 DISTRICT JUDGES",
+        "Governor appoints/posts/promotes in consultation with High Court.",
+        "Article 233(2) text: outside-service candidate → seven advocacy years + HC recommendation.",
+        "REJANISH K.V. v. K. DEEPA (2025 INSC 1208)",
+        "Prospectively overrules Dheeraj Mor."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 233 DISTRICT JUDGES",
+            "Governor appoints/posts/promotes in consultation with High Court.",
+            "Article 233(2) text: outside-service candidate → seven advocacy years + HC recommendation.",
+            "REJANISH K.V. v. K. DEEPA (2025 INSC 1208)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Prospectively overrules Dheeraj Mor.",
+            "Qualifying serving judicial officers may compete in direct recruitment using combined advocacy/judicial-service experience",
+            "minimum age 35",
+            "eligibility at application date."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 234 BELOW DISTRICT JUDGE",
+            "Governor's rules + State PSC consultation + High Court consultation.",
+            "ALL INDIA JUDGES ASSOCIATION (20 MAY 2025) future Civil Judge entry → three years Bar practice",
+            "25% LDCE District-Judge promotion route + suitability control."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "236 defines district judge/judicial service",
+            "237 can apply chapter to notified magistrates."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "236 defines district judge/judicial service | 237 can apply chapter to notified magistrates.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARTICLE 235 CONTROL AND THE DISTRICT JUSTICE CHAIN",
+      "structural_type": "district-control-hierarchy-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLE 235 CONTROL AND THE DISTRICT JUSTICE CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 235 CONTROL IN HIGH COURT POSTING + PROMOTION",
+          "role": "institution"
+        },
+        {
+          "text": "NRIPENDRA NATH BAGCHI (1966)",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL INCLUDES DISCIPLINARY AUTHORITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "CHANDRA MOHAN (1966)",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTIVE DOMINANCE IN DISTRICT-JUDGE SELECTION IS UNCONSTITUTIONAL.",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENCE CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNOR/STATE RECRUITMENT ROLE + MANDATORY HC CONSULTATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 235 CONTROL IN HIGH COURT posting + promotion + leave + disciplinary control, subject",
+        "NRIPENDRA NATH BAGCHI (1966): control includes disciplinary authority.",
+        "CHANDRA MOHAN (1966): executive dominance in district-judge selection is unconstitutional.",
+        "INDEPENDENCE CHAIN",
+        "Governor/State recruitment role + mandatory HC consultation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 235 CONTROL IN HIGH COURT posting + promotion + leave + disciplinary control, subject to law and appeal rights.",
+            "NRIPENDRA NATH BAGCHI (1966): control includes disciplinary authority.",
+            "CHANDRA MOHAN (1966): executive dominance in district-judge selection is unconstitutional.",
+            "INDEPENDENCE CHAIN"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Governor/State recruitment role + mandatory HC consultation",
+            "High Court career control",
+            "trial judges insulated from the litigating executive.",
+            "DISTRICT STRUCTURE, SUBJECT TO STATE LAW"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "District Judge / Sessions Judge",
+            "Civil Judge Senior Division / Chief Judicial Magistrate",
+            "Civil Judge Junior Division / Judicial Magistrate.",
+            "Article 236 defines district judge broadly; names and pecuniary powers vary."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CRIMINAL CONTROL",
+            "Sessions death sentence → High Court confirmation before execution.",
+            "Article 227 corrects jurisdiction; Article 235 administers careers: do not conflate them."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 227 corrects jurisdiction; Article 235 administers careers: do not conflate them.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LEGAL AID AND SPECIALISED ACCESS INSTITUTIONS",
+      "structural_type": "access-institution-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEGAL AID AND SPECIALISED ACCESS INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 39A + LEGAL SERVICES AUTHORITIES ACT, 1987",
+          "role": "institution"
+        },
+        {
+          "text": "HIGH COURT LEGAL SERVICES COMMITTEE",
+          "role": "institution"
+        },
+        {
+          "text": "TALUK COMMITTEE.",
+          "role": "evidence"
+        },
+        {
+          "text": "ELIGIBILITY USES STATUTORY CATEGORIES AND PRESCRIBED INCOME CEILINGS; ONE",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY LOK ADALAT SETTLEMENT BY CONSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CIVIL + COMPOUNDABLE CRIMINAL MATTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO MERITS DECISION AFTER FAILURE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 39A + LEGAL SERVICES AUTHORITIES ACT, 1987",
+        "NALSA → SLSA / High Court Legal Services Committee → DLSA → Taluk committee.",
+        "Eligibility uses statutory categories and prescribed income ceilings; one old figure is unsafe.",
+        "ORDINARY LOK ADALAT settlement by consent",
+        "civil + compoundable criminal matters"
+      ],
+      "matrix": [
+        [
+          "ORDINARY LOK ADALAT settlement by consent",
+          "civil + compoundable criminal matters",
+          "no merits decision after failure."
+        ],
+        [
+          "PERMANENT LOK ADALAT pre-litigation public-utility field",
+          "conciliation first",
+          "limited merits decision after failure."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 39A + LEGAL SERVICES AUTHORITIES ACT, 1987",
+            "NALSA → SLSA / High Court Legal Services Committee → DLSA → Taluk committee.",
+            "Eligibility uses statutory categories and prescribed income ceilings; one old figure is unsafe."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ORDINARY LOK ADALAT settlement by consent",
+            "civil + compoundable criminal matters",
+            "no merits decision after failure."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PERMANENT LOK ADALAT pre-litigation public-utility field",
+            "conciliation first",
+            "limited merits decision after failure."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARBITRATION agreement-based private adjudication of arbitrable civil/commercial disputes.",
+            "FAMILY COURTS / GRAM NYAYALAYAS statutory specialised access; implementation and jurisdiction are not nationally uniform.",
+            "PYQ 2024: compare source, consent, field, criminal reach and legal effect."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PYQ 2024: compare source, consent, field, criminal reach and legal effect.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ALL INDIA JUDICIAL SERVICE: ROUTE, DESIGN AND LIMITS",
+      "structural_type": "aijs-federal-design-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ALL INDIA JUDICIAL SERVICE",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTE, DESIGN AND LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 312 ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "RAJYA SABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO-THIRDS OF MEMBERS PRESENT AND VOTING",
+          "role": "primary"
+        },
+        {
+          "text": "PARLIAMENT MAY CREATE SERVICE BY LAW.",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 312(3)",
+          "role": "institution"
+        },
+        {
+          "text": "AIJS CANNOT INCLUDE POSTS BELOW DISTRICT JUDGE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 312 ROUTE",
+        "Rajya Sabha: two-thirds of members present and voting",
+        "Parliament may create service by law.",
+        "ARTICLE 312(3): AIJS cannot include posts below district judge.",
+        "CURRENT STATUS, 28 AUGUST 2026: no AIJS exists."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 312 ROUTE",
+            "Rajya Sabha: two-thirds of members present and voting",
+            "Parliament may create service by law.",
+            "ARTICLE 312(3): AIJS cannot include posts below district judge.",
+            "CURRENT STATUS, 28 AUGUST 2026: no AIJS exists."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CASE FOR national standards",
+            "wider pool",
+            "predictable recruitment",
+            "mobility and diversity.",
+            "CASE AGAINST language and local law"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "State reservation/cadre design",
+            "federal role",
+            "career integration.",
+            "NON-NEGOTIABLE DESIGN",
+            "High Court role in selection/probation + Article 235 control + local-language testing"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State-law training + federal consultation + transparent allocation.",
+            "Do not confuse AIJS with the 2025 Civil Judge Bar-practice rule."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Do not confuse AIJS with the 2025 Civil Judge Bar-practice rule.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CAPACITY, ECOURTS AND DATA-GOVERNANCE REFORM",
+      "structural_type": "justice-delivery-reform-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CAPACITY, ECOURTS AND DATA-GOVERNANCE REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "CAPACITY DIAGNOSIS VACANCIES + STAFF/INFRASTRUCTURE + PROCESS/SERVICE DELAY +",
+          "role": "mechanism"
+        },
+        {
+          "text": "COST/UNDERTRIAL HARDSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "WEAKER RIGHTS AND COMMERCIAL CERTAINTY.",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED HIGH COURT SNAPSHOT, 1 JULY 2026",
+          "role": "institution"
+        },
+        {
+          "text": "1,122 SANCTIONED",
+          "role": "outcome"
+        },
+        {
+          "text": "781 WORKING",
+          "role": "comparison"
+        },
+        {
+          "text": "341 VACANT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAPACITY DIAGNOSIS vacancies + staff/infrastructure + process/service delay + government litigation",
+        "backlog → cost/undertrial hardship → weaker rights and commercial certainty.",
+        "DATED HIGH COURT SNAPSHOT, 1 JULY 2026",
+        "1,122 sanctioned",
+        "781 working"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CAPACITY DIAGNOSIS vacancies + staff/infrastructure + process/service delay + government litigation",
+            "backlog → cost/undertrial hardship → weaker rights and commercial certainty.",
+            "DATED HIGH COURT SNAPSHOT, 1 JULY 2026",
+            "1,122 sanctioned"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "781 working",
+            "341 vacant.",
+            "ECOURTS PHASE III, 2023-2027, RS 7,210 CRORE record digitisation + e-filing/e-payments + e-Sewa Kendras + interoperable management.",
+            "NJDG age/stage/workload visibility → diagnosis and allocation"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "not crude judge ranking or disposal quotas.",
+            "EXECUTABLE REFORM appointment calendars",
+            "registry/staff capacity",
+            "accountable government appeals reliable service"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "age-based dockets",
+            "legal aid",
+            "cyber/privacy/local-language safeguards.",
+            "Digital-by-default must never become digital-only."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXECUTABLE REFORM appointment calendars | registry/staff capacity | accountable government appeals reliable service | age-based dockets | legal aid | cyber/privacy/local-language safeguards.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COMPARISON, PYQ CONTROLS AND MARKS-SCALED ANSWER SPINE",
+      "structural_type": "exam-synthesis-answer-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COMPARISON, PYQ CONTROLS AND MARKS-SCALED ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SUPREME COURT",
+          "role": "institution"
+        },
+        {
+          "text": "HIGH COURT",
+          "role": "institution"
+        },
+        {
+          "text": "SUBORDINATE COURTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 32 FR REMEDY",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 226 FR + LEGAL RIGHTS",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY TRIAL JURISDICTION NATIONAL APEX",
+          "role": "comparison"
+        },
+        {
+          "text": "TERRITORIAL CONSTITUTIONAL COURT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SUPREME COURT",
+        "HIGH COURT",
+        "SUBORDINATE COURTS",
+        "Article 32 FR remedy",
+        "Article 226 FR + legal rights"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SUPREME COURT",
+            "HIGH COURT",
+            "SUBORDINATE COURTS",
+            "Article 32 FR remedy",
+            "Article 226 FR + legal rights"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "statutory trial jurisdiction national apex",
+            "territorial constitutional court",
+            "local facts and first adjudication no Article 235 role",
+            "Articles 227/229/235 administration",
+            "controlled by High Court."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PYQ ROUTES",
+            "2024 GS-II Q2, 10 marks/150 words: Lok Adalat versus Arbitration Tribunal.",
+            "2025 GS-II Q13, 15 marks/250 words: collegium compared with United States.",
+            "2019/2021 Prelims routes: HC review and retired-judge distinctions.",
+            "10 MARKS thesis → 3 article distinctions → one case → limit → verdict."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "15 MARKS architecture → mechanism → case/current evidence → criticism → targeted reform.",
+            "20 MARKS multi-dimensional matrix → causal chain → counterargument → executable safeguards.",
+            "FINAL LINE",
+            "Independent State justice needs broad remedies, restrained supervision,",
+            "High Court-controlled careers, dated capacity evidence and inclusive digital administration."
+          ]
+        }
+      ],
+      "mechanism_strip": "15 MARKS architecture → mechanism → case/current evidence → criticism → targeted reform.",
+      "answer_line": "10 MARKS thesis → 3 article distinctions → one case → limit → verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-21\\g3-source\\polity-21_g3-reviewed-source.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "37. ARTICLE 226 VERSUS ARTICLE 227 IN ANSWER WRITING",
+          "role": "institution"
+        },
+        {
+          "text": "38. HIGH COURT VERSUS SUPREME COURT",
+          "role": "institution"
+        },
+        {
+          "text": "39. APPOINTMENT REFORM MATRIX",
+          "role": "evidence"
+        },
+        {
+          "text": "40. ANSWER-WRITING EVIDENCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGH COURT CONTROL PROTECTS DISTRICT JUDICIAL INDEPENDENCE.",
+          "role": "institution"
+        },
+        {
+          "text": "NAMED EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 233-235.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "37. Article 226 versus Article 227 in answer writing",
+            "38. High Court versus Supreme Court",
+            "39. Appointment reform matrix",
+            "40. Answer-writing evidence discipline"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Claim: High Court control protects district judicial independence.",
+            "Named evidence: Articles 233-235.",
+            "Mechanism: consultation for appointments and High Court control over posting/promotion/leave.",
+            "Analysis: removes direct State-executive leverage."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Qualification: recruitment and infrastructure remain shared responsibilities.",
+            "Verdict: independence requires High Court control plus coordinated capacity."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

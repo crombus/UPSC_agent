@@ -1,12 +1,12 @@
 ---
-export_date: 2026-08-16
+export_date: 2026-08-28
 approval: false
 evidence_key: "[FACT] verified constitutional, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated live control; [LIMIT] qualification preventing overstatement"
 ---
 
 # Polity 17 - Parliament - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 17 | **GS-II + Prelims** | **Export date:** 2026-08-16
+> **Subject:** Indian Polity | **Topic:** 17 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -16,13 +16,13 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 
 - Source order followed: authoritative Core owner `Polity/basic/Parliament.md` -> optional procedural depth in `Polity/advanced/17_Parliament.md` -> cross-links in Polity 11, Polity 16, `basic/Anti-Defection-Law.md`, `basic/Election-Commission.md`, `basic/Amendment-and-Basic-Structure.md` and `basic/President-and-Vice-President.md` -> dated official controls. Qdrant was not used.
 - [LIMIT] Foundation/Core below is independently answer-complete. Optional Advanced adds deeper doctrine and answer refinement; no examination answer depends on opening it.
-- [CURRENT] Status is controlled to **16 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] **Digital Sansad** is the official control for debates, Bills and committee activity. Its Lok Sabha debate record shows that the **8th Session of the 18th Lok Sabha was adjourned sine die on 13 August 2026**. No unsupported productivity percentage, sitting total or Bill count is used here.
 - [CURRENT] The official PIB overview of the **7th Session** is available at `https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/apr/doc2026418851201.pdf`. It is retained as an official session source, not converted here into unverified statistics.
 - [CURRENT] The **Constitution (One Hundred and Sixth Amendment) Act, 2023 commenced on 16 April 2026**, but the women's reservation is **not operational**. This package preserves the exact enacted -> commenced -> operational distinction.
 - [CURRENT] Census 2027 conduct and reference dates are notified, but the date on which the relevant figures will be **published**, the date of delimitation and the date on which reservation will operate are all unknown.
 - [CURRENT] The Constitution (131st Amendment) Bill, Delimitation Bill and Union Territories Laws (Amendment) Bill, 2026 were introduced on 16 April 2026. The constitutional amendment was defeated on 17 April 2026 despite a 298:230 division among 528 members present and voting. They are treated only as **defeated Bills**, never as law, precedent or forecast.
-- [CURRENT] No visible final decision on the larger-Bench Article 110 issue referred in *Rojer Mathew* was located on the official Supreme Court judgment portals as of 16 August 2026. The status is therefore stated narrowly and qualified.
+- [CURRENT] No visible final decision on the larger-Bench Article 110 issue referred in *Rojer Mathew* was located on the official Supreme Court judgment portals as of 28 August 2026. The status is therefore stated narrowly and qualified.
 - Package standard delivered: more than 20 text-native visuals, eight solved Mains PYQs, all 20 routed Prelims demands, 36 original MCQs, 12 remedial MCQs and seven original solved Mains questions.
 
 ## Roadmap
@@ -86,7 +86,7 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 | Dimension | Rajya Sabha | Lok Sabha |
 |---|---|---|
 | Constitutional ceiling | [FACT] **250**: up to 238 elected + 12 nominated | [FACT] **550**: up to 530 States + 20 UTs |
-| Current sanctioned/elected strength supported by Core | [FACT] **245 sanctioned** | [FACT] **543 elected** |
+| Stable sanctioned/elected figure | [FACT] **245 sanctioned**; working strength varies with vacancies | [FACT] **543 elected seats**; working strength varies with vacancies |
 | Election | Indirect; elected State/eligible UT representatives through proportional representation by single transferable vote | Direct; territorial constituencies through first-past-the-post and universal adult suffrage |
 | Nominated members | 12 nominated by President for special knowledge/practical experience in literature, science, art and social service | None; Anglo-Indian nomination ceased after the 104th Amendment |
 | Nature | Permanent; never dissolved | Normally five years; may be dissolved earlier |
@@ -108,7 +108,8 @@ Eligible voters -> territorial constituency -> FPTP plurality -> elected MP
 - [FACT] The 2003 removal of the Rajya Sabha candidate's State-domicile requirement and introduction of the open ballot came through amendment of the **Representation of the People Act, 1951**, not a constitutional amendment; *Kuldip Nayar v. Union of India* (2006) upheld it.
 - [FACT] Lok Sabha's normal term under Article 83 is five years from its first meeting. During a national emergency Parliament may extend it by law for one year at a time, but not beyond six months after the emergency ends.
 - [FACT] Rajya Sabha continuity means the whole Union legislature never disappears.
-- [LIMIT] “Working strength” can vary with vacancies. The stable exam facts are the ceilings, 245 sanctioned Rajya Sabha strength supported by Core and 543 elected Lok Sabha seats.
+- [LIMIT] “Working strength” varies with vacancies. The stable exam facts are the ceilings, 245
+  sanctioned Rajya Sabha strength and 543 elected Lok Sabha seats.
 
 **Visual 4 - Continuity clock**
 
@@ -226,12 +227,14 @@ Is it exempted by the Parliament (Prevention of Disqualification) Act, 1959?
 
 | Institution | Legal/procedural character | Exam caution |
 |---|---|---|
-| Leader of Opposition | [FACT] Statutory office under the Salary and Allowances of Leaders of Opposition in Parliament Act, 1977 | Recognition practice requires the relevant threshold; Core uses the one-tenth rule |
+| Leader of Opposition | [FACT] Statutory office under the Salary and Allowances of Leaders of Opposition in Parliament Act, 1977 | The Act does not prescribe a ten-percent threshold; recognition is by the presiding officer |
 | Largest opposition party leader | Political fact | May exist even where no person is formally recognised as LoP |
 | Opposition party | Party outside government | Do not equate every opposition party with the “official opposition” |
 | Committee chair from Opposition | Convention in specified context, notably PAC | Not a universal rule for all committees |
 
-- [FACT] Core records that recognised LoP status requires a party with at least one-tenth of the House; the 16th and 17th Lok Sabhas had no recognised LoP.
+- [FACT] The 1977 Act defines the LoP through recognition by the Speaker/Chairman and does not itself
+  prescribe a numerical threshold. The one-tenth rule belongs to parliamentary recognition practice,
+  not the statutory text. The 16th and 17th Lok Sabhas had no recognised LoP.
 - [LIMIT] For the 2018 Prelims historical demand, do not invent or casually assert the identity of the “first Lok Sabha opposition party” unless the precise official source/question wording is before you.
 - [ANALYSIS] A recognised LoP matters beyond debate: statutes often place the office on selection committees, making recognition part of institutional checks.
 
@@ -347,8 +350,9 @@ Tenth Schedule
 
 - [FACT] The Deputy Speaker is independently elected by the House; when presiding, the Deputy Speaker exercises the Speaker's powers and is answerable to the House.
 - [FACT] Article 93 says the House shall, as soon as may be, choose a Speaker and Deputy Speaker but fixes no numerical deadline.
-- [CURRENT] The post remained vacant throughout the **17th Lok Sabha (2019-2024)**.
-- [LIMIT] This package does **not** assume or assert a present vacancy in the 18th Lok Sabha without a fresh official office-holder check.
+- [CURRENT] The official Lok Sabha page checked on **28 August 2026** states that the position has been
+  vacant since **May 2019**.
+- [LIMIT] This is a dated current-office control, not a timeless constitutional rule.
 
 ### Rajya Sabha Chairman and Deputy Chairman
 
@@ -989,7 +993,7 @@ government controls most Bills, time and majority management
 
 - [FACT] In *K.S. Puttaswamy (Aadhaar), 2018*, a 4:1 majority upheld the Aadhaar Act's Money Bill route; Chandrachud J dissented.
 - [FACT] In *Rojer Mathew v. South Indian Bank* (2019), the Court doubted the earlier Article 110 reasoning and referred the issue to a larger seven-judge Bench.
-- [CURRENT] As of 16 August 2026, no visible final decision resolving that larger-Bench issue was located on the official Supreme Court judgment portals.
+- [CURRENT] As of 28 August 2026, no visible final decision resolving that larger-Bench issue was located on the official Supreme Court judgment portals.
 - [LIMIT] The safe formulation is: **Article 110 calls the Speaker's decision final, but constitutional courts retain narrow review for illegality or constitutional misuse; the larger doctrinal issue remains without a visible final resolution.**
 
 **Visual 41 - Judicial-review boundary**
@@ -1003,7 +1007,7 @@ Speaker's Article 110 certificate: textually final
                        |
      larger doctrinal issue referred in Rojer Mathew
                        |
-            no visible final ruling by 16 Aug 2026
+            no visible final ruling by 28 Aug 2026
 ```
 
 ## A3. Procedure refinements that separate strong answers
@@ -1062,6 +1066,10 @@ Speaker's Article 110 certificate: textually final
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 3 named committee units plus a qualified verdict.
 
+**Why this earns marks:** Exact committee differentiation, causal usefulness and a bounded advisory-status verdict satisfy the directive.
+
+**How to improve this answer:** If compressed, retain Estimates 30 LS-only, PAC-CAG, one DRSC function and the advisory/referral limit; drop the wider committee catalogue.
+
 ### PYQ-M2. 2019 GS-II Q15 - Decline of the individual parliamentarian and debate quality
 
 **Demand decoding**
@@ -1085,6 +1093,10 @@ Speaker's Article 110 certificate: textually final
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 5 mechanisms, 2 counter-instruments and 3 reforms.
 
+**Why this earns marks:** The answer explains the whip-agenda-time causal chain, preserves surviving MP agency and closes with feasible reforms.
+
+**How to improve this answer:** For 150 words, keep Tenth Schedule, executive agenda, one scrutiny loss and one reform; for 250 words retain counter-evidence and variation by majority size.
+
 ### PYQ-M3. 2020 GS-II Q5 - “Once a Speaker, always a Speaker” and objectivity
 
 **Demand decoding**
@@ -1107,6 +1119,10 @@ Speaker's Article 110 certificate: textually final
 **Examiner note:** Direct convention answer plus powers-mechanism-qualification sequence satisfies both limbs.
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 3 named powers and one balanced reform.
+
+**Why this earns marks:** It answers both the comparative-convention and objectivity limbs through three high-stakes powers and a qualified institutional judgment.
+
+**How to improve this answer:** Compress to Article 110, Tenth Schedule and party-linked career; improve further by separating perceived bias from proof of bias in one explicit sentence.
 
 ### PYQ-M4. 2020 GS-II Q14 - Rajya Sabha as a supporting organ
 
@@ -1133,6 +1149,10 @@ Speaker's Article 110 certificate: textually final
 
 **Mark/word discipline:** 15 marks; target 230-250 words; 3 subordinate fields, 4 counterweights and one design caveat.
 
+**Why this earns marks:** The graded equal-unequal-exclusive structure directly answers both factors and areas without reducing Rajya Sabha to a uniformly inferior chamber.
+
+**How to improve this answer:** Under time pressure use a three-row power matrix, then add Articles 249/312 and the population-weighted federal caveat before the verdict.
+
 ### PYQ-M5. 2021 GS-II Q4 - Extent of Parliament's executive accountability
 
 **Demand decoding**
@@ -1155,6 +1175,10 @@ Speaker's Article 110 certificate: textually final
 **Examiner note:** “Extent” is answered explicitly by distinguishing routine oversight from survival control.
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 4 evidence families and 4 limitations.
+
+**Why this earns marks:** A clear extent judgment distinguishes routine information/audit control from the exceptional survival sanction.
+
+**How to improve this answer:** Retain Article 75(3), one financial-control chain, one committee and two operating limits; do not spend words cataloguing every motion.
 
 ### PYQ-M6. 2021 GS-II Q15 - Working of DRSCs in enforcing executive control
 
@@ -1181,6 +1205,10 @@ Speaker's Article 110 certificate: textually final
 
 **Mark/word discipline:** 15 marks; target 235-250 words; 4 functions, 5 weaknesses and 4 reforms.
 
+**Why this earns marks:** Exact 17-to-24 chronology, 21+10 composition, functions and non-binding influence provide evaluative rather than descriptive depth.
+
+**How to improve this answer:** If shortening, preserve composition, demands/Bill scrutiny, optional referral and one reform; remove generic praise before removing institutional evidence.
+
 ### PYQ-M7. 2023 GS-II Q16 - Committee structure and role of financial committees
 
 **Demand decoding**
@@ -1206,6 +1234,10 @@ Speaker's Article 110 certificate: textually final
 
 **Mark/word discipline:** 15 marks; target 230-250 words; classification plus exact 22/30/22 evidence.
 
+**Why this earns marks:** Classification precedes the exact financial trio, and prospective, retrospective and undertaking-specific roles are analytically separated.
+
+**How to improve this answer:** Use a standing-versus-ad-hoc opening, then PAC 15+7, Estimates 30 LS-only and CoPU 15+7; end with advisory-status and follow-up limits.
+
 ### PYQ-M8. 2024 GS-II Q3 - Cabinet growth and marginalisation of parliamentary supremacy
 
 **Demand decoding**
@@ -1228,6 +1260,10 @@ Speaker's Article 110 certificate: textually final
 
 **Mark/word discipline:** 10 marks; target 145-155 words; 4 mechanisms, 3 correctives and one reform verdict.
 
+**Why this earns marks:** The answer links cabinet growth to agenda, whip and time control while retaining constitutional counterweights and a degree-based conclusion.
+
+**How to improve this answer:** For 150 words, keep Article 75(3), agenda control, whip, committee/Question Hour counterweight and one activation reform; avoid repeating the word dominance.
+
 ## Routed Parliament Prelims demand laboratory
 
 > **Answer-key provenance:** For 2018-2023, official keys are not held locally. For 2024-2025, official Set-A keys are held locally but no option letter is reproduced or inferred here. For 2026, the locally held Set-A keys are provisional and no option letter is reproduced or inferred. Each entry therefore gives the doctrinal solution and elimination logic, not an invented key.
@@ -1236,7 +1272,7 @@ Speaker's Article 110 certificate: textually final
 
 | Year/Q | Demand | Doctrinal resolution | Provenance/limit |
 |---|---|---|---|
-| 2018 Q1 | First Lok Sabha opposition/LoP history | LoP is a statutory office under the 1977 Act; Core applies the one-tenth recognition threshold. Distinguish largest opposition party from recognised LoP. | Official key unavailable locally; do not invent first-party identity without exact source. |
+| 2018 Q1 | First Lok Sabha opposition/LoP history | LoP is a statutory office under the 1977 Act; the Act prescribes no ten-percent threshold and leaves recognition to the presiding officer. Distinguish statutory text, recognition practice and largest opposition-party leadership. | Official key unavailable locally; do not invent first-party identity without exact source. |
 | 2018 Q20 | Committee scrutinising delegated legislation | **Committee on Subordinate Legislation** examines whether delegated powers are properly exercised. | Not PAC, Estimates or Government Assurances. |
 | 2018 Q31 | Money Bill definition/procedure | Article 110 “only” test; Lok Sabha origin; President recommendation; Speaker certificate; Rajya Sabha recommendations within 14 days; no joint sitting. | Official key unavailable locally; resolve each statement doctrinally. |
 | 2019 Q49 | Parliament Disqualification Act/office of profit | Articles 102/103 plus Parliament (Prevention of Disqualification) Act, 1959; President decides a sitting-member question after ECI opinion. | Exemption is office-specific, not a general immunity. |
@@ -1341,7 +1377,7 @@ Which statement best reflects the Core control?
 
 A. LoP is a purely constitutional office named in Article 75.  
 B. The largest opposition leader automatically becomes LoP in all circumstances.  
-C. LoP is statutory under the 1977 Act and recognition practice uses a one-tenth threshold.  
+C. LoP is statutory under the 1977 Act; the Act itself prescribes no ten-percent threshold.  
 D. LoP is appointed by the President.
 
 **Answer: C.** [FACT] Distinguish the statutory recognised office from the political leader of the largest opposition party.
@@ -1590,7 +1626,7 @@ D. Is limited to Rajya Sabha members.
 
 ### OM30. 106th Amendment status
 
-As of 16 August 2026:
+As of 28 August 2026:
 
 A. The Act has not commenced.  
 B. It commenced on 16 April 2026, but the reservation remains non-operational pending the Article 334A sequence.  
@@ -1625,7 +1661,7 @@ D. The 131st Amendment Bill proposed 850 but was defeated for want of the Articl
 
 Which is the safest current formulation?
 
-A. Article 110 says final, but narrow constitutional review remains and the *Rojer Mathew* larger issue has no visible final resolution as of 16 August 2026.  
+A. Article 110 says final, but narrow constitutional review remains and the *Rojer Mathew* larger issue has no visible final resolution as of 28 August 2026.  
 B. Speaker certification is wholly immune from courts.  
 C. *Rojer Mathew* finally invalidated all Money Bills.  
 D. *Puttaswamy* unanimously settled every Article 110 issue.
@@ -1768,7 +1804,7 @@ D. Rajya Sabha may remove the Union ministry.
 
 ### RM10. Women's reservation trap
 
-Which is correct as of 16 August 2026?
+Which is correct as of 28 August 2026?
 
 A. The Act remains uncommenced.  
 B. The Act commenced, but operational reservation awaits publication-linked delimitation.  
@@ -1790,14 +1826,15 @@ D. Rajya Sabha rejected it after Lok Sabha passage.
 
 ### RM12. Deputy Speaker status
 
-Which wording is safest?
+Which statement is correct on the official Lok Sabha control checked 28 August 2026?
 
 A. The Deputy Speaker's office is permanently abolished.  
 B. The Constitution requires election within thirty days.  
-C. The office is certainly vacant on 16 August 2026.  
-D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified before asserting a current vacancy.
+C. The official page dates the vacancy from 2018.  
+D. The office is vacant, and the official page dates the vacancy from May 2019.
 
-**Answer: D.** Date-qualified institutional claims avoid converting past vacancy into an unverified present fact.
+**Answer: D.** Article 93 governs election by the House; the vacancy statement is a dated official
+control and must not be converted into a timeless constitutional rule.
 
 ## Original solved Mains practice
 
@@ -1821,6 +1858,8 @@ D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified bef
 
 **Why this earns marks:** Direct thesis; two Articles; mechanism; qualification; feasible reform within 150-word scale.
 
+**How to improve this answer:** If space is tight, retain Article 85, two live accountability devices and the no-minimum-sitting-days qualification; state the reform as protected scrutiny time.
+
 ### M2. Legislative privilege is a functional immunity, not a personal impunity. Discuss with reference to *Sita Soren*. (10 marks, 150 words)
 
 **Demand decoding:** Define function, apply the case and preserve the surviving immunity.
@@ -1841,6 +1880,8 @@ D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified bef
 
 **Why this earns marks:** Definition, Article, overruled precedent, functional analysis and precise qualification.
 
+**How to improve this answer:** Keep the functional-nexus test, the overruled precedent and the acceptance-completes-bribery rule; do not imply that ordinary speech immunity disappeared.
+
 ### M3. The Money Bill procedure is necessary for popular control of finance but vulnerable to bicameral bypass. Critically examine. (15 marks, 250 words)
 
 **Demand decoding:** “Critically examine” requires the rationale, misuse risk, case law and a bounded verdict.
@@ -1855,13 +1896,15 @@ D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified bef
 
 **Judicial evidence:** *Puttaswamy (Aadhaar), 2018* upheld the Aadhaar route by 4:1; *Rojer Mathew* (2019) doubted the reasoning and referred the larger question to seven judges.
 
-**Qualification:** Textual finality is not ordinary merits appeal, yet narrow constitutional review for illegality/misuse remains. As of 16 August 2026 no visible final larger-Bench resolution was located.
+**Qualification:** Textual finality is not ordinary merits appeal, yet narrow constitutional review for illegality/misuse remains. As of 28 August 2026 no visible final larger-Bench resolution was located.
 
 **Verdict:** Popular financial control requires the special procedure, but constitutional fidelity requires strict enforcement of “only”, reasoned certification and narrow review.
 
 **Examiner comment:** Balances democratic rationale and federal cost, uses both leading cases and preserves current-status caution.
 
 **Why this earns marks:** Article -> mechanism -> consequence -> cases -> qualification -> reform verdict.
+
+**How to improve this answer:** Use a two-column rationale-versus-bypass frame; quote Article 110 only, preserve the pending-status date and avoid presenting review as a merits appeal.
 
 ### M4. Parliament's power of the purse is exercised through a chain, not a single budget vote. Analyse. (15 marks, 250 words)
 
@@ -1880,6 +1923,8 @@ D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified bef
 **Examiner comment:** The answer maps the entire cycle and differentiates charged expenditure, Public Account and Rajya Sabha's role.
 
 **Why this earns marks:** Six named constitutional/institutional units linked analytically rather than listed.
+
+**How to improve this answer:** Draw the authorisation-to-audit chain first, then add charged expenditure and Public Account as the two highest-value distinctions; omit minor grant taxonomy if necessary.
 
 ### M5. Delimitation after the population freeze is simultaneously a democratic-equality and a federal-fairness problem. Examine with reference to the women's reservation trigger. (15 marks, 250 words)
 
@@ -1903,6 +1948,8 @@ D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified bef
 
 **Why this earns marks:** Balanced normative analysis with Articles, amendments, current trigger and explicit risk controls.
 
+**How to improve this answer:** Separate democratic equality, federal fairness and Article 334A into three paragraphs; never turn the defeated 850-seat proposal or an unknown publication date into law.
+
 ### M6. “Parliament is strong in constitutional instruments but weak in their political use.” Critically examine and propose reforms. (20 marks, 250 words)
 
 **Demand decoding:** Test both halves, cover the full accountability architecture and rank reforms.
@@ -1925,6 +1972,8 @@ D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified bef
 
 **Why this earns marks:** Eight named evidence units and a memorable but qualified hardware/software verdict.
 
+**How to improve this answer:** Rank reforms by the diagnosed cause: time, information, referral and whip. In a shorter answer retain four instruments, four constraints and three matched remedies.
+
 ### M7. Evaluate whether Rajya Sabha and parliamentary committees together can compensate for executive dominance of Lok Sabha. (20 marks, 250 words)
 
 **Demand decoding:** Evaluate two institutions jointly, specify what they can and cannot compensate for, and give a degree-based judgment.
@@ -1946,6 +1995,8 @@ D. The 17th Lok Sabha had no Deputy Speaker; present status must be verified bef
 **Examiner comment:** Integrates bicameral and committee mechanisms and defines compensation by scrutiny quality rather than vote defeat alone.
 
 **Why this earns marks:** Joint institutional evaluation, exact committee evidence, structural limits and reform-linked verdict.
+
+**How to improve this answer:** Evaluate compensation by revision, information and audit rather than government defeat; preserve Money Bill, confidence and non-binding-report limits in the final paragraph.
 
 ## Final consolidated register notes
 
@@ -2005,7 +2056,8 @@ Article 329(a) -> delimitation law/allotment insulated from court challenge
 - [FACT] Office-of-profit purpose: prevent executive patronage from compromising legislative independence.
 - [FACT] Tests include appointment/removal, remuneration, governmental control and functions.
 - [FACT] Parliament (Prevention of Disqualification) Act, 1959 exempts listed offices.
-- [FACT] LoP is statutory under the 1977 Act; Core recognition control uses one-tenth.
+- [FACT] LoP is statutory under the 1977 Act; the Act itself contains no ten-percent threshold.
+- [LIMIT] Recognition practice and statutory text must not be conflated.
 - [LIMIT] Largest opposition leader and formally recognised LoP may differ.
 - **PYQ trap:** Do not invent the first Lok Sabha opposition party without exact verified source.
 
@@ -2091,7 +2143,7 @@ third reading -> second House -> President
 
 - ***Puttaswamy* (2018):** Aadhaar route upheld 4:1; dissent challenged it.
 - ***Rojer Mathew* (2019):** larger seven-judge reference.
-- [CURRENT] No visible final larger-Bench decision located by 16 August 2026.
+- [CURRENT] No visible final larger-Bench decision located by 28 August 2026.
 - [LIMIT] Safe phrase: Article 110 certificate is textually final but subject to narrow constitutional review for illegality/misuse.
 
 ### Joint sitting and lapse rules
@@ -2223,7 +2275,7 @@ CPA: Commonwealth parliamentary network
 
 ### Women's reservation three-register card
 
-| Register | Status on 16 Aug 2026 |
+| Register | Status on 28 Aug 2026 |
 |---|---|
 | Enacted/incorporated | Yes; assented September 2023; Arts 330A/332A/334A |
 | Commenced | Yes; **16 April 2026** |
@@ -2305,7 +2357,7 @@ constitutional amendment defeated; linked Bills did not pass
 7. Starred questions allow supplementaries; unstarred do not.
 8. Zero Hour is not in the Rules.
 9. Speaker survives dissolution and does not preside over own removal.
-10. Deputy Speaker current status must be verified; 17th Lok Sabha history is not present status.
+10. Official control checked 28 August 2026 dates the Deputy Speaker vacancy from May 2019.
 11. *Sita Soren* removes bribery immunity, not bona fide speech immunity.
 12. Money Bill contains only Article 110 matters.
 13. Financial Bill-I is not subject to 14-day RS restriction.
@@ -2324,5 +2376,5 @@ constitutional amendment defeated; linked Bills did not pass
 26. Census enumeration/reference date is not publication date.
 27. Never derive a 2041 women's-reservation end date.
 28. 131st Amendment/Delimitation/UT package was defeated, not enacted.
-29. *Rojer Mathew* larger issue has no visible final resolution as of 16 August 2026.
+29. *Rojer Mathew* larger issue has no visible final resolution as of 28 August 2026.
 30. Never quote a current MPLADS rupee amount without official live verification.

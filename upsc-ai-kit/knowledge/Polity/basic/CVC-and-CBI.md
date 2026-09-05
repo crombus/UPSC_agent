@@ -10,7 +10,7 @@
 | Born | **1964** (exec resolution) | **1963** (Home Min. resolution) |
 | Nature | **Statutory (CVC Act 2003)** | **NOT statutory** — runs on **DSPE Act 1946** |
 | Recommended by | **Santhanam Committee** | **Santhanam Committee** |
-| Head | Central Vigilance Commissioner + **≤2** VCs | **Director** (2-yr tenure) |
+| Head | Central Vigilance Commissioner + **≤2** VCs | **Director** (minimum 2-year tenure; annual extensions may take the total to 5 years) |
 
 ## Core idea
 Both are **anti-corruption** bodies — but **neither is constitutional**. **CVC** oversees vigilance and (only for
@@ -18,12 +18,12 @@ Both are **anti-corruption** bodies — but **neither is constitutional**. **CVC
 **state consent** to operate in states.
 
 > 🔑 **CVC panel:** PM + **Home Minister** + LoP(LS). **CBI Director panel:** PM + **CJI/SC judge** + LoP(LS).
-> 🔑 **CBI = "caged parrot"** (SC 2013) — no own statute, needs state consent.
+> 🔑 **CBI = "caged parrot"** (SC 2013 context) — executive-created organisation using DSPE Act powers; ordinary State-area operation needs consent.
 
 ## Must-Know Facts
 - ✅ CVC statutory since **2003** (after **Vineet Narain** case 1997); CBI powers from **DSPE Act 1946**.
 - ✅ CVC = multi-member (CVC + ≤2 VCs), **4-yr/65**, removed by **President** (SC inquiry).
-- ✅ CBI Director appointed by a **PM + LoP + CJI** panel; **2-yr** security of tenure.
+- ✅ CBI Director appointed by a **PM + LoP/largest-opposition-party leader + CJI/nominee** panel; minimum **2-year** tenure, extendable annually on committee recommendation and recorded reasons up to **5 years total**.
 - ✅ **CBI vs NIA:** NIA → terror; CBI → corruption/economic/organised crime.
 
 ## 📰 Current link
@@ -75,8 +75,8 @@ Both are **anti-corruption** bodies — but **neither is constitutional**. **CVC
 | ✅ **Appointment authority** | **President** | **Central Government** (Director, on committee recommendation) |
 | ✅ **Selection committee** | **Three-member**: **PM (head)** + **Union Home Minister** + **LoP (Lok Sabha)** | **Three-member (Lokpal Act, 2013)**: **PM (chair)** + **LoP / leader of the single-largest opposition party in the Lok Sabha** (**DSPE Amendment Act, 2014**) + **CJI or an SC judge nominated by him** |
 | ✅ **Composition** | **Multi-member**: Central Vigilance Commissioner (chair) + **not more than 2** Vigilance Commissioners | Headed by a **Director**; a police organisation; SP-and-above (except Director) appointed on a **CVC-chaired** committee |
-| ✅ **Tenure** | **4 years or 65**, whichever earlier | Director: **2-year minimum security of tenure** (CVC Act, 2003); ⚠️ **DSPE Amendment Act, 2021** allows annual extensions **up to 5 years** total |
-| ✅ **Removal** | By the **President** (proved misbehaviour/incapacity → **Supreme Court inquiry**) | ⚠️ Director **cannot be transferred or divested of powers without the prior approval of the appointing committee** (***Common Cause v. Union of India*, 2019**) |
+| ✅ **Tenure** | **4 years or 65**, whichever earlier | Director: **2-year minimum security of tenure**; the **DSPE Amendment Act, 2021** permits one-year extensions on committee recommendation and recorded reasons, up to **5 years total** |
+| ✅ **Removal / transfer safeguard** | By the **President** (proved misbehaviour/incapacity → **Supreme Court inquiry/report**) | Director **cannot be transferred or divested of powers without prior approval of the appointing committee**; do not mislabel this as the complete removal code |
 | ✅ **Powers (binding?)** | **Civil-court powers** for inquiries; **advisory — advice NOT binding** (government records reasons to differ); superintendence over the CBI **only for Prevention of Corruption Act, 1988 offences** | Investigates and files charge sheets; but its **extension into a State needs consent (DSPE Section 6)**; prosecution needs **sanction** (**Section 17A/19, PC Act**) |
 | ✅ **Appeal / enforcement limit** | Cannot compel or punish — only recommends | Cannot operate in a State without consent; **but constitutional courts can override consent** (*WB v. CPDR*, 2010) |
 | ✅ **Independence safeguards** | Statutory status, fixed tenure, SC-inquiry removal, salary parity (**CVC = UPSC Chairman; VC = UPSC member**) | Director's fixed tenure and committee appointment (**Vineet Narain, 1997; Lokpal Act, 2013**) — **but no statutory charter of its own** |
@@ -96,7 +96,7 @@ Both are **anti-corruption** bodies — but **neither is constitutional**. **CVC
 - **Claim:** the CVC is the statutory integrity apex, but a late one. **Evidence:** recommended by the **Santhanam Committee (1962–64)**, set up by **executive resolution in 1964**, and given **statutory status only by the CVC Act, 2003** after the Supreme Court's directions in the **Vineet Narain / Jain Hawala case (1997)**. **Significance:** its independence is a post-*Vineet Narain* judicial achievement, not an original design. **Limitation:** statutory status did not make its advice binding.
 - **Claim:** the CVC's control over the CBI is partial. **Evidence:** it exercises **superintendence over the CBI only for Prevention of Corruption Act, 1988 offences**; for all other CBI work superintendence rests with the **Central Government**. **Significance:** this split is a favourite Prelims/Mains distinction. **Limitation:** it fragments accountability for the CBI.
 - **Claim:** the CVC recommends but cannot enforce. **Evidence:** it has **civil-court powers** for inquiries and reports to Parliament, yet its **advice is not binding** — the government need only record reasons to differ. **Significance:** it is a recommendatory body like the NHRC, unlike the binding Information Commission. **Limitation:** this is the structural cap on its effectiveness.
-- **Claim:** the CVC's remit extends beyond advising on cases. **Evidence:** it is the designated authority under the **Public Interest Disclosure (PIDPI/"whistle-blower") Resolution, 2004** and the **Whistle Blowers Protection Act, 2014**, and it **chairs the committee recommending the ED Director** and CBI officers of SP-and-above (except the Director). **Significance:** it sits at the centre of the anti-corruption appointments and disclosure architecture. **Limitation/status:** ⚠️ whistle-blower protection remains weak in practice as the 2014 Act's full operationalisation has lagged.
+- **Claim:** the CVC's remit extends beyond advising on cases. **Evidence:** it is the designated agency under the **Public Interest Disclosure and Protection of Informers (PIDPI) Resolution, 2004** and participates in statutory appointment/oversight committees. **Significance:** it sits at the centre of the Union vigilance architecture. **Limitation/status:** the **Whistle Blowers Protection Act, 2014** must not be presented as an operational source of CVC authority unless commencement is verified; PIDPI is the current operative disclosure route taught here.
 
 ### 5.7 Bank D — The investigative/economic-intelligence ecosystem (exact statutory sources; routed 2026 Prelims demand)
 

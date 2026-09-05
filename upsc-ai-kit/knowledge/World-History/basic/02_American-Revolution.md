@@ -192,3 +192,27 @@ Do not merge them into a single "Atlantic revolution" — see `basic/01` §8.6.
 World History → Age of Revolutions → American Revolution
 World History → `basic/01` §8.6 for the disciplined Atlantic comparison
 World History → `advanced/02_American-Revolution.md` for the "how revolutionary" historiography (optional)
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** imperial tightening after 1763; taxation, representation and
+  colonial self-government; resistance and war; Declaration, alliance,
+  surrender, legal recognition and constitutional settlement; and the
+  Revolution's political radicalism alongside social exclusions.
+- **Boundary:** Topic 01 owns the Enlightenment comparison and Topic 03 owns
+  the French Revolution. Topic 02 uses those bridges only to explain the
+  American break with empire, federal republican construction and its limits.
+- **Date control:** Stamp Act (1765), Boston Tea Party (1773), First
+  Continental Congress (1774), Lexington-Concord (1775), Declaration
+  (4 July 1776), Saratoga (1777), French alliance (1778), Yorktown (1781),
+  Paris (1783), Constitution in force (1789) and Bill of Rights (1791) are
+  separate stages.
+- **Mechanism control:** Saratoga internationalised the war, Yorktown supplied
+  decisive surrender and Paris supplied legal recognition; political
+  sovereignty changed while slavery, Native dispossession, property limits and
+  women's exclusion survived.
+- **Verified PYQ/current ownership, 2018-2025:** the 2019 GS-I demand is a
+  verified neutral cross-cutting route shared with Topic 03. America250's
+  official site, rechecked 4 September 2026, supports only the dated current
+  claim that it is a bipartisan initiative for the United States' 250th
+  anniversary; it does not prove a historical interpretation.

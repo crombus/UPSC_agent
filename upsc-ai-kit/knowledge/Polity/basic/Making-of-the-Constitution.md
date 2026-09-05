@@ -64,8 +64,9 @@ The committee sat for **141 days**.
 
 ## 8. 📰 Current link
 
-📰 **26 November = Constitution Day (Samvidhan Divas)** since 2015. **2024** marked **75 years** of
-the Constitution's adoption.
+📰 **26 November = Constitution Day (Samvidhan Divas)** by Government of India designation since
+2015. The Union's year-long **75th-anniversary commemoration began on 26 November 2024**; use it as
+a dated illustration, not as timeless current affairs.
 
 ➡️ The committee list and chairmen, the Independence-Act changes, the enactment stages, the criticism
 and the Mains angles are all held **in this file**.
@@ -99,7 +100,7 @@ and the Mains angles are all held **in this file**.
 |---:|---|---|
 | 10 | Thesis → two criticisms + replies → one strength (Objectives Resolution / inclusivity) → verdict | 3–4 named facts |
 | 15 | Thesis → composition → representativeness debate → sovereignty debate → deliberative quality → verdict | 5–6 units |
-| 20 | Thesis → Cabinet Mission composition → committees/process → each criticism with reply → Objectives Resolution → deliberative achievement → graded verdict | 7–8 units incl. a committee/chair table |
+| 20 | Thesis → Cabinet Mission composition → committees/process → each criticism with reply → Objectives Resolution → deliberative achievement → graded verdict | 250 words; 7–8 units incl. a committee/chair table |
 
 ### 9.4 Bank A — Composition and process (the factual base)
 
@@ -118,7 +119,9 @@ and the Mains angles are all held **in this file**.
 | ✅ Rules of Procedure Committee | Rajendra Prasad |
 | ✅ Steering Committee | Rajendra Prasad |
 
-- ⚠️ Chair count: **Nehru 3, Prasad 3, Patel 2** — a common Prelims discriminator. **Drafting Committee = 7 members**, sat **141 days**.
+- ⚠️ Among the **eight major committees listed above**, the chair count is **Nehru 3, Patel 2,
+  Rajendra Prasad 2 and Ambedkar 1**. Do not inflate Prasad's major-committee count by mixing in
+  other committees. **Drafting Committee = 7 members**, sat **141 days**.
 
 ### 9.5 Bank B — Criticisms with replies (the core Mains device)
 
@@ -126,10 +129,10 @@ and the Mains angles are all held **in this file**.
 |---|---|---|
 | ✅ **Not a representative body** — no direct election on adult franchise | ⚠️ true in form | ⚠️ adult-franchise election was impossible in 1946 (no rolls; partition flux); the Assembly still seated Hindus, Muslims, Sikhs, Parsis, Anglo-Indians, Christians, SCs, STs and women |
 | ✅ **Not a sovereign body** — a British creation | ⚠️ true at origin | ✅ the **Indian Independence Act 1947** made it **fully sovereign** — free to frame any constitution and repeal British Acts |
-| ✅ **Congress-dominated** (Austin: "the Assembly was the Congress and the Congress was India") | ⚠️ arithmetically true | ⚠️ the Congress was an ideological umbrella that **co-opted non-Congress experts** (Ambedkar, Ayyar, Munshi, Saadullah) and heard dissent |
+| ✅ **Congress-dominated** (Austin: "the Assembly was the Congress and the Congress was India") | ⚠️ arithmetically true | ⚠️ the Congress contained substantial ideological and provincial diversity; the Assembly also included non-Congress figures such as Ambedkar and Alladi Krishnaswami Ayyar. Do not misclassify Congress member K.M. Munshi as a non-Congress co-option |
 | ✅ **Lawyer-politician dominated** | ⚠️ true of the drafting core | ⚠️ legal precision produced a workable text; minorities, women and labour were represented on the advisory committees |
 | ✅ **Time-consuming** (Naziruddin Ahmed: "Drifting Committee"; US took ~4 months) | ⚠️ longer than some | ✅ it studied ~**60 constitutions**, debated the draft **114 days** across **11 sessions** over **2 years, 11 months, 18 days** — thoroughness, not drift |
-| ✅ **Hindu-dominated** (Simon: "a body of Hindus"; Churchill: "only one major community") | ⚠️ post-partition arithmetic | ⚠️ this followed the **League's boycott**, not the Assembly's design; it represented all who chose to participate |
+| ✅ **Hindu-dominated** (Simon: "a body of Hindus"; Churchill: "only one major community") | ⚠️ post-partition arithmetic | ⚠️ the League boycott and Partition sharply reduced Muslim participation, while the Assembly still contained minority voices; this mitigates but does not erase the representational deficit |
 
 ### 9.6 Bank C — Objectives Resolution and the value base
 
@@ -160,7 +163,10 @@ and the Mains angles are all held **in this file**.
 
 - ⚠️ **Variation within the "Congress" bloc:** the Congress majority spanned socialists, Gandhians, liberals and conservatives, so "one-party domination" understates the ideological spread that had to be reconciled.
 - ⚠️ **Minority/tribal representation:** advisory committees on minorities and on tribal/excluded areas (Patel; Bardoloi; Thakkar) gave non-majority voices a structured channel, tempering the "Hindu-dominated" charge.
-- ⚠️ **Implementation constraint:** partition (strength **389 → 299**), communal violence and the absence of electoral rolls made a directly elected, universal-franchise Assembly impossible in 1946 — the constraint against which every criticism must be measured.
+- ⚠️ **Implementation constraint:** the restricted colonial franchise, lack of universal electoral
+  rolls, impending Partition and communal violence made a fresh adult-franchise election
+  administratively and politically difficult. State this as a constraint, not as proof that direct
+  election was literally impossible.
 
 ### 9.9 Verdict scaffolds
 

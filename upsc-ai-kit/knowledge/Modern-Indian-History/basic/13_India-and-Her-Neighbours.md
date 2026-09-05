@@ -176,3 +176,18 @@
 - Lower Burma was annexed in **1852** (Dalhousie) and Upper Burma in **1885** (Dufferin).
 - Burma remained part of British India until **1937**.
 - Do not assert the modern legal status of any colonial-era boundary line; confine claims to the historical agreement and its date.
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Afghanistan, Burma, Nepal, Tibet and North-West Frontier
+  strategy; close-border/masterly-inactivity/forward debates; war-treaty
+  chronology; buffers, annexation, frontier administration, cost and legacy.
+- **Boundary:** Topic 05 owns the general expansion-state mechanism; Topic 12
+  owns Crown governance; current IR, Geography and post-1947 legal claims are
+  outside this historical owner.
+- **Mechanism control:** Yandabo=Burma, Sugauli/Sagauli=Nepal and
+  Gandamak=Afghanistan; Durand 1893 is not Younghusband 1903-04; a forward
+  policy need not mean annexation and modern boundary status is not inferred.
+- **Verified PYQ ownership, 2018-2026:** zero direct Modern-History routes.
+  All historical questions are original practice; current-neighbour questions
+  remain outside this owner.

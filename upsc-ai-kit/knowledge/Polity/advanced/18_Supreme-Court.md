@@ -14,8 +14,9 @@ adopted from **GoI Act 1935**; enforces **both** Central & state laws (unlike th
 as the highest court of appeal. **Articles 124–147 (Part V).**
 
 ## Composition ⭐
-✅ Present strength = **34 (1 CJI + 33 judges)** — raised from 31 by the **Supreme Court (Number of Judges)
-Amendment Act, 2019**. Originally **8** (1949).
+✅ **Sanctioned strength = 34 (1 CJI + 33 judges)** — raised from 31 by the **Supreme Court (Number of
+Judges) Amendment Act, 2019**. Originally **8** (1949). 📰 The official sitting-judges roster listed
+**34 judges on 28 August 2026**, so working strength equalled sanctioned strength on that control date.
 
 ---
 
@@ -30,16 +31,19 @@ Amendment Act, 2019**. Originally **8** (1949).
 | ✅ **Third Judges** | 1998 | collegium = **CJI + 4 seniormost** SC judges; plurality of judges |
 | ✅ **Fourth Judges (NJAC)** | 2015 | struck down **99th Amdt + NJAC Act 2014** as unconstitutional (violates judicial independence) → collegium restored |
 
-⚠️ **CJI appointment convention:** seniormost SC judge (broken in 1973 A.N. Ray & 1977 M.H. Beg by
-supersession; **Second Judges Case (1993)** restored seniority rule).
+⚠️ **CJI appointment convention:** the seniormost SC judge considered fit is ordinarily appointed. The
+convention was broken in 1973 (A.N. Ray) and 1977 (M.H. Beg); it is reflected in the current Memorandum
+of Procedure but is not an express constitutional rule.
 
 ## Qualifications, tenure, removal ⭐
 ✅ Citizen of India + **5 yrs HC judge / 10 yrs HC advocate / "distinguished jurist"**. **No minimum age.**
-Holds office till **65 years**; resigns to President. **Removal (impeachment):** by President after **special
+Holds office till **65 years**; resigns to President. **Removal (not constitutional “impeachment”):** by President after **special
 majority** of both Houses on grounds of **proved misbehaviour or incapacity**, per the **Judges Enquiry Act
 1968** (motion by 100 LS / 50 RS members → 3-member inquiry committee). ✅ **No SC judge has ever been
-removed** (V. Ramaswami 1991-93 survived — Congress abstained). ✅ Salary charged on **Consolidated Fund**;
-can't be varied to disadvantage (except financial emergency).
+removed** (V. Ramaswami 1991-93 survived — Congress abstained). ✅ Judges' salaries are charged on the
+**Consolidated Fund of India under Article 112(3)(d)(i)**; Article 125 protects service conditions from
+disadvantage after appointment, except during a financial emergency. Article 146(3) separately charges
+the Court's administrative expenses on the Fund.
 
 ---
 

@@ -1,0 +1,1099 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-09",
+  "subject": "Social-Justice",
+  "title": "OBC, EWS AND SOCIAL MOBILITY",
+  "short_route": "TWO ROUTES, TWO LOGICS → LAW BANK → LIST-MAKING LADDER → COMMISSION STATUS CARD → CREAMY-LAYER TEST → AMENDMENT AND JUDGMENT SEQUENCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-09\\social-justice-09_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-09-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "19bbe288342cca6189d948e261ac87d89fa727ddc56d8c92a83deb24711836ac",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO ROUTES, TWO LOGICS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO ROUTES, TWO LOGICS",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL AND EDUCATIONAL BACKWARDNESS OR PURE ECONOMIC WEAKNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTE A",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 15(4) AND ARTICLE 16(4); LISTED CLASSES; 27 PER",
+          "role": "institution"
+        },
+        {
+          "text": "ROUTE B",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 15(6) AND ARTICLE 16(6); UP TO 10 PER",
+          "role": "institution"
+        },
+        {
+          "text": "EVIDENCE A",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNITY BACKWARDNESS; EVIDENCE B",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISADVANTAGE → social and educational backwardness OR pure economic weakness",
+        "ROUTE A: Article 15(4) and Article 16(4); listed classes; 27 per cent; creamy-layer filter",
+        "ROUTE B: Article 15(6) and Article 16(6); up to 10 per cent; excludes SC, ST",
+        "EVIDENCE A: community backwardness; EVIDENCE B: notified income and asset test",
+        "TEST → neither route supplies the other route's evidence or its filter"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "DISADVANTAGE → social and educational backwardness OR pure economic weakness",
+            "ROUTE A: Article 15(4) and Article 16(4); listed classes; 27 per cent; creamy-layer filter"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ROUTE B: Article 15(6) and Article 16(6); up to 10 per cent; excludes SC, ST and OBC",
+            "EVIDENCE A: community backwardness; EVIDENCE B: notified income and asset test"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → neither route supplies the other route's evidence or its filter",
+            "DISADVANTAGE → social and educational backwardness OR pure economic weakness"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → neither route supplies the other route's evidence or its filter.",
+      "source_references": [
+        "What this owner holds and why its previous-year record is stated as zero",
+        "The constitutional and statutory bank for a backward-class answer"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAW BANK",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAW BANK",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 15(4) AND 16(4)",
+          "role": "institution"
+        },
+        {
+          "text": "SPECIAL PROVISION AND RESERVATION FOR BACKWARD CLASSES",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 342A",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL LIST; PRESIDENT SPECIFIES; PARLIAMENT ALONE INCLUDES OR EXCLUDES",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 338B",
+          "role": "institution"
+        },
+        {
+          "text": "THE NATIONAL COMMISSION FOR BACKWARD CLASSES, INSERTED IN 2018",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 15(6) AND 16(6)",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 15(4) AND 16(4) → special provision and reservation for backward classes",
+        "ARTICLE 342A → Central List; President specifies; Parliament alone includes or excludes",
+        "ARTICLE 338B → the national commission for backward classes, inserted in 2018",
+        "ARTICLE 15(6) AND 16(6) → economically weaker sections, inserted in 2019",
+        "STATUTE → National Commission for Backward Classes Act, 1993, later repealed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "ARTICLE 15(4) AND 16(4) → special provision and reservation for backward classes",
+            "ARTICLE 342A → Central List; President specifies; Parliament alone includes or excludes"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 338B → the national commission for backward classes, inserted in 2018",
+            "ARTICLE 15(6) AND 16(6) → economically weaker sections, inserted in 2019"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUTE → National Commission for Backward Classes Act, 1993, later repealed",
+            "ARTICLE 15(4) AND 16(4) → special provision and reservation for backward classes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUTE → National Commission for Backward Classes Act, 1993, later repealed.",
+      "source_references": [
+        "The constitutional and statutory bank for a backward-class answer",
+        "The Central List route under Article 342A"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LIST-MAKING LADDER",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIST-MAKING LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNITY BACKWARDNESS EXAMINED AGAINST SOCIAL AND EDUCATIONAL INDICATORS",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMISSION EXAMINES INCLUSION OR EXCLUSION REQUESTS AND ADVISES",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENT SPECIFIES THE CENTRAL LIST UNDER ARTICLE 342A",
+          "role": "institution"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → community backwardness examined against social and educational indicators",
+        "STEP 2 → commission examines inclusion or exclusion requests and advises",
+        "STEP 3 → President specifies the Central List under Article 342A",
+        "STEP 4 → Parliament alone varies that list by including or excluding a community",
+        "PARALLEL → States prepare their own lists for State purposes after the 105th Amendment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STEP 1 → community backwardness examined against social and educational indicators",
+            "STEP 2 → commission examines inclusion or exclusion requests and advises"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → President specifies the Central List under Article 342A",
+            "STEP 4 → Parliament alone varies that list by including or excluding a community"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARALLEL → States prepare their own lists for State purposes after the 105th Amendment",
+            "STEP 1 → community backwardness examined against social and educational indicators"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARALLEL → States prepare their own lists for State purposes after the 105th Amendment.",
+      "source_references": [
+        "The Central List route under Article 342A",
+        "State lists and the restoration effected by the 105th Amendment"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COMMISSION STATUS CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMMISSION STATUS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "UNDER THE ACT OF 1993 DATED 2 APRIL 1993",
+          "role": "institution"
+        },
+        {
+          "text": "THE 1993 ACT, THROUGH THE REPEAL ACT OF 2018",
+          "role": "institution"
+        },
+        {
+          "text": "EIGHTH COMMISSION, 102ND AMENDMENT DATED 11 AUGUST 2018, ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "CHAIRPERSON, VICE-CHAIRPERSON AND THREE OTHER MEMBERS",
+          "role": "primary"
+        },
+        {
+          "text": "SECRETARY TO THE GOVERNMENT OF INDIA; CONDITIONS NOTIFIED ON",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTED → under the Act of 1993 dated 2 April 1993; reconstituted seven times to",
+        "REPEALED → the 1993 Act, through the Repeal Act of 2018 dated 14 August 2018",
+        "ELEVATED → eighth commission, 102nd Amendment dated 11 August 2018, Article 338B inserted",
+        "COMPOSITION → Chairperson, Vice-Chairperson and three other Members",
+        "RANK → Secretary to the Government of India; conditions notified on 23 August 2018"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CONSTITUTED → under the Act of 1993 dated 2 April 1993; reconstituted seven times to 2016",
+          "ELEVATED → eighth commission, 102nd Amendment dated 11 August 2018, Article 338B inserted",
+          "RANK → Secretary to the Government of India; conditions notified on 23 August 2018"
+        ],
+        [
+          "REPEALED → the 1993 Act, through the Repeal Act of 2018 dated 14 August 2018",
+          "COMPOSITION → Chairperson, Vice-Chairperson and three other Members",
+          "CONSTITUTED → under the Act of 1993 dated 2 April 1993; reconstituted seven times to 2016"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CONSTITUTED → under the Act of 1993 dated 2 April 1993; reconstituted seven times to 2016",
+            "REPEALED → the 1993 Act, through the Repeal Act of 2018 dated 14 August 2018"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ELEVATED → eighth commission, 102nd Amendment dated 11 August 2018, Article 338B inserted",
+            "COMPOSITION → Chairperson, Vice-Chairperson and three other Members"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RANK → Secretary to the Government of India; conditions notified on 23 August 2018",
+            "CONSTITUTED → under the Act of 1993 dated 2 April 1993; reconstituted seven times to 2016"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RANK → Secretary to the Government of India; conditions notified on 23 August 2018.",
+      "source_references": [
+        "The commission's own account of its constitutional status"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CREAMY-LAYER TEST",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CREAMY-LAYER TEST",
+          "role": "primary"
+        },
+        {
+          "text": "LIMB 1 STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTIFIED PARENTAL SERVICE AND STATUS CATEGORIES EXCLUDE THE APPLICANT",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMB 2 INCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "CEILING OF ₹8 LAKH APPLIED OVER THREE CONSECUTIVE YEARS",
+          "role": "primary"
+        },
+        {
+          "text": "SALARY INCOME AND AGRICULTURAL-LAND INCOME ARE NOT SIMPLY CLUBBED",
+          "role": "caution"
+        },
+        {
+          "text": "THE FILTER RUNS INSIDE THE OTHER BACKWARD CLASSES ONLY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSFERRING THE FILTER TO SCHEDULED CASTE OR SCHEDULED TRIBE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LIMB 1 STATUS → notified parental service and status categories exclude the applicant",
+        "LIMB 2 INCOME → ceiling of ₹8 lakh applied over three consecutive years",
+        "EXCLUSIONS → salary income and agricultural-land income are not simply clubbed in",
+        "SCOPE → the filter runs inside the other backward classes only",
+        "ERROR → transferring the filter to Scheduled Caste or Scheduled Tribe reservation"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "LIMB 1 STATUS → notified parental service and status categories exclude the applicant",
+          "EXCLUSIONS → salary income and agricultural-land income are not simply clubbed in",
+          "ERROR → transferring the filter to Scheduled Caste or Scheduled Tribe reservation"
+        ],
+        [
+          "LIMB 2 INCOME → ceiling of ₹8 lakh applied over three consecutive years",
+          "SCOPE → the filter runs inside the other backward classes only",
+          "LIMB 1 STATUS → notified parental service and status categories exclude the applicant"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LIMB 1 STATUS → notified parental service and status categories exclude the applicant",
+            "LIMB 2 INCOME → ceiling of ₹8 lakh applied over three consecutive years"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EXCLUSIONS → salary income and agricultural-land income are not simply clubbed in",
+            "SCOPE → the filter runs inside the other backward classes only"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "ERROR → transferring the filter to Scheduled Caste or Scheduled Tribe reservation",
+            "LIMB 1 STATUS → notified parental service and status categories exclude the applicant"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → transferring the filter to Scheduled Caste or Scheduled Tribe reservation.",
+      "source_references": [
+        "The creamy layer is a status test before it is an income test",
+        "Creamy layer is confined to the other backward classes"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AMENDMENT AND JUDGMENT SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AMENDMENT AND JUDGMENT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "INDRA SAWHNEY UPHOLDS 27 PER CENT, MANDATES CREAMY LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "102ND AMENDMENT INSERTS ARTICLE 338B AND ARTICLE 342A; THE",
+          "role": "institution"
+        },
+        {
+          "text": "103RD AMENDMENT INSERTS ARTICLE 15(6) AND ARTICLE 16(6) FOR",
+          "role": "institution"
+        },
+        {
+          "text": "MARATHA RESERVATION READING CENTRALISES LIST-MAKING; 105TH AMENDMENT RESTORES STATES",
+          "role": "primary"
+        },
+        {
+          "text": "JANHIT ABHIYAN UPHOLDS THE ECONOMIC CRITERION BY A MAJORITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1992 → Indra Sawhney upholds 27 per cent, mandates creamy layer, states the 50 per",
+        "2018 → 102nd Amendment inserts Article 338B and Article 342A; the 1993 Act is repealed",
+        "2019 → 103rd Amendment inserts Article 15(6) and Article 16(6) for economic weakness",
+        "2021 → Maratha reservation reading centralises list-making; 105th Amendment restores States",
+        "2022 → Janhit Abhiyan upholds the economic criterion by a majority of three to two"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "1992 → Indra Sawhney upholds 27 per cent, mandates creamy layer, states the 50 per cent ceiling",
+            "2018 → 102nd Amendment inserts Article 338B and Article 342A; the 1993 Act is repealed"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "2019 → 103rd Amendment inserts Article 15(6) and Article 16(6) for economic weakness",
+            "2021 → Maratha reservation reading centralises list-making; 105th Amendment restores States"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "2022 → Janhit Abhiyan upholds the economic criterion by a majority of three to two",
+            "1992 → Indra Sawhney upholds 27 per cent, mandates creamy layer, states the 50 per cent ceiling"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2022 → Janhit Abhiyan upholds the economic criterion by a majority of three to two.",
+      "source_references": [
+        "What Indra Sawhney decided in 1992",
+        "State lists and the restoration effected by the 105th Amendment",
+        "Janhit Abhiyan in November 2022 and the shape of the disagreement"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ECONOMIC-CRITERION CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ECONOMIC-CRITERION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DEPARTMENT OF PERSONNEL AND TRAINING NOTIFICATION DATED 31 JANUARY",
+          "role": "outcome"
+        },
+        {
+          "text": "GROSS ANNUAL FAMILY INCOME BELOW ₹8 LAKH",
+          "role": "comparison"
+        },
+        {
+          "text": "FAMILY MUST NOT OWN FIVE ACRES OR MORE OF",
+          "role": "caution"
+        },
+        {
+          "text": "NO RESIDENTIAL FLAT OF 1,000 SQ FT OR MORE",
+          "role": "caution"
+        },
+        {
+          "text": "NO PLOT OF 100 SQ YARDS IN A NOTIFIED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NOTIFIED → Department of Personnel and Training notification dated 31 January 2019",
+        "INCOME → gross annual family income below ₹8 lakh",
+        "LAND → family must not own five acres or more of agricultural land",
+        "BUILT → no residential flat of 1,000 sq ft or more",
+        "PLOT → no plot of 100 sq yards in a notified municipality or 200 sq"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "NOTIFIED → Department of Personnel and Training notification dated 31 January 2019",
+          "LAND → family must not own five acres or more of agricultural land",
+          "PLOT → no plot of 100 sq yards in a notified municipality or 200 sq yards elsewhere"
+        ],
+        [
+          "INCOME → gross annual family income below ₹8 lakh",
+          "BUILT → no residential flat of 1,000 sq ft or more",
+          "NOTIFIED → Department of Personnel and Training notification dated 31 January 2019"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NOTIFIED → Department of Personnel and Training notification dated 31 January 2019",
+            "INCOME → gross annual family income below ₹8 lakh"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LAND → family must not own five acres or more of agricultural land",
+            "BUILT → no residential flat of 1,000 sq ft or more"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLOT → no plot of 100 sq yards in a notified municipality or 200 sq yards elsewhere",
+            "NOTIFIED → Department of Personnel and Training notification dated 31 January 2019"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLOT → no plot of 100 sq yards in a notified municipality or 200 sq yards elsewhere.",
+      "source_references": [
+        "The notified income and asset criteria for that category"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SAME FIGURE, DIFFERENT TEST",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SAME FIGURE, DIFFERENT TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CREAMY LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "₹8 LAKH SINCE SEPTEMBER 2017; THREE CONSECUTIVE YEARS",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTIFIED PARENTAL SERVICE AND STATUS CATEGORIES; SALARY AND LAND",
+          "role": "evidence"
+        },
+        {
+          "text": "ECONOMIC CRITERION",
+          "role": "primary"
+        },
+        {
+          "text": "₹8 LAKH SINCE JANUARY 2019; GROSS ANNUAL FAMILY INCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTIFIED LAND, FLAT AND PLOT ASSET LIMITS, UNCHANGED SINCE",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTICAL ARITHMETIC PROVES NOTHING ABOUT IDENTICAL ELIGIBILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CREAMY LAYER → ₹8 lakh since September 2017; three consecutive years",
+        "PLUS → notified parental service and status categories; salary and land income excluded",
+        "ECONOMIC CRITERION → ₹8 lakh since January 2019; gross annual family income",
+        "PLUS → notified land, flat and plot asset limits, unchanged since 2019",
+        "RULE → identical arithmetic proves nothing about identical eligibility"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "CREAMY LAYER → ₹8 lakh since September 2017; three consecutive years",
+          "ECONOMIC CRITERION → ₹8 lakh since January 2019; gross annual family income",
+          "RULE → identical arithmetic proves nothing about identical eligibility"
+        ],
+        [
+          "PLUS → notified parental service and status categories; salary and land income excluded",
+          "PLUS → notified land, flat and plot asset limits, unchanged since 2019",
+          "CREAMY LAYER → ₹8 lakh since September 2017; three consecutive years"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CREAMY LAYER → ₹8 lakh since September 2017; three consecutive years",
+            "PLUS → notified parental service and status categories; salary and land income excluded"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ECONOMIC CRITERION → ₹8 lakh since January 2019; gross annual family income",
+            "PLUS → notified land, flat and plot asset limits, unchanged since 2019"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → identical arithmetic proves nothing about identical eligibility",
+            "CREAMY LAYER → ₹8 lakh since September 2017; three consecutive years"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → identical arithmetic proves nothing about identical eligibility.",
+      "source_references": [
+        "Why two identical rupee figures are two different legal tests"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "JUDGMENT SPLIT",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "JUDGMENT SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVATION FOR ECONOMICALLY WEAKER SECTIONS IS CONSTITUTIONALLY VALID",
+          "role": "outcome"
+        },
+        {
+          "text": "AN ECONOMIC CRITERION ALONE CAN GROUND AFFIRMATIVE ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCEEDING THE CEILING FOR A NEW CATEGORY DOES NOT",
+          "role": "caution"
+        },
+        {
+          "text": "EXCLUDING THE RESERVED CATEGORIES FROM A NEW BENEFIT DENIES",
+          "role": "primary"
+        },
+        {
+          "text": "THREE TO TWO, SO THE DISAGREEMENT IS PART OF",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HELD → reservation for economically weaker sections is constitutionally valid",
+        "MAJORITY → an economic criterion alone can ground affirmative action",
+        "MAJORITY → exceeding the ceiling for a new category does not breach the basic structure",
+        "DISSENT → excluding the reserved categories from a new benefit denies substantive equality",
+        "MARGIN → three to two, so the disagreement is part of the holding's meaning"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "HELD → reservation for economically weaker sections is constitutionally valid",
+            "MAJORITY → an economic criterion alone can ground affirmative action"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "MAJORITY → exceeding the ceiling for a new category does not breach the basic structure",
+            "DISSENT → excluding the reserved categories from a new benefit denies substantive equality"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MARGIN → three to two, so the disagreement is part of the holding's meaning",
+            "HELD → reservation for economically weaker sections is constitutionally valid"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MARGIN → three to two, so the disagreement is part of the holding's meaning.",
+      "source_references": [
+        "Janhit Abhiyan in November 2022 and the shape of the disagreement"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DISTRIBUTION PROBLEM",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DISTRIBUTION PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "27 PER CENT FOR THE OTHER BACKWARD CLASSES AS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCENTRATION OF BENEFIT IN RELATIVELY ADVANCED COMMUNITIES WITHIN THE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUB-CATEGORISATION OF THE QUOTA AMONG SUB-GROUPS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAMINED BY",
+          "role": "primary"
+        },
+        {
+          "text": "THE COMMISSION SET UP IN 2017; IMPLEMENTATION PENDING AS",
+          "role": "outcome"
+        },
+        {
+          "text": "BACKWARDNESS AND REPRESENTATION DATA FOR EACH SUB-GROUP",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "QUOTA → 27 per cent for the other backward classes as a single undivided block",
+        "OBSERVED → concentration of benefit in relatively advanced communities within the block",
+        "PROPOSAL → sub-categorisation of the quota among sub-groups",
+        "EXAMINED BY → the commission set up in 2017; implementation pending as of mid-2026",
+        "REQUIREMENT → backwardness and representation data for each sub-group"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "QUOTA → 27 per cent for the other backward classes as a single undivided block",
+            "OBSERVED → concentration of benefit in relatively advanced communities within the block"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "PROPOSAL → sub-categorisation of the quota among sub-groups",
+            "EXAMINED BY → the commission set up in 2017; implementation pending as of mid-2026"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REQUIREMENT → backwardness and representation data for each sub-group",
+            "QUOTA → 27 per cent for the other backward classes as a single undivided block"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REQUIREMENT → backwardness and representation data for each sub-group.",
+      "source_references": [
+        "Sub-categorisation and the commission that examined it",
+        "The identification paradox that constrains policy feedback"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DATA GAP",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DATA GAP",
+          "role": "primary"
+        },
+        {
+          "text": "LAST PUBLISHED ALL-CASTE TABLES",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIO-ECONOMIC AND CASTE CENSUS 2011",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE DATA NEVER RELEASED OR VALIDATED FOR POLICY",
+          "role": "evidence"
+        },
+        {
+          "text": "CABINET COMMITTEE ON POLITICAL AFFAIRS, 30 APRIL 2025, TO",
+          "role": "primary"
+        },
+        {
+          "text": "ALL-DIGITAL 2027 CENSUS; HOUSELISTING NOTIFIED 1 APRIL TO 30",
+          "role": "outcome"
+        },
+        {
+          "text": "AN APPROVED OPERATION IS NOT A PUBLISHED DATASET AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAST PUBLISHED ALL-CASTE TABLES → 1931",
+        "SOCIO-ECONOMIC AND CASTE CENSUS 2011 → caste data never released or validated for policy",
+        "DECISION → Cabinet Committee on Political Affairs, 30 April 2025, to enumerate caste",
+        "OPERATION → all-digital 2027 Census; houselisting notified 1 April to 30 September 2026",
+        "BOUNDARY → an approved operation is not a published dataset and validates no formula"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OFFICIAL EVIDENCE / DATE",
+          "role": "evidence",
+          "items": [
+            "LAST PUBLISHED ALL-CASTE TABLES → 1931",
+            "SOCIO-ECONOMIC AND CASTE CENSUS 2011 → caste data never released or validated for policy"
+          ]
+        },
+        {
+          "heading": "WHAT IT PROVES",
+          "role": "mechanism",
+          "items": [
+            "DECISION → Cabinet Committee on Political Affairs, 30 April 2025, to enumerate caste",
+            "OPERATION → all-digital 2027 Census; houselisting notified 1 April to 30 September 2026"
+          ]
+        },
+        {
+          "heading": "CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → an approved operation is not a published dataset and validates no formula",
+            "LAST PUBLISHED ALL-CASTE TABLES → 1931"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → an approved operation is not a published dataset and validates no formula.",
+      "source_references": [
+        "The caste-data gap and what the 2011 socio-economic survey did not settle",
+        "The 2027 enumeration decision and its exact status"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ENTRY AGAINST CONVERSION",
+      "structural_type": "comparison",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ENTRY AGAINST CONVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVATION SLOTS FILLED AND SCHOLARSHIPS DISBURSED IN A REPORTING",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST-GENERATION ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FIRST FAMILY MEMBER REACHING HIGHER EDUCATION OR SERVICE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE NEXT GENERATION EXCEEDING THE BENEFICIARY IN EDUCATION AND",
+          "role": "primary"
+        },
+        {
+          "text": "CHILDREN RE-ACCESSING THE SAME RESERVATION WITHOUT PROGRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO MAINS OR OBJECTIVE DEMAND IS ROUTED HERE AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COVERAGE → reservation slots filled and scholarships disbursed in a reporting year",
+        "FIRST-GENERATION ACCESS → the first family member reaching higher education or service",
+        "MOBILITY → the next generation exceeding the beneficiary in education and occupation",
+        "STAGNATION → children re-accessing the same reservation without progression",
+        "OWNERSHIP → no Mains or objective demand is routed here and none is manufactured"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "COVERAGE → reservation slots filled and scholarships disbursed in a reporting year",
+            "FIRST-GENERATION ACCESS → the first family member reaching higher education or service"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MOBILITY → the next generation exceeding the beneficiary in education and occupation",
+            "STAGNATION → children re-accessing the same reservation without progression"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "OWNERSHIP → no Mains or objective demand is routed here and none is manufactured",
+            "COVERAGE → reservation slots filled and scholarships disbursed in a reporting year"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OWNERSHIP → no Mains or objective demand is routed here and none is manufactured.",
+      "source_references": [
+        "Coverage, first-generation access and intergenerational mobility",
+        "The transparent ownership statement for this owner"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCBC (CONSTITUTIONAL BODY, POST-2018)",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAMINES INCLUSION/EXCLUSION REQUESTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ROHINI COMMISSION (2017)",
+          "role": "evidence"
+        },
+        {
+          "text": "SET UP TO EXAMINE SUB-CATEGORISATION OF OBCS WITHIN",
+          "role": "primary"
+        },
+        {
+          "text": "EWS INCOME/ASSET CRITERIA",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINED BY A DOPT NOTIFICATION DATED 31 JANUARY",
+          "role": "comparison"
+        },
+        {
+          "text": "EWS CERTIFICATE VERIFICATION CHALLENGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "NCBC (constitutional body, post-2018): Examines inclusion/exclusion requests,",
+            "Rohini Commission (2017): Set up to examine sub-categorisation of OBCs within",
+            "EWS income/asset criteria: Defined by a DoPT notification dated 31 January",
+            "CAUTION: EWS certificate verification challenge: Unlike caste certificates (linked to"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: A dominant OBC community in a state may capture a disproportionate share of OBC",
+            "CAUTION: An EWS applicant with undocumented informal-sector income may fail to obtain a",
+            "CAUTION: The Janhit Abhiyan majority (3-2) upheld EWS reservation on the ground that economic",
+            "CAUTION: Creamy-layer threshold lag: The income ceiling is revised periodically but often"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: EWS excludes SC/ST/OBC: By definition, EWS reservation is for non-SC/ST/OBC",
+            "CAUTION: Data blindness: Without published OBC population data, sub-categorisation is",
+            "CAUTION: Mobility vs coverage: Policy discourse focuses on reservation-slot fill rates",
+            "Indra Sawhney v. Union of India (1992) upheld OBC reservation up to 27% and mandated"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

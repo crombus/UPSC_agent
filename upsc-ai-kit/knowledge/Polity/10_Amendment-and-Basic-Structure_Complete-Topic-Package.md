@@ -4,7 +4,7 @@ cover_image: "../../../notes/Polity/assets/10_Amendment-and-Basic-Structure/08_k
 
 # Polity 10 - Amendment and Basic Structure - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 10 | **GS-II + Prelims** | **Export date:** 2026-08-16
+> **Subject:** Indian Polity | **Topic:** 10 | **GS-II + Prelims** | **Review control:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -14,7 +14,7 @@ cover_image: "../../../notes/Polity/assets/10_Amendment-and-Basic-Structure/08_k
 
 - Source order followed: certified answer-complete Core owner `Polity/basic/Amendment-and-Basic-Structure.md` -> separately labelled optional owner `Polity/advanced/10_Amendment-and-Basic-Structure.md` -> local official-question routing ledgers, official/local 2024 and 2025 Set-A keys, searchable local papers and OCR-searchable *Indian Polity* -> live Constitution, judgments, Gazette and PRS controls -> Qdrant not used.
 - [LIMIT] The Foundation and Core session is independently answer-complete. The optional Advanced section adds constitutional-identity, replacement and comparative-doctrine depth. Skipping it does not remove any procedure, route, proviso item, case holding, Ninth Schedule rule, current control, PYQ or answer framework required for the examination.
-- [CURRENT] Legal and parliamentary status is controlled to **16 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and parliamentary status is controlled to **28 August 2026, Asia/Kolkata**.
 - [FACT] The official Constitution places Article 368 in **Part XX** and authorises Parliament, in exercise of its **constituent power**, to amend the Constitution by **addition, variation or repeal**, subject to the prescribed procedure.
 - [FACT] The Constitution (One Hundred and Sixth Amendment) Act, 2023 was brought into force on **16 April 2026** by Gazette notification **S.O. 1922(E)**. [LIMIT] Its commencement did not itself operationalise women's reservation: Article 334A still requires publication of the relevant figures of the first census taken after commencement and a delimitation exercise for that purpose.
 - [CURRENT] The Constitution (One Hundred and Thirty-first Amendment) Bill, 2026 was introduced in Lok Sabha on 16 April and negatived on 17 April 2026. It is used only to demonstrate the two simultaneous special-majority limbs. It is not law, precedent or proof that State ratification was or was not required.
@@ -371,7 +371,7 @@ An amendment must be ratified by not less than half of the State legislatures if
 - [FACT] Article 334A(1) states that the reservation provisions come into effect after:
   1. publication of the relevant figures of the **first census taken after commencement**; and
   2. a delimitation exercise undertaken for this purpose.
-- [CURRENT] Therefore, as of 16 August 2026, **the Act has commenced but the reservation is not operational**.
+- [CURRENT] Therefore, as of 28 August 2026, **the Act has commenced but the reservation is not operational**.
 - [LIMIT] Do not state an implementation election, implementation year, delimitation date or census final-publication date.
 - [LIMIT] Do not compute the reservation's end date. Quote the constitutional phrase “fifteen years from such commencement” when duration is relevant.
 
@@ -559,32 +559,47 @@ Applications confirm the rule: *Indira Nehru Gandhi* protected free and fair ele
 
 **Why this earns marks:** It answers the precise “expanding its own power” issue, uses the 42nd Amendment-*Minerva Mills* evidence chain, explains rather than merely lists *Kesavananda*, and ends with a direct graded verdict.
 
+**How to improve this answer:** In the exam, compress the opening to one sentence and draw a
+three-link margin chain — `Art. 368(4)-(5) -> Minerva Mills -> limited power cannot become
+unlimited`. If space permits, add one sentence distinguishing amendment from constitutional
+replacement; do not spend words listing every basic feature.
+
 ### Mains PYQ 2 - 2025 GS-II Q12
 
 **Question:** Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. **(15 marks, 250 words)**
 
 **Model solution**
 
-The Constitution entrusts amendment to the ordinary parliamentary institutions, but they exercise a special **constituent power**, not ordinary legislative power. Article 368 consequently places limits on both **how** the power is exercised and **what** it may accomplish.
+The Constitution entrusts amendment to Parliament, but Article 368 limits both **how** constituent
+power is exercised and **what** it may accomplish.
 
 **Procedural limitations**
 
-1. An amendment Bill can originate only in either House of Parliament, though it may be introduced by a Minister or private member without prior Presidential recommendation.
+1. A Bill originates only in either House, may be ministerial or private-member, and needs no prior
+Presidential recommendation.
 2. Each House must separately satisfy a majority of total membership and not less than two-thirds present and voting. There is no joint sitting.
-3. Amendments to the federal proviso subjects - including Articles 54, 55, 73, 162, 241 and 279A; the specified Judiciary and legislative-relations Chapters; Seventh Schedule Lists; State representation; and Article 368 - require ratification by not less than half the State legislatures.
-4. Ratification must precede presentation to the President, who shall assent after the 24th Amendment.
+3. The exact federal proviso subjects require ratification by not less than half the State
+legislatures before the President, who shall assent.
 
 The defeated 131st Amendment Bill (2026) illustrates the dual test: 298 votes cleared the total-membership limb but fell below two-thirds of 528, or 352.
 
 **Substantive limitation**
 
-*Kesavananda Bharati* (1973) permits amendment of every provision but forbids damage or destruction of the basic structure. *Minerva Mills* made limited amending power and judicial review basic features. *Indira Nehru Gandhi*, *I.R. Coelho* and the NJAC judgment protected free elections, post-1973 Ninth Schedule review and judicial independence respectively.
+*Kesavananda Bharati* permits amendment of every provision but forbids damage to the basic
+structure. *Minerva Mills* protects limited amending power and judicial review; later applications
+protect free elections, post-1973 Ninth Schedule review and judicial independence.
 
-The doctrine is criticised as unwritten and counter-majoritarian, yet it reflects constitutional rather than parliamentary supremacy. *Anjum Kadari* (2024) also keeps the test technically confined to amendments, requiring ordinary statutes to be challenged through express constitutional provisions.
+Though criticised as unwritten and counter-majoritarian, the doctrine reflects constitutional
+rather than parliamentary supremacy.
 
 **Conclusion:** Parliament's amending power is procedurally entrenched and substantively limited: it can change the Constitution, not destroy its identity.
 
 **Why this earns marks:** The answer explicitly separates procedural from substantive limits, uses the exact proviso groups, adds a verified current arithmetic example, supplies case-linked analysis and qualifies the doctrine's democratic tension.
+
+**How to improve this answer:** Use two visible subheads, **Procedural** and **Substantive**, and
+reserve the final 35-40 words for evaluation. For a tighter 250-word script, cite only three
+proviso groups plus “the remaining exact proviso subjects”, while retaining *Kesavananda*,
+*Minerva Mills* and the 2026 division arithmetic.
 
 ## B. Solved Prelims PYQs
 
@@ -987,7 +1002,7 @@ D. Whether the President gave mandatory assent under Article 368
 
 ### Original hard MCQ 19
 
-What is the present constitutional status of women's reservation under the 106th Amendment as controlled to 16 August 2026?
+What is the present constitutional status of women's reservation under the 106th Amendment as controlled to 28 August 2026?
 
 A. It never commenced because no notification was issued.  
 B. It became operational immediately on Presidential assent in 2023.  
@@ -1238,19 +1253,26 @@ D. by resolutions of not less than half the State legislatures, using ordinary/s
 
 **Model solution**
 
-India rejects a single amendment threshold. Its Constitution is flexible where institutional adaptation can safely occur and rigid where constitutional or federal identity is implicated.
+India uses graded entrenchment rather than one amendment threshold.
 
-First, constitutionally authorised ordinary laws operate outside Article 368: Articles 2-4 permit State reorganisation; Article 11 supports citizenship legislation; Article 169 permits creation or abolition of a Legislative Council after the prescribed State resolution; and the Fifth and Sixth Schedules contain express amendment mechanisms.
+First, constitutionally authorised ordinary laws operate outside Article 368—for example, State
+reorganisation under Articles 2-4 and citizenship law under Article 11. Second, most entrenched
+provisions require in each House a majority of total membership plus two-thirds present and voting;
+no joint sitting cures failure. Third, alteration of the exact federal proviso subjects additionally
+requires ratification by not less than half the State legislatures.
 
-Second, most entrenched provisions use Article 368's dual special majority in each House - a majority of total membership and not less than two-thirds present and voting. Failure in either House cannot be cured by joint sitting.
-
-Third, alteration of the federal compact requires the same parliamentary majority plus ratification by not less than half the State legislatures. The exact proviso includes specified executive-power Articles, Judiciary and legislative-relations Chapters, Seventh Schedule Lists, State representation, Article 279A and Article 368.
-
-Finally, *Kesavananda Bharati* adds substantive rigidity: Parliament may amend every part but cannot damage the basic structure.
+The design is therefore flexible for authorised institutional adaptation, procedurally rigid for
+constitutional text and federally rigid for the Union-State compact. *Kesavananda Bharati* adds a
+substantive ceiling: every provision is amendable, but the basic structure cannot be damaged.
 
 **Conclusion:** India's graded model enables constitutional evolution while protecting federal consent and constitutional identity.
 
 **Why this earns marks:** It defines the synthesis, uses one example from every route, adds the doctrine as substantive rigidity and avoids an abstract UK-USA comparison.
+
+**How to improve this answer:** For 150 words, convert the three routes into a compact
+`ordinary law -> special majority -> special majority + States` flow and use only one example per
+route. Keep *Kesavananda* as the final substantive-rigidity sentence rather than opening a case
+chronology.
 
 ### Original Mains 2 - 10 marks, 150 words
 
@@ -1258,17 +1280,27 @@ Finally, *Kesavananda Bharati* adds substantive rigidity: Parliament may amend e
 
 **Model solution**
 
-States cannot introduce an Article 368 Bill and have no formal ratification role in most amendments. Their constitutional voice is therefore selective rather than co-equal.
+States cannot introduce an Article 368 Bill and do not ratify most amendments. Their voice becomes
+decisive only for the exact proviso subjects: named executive-power Articles; Article 241 and
+Article 279A; specified Judiciary and legislative-relations Chapters; Seventh Schedule Lists;
+State representation; and Article 368.
 
-The role becomes decisive when an amendment touches the federal proviso: Articles 54, 55, 73, 162, 241 or 279A; Chapter IV of Part V; Chapter V of Part VI; Chapter I of Part XI; any Seventh Schedule List; representation of States in Parliament; or Article 368. After both Houses pass the Bill by the dual special majority, resolutions of not less than half the State legislatures are required before Presidential assent.
+After both Houses pass the dual special majority, resolutions of not less than half the State
+legislatures are required before Presidential assent. Ratification uses an ordinary/simple
+majority. The Constitution fixes no time limit, is silent on withdrawal, and excludes Union
+territories from the count.
 
-Ratification is by a simple majority, not Article 368's special majority. The Constitution provides no time limit and is silent on withdrawal. Union territories do not count as States.
-
-The design is federal because States can block alteration of the constitutional compact, but Parliament-centred because States cannot initiate amendments and only half, not all or three-fourths, need consent.
+Thus States can block alteration of the federal compact, but cannot initiate or amend the Bill;
+only half, not all or three-fourths, need consent.
 
 **Conclusion:** State participation protects the federal core while preserving national amendability; it is asymmetric federalism, not a general State veto.
 
 **Why this earns marks:** It gives the exact proviso, mechanics, limitations and a reasoned federalism verdict within the 10-mark scale.
+
+**How to improve this answer:** Write the proviso as three clusters — named Articles, named
+Chapters/Lists, and State representation/Article 368 — instead of a long prose list. Explicitly
+contrast “blocking voice over the federal core” with “no initiation power” to sharpen the
+federalism assessment.
 
 ### Original Mains 3 - 15 marks, 250 words
 
@@ -1287,6 +1319,10 @@ The basic-structure doctrine authorises courts to invalidate a constitutional am
 **Conclusion:** The doctrine is judicial review, not judicial supremacy, when used as a reasoned identity safeguard. It risks supremacy when “basic structure” becomes an undefined substitute for constitutional text and institutional restraint.
 
 **Why this earns marks:** It accepts the counter-majoritarian objection, answers it with named cases and constitutional theory, and gives judicially administrable safeguards rather than a one-sided defence.
+
+**How to improve this answer:** Use a two-column criticism/defence mini-table if handwriting
+allows, then make the restraint test executable: textual basis, settled precedent, actual damage
+and narrow remedy. Avoid presenting *S.R. Bommai* as a direct amendment-invalidating case.
 
 ### Original Mains 4 - 15 marks, 250 words
 
@@ -1308,6 +1344,11 @@ The basic-structure doctrine authorises courts to invalidate a constitutional am
 
 **Why this earns marks:** It states the holding, explains the amendment-statute distinction, handles apparent case tension, preserves express-provision review and identifies the Ninth Schedule exception.
 
+**How to improve this answer:** Lead with the one-line holding and then apply it to one concrete
+ordinary-law example through Articles 14/15/25-30 or competence. Keep the Ninth Schedule
+qualification to two sentences so the answer remains focused on *Anjum Kadari* rather than
+becoming a general basic-structure essay.
+
 ### Original Mains 5 - 15 marks, 250 words
 
 **Question:** Ninth Schedule protection is neither fictitious nor absolute. Analyse with reference to *Waman Rao* and *I.R. Coelho*. **(15 marks, 250 words)**
@@ -1327,6 +1368,11 @@ Article 31B, inserted with the Ninth Schedule by the First Amendment Act, 1951, 
 **Conclusion:** The Ninth Schedule remains a real protective mechanism, but after *Waman Rao* and *Coelho* it operates under constitutional supremacy, not as an exclusion zone from the basic structure.
 
 **Why this earns marks:** It distinguishes Articles 31A/31B, explains both temporal and impact tests, rejects both immunity and automatic-invalidity extremes, and follows a clear analytical sequence.
+
+**How to improve this answer:** Draw the review sequence as `insertion date -> affected Part III
+right -> underlying basic feature -> degree of damage`. State expressly that the constitutional
+amendment inserting the law, not merely the listed statute in isolation, attracts the
+basic-structure inquiry.
 
 ### Original Mains 6 - 20 marks, 250 words
 
@@ -1352,6 +1398,11 @@ The amendment controversy evolved from a binary question - whether Fundamental R
 
 **Why this earns marks:** It traces every doctrinal turn, links amendments to cases, explains why the final doctrine differs from *Golak Nath*, and ends with a balanced institutional assessment.
 
+**How to improve this answer:** In a 250-word response, retain only the turning points
+*Shankari/Sajjan -> Golak Nath -> 24th Amendment -> Kesavananda -> Minerva Mills*, then use
+*Coelho* or NJAC as one application. A short timeline saves words for the evaluation demanded by
+the question.
+
 ### Original Mains 7 - 20 marks, 300 words
 
 **Question:** “A constitutional amendment may change the Constitution, but it cannot replace its identity.” Discuss the proposition using the amendment procedure, basic-structure doctrine and current examples. **(20 marks, 300 words)**
@@ -1371,6 +1422,11 @@ Article 368 authorises amendment by addition, variation or repeal. The breadth o
 **Conclusion:** India's Constitution is transformable but not self-cancelling. Procedure protects deliberation and federal consent; basic structure protects continuity of constitutional identity.
 
 **Why this earns marks:** It integrates procedure, doctrine, current verified examples and critique; each example proves a distinct part of the argument and the conclusion directly resolves amendment versus replacement.
+
+**How to improve this answer:** Allocate roughly 70 words to procedure, 120 to doctrine and
+applications, 60 to current controls/critique, and 30 to the verdict. Label the 131st Bill
+“defeated proposal” and the 106th Amendment “commenced, not operational” every time so current
+examples cannot be mistaken for settled implementation.
 
 ## Final consolidated register notes - Amendment and Basic Structure
 

@@ -4,6 +4,25 @@
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested/empirical claim
 > **Placement:** This clause tests how socially constructed gender hierarchy becomes embodied in life chances, bodily valuation, property control and agency.
 
+## Exact printed ownership and cross-topic firewall
+
+The official clause names **Gender Discrimination: Female Foeticide, Land and Property Rights;
+Empowerment**. The conceptual owner is broader than women-only biology, while the three printed
+applications are specifically centred on discrimination against women.
+
+| Content | Ownership here | Boundary |
+|---|---|---|
+| Gender discrimination | sex/gender, hierarchy, structural power, equality/difference and feminist diagnoses | Full equality theory remains with [Social and Political Ideals](Social-Political-Ideals.md) |
+| Female foeticide | discriminatory selection, bodily agency, technology and social valuation | General abortion doctrine, medical detail and harmful description remain outside |
+| Land/property | title, access, control, return, security and bargaining power | Detailed succession/property law remains with legal/Polity study |
+| Empowerment | resources, agency, achievement, capability, recognition and representation | Development owns the general capability framework; this file owns its gendered conversion |
+| Intersectional bridges | caste, class, religion/community, disability and sexuality/gender identity where they alter the mechanism | Full caste and multicultural doctrines retain their separate owners |
+
+**Thinker control:** Beauvoir, Butler, Wollstonecraft, J. S. Mill and Harriet Taylor Mill,
+Crenshaw, bell hooks, Gilligan, Pateman, Okin, Kabeer, Agarwal, Sen and Nussbaum execute owned
+distinctions. Friedan, Firestone, psychoanalytic feminism and ecofeminism are not independently
+routed by the 2018–2025 corpus and are not imported as a generic list.
+
 ## 0. ONE-SCREEN MAP
 
 ```text
@@ -87,6 +106,23 @@ resources + capabilities + agency + recognition + institutional power
 
 ⚠️ **How to use it in an answer:** Butler is a *depth marker* for stems on gender as a cultural category, on the sex/gender distinction, and on the limits of essentialist feminism. She is **not** required for empowerment, property or foeticide stems, and inserting her there costs space that the mechanism-and-evidence paragraphs need.
 
+### 1.3B Category scope and trans-inclusive conceptual care
+
+✅ The distinction between bodily sex characteristics, assigned classifications, gender identity,
+gender expression and social role prevents one binary label from doing several different jobs.
+Transgender, non-binary and gender-nonconforming persons may face discrimination through the same
+mechanisms of enforced role, stigma and institutional exclusion analysed here.
+
+⚠️ The printed applications remain focused on women. Inclusive conceptual care therefore
+**extends the account of gender hierarchy without erasing sex-specific discrimination** in
+reproduction, property, care and violence. No claim about a person's identity should be inferred
+from anatomy, dress or social role.
+
+**Category control:** anti-discrimination argument may use “women” as a strategically necessary
+political and legal category while keeping it internally diverse, historically constructed and open
+to those affected by misogyny and feminised subordination. This is a working criterion, not a
+settled resolution of the category debate.
+
 ### 1.4 Main feminist diagnoses
 
 | Approach | Primary source of oppression | Remedy | Standard objection |
@@ -98,6 +134,42 @@ resources + capabilities + agency + recognition + institutional power
 | **Intersectional feminism** | intersecting caste, class, race, gender and other powers | context-sensitive anti-domination | categories can multiply without clear priority |
 | **Capability feminism** | deprivation of real opportunities and bodily integrity | secure threshold capabilities and agency | list/measurement disputes |
 
+### 1.4A Bounded thinker map
+
+| Thinker | Owned contribution | Use |
+|---|---|---|
+| Mary Wollstonecraft | equal rational and moral standing requires serious education rather than cultivated dependence | liberal equality and “natural incapacity” objections |
+| J. S. Mill and Harriet Taylor Mill | law and custom jointly manufacture women's subjection; legal equality must be joined to social liberty | formal versus substantive equality |
+| Simone de Beauvoir | woman is constituted as the Other rather than born to a fixed social destiny | existential and constructionist foundation |
+| Carol Gilligan | care exposes dependency, relationship and context omitted by abstract justice | care/justice debate, with essentialism caution |
+| Kimberlé Crenshaw and bell hooks | gender is mediated by race/class and social location; dominant feminism can universalise privileged experience | intersectional correction to homogeneous “women” |
+| Judith Butler | compelled reiteration produces the appearance of natural gender identity | anti-essentialism and category-stability debate |
+
+⚠️ This table anchors approaches; it does not replace the mechanism, objection and reply required
+by the stem.
+
+### 1.4B Structural injustice, responsibility and the public/private division
+
+Gender oppression is **structural** where normal rules, institutions and repeated choices combine
+to constrain a group without one actor designing the whole result.
+
+**Iris Marion Young's social-connection model ⚠️:**
+
+1. many ordinary agents participate in processes that reproduce unequal work, care, property,
+   representation or bodily security;
+2. absence of a sole perpetrator does not mean absence of responsibility;
+3. responsibility is forward-looking and shared rather than identical to personal blame;
+4. duties vary with power, privilege, interest and collective capacity to change the process.
+
+**Public/private control:** the household is a protected sphere of intimacy but not an immunity
+zone for domination. Care burdens, control of income, bodily decision-making and family violence
+shape access to public education, work, property and representation; public equality is therefore
+partly produced inside the “private” sphere.
+
+**Objection:** diffuse structural responsibility lets every actor blame the system.
+**Reply:** ⚠️ distinguish backward-looking blame for one's acts from forward-looking duties to
+reform processes one helps sustain; shared responsibility must still be specified by role and power.
+
 ### 1.5 Difference, equality and discrimination
 
 ✅ Equality need not mean identical treatment. Pregnancy, unpaid care, inherited exclusion and violence may require differentiated support to achieve equal standing and capability.
@@ -105,6 +177,18 @@ resources + capabilities + agency + recognition + institutional power
 **Formal equality:** same rule.
 **Substantive equality:** attention to unequal starting positions, social burdens and effective outcomes.
 **Relational equality:** citizens meet without domination, stigma or servility.
+
+### 1.5A The sameness/difference dilemma
+
+| Strategy | Claim | Risk |
+|---|---|---|
+| Sameness | apply one sex-neutral rule because women and men are equal persons | the male life-pattern may remain the hidden norm |
+| Difference/accommodation | recognise pregnancy, care burdens and inherited exclusion | difference may be essentialised and used to reassign women to traditional roles |
+| Substantive/transformative equality | ask whether rules alter capability, status and power rather than merely classify alike | requires contested judgments about disadvantage and remedy |
+
+⚠️ The solution is not sameness or difference in the abstract. Differential treatment is justified
+where it removes a socially produced burden and enlarges equal standing without fixing a permanent
+gender essence.
 
 ### 1.6 Objections and replies
 
@@ -374,9 +458,21 @@ functionings actually realised
 
 ### 4.8 Political representation: precise status
 
-✅ The Constitution (One Hundred and Sixth Amendment) Act, **2023**, commonly associated with women's reservation in the Lok Sabha and State Legislative Assemblies, is an **enacted constitutional amendment**.
+✅ The Constitution (One Hundred and Sixth Amendment) Act, **2023**, commonly associated with women's reservation in the Lok Sabha and State Legislative Assemblies, is an **enacted constitutional amendment**; Gazette notification S.O. 1922(E) brought it into force on **16 April 2026**.
 
-⚠️ Its reservation provisions are constitutionally linked to a future census-based delimitation process under the inserted framework; enactment should not be described as immediate completed implementation. Representation is also not identical with substantive empowerment without voice, party opportunity and accountability.
+⚠️ Its reservation provisions are constitutionally linked to a post-Act census-based delimitation sequence under Article 334A; seat-level operation remained pending as checked on **3 September 2026**; enactment should not be described as immediate completed implementation. Representation is also not identical with substantive empowerment without voice, party opportunity and accountability.
+
+### 4.8A Redistribution, recognition and representation
+
+| Dimension | Gendered wrong | Required remedy | Failure if isolated |
+|---|---|---|---|
+| Redistribution | unequal income, property, time, care burden and material security | resources, services, property/control and fair division of labour | may leave stigma, voice and hierarchy intact |
+| Recognition | devaluation, stereotyping, humiliation and feminised work treated as lesser | equal status and transformation of cultural value | may become symbolic without resources |
+| Representation | exclusion from agenda-setting, interpretation and authoritative decision | voice, presence, organisation and accountable institutional power | presence alone may not alter policy or internal hierarchy |
+
+⚠️ **Synthesis:** empowerment requires all three. Representation without agency can be tokenism;
+recognition without redistribution can celebrate identity while preserving dependence; resources
+without voice can become paternalistic provision.
 
 ---
 
@@ -440,6 +536,25 @@ functionings actually realised
 
 ⚠️ In India, anti-caste analysis is not an optional example appended to feminism; it changes the account of how gender order is reproduced.
 
+### 5.6A Intersectional mediation beyond an additive list
+
+| Axis | How it can alter gender discrimination |
+|---|---|
+| Caste | endogamy, labour, property, status and control of marriage/sexuality |
+| Class | exposure to insecure work, unpaid labour, services and bargaining resources |
+| Religion/community | minority vulnerability may coexist with internal authority and personal-law disputes |
+| Disability | dependency arrangements, accessibility and substituted decision-making can intensify control |
+| Sexuality and gender identity | compulsory heterosexuality, stigma and gender policing affect recognition and bodily/public freedom |
+
+✅ **Intersectionality** does not mean adding independent disadvantages like arithmetic. It asks
+how institutions produce a **distinct mechanism** at their intersection. A gender-only remedy can
+therefore miss harms created through caste, class, community, disability or sexuality.
+
+**Objection:** proliferating identities fragments a common political subject.
+**Reply:** ⚠️ common claims to dignity and equality remain, but coalition must be built without
+treating the most privileged experience as universal. bell hooks supplies the margin-to-centre
+warning; Crenshaw supplies the intersectional method.
+
 ---
 
 ## 6. CRITICISMS AND REPLIES
@@ -474,6 +589,12 @@ functionings actually realised
 15. **Do not use care ethics without the essentialism objection.** ⚠️ Attributing a distinctive moral voice to women can re-inscribe the stereotype it was meant to displace; state the socially-positioned reading and mark the thesis as contested (§4.3A).
 16. **Do not present Pateman's sexual contract as a historical event.** ❌ It is an interpretive reconstruction of contract theory's silences, not a factual claim about a contract that was made (§5.3A).
 17. **Do not overstate the reach of any statute or judgment.** ⚠️ The 2005 amendment and *Vineeta Sharma* (2020) settle coparcenary entitlement in law; they establish neither possession, control, return nor exit (§3.3, §3.4).
+18. **Do not treat women as a homogeneous class.** Trace the mechanism through caste, class, community, disability and sexuality/gender identity where relevant.
+19. **Do not make anatomy, dress or role a proxy for gender identity.** Keep sex-specific disadvantage visible while using inclusive categories.
+20. **Do not resolve the sameness/difference dilemma by slogan.** Test whether treatment removes a burden or entrenches an essence.
+21. **Do not collapse redistribution, recognition and representation.** Resources, status and voice can each improve while another remains unequal.
+22. **Do not confuse structural responsibility with collective guilt.** Shared forward-looking duties remain graded by power and role.
+23. **Do not import Friedan, Firestone, psychoanalytic feminism or ecofeminism as a generic list.** Use a thinker only when the stem's mechanism requires it.
 
 ---
 
@@ -483,6 +604,11 @@ functionings actually realised
 
 **Promoted vocabulary (this pass) ⚠️:** performativity · reiteration · no doer behind the deed · category stability · strategic essentialism · ownership · access · control · return · exit/security · fall-back position · intra-household bargaining · resources–agency–achievements · strategic life choices · availability of alternatives · ethic of care · justice and care as complementary · sexual contract · family as an object of justice · dual systems
 
+- **Structural injustice:** social connection · blame/responsibility split · power · privilege · interest · collective capacity
+- **Sameness/difference:** sex-neutral rule · accommodation · substantive/transformative equality · anti-essentialism
+- **Justice dimensions:** redistribution · recognition · representation
+- **Intersectional axes:** caste · class · religion/community · disability · sexuality · gender identity
+- **Inclusive category care:** sex characteristics · assignment · identity · expression · role
 
 sex/gender distinction · social construction · Other · patriarchy · substantive equality · adaptive preference · intersectionality · bodily integrity · son preference · discriminatory selection · title/access/control · coparcenary · capability · agency · power within · social reproduction · recognition · internal restriction
 
@@ -595,6 +721,10 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **G14 · Culture cannot be a shield for internal subordination.** Claim: group accommodation must not license restrictions on members' basic liberties, and the woman's position inside the community is part of what recognition must secure → Named: Okin, "Is Multiculturalism Bad for Women?"; Kymlicka's external/internal criterion → Use for: multiculturalism-and-gender stems → Limit: ⚠️ the objection can be misused to depict minority cultures as uniquely patriarchal; state that the same test applies to majority institutions.
 - **G15 · Caste and gender are jointly reproduced.** Claim: endogamy links caste purity to control over women's sexuality and marriage choice, so caste hierarchy and gender subordination are mutually sustaining rather than merely co-present → Named: Ambedkar's endogamy analysis; intersectional framing → Use for: the Indian anchor in any 20-mark answer → Limit: ✅ the caste doctrine is owned by [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md); name the mechanism and route rather than re-expounding it.
 - **G16 · Indian legal instruments, correctly classified.** Claim: PCPNDT Act **1994** — enacted statute; Hindu Succession (Amendment) Act **2005** — enacted amendment conferring coparcenary status by birth on statutory terms; *Vineeta Sharma v. Rakesh Sharma* (**2020**) — Supreme Court judgment clarifying that right; Constitution (One Hundred and Sixth Amendment) Act **2023** — enacted amendment whose reservation provisions are linked to a future census-based delimitation → Use for: the Indian paragraph in any answer → Limit: ✅ each is a dated legal fact; ❌ none establishes possession, control or completed implementation, and none is philosophical proof.
+- **G17 · Structural injustice creates responsibility without one sole author.** Claim: ordinary agents connected through gendered processes have forward-looking duties graded by power, privilege, interest and collective capacity → Named: Iris Marion Young → Use for: 2025 construct/opportunity/resource question → Limit: shared responsibility must not erase personal blame.
+- **G18 · Equality faces a sameness/difference dilemma.** Claim: identical rules can encode a male norm, while accommodation can essentialise difference → Named: §1.5A → Use for: feminism as equality/empowerment and substantive-equality stems → Limit: remedial distinction must be proportionate and revisable.
+- **G19 · Gender justice has three dimensions.** Claim: redistribution addresses resources, recognition status, and representation authoritative voice → Named: §4.8A → Use for: property, empowerment and political-representation stems → Limit: the framework is a bridge; full recognition theory is owned elsewhere.
+- **G20 · Intersectionality changes the mechanism.** Claim: caste, class, community, disability and sexuality/gender identity mediate gendered institutions rather than merely adding disadvantages → Named: Crenshaw and bell hooks → Use for: every heterogeneous-category qualification → Limit: coalition still requires common claims to dignity and equality.
 
 ### 10.5 Graded verdict formulas (adapt; never reproduce mechanically)
 
@@ -626,18 +756,21 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 
 ## SOURCES
 
-- Local course source, *Socio-Political Philosophy*, sections on empowerment, female foeticide and women's property rights.
+- Local compiled notes PDF, *Socio-Political Philosophy*, searchable pp. 188–197; no named author is asserted.
 - O. P. Gauba, *An Introduction to Political Theory*, discussions of feminist political theory, equality and power.
+- Mary Wollstonecraft, *A Vindication of the Rights of Woman*; J. S. Mill and Harriet Taylor Mill, writings on women's equality and subjection.
 - Simone de Beauvoir, *The Second Sex*.
 - Amartya Sen, “More Than 100 Million Women Are Missing” and writings on capability and gender.
 - Martha C. Nussbaum, *Women and Human Development*.
 - Kimberlé Crenshaw, writings on intersectionality.
+- bell hooks, *Feminist Theory: From Margin to Center*, used for the critique of a homogeneous feminist subject.
 - Susan Moller Okin, *Justice, Gender, and the Family* and “Is Multiculturalism Bad for Women?”
 - B. R. Ambedkar, writings on caste, endogamy and social democracy.
 - [Pre-Conception and Pre-Natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994 — India Code](https://www.indiacode.nic.in/handle/123456789/1937).
 - Hindu Succession Act, 1956 as amended in 2005, including Section 6, available through [India Code](https://www.indiacode.nic.in/).
 - *Vineeta Sharma v. Rakesh Sharma* (Supreme Court judgment, 2020), used as a dated judicial illustration.
 - Constitution (One Hundred and Sixth Amendment) Act, 2023, used with its census/delimitation condition as an enacted—not fully implemented—illustration.
+- Gazette notification S.O. 1922(E), **16 April 2026**, used only for the amendment's commencement date; operational reservation remains linked to the constitutional census/delimitation sequence.
 - Judith Butler, *Gender Trouble* (**1990**) — gender as performative. Cited by title and year only; paraphrased, never quoted, and always paired with the category-stability objection.
 - Carole Pateman, *The Sexual Contract* (**1988**) — the sexual contract as an interpretive reconstruction, not a historical event.
 - Susan Moller Okin, *Justice, Gender, and the Family* (**1989**) — the family as an object of justice.
@@ -645,4 +778,4 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - Naila Kabeer, writings on women's empowerment — resources, agency and achievements, and empowerment as expanded ability to make strategic life choices. Cited by name and position; paraphrased, never quoted.
 - Bina Agarwal, *A Field of One's Own: Gender and Land Rights in South Asia* (**1994**) — ownership, effective control and realised benefit, and land as intra-household bargaining power.
 
-> ⚠️ **Provenance note for §1.3A, §3.3, §4.3, §4.3A and §5.3–§5.3A (added or repaired in this pass):** these are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Butler, Pateman, Okin, Gilligan, Kabeer or Agarwal, and **no figure, ratio, survey result or dated statistic is asserted for any year, State or region.** Every Indian legal instrument is cited with its status and date, and none is offered as philosophical proof. The caste doctrine is owned by [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md); the recognition/redistribution framework is owned by [Humanism, Secularism, Multiculturalism](Humanism-Secularism-Multiculturalism.md) §3A.
+> ⚠️ **Provenance note for §1.3A–§1.5A, §3.3, §4.3, §4.3A, §4.8A and §5.3–§5.6A (added or repaired in this pass):** these are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Butler, Young, Pateman, Okin, Gilligan, Kabeer, Agarwal, Crenshaw or hooks, and **no figure, ratio, survey result or dated statistic is asserted for any year, State or region.** Every Indian legal instrument is cited with its status and date, and none is offered as philosophical proof. The caste doctrine is owned by [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md); the recognition/redistribution framework is owned by [Humanism, Secularism, Multiculturalism](Humanism-Secularism-Multiculturalism.md) §3A.

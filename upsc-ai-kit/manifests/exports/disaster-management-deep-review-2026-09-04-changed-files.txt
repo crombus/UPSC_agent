@@ -1,0 +1,845 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Disaster-Management\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Disaster-Management-Topics-01-04-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Disaster-Management-Topics-05-08-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Disaster-Management-Topics-09-18-2026-09-04.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-01-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-02-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-03-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-04-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-05-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-06-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-07-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-08-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-09-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-10-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-11-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-12-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-13-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-14-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-15-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-16-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-17-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\disaster-management-18-g1-to-g2.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-01\disaster-management-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-01\disaster-management-01-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-01\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-02\disaster-management-02-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-02\disaster-management-02-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-02\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-02\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-02\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-03\disaster-management-03-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-03\disaster-management-03-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-03\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-03\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-03\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-04\disaster-management-04-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-04\disaster-management-04-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-04\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-04\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-04\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-05\disaster-management-05-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-05\disaster-management-05-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-05\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-05\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-05\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\disaster-management-06-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\disaster-management-06-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-07\disaster-management-07-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-07\disaster-management-07-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-07\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-07\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-07\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-08\disaster-management-08-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-08\disaster-management-08-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-08\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-08\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-08\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-09\disaster-management-09-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-09\disaster-management-09-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-09\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-09\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-09\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-09\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-10\disaster-management-10-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-10\disaster-management-10-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-10\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-10\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-10\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-11\disaster-management-11-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-11\disaster-management-11-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-11\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-11\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-11\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-11\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-12\disaster-management-12-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-12\disaster-management-12-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-12\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-12\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-12\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-12\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-13\disaster-management-13-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-13\disaster-management-13-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-13\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-13\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-13\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-13\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-14\disaster-management-14-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-14\disaster-management-14-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-14\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-14\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-14\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-14\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-15\disaster-management-15-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-15\disaster-management-15-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-15\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-15\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-15\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-15\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-16\disaster-management-16-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-16\disaster-management-16-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-16\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-16\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-16\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-16\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-17\disaster-management-17-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-17\disaster-management-17-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-17\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-17\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-17\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-17\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-18\disaster-management-18-g1-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-18\disaster-management-18-g2-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-18\g1-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-18\g2-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-18\g2-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\disaster-management-18\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Disaster-Management-Subject-Completion-2026-09-04.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Disaster Management\INDEX.md
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\01-Concepts-Risk-Resilience-and-Sendai\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\02-Indian-Legal-and-Institutional-Architecture\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\03-Community-Based-DRR-and-Inclusive-Protection\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\04-Multi-Hazard-Early-Warning-and-Disaster-Technology\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\05-Earthquake-Risk-and-Resilient-Construction\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\06-Tsunami-and-Coastal-Hazard-Management\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\07-Cyclones-Storm-Surge-and-Coastal-Preparedness\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\08-Riverine-Floods-and-Urban-Flood-Resilience\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\09-Drought-Heat-Waves-and-Slow-Onset-Risk\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\10-Landslides-Avalanches-and-GLOF-Risk\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\11-Forest-Fire-Risk-Management\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\12-Industrial-Chemical-Nuclear-and-CBRN-Emergencies\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\13-Epidemics-and-Public-Health-Emergencies\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\14-Urban-and-Critical-Infrastructure-Resilience\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\15-Climate-Risk-Adaptation-and-Loss-and-Damage\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\16-Disaster-Finance-d690a5b5-Build-Back-Better\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\17-Humanitarian-a163aad9-and-Recovery\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\18-Governance-Capacity-and-International-Cooperation\README.txt
+notes\Final-Learning-Packages\Disaster Management\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-01\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-02\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-03\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-04\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-05\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-06\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-07\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-08\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-09\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-10\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-11\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-12\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-13\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-14\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-15\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-16\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-17\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\ascii-master.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\ascii-master.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\build-audit.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\editable\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\master.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\poster.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\preservation-hashes.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\previews\master-overview.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\previews\page-001.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\previews\page-002.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\previews\page-003.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\previews\page-004.png
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\README.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\tiled.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\flowcharts\disaster-management-18\carvaka-g2\validation-report.txt
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-01\g3\disaster-management-01_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-01\g3\disaster-management-01_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-01\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-01\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-02\g2\disaster-management-02_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-02\g2\disaster-management-02_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-02\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-02\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-03\g2\disaster-management-03_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-03\g2\disaster-management-03_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-03\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-03\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-04\g2\disaster-management-04_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-04\g2\disaster-management-04_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-04\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-04\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-05\g2\disaster-management-05_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-05\g2\disaster-management-05_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-05\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-05\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g2\disaster-management-06_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g2\disaster-management-06_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-07\g2\disaster-management-07_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-07\g2\disaster-management-07_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-07\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-07\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-08\g2\disaster-management-08_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-08\g2\disaster-management-08_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-08\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-08\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-09\g2\disaster-management-09_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-09\g2\disaster-management-09_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-09\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-09\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-10\g2\disaster-management-10_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-10\g2\disaster-management-10_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-10\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-10\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-11\g2\disaster-management-11_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-11\g2\disaster-management-11_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-11\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-11\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-12\g2\disaster-management-12_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-12\g2\disaster-management-12_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-12\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-12\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-13\g2\disaster-management-13_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-13\g2\disaster-management-13_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-13\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-13\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-14\g2\disaster-management-14_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-14\g2\disaster-management-14_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-14\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-14\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-15\g2\disaster-management-15_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-15\g2\disaster-management-15_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-15\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-15\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-16\g2\disaster-management-16_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-16\g2\disaster-management-16_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-16\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-16\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-17\g2\disaster-management-17_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-17\g2\disaster-management-17_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-17\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-17\g2\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-18\g2\disaster-management-18_Complete-Learning-Session_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-18\g2\disaster-management-18_Solved-Practice-Workbook_2026-09-04.pdf
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-18\g2\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-18\g2\validation\workbook-visual-audit-map.json
+tools\regenerate_disaster_management_deep_review.py
+tools\test_export_flow_learning_library.py
+tools\test_regenerate_disaster_management_deep_review.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-01\g3\assets\disaster-management-01_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-01\g3\disaster-management-01_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-01\g3\disaster-management-01_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-02\g2\assets\disaster-management-02_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-02\g2\disaster-management-02_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-02\g2\disaster-management-02_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-03\g2\assets\disaster-management-03_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-03\g2\disaster-management-03_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-03\g2\disaster-management-03_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-04\g2\assets\disaster-management-04_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-04\g2\disaster-management-04_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-04\g2\disaster-management-04_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-05\g2\assets\disaster-management-05_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-05\g2\disaster-management-05_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-05\g2\disaster-management-05_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g2\assets\disaster-management-06_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g2\disaster-management-06_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-06\g2\disaster-management-06_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-07\g2\assets\disaster-management-07_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-07\g2\disaster-management-07_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-07\g2\disaster-management-07_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-08\g2\assets\disaster-management-08_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-08\g2\disaster-management-08_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-08\g2\disaster-management-08_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-09\g2\assets\disaster-management-09_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-09\g2\disaster-management-09_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-09\g2\disaster-management-09_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-10\g2\assets\disaster-management-10_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-10\g2\disaster-management-10_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-10\g2\disaster-management-10_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-11\g2\assets\disaster-management-11_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-11\g2\disaster-management-11_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-11\g2\disaster-management-11_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-12\g2\assets\disaster-management-12_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-12\g2\disaster-management-12_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-12\g2\disaster-management-12_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-13\g2\assets\disaster-management-13_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-13\g2\disaster-management-13_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-13\g2\disaster-management-13_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-14\g2\assets\disaster-management-14_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-14\g2\disaster-management-14_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-14\g2\disaster-management-14_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-15\g2\assets\disaster-management-15_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-15\g2\disaster-management-15_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-15\g2\disaster-management-15_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-16\g2\assets\disaster-management-16_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-16\g2\disaster-management-16_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-16\g2\disaster-management-16_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-17\g2\assets\disaster-management-17_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-17\g2\disaster-management-17_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-17\g2\disaster-management-17_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-18\g2\assets\disaster-management-18_Teaching-Navigation_2026-09-04.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-18\g2\disaster-management-18_Complete-Learning-Session_2026-09-04.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Disaster-Management\Subject-Wide-Syllabus\learning-sessions\disaster-management-18\g2\disaster-management-18_Solved-Practice-Workbook_2026-09-04.md
+upsc-ai-kit\manifests\exports\deep-review-tracker-sync-2026-08-31.json
+upsc-ai-kit\manifests\exports\disaster-management-01-learner-v2-g3-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-01-learner-v2-g3-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-01-learner-v2-g3-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-02-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-02-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-02-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-03-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-03-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-03-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-04-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-04-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-04-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-05-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-05-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-05-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-06-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-06-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-06-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-07-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-07-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-07-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-08-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-08-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-08-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-09-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-09-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-09-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-10-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-10-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-10-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-11-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-11-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-11-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-12-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-12-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-12-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-13-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-13-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-13-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-14-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-14-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-14-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-15-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-15-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-15-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-16-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-16-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-16-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-17-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-17-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-17-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-18-learner-v2-g2-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-18-learner-v2-g2-2026-09-04-record.json
+upsc-ai-kit\manifests\exports\disaster-management-18-learner-v2-g2-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\disaster-management-deep-review-2026-09-04-changed-files.nul
+upsc-ai-kit\manifests\exports\disaster-management-deep-review-2026-09-04-changed-files.txt
+upsc-ai-kit\manifests\exports\disaster-management-deep-review-reconciliation-2026-09-04.json
+upsc-ai-kit\manifests\exports\disaster-management-deep-review-validation-2026-09-04.json
+upsc-ai-kit\manifests\exports\disaster-management-live-status-snapshot-2026-09-04.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-18-850400c23d7b-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-selected-18-850400c23d7b.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-04.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-01-deep-review-2026-09-04-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-02-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-03-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-04-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-05-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-06-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-07-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-08-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-09-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-10-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-11-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-12-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-13-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-14-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-15-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-16-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-17-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\disaster-management-18-deep-review-2026-09-04-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-01-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-02-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-03-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-04-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-05-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-06-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-07-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-08-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-09-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-10-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-11-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-12-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-13-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-14-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-15-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-16-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-17-g2.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Disaster-Management\deep-review\disaster-management-18-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-01-g3.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-02-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-03-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-04-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-05-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-06-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-07-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-08-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-09-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-10-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-11-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-12-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-13-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-14-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-15-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-16-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-17-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus-content-specs\disaster-management-18-g2.json
+upsc-ai-kit\manifests\v2\disaster-management--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

@@ -435,3 +435,31 @@ US structural imbalance
 > **Study link:** World-History → `basic/21_Cold-War-End-and-New-World-Order.md` for the post-1991 political framing of globalisation.
 > **Study link:** Demographic transition **model** owner -> `Geography/basic/26_World-Population-and-Demographic-Transition.md` §2 (stages, criticisms, population-resource ideas). This file keeps the historical population-effects role.
 > **Study link:** India's 1991 reform overlap -> `Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md` and its advanced companion.
+
+## 10. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** wars and Depression in the world economy; Bretton Woods,
+  postwar blocs and North-South divergence; oil, debt, globalisation and 2008
+  contagion; environmental costs; mortality-led population growth,
+  demographic transition, ageing, population policy and HIV/AIDS; Depression
+  causation, transmission, New Deal instruments, limits and Nazi comparison.
+- **Boundary:** Topic 04 owns the first Industrial Revolution; Topic 10 owns
+  the First World War's immediate settlement; Topic 12 owns fascist regimes;
+  Topic 19 owns Latin America's regional ISI and debt cases; Topic 21 owns the
+  focused post-1991 political order. Topic 20 owns thematic economy and
+  population since 1900, using those owners only as bounded evidence.
+- **Date control:** October 1929 crash, New Deal from 1933, renewed recession
+  after reduced spending in 1938, Bretton Woods (1944), oil/debt pressures of
+  the 1970s-80s, post-1990 globalisation and the 2008 crisis remain separate
+  economic stages.
+- **Mechanism control:** the Crash was a symptom within overproduction,
+  unequal purchasing power, export contraction and speculation; credit,
+  banking, tariffs, trade and commodity prices transmitted depression;
+  mortality can fall before fertility; integration spreads both prosperity
+  and contagion; New Deal stabilisation is not equivalent to full recovery or
+  Nazi coercive rearmament.
+- **Verified PYQ/current ownership:** the legacy 2013 Great-Depression-policy
+  demand is retained in neutral rendering because marks and verbatim wording
+  are not locally held. Official 2026 UN economic and population sources are
+  used only as dated anchors for uneven growth, coordination and demographic
+  data; no unfetched forecast or population estimate is imported.

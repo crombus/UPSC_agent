@@ -113,9 +113,14 @@ DEMOCRACY
 
 ### Verified local PYQ transfer
 
-- ✅ **2025:** Comment on Plato's critique of democracy.
-- ✅ **2023:** Explain the challenges faced by a democratic state and ways to overcome them.
-- ✅ **2022:** Discuss propaganda as a challenge to democratic government.
+- ✅ **2018, 10 marks:** "What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context." Primary owner: Philosophy Paper II — Forms of Government.
+- ✅ **2018, 20 marks:** "How far can liberty and equality be considered as distinctive features of democracy ? Discuss." Primary owner: Philosophy Paper II — Social and Political Ideals.
+- ✅ **2020, 10 marks:** "How far do the liberal democracies safeguard the interests of minorities? Evaluate critically." Primary owner: Philosophy Paper II — Forms of Government.
+- ✅ **2021, 10 marks:** "Is Austin's theory of sovereignty compatible with democracy? Discuss." Primary owner: Philosophy Paper II — Sovereignty.
+- ✅ **2021, 15 marks:** "Discuss Kautilya's contribution regarding the concept of sovereignty. Is it applicable in a democratic form of government? Explain." Primary owner: Philosophy Paper II — Sovereignty.
+- ✅ **2022, 20 marks:** "Discuss propaganda as a challenge to democratic form of government." Primary owner: Philosophy Paper II — Forms of Government.
+- ✅ **2023, 15 marks:** "Explain the challenges faced by a democratic state and the ways to overcome them." Primary owner: Philosophy Paper II — Forms of Government.
+- ✅ **2025, 10 marks:** "Comment on Plato's critique of Democracy." Primary owner: Philosophy Paper II — Forms of Government.
 - ⚠️ Answer frame: define the democratic threshold -> separate necessary electoral conditions from
   sufficient liberal-democratic safeguards -> add representation and minority protection -> test
   propaganda, money or elite control -> conclude with democracy as an institutional and social ethic.
@@ -128,6 +133,7 @@ DEMOCRACY
 - ✅ Use `Polity/advanced/27_Election-Commission.md` for Indian electoral administration, law and procedure; this file stays at the conceptual layer.
 - ✅ Use `Polity/advanced/11_Parliamentary-System.md` for the institutional working of representative government in India.
 - ✅ Use `Governance/advanced/14_Participatory-Governance.md` for applied participation mechanisms in administration; this file explains the democratic idea behind them.
+- ✅ Forward boundary: use `Political-Theory/basic/23_Contemporary-Democracy-Social-Change-and-Development.md` for Schumpeter, Dahl/polyarchy, elite, pluralist, participatory, Marxist and deliberative models; Topic 22 owns the classical-to-liberal-democratic foundation.
 
 ## 11. Revision capsule / answer spine
 
@@ -144,8 +150,8 @@ DEMOCRACY
 - ⚠️ **Trustee model** (associated with Edmund Burke's 1774 Speech to the Electors of Bristol): a representative should exercise independent, deliberative judgment on behalf of constituents' true interest, even against their immediate instructions.
 - ⚠️ **Delegate model:** a representative should act strictly on the instructions or expressed wishes of constituents, with little independent judgment; historically posed as Burke's trustee model's opposite pole in democratic-theory teaching.
 - ⚠️ **Mandate model:** a party (or representative) seeks authorisation to implement a stated programme placed before voters at election time (a "mandate"), and is expected to act on that programme once elected — the model most associated with party-manifesto politics in parliamentary systems.
-- ✅ **Descriptive representation** (Hanna Pitkin, *The Concept of Representation*, 1967): a representative body is representative to the extent that its composition mirrors/resembles the social characteristics (gender, caste, region, religion, class) of the represented population.
-- ✅ **Substantive representation** (Pitkin, 1967): a representative acts in the interests of the represented, whether or not the representative shares their social characteristics; substantive representation asks about actions and outcomes, descriptive representation asks about composition.
+- ⚠️ **Descriptive representation** (Hanna Pitkin, *The Concept of Representation*, 1967): a representative body is representative to the extent that its composition mirrors/resembles the social characteristics (gender, caste, region, religion, class) of the represented population.
+- ⚠️ **Substantive representation** (Pitkin, 1967): a representative acts in the interests of the represented, whether or not the representative shares their social characteristics; substantive representation asks about actions and outcomes, descriptive representation asks about composition.
 - ⚠️ **A cautious classification — "radical" vs "reactionary/conservative" readings of representation, with provenance:** some standard democratic-theory texts (for example, Andrew Heywood's *Politics*) associate the delegate/mandate models with a more radical, participation-maximising reading of democracy (representatives as instruments of popular will), and the trustee model with a more conservative or elitist reading (representatives as independent judges better placed than the mass public to decide). This labelling is an analytical classification found in secondary democratic-theory literature, not a claim from Gauba's chapter, and must be presented with this hedge rather than as settled doctrine.
 
 ## 13. Territorial vs functional representation
@@ -156,11 +162,12 @@ DEMOCRACY
 
 ## 14. Electoral systems: mechanics and trade-offs
 
-- ⚠️ **First-Past-The-Post (FPTP) / plurality-majoritarian systems:** the candidate with the most votes in a single-member constituency wins, regardless of whether they secure an outright majority. Trade-off: tends to produce clear single-party majorities and stable governments, but can translate a modest vote share into a large seat share and "waste" votes cast for losing candidates, producing disproportionality between vote share and seat share.
+- ⚠️ **First-Past-The-Post (FPTP) / plurality:** the candidate with the largest vote total in a single-member constituency wins without necessarily securing 50%+. Trade-off: it tends to produce clear accountability and often stable government, but can translate a modest vote share into a large seat share and "waste" votes cast for losing candidates.
+- ⚠️ **Majoritarian systems:** the winner must secure an absolute majority directly or through a runoff or preference transfer. Trade-off: the winner has broader numerical support, but constituency-based distortions and minority exclusion may persist.
 - ⚠️ **List Proportional Representation (List PR):** parties present ranked candidate lists in multi-member constituencies (or a single national constituency); seats are allocated to parties roughly in proportion to their vote share. Trade-off: seat shares closely track vote shares and small/minority parties gain representation, but government formation often requires multi-party coalitions, which can trade off decisiveness and stability for inclusiveness.
 - ⚠️ **Single Transferable Vote (STV):** voters rank candidates by preference in multi-member constituencies; surplus votes above the winning quota and votes of eliminated candidates are transferred according to preference until all seats are filled. Trade-off: preserves a degree of individual candidate choice (unlike closed list PR) while achieving rough proportionality, but counting is more complex and constituency-representative linkage is weaker than in FPTP.
-- ✅ **Concurrent majority — John C. Calhoun**, *A Disquisition on Government* (1851): Calhoun argued that a simple numerical majority can oppress a structurally distinct minority interest, and proposed that government require the concurrence (a form of mutual veto) of each major interest or section, not merely a head-count majority, before binding decisions are taken. **Limitation, stated cautiously:** the concurrent-majority principle is historically entangled with Calhoun's defence of the slaveholding South's sectional interests against federal majorities, a context that must be flagged when the idea is cited; analytically, it is also criticised for risking governmental paralysis/deadlock when every significant interest holds an effective veto.
-- ✅ **Consociational democracy — Arend Lijphart** (*Democracy in Plural Societies*, 1977): in deeply divided societies (religious, linguistic, ethnic), stable democracy can be achieved through (i) grand coalition of the major segments' leaders, (ii) mutual veto/concurrent-majority-style protections for vital minority interests, (iii) proportionality in representation and public appointments, and (iv) segmental autonomy for each group over its own internal affairs. Lijphart's comparative cases include the Netherlands, Belgium and, more contestably, Lebanon and Northern Ireland's later peace arrangements.
+- ⚠️ **Concurrent majority — John C. Calhoun**, *A Disquisition on Government* (1851): Calhoun argued that a simple numerical majority can oppress a structurally distinct minority interest, and proposed that government require the concurrence (a form of mutual veto) of each major interest or section, not merely a head-count majority, before binding decisions are taken. **Limitation, stated cautiously:** the concurrent-majority principle is historically entangled with Calhoun's defence of the slaveholding South's sectional interests against federal majorities, a context that must be flagged when the idea is cited; analytically, it is also criticised for risking governmental paralysis/deadlock when every significant interest holds an effective veto.
+- ⚠️ **Consociational democracy — Arend Lijphart** (*Democracy in Plural Societies*, 1977): in deeply divided societies (religious, linguistic, ethnic), stable democracy can be achieved through (i) grand coalition of the major segments' leaders, (ii) mutual veto/concurrent-majority-style protections for vital minority interests, (iii) proportionality in representation and public appointments, and (iv) segmental autonomy for each group over its own internal affairs. Lijphart's comparative cases include the Netherlands, Belgium and, more contestably, Lebanon and Northern Ireland's later peace arrangements.
 
 ### Objection-reply chains on representation and electoral design (minimum two, for direct reuse)
 
@@ -171,7 +178,7 @@ DEMOCRACY
 
 ## 15. Liberalism-democracy fusion and tensions
 
-- ✅ **Giovanni Sartori** (*The Theory of Democracy Revisited*, 1987) analyses "liberal democracy" as a historically fused but analytically separable compound: liberalism supplies limits on power, individual rights and constitutional restraint; democracy supplies the principle of popular rule and political equality.
+- ⚠️ **Giovanni Sartori** (*The Theory of Democracy Revisited*, 1987) analyses "liberal democracy" as a historically fused but analytically separable compound: liberalism supplies limits on power, individual rights and constitutional restraint; democracy supplies the principle of popular rule and political equality.
 - ⚠️ **The tension:** unconstrained popular/majority rule can threaten individual and minority rights (the classical "tyranny of the majority" concern raised by Tocqueville and Mill), while excessive insulation of rights and institutions from popular control can hollow out democratic accountability. Liberal-democratic constitutionalism (independent judiciary, entrenched fundamental rights, federalism, checks and balances) is the standard institutional response to hold both commitments together, consistent with this file's existing Section 4/9 treatment of Gauba's own liberal-democratic package (PDF pp.494-499).
 - ⚠️ This tension is the same one already flagged in this file's Section 9 (majority rule vs minority suppression) and Section 5 (necessary vs sufficient conditions); Sartori's framing gives it an explicit conceptual name for answer-writing.
 
@@ -187,6 +194,7 @@ DEMOCRACY
 - ⚠️ India's Lok Sabha and state assembly elections use FPTP in single-member constituencies; this is offered only as a familiar illustration of plurality mechanics discussed in Section 14, not as a substitute for the institutional/legal detail that belongs to the Polity files (see `Polity/advanced/27_Election-Commission.md`).
 - ⚠️ List PR is commonly illustrated with countries such as the Netherlands or Israel (comparative-politics textbook examples); STV is commonly illustrated with the Republic of Ireland's Dáil elections and the Australian Senate; these are standard comparative-politics illustrations, not claims verified against this file's core Gauba source.
 - ⚠️ India's constitutional protections for linguistic and religious minorities (for example, special provisions and reserved seats/nomination mechanisms) can be cautiously compared, at a conceptual level only, to the minority-protection logic behind Calhoun's concurrent majority and Lijphart's consociational safeguards; this is an analytical parallel for exam use, not a claim that India is constitutionally a consociational democracy.
+- ⚠️ **Indian liberal-democratic capsule:** universal adult franchise supplies equal political standing; competitive elections create public authorisation; civil liberties enable opinion and opposition; judicial review restrains unconstitutional power; minority-rights protections limit majoritarian domination; and local self-government widens participation below national and state legislatures. Keep article numbers, case law and institutional detail in the linked Polity owners.
 
 ## 18. Quotation and proposition handling
 
@@ -198,5 +206,5 @@ DEMOCRACY
 - ✅ Primary source used: Gauba, Ch.22 "Concept of Democracy" (PDF pp.491-512).
 - ✅ Verified local PYQs: `Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`.
 - ✅ Key page clusters used: classical and modern conceptions (PDF pp.491-494); liberal democracy principles and institutions (PDF pp.495-500); democracy as a way of life (PDF pp.510-512).
-- ⚠️ **Metadata correction (this pass):** an earlier version of this line also cited "representation and elections (PDF pp.500-509)" as a used page cluster, but the file body did not, until this edit, contain corresponding representation-theory or electoral-system content — that citation has been removed rather than left as an unsupported page claim. Sections 12-15 now build out representation and electoral-system content in full, but that new material is sourced to the named scholars identified inline (Burke, Pitkin, Heywood, Calhoun, Lijphart, Sartori), not to Gauba PDF pp.500-509, because it has not been independently verified against that page range in this pass.
+- ⚠️ Sections 12-15 add standard secondary democratic-theory material sourced to the named scholars identified inline (Burke, Pitkin, Heywood, Calhoun, Lijphart and Sartori). They are not presented as direct Gauba Ch.22 claims.
 - ⚠️ All examples are timeless hypotheticals unless explicitly identified as historical/book-period illustrations from the source. The comparative-politics and Indian illustrations in Sections 13-15 and 17 are explicitly flagged ⚠️ and are not claimed as Gauba-sourced.

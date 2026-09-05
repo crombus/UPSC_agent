@@ -43,7 +43,9 @@ revenues**; extended Company trade monopoly 20 more years.
 ### Charter Act, 1813
 ✅ **Abolished Company's trade monopoly** (open to all British merchants) — **except tea & China
 trade**; asserted **Crown sovereignty** over Company territories; allowed **Christian missionaries**;
-provided for **western education**; local govts could impose taxes.
+earmarked at least **one lakh rupees annually** for literature, learned Indians and the promotion
+of scientific knowledge (not an express statutory choice of English or "Western education");
+local governments could impose taxes.
 
 ### Charter Act, 1833 ⭐ (final step of centralisation)
 ✅ **GG of Bengal → GG of India** with all civil/military powers; first = **Lord William Bentinck**.
@@ -119,8 +121,10 @@ Provincial (54), Concurrent (36)** lists; residuary to **Viceroy** — **federat
 (2) **partition** → two dominions (India & Pakistan) with right to secede from Commonwealth; (3)
 abolished **Viceroy** → each dominion a **Governor-General**; (4) Constituent Assemblies could frame
 any constitution & repeal British Acts; (5) legislate till new constitutions; (6) abolished **Secretary
-of State for India**; (7) **lapse of British paramountcy** over princely states; (8) states free to
-join India/Pakistan or stay independent; (9) governance via **GoI Act 1935** till new constitution;
+of State for India**; (7) **lapse of British paramountcy** over princely states and related Crown
+treaty obligations; (8) accession was therefore not automatic absorption into either Dominion and
+had to be secured through Indian political and legal action; (9) governance via **GoI Act 1935**
+till new constitution;
 (10)–(11) GG & governors became **constitutional (nominal) heads** on ministers' advice; (12) dropped
 **"Emperor of India"** title.
 

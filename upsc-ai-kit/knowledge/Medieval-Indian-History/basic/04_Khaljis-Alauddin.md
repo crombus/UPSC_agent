@@ -13,7 +13,7 @@
 |---|---|
 | ✅ 1290 | Jalaluddin Khalji founds the Khalji dynasty ("Khalji revolution") |
 | ✅ 1296 | Alauddin murders Jalaluddin, seizes the throne |
-| ✅ 1298–1311 | Deccan/South campaigns under **Malik Kafur** |
+| ✅ 1306–11 | Major Deccan/South expeditions under **Malik Kafur** |
 | ✅ 1303 | Conquest of **Chittor**; market reforms belong to the standing-army/Mongol-pressure phase, but their exact start-year is not securely fixed |
 | ✅ 1316 | Death of Alauddin; rapid Khalji decline → Tughlaqs (1320) |
 
@@ -23,7 +23,10 @@
 
 ✅ The Khalji accession (1290) broadened the ruling class beyond the narrow Turkish "slave" nobility — Satish Chandra treats it as a widening of the political base, not merely a dynastic change. Under **Alauddin Khalji (1296–1316)** the Sultanate reached a new level of **stability and central control**: the state was "no longer concerned merely with warfare and law and order."
 - ✅ Alauddin faced repeated **Mongol invasions** of Delhi, which forced him to raise and pay a **large standing army**.
-- ✅ To pay that army cheaply he needed **low prices**, so he could pay **low salaries** — this is the direct logic behind his famous market control.
+- ⚠️ Barani connects the controls to maintaining a large army on relatively
+  modest cash salaries. Provisioning, capital order and political surveillance
+  are additional debated objectives; the motive cannot be read as an
+  uncontested official memorandum.
 - ✅ Conquests: Gujarat, **Chittor (1303)**, Ranthambhor, Malwa; and the **Deccan/South** (Devagiri, Warangal, Dwarasamudra, Madurai) raided for wealth by **Malik Kafur**.
 
 **Foundation — market control & agrarian policy.**
@@ -89,8 +92,8 @@
 |---|---|
 | Examine market control mechanism | "Alauddin's price control was a military-fiscal device: Mongol defence → large army → low salaries → fixed prices → agrarian surplus extraction in the doab, enforced by intelligence, registers and harsh punishment." |
 | Critically evaluate motives | "The system was neither welfare nor proto-socialism; it served the army and the ruler, and its benefits to Delhi consumers were a by-product, not the objective." |
-| Assess limits and legacy | "The reforms depended entirely on Alauddin's coercive apparatus and collapsed within months of his death — demonstrating the Sultanate's institutional limits despite unprecedented administrative reach." |
-| Compare with later revenue systems | "Alauddin's measurement and half-produce demand in the doab was a precedent for Sher Shah's and Akbar's zabt; the difference is that later systems were broader, less punitive and longer-lasting." |
+| Assess limits and legacy | "The tightly enforced system did not endure after Alauddin's death; succession crisis, dependence on coercive supervision and changed priorities expose institutional limits." |
+| Compare with later revenue systems | "Alauddin's measurement and half-produce demand is an important earlier comparison for Sher Shah and Mughal assessment, but direct continuity and uniformity must be demonstrated rather than assumed." |
 
 ### 8.2 Named evidence units
 
@@ -114,6 +117,307 @@
 - **10-mark:** Mongol-motive + mechanism (2 evidence units) + collapse as limit. Conclude: impressive reach, unsustainable beyond one reign.
 - **15-mark:** Add agrarian base + Barani source criticism + Deccan wealth. Conclude: multi-instrument system, but coercion-dependent.
 - **20-mark:** Full 6-unit deployment; contrast with Sher Shah/Akbar; discuss historiographical debate on "medieval planned economy" vs "military fiscalism"; graded verdict.
+
+---
+
+## 9. Semantic-completeness repair: identity, accession and sources
+
+### 9.1 Khalji identity
+
+The Khaljis were of Turkic origin but had long associations with Afghan regions.
+Contemporary/near-contemporary Turkish elites sometimes treated them as
+outsiders or "Afghans." Turk, Afghan, Khalji and Persianate therefore cannot be
+used as fixed interchangeable ethnic categories.
+
+The "Khalji revolution" of 1290 signifies a widening/recomposition of the ruling
+elite beyond the older Shamsi-Turkish mamluk monopoly. It was not a national or
+social revolution in the modern sense.
+
+### 9.2 Jalaluddin and Alauddin
+
+| Ruler/phase | Historical significance | Caution |
+|---|---|---|
+| Jalaluddin Firuz Khalji, 1290–96 | founded dynasty; sought legitimacy through relative clemency and elite accommodation | his accession faced old-nobility suspicion and competing claims |
+| Alauddin at Kara | accumulated military wealth/status, including Devagiri raid | later court narratives moralize ambition |
+| Alauddin's seizure, 1296 | murdered Jalaluddin and used treasure, patronage and military support to secure Delhi | accession was violent but still required recognition and coalition-building |
+
+### 9.3 Sources
+
+| Source | Best use | Limit |
+|---|---|---|
+| Ziya al-Din Barani, *Tarikh-i Firuz Shahi* | regulations, nobles, markets, revenue and political ideals | wrote decades later; normative aristocratic and retrospective framing |
+| Amir Khusrau, including *Khaza'in-ul-Futuh* | campaigns, court culture, conquest rhetoric and urban Persianate world | panegyric, literary selection and patron dependence |
+| Isami | later narrative and Khalji-Tughlaq transition memory | chronological distance and political position |
+| Inscriptions/coins | titles, construction, mints, local claims and material acts | uneven and rarely explain motive alone |
+| Architecture/archaeology | Siri, gateways, forts, settlement and craft phases | attribution/reuse needs contextual proof |
+| Later Padmavat tradition | memory and literary imagination | Malik Muhammad Jayasi wrote in the sixteenth century; not contemporary Chittor evidence |
+
+Barani is indispensable but not a neutral economist or eyewitness to every
+event. Reported prices, motives, speeches and perfect enforcement require
+cross-checking and calibrated language.
+This source rhetoric reveals court ideals as well as policy claims.
+
+---
+
+## 10. Mongol pressure and military reform
+
+Major Mongol attacks during Alauddin's reign included frontier invasions and
+assaults that reached Delhi, notably the 1303 Targhi crisis. The chronology and
+leaders vary across accounts, but repeated danger shaped defensive policy.
+
+| Measure | Function | Caution |
+|---|---|---|
+| Siri/Delhi defence | fortified capital and field base | urban construction also served court/legitimacy |
+| Frontier forts/garrisons | watch, delay and respond to invasions | coverage varied |
+| Standing cavalry | faster mobilization against Mongols and for expansion | numbers in chronicles are uncertain |
+| Horse branding (*dagh*) | checked substitution/fraud | institutional chronology must remain source-aware |
+| Descriptive rolls (*chehra*) | identified soldiers/personnel | not a modern biometric bureaucracy |
+| Cash salaries | supported central troops | linked to revenue and market purchasing power |
+| Intelligence | monitored frontier, nobles and markets | reports could be coercive and selective |
+
+The 2022 Prelims PYQ correctly distinguishes earlier Mamluk-period Mongol
+pressure from the Delhi siege under Alauddin and later Tughlaq claims.
+
+---
+
+## 11. Expansion: claim, tribute and control
+
+### 11.1 Northern/western campaigns
+
+| Theatre | Broad chronology/result | Source caution |
+|---|---|---|
+| Gujarat, 1299 | conquest/raid, wealth, ports and political incorporation | court sources foreground victory and booty |
+| Ranthambore, 1301 | siege and conquest after resistance | local politics and prior refuge questions matter |
+| Chittor, 1303 | conquest and garrisoned control | Padmini/Padmavat narrative is later literary memory |
+| Malwa, c. 1305 | expanded northern imperial reach | extent/administration should not be inferred from a campaign line alone |
+
+### 11.2 Malik Kafur and Deccan/South
+
+| Target | Campaign relationship | What it did not initially mean |
+|---|---|---|
+| Devagiri | Alauddin's pre-accession raid; later repeated pressure, tribute and closer control | one simple single conquest |
+| Warangal | tribute/submission after expedition | immediate annexation as a Delhi province |
+| Dwarasamudra | raid/tribute relationship | permanent occupation |
+| Madurai/Pandya zone | expedition amid local succession/conflict | stable administrative control of the far south |
+
+Malik Kafur acted as a delegated commander. Local rulers, tribute, hostages,
+garrisons, renewed rebellion and later annexation must be distinguished.
+Sensational stories about his origin or sexuality do not explain strategy.
+
+The Khalji empire had a stronger Delhi-Doab/core and graded frontier, tributary
+and expeditionary zones. A maximalist shaded map conceals those differences.
+
+---
+
+## 12. Kingship, nobles and anti-rebellion controls
+
+Alauddin sought sultanic autonomy from noble faction and did not present his
+state regulations as a simple application of juristic **sharia**.
+
+- Barani's reported dialogue with Qazi Mughis distinguishes state regulations
+  (**zawabit**) and political necessity from the ulama's legal ideal.
+- This does not make Alauddin secular, anti-religious or hostile to Islam.
+- He used Islamic legitimacy and religious rhetoric while asserting wide
+  discretion in rule.
+- The ulama were neither sole policy-makers nor politically irrelevant.
+
+Anti-rebellion measures included:
+
+1. confiscation/resumption of some grants, pensions and wealth;
+2. stronger intelligence through barids/munhiyans;
+3. restrictions on wine, elite gatherings and unauthorized marriage alliances;
+4. close supervision of nobles, commanders and wealth.
+
+These aimed at faction control and revenue concentration. Court description does
+not prove perfect enforcement across the empire.
+
+---
+
+## 13. Revenue and agrarian reform
+
+### 13.1 Core scope
+
+The best-documented measures concern the crown-controlled (**khalisa**) core and
+the Delhi-Doab supply region. They must not be projected uniformly onto Gujarat,
+Rajasthan, the Deccan or tributary states.
+
+| Measure | Mechanism | Social effect/limit |
+|---|---|---|
+| Measurement (*masahat*) | assessed cultivated land/produce in core areas | implementation required local knowledge |
+| Land revenue (*kharaj*) | reported at about half produce in the core | cash/kind practice varied |
+| Direct collection | reduced some iqta/intermediary claims in khalisa areas | did not abolish all rural intermediaries |
+| Khuts, muqaddams, chaudhuris | privileges/perquisites and burden-shifting curtailed | groups and effects varied locally |
+| House/grazing taxes | widened demands reported by Barani | incidence and enforcement need caution |
+
+The reforms increased state claims and capital supply while placing severe
+pressure on cultivators and rural elites. They were neither egalitarian land
+reform nor empire-wide uniform assessment.
+
+---
+
+## 14. Market regulation: institutions and mechanism
+
+### 14.1 Regulated market clusters
+
+| Cluster | Goods/functions |
+|---|---|
+| Grain market/mandi | foodgrains, supply, storage and scarcity release |
+| Cloth and costly goods, including Sarai-i-Adl | textiles and selected imported/high-value commodities |
+| Horses, slaves and cattle | army remounts, animals and persons treated as market categories in the source |
+| Wider necessities | oil, sugar and other goods under price schedules |
+
+### 14.2 Institutional architecture
+
+| Instrument | Function |
+|---|---|
+| *Diwan-i Riyasat* | department associated with market control |
+| *Shahna-i mandi* | market superintendent/enforcement |
+| Merchant registration | fixed responsibility and monitored supply |
+| Banjaras | organized grain transport to Delhi |
+| State granaries | stocks released during scarcity |
+| Intelligence | independent reports on prices, stocks and violations |
+| Rationing | scarcity-time allocation reported for Delhi |
+| Punishment | deterred hoarding, short-weighing and price evasion |
+
+The state intervened in supply, transport, merchant conduct, quality, final
+prices and intelligence—not merely by announcing a price list.
+
+---
+
+## 15. Objectives, effects and limits
+
+### 15.1 Why regulate?
+
+Barani's principal explanation links:
+
+```text
+Mongol threat -> large standing army -> cash salaries
+             -> controlled cost of living/remounts
+             -> grain/revenue supply + market regulation
+```
+
+Provisioning Delhi, disciplining merchants/nobles and demonstrating political
+control may also have mattered. Political control was therefore an objective
+dimension, not proof of one motive. Objectives were multiple and source-mediated.
+
+### 15.2 Limits
+
+- Geographical scope was capital/core-centred, not all India.
+- Duration depended heavily on Alauddin's supervision and coercive institutions.
+- Prices do not show that goods were always available or quality uniform.
+- Enforcement generated concealment, evasion and black-market incentives.
+- Delhi consumers could benefit from stable prices while peasants and carriers
+  bore coercive costs.
+- The system was not socialism, welfare policy or a modern independent regulator.
+- Its tightly integrated form did not survive Alauddin unchanged.
+
+---
+
+## 16. Urban economy, trade and coinage
+
+Delhi's army, court, Siri construction and regulated markets stimulated demand
+for grain, cloth, horses, metalwork, building labour and transport.
+
+- Gujarat and Deccan contacts linked the Sultanate to commercial ports and
+  regional wealth.
+- Merchant registration and price control did not end private trade.
+- Coinage and cash salaries supported monetized exchange, while revenue in kind
+  and storage also mattered.
+- State intervention was strong in Delhi but did not constitute command over
+  every regional market.
+- Urban growth and monumental building coexisted with high agrarian extraction.
+
+---
+
+## 17. Architecture and Amir Khusrau
+
+| Evidence | Historical significance | Limit |
+|---|---|---|
+| Siri | Mongol defence, court/army centre and urban expansion | archaeological survival is incomplete |
+| Alai Darwaza, 1311 | mature arch/dome construction, calligraphy and royal gateway | not the first arch in India |
+| Alai Minar | uncompleted monumental ambition | unfinished plan does not prove incapacity alone |
+| Hauz-i Alai/Hauz Khas reservoir context | water supply and urban planning | later repairs/uses complicate phases |
+| Amir Khusrau | court poetry/history, conquest narrative and Indo-Persian culture | panegyric and literary craft shape evidence |
+
+Architecture and literature illuminate state capacity and ideology, not the
+whole population or universal prosperity.
+
+---
+
+## 18. Succession and dynastic collapse
+
+Alauddin's illness/death in 1316 opened a succession crisis involving Malik
+Kafur, a minor heir, court factions and military households.
+
+- Malik Kafur's brief dominance ended violently.
+- Qutb al-Din Mubarak Shah ruled from 1316 to 1320 and reversed/relaxed several
+  controls.
+- Khusrau Khan seized power in 1320.
+- Ghazi Malik defeated him and founded the Tughlaq dynasty.
+
+The collapse was multi-causal: personalized coercive institutions, disputed
+succession, factional violence, rapid elite turnover, Deccan/imperial
+overextension and absence of a stable transfer mechanism. It was not caused by
+one individual alone.
+
+---
+
+## 19. PYQ ownership and Prelims traps
+
+### 19.1 Routed demands
+
+| PYQ | Status |
+|---|---|
+| 2022 Prelims Q57, Mongol invasions | **Direct routed Topic-04 PYQ**; official key unavailable locally; inferred answer statement 2 only |
+| 2020 GS-I Q12, Persian literary sources | Adjacent; primary owner Topic 24 |
+| 2023 GS-I Q12, Sultanate technology/social effects | Adjacent; primary owner Topic 07 |
+
+### 19.2 Prelims traps
+
+- Jalaluddin founded the dynasty; Alauddin seized power in 1296.
+- Dagh = horse branding; chehra = descriptive personnel roll.
+- Diwan-i Riyasat = market department; shahna-i mandi = market superintendent.
+- Sarai-i-Adl is associated with cloth/costly goods, not a law court here.
+- Malik Kafur led major 1306–11 Deccan expeditions.
+- Tribute/raid is not automatic annexation.
+- Padmavat is sixteenth-century literary memory, not a contemporary Chittor
+  chronicle.
+
+---
+
+## 20. Executable Mains architecture
+
+### 10 marks / 150 words: Mongol pressure and army reform
+
+Chronology → Siri/frontier → standing cavalry → dagh/chehra/cash salaries →
+market-revenue link → source/scale qualification.
+
+### 15 marks / 250 words: market regulations
+
+```text
+objectives and Barani source
+        |
+agrarian/khalisa supply base
+        |
+markets + prices + officials
+        |
+transport + storage + intelligence + punishment
+        |
+effects on army/consumer/merchant/peasant
+        |
+geographic/duration/sustainability limits
+```
+
+### 20 marks / 250 words: nature of Khalji expansion and centralization
+
+- accession and elite change;
+- Mongol-driven military reform;
+- north/core/frontier political geography;
+- Deccan tribute versus annexation;
+- kingship, sharia/ulama and anti-rebellion controls;
+- revenue, markets and urban economy;
+- Barani/Khusrau source limits;
+- succession and multicausal collapse.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

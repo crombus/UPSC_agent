@@ -4,6 +4,20 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The clause controls God-concepts, divine attributes, and God–world–human relations in both traditions. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The official clause owns **notions of God, divine attributes, and relation to human beings and the
+world in Indian and Western traditions**.
+
+| Owned here | Boundary |
+|---|---|
+| classification of God/ultimate-reality concepts | existence arguments remain with [Proofs for God](./Proofs-for-God.md) |
+| definition and mutual coherence of divine attributes | the full logical/evidential challenge from suffering remains with [Problem of Evil](./Problem-of-Evil.md) |
+| God–world and God–human relation | immortality/liberation remains with [Soul](./Soul-Immortality-Rebirth.md); experience remains with [Religious Experience](./Religious-Experience.md) |
+| creator and non-creator Indian profiles | the full case for religion without a creator remains with [Religion without God](./Religion-without-God.md) |
+| minimal controls on anthropomorphism, analogy, symbol and gendered language | full semantic theories remain with [Religious Language](./Religious-Language.md) |
+| plurality of deity-concepts inside a tradition | conflicting religious truth-claims remain with [Religious Pluralism](./Religious-Pluralism.md) |
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -12,8 +26,8 @@
                         NOTIONS OF GOD
    WESTERN                                    INDIAN
    ───────                                    ──────
-   THEISM   — personal, creator, transcendent SAGUṆA — God with qualities (Īśvara,
-              + immanent (classical: omni-3)           personal — Rāmānuja, bhakti)
+   THEISM   — personal, creator, transcendent PERSONAL GOD WITH QUALITIES
+              + immanent (classical: omni-3)          (saguṇa Īśvara; qualified theisms)
    DEISM    — creator who withdraws           NIRGUṆA — Brahman beyond qualities,
    PANTHEISM— God = world (Spinoza)                     impersonal (Advaita/Śaṃkara)
    PANENTHEISM — world IN God                 relation to world: pariṇāma (real) /
@@ -21,29 +35,71 @@
    Attributes: omnipotent, omniscient,        Attributes: sat-cit-ānanda; nirguṇa vs saguṇa;
    omnibenevolent, eternal, simple            antaryāmin (immanent) + transcendent
 ```
-> 🔑 **Mnemonic — "Personal vs Impersonal; Transcendent vs Immanent."** Western theism ≈ Indian Saguṇa (personal); Advaita Nirguṇa ≈ the impersonal Absolute; Spinoza's pantheism sits between.
+> 🔑 **Mnemonic — "Personal vs Impersonal; Transcendent vs Immanent."** These are
+> comparison axes, not equations: classical theism, qualified personal Brahman, non-dual Brahman
+> and Spinoza's substance differ in creation, personality, dependence and world-relation.
 
 ---
 
 ## 1. WESTERN NOTIONS ✅
+
+### 1.1 Classification before evaluation
+
+| Notion | Number/status of deity | God–world relation | Personality |
+|---|---|---|---|
+| **Monotheism** | one supreme God | usually creator and sustainer distinct from creation | normally personal |
+| **Polytheism** | several genuine deities | divided or overlapping cosmic functions | personal plurality |
+| **Henotheism** | one deity worshipped/addressed as supreme without denying others | contextual supremacy | personal |
+| **Monolatry** | worship of one God while allowing that others may exist | exclusive worship, not necessarily one ontology | personal |
+| **Classical theism** | one necessary, perfect God | creates, sustains and governs while transcending the world | personal but non-corporeal |
+| **Deism** | one creator | establishes the world/order without continuing revelatory intervention | personal source, religiously remote |
+| **Pantheism** | God and all-inclusive reality are one | world is not outside God | commonly impersonal/non-volitional |
+| **Panentheism** | the world exists in God, while God exceeds it | inclusion-with-excess and deep immanence | personal or process-relational variants |
+
+⚠️ Pantheism must not be reduced to “God equals the aggregate of physical objects.” In Spinoza,
+finite things are modes of the one infinite substance; God/Nature includes intelligible reality
+under infinitely many attributes, not matter alone.
+
 - **Classical theism:** God = a **personal, transcendent Creator**, distinct from the world, with the "omni" attributes: **omnipotent, omniscient, omnibenevolent, eternal, immutable, simple, necessary**. Immanent (present/active in world) *and* transcendent (beyond it). ✅
 - **Deism:** God creates the world + natural laws, then **withdraws** — no miracles/revelation (the "cosmic clockmaker"). ✅
 - **Pantheism (Spinoza — 2022, 2024 PYQ):** **God = Nature (Deus sive Natura)** — the one infinite substance; Thought & Extension are attributes; things are modes. **Impersonal, immanent, necessary**; no transcendent creator. ✅
 - **Panentheism:** the world is **in** God but God exceeds the world (Process theism — God dipolar).
 - **Immanent & Transcendent (2023 PYQ):** theism holds **both** — God is *transcendent* (beyond, self-sufficient, creator) yet *immanent* (sustaining, present in creation). ⚠️
 
+### 1.2 Role-profiles: what “God” is doing in the concept
+
+| Role | Core claim | Main pressure |
+|---|---|---|
+| Creator | all creaturely being depends on God, not merely the arrangement of prior matter | whether creation follows freely or necessarily |
+| Sustainer | dependence continues at every moment; divine causation need not compete with finite causes | how continuous action fits timelessness/immutability |
+| Ruler/providence | world-history and natural order fall under divine governance | freedom, contingency and hiddenness |
+| Moral governor | action and moral order are finally answerable to divine justice | autonomy and the problem of suffering |
+| Ground of being | God is the non-dependent source of actuality rather than one being alongside others | personality and worship become harder to state |
+| Absolute | ultimate reality is self-sufficient, non-relative and ontologically basic | an impersonal absolute may cease to resemble a personal God |
+
+⚠️ Paul Tillich's “ground of being” or “Being-itself” is a revisionary profile, not a proof and not a
+synonym for every classical-theist use of “God.”
+
 ---
 
 ## 2. INDIAN NOTIONS ✅
 - **Spectrum first (do not flatten it):** ⚠️ *polytheism* (many independent deities) → *henotheism/kathenotheism* (the invoked deity addressed as supreme, one at a time) → *polymorphic/sectarian monotheism* (Vaiṣṇava, Śaiva, Śākta — one ultimate, many forms) → *monism* (one non-dual reality) → *qualified theism* (Rāmānuja) → *dualistic theism* (Madhva). Full module at §8.5.
-- **Saguṇa vs Nirguṇa Brahman:** ✅
+- **Personal God with qualities (*saguṇa Īśvara*) versus quality-transcending absolute
+  (*nirguṇa Brahman*):** ✅
   - **Nirguṇa** — Brahman **without qualities**, beyond all predication, impersonal, and **beyond the reach of objectifying speech** (*avācya*; *yato vāco nivartante* — "whence words turn back", Taittirīya Upaniṣad 2.9; method: *neti neti*, Bṛhadāraṇyaka 2.3.6); the highest reality for **Advaita (Śaṃkara)**.
   - ⚠️ **Terminological correction (examiner-visible):** do **not** gloss nirguṇa Brahman as *anirvacanīya*. In Advaita's technical vocabulary *anirvacanīya* ("indeterminable") is the status of **māyā / avidyā and the world-appearance** — *sad-asad-vilakṣaṇa*, neither absolutely real nor absolutely unreal, hence not classifiable either way. Brahman is not indeterminable in that sense: it is *sat*, the one reality, whose ineffability is the failure of **predication**, not an ontological in-between. Spelling standard for this folder: ***anirvacanīya*** (adjective), ***anirvacanīyatā*** (abstract noun) — see [Religious Language §9.5](./Religious-Language.md).
-  - **Saguṇa (Īśvara)** — Brahman **with qualities**, personal God, object of devotion (**Rāmānuja, bhakti** traditions).
+  - **God with qualities (*saguṇa Īśvara*)** — in Advaita, Brahman understood personally and
+    relationally at the empirical level; in qualified/dualistic Vedānta, the ultimate is always
+    genuinely determinate and personal rather than a lower appearance.
   - Advaita: Saguṇa Īśvara is Brahman-as-related-to-māyā, a lower (*vyāvahārika*) standpoint; Nirguṇa is the absolute (*pāramārthika*).
 - **Attributes:** **Sat-Cit-Ānanda** (Being-Consciousness-Bliss); **antaryāmin** (inner controller — immanent) yet transcendent.
 - **Rāmānuja's God (Viśiṣṭādvaita — 2022 PYQ):** a **personal, saguṇa God (Brahman)** whose **body** is the world (cit + acit); souls (*jīvas*) are real **modes/attributes** of God — related as **aprthak-siddhi** (inseparable). God is both the material & efficient cause (real transformation — pariṇāma). ✅
 - **Personalistic vs impersonalistic (2023 PYQ):** the Saguṇa/Nirguṇa distinction *is* the Indian form of this debate. ⚠️
+
+⚠️ **Non-interchangeability rule:** non-dual Brahman is not simply the Indian name for the
+classical personal creator. Advaita ultimately denies creator–creature duality; classical theism
+retains it; qualified non-dualism makes selves/world real dependent qualifications of personal
+Brahman.
 
 ---
 
@@ -140,6 +196,27 @@ Concl : compatible only on a specified reading of each term — name which premi
 - **Canonical examples.** ✅ Aquinas' primary/secondary causation permits God to sustain natural causes without competing with them; Nyāya similarly treats Īśvara as efficient cause while atoms remain material causes.
 - **Objection → reply.** ⚠️ The omni-attributes generate paradoxes and evil. A classical reply restricts omnipotence to what is logically possible and treats goodness as identical with, not external to, divine nature.
 
+### 8.1A The attribute package and its coherence costs
+
+| Attribute | Exact notion | Coherence pressure | Standard controlled reply |
+|---|---|---|---|
+| Omnipotence | power to realise every absolutely possible state of affairs | stone paradox; inability to sin/lie | contradictions are not possible objects; impeccability is perfection, not weakness |
+| Omniscience | knowledge of every truth | future freedom and indexical/temporal knowledge | timeless knowledge, soft facts, middle knowledge or revised future truth |
+| Perfect goodness | unsurpassable moral perfection | evil and whether goodness is independent of divine will | goodness belongs necessarily to divine nature; full theodicy routes to Problem of Evil |
+| Eternity | either timeless possession of life or everlasting existence through all time | a timeless being seems unable to act “before/after” or respond | one timeless act can ground temporal effects; critics question relation and responsiveness |
+| Immutability | no intrinsic change or loss of perfection | knowledge, love and response seem personal only if relationally changing | distinguish intrinsic change from new temporal effects/relations; the distinction remains contested |
+| Simplicity | no real composition; essence/existence and attributes are one in God | modal collapse and property/person objection | analogical identity or truthmaker readings, each with a cost |
+| Personhood | intelligence, will, knowledge, love and addressability without bodily limitation | anthropomorphism and gender projection | personal predicates are analogical, not univocally human |
+
+⚠️ **Timeless-action dilemma:** if God timelessly wills one complete order, temporal creation and
+response can be effects of that act; yet if no alternative divine act is possible, contingency is
+threatened. The doctrine preserves transcendence at the cost of a difficult account of free,
+responsive agency.
+
+⚠️ **Immutability/personality verdict:** constancy of character need not mean emotional inertness,
+but a notion that removes every real relation or response risks preserving metaphysical perfection
+by weakening religious personality.
+
 ### 8.2 Spinoza's God or Nature
 - **Doctrine statement.** ✅ God is the one infinite substance, *Deus sive Natura*; finite minds and bodies are modes, not created substances outside God.
 - **Argument.** ✅ (1) Substance is conceived through itself; (2) two substances cannot share an attribute; (3) an absolutely infinite substance excludes any rival substance; (4) therefore only God/Nature is substance, expressed through infinitely many attributes.
@@ -163,6 +240,39 @@ Concl : compatible only on a specified reading of each term — name which premi
 - **Distinction.** ✅ *Apṛthaksiddhi* is inseparability, not numerical identity: the jīva belongs to God yet never becomes the whole of God.
 - **Canonical example.** ✅ The soul governs its body while remaining distinct from it; analogously Brahman is the inner ruler of world and selves.
 - **Objection → reply.** ⚠️ If the world is God's body, worldly defect appears to infect God. Rāmānuja's reply distinguishes the controller's perfection from the changing condition of the controlled body.
+
+### 8.4A Nyāya God (*Īśvara*) as an owned notion, not a proof
+
+The 2021 PYQ asks the **nature** of God; the inference establishing God belongs to Proofs.
+
+| Attribute/relation | Nyāya position |
+|---|---|
+| Ontological status | one eternal, incorporeal self distinct from finite selves |
+| Knowledge | omniscient; not limited by ordinary perception, inference or error |
+| Causation | efficient/ordering cause of the world; eternal atoms remain material causes |
+| Moral governance | supervisor of karma who connects unseen moral potency (*adṛṣṭa*) with appropriate fruits |
+| Scripture/language | authoritative teacher/speaker in the theistic Nyāya profile |
+| Human relation | moral governor and teacher; finite selves retain agency and karmic responsibility |
+
+**Coherence control ⚠️:** calling God the karmic administrator does not make God the author of each
+choice. The pressure is whether an omniscient allocator is needed and how divine governance remains
+compatible with human effort. Full inference and Mīmāṃsā/Buddhist objections route to
+[Proofs for God](./Proofs-for-God.md).
+
+### 8.4B Theistic and non-creator Indian profiles
+
+| School/profile | Ultimate or divine notion | Creator status |
+|---|---|---|
+| Nyāya | omniscient personal God (*Īśvara*), efficient cause and moral governor | creator/arranger, not material cause |
+| Classical Yoga | a special self (*puruṣa-viśeṣa*) untouched by affliction and karma, archetypal teacher | not the creator of nature's evolution |
+| Mīmāṃsā | eternal Veda, ritual order and unseen potency without necessary divine author | no required creator |
+| Sāṃkhya | conscious selves and primordial nature as independent principles | no creator God required |
+| Buddhism/Jainism | religious paths and cosmologies without an omnipotent creator | non-creator traditions |
+| Advaita | quality-transcending Brahman ultimate; personal God (*Īśvara*) at empirical level | creator language belongs to empirical dependence |
+
+⚠️ “Non-theistic” does not mean irreligious, morally empty or atheistic in one uniform sense. The
+profiles deny or revise a creator while retaining distinct accounts of ultimacy, liberation and
+religious practice.
 
 ### 8.5 Polytheism, henotheism and the Vedic case (2018 Q5(e) owner-module)
 - **Doctrine statement.** ✅ *Polytheism* posits many independent personal deities with divided jurisdiction. *Henotheism* (and its finer variant *kathenotheism*, "one-god-at-a-time") names the pattern in which the deity currently invoked is addressed with the full language of supremacy without the others being denied. ✅ Both terms were introduced into the study of the Veda by **F. Max Müller**, who read the Ṛgvedic hymns to Agni, Indra, Varuṇa and Uṣas as successively supreme.
@@ -217,6 +327,23 @@ Concl : compatible only on a specified reading of each term — name which premi
 
 - **Objection → reply.** ⚠️ Objection: these are sectarian theologies, not philosophy. Reply: each states an explicit **causal doctrine, a bondage-analysis and a liberation-criterion**, and each can be assessed for coherence — which is exactly what the examiner's "critically examine" requires.
 
+### 8.8A Anthropomorphism, analogy, symbol and gendered God-language
+
+- **Anthropomorphism:** bodily images can orient devotion but become misleading if projected
+  literally onto a non-corporeal ultimate.
+- **Analogy:** “knows,” “loves” or “acts” may signify a real perfection without meaning exactly what
+  they mean of finite persons.
+- **Symbol:** creator, ruler, father/mother or indwelling presence can disclose a relation without
+  functioning as a literal physical description.
+- **Gendered language:** masculine or feminine divine language does not establish biological sex in
+  a non-corporeal God. Exclusive use can nevertheless shape authority, imagination and whose
+  experience appears normative.
+
+⚠️ Personhood means intelligence, will, knowledge, love and addressability—not human embodiment or
+male gender. A full theory of analogy/symbol/non-cognition belongs to
+[Religious Language](./Religious-Language.md); this owner uses only the semantic minimum needed to
+state the notion coherently.
+
 
 
 ## 9. INTER-THINKER / INTER-SCHOOL DEBATES
@@ -252,12 +379,53 @@ Concl : compatible only on a specified reading of each term — name which premi
 9. ⚠️ Do not treat divine simplicity as a stylistic remark about God being "uncomplicated"; it is a denial of composition with hard consequences (modal collapse, property-identity).
 10. ⚠️ Do not "solve" the foreknowledge problem by asserting that God is outside time and stopping there; state which premise — past-fixity, infallibility, or the entailment — the eternity move actually targets.
 11. ⚠️ Do not merge Śaiva Siddhānta (dualistic, *pati–paśu–pāśa*) with Kashmir Śaivism (non-dual, *ābhāsa*); and do not describe Madhva's *bimba–pratibimba* as identity — it is dependence.
+12. ⚠️ Do not equate monotheism with the whole of classical theism; one-God belief does not by itself supply creation, simplicity, immutability or perfect goodness.
+13. ⚠️ Do not treat “creator,” “sustainer,” “moral governor,” “ground of being” and “absolute” as synonyms; each assigns a different role and pressure.
+14. ⚠️ Do not identify non-dual Brahman with the classical personal creator; compare personality, dependence and world-relation explicitly.
+15. ⚠️ Do not answer the Nyāya nature question with proofs alone; state God as one, eternal, omniscient, incorporeal, efficient cause and karmic governor.
+16. ⚠️ Do not treat timelessness as the absence of a problem: explain temporal effects, response and the contingency cost.
+17. ⚠️ Do not infer bodily or male gender from divine personhood; personal predicates require analogical rather than univocally human use.
+18. ⚠️ Do not expand process, finite or open God-concepts into a replacement syllabus. Open theism enters only through the foreknowledge reply; process/panentheism remains bounded contrast.
 
 ## 12. KEYWORD & STATEMENT BANK
 
 **Keywords:** ✅ classical theism · necessary being · divine simplicity · aseity · impassibility · omnipotence · absolute vs relative possibility · omniscience · middle knowledge (*scientia media*) · soft/hard facts · open theism · omnibenevolence · immanence · transcendence · deism · pantheism · panentheism · *Deus sive Natura* · substance/mode · polytheism · henotheism · kathenotheism · monolatry · *iṣṭadevatā* · avatāra · nirguṇa/saguṇa · *svarūpa-lakṣaṇa*/*taṭastha-lakṣaṇa* · *avācya* · *anirvacanīya* (of māyā, not of Brahman) · *māyā* · *vivarta* · *ābhāsa* · *svātantrya* · *antaryāmin* · *cit-acit* · *apṛthaksiddhi* · body–self relation · *pati–paśu–pāśa* · *pañca-kṛtya* · Śakti · *svatantra/paratantra* · *pañca-bheda* · *bimba–pratibimba* · *viśeṣa* · *puruṣakāra*/*daiva* · *anumati*.
 
+**English-first retrieval groups:**
+
+- **God-concept taxonomy:** monotheism · polytheism · contextual one-deity supremacy
+  (*henotheism*) · exclusive one-God worship (*monolatry*) · deism · theism · pantheism ·
+  panentheism
+- **Role profiles:** creator · sustainer · ruler/providence · moral governor · ground of being ·
+  absolute
+- **Attribute package:** power · knowledge · goodness · timeless/everlasting eternity ·
+  immutability · simplicity · personhood
+- **Indian profiles:** personal God (*Īśvara*) · quality-transcending Brahman (*nirguṇa Brahman*) ·
+  qualified personal Brahman · efficient cause · karmic governor · non-creator religion
+- **Language control:** anthropomorphism · analogy · symbol · gendered divine language
+
 **Safe formulations:** ⚠️ "The God-concept is a package of attributes whose coherence must be argued, not assumed." · "Advaita reconciles religious personality and metaphysical absoluteness by levels of truth; Viśiṣṭādvaita rejects that hierarchy." · "Plurality of names and forms is not plurality of ultimates — but it is not nothing either." · "Foreknowledge questions are won by naming the premise you deny, not by asserting timelessness."
+
+### 12.1 Selectable evidence bank
+
+- **N1 · Classify before comparing.** Monotheism counts gods; classical theism adds a necessary
+  perfect creator; pantheism asserts identity and panentheism inclusion-with-excess → Use for:
+  every opening taxonomy → Limit: traditions need not fit one imported box.
+- **N2 · Roles generate different God–world relations.** Creator, sustainer, providential ruler,
+  moral governor, ground and absolute are not equivalent → Use for: physical manifestation and
+  relation stems → Limit: one tradition may combine several roles.
+- **N3 · Perfection is a coherence problem.** Power, knowledge, goodness, eternity, immutability,
+  simplicity and personhood constrain one another → Use for: attribute questions → Limit: each
+  repair narrows or revises the original package.
+- **N4 · Nyāya God is a notion before it is a conclusion.** One eternal omniscient incorporeal
+  self orders atoms and administers karma without being material cause → Use for: 2021 Q5(a) →
+  Limit: proofs and anti-creator objections belong to the next topic.
+- **N5 · Indian religion is not uniformly creator-theistic.** Nyāya, Yoga, Mīmāṃsā, Sāṃkhya,
+  Buddhism, Jainism and Vedānta assign different places to creator, teacher, moral order and
+  absolute → Use for: Indian/Western parity → Limit: this table profiles rather than proves.
+- **N6 · Personhood is not anthropomorphic embodiment.** Analogical personal predicates can
+  preserve addressability without biological sex or finite psychology → Use for: personal/
+  impersonal and manifestation stems → Limit: full semantic defence belongs to Religious Language.
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -375,6 +543,10 @@ assess what notion of ultimacy survives.
 
 - John Hick, *Philosophy of Religion*.
 - William J. Wainwright (ed.), *The Oxford Handbook of Philosophy of Religion*.
+- Local searchable John Hick PDF, especially pp. 16–17 and 52–63; local searchable *Oxford
+  Handbook* PDF, especially pp. 40, 63 and 79–90.
+- S. C. Chatterjee and D. M. Datta, local searchable *An Introduction to Indian Philosophy* PDF,
+  especially pp. 262–264 and 465–467.
 - Benedict de Spinoza, *Ethics*, Part I.
 - Thomas Aquinas, *Summa Theologiae*, First Part, qq.2–26 (simplicity, omnipotence, knowledge).
 - Alvin Plantinga, *Does God Have a Nature?* (divine simplicity).

@@ -1,0 +1,1078 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-07",
+  "subject": "World-History",
+  "title": "NEW IMPERIALISM AND SCRAMBLE FOR AFRICA",
+  "short_route": "WHAT MADE IMPERIALISM NEW → FIVE-DRIVER SYSTEM → BERLIN: FACTS AND FUNCTION → BERLIN DID AND DID → PARTITION PATTERN → AFRICAN RESISTANCE SPECTRUM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-07\\world-history-07_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-06-07-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "eadaffd72387963db7fe318892d9ed29f86adac7d4542c562227c503c4d1546c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHAT MADE IMPERIALISM NEW",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHAT MADE IMPERIALISM NEW",
+          "role": "primary"
+        },
+        {
+          "text": "COASTAL FORTS, TRADE INFLUENCE AND LIMITED ENCLAVES",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECT INLAND TERRITORIAL RULE BY INDUSTRIAL POWERS",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 10% OF AFRICA UNDER EUROPEAN CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 90% UNDER EUROPEAN CONTROL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EARLIER → coastal forts, trade influence and limited enclaves",
+        "NEW → direct inland territorial rule by industrial powers",
+        "1870s → about 10% of Africa under European control",
+        "1914 → about 90% under European control"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EARLIER → coastal forts, trade influence and limited enclaves",
+          "1870s → about 10% of Africa under European control",
+          "EARLIER → coastal forts, trade influence and limited enclaves"
+        ],
+        [
+          "NEW → direct inland territorial rule by industrial powers",
+          "1914 → about 90% under European control",
+          "NEW → direct inland territorial rule by industrial powers"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EARLIER → coastal forts, trade influence and limited enclaves",
+            "NEW → direct inland territorial rule by industrial powers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1870s → about 10% of Africa under European control",
+            "1914 → about 90% under European control"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EARLIER → coastal forts, trade influence and limited enclaves",
+            "NEW → direct inland territorial rule by industrial powers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEW → direct inland territorial rule by industrial powers.",
+      "source_references": [
+        "Defining New Imperialism"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FIVE-DRIVER SYSTEM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FIVE-DRIVER SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "RAW MATERIALS, MARKETS AND INVESTMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SUEZ, SEA ROUTES AND RIVAL POSITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "COLONIES BECOME GREAT-POWER STATUS SYMBOLS",
+          "role": "mechanism"
+        },
+        {
+          "text": "TECHNOLOGY + IDEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "CAPABILITY PLUS PERMISSION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ECONOMY → raw materials, markets and investment",
+        "STRATEGY → Suez, sea routes and rival positions",
+        "PRESTIGE → colonies become great-power status symbols",
+        "TECHNOLOGY + IDEOLOGY → capability plus permission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ECONOMY → raw materials, markets and investment",
+            "STRATEGY → Suez, sea routes and rival positions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESTIGE → colonies become great-power status symbols",
+            "TECHNOLOGY + IDEOLOGY → capability plus permission"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECONOMY → raw materials, markets and investment",
+            "STRATEGY → Suez, sea routes and rival positions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRATEGY → Suez, sea routes and rival positions.",
+      "source_references": [
+        "Suez, Egypt and strategic empire",
+        "Industrial capitalism and colonial demand",
+        "Prestige, rivalry and the timing of the rush",
+        "Technology and ideology"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BERLIN: FACTS AND FUNCTION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FACTS AND FUNCTION",
+          "role": "primary"
+        },
+        {
+          "text": "15 NOV 1884",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFERENCE OPENS",
+          "role": "comparison"
+        },
+        {
+          "text": "14 COUNTRIES",
+          "role": "evidence"
+        },
+        {
+          "text": "EUROPEAN AND OTHER POWERS REPRESENTED",
+          "role": "primary"
+        },
+        {
+          "text": "26 FEB 1885",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFERENCE CLOSES",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERAL ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "15 NOV 1884 → conference opens",
+        "14 COUNTRIES → European and other powers represented",
+        "26 FEB 1885 → conference closes",
+        "GENERAL ACT → effective occupation becomes recognition rule"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "15 NOV 1884 → conference opens",
+            "14 COUNTRIES → European and other powers represented"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "26 FEB 1885 → conference closes",
+            "GENERAL ACT → effective occupation becomes recognition rule"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "15 NOV 1884 → conference opens",
+            "14 COUNTRIES → European and other powers represented"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GENERAL ACT → effective occupation becomes recognition rule.",
+      "source_references": [
+        "Berlin's conference facts",
+        "Effective occupation and what Berlin did"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "BERLIN DID AND DID NOT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BERLIN DID AND DID NOT",
+          "role": "caution"
+        },
+        {
+          "text": "STANDARDISE CLAIMS AND LEGITIMATE COMPETITION",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNISE CONGO FREE STATE UNDER LEOPOLD II",
+          "role": "institution"
+        },
+        {
+          "text": "DID NOT",
+          "role": "caution"
+        },
+        {
+          "text": "INCLUDE AFRICAN VOICES IN RULE-MAKING",
+          "role": "primary"
+        },
+        {
+          "text": "DRAW EVERY LATER BORDER AT ONE MEETING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DID → standardise claims and legitimate competition",
+        "DID → recognise Congo Free State under Leopold II",
+        "DID NOT → include African voices in rule-making",
+        "DID NOT → draw every later border at one meeting"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DID → standardise claims and legitimate competition",
+          "DID NOT → include African voices in rule-making",
+          "DID → standardise claims and legitimate competition"
+        ],
+        [
+          "DID → recognise Congo Free State under Leopold II",
+          "DID NOT → draw every later border at one meeting",
+          "DID → recognise Congo Free State under Leopold II"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DID → standardise claims and legitimate competition",
+            "DID → recognise Congo Free State under Leopold II"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DID NOT → include African voices in rule-making",
+            "DID NOT → draw every later border at one meeting"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DID → standardise claims and legitimate competition",
+            "DID → recognise Congo Free State under Leopold II"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DID NOT → include African voices in rule-making.",
+      "source_references": [
+        "Effective occupation and what Berlin did",
+        "Congo and partition patterns"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PARTITION PATTERN",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PARTITION PATTERN",
+          "role": "primary"
+        },
+        {
+          "text": "LARGEST STRATEGIC AND TERRITORIAL ZONES",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGO; PORTUGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ANGOLA AND MOZAMBIQUE",
+          "role": "evidence"
+        },
+        {
+          "text": "EAST, SOUTH-WEST, TOGO AND CAMEROON",
+          "role": "primary"
+        },
+        {
+          "text": "ERITREA AND SOMALIA; DEFEATED IN ETHIOPIA",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BRITAIN/FRANCE → largest strategic and territorial zones",
+        "BELGIUM → Congo; PORTUGAL → Angola and Mozambique",
+        "GERMANY → east, south-west, Togo and Cameroon",
+        "ITALY → Eritrea and Somalia; defeated in Ethiopia"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BRITAIN/FRANCE → largest strategic and territorial zones",
+          "GERMANY → east, south-west, Togo and Cameroon",
+          "BRITAIN/FRANCE → largest strategic and territorial zones"
+        ],
+        [
+          "BELGIUM → Congo; PORTUGAL → Angola and Mozambique",
+          "ITALY → Eritrea and Somalia; defeated in Ethiopia",
+          "BELGIUM → Congo; PORTUGAL → Angola and Mozambique"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRITAIN/FRANCE → largest strategic and territorial zones",
+            "BELGIUM → Congo; PORTUGAL → Angola and Mozambique"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GERMANY → east, south-west, Togo and Cameroon",
+            "ITALY → Eritrea and Somalia; defeated in Ethiopia"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRITAIN/FRANCE → largest strategic and territorial zones",
+            "BELGIUM → Congo; PORTUGAL → Angola and Mozambique"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ITALY → Eritrea and Somalia; defeated in Ethiopia.",
+      "source_references": [
+        "Congo and partition patterns"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AFRICAN RESISTANCE SPECTRUM",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AFRICAN RESISTANCE SPECTRUM",
+          "role": "primary"
+        },
+        {
+          "text": "ADWA 1896",
+          "role": "outcome"
+        },
+        {
+          "text": "ETHIOPIA DEFEATS ITALY",
+          "role": "comparison"
+        },
+        {
+          "text": "ZULU + SAMORI TURE",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANISED PROLONGED RESISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "MAJI MAJI 1905-07",
+          "role": "outcome"
+        },
+        {
+          "text": "MASS REVOLT UNDER COLONIAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTRAINED AGENCY BEYOND WAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADWA 1896 → Ethiopia defeats Italy",
+        "ZULU + SAMORI TURE → organised prolonged resistance",
+        "MAJI MAJI 1905-07 → mass revolt under colonial rule",
+        "NEGOTIATION/ADAPTATION → constrained agency beyond war"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ADWA 1896 → Ethiopia defeats Italy",
+            "ZULU + SAMORI TURE → organised prolonged resistance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAJI MAJI 1905-07 → mass revolt under colonial rule",
+            "NEGOTIATION/ADAPTATION → constrained agency beyond war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADWA 1896 → Ethiopia defeats Italy",
+            "ZULU + SAMORI TURE → organised prolonged resistance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAJI MAJI 1905-07 → mass revolt under colonial rule.",
+      "source_references": [
+        "Adwa and successful resistance",
+        "Organised African resistance",
+        "Herero-Nama and Maji Maji"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COLONIAL VIOLENCE LEDGER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COLONIAL VIOLENCE LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE-IMPERIAL EXTRACTION AND COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "HERERO AND NAMA 1904-08",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJI MAJI 1905-07",
+          "role": "evidence"
+        },
+        {
+          "text": "MASS UPRISING AND REPRESSION",
+          "role": "primary"
+        },
+        {
+          "text": "CIVILISING RHETORIC TESTED AGAINST CONDUCT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CONGO → private-imperial extraction and coercion",
+        "HERERO AND NAMA 1904-08 → genocide",
+        "MAJI MAJI 1905-07 → mass uprising and repression",
+        "VERDICT → civilising rhetoric tested against conduct"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONGO → private-imperial extraction and coercion",
+          "MAJI MAJI 1905-07 → mass uprising and repression",
+          "CONGO → private-imperial extraction and coercion"
+        ],
+        [
+          "HERERO AND NAMA 1904-08 → genocide",
+          "VERDICT → civilising rhetoric tested against conduct",
+          "HERERO AND NAMA 1904-08 → genocide"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGO → private-imperial extraction and coercion",
+            "HERERO AND NAMA 1904-08 → genocide"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAJI MAJI 1905-07 → mass uprising and repression",
+            "VERDICT → civilising rhetoric tested against conduct"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONGO → private-imperial extraction and coercion",
+            "HERERO AND NAMA 1904-08 → genocide"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAJI MAJI 1905-07 → mass uprising and repression.",
+      "source_references": [
+        "Congo and partition patterns",
+        "Herero-Nama and Maji Maji"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EXTRACTION MECHANISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EXTRACTION MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CASH TAX",
+          "role": "outcome"
+        },
+        {
+          "text": "HOUSEHOLDS NEED COLONIAL CURRENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "MIGRANT AND COERCED LABOUR EXPANDS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPORT INFRASTRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTION POINTS TOWARD PORTS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMODITY DEPENDENCE AND HOUSEHOLD DISRUPTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CASH TAX → households need colonial currency",
+        "MINES/PLANTATIONS → migrant and coerced labour expands",
+        "EXPORT INFRASTRUCTURE → production points toward ports",
+        "RESULT → commodity dependence and household disruption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CASH TAX → households need colonial currency",
+            "MINES/PLANTATIONS → migrant and coerced labour expands"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPORT INFRASTRUCTURE → production points toward ports",
+            "RESULT → commodity dependence and household disruption"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CASH TAX → households need colonial currency",
+            "MINES/PLANTATIONS → migrant and coerced labour expands"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXPORT INFRASTRUCTURE → production points toward ports; RESULT → commodity dependence and household disruption.",
+      "source_references": [
+        "Extraction, labour and gender"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AUTHORITY AND IDENTITY REMADE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AUTHORITY AND IDENTITY REMADE",
+          "role": "primary"
+        },
+        {
+          "text": "THIN COLONIAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "RELIES ON CHIEFS AND INTERMEDIARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE CATEGORIES",
+          "role": "evidence"
+        },
+        {
+          "text": "FLUID IDENTITIES BECOME FIXED",
+          "role": "primary"
+        },
+        {
+          "text": "LAW AND SCHOOLING",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW ROUTES TO STATUS AND EXCLUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL IDENTITIES CARRY COLONIAL INSTITUTIONAL MARKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THIN COLONIAL STATE → relies on chiefs and intermediaries",
+        "ADMINISTRATIVE CATEGORIES → fluid identities become fixed",
+        "LAW AND SCHOOLING → new routes to status and exclusion",
+        "LEGACY → political identities carry colonial institutional marks"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "THIN COLONIAL STATE → relies on chiefs and intermediaries",
+            "ADMINISTRATIVE CATEGORIES → fluid identities become fixed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAW AND SCHOOLING → new routes to status and exclusion",
+            "LEGACY → political identities carry colonial institutional marks"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "THIN COLONIAL STATE → relies on chiefs and intermediaries",
+            "ADMINISTRATIVE CATEGORIES → fluid identities become fixed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGACY → political identities carry colonial institutional marks.",
+      "source_references": [
+        "Borders, chiefs and administrative identity"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BORDER LEGACY WITHOUT DETERMINISM",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BORDER LEGACY WITHOUT DETERMINISM",
+          "role": "primary"
+        },
+        {
+          "text": "RARELY MATCH PRIOR POLITICAL REALITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "SUCCESSOR STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "INHERIT COLONIAL TERRITORIAL UNITS",
+          "role": "evidence"
+        },
+        {
+          "text": "REOPENING ONE FRONTIER THREATENS ALL",
+          "role": "primary"
+        },
+        {
+          "text": "BORDERS CONDITION CONFLICT; THEY DO NOT MECHANICALLY CAUSE IT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LINES → rarely match prior political realities",
+        "SUCCESSOR STATES → inherit colonial territorial units",
+        "PRESERVATION → reopening one frontier threatens all",
+        "CAUTION → borders condition conflict; they do not mechanically cause it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LINES → rarely match prior political realities",
+            "SUCCESSOR STATES → inherit colonial territorial units"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESERVATION → reopening one frontier threatens all",
+            "CAUTION → borders condition conflict; they do not mechanically cause it"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LINES → rarely match prior political realities",
+            "SUCCESSOR STATES → inherit colonial territorial units"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → borders condition conflict; they do not mechanically cause it.",
+      "source_references": [
+        "Borders, chiefs and administrative identity"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "AFRICAN AGENCY CORRECTION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AFRICAN AGENCY CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "WRONG FRAME",
+          "role": "outcome"
+        },
+        {
+          "text": "EUROPE ACTS; AFRICA RECEIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "BETTER FRAME",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPOSITION MEETS RESISTANCE AND NEGOTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "UNEQUAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "WEAPONS AND LOGISTICS CONSTRAIN CHOICES",
+          "role": "comparison"
+        },
+        {
+          "text": "COLONIAL RULE IS SHAPED BY AFRICAN RESPONSES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WRONG FRAME → Europe acts; Africa receives",
+        "BETTER FRAME → imposition meets resistance and negotiation",
+        "UNEQUAL POWER → weapons and logistics constrain choices",
+        "OUTCOME → colonial rule is shaped by African responses"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WRONG FRAME → Europe acts; Africa receives",
+          "UNEQUAL POWER → weapons and logistics constrain choices",
+          "WRONG FRAME → Europe acts; Africa receives"
+        ],
+        [
+          "BETTER FRAME → imposition meets resistance and negotiation",
+          "OUTCOME → colonial rule is shaped by African responses",
+          "BETTER FRAME → imposition meets resistance and negotiation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WRONG FRAME → Europe acts; Africa receives",
+            "BETTER FRAME → imposition meets resistance and negotiation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNEQUAL POWER → weapons and logistics constrain choices",
+            "OUTCOME → colonial rule is shaped by African responses"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WRONG FRAME → Europe acts; Africa receives",
+            "BETTER FRAME → imposition meets resistance and negotiation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → colonial rule is shaped by African responses.",
+      "source_references": [
+        "Agency and the qualified imperialism verdict"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "IMPERIALISM ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "IMPERIALISM ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT TERRITORIAL NEW IMPERIALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMY + STRATEGY + PRESTIGE + TECHNOLOGY + IDEOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "BERLIN RULES, CONQUEST AND ADMINISTRATIVE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTRACTION AND BORDERS PLUS PERSISTENT AFRICAN AGENCY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → direct territorial New Imperialism",
+        "CAUSE → economy + strategy + prestige + technology + ideology",
+        "MECHANISM → Berlin rules, conquest and administrative control",
+        "VERDICT → extraction and borders plus persistent African agency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → direct territorial New Imperialism",
+            "CAUSE → economy + strategy + prestige + technology + ideology"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MECHANISM → Berlin rules, conquest and administrative control",
+            "VERDICT → extraction and borders plus persistent African agency"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → direct territorial New Imperialism",
+            "CAUSE → economy + strategy + prestige + technology + ideology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → extraction and borders plus persistent African agency.",
+      "source_references": [
+        "Agency and the qualified imperialism verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED ANSWERS SCORE BETTER WHEN THEY AVOID WRITING \"IMPERIALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE UNIFORM MODEL.\"",
+          "role": "comparison"
+        },
+        {
+          "text": "THE STRONGEST CORRECTIVE TO EUROCENTRIC WRITING IS TO SHOW",
+          "role": "evidence"
+        },
+        {
+          "text": "BUT RESISTANCE WAS UNEVEN BECAUSE COLONIAL POWERS HAD ADVANTAGES",
+          "role": "primary"
+        },
+        {
+          "text": "NEW IMPERIALISM IS THE WORLD-HISTORY COUNTERPART OF THEMES VISIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "IN INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "STRATEGIC ROUTES, FISCAL EXTRACTION, RACIAL HIERARCHY AND THE LANGUAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Advanced answers score better when they avoid writing \"imperialism = one uniform model.\"",
+            "CAUTION: The strongest corrective to Eurocentric writing is to show that African societies were not passive recipients of conquest.",
+            "CAUTION: But resistance was uneven because colonial powers had advantages in logistics, weapons and divided local contexts.",
+            "CAUTION: New Imperialism is the world-history counterpart of themes visible in British expansion"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "in India: strategic routes, fiscal extraction, racial hierarchy and the language of \"improvement.\"",
+            "CAUTION: But do not duplicate Indian material here. Cross-read:",
+            "CAUTION: In GS-I answers, a brief comparison with India can strengthen the colonization",
+            "theme, especially on economic reorientation, coercive governance and legitimacy through civilizing rhetoric ."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: A high-scoring conclusion should move from immediate conquest to long-run structural effects.",
+            "Berlin Conference ran from Nov. 1884 to Feb. 1885 .",
+            "Leopold II is inseparable from the Congo Free State .",
+            "Britannica explicitly links the scramble with strategic claims and access to natural resources."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

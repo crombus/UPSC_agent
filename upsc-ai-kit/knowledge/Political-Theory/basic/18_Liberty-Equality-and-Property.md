@@ -60,6 +60,8 @@ property qualified by common good
 | Equality | ✅ Equality is a claim of right and equal moral worth, not a statement that all persons are factually identical in talent, strength or circumstance (Gauba, PDF pp.392-396). |
 | Formal equality | ✅ Equality understood as non-discrimination, equal legal personality, equal vote or open access in principle, without necessarily changing the underlying socio-economic structure (Gauba, PDF pp.400-406). |
 | Substantive equality | ✅ Equality understood as actual reduction of unjust and alterable inequalities, especially by extending real opportunities and safeguards to weaker sections (Gauba, PDF pp.404-407). |
+| Equality of opportunity | ⚠️ Offices and advantages are genuinely open on fair terms; this is stronger than merely removing explicit legal barriers because inherited education, health and social power can distort the starting point. |
+| Equality of outcome | ⚠️ Attention to the final distribution of resources, welfare or capability. It need not demand identical results: many egalitarian positions instead defend thresholds, a social minimum or limits on avoidable deprivation. |
 | Property | ✅ Property denotes possession or control of material things and claims over them, including documents embodying entitlement; politically it raises the issue of whether such control empowers some over others (Gauba, PDF pp.413-414). |
 | Private property | ✅ In the Marxist discussion, private property chiefly means property in the means of production that enables control over others' labour and life-chances (Gauba, PDF pp.426-430). |
 | Personal property | ✅ Property genuinely tied to personal use, security and the fruit of one's own labour; Marxism does not aim to abolish this category (Gauba, PDF pp.427-430). |
@@ -100,6 +102,18 @@ property qualified by common good
 | Test | ⚠️ Ask not only "Is the rule same?" but also "Can ordinary people really use the opportunity?" |
 | Necessary/sufficient test | ✅ Alterability is a necessary condition for making an inequality a practical target of reform, but not sufficient to prove injustice; some alterable differences may be justified by need, relevant function or socially beneficial excellence (Gauba, PDF pp.394-397). |
 
+### Equality of opportunity vs equality of outcome
+
+| Axis | Equality of opportunity | Equality of outcome |
+|---|---|---|
+| Core question | ⚠️ Are offices and advantages open on genuinely fair terms? | ⚠️ Does the resulting distribution leave avoidable deprivation or domination intact? |
+| Strongest form | ⚠️ **Fair** equality of opportunity corrects background barriers rather than merely announcing open competition. | ⚠️ Outcome-sensitive views may secure a floor, threshold or benefit to the least advantaged rather than identical shares. |
+| Main risk | ⚠️ Opportunity can remain formal where inherited resources decide who can compete. | ⚠️ A demand for identical results can suppress responsibility, plurality and choice. |
+
+- ⚠️ **Rawls:** equal basic liberties have priority; his second principle contains fair equality of opportunity before the difference principle, which permits inequality only when it benefits the least advantaged.
+- ⚠️ **Dworkin:** equality of resources uses an envy-test and hypothetical auction/insurance devices to distinguish brute luck from option luck; equal concern is not equality of welfare or identical outcome.
+- ⚠️ **Mill on equality:** equal moral and civic standing, hostility to inherited status and women's subordination, and protection of individuality make equality compatible with differentiated life plans rather than levelling.
+
 ### Property categories and political meaning
 
 | Distinction | What to say precisely |
@@ -113,23 +127,26 @@ property qualified by common good
 
 | Thinker | Position to retain |
 |---|---|
-| J.S. Mill | ✅ Mill marks the liberal transition from laissez-faire toward a positive role for the state by distinguishing self-regarding and other-regarding conduct and justifying intervention for welfare, taxation and education (Gauba, PDF pp.377-378). |
+| J.S. Mill | ✅ In *On Liberty*, coercion of a competent adult is presumptively justified only to prevent harm to others; offence, dislike and the person's own good are insufficient. ⚠️ Mill's support for education, taxation, inheritance and other social reform rests on separate arguments and must not be presented as part of the harm principle. His equality doctrine protects equal civic worth, women's equality and individuality against inherited status. |
 | Isaiah Berlin | ✅ Berlin distinguishes negative liberty from positive liberty as self-mastery and denies that poverty automatically equals political unfreedom; Gauba accepts the moral self-mastery distinction but criticizes its treatment of socially produced material disability (Gauba, PDF pp.378-380). |
 | F.A. Hayek | ✅ Hayek identifies liberty with freedom from coercion, defends equality before law rather than material equality, and warns that distributive schemes may destroy freedom (Gauba, PDF pp.381-383, 408-412). |
 | Milton Friedman | ✅ Friedman links competitive capitalism with freedom and seeks to minimize welfare and regulatory functions of the state; Gauba treats this as conceptually narrow because market power itself can coerce labour (Gauba, PDF pp.383-384). |
-| Robert Nozick | ✅ Nozick defends a minimal state and rejects redistributive correction of production-level inequalities if acquisition and transfer were voluntary (Gauba, PDF pp.384, 411). |
+| Robert Nozick | ✅ Nozick defends a minimal state and a historical entitlement theory of acquisition, transfer and rectification. Acquisition is constrained by a modified Lockean proviso, and rectification is required for unjust history, though its determinate formula is seriously under-specified. |
 | Marx and Engels | ✅ Freedom requires transformation of the capitalist system, social control of production and emancipation from alienation; private property in means of production is a basis of class domination (Gauba, PDF pp.384-388, 426-430). |
 | Herbert Marcuse | ✅ Consumer capitalism manufactures wants, dulls critical consciousness and turns people into one-dimensional beings, thereby suppressing the urge for genuine freedom (Gauba, PDF pp.388-389). |
 | C.B. Macpherson | ✅ Freedom should be understood as creative or developmental power; capitalist market society erodes this power among the poor while expanding extractive power among owners (Gauba, PDF pp.389, 418). |
 | Rousseau | ✅ Equality requires distinguishing natural differences from conventional privileges; only the latter are properly political targets of reform (Gauba, PDF pp.394-395, 400). |
-| Locke | ✅ Locke treats life, liberty and property as natural rights and grounds property in labour mixed with nature, but Gauba notes that this theory ends up legitimizing inequality rather than logically limiting it (Gauba, PDF pp.415, 417-419). |
+| Locke | ✅ Locke treats life, liberty and property as natural rights and grounds initial appropriation in labour, subject to leaving "enough and as good" for others and to a spoilage limitation. Money bypasses spoilage through consent and enables accumulation; whether the enough-and-as-good proviso survives monetisation remains contested. Gauba notes that the theory ultimately accommodates substantial inequality (Gauba, PDF pp.415, 417-419). |
+| Hegel | ⚠️ Property is the external embodiment through which free will first gives itself objective existence within Abstract Right. This personhood claim explains why some property matters for agency, but it is not an unlimited moral title to accumulation or domination. |
+| John Rawls | ⚠️ Equal basic liberties are lexically prior; fair equality of opportunity and the difference principle then regulate the background institutions through which property and advantage are distributed. |
+| Ronald Dworkin | ⚠️ Equality of resources, tested through hypothetical auction and insurance, aims to neutralise brute luck while preserving responsibility for option luck; the distinction is illuminating but difficult to operationalise cleanly. |
 | Hobhouse / Tawney / Laski | ✅ These positive liberals/social democrats reject functionless or absolute property and subordinate ownership to service, social origin and common welfare (Gauba, PDF pp.415-416, 420-426). |
 
 ## 7. Illustrative examples
 
 - ✅ Gauba uses the historical "four freedoms" (freedom of speech, freedom of worship, freedom from want, freedom from fear) to show that speech/worship exemplify non-interference, whereas freedom from want/fear exemplify removal of preventable obstacles (Gauba, PDF pp.375-376). ❌ **Correction:** these four freedoms were announced by F.D. Roosevelt in his State of the Union address of 6 January 1941; they are **distinct from** the Atlantic Charter, a separate joint FDR-Churchill declaration of August 1941 that set out war aims and post-war principles (self-determination, no territorial aggrandizement, freer trade, disarmament) but did not itself enumerate the four freedoms. Treat the two as related-but-separate 1941 documents, never as one and the same text.
 - ⚠️ A poor family facing legally open but effectively unaffordable schooling is the cleanest way to explain why formal freedom can exist without positive freedom.
-- ✅ Gauba's discussion of affirmative action shows that equality may require preferential treatment for deprived sections, while also generating a debate on reverse discrimination and deserving beneficiaries (Gauba, PDF pp.398-399).
+- ✅ Gauba's discussion of affirmative action shows that equality may require preferential treatment for deprived sections (Gauba, PDF pp.398-399). ⚠️ "Reverse discrimination" is an objection, not a neutral diagnosis; compensatory justice, anti-subordination, representation and fair opportunity are distinct rationales that must be evaluated separately.
 - ⚠️ A labour contract signed under desperation may be formally voluntary yet substantively unequal; this is exactly why Hobhouse questions "freedom of contract" without approximate equality of bargaining power.
 - ✅ Gauba treats progressive taxation and social services as instruments of socio-economic equality because financing is based on ability to pay while benefits track social need (Gauba, PDF pp.396-397, 406).
 - ⚠️ A large estate or productive monopoly is politically different from a house, tools or savings for personal security; the former can shape others' livelihoods in a way the latter ordinarily does not.
@@ -148,7 +165,8 @@ property qualified by common good
 
 | Category | Basic claim | Political implication |
 |---|---|---|
-| Lockean labour-based property | ✅ Labour gives an initial moral title to what one appropriates from nature, but Gauba notes that Locke still ends up accommodating inequality rather than restraining it (Gauba, PDF pp.417-419). | ⚠️ Useful for explaining why liberalism links effort and ownership, but insufficient for explaining inherited and large-scale capitalist inequality. |
+| Lockean labour-based property | ✅ Labour gives an initial title subject to leaving enough and as good for others and avoiding spoilage; money permits accumulation beyond the spoilage limit, while survival of the first proviso remains contested. Gauba notes that Locke still ends up accommodating inequality (Gauba, PDF pp.417-419). | ⚠️ Useful for explaining why liberalism links effort and ownership, but insufficient for explaining inherited and large-scale capitalist inequality. |
+| Hegelian personhood property | ⚠️ Some property gives free will an external sphere and supports recognition as a person within Abstract Right. | ⚠️ This justifies a domain of personhood-supporting property, not unlimited accumulation or immunity from social regulation. |
 | Personal property | ✅ Property for use, security and ordinary self-development is not the primary Marxist target (Gauba, PDF pp.429-431). | ⚠️ This category helps avoid the false claim that socialism seeks abolition of every possession. |
 | Means of production | ✅ Property in land, capital and productive assets determines who controls labour and social output (Gauba, PDF pp.419, 426-430). | ✅ This is the real battleground of socialist and Marxist critique. |
 | Function-regulated property | ✅ Hobhouse, Tawney and Laski seek to preserve property only under limits of service, function and common welfare (Gauba, PDF pp.420-426). | ⚠️ This is the classic social-democratic middle path between absolutism and abolition. |
@@ -162,6 +180,8 @@ property qualified by common good
 - ❌ Liberty and equality are natural enemies. -> ✅ Gauba treats them as complementary when liberty is understood as equal liberty and equality as reasonable, not literal, equalization (Gauba, PDF pp.392-393, 407-410).
 - ❌ Equality means identical treatment or identical shares for all. -> ✅ Gauba explicitly rejects literal equalization and allows differential treatment on grounds of need and socially useful excellence (Gauba, PDF pp.395-398, 410).
 - ❌ Formal equality before law automatically yields justice. -> ✅ Gauba stresses that legal access and political rights may remain ineffective amid poverty, hierarchy and unequal bargaining power (Gauba, PDF pp.401-406).
+- ❌ Substantive equality means identical outcomes. -> ✅ It may require fair opportunity, capability thresholds, a social minimum or limits on avoidable deprivation without erasing every difference produced by choice.
+- ❌ Affirmative action is neutrally described as reverse discrimination. -> ✅ Reverse discrimination is an objection; compensatory, anti-subordination, representational and fair-opportunity justifications must be assessed on their own terms.
 - ❌ Property is one undifferentiated right. -> ✅ The chapters distinguish security-giving personal holdings from productive assets that can become instruments of power over others (Gauba, PDF pp.414, 419-431).
 - ❌ Marxism abolishes every form of property. -> ✅ Gauba says its target is bourgeois/private property in the means of production, not personal property as such (Gauba, PDF pp.429-430).
 - ❌ "Liberty has exactly two concepts — negative and positive." -> ⚠️ That pair is Gauba's framing (PDF pp.375-381) and is the safe default, but contemporary theory recognises a **third family**, republican liberty as non-domination, which asks whether a person is subject to another's arbitrary power rather than whether interference has occurred (§22). Naming it — with the caution that it is outside Gauba's own framing — is a depth marker, not a deviation.
@@ -187,6 +207,35 @@ property qualified by common good
 - ⚠️ **Third liberty family:** republican liberty as **non-domination** (Pettit, Skinner) is reconstructed in full in §22 of this file — mechanism, benevolent-master illustration, law-as-freedom-enhancing, four objection→reply chains, a three-column comparison table and its own answer architecture. It is a named-scholar addition outside Gauba's PDF pp.367-390 range, tagged ⚠️ throughout, and is no longer optional-Advanced material.
 
 ## 11. Revision capsule / answer spine
+
+### MCQ source-pair ledger
+
+| Source label | Canonical pairing |
+|---|---|
+| Liberty versus licence | Liberty rejects unreasonable restraint, whereas licence lets one person's action become another's oppression. |
+| Civil-political-economic liberty | Civil liberty protects personal action, political liberty enables participation, and economic liberty concerns material independence and bargaining power. |
+| Negative liberty/non-interference | Negative liberty asks whether another person or institution obstructs a specified sphere of choice. |
+| Green-style enabling positive freedom | Enabling freedom removes socially alterable barriers such as poverty, insecurity and lack of education without dictating a person's true purpose. |
+| Berlinian self-mastery and authoritarian risk | Berlin's positive pole concerns self-mastery and warns that rulers may coercively claim to represent a person's higher or real self. |
+| Mill's self-/other-regarding boundary | Mill places the burden of proof on coercion and permits it presumptively to prevent harm to others, not mere offence or paternal benefit. |
+| Four Freedoms versus Atlantic Charter | Roosevelt's January 1941 Four Freedoms address and the August 1941 Atlantic Charter are related but distinct documents. |
+| Hayek-Friedman market-liberty cluster | Hayek stresses non-coercion and general rules, while Friedman links competitive capitalism to freedom; neither position is identical to Nozick's entitlement theory. |
+| Marcuse versus Macpherson | Marcuse analyses false needs and one-dimensional consciousness, while Macpherson contrasts developmental power with extractive power. |
+| MacCallum's X-free-from-Y-to-do-Z formula | MacCallum represents every freedom claim through an agent, a constraint and a purpose without settling which constraints or purposes are justified. |
+| Taylor's exercise versus opportunity concept | Taylor argues that an open opportunity is insufficient where internalised or social obstacles prevent meaningful exercise, while Berlin warns against paternalist correction. |
+| Republican capacity-arbitrariness-impunity test | Domination exists where another has capacity for arbitrary interference with impunity, even when that capacity is not exercised. |
+| Benevolent master and non-arbitrary law | A person under a standing master's power is not free simpliciter; general, reviewable and contestable law can reduce domination. |
+| Equal worth versus sameness | Equality affirms equal moral standing without claiming identical talent, need, circumstance or life plan. |
+| Rousseau's natural/conventional inequality | Rousseau separates physical differences from inequalities of wealth, honour, power and dependence created by convention. |
+| Formal versus substantive equality | Formal equality removes explicit exclusion, while substantive equality tests usable access, background conditions and actual opportunity. |
+| Alterability plus rational differentiation | Alterability makes inequality a practical reform target but does not by itself prove injustice; need and relevant function still require judgment. |
+| Affirmative action and its objections | Affirmative action may rest on compensation, anti-subordination, representation or fair opportunity; reverse discrimination is an objection, not a neutral label. |
+| Property as security versus social power | Property can support personal independence but concentrated productive ownership can control others' labour and life-chances. |
+| Locke's labour title, money and inequality | Locke joins labour to enough-and-as-good and spoilage provisos; money bypasses spoilage and enables accumulation whose remaining limit is contested. |
+| Personal property versus means of production | Personal holdings support use and security, while private control of major productive assets structures class power. |
+| Hobhouse-Tawney-Laski functionless property | Social-democratic property is judged by service, social origin and common welfare rather than title or dividend alone. |
+| Nozick acquisition-transfer-rectification | Nozick's historical entitlement theory requires a proviso and rectification but leaves the correction of unjust history under-specified. |
+| Marx-Engels alienation and social production | Marx and Engels link private control of production to alienation and class domination and seek genuinely social control rather than abolition of personal use. |
 
 - ✅ Liberty in society means absence of unreasonable restraint, not absence of all restraint (Gauba, PDF pp.369-371).
 - ✅ Negative liberty protects a sphere of non-interference; positive liberty removes social obstacles that policy can alter (Gauba, PDF pp.375-381).
@@ -215,10 +264,11 @@ property qualified by common good
 ## 14. Nozick's entitlement theory: acquisition, transfer and rectification
 
 - ✅ Nozick's minimal-state position (already named in Section 6) rests on an entitlement theory with three principles, and the third is easily under-stated if only "acquisition and transfer" are mentioned:
-  1. **Justice in acquisition:** a holding is just if it was first acquired without violating anyone else's prior legitimate claim.
+  1. **Justice in acquisition:** a holding is just if it was first acquired without violating anyone else's prior legitimate claim; Nozick modifies Locke's proviso so appropriation must not worsen others' position.
   2. **Justice in transfer:** a holding is just if it passed from a justly-held prior position through voluntary exchange, gift or bequest.
   3. **Justice in rectification:** where a holding traces back to an act that violated the first two principles (theft, fraud, conquest, forced dispossession), the resulting distribution is unjust *regardless of how voluntary later transfers were*, and correction (rectification) of that original injustice is required.
 - ⚠️ The rectification principle is the most exam-relevant addition often missed: it means Nozick's own theory does **not** simply bless the current distribution as just merely because recent transfers were voluntary — if the historical chain contains an unrectified injustice (e.g., conquest, dispossession of a population's land or resources), Nozick's own framework calls for a correction before the "no redistribution beyond voluntary transfer" argument can apply cleanly.
+- ⚠️ Nozick does not supply a determinate historical correction formula capable of settling every case. The scale, counterfactual baseline and institutional form of rectification remain seriously under-specified.
 - ❌ "Nozick opposes all redistribution in every case." -> ✅ He opposes *patterned* redistribution imposed on holdings that are already just by acquisition-and-transfer; he does not (on his own principles) oppose rectification of holdings traceable to an original injustice.
 
 ## 15. Liberty, equality and property: synthesis
@@ -226,12 +276,12 @@ property qualified by common good
 - ✅ Liberty becomes universal only as **equal** liberty — one person's non-interference cannot be allowed to destroy another's (Gauba, PDF pp.369-371; Section 4).
 - ✅ Equality becomes meaningful only when it moves beyond form to substance, while still permitting differential treatment for relevant need or function (Gauba, PDF pp.392-398; Section 5).
 - ✅ Property becomes defensible only when it is not allowed to convert into unaccountable power over others' lives, and Tawney's functionless-property test (Section 13) gives a concrete way to apply that limit.
-- ⚠️ **Synthesis line:** the three ideals check one another — unregulated liberty over property can destroy substantive equality (via concentrated, functionless holdings that become power); but equality pursued by ignoring liberty and just acquisition (ignoring Nozick's rectification-only limit) risks becoming arbitrary confiscation. A qualified position holds liberty and property accountable to equal citizenship and to Tawney's function test, while holding equality-driven correction accountable to Nozick's own rectification (not blanket-redistribution) logic.
+- ⚠️ **Proposed synthesis, not a shared canonical doctrine:** the three ideals check one another — unregulated liberty over property can destroy substantive equality, while equality pursued without rights, due process or responsibility can become arbitrary. Tawney's function test and Nozick's entitlement test remain rival standards rather than one joint formula. Rawls instead regulates fair background institutions, Dworkin asks for resource equality sensitive to brute and option luck, and Marx demands structural transformation of productive ownership.
 
 ## 16. Indian inequality and property application (cautious, non-Polity)
 
 - ⚠️ Land and asset inequality, and debates on land reform/land ceiling measures, are named here only as an illustration of the property-as-power and functionless-property tests (Section 13) applied to a concrete Indian context; statutory and constitutional detail (property as a constitutional right, its amendment history, land-reform legislation) belongs to Polity and must not be reproduced here.
-- ⚠️ Affirmative action/reservation (already used in Section 7 as an equality example) illustrates the alterability-but-not-sufficiency test from Section 5: it targets an alterable, unjust inequality, while the further question of which differences justify differential treatment remains a matter of continuing debate.
+- ⚠️ Affirmative action/reservation (already used in Section 7 as an equality example) illustrates the alterability-but-not-sufficiency test from Section 5. Compensatory justice, anti-subordination, representation and fair opportunity offer distinct rationales; "reverse discrimination" remains an objection to be answered, not the policy's neutral description.
 - ❌ Do not extend this file into Article 300-A history, land-ceiling Acts or current land-reform status. -> ✅ Its role is to show how liberty/equality/property theory (Sections 12-15) can be applied cautiously to Indian illustrations without duplicating Polity or Economy ownership.
 
 ## 17. Objection and reply chains
@@ -269,7 +319,7 @@ property qualified by common good
 
 ## 20. Executable answer architecture (10/15/20-mark blueprints)
 
-> ⚠️ Word/mark convention follows the standard PSIR-optional pattern (10 marks/~150 words, 15 marks/~200 words, 20 marks/~250 words); stated here as an analytical scaffold, not a book-sourced fact.
+> ⚠️ These are **PSIR-style** word/mark scaffolds: 10 marks/~150 words, 15 marks/~200 words and 20 marks/~250 words. Philosophy Optional practice may use different paper-specific word expectations; do not transfer one convention silently into the other.
 
 - **10-mark/~150 words:** Define liberty/equality/property as a triad -> name one theorist pair in tension (e.g., Berlin vs Taylor, or Nozick vs Tawney) -> one named limit -> one-line qualified conclusion.
 - **15-mark/~200 words:** Define -> two named theories from Section 12 or 15 -> one objection-reply pair (Section 17) -> qualified conclusion.
@@ -350,7 +400,7 @@ property qualified by common good
 
 | Family | Verdict on the case | Why |
 |---|---|---|
-| Strict negative liberty | ⚠️ Embarrassed — on a pure non-interference test the slave counts as free during any period of non-interference. | Freedom is measured by obstacles actually placed in the way of action. |
+| Strict negative liberty | ⚠️ A narrow act-specific test may record non-interference concerning specified options during a period, but should not call the slave free simpliciter; standing threats and dependence can themselves constrain available action. | Freedom is measured by obstacles and credible coercive constraints affecting action. |
 | Positive liberty | ⚠️ Partly captures it, but by the wrong route — it must argue the slave lacks self-mastery or enabling conditions. | Freedom is measured by capacity for self-direction. |
 | Republican non-domination | ⚠️ Straightforwardly unfree, and unfree *as a slave*, because the master retains the capacity to interfere arbitrarily and with impunity. | Freedom is a status, not an interference count. |
 
@@ -428,7 +478,7 @@ property qualified by common good
 | Core question | Am I being interfered with? | Am I master of myself / do I have the means to act? | Am I subject to anyone's arbitrary power? |
 | Freedom is a… | Condition of non-obstruction | Condition of capacity or self-rule | **Status** in a relationship |
 | Unfreedom requires | Actual interference | Internal or socially produced incapacity | Mere *capacity* for arbitrary interference |
-| Verdict on the benevolent master | ⚠️ Slave counts as free while not interfered with | ⚠️ Unfree, via lack of self-mastery | ⚠️ Unfree, as a matter of status |
+| Verdict on the benevolent master | ⚠️ Some specified options may be non-interfered-with, but the person is not free simpliciter and may act under a standing threat | ⚠️ Unfree, via lack of self-mastery | ⚠️ Unfree, as a matter of status |
 | View of law | ⚠️ Always a *pro tanto* restriction, justified as a lesser evil | ⚠️ Can enable, by removing alterable obstacles | ⚠️ Can be **constitutive** of freedom when non-arbitrary |
 | Characteristic risk | Ignores structural incapacity and dependence (Section 5) | Paternalism and the "real self" hijack (Berlin's caution, Section 12) | Overbreadth, and reliance on institutions that may not deliver non-arbitrariness (§22.5) |
 | Named anchors | ⚠️ Berlin's negative pole; Hayek; Friedman (Section 6) | ⚠️ Green's enabling freedom; Berlin's self-mastery sense; Taylor's exercise concept (Sections 6, 12) | ⚠️ Pettit (1997); Skinner (1998) |

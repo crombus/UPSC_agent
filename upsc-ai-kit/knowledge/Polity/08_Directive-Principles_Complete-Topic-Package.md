@@ -4,7 +4,7 @@ cover_image: "../../../notes/Polity/assets/08_Directive-Principles/01_part_iv_ar
 
 # Polity 08 - Directive Principles - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 08 | **GS-II + Prelims** | **Export date:** 2026-08-15
+> **Subject:** Indian Polity | **Topic:** 08 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -17,12 +17,13 @@ cover_image: "../../../notes/Polity/assets/08_Directive-Principles/01_part_iv_ar
 - [FACT] Part IV contains Articles 36-51. Article 36 defines the State by reference to Part III. Article 37 makes the directives non-justiciable, yet fundamental in governance, and imposes a duty on the State to apply them in making laws.
 - [FACT] The idea came from the Irish Constitution of 1937, which drew from the Spanish constitutional model. Ambedkar compared the directives to the Instrument of Instructions under the Government of India Act, 1935, but now addressed to the legislature and executive.
 - [ANALYSIS] Part IV changes the State's constitutional purpose: from a colonial police state mainly maintaining order to a welfare state responsible for social, economic and political justice. It supplies distributive ends; Part III disciplines the means.
-- [CURRENT] Legal status is controlled to **15 August 2026, Asia/Kolkata**. This package states only securely verified current positions and marks unsettled or time-sensitive matters.
+- [CURRENT] Legal status is controlled to **28 August 2026, Asia/Kolkata**. This package states only securely verified current positions and marks unsettled or time-sensitive matters.
+- [CURRENT] The official NALSA homepage continues to describe the statutory free-legal-services and Lok Adalat architecture. *Suhas Chakma v. Union of India*, 23 October 2024, supplies a current prison legal-aid implementation example through Jail Visiting Lawyer and NALSA/SLSA monitoring directions.
 - [CURRENT] *Property Owners Association v. State of Maharashtra*, 5 November 2024, holds that Article 31C, to the extent upheld in *Kesavananda Bharati*, remains in force. A law genuinely furthering Article 39(b) or (c) is shielded against Articles 14 and 19; the statutory nexus remains reviewable. Not every private asset is automatically a material resource of the community.
 - [CURRENT] *Union of India v. Rajendra N. Shah*, 20 July 2021, invalidated Part IXB insofar as it applied to State co-operative societies for want of State ratification, but kept it operative for multi-State co-operative societies. Article 43B was not struck down and remains in Part IV.
 - [CURRENT] The official Ministry of Labour and Employment/PIB announcement dated 21 November 2025 brought the Code on Wages, 2019, Industrial Relations Code, 2020, Code on Social Security, 2020, and Occupational Safety, Health and Working Conditions Code, 2020 into effect. This package therefore uses the four Codes as the current central framework, while not assuming uniform State-rule capacity or identical outcomes.
 - [CURRENT] Uttarakhand's Uniform Civil Code Act, 2024 received Presidential assent on 11 March 2024 and commenced on 27 January 2025. Section 2 excludes Scheduled Tribes as defined by Article 366(25) read with Article 342, and persons/groups whose customary rights are protected under Part XXI.
-- [CURRENT] News on AIR reported on 27 January 2026 that the Uttarakhand Governor promulgated the Uniform Civil Code (Amendment) Ordinance, 2026 under Article 213 with immediate effect. This package does **not** claim its section numbers, penalty amounts, litigation result, or whether it was later replaced, lapsed or re-promulgated because a controlling Gazette status was not securely verified.
+- [CURRENT] The Uttarakhand Governor promulgated an Amendment Ordinance on 27 January 2026. The official UCC portal now publishes **The Uniform Civil Code, Uttarakhand (Amendment) Act, 2026**, GO dated **7 April 2026**. The Act is the current amending instrument used here; no unverified litigation result or implementation statistic is claimed.
 
 **Concise source/control note**
 
@@ -30,7 +31,7 @@ cover_image: "../../../notes/Polity/assets/08_Directive-Principles/01_part_iv_ar
 - OCR-searchable local *Indian Polity* by M. Laxmikanth, Directive Principles chapter, used for classification, constituent-history explanations, named criticism and utility.
 - Legal Services Authorities Act, 1987, especially sections 3-11A, 12-13, 19-22 and 22A-22E; official India Code text and official NALSA pages.
 - *State of Madras v. Champakam Dorairajan* (1951), *Golaknath* (1967), *Kesavananda Bharati* (1973), *Minerva Mills* (1980), *Unni Krishnan* (1993), *I.R. Coelho* (2007), *Union of India v. Rajendra N. Shah* (2021), and *Property Owners Association* (2024).
-- Uniform Civil Code, Uttarakhand, 2024: official Uttarakhand Extraordinary Gazette dated 12 March 2024; official News on AIR commencement and 2026 Ordinance reporting.
+- Uniform Civil Code, Uttarakhand, 2024 and the Uniform Civil Code, Uttarakhand (Amendment) Act, 2026: official Uttarakhand Gazette/UCC portal.
 - Law Commission: 21st Commission's 2018 Consultation Paper on Reform of Family Law and 22nd Commission's 2023 public consultation notice. No unverified final 22nd Commission recommendation is claimed.
 - Local PYQ control: 2023 GS-II Q2; 2020 Prelims Q5, Q8, Q9, Q12, Q18; 2021 Q91; 2025 Q55. The 2018-2023 keys are absent locally and are labelled **INFERRED ANSWER - NOT OFFICIALLY VERIFIED**. The 2025 Set-A key was directly checked from the local official scan and is labelled **OFFICIAL LOCAL UPSC KEY VERIFIED**.
 - Practice counts: 8 routed PYQs; 28 original hard MCQs; 8 remedial MCQs; 7 original solved Mains questions across 10, 15 and 20 marks.
@@ -135,7 +136,7 @@ cover_image: "../../../notes/Polity/assets/08_Directive-Principles/01_part_iv_ar
 | 39(c) | Economic system must not cause concentration of wealth and means of production to the common detriment | The constitutional anti-concentration clause |
 | 39(d) | Equal pay for equal work for men and women | Equality of work and remuneration; now reflected in the current wage-code framework |
 | 39(e) | Health and strength of workers, men and women, and tender age of children not abused; citizens not forced by economic necessity into unsuitable avocations | Protects against exploitative labour conditions |
-| 39(f) | Children develop in freedom and dignity; childhood and youth protected against exploitation and moral/material abandonment | Added/substituted through the 42nd Amendment |
+| 39(f) | Children develop in freedom and dignity; childhood and youth protected against exploitation and moral/material abandonment | Substituted/recast by the 42nd Amendment |
 | 39A | Equal justice and free legal aid so opportunities for justice are not denied by economic or other disabilities | 42nd Amendment; Legal Services Authorities Act, 1987 |
 | 40 | Organise village panchayats and endow them with powers to function as units of self-government | Constitutionalised institutionally by the 73rd Amendment; Article 40 itself remains a DPSP |
 | 41 | Within the limits of economic capacity and development, make effective provision for work, education and public assistance in unemployment, old age, sickness, disablement and undeserved want | The textual capacity limitation is examinable |
@@ -513,8 +514,8 @@ cover_image: "../../../notes/Polity/assets/08_Directive-Principles/01_part_iv_ar
 - [FACT] The official Gazette records Presidential assent on **11 March 2024**.
 - [FACT] The Code commenced on **27 January 2025**.
 - [FACT] Section 2 excludes Scheduled Tribes under Article 366(25) read with Article 342 and persons/groups with customary rights protected under Part XXI.
-- [CURRENT] News on AIR reported a 2026 Amendment Ordinance promulgated under Article 213 with immediate effect and described procedural, administrative and penal changes.
-- [LIMIT] This package does not state unverified section numbers, penalties, current litigation outcomes or whether the Ordinance presently survives as an Ordinance or replacement Act.
+- [CURRENT] The official Uttarakhand UCC portal records the 27 January 2026 Amendment Ordinance and the succeeding Uniform Civil Code, Uttarakhand (Amendment) Act, 2026, GO dated 7 April 2026.
+- [LIMIT] Cite the Amendment Act as the current instrument. This package does not state an unverified litigation outcome or implementation statistic.
 
 ### Graded Article 44 verdict
 
@@ -721,17 +722,17 @@ For any new welfare, redistribution, UCC, labour or co-operative measure:
 
 ### Mains PYQ 1. UPSC 2023 GS-II Q2 - Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India. (10 marks, 150 words)
 
-**Model answer.** **Thesis:** Free legal aid is a constitutional access-to-justice commitment under Article 39A, reinforced by Article 21 fair-procedure jurisprudence and operationalised through the Legal Services Authorities Act, 1987.
+**Model answer.** Article 39A's access-to-justice commitment is reinforced by Article 21 fair-procedure jurisprudence and implemented through the Legal Services Authorities Act, 1987.
 
-**Entitlement:** Section 12 covers SC/ST members; victims of trafficking or begar; women and children; persons with disability; victims of mass disaster, ethnic violence, caste atrocity, flood, drought, earthquake or industrial disaster; industrial workmen; persons in custody; and persons below the income ceiling prescribed by the appropriate government. Under section 13, the authority must also find a prima facie case.
+**Entitlement:** Section 12 covers SC/ST members; trafficking or begar victims; women and children; persons with disability; disaster or atrocity victims; industrial workmen; persons in custody; and persons below the income ceiling prescribed by the appropriate government. Section 13 additionally requires a prima facie case.
 
-**NALSA's role:** NALSA frames national policy and schemes and coordinates a tiered network of State Authorities, Supreme Court/High Court Committees, District Authorities and Taluk Committees. The network supplies advice, counsel, drafting, litigation expenses, legal-awareness and clinic services, and organises Lok Adalats. *M.H. Hoskot* and *Hussainara Khatoon* show why legal representation can be integral to fair procedure.
+**NALSA's role:** NALSA frames policy and coordinates State, High Court, District and Taluk-level bodies. The network provides advice, representation, drafting, litigation expenses, awareness and Lok Adalats. *M.H. Hoskot* and *Hussainara Khatoon* connect counsel to fair procedure; *Suhas Chakma* (2024) strengthens monitoring of prison legal-aid delivery.
 
-**Assessment:** The statutory architecture is decentralised and includes several vulnerable groups irrespective of income. However, low awareness, uneven panel-lawyer quality, weak client communication and disposal-focused metrics reduce effective access.
-
-**Conclusion:** NALSA has converted Article 39A from an aspiration into an institutional entitlement; its next task is quality-assured, early and client-centred legal service rather than mere case disposal.
+**Assessment and conclusion:** The architecture is broad and decentralised, but low awareness, uneven panel-lawyer quality, weak client communication and disposal-centred metrics reduce effective access. NALSA should prioritise early advice, counsel-performance review, client feedback and local-language delivery so Article 39A becomes quality-assured access rather than nominal representation.
 
 **Why this earns marks:** It answers both limbs, accurately lists section 12 categories, adds section 13, names the full institutional chain and two cases, assesses achievements and delivery limits, and gives a reform-oriented verdict within a 10-marker structure.
+
+**How to improve this answer:** Replace one older case reference with *Suhas Chakma v. Union of India* (2024) and its Jail Visiting Lawyer/NALSA monitoring directions; compress the eligibility list into four clusters to preserve space for a sharper assessment.
 
 ### Prelims PYQ 1. UPSC 2020 GS-I Q5 - Separation of judiciary
 
@@ -1004,7 +1005,7 @@ Which is the correct assessment?
 
 **Explanation:** Local-government implementation overlaps, but the Article's exact text must be preserved.
 
-### Q13. With reference to labour implementation, which is most accurate as of 15 August 2026?
+### Q13. With reference to labour implementation, which is most accurate as of 28 August 2026?
 
 - A. An official 21 November 2025 announcement brought all four Labour Codes into effect, but enactment does not prove uniform compliance or State capacity.
 - B. None of the four Labour Codes has commenced.
@@ -1092,12 +1093,12 @@ Which statements are correct?
 
 - A. It commenced before Presidential assent.
 - B. It applies to every Scheduled Tribe without exception.
-- C. Its reported 2026 Ordinance has a securely verified permanent replacement status.
+- C. The January 2026 Amendment Ordinance remains the current amending instrument.
 - D. The 2024 Act received assent on 11 March 2024, commenced on 27 January 2025, and section 2 contains the verified Scheduled Tribe/customary-rights exclusion.
 
 **Answer: D.**
 
-**Explanation:** The 2026 Ordinance was officially reported under Article 213, but its later replacement/lapse status is not claimed.
+**Explanation:** Option C is false because the official UCC portal publishes the succeeding Amendment Act, GO dated 7 April 2026. Option D states the independently verified commencement and section 2 exclusion.
 
 ### Q21. Which set contains only directives outside Part IV?
 
@@ -1307,6 +1308,8 @@ Third, they possess judicial relevance. Courts use DPSP to interpret rights and 
 
 **Why this earns marks:** It explains the apparent paradox through Article 37's full text, gives three named conversion examples, uses *Minerva Mills*, states the institutional limitation and directly answers "non-binding."
 
+**How to improve this answer:** In the exam, draw a four-arrow conversion chain—directive → law → institution → enforceable entitlement—and devote the last two lines to the distinction between constitutional duty and a directly claimable remedy.
+
 ### M2. Examine the present constitutional scope of Article 31C after *Property Owners Association*. (10 marks, 150 words)
 
 **Model solution.** **Thesis:** Article 31C survives as a narrow distributive shield, not a general DPSP supremacy clause.
@@ -1318,6 +1321,8 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 **Conclusion:** Current Article 31C shields genuine 39(b)/(c) laws only against Articles 14 and 19; judicial review and basic-structure limits remain.
 
 **Why this earns marks:** It gives the amendment-case chronology, the exact surviving rights shield, the current private-resource test and the review caveat without saying all DPSP or all private assets are covered.
+
+**How to improve this answer:** Use a three-row table for shield, review and resource test; expressly write “Articles 14 and 19 only” and delete background on repealed Article 31 if the 150-word limit is tight.
 
 ### M3. Trace the evolution of the relationship between Fundamental Rights and Directive Principles. Has harmony replaced hierarchy? (15 marks, 250 words)
 
@@ -1337,6 +1342,8 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 
 **Why this earns marks:** It traces the complete chronology, explains cause and effect, includes education and Ninth Schedule developments, states the exact 2024 position and gives a qualified answer to the final question.
 
+**How to improve this answer:** Turn the chronology into five dated milestones and reserve a distinct final paragraph for the verdict: harmony governs constitutional design, while enforceable rights still control inconsistent ordinary law outside a valid Article 31C shield.
+
 ### M4. Assess whether India's legal-services and Lok Adalat framework adequately realises Article 39A. (15 marks, 250 words)
 
 **Model solution.** **Thesis:** India has created a deep statutory architecture for Article 39A, but effective equal justice depends on service quality and informed consent, not institutional count or disposal figures alone.
@@ -1355,6 +1362,8 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 
 **Why this earns marks:** It accurately separates eligibility, institutions, ordinary/Permanent Lok Adalat powers, Article 21 cases, achievement and implementation limits, and proposes reforms tied to the diagnosis.
 
+**How to improve this answer:** Add *Suhas Chakma* (2024) as concrete prison-delivery evidence and organise the assessment under access, quality and consent; avoid spending more than one-third of the answer merely listing institutions.
+
 ### M5. Article 44 is a constitutional direction, but a Uniform Civil Code is a legislative design problem. Discuss. (15 marks, 250 words)
 
 **Model solution.** **Thesis:** Article 44 sets the goal of common civil citizenship, but Article 37 leaves its form and timing to democratic legislation constrained by equality, liberty, religion, federal competence and workable transition.
@@ -1370,6 +1379,8 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 **Verdict:** Legitimacy requires consultation, gender-just rules, clear transition, federal competence and protection against majoritarian transplantation.
 
 **Why this earns marks:** It integrates Article 44, Entry 5, equality/religion, four cases, reform routes, Law Commission positions and secure Uttarakhand facts while explicitly refusing the false "courts ordered UCC" claim.
+
+**How to improve this answer:** Update the Uttarakhand example to the April 2026 Amendment Act, then compare targeted reform and comprehensive codification in two columns; end with an executable test of consultation, equality, transition and federal competence.
 
 ### M6. How far have Directive Principles transformed India from a police state into a welfare state? Critically evaluate. (20 marks, 300 words)
 
@@ -1387,6 +1398,8 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 
 **Why this earns marks:** It covers the full philosophy-to-delivery arc, uses eight named constitutional/statutory examples, analyses mechanism and incentives, states rights/federal limitations and gives a graded "how far" verdict.
 
+**How to improve this answer:** Group examples by social floor, democratic decentralisation and regulatory welfare rather than listing them; attach one measurable delivery gap to each group and retain the final “substantial, not complete” degree verdict.
+
 ### M7. "Directive Principles are a constitutional compass, not a delivery guarantee." Evaluate the criticisms and continuing utility of Part IV. (20 marks, 300 words)
 
 **Model solution.** **Thesis:** The metaphor is accurate if "compass" denotes binding constitutional direction rather than optional morality: Part IV guides legislation, interpretation and political accountability but cannot by itself guarantee resources, institutions or outcomes.
@@ -1402,6 +1415,8 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 **Graded verdict:** DPSP are neither judicially enforceable rights nor empty promises. Their enduring value lies in setting ends, disciplining public justification and enabling progressive conversion into rights and institutions. Delivery requires finance, federal coordination, measurement and Part III-compatible means.
 
 **Why this earns marks:** It uses exact named critics and defenders, tests their claims against Article 37 and real institutions, integrates federal/resource/judicial limits and gives a balanced constitutional verdict rather than a quotation list.
+
+**How to improve this answer:** Pair each named criticism immediately with one constitutional or institutional rebuttal in a two-column structure; compress quotations and use the saved space for a three-part delivery test—funding, institutional capacity and grievance correction.
 
 ## Final consolidated register notes - Directive Principles of State Policy
 
@@ -1560,7 +1575,7 @@ In *Property Owners Association* (5 November 2024), the nine-judge Bench confirm
 - 21st Law Commission 2018: neither necessary nor desirable at that stage; reform discriminatory family law.
 - 22nd Commission 2023: public consultation; no final recommendation claimed.
 - Uttarakhand: assent 11 Mar 2024; commencement 27 Jan 2025; section 2 ST/Part XXI customary-rights exclusion.
-- 2026 Ordinance: official News on AIR report under Article 213/immediate effect; do not invent sections, penalties, litigation result or current replacement/lapse.
+- 2026 amendment: Ordinance on 27 Jan; official Amendment Act/GO on 7 Apr; cite the Act as current and do not invent litigation outcomes or implementation statistics.
 
 ### Directives outside Part IV
 

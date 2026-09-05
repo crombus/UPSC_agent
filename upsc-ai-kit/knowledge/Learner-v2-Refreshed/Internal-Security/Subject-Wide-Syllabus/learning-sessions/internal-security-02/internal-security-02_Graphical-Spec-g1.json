@@ -1,0 +1,1032 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-02",
+  "subject": "Internal-Security",
+  "title": "TERRORISM AND COUNTER-TERROR ARCHITECTURE",
+  "short_route": "TERRORISM CONCEPT MAP → THREE-CATEGORY FIREWALL → MANIFESTATION MATRIX → FUNDING DISRUPTION CHAIN → COUNTER-TERROR FUNCTION CHAIN → POST-26/11 INSTITUTION MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-02\\internal-security-02_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-02-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "4cb502d5694df86e2e4905d6ea01347ddc8f5041f387333d21f664637e992c2b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TERRORISM CONCEPT MAP",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TERRORISM CONCEPT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "IDEOLOGICAL COERCION",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNED, ORGANISED, SYSTEMATIC VIOLENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE, PROXY, NETWORK OR INDIVIDUAL",
+          "role": "institution"
+        },
+        {
+          "text": "OUTCOME SOUGHT",
+          "role": "primary"
+        },
+        {
+          "text": "FEAR, COMPLIANCE, LEGITIMACY EROSION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PURPOSE → political / religious / ideological coercion",
+        "METHOD → planned, organised, systematic violence",
+        "ACTOR → state, proxy, network or individual",
+        "OUTCOME SOUGHT → fear, compliance, legitimacy erosion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "PURPOSE → political / religious / ideological coercion",
+            "METHOD → planned, organised, systematic violence"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ACTOR → state, proxy, network or individual",
+            "OUTCOME SOUGHT → fear, compliance, legitimacy erosion"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "PURPOSE → political / religious / ideological coercion",
+            "METHOD → planned, organised, systematic violence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PURPOSE → political / religious / ideological coercion.",
+      "source_references": [
+        "Terrorism definition",
+        "State-proxy boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE-CATEGORY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE-CATEGORY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "BROAD COERCIVE VIOLENCE CATEGORY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARMED REBELLION WITH CLAIMED SOCIAL SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "MAOIST GUERRILLA ROUTE TO STATE POWER",
+          "role": "institution"
+        },
+        {
+          "text": "OVERLAP DOES NOT ERASE DISTINCT OBJECTIVES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TERRORISM → broad coercive violence category",
+        "INSURGENCY → armed rebellion with claimed social support",
+        "NAXALISM → Maoist guerrilla route to state power",
+        "RULE → overlap does not erase distinct objectives"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "TERRORISM → broad coercive violence category",
+          "NAXALISM → Maoist guerrilla route to state power",
+          "TERRORISM → broad coercive violence category"
+        ],
+        [
+          "INSURGENCY → armed rebellion with claimed social support",
+          "RULE → overlap does not erase distinct objectives",
+          "INSURGENCY → armed rebellion with claimed social support"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "TERRORISM → broad coercive violence category",
+            "INSURGENCY → armed rebellion with claimed social support"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NAXALISM → Maoist guerrilla route to state power",
+            "RULE → overlap does not erase distinct objectives"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "TERRORISM → broad coercive violence category",
+            "INSURGENCY → armed rebellion with claimed social support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → overlap does not erase distinct objectives.",
+      "source_references": [
+        "Terrorism-insurgency-Naxalism"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MANIFESTATION MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MANIFESTATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "HINTERLAND MODULES",
+          "role": "outcome"
+        },
+        {
+          "text": "J&K PROXY VIOLENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTH-EAST INSURGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "LEFT-WING EXTREMISM",
+          "role": "primary"
+        },
+        {
+          "text": "FOR EACH",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTOR + VULNERABILITY + FINANCE + RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT EXAMPLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HINTERLAND MODULES",
+        "J&K PROXY VIOLENCE",
+        "NORTH-EAST INSURGENCY",
+        "LEFT-WING EXTREMISM",
+        "FOR EACH → actor + vulnerability + finance + response"
+      ],
+      "matrix": [
+        [
+          "HINTERLAND MODULES",
+          "J&K PROXY VIOLENCE"
+        ],
+        [
+          "NORTH-EAST INSURGENCY",
+          "LEFT-WING EXTREMISM"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "HINTERLAND MODULES",
+            "J&K PROXY VIOLENCE"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NORTH-EAST INSURGENCY",
+            "LEFT-WING EXTREMISM"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "FOR EACH → actor + vulnerability + finance + response",
+            "CURRENT EXAMPLE → use dated official status only"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CURRENT EXAMPLE → use dated official status only.",
+      "source_references": [
+        "Manifestation categories"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FUNDING DISRUPTION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FUNDING DISRUPTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "INTELLIGENCE + FINANCIAL INVESTIGATION + PROSECUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE → SPONSOR / EXTORTION / CONTRABAND / CHARITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE → sponsor / extortion / contraband / charity",
+        "TRANSFER → hawala / cash / counterfeit / digital channel",
+        "USE → recruitment / logistics / propaganda",
+        "RESPONSE → intelligence + financial investigation + prosecution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "SOURCE → sponsor / extortion / contraband / charity",
+            "TRANSFER → hawala / cash / counterfeit / digital channel"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "USE → recruitment / logistics / propaganda",
+            "RESPONSE → intelligence + financial investigation + prosecution"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → sponsor / extortion / contraband / charity",
+            "TRANSFER → hawala / cash / counterfeit / digital channel"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESPONSE → intelligence + financial investigation + prosecution.",
+      "source_references": [
+        "Funding architecture"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COUNTER-TERROR FUNCTION CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "COUNTER-TERROR FUNCTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALISED RESPONSE",
+          "role": "outcome"
+        },
+        {
+          "text": "PREVENTION / INTELLIGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTAINMENT / SPECIALISED RESPONSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PREVENTION / INTELLIGENCE",
+        "CONTAINMENT / SPECIALISED RESPONSE",
+        "RECOVERY / RESILIENCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "PREVENTION / INTELLIGENCE",
+            "CONTAINMENT / SPECIALISED RESPONSE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECOVERY / RESILIENCE",
+            "PREVENTION / INTELLIGENCE"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTAINMENT / SPECIALISED RESPONSE",
+            "RECOVERY / RESILIENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTAINMENT / SPECIALISED RESPONSE; INVESTIGATION; PROSECUTION; RECOVERY / RESILIENCE.",
+      "source_references": [
+        "Counter-terror chain"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "POST-26/11 INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POST-26/11 INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "SCHEDULED-OFFENCE INVESTIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTELLIGENCE SHARING",
+          "role": "comparison"
+        },
+        {
+          "text": "DATA-LINKAGE ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTESTED CENTRALISATION PROPOSAL",
+          "role": "primary"
+        },
+        {
+          "text": "NSG HUBS",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIALISED CRISIS RESPONSE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NIA → scheduled-offence investigation",
+        "MAC / SMAC → intelligence sharing",
+        "NATGRID → data-linkage architecture",
+        "NCTC → contested centralisation proposal",
+        "NSG HUBS → specialised crisis response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "NIA → scheduled-offence investigation",
+            "MAC / SMAC → intelligence sharing"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "NATGRID → data-linkage architecture",
+            "NCTC → contested centralisation proposal"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "NSG HUBS → specialised crisis response",
+            "NIA → scheduled-offence investigation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NCTC → contested centralisation proposal; NSG HUBS → specialised crisis response.",
+      "source_references": [
+        "Post-26/11 build-out",
+        "NIA boundary",
+        "MAC-SMAC boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FEDERAL RESPONSE ARCHITECTURE",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FEDERAL RESPONSE ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE POLICE",
+          "role": "institution"
+        },
+        {
+          "text": "FIRST RESPONSE, SCENE, EVIDENCE, LOCAL ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL AGENCIES",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHEDULED INVESTIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "INTELLIGENCE SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIAL COURTS",
+          "role": "comparison"
+        },
+        {
+          "text": "COOPERATION WITHOUT INSTITUTIONAL SUBSTITUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE POLICE → first response, scene, evidence, local order",
+        "CENTRAL AGENCIES → scheduled investigation / intelligence support",
+        "SPECIAL COURTS → trial",
+        "RULE → cooperation without institutional substitution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "STATE POLICE → first response, scene, evidence, local order",
+            "CENTRAL AGENCIES → scheduled investigation / intelligence support"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SPECIAL COURTS → trial",
+            "RULE → cooperation without institutional substitution"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE POLICE → first response, scene, evidence, local order",
+            "CENTRAL AGENCIES → scheduled investigation / intelligence support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CENTRAL AGENCIES → scheduled investigation / intelligence support.",
+      "source_references": [
+        "State-police primacy",
+        "NIA boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NCTC DECISION TREE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NCTC DECISION TREE",
+          "role": "primary"
+        },
+        {
+          "text": "REAL-TIME NATIONAL COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PROPOSED POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "STATE POLICE COMPETENCE + INTELLIGENCE-ARREST SEPARATION",
+          "role": "institution"
+        },
+        {
+          "text": "DURABLE MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "COORDINATED PLATFORMS AND CASE-BASED INVESTIGATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NEED → real-time national coordination",
+        "PROPOSED POWER → search / arrest / investigation",
+        "OBJECTION → State police competence + intelligence-arrest separation",
+        "DURABLE MODEL → coordinated platforms and case-based investigation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "NEED → real-time national coordination",
+            "PROPOSED POWER → search / arrest / investigation"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "OBJECTION → State police competence + intelligence-arrest separation",
+            "DURABLE MODEL → coordinated platforms and case-based investigation"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "NEED → real-time national coordination",
+            "PROPOSED POWER → search / arrest / investigation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DURABLE MODEL → coordinated platforms and case-based investigation.",
+      "source_references": [
+        "NCTC federalism issue"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "UAPA DESIGNATION LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "UAPA DESIGNATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL NOTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FOURTH SCHEDULE DESIGNATION",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE CRIMINAL PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "JUDICIAL FINDING AFTER TRIAL",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CENTRAL NOTIFICATION → FOURTH SCHEDULE DESIGNATION",
+        "APPLICATION / REVIEW → STATUTORY ROUTE",
+        "ARREST / CHARGE-SHEET → SEPARATE CRIMINAL PROCESS",
+        "CONVICTION → JUDICIAL FINDING AFTER TRIAL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "CENTRAL NOTIFICATION → FOURTH SCHEDULE DESIGNATION",
+            "APPLICATION / REVIEW → STATUTORY ROUTE"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARREST / CHARGE-SHEET → SEPARATE CRIMINAL PROCESS",
+            "CONVICTION → JUDICIAL FINDING AFTER TRIAL"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CENTRAL NOTIFICATION → FOURTH SCHEDULE DESIGNATION",
+            "APPLICATION / REVIEW → STATUTORY ROUTE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARREST / CHARGE-SHEET → SEPARATE CRIMINAL PROCESS; CONVICTION → JUDICIAL FINDING AFTER TRIAL.",
+      "source_references": [
+        "UAPA 2019 designation",
+        "Designation-conviction firewall"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NIA AMENDMENT MAP",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NIA AMENDMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "OUTSIDE INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN CITIZEN",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEREST NEXUS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPANDED SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIFIED ADDITIONAL OFFENCES",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIAL COURTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SESSIONS COURTS MAY BE DESIGNATED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OUTSIDE INDIA → Indian citizen / interest nexus",
+        "EXPANDED SCHEDULE → specified additional offences",
+        "SPECIAL COURTS → Sessions Courts may be designated",
+        "RULE → jurisdictional power is not a case outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "OUTSIDE INDIA → Indian citizen / interest nexus",
+            "EXPANDED SCHEDULE → specified additional offences"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SPECIAL COURTS → Sessions Courts may be designated",
+            "RULE → jurisdictional power is not a case outcome"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTSIDE INDIA → Indian citizen / interest nexus",
+            "EXPANDED SCHEDULE → specified additional offences"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → jurisdictional power is not a case outcome.",
+      "source_references": [
+        "NIA 2019 amendment"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BNS-UAPA FORUM CHOICE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BNS-UAPA FORUM CHOICE",
+          "role": "primary"
+        },
+        {
+          "text": "BNS 113",
+          "role": "outcome"
+        },
+        {
+          "text": "GENERAL PENAL LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIAL ANTI-TERROR LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "SP-RANK DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "ROUTE SELECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "AGENCY, BAIL AND SANCTION FRAMEWORK DIFFER",
+          "role": "comparison"
+        },
+        {
+          "text": "BOTH REMAIN IN FORCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BNS 113 → general penal law",
+        "UAPA → special anti-terror law",
+        "SP-RANK DECISION → route selected",
+        "CONSEQUENCE → agency, bail and sanction framework differ",
+        "RULE → both remain in force"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "BNS 113 → general penal law",
+          "SP-RANK DECISION → route selected",
+          "RULE → both remain in force"
+        ],
+        [
+          "UAPA → special anti-terror law",
+          "CONSEQUENCE → agency, bail and sanction framework differ",
+          "BNS 113 → general penal law"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "BNS 113 → general penal law",
+            "UAPA → special anti-terror law"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SP-RANK DECISION → route selected",
+            "CONSEQUENCE → agency, bail and sanction framework differ"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → both remain in force",
+            "BNS 113 → general penal law"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → agency, bail and sanction framework differ.",
+      "source_references": [
+        "BNS-UAPA concurrency",
+        "UAPA bail boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PRAHAAR POLICY RAIL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PRAHAAR POLICY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "AGGREGATE CAPACITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "RULE OF LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTENUATE CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "ALIGN INTERNATIONALLY",
+          "role": "primary"
+        },
+        {
+          "text": "BUILD RESILIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY, NOT AGENCY; FRAMEWORK, NOT OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PREVENT → RESPOND → AGGREGATE CAPACITIES",
+        "RIGHTS / RULE OF LAW → ATTENUATE CONDITIONS",
+        "ALIGN INTERNATIONALLY → RECOVER / BUILD RESILIENCE",
+        "QUALIFY → policy, not agency; framework, not outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "PREVENT → RESPOND → AGGREGATE CAPACITIES",
+            "RIGHTS / RULE OF LAW → ATTENUATE CONDITIONS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "ALIGN INTERNATIONALLY → RECOVER / BUILD RESILIENCE",
+            "QUALIFY → policy, not agency; framework, not outcome"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "PREVENT → RESPOND → AGGREGATE CAPACITIES",
+            "RIGHTS / RULE OF LAW → ATTENUATE CONDITIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RIGHTS / RULE OF LAW → ATTENUATE CONDITIONS.",
+      "source_references": [
+        "PRAHAAR policy",
+        "Policy-agency-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FEDERAL INVESTIGATING AGENCY WITH CONCURRENT JURISDICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "AN INTELLIGENCE-SHARING, NOT AN OPERATIONAL-COMMAND",
+          "role": "caution"
+        },
+        {
+          "text": "CONCEIVED BUT NOT IMPLEMENTED IN THE FORM ORIGINALLY",
+          "role": "caution"
+        },
+        {
+          "text": "THE POST-2019 LEGAL LAYER (NOT IN SINGH'S BOOK)",
+          "role": "caution"
+        },
+        {
+          "text": "UAPA'S FOURTH",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAHAAR (2026)",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CURRENT APEX POLICY DOCUMENT; ITS SEVEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "NIA: federal investigating agency with concurrent jurisdiction",
+            "MAC/SMAC: an intelligence-sharing, not an operational-command,",
+            "CAUTION: NCTC: conceived but not implemented in the form originally",
+            "CAUTION: The post-2019 legal layer (not in Singh's book): UAPA's Fourth"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "PRAHAAR (2026): the current apex policy document; its seven",
+            "CAUTION: UAPA's widening scope as a rights boundary case: the 2012",
+            "CAUTION: Bail as the operative rights question, not detention length:",
+            "CAUTION: TADA/POTA's lapse as a legitimacy precedent: both special laws"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: NCTC as the clearest cooperative-federalism boundary case: it",
+            "CAUTION: Centralisation gains speed but risks federal and rights friction;",
+            "CAUTION: Special anti-terror laws face a recurring misuse-vs.-necessity",
+            "CAUTION: A \"whole-of-society\" framing (PRAHAAR) is aspirationally broad;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

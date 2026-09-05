@@ -36,7 +36,9 @@ content to its access-to-justice objective.
 ```text
 National Legal Services Authority (NALSA)
                  │
-      State Legal Services Authorities
+ Supreme Court Legal Services Committee
+                 │
+ State Legal Services Authorities (SLSAs)
                  │
      High Court Legal Services Committees
                  │
@@ -48,10 +50,14 @@ National Legal Services Authority (NALSA)
 | Institution | Key position |
 |---|---|
 | NALSA | Lays down policy/principles and frames effective/economical legal-services schemes; Patron-in-Chief is the CJI; Executive Chairman is a serving/retired Supreme Court judge nominated in the statutory manner |
+| Supreme Court Committee | Provides and administers legal services for matters before the Supreme Court |
 | State Authority | Implements Central policy and coordinates State legal services/Lok Adalats; Patron-in-Chief is the Chief Justice of the High Court |
 | High Court Committee | Provides legal services for matters before the High Court |
 | District Authority | Implements programmes and coordinates Taluk activity; District Judge is chairman |
 | Taluk Committee | Coordinates services and Lok Adalats at taluk/mandal level |
+
+> **Terminology trap:** The statutory abbreviation is ordinarily **SLSA** (State Legal Services
+> Authority), not “SALSA”. District and Taluk bodies are commonly abbreviated DLSA and TLSC.
 
 ### Eligibility for free legal services
 
@@ -164,6 +170,10 @@ Party applies before dispute reaches a court
 
 ## 5. Ordinary Lok Adalat versus Permanent Lok Adalat
 
+The two institutions share statutory finality but not the same jurisdiction or decisional power.
+An ordinary Lok Adalat depends on compromise; a Permanent Lok Adalat is a pre-litigation
+public-utility forum that may adjudicate only after its statutory conciliation stage fails.
+
 | Axis | Ordinary Lok Adalat | Permanent Lok Adalat |
 |---|---|---|
 | Statutory route | Ch. VI, 1987 Act | Ch. VI-A, inserted in 2002 |
@@ -219,6 +229,10 @@ Adalat. Current counts and operational coverage vary and require dated official 
 
 ## 8. Comparative institution map
 
+Forum choice depends on the source of jurisdiction, need for consent, power to decide merits and
+available appeal or review. The same access-to-justice objective can therefore produce very
+different legal consequences.
+
 | Institution | Primary function | Consent needed for outcome? | Can decide merits? | Appeal/control |
 |---|---|---:|---:|---|
 | Ordinary Lok Adalat | Settlement | Yes | No | No statutory appeal; limited judicial review |
@@ -228,7 +242,81 @@ Adalat. Current counts and operational coverage vary and require dated official 
 
 ---
 
-## 9. Constitutional significance and implementation limits
+## 9. Other courts and justice-delivery designs
+
+| Design | Legal source | Core function | UPSC distinction |
+|---|---|---|---|
+| Fast Track Courts | Government/finance-supported scheme implemented through States and High Courts | Additional capacity for selected pending cases | Not a separate constitutional species or uniform permanent court |
+| Special Courts | Particular statute or valid notification | Trial/adjudication of a defined offence, person or subject | Jurisdiction depends on the parent law |
+| Commercial Courts | Commercial Courts Act 2015, as amended | Specified-value commercial disputes with case-management and pre-institution processes | Statutory civil courts, not tribunals or Lok Adalats |
+| Evening/Morning Courts | High Court/State administrative design under ordinary court authority | Extend hearing hours for suitable minor matters | Administrative format, not a new constitutional hierarchy |
+| Family Courts | Family Courts Act 1984 | Family adjudication plus settlement orientation | Judicial decision remains available |
+| Gram Nyayalayas | Gram Nyayalayas Act 2008 | Local/mobile first-instance justice | Statutory court with appeals |
+
+⚠️ A “special”, “fast”, “commercial” or “evening” label identifies a design or jurisdiction. It
+does not by itself answer appointment, procedure, appeal or constitutional status.
+
+---
+
+## 10. Mediation Act 2023 interface
+
+📜 The Mediation Act 2023 supplies a general statutory framework for mediation, including
+pre-litigation, institutional, online and community-mediation concepts, mediated-settlement
+agreements, confidentiality and enforcement/challenge rules. Its commencement, rules and any
+sectoral exclusions must be checked provision by provision on the control date.
+
+```text
+MEDIATION
+neutral facilitates party-made settlement
+        ≠
+ORDINARY LOK ADALAT
+statutory forum records compromise as award/deemed decree
+        ≠
+PERMANENT LOK ADALAT
+conciliation first; eligible public-utility dispute may then be decided on merits
+        ≠
+COURT / TRIBUNAL
+authoritative adjudication under jurisdiction and appeal/review rules
+```
+
+The Commercial Courts Act's pre-institution mediation route and the Mediation Act must not be
+collapsed into the Lok Adalat regime. Settlement remains party-made in mediation; an ordinary Lok
+Adalat award follows compromise; a PLA has a limited post-conciliation adjudicatory power.
+
+---
+
+## 11. Courts, tribunals and ADR
+
+| Axis | Court | Tribunal | ADR/mediation | Lok Adalat |
+|---|---|---|---|---|
+| Source | Constitution/statute and judicial hierarchy | Statute under constitutional limits | Contract/statute/court referral | Legal Services Authorities Act |
+| Primary role | Adjudication | Specialised adjudication | Facilitated/party-chosen resolution | Statutory settlement; PLA hybrid |
+| Binding outcome without consent | Yes | Yes | Generally no mediated settlement without consent | Ordinary: no; PLA: yes after failed conciliation within scope |
+| Appeal/review | Hierarchical/statutory | Statutory appeal plus constitutional review | Enforcement/challenge under governing law | Statutory finality plus limited constitutional review |
+
+> **Trap:** “Alternative forum” does not mean identical power. Consent, subject matter,
+> pre-litigation status, merits power, enforcement and review must be tested separately.
+
+---
+
+## 12. Leading cases and legal effects
+
+| Decision | Decision year | Exam-safe holding/use |
+|---|---:|---|
+| *Hussainara Khatoon v. State of Bihar* | 1979 | Speedy justice and legal assistance are integral to fair procedure under Art 21 |
+| *State of Punjab v. Jalour Singh* | 2008 | Ordinary Lok Adalat has no adjudicatory role; award must rest on compromise |
+| *Afcons Infrastructure v. Cherian Varkey Construction* | 2010 | Structured guidance on court referral to ADR processes |
+| *InterGlobe Aviation v. N. Satchidanand* | 2011 | Ordinary Lok Adalat and Permanent Lok Adalat are legally distinct; merits power cannot be casually transferred |
+| *Bar Council of India v. Union of India* | 2012 | Upheld the PLA public-utility conciliation-cum-adjudication design |
+| *Patil Automation v. Rakheja Engineers* | 2022 | Commercial pre-institution mediation requirement is mandatory where the statutory urgent-relief exception does not apply |
+| *Canara Bank v. G.S. Jayarama* | 2022 | Clarified PLA conciliation procedure and its limited power to decide an eligible dispute after conciliation fails |
+
+⚠️ Case use must track the exact statutory mechanism. A decision about commercial mediation,
+ordinary Lok Adalat or PLA cannot be applied as if all three were the same forum.
+
+---
+
+## 13. Constitutional significance and implementation limits
 
 ### Advantages
 
@@ -251,9 +339,9 @@ test is affordable access **with** voluntariness, fairness and review against il
 
 ---
 
-## 10. Answer architecture (10/15/20-mark support)
+## 14. Answer architecture (10/15/20-mark support)
 
-### 10.1 Demand map
+### 14.1 Demand map
 
 | Demand | Answer spine |
 |---|---|
@@ -263,7 +351,7 @@ test is affordable access **with** voluntariness, fairness and review against il
 | Gram Nyayalayas | statutory design → mobile/local jurisdiction → appellate safeguard → operational gaps |
 | Family Courts | specialisation → conciliation/privacy/flexibility → fairness/capacity |
 
-### 10.2 Thesis options
+### 14.2 Thesis options
 
 - *Lok Adalats constitutionalise access through consensual settlement, but their legitimacy depends
   on genuine compromise rather than docket disposal.*
@@ -272,7 +360,7 @@ test is affordable access **with** voluntariness, fairness and review against il
 - *India's access-to-justice architecture is plural, yet statutory proximity must be matched by
   personnel, awareness and procedural fairness.*
 
-### 10.3 Mark-scaled structures
+### 14.3 Mark-scaled structures
 
 | Marks | Structure | Evidence |
 |---:|---|---|
@@ -280,7 +368,7 @@ test is affordable access **with** voluntariness, fairness and review against il
 | 15 | Institutional ladder → ordinary/PLA comparison → benefits/limits | 5–6 anchors |
 | 20 | Constitutional anchor → four-institution matrix → safeguards → implementation reform → conclusion | 7–9 anchors |
 
-### 10.4 Evidence units
+### 14.4 Evidence units
 
 - **Claim:** an ordinary Lok Adalat is conciliatory, not adjudicatory. **Evidence:** 📜 compromise
   design and award provisions. **Analysis:** consent legitimises finality. **Qualification:** limited
@@ -294,7 +382,7 @@ test is affordable access **with** voluntariness, fairness and review against il
 
 ---
 
-## 11. Must-Know Facts and traps
+## 15. Must-Know Facts and traps
 
 - ✅ Art 39A is the constitutional anchor.
 - 📜 Legal Services Authorities Act 1987 creates the authority ladder and Lok Adalats.
@@ -302,6 +390,9 @@ test is affordable access **with** voluntariness, fairness and review against il
 - 📜 PLA may decide merits after failed conciliation in eligible public-utility disputes.
 - 📜 Both awards are treated as civil-court decrees and are final/binding.
 - 📜 Family Courts and Gram Nyayalayas are statutory courts with adjudicatory power.
+- 📜 Fast Track Courts and evening courts are designs/schemes; special and commercial courts
+  derive jurisdiction from their governing law.
+- 📜 Mediation, ordinary Lok Adalat and PLA have different consent and merits-decision rules.
 - ⚠️ Current pecuniary limits, notified services and operational counts require dated official
   verification.
 

@@ -221,3 +221,21 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Cabinet settlement breakdown, Direct Action, communal
+  violence, Interim Government conflict, Constituent Assembly opening,
+  Attlee-Mountbatten deadline sequence, 3 June Plan, Independence Act,
+  transfer, boundary disclosure, migration, gendered violence and relief.
+- **Boundary:** Topic 26 owns the Cabinet Mission design and post-war upsurge.
+  Topic 28 owns princely integration and constitution-to-republic.
+- **Date control:** 16 August and 2 September 1946; 9 December 1946;
+  20 February, 24 March and 3 June 1947; 18 July, 15 August and 17 August 1947
+  are separate political, legal and territorial thresholds.
+- **Mechanism control:** Partition was multi-causal and provincially uneven;
+  the Act created dominions but did not integrate princely states, frame the
+  Constitution or make India a republic.
+- **Verified PYQ ownership, 2018-2026:** the objective language-movement route
+  remains unresolved locally, while the 2019 transfer demand is shared with
+  Topic 26; no unsupported stem, claim or key is promoted.

@@ -13,7 +13,9 @@ only after the study, practice, revision, and notes targets for that week are do
 Copy this block into the current week's progress note if daily tracking is needed.
 
 - [ ] Newspaper notes completed
-- [ ] PIB/MEA/current update completed
+- [ ] Vajiram Recitals daily pages completed
+- [ ] Friday official-source verification completed where scheduled
+- [ ] Weekly CA MCQs/Mains conversion completed where scheduled
 - [ ] Static Topic A completed
 - [ ] Static Topic B completed
 - [ ] Philosophy Optional completed
@@ -406,13 +408,18 @@ Copy this block into the current week's progress note if daily tracking is neede
 
 Repeat these tasks each month:
 
-- [ ] First Sunday: Yojana extraction completed
-- [ ] Second Sunday: Kurukshetra extraction completed
-- [ ] Third Sunday: Down To Earth extraction completed
-- [ ] Fourth Sunday: Vision monthly consolidation completed
-- [ ] Last working day: PIB monthly review completed
-- [ ] Last working day: MEA monthly review completed
+- [ ] Vajiram Recitals issue completed
+- [ ] Editor's Cut and maps/places revised
+- [ ] Useful items merged into subject-wise notes
+- [ ] Monthly one-page recall sheet completed
+- [ ] Important figures, laws and schemes verified through official sources
+- [ ] Publication-lag scan completed through PIB, PRS, MEA and newspaper
+- [ ] Monthly CA MCQs completed and errors reviewed
+- [ ] Two current-linked Mains answers or outlines completed
 - [ ] Budget/Survey season: Budget and Economic Survey notes completed
+- [ ] Final Prelims phase only: PT365 gap-check completed
+- [ ] Post-Prelims only: selective Mains365 enrichment completed
+- [ ] Weak-theme only: selected Yojana/Kurukshetra/Down To Earth article completed
 
 ## Topic definition of done
 

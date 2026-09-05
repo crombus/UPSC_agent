@@ -1,0 +1,1087 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-38",
+  "subject": "Modern-Indian-History",
+  "title": "ECONOMY, LAND, SOCIETY & STATE: A POST-INDEPENDENCE SYNTHESIS",
+  "short_route": "THE ECONOMIC MODEL'S RISE → LAND REFORM DISAGGREGATED: ZAMINDARI → BHOODAN: GESTURE, NOT STRUCTURAL → THE GREEN REVOLUTION'S CONTESTED → AGRARIAN STRUGGLE: THREE MOMENTS → LAW-VERSUS-SOCIETY: CASTE, GENDER AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-38\\modern-indian-history-38_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-38-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "4fbf50fc2f4854f9120fc46842b7b23295f168177ba2400ba10bc2e2c1bd54cc",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE ECONOMIC MODEL'S RISE AND BREAK, 1948-91",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE ECONOMIC MODEL'S RISE AND BREAK, 1948-91",
+          "role": "primary"
+        },
+        {
+          "text": "IPR 1948/1956 + MAHALANOBIS PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC SECTOR \"COMMANDING HEIGHTS\"",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 4% A YEAR TO THE MID-1960S, BUT LICENCE-PERMIT",
+          "role": "evidence"
+        },
+        {
+          "text": "BALANCE-OF-PAYMENTS CRISIS FORCES LIBERALISATION (RAO-MANMOHAN SINGH)",
+          "role": "primary"
+        },
+        {
+          "text": "A CORRECTION OF EXCESS DIRIGISME, NOT A REPUDIATION OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IPR 1948/1956 + MAHALANOBIS PLAN → public sector \"commanding heights\"",
+        "GROWTH → about 4% a year to the mid-1960s, but LICENCE-PERMIT RAJ throttles it",
+        "1991 → balance-of-payments crisis forces LIBERALISATION (Rao-Manmohan Singh)",
+        "READING → a CORRECTION of excess dirigisme, not a repudiation of the model"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IPR 1948/1956 + MAHALANOBIS PLAN → public sector \"commanding heights\"",
+            "GROWTH → about 4% a year to the mid-1960s, but LICENCE-PERMIT RAJ throttles it"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1991 → balance-of-payments crisis forces LIBERALISATION (Rao-Manmohan Singh)",
+            "READING → a CORRECTION of excess dirigisme, not a repudiation of the model"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IPR 1948/1956 + MAHALANOBIS PLAN → public sector \"commanding heights\"",
+            "GROWTH → about 4% a year to the mid-1960s, but LICENCE-PERMIT RAJ throttles it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → a CORRECTION of excess dirigisme, not a repudiation of the model.",
+      "source_references": [
+        "The economic model's rise and break, 1948-91"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAND REFORM DISAGGREGATED: ZAMINDARI VS TENANCY VS CEILING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LAND REFORM DISAGGREGATED",
+          "role": "primary"
+        },
+        {
+          "text": "ZAMINDARI VS TENANCY VS CEILING",
+          "role": "comparison"
+        },
+        {
+          "text": "LARGELY SUCCEEDED",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICALLY WEAK CLASS, CLEAR TARGET",
+          "role": "evidence"
+        },
+        {
+          "text": "LARGELY FAILED",
+          "role": "primary"
+        },
+        {
+          "text": "ORAL TENANCIES POORLY RECORDED, EVASION",
+          "role": "outcome"
+        },
+        {
+          "text": "TARGETED THE STATE'S OWN POLITICAL BASE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "LARGELY SUCCEEDED",
+        "politically weak class, clear target",
+        "LARGELY FAILED",
+        "oral tenancies poorly recorded, evasion",
+        "targeted the state's own political base"
+      ],
+      "matrix": [
+        [
+          "COMPONENT",
+          "OUTCOME",
+          "WHY"
+        ],
+        [
+          "ZAMINDARI",
+          "LARGELY SUCCEEDED",
+          "politically weak class, clear target"
+        ],
+        [
+          "TENANCY",
+          "LARGELY FAILED",
+          "oral tenancies poorly recorded, evasion"
+        ],
+        [
+          "CEILING",
+          "LARGELY FAILED",
+          "targeted the state's own political base"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LARGELY SUCCEEDED",
+            "politically weak class, clear target"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LARGELY FAILED",
+            "oral tenancies poorly recorded, evasion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "targeted the state's own political base",
+            "LARGELY SUCCEEDED"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CEILING | LARGELY FAILED | targeted the state's own political base.",
+      "source_references": [
+        "Land reform disaggregated"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BHOODAN: GESTURE, NOT STRUCTURAL REFORM",
+      "structural_type": "cause-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GESTURE, NOT STRUCTURAL REFORM",
+          "role": "caution"
+        },
+        {
+          "text": "BHOODAN, LED BY VINOBA BHAVE",
+          "role": "outcome"
+        },
+        {
+          "text": "POCHAMPALLI, 1951",
+          "role": "comparison"
+        },
+        {
+          "text": "VOLUNTARY LAND DONATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MUCH DONATED LAND NEVER EFFECTIVELY DISTRIBUTED; NO STRUCTURAL REFORM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MOVEMENT → Bhoodan, led by Vinoba Bhave",
+        "BEGAN → Pochampalli, 1951",
+        "METHOD → voluntary land donation",
+        "LIMIT → much donated land never effectively distributed; no structural reform"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOVEMENT → Bhoodan, led by Vinoba Bhave",
+            "BEGAN → Pochampalli, 1951"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METHOD → voluntary land donation",
+            "LIMIT → much donated land never effectively distributed; no structural reform"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MOVEMENT → Bhoodan, led by Vinoba Bhave",
+            "BEGAN → Pochampalli, 1951"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → much donated land never effectively distributed; no structural reform.",
+      "source_references": [
+        "Bhoodan and its limits"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE GREEN REVOLUTION'S CONTESTED VERDICT",
+      "structural_type": "comparison",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE GREEN REVOLUTION'S CONTESTED VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDRA'S READING",
+          "role": "outcome"
+        },
+        {
+          "text": "DIFFUSION TO RICE REGIONS; SCALE-NEUTRAL TECHNOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITICS' READING",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEQUAL ACCESS, REGIONAL LAG, ECOLOGICAL COST",
+          "role": "primary"
+        },
+        {
+          "text": "INITIAL CONCENTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNJAB, HARYANA, WESTERN UP; WHEAT; MID-1960S",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE BOTH READINGS; DO NOT ASSERT EITHER ALONE AS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHANDRA'S READING → diffusion to rice regions; scale-neutral technology",
+        "CRITICS' READING → unequal access, regional lag, ecological cost",
+        "INITIAL CONCENTRATION → Punjab, Haryana, western UP; wheat; mid-1960s",
+        "RULE → state BOTH readings; do not assert either alone as settled"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHANDRA'S READING → diffusion to rice regions; scale-neutral technology",
+            "CRITICS' READING → unequal access, regional lag, ecological cost"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INITIAL CONCENTRATION → Punjab, Haryana, western UP; wheat; mid-1960s",
+            "RULE → state BOTH readings; do not assert either alone as settled"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHANDRA'S READING → diffusion to rice regions; scale-neutral technology",
+            "CRITICS' READING → unequal access, regional lag, ecological cost"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → state BOTH readings; do not assert either alone as settled.",
+      "source_references": [
+        "The Green Revolution debate"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "AGRARIAN STRUGGLE: THREE MOMENTS, THREE CLASSES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGRARIAN STRUGGLE",
+          "role": "primary"
+        },
+        {
+          "text": "THREE MOMENTS, THREE CLASSES",
+          "role": "outcome"
+        },
+        {
+          "text": "TELANGANA (1946-47)",
+          "role": "comparison"
+        },
+        {
+          "text": "LANDLESS AND TENANT STRUGGLE, AT THE MOMENT OF TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "NAXALBARI (1967)",
+          "role": "primary"
+        },
+        {
+          "text": "LAUNCHES NAXALITE MOVEMENT; CPI(ML) FORMED 1969",
+          "role": "outcome"
+        },
+        {
+          "text": "1980S FARMERS' MOVEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "NASIK (1980), SISAULI (1986); MARKET DEMANDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TELANGANA (1946-47) → landless and tenant struggle, at the moment of transfer",
+        "NAXALBARI (1967) → launches Naxalite movement; CPI(ML) formed 1969",
+        "1980s FARMERS' MOVEMENTS → Nasik (1980), Sisauli (1986); market demands",
+        "CLASS SHIFT → from landless struggle to surplus-farmer market demands"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TELANGANA (1946-47) → landless and tenant struggle, at the moment of transfer",
+          "1980s FARMERS' MOVEMENTS → Nasik (1980), Sisauli (1986); market demands",
+          "TELANGANA (1946-47) → landless and tenant struggle, at the moment of transfer"
+        ],
+        [
+          "NAXALBARI (1967) → launches Naxalite movement; CPI(ML) formed 1969",
+          "CLASS SHIFT → from landless struggle to surplus-farmer market demands",
+          "NAXALBARI (1967) → launches Naxalite movement; CPI(ML) formed 1969"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TELANGANA (1946-47) → landless and tenant struggle, at the moment of transfer",
+            "NAXALBARI (1967) → launches Naxalite movement; CPI(ML) formed 1969"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1980s FARMERS' MOVEMENTS → Nasik (1980), Sisauli (1986); market demands",
+            "CLASS SHIFT → from landless struggle to surplus-farmer market demands"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TELANGANA (1946-47) → landless and tenant struggle, at the moment of transfer",
+            "NAXALBARI (1967) → launches Naxalite movement; CPI(ML) formed 1969"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLASS SHIFT → from landless struggle to surplus-farmer market demands.",
+      "source_references": [
+        "Agrarian struggle across three moments"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LAW-VERSUS-SOCIETY: CASTE, GENDER AND COMMUNALISM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CASTE, GENDER AND COMMUNALISM",
+          "role": "primary"
+        },
+        {
+          "text": "UNTOUCHABILITY ABOLISHED; AMBEDKAR TO DALIT PANTHERS, BSP, MANDAL 1990",
+          "role": "outcome"
+        },
+        {
+          "text": "HINDU CODE BILL (FOUR ACTS); WOMEN'S MOVEMENT, 1970S-90S",
+          "role": "comparison"
+        },
+        {
+          "text": "REVIVED FROM THE 1960S; ENDEMIC AFTER THE LATE 1970S",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON PATTERN",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL EQUALITY LEGISLATED EARLY; SOCIAL TRANSFORMATION LAGS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CASTE → untouchability abolished; Ambedkar to Dalit Panthers, BSP, Mandal 1990",
+        "GENDER → Hindu Code Bill (four Acts); women's movement, 1970s-90s",
+        "COMMUNALISM → revived from the 1960s; endemic after the late 1970s; an ideology",
+        "COMMON PATTERN → legal equality legislated early; social transformation lags"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CASTE → untouchability abolished; Ambedkar to Dalit Panthers, BSP, Mandal 1990",
+          "COMMUNALISM → revived from the 1960s; endemic after the late 1970s; an ideology",
+          "CASTE → untouchability abolished; Ambedkar to Dalit Panthers, BSP, Mandal 1990"
+        ],
+        [
+          "GENDER → Hindu Code Bill (four Acts); women's movement, 1970s-90s",
+          "COMMON PATTERN → legal equality legislated early; social transformation lags",
+          "GENDER → Hindu Code Bill (four Acts); women's movement, 1970s-90s"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CASTE → untouchability abolished; Ambedkar to Dalit Panthers, BSP, Mandal 1990",
+            "GENDER → Hindu Code Bill (four Acts); women's movement, 1970s-90s"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMUNALISM → revived from the 1960s; endemic after the late 1970s; an ideology",
+            "COMMON PATTERN → legal equality legislated early; social transformation lags"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CASTE → untouchability abolished; Ambedkar to Dalit Panthers, BSP, Mandal 1990",
+            "GENDER → Hindu Code Bill (four Acts); women's movement, 1970s-90s"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON PATTERN → legal equality legislated early; social transformation lags.",
+      "source_references": [
+        "The law-versus-society gap across caste, gender and communalism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THE SYNTHESIS ENGINE: STATE CAPACITY TO POLITICAL ORGANISATION",
+      "structural_type": "flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE SYNTHESIS ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE CAPACITY TO POLITICAL ORGANISATION",
+          "role": "institution"
+        },
+        {
+          "text": "STATE CAPACITY INHERITED FROM THE COLONIAL ORDER",
+          "role": "institution"
+        },
+        {
+          "text": "DEPLOYED FOR PLANNING AND HEAVY INDUSTRY (ACHIEVED)",
+          "role": "evidence"
+        },
+        {
+          "text": "WITHHELD FROM RURAL PROPERTY (TENANCY/CEILING REFORM FAILS)",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNOLOGY SUBSTITUTED FOR REFORM IN AGRICULTURE (GREEN REVOLUTION)",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL EQUALITY LEGISLATED; ENFORCEMENT LAGS; EXCLUDED GROUPS ORGANISE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "STATE CAPACITY inherited from the colonial order",
+        "deployed for planning and heavy industry (achieved)",
+        "withheld from rural property (tenancy/ceiling reform fails)",
+        "technology substituted for reform in agriculture (Green Revolution)",
+        "legal equality legislated; enforcement lags; excluded groups organise"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATE CAPACITY inherited from the colonial order",
+            "deployed for planning and heavy industry (achieved)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "withheld from rural property (tenancy/ceiling reform fails)",
+            "technology substituted for reform in agriculture (Green Revolution)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "legal equality legislated; enforcement lags; excluded groups organise",
+            "STATE CAPACITY inherited from the colonial order"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "legal equality legislated; enforcement lags; excluded groups organise.",
+      "source_references": [
+        "The synthesis engine"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THREAD 1: SELF-RELIANCE'S CHANGING CONTENT, 1905-1991",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THREAD 1",
+          "role": "primary"
+        },
+        {
+          "text": "SELF-RELIANCE'S CHANGING CONTENT, 1905-1991",
+          "role": "outcome"
+        },
+        {
+          "text": "SWADESHI (1905)",
+          "role": "comparison"
+        },
+        {
+          "text": "BOYCOTT + INDIGENOUS ENTERPRISE",
+          "role": "evidence"
+        },
+        {
+          "text": "GANDHIAN (1920-47)",
+          "role": "primary"
+        },
+        {
+          "text": "KHADI, MORAL SELF-RELIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNING (1948-66)",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPITAL-GOODS CAPACITY, IPR/MAHALANOBIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SWADESHI (1905) → boycott + indigenous enterprise",
+        "GANDHIAN (1920-47) → khadi, moral self-reliance",
+        "PLANNING (1948-66) → capital-goods capacity, IPR/Mahalanobis",
+        "1991 ONWARD → self-reliance redefined as competitiveness"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SWADESHI (1905) → boycott + indigenous enterprise",
+            "GANDHIAN (1920-47) → khadi, moral self-reliance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLANNING (1948-66) → capital-goods capacity, IPR/Mahalanobis",
+            "1991 ONWARD → self-reliance redefined as competitiveness"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SWADESHI (1905) → boycott + indigenous enterprise",
+            "GANDHIAN (1920-47) → khadi, moral self-reliance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLANNING (1948-66) → capital-goods capacity, IPR/Mahalanobis; 1991 ONWARD → self-reliance redefined as competitiveness.",
+      "source_references": [
+        "Thread 1: the changing content of self-reliance"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREAD 2: AGRARIAN DISTRESS AND REGIME CHANGE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREAD 2",
+          "role": "primary"
+        },
+        {
+          "text": "AGRARIAN DISTRESS AND REGIME CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "TALUQDAR DISPOSSESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "REVOLT; TALUQDARS LATER RESTORED",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO HARVEST FAILURES",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS LOSES EIGHT STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "DROUGHT, OIL SHOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "JP MOVEMENT, EMERGENCY, 1977 DEFEAT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "taluqdar dispossession",
+        "Revolt; taluqdars later restored",
+        "two harvest failures",
+        "Congress loses eight states",
+        "drought, oil shock"
+      ],
+      "matrix": [
+        [
+          "MOMENT",
+          "DISTRESS",
+          "OUTCOME"
+        ],
+        [
+          "1857",
+          "taluqdar dispossession",
+          "Revolt; taluqdars later restored"
+        ],
+        [
+          "1967",
+          "two harvest failures",
+          "Congress loses eight states"
+        ],
+        [
+          "1975-77",
+          "drought, oil shock",
+          "JP movement, Emergency, 1977 defeat"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "taluqdar dispossession",
+            "Revolt; taluqdars later restored"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "two harvest failures",
+            "Congress loses eight states"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "drought, oil shock",
+            "JP movement, Emergency, 1977 defeat"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1975-77 | drought, oil shock | JP movement, Emergency, 1977 defeat.",
+      "source_references": [
+        "Thread 2: agrarian distress and regime change"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTITUTIONS IN DECAY, DEMOCRACY ENDURING",
+      "structural_type": "cause-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INSTITUTIONS IN DECAY, DEMOCRACY ENDURING",
+          "role": "primary"
+        },
+        {
+          "text": "DECLINING ROLE FROM THE LATE 1960S",
+          "role": "outcome"
+        },
+        {
+          "text": "ERODED BY A DOMINANT PMO, FROM 1969",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTINE FLOOR-CROSSING, CURBED ONLY BY THE 1985 ANTI-DEFECTION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "DEMOCRACY ITSELF SURVIVED AND DEEPENED THROUGH THIS INSTITUTIONAL DECAY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PARLIAMENT → declining role from the late 1960s",
+        "CABINET → eroded by a dominant PMO, from 1969",
+        "DEFECTION → routine floor-crossing, curbed only by the 1985 Anti-Defection Act",
+        "YET → democracy itself survived and deepened through this institutional decay"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PARLIAMENT → declining role from the late 1960s",
+            "CABINET → eroded by a dominant PMO, from 1969"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEFECTION → routine floor-crossing, curbed only by the 1985 Anti-Defection Act",
+            "YET → democracy itself survived and deepened through this institutional decay"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARLIAMENT → declining role from the late 1960s",
+            "CABINET → eroded by a dominant PMO, from 1969"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "YET → democracy itself survived and deepened through this institutional decay.",
+      "source_references": [
+        "Institutional decay amid democratic survival"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PYQ RECONCILIATION: 9 ROUTED DEMANDS, THREE CATEGORIES",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PYQ RECONCILIATION",
+          "role": "primary"
+        },
+        {
+          "text": "9 ROUTED DEMANDS, THREE CATEGORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "9 ROUTED PRELIMS DEMANDS IN THIS OWNER'S LOCAL LEDGERS",
+          "role": "comparison"
+        },
+        {
+          "text": "CATEGORY 1",
+          "role": "evidence"
+        },
+        {
+          "text": "7 CURRENT-AFFAIRS ROUTING ARTEFACTS (NOT HISTORY; NOT ANSWERED)",
+          "role": "caution"
+        },
+        {
+          "text": "CATEGORY 2",
+          "role": "outcome"
+        },
+        {
+          "text": "1 COVERED HISTORY DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND-REFORMS LEGISLATION, 2019",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "9 ROUTED PRELIMS DEMANDS in this owner's local ledgers",
+        "CATEGORY 1 → 7 current-affairs routing artefacts (NOT history; not answered)",
+        "CATEGORY 2 → 1 covered history demand: land-reforms legislation, 2019",
+        "CATEGORY 3 → 1 bounded gap: Hind Mazdoor Sabha founders, 1948, unattested"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "9 ROUTED PRELIMS DEMANDS in this owner's local ledgers",
+            "CATEGORY 1 → 7 current-affairs routing artefacts (NOT history; not answered)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CATEGORY 2 → 1 covered history demand: land-reforms legislation, 2019",
+            "CATEGORY 3 → 1 bounded gap: Hind Mazdoor Sabha founders, 1948, unattested"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "9 ROUTED PRELIMS DEMANDS in this owner's local ledgers",
+            "CATEGORY 1 → 7 current-affairs routing artefacts (NOT history; not answered)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CATEGORY 3 → 1 bounded gap: Hind Mazdoor Sabha founders, 1948, unattested.",
+      "source_references": [
+        "The PYQ reconciliation"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "VERDICT SCAFFOLDS: THREE GRADED READINGS",
+      "structural_type": "argument-tree",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "VERDICT SCAFFOLDS",
+          "role": "primary"
+        },
+        {
+          "text": "THREE GRADED READINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "MODEL VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "PLANNING BUILT THE ECONOMY INDIA NEEDED; 1991 CORRECTED IT",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM WORKED AS FAR AS THE STATE'S POLITICAL BASE",
+          "role": "institution"
+        },
+        {
+          "text": "SYNTHESIS VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMY AND POLITICS TRANSFORMED; SOCIAL HIERARCHY LEAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MODEL VERDICT → planning built the economy India needed; 1991 corrected it",
+        "LAND VERDICT → reform worked as far as the state's political base allowed",
+        "SYNTHESIS VERDICT → economy and politics transformed; social hierarchy least",
+        "USE → pick the verdict matching the question's specific demand"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MODEL VERDICT → planning built the economy India needed; 1991 corrected it",
+            "LAND VERDICT → reform worked as far as the state's political base allowed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SYNTHESIS VERDICT → economy and politics transformed; social hierarchy least",
+            "USE → pick the verdict matching the question's specific demand"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MODEL VERDICT → planning built the economy India needed; 1991 corrected it",
+            "LAND VERDICT → reform worked as far as the state's political base allowed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → pick the verdict matching the question's specific demand.",
+      "source_references": [
+        "Verdict scaffolds for synthesis answers"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDRA DEFENDS THE NEHRUVIAN DEVELOPMENT MODEL AS A RATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-RELIANCE, IMPORT SUBSTITUTION, A PUBLIC-SECTOR CORE, AND GROWTH WITH",
+          "role": "comparison"
+        },
+        {
+          "text": "ITS STRUCTURAL FLAW WAS THE LICENCE-PERMIT-QUOTA RAJ",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTROLS (IDRA 1951, MRTP, SMALL-SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVATION) THAT PROTECTED INEFFICIENCY, THROTTLED SCALE AND COMPETITION, AND",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 1991 REFORMS ARE PRESENTED NOT AS SURRENDER BUT",
+          "role": "caution"
+        },
+        {
+          "text": "— RETAINING THE GOALS OF GROWTH, SELF-RELIANCE AND POVERTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Chandra defends the Nehruvian development model as a rational choice for a poor economy —",
+            "self-reliance, import substitution, a public-sector core, and growth with equity within a democratic frame .",
+            "CAUTION: Its structural flaw was the licence-permit-quota raj : controls (IDRA 1951, MRTP, small-scale",
+            "reservation) that protected inefficiency, throttled scale and competition, and eroded productivity by the 1980s."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The 1991 reforms are presented not as surrender but as a corrective to excessive dirigisme",
+            "— retaining the goals of growth, self-reliance and poverty removal while changing the instruments.",
+            "CAUTION: The deeper argument: democracy shaped development — a free press helped avert famines, and popular",
+            "sovereignty prevented the coercive extraction of surplus from peasants and workers seen in authoritarian industrialisers."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Land reform : zamindari abolition (backed by the 1st and 4th Amendments) made about 20 million superior tenants owners.",
+            "The rough fall in tenancy area from 42% to 20–25% cannot be read simply as success because oral",
+            "Tenancy/ceiling implementation suffered from \"personal cultivation\" loopholes, benami transfers, poor records, delay and official collusion",
+            "Bhoodan/Gramdan could not substitute for structural reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

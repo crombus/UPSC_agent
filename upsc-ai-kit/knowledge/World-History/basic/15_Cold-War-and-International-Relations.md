@@ -336,3 +336,30 @@ rather than duplicate.
 > **Study link:** World-History -> `basic/18_Decolonization-of-Africa-and-Asia.md` for the decolonising states that this rivalry acted upon — §7.6A supplies the Angolan and Congolese evidence.
 > **Study link:** World-History -> `basic/21_Cold-War-End-and-New-World-Order.md` for the collapse and its aftermath.
 > **Study link:** Polity -> `basic/National-Integration-and-Foreign-Policy.md` for India's non-alignment vocabulary, rather than duplicating it here.
+
+## 11. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Cold War origins, ideology, security dilemma and bipolar
+  structure; containment, economic instruments, alliances, Berlin, Korea,
+  Cuba, Vietnam and other global theatres; nuclear deterrence, non-alignment,
+  decolonised-state agency, détente, renewed tension and the 1989-91 ending.
+- **Boundary:** Topic 14 owns the Second World War and immediate emergence of
+  the superpowers, Topic 16 owns United Nations structure and institutional
+  performance, Topic 17 owns China's revolution and domestic transformation,
+  Topic 18 owns decolonisation, and Topic 21 owns the focused late-Soviet,
+  Eastern European and post-1991 transition. Topic 15 owns their Cold War
+  international-relations interaction without annexing those histories.
+- **Date control:** Truman Doctrine and Marshall Plan (1947), Berlin blockade
+  and airlift (1948-49), NATO (1949), Korea (1950-53), Warsaw Pact (1955),
+  Berlin Wall (1961), Cuban missiles (1962), SALT I and US-China opening
+  (1972), Helsinki (1975), Afghanistan (1979), INF Treaty (1987) and
+  the 1989-91 end phase remain distinct.
+- **Mechanism control:** ideology shaped interpretation while power and
+  security supplied the stakes; nuclear deterrence restrained direct war but
+  intensified arms competition and proxy risk; détente managed rather than
+  ended rivalry; bipolarity did not erase local causes, non-alignment,
+  intra-bloc disputes or the Sino-Soviet split.
+- **Verified PYQ/current ownership, 2018-2025:** zero direct topic-only routes.
+  All six Mains demands remain original practice. Official diplomacy-museum
+  links support renewed public attention to Cold War diplomacy and artefacts,
+  not a present-day geopolitical analogy or a new historical conclusion.

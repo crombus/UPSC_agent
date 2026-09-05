@@ -50,14 +50,21 @@ So **5/6 indirectly elected + 1/6 nominated**, via **STV proportional representa
 ---
 
 # PART C — COUNCIL vs ASSEMBLY (the key contrast) ⭐
-✅ **Equal:** ordinary bills, ordinance approval, choosing ministers/CM, considering constitutional-body reports.
+✅ **Broadly equal at the initial participation stage:** either House may originate and debate ordinary Bills;
+both approve ordinances and consider constitutional-body reports. Ministers, including the CM, may belong to
+either House, but the Council does not “choose” or sustain the ministry.
 ✅ **Unequal (Assembly dominates):**
 - Money bill only in the **Assembly**; Council **only recommends**, returns in **14 days**; **Speaker** certifies.
 - Ordinary bill: Council can only **delay 4 months** (3 + 1) → **not a revising body like RS, only a "dilatory
   / advisory chamber."**
 - Council can't vote demands for grants; **can't pass a no-confidence motion** (CoM responsible only to Assembly).
-- Council **doesn't** vote in President's election / RS elections; **no effective say** in ratifying
-  constitutional amendments; its very **existence depends on the Assembly**.
+- Council **doesn't** vote in President's election / RS elections; it has **no effective final say** in State
+  ratification of constitutional amendments; its very **existence depends on the Assembly**.
+
+✅ **Financial Bills:** Article 207(1) Bills containing Article 199(1)(a)-(f) matters require the Governor's
+recommendation and Assembly introduction. Article 207(3) Bills involving expenditure from the Consolidated
+Fund cannot be passed by either House without recommendation for consideration, but are not automatically
+Money Bills and may originate in either House.
 
 ⚠️ Council is **much weaker than the Rajya Sabha** (RS reflects the federal element; Council has no federal
 role and a heterogeneous composition). Critics: "costly ornamental luxury", "white elephant". Utility: checks

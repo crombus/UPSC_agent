@@ -94,6 +94,15 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ If cognition did not ordinarily reach real objects, ritual instruction would collapse into uncertainty.
 - ✅ Therefore epistemology is the service-foundation of ethics and ritual theory.
 
+### 1.5 Textual lineage and Pūrva/Uttara ownership boundary
+
+- ✅ Jaimini's **Mīmāṃsā Sūtra** organizes inquiry into duty and Vedic interpretation.
+- ✅ Śabara's **Śābara Bhāṣya** is the foundational surviving commentary through which the sūtras are classically read.
+- ✅ Kumārila Bhaṭṭa's **Ślokavārttika**, **Tantravārttika** and related works establish the Bhāṭṭa line; Prabhākara Miśra's **Bṛhatī** establishes the Prābhākara line, with Śālikanātha as a major later expositor.
+- ⚠️ Textual chronology and attribution can be debated in detail, but UPSC requires the doctrinal ownership: Jaimini–Śabara supply the shared frame, while Kumārila and Prabhākara develop rival epistemic and semantic architectures.
+- ✅ Pūrva-Mīmāṃsā owns the action-guiding and ritual-hermeneutic reading of the earlier Vedic corpus; Uttara-Mīmāṃsā or Vedānta owns the Brahman-centred interpretation of the Upaniṣads.
+- ⚠️ The traditions are historically related, but Vedānta must not absorb Mīmāṃsā's independent ownership of injunction, duty, authorless verbal authority and ritual interpretation.
+
 ## 2. SVATAḤ-PRĀMĀṆYAVĀDA — INTRINSIC VALIDITY OF KNOWLEDGE
 
 ### 2.1 Statement
@@ -309,7 +318,7 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 - ✅ **Pratyakṣa:** immediate knowledge produced by sense-object contact.
 - ✅ **Anumāna:** mediate knowledge arising from a sign through known concomitance.
-- ✅ **Upamāna:** knowledge of an unknown through similarity to a known.
+- ✅ **Upamāna:** fresh knowledge that a previously known but now absent object is similar to a presently perceived object.
 - ✅ **Śabda:** valid verbal testimony, especially Vedic testimony regarding dharma.
 - ✅ **Arthāpatti:** necessary postulation of an unseen fact to reconcile incompatible known facts.
 - ✅ **Anupalabdhi:** knowledge of absence through non-apprehension of what would be apprehended if present.
@@ -337,6 +346,13 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ It is distinguishing logical structures of knowing.
 - ✅ One pramāṇa is not identified by topic alone but by the way the cognition is generated.
 
+### 3.4A Means, true cognition and practical success
+
+- ✅ A **means of valid knowledge (pramāṇa)** is the operative source of a fresh true cognition; the resulting true cognition is **pramā** or **pramiti**, and its object-guided consequence is practical engagement.
+- ✅ Successful action (**pravṛtti-sāmarthya**) may confirm that cognition corresponded to its object, but for Mīmāṃsā it does not manufacture validity after the cognition arose.
+- ✅ This separates the causal instrument, the cognition produced and later reflective confirmation while preserving intrinsic validity.
+- ⚠️ In answers on knowledge-of-knowledge, connect this distinction to the sub-schools: Prābhākara says the cognitive episode manifests subject, object and cognition together; Bhāṭṭa infers cognition from the object's acquired knownness.
+
 ### 3.5 Pratyakṣa in Mīmāṃsā
 
 - ✅ Both Bhāṭṭa and Prābhākara accept perception.
@@ -349,6 +365,13 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ The occurrence of cognition is inferred from the object's jñātatā.
 - ✅ Thus the pramāṇa is shared, but its reflexive structure is disputed.
 
+### 3.5A Indeterminate and determinate perception
+
+- ✅ **Indeterminate perception (nirvikalpaka-pratyakṣa / ālocana-jñāna)** is the first non-verbal awareness that an object is present, before explicit classification and predication.
+- ✅ **Determinate perception (savikalpaka-pratyakṣa)** grasps the object as qualified by class, quality, action and name: “this is a white moving cow.”
+- ✅ Mīmāṃsā treats the determinate stage as interpretation of what was implicitly available in the first stage, not invention of an unreal predicate.
+- ⚠️ This supports realism against the Buddhist claim that perception gives only a unique non-conceptual particular and against any view that classification necessarily falsifies the given.
+
 ### 3.6 Anumāna in Mīmāṃsā
 
 - ✅ Mīmāṃsā accepts inference in its standard sign-based form.
@@ -360,13 +383,12 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 ### 3.7 Upamāna
 
-- ✅ Upamāna is comparison-based knowledge.
-- ✅ I am told that a gavaya resembles a cow.
-- ✅ Later I see such an animal in the forest.
-- ✅ Recognising “this is gavaya” occurs through comparison.
-- ✅ Testimony alone did not identify the presently seen animal.
-- ✅ Perception alone did not supply the classificatory bridge.
-- ✅ So upamāna retains its place.
+- ✅ **Comparison (upamāna)** in the standard Mīmāṃsā account differs from Nyāya's word-reference account.
+- ✅ Having previously seen a cow, one later perceives a wild cow (**gavaya**) in the forest as similar to it.
+- ✅ From the perceived similarity of the present gavaya to the remembered cow, one gains the new cognition: “the previously seen cow is similar to this gavaya.”
+- ✅ This is not perception because the absent cow is not presently sensed; not memory because its similarity to this new animal was not previously known; and not inference because no universal concomitance is used.
+- ⚠️ **Nyāya contrast:** Nyāya uses prior testimony “a gavaya is like a cow” to learn the word–object relation. Do not write that specifically Nyāya mechanism as the Mīmāṃsā definition.
+- ❓ Śabara is sometimes read as allowing a wider analogical form, such as reasoning from one's own experienced self to other selves; the later similarity-cognition account is the safe exam default.
 
 ### 3.8 Śabda
 
@@ -376,6 +398,13 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ Mīmāṃsā therefore gives śabda a special philosophical dignity.
 - ✅ It is not a fallback after perception fails.
 - ✅ It is the only route to supersensible duty.
+
+#### Testimony classifications
+
+- ✅ **Personal testimony (pauruṣeya-śabda)** depends on a competent human speaker and remains vulnerable to speaker-defect.
+- ✅ **Impersonal testimony (apauruṣeya-śabda)** is Vedic testimony, intrinsically valid in the supersensible domain of duty.
+- ✅ Testimony may state an existent fact (**siddhārtha-vākya**) or enjoin action (**vidhāyaka-vākya**).
+- ✅ Kumārila recognizes the distinction while making injunction central to Vedic purpose; Prabhākara more radically interprets cognition and language through action-guidance.
 
 ### 3.9 Arthāpatti and anupalabdhi in the list
 
@@ -488,6 +517,12 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 - ❌ **Objection:** Why not simply suspend judgment instead of postulating?
 - ✅ **Reply:** Because the facts as accepted press toward reconciliation; arthāpatti is the cognition produced by that necessity.
+
+### 4.3A Perceptual and verbal postulation
+
+- ✅ **Postulation from perceived facts (dṛṣṭārthāpatti)** supplies an unperceived fact required to reconcile observed facts: Devadatta is stout, does not eat by day, therefore eats at night.
+- ✅ **Postulation from heard words (śrutārthāpatti)** supplies what is required to make an utterance meaningful or coherent, including ellipsis and contextual completion.
+- ⚠️ Both are forms of explanatory necessity, not tentative hypothesis. The distinction concerns whether the initiating tension arises from perceived facts or verbal material.
 
 ### 4.4 2024-style candidate example
 
@@ -998,6 +1033,21 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 - ✅ A perfect short answer states the problem, names the three theories, and shows how each avoids infinite regress.
 
+### 7.11 Does self-luminosity entail intrinsic validity?
+
+- ✅ **Self-luminosity (svayaṃprakāśatva)** concerns whether cognition or consciousness is manifest without another cognition; **intrinsic validity (svataḥ-prāmāṇya)** concerns whether a cognition is entitled to prima facie truth without external certification.
+- ✅ They answer different questions—manifestation and truth—and therefore neither thesis follows merely by definition from the other.
+
+| School | Is cognition/consciousness self-luminous? | Is validity intrinsic? | Answer consequence |
+|---|---|---|---|
+| **Nyāya** | No; cognition is known through subsequent cognition (**anuvyavasāya**) | No; truth is ascertained extrinsically (**parataḥ-prāmāṇya**) | Accepts neither thesis |
+| **Prābhākara Mīmāṃsā** | Yes; one cognition manifests knower, known and knowing | Yes | Connects both theses |
+| **Bhāṭṭa Mīmāṃsā** | No; cognition is inferred from acquired knownness (**jñātatā**) | Yes | Decisive counterexample to necessary entailment |
+| **Advaita Vedānta** | Yes, fundamentally of consciousness itself | At the empirical level cognition carries prima facie authority until sublated | Connects them within a wider non-dual theory |
+
+- ✅ Kumārila's combination—non-self-luminous cognition with intrinsic validity—shows most clearly that self-luminosity does not entail intrinsic validity and that intrinsic validity does not require self-luminosity.
+- ⚠️ Nyāya's position is not “self-luminous but extrinsically valid”; it denies self-luminosity and supplies a higher-order cognition.
+
 ## 8. WORD-MEANING AND SENTENCE-MEANING
 
 ### 8.1 The problem of sentence-unity
@@ -1177,6 +1227,8 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 - ❌ **Objection:** A universal alone cannot be milked, brought or sacrificed.
 - ✅ **Reply:** Mīmāṃsā replies that the universal is primary for meaning, while action reaches the qualified individual through contextual application.
+- ❌ **Buddhist exclusion objection:** No real universal is needed; “cow” functions by excluding non-cows (**apoha**).
+- ✅ **Mīmāṃsā reply:** Pure exclusion cannot explain stable positive recognition and repeatable application unless a shared class-character is already available; word-use is therefore grounded in a real universal, not only negation.
 
 ### 8.7 Grammarian sphoṭa-vāda as a third comparative position
 
@@ -1322,6 +1374,20 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ Therefore the famous formula applies: **Codanā-lakṣaṇo'rtho dharmaḥ**.
 - ✅ Dharma is what Vedic injunction reveals.
 
+### 9.6A Vedic sentence taxonomy
+
+| Sentence function | English-first description | Exam use |
+|---|---|---|
+| **Injunction (vidhi)** | Enjoins a duty or ritual act not otherwise known | Primary revealer of dharma |
+| **Prohibition (niṣedha)** | Forbids an act and grounds avoidance | Negative determination of duty |
+| **Mantra (mantra)** | Recalls or identifies deities, materials and ritual details during performance | Assists an enjoined rite |
+| **Name (nāmadheya)** | Names a rite, substance or ritual component | Fixes identification within ritual syntax |
+| **Explanatory or praise passage (arthavāda)** | Praises, condemns, narrates or explains so as to support an injunction or prohibition | Has force through relation to action-guiding text |
+
+- ✅ Do not dismiss mantra, name and explanatory passage as meaningless; Mīmāṃsā establishes their sentence-unity by connecting them to an operative injunction.
+- ✅ A second classification distinguishes **novel injunction (apūrva-vidhi)**, which reveals an otherwise unknown duty; **restrictive injunction (niyama-vidhi)**, which selects one eligible means where alternatives appear available; and **exclusionary injunction (parisaṃkhyā-vidhi)**, which excludes alternatives.
+- ⚠️ Ritual analysis also speaks of injunctions concerning the act, subsidiary application, performance-order and qualified agent (**utpatti, viniyoga, prayoga, adhikāra**). Use this fourfold grid only when the question asks how a complex rite is coordinated; do not conflate it with the preceding threefold logical classification.
+
 ### 9.7 Presupposition, distinction, example
 
 - ✅ Presupposition: dharma is supersensible.
@@ -1376,9 +1442,13 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 #### Statement
 
 - ✅ Mīmāṃsā requires an enduring **ātman** (self) as knower, agent and enjoyer because ritual duty, merit, demerit and future fruit presuppose a subject who acts and later experiences results.
+- ✅ It accepts a plurality of eternal selves rather than one Advaitic universal subject; body, senses and the internal organ mediate each embodied stream of cognition and action.
 - ✅ The self is not a momentary stream; it persists across cognition, action, memory, ritual responsibility and enjoyment of **phala**.
+- ✅ Cognition is episodic rather than an uninterrupted essence manifest in dreamless sleep and liberation: Prābhākara says the self is revealed in the threefold structure of cognition, while Bhāṭṭa explains awareness of cognition through acquired knownness.
 - ❓ The doctrine of **mokṣa** (liberation) becomes more explicit in later Mīmāṃsā than in the earliest ritual orientation.
 - ✅ In standard scholastic presentation, liberation is not Advaitic identity with Brahman but release from embodied suffering and from the chain of karmically generated experience.
+- ✅ Liberation requires stopping fresh merit and demerit and exhausting prior karmic forces; thereafter no new body, sense-mediated cognition or painful experience arises.
+- ⚠️ Later Bhāṭṭa and Prābhākara accounts differ in detail, but neither should be casually converted into Advaita's positive realization of Brahman or into Nyāya's dependence on a creator God.
 
 #### Presupposition
 
@@ -1829,6 +1899,12 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ With Sāṃkhya, it shares sympathy for intrinsic authority of cognition.
 - ✅ But it differs by making invalidity extrinsic and by embedding epistemology in ritual hermeneutics.
 
+### 11.5 Mīmāṃsā vs Cārvāka
+
+- ✅ Cārvāka rejects authorless Vedic authority, supersensible duty, unseen potency and the independent non-perceptual means of knowledge on which Mīmāṃsā relies.
+- ✅ Mīmāṃsā replies that ordinary and ritual reasoning cannot be reduced to bare perception: testimony transmits otherwise inaccessible facts, postulation resolves explanatory conflict and non-cognition discloses qualified absence.
+- ⚠️ This reply establishes the intelligibility of non-perceptual knowledge more readily than it proves every particular Vedic ritual claim; keep that distinction in a critical answer.
+
 ## 12. CRITICISMS AND REPLIES
 
 ### 12.1 On svataḥ-prāmāṇya
@@ -1955,7 +2031,8 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 ### Svayaṃprakāśavāda versus svataḥprāmāṇyavāda
 - ✅ Self-luminosity concerns how cognition manifests itself and/or its object; intrinsic validity concerns cognition's prima facie truth and action-guiding authority before a defeater appears.
-- ✅ Mīmāṃsā connects the two but they are not logically identical: one could hold cognition immediately manifest yet require external certification of truth, as Nyāya does in a different form.
+- ✅ Prābhākara accepts self-luminous cognition and intrinsic validity, but Kumārila accepts intrinsic validity while denying that cognition is self-luminous; this intra-Mīmāṃsā contrast disproves necessary entailment.
+- ✅ Nyāya accepts neither thesis: cognition is known by subsequent cognition and validity is extrinsically ascertained.
 - ⚠️ Advaita extends self-luminosity to consciousness as such, whereas Mīmāṃsā debates cognition episodes and validity within pramāṇa theory.
 - ❓ **Objection → reply:** intrinsic validity seems unable to explain error. The reply is that falsity is extrinsically discovered through sublation or causal defect; cognition presents itself as valid until defeated.
 

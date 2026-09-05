@@ -49,18 +49,22 @@ party rule; (c) **collective responsibility** to legislature; (d) ministers from
 CM leadership; (f) dissolution of lower House. ✅ Differs from Britain: Indian Parliament is **not
 sovereign**; India has an **elected head (republic)** vs hereditary monarch.
 
-### 6. Synthesis of parliamentary sovereignty & judicial supremacy
-✅ Blends **British parliamentary sovereignty** + **American judicial supremacy**. India's judicial
-review is **narrower** than the US because India has **"procedure established by law" (Art 21)** vs US
-"due process of law." SC can strike down laws (judicial review); Parliament can amend most of the
-Constitution (constituent power).
+### 6. Synthesis of parliamentary government & judicial review
+✅ Blends **British parliamentary government** with American-influenced **judicial review**, but neither
+Parliament nor the judiciary is legally sovereign over the Constitution. The older textbook contrast
+between Indian "procedure established by law" and American "due process" requires qualification after
+*Maneka Gandhi* (1978), which requires Article 21 procedure to be fair, just and reasonable. Courts can
+strike down laws; Parliament can amend most of the Constitution subject to basic structure.
 
 ### 7. Integrated & independent judiciary ⭐
 ✅ **Integrated:** single pyramid — SC → High Courts → subordinate courts — enforcing **both central &
 state laws** (unlike US dual system). SC = federal court + highest appeal court + guarantor of FR +
-guardian of Constitution. **Independence safeguards:** security of tenure, fixed service conditions,
-expenses on **Consolidated Fund of India**, no legislative discussion on judges' conduct, ban on
-post-retirement practice, contempt power, separation from executive.
+guardian of Constitution. **Independence safeguards:** security of tenure, protected service conditions,
+charged expenditure, restrictions on legislative discussion of judges' conduct, constitutional removal,
+contempt power and separation from the executive. Post-retirement practice restrictions differ:
+Article 124(7) bars retired Supreme Court judges from pleading or acting before any court or authority in
+India; Article 220 permits retired permanent High Court judges to practise only before the Supreme Court
+and other High Courts. These are not a blanket ban on all public assignments.
 
 ### 8. Fundamental Rights
 ✅ Part III, **6 rights** (14–18, 19–22, 23–24, 25–28, 29–30, 32) — promote **political democracy**,
@@ -78,31 +82,37 @@ citizens only, non-justiciable. *(Detail: `09_Fundamental-Duties.md`.)*
 ### 11. A secular state ⭐
 ✅ No official religion. "**Secular**" added to Preamble by **42nd Amdt 1976**. Provisions: Art 14, 15,
 16, 25–30, 44. ✅ India = **positive secularism** (equal respect / equal protection to all religions),
-not the Western **negative** wall-of-separation. Communal representation abolished (except **temporary
-SC/ST seat reservation**).
+not a strict Western **negative** wall-of-separation. The Constitution rejects separate electorates and
+religious discrimination in political citizenship; SC/ST legislative reservations are remedial
+representation, not an exception to an otherwise "abolished communal representation" rule.
 
 ### 12. Universal adult franchise ⭐
 ✅ Vote at **18** (reduced from 21 by **61st Amdt, 1988**) for Lok Sabha & state assemblies, no
 discrimination. A bold experiment given size/poverty/illiteracy.
 
 ### 13. Single citizenship
-✅ Dual polity but **single (Indian) citizenship** — unlike US dual citizenship. All enjoy same civil/
-political rights regardless of state. *(Detail: `06_Citizenship.md`.)*
+✅ Dual polity but **single (Indian) citizenship** — unlike US dual citizenship. It supports common
+national membership, while constitutionally or legally permitted residence, domicile and local
+qualifications can still matter in specified contexts. *(Detail: `06_Citizenship.md`.)*
 
 ### 14. Independent bodies ⭐
 ✅ (a) **Election Commission** (Art 324); (b) **CAG** — "guardian of public purse"; (c) **UPSC**;
-(d) **State PSCs**. Independence via security of tenure, fixed conditions, expenses on Consolidated
-Fund.
+(d) **State PSCs**; and (e) the periodically constituted **Finance Commission** (Art 280). Their
+safeguards must be stated body by body: tenure/removal, service conditions, charged expenditure and
+reporting rules are not identical, and charged expenditure is not a generic safeguard for every body.
 
 ### 15. Emergency provisions ⭐
 ✅ Three types: (a) **National Emergency** — war/external aggression/armed rebellion (**Art 352**);
-(b) **President's Rule** — failure of constitutional machinery (**Art 356**) or non-compliance with
-Centre's directions (**Art 365**); (c) **Financial Emergency** (**Art 360**). During emergency,
-federal → **unitary** without formal amendment — a unique feature.
+(b) **President's Rule** — failure of constitutional machinery (**Art 356**), with Article 365 relevant
+where non-compliance with Union directions supports the President's constitutional satisfaction; (c)
+**Financial Emergency** (**Art 360**). These provisions can produce temporary centralisation within the
+Constitution. Crisis centralisation is not globally unique; India's examinable distinction is its own
+three-part design and post-1975 safeguards.
 
 ### 16. Three-tier government ⭐
 ✅ **73rd Amdt 1992** → **Panchayats** (Part IX + 11th Schedule); **74th Amdt 1992** → **Municipalities**
-(Part IX-A + 12th Schedule). Third tier is **not found in any other constitution**.
+(Part IX-A + 12th Schedule). Local government exists in other constitutional systems; India's
+distinctive point is the detailed constitutional status given to both rural and urban local government.
 
 ### 17. Co-operative societies
 ✅ **97th Amdt 2011:** (1) right to form co-ops = FR under **Art 19**; (2) new DPSP **Art 43-B**;
@@ -134,8 +144,11 @@ Indian needs — "the charge of a blind copy is based on inadequate study."
 ---
 
 ## 📰 CA / relevance
-- 📰 J&K: ✅ note — till 2019 J&K had its **own constitution** (Art 370); abolished 2019; **SC upheld
-  the abrogation in Dec 2023** (*In re Article 370*), reaffirming India's federal-with-unitary-bias design.
+- 📰 J&K [SOURCE CHECKED 2026-08-28]: until 2019 J&K operated under its **own constitution** within
+  Article 370's asymmetrical arrangement. In December 2023 the Supreme Court upheld the application of
+  the whole Constitution through the 2019 measures, treated Article 370 as temporary and recorded the
+  Union's assurance on restoration of statehood. No official restoration notification was located by the
+  access date.
 - 📰 Co-operatives (feature 17): *Rajendra N. Shah* 2021 ruling + creation of the **Ministry of
   Co-operation (2021)** are live CA hooks.
 

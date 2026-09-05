@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-14",
+  "subject": "Ancient-Indian-History",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "ancient-indian-history-14",
+  "title": "The Mauryan Empire",
+  "generation_date": "2026-08-29",
+  "command": "Generate learner-v2 topic: Ancient History — Subject-wide Syllabus — The Mauryan Empire",
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-14_Learning-Session.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\14_The-Mauryan-Empire_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\India Ancient Past By RS Sharma.pdf",
+    "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf"
+  ],
+  "live_sources": [
+    "https://whc.unesco.org/en/list/524/",
+    "https://asi.nic.in/pages/WorldHeritageBuddhistMonumentsatSanchi",
+    "https://asisarnathcircle.in/lion-capital.php",
+    "https://tourism.bihar.gov.in/en/destinations/patna/kumrahar-puratav-park"
+  ],
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\14_The-Mauryan-Empire_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-14_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\00_Master-Chronology.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\README.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md",
+    "books\\India Ancient Past By RS Sharma.pdf",
+    "books\\1118Singh, Upinder. _A History of Ancient and Early Medieval India, 2nd Ed. [Easy Reading]_-1.pdf",
+    "notes\\Ancient-Indian-History\\14_The-Mauryan-Empire_Complete-Topic-Package_2026-08-13.pdf",
+    "notes\\Ancient-Indian-History\\14_The-Mauryan-Empire_Solved-Workbook_2026-08-13.pdf",
+    "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-29-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Ancient-Indian-History\\ancient-indian-history-14.json"
+  ],
+  "practice_profile": "6 verified routed Prelims PYQs; 1 solved relevant Mains PYQ; 48 hard and 12 remedial MCQs; 9 original solved Mains questions.",
+  "current_linkage_note": "UNESCO and ASI Sanchi, ASI Sarnath and Bihar Tourism Kumhrar pages were accessed on 29 August 2026 only for heritage stewardship and monument-layering context.",
+  "pyq_status_note": "Exact local official question wording is retained. The locally held 2025 Set-A key is official; older unavailable keys remain explicitly inferred.",
+  "mcq_answer_policy": "strict-abcd-cycle"
+}

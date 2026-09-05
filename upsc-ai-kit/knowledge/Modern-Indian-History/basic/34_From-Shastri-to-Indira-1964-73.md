@@ -119,7 +119,7 @@
 ### 8.4 Named evidence units (claim → evidence → significance → limit)
 
 **A. Two successions**
-- **Evidence:** ✅ **Lal Bahadur Shastri** became PM in **June 1964** after Nehru's death, led India through the **1965 India–Pakistan war**, signed the **Tashkent Declaration** with Ayub Khan and died at Tashkent on **10 January 1966**; ✅ **Indira Gandhi** was elected PM in January 1966, defeating **Morarji Desai 355–169**, initially backed by the Congress bosses — the "**Syndicate**" — who expected to control her.
+- **Evidence:** ✅ **Lal Bahadur Shastri** became PM in **June 1964** after Nehru's death, led India through the **1965 India–Pakistan war**, signed the **Tashkent Declaration** with Ayub Khan on **10 January 1966** and died at Tashkent in the early hours of **11 January 1966**; ✅ **Indira Gandhi** was elected PM in January 1966, defeating **Morarji Desai 355–169**, initially backed by the Congress bosses — the "**Syndicate**" — who expected to control her.
 - **Significance:** Both successions were settled by party election within days, in the middle of a war and a food crisis; no army, no emergency, no constitutional improvisation.
 - **Limit/caution:** The Syndicate's expectation of control is the seed of the 1969 split; state the succession and its unstable premise together.
 
@@ -167,7 +167,7 @@
 
 ### 8.8 Factual-risk cautions
 
-- Shastri: PM **June 1964 – January 1966**; **Tashkent Declaration**, died at **Tashkent, 10 January 1966**; slogan "**Jai Jawan Jai Kisan**".
+- Shastri: PM **June 1964 – January 1966**; **Tashkent Declaration signed 10 January 1966**, died at **Tashkent, 11 January 1966**; slogan "**Jai Jawan Jai Kisan**".
 - Indira defeated Morarji Desai **355–169** in **1966**.
 - Devaluation = **June 1966, ~35.5 per cent**.
 - **Bank nationalisation = 1969 (14 banks)**; **privy purses abolished = 1971**; **Congress split = 1969**; **Pokhran-I = May 1974**.
@@ -195,3 +195,22 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** 1964-73: Shastri and Indira successions, 1965 war/Tashkent,
+  food and currency crisis, 1967 setback, coalitions/defections, 1969 split and
+  bank nationalisation, 1971 mandate/privy purses/Bangladesh and 1972 Simla.
+- **Boundary:** Topic 33 ends at the 1967 party-system watershed; Topic 35 owns
+  the 1973-77 crisis and Emergency. Pokhran-I on 18 May 1974 is immediate-
+  aftermath enrichment, not part of the stated 1964-73 core.
+- **Date control:** Shastri office (9 June 1964), Tashkent Declaration
+  (10 January 1966), death (11 January), Indira office (24 January),
+  devaluation (6 June), election (1967), split/banks (1969), election,
+  Amendment and war (1971), and Simla (1972) are distinct.
+- **Mechanism control:** bank nationalisation and privy-purse abolition are
+  separate measures; 1967 weakened but did not remove Congress at the Centre;
+  populist consolidation also personalised and de-institutionalised authority.
+- **Verified PYQ ownership, 2018-2026:** the 2019 coal-nationalisation demand
+  is direct but unsupported by held Modern History evidence; no statute, year,
+  sequence or key is invented. No direct Mains route is claimed.

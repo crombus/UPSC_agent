@@ -172,3 +172,24 @@
 - **Operation Blue Star = June 1984**; **Indira Gandhi assassinated 31 October 1984** — years after the Emergency, not during it.
 - The **Anandpur Sahib Resolution** framed Akali demands; do not paraphrase its contents beyond the territorial, river-water and autonomy heads.
 - Do not state casualty figures for any episode in this topic.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Janata formation and 1977 mandate; Morarji government; 44th
+  Amendment; dual-membership rupture; Charan Singh; Indira's 1980 return;
+  regional-party assertion; Assam, Punjab and Jammu and Kashmir crises through
+  Indira Gandhi's assassination.
+- **Boundary:** Topic 35 ends with Emergency defeat; Topic 37 begins with
+  Rajiv's succession. Topic 30 owns linguistic reorganisation; Topic 31 tribal
+  integration; Topic 38 thematic economy/land/society/state synthesis.
+- **Date control:** Janata formation (January 1977), election (March), 44th
+  Amendment (1978), Charan Singh (July 1979), Congress return (January 1980),
+  Sanjay's death (June), Telugu Desam founding (29 March 1982), Andhra victory
+  (1983), Blue Star (June 1984) and assassination (31 October) stay distinct.
+- **Mechanism control:** Janata collapse combined coalition structure,
+  leadership rivalry and dual membership; regional assertion could deepen
+  federal integration, while delayed accommodation and coercive escalation
+  interacted differently across Assam, Punjab and Jammu and Kashmir.
+- **Verified PYQ ownership, 2018-2026:** zero direct Modern History routes.
+  Original practice remains original; detailed 44th-Amendment doctrine is
+  Polity-owned.

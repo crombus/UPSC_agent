@@ -209,3 +209,17 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Champaran, Ahmedabad and Kheda as distinct method
+  laboratories; Rowlatt law/hartal; Gandhi's suspension; Jallianwala Bagh,
+  martial law, inquiries, renunciation and the legitimacy rupture of 1919.
+- **Boundary:** Topic 18 owns Home Rule/Lucknow; Topic 20 owns the organised
+  Non-Cooperation-Khilafat programme. Jallianwala is a bridge, not sole cause.
+- **Date control:** Champaran (1917), Ahmedabad/Kheda (1918), Rowlatt protest
+  and Jallianwala Bagh (13 April 1919) form a sequence; grievance, constituency,
+  tactic and settlement must not be merged across the three local struggles.
+- **Verified PYQ ownership, 2018-2026:** 2018 Prelims Q69 on Champaran is the
+  topic-tight direct route. Other Gandhi questions are bounded/cross-cutting;
+  unavailable objective keys are not invented.

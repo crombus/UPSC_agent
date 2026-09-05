@@ -155,3 +155,10 @@ not a head of state. Some UTs have their own assembly + CoM, but **Parliament ca
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## Deep-review precision controls (28 August 2026)
+
+- **Article 239AA field:** Delhi excludes State List Entries **1, 2 and 18** and Entries **64, 65 and 66 insofar as they relate** to those entries; executive power follows the allotted field subject to the Constitution and parliamentary law.
+- **Distinct routes:** Article **239AB** is Delhi's failure-of-machinery route; Article **239B** is Puducherry's ordinance route and applies to Delhi through Article 239AA(8); Article **240** regulations cover the constitutionally/statutorily specified territories, with Puducherry's power conditional on suspension/dissolution.
+- **High Courts:** Delhi has an exclusive UT High Court; J&K and Ladakh share the High Court of Jammu & Kashmir and Ladakh; A&N/Chandigarh/DNHDD/Lakshadweep/Puducherry are assigned respectively to Calcutta/Punjab & Haryana/Bombay/Kerala/Madras High Courts.
+- **Current control:** India has eight UTs and three functioning legislatures. J&K has an elected Assembly and Council of Ministers after the 2024 election, but Statehood was not legally restored by 28 August 2026. The GNCTD Amendment Act 2023 remains operative while its constitutional challenge is unresolved.

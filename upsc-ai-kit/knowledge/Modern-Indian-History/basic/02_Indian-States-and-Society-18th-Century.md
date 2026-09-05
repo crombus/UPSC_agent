@@ -208,3 +208,15 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** successor and regional states, Maratha and Sikh formations,
+  Jats/Rohillas/Rajputs/Mysore, fiscal-military capacity, credit, commerce,
+  peasants, artisans, merchants, caste, gender and cultural patronage.
+- **Boundary:** Topic 01 retains imperial-decline causation; Medieval Topic 25
+  is pre-1761 continuity; Topics 03-05 own European rivalry, Bengal conquest
+  and the full Mysore/Maratha/Sikh war and annexation sequences.
+- **Verified PYQ ownership, 2018-2026:** one direct route, 2021 Prelims Q48;
+  its local official key is unavailable. The hierarchy and Company-armies
+  questions are adjacent-owned by Medieval Topic 24 and Modern Topic 05.

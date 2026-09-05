@@ -16,21 +16,22 @@ human rights"** (life, liberty, equality, dignity per the Constitution & interna
 ## Composition (post-2019 Amendment) ⭐
 | Point | Detail |
 |---|---|
-| ✅ **Chairperson** | A **retired CJI OR a retired Supreme Court judge** (widened by the **2019 Amendment**) |
-| ✅ **Members** | 1 serving/retired **SC judge** + 1 serving/retired **HC chief justice** + **3 persons** with HR knowledge (**≥1 woman**) |
-| ✅ **Ex-officio members** | **7** — chairpersons of the National Commissions for **Minorities, SCs, STs, Women, BCs, Protection of Child Rights** + **Chief Commissioner for Persons with Disabilities** |
+| ✅ **Chairperson** | A person who has been **CJI OR a Supreme Court judge** (widened by the **2019 Amendment**); appointment of a sitting judge requires the statutory CJI consultation |
+| ✅ **Members** | 1 serving/former **SC judge** + 1 serving/former **HC chief justice** + **3 persons** with HR knowledge (**≥1 woman**) |
+| ✅ **Deemed members** | **7** — chairpersons of the National Commissions for **Minorities, SCs, STs, Women, BCs, Protection of Child Rights** + **Chief Commissioner for Persons with Disabilities**, for section 12(b)-(j) functions |
 | ✅ **Term** | **3 years or 70 years**, whichever earlier (reduced from 5 yrs by 2019 Amdt); **re-appointment allowed** |
 
 ## Appointment & removal
 - ✅ Appointed by the **President** on a **6-member committee's** recommendation: **PM (head)**, **LS Speaker**,
   **RS Deputy Chairman**, **LoP of both Houses**, **Union Home Minister**.
-- ✅ Removed by the **President**; for **proved misbehaviour/incapacity**, a **Supreme Court inquiry** is required
-  (advice binding).
+- ✅ Removed by the **President**; for **proved misbehaviour/incapacity**, the statutory **Supreme Court inquiry
+  and report** is required.
 
 ## Functions & limitations ⭐⭐
 ✅ Inquire (suo motu / on petition / court order) into HR violations by public servants; intervene in court
 proceedings; **visit jails**; review safeguards; promote research & literacy; encourage NGOs.
-- ✅ **Powers of a civil court**; has its **own investigating staff**.
+- ✅ **Powers of a civil court** for specified inquiry matters; sections 11 and 14 provide
+  government-supplied staff and permit use of government investigation agencies with consent.
 - ⚠️ **Two big limitations:** (1) **cannot inquire** into a matter **> 1 year old**; (2) recommendations are
   **advisory, NOT binding** — it **cannot punish** or award relief (only **recommends** compensation/prosecution,
   or approaches the SC/HC for writs). Government must respond within **1 month**.
@@ -48,7 +49,7 @@ proceedings; **visit jails**; review safeguards; promote research & literacy; en
 ## Composition (post-2019)
 | Point | Detail |
 |---|---|
-| ✅ **Chairperson** | A retired **HC Chief Justice OR a HC judge** |
+| ✅ **Chairperson** | A person who has been an **HC Chief Justice OR a High Court judge** |
 | ✅ **Members** | 1 serving/retired **HC judge or District Judge (≥7 yrs)** + 1 HR expert |
 | ✅ **Appointed by** | **Governor** (committee: **CM (head)**, Assembly Speaker, State Home Minister, LoP; +Council chair/LoP if bicameral) |
 | ✅ **Removed by** | **PRESIDENT** (NOT the Governor!) — same grounds as NHRC |
@@ -56,8 +57,8 @@ proceedings; **visit jails**; review safeguards; promote research & literacy; en
 
 ⭐ **Key trap:** SHRC members are **appointed by the Governor but removable only by the President**.
 
-✅ **Human Rights Courts:** the Act provides for a **Human Rights Court in each district** (set up by the state
-govt with the **HC Chief Justice's concurrence**) for speedy trial.
+✅ **Human Rights Courts:** a State Government **may**, with the **High Court Chief Justice's concurrence**,
+specify a Court of Session for each district as a Human Rights Court for speedy trial; operation is not automatic.
 
 ---
 

@@ -180,3 +180,24 @@
 - Detentions were under **MISA**; the **42nd Amendment is 1976**; the **44th Amendment is 1978** and came *after* the Emergency.
 - The Emergency was ended by the **1977 electoral verdict**, not by the courts.
 - Do not quantify sterilisations, demolitions or detentions.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** 1973-77 economic-political crisis; Nav Nirman, Bihar, JP and
+  railway strike; Allahabad judgment/Supreme Court stay; Article 352 Emergency;
+  MISA, censorship, amendments, Sanjay Gandhi, sterilisation/clearance excesses;
+  January election call, March verdict and the Emergency's end on 21 March.
+- **Boundary:** Topic 34 owns the pre-1973 consolidation and personalisation.
+  Topic 36 owns Janata formation and government, the 44th Amendment, Charan
+  Singh, Indira's return and regional crises. Topic 37 owns the Rajiv era;
+  Topic 38 owns the post-independence economy/land/society synthesis.
+- **Date control:** Gujarat (January 1974), Bihar (March), railway strike
+  (May), High Court (12 June 1975), conditional stay (24 June), proclamation
+  dated 25 June/public 26 June, election call (January 1977), verdict and end
+  (March 1977), and the later 44th Amendment (1978) are distinct.
+- **Mechanism control:** Allahabad High Court initially invalidated the
+  election; Article 352, not 356, governed the proclamation; resistance was
+  socially and regionally uneven; electoral reversal preceded Janata repair.
+- **Verified PYQ ownership, 2018-2026:** zero direct Modern History routes.
+  Original practice remains original and detailed constitutional doctrine is
+  retained by Polity.

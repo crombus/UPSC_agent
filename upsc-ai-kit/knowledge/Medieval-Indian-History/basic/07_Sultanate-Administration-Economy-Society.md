@@ -33,7 +33,10 @@
 
 **Foundation — economy and society: towns, trade, inequality.**
 
-✅ With Sultanate consolidation, communications and a sound currency based on the silver **tanka** and copper currency (called **dirham** in the assigned source; **jital** is also used for copper units) helped trade grow; towns and town life expanded.
+✅ With Sultanate consolidation, communications and currency based especially
+on the silver **tanka** and copper **jital** helped trade grow. Chronicle use of
+generic dirham terminology must not erase actual coin types or regional
+monetary variation.
 - ✅ Ibn Battuta called Delhi the largest city in the eastern Islamic world and said Daulatabad equalled Delhi in size.
 - ✅ Important towns included Lahore, Multan, Kara, Lakhnauti, Anhilwara/Patan and Cambay.
 - ✅ India produced rice, sugarcane, wheat, oilseeds, sesame, indigo and cotton; village industries included oil-pressing, jaggery, weaving and dyeing.
@@ -69,7 +72,9 @@
 - ✅ **Iqtas** were tracts assigned to nobles; holders were called **muqtis** or **walis**.
 - ✅ Below provinces were **shiqs** and **parganas**; the pargana was headed by the **amil**.
 - ✅ Cambay and Sonargaon were famous for textiles; Bengal for raw silk/fine cotton; Gujarat for textiles and gold/silver work.
-- ✅ The Turks popularised/improved paper-making, spinning wheel, cotton-carder's bow, improved loom, iron stirrup and lime mortar use.
+- ⚠️ The Sultanate centuries saw wider diffusion/adaptation of paper-making,
+  spinning and carding devices, loom practices, cavalry equipment and lime-mortar
+  construction. Do not assign each technology one foreign inventor or arrival date.
 - ✅ Alauddin Khalji introduced **dagh** (horse-branding) and **chehra** (descriptive roll) for closer army inspection; Sher Shah revived/adapted these controls, and Akbar later systematised them within the mansabdari framework.
 - ✅ **Fanam** was a small gold coin of south Indian/coastal circulation (especially Vijayanagara-Malabar trade), not a standard Delhi Sultanate revenue-office or tanka-jital term.
 
@@ -187,6 +192,374 @@
 - ✅ **What they cannot tell us well:** Everyday peasant experience, most women's lives, oral traditions, lower artisan conditions and much non-Muslim religious practice remain under-represented.
 
 > **Cross-links:** Topic 04 uses Barani/Amir Khusrau; Topic 12 uses *Baburnama*; Topic 20 uses *Tuzuk-i Jahangiri*; Topic 24 draws on *Ain-i Akbari*, Badauni, Gulbadan and European travellers.
+
+---
+
+## 10. Semantic-completeness repair: sources and cross-dynastic change
+
+### 10.1 Evidence hierarchy
+
+| Evidence | Secure use | Limit |
+|---|---|---|
+| Court chronicles | rulers, offices, conflicts, regulations and political ideals | patronage, moralizing and capital/elite bias |
+| Normative political texts | sharia ideals, kingship, hierarchy and advice | prescription is not administrative practice |
+| Farmans, orders and inscriptions | dated commands, grants, construction and local claims | survival is sparse and formulaic |
+| Coins | titulature, mints, metal and circulation | coin presence is not a border or full monetary census |
+| Archaeology/architecture | towns, forts, workshops, waterworks and material phases | cannot independently reveal legal function or motive |
+| Travellers, including Ibn Battuta | routes, products, courts, towns and observed customs | literary convention, marvels, itinerary and hearsay |
+| Later reconstructions | synthesis and comparison | must state model and source base |
+
+The cross-dynastic owner must not turn one Barani passage or one ruler's
+regulation into a timeless Sultanate system.
+
+### 10.2 Dynasty-change matrix
+
+| Phase | Institutional tendency | Limit |
+|---|---|---|
+| Mamluk | iqta/household elite, Delhi core, local continuity and gradual departments | uneven frontier control |
+| Khalji | tighter army, revenue, intelligence and market control under Alauddin | strongest in the core and ruler-dependent |
+| Muhammad Tughlaq | wider centralization, cash/revenue and experimental administration | communication, trust and regional overreach |
+| Firuz Tughlaq | conciliation, heredity, canals, karkhanas and slave department | weaker audit/military discipline |
+| Sayyid | restricted Delhi-centred tribute/revenue state | thin evidence and regional powers |
+| Lodi | Afghan chief bargaining, Agra/revenue initiatives and renewed Delhi reach | crown-chief tension |
+
+---
+
+## 11. Sovereignty, law and court
+
+Sultans claimed sovereignty through conquest, coin, **khutba**, titles, court,
+justice, appointments and sometimes caliphal symbolism.
+
+- Caliphal investiture could strengthen legitimacy but did not create practical
+  sovereignty or modern international legal dependence.
+- **Sharia** supplied legal/religious norms interpreted by ulama.
+- **Zawabit** were state regulations associated with political necessity and
+  sultanic discretion.
+- Ulama, Sufis, nobles and court officials were internally diverse; no group
+  mechanically controlled policy.
+- Succession lacked fixed primogeniture and repeatedly depended on nomination,
+  elite support, household networks and military force.
+
+Court form and ideological claims varied from Iltutmish and Balban to Alauddin,
+Muhammad/Firuz Tughlaq and the Lodis.
+
+---
+
+## 12. Central departments and officials
+
+| Department/office | Core function | Chronology caution |
+|---|---|---|
+| *Diwan-i Wizarat* / wazir | finance, revenue and expenditure | authority changed with ruler and office-holder |
+| *Diwan-i Arz* / ariz-i mamalik | military muster, equipment, pay/inspection | sultan remained commander; dagh/chehra intensified under Alauddin |
+| *Diwan-i Insha* | royal correspondence and chancery | documentary survival is uneven |
+| *Diwan-i Risalat* | reconstructed variously as religious/pious-grant or diplomatic function | state which scholarly/source usage is being followed |
+| Sadr | religious grants/institutions and learned appointments in many contexts | portfolio overlap varied |
+| Qazi | Islamic judicial office | qazi jurisdiction did not erase local/customary forums |
+| Barid | intelligence/reporting and communications | reach depended on roads, officers and ruler |
+
+Other audit/account offices and court posts multiplied over time. A later
+fully named departmental chart must not be projected into 1206.
+
+---
+
+## 13. Provincial and local administration
+
+| Level/actor | Function | Limit |
+|---|---|---|
+| Wali/muqti | provincial/military-fiscal authority and iqta management | terminology and autonomy varied |
+| Shiq/shiqdar | territorial/military-policing unit/official in later Sultanate usage | not equally visible in all reigns |
+| Pargana/amil | revenue/local grouping and collection | form became clearer over time |
+| Village | cultivation, local assessment and community institutions | not autonomous from state/local elites |
+| Khut, muqaddam, chaudhuri | rural intermediaries/headmen and revenue mediation | labels, privileges and regional reach differed |
+| Patwari/local scribes | records/assessment in many later contexts | evidence is uneven |
+
+Older chiefs, cultivators, scribes, merchants and religious institutions
+continued. Sultanate rule superimposed and adapted central claims rather than
+replacing every local institution.
+
+---
+
+## 14. Iqta across dynasties
+
+An **iqta** was an assignment of revenue and associated service/administrative
+responsibility. It was not ownership of the soil, cultivators or a European
+feudal estate.
+
+```text
+central assignment
+    -> muqti/wali collects authorized revenue
+    -> pays troops / administers / maintains order
+    -> submits accounts and remits expected surplus
+    -> centre may transfer, audit, reduce or resume
+```
+
+| Phase | Tendency |
+|---|---|
+| Early Mamluk | assignments support commanders and provinces; control uneven |
+| Iltutmish/Balban | transfer, central claim and noble discipline emphasized |
+| Alauddin | stronger audit/revenue pressure and khalisa expansion |
+| Muhammad Tughlaq | high central expectations and salary/revenue experiments |
+| Firuz | greater hereditary drift and elite conciliation |
+| Sayyid/Lodi | assignment and chief bargaining within more regionalized power |
+
+Hereditary tendencies did not convert all iqtas into private property by one
+decree. Audit, military service and actual surplus transfer varied.
+
+---
+
+## 15. Army, frontier and military technology
+
+Sultanate armies included mamluk/household forces, free cavalry, iqta
+contingents, infantry, elephants, auxiliaries and changing regional recruits.
+
+- Horses came through domestic breeding and import networks.
+- Cavalry effectiveness depended on remounts, fodder, pay, roads, training and
+  command—not stirrups alone.
+- Dagh (horse branding) and chehra (descriptive rolls) under Alauddin improved
+  inspection; implementation changed later.
+- Forts, garrisons, barid intelligence and frontier commanders were essential
+  against Mongols and regional resistance.
+- Gunpowder/firearms appeared gradually in late medieval warfare; Panipat's field
+  system should not be projected into the thirteenth century.
+
+Military slavery was one elite recruitment form, not the whole army or a single
+unchanging slavery institution.
+
+---
+
+## 16. Revenue categories: law versus practice
+
+| Category | Normative/basic meaning | Practice caution |
+|---|---|---|
+| Kharaj | land/agricultural revenue associated especially with conquered/non-ushr land | Indian assessment varied by reign, crop and locality |
+| Ushr | tithe-like levy in Islamic legal classification | legal category does not map neatly onto all Indian land |
+| Zakat | religious alms levy on qualifying Muslim wealth | collection and institutional form varied |
+| Jizya | poll tax on eligible non-Muslim subjects | rates, exemptions, combination with other dues and enforcement varied |
+| Khams | state fifth in specified war booty/resource categories | chronicle/legal rule versus actual division differs |
+| Cesses | house, grazing, market, irrigation and other demands | rulers abolished, revived or renamed levies selectively |
+
+No universal tax proportion covered every Sultanate region. Alauddin's reported
+half-produce demand belongs to a core policy setting, not a timeless norm.
+
+---
+
+## 17. Agrarian production and extraction
+
+- Major crops included wheat, rice, millets, pulses, oilseeds, sugarcane, cotton
+  and indigo in regionally varied combinations.
+- Wells, tanks, river systems, the Persian-wheel complex where attested, and
+  Firuz's canals supported irrigation unevenly.
+- Peasants ranged from stronger rights-bearing cultivators/intermediaries to
+  tenants, labourers and vulnerable producers.
+- Khuts, muqaddams, chaudhuris and other local elites could collect, mediate or
+  shift burdens.
+- Famine reflected rainfall/ecology, storage, market access, warfare and state
+  collection—not climate or policy alone.
+- State extraction financed courts, cavalry, garrisons, towns and construction.
+
+Peasants were not homogeneous and villages were not detached subsistence units.
+
+---
+
+## 18. Crafts, karkhanas and technology
+
+| Sector | Production/technology | Social context |
+|---|---|---|
+| Textiles | spinning wheel, cotton-carder's bow, looms, dyeing, printing and embroidery | household, village and urban artisans; women's labour often low-paid |
+| Metals | weapons, armour, tools, vessels and precious-metal work | court/army/market demand |
+| Paper | wider record, correspondence and manuscript use | scribes, scholars and merchants; literacy remained limited |
+| Building | lime mortar, arch/dome adaptation, stone/brick work | Indian artisans and transregional techniques interacted |
+| Karkhanas | royal workshops/storage for luxury, military and household goods | employed artisans, servants and sometimes slaves |
+| Water-lifting | Persian-wheel and other devices diffused/adapted over time | regional evidence and dating matter |
+
+Technologies were not all single-event foreign introductions. Diffusion,
+adaptation, local skill and institutional demand must be shown.
+
+---
+
+## 19. Towns, markets, trade and money
+
+Capitals, garrison towns, **qasbas**, provincial centres, pilgrimage towns and
+ports linked agrarian hinterlands to court and merchant demand.
+
+| Network | Evidence/use |
+|---|---|
+| Roads/sarais | military movement, travellers, merchants and information |
+| Trade transport | pack animals, carts, carriers and river/sea movement linked markets |
+| Inland markets | grain, cloth, animals, craft goods and regional exchange |
+| Ports | Gujarat/Cambay, Bengal/Sonargaon and wider Indian Ocean routes |
+| Merchants | Gujaratis, Marwaris, Multanis, Khurasanis, Jains, Bohras and others |
+| Credit | hundis, sahs, brokers/dallals and merchant finance |
+| Money | tanka, jital, regional coins, bullion and cash/kind coexistence |
+
+The "urban revolution" thesis highlights garrisons, centralized surplus,
+currency and craft demand. It should be qualified: urbanization was regional,
+towns depended on agrarian hinterlands, and older/new centres followed different
+trajectories.
+
+Alauddin's Delhi market regulation is a high-intensity episode within this
+larger economy, not the timeless Sultanate norm.
+
+---
+
+## 20. Social composition and mobility
+
+Sultanate society cannot be divided into sealed Hindu and Muslim blocs.
+
+| Group | Internal differentiation |
+|---|---|
+| Political/military elites | mamluks, freeborn Turks, Khaljis, Afghans, Tajiks/Iranians, Indian Muslims and local chiefs |
+| Ulama and Sufis | multiple schools, institutions, patrons and relations with rulers |
+| Merchants/artisans | religion, region, wealth, occupation and guild/network differences |
+| Peasants/intermediaries | land rights, caste, locality and revenue position varied |
+| Rajputs/regional groups | rulers, soldiers, zamindar-like chiefs, cultivators and service relations |
+| Converts/non-Muslims | diverse motives/statuses; no single conversion process |
+
+Varna-jati and occupational identities changed through migration, service,
+urbanization, craft and political patronage. Mobility existed but hierarchy,
+racial/lineage prejudice and exclusion persisted.
+
+---
+
+## 21. Slavery and bandagan
+
+Slavery included war captives, purchased domestic servants, military mamluks,
+royal bandagan, karkhana labour and other dependent forms.
+
+- Legal status, training, property, office and mobility differed greatly.
+- Elite military slavery could enable extraordinary rise.
+- Mass captives/domestic/karkhana slaves experienced coercion and limited freedom.
+- Firuz's large reported establishment is a chronicler claim, not an audited
+  census.
+- Slavery could depress free labour status and create political factions.
+
+No form should be equated automatically with modern Atlantic racial chattel
+slavery.
+
+---
+
+## 22. Gender, household and property
+
+- Elite women could influence succession, patronage and household politics;
+  Razia remains a ruler-specific political case, not proof of general equality.
+- Common women worked in agriculture, spinning, food processing, domestic
+  service, crafts and markets, though sources under-record them.
+- Purdah/seclusion expanded among some elites but was not uniform across class,
+  region or occupation.
+- Marriage, inheritance, dower and property followed multiple legal/customary
+  systems and social locations.
+- Enslaved women and servants require separate analysis from elite household
+  agency.
+
+The archive privileges male courts and normative texts; women's agency and
+constraint must be source-qualified.
+
+---
+
+## 23. Religion, policy and social interaction
+
+Temple destruction/reuse, mosque construction, jizya, grants, conversion and
+accommodation varied by ruler, war, locality and political purpose.
+
+- Political rulers used sharia/ulama legitimacy and zawabit/state need in
+  changing balances.
+- Sufis and ulama did not form one religious establishment.
+- Conversion could involve conviction, patronage, mobility, local networks,
+  status and coercion in different cases; no one universal model fits.
+- Hindu and Muslim merchants, officials, artisans, peasants and soldiers
+  interacted within shared economic and political institutions while retaining
+  distinctions and conflict.
+
+Neither uniform forced conversion nor a conflict-free composite society is
+defensible.
+
+---
+
+## 24. Language and intellectual culture
+
+Persian became the principal court/chancery and literary language, while Arabic
+remained important for theology/law. Sanskrit and regional languages continued.
+**Hindavi** developed through urban, military, devotional and everyday contact.
+
+Translation, bilingual administration, Sufi literature and vernacular expression
+created interaction. Persianate means a language/courtly-administrative cultural
+field, not Persian ethnicity.
+
+---
+
+## 25. Structural continuity without teleology
+
+Sultanate institutions influenced regional states and later Mughal practice:
+revenue assignments, offices, Persian chancery, coins, roads, forts, markets and
+local intermediaries. Later rulers adapted rather than simply inherited a fixed
+system.
+
+Continuity must not become teleology: the Sultanate did not exist merely to
+prepare Sher Shah or the Mughals, and later similarity does not prove direct
+unchanged transmission.
+
+---
+
+## 26. PYQ ownership and Prelims traps
+
+### 26.1 Routed demands
+
+| PYQ | Status |
+|---|---|
+| 2019 Prelims Q12, revenue institutions | **Direct Topic-07 route** |
+| 2022 Prelims Q52, fanam monetary terminology | **Direct Topic-07 route; exact local wording unavailable** |
+| 2023 GS-I Q12, Sultanate technology/social impact | **Direct Topic-07 route** |
+| 2022 Prelims Q57, Mongol chronology | Adjacent, Topic 04 |
+| 2020 GS-I Q12, Persian sources | Adjacent, Topic 24 |
+
+### 26.2 Prelims traps
+
+- Amil = revenue collection; Mir Bakshi = Mughal, not Khalji.
+- Iqta is not ancient indigenous private land ownership.
+- Wazir/Diwan-i Wizarat = finance; ariz-i mamalik/Diwan-i Arz = military.
+- Diwan-i Insha = correspondence.
+- Diwan-i Risalat portfolio is debated; state the reconstruction.
+- Tanka/jital are Sultanate anchors; fanam is mainly southern/coastal.
+- Dagh/chehra have Sultanate roots and were later adapted.
+- Kharaj, ushr, zakat, jizya and khams are not interchangeable.
+
+---
+
+## 27. Executable Mains architecture
+
+### 10 marks / 150 words: iqta
+
+Definition → assignment flow → service/audit/transfer → dynasty change →
+regional enforcement limit → not-property verdict.
+
+### 15 marks / 250 words: technology and society
+
+```text
+source/dating caution
+        |
+textile + paper + water + construction + military technologies
+        |
+state/craft/trade mechanisms
+        |
+urban and agrarian effects
+        |
+gender/class/regional inequality
+        |
+diffusion/adaptation verdict
+```
+
+### 20 marks / 250 words: cross-dynastic Sultanate system
+
+- source/legal/practice distinction;
+- sovereignty, court and departments;
+- provincial/local institutions;
+- iqta/revenue/army;
+- agrarian production and extraction;
+- craft, technology, towns, trade and credit;
+- social composition, slavery and gender;
+- religion/language interaction;
+- Mamluk-Khalji-Tughlaq-Sayyid-Lodi change;
+- continuity without Mughal teleology.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

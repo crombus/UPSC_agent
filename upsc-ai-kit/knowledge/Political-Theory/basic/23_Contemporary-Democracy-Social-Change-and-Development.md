@@ -734,3 +734,55 @@ DEVELOPMENT PATHS
   verdict on what would have to be true for platform-mediated politics to satisfy this module's own
   democratic minimum. ❌ Do not reproduce §14's full apparatus inside such an answer; cite the
   mechanism, then return to the democratic-theory question.
+
+## 24. Democratisation, democratic backsliding and social movements
+
+> ⚠️ **Scope and provenance.** These are bounded democratic-theory bridges added because the terms
+> frequently organise contemporary questions. They are not presented as direct claims from Gauba's
+> Ch.23-25 and carry no Gauba page citation. Country rankings, current regime labels and event-level
+> claims require separately verified sources.
+
+### 24.1 Democratisation
+
+- ⚠️ **Democratisation** is the transition toward more competitive, inclusive and accountable rule;
+  it is a process, not a declaration made complete by the first election.
+- ⚠️ A useful process map is liberalisation of coercive controls -> wider participation and
+  contestation -> institutionalisation of rights and accountability -> consolidation through
+  routine acceptance of democratic uncertainty.
+- ⚠️ Elections are necessary but insufficient: civil liberties, opposition access, associational
+  freedom, lawful succession and institutions able to check incumbents determine whether electoral
+  opening becomes durable democracy.
+
+### 24.2 Democratic backsliding
+
+- ⚠️ **Democratic backsliding** is the incremental weakening of competition, accountability,
+  civil liberties or institutional checks within an order that may continue to hold elections.
+- ⚠️ The core trap is to look only for abrupt coups. Backsliding can occur through cumulative,
+  formally enacted changes that tilt the field, weaken oversight, narrow information pluralism or
+  make alternation in power less genuinely possible.
+- ⚠️ A source-safe answer should diagnose the affected democratic function rather than attach a
+  current country label without verified evidence.
+
+### 24.3 Social movements
+
+- ⚠️ **Social movements** are sustained collective efforts that organise claims outside or across
+  routine electoral and party channels; they can widen participation, set agendas and create
+  counter-publics for excluded groups.
+- ⚠️ Their democratic value is conditional. Movements deepen democracy when they expand voice,
+  reason-giving and non-violent accountability, but can damage it when coercion, disinformation or
+  exclusive claims replace public justification.
+- ⚠️ Movements connect social change to democracy by converting dispersed grievances into organised
+  demands. They do not automatically become parties, and electoral success is not the only measure
+  of their political effect.
+
+### 24.4 Comparative answer spine
+
+| Process | Democratic promise | Main danger | Best test |
+|---|---|---|---|
+| ⚠️ Democratisation | Wider contestation, participation and accountable succession | Electoral opening without rights or consolidation | Can opposition, citizens and institutions challenge power effectively? |
+| ⚠️ Backsliding | Often defended as efficiency or direct popular mandate | Gradual erosion hidden behind continuing elections | Are competition, information, liberties and checks becoming less effective? |
+| ⚠️ Social movements | Voice, agenda-setting and counter-hegemonic mobilisation | Exclusion, coercion or weak internal accountability | Does mobilisation enlarge equal public agency and reasoned contestation? |
+
+- ⚠️ **Boundary:** populism is treated in §21, digital mediation in §23, and the broader
+  power-theory apparatus in Topic 15. Use this section to name the democratic process at stake,
+  not to duplicate those owners.

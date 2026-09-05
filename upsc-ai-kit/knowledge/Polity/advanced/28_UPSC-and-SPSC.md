@@ -29,8 +29,10 @@ the enquiry.)
 - ✅ **Security of tenure** (removed only in the constitutional manner).
 - ✅ Service conditions **can't be varied to disadvantage** after appointment.
 - ✅ Expenses (salaries/pensions) **charged on the Consolidated Fund of India** (not voted).
-- ✅ **Chairman:** NOT eligible for any further Central/state employment after office.
-- ✅ **Member:** eligible ONLY to become **UPSC chairman** or **an SPSC chairman** — nothing else.
+- ✅ **UPSC Chairman:** no further employment under Union/State.
+- ✅ **SPSC Chairman:** may become UPSC Chairman/member or Chairman of another SPSC.
+- ✅ **UPSC member:** may become UPSC Chairman or an SPSC Chairman.
+- ✅ **SPSC member:** may become UPSC Chairman/member or Chairman of the same/another SPSC.
 - ✅ **No re-appointment** to the same office (no second term).
 - ⚠️ *A.R. Kidwai case (1979):* an ex-UPSC chairman appointed **Governor** was upheld — Governor is a
   **constitutional office**, not "employment under government."

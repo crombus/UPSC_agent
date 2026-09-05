@@ -63,6 +63,20 @@ JAINISM
 - ✅ **Siddhasena Divākara** and **Samantabhadra**: important names in the early logic of anekānta and syādvāda.
 - ✅ **Akalaṅka**, **Māṇikyanandi**, **Hemacandra**, and **Yaśovijaya**: major later Jaina logicians to cite for the mature pramāṇa tradition.
 
+## 0B. HISTORICAL AND RELIGIOUS ORIENTATION ✅/❓
+
+**Statement.** ✅ “Jaina” derives from conqueror (**jina**): one who has conquered passions and karmic bondage. A ford-maker (**Tīrthaṅkara**) is a liberated teacher who re-establishes the path across saṃsāra, not a creator God.
+
+**Framework.** ✅
+1. Jaina tradition recognizes twenty-four Tīrthaṅkaras in the present cycle.
+2. Ṛṣabha is named as the first, Pārśva as the twenty-third, and Vardhamāna Mahāvīra as the twenty-fourth.
+3. Mahāvīra systematized and renewed an already existing tradition; he should not be described as creating Jainism from nothing.
+4. Śvetāmbara and Digambara traditions differ on canon, monastic practice, and some doctrinal details while sharing the central grammar of soul, karma, many-sided reality, vows, and liberation.
+
+**Historical caution.** ❓ Mahāvīra and Pārśva are historical anchors, but precise dates and claims about the earliest Tīrthaṅkaras require source-specific qualification. UPSC philosophy answers need the framework, not legendary chronology.
+
+**Philosophical consequence.** ✅ Jainism combines an uncreated cosmos with religious authority grounded in perfected teachers. It is unorthodox (**nāstika**) because it rejects Vedic authority, not because it denies soul, ethics, rebirth, or spiritual perfection.
+
 ## 1. THEORY OF REALITY ✅
 
 ### 1.1 Anekāntavāda as metaphysical thesis
@@ -205,6 +219,17 @@ JAINISM
 
 **Example.** ✅ Souls are graded from one-sense beings to five-sense beings; even minute living entities are morally significant.
 
+**Living-being taxonomy.** ✅
+
+| Class | Sanskrit term | Structure |
+|---|---|---|
+| Liberated soul | **mukta-jīva** | Free from every karmic obstruction |
+| Bound soul | **baddha-jīva** | Embodied and karmically conditioned |
+| Immobile bound being | **sthāvara** | One-sense life, with touch; classically includes earth-, water-, fire-, air-, and plant-bodied beings |
+| Mobile bound being | **trasa** | Two-, three-, four-, or five-sense beings |
+
+**Spatiality.** ✅ An embodied soul has space-points (**pradeśas**) and is co-extensive with its body, like a lamp illuminating the room it occupies. The ant’s soul fills an ant-body and the elephant’s soul an elephant-body without becoming material. This contraction-and-expansion doctrine explains embodied awareness but creates a serious objection: how can an immaterial substance possess changing extension?
+
 **Objection (Sāṃkhya/Vedānta objection).** ✅ If the soul is naturally omniscient, ignorance becomes hard to explain.
 
 **Reply.** ✅ Karma as obscuring matter is introduced precisely to explain the discrepancy between intrinsic capacity and empirical limitation.
@@ -227,6 +252,33 @@ JAINISM
 **Objection (Nyāya/Mīmāṃsā-style objection).** ✅ To call karma matter seems strange.
 
 **Reply.** ✅ That strangeness is also Jainism’s originality: bondage is not merely moral description but a real quasi-physical entanglement.
+
+**Atomic structure.** ✅
+1. The indivisible material atom (**paramāṇu**) is the smallest unit of matter.
+2. Material aggregates (**skandhas**) arise through combinations of atoms.
+3. Matter possesses colour, taste, smell, and touch; sound is treated as a material modification rather than a separate immaterial quality.
+4. Jaina atoms are not divided into permanently different elemental kinds in the Nyāya–Vaiśeṣika manner. Elemental differentiation belongs to developed modes and combinations.
+5. Bodies, sense-organs, speech, breath, mind as an embodied instrument, and karmic matter are all material configurations.
+
+**Etymological aid.** ⚠️ Matter (**pudgala**) is commonly explained through integration and disintegration—filling or combining (**pūraṇa**) and disintegrating (**galana**). The etymology is useful because it highlights matter’s aggregative and transformable character.
+
+### 1.8 Causation: identity and novelty together ✅/⚠️
+
+**Statement.** ⚠️ Jaina causation is often described as both-existence-and-non-existence of the effect (**sadasatkāryavāda**): the effect exists in the cause in respect of enduring substance but does not yet exist in respect of its new mode.
+
+**Argument.** ✅
+1. If the effect were wholly identical with the cause, production would add nothing.
+2. If it were wholly non-existent and unrelated, anything could arise from anything.
+3. In transformation, the underlying substance persists while an earlier mode ceases and a new mode originates.
+4. Therefore the effect is continuous with the cause as substance and novel as mode.
+
+**Example.** ✅ A clay jar is not produced from sheer nothing: clay persists. Yet the jar-form is genuinely new and was not previously present as that completed mode.
+
+**Comparison.** ✅ Jaina causation mediates between Sāṃkhya’s strong pre-existence doctrine (**satkāryavāda**) and Nyāya’s new-production doctrine (**asatkāryavāda**) by applying many-sided reality to causal identity.
+
+**Objection.** ✅ Saying the effect both exists and does not exist appears contradictory.
+
+**Reply.** ✅ Existence and non-existence are indexed to different respects—substance and mode—so the claim does not affirm an unqualified contradiction.
 
 ## 1A. JAINA PRAMĀṆA SCHEME: THE EPISTEMIC GROUND OF ANEKĀNTAVĀDA ✅
 
@@ -393,6 +445,8 @@ JAINISM
 
 **Statement.** ✅ **Syādvāda** is the doctrine that assertions should be made with the qualification **syāt**—“in some respect,” “from a certain standpoint,” or “conditionally.”
 
+**Translation trap.** ✅ Although **syāt** can literally suggest “perhaps” or “may be,” it does not express mere probability, doubt, agnosticism, or scepticism here. It marks a definite assertion restricted by standpoint, substance, place, time, and mode. The jar conditionally exists is not a guess that the jar probably exists.
+
 **Argument.** ✅
 1. Since reality is many-sided, categorical assertion is risky.
 2. Since judgements arise from standpoints, language must register conditionality.
@@ -556,6 +610,18 @@ JAINISM
 
 **Reply.** ⚠️ Jainism answers through intimate association and obscuration, though critics often say the mechanism remains conceptually difficult.
 
+**Five principal causes of bondage.** ✅
+
+| Cause | Sanskrit term | Role |
+|---|---|---|
+| Wrong vision | **mithyātva / mithyā-darśana** | Misapprehends soul, reality, and the path |
+| Non-restraint | **avirati** | Leaves conduct exposed to harmful desire and action |
+| Carelessness | **pramāda** | Weakens vigilance even where doctrine is known |
+| Passions | **kaṣāya** | Anger, pride, deceit/delusion, and greed make karmic adhesion deep and durable |
+| Activity | **yoga** | Activity of body, speech, and mind opens the channel for influx |
+
+**Causal ordering.** ⚠️ Wrong vision and ignorance sustain passions; activity supplies the influx-channel; passion supplies the “stickiness.” This prevents the material account of karma from becoming crude physicalism: psychical disposition determines the depth and duration of material bondage.
+
 ### 3.2 The fivefold soteriological sequence ✅
 
 **Statement.** ✅ The Jaina path is commonly described through the sequence **āsrava → bandha → saṃvara → nirjarā → mokṣa**.
@@ -653,6 +719,24 @@ JAINISM
 
 **Reply.** ⚠️ Jainism distinguishes full vows for ascetics and limited observances for householders, preserving the ideal while allowing graded practice.
 
+### 3.5A Stoppage and shedding: the complete discipline ✅
+
+**Statement.** ✅ Liberation requires both stoppage of new karma (**saṃvara**) and shedding of accumulated karma (**nirjarā**). The five vows are central but do not exhaust the standard discipline.
+
+| Discipline | Sanskrit term | Main function |
+|---|---|---|
+| Restraint of body, speech, and mind | **gupti** | Controls the three channels of activity |
+| Carefulness in movement, speech, alms, handling objects, and bodily functions | **samiti** | Prevents negligent injury and fresh influx |
+| Ten virtues, including forgiveness, humility, truthfulness, purity, restraint, austerity, renunciation, non-attachment, and celibacy | **dharma** | Replaces passion with disciplined character |
+| Contemplation on the self, impermanence, solitude, influx, stoppage, and related truths | **anuprekṣā / bhāvanā** | Reorients cognition and weakens attachment |
+| Patient conquest of afflictions | **pariṣaha-jaya** | Prevents pain, hunger, heat, cold, and insult from producing passion |
+| Right conduct | **cāritra** | Integrates vision, knowledge, vows, and equanimity |
+| Austerity | **tapas** | Stops passion and accelerates the wearing away of stored karma |
+
+**Two forms of shedding.** ✅ Natural fruition wears karma out when it matures, whereas disciplined austerity and purification accelerate shedding. External austerities regulate bodily consumption and exposure; internal austerities include repentance, humility, service, study, detachment, meditation, and abandonment of bodily identification.
+
+**Distinction.** ✅ Stoppage is preventive; shedding is eliminative. Vows primarily close the channels of new influx, while austerity and purified conduct also exhaust already bound karma.
+
 ### 3.6 Kevala-jñāna ✅
 
 **Statement.** ✅ **Kevala-jñāna** is perfect knowledge or omniscience attained when the obstructive karmas are fully destroyed.
@@ -692,6 +776,21 @@ JAINISM
 **Objection (modern philosophical objection).** ✅ Spatial ascent of a liberated soul may seem mythic.
 
 **Reply.** ⚠️ In doctrinal exposition, one should report the cosmological picture faithfully while separating canonical doctrine from modern philosophical evaluation.
+
+### 3.8 No creator, but perfected religious authority ✅
+
+**Statement.** ✅ Jainism rejects a creator God because the cosmos and its substances are beginningless and uncreated; production and destruction concern modes, not creation of substance from nothing.
+
+**Argument.** ✅
+1. The six substances are eternal in their substantial continuity.
+2. Their changing modes explain ordinary production and destruction.
+3. Karma explains embodied inequality and consequence without divine allocation.
+4. A creator therefore adds no necessary explanatory work and raises further questions about motive, material, imperfection, and responsibility.
+5. Liberation depends on self-purification, not divine grace.
+
+**Distinction.** ✅ Jainism denies a creator but not divinity in the honorific sense. A liberated conqueror (**Jina**), perfected soul (**siddha**), or ford-maker (**Tīrthaṅkara**) is worthy of reverence because of achieved perfection, not because that being created or governs the universe.
+
+**Exam formula.** ⚠️ Jainism is best described as a religion of self-effort within an uncreated moral cosmos: non-theistic about creation, but neither materialist nor spiritually negative.
 
 ## 3A. SEVEN TATTVAS AND NINE PADĀRTHAS ✅
 

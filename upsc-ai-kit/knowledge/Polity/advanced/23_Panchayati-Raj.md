@@ -25,7 +25,7 @@ force **24 April 1993**. Provisions are **compulsory (mandatory)** or **voluntar
 | Feature | Detail |
 |---|---|
 | ✅ **Gram Sabha** | Village assembly of all registered voters — foundation of PR |
-| ✅ **3-tier system** | Village, intermediate, district — but a state **< 20 lakh** population may skip the **intermediate** tier |
+| ✅ **3-tier system** | Village, intermediate, district — but a state with population **not exceeding 20 lakh** may skip the **intermediate** tier |
 | ✅ **Election** | All **territorial seats** at all 3 levels directly elected; chairpersons of intermediate & district levels **indirectly**; village chairperson as state law decides; Art 243-C permits specified representation |
 | ✅ **Reservation** | SC/ST in proportion to population; **≥ 1/3 seats for women** (incl. SC/ST women) at all levels + chairperson offices |
 | ✅ **Duration** | **5-year term**; elections before expiry OR within **6 months** of dissolution; a reconstituted panchayat serves only the **remainder** |
@@ -84,7 +84,7 @@ land alienation, and consultation before land acquisition/mining — the corners
 ## 📰 CA hooks
 - 📰 ⚠️ **50% women's reservation** in PRIs adopted by ~21 states — grassroots women's empowerment (links to the
   Nari Shakti Vandan Adhiniyam debate).
-- 📰 ⚠️ **15th/16th Finance Commission grants** to local bodies (tied/untied) & the demand for greater fiscal
+- 📰 ⚠️ **Sixteenth Finance Commission 2026–31 framework and other Finance Commission grants** to local bodies (tied/untied) & the demand for greater fiscal
   devolution ("3 Fs — funds, functions, functionaries").
 - 📰 ⚠️ **PESA implementation gaps** & tribal Gram Sabha rights (land acquisition, mining, FRA linkage).
 
@@ -118,3 +118,14 @@ land alienation, and consultation before land acquisition/mining — the corners
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+
+## Precision addendum — constitutional provisos and cases
+
+- **243D:** SC/ST chairperson reservation is population-proportionate as State law provides; at least one-third of all chairperson offices go to women; backward-class reservation is enabling.
+- **243E:** the six-month re-election rule has a remainder-below-six-month exception; a prematurely reconstituted Panchayat serves the balance, not a fresh five years.
+- **243I/K:** SFC reports plus action memoranda go before the legislature; SEC service conditions cannot be varied disadvantageously and requested staff must be supplied.
+- **243L/N:** President-controlled Union-Territory application and the one-year transitional life of inconsistent old laws are frequent Prelims omissions.
+- **243M:** distinguish Fifth Schedule Scheduled Areas, Sixth Schedule tribal areas, the three excluded States, specified Manipur hills and the constitutional Darjeeling clause. PESA extends the framework only to Fifth Schedule Scheduled Areas.
+- **Cases:** *Kishansing Tomar* (2006) protects the election calendar; *K. Krishna Murthy* (2010) constitutionalises local-body reservation limits; *Vikas Kishanrao Gawali* (2021) states the OBC triple test; *Fouziya Imtiaz Shaikh* (2021) rejects executive control of the SEC.
+- **Current evidence, checked 28 August 2026:** Devolution Index Report 2024; Sixteenth Finance Commission 2026–31 report and action memorandum; Ministry State-wise PESA-rules directory. Notification is not proof of field compliance.

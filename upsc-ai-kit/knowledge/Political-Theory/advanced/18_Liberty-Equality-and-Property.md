@@ -19,7 +19,7 @@ classical liberal non-interference
         |                         |
         v                         v
 positive liberal welfare     analytic distinction / libertarian pushback
-Mill/Green/Hobhouse/Laski    Berlin | Hayek/Friedman/Nozick
+Green/Hobhouse/Laski         Berlin | Hayek/Friedman/Nozick
         |                         |
         +------------+------------+
                      v
@@ -28,12 +28,13 @@ Mill/Green/Hobhouse/Laski    Berlin | Hayek/Friedman/Nozick
                      v
 EQUALITY CHAPTER
 equal worth, not sameness
-formal equality -> substantive equality
+formal -> substantive | opportunity -> outcome
+Rawls | Dworkin | Mill
 need/excellence/affirmative action debate
                      |
                      v
 PROPERTY CHAPTER
-Locke: labour-based title
+Locke: labour + provisos | Hegel: personhood
 Hobhouse/Tawney/Laski: function + common good
 Marx: abolish private ownership of means of production
                      |
@@ -82,7 +83,8 @@ property without social control becomes power
 | Natural vs conventional inequality | ✅ Rousseau's distinction separates unavoidable natural differences from socially produced privilege, making only the latter the main object of political reform (Gauba, PDF pp.394-395). |
 | Formal vs substantive equality | ✅ Formal equality removes explicit exclusion; substantive equality asks whether real opportunities and safeguards exist for the underprivileged (Gauba, PDF pp.400-406). |
 | Alterability and injustice | ✅ An inequality must be alterable before it can ordinarily become a practical demand of political reform, but alterability alone is not sufficient to make it unjust; relevance, need, function and social benefit still require argument (Gauba, PDF pp.394-397). |
-| Reverse discrimination | ✅ Preferential treatment for historically deprived sections may serve equality, but it also raises questions of merit, identification of deserving cases and fairness to others (Gauba, PDF pp.398-399). |
+| "Reverse discrimination" objection | ✅ Preferential treatment for historically deprived sections may serve equality, but critics raise objections about merit, identification of deserving cases and fairness to others (Gauba, PDF pp.398-399). ⚠️ The phrase names an objection, not a neutral diagnosis; compensatory, anti-subordination, representation and fair-opportunity rationales remain distinct. |
+| Equality of opportunity vs outcome | ⚠️ Opportunity asks whether access is genuinely fair; outcome asks whether avoidable final deprivation or domination remains. Outcome-sensitive theories need not demand identical results and may instead defend thresholds or a social minimum. |
 | Natural-right property | ✅ Property is defended as a right recognized rather than created by the state, though Gauba shows that this becomes unstable once inheritance, money and large-scale inequality enter the picture (Gauba, PDF pp.417-419). |
 | Functionless property | ✅ Tawney and Laski use this idea for ownership that yields income and power without socially useful service, making it ethically suspect (Gauba, PDF pp.421-425). |
 | Personal vs private property | ✅ Marxism distinguishes security-giving personal holdings from ownership of productive assets that enables subordination of others' labour (Gauba, PDF pp.427-430). |
@@ -91,16 +93,19 @@ property without social control becomes power
 
 | Thinker | Position to retain in answers |
 |---|---|
-| J.S. Mill | ✅ Begins with strong liberty doctrine but later accepts intervention, taxation, inheritance limits and education because unregulated market society can hollow out freedom for workers (Gauba, PDF pp.377-378, 415). |
+| J.S. Mill | ✅ In *On Liberty*, coercion of competent adults is presumptively justified only to prevent harm to others; offence, dislike and paternal benefit are insufficient. ⚠️ His arguments for education, taxation, inheritance reform and women's equality are broader social and economic arguments, not components of the harm principle. |
 | T.H. Green | ✅ Freedom is moral self-realization; property matters only so far as it supports development and must be restricted where it blocks others' self-realization (Gauba, PDF pp.377-378, 415-416). |
 | Isaiah Berlin | ✅ Distinguishes negative liberty from positive self-mastery. Gauba accepts this in the moral sphere but argues that Berlin's treatment of socially produced deprivation is too narrow in the material sphere; Berlin is not simply another welfare-state critic of the Hayek-Nozick type (Gauba, PDF pp.378-380, 408-409). |
 | F.A. Hayek | ✅ Defends non-coercion, equality before law and market competition while calling social justice a mirage; Gauba sees this as divorcing liberty from the conditions required to universalize it (Gauba, PDF pp.381-383, 409-412). |
 | Milton Friedman | ✅ Competitive capitalism is presented as a necessary condition of freedom; Gauba counters that labour without capital does not negotiate from equal power (Gauba, PDF pp.383-384). |
-| Robert Nozick | ✅ Just acquisition and transfer can yield inequality without injustice, so the minimal state should not redistribute; Gauba finds this inattentive to social background inequalities (Gauba, PDF pp.384, 411). |
+| Robert Nozick | ✅ A historical entitlement theory permits inequality arising from just acquisition and transfer, but acquisition is constrained by a modified Lockean proviso and unjust history requires rectification. The minimal state rejects patterned redistribution of just holdings; rectification itself remains seriously under-specified. |
 | Marx and Engels | ✅ Freedom means mastery over social production, end of alienation and emancipation from class domination; private property in major means of production must therefore be abolished (Gauba, PDF pp.384-388, 426-430). |
 | Herbert Marcuse | ✅ Advanced capitalism manufactures false needs and pacifies the oppressed, so freedom requires awakening people to their own alienation (Gauba, PDF pp.388-389). |
 | C.B. Macpherson | ✅ Creative or developmental freedom demands expansion of human capacities; capitalist market society privileges extractive power over developmental power (Gauba, PDF pp.389, 418-419). |
-| Locke | ✅ Property originates in labour and is treated as natural right, yet the introduction of money and consent to inequality lets the theory slide toward possessive individualism (Gauba, PDF pp.417-419). |
+| Locke | ✅ Labour grounds initial appropriation subject to leaving enough and as good for others and avoiding spoilage. Money bypasses spoilage through consent and enables accumulation; whether the first proviso survives monetisation remains contested. Gauba sees the resulting theory as accommodating substantial inequality (Gauba, PDF pp.417-419). |
+| Hegel | ⚠️ Property is the external embodiment of free will and a first sphere of personhood within Abstract Right, not a limitless entitlement to accumulate or dominate. |
+| John Rawls | ⚠️ Equal basic liberties have lexical priority; fair equality of opportunity precedes the difference principle within the second principle and regulates background institutions. |
+| Ronald Dworkin | ⚠️ Equality of resources uses hypothetical auction and insurance devices and distinguishes brute from option luck; its responsibility-sensitive metric is difficult to translate cleanly into policy. |
 | Hobhouse | ✅ Property has social origin because society secures and helps create it; therefore it cannot be absolute and must not become power over others (Gauba, PDF pp.415-416, 420-421). |
 | Tawney | ✅ Equality qualifies liberty, and property should be judged by service, not dividend; functionless ownership is the ethical problem (Gauba, PDF pp.392-393, 421). |
 | Laski | ✅ Property is justified only where it supports service and common welfare; inheritance and concentrated capital require strong limitation, common civic minimum and industrial democratization (Gauba, PDF pp.416, 421-426). |
@@ -121,8 +126,8 @@ property without social control becomes power
   may coerce and a non-democracy may leave some private latitude. This is Hayek's conceptual claim,
   not an endorsement of non-democratic rule (Gauba, PDF p.381).
 - ✅ Hayek's equality-before-law argument is powerful against crude equalization of outcomes, yet Gauba argues it underestimates how wealth structures access, power and even the use of formal liberty itself (Gauba, PDF pp.381-383, 409-412).
-- ✅ Locke's labour theory starts with a seemingly egalitarian intuition, but once money, consent and large accumulation enter, it becomes a legitimating theory for widening inequality rather than a critique of it (Gauba, PDF pp.417-419).
-- ✅ The reverse-discrimination debate shows that substantive equality is not conceptually simple: preferential treatment may be justified by need, past exclusion or representational effect, yet still risk capture by advantaged sub-groups (Gauba, PDF pp.398-399).
+- ✅ Locke's labour theory begins with labour, enough-and-as-good and spoilage limits, but money bypasses spoilage and permits accumulation; whether the first proviso continues to constrain inequality remains contested (Gauba, PDF pp.417-419).
+- ✅ The objection commonly called reverse discrimination shows that substantive equality is contested. Preferential treatment may be defended through compensation, anti-subordination, fair opportunity or representation, yet can still risk capture by advantaged sub-groups (Gauba, PDF pp.398-399).
 - ✅ Social-democratic theory accepts private property but tries to strip it of exploitative power through function, service, taxation, inheritance limits and industrial regulation; this is its distinctive middle path (Gauba, PDF pp.420-426).
 - ✅ Gauba appreciates Marxism's distinction between personal property and ownership of means of production, yet he also notes that a large middle class and widespread shareholding can blur this line in practice (Gauba, PDF pp.430-431).
 - ⚠️ The deepest internal debate across all three chapters is whether social structure is merely the background to freedom and equality, or whether it constitutes their actual content.
@@ -144,6 +149,7 @@ property without social control becomes power
 |---|---|---|
 | Personal property vs means of production | ✅ Marxism preserves the first and attacks private ownership of the second because the second structures class domination (Gauba, PDF pp.427-430). | ⚠️ Use this to rebut the claim that Marxism wants abolition of all possessions. |
 | Lockean labour title vs socialist critique | ✅ Locke grounds ownership in labour, but socialists argue that if productive instruments are privately monopolized, workers are deprived of real freedom to apply their labour (Gauba, PDF pp.417-419). | ⚠️ Use this to show why labour can justify small-scale appropriation yet fail to justify capitalist accumulation. |
+| Hegelian personhood vs unlimited accumulation | ⚠️ Hegel explains why an external property sphere matters to free personality, but this does not justify every scale or social use of ownership. | ⚠️ Use this between Locke's initial title and Marx's structural-power critique. |
 
 ## 9. Application without current-affairs dependence
 
@@ -178,6 +184,8 @@ property without social control becomes power
 
 - ❌ Positive liberty = unlimited paternal state. -> ✅ Gauba ties it to removal of alterable social constraints, not unlimited tutelage (Gauba, PDF pp.379-381).
 - ❌ Equality = sameness. -> ✅ Gauba explicitly rejects literal equalization and allows differential treatment by need and socially useful excellence (Gauba, PDF pp.395-398).
+- ❌ Equality of outcome always means identical shares. -> ✅ Outcome-sensitive theories may defend thresholds, a social minimum or priority to the least advantaged while retaining space for choice and difference.
+- ❌ Affirmative action is neutrally described as reverse discrimination. -> ✅ The phrase states an objection; compensatory, anti-subordination, representational and fair-opportunity arguments require separate assessment.
 - ❌ Locke straightforwardly proves capitalism is just. -> ✅ Gauba presents Locke's labour argument, then shows how money and consent let inequality outrun the original intuition (Gauba, PDF pp.417-419).
 - ❌ Social democracy and Marxism say the same thing about property. -> ✅ One regulates and socializes selectively; the other targets bourgeois/private ownership of the means of production as such (Gauba, PDF pp.420-430).
 - ❌ Marxism abolishes personal belongings. -> ✅ Gauba says its distinction is precisely between personal property and private property in the exploitative sense (Gauba, PDF pp.429-430).

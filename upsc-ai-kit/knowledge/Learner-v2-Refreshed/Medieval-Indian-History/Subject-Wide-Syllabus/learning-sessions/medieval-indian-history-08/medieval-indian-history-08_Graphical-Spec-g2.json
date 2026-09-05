@@ -1,0 +1,1112 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-08",
+  "subject": "Medieval-Indian-History",
+  "title": "PROVINCIAL & REGIONAL KINGDOMS (BENGAL, GUJARAT, MALWA, JAUNPUR, KASHMIR) + BOUNDED AHOM/ASSAM PRELIMS EXTENSION",
+  "short_route": "REGIONALISATION CHRONOLOGY AND MAP → BENGAL DELTA AUTONOMY CIRCUIT → GUJARAT PORT-HINTERLAND STATE → MALWA STRATEGIC PLATEAU → JAUNPUR POWER AND CULTURAL → KASHMIR REIGN CONTRAST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-08\\medieval-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-07-08-2026-08-30-sequential.json",
+  "ascii_spec_sha256": "4c8493919f1d4d4907c60466eb071ef82c4ffbc40fde923be460a2add2dd838a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "REGIONALISATION CHRONOLOGY AND MAP",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REGIONALISATION CHRONOLOGY AND MAP",
+          "role": "primary"
+        },
+        {
+          "text": "1338-42 BENGAL BREAK AND ILYAS SHAHI CONSOLIDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "1398 TIMUR SHOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "DELHI CONTRACTION ACCELERATES",
+          "role": "evidence"
+        },
+        {
+          "text": "1407 GUJARAT FORMAL INDEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "1411-42 AHMAD SHAH CONSOLIDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "15TH C. MALWA, JAUNPUR, KASHMIR AND WESTERN-EASTERN BALANCES",
+          "role": "comparison"
+        },
+        {
+          "text": "1459-1511 MAHMUD BEGARHA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1338-42 Bengal break and Ilyas Shahi consolidation",
+        "1398 Timur shock → Delhi contraction accelerates",
+        "1407 Gujarat formal independence → 1411-42 Ahmad Shah consolidation",
+        "15th c. Malwa, Jaunpur, Kashmir and western-eastern balances",
+        "1459-1511 Mahmud Begarha → 1484 Bahlul annexes Jaunpur"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "1338-42 Bengal break and Ilyas Shahi consolidation",
+            "1398 Timur shock → Delhi contraction accelerates"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "1407 Gujarat formal independence → 1411-42 Ahmad Shah consolidation",
+            "15th c. Malwa, Jaunpur, Kashmir and western-eastern balances"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1459-1511 Mahmud Begarha → 1484 Bahlul annexes Jaunpur",
+            "RULE: regional states were active systems, not debris between empires."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: regional states were active systems, not debris between empires.",
+      "answer_line": "regional states were active systems, not debris between empires.",
+      "source_references": [
+        "Regionalisation",
+        "Chronology"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BENGAL DELTA AUTONOMY CIRCUIT",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BENGAL DELTA AUTONOMY CIRCUIT",
+          "role": "primary"
+        },
+        {
+          "text": "DISTANCE + RIVERS + HUMID CLIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "COSTLY EXTERNAL PROJECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL WATERWAYS",
+          "role": "evidence"
+        },
+        {
+          "text": "MOVEMENT OF GRAIN, PEOPLE AND CRAFT GOODS",
+          "role": "primary"
+        },
+        {
+          "text": "ILYAS SHAHI ORGANISATION + EKDALA",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFENSIVE AND DYNASTIC CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CHITTAGONG + TEXTILES + CHINA CONTACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTANCE + RIVERS + HUMID CLIMATE → costly external projection",
+        "INTERNAL WATERWAYS → movement of grain, people and craft goods",
+        "ILYAS SHAHI ORGANISATION + EKDALA → defensive and dynastic capacity",
+        "CHITTAGONG + TEXTILES + CHINA CONTACT → wider commercial connection",
+        "GAUR / PANDUA + BENGALI PATRONAGE → locally intelligible legitimacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DISTANCE + RIVERS + HUMID CLIMATE → costly external projection",
+            "INTERNAL WATERWAYS → movement of grain, people and craft goods"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ILYAS SHAHI ORGANISATION + EKDALA → defensive and dynastic capacity",
+            "CHITTAGONG + TEXTILES + CHINA CONTACT → wider commercial connection"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GAUR / PANDUA + BENGALI PATRONAGE → locally intelligible legitimacy",
+            "VERDICT: ecology created possibilities; institutions converted them into autonomy."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: ecology created possibilities; institutions converted them into autonomy.",
+      "answer_line": "ecology created possibilities; institutions converted them into autonomy.",
+      "source_references": [
+        "Bengal",
+        "Delta ecology",
+        "Ilyas Shah"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GUJARAT PORT-HINTERLAND STATE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GUJARAT PORT-HINTERLAND STATE",
+          "role": "institution"
+        },
+        {
+          "text": "FERTILE INTERIOR + HANDICRAFT PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "AHMEDABAD MARKETS, ADMINISTRATION AND BUILDING PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "CAMBAY AND WEST-COAST PORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE + MERCHANT NETWORKS + MILITARY RESOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "PORTS WERE NODES IN A TERRITORIAL SYSTEM, NOT AUTOMATIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FERTILE INTERIOR + HANDICRAFT PRODUCTION",
+        "AHMEDABAD markets, administration and building patronage",
+        "ROADS / CARAVANS / CAMBAY and west-coast ports",
+        "REVENUE + MERCHANT NETWORKS + MILITARY RESOURCES",
+        "CAUTION: ports were nodes in a territorial system, not automatic wealth machines."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "FERTILE INTERIOR + HANDICRAFT PRODUCTION",
+            "AHMEDABAD markets, administration and building patronage"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ROADS / CARAVANS / CAMBAY and west-coast ports",
+            "REVENUE + MERCHANT NETWORKS + MILITARY RESOURCES"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION: ports were nodes in a territorial system, not automatic wealth machines.",
+            "FERTILE INTERIOR + HANDICRAFT PRODUCTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: ports were nodes in a territorial system, not automatic wealth machines.",
+      "source_references": [
+        "Gujarat",
+        "Ahmedabad",
+        "Ports",
+        "Mahmud Begarha"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MALWA STRATEGIC PLATEAU",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MALWA STRATEGIC PLATEAU",
+          "role": "primary"
+        },
+        {
+          "text": "MEWAR FORTS AND CORRIDORS",
+          "role": "outcome"
+        },
+        {
+          "text": "GUJARAT <---- MALWA",
+          "role": "comparison"
+        },
+        {
+          "text": "MANDU ---→ GANGA ROUTES",
+          "role": "evidence"
+        },
+        {
+          "text": "DECCAN LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "DEFENSIBLE PLATEAU CAPITAL, COURT AND MONUMENTAL PATRONAGE",
+          "role": "institution"
+        },
+        {
+          "text": "RIVALRY, ALLIANCES AND BORDER-STATE INTERVENTION",
+          "role": "institution"
+        },
+        {
+          "text": "EXPLAIN STRATEGIC GEOGRAPHY WITHOUT REDUCING EVENTS TO RELIGION ALONE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEWAR forts and corridors",
+        "GUJARAT <---- MALWA / MANDU ---→ GANGA ROUTES",
+        "Deccan links",
+        "MANDU → defensible plateau capital, court and monumental patronage",
+        "POLITICS → rivalry, alliances and border-state intervention"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MEWAR forts and corridors",
+            "GUJARAT <---- MALWA / MANDU ---→ GANGA ROUTES"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Deccan links",
+            "MANDU → defensible plateau capital, court and monumental patronage"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "POLITICS → rivalry, alliances and border-state intervention",
+            "RULE: explain strategic geography without reducing events to religion alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: explain strategic geography without reducing events to religion alone.",
+      "answer_line": "explain strategic geography without reducing events to religion alone.",
+      "source_references": [
+        "Malwa",
+        "Mandu",
+        "Mewar",
+        "Gujarat"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "JAUNPUR POWER AND CULTURAL CAPITAL",
+      "structural_type": "layered-governance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "JAUNPUR POWER AND CULTURAL CAPITAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "GANGA-VALLEY LOCATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARQI COURT + REVENUE TERRITORY + MILITARY COMPETITION WITH",
+          "role": "institution"
+        },
+        {
+          "text": "BAHLUL LODI ANNEXES JAUNPUR, BUT REGIONAL MEMORY SURVIVES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GANGA-VALLEY LOCATION",
+        "SHARQI COURT + revenue territory + military competition with Delhi learning, Persian culture and",
+        "'Shiraz of the East' reputation lofty gates, arches and an identifiable architectural idiom",
+        "1484 → Bahlul Lodi annexes Jaunpur, but regional memory survives."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GANGA-VALLEY LOCATION",
+            "SHARQI COURT + revenue territory + military competition with Delhi learning, Persian culture and"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "'Shiraz of the East' reputation lofty gates, arches and an identifiable architectural idiom",
+            "1484 → Bahlul Lodi annexes Jaunpur, but regional memory survives."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GANGA-VALLEY LOCATION",
+            "SHARQI COURT + revenue territory + military competition with Delhi learning, Persian culture and"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1484 → Bahlul Lodi annexes Jaunpur, but regional memory survives.",
+      "source_references": [
+        "Jaunpur",
+        "Sharqis",
+        "Cultural legitimacy"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KASHMIR REIGN CONTRAST",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KASHMIR REIGN CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "SIKANDAR SHAH ZAINUL ABIDIN",
+          "role": "outcome"
+        },
+        {
+          "text": "BUD SHAH COERCIVE RELIGIOUS MEASURES REVERSAL AND RECONCILIATION TEMPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT PROJECT EITHER REIGN ACROSS ALL KASHMIR OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SIKANDAR SHAH ZAINUL ABIDIN / BUD SHAH coercive religious measures reversal and reconciliation temple and",
+        "restorations and return of groups sharper exclusion Hindu officers and translation patronage crafts, agriculture and",
+        "RULE: do not project either reign across all Kashmir or all medieval India."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "SIKANDAR SHAH ZAINUL ABIDIN / BUD SHAH coercive religious measures reversal and reconciliation temple and grant disruption",
+          "RULE: do not project either reign across all Kashmir or all medieval India.",
+          "restorations and return of groups sharper exclusion Hindu officers and translation patronage crafts, agriculture and learning"
+        ],
+        [
+          "restorations and return of groups sharper exclusion Hindu officers and translation patronage crafts, agriculture and learning",
+          "SIKANDAR SHAH ZAINUL ABIDIN / BUD SHAH coercive religious measures reversal and reconciliation temple and grant disruption",
+          "RULE: do not project either reign across all Kashmir or all medieval India."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SIKANDAR SHAH ZAINUL ABIDIN / BUD SHAH coercive religious measures reversal and reconciliation temple and grant disruption",
+            "restorations and return of groups sharper exclusion Hindu officers and translation patronage crafts, agriculture and learning"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RULE: do not project either reign across all Kashmir or all medieval India.",
+            "SIKANDAR SHAH ZAINUL ABIDIN / BUD SHAH coercive religious measures reversal and reconciliation temple and grant disruption"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "restorations and return of groups sharper exclusion Hindu officers and translation patronage crafts, agriculture and learning",
+            "RULE: do not project either reign across all Kashmir or all medieval India."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: do not project either reign across all Kashmir or all medieval India.",
+      "answer_line": "do not project either reign across all Kashmir or all medieval India.",
+      "source_references": [
+        "Kashmir",
+        "Sikandar Shah",
+        "Zainul Abidin"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FIVE REGIONAL CAPACITY MODELS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIVE REGIONAL CAPACITY MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "DELTA MOBILITY, AGRARIAN BASE, PORTS AND LANGUAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "PORT-HINTERLAND TRADE, CRAFTS, ROUTES AND URBAN CAPITAL",
+          "role": "comparison"
+        },
+        {
+          "text": "PLATEAU POSITION, MANDU AND WESTERN-DECCAN CORRIDORS",
+          "role": "evidence"
+        },
+        {
+          "text": "GANGA-VALLEY TERRITORY, LEARNED COURT AND LODI RIVALRY",
+          "role": "institution"
+        },
+        {
+          "text": "VALLEY ECOLOGY, RECONCILIATION AND CRAFT-CULTURAL RECONSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMON TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "RESOURCES + COALITION + INSTITUTIONS + LEGITIMACY + LIMITS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BENGAL → delta mobility, agrarian base, ports and language",
+        "GUJARAT → port-hinterland trade, crafts, routes and urban capital",
+        "MALWA → plateau position, Mandu and western-Deccan corridors",
+        "JAUNPUR → Ganga-valley territory, learned court and Lodi rivalry",
+        "KASHMIR → valley ecology, reconciliation and craft-cultural reconstruction"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "BENGAL → delta mobility, agrarian base, ports and language",
+          "MALWA → plateau position, Mandu and western-Deccan corridors",
+          "KASHMIR → valley ecology, reconciliation and craft-cultural reconstruction"
+        ],
+        [
+          "GUJARAT → port-hinterland trade, crafts, routes and urban capital",
+          "JAUNPUR → Ganga-valley territory, learned court and Lodi rivalry",
+          "COMMON TEST: resources + coalition + institutions + legitimacy + limits."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BENGAL → delta mobility, agrarian base, ports and language",
+            "GUJARAT → port-hinterland trade, crafts, routes and urban capital"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MALWA → plateau position, Mandu and western-Deccan corridors",
+            "JAUNPUR → Ganga-valley territory, learned court and Lodi rivalry"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "KASHMIR → valley ecology, reconciliation and craft-cultural reconstruction",
+            "COMMON TEST: resources + coalition + institutions + legitimacy + limits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON TEST: resources + coalition + institutions + legitimacy + limits.",
+      "source_references": [
+        "Comparative political economy",
+        "State capacity"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FIFTEENTH-CENTURY BALANCE OF POWER",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FIFTEENTH-CENTURY BALANCE OF POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "GUJARAT <→ MALWA <→ MEWAR",
+          "role": "outcome"
+        },
+        {
+          "text": "BENGAL <→ ORISSA",
+          "role": "comparison"
+        },
+        {
+          "text": "UPPER GANGA",
+          "role": "evidence"
+        },
+        {
+          "text": "JAUNPUR <→ LODI DELHI",
+          "role": "primary"
+        },
+        {
+          "text": "KASHMIR FOLLOWS A DISTINCT VALLEY TRAJECTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "WARS + EXILES + MARRIAGES + CORRIDORS + COMMERCIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "BALANCE DESCRIBES RECURRING CHECKS, NOT FIXED MODERN BORDERS OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WEST: GUJARAT <→ MALWA <→ MEWAR",
+        "EAST: BENGAL <→ ORISSA / JAUNPUR",
+        "UPPER GANGA: JAUNPUR <→ LODI DELHI",
+        "NORTH-WEST: KASHMIR follows a distinct valley trajectory",
+        "LINKS: wars + exiles + marriages + corridors + commercial competition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "WEST: GUJARAT <→ MALWA <→ MEWAR",
+            "EAST: BENGAL <→ ORISSA / JAUNPUR"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "UPPER GANGA: JAUNPUR <→ LODI DELHI",
+            "NORTH-WEST: KASHMIR follows a distinct valley trajectory"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LINKS: wars + exiles + marriages + corridors + commercial competition",
+            "CAUTION: balance describes recurring checks, not fixed modern borders or a treaty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: balance describes recurring checks, not fixed modern borders or a treaty.",
+      "source_references": [
+        "Balance of power",
+        "Inter-state relations"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ARCHITECTURE AND LANGUAGE AS EVIDENCE",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARCHITECTURE AND LANGUAGE AS EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "BRICK, CURVED ROOFS, GAUR-PANDUA AND BENGALI PATRONAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "FINE STONE, BRACKETS, TURRETS, AHMEDABAD AND CHAMPANER",
+          "role": "comparison"
+        },
+        {
+          "text": "MANDU SCALE, HIGH PLINTHS, PALACES AND GLAZED DECORATION",
+          "role": "evidence"
+        },
+        {
+          "text": "MONUMENTAL GATEWAYS, ARCHES AND LEARNED PRESTIGE",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSLATION, CRAFTS AND COURTLY RECONCILIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERIAL PATRONAGE SHOWS CLAIMS AND LABOUR, NOT EQUALITY FOR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BENGAL → brick, curved roofs, Gaur-Pandua and Bengali patronage",
+        "GUJARAT → fine stone, brackets, turrets, Ahmedabad and Champaner",
+        "MALWA → Mandu scale, high plinths, palaces and glazed decoration",
+        "JAUNPUR → monumental gateways, arches and learned prestige",
+        "KASHMIR → translation, crafts and courtly reconciliation"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "BENGAL → brick, curved roofs, Gaur-Pandua and Bengali patronage",
+          "MALWA → Mandu scale, high plinths, palaces and glazed decoration",
+          "KASHMIR → translation, crafts and courtly reconciliation"
+        ],
+        [
+          "GUJARAT → fine stone, brackets, turrets, Ahmedabad and Champaner",
+          "JAUNPUR → monumental gateways, arches and learned prestige",
+          "RULE: material patronage shows claims and labour, not equality for every subject."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "BENGAL → brick, curved roofs, Gaur-Pandua and Bengali patronage",
+            "GUJARAT → fine stone, brackets, turrets, Ahmedabad and Champaner"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "MALWA → Mandu scale, high plinths, palaces and glazed decoration",
+            "JAUNPUR → monumental gateways, arches and learned prestige"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "KASHMIR → translation, crafts and courtly reconciliation",
+            "RULE: material patronage shows claims and labour, not equality for every subject."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: material patronage shows claims and labour, not equality for every subject.",
+      "answer_line": "material patronage shows claims and labour, not equality for every subject.",
+      "source_references": [
+        "Regional culture",
+        "Architecture",
+        "Language"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BOUNDED AHOM POLITICAL EXTENSION",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BOUNDED AHOM POLITICAL EXTENSION",
+          "role": "primary"
+        },
+        {
+          "text": "13TH C. TAI-AHOM MIGRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CHARAIDEO FIRST CAPITAL AND ROYAL MEMORY",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAHMAPUTRA ECOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "WET-RICE EXPANSION, MOBILITY AND FRONTIER ADAPTATION",
+          "role": "primary"
+        },
+        {
+          "text": "PAIK ROTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOUSEHOLD-LINKED LABOUR AND MILITARY MOBILISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANISE SERVICE AND PRODUCTIVE CAPACITY OVER TIME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "13th c. Tai-Ahom migration → Charaideo first capital and royal memory",
+        "BRAHMAPUTRA ECOLOGY → wet-rice expansion, mobility and frontier adaptation",
+        "PAIK ROTATION → household-linked labour and military mobilisation",
+        "OFFICIALS / KHELS → organise service and productive capacity over time",
+        "BOUNDARY → comparison beyond Delhi, not a substitute for the five core kingdoms"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "13th c. Tai-Ahom migration → Charaideo first capital and royal memory",
+            "BRAHMAPUTRA ECOLOGY → wet-rice expansion, mobility and frontier adaptation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PAIK ROTATION → household-linked labour and military mobilisation",
+            "OFFICIALS / KHELS → organise service and productive capacity over time"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BOUNDARY → comparison beyond Delhi, not a substitute for the five core kingdoms",
+            "CAUTION: avoid equating rotational obligation with one timeless labour category."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: avoid equating rotational obligation with one timeless labour category.",
+      "source_references": [
+        "Ahom",
+        "Paik",
+        "Political ecology"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BURANJI AND MOIDAM EVIDENCE LADDER",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BURANJI AND MOIDAM EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "CHRONOLOGY AND INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL VIEWPOINT AND SILENCES",
+          "role": "comparison"
+        },
+        {
+          "text": "ROYAL MEMORY AND LABOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNERARY EVIDENCE, NOT A FISCAL LEDGER",
+          "role": "caution"
+        },
+        {
+          "text": "90 MOIDAMS AND 13TH-19TH C. TRADITION",
+          "role": "outcome"
+        },
+        {
+          "text": "HERITAGE SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "HILLS, WATER AND SACRED SETTING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BURANJIS → chronology and institutions",
+        "royal viewpoint and silences",
+        "MOIDAMS → royal memory and labour",
+        "funerary evidence, not a fiscal ledger",
+        "UNESCO → 90 moidams and 13th-19th c. tradition"
+      ],
+      "matrix": [
+        [
+          "BURANJIS → chronology and institutions",
+          "royal viewpoint and silences"
+        ],
+        [
+          "MOIDAMS → royal memory and labour",
+          "funerary evidence, not a fiscal ledger"
+        ],
+        [
+          "UNESCO → 90 moidams and 13th-19th c. tradition",
+          "heritage synthesis"
+        ],
+        [
+          "LANDSCAPE → hills, water and sacred setting",
+          "needs archaeological context"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "BURANJIS → chronology and institutions",
+            "royal viewpoint and silences",
+            "MOIDAMS → royal memory and labour",
+            "funerary evidence, not a fiscal ledger"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "UNESCO → 90 moidams and 13th-19th c. tradition",
+            "heritage synthesis",
+            "LANDSCAPE → hills, water and sacred setting",
+            "needs archaeological context"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "BEST USE → triangulate chronicle, material site and institutional comparison",
+            "ROUTE OUT → detailed cosmology, form and conservation to Art & Culture."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNESCO → 90 moidams and 13th-19th c. tradition | heritage synthesis.",
+      "source_references": [
+        "Buranjis",
+        "Moidams",
+        "UNESCO",
+        "Source criticism"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 08 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 08 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DELHI CONTRACTION REDISTRIBUTED SOVEREIGNTY; IT DID NOT ERASE STATES",
+          "role": "caution"
+        },
+        {
+          "text": "DELTA, COAST, PLATEAU, GANGA PLAIN, VALLEY AND BRAHMAPUTRA",
+          "role": "comparison"
+        },
+        {
+          "text": "RESOURCES + ROUTES + ELITES + REVENUE + COURT",
+          "role": "institution"
+        },
+        {
+          "text": "BENGAL, GUJARAT, MALWA, JAUNPUR AND KASHMIR WITHOUT FLATTENING",
+          "role": "primary"
+        },
+        {
+          "text": "PAIK, BURANJIS AND CHARAIDEO WITHIN A STRICT AHOM BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "PLURAL REGIONAL CAPACITY SHAPED THE SETTING INHERITED BY LATER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → Delhi contraction redistributed sovereignty; it did not erase states",
+        "MAP → delta, coast, plateau, Ganga plain, valley and Brahmaputra",
+        "MECHANISM → resources + routes + elites + revenue + court legitimacy",
+        "COMPARE → Bengal, Gujarat, Malwa, Jaunpur and Kashmir without flattening",
+        "EXTEND → Paik, Buranjis and Charaideo within a strict Ahom boundary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → Delhi contraction redistributed sovereignty; it did not erase states",
+            "MAP → delta, coast, plateau, Ganga plain, valley and Brahmaputra"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MECHANISM → resources + routes + elites + revenue + court legitimacy",
+            "COMPARE → Bengal, Gujarat, Malwa, Jaunpur and Kashmir without flattening"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EXTEND → Paik, Buranjis and Charaideo within a strict Ahom boundary",
+            "CLOSE → plural regional capacity shaped the setting inherited by later empires."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → plural regional capacity shaped the setting inherited by later empires.",
+      "source_references": [
+        "Answer architecture",
+        "Regional state system",
+        "Ahom boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PROVINCIAL & REGIONAL KINGDOMS (BENGAL, GUJARAT, MALWA, JAUNPUR, KASHMIR)",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ PYQ-gap: Regional culture",
+            "Gujarat and Malwa were coveted because they linked fertile interiors, transit routes and overseas trade",
+            "control over them mattered to any imperial power in north or south India."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

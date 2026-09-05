@@ -23,7 +23,7 @@ protection, administration of justice.
 > **P**resident's Rule.
 
 ## Administrative relations
-✅ **Art 365:** state ignoring Centre's directions → can trigger **President's Rule (Art 356)**.
+✅ **Art 365:** failure to comply with Union directions may support a presidential conclusion under Article 356; it does **not** trigger President's Rule automatically. Articles 355–357 separately govern Union duty, proclamation and exercise of State legislative power, while Article 360 permits financial-emergency directions and reservation of State Money Bills.
 ✅ **All-India Services (Art 312):** IAS, IPS, **Indian Forest Service (IFoS,
 1966)** — not the Indian Foreign Service; a new AIS needs a Rajya Sabha resolution.
 ✅ **Art 355:** Centre must protect states from external aggression/internal disturbance.
@@ -38,7 +38,7 @@ FC-based) + discretionary (Art 282).
 > GST) · **270 (shared via Finance Commission)** · 271 (surcharge, Centre only).
 
 ## Inter-State relations
-✅ **Water disputes (Art 262):** tribunals; SC can be **barred**; **9 tribunals** (e.g. **Cauvery 1990**).
+✅ **Water disputes (Art 262):** Parliament may provide tribunal adjudication and exclude ordinary court jurisdiction over the defined dispute. The 2019 Amendment Bill lapsed with the Seventeenth Lok Sabha; a revised proposal is **not current law**. Cauvery implementation now also operates through the 2018 statutory scheme and management institutions.
 ✅ **Inter-State Council (Art 263):** set up **1990** (Sarkaria Commission), **chaired by PM**, advisory.
 ✅ **Art 301:** trade & commerce "**shall be free**." ✅ **Zonal Councils:** **statutory (SRA 1956)**, 5
 zones, chaired by **Union Home Minister**; **NEC = 1971 Act**.
@@ -55,7 +55,7 @@ zones, chaired by **Union Home Minister**; **NEC = 1971 Act**.
 recommendations cover **2026-31** and took effect from **1 Apr 2026**. The government retained
 vertical devolution at **41%** and accepted a horizontal formula including **Contribution to GDP
 (10%)**. *(Official status checked 21 Jul 2026: Sixteenth Finance Commission report and Union
-Government action-taken material.)* 📰 ✅ **GST Council** recommendations are persuasive, not binding
+Government action-taken material.)* 📰 ✅ **GST Council** recommendations are recommendatory, not binding
 (*Union of India v. Mohit Minerals*, 2022). Governor-assent doctrine is stated in the Governor file
 using the Supreme Court's 2025 judgment and later Article 143 opinion.
 
@@ -65,7 +65,9 @@ using the Supreme Court's 2025 judgment and later Article 143 opinion.
 
 ## 8. Answer architecture (10/15/20-mark support)
 
-> Purpose: make this Core file independently able to answer the four routed GS-II demands and unfamiliar federalism questions across the legislative, administrative, financial and inter-State dimensions — without opening Advanced.
+> Purpose: make this Core file independently able to answer every directly relevant routed GS-II
+> demand and unfamiliar questions across the legislative, administrative, financial and
+> inter-State dimensions — without opening Advanced.
 
 ### 8.0 Direct Mains demands owned by this Core file
 
@@ -81,6 +83,22 @@ using the Supreme Court's 2025 judgment and later Article 143 opinion.
 - **2025 · GS-II · Q14** — Demand (neutral rendering): *the evolving pattern of Centre–State financial relations and fiscal federalism.* Directive: **Examine** · **15 marks · 250 words**.
   - **Core routing supersedes the older `advanced/13_Centre-State-and-Inter-State-Relations.md` pointer for this demand.**
   - **Executable route:** (1) **Thesis** — fiscal federalism has moved from discretionary plan-based transfers to a rules-based Finance Commission/GST architecture, but vertical imbalance and the cess/surcharge leakage persist. (2) **Evolution** — discretionary grants (Art 282) and the Planning Commission/NDC era → **14th FC** raising devolution to **42%** → 15th FC → **16th FC (Panagariya, 41% retained, effective 1 Apr 2026)**; GST (101st Amendment) pooling State taxes; NITI Aayog replacing the Planning Commission (2015). (3) **Instruments** — Art 268–271 distribution, **Art 275** statutory grants, **Art 282** discretionary grants, **Art 280** Finance Commission, **Art 293** borrowing, **Art 279A** GST Council. (4) **Live grievances** — cesses/surcharges (Art 271) outside the divisible pool, the horizontal-formula debate, ending GST compensation, conditional CSS. (5) **Verdict** — reforms have strengthened rules-based sharing, but genuine fiscal federalism needs shrinking cesses, a fair horizontal formula and honoured GST commitments.
+
+### 8.0A PYQ-triggered Core bridges
+
+- **2021 · GS-II · Q11 — CBI consent and federal character:** Police is a State field; Section 6
+  of the DSPE Act requires State consent, but Articles 32/226 permit constitutional courts to order
+  CBI investigation. Withdrawal of general consent does not erase every validly commenced case.
+- **2022 · GS-II · Q13 — national parties and regional autonomy:** Treat the proposition as an
+  incentive, not an absolute. National reach may favour uniformity; territorially concentrated
+  mandates may favour autonomy, but parties change position with office. Conclude with ISC,
+  Rajya Sabha, Finance Commission and GST bargaining safeguards.
+- **2023 · GS-II · Q13 — reduced Article 356 use:** Combine *S.R. Bommai* review/floor-test
+  discipline with coalition and regional-party bargaining. Reduced use did not remove conflict;
+  it shifted disputes toward Governors, finance, assent and agencies.
+- **2023 · GS-II · Q15 — 101st Amendment and accommodative federalism:** Map Articles 246A,
+  269A and 279A, weighted voting and consensus, then qualify with reduced independent State rate
+  space and *Mohit Minerals*' rule that Council recommendations are recommendatory.
 
 ### 8.1 Demand and directive map
 

@@ -4,6 +4,25 @@
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
 > **Placement:** The clause requires phenomenology, epistemic status, object, and Indian–Western comparison. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
 
+## Exact printed ownership and cross-topic firewall
+
+The printed clause owns the **nature, varieties, claimed object, interpretation
+and epistemic force of religious experience in Indian and Western thought**.
+
+| Owned here | Boundary |
+|---|---|
+| phenomenology and typology of mystical, numinous, conversion, devotional and revelatory experience | faith's reception of revelation remains with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
+| experience as defeasible evidence and testimony | full existence-proofs remain with [Proofs for God](./Proofs-for-God.md) |
+| conflicting experience-reports as an epistemic defeater | full pluralist theories and absolute-truth debate remain with [Religious Pluralism](./Religious-Pluralism.md) |
+| ineffability only as a feature and communication problem | semantic theories of religious language remain with [Religious Language](./Religious-Language.md) |
+| Indian yogic, devotional, Buddhist and Vedāntic comparisons | complete school doctrines remain with Paper I canonical owners |
+| prayer and worship because of the direct 2020 PYQ | wider faith, ritual and non-theistic religion questions retain their own owners |
+
+⚠️ “Subjective” means first-personal, not unreal. Ineffability means that an
+experience resists adequate expression, not that it has literally no
+phenomenology or reportable content. A neural correlate may explain mediation
+without by itself proving either veridicality or illusion.
+
 ---
 
 ## 0. ONE-SCREEN MAP ⚠️
@@ -27,6 +46,26 @@
    generic OBJECT-category: the SACRED / HOLY (Durkheim, Otto, Eliade) — §9.6
 ```
 > 🔑 **Mnemonic — James's marks are two-plus-two, not four.** ***I-N*** = **I**neffable + **N**oetic are the **defining** marks ("entitle any state to be called mystical"); ***T-P*** = **T**ransient + **P**assive are the **usual** accompaniments, "less sharply marked". Writing all four as equal is the standard error. Otto's object = the **numinous** (tremendum + fascinans). Indian object = **Brahman** (non-dual).
+
+## 0A. FOUR ANALYTICAL LAYERS AND EXPERIENCE VARIETIES ⚠️
+
+```text
+PHENOMENOLOGY -> CLAIMED OBJECT -> INTERPRETATION -> EPISTEMIC FORCE
+what it is like   what seems given   how a tradition names it   what it justifies
+```
+
+| Variety | Characteristic structure | Typical attribution |
+|---|---|---|
+| Mystical/unitive | unity, non-duality or communion; often ineffable and noetic | James, Stace, Advaita, theistic mysticism |
+| Numinous | awe before overwhelming and attracting holiness | Otto's *mysterium tremendum et fascinans* |
+| Conversion | reorganisation of a divided self, orientation and conduct | James; assessed through enduring fruits |
+| Revelatory | an event or presence received as disclosure | Hick's non-propositional/experiencing-as model |
+| Devotional | prayerful address, surrender, love or worship | theistic traditions and devotional (*bhakti*) paths |
+| Yogic/meditative | disciplined concentration or insight with stated stages | Yoga, Buddhist meditation and Vedāntic contemplation |
+
+⚠️ Psychological genuineness, doctrinal authenticity and metaphysical
+veridicality are three different achievements. An experience may be sincere and
+tradition-conformable without its claimed object being publicly established.
 
 ---
 
@@ -55,15 +94,39 @@
   - Not a *relation* to an object but **identity** — distinguishing it from theistic (dualistic) mysticism.
 - **Radhakrishnan (2025 PYQ — *The Hindu View of Life*):** religion is grounded in **direct, intuitive spiritual experience** of the Real (*anubhava*), which is **self-certifying** and universal across traditions; dogma/ritual are secondary interpretations of this core experience. Religious experience is **integral intuition** — a knowing that unites, higher than sense & reason. ✅
 
+### 2.1 Indian experience-types — bounded comparative bridge
+
+| Tradition | Experience-structure | Claimed object/terminus | Control |
+|---|---|---|---|
+| Advaita | non-dual recognition through hearing, reflection and contemplation | self as Brahman | not an encounter between two independently existing terms |
+| Yoga | disciplined concentration culminating in seedless absorption and discriminative freedom | isolated consciousness (*puruṣa*) | Yoga's special Lord is not the creator-object of every experience |
+| Devotional traditions | love, surrender, remembrance, prayer and worship | personal Lord | relation and grace remain real; do not redescribe as Advaitic identity |
+| Buddhism | meditative insight into impermanence, no-permanent-self and conditioned arising | Dharma/cessation (*nirvāṇa*), not a creator God | noetic and transformative claims remain tradition-mediated |
+
+The table is a bridge only; meditation stages and liberation doctrines remain
+with the relevant Paper I owners.
+
 ---
 
 ## 3. OBJECT & the question of VERIDICALITY ⚠️
-- **The object:** theistic traditions → a **personal God**; Advaita → **Brahman/ātman (non-dual)**; Otto → the **numinous/Holy**; Buddhism → nirvāṇa (no personal deity).
+- **The object:** theistic traditions → a **personal God**; Advaita → **Brahman/ātman (non-dual)**; Otto → the **numinous/Holy**; Buddhism → insight oriented to Dharma and cessation (*nirvāṇa*), not encounter with a personal creator.
 - **Is religious experience veridical (of a real object) or merely subjective/psychological?** ⚠️
   - *For veridicality:* **Principle of Credulity** (Swinburne) — if it seems to one that X is present, probably X is, absent defeaters; the noetic quality; convergence of mystics.
-  - *Against:* **naturalistic explanations** (Freud — projection/wish-fulfilment; Marx — opium; neuroscience); **diversity** of experiences across religions (which object is real?).
+  - *Against:* **naturalistic explanations** (Freud — projection/wish-fulfilment; social/psychological formation; neural mediation); **diversity** of experiences across religions (which object is real?). A causal or neural correlation is not automatically an epistemic defeat: the critic must show that the mechanism is unreliable or fully explains the seeming without the proposed object.
   - **Hick's pluralist reply:** the various experiences are culturally-shaped responses to one ultimate **"Real"** ("the Real an sich" experienced through different lenses). ✅
 - **Mystical experience & revelation (2023 PYQ):** mystical experience can be a **vehicle of revelation** (God/the Real disclosed experientially) — non-propositional revelation; the two are intimately linked. ⚠️
+
+### Interpretation and mediation dispute
+
+| Position | Claim | Pressure |
+|---|---|---|
+| Perennial/common-core | different traditions interpret a substantially shared experiential core | subtracting “interpretation” may manufacture an abstract sameness |
+| Constructivism | concepts, expectations and practices shape the experience itself | contentless or minimally conceptual states pressure the universal claim |
+| Proudfoot-style attribution | an experience is religious partly because the subject explains it through a religious scheme | explaining classification may not exhaust phenomenology or object |
+| Hick's plural mediation | diverse traditions are culturally conditioned responses to one Real | an unknowable Real may be too indeterminate to support specific claims |
+
+The strongest conclusion separates **occurrence**, **interpretation** and
+**veridicality** rather than inferring any one directly from another.
 
 ---
 
@@ -487,3 +550,13 @@ graded verdict separating personal justification from public proof.
 - Émile Durkheim, *The Elementary Forms of Religious Life*; Mircea Eliade, *The Sacred and the Profane*.
 - S. Radhakrishnan, *The Hindu View of Life* and *Indian Philosophy*, Vol. II.
 - John Hick, *Philosophy of Religion*; William J. Wainwright (ed.), *The Oxford Handbook of Philosophy of Religion*.
+- Local searchable *Oxford Handbook of Philosophy of Religion*, especially
+  “Mysticism and Religious Experience,” print pp. 138–167
+  (PDF pp. 150–179), for definition, phenomenology, ineffability and
+  epistemic models.
+- Local searchable Radhakrishnan, *Indian Philosophy*, Vol. II, especially
+  PDF pp. 370–445 for yogic, Vedāntic and intuitive-experience comparisons;
+  the named 2025 work remains *The Hindu View of Life*.
+- Local searchable John Hick is used only for bounded revelation,
+  interpretation and pluralist links where its text is available; no
+  neuroscience report or brain-region claim is used as proof.

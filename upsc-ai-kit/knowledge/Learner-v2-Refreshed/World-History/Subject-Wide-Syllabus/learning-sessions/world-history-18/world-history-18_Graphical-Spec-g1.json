@@ -1,0 +1,1020 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "world-history-18",
+  "subject": "World-History",
+  "title": "DECOLONIZATION OF AFRICA AND ASIA",
+  "short_route": "WHY EMPIRE ENDED → ROUTE COMPARISON → MALAYA'S DISTINCT PROBLEM → MALAYAN EMERGENCY MECHANISM → MALAYSIA BOUNDARY SEQUENCE → INHERITED CONSTRAINT SYSTEM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\World-History\\Subject-Wide-Syllabus\\learning-sessions\\world-history-18\\world-history-18_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\world-history-18-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "509e014d7631a6c8169516b6699753c212bc286681307c1494d1d3401cc62c19",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHY EMPIRE ENDED",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY EMPIRE ENDED",
+          "role": "primary"
+        },
+        {
+          "text": "EUROPEAN EXHAUSTION",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRESSION SUPPLY FALLS",
+          "role": "comparison"
+        },
+        {
+          "text": "COST OF RULE RISES",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGITIMACY FALLS",
+          "role": "primary"
+        },
+        {
+          "text": "HOLDING EMPIRE COSTS MORE THAN LEAVING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "EUROPEAN EXHAUSTION → repression supply falls",
+        "NATIONALISM → cost of rule rises",
+        "SELF-DETERMINATION → legitimacy falls",
+        "DECISION → holding empire costs more than leaving"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EUROPEAN EXHAUSTION → repression supply falls",
+            "NATIONALISM → cost of rule rises"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SELF-DETERMINATION → legitimacy falls",
+            "DECISION → holding empire costs more than leaving"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EUROPEAN EXHAUSTION → repression supply falls",
+            "NATIONALISM → cost of rule rises"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DECISION → holding empire costs more than leaving.",
+      "source_references": [
+        "Why empire became unsustainable"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ROUTE COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROUTE COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL TRANSFER, FEW SETTLERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SETTLER-COLONIAL WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "HURRIED EXIT INTO STATE CRISIS",
+          "role": "institution"
+        },
+        {
+          "text": "PORTUGUESE AFRICA",
+          "role": "primary"
+        },
+        {
+          "text": "LATE METROPOLITAN COLLAPSE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "GHANA → constitutional transfer, few settlers",
+        "ALGERIA → settler-colonial war",
+        "CONGO → hurried exit into state crisis",
+        "PORTUGUESE AFRICA → late metropolitan collapse"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GHANA → constitutional transfer, few settlers",
+          "CONGO → hurried exit into state crisis",
+          "GHANA → constitutional transfer, few settlers"
+        ],
+        [
+          "ALGERIA → settler-colonial war",
+          "PORTUGUESE AFRICA → late metropolitan collapse",
+          "ALGERIA → settler-colonial war"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GHANA → constitutional transfer, few settlers",
+            "ALGERIA → settler-colonial war"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONGO → hurried exit into state crisis",
+            "PORTUGUESE AFRICA → late metropolitan collapse"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GHANA → constitutional transfer, few settlers",
+            "ALGERIA → settler-colonial war"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONGO → hurried exit into state crisis; PORTUGUESE AFRICA → late metropolitan collapse.",
+      "source_references": [
+        "Ghana's constitutional route",
+        "Algeria and the settler variable",
+        "Congo and hurried transfer",
+        "Portuguese Africa's late collapse"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MALAYA'S DISTINCT PROBLEM",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MALAYA'S DISTINCT PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "NINE SULTANATES",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL RULERS REMAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "BRITISH SETTLEMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE COLONY IN 1948",
+          "role": "primary"
+        },
+        {
+          "text": "PLURAL SOCIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "FRANCHISE DETERMINES SUCCESSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NINE SULTANATES → local rulers remain",
+        "MALACCA/PENANG → British settlements",
+        "SINGAPORE → separate colony in 1948",
+        "PLURAL SOCIETY → franchise determines succession"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NINE SULTANATES → local rulers remain",
+            "MALACCA/PENANG → British settlements"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SINGAPORE → separate colony in 1948",
+            "PLURAL SOCIETY → franchise determines succession"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NINE SULTANATES → local rulers remain",
+            "MALACCA/PENANG → British settlements"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SINGAPORE → separate colony in 1948; PLURAL SOCIETY → franchise determines succession.",
+      "source_references": [
+        "Malaya's plural constitutional problem"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MALAYAN EMERGENCY MECHANISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MALAYAN EMERGENCY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMUNIST INSURGENCY AND EMERGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "GUERRILLA SUPPORT CONSTRAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENCE PROMISE",
+          "role": "evidence"
+        },
+        {
+          "text": "MALAY SUPPORT RETAINED",
+          "role": "primary"
+        },
+        {
+          "text": "ALLIANCE VICTORY THEN INDEPENDENCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1948 → communist insurgency and emergency",
+        "RESETTLEMENT → guerrilla support constrained",
+        "INDEPENDENCE PROMISE → Malay support retained",
+        "1955/1957 → Alliance victory then independence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1948 → communist insurgency and emergency",
+            "RESETTLEMENT → guerrilla support constrained"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDEPENDENCE PROMISE → Malay support retained",
+            "1955/1957 → Alliance victory then independence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1948 → communist insurgency and emergency",
+            "RESETTLEMENT → guerrilla support constrained"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDEPENDENCE PROMISE → Malay support retained; 1955/1957 → Alliance victory then independence.",
+      "source_references": [
+        "Emergency and credible independence"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MALAYSIA BOUNDARY SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MALAYSIA BOUNDARY SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "MALAYA INDEPENDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "FEDERATION OF MALAYSIA PROCLAIMED",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOOSES NOT TO JOIN",
+          "role": "caution"
+        },
+        {
+          "text": "SINGAPORE BECOMES SEPARATE REPUBLIC",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "1957 → Malaya independent",
+        "1963 → Federation of Malaysia proclaimed",
+        "BRUNEI → chooses not to join",
+        "1965 → Singapore becomes separate republic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1957 → Malaya independent",
+            "1963 → Federation of Malaysia proclaimed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRUNEI → chooses not to join",
+            "1965 → Singapore becomes separate republic"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1957 → Malaya independent",
+            "1963 → Federation of Malaysia proclaimed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRUNEI → chooses not to join; 1965 → Singapore becomes separate republic.",
+      "source_references": [
+        "Malaysia's changing boundaries"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INHERITED CONSTRAINT SYSTEM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INHERITED CONSTRAINT SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "COLONIAL BORDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL IDENTITY CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICE SHOCKS BECOME FISCAL CRISES",
+          "role": "evidence"
+        },
+        {
+          "text": "NARROW ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK STATE CAPACITY",
+          "role": "institution"
+        },
+        {
+          "text": "COLD WAR ARMS",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL CONFLICT PROLONGED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COLONIAL BORDERS → territorial identity conflict",
+        "MONO-EXPORTS → price shocks become fiscal crises",
+        "NARROW ADMINISTRATION → weak state capacity",
+        "COLD WAR ARMS → internal conflict prolonged"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COLONIAL BORDERS → territorial identity conflict",
+            "MONO-EXPORTS → price shocks become fiscal crises"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NARROW ADMINISTRATION → weak state capacity",
+            "COLD WAR ARMS → internal conflict prolonged"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COLONIAL BORDERS → territorial identity conflict",
+            "MONO-EXPORTS → price shocks become fiscal crises"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NARROW ADMINISTRATION → weak state capacity; COLD WAR ARMS → internal conflict prolonged.",
+      "source_references": [
+        "Structural inheritance after independence"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SIX POST-COLONIAL MECHANISMS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SIX POST-COLONIAL MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMODITY CRISIS AND POLITICAL CLOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ABRUPT TRANSFER AND RESOURCE SECESSION",
+          "role": "comparison"
+        },
+        {
+          "text": "FEDERAL IDENTITY AND BIAFRA",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTERNAL PATRONS PROLONG WAR",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GHANA → commodity crisis and political closure",
+        "CONGO → abrupt transfer and resource secession",
+        "NIGERIA → federal identity and Biafra",
+        "ANGOLA → external patrons prolong war"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GHANA → commodity crisis and political closure",
+          "NIGERIA → federal identity and Biafra",
+          "GHANA → commodity crisis and political closure"
+        ],
+        [
+          "CONGO → abrupt transfer and resource secession",
+          "ANGOLA → external patrons prolong war",
+          "CONGO → abrupt transfer and resource secession"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GHANA → commodity crisis and political closure",
+            "CONGO → abrupt transfer and resource secession"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NIGERIA → federal identity and Biafra",
+            "ANGOLA → external patrons prolong war"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GHANA → commodity crisis and political closure",
+            "CONGO → abrupt transfer and resource secession"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NIGERIA → federal identity and Biafra; ANGOLA → external patrons prolong war.",
+      "source_references": [
+        "Ghana's constitutional route",
+        "Congo and hurried transfer",
+        "Nigeria, Biafra and redesign",
+        "Angola and external amplification"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NIGERIA WITHOUT DETERMINISM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NIGERIA WITHOUT DETERMINISM",
+          "role": "primary"
+        },
+        {
+          "text": "COUP AND ANTI-IGBO MASSACRES",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY 1967",
+          "role": "comparison"
+        },
+        {
+          "text": "BIAFRA DECLARED",
+          "role": "evidence"
+        },
+        {
+          "text": "JAN 1970",
+          "role": "primary"
+        },
+        {
+          "text": "WAR ENDS",
+          "role": "outcome"
+        },
+        {
+          "text": "RECONCILIATION AND MORE STATES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "1966 → coup and anti-Igbo massacres",
+        "MAY 1967 → Biafra declared",
+        "JAN 1970 → war ends",
+        "AFTERWARD → reconciliation and more states"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1966 → coup and anti-Igbo massacres",
+            "MAY 1967 → Biafra declared"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAN 1970 → war ends",
+            "AFTERWARD → reconciliation and more states"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1966 → coup and anti-Igbo massacres",
+            "MAY 1967 → Biafra declared"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAN 1970 → war ends; AFTERWARD → reconciliation and more states.",
+      "source_references": [
+        "Nigeria, Biafra and redesign"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ANGOLA'S AMPLIFICATION CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANGOLA'S AMPLIFICATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL MOVEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MPLA, UNITA AND FNLA",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTSIDE PATRONS",
+          "role": "evidence"
+        },
+        {
+          "text": "USA, CUBA, SOUTH AFRICA AND ZAIRE",
+          "role": "primary"
+        },
+        {
+          "text": "NEITHER SIDE EASILY DEFEATED",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERVENTION WORSENS, NOT ORIGINATES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LOCAL MOVEMENTS → MPLA, UNITA and FNLA",
+        "OUTSIDE PATRONS → USA, Cuba, South Africa and Zaire",
+        "RESOURCES → neither side easily defeated",
+        "VERDICT → intervention worsens, not originates"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCAL MOVEMENTS → MPLA, UNITA and FNLA",
+            "OUTSIDE PATRONS → USA, Cuba, South Africa and Zaire"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESOURCES → neither side easily defeated",
+            "VERDICT → intervention worsens, not originates"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCAL MOVEMENTS → MPLA, UNITA and FNLA",
+            "OUTSIDE PATRONS → USA, Cuba, South Africa and Zaire"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTSIDE PATRONS → USA, Cuba, South Africa and Zaire.",
+      "source_references": [
+        "Angola and external amplification"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ELITE PLUS MASS NATIONALISM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ELITE PLUS MASS NATIONALISM",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL VOCABULARY AND GRIEVANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANISATION SPREADS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISRUPTIVE LEVERAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "ELITE LEADERSHIP GAINS MASS FORCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EDUCATION → political vocabulary and grievance",
+        "PRESS/PARTY → organisation spreads",
+        "STRIKE/BOYCOTT → disruptive leverage",
+        "RESULT → elite leadership gains mass force"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EDUCATION → political vocabulary and grievance",
+          "STRIKE/BOYCOTT → disruptive leverage",
+          "EDUCATION → political vocabulary and grievance"
+        ],
+        [
+          "PRESS/PARTY → organisation spreads",
+          "RESULT → elite leadership gains mass force",
+          "PRESS/PARTY → organisation spreads"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EDUCATION → political vocabulary and grievance",
+            "PRESS/PARTY → organisation spreads"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRIKE/BOYCOTT → disruptive leverage",
+            "RESULT → elite leadership gains mass force"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EDUCATION → political vocabulary and grievance",
+            "PRESS/PARTY → organisation spreads"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRIKE/BOYCOTT → disruptive leverage; RESULT → elite leadership gains mass force.",
+      "source_references": [
+        "Educated elites and neo-colonialism"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "APARTHEID SYSTEM AND END",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "APARTHEID SYSTEM AND END",
+          "role": "primary"
+        },
+        {
+          "text": "APARTHEID GOVERNMENT CODIFIES HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "RESISTANCE AND REPRESSION WIDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL + EXTERNAL PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEGOTIATION BECOMES POSSIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "MAJORITY RULE ENDS APARTHEID",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1948 → apartheid government codifies hierarchy",
+        "1952/1960/1976 → resistance and repression widen",
+        "INTERNAL + EXTERNAL PRESSURE → negotiation becomes possible",
+        "1994 → majority rule ends apartheid"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1948 → apartheid government codifies hierarchy",
+            "1952/1960/1976 → resistance and repression widen"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERNAL + EXTERNAL PRESSURE → negotiation becomes possible",
+            "1994 → majority rule ends apartheid"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1948 → apartheid government codifies hierarchy",
+            "1952/1960/1976 → resistance and repression widen"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INTERNAL + EXTERNAL PRESSURE → negotiation becomes possible.",
+      "source_references": [
+        "Apartheid and the final verdict"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DECOLONISATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DECOLONISATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "EXHAUSTION PLUS NATIONALIST COST",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGOTIATED, SETTLER WAR, INSURGENCY AND RUSHED EXIT",
+          "role": "comparison"
+        },
+        {
+          "text": "INHERITED BORDERS, ECONOMIES AND INTERVENTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVEREIGNTY ACHIEVED, DEPENDENCE UNEVENLY SURVIVES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAUSE → exhaustion plus nationalist cost",
+        "ROUTES → negotiated, settler war, insurgency and rushed exit",
+        "AFTERMATH → inherited borders, economies and intervention",
+        "VERDICT → sovereignty achieved, dependence unevenly survives"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAUSE → exhaustion plus nationalist cost",
+            "ROUTES → negotiated, settler war, insurgency and rushed exit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AFTERMATH → inherited borders, economies and intervention",
+            "VERDICT → sovereignty achieved, dependence unevenly survives"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUSE → exhaustion plus nationalist cost",
+            "ROUTES → negotiated, settler war, insurgency and rushed exit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ROUTES → negotiated, settler war, insurgency and rushed exit.",
+      "source_references": [
+        "Apartheid and the final verdict"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LOWE'S VERDICT SECTION PRESENTS A REAL INTERPRETIVE DISPUTE RATHER",
+          "role": "outcome"
+        },
+        {
+          "text": "PIERS BRENDON AND RICHARD GOTT STRESS COERCION, EXTRACTION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "NIALL FERGUSON EMPHASIZES LEGAL, COMMERCIAL AND INSTITUTIONAL LEGACIES.",
+          "role": "evidence"
+        },
+        {
+          "text": "THESE POSITIONS MUST NOT BE TREATED AS MORALLY OR",
+          "role": "caution"
+        },
+        {
+          "text": "A BALANCED ANSWER SHOULD TEST CLAIMED LEGACIES AGAINST WHO",
+          "role": "outcome"
+        },
+        {
+          "text": "IN LOWE'S WIDER TREATMENT, THE CRUCIAL PROBLEM IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "EMPIRE OFTEN LEFT ARTIFICIAL BORDERS, DISTORTED ECONOMIES, NARROW ADMINISTRATIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Lowe's verdict section presents a real interpretive dispute rather than one simple authorial slogan.",
+            "Piers Brendon and Richard Gott stress coercion, extraction and imperial violence",
+            "Niall Ferguson emphasizes legal, commercial and institutional legacies.",
+            "CAUTION: These positions must not be treated as morally or empirically equivalent by default."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "A balanced answer should test claimed legacies against who benefited, the violence of conquest and rule, and the",
+            "CAUTION: In Lowe's wider treatment, the crucial problem is not that colonial peoples were \"unready\" in a civilizational sense",
+            "empire often left artificial borders, distorted economies, narrow administrative capacity and elite-dominated states.",
+            "CAUTION: UPSC-safe synthesis: political freedom was historically legitimate and increasingly unavoidable under postwar conditions, but state-building"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "after freedom was immensely difficult and colonial structures did not vanish with the flag .",
+            "India's independence was one of the earliest and most visible blows to British imperial prestige.",
+            "CAUTION: India's later Bandung / Afro-Asian / Non-Aligned posture belongs more to",
+            "GS-II and Indian foreign policy than to this file's world-history narrative."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

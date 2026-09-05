@@ -184,3 +184,17 @@ Provincial associations (1851-1876) -> shared grievance vocabulary
 - Do not claim the Moderates demanded swaraj or independence before 1905.
 - Do not present the safety-valve theory as established fact, and do not cite unverified Hume correspondence.
 - Do not quantify Congress membership or delegate numbers beyond the verified 72 for 1885.
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** pre-Congress associations, INC foundation and origin debate,
+  Moderate leaders, constitutional methods, economic nationalism, demands,
+  achievements, social limits and legacy through 1905.
+- **Boundary:** Topic 07 owns colonial-economic mechanisms; Topic 12 owns
+  councils provisions; Topic 15 owns partition/Swadeshi/militant nationalism;
+  Topic 17 owns communalism and the Muslim League.
+- **Mechanism control:** Hume helped organise but did not create nationalism;
+  safety valve is disputed; Moderates sought reform rather than immediate
+  independence; the 1892 Act expanded procedure without responsibility.
+- **Verified PYQ ownership, 2018-2026:** one direct route--2021 GS-I on the
+  Moderates' role in preparing the wider freedom movement.

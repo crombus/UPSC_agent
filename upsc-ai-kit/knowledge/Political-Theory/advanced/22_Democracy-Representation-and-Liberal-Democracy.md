@@ -184,6 +184,7 @@ ADVANCED DEBATES
 - ✅ Use `Polity/advanced/27_Election-Commission.md` for Indian electoral law, rolls, delimitation, MCC and institutional administration.
 - ✅ Use `Polity/advanced/11_Parliamentary-System.md` for cabinet-legislature relations and opposition within Indian representative government.
 - ✅ Use `Governance/advanced/14_Participatory-Governance.md` when the question shifts from democratic theory to administrative participation and consultation.
+- ✅ Forward boundary: use `Political-Theory/advanced/23_Contemporary-Democracy-Social-Change-and-Development.md` for Schumpeter, Dahl/polyarchy, elite, pluralist, participatory, Marxist and deliberative models; Topic 22 owns the classical-to-liberal-democratic foundation.
 - ✅ Exclusion: this file does **not** reproduce Articles, seat-reservation law, anti-defection law or Indian case law.
 
 ## 12. Factual-risk checks

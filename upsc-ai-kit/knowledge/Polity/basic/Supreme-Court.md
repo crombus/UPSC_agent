@@ -10,7 +10,8 @@
 |---|---|
 | **Articles** | 124–147 (Part V) |
 | **Inaugurated** | ✅ 28 Jan 1950 (succeeded Federal Court, replaced Privy Council) |
-| **Strength** | ✅ **34** (1 CJI + 33; raised from 31 in 2019) |
+| **Sanctioned strength** | ✅ **34** (1 CJI + 33; raised from 31 in 2019) |
+| **Working strength** | 📰 **34 on 28 Aug 2026**, counted from the official sitting-judges roster; re-verify before use |
 | **Judiciary type** | ✅ **Integrated / single** (SC → HCs → subordinate courts) |
 | **Judge retires at** | ✅ **65** (HC judge = 62) |
 | **Removal** | Special majority of Parliament; *proved misbehaviour / incapacity* |
@@ -22,8 +23,9 @@ has **one integrated judiciary** enforcing both Central and state laws (unlike t
 > 🔑 **Qualification:** Citizen + **5 yrs HC judge / 10 yrs HC advocate / distinguished jurist** — **no minimum age.**
 
 ## The Collegium (must remember) ⭐
-✅ Judges appointed by the **President** but effectively by the **collegium** = **CJI + 4 seniormost judges**
-(Second & Third Judges cases). The **NJAC (99th Amdt 2014)** was **struck down in 2015** (Fourth Judges Case)
+✅ Judges appointed by the **President** but effectively selected through the **collegium**. For Supreme
+Court appointments it is **CJI + 4 seniormost judges**, settled by the **1998 Presidential Reference
+(Third Judges Case)**. The **NJAC (99th Amdt 2014)** was **struck down in 2015** (Fourth Judges Case)
 → collegium restored.
 
 ## Five jurisdictions

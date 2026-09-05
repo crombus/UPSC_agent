@@ -255,3 +255,29 @@ and the emperor-system question. Never present a single cause.
 > **Study link:** World-History -> `basic/15_Cold-War-and-International-Relations.md` for the superpower rivalry that grew out of the wartime settlement.
 > **Study link:** World-History -> `basic/18_Decolonization-of-Africa-and-Asia.md` for the decolonisation this war accelerated.
 > **Study link:** Modern-Indian-History -> `basic/25_WWII-Cripps-Mission-and-Quit-India.md` and `basic/26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md` for Indian wartime and immediate postwar implications.
+
+## 11. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the linked European and Asia-Pacific origins, phases and
+  theatres of the Second World War; early Axis advantage, cumulative turning
+  points and defeat; total war, Holocaust specificity, resistance and
+  collaboration; and the war's social, imperial, institutional and strategic
+  consequences.
+- **Boundary:** Topic 11 owns the interwar diplomatic collapse, Topic 12 owns
+  fascist regimes, Topic 13 owns Soviet domestic transformation, Topic 15 owns
+  Cold War international relations, Topic 16 owns the United Nations as an
+  institution, Topic 17 owns China's revolutionary history, and Topic 18 owns
+  decolonisation. Topic 14 uses each only as cause, participant or consequence.
+- **Date control:** Poland (September 1939), France and Battle of Britain
+  (1940), Barbarossa (22 June 1941), Pearl Harbor (7 December 1941), Midway
+  (June 1942), El Alamein (October 1942), Stalingrad surrender
+  (February 1943), D-Day (6 June 1944), German surrender (May 1945) and
+  Japan's surrender sequence (August 1945) remain distinct.
+- **Mechanism control:** the European and Asian wars fused in 1941; operational
+  success could not offset multi-front overreach, Allied resources, logistics
+  and occupation policy; genocide remains distinct from ordinary campaign
+  history; and decolonisation was accelerated rather than instantly completed.
+- **Verified PYQ/current ownership, 2018-2025:** zero direct topic-only routes.
+  Probable war questions remain original practice. The bounded Nuremberg
+  eightieth-anniversary linkage concerns legal aftermath, not new evidence
+  about campaigns, casualty totals or the causes of victory.

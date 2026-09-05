@@ -10,7 +10,7 @@
 | Article | What it does |
 |---|---|
 | ✅ **Art 1** | India = **"Union of States"**; territory = states + UTs + acquired territory |
-| ✅ **Art 2** | Admit / establish **NEW** states (outside the Union) |
+| ✅ **Art 2** | Admit / establish **new States**; standard doctrine applies this to entry or establishment beyond the existing internal map |
 | ✅ **Art 3** | Reorganise **EXISTING** states (form/rename/alter boundary/area) |
 | ✅ **Art 4** | Such laws = **simple majority**, NOT an Art 368 amendment |
 
@@ -41,7 +41,7 @@ views are **not binding**).
 > 🔑 **Art 2 vs 3:** "**2 = New (outside)**, **3 = old (inside)**."
 
 ## Must-Know Facts
-- ✅ **552** princely states; **3 holdouts** = **Hyderabad, Junagarh, Kashmir**.
+- ⚠️ **Textbook convention:** the local Laxmikanth line uses **552**, **549 joined**, and three difficult cases—**Hyderabad, Junagadh and Jammu and Kashmir**. Historical totals vary with the counting date and category, so label this as a source-specific convention.
 - ✅ **100th Amendment (2015):** India-Bangladesh enclave exchange (111 out, 51 in).
 - ✅ First state renamed = **United Provinces → Uttar Pradesh (1950)**.
 - ✅ Book count (2019): **28 states, 9 UTs**.
@@ -86,7 +86,7 @@ views are **not binding**).
 ### 7.4 Bank A — The Article 1–4 scheme
 
 - **Claim:** the name and the polity type were a deliberate CA choice. **Evidence:** ✅ **Art 1** calls India "**that is, Bharat, a Union of States**" (not "Federation"); ⚠️ Ambedkar: "Union" was preferred because the federation is **not the result of an agreement** and states have **no right to secede**. **Significance:** ⚠️ the vocabulary itself encodes indissolubility. **Caution:** ✅ "Territory of India" (states + UTs + acquired territory) is **wider** than the "Union of India" (states only).
-- **Claim:** the Constitution separates admitting new states from reshaping old ones. **Evidence:** ✅ **Art 2** — admit/establish **new** states (outside the Union); ✅ **Art 3** — form/rename/alter the boundary or area of **existing** states. **Significance:** ⚠️ Art 2 deals with outsiders, Art 3 with insiders. **Caution:** 🔑 "**2 = New (outside), 3 = old (inside)**."
+- **Claim:** the Constitution separates admitting new states from reshaping old ones. **Evidence:** ✅ **Art 2** — admit or establish new States on terms Parliament determines; standard doctrine reads it as entry/establishment beyond the existing internal map. ✅ **Art 3** — form, rename, or alter the boundary/area of units already within India. **Significance:** ⚠️ Article 2 addresses admission/establishment; Article 3 addresses internal reorganisation. **Caution:** the Constitution itself does not use the classroom labels “outside” and “inside”.
 - **Claim:** reorganisation is ordinary legislation, not amendment. **Evidence:** ✅ **Art 4** — laws under Arts 2 and 3 are **not** deemed constitutional amendments under Art 368 → passed by **simple majority**. **Significance:** ⚠️ state boundaries are constitutionally fragile. **Caution:** ✅ do not treat reorganisation as requiring an Art 368 special majority.
 
 ### 7.5 Bank B — Article 3 procedure (the fragility mechanism)
@@ -97,7 +97,7 @@ views are **not binding**).
 ### 7.6 Bank C — Reorganisation chronology and cession
 
 - **Claim:** language was resisted, then conceded with a safeguard. **Evidence (in order):** ✅ **Dhar Commission (1948)** → administrative convenience, not language; ✅ **JVP Committee (1948–49, Nehru–Patel–Pattabhi Sitaramayya)** → rejected language as the basis; ✅ **Fazl Ali / States Reorganisation Commission (1953–55)** → **accepted language but rejected "one language–one state."** **Significance:** ✅ this produced the **States Reorganisation Act 1956 + 7th Amendment** → 14 states, 6 UTs. **Caution:** ✅ the **first linguistic state was Andhra (1953)** after Potti Sriramulu's death, **not** Maharashtra. 🔑 "**Dhar Just Fell**" = Dhar → JVP → Fazl Ali.
-- **Claim:** ceding territory abroad is not an Art 3 power. **Evidence:** ✅ *Berubari Union (1960)* — diminishing a state's area under Art 3 does **not** include **ceding Indian territory to a foreign country**; cession needs a **constitutional amendment (Art 368)** → the **9th Amendment (1960)** transferred Berubari to Pakistan. ✅ *1969 ruling* — settling a mere **boundary dispute** needs only **executive action**. **Significance:** ⚠️ the test is loss of sovereignty vs internal adjustment. **Caution:** ✅ the **100th Amendment (2015)** implemented the India–Bangladesh enclave exchange by amendment, consistent with Berubari.
+- **Claim:** ceding territory abroad is not an Art 3 power. **Evidence:** ✅ *Berubari Union (1960)* — diminishing a state's area under Art 3 does **not** include **ceding Indian territory to a foreign country**; cession needs a **constitutional amendment (Art 368)** → the **Ninth Amendment (1960)** supplied constitutional authority for the contemplated transfer; do not claim that every contemplated Berubari transfer was thereby completed. ✅ *1969 ruling* — settling a mere **boundary dispute** needs only **executive action**. **Significance:** ⚠️ the test is loss of sovereignty vs internal adjustment. **Caution:** ✅ the **100th Amendment (2015)** implemented the India–Bangladesh enclave exchange by amendment, consistent with Berubari.
 
 ### 7.7 Mechanism, incentives and consequences
 
@@ -120,7 +120,7 @@ views are **not binding**).
 ### 7.10 Prelims close-option distinctions (answers the routed objective demand)
 
 - **Routed 2025 Prelims GS-I Q52 — state-formation pairs (Arunachal Pradesh, Nagaland, Tripura):** ✅ **Nagaland** became the **16th state in 1963** (carved from Assam); ✅ **Tripura** became a **full state in 1972** (upgraded from a Union Territory, via the North-Eastern reorganisation); ✅ **Arunachal Pradesh** became the **24th state in 1987** (earlier NEFA → UT in 1972 → state). **Caution:** ✅ Manipur and Tripura attained statehood in **1972**; Arunachal and Mizoram in **1987**.
-- **Art 2 vs Art 3:** ✅ Art 2 = admit/establish **new** states (outside the Union); Art 3 = reorganise **existing** states.
+- **Art 2 vs Art 3:** ✅ Art 2 = admit/establish new States, conventionally beyond the existing internal map; Art 3 = internal reorganisation of existing Indian units.
 - **Consent:** ✅ state consent is **not** required for reorganisation; the President's reference is **not binding**.
 - **Cession:** ✅ ceding territory to a foreign country needs an **Art 368 amendment** (Berubari), not Art 3.
 - **First linguistic state:** ✅ **Andhra (1953)**, not Maharashtra.
@@ -134,7 +134,7 @@ views are **not binding**).
 - Do **not** say territory can be **ceded to a foreign country under Art 3** — ✅ it needs an **Art 368 amendment** (Berubari, 9th Amdt).
 - Do **not** say the first linguistic state was **Maharashtra** — ✅ it was **Andhra (1953)**.
 - Do **not** confuse "**territory of India**" with the "**Union of India**" — the former is wider.
-- 📰 **Current count:** state it as **28 states and 8 UTs** (post-January 2020 merger); the 2019 book figure of 9 UTs is out of date. 📰 J&K's statehood restoration remains under discussion (status as of 13 August 2026); do not assert that statehood has been restored unless a dated notification confirms it.
+- 📰 **Current count:** state it as **28 states and 8 UTs** (post-January 2020 merger); the 2019 book figure of 9 UTs is out of date. 📰 J&K's statehood restoration remains under discussion (status checked through 28 August 2026); do not assert that statehood has been restored unless a dated notification confirms it.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

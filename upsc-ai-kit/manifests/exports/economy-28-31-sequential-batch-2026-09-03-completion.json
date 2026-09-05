@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "batch_id": "economy-28-31-sequential-batch-2026-09-03",
+  "scope": "Economy learner-v2 Topics 28-31, strictly sequential",
+  "generated_on": "2026-09-03",
+  "validated_at": "2026-09-03T16:48:39.555272+05:30",
+  "result": "passed",
+  "sequence": {
+    "strict_order": [
+      "economy-28",
+      "economy-29",
+      "economy-30",
+      "economy-31"
+    ],
+    "topic_count": 4,
+    "one_topic_at_a_time": true
+  },
+  "tracker": {
+    "tracker_path": "EXPORT-PDF-STATUS.json",
+    "new_topic_records": [
+      "economy-28:learner-v2:g1",
+      "economy-29:learner-v2:g1",
+      "economy-30:learner-v2:g1",
+      "economy-31:learner-v2:g1"
+    ],
+    "generations": {
+      "economy-28": 1,
+      "economy-29": 1,
+      "economy-30": 1,
+      "economy-31": 1
+    },
+    "unique_records": true,
+    "approvals_false": true,
+    "history_policy": "append-only"
+  },
+  "shared_ascii_coverage": {
+    "baseline_topics": 320,
+    "baseline_panels": 3712,
+    "authored_topics": 324,
+    "authored_panels": 3760,
+    "topic_delta": 4,
+    "panel_delta": 48,
+    "integrity_errors": []
+  },
+  "tests": {
+    "result": "passed",
+    "passed": 65,
+    "scope": "tools.test_generate_economy_01_05_sequential through tools.test_generate_economy_28_31_sequential plus tools.test_refresh_all_v2_learning_sessions; manual_spec_integrity_errors; PDF contents/bookmarks; four graphical validation reports",
+    "topic_specific_suite": "4 tests passed for tools.test_generate_economy_28_31_sequential",
+    "manual_flow_audit": "324 topics, 3760 panels, zero integrity errors",
+    "unrelated_not_fixed": "No unrelated repository failures or dirty work were repaired or reverted."
+  },
+  "section_completion": {
+    "manifest": "upsc-ai-kit\\manifests\\v2\\economy--subject-wide-syllabus.json",
+    "coverage_index": "notes\\Economy\\learning-session-v2\\subject-wide-syllabus\\indexes\\TOPIC-COVERAGE-INDEX.md",
+    "generated_unapproved": 31,
+    "approved": 0,
+    "incomplete": 0,
+    "planned": 0,
+    "total": 31
+  },
+  "aggregate": {
+    "main_pdf_pages": 370,
+    "workbook_pdf_pages": 157,
+    "mcqs": 320,
+    "learning_sessions": 60,
+    "ascii_panels": 48,
+    "graphical_stages": 52
+  },
+  "topics": [
+    {
+      "topic_key": "economy-28",
+      "title": "Direct and Indirect Farm Subsidies and WTO Rules",
+      "record_id": "economy-28:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 86,
+        "workbook_pdf_pages": 38
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-28\\economy-28_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-28\\economy-28_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-28\\economy-28_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-28\\economy-28_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-29",
+      "title": "Agricultural Technology Missions and Mission-Mode Policy",
+      "record_id": "economy-29:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 88,
+        "workbook_pdf_pages": 38
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-29\\economy-29_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-29\\economy-29_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-29\\economy-29_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-29\\economy-29_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-30",
+      "title": "Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries",
+      "record_id": "economy-30:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 97,
+        "workbook_pdf_pages": 40
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-30\\economy-30_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-30\\economy-30_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-30\\economy-30_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-30\\economy-30_Solved-Practice-Workbook_2026-09-03.md"
+    },
+    {
+      "topic_key": "economy-31",
+      "title": "Energy Infrastructure Economics, Power, Fuels and Energy Security",
+      "record_id": "economy-31:learner-v2:g1",
+      "variant": "learner-v2",
+      "generation": 1,
+      "approved": false,
+      "result": "passed",
+      "hard_gates_passed": 15,
+      "hard_gates_total": 15,
+      "failed_gates": [],
+      "metrics": {
+        "fact_anchor_count": 20,
+        "learner_session_count": 15,
+        "visual_first_count": 15,
+        "mcq_count": 80,
+        "mcq_unique_stem_count": 80,
+        "mcq_answer_distribution": {
+          "A": 20,
+          "B": 20,
+          "C": 20,
+          "D": 20
+        },
+        "mcq_strict_abcd_cycle": true,
+        "workbook_mcq_count": 80,
+        "workbook_mcq_unique_stem_count": 80,
+        "workbook_strict_abcd_cycle": true,
+        "original_mains_weights": [
+          10,
+          10,
+          15,
+          15,
+          20,
+          20
+        ],
+        "ascii_panel_count": 12,
+        "ascii_spec_panel_count": 12,
+        "ascii_embedded_equals_spec": true,
+        "graphical_stage_count": 13,
+        "h2_sequence": [
+          "BASIC LEARNING SESSION",
+          "BASIC MCQS / REMEDIATION",
+          "PYQS AND ANSWER PRACTICE",
+          "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+          "CONSOLIDATED REGISTER NOTES"
+        ],
+        "register_notes_last": true,
+        "register_notes_body_present": true,
+        "register_headings_are_topic_specific": true,
+        "ascii_atlas_after_register_body": true,
+        "live_source_attempt_log_present": true,
+        "main_pdf_pages": 99,
+        "workbook_pdf_pages": 41
+      },
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-31\\economy-31_Complete-Learning-Session_2026-09-03.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-31\\economy-31_Solved-Practice-Workbook_2026-09-03.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-31\\economy-31_Complete-Learning-Session_2026-09-03.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-31\\economy-31_Solved-Practice-Workbook_2026-09-03.md"
+    }
+  ],
+  "attempt_log": [
+    "economy-28 first staging attempt was blocked because future manual-spec filenames were registered before their files existed; no topic output or tracker record was published, the registry was reduced to the current topic, and staging was retried sequentially.",
+    "economy-28 second staging attempt exposed a Basic-versus-Optional-Advanced PYQ-firewall term; authored data was corrected, failed partial flow output was removed, and the topic was regenerated before finalisation.",
+    "economy-29 first authoring self-check found insufficient graphical keyword-pill and answer-line density in two manual stages; the panels were strengthened before successful staging.",
+    "economy-31 first authoring self-check found insufficient graphical keyword-pill and answer-line density in the energy-security stage; the panel was strengthened before successful staging.",
+    "Live-source results were recorded honestly: substantive WTO, fertiliser DBT, Agriculture Ministry oilseeds, NDDB Operation Flood and PNGRB pages; PIB, Department of Fisheries and Ministry of Power HTTP failures; DAHD/BEE/CEA shells or redirects; CERC transport failure."
+  ],
+  "errors": [],
+  "changed_files_ledger": {
+    "path": "upsc-ai-kit\\manifests\\exports\\economy-28-31-sequential-batch-2026-09-03-changed-files.txt",
+    "count": 157
+  }
+}

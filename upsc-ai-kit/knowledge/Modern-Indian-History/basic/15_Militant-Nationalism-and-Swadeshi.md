@@ -214,3 +214,19 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Curzonian provocation, Bengal partition, anti-partition
+  agitation, Swadeshi, boycott, national education, militant ideology,
+  participation, regional spread, Surat, decline and consequences of 1905-08.
+- **Boundary:** Topic 14 owns INC origins/Moderates; Topic 16 begins the
+  revolutionary-underground core; Topic 17 owns communalism, League and
+  separate electorates. The 1911 annulment is a bounded consequence.
+- **Mechanism control:** 7 August resolution and 16 October enforcement differ;
+  Swadeshi is constructive while boycott is withdrawal; militant nationalism
+  is broader than violence; Bengal cannot represent uniform all-India reach.
+- **Verified PYQ ownership, 2018-2026:** five direct routes--2018, 2019, two
+  in 2020 and 2023. Lala Lajpat Rai and *Desher Katha* are supported by
+  supplementary historical evidence but remain **INFERRED — LOCAL OFFICIAL
+  KEYS UNAVAILABLE**.

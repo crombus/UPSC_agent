@@ -14,7 +14,8 @@ Classification is by **executive–legislature relations**: in a **parliamentary
 has a **fixed** term, constitutionally independent.
 
 ✅ Also called **cabinet government / responsible government / Westminster model** (Britain, Japan,
-Canada, India). Presidential = **non-responsible / fixed-executive** (USA, Brazil, Russia, Sri Lanka).
+Canada, India). Presidential = **non-responsible / fixed-executive** (USA, Brazil). Russia and
+Sri Lanka are commonly classified as **semi-presidential**, not pure presidential systems.
 ✅ **Ivor Jennings** → "cabinet system" (cabinet = nucleus of power). ✅ PM once "**primus inter pares**"
 (first among equals); now analysts (**Crossman, Mackintosh**) call it "**prime ministerial government**"
 — true in India too.
@@ -27,14 +28,15 @@ Canada, India). Presidential = **non-responsible / fixed-executive** (USA, Brazi
 | ✅ 3 | **Collective responsibility** ⭐ | **Bedrock** principle (**Art 75**). CoM collectively responsible to **Lok Sabha** — a **no-confidence motion** removes the whole ministry. |
 | ✅ 4 | **Political homogeneity** | Ministers usually same party/ideology (coalition → bound by consensus). |
 | ✅ 5 | **Double membership** | Minister must be an MP; if **not an MP for 6 consecutive months**, ceases to be minister. |
-| ✅ 6 | **Leadership of the PM** | PM = leader of CoM, of Parliament, and of the ruling party. |
+| ✅ 6 | **Leadership of the PM** | PM leads the CoM and the government's parliamentary programme and normally leads the majority party/coalition; this is not a constitutional office of “leader of Parliament”. |
 | ✅ 7 | **Dissolution of Lower House** | President can dissolve **Lok Sabha** on PM's advice → fresh elections. |
 | ✅ 8 | **Secrecy** | Ministers take **oath of secrecy** (administered by President). |
 
 ## 3. Presidential system (USA) — contrast ⭐
 ✅ (a) President = head of State **and** government; (b) elected by **electoral college** for **fixed
-4-year** term, removable only by **impeachment**; (c) governs via non-elected secretaries ("**Kitchen
-Cabinet**"), responsible only to him; (d) executive **not** responsible to Congress, not members of it;
+4-year** term, removable through the exceptional **impeachment-and-conviction** process; (c) governs
+through appointed department secretaries, while "**Kitchen Cabinet**" properly means informal advisers;
+(d) executive **not** collectively responsible to Congress and secretaries are not members of it;
 (e) **cannot dissolve** House of Representatives; (f) based on **separation of powers**.
 
 | | Parliamentary | Presidential |

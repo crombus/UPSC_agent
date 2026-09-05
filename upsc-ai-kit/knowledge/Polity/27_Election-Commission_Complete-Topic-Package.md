@@ -7,7 +7,7 @@ control_date: 2026-08-19
 
 # Polity 27 - Election Commission - Complete Topic Package
 
-> **Control date:** 19 August 2026, Asia/Kolkata  
+> **Control date:** 28 August 2026, Asia/Kolkata  
 > **Tags:** `[FACT]` directly supported by a named local or official source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive control; `[LIMIT]` boundary, uncertainty or non-ownership.  
 > **Core discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** constitutional design, composition, appointment, tenure, removal, administration, rolls, parties and symbols, Model Code of Conduct (MCC), EVM-VVPAT, case law, independence, accountability and reform.
@@ -18,9 +18,10 @@ control_date: 2026-08-19
 - [FACT] Structural and validation reference only: Polity 24, 25 and 26 complete packages. Their subject content has not been imported.
 - [FACT] The controlling appointment statute was checked against the official India Code PDF of **The Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023**, Act 49 of 2023, including sections 3-11 and 16-18.
 - [CURRENT] The 2023 Act commenced on **2 January 2024** under S.O. 35(E), as recorded in the India Code text.
+- [CURRENT] **Live official refresh, 28 August 2026:** India Code, ECI leadership/manuals, the official 2024 EVM-VVPAT judgment and Supreme Court appointment-case orders were rechecked. The 2023 Act remains operative; no official stay or merits judgment was located.
 - [CURRENT] The official ECI leadership page, checked for this control date, lists Chief Election Commissioner **Gyanesh Kumar** and Election Commissioners **Dr Sukhbir Singh Sandhu** and **Dr Vivek Joshi**.
 - [CURRENT] The Supreme Court's official 22 March 2024 order dismissed applications seeking a stay of section 7 and the appointments, while expressly treating its observations as tentative because the constitutional challenge remained sub judice.
-- [LIMIT] Live discovery and the repository's 13 August 2026 legal-control note report that on 30 July 2026 the Court reserved its decision on whether the appointment-law challenges should go to a larger Bench. No later official merits judgment or stay was located in the official judgment search during this export. The safe answer as of 19 August 2026 is therefore: **the Act operates; there is no located stay or merits verdict; do not say it has been upheld or struck down.**
+- [LIMIT] The official Supreme Court record confirms the 22 March 2024 refusal of interim interference. No later official stay or merits judgment was located by 28 August 2026. The safe answer is therefore: **the Act operates; there is no located stay or merits verdict; do not say it has been upheld or struck down.**
 - [LIMIT] No volatile turnout, elector-total or fraud allegation is frozen into this package. Any State-specific electoral-roll revision must be read with the exact ECI order and current court record.
 
 ### Authoritative source map
@@ -349,7 +350,7 @@ Need: criteria + adequate dossiers + reasons + meaningful deliberation
 
 [FACT] The same order expressed concern that full candidate details should be circulated to every Selection Committee member and that procedural sanctity requires fair deliberation.
 
-[CURRENT] No official merits verdict or stay was located as of 19 August 2026.
+[CURRENT] No official merits verdict or stay was located as of 28 August 2026.
 
 ### Visual 13 - Constitutional issue tree
 
@@ -1349,6 +1350,8 @@ D. Four
 
 **Outstanding-answer test:** It expands "trustworthiness" beyond the device, names two judgments and ends with evidence-based reforms.
 
+**How to improve / compress:** In 150 words, retain the six-stage trust chain, one EVM judgment and two non-machine risks; compress the 2025 follow-up to a clause unless the question specifically asks current safeguards.
+
 ### PYQ-M2 - UPSC 2019 GS-II Q11
 
 **Official-paper wording held locally:**  
@@ -1372,6 +1375,8 @@ D. Four
 
 **Outstanding-answer test:** It classifies grounds, distinguishes defection, names *Lily Thomas* and states conviction-stay precisely.
 
+**How to improve / compress:** Use a two-column mental structure—grounds and remedies—and cite sections 8, 8A and 11 plus Articles 103/192; omit peripheral constitutional grounds if space is tight.
+
 ### PYQ-M3 - UPSC 2020 GS-II Q1
 
 **Official-paper wording held locally:**  
@@ -1392,6 +1397,8 @@ D. Four
 **Verdict:** Simplify sequence and time, not proof or appellate protection.
 
 **Outstanding-answer test:** It states the actual statutory chain and avoids the common "give ECI power to disqualify immediately" overreach.
+
+**How to improve / compress:** Write the present statutory chain in one arrow line, then devote more words to time-bound benches and due process; do not propose summary ECI punishment.
 
 ### PYQ-M4 - UPSC 2022 GS-II Q11
 
@@ -1416,6 +1423,8 @@ D. Four
 
 **Outstanding-answer test:** It answers all four limbs and keeps the ECI/court boundary clear.
 
+**How to improve / compress:** Use four labelled limbs matching the question—procedure, void grounds, remedy, cases—so no directive is missed; compress section numbers to the indispensable set.
+
 ### PYQ-M5 - UPSC 2022 GS-II Q15 - direct routed demand
 
 **Exact official-paper wording held locally:**  
@@ -1438,6 +1447,8 @@ D. Four
 **Verdict:** Retain the MCC's flexible form but publish complaint timelines, reasoned outcomes and statutory-referral data to combine speed with accountability.
 
 **Outstanding-answer test:** It avoids falsely calling the MCC law and gives a dated, qualified evolution.
+
+**How to improve / compress:** Give evolution only one paragraph; maximise marks through legal character, ECI enforcement tools, statutory overlap and a reasoned hybrid-reform conclusion.
 
 ### PYQ-M6 - UPSC 2024 GS-II Q1
 
@@ -1462,6 +1473,8 @@ D. Four
 
 **Outstanding-answer test:** It neither dismisses nor celebrates ONOE and protects the broader reform demand.
 
+**How to improve / compress:** Name two uncontested reforms before ONOE, then balance efficiency against federal and mid-term-dissolution costs; end with its dated Bill-not-law status.
+
 ### PYQ-M7 - UPSC 2025 GS-II Q1
 
 **Official-paper wording held locally:**  
@@ -1484,6 +1497,8 @@ D. Four
 **Verdict:** Enforce disclosure and anti-corruption law rigorously while retaining strict element-based interpretation of corrupt practices.
 
 **Outstanding-answer test:** It distinguishes unexplained enrichment from interference with the electoral right.
+
+**How to improve / compress:** Define section 123(2) exactly, apply its election-nexus requirement to assets, and finish with disclosure/investigation remedies; avoid treating every illegality as undue influence.
 
 ### Mains PYQ coverage control
 
@@ -1592,7 +1607,7 @@ D. It prohibited Parliament from legislating on appointments.
 
 ### OM8. 2023 Act status
 
-As on 19 August 2026, the safest statement is:
+As on 28 August 2026, the safest statement is:
 
 A. The Act has been struck down.  
 B. The CJI has been restored by final judgment.  
@@ -2145,6 +2160,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Why this earns marks:** It states both leading cases, supplies a functional example and ends with the supplement-not-supplant rule.
 
+**How to improve / compress:** Lead with institutional independence, then compare appointment, removal and finance in three compact heads; reserve reform proposals for the final third.
+
 ### M2. Distinguish the constitutional position of the CEC from that of the other Election Commissioners. (10 marks, 150 words)
 
 **Model solution**
@@ -2163,6 +2180,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Why this earns marks:** It separates vote, chairmanship, service conditions and removal rather than saying simply "CEC is superior".
 
+**How to improve / compress:** Separate registration, recognition and symbol disputes in a three-step chain; name section 29A and the Symbols Order before discussing ECI discretion.
+
 ### M3. Critically examine the appointment architecture created by the 2023 Act. (15 marks, 250 words)
 
 **Model solution**
@@ -2177,13 +2196,15 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Named evidence:** [FACT] *Anoop Baranwal* created a CJI-inclusive committee only till parliamentary law. The official 22 March 2024 order refused to rewrite section 7 at the interim stage but stressed full dossiers and fair deliberation.
 
-**Current control:** [CURRENT] The Act operates; no official merits verdict or stay was located as of 19 August 2026.
+**Current control:** [CURRENT] The Act operates; no official merits verdict or stay was located as of 28 August 2026.
 
 **Reform:** publish criteria, ensure adequate dossier time, record comparative reasons, strengthen search independence and consider a committee whose majority is not controlled by the incumbent executive.
 
 **Verdict:** Parliamentary competence is clear; constitutional adequacy must be judged by whether the process credibly insulates electoral administration from partisan dependence.
 
 **Why this earns marks:** It evaluates the enacted sections rather than a Bill summary and accurately limits *Anoop Baranwal*.
+
+**How to improve / compress:** Organise the answer by preparation, poll, counting and post-poll remedy; attach one statutory source and one accountability limit to each stage.
 
 ### M4. The Model Code of Conduct succeeds through speed but is weakened by opacity. Discuss. (15 marks, 250 words)
 
@@ -2207,6 +2228,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Why this earns marks:** It explains the mechanism of speed, the statutory overlap and a hybrid reform rather than choosing a false statutory/non-statutory binary.
 
+**How to improve / compress:** Use a machine-process diagram in prose—ballot unit, control unit, VVPAT, custody, count—and distinguish technical safeguards from public confidence measures.
+
 ### M5. Evaluate the ECI's role in maintaining accurate and inclusive electoral rolls. (15 marks, 250 words)
 
 **Model solution**
@@ -2228,6 +2251,8 @@ D. claim -> named evidence -> analysis -> qualification.
 **Verdict:** Roll purity is not the smallest roll; it is the most complete lawful roll produced by a reviewable process.
 
 **Why this earns marks:** It balances inclusion and cleansing, names the legal architecture and protects current-status discipline.
+
+**How to improve / compress:** Frame MCC reform as speed versus enforceability; propose published reasons and statutory referral rather than blanket criminalisation of the Code.
 
 ### M6. How do party registration, recognition and symbol adjudication illustrate the ECI's quasi-judicial role? (15 marks, 250 words)
 
@@ -2252,6 +2277,8 @@ D. claim -> named evidence -> analysis -> qualification.
 **Verdict:** Quasi-judicial legitimacy rests on bounded jurisdiction, consistent precedent and visible reasons.
 
 **Why this earns marks:** It separates three commonly collapsed functions and attaches a case plus jurisdictional limit.
+
+**How to improve / compress:** Distinguish RPA 1950 infrastructure from RPA 1951 conduct/disputes in the opening; use exact sections only for the question’s demanded branch.
 
 ### M7. Design an institutional reform package to strengthen ECI independence without weakening accountability. (20 marks, 250 words)
 
@@ -2281,6 +2308,8 @@ D. claim -> named evidence -> analysis -> qualification.
 
 **Why this earns marks:** It treats the ECI as a full system and attaches an accountability control to every autonomy proposal.
 
+**How to improve / compress:** Compare CEC and EC safeguards in a table-like paragraph and state why equal decisional power does not mean equal removal protection.
+
 ### M8. “Electoral trust is an ecosystem, not a machine question.” Critically analyse the statement with reference to the ECI. (20 marks, 250 words)
 
 **Model solution**
@@ -2306,6 +2335,8 @@ D. claim -> named evidence -> analysis -> qualification.
 **Verdict:** The ECI should answer distrust with evidence across the ecosystem, because a trustworthy machine inside an unfair process is not a trustworthy election.
 
 **Why this earns marks:** It integrates all major subtopics, uses three case families and critically rejects both complacency and unsupported suspicion.
+
+**How to improve / compress:** Prioritise reforms by constitutional independence, campaign equality, voter inclusion and timely remedy; state actor and implementation route for each.
 
 ## Final consolidated register notes
 
@@ -2377,8 +2408,8 @@ legislative vacuum
 - [FACT] Do not say old appointments were simply declared unconstitutional.
 - [FACT] Official 22 March 2024 order dismissed stay applications and refused interim judicial rewriting.
 - [FACT] That order called for full candidate details and fair deliberation.
-- [CURRENT] No located official merits verdict or stay as of 19 August 2026.
-- [LIMIT] Repository/live discovery reports 30 July 2026 reservation on larger-Bench reference; do not convert it into a merits result.
+- [CURRENT] No located official merits verdict or stay as of 28 August 2026.
+- [LIMIT] No later official stay or merits judgment was located by 28 August 2026; do not infer a result from hearing reports.
 
 ### Tenure, salary, protection and removal
 

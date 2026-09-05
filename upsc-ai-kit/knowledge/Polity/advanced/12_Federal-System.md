@@ -28,7 +28,7 @@ disintegration, (ii) term "Union", (iii) centralising tendency.
 ## 2. Federal features (7) ⭐
 | # | Feature | Detail |
 |---|---|---|
-| ✅ 1 | **Dual polity** | Union at centre + states at periphery, each sovereign in its field |
+| ✅ 1 | **Dual polity** | Union and States each exercise autonomous constitutional competence in assigned fields; neither State sovereignty nor secession follows |
 | ✅ 2 | **Written Constitution** | Lengthiest in world; defines structure/powers/limits of both levels |
 | ✅ 3 | **Division of powers** | 7th Schedule — standard examination counts: **Union List (100), State List (61), Concurrent List (52)**; residuary → **Centre**. Omitted/inserted numbering explains alternate literal counts. |
 | ✅ 4 | **Supremacy of Constitution** | Highest law; laws violating it struck down via judicial review |
@@ -50,9 +50,9 @@ disintegration, (ii) term "Union", (iii) centralising tendency.
 | ✅ 9 | **All-India Services** | IAS/IPS/IFS common to Centre & states, controlled by Centre — "violate federalism" |
 | ✅ 10 | **Integrated audit** | CAG audits states too; appointed/removed by President without consulting states |
 | ✅ 11 | **Parliament's authority over State List** | Art 249 — RS resolution lets Parliament legislate on State List in national interest (no emergency needed) |
-| ✅ 12 | **Appointment of Governor** | Appointed by President, holds office at his pleasure, acts as **Centre's agent** (US → elected) |
+| ✅ 12 | **Appointment of Governor** | Appointed by President and holds office during presidential pleasure; this can create Union influence, but the Governor is constitutionally the State's head, not the Centre's agent |
 | ✅ 13 | **Integrated election machinery** | ECI runs Central & state elections; states have no say |
-| ✅ 14 | **Veto over state bills** | Governor reserves bills for President, who has **absolute veto** (not suspensive) |
+| ✅ 14 | **Reserved State bills** | Under Articles 200-201 the Governor may reserve a Bill and the President may assent or withhold assent; non-Money Bills may be directed back for reconsideration, without importing the Union-bill veto taxonomy mechanically |
 
 ## 4. Critical evaluation — scholar tags ⭐⭐ (PYQ favourite)
 | Scholar | Characterisation |

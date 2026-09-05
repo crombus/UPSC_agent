@@ -184,3 +184,22 @@ Land, forest and outsider pressure -> loss of resource control and status
 - **Sixth Schedule = North-Eastern tribal areas with autonomous councils**; **Fifth Schedule = other Scheduled Areas**.
 - Jharkhand Party = **Jaipal Singh, 1950**, **32 seats in 1952**; the JMM came later.
 - Do not add contemporary tribal statistics, scheme names or security assessments to this historical owner.
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** post-1947 tribal policy; integration without assimilation;
+  Verrier Elwin and the later-labelled Tribal Panchsheel; Fifth- and Sixth-
+  Schedule routes; Naga, Mizo and North-East accommodation; Jharkhand's
+  demographic broadening; political settlement versus developmental delivery.
+- **Boundary:** Topic 23 owns colonial/late-colonial tribal mobilisation;
+  Topic 30 owns linguistic reorganisation; Topic 32 owns Nehru's wider legacy;
+  Topic 38 owns the post-independence land, displacement and society synthesis.
+- **Date control:** 1971 Census attribution; Naga rebellion's 1955-57 phase;
+  Nagaland (1963); MNF uprising (1966); 1972 North-East reorganisation and
+  NEFA renaming; Mizo Accord (1986); Mizoram/Arunachal statehood (1987).
+- **Mechanism control:** Fifth and Sixth Schedules are distinct; force could
+  contain but negotiation, autonomy, statehood and electoral absorption made
+  durable settlement. Mizoram is a model case, not a universal outcome.
+- **Verified PYQ ownership, 2018-2026:** zero direct Modern History routes.
+  Indian Society owns 2021/2022 tribal-society Mains demands, Topic 23 owns the
+  2023 colonial response, and Polity owns Scheduled Areas objective demands.

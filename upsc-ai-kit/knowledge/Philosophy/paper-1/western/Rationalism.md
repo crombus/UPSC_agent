@@ -12,7 +12,8 @@ cover_image: ../../_learning-sessions/assets/02_Rationalism-Triadic-Map.png
 ## 0. ONE-SCREEN MAP ⚠️
 
 ```
-RATIONALISM = certain knowledge through REASON ALONE (model: mathematics)
+RATIONALISM = reason/innate structure grounds necessity and certainty
+              experience may occasion knowledge but cannot alone justify necessity
                │
      The SUBSTANCE question drives the trio:
    ┌───────────────────┬───────────────────┬───────────────────┐
@@ -26,8 +27,21 @@ RATIONALISM = certain knowledge through REASON ALONE (model: mathematics)
 ```
 > 🔑 **Mnemonic — Substance count "3-1-∞":** Descartes **3**, Spinoza **1**, Leibniz **∞**.
 > 🔑 **Mind-body mnemonic — "I-P-H":** Interaction → Parallelism → Harmony.
+> ⚠️ **Substance caution:** “3” is an exam mnemonic. Descartes says only God is absolutely independent; mind and body are created substances in a dependent or analogical sense.
 
 ---
+
+## 0A. SOURCE MAP AND COMMON-PROJECT BOUNDARY
+
+| Thinker | Primary source ownership | Methodological centre |
+|---|---|---|
+| **Descartes** | *Discourse on Method*; *Meditations*; *Principles of Philosophy*; *Passions of the Soul* and Objections/Replies | methodic doubt, intellectual intuition, deduction and foundational reconstruction |
+| **Spinoza** | *Ethics*; *Treatise on the Emendation of the Intellect*; correspondence | definitions/axioms and geometric demonstration of one necessary immanent order |
+| **Leibniz** | *Discourse on Metaphysics*; *New Essays*; *Monadology*; *Theodicy*; Leibniz–Clarke correspondence | sufficient reason, complete concepts, possible worlds and simple substances |
+
+- ✅ The rationalists do not reject experience as useless. They deny that sensory experience by itself can ground necessity, universality or an indubitable first principle.
+- ✅ Their unity lies in confidence that reality has an intelligible rational structure; their incompatible substance counts show that a shared method does not mechanically yield one metaphysics.
+- ⚠️ Descartes' finite substances, Spinoza's one substance and Leibniz's monads answer different revisions of inherited “substance.” Always name the operative criterion.
 
 ## 1. CARTESIAN METHOD AND CERTAIN KNOWLEDGE ✅
 
@@ -51,7 +65,8 @@ RATIONALISM = certain knowledge through REASON ALONE (model: mathematics)
 **"Cogito, ergo sum" — "I think, therefore I am."** The one thing I cannot doubt is that I (as a thinking thing) exist: *the very act of doubting proves a doubter*. ✅
 
 - Not a syllogism (despite the "therefore") — it is an **immediate intuition**: "I think, I exist" is self-evident whenever I think it.
-- The self known through the cogito is a **res cogitans** — a thinking thing whose whole essence is thought. ✅
+- ✅ Its exact immediate force is performative and present-tense: whenever thinking occurs, “I am, I exist” cannot be false for the thinker.
+- ⚠️ The cogito by itself establishes thinking existence, not yet an enduring immaterial substance, diachronic personal identity or a complete theory of mind. Descartes develops the **thinking thing (res cogitans)** through the remainder of Meditation II and the later real-distinction argument.
 - The cogito is the **Archimedean point** from which Descartes rebuilds all knowledge.
 
 ### 1.3 Criterion of Truth and the Rebuilding
@@ -69,11 +84,39 @@ Descartes uses clear-and-distinct perception to prove God, then uses God to *gua
 
 | Tenet | Content |
 |---|---|
-| **Innate ideas** | Some ideas (God, substance, infinity, the axioms of mathematics) are not derived from experience; they are implanted in the mind by its very nature. |
-| **Reason as source of certain knowledge** | Genuine knowledge is *a priori* — attained by the intellect alone (contra empiricism). |
-| **Deductive method** | Knowledge proceeds by deduction from self-evident axioms (more geometrico in Spinoza). |
+| **Innate cognitive resources** | Some concepts/principles are native capacities or structures of intellect rather than copies derived from sensation. |
+| **Reason as ground of necessity** | Experience may occasion thought, but intellect supplies the warrant for necessity, universality and first principles. |
+| **Intuition and deduction** | Descartes uses clear intellectual intuition and ordered deduction; Spinoza adopts geometric presentation; Leibniz reasons through identities, sufficient reasons and complete concepts. |
 | **The intelligibility of reality** | The real is the rational — the world's structure is accessible to reason. |
 | **Substance metaphysics** | Reality is explained in terms of substance(s) and their attributes/modes. |
+
+- ❌ Rationalism is not the claim that all sensory beliefs are false or that every truth is consciously present at birth.
+
+### 1.5A Descartes on innate ideas and Locke's challenge
+
+- ✅ Descartes distinguishes ideas received as if from outside (**adventitious**), voluntarily constructed (**factitious**) and native to the mind's rational nature (**innate**).
+- ✅ Innateness need not mean an explicitly entertained proposition in an infant; it may be a disposition or native capacity activated on an appropriate occasion.
+- ✅ The ideas of thought, God, infinity and basic mathematical structures perform system-specific work that Descartes denies can be copied from finite sensation.
+
+| Locke's objection | Cartesian reply | Residual force |
+|---|---|---|
+| No universal assent: children and persons lacking the concepts do not affirm alleged innate principles | Innateness is dispositional, not continuous conscious assent | A disposition must be specified without making every learnable truth innate |
+| An unknown principle cannot be “in the mind” if mental content is transparent | Native capacities can operate before reflective recognition | Risks shifting from innate ideas to an uncontroversial capacity to learn |
+| Sensation and reflection can supply the materials of all ideas | Finite experience cannot by itself yield the positive idea of infinity or necessary mathematical warrant | Locke can reconstruct infinity by repetition/negation and necessity through abstraction |
+
+- ⚠️ A high-scoring 2023 answer must state the strongest dispositional Cartesian view before using Locke's universal-assent and emptiness objections.
+
+### 1.5B How Descartes restores the external world
+
+1. ✅ After the cogito, Descartes proves a perfect non-deceiving God and extends trust beyond presently attended clear perceptions.
+2. ✅ Sensory ideas occur involuntarily through a passive faculty of reception and therefore require an active cause.
+3. ✅ I possess a powerful natural inclination to attribute them to material bodies rather than to myself.
+4. ✅ If no bodies existed and God allowed this unavoidable inclination without correction, God would systematically deceive.
+5. ✅ Therefore material things exist as extended realities.
+
+- ⚠️ The conclusion secures bodies and extension more strongly than the literal accuracy of every colour, size, distance or sensible appearance; intellect and cross-checking must correct sensory error.
+- ❌ The wax argument does not prove that bodies exist. It establishes that bodily identity, if known, is grasped by intellect; the Meditation VI world-proof depends on divine veracity.
+- ❓ The reconstruction inherits the Cartesian Circle: if God's proof already depends on the general reliability of clear and distinct ideas, the bridge to the world remains vulnerable.
 
 ### 1.6 Descartes — THE WAX ARGUMENT (*Meditation* II) ✅ — the missing half of "certain knowledge"
 
@@ -189,7 +232,9 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 **"Whatever is, is in God" (*Eth.* I, P15)** (PYQ 2024 Q2b): Since there is only one substance and everything else is its mode, *nothing* exists outside God. God alone is absolutely real; finite things are real only as modifications *within* God. ✅
 
 **Does Spinoza's monism entail pantheism?** (PYQ 2022 Q2c):
-- *Pantheism:* God = Nature = the one infinite substance. God is not a personal transcendent creator but the immanent, necessary order of all that is. ✅
+- ✅ It entails pantheism in the qualified sense that no reality exists outside God/Nature and finite things are modes within the one immanent substance.
+- ❌ It does not follow that each finite thing, or the aggregate of visible things, is numerically identical with the whole infinite divine essence.
+- ⚠️ “Panentheism” emphasizes that all things are in God while God exceeds the finite modes and the two attributes humans know; interpreters dispute whether this is a better label than pantheism.
 - *Objection (acosmism charge — Hegel's):* if God is the *only* reality, individual things dissolve into nothingness; this is *acosmism* (denial of the world), not pantheism (deification of the world). ❓ (Contested — Spinoza would say modes are real *in their way*, as expressions of substance.)
 
 ### 2.3 LEIBNIZ on Substance — INFINITE substances (Pluralist)
@@ -197,10 +242,21 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 - Leibniz denies that *extension* can be the essence of substance (it is divisible → composite → not truly simple). True substances must be **simple** (partless). ✅
 - **Monads:** reality consists of infinitely many **monads** — simple, unextended, indestructible, soul-like points of force/perception. ✅
 - Each monad has **perception** (internal representation of the universe) and **appetition** (inner striving from one perception to the next).
+- ✅ Most perceptions are **minute perceptions (petites perceptions)** below reflective awareness; **apperception** is conscious awareness of perception and must not be attributed to every monad.
 - **"Monads have no windows":** they do not causally interact — no influx of external influence. All change is internal, unfolding from the monad's own nature. ✅
-- Monads form a graded hierarchy: bare (mineral) → animal soul → rational soul → **God** (the supreme Monad, the only *necessary* being).
+- ✅ Created monads form a hierarchy: bare entelechies with unconscious perception, animal souls with memory, and rational spirits capable of reflection and necessary truths.
+- ⚠️ God is the unique uncreated necessary simple substance and source of monads. Calling God the “supreme Monad” is common shorthand, but God is not merely the highest member of the created series.
+- ✅ An organism is coordinated by a dominant monad and an organic aggregate of subordinate monads; this is not causal control through exchanged signals.
 - **Identity of Indiscernibles:** no two monads are exactly alike (else God would have no reason to create both — violates the Principle of Sufficient Reason). ✅
-- **What we call "matter"** = confused perception by inferior monads; extension is a *phenomenon* (appearance), not the essence of reality. ⚠️
+- ⚠️ Extended bodies are **well-founded phenomena (phaenomena bene fundata)** grounded in ordered monadic aggregates. They are not ultimate substances, but neither are they merely arbitrary private illusions.
+
+### 2.3A Truth, possibility and contingency
+
+- ✅ **Truths of reason** are necessary and their denial implies contradiction; finite analysis can in principle reduce them to identities.
+- ✅ **Truths of fact** are contingent and governed by the Principle of Sufficient Reason; their complete analysis is infinite and available only to God.
+- ✅ A complete individual concept contains every predicate of its individual, but this makes an event certain in the actual world rather than absolutely necessary across all possible worlds.
+- ✅ Other complete, compossible worlds remain possible; God freely actualizes the best world according to wisdom and goodness.
+- ⚠️ This preserves logical contingency and internal spontaneity, but critics argue that a predicate eternally contained in the agent's concept leaves too little alternative possibility for robust freedom.
 
 ### 2.4 Substance — Comparative Table ⚠️
 
@@ -246,9 +302,22 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 - God acts from the **necessity of His own nature** — not by will or design; there is no choice, no purpose, no providence.
 - **Natura naturans** (God as the self-caused creative activity) vs **Natura naturata** (God as the totality of modes — the produced world). ✅
 - **Attributes of God:** infinite in number; we know Thought and Extension. Each attribute expresses the *whole* essence of God from a different aspect.
-- PYQ 2024 P-II Q6b and 2022 P-II Q5a ask precisely this: **God embedded in substance-and-attributes.** The answer = God IS substance; attributes ARE God's essence expressed under kinds; modes ARE God's self-modifications.
+- PYQ 2024 P-II Q6b and 2022 P-II Q5a ask precisely this: God is substance; attributes express the whole eternal essence under distinct kinds; modes are affections that exist in and are conceived through substance.
 
-**"Whatever is, is in God, and nothing can be or be conceived without God"** (*Eth.* I, P15): ✅ this is not merely "God created everything" (theism) — it is "everything *is* God" (pantheism / panentheism).
+**"Whatever is, is in God, and nothing can be or be conceived without God"** (*Eth.* I, P15): ✅ this denies an externally created realm outside God. It grounds qualified pantheism or a panentheistic reading, not the crude equation “each finite thing = the whole of God.”
+
+### 3.2A Divine necessity and infinitely many modes
+
+- ✅ *Ethics* I, Proposition 16 states that infinitely many things in infinitely many ways follow from the necessity of divine nature.
+- ✅ Infinite attributes express the whole divine essence, and modes follow immanently from what substance is rather than from a discretionary act of creation.
+- ✅ The inference is logical/ontological, not a temporal story in which God first exists and later produces an external world.
+- ✅ Proposition 29 therefore denies contingency in Nature: apparent possibility records limited knowledge of causes, not an objective gap in the order.
+
+| Objection | Spinoza's reply | Residual force |
+|---|---|---|
+| Necessity removes divine personality and choice | will/intellect are not faculties outside nature; anthropomorphic choice would limit God | religion loses providential personality |
+| If all follows from God, evil also follows necessarily | good/evil express relations to human flourishing, not properties of infinite substance | suffering still belongs to the necessary order |
+| Proposition 16 asserts more than the definitions prove | an infinite cause must express itself infinitely | the precise derivation of determinate finite modes remains difficult |
 
 ### 3.3 LEIBNIZ on God
 
@@ -260,9 +329,9 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 | Feature | Descartes | Spinoza | Leibniz |
 |---|---|---|---|
-| Nature of God | personal, transcendent, infinite perfection | impersonal, immanent, = substance = Nature | personal (in a sense), necessary being, supreme Monad |
+| Nature of God | personal, transcendent, infinite perfection | impersonal, immanent, = substance = Nature | personal necessary being and source of created monads |
 | Proof used | trademark + ontological + conservation | a priori from definition of substance | cosmological (PSR) + ontological |
-| God's relation to world | creator (transcendent, external) | immanent cause (God = world under modes) | creator who chose the best possible world |
+| God's relation to world | creator (transcendent, external) | all modes are in God; God is not the finite aggregate | creator who chose the best possible world |
 | God and freedom | God created freely; gave humans free will | God acts by necessity of His nature (no will) | God chose freely (among possibles) → but the choice was determined by what is best |
 | Role in the system | guarantees knowledge | IS the system | harmonises monads |
 
@@ -287,6 +356,7 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 - Mind and body are **not two substances interacting** but **one and the same thing expressed under two attributes** (Thought and Extension). ✅
 - *"The order and connection of ideas is the same as the order and connection of things"* (*Eth.* II, P7). ✅
+- ✅ The human mind is the idea of the human body (*Eth.* II, P13), so mental and bodily sequences correspond through the same immanent order rather than exchanged causal influence.
 - There is no causal interaction *across* attributes; instead, every event has both a mental and a physical description (parallelism). My "decision" to raise my arm and the physical arm-movement are the *same* event seen under Thought and Extension respectively.
 - **Dissolution of the problem:** the mind-body problem was generated by Descartes' false assumption that mind and body are *different substances*. Remove that assumption and the puzzle vanishes. ⚠️
 
@@ -320,8 +390,10 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 - The **will** is *infinite* in scope (we can affirm or deny anything); the **intellect** is *finite* (we perceive clearly only a limited range). ✅
 - **Error** arises when the will affirms beyond what the intellect clearly perceives.
-- **Freedom:** Descartes is a **libertarian** about human freedom — the will is genuinely undetermined; it can withhold assent. The mind is not subject to mechanical laws (those govern only extension).
-- However: God created our nature and the eternal truths — so there is a layer of *divine determinism* in the background. ❓
+- ✅ Freedom includes the power to affirm, deny or withhold assent and is not reducible to bodily mechanism.
+- ✅ Mere indifference is the lowest grade of freedom; when the intellect clearly perceives truth, the will assents more freely because it acts from evident reason rather than external compulsion.
+- ❓ Descartes is often classified as libertarian, but the relation between alternative possibilities, clear intellectual determination and divine preordination is contested.
+- ⚠️ His view preserves responsibility for error through misuse of will, while leaving the reconciliation of created freedom with God's complete causality underexplained.
 
 ### 5.2 SPINOZA on Freedom and Determinism
 
@@ -331,6 +403,10 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
   - *"That thing is said to be free which exists solely from the necessity of its own nature, and is determined to action by itself alone"* (*Eth.* I, Def. 7). ✅ — PYQ 2023 Q1(c) quotes this.
 - **Only God is absolutely free** (He alone is determined solely by His own nature, without external constraint). Humans achieve *relative* freedom by attaining adequate knowledge (the third kind of knowledge — *scientia intuitiva*; see §1.7 for the full three-kinds apparatus and the fourth-proportional example). ✅
 - **Consequence — passions vs actions:** when we are governed by external causes (passions/affects), we are in *bondage*; when we understand things adequately (sub specie aeternitatis), we *act* — and this is freedom. ✅
+- ✅ Each thing's striving to persevere (**conatus**) is its actual essence (*Ethics* III, P6–P7); in a human being, conscious conatus appears as desire.
+- ✅ Passive affects arise when the person is only a partial cause under external determination; active affects arise from adequate ideas and increased power of acting.
+- ✅ Rational understanding culminates in the intellectual love of God (**amor Dei intellectualis**) and blessedness, not escape from necessity.
+- ⚠️ Spinoza therefore offers freedom as adequate self-activity within necessity, not free will as an uncaused power to choose otherwise.
 
 ### 5.3 LEIBNIZ on Freedom
 
@@ -390,6 +466,25 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 | Pre-established harmony is ad hoc / unfalsifiable | Leibniz: it is the only solution that avoids both unintelligible interaction and the loss of substance-plurality |
 | "Best of all possible worlds" → Voltaire's *Candide* | Leibniz: "best" = maximum variety with minimum principles, not maximum human comfort |
 | Freedom is illusory if every state is pre-determined in the concept | Leibniz: contingency is preserved because the opposite is conceivable (not self-contradictory) |
+
+---
+
+## 7A. MARKS-ESSENTIAL OWNER CONTENT AND OPTIONAL ENRICHMENT
+
+### Core owner
+
+- ✅ Rationalist method and innate rational resources.
+- ✅ Cartesian certainty, substance, God, world reconstruction, mind–body interaction and freedom.
+- ✅ Spinoza's substance/attribute/mode system, immanent necessity, parallelism and freedom through adequate understanding.
+- ✅ Leibniz's monads, sufficient reason, possible worlds, pre-established harmony and compatibilist freedom.
+- ✅ All fourteen routed PYQs and comparative 3–1–∞ / interaction–parallelism–harmony structures.
+
+### Optional enrichment
+
+- ⚠️ Descartes' detailed physiology, passions and scientific cosmology are optional beyond the pineal/union and error problems.
+- ⚠️ Spinoza's full political, biblical-critical and affect taxonomy is optional; conatus, passive/active affects and intellectual love remain only to explain freedom.
+- ⚠️ Leibniz's space/time relationalism, calculus disputes and full theodicy are optional unless a future PYQ asks them; possible worlds and evil remain only to support freedom and God's selection.
+- ⚠️ Locke and Kant belong to later owners and appear here only as targeted objections to innate ideas, God-proofs and unrestricted rationalist metaphysics.
 
 ---
 

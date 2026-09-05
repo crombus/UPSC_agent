@@ -1,0 +1,1062 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-05",
+  "subject": "Indian-Society",
+  "title": "RURAL SOCIETY AND AGRARIAN CHANGE",
+  "short_route": "JAJMANI ANATOMY → WHAT ACTUALLY DEFINED JAJMANI → DECLINE MECHANISM → AGRARIAN CLASS LADDER → DOMINANT CASTE TEST → TWO CATEGORIES KEPT APART",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-05\\indian-society-05_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-05-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "d490d6197a295a61ce48095c4897a814814a5aa6c2835533b85e7adc10499a71",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "JAJMANI ANATOMY",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JAJMANI ANATOMY",
+          "role": "primary"
+        },
+        {
+          "text": "PATRON HOUSEHOLD, USUALLY LANDHOLDING",
+          "role": "outcome"
+        },
+        {
+          "text": "DESIGNATED HEREDITARY SERVICE GROUP",
+          "role": "comparison"
+        },
+        {
+          "text": "BARBERING, LAUNDRY, PRIESTLY, CARPENTRY, SMITHING",
+          "role": "evidence"
+        },
+        {
+          "text": "CUSTOMARY, OFTEN GRAIN OR KIND, SOMETIMES CASH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "JAJMAN → patron household, usually landholding",
+        "KAMIN → designated hereditary service group",
+        "SERVICE → barbering, laundry, priestly, carpentry, smithing",
+        "PAYMENT → customary, often grain or kind, sometimes cash"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "JAJMAN → patron household, usually landholding",
+            "KAMIN → designated hereditary service group"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SERVICE → barbering, laundry, priestly, carpentry, smithing",
+            "PAYMENT → customary, often grain or kind, sometimes cash"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JAJMAN → patron household, usually landholding",
+            "KAMIN → designated hereditary service group"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAYMENT → customary, often grain or kind, sometimes cash.",
+      "source_references": [
+        "The jajmani exchange"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WHAT ACTUALLY DEFINED JAJMANI",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHAT ACTUALLY DEFINED JAJMANI",
+          "role": "primary"
+        },
+        {
+          "text": "THE ABSENCE OF CASH IN THE TRANSACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HEREDITARY ALLOCATION OF THE SERVICE ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSONALISED PATRON-CLIENT OBLIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CASTE OCCUPATION EMBEDDED IN THE VILLAGE ECONOMY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NOT → the absence of cash in the transaction",
+        "YES → hereditary allocation of the service role",
+        "YES → personalised patron-client obligation",
+        "YES → caste occupation embedded in the village economy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "NOT → the absence of cash in the transaction",
+            "YES → hereditary allocation of the service role"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "YES → personalised patron-client obligation",
+            "YES → caste occupation embedded in the village economy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT → the absence of cash in the transaction",
+            "YES → hereditary allocation of the service role"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "YES → caste occupation embedded in the village economy.",
+      "source_references": [
+        "The jajmani exchange"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DECLINE MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DECLINE MECHANISM",
+          "role": "caution"
+        },
+        {
+          "text": "PATRONS BUY SERVICES IN A MARKET",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-FARM WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE CASTES MIGRATE TO TOWNS FOR WAGES",
+          "role": "evidence"
+        },
+        {
+          "text": "HEREDITARY OCCUPATION-CASTE LINK BREAKS",
+          "role": "primary"
+        },
+        {
+          "text": "RITUAL AND PERSONALISED TIES SURVIVE IN PLACES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "COMMERCIALISATION → patrons buy services in a market",
+        "NON-FARM WORK → service castes migrate to towns for wages",
+        "DECOUPLING → hereditary occupation-caste link breaks",
+        "RESIDUAL → ritual and personalised ties survive in places"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "COMMERCIALISATION → patrons buy services in a market",
+            "NON-FARM WORK → service castes migrate to towns for wages"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "DECOUPLING → hereditary occupation-caste link breaks",
+            "RESIDUAL → ritual and personalised ties survive in places"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMERCIALISATION → patrons buy services in a market",
+            "NON-FARM WORK → service castes migrate to towns for wages"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESIDUAL → ritual and personalised ties survive in places.",
+      "source_references": [
+        "Why jajmani changed"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AGRARIAN CLASS LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AGRARIAN CLASS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "LANDOWNING CULTIVATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTROLS LAND AND SURPLUS",
+          "role": "comparison"
+        },
+        {
+          "text": "TENANT OR SHARECROPPER",
+          "role": "evidence"
+        },
+        {
+          "text": "CULTIVATES WITH INSECURE CLAIM",
+          "role": "primary"
+        },
+        {
+          "text": "LANDLESS LABOURER",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDS ON WAGE WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASS OFTEN BUT NOT ALWAYS TRACKS CASTE RANK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LANDOWNING CULTIVATOR → controls land and surplus",
+        "TENANT OR SHARECROPPER → cultivates with insecure claim",
+        "LANDLESS LABOURER → depends on wage work",
+        "OVERLAP → class often but not always tracks caste rank"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "LANDOWNING CULTIVATOR → controls land and surplus",
+            "TENANT OR SHARECROPPER → cultivates with insecure claim"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "LANDLESS LABOURER → depends on wage work",
+            "OVERLAP → class often but not always tracks caste rank"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LANDOWNING CULTIVATOR → controls land and surplus",
+            "TENANT OR SHARECROPPER → cultivates with insecure claim"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OVERLAP → class often but not always tracks caste rank.",
+      "source_references": [
+        "Agrarian class structure",
+        "Caste and class in the village"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DOMINANT CASTE TEST",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOMINANT CASTE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "LOCALLY NUMEROUS POPULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SIGNIFICANT SHARE OF VILLAGE LAND",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL OF PANCHAYAT AND POLITICAL NETWORKS",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL POWER CAN SIT BELOW THE RITUAL TOP",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "NUMBERS → locally numerous population",
+        "LAND → significant share of village land",
+        "OFFICE → control of Panchayat and political networks",
+        "RESULT → local power can sit below the ritual top"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "NUMBERS → locally numerous population",
+          "OFFICE → control of Panchayat and political networks",
+          "NUMBERS → locally numerous population"
+        ],
+        [
+          "LAND → significant share of village land",
+          "RESULT → local power can sit below the ritual top",
+          "LAND → significant share of village land"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NUMBERS → locally numerous population",
+            "LAND → significant share of village land"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OFFICE → control of Panchayat and political networks",
+            "RESULT → local power can sit below the ritual top"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "NUMBERS → locally numerous population",
+            "LAND → significant share of village land"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → local power can sit below the ritual top.",
+      "source_references": [
+        "The dominant caste",
+        "Srinivas's village evidence"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TWO CATEGORIES KEPT APART",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO CATEGORIES KEPT APART",
+          "role": "primary"
+        },
+        {
+          "text": "DOMINANT CASTE",
+          "role": "outcome"
+        },
+        {
+          "text": "CASTE-LEVEL, NUMBERS PLUS LAND PLUS OFFICE",
+          "role": "comparison"
+        },
+        {
+          "text": "LANDOWNING CLASS",
+          "role": "evidence"
+        },
+        {
+          "text": "ECONOMIC CATEGORY CUTTING ACROSS CASTES",
+          "role": "primary"
+        },
+        {
+          "text": "USUAL CASE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE TWO LARGELY COINCIDE IN A VILLAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "ERROR PREVENTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOMINANT CASTE → caste-level, numbers plus land plus office",
+        "LANDOWNING CLASS → economic category cutting across castes",
+        "USUAL CASE → the two largely coincide in a village",
+        "ERROR PREVENTED → treating them as the same unit"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "DOMINANT CASTE → caste-level, numbers plus land plus office",
+          "USUAL CASE → the two largely coincide in a village",
+          "DOMINANT CASTE → caste-level, numbers plus land plus office"
+        ],
+        [
+          "LANDOWNING CLASS → economic category cutting across castes",
+          "ERROR PREVENTED → treating them as the same unit",
+          "LANDOWNING CLASS → economic category cutting across castes"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DOMINANT CASTE → caste-level, numbers plus land plus office",
+            "LANDOWNING CLASS → economic category cutting across castes"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "USUAL CASE → the two largely coincide in a village",
+            "ERROR PREVENTED → treating them as the same unit"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DOMINANT CASTE → caste-level, numbers plus land plus office",
+            "LANDOWNING CLASS → economic category cutting across castes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR PREVENTED → treating them as the same unit.",
+      "source_references": [
+        "Dominance is not landownership alone"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GREEN REVOLUTION DIFFERENTIATION",
+      "structural_type": "causal-system",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GREEN REVOLUTION DIFFERENTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "INPUT PACKAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH-YIELDING SEED, IRRIGATION, FERTILISER",
+          "role": "comparison"
+        },
+        {
+          "text": "UPFRONT CAPITAL, CREDIT AND MARKET ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "EARLIER ADOPTERS CAPTURE A LARGER SHARE OF GAINS",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOME VARIES BY CROP, TENANCY AND REGION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INPUT PACKAGE → high-yielding seed, irrigation, fertiliser",
+        "REQUIREMENT → upfront capital, credit and market access",
+        "EFFECT → earlier adopters capture a larger share of gains",
+        "LIMIT → outcome varies by crop, tenancy and region"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "INPUT PACKAGE → high-yielding seed, irrigation, fertiliser",
+            "REQUIREMENT → upfront capital, credit and market access"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "EFFECT → earlier adopters capture a larger share of gains",
+            "LIMIT → outcome varies by crop, tenancy and region"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INPUT PACKAGE → high-yielding seed, irrigation, fertiliser",
+            "REQUIREMENT → upfront capital, credit and market access"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → outcome varies by crop, tenancy and region.",
+      "source_references": [
+        "Green Revolution differentiation",
+        "Why the outcome is region-specific"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PANCHAYAT POWER TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PANCHAYAT POWER TEST",
+          "role": "mechanism"
+        },
+        {
+          "text": "RESERVED SEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED CASTES, SCHEDULED TRIBES AND WOMEN",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO SETS THE AGENDA IN PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROXY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "INFORMAL DOMINANT-CASTE NETWORK CONTROLS DECISIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE NEEDED",
+          "role": "evidence"
+        },
+        {
+          "text": "VILLAGE-LEVEL, NOT A NATIONAL STATISTIC",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESERVED SEAT → Scheduled Castes, Scheduled Tribes and women",
+        "QUESTION → who sets the agenda in practice",
+        "PROXY RISK → informal dominant-caste network controls decisions",
+        "EVIDENCE NEEDED → village-level, not a national statistic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "RESERVED SEAT → Scheduled Castes, Scheduled Tribes and women",
+            "QUESTION → who sets the agenda in practice"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "PROXY RISK → informal dominant-caste network controls decisions",
+            "EVIDENCE NEEDED → village-level, not a national statistic"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESERVED SEAT → Scheduled Castes, Scheduled Tribes and women",
+            "QUESTION → who sets the agenda in practice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE NEEDED → village-level, not a national statistic.",
+      "source_references": [
+        "Panchayati Raj reservation",
+        "Representation and substantive power"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONTINUUM AGAINST DICHOTOMY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONTINUUM AGAINST DICHOTOMY",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE TRADITIONAL, TOWN MODERN, SEALED APART",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE SPECTRUM LINKED BY FLOWS",
+          "role": "comparison"
+        },
+        {
+          "text": "MIGRATION, REMITTANCE, TRADE, MEDIA, ROAD AND MARKET",
+          "role": "evidence"
+        },
+        {
+          "text": "LINKAGE DOES NOT ABOLISH REMOTENESS OR LAND RELATIONS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DICHOTOMY → village traditional, town modern, sealed apart",
+        "CONTINUUM → one spectrum linked by flows",
+        "FLOWS → migration, remittance, trade, media, road and market",
+        "CAUTION → linkage does not abolish remoteness or land relations"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "DICHOTOMY → village traditional, town modern, sealed apart",
+          "FLOWS → migration, remittance, trade, media, road and market",
+          "DICHOTOMY → village traditional, town modern, sealed apart"
+        ],
+        [
+          "CONTINUUM → one spectrum linked by flows",
+          "CAUTION → linkage does not abolish remoteness or land relations",
+          "CONTINUUM → one spectrum linked by flows"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DICHOTOMY → village traditional, town modern, sealed apart",
+            "CONTINUUM → one spectrum linked by flows"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FLOWS → migration, remittance, trade, media, road and market",
+            "CAUTION → linkage does not abolish remoteness or land relations"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DICHOTOMY → village traditional, town modern, sealed apart",
+            "CONTINUUM → one spectrum linked by flows"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → linkage does not abolish remoteness or land relations.",
+      "source_references": [
+        "The rural-urban continuum"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SCOPE DISCIPLINE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCOPE DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIETY OWNS",
+          "role": "outcome"
+        },
+        {
+          "text": "JAJMANI, DOMINANCE, STRATIFICATION, CONTINUUM",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMY OWNS",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND CEILING, TENANCY LAW, POVERTY AGGREGATES",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNANCE OWNS",
+          "role": "outcome"
+        },
+        {
+          "text": "PANCHAYATI RAJ INSTITUTIONAL DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-REFER THE BORROWING AND LABEL IT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOCIETY OWNS → jajmani, dominance, stratification, continuum",
+        "ECONOMY OWNS → land ceiling, tenancy law, poverty aggregates",
+        "GOVERNANCE OWNS → Panchayati Raj institutional design",
+        "RULE → cross-refer the borrowing and label it"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "SOCIETY OWNS → jajmani, dominance, stratification, continuum",
+          "GOVERNANCE OWNS → Panchayati Raj institutional design",
+          "SOCIETY OWNS → jajmani, dominance, stratification, continuum"
+        ],
+        [
+          "ECONOMY OWNS → land ceiling, tenancy law, poverty aggregates",
+          "RULE → cross-refer the borrowing and label it",
+          "ECONOMY OWNS → land ceiling, tenancy law, poverty aggregates"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOCIETY OWNS → jajmani, dominance, stratification, continuum",
+            "ECONOMY OWNS → land ceiling, tenancy law, poverty aggregates"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GOVERNANCE OWNS → Panchayati Raj institutional design",
+            "RULE → cross-refer the borrowing and label it"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOCIETY OWNS → jajmani, dominance, stratification, continuum",
+            "ECONOMY OWNS → land ceiling, tenancy law, poverty aggregates"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → cross-refer the borrowing and label it.",
+      "source_references": [
+        "Scope discipline in a rural answer"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MEASUREMENT BOUNDARY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MEASUREMENT BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "PLFS 2023-24",
+          "role": "outcome"
+        },
+        {
+          "text": "DATED RURAL WORKFORCE COMPARATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "PLFS ANNUAL REPORT 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "RELEASED MARCH 2026, LATEST ROUND",
+          "role": "primary"
+        },
+        {
+          "text": "JANUARY TO DECEMBER, NOT THE OLDER JULY TO JUNE",
+          "role": "caution"
+        },
+        {
+          "text": "CANNOT PROVE JAJMANI DECLINE OR CASTE DOMINANCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PLFS 2023-24 → dated rural workforce comparator",
+        "PLFS ANNUAL REPORT 2025 → released March 2026, latest round",
+        "PERIOD → January to December, not the older July to June cycle",
+        "LIMIT → cannot prove jajmani decline or caste dominance"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PLFS 2023-24 → dated rural workforce comparator",
+          "PERIOD → January to December, not the older July to June cycle",
+          "PLFS 2023-24 → dated rural workforce comparator"
+        ],
+        [
+          "PLFS ANNUAL REPORT 2025 → released March 2026, latest round",
+          "LIMIT → cannot prove jajmani decline or caste dominance",
+          "PLFS ANNUAL REPORT 2025 → released March 2026, latest round"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PLFS 2023-24 → dated rural workforce comparator",
+            "PLFS ANNUAL REPORT 2025 → released March 2026, latest round"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PERIOD → January to December, not the older July to June cycle",
+            "LIMIT → cannot prove jajmani decline or caste dominance"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLFS 2023-24 → dated rural workforce comparator",
+            "PLFS ANNUAL REPORT 2025 → released March 2026, latest round"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → cannot prove jajmani decline or caste dominance.",
+      "source_references": [
+        "Measurement boundaries"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "RURAL ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "RURAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE CHANGING POWER RELATION, NOT A VILLAGE PORTRAIT",
+          "role": "caution"
+        },
+        {
+          "text": "JAJMANI CHANGE, CLASS STRUCTURE, DOMINANCE, PANCHAYAT",
+          "role": "comparison"
+        },
+        {
+          "text": "WHICH RESOURCE NOW CARRIES POWER IN THIS VILLAGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONTINUUM VERDICT WITH THE DATA AND SCOPE CAVEATS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the changing power relation, not a village portrait",
+        "BODY → jajmani change, class structure, dominance, Panchayat",
+        "FRAME → which resource now carries power in this village",
+        "CLOSE → continuum verdict with the data and scope caveats"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OPEN → name the changing power relation, not a village portrait",
+            "BODY → jajmani change, class structure, dominance, Panchayat"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "FRAME → which resource now carries power in this village",
+            "CLOSE → continuum verdict with the data and scope caveats"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the changing power relation, not a village portrait",
+            "BODY → jajmani change, class structure, dominance, Panchayat"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → continuum verdict with the data and scope caveats.",
+      "source_references": [
+        "Answer spine and honest question status"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PANCHAYATI RAJ RESERVATION (CROSS-LINKED, INSTITUTIONAL DESIGN IN GOVERNANCE)",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND REFORM AND TENANCY SECURITY (CROSS-LINKED TO ECONOMY)",
+          "role": "comparison"
+        },
+        {
+          "text": "CEILING LAWS AND",
+          "role": "evidence"
+        },
+        {
+          "text": "SELF-HELP GROUP AND COOPERATIVE INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "RURAL SHGS AND COOPERATIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — JAJMANI PERSISTENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "A REMOTE VILLAGE WHERE A FAMILY STILL CALLS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORETICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Panchayati Raj reservation (cross-linked, institutional design in Governance):",
+            "CAUTION: Land reform and tenancy security (cross-linked to Economy): ceiling laws and",
+            "CAUTION: Self-Help Group and cooperative institutions: rural SHGs and cooperatives",
+            "CAUTION: Boundary case 1 — jajmani persistence: a remote village where a family still calls"
+          ]
+        },
+        {
+          "heading": "DATA / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Boundary case 2 — proxy sarpanch: a Panchayat where a reserved-seat woman",
+            "CAUTION: Boundary case 3 — successful reservation outcome: a Panchayat where an SC-reserved",
+            "CAUTION: Boundary case 4 — full rural-urban continuum: a village where most households have",
+            "CAUTION: Aggregate-output-versus-distribution trade-off: Green Revolution-style"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE SOCIAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Reservation-compliance-versus-substantive-power gap: measuring reform success by",
+            "CAUTION: Continuum-versus-residual-isolation tension: while the rural-urban continuum",
+            "M.N. Srinivas's \"dominant caste\" concept and Rampura village fieldwork are the",
+            "Jajmani commonly involved customary grain/in-kind payment, but cash and mixed forms"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

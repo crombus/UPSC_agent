@@ -13,8 +13,7 @@
 | Law | **CAG's (DPC) Act, 1971** |
 
 ## Core idea
-The CAG is the **"guardian of the public purse"** and an **agent of Parliament** — he audits all government
-spending and reports to the legislature, securing executive financial accountability. Ambedkar called him **"the
+The CAG is the **"guardian of the public purse"** and an independent constitutional audit authority — it audits public finances within its legal mandate and reports through the constitutional route to legislatures, securing executive financial accountability. Ambedkar called him **"the
 most important officer under the Constitution."**
 
 > 🔑 **Comptroller in name only** — India's CAG audits **after** spending (no control over money issue, unlike
@@ -24,10 +23,10 @@ most important officer under the Constitution."**
 ## Must-Know Facts
 - ✅ Salary = **Supreme Court judge**; expenses **charged on the CFI**.
 - ✅ **Not eligible for any further govt office** after retirement.
-- ✅ Three reports: **Appropriation Accounts, Finance Accounts, Public Undertakings**.
+- ✅ Major report families include appropriation/finance-account audit and sector/entity-specific reports; there is no immutable constitutional list of exactly three reports.
 - ✅ **Guide, friend & philosopher of the PAC** (Public Accounts Committee).
 - ✅ **Legal/regulatory audit** = obligatory; **propriety audit** = discretionary.
-- ✅ **RBI, LIC, SBI, FCI** are exclusively **privately audited** (CAG not involved).
+- ✅ Public corporations and government companies follow entity-specific statutes and the DPC/Companies Act routes; never infer CAG coverage or exclusion from the entity label alone.
 
 ## 📰 Current link
 📰 ⚠️ Debate on extending CAG audit to **PPP projects, off-budget borrowings & PM-CARES**; demand for a

@@ -238,3 +238,30 @@ authoritarian order to democratic uncertainty."
 > **Study link:** World-History → `basic/20_World-Economy-and-Population-since-1900.md` §9 owns the Great Depression — causes, transmission, instruments and the authoritarian rearmament counter-case.
 > **Study link:** World-History → `basic/04_Industrial-Revolution.md` §8.6A for the Japanese industrial economy whose 1921 and 1929 collapse this file's §5 explains.
 > **Study link:** Modern-Indian-History → `basic/22_Simon-Nehru-Report-CDM-and-RTC.md` and `basic/23_Left-Peasant-Workers-and-States-Peoples-Movements.md` for interwar Indian politics without repeating it here.
+
+## 11. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the rise, ideology, social base, transfer of power,
+  institutions and coercive methods of Italian fascism and German Nazism;
+  Japanese military authoritarianism and Francoism as related but non-identical
+  cases; and the comparative challenge to interwar democratic government.
+- **Boundary:** Topic 11 owns interwar diplomacy and appeasement, Topic 13 owns
+  Russia and the USSR, Topic 14 owns wartime campaigns and the Holocaust, and
+  Topic 20 owns the Depression's full economic mechanism. Topic 12 uses those
+  contexts only to explain authoritarian takeover and regime comparison.
+- **Date control:** Fasci (1919), National Fascist Party (1921), March on Rome
+  (October 1922), Lateran Treaty (1929), Manchuria (1931), Inukai
+  assassination (1932), Hitler's chancellorship (January 1933), Enabling Law
+  (March 1933), Night of the Long Knives (1934), Nuremberg Laws (1935),
+  Spanish Civil War (1936-39) and full-scale war in China (1937) remain
+  separate institutional and geopolitical markers.
+- **Mechanism control:** economic crisis widened support but did not itself
+  transfer power; kings, conservative elites and legal mechanisms enabled
+  takeover. Fascism and Nazism overlap without being identical, biological
+  race is constitutive of Nazism, and Japan is safer classified as military
+  authoritarianism than as a duplicate mass party-state.
+- **Verified PYQ/current ownership, 2018-2025:** one 2021 GS-I demand is
+  verified in neutral rendering only: evaluate the challenge to the democratic
+  state system between the two World Wars. The UN remembrance linkage concerns
+  Nazism's consequences and is not evidence for Italian or Japanese regime
+  development.

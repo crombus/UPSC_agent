@@ -19,7 +19,7 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 - [CURRENT] Legal and programme status is controlled to **18 August 2026, Asia/Kolkata**.
 - [CURRENT] Part IX, Articles 243-243O, the Eleventh Schedule and the PESA Act, 1996 remain the controlling constitutional/statutory framework.
 - [CURRENT] The Ministry of Panchayati Raj hosts the Panchayat Devolution Index 2024, which evaluates devolution across functions, finances, functionaries and enabling/accountability conditions.
-- [CURRENT] Operational guidelines for rural local bodies under the Sixteenth Finance Commission award period **2026-27 to 2030-31** are officially published.
+- [CURRENT] Operational guidelines for rural local bodies under the Sixteenth Finance Commission award period **2026-27 to 2030-31** are controlled through the Commission report and Union action memorandum.
 - [LIMIT] Grant totals, release amounts, Panchayat counts, property-card counts and portal-usage numbers change. This package uses named programmes and dated frameworks but does not freeze dashboard totals as permanent facts.
 - [CURRENT] eGramSwaraj supports planning, accounting and monitoring; AuditOnline supports audit workflows; SVAMITVA uses drone-based survey and property cards for rural inhabited areas.
 - [CURRENT] PESA-specific planning has been integrated into digital Gram Panchayat Development Plan workflows, but legal implementation and connectivity/capacity remain uneven.
@@ -129,6 +129,9 @@ Caption: The 73rd Amendment constitutionalised rural local institutions as the t
 | 243O | bar to court interference in electoral matters |
 
 > **Mnemonic:** A Sabha, B tiers, C composition, D reservation, E duration, G functions, H finance, I SFC, K SEC.
+
+- [FACT] Under **Article 243L**, the President may apply Part IX to a Union Territory with specified exceptions and modifications.
+- [FACT] Under **Article 243N**, inconsistent pre-existing Panchayat laws could survive for at most one year from commencement unless earlier amended or repealed.
 
 ## 04. Gram Sabha: direct-democracy foundation
 
@@ -253,6 +256,7 @@ unless remainder is below 6 months
 - [FACT] The Amendment ended indefinite supersession as ordinary practice.
 - [FACT] A dissolved Panchayat must ordinarily be reconstituted within six months.
 - [LIMIT] A reconstituted body after premature dissolution does not automatically receive a fresh five-year term.
+- [FACT] If the unexpired remainder is **less than six months**, Article 243E does not require an election merely for that short remainder.
 
 ## 10. Qualifications and disqualification
 
@@ -396,6 +400,7 @@ Governor lays report + action memorandum before legislature
 
 - [FACT] The SFC is a State constitutional body, distinct from the Union Finance Commission.
 - [FACT] It reviews both rural and urban local-body finances.
+- [FACT] Its constitutional recommendations cover State-local tax distribution, assigned taxes, grants-in-aid and measures to improve Panchayat finances; the Governor lays the report and an action memorandum before the State legislature.
 - [ANALYSIS] Delayed constitution, weak data and ignored recommendations disrupt predictable fiscal federalism.
 
 ## 18. Union Finance Commission and local grants
@@ -467,6 +472,7 @@ removal protection like High Court judge
 
 - [FACT] Panchayat elections are conducted by the State Election Commission, not the Election Commission of India.
 - [FACT] Service conditions cannot be varied to the Commissioner's disadvantage after appointment.
+- [FACT] The Governor must make staff available when the SEC requests it for election work.
 - [ANALYSIS] Institutional independence is undermined if election schedules, staff or delimitation support remain under political control.
 
 ## 22. Electoral disputes and Article 243O
@@ -489,6 +495,8 @@ specified Manipur hill areas
 Darjeeling hill arrangements
 ```
 
+- [FACT] Article 243M separately covers Fifth Schedule Scheduled Areas, Sixth Schedule tribal areas, Nagaland, Meghalaya, Mizoram, specified Manipur hill areas and the constitutional Darjeeling hill clause.
+- [FACT] Parliament may extend Part IX to Nagaland, Meghalaya or Mizoram only after the State Assembly passes the prescribed resolution by a majority of total membership and at least two-thirds of members present and voting; such an extension law is not treated as an Article 368 amendment.
 - [FACT] Parliament may extend Part IX to Scheduled Areas with exceptions and modifications.
 - [FACT] PESA, 1996 uses that power for Fifth Schedule areas.
 - [LIMIT] PESA does not extend ordinary Part IX to Sixth Schedule areas.
@@ -512,6 +520,7 @@ Gram Sabha safeguards:
 ```
 
 - [FACT] PESA is a parliamentary statute extending Panchayat provisions to Fifth Schedule Scheduled Areas with modifications.
+- [FACT] PESA requires State Panchayat law to respect customary law, social and religious practices, and traditional management of community resources; its verbs of **approval, consultation, recommendation and prior recommendation** are not interchangeable.
 - [FACT] State laws must be consistent with customary law, social/religious practices and traditional management of community resources.
 - [FACT] Gram Sabhas approve plans/programmes/projects and identify beneficiaries under the statutory scheme.
 - [FACT] PESA assigns significant roles concerning minor forest produce, land alienation, village markets, money-lending and minor minerals.
@@ -768,6 +777,10 @@ CLAIM
 
 **Verdict:** The constitutional tools exist; fiscal autonomy requires States to authorise viable taxes and Panchayats to collect them credibly.
 
+**Why this earns marks:** It assesses the constitutional system before separating non-grant instruments from grants and ends with an equity qualification.
+
+**How to improve:** In 250 words, compress institutional features to two lines and devote most space to an Article 243H-classified revenue basket plus one implementation reform.
+
 ### PYQ 2 - UPSC GS-II 2019, Q13 - cross-cutting
 
 **Verified neutral demand:** Comment on whether reservation of seats for women in local bodies has effectively weakened patriarchy.  
@@ -788,6 +801,10 @@ CLAIM
 **Qualification:** [LIMIT] Outcomes vary; neither universal empowerment nor universal proxy is accurate.
 
 **Verdict:** Reservation is a necessary structural intervention that has begun to erode patriarchy; support institutions determine whether a reserved seat becomes real power.
+
+**Why this earns marks:** It gives Article 243D, substantive gains, patriarchal counter-evidence and a qualified rather than celebratory verdict.
+
+**How to improve:** Use one verified empirical illustration if recalled, but avoid universal claims; preserve space for proxy-rule remedies and intersectional barriers.
 
 ### PYQ 3 - UPSC GS-II 2020, Q13 - cross-cutting
 
@@ -811,6 +828,31 @@ CLAIM
 **Qualification:** [LIMIT] State variation is large; strong examples show the design can work.
 
 **Verdict:** The three Fs must be devolved together and tested by citizen-visible services, not by transfer notifications.
+
+**Why this earns marks:** It converts the three-F slogan into separate constitutional and administrative mechanisms and tests them through citizen-visible functionality.
+
+**How to improve:** In 250 words, use a compact Functions–Functionaries–Funds table and reserve the final quarter for a sequenced reform chain.
+
+### Supporting PYQ 4 - UPSC GS-II 2024, Q5 - cross-owned with Governance
+
+**Verified neutral demand:** Analyse the role of local bodies in good governance and examine the advantages and disadvantages of merging rural and urban local bodies.  
+**10 marks | 150 words**
+
+**Model answer**
+
+**Claim:** [FACT] Panchayats and municipalities deepen good governance by localising representation, planning, service delivery and accountability, but their constitutional forms and settlement problems remain distinct.
+
+**Role:** Panchayats connect Gram Sabha priorities, Article 243G functions, local revenues and social audit; municipalities perform the urban counterpart under Part IXA. Proximity improves information, participation and responsiveness when functions, staff and funds are genuinely devolved.
+
+**Case for merger:** peri-urban regions share water, waste, transport, markets and land-use systems; one authority can reduce boundary disputes, fragmented infrastructure and duplicated staff.
+
+**Case against:** rural and urban revenue bases, representation forums, service standards, land relations and constitutional schedules differ. A blanket merger can dilute Gram Sabha voice and rural priorities.
+
+**Verdict:** Use metropolitan or district planning and shared-service institutions for functional integration; merge elected bodies only after transparent boundary, representation and fiscal analysis.
+
+**Why this earns marks:** It answers both limbs, distinguishes constitutional institutions from shared service systems and gives a conditional rather than binary merger verdict.
+
+**How to improve:** For 150 words, use a Role → Advantages → Disadvantages → calibrated alternative structure and avoid spending space on the full 73rd/74th Amendment history.
 
 ## Routed Prelims demand - provenance without invented answer letter
 
@@ -1471,6 +1513,10 @@ D. is useful evidence but not proof of substantive self-government.
 
 **Verdict:** The Amendment settled political decentralisation; binding activity mapping, staff control and predictable finance are needed to constitutionalise its self-government promise in practice.
 
+**Why this earns marks:** The answer distinguishes mandatory democratic form from enabling devolution through Articles 243G and 243H.
+
+**How to improve:** For 150 words, retain only the institutional contrast, one consequence and one sharp reform sentence.
+
 ### M2. Evaluate Gram Sabha as an institution of participatory democracy. (15 marks, 250 words)
 
 **Model answer**
@@ -1487,6 +1533,10 @@ D. is useful evidence but not proof of substantive self-government.
 
 **Verdict:** Gram Sabha is transformative when information, voice and consequence meet; without enforceable follow-up it remains consultation without power.
 
+**Why this earns marks:** It treats Gram Sabha power as conditional on information, inclusion and enforceable follow-up rather than assuming participation.
+
+**How to improve:** Add a two-column potential-versus-constraint structure and one PESA or social-audit application.
+
 ### M3. Analyse the fiscal architecture of Panchayati Raj. (15 marks, 250 words)
 
 **Model answer**
@@ -1502,6 +1552,10 @@ D. is useful evidence but not proof of substantive self-government.
 **Current control:** [CURRENT] XVI FC rural-local-body operational guidelines cover 2026-31.
 
 **Verdict:** Grants secure equity; own revenue secures discretion and accountability. A healthy system needs both.
+
+**Why this earns marks:** It integrates own revenue, State sharing, SFC review and Union supplementation without confusing their constitutional sources.
+
+**How to improve:** Draw the Article 243H → 243I → 280 chain and name one equity safeguard against regressive user charges.
 
 ### M4. Discuss PESA as a model of tribal self-government. (15 marks, 250 words)
 
@@ -1521,6 +1575,10 @@ D. is useful evidence but not proof of substantive self-government.
 
 **Verdict:** PESA is constitutionally inspired democratic autonomy whose failure lies mainly in under-implementation, not lack of legal ambition.
 
+**Why this earns marks:** It preserves PESA’s exact legal design, Fifth Schedule scope and distinct decision verbs while acknowledging implementation gaps.
+
+**How to improve:** Organise the body under custom, planning, land and resources; never describe every Gram Sabha role as consent or veto.
+
 ### M5. Can digital platforms solve the accountability deficit in Panchayats? Critically examine. (15 marks, 250 words)
 
 **Model answer**
@@ -1536,6 +1594,10 @@ D. is useful evidence but not proof of substantive self-government.
 **Safeguards:** local-language design, e-Sewa assistance, offline options, independent audit, data-quality checks, public hearings and human decision control.
 
 **Verdict:** Digital systems are accountability infrastructure; democracy still requires powers, transparent records and organised citizen scrutiny.
+
+**Why this earns marks:** It evaluates digital tools as infrastructure within constitutional devolution rather than presenting portals as self-government.
+
+**How to improve:** Pair each digital benefit with a matching institutional risk and finish with an assisted-access safeguard.
 
 ### M6. "Own-source revenue is both a fiscal and democratic reform." Comment. (15 marks, 250 words)
 
@@ -1555,6 +1617,10 @@ D. is useful evidence but not proof of substantive self-government.
 
 **Verdict:** Own-source reform strengthens self-government when paired with equity transfers and accountable service delivery.
 
+**Why this earns marks:** It links fiscal capacity to downward accountability and balances autonomy with equalisation and affordability.
+
+**How to improve:** Classify taxes, fees, property income and assigned revenue before discussing collection reforms.
+
 ### M7. Assess Panchayati Raj as a vehicle of social transformation. (20 marks, 250 words)
 
 **Model answer**
@@ -1572,6 +1638,10 @@ D. is useful evidence but not proof of substantive self-government.
 **Reform:** protected participation, leadership support, own revenue, staff control, transparent activity maps, social audit and enforceable Gram Sabha follow-up.
 
 **Verdict:** Panchayats have democratised access to office more than control over the State. Their transformative promise depends on converting representation into authority and services.
+
+**Why this earns marks:** It combines representation, participation and service delivery while testing each against structural exclusion and weak devolution.
+
+**How to improve:** For 20 marks, add a brief transformation chain and distinguish descriptive representation from substantive authority.
 
 ### M8. Design a reform programme to move Panchayats from the three Fs to functionality. (20 marks, 250 words)
 
@@ -1592,6 +1662,10 @@ D. is useful evidence but not proof of substantive self-government.
 **Measurement:** use the Devolution Index dimensions and citizen service outcomes rather than subject-transfer claims alone.
 
 **Verdict:** Functionality begins when the elected Panchayat can decide, direct staff, spend predictable money and answer publicly for outcomes.
+
+**Why this earns marks:** It supplies an executable sequence across all three Fs, democracy, technology and measurable outcomes.
+
+**How to improve:** Present reforms in immediate, medium-term and institutional phases, with one accountable actor for each phase.
 
 ## Final consolidated register notes
 

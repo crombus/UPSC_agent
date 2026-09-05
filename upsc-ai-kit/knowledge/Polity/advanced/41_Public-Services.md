@@ -1,4 +1,4 @@
-# Public Services / All-India Services (Articles 308–323) — ADVANCED / COMPLETE
+# Public Services / All-India Services (Articles 308–314) — ADVANCED / COMPLETE
 
 > **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
 > **Grounded in:** Indian Polity by M. Laxmikant, Ch. 66 (Part XIV) and Centre-State chapter (direct check of the local Sixth Revised Edition PDF).
@@ -11,8 +11,7 @@
 Three categories: **All-India Services · Central Services · State Services**.
 - ✅ **All-India Services (AIS):** **IAS, IPS, IFoS (Forest)** — serve **both** Centre & states by turns; **recruited &
   trained by the Centre** but **jointly controlled** (ultimate control = Centre, immediate control = states).
-- ✅ Groups: **Class-I (Group A) & Class-II (Group B) = gazetted**; **Class-III (C) & Class-IV (D) = non-gazetted**.
-  Gazetted = "officers"; non-gazetted = "employees."
+- ✅ Modern Union classification uses **Group A, Group B and Group C**. The older Class I-IV and Group D framework is historical; gazetted status does not itself define constitutional service or Article 311 coverage.
 - ✅ **ICS → IAS** and **IP → IPS** in 1947; **IFoS created in 1966** as the third AIS.
 - ✅ Up to **33⅓%** of senior AIS posts filled by **promotion from state services** (via a UPSC-chaired selection committee).
 
@@ -35,7 +34,7 @@ Three categories: **All-India Services · Central Services · State Services**.
 being heard**.
 
 ⚠️ **Three exceptions** where the **inquiry** is dispensed with:
-1. Dismissal on **conviction on a criminal charge**;
+1. Penalty on the ground of conduct that led to **conviction on a criminal charge**;
 2. Authority is satisfied (**reasons in writing**) that holding an inquiry is **not reasonably practicable**;
 3. **President/Governor** satisfied that in the **security of the State** it is not expedient to hold an inquiry.
 

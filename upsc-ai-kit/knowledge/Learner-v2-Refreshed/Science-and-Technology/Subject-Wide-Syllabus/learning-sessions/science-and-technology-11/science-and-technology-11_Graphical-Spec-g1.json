@@ -1,0 +1,1074 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "science-and-technology-11",
+  "subject": "Science-and-Technology",
+  "title": "SEMICONDUCTOR MISSION AND ELECTRONICS MANUFACTURING",
+  "short_route": "DESIGN-TO-DEVICE RAIL → SEMICONDUCTOR BUSINESS-MODEL MATRIX → FRONT-END VERSUS BACK-END → NODE AND LITHOGRAPHY LADDER → ADVANCED INTEGRATION MAP → MATERIALS TAXONOMY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Science-and-Technology\\Subject-Wide-Syllabus\\learning-sessions\\science-and-technology-11\\science-and-technology-11_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\science-and-technology-11-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "a0faf6946ddcdd463cbf0c65b3a48668ec5f08a7e4e582498d434742fa3a0696",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DESIGN-TO-DEVICE RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DESIGN-TO-DEVICE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "ARCHITECTURE, VERIFICATION AND TAPE-OUT",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSISTOR AND INTERCONNECT LAYERS ON WAFER",
+          "role": "comparison"
+        },
+        {
+          "text": "WAFER BECOMES INDIVIDUAL DIES",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSEMBLE, TEST, MARK AND PACKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "DOWNSTREAM ELECTRONICS INTEGRATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DESIGN / IP / EDA → architecture, verification and tape-out",
+        "FOUNDRY / FAB → transistor and interconnect layers on wafer",
+        "DICING → wafer becomes individual dies",
+        "ATMP / OSAT → assemble, test, mark and package",
+        "BOARD / MODULE / DEVICE → downstream electronics integration"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DESIGN / IP / EDA → architecture, verification and tape-out",
+            "FOUNDRY / FAB → transistor and interconnect layers on wafer"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DICING → wafer becomes individual dies",
+            "ATMP / OSAT → assemble, test, mark and package"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "BOARD / MODULE / DEVICE → downstream electronics integration",
+            "DESIGN / IP / EDA → architecture, verification and tape-out"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOARD / MODULE / DEVICE → downstream electronics integration.",
+      "source_references": [
+        "Value-chain boundary",
+        "Front-end-back-end boundary",
+        "EDA-design-IP boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SEMICONDUCTOR BUSINESS-MODEL MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SEMICONDUCTOR BUSINESS-MODEL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL WAFER-MANUFACTURING PLANT",
+          "role": "outcome"
+        },
+        {
+          "text": "DESIGNS AND OUTSOURCES WAFER MANUFACTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "MANUFACTURES TO CUSTOMERS' DESIGNS",
+          "role": "evidence"
+        },
+        {
+          "text": "DESIGNS AND FABRICATES ITS OWN PRODUCTS",
+          "role": "primary"
+        },
+        {
+          "text": "PLANT TYPE AND FIRM MODEL ANSWER DIFFERENT QUESTIONS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FAB → physical wafer-manufacturing plant",
+        "FABLESS → designs and outsources wafer manufacture",
+        "FOUNDRY → manufactures to customers' designs",
+        "IDM → designs and fabricates its own products",
+        "RULE → plant type and firm model answer different questions"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "FAB → physical wafer-manufacturing plant",
+          "FOUNDRY → manufactures to customers' designs",
+          "RULE → plant type and firm model answer different questions"
+        ],
+        [
+          "FABLESS → designs and outsources wafer manufacture",
+          "IDM → designs and fabricates its own products",
+          "FAB → physical wafer-manufacturing plant"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "FAB → physical wafer-manufacturing plant",
+            "FABLESS → designs and outsources wafer manufacture"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FOUNDRY → manufactures to customers' designs",
+            "IDM → designs and fabricates its own products"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → plant type and firm model answer different questions",
+            "FAB → physical wafer-manufacturing plant"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → plant type and firm model answer different questions.",
+      "source_references": [
+        "Fabless-foundry-IDM boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FRONT-END VERSUS BACK-END",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FRONT-END VERSUS BACK-END",
+          "role": "comparison"
+        },
+        {
+          "text": "FRONT END",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPOSITION, LITHOGRAPHY, ETCHING, DOPING, METALLISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESSED WAFER CONTAINING DIES",
+          "role": "evidence"
+        },
+        {
+          "text": "BACK END",
+          "role": "primary"
+        },
+        {
+          "text": "BONDING, ENCAPSULATION, TESTING, MARKING, PACKAGING",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCESS DESCRIPTION; OSAT",
+          "role": "mechanism"
+        },
+        {
+          "text": "OUTSOURCED SERVICE MODEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FRONT END → deposition, lithography, etching, doping, metallisation",
+        "OUTPUT → processed wafer containing dies",
+        "BACK END → bonding, encapsulation, testing, marking, packaging",
+        "ATMP → process description; OSAT → outsourced service model",
+        "TRAP → back-end capacity is not front-end fabrication"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEVICE / INSTITUTION",
+          "DECISIVE TECHNICAL DISTINCTION",
+          "STATUS / UNIT / EVIDENCE LIMIT"
+        ],
+        [
+          "FRONT END → deposition, lithography, etching, doping, metallisation",
+          "BACK END → bonding, encapsulation, testing, marking, packaging",
+          "TRAP → back-end capacity is not front-end fabrication"
+        ],
+        [
+          "OUTPUT → processed wafer containing dies",
+          "ATMP → process description; OSAT → outsourced service model",
+          "FRONT END → deposition, lithography, etching, doping, metallisation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "FRONT END → deposition, lithography, etching, doping, metallisation",
+            "OUTPUT → processed wafer containing dies"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BACK END → bonding, encapsulation, testing, marking, packaging",
+            "ATMP → process description; OSAT → outsourced service model"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → back-end capacity is not front-end fabrication",
+            "FRONT END → deposition, lithography, etching, doping, metallisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → back-end capacity is not front-end fabrication.",
+      "source_references": [
+        "Front-end-back-end boundary",
+        "ATMP-OSAT boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NODE AND LITHOGRAPHY LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NODE AND LITHOGRAPHY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "BROAD AUTOMOTIVE, INDUSTRIAL AND POWER USES",
+          "role": "mechanism"
+        },
+        {
+          "text": "MATURE AND MID-RANGE LITHOGRAPHY ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "LEADING EDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "RISING COMPLEXITY AND CAPITAL INTENSITY",
+          "role": "primary"
+        },
+        {
+          "text": "CONCENTRATED EQUIPMENT AND EXPORT-CONTROL CHOKEPOINT",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY EVERY PROJECT-SPECIFIC NODE CLAIM OFFICIALLY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MATURE / MID-RANGE → broad automotive, industrial and power uses",
+        "DUV → mature and mid-range lithography route",
+        "LEADING EDGE → rising complexity and capital intensity",
+        "EUV → concentrated equipment and export-control chokepoint",
+        "RULE → verify every project-specific node claim officially"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "MATURE / MID-RANGE → broad automotive, industrial and power uses",
+            "DUV → mature and mid-range lithography route"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEADING EDGE → rising complexity and capital intensity",
+            "EUV → concentrated equipment and export-control chokepoint"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "RULE → verify every project-specific node claim officially",
+            "MATURE / MID-RANGE → broad automotive, industrial and power uses"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → verify every project-specific node claim officially.",
+      "source_references": [
+        "Process-node boundary",
+        "DUV-EUV boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADVANCED INTEGRATION MAP",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ADVANCED INTEGRATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALISED DIES COMBINED AS ONE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "DENSER PACKAGE-LEVEL INTEGRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "THROUGH-SILICON VIAS",
+          "role": "evidence"
+        },
+        {
+          "text": "VERTICAL INTERCONNECT ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "HETEROGENEOUS INTEGRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMBINE UNLIKE FUNCTIONS OR PROCESSES",
+          "role": "comparison"
+        },
+        {
+          "text": "PERFORMANCE GAINS NEED NOT BEGIN WITH SMALLER LITHOGRAPHY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHIPLETS → specialised dies combined as one system",
+        "2.5D / 3D → denser package-level integration",
+        "THROUGH-SILICON VIAS → vertical interconnect route",
+        "HETEROGENEOUS INTEGRATION → combine unlike functions or processes",
+        "INSIGHT → performance gains need not begin with smaller lithography"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "CHIPLETS → specialised dies combined as one system",
+            "2.5D / 3D → denser package-level integration"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "THROUGH-SILICON VIAS → vertical interconnect route",
+            "HETEROGENEOUS INTEGRATION → combine unlike functions or processes"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "INSIGHT → performance gains need not begin with smaller lithography",
+            "CHIPLETS → specialised dies combined as one system"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSIGHT → performance gains need not begin with smaller lithography.",
+      "source_references": [
+        "Advanced-packaging boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MATERIALS TAXONOMY",
+      "structural_type": "branch-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MATERIALS TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOUND SEMICONDUCTORS",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLICATION FAMILIES",
+          "role": "comparison"
+        },
+        {
+          "text": "SILICON PHOTONICS",
+          "role": "evidence"
+        },
+        {
+          "text": "SILICON OPTICAL-INTERCONNECT PLATFORM",
+          "role": "primary"
+        },
+        {
+          "text": "POLICY GROUPING",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY PLACE UNLIKE TECHNOLOGIES TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEME NOMENCLATURE DOES NOT CHANGE MATERIAL PHYSICS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMPOUND SEMICONDUCTORS → GaN / GaAs / InP / SiC",
+        "POWER / RF / OPTOELECTRONICS → application families",
+        "SILICON PHOTONICS → silicon optical-interconnect platform",
+        "POLICY GROUPING → may place unlike technologies together",
+        "RULE → scheme nomenclature does not change material physics"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "COMPOUND SEMICONDUCTORS → GaN / GaAs / InP / SiC",
+            "POWER / RF / OPTOELECTRONICS → application families"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SILICON PHOTONICS → silicon optical-interconnect platform",
+            "POLICY GROUPING → may place unlike technologies together"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → scheme nomenclature does not change material physics",
+            "COMPOUND SEMICONDUCTORS → GaN / GaAs / InP / SiC"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → scheme nomenclature does not change material physics.",
+      "source_references": [
+        "Compound-photonics boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FAB VIABILITY CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FAB VIABILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RELIABLE POWER + ULTRA-PURE WATER",
+          "role": "mechanism"
+        },
+        {
+          "text": "STABLE PROCESSING",
+          "role": "comparison"
+        },
+        {
+          "text": "GASES + CHEMICALS + EQUIPMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTROLLED PROCESS STEPS",
+          "role": "mechanism"
+        },
+        {
+          "text": "REPEATED RUNS",
+          "role": "outcome"
+        },
+        {
+          "text": "YIELD LEARNING",
+          "role": "comparison"
+        },
+        {
+          "text": "RELIABILITY EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIABLE POWER + ULTRA-PURE WATER → stable processing",
+        "GASES + CHEMICALS + EQUIPMENT → controlled process steps",
+        "REPEATED RUNS → yield learning",
+        "RELIABILITY EVIDENCE → customer qualification",
+        "OUTCOME → inauguration alone is not competitive production"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "RELIABLE POWER + ULTRA-PURE WATER → stable processing",
+            "GASES + CHEMICALS + EQUIPMENT → controlled process steps"
+          ]
+        },
+        {
+          "heading": "SCIENTIFIC OR ENGINEERING MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPEATED RUNS → yield learning",
+            "RELIABILITY EVIDENCE → customer qualification"
+          ]
+        },
+        {
+          "heading": "OUTPUT / FAILURE BOUNDARY",
+          "role": "caution",
+          "items": [
+            "OUTCOME → inauguration alone is not competitive production",
+            "RELIABLE POWER + ULTRA-PURE WATER → stable processing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → inauguration alone is not competitive production.",
+      "source_references": [
+        "Utility-yield boundary",
+        "Facility-status boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INSTITUTION AND SCHEME MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTION AND SCHEME MAP",
+          "role": "institution"
+        },
+        {
+          "text": "PARENT MINISTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPLEMENTING AGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "SEMICON INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHEME PACKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGN-FOCUSED CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE COMPLEMENTARY ELECTRONICS INCENTIVES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MeitY → parent ministry",
+        "ISM → implementing agency",
+        "SEMICON INDIA → scheme package",
+        "DLI → design-focused channel",
+        "SPECS / PLI → separate complementary electronics incentives"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "MeitY → parent ministry",
+            "ISM → implementing agency"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SEMICON INDIA → scheme package",
+            "DLI → design-focused channel"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SPECS / PLI → separate complementary electronics incentives",
+            "MeitY → parent ministry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPECS / PLI → separate complementary electronics incentives.",
+      "source_references": [
+        "ISM-institution boundary",
+        "DLI-boundary",
+        "Electronics-incentive boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SEMICON 1.0 TO 2.0",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SEMICON 1.0 TO 2.0",
+          "role": "primary"
+        },
+        {
+          "text": "SEMICON INDIA 1.0",
+          "role": "outcome"
+        },
+        {
+          "text": "RS 76,000 CRORE UMBRELLA",
+          "role": "comparison"
+        },
+        {
+          "text": "FOUR CHANNELS",
+          "role": "evidence"
+        },
+        {
+          "text": "FABS, DISPLAYS, COMPOUND/SENSOR/ATMP, DLI",
+          "role": "primary"
+        },
+        {
+          "text": "15 JUL 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "SEMICON 2.0 CABINET APPROVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "SEMICON 2.0",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEMICON INDIA 1.0 → Rs 76,000 crore umbrella",
+        "FOUR CHANNELS → fabs, displays, compound/sensor/ATMP, DLI",
+        "15 JUL 2026 → Semicon 2.0 Cabinet approval",
+        "SEMICON 2.0 → Rs 1,27,500 crore approved outlay",
+        "SIX PILLARS → design, tools/materials, fabs, back end, R&D, talent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "SEMICON INDIA 1.0 → Rs 76,000 crore umbrella",
+            "FOUR CHANNELS → fabs, displays, compound/sensor/ATMP, DLI"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "15 JUL 2026 → Semicon 2.0 Cabinet approval",
+            "SEMICON 2.0 → Rs 1,27,500 crore approved outlay"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "SIX PILLARS → design, tools/materials, fabs, back end, R&D, talent",
+            "SEMICON INDIA 1.0 → Rs 76,000 crore umbrella"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SIX PILLARS → design, tools/materials, fabs, back end, R&D, talent.",
+      "source_references": [
+        "Semicon-one architecture",
+        "Semicon-two boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FACILITY EVIDENCE MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FACILITY EVIDENCE MAP",
+          "role": "evidence"
+        },
+        {
+          "text": "FAB; LATER NAMED COMPOUND-FAB PLUS ATMP APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFICIALLY IDENTIFIED OSAT",
+          "role": "comparison"
+        },
+        {
+          "text": "ATMP LOCATION",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIALLY IDENTIFIED BACK-END CLUSTER AND INAUGURATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SUCHI SEMICON OSAT APPROVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCATION MUST TRAVEL WITH PROJECT AND STATUS VERB",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DHOLERA → fab; later named compound-fab plus ATMP approval",
+        "MORIGAON → officially identified OSAT / ATMP location",
+        "SANAND → officially identified back-end cluster and inaugurations",
+        "SURAT → Suchi Semicon OSAT approval",
+        "RULE → location must travel with project and status verb"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DHOLERA → fab; later named compound-fab plus ATMP approval",
+            "MORIGAON → officially identified OSAT / ATMP location"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "SANAND → officially identified back-end cluster and inaugurations",
+            "SURAT → Suchi Semicon OSAT approval"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → location must travel with project and status verb",
+            "DHOLERA → fab; later named compound-fab plus ATMP approval"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → location must travel with project and status verb.",
+      "source_references": [
+        "Official-location boundary",
+        "Commissioning-evidence boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "STATUS FIREWALL",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "POLICY PERMISSION AND SUPPORT DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCING OR CONSTRUCTION MILESTONE",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICAL OR DEMONSTRATION MILESTONE",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALIFIED COMMERCIAL SUPPLY",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE OPERATING EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEVER SKIP A RUNG OR INVENT PRODUCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "APPROVED → policy permission and support decision",
+        "AGREEMENT / GROUNDBREAKING → financing or construction milestone",
+        "INAUGURATED / PRESENTED → physical or demonstration milestone",
+        "QUALIFIED COMMERCIAL SUPPLY → separate operating evidence",
+        "RULE → never skip a rung or invent production"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEVICE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "APPROVED → policy permission and support decision",
+            "AGREEMENT / GROUNDBREAKING → financing or construction milestone"
+          ]
+        },
+        {
+          "heading": "DECISIVE TECHNICAL DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INAUGURATED / PRESENTED → physical or demonstration milestone",
+            "QUALIFIED COMMERCIAL SUPPLY → separate operating evidence"
+          ]
+        },
+        {
+          "heading": "STATUS / UNIT / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never skip a rung or invent production",
+            "APPROVED → policy permission and support decision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never skip a rung or invent production.",
+      "source_references": [
+        "Facility-status boundary",
+        "Commissioning-evidence boundary",
+        "Volatile-claim boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "VALUE CHAIN, FAB MODELS AND ATMP",
+          "role": "outcome"
+        },
+        {
+          "text": "ISM, FOUR SEMICON 1.0 CHANNELS AND SEMICON 2.0 PILLARS",
+          "role": "comparison"
+        },
+        {
+          "text": "TOOLS, UTILITIES, TALENT, YIELD AND QUALIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DHRUV64 AND FACILITIES WITH EXACT STATUS VERBS",
+          "role": "primary"
+        },
+        {
+          "text": "NO PROJECT TOTAL, NODE, COMMERCIAL OUTPUT OR ANSWER KEY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → value chain, fab models and ATMP / OSAT",
+        "MAP → ISM, four Semicon 1.0 channels and Semicon 2.0 pillars",
+        "ANALYSE → tools, utilities, talent, yield and qualification",
+        "EVIDENCE → DHRUV64 and facilities with exact status verbs",
+        "QUALIFY → no project total, node, commercial output or answer key"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ARCHITECTURE",
+          "role": "primary",
+          "items": [
+            "DEFINE → value chain, fab models and ATMP / OSAT",
+            "MAP → ISM, four Semicon 1.0 channels and Semicon 2.0 pillars"
+          ]
+        },
+        {
+          "heading": "MECHANISM / APPLICATION",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → tools, utilities, talent, yield and qualification",
+            "EVIDENCE → DHRUV64 and facilities with exact status verbs"
+          ]
+        },
+        {
+          "heading": "READINESS / STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → no project total, node, commercial output or answer key",
+            "DEFINE → value chain, fab models and ATMP / OSAT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYSE → tools, utilities, talent, yield and qualification.",
+      "source_references": [
+        "Processor-fabrication boundary",
+        "Volatile-claim boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PACKAGING-FIRST VERSUS FAB-FIRST DEBATE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA MAY OBTAIN FASTER LEARNING, CUSTOMER RELATIONSHIPS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPORT INTEGRATION THROUGH ATMP/OSAT AND COMPOUND-SEMICONDUCTOR NICHES BEFORE MASTERING",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBSIDY VERSUS ECOSYSTEM DEBATE",
+          "role": "comparison"
+        },
+        {
+          "text": "GENEROUS FISCAL SUPPORT CAN ATTRACT PROPOSALS, BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCESS ENGINEERS, UTILITIES, MATERIALS AND ANCHOR CUSTOMERS DETERMINE WHETHER",
+          "role": "mechanism"
+        },
+        {
+          "text": "STRATEGIC AUTONOMY VERSUS COST EFFICIENCY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SCIENTIFIC / ENGINEERING DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Packaging-first versus fab-first debate: India may obtain faster learning, customer relationships and",
+            "export integration through ATMP/OSAT and compound-semiconductor niches before mastering complex leading-edge fabrication.",
+            "CAUTION: Subsidy versus ecosystem debate: generous fiscal support can attract proposals, but",
+            "process engineers, utilities, materials and anchor customers determine whether plants remain viable."
+          ]
+        },
+        {
+          "heading": "READINESS, UNIT OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Strategic autonomy versus cost efficiency: semiconductors are treated as strategic infrastructure, yet full autarky is unrealistic",
+            "the more realistic goal is selective resilience in critical layers.",
+            "CAUTION: Technology-neutral versus technology-specific support: India must decide whether to prioritize broad ecosystem depth or",
+            "a few strategically valuable segments such as power electronics, sensors, compound semiconductors and packaging."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE TECHNOLOGY / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Semiconductors increasingly shape AI, telecom, defence electronics, automobiles, power systems and industrial automation.",
+            "CAUTION: Domestic packaging and design capability can reduce vulnerability even when India still imports large volumes of wafers or equipment.",
+            "CAUTION: Semiconductor success improves the quality of India’s electronics manufacturing",
+            "story by moving beyond screwdriver assembly toward deeper value capture."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Ancient-Indian-History\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\ancient-indian-history-26-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-26\ancient-indian-history-26-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-26\ancient-indian-history-26-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-26\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-26\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-26\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\ancient-indian-history-26\REVIEW-REPORT.md
+notes\Final-Learning-Packages\Ancient History\INDEX.md
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\26-From-Ancient-to-Medieval-Social-Change-and-Legacy\README.txt
+notes\Final-Learning-Packages\Ancient History\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\flowcharts\ancient-indian-history-26\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\ancient-indian-history-26_Solved-Practice-Workbook_2026-09-03.pdf
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\validation\workbook-visual-audit-map.json
+tools\regenerate_ancient_history_deep_review.py
+tools\test_regenerate_ancient_history_deep_review.py
+upsc-ai-kit\knowledge\Ancient-Indian-History\basic\26_From-Ancient-to-Medieval-Legacy.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\ancient-indian-history-26_Complete-Learning-Session_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\ancient-indian-history-26_Solved-Practice-Workbook_2026-09-03.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\01_multitrack_transition_chronology.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\02_continuity_change_regional_-f85f34cdf1.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\03_imperial_to_regional_polity-cd16ee542c.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\04_samanta_distributed_soverei-e064ab7ff2.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\05_land_grant_charter_to_groun-b433dc65c7.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\06_agrarian_frontier_settlement_process.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\07_indian_feudalism_historiogr-d2a83fc798.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\08_state_models_segmentary_int-532144d79b.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\09_urban_decline_vs_transformation_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\10_trade_town_temple_network.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\11_varna_text_vs_jati_social_p-7e6d22274c.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\12_brahmanisation_localisation-c9252170a2.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\13_frontier_lineage_state_pathways.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\14_gender_evidence_ladder.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\15_religious_institutional_field.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\16_temple_institution_ecosystem.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\17_sanskrit_to_vernacularisati-245a3af1aa.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\18_regional_comparison_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\19_connectivity_vs_localisation_balance.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\20_ancient_legacies_survival_t-b266551af9.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\21_source_criticism_matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\22_gs1_synthesis_answer_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-26\g5\assets\ancient-indian-history-26_Teaching-Navigation_2026-08-30.png
+upsc-ai-kit\manifests\exports\ancient-indian-history-26-learner-v2-g5-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\ancient-indian-history-26-learner-v2-g5-2026-09-03-record.json
+upsc-ai-kit\manifests\exports\ancient-indian-history-26-learner-v2-g5-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\ancient-indian-history-26-semantic-completeness-2026-09-03-changed-files.txt
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-03.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\ancient-indian-history-26-deep-review-2026-09-03-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Ancient-Indian-History\deep-review\ancient-indian-history-26-g5.json
+upsc-ai-kit\manifests\reviews\ancient-history\26-ancient-medieval-social-change-legacy-semantic-completeness-review-2026-09-03.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\ancient-indian-history--subject-wide-syllabus-content-specs\ancient-indian-history-26-g5.json
+upsc-ai-kit\manifests\v2\ancient-indian-history--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

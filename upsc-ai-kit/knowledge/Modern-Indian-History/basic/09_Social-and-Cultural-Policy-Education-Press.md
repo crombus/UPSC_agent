@@ -198,16 +198,16 @@ Cheap intermediary staff needed
 - Sati abolition (1829) must credit both Bentinck's regulation and Rammohan Roy's campaign.
 - Do not quantify colonial literacy, school numbers or press circulation.
 
-### 8.9 Routed Prelims demands that this repository cannot yet verify
+### 8.9 Supplementary verification for the two 2021 Prelims demands
 
-> ⚠️ **Handling rule:** two routed 2021 Prelims demands have **no supporting content in any source book, note or knowledge file held in this repository**, and the official 2021 key is not held locally. They are recorded here so that they are not silently treated as covered, and so that no answer is invented.
+> ⚠️ **Key discipline:** the official 2021 key is not held locally. The facts below are supported by supplementary historical/book evidence and therefore guide elimination, but the answer labels remain **INFERRED — NOT LOCALLY OFFICIALLY KEYED**.
 
-| Routed demand | Local status | Safe handling |
+| Routed demand | Supplementary evidence | Safe answer status |
 |---|---|---|
-| "Madanapalle historical significance modern Indian history" (2021 Prelims Q36) | Only the OCR question stem exists locally; no explanatory source content | Do not assert any specific association. If this appears in practice material, mark it unresolved and verify from an external authoritative source before use. |
-| "Songs from Prison — ancient religious lyrics translation" (2021 Prelims Q44) | No occurrence in any source book held here | Do not attribute the translation to any named figure without verified evidence. Treat as an open factual gap. |
+| "Madanapalle historical significance modern Indian history" (2021 Prelims Q36) | Rabindranath Tagore rendered *Jana Gana Mana* into English as *The Morning Song of India* during his 1919 stay at Besant Theosophical College, Madanapalle; contemporary institutional-history reporting also links Margaret Cousins there with its musical notation. | Associate Madanapalle with Tagore's English rendering; inferred because the local official key is unavailable. |
+| "Songs from Prison — ancient religious lyrics translation" (2021 Prelims Q44) | The 1934 book scan identifies *Songs from Prison: Translations of Indian Lyrics* with M.K. Gandhi's translations, prepared for publication by John S. Hoyland. | Associate the work with M.K. Gandhi; inferred because the local official key is unavailable. |
 
-- **Why this is recorded rather than answered:** the folder's answer discipline requires that absent concepts be flagged as gaps to be filled from a source, not guessed. Both items are single-fact Prelims points with no Mains consequence, so leaving them explicitly open does not reduce answer-worthiness for any 10/15/20-mark demand this owner supports.
+- **Supplementary sources checked on 4 September 2026:** the historical scan of *Songs from Prison* and published institutional-history accounts of Tagore's 1919 Madanapalle visit. These sources close the factual-content gap without fabricating local official-key provenance.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -240,3 +240,21 @@ Cheap intermediary staff needed
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Orientalist/Anglicist education policy, filtration and access,
+  Wood's system, press regulation and liberalisation, and state-social-policy
+  interaction as a public-sphere history.
+- **Boundary:** Topic 06 owns Charter Act constitutional mechanics; Topic 08
+  owns administrative institutions; Topic 10 owns reform movements, doctrines
+  and biographies. Topic 09 owns reform statutes only as state-policy outputs,
+  implementation limits and evidence of state-society negotiation.
+- **Mechanism control:** Fort William trained European servants; Macaulay 1835
+  and Wood 1854 are different stages; English and vernacular print coexisted;
+  the Vernacular Press Act 1878 targeted Indian-language papers and was
+  repealed by Ripon in 1882.
+- **Verified PYQ ownership, 2018-2026:** six direct Prelims routes. Madanapalle
+  and *Songs from Prison* now have supplementary source evidence, but their
+  answers remain **INFERRED — LOCAL OFFICIAL 2021 KEY UNAVAILABLE**. The 2023
+  Gandhi-Tagore Mains demand remains a bounded cross-owner route.

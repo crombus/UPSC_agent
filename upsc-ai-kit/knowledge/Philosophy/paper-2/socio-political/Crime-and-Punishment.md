@@ -4,6 +4,23 @@
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested/empirical claim
 > **Placement:** The clause asks what makes public wrongdoing morally distinctive, how individual and collective responsibility should be assigned, and when punishment by the state is justified.
 
+## Exact printed ownership and cross-topic firewall
+
+The official clause names **Crime and Punishment: Corruption, Mass Violence, Genocide, Capital
+Punishment**. Crime and general penal justification are indispensable prerequisites; the four named
+applications remain the full syllabus boundary.
+
+| Content | Ownership here | Boundary |
+|---|---|---|
+| Crime and punishment | criminalisation, culpability, theories, proportionality and legitimate penal authority | General rights, obligation and state legitimacy remain with [Individual and State](Individual-and-State.md) |
+| Corruption | entrusted office, particularism/universalism, ethical/systemic causation and philosophical remedies | Administrative compliance detail and GS-IV integrity casework remain outside |
+| Mass violence and genocide | mechanisms, differentiated responsibility, group-destruction intent and prevention criteria | No historical catalogue or accusation against any actor is imported |
+| Capital punishment | desert, deterrence, dignity, fallibility, right to life and bounded Indian legal illustrations | Detailed criminal procedure and current case-law survey remain with legal/Polity study |
+
+**Thinker control:** Kant, Hegel, Bentham, Beccaria, Hart, Feinberg, Duff, Foucault,
+Braithwaite, Arendt and Lemkin execute owned distinctions. Gandhi and Rawls are not independently
+demanded by the routed 2018–2025 corpus and are not imported as decoration.
+
 ## 0. ONE-SCREEN MAP
 
 ```text
@@ -39,6 +56,28 @@ desert/security claims ↔ dignity, fallibility, equality and reform
 
 ⚠️ Criminalisation itself needs justification through harm, rights, public wrong, culpability and proportionality.
 
+### 1.1A Elements and defences as philosophical prerequisites
+
+These are not a criminal-law syllabus inside Philosophy; they identify why coercive blame may or
+may not be attributable.
+
+| Element | Philosophical function | Control |
+|---|---|---|
+| **External act or omission (*actus reus*)** | links liability to conduct rather than thought alone | an omission requires a relevant duty or responsibility |
+| **Fault element (*mens rea*)** | grades answerability through intention, knowledge, recklessness or negligence | not every offence requires the same fault, but punishment must track attributable culpability |
+| **Causation and harm** | connects agency to the public wrong charged | causal contribution alone is not sufficient responsibility |
+| **Legality and fair notice** | prevents retrospective or indeterminate condemnation | legal validity still does not prove moral justice |
+
+**Justification versus excuse:**
+
+- a **justification** claims the act was permissible in the circumstances—for example, necessary
+  proportionate defence against an unjust threat;
+- an **excuse** concedes that the act was wrong but denies or reduces blame because control,
+  knowledge or competent agency was impaired—for example, duress or serious incapacity.
+
+⚠️ Mental incapacity enters only through competence, control and excuse. No clinical diagnosis or
+legal test is asserted here.
+
 ### 1.2 Conditions of responsible punishment
 
 ✅ A defensible punishment normally presupposes:
@@ -53,6 +92,20 @@ desert/security claims ↔ dignity, fallibility, equality and reform
 
 **Distinction:** responsibility is not identical with causal contribution. A person may causally contribute without sufficient knowledge or control; conversely, an official can be responsible for culpable omission.
 
+### 1.2A Free will, determinism and criminal responsibility
+
+| Position | Penal implication | Difficulty |
+|---|---|---|
+| **Libertarian freedom** | desert requires genuine alternative possibilities | difficult to reconcile with causal explanation |
+| **Hard determinism** | basic desert is undermined; protection and rehabilitation replace blame | risks treating persons only as dangerous objects |
+| **Compatibilism** | responsibility depends on reasons-responsive control without metaphysical exemption from causation | must distinguish constrained agency from ordinary causation |
+
+⚠️ **Working penal standard:** criminal responsibility need not prove metaphysical free will. It
+requires that the accused could understand relevant reasons, control conduct to an adequate degree
+and act without responsibility-defeating coercion or incapacity. Deterministic explanation can
+mitigate or redirect punishment without erasing every distinction between intentional, reckless,
+negligent and accidental conduct.
+
 ### 1.3 Theories of punishment
 
 | Theory | Doctrine | Direction | Central test | Main danger |
@@ -61,7 +114,19 @@ desert/security claims ↔ dignity, fallibility, equality and reform
 | **Deterrent** | threaten or impose penalty to reduce future offending | forward-looking | expected prevention | using offender as a means |
 | **Preventive / incapacitative** | restrain a dangerous offender to protect others | forward-looking | necessity and risk | indefinite or discriminatory confinement |
 | **Reformative / rehabilitative** | transform capacities and conditions for lawful agency | forward-looking | reintegration | paternalism; neglect of victims |
-| **Restorative** | repair harm through accountable participation of victim, offender and community | relational | acknowledgement and repair | unequal bargaining; unsuitable for some crimes |
+| **Restitution / restorative** | restitution returns value or repairs loss; restorative justice adds accountable participation of victim, offender and community | relational | acknowledgement, repair and reintegration | unequal bargaining; unsuitable for some crimes |
+| **Denunciatory / expressive** | publicly condemn the wrong and affirm the norm violated | backward/public | authoritative censure | hard treatment still needs independent justification |
+
+### 1.3A Deontological and consequentialist justificatory logics
+
+| Logic | Central question | Typical theories | Non-negotiable objection |
+|---|---|---|---|
+| **Deontological** | what is owed because of culpable wrong and equal agency? | retribution, desert, rights and proportionality | deserved suffering still needs a public institutional purpose |
+| **Consequentialist** | which response prevents future harm at least justified cost? | deterrence, prevention and rehabilitation | utility alone can target innocents or permit excessive severity |
+| **Relational/communicative** | what response condemns, addresses and repairs while retaining membership? | expressive, communicative and restorative approaches | coercion, standing and unequal bargaining remain |
+
+⚠️ A defensible mixed theory may be consequentialist about the institution's general aim while
+using guilt, desert and rights as deontological constraints on liability and amount.
 
 ### 1.4 Retributivism: Kant and Hegel
 
@@ -127,9 +192,13 @@ For juveniles, moral assessment must distinguish:
 
 > ⚠️ **Why this section exists.** Most answers on punishment collapse three separate questions into one and then oscillate between retribution and deterrence. §1.3 gives the theories; this section gives the **structure of the problem** that decides which theory answers which question, together with the three modern families — expressive, communicative and restorative — that neither pure retributivism nor pure deterrence contains. It is a named-scholar reconstruction; no page, chapter, edition or verbatim wording is asserted.
 
-### 1A.1 The three questions that must be separated
+### 1A.1 Hart's three questions that must be separated
 
 ✅ A defensible theory of punishment must answer three logically distinct questions, and the classic mistake is to give one answer to all three.
+
+✅ The structure follows **H. L. A. Hart's** distinction between the general justifying aim of
+punishment and the principles governing its distribution and severity; it does not imply that Hart
+endorses every mixed theory built from that distinction.
 
 | Question | Formulation | Answers that fit well | Answers that fit badly |
 |---|---|---|---|
@@ -577,6 +646,13 @@ It is wider than bribery and may include favouritism, nepotism, embezzlement, re
 8. **Do not treat the 2015 Law Commission report as enacted law.** It is advisory.
 9. **Do not treat *Bachan Singh* as legislation.** It is a 1980 judgment.
 10. **Do not argue that because the right to life has some limits, capital punishment follows.** Necessity and the custody distinction remain.
+11. **Do not punish thought alone.** Attribute an external act/omission, a fault element and causation under fair notice.
+12. **Do not merge justification and excuse.** Justification defends the act; excuse concedes wrong but reduces blame.
+13. **Do not infer responsibility from causal contribution alone.** Reasons-responsive control, knowledge and capacity matter.
+14. **Do not treat determinism as automatic acquittal or metaphysical freedom as a courtroom fact.** Use the compatibilist responsibility test.
+15. **Do not merge restitution and restorative justice.** Restitution is one remedial outcome; restoration is a broader participatory process.
+16. **Do not treat denunciation as a complete justification of hard treatment.** Expressive meaning still needs rights and proportionality.
+17. **Do not import Gandhi or Rawls into penal theory without a stem-specific reason.**
 
 ---
 
@@ -586,6 +662,12 @@ It is wider than bribery and may include favouritism, nepotism, embezzlement, re
 
 **Promoted vocabulary (this pass) ⚠️:** general justifying aim · distribution/liability · amount/severity · side-constraint · mixed theory · expressive function · condemnation vs penalty · communicative punishment · secular penance · standing to punish · calling to account · discipline · panopticism · docile bodies · delinquency · restorative justice · reintegrative vs stigmatising shaming · criminal guilt vs political responsibility · differentiated responsibility · destruction of a group as such · specific intent
 
+- **Responsibility prerequisites:** external act/omission (*actus reus*) · fault element (*mens rea*) · causation · legality
+- **Fault ladder:** intention · knowledge · recklessness · negligence · accident
+- **Defences:** justification · excuse · duress · necessity · incapacity
+- **Freedom debate:** libertarian freedom · hard determinism · compatibilism · reasons-responsive control
+- **Justificatory logics:** deontological · consequentialist · relational/communicative
+- **Repair and censure:** restitution · restorative justice · denunciatory/expressive punishment
 
 public wrong · culpability · mens rea · proportionality · retribution · deterrence · incapacitation · rehabilitation · restorative justice · fiduciary office · particularism · universalism · structural harm · dehumanisation · thoughtlessness · differentiated responsibility · genocidal intent · irreversibility · mitigation
 
@@ -638,7 +720,7 @@ See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025
 | Directive in the stem | What is actually scored | Compulsory structural move | Failure mode |
 |---|---|---|---|
 | **Explain / Elucidate** | internal logic of one theory | statement → premises → key distinction → example | moralising instead of expounding |
-| **Discuss** | exposition plus one adjudicated tension | theory → rival → objection → reply → verdict | listing all four theories of punishment with no adjudication |
+| **Discuss** | exposition plus one adjudicated tension | theory → rival → objection → reply → verdict | listing the punishment-theory catalogue with no adjudication |
 | **Critically examine / evaluate** | the objection–reply layer *is* the answer | two objections, each with reply and a residual problem | emotive denunciation of crime or of the death penalty |
 | **Is X justified?** | separate the three justifying questions first | Q1 aim → Q2 liability → Q3 amount (§1A.1) → verdict | one answer offered to three different questions |
 | **Should X be abolished / retained?** | the *criterion* of assessment must be named | fix the test (desert, deterrence, dignity, fallibility, equality of application) → apply → verdict | asserting a position, then listing arguments for both sides |
@@ -695,6 +777,10 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **C13 · Genocide names the destruction of a group as such.** Claim: the term was coined by Lemkin (*Axis Rule in Occupied Europe*, **1944**) for a coordinated plan aimed at destroying the essential foundations of a group's life; the **1948 Convention** requires specific intent against four protected categories → Named: Lemkin; the Convention → Use for: genocide stems → Limit: ⚠️ the Convention is narrower than Lemkin's conception and omits political groups; ❌ do not claim otherwise, and name no episode.
 - **C14 · Corruption is a betrayal of entrusted public role.** Claim: it substitutes particularistic for universalistic standards in offices held in trust, corroding equal citizenship and the fairness of public rules → Named: §2 of this file → Use for: corruption stems, including "is corruption a form of mass violence?" → Limit: the mass-violence analogy is partial — state the necessary conditions for violence before extending the term, and concede the disanalogy in intention and directness.
 - **C15 · Indian penal illustrations, correctly classified.** Claim: *Bachan Singh v. State of Punjab* (Supreme Court judgment, **1980**) is a **judgment** articulating the rarest-of-rare framework; Law Commission of India **Report No. 262** (**2015**) on the death penalty is a **report**, which recommends and does not enact; the Prevention of Corruption Act, **1988** (amended **2018**) and the Lokpal and Lokayuktas Act, **2013** are **enacted statutes** → Use for: the Indian paragraph in any 20-mark answer → Limit: ✅ classify each accurately; ❌ a judgment, report or statute is a dated legal fact and never a philosophical proof.
+- **C16 · Wrongdoing, culpability and defences are separate.** Claim: an external act/omission and fault ground attribution; justification defends conduct while excuse reduces blame → Named: §1.1A → Use for: every crime/responsibility opening → Limit: these are philosophical prerequisites, not a complete criminal-law test.
+- **C17 · Compatibilist responsibility does not require causal exemption.** Claim: reasons-responsive understanding and control can ground responsibility despite causal explanation → Named: §1.2A → Use for: intention, negligence, juvenile and incapacity questions → Limit: the threshold of adequate control remains contestable.
+- **C18 · Penal theories answer different normative logics.** Claim: deontology fixes what culpable agency deserves, consequentialism asks what prevents harm, and relational theories ask what condemnation/repair can address → Named: §1.3A → Use for: theory-comparison and capital-punishment stems → Limit: mixed theories must explain how their components cohere.
+- **C19 · Restitution is not the whole of restoration.** Claim: returning value or repairing loss is an outcome inside a broader process of acknowledgement, victim participation, offender responsibility and reintegration → Named: §§1.3, 1A.5 → Use for: victim-centred and juvenile answers → Limit: serious public wrongs still require authoritative condemnation.
 
 ### 11.5 Graded verdict formulas (adapt; never reproduce mechanically)
 
@@ -721,7 +807,7 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 
 ## SOURCES
 
-- Local course source, *Socio-Political Philosophy*, sections on crime, theories of punishment, capital punishment and genocide.
+- Local compiled notes PDF, *Socio-Political Philosophy*, searchable pp. 160–168; no named author is asserted.
 - O. P. Gauba, *An Introduction to Political Theory*, discussions of authority, justice and public institutions.
 - Immanuel Kant, *The Metaphysics of Morals*.
 - G. W. F. Hegel, *Philosophy of Right*.

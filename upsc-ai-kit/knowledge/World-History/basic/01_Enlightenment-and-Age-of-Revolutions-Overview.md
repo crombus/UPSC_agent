@@ -636,3 +636,28 @@ World History -> `basic/04` §5 and §8.7 for the industrial society that produc
 World History -> `basic/20` §9 for the Great Depression and the New Deal, where these doctrines met their decisive test
 World History -> `advanced/01_Enlightenment-and-Age-of-Revolutions-Overview.md` for transmission-mechanism enrichment (optional)
 Political-Theory -> conceptual depth on these doctrines; Modern-Indian-History -> India's own ideological currents; Economy -> current economic policy
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** the Enlightenment bridge from inherited authority to public
+  reason, rights, consent, divided power and popular sovereignty; the causal
+  formula ideas + crisis + mobilisation; and overview distinctions among
+  liberalism, conservatism, nationalism, capitalism, socialism, communism and
+  social democracy.
+- **Boundary:** Topic 02 owns the American sequence, Topic 03 the French and
+  Napoleonic sequence, Topic 04 industrial transformation, and Topic 05 the
+  post-Napoleonic settlement. This overview compares their conceptual grammar
+  without duplicating their event narratives.
+- **Date control:** Locke (1689), Montesquieu (1748), Rousseau (1762), the
+  American Declaration (1776), French rupture (1789), English anti-union repeal
+  (1824), Chartism (1830s-40s), US Social Security Act (1935) and Beveridge
+  Report (1942) remain distinct intellectual, revolutionary and social-policy
+  markers.
+- **Mechanism control:** ideas legitimate claims but do not alone determine
+  timing, depth or outcome; universal rights-language coexisted with exclusions
+  by property, sex, slavery, race and colonial status; doctrines are compared
+  by authority, ownership, method and constituency rather than as synonyms.
+- **Verified PYQ ownership, 2018-2025:** zero direct overview-only routes. The
+  2019 GS-I American-and-French-Revolutions demand remains cross-owned by
+  Topics 02 and 03 and is not relabelled here. No unsupported key, quotation or
+  current linkage is invented.

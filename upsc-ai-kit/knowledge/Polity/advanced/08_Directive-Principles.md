@@ -68,7 +68,7 @@ Granville Austin called them the "**Conscience of the Constitution**."
 ## 2. New DPSP added by amendments
 | Amendment | Added |
 |---|---|
-| ✅ **42nd (1976)** | Art **39(f)** (child development), **39A** (free legal aid), **43A** (workers in management), **48A** (environment/forests/wildlife) — *four* |
+| ✅ **42nd (1976)** | **Substituted/recast 39(f)**; inserted **39A** (free legal aid), **43A** (workers in management) and **48A** (environment/forests/wildlife) |
 | ✅ **44th (1978)** | Art **38** minimise inequalities in income, status, facilities & opportunities |
 | ✅ **86th (2002)** | Changed **Art 45** (now early-childhood <6) → made elementary education a FR under **Art 21A** |
 | ✅ **97th (2011)** | Art **43B** — promotion of **co-operative societies** |
@@ -108,11 +108,12 @@ amplify the Preamble.
 | ✅ **24th & 25th Amdt** | 1971 | 24th: Parliament **can** amend FR. 25th: inserted **Art 31C** — (1) laws implementing **Art 39(b)&(c)** immune from Art 14/19/31 challenge; (2) such laws non-questionable in court |
 | ✅ **Kesavananda Bharati** | 1973 | Struck down **2nd provision** of 31C (judicial review = basic feature); **1st provision valid** |
 | ✅ **42nd Amdt** | 1976 | Extended 31C to **ALL** DPSP (not just 39 b,c) → primacy of DPSP over Art 14,19,31 |
-| ✅ **Minerva Mills** | 1980 | Struck down that 42nd-Amdt extension → DPSP again subordinate to FR; **but Art 39(b)&(c) still override Art 14 & 19**. Famous "**two wheels of a chariot**," balance = **basic structure** |
+| ✅ **Minerva Mills** | 1980 | Struck down that 42nd-Amdt extension; harmony and balance between Parts III and IV is **basic structure**. The surviving Art 31C is a specific shield for genuine 39(b)/(c) laws against Arts 14 and 19 |
 | 📰 **Property Owners Association** | 2024 | Nine-judge Bench confirmed that the unamended Art 31C survives. Art 39(b) can cover some privately owned resources, but not all private property automatically; the inquiry is contextual. |
 
-✅ **Present position:** FR enjoy **supremacy** over DPSP, **but** Parliament can amend FR to implement
-DPSP **so long as basic structure isn't damaged**. Art 31 (property) abolished by **44th Amdt 1978**.
+✅ **Present position:** do not assert abstract supremacy of either Part. Enforceable rights ordinarily control
+inconsistent ordinary law, but Parliament may amend rights to pursue DPSP without damaging basic structure;
+Part III-Part IV harmony itself is basic structure. Art 31C's surviving 39(b)/(c) shield is the defined exception.
 
 ### FR vs DPSP — distinction (Table 8.1)
 | Fundamental Rights | Directive Principles |

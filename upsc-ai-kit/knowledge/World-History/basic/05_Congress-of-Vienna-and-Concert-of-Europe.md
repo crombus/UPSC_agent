@@ -214,3 +214,26 @@ World History → `basic/03_French-Revolution-and-Napoleon.md` for the backgroun
 World History → `basic/04_Industrial-Revolution.md` §8.7 for the social question that entered European politics between 1815 and 1848
 World History → `basic/06_Unification-of-Italy-and-Germany.md` for the nationalist challenge to Vienna and the post-1848 turn to statecraft
 World History → `advanced/05_Congress-of-Vienna-and-Concert-of-Europe.md` for the peace-versus-repression historiography (optional)
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Congress of Vienna principles and territorial settlement;
+  balance, legitimacy, compensation and containment; the Concert as a
+  consultation practice; Holy Alliance and congress distinctions; repression,
+  intervention, adaptation and the settlement's peace-versus-legitimacy
+  verdict.
+- **Boundary:** Topic 03 owns Napoleon through Waterloo; Topic 06 owns Italian
+  and German unification. Topic 05 owns the post-Napoleonic settlement and
+  Concert, using 1830 and 1848 only to test the system rather than narrate later
+  national unifications.
+- **Date control:** Congress (1814-15), Final Act (June 1815), Holy Alliance
+  (1815), Aix-la-Chapelle (1818), Carlsbad Decrees (1819), Troppau (1820),
+  Laibach (1821), Verona (1822), Belgian independence (1830) and revolutions
+  (1848) remain separate diplomatic, repressive and adaptive stages.
+- **Mechanism control:** the Concert was neither the Holy Alliance nor a
+  permanent supranational government; Metternich was influential but did not
+  act alone; great-power peace coexisted with repression and wars at regional
+  and imperial margins.
+- **Verified PYQ ownership, 2018-2025:** zero direct topic-only routes.
+  Probable questions remain original practice. No PYQ, official key or live
+  institutional claim is invented.

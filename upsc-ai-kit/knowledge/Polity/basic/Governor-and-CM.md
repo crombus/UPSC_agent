@@ -17,10 +17,12 @@
 ## Core idea
 ✅ States mirror the Centre's **parliamentary system**: the **Governor is the nominal head**, the **CM + Council
 of Ministers is the real executive** (Art 163). The CoM is **collectively responsible to the Legislative
-Assembly** (Art 164). The Governor plays a **dual role** — state head **and** the Centre's representative.
+Assembly** (Art 164). The Governor is the constitutional State head but is appointed by the Union executive;
+the resulting federal linkage is often described as a “dual role”, not a licence to act as a Central agent.
 
 > 🔑 **Governor ≠ President on 2 points:** the Governor **can act in discretion**, and ministerial advice is
-> **not expressly binding** on him.
+> **not framed in Article 163 by the same express binding-advice language used in Article 74**. This textual
+> difference does not create general discretion: *Shamsher Singh* (1974) keeps advice as the rule.
 > 🔑 **91st Amdt:** State ministers **≤ 15% of the Assembly, minimum 12**.
 
 ## Governor's discretion (remember these)
@@ -34,7 +36,8 @@ CM in a hung house; dismissing a CoM that lost confidence; dissolving the Assemb
 - ⚠️ A Governor is Chancellor of many state universities **under the relevant state
   university statutes**, not by virtue of the Constitution; models vary by state.
 - ✅ Non-MLA can be CM for **6 months**; CM may be from either House.
-- ✅ CM chairs the State Planning Board; is a member of the **Inter-State Council** & **NITI Aayog**.
+- ⚠️ A CM participates in the **Inter-State Council** and the **NITI Aayog Governing Council**. Planning-board
+  or similar State institutions depend on the State's current administrative design and should not be universalised.
 
 ## 📰 Current link
 📰 ✅ **Current doctrine (20 Nov 2025, *In re: Assent, Withholding or Reservation of
@@ -48,13 +51,13 @@ timeline/deemed-assent reasoning in *State of Tamil Nadu v. Governor of Tamil Na
 
 ## 6. Answer architecture (10/15/20-mark support)
 
-> Purpose: make this Core file independently answer directive-sensitive GS-II questions on the Governor's appointment, discretion, legislative powers (assent, reservation, ordinances) and role in government formation, and on the Chief Minister and State Council — without opening Advanced. The Governor's **dual role** (State head + Centre's agent) is the analytical engine of every answer.
+> Purpose: make this Core file independently answer directive-sensitive GS-II questions on the Governor's appointment, discretion, legislative powers (assent, reservation, ordinances) and role in government formation, and on the Chief Minister and State Council — without opening Advanced. The analytical engine is the tension between a constitutional State head and Union appointment/pleasure tenure, not an assumption that the Governor is legally the Centre's agent.
 
 ### 6.0 Direct Mains demands owned by this Core file
 
 - **2022 · GS-II · Q12** — Demand (neutral rendering): *the Governor's legislative powers and the re-promulgation of ordinances.* Directive: **Discuss** · **15 marks · 250 words**.
   - **Core routing supersedes the older `advanced/19_Governor-CM-State-Council.md` pointer for this demand.**
-  - **Executable route:** (1) **Thesis** — the Governor's legislative powers are head-of-state functions to be exercised on ministerial advice, but the **discretion embedded in assent/reservation** and the **temptation to re-promulgate ordinances** have turned them into instruments of Centre–State friction; serial re-promulgation is a *fraud on the Constitution*. (2) **The legislative powers** — the Governor is **part of the State Legislature (Art 168)**; he **summons, prorogues and dissolves** the Assembly (Art 174), **addresses and sends messages** (Art 175–176), **nominates one-sixth of the Legislative Council** (Art 171), assents to Bills with four options under **Art 200** (assent / withhold / return / **reserve for the President**), triggering **Art 201**, and promulgates **ordinances under Art 213**. (3) **Assent as a pressure point** — Art 200's power to *reserve* (mandatory under the **second proviso** where a Bill would derogate from the **High Court's** powers) has been used to sit on Bills; ⚠️ *Nabam Rebia* (2016) held the Governor's summoning/message powers are **normally bound by aid and advice (Art 163)**, discretion being narrow. (4) **Re-promulgation** — Art 213 ordinances need the Assembly not in session and **cease six weeks** after it reassembles; ✅ *D.C. Wadhwa v. State of Bihar (1987)* struck down Bihar's serial re-promulgation as a **"fraud on the Constitution"**; ✅ *Krishna Kumar Singh v. State of Bihar (2017)* (**seven-judge Bench, 5:2**) reaffirmed it and made **laying the ordinance before the legislature mandatory (Art 213(2))**, with the satisfaction **judicially reviewable**. (5) **Current status** — 📰 the five-judge **Article 143 opinion of 20 Nov 2025** held Art 200/201 permit **no court-created rigid timelines or automatic deemed assent**, while **prolonged, unexplained inaction** is open to limited review and mandamus. (6) **Verdict** — the powers are constitutional, but their legitimacy depends on their being exercised as a nominal head's, not a Centre's agent's.
+  - **Executable route:** (1) **Thesis** — the Governor's legislative powers are head-of-state functions to be exercised on ministerial advice, but the **discretion embedded in assent/reservation** and the **temptation to re-promulgate ordinances** have turned them into instruments of Centre–State friction; serial re-promulgation is a *fraud on the Constitution*. (2) **The legislative powers** — the Governor is **part of the State Legislature (Art 168)**; he **summons, prorogues and dissolves** the Assembly (Art 174), **addresses and sends messages** (Art 175–176), **nominates one-sixth of the Legislative Council** (Art 171), assents to Bills with four options under **Art 200** (assent / withhold / return / **reserve for the President**), triggering **Art 201**, and promulgates **ordinances under Art 213**. (3) **Assent as a pressure point** — Art 200's power to *reserve* (mandatory under the **second proviso** where a Bill would derogate from the **High Court's** powers) has been used to sit on Bills; ⚠️ *Nabam Rebia* (2016) held the Governor's summoning/message powers are **normally bound by aid and advice (Art 163)**, discretion being narrow. (4) **Re-promulgation** — Art 213 ordinances need the Assembly not in session and **cease six weeks** after it reassembles; ✅ *D.C. Wadhwa v. State of Bihar (1986; reported 1987)* struck down Bihar's serial re-promulgation as a **"fraud on the Constitution"**; ✅ *Krishna Kumar Singh v. State of Bihar (2017)* (**seven-judge Bench, 5:2**) reaffirmed it and made **laying the ordinance before the legislature mandatory (Art 213(2))**, with the satisfaction **judicially reviewable**. (5) **Current status** — 📰 the five-judge **Article 143 opinion of 20 Nov 2025** held Art 200/201 permit **no court-created rigid timelines or automatic deemed assent**, while **prolonged, unexplained inaction** is open to limited review and mandamus. (6) **Verdict** — the powers are constitutional, but their legitimacy depends on their being exercised as a nominal head's, not a Centre's agent's.
 
 ### 6.1 Demand and directive map
 
@@ -103,6 +106,11 @@ timeline/deemed-assent reasoning in *State of Tamil Nadu v. Governor of Tamil Na
 | ⚠️ **Situational (implied) discretion** | Convention | **Appointing a CM in a hung Assembly**; **dismissing a CoM that has lost confidence**; **dissolving the Assembly** when the CoM has lost majority | Must be exercised as a constitutional head, not a partisan |
 | ✅ **Finality clause with a rider** | **Art 163(2)** | Whether a matter falls in his discretion is decided by the Governor and "**shall be final**"; the validity of what he does "**shall not be called in question**" | ⚠️ *Nabam Rebia* (2016): this does **not** create unlimited discretion — the enumerated/necessarily-implied fields are narrow |
 
+**Special-responsibility caution:** Article **371A(1)(b)** (Nagaland) and Article **371H(a)** (Arunachal
+Pradesh) expressly provide a law-and-order special responsibility exercised in individual judgment after
+consulting the Council of Ministers. Sixth Schedule provisions separately assign specified functions in
+autonomous tribal-area administration. These exceptional texts must not be generalised to all Governors.
+
 - **Governing cases (propositions, not name-drops):**
   - ✅ *Shamsher Singh v. State of Punjab (1974)* (seven-judge Bench) — the Governor exercises powers **on the aid and advice** of the CoM save in a few well-recognised exceptional situations; he is a **constitutional head**.
   - ✅ *S.R. Bommai v. Union of India (1994)* (nine-judge Bench) — **Art 356 is judicially reviewable**; majority is tested by a **floor test**, not the Governor's subjective satisfaction; federalism is a **basic feature**.
@@ -137,7 +145,9 @@ timeline/deemed-assent reasoning in *State of Tamil Nadu v. Governor of Tamil Na
 
 - ⚠️ **Why the dual role generates friction:** the Governor is a nominal head under Art 163 but a Union appointee under Art 155 who serves at pleasure under Art 156 — the incentive structure rewards responsiveness to the Centre, which is why assent delays and President's-Rule reports cluster where the State and Centre are governed by rival parties.
 - ⚠️ **Why re-promulgation recurs:** Art 213 lets the executive legislate when the Assembly is not sitting; a government without a settled majority has an incentive to keep re-issuing ordinances rather than face the House — the very abuse *Wadhwa* and *Krishna Kumar Singh* had to make mandatorily reviewable by requiring laying.
-- ⚠️ **Consequence of the pleasure doctrine:** because removal needs no grounds, tenure is a political variable, weakening the Governor's capacity to act as a neutral umpire — the structural case behind every reform recommendation.
+- ⚠️ **Consequence of the pleasure doctrine:** tenure remains structurally dependent, but *B.P. Singhal v.
+  Union of India* (2010) holds that pleasure is not arbitrary power: a Governor cannot be removed on
+  capricious, unreasonable or mala fide grounds, though the Union need not disclose reasons as a routine rule.
 
 ### 6.9 Criticism, counter-argument and variation
 

@@ -266,3 +266,25 @@
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** socialist and communist currents, AITUC and labour, Bardoli
+  and AIKS, Karachi/Faizpur socio-economic programmes, AISPC/Praja Mandals,
+  Haripura, Tripuri and Forward Bloc, with late-colonial agrarian bridges.
+- **Boundary:** Topics 19-22 retain early Gandhian, Non-Cooperation and CDM
+  contexts; Topic 24 owns the 1935 Act and ministry record. Topic 26 exclusively
+  owns INA/RIN/Cabinet Mission; Topic 27 owns independence/partition; Topic 28
+  owns integration and Topic 38 owns post-independence agrarian synthesis.
+- **Date control:** AITUC/Tashkent (1920), Kanpur (1925), AISPC (1927),
+  Bardoli (1928), Bihar Kisan Sabha (1929), CSP (1934), AIKS/Faizpur (1936),
+  Haripura (1938), Tripuri/Forward Bloc (1939), Warli (1945) and
+  Tebhaga/Telangana (1946) are roots, core and bridges rather than one phase.
+- **Mechanism control:** CSP and CPI were distinct; AISPC challenged princely
+  autocracy; Bardoli targeted state revenue, unlike Awadh landlord conflict;
+  Tripuri was ideological/organisational; popular agency was not a Congress
+  appendage.
+- **Verified PYQ ownership, 2018-2026:** 2019 and 2020 GS-I are bounded/shared,
+  2023 GS-I is cross-period tribal, 2020 Prelims Q35 is locally unkeyed and
+  2026 Prelims Q16 is provisional. No unavailable or provisional key is
+  promoted as official.

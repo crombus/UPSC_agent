@@ -11,12 +11,12 @@
 
 ## 1. Appointment ⭐
 ✅ No specific procedure — **Art 75:** PM "appointed by the President." Convention: President appoints
-the **leader of the majority party** in the Lok Sabha. **President's discretion** in two cases: (a) **no
-clear majority** (largest party/coalition leader → prove confidence within a month; first used 1979,
-**Charan Singh**); (b) sudden **death of an incumbent PM** with no obvious successor (**Rajiv Gandhi 1984**).
-✅ **Delhi HC (1980):** need not prove majority *before* appointment. ✅ **SC (1997):** a non-MP can be PM
-for **6 months**, then must become an MP. ✅ PM may be from **either House** — **Indira Gandhi (1966),
-Deve Gowda (1996), Manmohan Singh (2004)** were **Rajya Sabha** members (UK PM must be from the Commons).
+the recognised leader capable of commanding a Lok Sabha majority. Presidential judgment becomes relevant
+where no claimant has a clear majority or an incumbent dies before a successor is settled, but objective
+support material and a prompt floor test bound that judgment. **Charan Singh (1979)** and **Vajpayee
+(1996)** illustrate the difference between appointment and proved confidence. ✅ *S. P. Anand v. H. D.
+Deve Gowda* (1996) accepted a non-member PM subject to the **six-month** rule. ✅ The PM may be from
+**either House**.
 
 ## 2. Oath, term, salary
 ✅ President administers oaths of **office and secrecy**. **Term not fixed** — holds office during the
@@ -51,7 +51,7 @@ defection** can't be a minister; **6-month** non-MP rule; collective responsibil
 ## 5. Responsibility ⭐
 ✅ **Collective responsibility (Art 75)** — bedrock; CoM answerable to the **Lok Sabha**; a no-confidence
 motion forces **all** ministers (incl. RS ones) to resign; Cabinet decisions **bind all ministers** (dissent
-→ resign; e.g. **Ambedkar 1953 over Hindu Code Bill**). ✅ **Individual responsibility** — ministers hold
+→ resign; e.g. **Ambedkar tendered resignation in 1951 over the Hindu Code Bill issue**). ✅ **Individual responsibility** — ministers hold
 office during President's pleasure (removed on PM's advice). ✅ **No legal responsibility** — unlike Britain,
 no counter-signature requirement; courts can't probe ministerial advice.
 
@@ -62,8 +62,8 @@ Also parliamentary secretaries (largely defunct since 1967) & occasional **Deput
 — SC upheld Devi Lal's 1990 oath).
 | Council of Ministers | Cabinet |
 |---|---|
-| ✅ 60-70 members, all 3 ranks | 15-20, cabinet ministers only |
-| ✅ Never meets as a body | Meets weekly, **collective functions** |
+| Wider constitutional ministry; actual size varies within Article 75(1A) | Smaller Cabinet-rank decision core; actual size varies |
+| Carries collective responsibility to Lok Sabha | Deliberates and decides major policy |
 | ✅ Powers "in theory" | Exercises powers in practice; **directs** the CoM |
 
 ✅ **Kitchen/Inner Cabinet** — informal body of PM + a few trusted colleagues (+ outsiders); very powerful
@@ -72,13 +72,11 @@ under **Indira Gandhi**; exists in USA/UK too.
 ---
 
 # PART C — CABINET COMMITTEES ⭐
-✅ **Extra-constitutional** (Rules of Business, not the Constitution); **standing & ad hoc**; set up by the
-**PM**; 3-8 members; mostly **chaired by PM**. They sort out issues, formulate proposals **and take
-decisions** (Cabinet can review). ✅ **Present 8 committees (2019):** Political Affairs · Economic Affairs ·
-Appointments · **Security** · Parliamentary Affairs · Accommodation · Investment & Growth · Employment &
-Skill Development.
-✅ **Four key ones:** Political Affairs ("**Super-Cabinet**", most powerful), Economic Affairs, Appointments
-(higher appointments) — chaired by **PM**; **Parliamentary Affairs** — chaired by **Home Minister**.
+✅ **Extra-constitutional** ministerial bodies under business-rule practice; they may be **standing or ad
+hoc** and specialise, coordinate and accelerate Cabinet work subject to the formal system of collective
+responsibility. Their number, names, membership and chairs vary by notification. The official Cabinet
+Secretariat composition document dated **27 July 2026** must control any present-tense claim; no old count
+or universal chairmanship rule should be memorised.
 ✅ **Groups of Ministers (GoMs)** — ad hoc coordination bodies; **2nd ARC** urged selective use with time
 limits.
 
@@ -89,9 +87,9 @@ limits.
 - ❌ PM must be from the Lok Sabha → may be from **either House** (RS PMs: Indira, Deve Gowda, Manmohan).
 - ❌ Cabinet is mentioned in the original Constitution → inserted into **Art 352 by the 44th Amdt**; committees are **extra-constitutional**.
 - ❌ Ministers can vote in both Houses → speak in either, **vote only in their own** (Art 88).
-- ❌ CoM = Cabinet → CoM (60-70) is wider; **Cabinet** (15-20) is a part that actually decides.
+- ❌ CoM = Cabinet → CoM is the wider constitutional ministry; **Cabinet** is its smaller decision core.
 - ❌ A non-MP can never be a minister/PM → allowed for **6 months**.
-- ❌ Cabinet Committee on Parliamentary Affairs is chaired by PM → by the **Home Minister**.
+- ❌ Cabinet Committee chairs follow a permanent rule → composition and chairs are notification-sensitive.
 - ❌ Deputy PM has PM's powers → "descriptive only" (SC, Devi Lal 1990).
 
 ## 📰 CA hooks

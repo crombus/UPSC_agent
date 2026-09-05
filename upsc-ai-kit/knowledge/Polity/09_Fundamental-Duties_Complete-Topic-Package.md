@@ -18,7 +18,7 @@ cover_image: "../../../notes/Polity/assets/09_Fundamental-Duties/01_constitution
 - [FACT] The Constitution (Forty-second Amendment) Act, 1976 inserted **Part IVA**, consisting of the single **Article 51A**, with ten duties. The Constitution (Eighty-sixth Amendment) Act, 2002 inserted clause (k), bringing the count to eleven.
 - [FACT] The immediate source conventionally identified in the local authoritative text is the Constitution of the erstwhile USSR. [LIMIT] India did not copy a Soviet enforceability model: Article 51A sits within a democratic Constitution, remains non-justiciable and is mediated by rights, legislation and judicial review.
 - [FACT] The 1976 Swaran Singh Committee recommended eight duties. The 42nd Amendment enacted ten. Its rejected recommendations included a penalty power, attempted insulation of penalty laws from constitutional challenge, and a duty to pay taxes.
-- [CURRENT] Legal status is controlled to **15 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] The operative criminal-law references use the **Bharatiya Nyaya Sanhita, 2023**, in force from 1 July 2024, rather than presenting obsolete IPC provisions as current law. Sections **196** and **197** are used only for their verified harmony/national-integration fields.
 - [CURRENT] The forest statute's present official short title is the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980**.
 - [CURRENT] The official 11 September 2024 record in *Durga Dutt v. Union of India*, W.P.(C) 67/2022, did **not** finally decide that Fundamental Duties were enforceable or dispose of the petition. It requested the Attorney General to file a synopsis of Central and State enactments effectuating facets of Article 51A and relisted the matter.
@@ -79,7 +79,7 @@ cover_image: "../../../notes/Polity/assets/09_Fundamental-Duties/01_constitution
 ![The timeline separates the 1950 omission, Emergency context, 1976 insertion, 1999 operationalisation project and 2002 education duty.](../../../notes/Polity/assets/09_Fundamental-Duties/02_origin_amendment_timeline.png)
 
 - [FACT] The need for a separate duty chapter was pressed during the Internal Emergency of 1975-77.
-- [FACT] In 1976 the Congress Party constituted the Sardar Swaran Singh Committee.
+- [FACT] In 1976 the Congress government constituted the Sardar Swaran Singh Committee.
 - [FACT] The Committee recommended eight duties and a separate chapter.
 - [FACT] The 42nd Amendment inserted Part IVA and Article 51A with **ten**, not eight, duties.
 - [ANALYSIS] Emergency provenance creates a permanent legitimacy question: civic responsibility can support democracy, but a duty vocabulary may also be used to stigmatise dissent. This is why the rights firewall is essential.
@@ -993,6 +993,8 @@ Third, duties cannot override rights. *Bijoe Emmanuel* protected children who st
 
 **Why this earns marks:** It resolves the apparent paradox, gives four named statutory/case examples, states the criminal-liability and rights limits, and reaches a precise verdict.
 
+**How to improve this answer:** In the exam, compress the first paragraph to one line, group statutes by symbols, public property and environment, and reserve the last two lines for the difference between interpretive weight and direct enforceability.
+
 ### M2. What does the national-symbol jurisprudence reveal about the relationship between patriotism, expression and Fundamental Duties? (10 marks, 150 words)
 
 **Model solution.** **Thesis:** Indian national-symbol jurisprudence protects respectful patriotism while rejecting the assumption that only one compelled performance proves loyalty.
@@ -1006,6 +1008,8 @@ Finally, *Shyam Narayan Chouksey* (2018) modified the 2016 cinema mandate: playi
 **Conclusion:** Constitutional patriotism joins freedom with respect; neither contempt nor compelled conformity defines citizenship.
 
 **Why this earns marks:** It uses the full three-case chronology, identifies exact holdings, distinguishes statute from executive code and answers the conceptual relationship rather than listing cases.
+
+**How to improve this answer:** Use a three-row case table—conduct, right, limit—and expressly state that section 3 punishes intentional prevention or disturbance, not every refusal to sing.
 
 ### M3. Analyse the constitutional design of education through Articles 21A, 45 and 51A(k). (15 marks, 250 words)
 
@@ -1025,6 +1029,8 @@ Finally, *Shyam Narayan Chouksey* (2018) modified the 2016 cinema mandate: playi
 
 **Why this earns marks:** It separates addressee, age, legal character and statute; analyses interaction; adds a poverty/access qualification and gives a graded verdict.
 
+**How to improve this answer:** Draw the education triad first, then attach one delivery gap—school access, disability support or migration—to show why parental duty cannot displace State capacity.
+
 ### M4. Article 51A(g) has converted environmental protection from a State programme into a shared constitutional ethic. Discuss with judicial and statutory evidence. (15 marks, 250 words)
 
 **Model solution.** **Thesis:** Article 51A(g) makes ecology and compassion citizen duties, but effective protection emerges from its interaction with Article 48A, Article 21, statutes and administration.
@@ -1040,6 +1046,8 @@ Finally, *Shyam Narayan Chouksey* (2018) modified the 2016 cinema mandate: playi
 **Conclusion:** Article 51A(g) supplies constitutional motivation and interpretation; statutes, education and accountable enforcement produce actual environmental outcomes.
 
 **Why this earns marks:** It gives the three-Article mechanism, three statutes, two case stages and the essential 2023 qualification rather than an outdated one-case answer.
+
+**How to improve this answer:** Limit statutory description to one clause each, spend more space on the 2014-to-2023 legal change, and close with the division between constitutional ethic and statutory liability.
 
 ### M5. Should Fundamental Duties be made justiciable? Give a constitutionally graded answer. (15 marks, 250 words)
 
@@ -1059,6 +1067,8 @@ Finally, *Shyam Narayan Chouksey* (2018) modified the 2016 cinema mandate: playi
 
 **Why this earns marks:** It answers "should" with a graded verdict, balances deterrence and coercion, uses four named authorities and links each reform to a diagnosed risk.
 
+**How to improve this answer:** Organise the body as enforceable harms versus open-textured values; state that Durga Dutt remains pending, and link each sanction to legality, competence and proportionality.
+
 ### M6. "Rights, Directive Principles and Fundamental Duties are distinct parts of one constitutional project." Critically examine. (20 marks, 300 words)
 
 **Model solution.** **Thesis:** The three Parts distribute constitutional agency: Part III restrains public power and protects persons; Part IV directs the State toward justice; Part IVA asks citizens to sustain common constitutional goods. They are complementary, not interchangeable.
@@ -1077,6 +1087,8 @@ Finally, *Shyam Narayan Chouksey* (2018) modified the 2016 cinema mandate: playi
 
 **Why this earns marks:** It builds a three-part constitutional mechanism, uses six named provisions/cases/statutes, includes criticism and prevents both duties-supremacy and duties-irrelevance errors.
 
+**How to improve this answer:** Use a Part III–IV–IVA triangle and one paired example each for environment and education; cut catalogue-style case listing and make rights-compatible means the evaluative test.
+
 ### M7. Do Fundamental Duties create active citizenship, or can they become instruments of majoritarian conformity? Evaluate. (20 marks, 300 words)
 
 **Model solution.** **Thesis:** Fundamental Duties can deepen active citizenship when read through liberty, equality and fraternity; detached from those values, vague duty language can become a conformity test.
@@ -1092,6 +1104,8 @@ Finally, *Shyam Narayan Chouksey* (2018) modified the 2016 cinema mandate: playi
 **Conclusion:** Duties create democratic citizenship only when they discipline power as well as citizens. Their mature form is responsible freedom, not enforced sameness.
 
 **Why this earns marks:** It directly evaluates both possibilities, covers six clauses, uses Verma plus two cases, develops the advanced patriotism argument and ends with a constitutional criterion rather than a generic way forward.
+
+**How to improve this answer:** Pair each citizenship gain with its conformity risk, use Bijoe Emmanuel as the controlling minority-conscience example, and make plural civic education—not penal loyalty—the final recommendation.
 
 ## Final consolidated register notes - Fundamental Duties
 

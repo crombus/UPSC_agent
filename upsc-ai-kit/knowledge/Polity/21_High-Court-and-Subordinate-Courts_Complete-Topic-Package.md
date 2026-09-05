@@ -1,12 +1,12 @@
 ---
-export_date: 2026-08-18
+export_date: 2026-08-28
 approval: false
 evidence_key: "[FACT] verified constitutional, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated legal/current control; [LIMIT] qualification preventing overstatement"
 ---
 
 # Polity 21 - High Court and Subordinate Courts - Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 21 | **GS-II + Prelims** | **Export date:** 2026-08-18
+> **Subject:** Indian Polity | **Topic:** 21 | **GS-II + Prelims** | **Export date:** 2026-08-28
 >
 > **Approval:** false - awaiting explicit user approval.
 >
@@ -16,11 +16,13 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 
 - Source order followed: `basic/High-Court.md` -> `advanced/21_High-Court-and-Subordinate-Courts.md` -> `basic/Lok-Adalats-and-Other-Courts.md` -> Polity 18 Supreme Court cross-link -> official Department of Justice/eCourts material and current appointment control. Qdrant was not used.
 - [FACT] The Core owner supersedes stale or less-qualified Advanced statements.
-- [CURRENT] Legal and institutional status is controlled to **18 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and institutional status is controlled to **28 August 2026, Asia/Kolkata**.
 - [CURRENT] India has **25 High Courts**; some exercise jurisdiction over more than one State or Union Territory.
-- [CURRENT] High Court and subordinate-court vacancy and pendency figures are dynamic. This package does not freeze them as durable facts; use the dated Department of Justice dashboard before quoting numbers.
+- [CURRENT] High Court vacancy figures are dynamic. The Department of Justice statement dated **1 July 2026** records **1,122 sanctioned posts, 781 working judges and 341 vacancies**; quote the date and re-verify before later reuse.
 - [CURRENT] The collegium system remains operative. The NJAC is not in force after the Supreme Court's 2015 decision.
 - [CURRENT] An All India Judicial Service has **not** been created. Article 312 permits one only after the prescribed Rajya Sabha resolution and parliamentary law, and Article 312(3) excludes posts below district judge.
+- [CURRENT] *Rejanish K.V. v. K. Deepa* (2025) prospectively overruled *Dheeraj Mor* and permits qualifying serving judicial officers to compete in direct District-Judge recruitment under the Court's combined-experience, minimum-age and application-date rules.
+- [CURRENT] *All India Judges Association v. Union of India* (20 May 2025) restored a prospective three-year Bar-practice condition for Civil Judge (Junior Division) recruitment and revised promotion channels in the district judiciary.
 - [CURRENT] eCourts Phase III, approved for 2023-2027 with an official outlay of Rs 7,210 crore, is under implementation for digitisation, e-filing, e-payments, paperless courts, data-based case management and e-Sewa Kendras.
 - [LIMIT] Technology improves access and administration but cannot substitute for judges, court staff, legal aid, reasoned adjudication or procedural fairness.
 - Official current sources: Department of Justice eCourts division and vacancy dashboard; Supreme Court collegium resolutions; eCourts portal.
@@ -242,6 +244,7 @@ compensatory allowance as provided
 
 - [FACT] Article 222 permits presidential transfer after consultation with the CJI.
 - [FACT] A judge's consent is not a constitutional prerequisite.
+- [FACT] Under the current Memorandum-of-Procedure framework, the CJI consults the four senior-most Supreme Court judges and the Chief Justices of the transferor and transferee High Courts.
 - [ANALYSIS] Transfer can address administration and local entrenchment but can also be perceived as punitive.
 - [LIMIT] The legitimate standard is public interest through institutional consultation, not executive punishment.
 - [FACT] *Sankalchand Sheth* and the Judges Cases form part of the transfer-and-consultation doctrinal history.
@@ -313,6 +316,7 @@ Article 226
 - [FACT] Article 32 has wider national territorial reach and is itself a Fundamental Right.
 - [FACT] Article 226(2) permits action where the cause of action arises wholly or partly within the High Court's territory even if the authority is located elsewhere.
 - [FACT] The cause-of-action extension came through the Fifteenth Amendment.
+- [FACT] Article 226(3) supplies an expedited safeguard against an ex parte interim order: once the prescribed vacation application and copies are furnished, the High Court must dispose of it within two weeks from the later trigger (or by the next open day where the last day is closed), failing which the interim order stands vacated.
 - [LIMIT] "Article 226 is wider" does not mean unlimited territorial jurisdiction.
 
 ## 13. The five writs
@@ -360,6 +364,7 @@ Statutory remedy exists?
 ```
 
 - [FACT] The alternative-remedy rule is a rule of judicial discretion and self-restraint, not an absolute jurisdictional bar.
+- [FACT] The standard exceptions include enforcement of Fundamental Rights, natural-justice failure, want of jurisdiction and challenge to vires.
 - [ANALYSIS] It protects statutory forums while preserving rapid constitutional relief for serious illegality.
 - [LIMIT] Article 226 should not become a routine substitute for every trial or appeal.
 
@@ -376,7 +381,7 @@ Supreme Court where available
 ```
 
 - [FACT] *L. Chandra Kumar v. Union of India* (1997) held judicial review under Articles 226/227 and 32 to be part of the Basic Structure.
-- [FACT] Tribunal decisions remain subject to High Court scrutiny.
+- [FACT] Decisions of tribunals constituted under Articles 323A/323B remain subject to scrutiny before a High Court Division Bench.
 - [LIMIT] The judgment did not abolish tribunals; it denied them complete substitution for constitutional courts.
 - [ANALYSIS] The High Court is the constitutional quality-control layer for decentralised adjudication.
 
@@ -393,6 +398,8 @@ Supreme Court where available
 | Restraint | not routine factual reappraisal |
 
 - [FACT] Article 227 keeps subordinate forums within jurisdiction and ensures regular administration.
+- [FACT] *Radhey Shyam v. Chhabi Nath* (2015) places judicial orders of civil courts under Article 227 supervision rather than Article 226 writ jurisdiction.
+- [CURRENT] *K. Valarmathi v. Kumaresan* (2025) reiterates that Article 227 cannot be used to supplant the statutory trial and appellate process.
 - [ANALYSIS] If used as a second appeal, superintendence would collapse the statutory hierarchy.
 - [LIMIT] Corrective intensity depends on jurisdictional error, grave injustice and procedural failure, not simple disagreement.
 
@@ -438,6 +445,9 @@ death sentence requires confirmation
 ## 19. High Court benches and access
 
 - [FACT] A High Court may have its principal seat and permanent or circuit benches under applicable reorganisation/statutory arrangements.
+- [FACT] Article 229 places appointment of High Court officers and servants with the Chief Justice or authorised officer; service-rule and salary provisions retain the Governor's limited constitutional approval role.
+- [FACT] High Court administrative expenses are charged on the Consolidated Fund of the State.
+- [FACT] Article 230 lets Parliament extend or exclude a High Court's jurisdiction in relation to a Union Territory; Article 231 permits a common High Court.
 - [ANALYSIS] Benches can reduce travel and regional exclusion but may fragment administration and generate seat-location politics.
 - [LIMIT] Bench creation is not a unilateral power of the High Court alone; constitutional, executive and statutory processes apply.
 
@@ -453,6 +463,9 @@ death sentence requires confirmation
 | 235 | High Court control |
 | 236 | interpretation, including broad "district judge" definition |
 | 237 | application to certain magistrates |
+
+- [FACT] Article 236 defines both "district judge" and "judicial service"; the latter is a service intended to fill the post of district judge and civil judicial posts inferior to it.
+- [FACT] Article 237 permits the Governor, by public notification, to apply this chapter to specified classes of magistrates, subject to stated exceptions or modifications.
 
 **Visual 24 - Independence chain**
 
@@ -470,6 +483,8 @@ district judiciary insulated from ordinary executive command
 
 - [FACT] Article 233 places appointment, posting and promotion of district judges with the Governor in consultation with the High Court.
 - [FACT] A person not already in Union/State service requires at least seven years as advocate or pleader and High Court recommendation for district-judge appointment.
+- [CURRENT] *Rejanish K.V. v. K. Deepa* (2025 INSC 1208) prospectively overruled *Dheeraj Mor*. Serving judicial officers may compete in direct recruitment when they satisfy the Court's combined seven-year advocate/judicial-service experience, minimum age of 35 and application-date conditions.
+- [LIMIT] The *Rejanish* rule is a judicial interpretation governing recruitment eligibility; it does not rewrite the text of Article 233(2), and completed earlier selections retain the judgment's prospective protection.
 - [LIMIT] The Governor does not appoint unilaterally, and the High Court does not formally appoint alone.
 - [ANALYSIS] Consultation protects judicial independence while retaining constitutional State appointment form.
 
@@ -486,6 +501,8 @@ rules framed after consultation with:
 ```
 
 - [FACT] Article 234 governs persons other than district judges entering the State judicial service.
+- [CURRENT] *All India Judges Association v. Union of India* (20 May 2025) restored a minimum three-year Bar-practice requirement prospectively for future Civil Judge (Junior Division) recruitments.
+- [CURRENT] The same decision restored a 25% Limited Departmental Competitive Examination channel for District-Judge promotion, recalibrated experience conditions and required a suitability test in the merit-cum-seniority stream.
 - [ANALYSIS] The tripartite design combines recruitment machinery, constitutional appointment and judicial quality control.
 - [LIMIT] Exact examinations, cadres and service rules vary by State.
 
@@ -505,6 +522,7 @@ lower-court decisional independence
 ```
 
 - [FACT] Article 235 vests control over district courts and subordinate courts in the High Court.
+- [FACT] *State of West Bengal v. Nripendra Nath Bagchi* (1966) reads "control" to include disciplinary control; it is not confined to routine posting and promotion.
 - [ANALYSIS] Independence would be hollow if the executive could transfer or discipline trial judges whose decisions affect the State.
 - [LIMIT] Service conditions and appeal rights remain subject to law; High Court control is constitutional administration, not arbitrary power.
 
@@ -628,7 +646,7 @@ cannot include posts below district judge: Article 312(3)
 | vacancy reduction | central exam alone cannot fix retention/infrastructure |
 | national training standards | High Court control must remain meaningful |
 
-- [CURRENT] No AIJS is operational as of 18 August 2026.
+- [CURRENT] No AIJS is operational as of 28 August 2026.
 - [LIMIT] AIJS cannot constitutionally recruit posts below district judge.
 - [ANALYSIS] A workable model must preserve Article 235 control, State language competence, reservations, local law training and High Court participation.
 
@@ -652,7 +670,7 @@ lower trust / higher litigation cost
 more pressure for exceptional forums
 ```
 
-- [CURRENT] Official vacancy and pendency dashboards show persistent capacity gaps, but counts change continuously.
+- [CURRENT] The Department of Justice statement dated **1 July 2026** records **1,122 sanctioned High Court posts, 781 working judges and 341 vacancies**. The 30.4% vacancy share is a dated calculation, not a permanent characteristic.
 - [ANALYSIS] Pendency is produced by incoming case volume, vacancies, procedural complexity, government litigation, adjournments, weak service of process and uneven technology.
 - [LIMIT] No single reform - AIJS, more judges, tribunals or mediation - can solve all components.
 
@@ -827,6 +845,11 @@ Arbitration arises from an arbitration agreement under the Arbitration and Conci
 
 **Evidence chain:** Article 39A -> Legal Services Authorities Act -> compromise/compoundable limit -> arbitration agreement -> civil-commercial field.
 
+
+**Why this earns marks:** It distinguishes source, consent, subject matter, criminal limits and legal effect, then adds the Permanent Lok Adalat qualification within 150 words.
+
+**How to improve this answer:** Compress the statutory comparison into a five-row mental matrix: source, consent, civil field, criminal field and legal effect; reserve one sentence for the Permanent Lok Adalat exception.
+
 ### PYQ 2 - UPSC GS-II 2025, Q13 - appointments application
 
 **Verified neutral demand:** Critically examine the collegium system of judicial appointments in India with comparison to the United States.  
@@ -851,6 +874,11 @@ Arbitration arises from an arbitration agreement under the Arbitration and Conci
 **Evidence chain:** Article 217 -> Judges Cases -> HC and SC collegium stages -> NJAC case -> US nomination-confirmation -> targeted reform.
 
 ## Routed Prelims demands - provenance without invented answer letters
+
+
+**Why this earns marks:** It anchors both systems, weighs independence against accountability, and proposes reforms that answer the comparative directive rather than merely describing the collegium.
+
+**How to improve this answer:** Use three explicit comparison axes—appointing actors, transparency and politicisation—then compress reforms to criteria, timelines and a secretariat so the 250-word conclusion remains balanced.
 
 ### Prelims route 1 - 2019 GS-I Q81 - cross-owned
 
@@ -920,17 +948,22 @@ D. Chief Minister.
 
 ### OM4. Qualification
 
-Which is not a High Court qualification route?
+Consider the following routes for appointment as a High Court judge:
 
-A. Ten years in judicial office.  
-B. Ten years as High Court advocate.  
-C. Indian citizenship.  
-D. Distinguished jurist.
+1. Ten years in a judicial office in India.
+2. Ten years as an advocate of one or more High Courts in succession.
+3. Recognition as a distinguished jurist by the President.
+
+Which are constitutional qualification routes?
+
+A. 1 only.  
+B. 2 and 3 only.  
+C. 1, 2 and 3.  
+D. 1 and 2 only.
 
 **Answer: D.**
 
-**Explanation:** [FACT] The distinguished-jurist route belongs to Supreme Court eligibility.
-
+**Explanation:** [FACT] Article 217 includes citizenship plus routes 1 or 2; distinguished jurist is confined to Supreme Court eligibility.
 ### OM5. Retirement
 
 A High Court judge ordinarily retires at:
@@ -959,17 +992,22 @@ D. State Speaker.
 
 ### OM7. Transfer
 
-Article 222 transfer is made by:
+Consider the following statements on Article 222 transfer:
 
-A. Governor without consultation.  
-B. Parliament.  
-C. President after consultation with CJI.  
-D. Supreme Court registry.
+1. The President formally transfers a High Court judge after consulting the CJI.
+2. The judge's consent is an express constitutional prerequisite.
+3. Current procedure uses consultation with four senior-most Supreme Court judges and both affected Chief Justices.
+
+Which are correct?
+
+A. 1 only.  
+B. 2 and 3 only.  
+C. 1 and 3 only.  
+D. 1, 2 and 3.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Collegium doctrine structures the consultation.
-
+**Explanation:** [FACT] Consent is not constitutionally required, but full institutional consultation and public interest constrain transfer.
 ### OM8. Acting Chief Justice
 
 The relevant provision is:
@@ -998,17 +1036,22 @@ D. Union disputes only.
 
 ### OM10. Territorial cause of action
 
-Article 226 jurisdiction may arise where:
+Consider the following statements under Article 226:
 
-A. respondent is anywhere regardless of dispute.  
-B. cause of action arises wholly or partly within territory.  
-C. petitioner is an Indian citizen only.  
-D. Supreme Court grants permission.
+1. A High Court may act where the cause of action arises wholly or partly within its territory even if the respondent is located outside.
+2. A qualifying application to vacate an ex parte interim order triggers Article 226(3)'s two-week disposal safeguard.
+3. The petitioner's residence alone creates territorial jurisdiction.
+
+Which are correct?
+
+A. 1 only.  
+B. 1 and 2 only.  
+C. 2 and 3 only.  
+D. 1, 2 and 3.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 226(2) controls.
-
+**Explanation:** [FACT] Cause of action, not residence alone, supplies the territorial connection; clause (3) protects the unheard party against prolonged ex parte restraint.
 ### OM11. Detention
 
 The writ testing unlawful detention is:
@@ -1076,30 +1119,28 @@ D. appoints a tribunal.
 
 ### OM16. Alternative remedy
 
-The alternative-remedy rule is:
+A statute provides an appeal, but the challenged order was passed without jurisdiction and without hearing the affected person. The best statement is:
 
-A. an absolute constitutional bar.  
-B. applicable even to every jurisdictional nullity.  
-C. a repeal of Article 226.  
-D. a discretionary rule with recognised exceptions.
+A. Article 226 jurisdiction is constitutionally extinguished.  
+B. Only Article 32 can be used.  
+C. The High Court must decide the statutory appeal itself.  
+D. The High Court may still exercise writ discretion despite the alternative remedy.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Rights, natural justice and jurisdictional failures may justify direct writ relief.
-
+**Explanation:** [FACT] Alternative remedy is self-restraint, with recognised exceptions including want of jurisdiction and natural-justice failure.
 ### OM17. Basic Structure
 
-Which case protects High Court review of tribunals?
+Which formulation most accurately states *L. Chandra Kumar*?
 
-A. *L. Chandra Kumar*.  
-B. *Kihoto Hollohan*.  
-C. *S.R. Bommai*.  
-D. *Kesavananda* alone.
+A. Articles 226/227 and 32 review are Basic Structure; Articles 323A/323B tribunal decisions remain subject to High Court scrutiny.  
+B. Every tribunal was abolished.  
+C. High Courts became routine merits-appellate forums over tribunals.  
+D. Parliament may exclude all High Court review by ordinary law.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Articles 226/227 review cannot be excluded.
-
+**Explanation:** [FACT] Tribunals supplement adjudication; they cannot wholly substitute the constitutional review layer.
 ### OM18. Superintendence
 
 Article 227 concerns:
@@ -1141,43 +1182,52 @@ D. Article 231.
 
 ### OM21. District judge appointment
 
-District judges are appointed by:
+After *Rejanish K.V. v. K. Deepa* (2025), which statement is correct for direct District-Judge recruitment?
 
-A. Governor in consultation with High Court.  
-B. High Court alone.  
-C. State PSC alone.  
-D. President.
+A. Qualifying serving judicial officers may compete prospectively under the Court's combined-experience, age and application-date rules.  
+B. *Dheeraj Mor* continues to exclude every serving judicial officer.  
+C. The State PSC appoints district judges without High Court consultation.  
+D. Article 233 permits recruitment to posts below district judge through AIJS.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 233.
-
+**Explanation:** [CURRENT] *Rejanish* prospectively overruled the categorical *Dheeraj Mor* exclusion while preserving Governor–High Court constitutional mechanics.
 ### OM22. Lower judicial service
 
-Article 234 requires consultation with:
+Consider the following:
 
-A. Election Commission and CJI.  
-B. State PSC and High Court.  
-C. UPSC and Parliament.  
-D. Finance Commission and Governor.
+1. Article 234 requires rules framed after consultation with the State PSC and High Court.
+2. *All India Judges Association* (2025) restored prospective three-year Bar practice for future Civil Judge entry recruitment.
+3. The 2025 decision converted Civil Judges into an operational AIJS.
+
+Which are correct?
+
+A. 1 only.  
+B. 1 and 2 only.  
+C. 2 and 3 only.  
+D. 1, 2 and 3.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Governor appoints under the consultation-based rules.
-
+**Explanation:** [FACT/CURRENT] The recruitment rule is judicially prescribed within State systems; no AIJS has been created.
 ### OM23. Control
 
-Control over district and subordinate courts is vested in:
+Match the provision with its function:
 
-A. State Cabinet.  
-B. Governor personally.  
-C. High Court.  
-D. Supreme Court registry.
+1. Article 228 — constitutional-question withdrawal.
+2. Article 229 — High Court staff and administrative expenses.
+3. Article 235 — control over district and subordinate courts.
+
+Which option is correct?
+
+A. 1 only.  
+B. 2 only.  
+C. 1, 2 and 3.  
+D. 1 and 3 only.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 235 protects independence.
-
+**Explanation:** [FACT] These are distinct judicial, institutional-administrative and subordinate-control powers.
 ### OM24. District and Sessions Judge
 
 Which is accurate?
@@ -1245,17 +1295,16 @@ D. compoundable criminal matters.
 
 ### OM29. AIJS route
 
-AIJS creation requires first:
+Which sequence correctly describes creation of an All India Judicial Service?
 
-A. Rajya Sabha resolution under Article 312.  
-B. Governor conference only.  
-C. Supreme Court ordinance.  
-D. State PSC resolution.
+A. Rajya Sabha resolution supported by two-thirds present and voting, followed by parliamentary law.  
+B. CJI notification followed by State ratification.  
+C. Lok Sabha simple resolution followed by a presidential ordinance.  
+D. Inter-State Council recommendation followed automatically by UPSC recruitment.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The resolution needs at least two-thirds present and voting.
-
+**Explanation:** [FACT] Article 312 supplies the route; Article 312(3) excludes posts below district judge.
 ### OM30. AIJS floor
 
 Article 312(3) means AIJS cannot include:
@@ -1271,7 +1320,7 @@ D. reserved categories.
 
 ### OM31. AIJS status
 
-As of 18 August 2026:
+As of 28 August 2026:
 
 A. UPSC recruits every civil judge.  
 B. AIJS has replaced State services.  
@@ -1284,17 +1333,21 @@ D. Article 235 is repealed.
 
 ### OM32. eCourts Phase III
 
-Its period and approved outlay are:
+Which combination best reflects eCourts Phase III?
 
-A. 2020-2025, Rs 1,000 crore.  
-B. permanent, no approved scheme.  
-C. 2026-2030, Rs 50,000 crore.  
-D. 2023-2027, Rs 7,210 crore.
+1. Four-year Central Sector Scheme approved in 2023.
+2. Outlay of Rs 7,210 crore.
+3. Digitisation, e-filing/e-payments and e-Sewa Kendras.
+4. Replacement of judges by automated merits decisions.
+
+A. 1 and 2 only.  
+B. 2 and 4 only.  
+C. 1, 3 and 4 only.  
+D. 1, 2 and 3 only.
 
 **Answer: D.**
 
-**Explanation:** [CURRENT] Phase III focuses on digitised and paperless justice systems.
-
+**Explanation:** [CURRENT] Technology supports process and access; it does not replace reasoned human adjudication.
 ### OM33. Digital justice
 
 Which is a sound qualification?
@@ -1310,30 +1363,34 @@ D. case data should determine merits.
 
 ### OM34. Vacancy data
 
-High Court vacancy numbers should be:
+The Department of Justice statement dated 1 July 2026 records which High Court totals?
 
-A. memorised permanently.  
-B. cited from a dated official source.  
-C. treated as constitutional text.  
-D. inferred from case count.
+A. 1,122 sanctioned; 797 working; 325 vacant.  
+B. 1,122 sanctioned; 781 working; 341 vacant.  
+C. 1,079 sanctioned; 781 working; 298 vacant.  
+D. 1,122 sanctioned; 789 working; 333 vacant.
 
 **Answer: B.**
 
-**Explanation:** [CURRENT/LIMIT] Working and sanctioned strength change.
-
+**Explanation:** [CURRENT] The figures are a dated snapshot and must not be reused as timeless data.
 ### OM35. NJAC
 
-As of August 2026:
+Consider the following appointment controls:
 
-A. NJAC appoints High Court judges.  
-B. Governors appoint through State commissions.  
-C. collegium remains operative; NJAC is not in force.  
-D. judges are elected.
+1. Article 217 contains the collegium's present numerical composition.
+2. The NJAC remains operative alongside the collegium.
+3. Collegium primacy is judicially developed, while the constitutional text specifies presidential appointment and consultation.
+
+Which is correct?
+
+A. 1 only.  
+B. 1 and 2 only.  
+C. 3 only.  
+D. 2 and 3 only.
 
 **Answer: C.**
 
-**Explanation:** [CURRENT] The 2015 decision invalidated the NJAC framework.
-
+**Explanation:** [FACT] The NJAC was invalidated in 2015; collegium composition comes from the Judges Cases and procedure, not Article 217's text.
 ### OM36. High Court role
 
 The best description is:
@@ -1521,6 +1578,11 @@ D. digitises and improves process but does not replace adjudication.
 
 **Verdict:** Article 32 is the guaranteed national remedy for Fundamental Rights; Article 226 is the broader everyday rule-of-law jurisdiction.
 
+
+**Why this earns marks:** It links the quoted proposition to wider-purpose writs, local territorial access, tribunal review and the discretion limit.
+
+**How to improve this answer:** In the exam, use one citizen-facing example such as unlawful detention or refusal of a statutory duty, then state the alternative-remedy qualification before the verdict.
+
 ### M2. Compare Articles 32 and 226. (10 marks, 150 words)
 
 **Model answer**
@@ -1532,6 +1594,11 @@ D. digitises and improves process but does not replace adjudication.
 **Common control:** *L. Chandra Kumar* places review under Articles 32 and 226/227 within Basic Structure.
 
 **Verdict:** Article 32 guarantees the constitutional door; Article 226 places a wider door near the citizen. They are complementary, not hierarchical substitutes.
+
+
+**Why this earns marks:** It compares nature, purpose, territorial reach and discretion while preserving their common Basic-Structure role.
+
+**How to improve this answer:** Present a compact four-row comparison and avoid saying Article 226 is simply wider; write “wider in purpose, territorially bounded” in both body and conclusion.
 
 ### M3. Examine how Articles 227 and 235 secure the independence of the subordinate judiciary. (15 marks, 250 words)
 
@@ -1549,6 +1616,11 @@ D. digitises and improves process but does not replace adjudication.
 
 **Verdict:** Articles 227 and 235 make the High Court the head, not merely the appellate apex, of an independent State judiciary.
 
+
+**Why this earns marks:** It separates adjudicative supervision from service control and connects both to Articles 233, 234 and 228.
+
+**How to improve this answer:** Add *Nripendra Nath Bagchi* for disciplinary control and *Radhey Shyam* for Article 227 restraint; compress shared State responsibilities into one qualified counterpoint.
+
 ### M4. Critically examine the constitutional safeguards for High Court independence. (15 marks, 250 words)
 
 **Model answer**
@@ -1565,6 +1637,11 @@ D. digitises and improves process but does not replace adjudication.
 
 **Verdict:** The constitutional design is strong against direct control; delivery now depends on making appointments and administration timely, transparent and capacity-rich.
 
+
+**Why this earns marks:** It covers appointment, tenure, finance, transfer, review and district control, then tests practical weaknesses and realistic reforms.
+
+**How to improve this answer:** Organise safeguards under personnel, finance, jurisdiction and administration; use the dated vacancy ratio only as evidence of implementation strain, not as a constitutional defect.
+
 ### M5. Should India establish an All India Judicial Service? Discuss. (15 marks, 250 words)
 
 **Model answer**
@@ -1579,9 +1656,14 @@ D. digitises and improves process but does not replace adjudication.
 
 **Design safeguards:** district-judge entry only, strong High Court role in selection/probation/control, State language testing, local-law training, federal consultation, reservation and transparent cadre allocation.
 
-**Current status:** [CURRENT] No AIJS is operational as of 18 August 2026.
+**Current status:** [CURRENT] No AIJS is operational as of 28 August 2026.
 
 **Verdict:** AIJS is desirable as a cooperative recruitment framework, not a central takeover. Uniform entry must coexist with local competence and Article 235 control.
+
+
+**Why this earns marks:** It uses the exact Article 312 route, balances national standards against federal and linguistic concerns, and gives a conditional institutional design.
+
+**How to improve this answer:** Mention that Article 312(3) excludes posts below district judge and distinguish AIJS from the separate 2025 three-year Bar-practice rule for Civil Judge recruitment.
 
 ### M6. Judicial pendency is a governance problem, not merely a judicial problem. Analyse. (15 marks, 250 words)
 
@@ -1601,6 +1683,11 @@ D. digitises and improves process but does not replace adjudication.
 
 **Verdict:** Courts must manage cases, but governments must stop creating avoidable litigation and fund the institutions that constitutional remedies require.
 
+
+**Why this earns marks:** It maps executive litigation, staffing, service, procedure and judicial management into one causal diagnosis with safeguards against quota-driven disposal.
+
+**How to improve this answer:** Open with the dated 1 July 2026 strength snapshot, then assign one executable reform each to Union, State, High Court and litigating departments.
+
 ### M7. Evaluate eCourts Phase III as an access-to-justice reform. (20 marks, 250 words)
 
 **Model answer**
@@ -1619,6 +1706,11 @@ D. digitises and improves process but does not replace adjudication.
 
 **Verdict:** Phase III can convert courts from paper-bound institutions into accessible public infrastructure only if digital-by-default never becomes digital-only.
 
+
+**Why this earns marks:** It states the official period and outlay, follows the user journey, and balances efficiency with inclusion, privacy and human adjudication.
+
+**How to improve this answer:** Use a three-part test—access, efficiency and due process—and connect every risk to a safeguard; avoid listing technologies without explaining the justice outcome.
+
 ### M8. "High Courts combine constitutional adjudication with judicial administration." Evaluate the strengths and strains of this dual role. (20 marks, 250 words)
 
 **Model answer**
@@ -1635,7 +1727,12 @@ D. digitises and improves process but does not replace adjudication.
 
 **Verdict:** The dual role is constitutionally valuable because it unifies rights and independence; it needs specialised management capacity so administration supports rather than consumes adjudication.
 
+**Why this earns marks:** It integrates Articles 226, 227, 229 and 235, explains the institutional benefit, and diagnoses workload and management conflicts.
+
+**How to improve this answer:** Build the body as a two-column strengths/strains matrix, add professional registry administration as the bridge, and retain judicial control as the non-negotiable limit.
+
 ## Final consolidated register notes
+
 
 ### Integrated judicial chain
 
@@ -1703,7 +1800,9 @@ District and subordinate judiciary: Articles 233-237
 ### Subordinate judiciary
 
 - Article 233: district judges appointed by Governor in consultation with HC.
-- Outside-service district-judge candidate: seven years as advocate/pleader plus HC recommendation.
+- Article 233(2) text: outside-service candidate needs seven years as advocate/pleader plus HC recommendation.
+- *Rejanish K.V.* (2025): prospectively permits qualifying serving judicial officers in direct recruitment under the Court's combined-experience, age and application-date rules.
+- *All India Judges Association* (2025): prospective three-year Bar practice for Civil Judge entry and revised promotional channels.
 - Article 234: lower judicial service through Governor's rules with SPSC and HC consultation.
 - Article 235: HC control over posting, promotion, leave and discipline.
 - District Judge = Sessions Judge on criminal side.
@@ -1762,4 +1861,3 @@ District and subordinate judiciary: Articles 233-237
 12. AIJS is not operational and cannot include posts below district judge.
 13. Ordinary Lok Adalat cannot decide contested merits after settlement fails.
 14. eCourts does not replace judges, staff or due process.
-

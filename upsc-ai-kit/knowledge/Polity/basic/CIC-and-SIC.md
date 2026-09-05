@@ -13,8 +13,9 @@
 | Term | **3 years**, subject to maximum age **65** (2019 Rules) |
 
 ## Core idea
-The **CIC** (central) and **SIC** (state) are the appellate watchdogs of the **RTI regime** — they decide RTI
-complaints/appeals, have **civil-court powers**, and can **impose penalties**. Their independence was diluted by
+The **CIC** (central) and **SIC** (state) are statutory watchdogs of the **RTI regime** — they inquire into
+section 18 complaints and decide section 19 second appeals, have **civil-court powers**, and can impose
+section 20 penalties. Their structural autonomy was reduced by
 the **2019 Amendment** (Centre now sets tenure/salary).
 
 > 🔑 **CIC:** President appoints, President removes. **SIC:** Governor appoints, **Governor removes** (contrast
@@ -26,7 +27,8 @@ the **2019 Amendment** (Centre now sets tenure/salary).
 - ✅ Statutory body — RTI Act 2005.
 - ✅ CIC panel = **PM + LoP (Lok Sabha) + Union Cabinet Minister**; SIC panel = **CM + LoP (Assembly) + State
   Minister**.
-- ✅ **Civil-court powers**; can examine any public record; can **penalise** and award **compensation**.
+- ✅ **Civil-court powers** in complaint inquiries; binding appellate/compliance powers under section 19;
+  personal PIO penalties under section 20; compensation is borne by the public authority.
 - ✅ Submits **annual report** → Parliament / State Legislature.
 
 ## 📰 Current link
@@ -35,7 +37,7 @@ the **RTI Rules, 2019 prescribe three years**, with the statutory age ceiling of
 📰 ✅ **DPDP Act, 2023 section 44(3)** substituted RTI section 8(1)(j) with effect
 from **13 Nov 2025** under MeitY's commencement notification. The new text exempts
 "information which relates to personal information"; its interaction with the RTI Act's
-public-interest override and constitutional right-to-information doctrine remains contested.
+public-interest override and constitutional right-to-information doctrine remain relevant, without asserting an unverified litigation outcome.
 *(Official Gazette status checked 21 Jul 2026.)*
 
 ## 5. Answer architecture (10/15/20-mark support)
@@ -93,7 +95,7 @@ public-interest override and constitutional right-to-information doctrine remain
 
 ### 5.5 Bank B — The RTI machinery (request → appeal → penalty), as evidence units
 
-- **Claim:** the Act builds a designed, time-bound pipeline, not a discretionary favour. **Evidence:** every public authority designates **Public Information Officers (PIOs)** and Assistant PIOs (**Section 5**); a request under **Section 6** must be disposed of in **30 days** (**48 hours** where life or liberty is involved) under **Section 7**. **Significance:** the citizen has an enforceable timeline. **Limitation:** delay/denial is common where PIOs under-comply.
+- **Claim:** the Act builds a designed, time-bound pipeline, not a discretionary favour. **Evidence:** every public authority designates **Public Information Officers (PIOs)** and Assistant PIOs (**Section 5**); a request under **Section 6** must be disposed of in **30 days** (**48 hours** where life or liberty is involved) under **Section 7**. **Significance:** the citizen has an enforceable timeline. **Limitation:** specified routes, including APIO transmission and third-party procedure, use additional statutory time rules.
 - **Claim:** appeals are two-tier and end at an independent commission. **Evidence:** the **first appeal (Section 19(1))** lies to an officer senior to the PIO within 30 days; the **second appeal (Section 19(3))** lies to the **CIC/SIC** within 90 days. **Significance:** the final adjudicator is outside the department that withheld the information. **Limitation/status:** second appeals face long **pendency/backlog** at several commissions.
 - **Claim:** the Commission can punish, which makes RTI unusual among oversight bodies. **Evidence:** **Section 20** empowers a penalty of **₹250/day up to ₹25,000** for malafide denial and disciplinary recommendation; the Commission's decision is **binding**. **Significance:** a genuine deterrent on paper. **Limitation:** ⚠️ penalties are imposed sparingly, blunting the deterrent.
 
@@ -112,7 +114,7 @@ public-interest override and constitutional right-to-information doctrine remain
 - **Claim:** disclosure is the rule and exemption the exception. **Evidence:** **Section 8(1)(a)–(j)** exempts categories such as national security, foreign relations, commercial confidence, fiduciary relationship and personal information; **Section 9** protects copyright. **Significance:** exemptions are enumerated and closed, not open-ended. **Limitation:** the categories are broad and contested case-by-case.
 - **Claim:** exemptions are subordinate to public interest. **Evidence:** **Section 8(2)** — the **public-interest override** — allows access **notwithstanding the Official Secrets Act, 1923 and the Section 8(1) exemptions** where the public interest in disclosure outweighs the protected harm. **Significance:** the single most powerful pro-transparency lever. **Limitation:** its scope is being narrowed by the DPDP change below.
 - **Claim:** even exempt security bodies are not immune to corruption/rights scrutiny. **Evidence:** **Section 24** exempts the intelligence and security organisations in the **Second Schedule** (e.g., IB, RAW), **but the proviso preserves information on allegations of corruption and human-rights violations**. **Significance:** a deliberate accountability carve-out. **Limitation/status:** ✅ HR-violation information routes through the CIC's approval.
-- **Claim:** the exemption for personal information has been rewritten. **Evidence:** 📰 the **Digital Personal Data Protection Act, 2023 (Section 44(3))** **substituted Section 8(1)(j)** to exempt "information which relates to personal information," **removing the earlier public-activity/unwarranted-invasion test and the Parliament-parity proviso**; brought into force by a **MeitY commencement notification in November 2025** (official Gazette status checked 21 Jul 2026). **Significance:** materially narrows disclosable personal information. **Limitation/status caution:** ⚠️ its constitutionality is **sub judice** — the challenge to Section 44(3) was **referred to a Constitution Bench (2026)**; do not present the outcome as settled.
+- **Claim:** the exemption for personal information has been rewritten. **Evidence:** 📰 the **Digital Personal Data Protection Act, 2023 (Section 44(3))** **substituted Section 8(1)(j)** to exempt "information which relates to personal information," **removing the earlier public-activity/unwarranted-invasion test and the Parliament-parity proviso**; brought into force by a **MeitY commencement notification in November 2025** (official Gazette status checked 21 Jul 2026). **Significance:** materially narrows disclosable personal information. **Limitation/status caution:** ⚠️ section 8(2), other statutory provisions and constitutional doctrine must still be analysed; do not invent a stay, reference or final judicial outcome.
 
 ### 5.7 Bank D — Constitutional root and the case law (exact propositions)
 
@@ -139,7 +141,7 @@ public-interest override and constitutional right-to-information doctrine remain
 ### 5.10 Verdict scaffolds
 
 - **Autonomy verdict:** "The 2019 amendment did not repeal RTI; it relocated the Commissions' tenure and salary from statute to executive rule, turning a structural guarantee of independence into a discretionary one — the fix is restored parity, fixed tenure and timely appointments."
-- **Transparency-vs-privacy verdict:** "With the 2023 DPDP substitution of Section 8(1)(j) sub judice, the survival of the Section 8(2) public-interest override is now the decisive question for how open Indian government remains."
+- **Transparency-vs-privacy verdict:** "After the commenced DPDP substitution of Section 8(1)(j), its interaction with Section 8(2) and constitutional transparency doctrine is decisive; no unverified judicial outcome should be asserted."
 - **Effectiveness verdict:** "Unlike the recommendatory NHRC or CVC, the Information Commission can bind and penalise; RTI's real limits are vacancies, backlog and exemptions, not a shortage of legal teeth."
 
 ### 5.11 Prelims close-option distinctions

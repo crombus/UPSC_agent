@@ -17,7 +17,7 @@ judicial review.
 | | **Rajya Sabha (RS)** | **Lok Sabha (LS)** |
 |---|---|---|
 | Max strength | ✅ **250** (238 states/UTs elected + **12 nominated**) | ✅ **550** (530 states + 20 UTs; Anglo-Indian nomination ceased) |
-| Sanctioned/elected strength | ✅ **245 sanctioned** | ✅ **543 elected** |
+| Stable sanctioned/elected figure | ✅ **245 sanctioned**; working strength varies with vacancies | ✅ **543 elected seats**; working strength varies with vacancies |
 | Election | Indirect — **STV proportional representation** by state MLAs; UTs (only Delhi, Puducherry, J&K) via electoral college | Direct — **universal adult franchise (18 yrs, 61st Amdt 1988)**; **First-Past-The-Post** |
 | Nominated | 12 by President (art, literature, science, social service) | *Anglo-Indian 2 (95th Amdt extended to 2020; **104th Amdt 2019 abolished it**)* |
 | Nature | ✅ **Permanent** — never dissolved; **1/3 retire every 2 yrs**; term **6 yrs** | ✅ Term **5 yrs**; dissolvable anytime; extendable **1 yr at a time** in national emergency (max 6 months post-emergency) |
@@ -42,8 +42,9 @@ of the Constitution/Rules **within the House**; **decides if a bill is a Money B
 casting vote in a tie; presides over **joint sittings**; decides anti-defection disqualifications (**Kihoto
 Hollohan 1992 — subject to judicial review**); ex-officio chair of the Indian Parliamentary Group. Salary
 charged on **Consolidated Fund** (independence).
-⚠️ Deputy Speaker: elected by LS, resigns to Speaker; since 2018 the post has been left **vacant** — a
-recurring constitutional-propriety debate.
+⚠️ Deputy Speaker: elected by LS and resigns to the Speaker. The official Lok Sabha page checked on
+**28 August 2026** states that the position has been vacant since **May 2019**. This is a dated
+office-status fact, not a constitutional permission to leave the office unfilled indefinitely.
 
 ## Rajya Sabha Chairman
 ✅ The **Vice-President** is ex-officio Chairman (not an RS member); Deputy Chairman is elected from RS
@@ -54,15 +55,17 @@ members.
 # PART C — SESSIONS & DEVICES
 
 ## Sessions & terms
-✅ President summons each House; **max gap between two sessions ≤ 6 months** → at least **twice a year**.
-Three sessions: **Budget (Feb–May), Monsoon (Jul–Sep), Winter (Nov–Dec)**.
+✅ President summons each House; Article 85 permits no more than six months between the last sitting
+of one session and the first sitting of the next, so Parliament must meet at least twice a year.
+**Budget, Monsoon and Winter** are conventional labels and their dates/durations are not fixed by the
+Constitution.
 | Term | Meaning |
 |---|---|
 | ✅ **Adjournment** | suspends a *sitting* (by presiding officer); no effect on pending business |
 | ✅ **Adjournment sine die** | terminates a sitting indefinitely (presiding officer) |
 | ✅ **Prorogation** | ends a *session* (by **President**); pending business survives, but pending notices lapse |
 | ✅ **Dissolution** | ends the *life* of the LS only (RS never dissolves) |
-| ✅ **Quorum** | **1/10** of total = **55 LS / 25 RS** |
+| ✅ **Quorum** | **1/10 of total membership** under Article 100(3); 55 for a 543-member LS and 25 for a 245-member RS |
 | ✅ **Lame-duck session** | last session of an outgoing LS |
 
 ## Lapsing of bills on LS dissolution ⭐
@@ -137,16 +140,16 @@ committees, chaired by minister).
 
 ## 📰 CA hooks
 - 📰 ✅ **Women's Reservation — Nari Shakti Vandan Adhiniyam (106th Amdt, 2023)**:
-  inserts Arts 330A, 332A and 334A and provides 33% reservation in the covered legislatures
-  (including within SC/ST-reserved seats). Operational reservation follows the separately
-  notified commencement, publication of the relevant first post-commencement census figures,
-  delimitation and the Art 334A sequence. **Status checked 21 Jul 2026:** no operational
-  commencement notification was located on the Legislative Department portal.
+  inserts Arts 330A, 332A and 334A and provides one-third reservation in the covered legislatures,
+  including within SC/ST-reserved seats. The Act **commenced on 16 April 2026**, but reservation is
+  not operational. Article 334A still requires publication of the relevant first
+  post-commencement census figures and delimitation undertaken for this purpose. **Status checked
+  28 August 2026:** commencement and operationalisation remain separate registers.
 - 📰 ⚠️ **Post-2026 census and delimitation** — Articles 82/170 defer readjustment until the relevant
   figures of the first census taken after 2026 are published; the resulting North-South seat-share debate
   is the live federal issue, not an automatic expiry in 2026.
 - 📰 ⚠️ **Money-bill route** litigation (Aadhaar, Tribunal rules) pending before a larger SC bench.
-- 📰 ⚠️ Vacant **Deputy Speaker** post since 2018 — constitutional-propriety debate.
+- 📰 ✅ Official Lok Sabha control checked **28 August 2026**: **Deputy Speaker vacant since May 2019**.
 
 ## Mains angles
 - Declining sitting days & disruptions — is Parliament's deliberative role eroding?

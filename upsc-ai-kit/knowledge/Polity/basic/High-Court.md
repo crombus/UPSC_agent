@@ -10,6 +10,7 @@
 |---|---|
 | **Articles** | 214–231 (HC); 233–237 (subordinate) |
 | **No. of HCs** | ✅ **25** (some common to 2+ states/UTs) |
+| **HC strength, 1 July 2026** | 📰 **1,122 sanctioned · 781 working · 341 vacant** (DoJ; re-verify before reuse) |
 | **HC judge retires** | ✅ **62** (SC judge = 65) |
 | **SC collegium stage for HC appointment** | CJI + **2 seniormost** SC judges |
 | **Writ article** | ✅ **Art 226** (wider than SC's Art 32) |
@@ -40,8 +41,18 @@ Judicial Magistrate. District judges appointed by the **Governor in consultation
   distinctions, use `Lok-Adalats-and-Other-Courts.md`.
 
 ## 📰 Current link
-📰 ⚠️ **Case pendency and HC vacancies** (part of India's ~5 crore pending cases) keep judicial reforms —
-NALSA/Lok Adalats, e-Courts, All India Judicial Service — in the news.
+📰 ⚠️ **Case pendency and HC vacancies** keep judicial reforms — NALSA/Lok Adalats, e-Courts and
+the All India Judicial Service debate — in the news. The Department of Justice vacancy statement
+dated **1 July 2026** records **1,122 sanctioned High Court posts, 781 working judges and 341
+vacancies**. These figures are a dated snapshot, not a durable constitutional fact.
+
+📰 ⚠️ Two 2025 controls now belong in every subordinate-judiciary answer. *Rejanish K.V. v.
+K. Deepa* (2025) prospectively overruled *Dheeraj Mor* and opened direct District-Judge
+recruitment to serving judicial officers meeting the Court's combined-experience and age
+conditions. *All India Judges Association v. Union of India* (20 May 2025) restored a minimum
+three-year Bar-practice requirement for future Civil Judge (Junior Division) recruitments and
+reworked promotional routes. These are judicially prescribed current rules, not words found in
+Articles 233–234.
 
 ➡️ The full jurisdiction, the subordinate-court tiers, the traps and the Mains angles are all held **in this file**.
 *Advanced: optional deeper detail in `advanced/21_High-Court-and-Subordinate-Courts.md` — not required for any mark.*
@@ -104,9 +115,11 @@ NALSA/Lok Adalats, e-Courts, All India Judicial Service — in the news.
 
 ### 6.5 Bank B — Superintendence, withdrawal and control over the district judiciary
 
-- **Claim:** the HC supervises every court and tribunal beneath it. **Provision:** **Art 227** — power of superintendence (administrative and judicial) over all courts and tribunals in its territory, **except** those under a law relating to the Armed Forces; it can be exercised **suo motu**. **Mechanism:** keeps subordinate forums within their jurisdiction. **Limitation:** ⚠️ a supervisory, not appellate, power — used sparingly, not to re-decide facts.
+- **Claim:** the HC supervises every court and tribunal beneath it. **Provision:** **Art 227** — power of superintendence (administrative and judicial) over all courts and tribunals in its territory, **except** those under a law relating to the Armed Forces; it can be exercised **suo motu**. **Mechanism:** keeps subordinate forums within their jurisdiction. **Limitation:** ⚠️ a supervisory, not appellate, power — *Radhey Shyam v. Chhabi Nath* (2015) places civil-court judicial orders under Article 227 rather than Article 226, and *K. Valarmathi v. Kumaresan* (2025) reiterates that supervision cannot supplant statutory trial and appeal.
 - **Claim:** the HC can pull up constitutional questions itself. **Provision:** **Art 228** — the HC may **withdraw** a case from a subordinate court if it involves a **substantial question of law as to the interpretation of the Constitution**, decide that question (or the whole case) and return it. **Mechanism:** keeps constitutional interpretation with the HC. **Limitation:** ⚠️ confined to constitutional-interpretation questions.
 - **Claim:** the district judiciary is controlled by the HC, not the executive. **Provisions:** **Art 233** — district judges appointed by the **Governor in consultation with the HC**; **Art 234** — other judicial-service recruits appointed by the Governor per rules made in consultation with the **SPSC and the HC**; **Art 235** — **control** (posting, promotion, leave) over the subordinate judiciary is **vested in the High Court**. **Mechanism:** insulates lower courts from executive control. **Limitation:** ✅ a **death sentence still requires HC confirmation** — district autonomy is bounded upward.
+- **Current Article 233 control:** the constitutional text still distinguishes persons already in Union/State service from outside-service candidates. *Rejanish K.V.* (2025), however, prospectively permits serving judicial officers to compete in direct District-Judge recruitment if the Court's combined seven-year experience, minimum-age and application-date conditions are met. Do not repeat the superseded *Dheeraj Mor* exclusion.
+- **Court administration and territorial design:** **Art 229** places High Court staff appointments with the Chief Justice (or authorised officer), subject to the limited constitutional roles of the Governor; High Court administrative expenses are charged on the State Consolidated Fund. **Art 230** lets Parliament extend or exclude a High Court's jurisdiction over a Union Territory. **Art 237** lets the Governor apply the subordinate-courts chapter to specified classes of magistrates after public notification.
 - **Claim:** the subordinate judiciary is a defined three-tier structure below the HC. **Provision/design (Art 233–237):** the **District Judge = Sessions Judge** sits at the top of the district (original + appellate, civil + criminal); below are the **Subordinate/Civil Judge (Senior Division) / Chief Judicial Magistrate**, then the **Munsiff / Civil Judge (Junior Division) / Judicial Magistrate**; metros add **City Civil Courts** and **Metropolitan Magistrates**. **Mechanism:** a graded hierarchy channels appeals upward to the HC. **Limitation:** ⚠️ "**district judge**" is defined widely in **Art 236** (includes additional/joint/assistant district judges, sessions judges, chief judge of a small-cause court, etc.) — do not read it narrowly.
 
 | Tier | Civil side | Criminal side |
@@ -118,7 +131,7 @@ NALSA/Lok Adalats, e-Courts, All India Judicial Service — in the news.
 ### 6.6 Bank C — Appointment, transfer and the common High Court
 
 - **Claim:** HC judges are appointed on the collegium's advice, with narrower qualifications than the SC. **Provisions:** **Art 217** — appointment by the **President** after consulting the **CJI, the Governor and (except for the CJ) the HC Chief Justice**; qualifications = citizen + **10 years' judicial office OR 10 years as an HC advocate** (**no "distinguished jurist" option**, unlike the SC); retirement at **62**; oath before the **Governor (Art 219)**. **Mechanism:** the SC collegium (**CJI + 2 senior-most**) clears HC names. **Limitation:** ⚠️ the collegium is a judicial creation, not Article text.
-- **Claim:** transfer is a safeguard that is also a pressure point. **Provision:** **Art 222** — the President may **transfer** a judge from one HC to another after consulting the CJI (through the collegium); the judge's **consent is not constitutionally required**. **Mechanism:** allows redistribution and, historically, contested "punitive" transfers. **Limitation:** ⚠️ transfers must be in the public interest, not punishment — an independence concern flagged since *Sankalchand Sheth (1977)* and *S.P. Gupta (1981)*.
+- **Claim:** transfer is a safeguard that is also a pressure point. **Provision:** **Art 222** — the President may **transfer** a judge from one HC to another after consulting the CJI; the judge's **consent is not constitutionally required**. **Mechanism:** under the current Memorandum-of-Procedure framework, the CJI consults the four senior-most Supreme Court judges and the Chief Justices of the transferor and transferee High Courts. **Limitation:** ⚠️ transfers must serve public interest rather than punishment — an independence concern flagged since *Sankalchand Sheth* (1977) and the Judges Cases.
 - **Claim:** one High Court may serve more than one State. **Provision:** **Art 231** (inserted by the **7th Amendment, 1956**) allows a **common High Court** for two or more States or a State and a UT. **Mechanism:** e.g., the **Punjab & Haryana HC** and the **Bombay HC** (Maharashtra, Goa and UTs). **Limitation:** ✅ there are **25 High Courts**, so "one HC per State" is wrong.
 - **Claim:** the Constitution provides for continuity when the Bench is short-staffed. **Provisions:** **Art 223** — the President appoints an **acting Chief Justice** when the office is vacant or the CJ is absent; **Art 224** — **additional judges** (for a temporary rise in business) and **acting judges** (for an absent permanent judge), holding office up to age **62**; **Art 224A** — the CJ may, with the President's prior consent, request a **retired HC judge** to **sit and act** in the HC. **Mechanism:** manages workload and vacancies without diluting the appointment safeguards. **Limitation:** ⚠️ these are stop-gaps; an Art 224A retiree is not deemed a serving HC judge.
 
@@ -156,6 +169,8 @@ NALSA/Lok Adalats, e-Courts, All India Judicial Service — in the news.
 | "Distinguished jurist" | An eligibility route for the **SC only**, **not** the HC |
 | Oath before whom | HC judge takes oath before the **Governor (Art 219)**; the President appoints |
 | District judge appointment | **Art 233** — by the **Governor in consultation with the HC**; not by the HC alone and not by the SPSC |
+| Direct District-Judge eligibility | *Rejanish K.V.* (2025) prospectively allows qualifying serving judicial officers; do not repeat the superseded *Dheeraj Mor* bar |
+| Entry-level Civil Judge recruitment | *All India Judges Association* (2025) restored a prospective **three-year Bar-practice** condition; this is current case law, not Article 234 text |
 | Control over subordinate courts | **Art 235** vests it in the **High Court**, not the State executive |
 | Number of High Courts | **25**, but some are **common** to two+ States/UTs (Art 231) — not one per State |
 | Art 228 | **Withdrawal** of a case involving a **substantial constitutional-interpretation question** — not a general appeal power |
@@ -171,8 +186,8 @@ NALSA/Lok Adalats, e-Courts, All India Judicial Service — in the news.
 - ✅ **25 High Courts**; strength is **not fixed** (the President determines the number of judges); HC judges retire at **62**.
 - ✅ **Art 226 is wider than Art 32 in purpose** (FRs + other purposes) but **narrower in territorial reach**; the 15th Amendment (1963) extended Art 226 to where the cause of action arises.
 - ✅ Judicial review under **Art 226/227 is basic structure** (*L. Chandra Kumar*, 1997) — it cannot be excluded by statute or by creating a tribunal.
-- ⚠️/📰 Do **not** state live HC vacancy counts or pendency totals as settled facts — mark them 📰 and re-verify.
+- 📰 Do **not** state live HC vacancy counts as settled facts. The dated **1 July 2026** DoJ snapshot is **1,122 sanctioned, 781 working and 341 vacant**; re-verify before later reuse.
 - ✅ The **AIJS cannot cover posts below district judge (Art 312(3))**; it is a **proposal**, not an existing service — do not describe it as operational.
 - ⚠️ Distinguish Constitution text (Art 214–237) from judicial interpretation (collegium, basic structure, transfer norms) and statute (Legal Services Authorities Act 1987); the collegium and the Memorandum of Procedure are not in the constitutional text.
-- ⚠️ Case law must be an exact proposition: *L. Chandra Kumar* protected HC **review of tribunals**; it did not abolish tribunals.
+- ⚠️ Case law must be an exact proposition: *L. Chandra Kumar* protected HC review of decisions of **Articles 323A/323B tribunals**; it did not abolish tribunals or convert review into a merits appeal.
 - ⚠️ Do not confuse the **five writs**: *mandamus* commands a duty, *certiorari* quashes a completed order, *prohibition* stops proceedings midway, *habeas corpus* tests detention, *quo warranto* challenges an office-holder — mixing these is a common Prelims trap.

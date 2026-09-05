@@ -1,0 +1,1087 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-18",
+  "subject": "Modern-Indian-History",
+  "title": "FIRST WORLD WAR, THE HOME RULE LEAGUE & THE LUCKNOW PACT (1914–1918)",
+  "short_route": "WARTIME-TO-TRANSITION CHRONOLOGY → LOYALTY, EXTRACTION AND RECIPROCITY → CONGRESS REPAIR BEFORE RENEWED → TWO HOME RULE LEAGUES → HOME RULE DEMAND AND → REPRESSION FEEDBACK LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-18\\modern-indian-history-18_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-18-19-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "f6b678464228802cb01f7a4e043a7eb4f48f6aa9f7c130bd259f9bfe60c728e9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WARTIME-TO-TRANSITION CHRONOLOGY",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WARTIME-TO-TRANSITION CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "JUN 1914",
+          "role": "outcome"
+        },
+        {
+          "text": "TILAK RELEASED; WARTIME SUPPORT AND EXTRACTION BEGIN",
+          "role": "comparison"
+        },
+        {
+          "text": "DEC 1915",
+          "role": "evidence"
+        },
+        {
+          "text": "CONGRESS AUTHORISES EXTREMIST READMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "APR-SEP 1916",
+          "role": "outcome"
+        },
+        {
+          "text": "TILAK AND BESANT CREATE SEPARATE LEAGUES",
+          "role": "comparison"
+        },
+        {
+          "text": "DEC 1916",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JUN 1914 → Tilak released; wartime support and extraction begin",
+        "DEC 1915 → Congress authorises Extremist readmission",
+        "APR-SEP 1916 → Tilak and Besant create separate Leagues",
+        "DEC 1916 → Lucknow publicly consummates double unity and Pact",
+        "1917 → security action, internments and bounded Montagu promise"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JUN 1914 → Tilak released; wartime support and extraction begin",
+            "DEC 1915 → Congress authorises Extremist readmission"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APR-SEP 1916 → Tilak and Besant create separate Leagues",
+            "DEC 1916 → Lucknow publicly consummates double unity and Pact"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1917 → security action, internments and bounded Montagu promise",
+            "1918 → reform division and Tilak's absence weaken the movement."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1918 → reform division and Tilak's absence weaken the movement.",
+      "source_references": [
+        "War, chronology and the transition problem"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LOYALTY, EXTRACTION AND RECIPROCITY GAP",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOYALTY, EXTRACTION AND RECIPROCITY GAP",
+          "role": "primary"
+        },
+        {
+          "text": "SOLDIERS, MONEY AND MATERIALS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL REWARD AFTER WARTIME LOYALTY",
+          "role": "comparison"
+        },
+        {
+          "text": "TAXES, LOANS, RECRUITMENT, SHORTAGES AND PRICE RISES",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTED INDUSTRIES AND TRADERS GAIN WARTIME OPPORTUNITIES",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL LIBERTY LANGUAGE VERSUS COLONIAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "SACRIFICE IS NOT MATCHED BY ADEQUATE POLITICAL POWER",
+          "role": "caution"
+        },
+        {
+          "text": "DEMAND SHIFTS FROM HOPEFUL SUPPORT TO ORGANISED PRESSURE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUPPORT → soldiers, money and materials",
+        "EXPECTATION → constitutional reward after wartime loyalty",
+        "PRESSURE → taxes, loans, recruitment, shortages and price rises",
+        "OFFSET → selected industries and traders gain wartime opportunities",
+        "CONTRADICTION → imperial liberty language versus colonial rule"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUPPORT → soldiers, money and materials",
+            "EXPECTATION → constitutional reward after wartime loyalty",
+            "PRESSURE → taxes, loans, recruitment, shortages and price rises"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFSET → selected industries and traders gain wartime opportunities",
+            "CONTRADICTION → imperial liberty language versus colonial rule",
+            "GAP → sacrifice is not matched by adequate political power"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → demand shifts from hopeful support to organised pressure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → demand shifts from hopeful support to organised pressure.",
+      "source_references": [
+        "Wartime loyalty, extraction and expectation",
+        "The democratic contradiction of empire"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONGRESS REPAIR BEFORE RENEWED AGITATION",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CONGRESS REPAIR BEFORE RENEWED AGITATION",
+          "role": "primary"
+        },
+        {
+          "text": "1907 SURAT",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVIDED CONGRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "JUN 1914",
+          "role": "evidence"
+        },
+        {
+          "text": "TILAK RELEASED",
+          "role": "primary"
+        },
+        {
+          "text": "DEC 1915",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS AUTHORISES READMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "INCREASES NEED FOR A UNITED CONSTITUTIONAL FRONT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1907 SURAT → divided Congress",
+        "JUN 1914 → Tilak released",
+        "DEC 1915 → Congress authorises readmission",
+        "WAR → increases need for a united constitutional front",
+        "DEC 1916 → public reunion at Lucknow"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1907 SURAT → divided Congress",
+            "JUN 1914 → Tilak released"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEC 1915 → Congress authorises readmission",
+            "WAR → increases need for a united constitutional front"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEC 1916 → public reunion at Lucknow",
+            "LIMIT → reunion restores cooperation, not ideological uniformity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → reunion restores cooperation, not ideological uniformity.",
+      "source_references": [
+        "Congress deadlock and Moderate-Extremist reunion"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWO HOME RULE LEAGUES IDENTITY MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO HOME RULE LEAGUES IDENTITY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "AXIS TILAK BESANT LAUNCH APRIL 1916 SEPTEMBER 1916 FIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "BOMBAY; KARNATAKA; C.P. INCLUDING BOMBAY CITY NETWORK REGIONAL WORKERS",
+          "role": "comparison"
+        },
+        {
+          "text": "INCLUDING BOMBAY CITY NETWORK REGIONAL WORKERS ARUNDALE, WADIA, RAMASWAMI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AXIS TILAK BESANT launch April 1916 September 1916 field Maharashtra except most other areas",
+        "including Bombay city network regional workers Arundale, Wadia, Ramaswami Aiyar rule separate organisations",
+        "shared constitutional demand."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AXIS TILAK BESANT launch April 1916 September 1916 field Maharashtra except most other areas,",
+          "shared constitutional demand.",
+          "including Bombay city network regional workers Arundale, Wadia, Ramaswami Aiyar rule separate organisations"
+        ],
+        [
+          "including Bombay city network regional workers Arundale, Wadia, Ramaswami Aiyar rule separate organisations",
+          "AXIS TILAK BESANT launch April 1916 September 1916 field Maharashtra except most other areas,",
+          "shared constitutional demand."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AXIS TILAK BESANT launch April 1916 September 1916 field Maharashtra except most other areas,",
+            "including Bombay city network regional workers Arundale, Wadia, Ramaswami Aiyar rule separate organisations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "shared constitutional demand.",
+            "AXIS TILAK BESANT launch April 1916 September 1916 field Maharashtra except most other areas,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "including Bombay city network regional workers Arundale, Wadia, Ramaswami Aiyar rule separate organisations",
+            "shared constitutional demand."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Bombay; Karnataka; C.P. including Bombay city network regional workers Arundale, Wadia, Ramaswami Aiyar rule separate organisations; shared constitutional demand.",
+      "source_references": [
+        "Tilak's Home Rule League",
+        "Annie Besant's Home Rule League"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HOME RULE DEMAND AND METHOD",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOME RULE DEMAND AND METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "SELF-GOVERNMENT WITHIN THE BRITISH EMPIRE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT GOAL",
+          "role": "caution"
+        },
+        {
+          "text": "IMMEDIATE COMPLETE INDEPENDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEW INDIA, COMMONWEAL AND WIDER POLITICAL JOURNALISM",
+          "role": "primary"
+        },
+        {
+          "text": "TOURS, LECTURES, PAMPHLETS AND PUBLIC MEETINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "BRANCHES, LIBRARIES AND POLITICAL CLASSES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUOUS POLITICAL EDUCATION BEYOND ANNUAL SESSIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOAL → self-government within the British Empire",
+        "NOT GOAL → immediate complete independence",
+        "PRESS → New India, Commonweal and wider political journalism",
+        "CONTACT → tours, lectures, pamphlets and public meetings",
+        "ORGANISATION → branches, libraries and political classes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOAL → self-government within the British Empire",
+            "NOT GOAL → immediate complete independence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESS → New India, Commonweal and wider political journalism",
+            "CONTACT → tours, lectures, pamphlets and public meetings"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORGANISATION → branches, libraries and political classes",
+            "EFFECT → continuous political education beyond annual sessions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → continuous political education beyond annual sessions.",
+      "source_references": [
+        "Two Leagues, territorial division and shared demand",
+        "Political education, press and branch methods"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REPRESSION FEEDBACK LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REPRESSION FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "LEAGUE EXPANSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY CASES, EXCLUSIONS AND STUDENT RESTRICTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NOV 1916",
+          "role": "evidence"
+        },
+        {
+          "text": "BESANT RESTRICTED",
+          "role": "primary"
+        },
+        {
+          "text": "JUNE 1917",
+          "role": "outcome"
+        },
+        {
+          "text": "BESANT, WADIA AND ARUNDALE INTERNED",
+          "role": "comparison"
+        },
+        {
+          "text": "CIVIL-LIBERTY PROTEST AND WIDER SYMPATHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEAGUE EXPANSION → security cases, exclusions and student restrictions",
+        "NOV 1916 → Besant restricted",
+        "JUNE 1917 → Besant, Wadia and Arundale interned",
+        "INTERNMENT → civil-liberty protest and wider sympathy",
+        "RELEASE → movement prestige rises"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEAGUE EXPANSION → security cases, exclusions and student restrictions",
+            "NOV 1916 → Besant restricted"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JUNE 1917 → Besant, Wadia and Arundale interned",
+            "INTERNMENT → civil-liberty protest and wider sympathy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RELEASE → movement prestige rises",
+            "1917 → Besant becomes Congress president."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JUNE 1917 → Besant, Wadia and Arundale interned.",
+      "source_references": [
+        "Repression and Besant's internment"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LUCKNOW DOUBLE-UNITY MAP",
+      "structural_type": "split-rail",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LUCKNOW DOUBLE-UNITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "AMBICA CHARAN MAZUMDAR",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACK A",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERATES + TILAK'S CURRENT ACHIEVE CONGRESS REUNION",
+          "role": "evidence"
+        },
+        {
+          "text": "TRACK B",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS + LEAGUE ADOPT A JOINT CONSTITUTIONAL SCHEME",
+          "role": "outcome"
+        },
+        {
+          "text": "TILAK, BESANT AND JINNAH; MALAVIYA DISSENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MERGER POINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRESIDENT → Ambica Charan Mazumdar",
+        "TRACK A → Moderates + Tilak's current achieve Congress reunion",
+        "TRACK B → Congress + League adopt a joint constitutional scheme",
+        "BRIDGES → Tilak, Besant and Jinnah; Malaviya dissents",
+        "MERGER POINT → stronger wartime bargaining platform"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRESIDENT → Ambica Charan Mazumdar",
+            "TRACK A → Moderates + Tilak's current achieve Congress reunion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACK B → Congress + League adopt a joint constitutional scheme",
+            "BRIDGES → Tilak, Besant and Jinnah; Malaviya dissents"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MERGER POINT → stronger wartime bargaining platform",
+            "CAUTION → the two settlements carried different institutional costs."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → the two settlements carried different institutional costs.",
+      "source_references": [
+        "Lucknow Session and double unity"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "JOINT DEMAND AND CONSTITUTIONAL CEILING",
+      "structural_type": "boundary-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "JOINT DEMAND AND CONSTITUTIONAL CEILING",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR-FIFTHS ELECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPERIAL COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "PROPOSED STRENGTH OF 150",
+          "role": "evidence"
+        },
+        {
+          "text": "GREATER INDIAN PARTICIPATION",
+          "role": "primary"
+        },
+        {
+          "text": "WIDER FISCAL AND INTERNAL AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NO IMMEDIATE RESPONSIBLE GOVERNMENT OR SOVEREIGNTY",
+          "role": "caution"
+        },
+        {
+          "text": "COMMON PLATFORM INCREASES BARGAINING CREDIBILITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEGISLATURES → four-fifths elected",
+        "IMPERIAL COUNCIL → proposed strength of 150",
+        "EXECUTIVE → greater Indian participation",
+        "PROVINCES → wider fiscal and internal authority",
+        "CEILING → no immediate responsible government or sovereignty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEGISLATURES → four-fifths elected",
+            "IMPERIAL COUNCIL → proposed strength of 150"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXECUTIVE → greater Indian participation",
+            "PROVINCES → wider fiscal and internal authority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CEILING → no immediate responsible government or sovereignty",
+            "VALUE → common platform increases bargaining credibility."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CEILING → no immediate responsible government or sovereignty.",
+      "source_references": [
+        "The Pact's joint constitutional programme"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REPRESENTATION DEVICES AND PROVINCIAL LOGIC",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REPRESENTATION DEVICES AND PROVINCIAL LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "PUNJAB 50",
+          "role": "outcome"
+        },
+        {
+          "text": "BENGAL 40",
+          "role": "comparison"
+        },
+        {
+          "text": "BOMBAY 1/3",
+          "role": "evidence"
+        },
+        {
+          "text": "U.P. 30",
+          "role": "primary"
+        },
+        {
+          "text": "BIHAR 25",
+          "role": "outcome"
+        },
+        {
+          "text": "C.P. 15",
+          "role": "comparison"
+        },
+        {
+          "text": "MADRAS 15",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUNJAB 50",
+        "BENGAL 40",
+        "BOMBAY 1/3",
+        "U.P. 30",
+        "BIHAR 25"
+      ],
+      "matrix": [
+        [
+          "PUNJAB 50",
+          "BENGAL 40",
+          "BOMBAY 1/3",
+          "U.P. 30"
+        ],
+        [
+          "BIHAR 25",
+          "C.P. 15",
+          "MADRAS 15",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PUNJAB 50",
+            "BENGAL 40",
+            "BOMBAY 1/3",
+            "U.P. 30"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BIHAR 25",
+            "C.P. 15",
+            "MADRAS 15",
+            "CENTRE → one-third of elected Indian members"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SAFEGUARD → three-fourths community opposition blocks a measure",
+            "1909 → separate electorates statutory; 1916 → Congress accepts them",
+            "RULE → electorate, weightage and veto are distinct mechanisms."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → electorate, weightage and veto are distinct mechanisms.",
+      "source_references": [
+        "Separate electorates, weightage and provincial logic"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LUCKNOW BALANCE SHEET",
+      "structural_type": "balance-sheet",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LUCKNOW BALANCE SHEET",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS REUNION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS-LEAGUE COMMON REFORM PLATFORM",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCENTRATED PRESSURE DURING WARTIME",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNAL CATEGORY BECOMES A BARGAINING UNIT",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE ELECTORATES RECEIVE CONGRESS ACCEPTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL TACTICAL ADVANCE WITH A DURABLE CONTRADICTION.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GAIN → Congress reunion",
+        "GAIN → Congress-League common reform platform",
+        "GAIN → concentrated pressure during wartime",
+        "COST → communal category becomes a bargaining unit",
+        "COST → separate electorates receive Congress acceptance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → Congress reunion",
+            "GAIN → Congress-League common reform platform"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GAIN → concentrated pressure during wartime",
+            "COST → communal category becomes a bargaining unit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COST → separate electorates receive Congress acceptance",
+            "VERDICT → real tactical advance with a durable contradiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → real tactical advance with a durable contradiction.",
+      "source_references": [
+        "Significance and contradiction of Lucknow"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MONTAGU DECLARATION BOUNDARY LADDER",
+      "structural_type": "institution-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MONTAGU DECLARATION BOUNDARY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "WAR NEEDS + HOME RULE + LUCKNOW UNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "20 AUG 1917",
+          "role": "comparison"
+        },
+        {
+          "text": "RESPONSIBLE GOVERNMENT STATED AS AN OBJECTIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "INCREASING INDIAN ASSOCIATION",
+          "role": "primary"
+        },
+        {
+          "text": "GRADUAL DEVELOPMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXECUTIVE DISCRETION AND IMPERIAL MEMBERSHIP REMAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "PROMISE OPENS, BUT DOES NOT SETTLE, CONSTITUTIONAL CONFLICT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRESSURE → war needs + Home Rule + Lucknow unity",
+        "20 AUG 1917 → responsible government stated as an objective",
+        "METHOD → increasing Indian association",
+        "PACE → gradual development",
+        "BOUNDARY → executive discretion and imperial membership remain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRESSURE → war needs + Home Rule + Lucknow unity",
+            "20 AUG 1917 → responsible government stated as an objective"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METHOD → increasing Indian association",
+            "PACE → gradual development"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → executive discretion and imperial membership remain",
+            "SEQUEL → promise opens, but does not settle, constitutional conflict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRESSURE → war needs + Home Rule + Lucknow unity.",
+      "source_references": [
+        "Montagu Declaration as a bounded sequel"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ABSORPTION, MEMORY AND EXAMINATION BRIDGE",
+      "structural_type": "transition-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ABSORPTION, MEMORY AND EXAMINATION BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "1918 DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "MODERATE EXIT + REFORM DIVISION + BESANT VACILLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TILAK ABROAD",
+          "role": "evidence"
+        },
+        {
+          "text": "PRINCIPAL ORGANISER ABSENT",
+          "role": "primary"
+        },
+        {
+          "text": "CADRES, BRANCHES AND PROPAGANDA HABITS LATER AID CONGRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "2018 Q79",
+          "role": "comparison"
+        },
+        {
+          "text": "1920 SWARAJYA SABHA RENAMING ROUTE; KEY UNAVAILABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1918 DECLINE → moderate exit + reform division + Besant vacillation",
+        "TILAK ABROAD → principal organiser absent",
+        "TRANSFER → cadres, branches and propaganda habits later aid Congress",
+        "2018 Q79 → 1920 Swarajya Sabha renaming route; key unavailable",
+        "2026 CWGC → Punjab Registers recover omitted servicemen"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1918 DECLINE → moderate exit + reform division + Besant vacillation",
+            "TILAK ABROAD → principal organiser absent",
+            "TRANSFER → cadres, branches and propaganda habits later aid Congress"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2018 Q79 → 1920 Swarajya Sabha renaming route; key unavailable",
+            "2026 CWGC → Punjab Registers recover omitted servicemen",
+            "VERIFIED FIGURE → 9,909 names added to CWGC records"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → commemoration evidence, not nationalist causal proof."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → commemoration evidence, not nationalist causal proof.",
+      "source_references": [
+        "Decline, absorption, public memory and PYQ route"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE TREATS THE HOME RULE AGITATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE EARLIER ELITE POLITICS OF PETITIONS AND THE LATER",
+          "role": "comparison"
+        },
+        {
+          "text": "IT WIDENED NATIONALIST DISCUSSION THROUGH BRANCHES, LECTURES, PAMPHLETS AND",
+          "role": "evidence"
+        },
+        {
+          "text": "TILAK'S POLITICS AFTER RELEASE FROM MANDALAY EMPHASISED A DISCIPLINED",
+          "role": "primary"
+        },
+        {
+          "text": "FOR SWARAJ , NOT A RETURN TO SECRET REVOLUTIONARY",
+          "role": "caution"
+        },
+        {
+          "text": "BESANT'S THEOSOPHICAL AND JOURNALISTIC NETWORKS HELPED CONNECT ENGLISH-EDUCATED GROUPS",
+          "role": "comparison"
+        },
+        {
+          "text": "AND PROVINCIAL ACTIVISTS TO AN ALL-INDIA DEMAND FOR HOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence treats the Home Rule agitation as a bridge between",
+            "the earlier elite politics of petitions and the later mass politics of Gandhi:",
+            "it widened nationalist discussion through branches, lectures, pamphlets and local leadership.",
+            "Tilak's politics after release from Mandalay emphasised a disciplined constitutional agitation"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "for Swaraj , not a return to secret revolutionary action.",
+            "Besant's Theosophical and journalistic networks helped connect English-educated groups, students, professionals",
+            "and provincial activists to an all-India demand for Home Rule.",
+            "CAUTION: The movement did not yet mobilise peasants and workers on the scale of Non-Cooperation,"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "but it created a public mood in which self-government became a normal political demand.",
+            "The Lucknow Congress allowed the re-entry of Tilak and his followers, ending the damaging Moderate-Extremist split of Surat.",
+            "Congress and the Muslim League agreed on a joint constitutional scheme, with",
+            "Congress accepting separate electorates and weightage for Muslims in certain provinces."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

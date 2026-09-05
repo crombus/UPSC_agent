@@ -1,0 +1,1128 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-05",
+  "subject": "Social-Justice",
+  "title": "WOMEN AND GENDER JUSTICE",
+  "short_route": "THREE-TERM SPINE → PROTECTION INSTRUMENTS → TWO RELIEFS COMPARED → WORKPLACE SAFETY LADDER → UMBRELLA MISSION MAP → MATERNITY SPLIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\Subject-Wide-Syllabus\\learning-sessions\\social-justice-05\\social-justice-05_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-05-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "9471f1fc3ebe48034279f7b424e208bf9ff21f98670006753644e8fbd9fb3832",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE-TERM SPINE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE-TERM SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SAME RULES, SAME RIGHTS, OUTCOME-NEUTRAL TREATMENT (ARTICLES 14, 15(1)",
+          "role": "outcome"
+        },
+        {
+          "text": "DIFFERENTIATED INSTRUMENTS ENABLED BY ARTICLE 15(3) TO OFFSET UNEQUAL",
+          "role": "institution"
+        },
+        {
+          "text": "MEASURED EXPANSION OF AGENCY, CAPABILITY AND VOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMING A SCHEME PROVES EQUITY WAS ATTEMPTED, NOT THAT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EQUALITY → same rules, same rights, outcome-neutral treatment (Articles 14, 15(1), 16)",
+        "EQUITY: differentiated instruments enabled by Article 15(3) to offset unequal starts",
+        "EMPOWERMENT: measured expansion of agency, capability and voice",
+        "TEST → naming a scheme proves equity was attempted, not that empowerment occurred"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "EQUALITY → same rules, same rights, outcome-neutral treatment (Articles 14, 15(1), 16)",
+            "EQUITY: differentiated instruments enabled by Article 15(3) to offset unequal starts"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "EMPOWERMENT: measured expansion of agency, capability and voice",
+            "TEST → naming a scheme proves equity was attempted, not that empowerment occurred"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EQUALITY → same rules, same rights, outcome-neutral treatment (Articles 14, 15(1), 16)",
+            "EQUITY: differentiated instruments enabled by Article 15(3) to offset unequal starts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → naming a scheme proves equity was attempted, not that empowerment occurred.",
+      "source_references": [
+        "Gender equality, gender equity and women's empowerment as three distinct terms"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PROTECTION INSTRUMENTS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROTECTION INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "DOMESTIC VIOLENCE ACT 2005",
+          "role": "institution"
+        },
+        {
+          "text": "PROTECTION ORDER, RESIDENCE ORDER, MONETARY RELIEF",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTING ARM",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTION OFFICER; FORUM",
+          "role": "primary"
+        },
+        {
+          "text": "CRIMINAL EDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "BREACH OF A PROTECTION ORDER IS THE OFFENCE UNDER",
+          "role": "comparison"
+        },
+        {
+          "text": "WIFE, QUALIFYING LIVE-IN PARTNER, SISTER, MOTHER, ANY DOMESTIC RELATIONSHIP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DOMESTIC VIOLENCE ACT 2005 → protection order, residence order, monetary relief",
+        "IMPLEMENTING ARM → Protection Officer; forum → Magistrate",
+        "CRIMINAL EDGE → breach of a protection order is the offence under Section 31",
+        "SCOPE → wife, qualifying live-in partner, sister, mother, any domestic relationship",
+        "LIMIT → shared-household right is contested where the property is the in-laws'"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "DOMESTIC VIOLENCE ACT 2005 → protection order, residence order, monetary relief",
+            "IMPLEMENTING ARM → Protection Officer; forum → Magistrate"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CRIMINAL EDGE → breach of a protection order is the offence under Section 31",
+            "SCOPE → wife, qualifying live-in partner, sister, mother, any domestic relationship"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → shared-household right is contested where the property is the in-laws'",
+            "DOMESTIC VIOLENCE ACT 2005 → protection order, residence order, monetary relief"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → shared-household right is contested where the property is the in-laws'.",
+      "source_references": [
+        "The domestic-violence statute of 2005 and the character of its reliefs",
+        "Who counts as an aggrieved woman and what a domestic relationship covers"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TWO RELIEFS COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO RELIEFS COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTION ORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "OBJECT IS SAFETY; RESTRAINS VIOLENCE, CONTACT AND RELATED ACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RESIDENCE ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "OBJECT IS HOUSING SECURITY; RIGHT TO RESIDE IN THE",
+          "role": "primary"
+        },
+        {
+          "text": "RESIDENCE RIGHT DOES NOT DEPEND ON THE WOMAN HOLDING",
+          "role": "caution"
+        },
+        {
+          "text": "THIRD HEAD",
+          "role": "comparison"
+        },
+        {
+          "text": "MONETARY RELIEF IS SEPARATE FROM BOTH AND MUST BE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROTECTION ORDER → object is safety; restrains violence, contact and related acts",
+        "RESIDENCE ORDER → object is housing security; right to reside in the shared household",
+        "OWNERSHIP → residence right does not depend on the woman holding title",
+        "THIRD HEAD → monetary relief is separate from both and must be named separately"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "PROTECTION ORDER → object is safety; restrains violence, contact and related acts",
+          "OWNERSHIP → residence right does not depend on the woman holding title",
+          "PROTECTION ORDER → object is safety; restrains violence, contact and related acts"
+        ],
+        [
+          "RESIDENCE ORDER → object is housing security; right to reside in the shared household",
+          "THIRD HEAD → monetary relief is separate from both and must be named separately",
+          "RESIDENCE ORDER → object is housing security; right to reside in the shared household"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PROTECTION ORDER → object is safety; restrains violence, contact and related acts",
+            "RESIDENCE ORDER → object is housing security; right to reside in the shared household"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OWNERSHIP → residence right does not depend on the woman holding title",
+            "THIRD HEAD → monetary relief is separate from both and must be named separately"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROTECTION ORDER → object is safety; restrains violence, contact and related acts",
+            "RESIDENCE ORDER → object is housing security; right to reside in the shared household"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THIRD HEAD → monetary relief is separate from both and must be named separately.",
+      "source_references": [
+        "Protection order and residence order are different reliefs"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WORKPLACE SAFETY LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WORKPLACE SAFETY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SEXUAL HARASSMENT OF WOMEN AT WORKPLACE ACT, 2013",
+          "role": "institution"
+        },
+        {
+          "text": "TEN OR MORE EMPLOYEES",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPLOYER MUST CONSTITUTE AN INTERNAL COMMITTEE",
+          "role": "evidence"
+        },
+        {
+          "text": "FEWER THAN TEN OR UNORGANISED",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRICT LOCAL COMMITTEE UNDER THE DISTRICT OFFICER",
+          "role": "outcome"
+        },
+        {
+          "text": "NINETY DAYS; DEFAULT ATTRACTS PENALTY AND REPEAT DEFAULT LICENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL MEMBER OFTEN UNAPPOINTED; DISTRICT CAPACITY UNEVEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATUTE → Sexual Harassment of Women at Workplace Act, 2013",
+        "TEN OR MORE EMPLOYEES → employer must constitute an Internal Committee",
+        "FEWER THAN TEN OR UNORGANISED → district Local Committee under the District Officer",
+        "INQUIRY → ninety days; default attracts penalty and repeat default licence action",
+        "GAP → external member often unappointed; district capacity uneven"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "STATUTE → Sexual Harassment of Women at Workplace Act, 2013",
+            "TEN OR MORE EMPLOYEES → employer must constitute an Internal Committee"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "FEWER THAN TEN OR UNORGANISED → district Local Committee under the District Officer",
+            "INQUIRY → ninety days; default attracts penalty and repeat default licence action"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GAP → external member often unappointed; district capacity uneven",
+            "STATUTE → Sexual Harassment of Women at Workplace Act, 2013"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAP → external member often unappointed; district capacity uneven.",
+      "source_references": [
+        "The workplace statute of 2013 and the Internal Committee",
+        "The Local Committee as the unorganised-sector extension"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "UMBRELLA MISSION MAP",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "UMBRELLA MISSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MISSION SHAKTI 2021",
+          "role": "outcome"
+        },
+        {
+          "text": "UMBRELLA OF THE MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SAMBAL (SAFETY)",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE STOP CENTRES, WOMEN HELPLINE, BETI BACHAO BETI PADHAO",
+          "role": "primary"
+        },
+        {
+          "text": "SAMARTHYA (EMPOWERMENT)",
+          "role": "outcome"
+        },
+        {
+          "text": "SHELTER, MATERNITY BENEFIT, CHILDCARE, WORKING-WOMEN HOSTELS",
+          "role": "comparison"
+        },
+        {
+          "text": "CHECK CURRENT GUIDELINES BEFORE ATTACHING A COMPONENT TO A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MISSION SHAKTI 2021 → umbrella of the Ministry of Women and Child Development",
+        "SAMBAL (safety) → One Stop Centres, Women Helpline, Beti Bachao Beti Padhao, Nari Adalat",
+        "SAMARTHYA (empowerment) → shelter, maternity benefit, childcare, working-women hostels",
+        "RULE → check current guidelines before attaching a component to a sub-scheme"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "MISSION SHAKTI 2021 → umbrella of the Ministry of Women and Child Development",
+            "SAMBAL (safety) → One Stop Centres, Women Helpline, Beti Bachao Beti Padhao, Nari Adalat"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "SAMARTHYA (empowerment) → shelter, maternity benefit, childcare, working-women hostels",
+            "RULE → check current guidelines before attaching a component to a sub-scheme"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MISSION SHAKTI 2021 → umbrella of the Ministry of Women and Child Development",
+            "SAMBAL (safety) → One Stop Centres, Women Helpline, Beti Bachao Beti Padhao, Nari Adalat"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → check current guidelines before attaching a component to a sub-scheme.",
+      "source_references": [
+        "The umbrella mission and its two tracks"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MATERNITY SPLIT",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MATERNITY SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "LABOUR-LAW LIMB",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERNITY BENEFIT ACT, 1961 AS AMENDED 2017; EMPLOYER OBLIGATION",
+          "role": "institution"
+        },
+        {
+          "text": "26 WEEKS PAID LEAVE, FIRST TWO SURVIVING CHILDREN, COVERED",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFER LIMB",
+          "role": "primary"
+        },
+        {
+          "text": "CONDITIONAL PAYMENT OF 5,000 RUPEES IN TWO INSTALMENTS, FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "SECOND CHILD",
+          "role": "comparison"
+        },
+        {
+          "text": "6,000 RUPEES IN ONE INSTALMENT ONLY IF THAT CHILD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LABOUR-LAW LIMB → Maternity Benefit Act, 1961 as amended 2017; employer obligation",
+        "ENTITLEMENT → 26 weeks paid leave, first two surviving children, covered establishments",
+        "TRANSFER LIMB → conditional payment of 5,000 rupees in two instalments, first child",
+        "SECOND CHILD → 6,000 rupees in one instalment only if that child is a girl",
+        "BOUNDARY → the transfer replaces wages, never the employer's leave duty"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "LABOUR-LAW LIMB → Maternity Benefit Act, 1961 as amended 2017; employer obligation",
+          "TRANSFER LIMB → conditional payment of 5,000 rupees in two instalments, first child",
+          "BOUNDARY → the transfer replaces wages, never the employer's leave duty"
+        ],
+        [
+          "ENTITLEMENT → 26 weeks paid leave, first two surviving children, covered establishments",
+          "SECOND CHILD → 6,000 rupees in one instalment only if that child is a girl",
+          "LABOUR-LAW LIMB → Maternity Benefit Act, 1961 as amended 2017; employer obligation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LABOUR-LAW LIMB → Maternity Benefit Act, 1961 as amended 2017; employer obligation",
+            "ENTITLEMENT → 26 weeks paid leave, first two surviving children, covered establishments"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRANSFER LIMB → conditional payment of 5,000 rupees in two instalments, first child",
+            "SECOND CHILD → 6,000 rupees in one instalment only if that child is a girl"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → the transfer replaces wages, never the employer's leave duty",
+            "LABOUR-LAW LIMB → Maternity Benefit Act, 1961 as amended 2017; employer obligation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → the transfer replaces wages, never the employer's leave duty.",
+      "source_references": [
+        "Maternity leave as a labour-law entitlement",
+        "The maternity cash transfer and why it is not leave"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OVERSIGHT STATUS CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OVERSIGHT STATUS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "WOMEN'S COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY, NATIONAL COMMISSION FOR WOMEN ACT, 1990",
+          "role": "institution"
+        },
+        {
+          "text": "INVESTIGATE, TAKE SUO MOTU COGNISANCE, REVIEW LAW, ADVISE, INSPECT",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOMMENDS; CANNOT MAKE AN ORDER THAT BINDS LIKE A",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED CASTE COMMISSION ARTICLE 338; SCHEDULED TRIBE COMMISSION ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTIONALISATION ASKS ABOUT ENTRENCHMENT, NOT ABOUT RENAMING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WOMEN'S COMMISSION → statutory, National Commission for Women Act, 1990",
+        "POWERS → investigate, take suo motu cognisance, review law, advise, inspect institutions",
+        "LIMIT → recommends; cannot make an order that binds like a court",
+        "CONTRAST → Scheduled Caste commission Article 338; Scheduled Tribe commission Article 338A",
+        "DEMAND → constitutionalisation asks about entrenchment, not about renaming"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "WOMEN'S COMMISSION → statutory, National Commission for Women Act, 1990",
+          "LIMIT → recommends; cannot make an order that binds like a court",
+          "DEMAND → constitutionalisation asks about entrenchment, not about renaming"
+        ],
+        [
+          "POWERS → investigate, take suo motu cognisance, review law, advise, inspect institutions",
+          "CONTRAST → Scheduled Caste commission Article 338; Scheduled Tribe commission Article 338A",
+          "WOMEN'S COMMISSION → statutory, National Commission for Women Act, 1990"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "WOMEN'S COMMISSION → statutory, National Commission for Women Act, 1990",
+            "POWERS → investigate, take suo motu cognisance, review law, advise, inspect institutions"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LIMIT → recommends; cannot make an order that binds like a court",
+            "CONTRAST → Scheduled Caste commission Article 338; Scheduled Tribe commission Article 338A"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEMAND → constitutionalisation asks about entrenchment, not about renaming",
+            "WOMEN'S COMMISSION → statutory, National Commission for Women Act, 1990"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEMAND → constitutionalisation asks about entrenchment, not about renaming.",
+      "source_references": [
+        "The women's commission, its statutory powers and its limits",
+        "Statutory body against constitutional body and the constitutionalisation demand"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ALLOCATION AGAINST OUTCOME",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ALLOCATION AGAINST OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "GENDER BUDGET STATEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PART A, SCHEMES WITH 100 PER CENT WOMEN-SPECIFIC ALLOCATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PART B",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHEMES WITH 30 TO 99 PER CENT PRO-WOMEN ALLOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IT IS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPARENCY OVER ALLOCATION; IT IS NOT A SEPARATE BUDGET",
+          "role": "caution"
+        },
+        {
+          "text": "WHAT IT IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GENDER BUDGET STATEMENT → Part A, schemes with 100 per cent women-specific allocation",
+        "PART B → schemes with 30 to 99 per cent pro-women allocation",
+        "WHAT IT IS → transparency over allocation; it is not a separate budget",
+        "WHAT IT IS NOT → an outcome measure; survey indicators test empowerment",
+        "PROPOSAL → a third outcome-tracking part is a recommendation, not a current feature"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "GENDER BUDGET STATEMENT → Part A, schemes with 100 per cent women-specific allocation",
+          "WHAT IT IS → transparency over allocation; it is not a separate budget",
+          "PROPOSAL → a third outcome-tracking part is a recommendation, not a current feature"
+        ],
+        [
+          "PART B → schemes with 30 to 99 per cent pro-women allocation",
+          "WHAT IT IS NOT → an outcome measure; survey indicators test empowerment",
+          "GENDER BUDGET STATEMENT → Part A, schemes with 100 per cent women-specific allocation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GENDER BUDGET STATEMENT → Part A, schemes with 100 per cent women-specific allocation",
+            "PART B → schemes with 30 to 99 per cent pro-women allocation"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "WHAT IT IS → transparency over allocation; it is not a separate budget",
+            "WHAT IT IS NOT → an outcome measure; survey indicators test empowerment"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROPOSAL → a third outcome-tracking part is a recommendation, not a current feature",
+            "GENDER BUDGET STATEMENT → Part A, schemes with 100 per cent women-specific allocation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROPOSAL → a third outcome-tracking part is a recommendation, not a current feature.",
+      "source_references": [
+        "Gender budgeting as allocation tracking rather than outcome measurement"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REPRESENTATION RAIL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "REPRESENTATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL BODIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 243D AND 243T RESERVE SEATS FOR WOMEN IN",
+          "role": "comparison"
+        },
+        {
+          "text": "RECORDED SHARE",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE-THIRD AT THE LOCAL LEVEL UNDER THE 73RD AMENDMENT",
+          "role": "primary"
+        },
+        {
+          "text": "106TH AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE-THIRD RESERVATION IN THE LOK SABHA AND STATE ASSEMBLIES",
+          "role": "institution"
+        },
+        {
+          "text": "OPERATIONAL AFTER THE CENSUS AND DELIMITATION SEQUENCE UNDER ARTICLE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "LOCAL BODIES → Articles 243D and 243T reserve seats for women in panchayats, municipalities",
+        "RECORDED SHARE → one-third at the local level under the 73rd Amendment settlement",
+        "106th AMENDMENT → one-third reservation in the Lok Sabha and State Assemblies",
+        "CONDITION → operational after the census and delimitation sequence under Article 334A",
+        "LIMIT → presence does not by itself defeat proxy control or party gatekeeping"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "LOCAL BODIES → Articles 243D and 243T reserve seats for women in panchayats, municipalities",
+            "RECORDED SHARE → one-third at the local level under the 73rd Amendment settlement"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "106th AMENDMENT → one-third reservation in the Lok Sabha and State Assemblies",
+            "CONDITION → operational after the census and delimitation sequence under Article 334A"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → presence does not by itself defeat proxy control or party gatekeeping",
+            "LOCAL BODIES → Articles 243D and 243T reserve seats for women in panchayats, municipalities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → presence does not by itself defeat proxy control or party gatekeeping.",
+      "source_references": [
+        "Reserved seats, the 106th Amendment and the limit of numerical presence"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CASE BANK USED NARROWLY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CASE BANK USED NARROWLY",
+          "role": "primary"
+        },
+        {
+          "text": "LINKED EQUALITY AND DIGNITY TO WORKPLACE PROTECTION BEFORE THE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHAYARA BANO",
+          "role": "comparison"
+        },
+        {
+          "text": "SCRUTINISED ONE DISCRIMINATORY PERSONAL-LAW PRACTICE, NOT PERSONAL LAW AT",
+          "role": "caution"
+        },
+        {
+          "text": "JOSEPH SHINE",
+          "role": "primary"
+        },
+        {
+          "text": "REJECTED A PATERNALISTIC ADULTERY OFFENCE; AUTONOMY, NOT MARITAL PROPERTY",
+          "role": "caution"
+        },
+        {
+          "text": "PAIR A PROVISION WITH A HOLDING; DO NOT LIST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VISHAKA → linked equality and dignity to workplace protection before the 2013 statute",
+        "SHAYARA BANO → scrutinised one discriminatory personal-law practice, not personal law at large",
+        "JOSEPH SHINE → rejected a paternalistic adultery offence; autonomy, not marital property",
+        "RULE → pair a provision with a holding; do not list case names as an"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "VISHAKA → linked equality and dignity to workplace protection before the 2013 statute",
+          "JOSEPH SHINE → rejected a paternalistic adultery offence; autonomy, not marital property",
+          "VISHAKA → linked equality and dignity to workplace protection before the 2013 statute"
+        ],
+        [
+          "SHAYARA BANO → scrutinised one discriminatory personal-law practice, not personal law at large",
+          "RULE → pair a provision with a holding; do not list case names as an argument",
+          "SHAYARA BANO → scrutinised one discriminatory personal-law practice, not personal law at large"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "VISHAKA → linked equality and dignity to workplace protection before the 2013 statute",
+            "SHAYARA BANO → scrutinised one discriminatory personal-law practice, not personal law at large"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "JOSEPH SHINE → rejected a paternalistic adultery offence; autonomy, not marital property",
+            "RULE → pair a provision with a holding; do not list case names as an argument"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "VISHAKA → linked equality and dignity to workplace protection before the 2013 statute",
+            "SHAYARA BANO → scrutinised one discriminatory personal-law practice, not personal law at large"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → pair a provision with a holding; do not list case names as an argument.",
+      "source_references": [
+        "Judicial doctrine used narrowly"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TIME AND INFRASTRUCTURE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TIME AND INFRASTRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "TIME USE SURVEY",
+          "role": "outcome"
+        },
+        {
+          "text": "MAKES COOKING, CLEANING AND CARE VISIBLE AS WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "UNPAID CARE TIME REDUCES THE TIME AVAILABLE FOR PAID",
+          "role": "evidence"
+        },
+        {
+          "text": "CHILDCARE, WATER, TRANSPORT, SAFE WORK ACT AS ECONOMIC INFRASTRUCTURE",
+          "role": "institution"
+        },
+        {
+          "text": "RELEASED TIME IS THE MECHANISM THAT CONVERTS A FORMAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "STOPPING AT EDUCATION AND EMPOWERMENT SCHEMES MISSES THE STRUCTURAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TIME USE SURVEY → makes cooking, cleaning and care visible as work",
+        "UNPAID CARE TIME reduces the time available for paid work and mobility",
+        "CHILDCARE, WATER, TRANSPORT, SAFE WORK act as economic infrastructure",
+        "RELEASED TIME is the mechanism that converts a formal right into participation",
+        "TRAP → stopping at education and empowerment schemes misses the structural barrier"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "TIME USE SURVEY → makes cooking, cleaning and care visible as work",
+            "UNPAID CARE TIME reduces the time available for paid work and mobility"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "CHILDCARE, WATER, TRANSPORT, SAFE WORK act as economic infrastructure",
+            "RELEASED TIME is the mechanism that converts a formal right into participation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → stopping at education and empowerment schemes misses the structural barrier",
+            "TIME USE SURVEY → makes cooking, cleaning and care visible as work"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → stopping at education and empowerment schemes misses the structural barrier.",
+      "source_references": [
+        "Unpaid care work and the infrastructure that would reduce it"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DATA BOUNDARY",
+      "structural_type": "matrix",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DATA BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "FIFTH ROUND",
+          "role": "outcome"
+        },
+        {
+          "text": "78.6 PER CENT ACCOUNT USE; 54.0 PER CENT MOBILE-PHONE",
+          "role": "comparison"
+        },
+        {
+          "text": "SIXTH ROUND",
+          "role": "evidence"
+        },
+        {
+          "text": "RELEASED 29 MAY 2026 FOR 2023-24; CITE SEPARATELY, NEVER",
+          "role": "primary"
+        },
+        {
+          "text": "CHILD MARRIAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "20.1 PER CENT OF WOMEN AGED 20 TO 24",
+          "role": "comparison"
+        },
+        {
+          "text": "CASE DATA REFLECT REPORTING AND POLICE PRACTICE, NOT PREVALENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIFTH ROUND → 78.6 per cent account use; 54.0 per cent mobile-phone use, ages 15",
+        "SIXTH ROUND → released 29 May 2026 for 2023-24; cite separately, never mixed",
+        "CHILD MARRIAGE → 20.1 per cent of women aged 20 to 24 married before 18",
+        "REGISTRATION → case data reflect reporting and police practice, not prevalence",
+        "OWNERSHIP → 2024 equality-equity-empowerment demand is routed to Indian Society"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "FIFTH ROUND → 78.6 per cent account use; 54.0 per cent mobile-phone use, ages 15 to 49",
+            "SIXTH ROUND → released 29 May 2026 for 2023-24; cite separately, never mixed"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CHILD MARRIAGE → 20.1 per cent of women aged 20 to 24 married before 18, from 23.3",
+            "REGISTRATION → case data reflect reporting and police practice, not prevalence"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "OWNERSHIP → 2024 equality-equity-empowerment demand is routed to Indian Society",
+            "FIFTH ROUND → 78.6 per cent account use; 54.0 per cent mobile-phone use, ages 15 to 49"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OWNERSHIP → 2024 equality-equity-empowerment demand is routed to Indian Society.",
+      "source_references": [
+        "The access baseline of the fifth survey round and the rule against mixing rounds",
+        "The child-marriage prevalence anchor and what a prevalence figure proves",
+        "The measurement boundary and the honest ownership statement"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NCW (1990 ACT) POWERS",
+          "role": "institution"
+        },
+        {
+          "text": "(A) INVESTIGATE COMPLAINTS OF DEPRIVATION OF RIGHTS; (B)",
+          "role": "comparison"
+        },
+        {
+          "text": "DV ACT LIMITATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ITS PRINCIPAL RELIEFS ARE CIVIL/PROTECTIVE, BUT BREACH OF A",
+          "role": "primary"
+        },
+        {
+          "text": "POSH ACT LIMITATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "IC COMPOSITION REQUIREMENT (EXTERNAL MEMBER WITH WOMEN'S",
+          "role": "comparison"
+        },
+        {
+          "text": "GENDER BUDGET STATEMENT REFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RIGHTS AND CAPABILITY DEPTH",
+          "role": "evidence",
+          "items": [
+            "NCW (1990 Act) powers: (a) investigate complaints of deprivation of rights; (b)",
+            "DV Act limitations: its principal reliefs are civil/protective, but breach of a",
+            "POSH Act limitations: IC composition requirement (external member with women's",
+            "CAUTION: Gender Budget Statement reform: some analysts recommend a third part tracking"
+          ]
+        },
+        {
+          "heading": "INDICATOR, ROUND AND STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: A woman in a live-in relationship seeking protection under the DV Act: the Act",
+            "CAUTION: A domestic worker facing harassment in the employer's home: the POSH Act's definition",
+            "CAUTION: An eligible woman receiving PMMVY but lacking an employer-backed maternity-leave entitlement:",
+            "CAUTION: Protective law vs enforcement capacity: DV Act and POSH Act exist on paper, but"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE WELFARE-DESIGN NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Allocation vs outcome: Gender Budget allocation can rise without corresponding",
+            "CAUTION: Universalism vs targeting: Mission Shakti's Samarthya sub-scheme provides some",
+            "NCW is a statutory body under the NCW Act, 1990; it can investigate, recommend and",
+            "DV Act, 2005 covers \"relationship in the nature of marriage\" — live-in partners are"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

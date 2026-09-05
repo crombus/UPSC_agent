@@ -18,7 +18,7 @@ Ladakh (without)** w.e.f. **31 Oct 2019**.
 **temporary** and J&K retained **no internal sovereignty**; directed **Assembly elections by Sept
 2024** and recorded the Union's assurance that statehood would be restored **"at the earliest"**,
 without fixing a judicial statehood deadline.
-📰 ✅ **Status 21 Jul 2026:** Assembly elections were held Sept–Oct 2024 (90-member
+📰 ✅ **Status 28 Aug 2026:** Assembly elections were held Sept–Oct 2024 (90-member
 Assembly constituted); statehood has not been restored.
 
 ---
@@ -26,7 +26,7 @@ Assembly constituted); statehood has not been restored.
 # PART B — ARTICLE 371 to 371-J: SPECIAL PROVISIONS FOR 12 STATES ⭐
 ✅ **Part XXI, Art 371–371-J** — special provisions for **Maharashtra, Gujarat, Nagaland, Assam, Manipur, Andhra
 Pradesh, Telangana, Sikkim, Mizoram, Arunachal Pradesh, Goa, Karnataka.** Aim: protect tribal/cultural interests,
-backward regions, or disturbed law & order. **Not in the original Constitution** — added by later amendments.
+backward regions, or disturbed law & order. The present State-specific family reflects successive constitutional amendments and reorganisation; quote the amendment attached to each lettered Article rather than saying every clause had one common origin.
 
 | Article | State(s) | Core special provision |
 |---|---|---|
@@ -34,12 +34,12 @@ backward regions, or disturbed law & order. **Not in the original Constitution**
 | ✅ **371-A** | **Nagaland** | Parliament laws on **Naga customary law, land, civil/criminal justice** don't apply unless the Assembly decides; Governor's special law-&-order role |
 | ✅ **371-B** | **Assam** | Committee of Assembly for **Tribal Areas** |
 | ✅ **371-C** | **Manipur** | Committee of Assembly for **Hill Areas**; Governor's special responsibility |
-| ✅ **371-D/E** | **Andhra Pradesh & Telangana** | Equitable public employment/education ("local cadres"); **Administrative Tribunal**; Central University (371-E). *371-D extended to Telangana in 2014* |
-| ✅ **371-F** | **Sikkim** | Assembly ≥30; 1 Lok Sabha seat; protection of population sections (36th Amdt 1975) |
+| ✅ **371-D/E** | **Andhra Pradesh & Telangana / Andhra Pradesh** | 371D: equitable public employment/education through Presidential orders; the former AP Administrative Tribunal was abolished in 2020. 371E enables Parliament to establish a Central University in Andhra Pradesh. |
+| ✅ **371-F** | **Sikkim** | Detailed integration settlement: representation, existing-law/court continuity, one Lok Sabha seat, Assembly ≥30 and Governor responsibility for peace/equitable advancement (36th Amdt 1975) |
 | ✅ **371-G** | **Mizoram** | Parliament laws on **Mizo customary law, land, justice** don't apply unless the Assembly decides; Assembly ≥40 |
 | ✅ **371-H** | **Arunachal Pradesh** | Governor's special law-&-order responsibility; Assembly ≥30 |
 | ✅ **371-I** | **Goa** | Assembly ≥30 |
-| ✅ **371-J** | **Karnataka** | Development board + **reservation** (education + jobs) for the **Hyderabad-Karnataka region** (98th Amdt 2012) |
+| ✅ **371-J** | **Karnataka** | Presidential order may assign Governor responsibility for a development board, equitable funds/opportunity and proportionate local seats/posts for the constitutionally named Hyderabad-Karnataka region, now Kalyana Karnataka (98th Amdt 2012) |
 
 ⚠️ **Note:** Art 371-A (Nagaland) & 371-G (Mizoram) give the **strongest protection** — Union laws on customary
 law/land need Assembly consent. These are distinct from the **Sixth Schedule** (tribal autonomous councils in

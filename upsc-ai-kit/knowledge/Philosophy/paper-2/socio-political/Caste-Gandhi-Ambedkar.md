@@ -4,6 +4,20 @@
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested interpretation
 > **Placement:** The clause tests rival diagnoses of caste and rival methods of emancipation: moral-religious reform and transformed social conscience in Gandhi; structural annihilation, rights, representation and social democracy in Ambedkar.
 
+## Exact printed ownership and cross-topic firewall
+
+The official clause names **Caste Discrimination: Gandhi and Ambedkar**. Caste's mechanisms and the
+two thinkers' rival diagnoses/methods are full owners; later policy, history and allied theories
+enter only where they execute that comparison.
+
+| Content | Ownership here | Boundary |
+|---|---|---|
+| Caste discrimination | textual order, lived birth-groups, untouchability, endogamy, graded inequality, sanction and power | Historical chronology and regional sociology remain with History/Sociology |
+| Gandhi | evolving caste/varna position, anti-untouchability, moral reform, constructive work and privileged-caste responsibility | Gandhian socialism/development remain with their separate owners |
+| Ambedkar | annihilation, endogamy, social democracy, constitutional morality, rights, representation, organisation and conversion | Full Buddhist doctrine and constitutional case-law detail remain elsewhere |
+| Gandhi–Ambedkar debate | reform/annihilation, religion, representation, Poona Pact, democracy, village and modernity | No false synthesis erases their disagreements |
+| Later applications | affirmative action and caste/class/gender/religion intersections | Full gender, recognition, Economy and Polity doctrines retain their owners |
+
 ## 0. ONE-SCREEN MAP
 
 ```text
@@ -17,7 +31,7 @@ social closure · graded inequality · untouchability
 religious-moral reform  annihilation of caste
 anti-untouchability     endogamy + scripture + power
 heart-change, service,  rights, representation,
-satyāgraha, constructive law, education, organisation,
+truth-force, constructive law, education, organisation,
 work, later movement    inter-caste marriage, conversion
 against birth hierarchy
         │                  │
@@ -30,12 +44,12 @@ structure without fraternity remains socially fragile
 
 ## 1. CASTE DISCRIMINATION: CONCEPTUAL FOUNDATION
 
-### 1.1 Varṇa, jāti, caste and untouchability
+### 1.1 Textual order (*varṇa*), lived birth-group (*jāti*), caste and untouchability
 
 | Term | Basic meaning | UPSC caution |
 |---|---|---|
-| **Varṇa** | fourfold normative classification in Brahmanical texts | not identical with lived caste |
-| **Jāti** | birth-based, endogamous social group, often locally organised | thousands of groups and regional variation |
+| **Textual fourfold order (*varṇa*)** | normative classification in Brahmanical texts | not identical with lived caste |
+| **Lived endogamous birth-group (*jāti*)** | birth-based social group, often locally organised | thousands of groups and regional variation |
 | **Caste system** | institutional order linking birth, endogamy, status, occupation and social closure | not merely division of labour |
 | **Untouchability** | practices imposing extreme exclusion and stigma on designated groups | symptom and intensification of caste hierarchy |
 
@@ -79,16 +93,22 @@ structure without fraternity remains socially fragile
 
 ✅ Gandhi's writings span decades and should not be flattened into one static position.
 
-- **Earlier phase:** he distinguished an idealised *varṇa* from caste hierarchy, presenting it as a non-competitive division of hereditary duty without superiority.
+- **Earlier phase:** he distinguished an idealised hereditary duty-order (*varṇa*) from caste
+  hierarchy, presenting it as non-competitive and without superiority.
 - **Anti-untouchability campaign:** he condemned exclusion, promoted temple entry and sanitation work, and used the term “Harijan,” later rejected by many Dalit thinkers as paternalistic.
 - **Later movement:** his position became increasingly critical of birth-based caste barriers and more supportive of inter-caste marriage.
 
 ⚠️ The controversy remains because an idealised *varṇa* can preserve birth allocation even after explicit ranking is denied.
 
+**Periodisation control ⚠️:** this is a trajectory reconstructed across writings and practice, not a
+claim that one date or sentence cleanly replaced every earlier commitment. Later opposition to
+birth barriers must be stated together with, not used to erase, the liability of earlier hereditary
+duty arguments.
+
 ### 2.3 Gandhi's argument against untouchability
 
 1. all life participates in a moral-spiritual unity;
-2. degrading another person violates *ahiṃsā* and truth;
+2. degrading another person violates non-violence (*ahiṃsā*) and truth;
 3. inherited exclusion corrupts both the oppressed and the caste Hindu conscience;
 4. social reform must therefore involve repentance and changed conduct by privileged castes;
 5. legal prohibition is necessary but cannot by itself generate fellowship.
@@ -96,7 +116,7 @@ structure without fraternity remains socially fragile
 ### 2.4 Method
 
 - ✅ **change of heart and self-purification;**
-- ✅ ***satyāgraha*** against unjust practice;
+- ✅ **non-violent truth-force (*satyāgraha*)** against unjust practice;
 - ✅ **constructive programme** involving education, sanitation, common service and village work;
 - ✅ **religious reinterpretation** from within Hindu life;
 - ✅ **non-violence** and persuasion rather than class war;
@@ -194,7 +214,12 @@ structure without fraternity remains socially fragile
 
 ⚠️ These are not a sequence of individual self-help. They form a politics of emancipation and representation.
 
-### 3.8 Conversion and Navayāna Buddhism
+✅ The formula **educate, agitate, organise** should therefore be read as an integrated programme:
+education produces critical self-respect, agitation contests public injustice, and organisation
+builds autonomous collective power. It is not a motivational slogan detached from representation,
+rights and material independence.
+
+### 3.8 Conversion and Buddhism as a new vehicle (*Navayāna*)
 
 ✅ Ambedkar concluded that emancipation required departure from a religious-social order he considered inseparable from caste authority. His conversion to Buddhism in **1956** expresses an ethical reconstruction around reason, compassion, equality and fraternity.
 
@@ -231,7 +256,7 @@ structure without fraternity remains socially fragile
 | Axis | Gandhi | Ambedkar |
 |---|---|---|
 | Primary evil | untouchability and moral degradation; later wider caste barriers | caste itself as graded inequality |
-| Early view of *varṇa* | idealised duty/division without rank | birth-based division is intrinsically unjust |
+| Early hereditary duty-order (*varṇa*) | idealised duty/division without rank | birth-based division is intrinsically unjust |
 | Root mechanism | corrupted religion, prejudice, loss of conscience | endogamy, scripture, social closure and power |
 | Agent of reform | transformed caste Hindu conscience plus oppressed participation | oppressed people's autonomous organisation and representation |
 | Method | non-violence, self-purification, constructive work, reform | rights, law, education, organisation, representation, inter-marriage |
@@ -275,6 +300,31 @@ structure without fraternity remains socially fragile
 
 ⚠️ Ambedkar offers the more adequate diagnosis of caste as structure, the stronger theory of representation and the clearer rejection of hereditary hierarchy. Gandhi remains significant for locating responsibility among privileged castes, connecting means and ends, and insisting that law must enter social character. The defensible synthesis is **Ambedkarite in structure and rights, Gandhian only where moral transformation serves—not substitutes for—annihilation of caste**.
 
+### 4.6A Convergence without false equivalence
+
+| Genuine convergence | Irreducible disagreement |
+|---|---|
+| untouchability is morally indefensible | whether caste itself, or its degraded form, is the primary disease |
+| equal human worth and social fellowship matter | whether hereditary duty-order can be purified |
+| political freedom without social reform is incomplete | whether reform can rely on dominant-caste conscience |
+| institutions and social conduct must both change | whether oppressed groups require autonomous electoral safeguards |
+| violence cannot found stable equality | whether exit from caste-sanctioning religion is necessary |
+
+⚠️ Convergence identifies common ends; it does not equalise diagnostic adequacy or political
+power. A synthesis is defensible only when moral conversion supports autonomous rights and
+annihilation rather than postponing them.
+
+### 4.7 Village, community and modernity
+
+Gandhi treats decentralised community as a possible school of responsibility, meaningful labour and
+self-rule. Ambedkar warns that the actually existing village can concentrate caste authority,
+dependency and exclusion.
+
+⚠️ The disagreement is not “tradition versus modernity” in the abstract. The philosophical test is
+whether scale, technology and community enlarge mobility, equal status, constitutional rights and
+exit from inherited occupation. Centralised modern institutions can reproduce caste; local
+community can do so as well. Neither scale is emancipatory without anti-caste power.
+
 ---
 
 ## 5. CASTE IN CONTEMPORARY BODY POLITIC
@@ -302,6 +352,22 @@ structure without fraternity remains socially fragile
 ✅ Caste interacts with control of land, labour and education, but it is not reducible to class. Endogamy and sexual regulation make gender central to caste reproduction.
 
 ⚠️ Dalit women's experience challenges any analysis that adds caste and gender as separate burdens after first treating each in isolation.
+
+### 5.3A Status, redistribution, recognition and intersection
+
+| Dimension | Caste mechanism | Required response |
+|---|---|---|
+| Redistribution | unequal land, labour, education, networks and material security | resources and institutional access |
+| Recognition/status | stigma, purity/pollution, humiliation and graded social worth | repudiation of inherited rank and equal standing |
+| Representation | others speak for subordinated groups or control candidate/office access | autonomous voice and political safeguards |
+| Religion | social hierarchy may be presented as sacred authority | freedom of conscience plus rejection of civic disability |
+| Gender | endogamy regulates marriage, sexuality and property | anti-caste and gender analysis must be jointly structured |
+| Class | exploitation interacts with, but does not exhaust, status closure | combine material analysis without reducing caste to class |
+
+⚠️ Identity assertion by oppressed castes can be a route to recognition and representation rather
+than a defence of hierarchy. Yet identity without redistribution can leave material power intact,
+while redistribution without recognition can preserve humiliation. The remedies are analytically
+distinct and practically entangled.
 
 ---
 
@@ -441,6 +507,16 @@ The core debate is covered in §4 and must be organised by axes, not two consecu
 8. **Do not treat “Harijan” as an uncontested emancipatory term.**
 9. **Do not treat Article 17 or the 1989 Act as evidence that caste discrimination has ended.**
 10. **Do not use Gandhi as conscience and Ambedkar as law in a simplistic complementarity.** Their diagnoses and political disagreements are substantive.
+11. **Do not flatten Gandhi into one timeless position.** Periodise early hereditary duty-order, anti-untouchability action and later anti-birth-barrier movement.
+12. **Do not use “Harijan” as the narrator's neutral term.** Identify it as Gandhi's historical usage and state the contemporary caution.
+13. **Do not reduce Ambedkar to reservation or constitutional drafting.** Include annihilation, endogamy, social democracy, fraternity, organisation and conversion.
+14. **Do not turn educate–agitate–organise into self-help.** It is a programme of critical agency, contestation and collective power.
+15. **Do not narrate the Poona Pact without the autonomous-representation question or its coercive context.**
+16. **Do not romanticise either village or central modernity.** Test both against mobility, rights, equal status and anti-caste power.
+17. **Do not collapse caste into class or add caste and gender arithmetically.**
+18. **Do not equate oppressed-caste identity assertion with defence of hereditary supremacy.**
+19. **Do not treat redistribution, recognition and representation as substitutes.**
+20. **Do not make Gandhi–Ambedkar convergence erase the structural priority of annihilation and autonomous rights.**
 
 ---
 
@@ -450,8 +526,13 @@ The core debate is covered in §4 and must be organised by axes, not two consecu
 
 **Promoted vocabulary (this pass) ⚠️:** compensatory justification · distributive/equal-opportunity justification · representational justification · anti-domination justification · transmitted disadvantage · reverse discrimination · merit as proxy · merit vs desert · advantage not guilt · over-inclusion · internal filter · creamy layer · enabling amendment · commission report vs statute vs judgment · annihilation beyond safeguard · constitutional morality · fraternity · social democracy
 
+- **Conceptual grammar:** textual fourfold order (*varṇa*) · lived endogamous group (*jāti*) · caste · untouchability
+- **Gandhian method:** non-violence (*ahiṃsā*) · truth-force (*satyāgraha*) · constructive programme · moral conversion
+- **Ambedkarite programme:** educate · agitate · organise · annihilation · representation · conversion · Buddhism as new vehicle (*Navayāna*)
+- **Later critique:** village/modernity · redistribution · recognition · representation · caste/class/gender/religion
+- **Comparison control:** convergence of ends ≠ equivalence of diagnosis, method or power
 
-*varṇa* · jāti · endogamy · hereditary status · purity/pollution · social closure · graded inequality · division of labourers · annihilation · self-respect · representation · constitutional morality · social democracy · fraternity · *satyāgraha* · constructive programme · Poona Pact · Navayāna · intersectionality
+endogamy · hereditary status · purity/pollution · social closure · graded inequality · division of labourers · annihilation · self-respect · representation · constitutional morality · social democracy · fraternity · constructive programme · Poona Pact · intersectionality
 
 ### 9.2 Reusable statement lines
 
@@ -559,6 +640,10 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **K14 · The economic criterion reopens the foundational question.** Claim: introducing an economic test into a framework built on social and educational backwardness reopens whether the wrong being remedied is deprivation or ascriptive exclusion → Named: §5A.4 → Use for: the philosophically strongest contemporary point available on this clause → Limit: ⚠️ make the argument without endorsing or condemning the amendment; this is a Philosophy paper, not a policy brief.
 - **K15 · Ambedkar is not a theorist of reservation.** Claim: annihilation, endogamy, constitutional morality, fraternity, social democracy, organised self-respect, conversion and economic independence exceed any quota → Named: §5A.5 grid → Use for: instantly separating a strong answer from a weak one on any Ambedkar stem → Limit: the programme is wide, so select two or three elements and develop them rather than listing all eight.
 - **K16 · Caste, class and gender are jointly reproduced.** Claim: caste interacts with control of land, labour and education without being reducible to class, and endogamy makes regulation of women's marriage choice internal to caste reproduction → Named: §5.3; §3.9 → Use for: intersectional stems → Limit: ⚠️ Dalit women's position is not the sum of two separately analysed burdens; say so, and route the gender doctrine to [Gender Discrimination](Gender-Discrimination.md).
+- **K17 · Educate, agitate, organise is a power programme.** Claim: critical self-respect, public contestation and autonomous organisation jointly convert suffering into political capacity → Named: Ambedkar, §3.7 → Use for: social-change and elimination-measures stems → Limit: organisation without democratic internal accountability can reproduce hierarchy.
+- **K18 · Convergence does not establish equivalence.** Claim: both reject untouchability and require social reform, but disagree on caste's nature, hereditary duty, representation and religious exit → Named: §4.6A → Use for: 2019 and 2025 comparisons → Limit: synthesis must state structural priority rather than divide credit mechanically.
+- **K19 · Neither village nor modernity is inherently emancipatory.** Claim: local community and central institutions must both be tested against mobility, rights, status and exit → Named: §4.7 → Use for: Gandhi/Ambedkar and body-politic questions → Limit: the test does not select one universal scale.
+- **K20 · Caste injustice has material, status and political dimensions.** Claim: redistribution, recognition and representation answer distinct mechanisms, while religion, gender and class mediate them → Named: §5.3A → Use for: contemporary body-politic and affirmative-action answers → Limit: full allied theories remain with their canonical owners.
 
 ### 11.5 Graded verdict formulas (adapt; never reproduce mechanically)
 
@@ -591,11 +676,14 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 
 ## SOURCES
 
-- Local course source, *Socio-Political Philosophy*, sections on caste discrimination and Gandhi–Ambedkar.
+- Local compiled notes PDF, *Socio-Political Philosophy*, searchable pp. 211–214; no named author is asserted.
 - O. P. Gauba, *An Introduction to Political Theory* and socio-political philosophy materials.
 - B. R. Ambedkar, “Castes in India: Their Mechanism, Genesis and Development” (1916).
 - B. R. Ambedkar, *Annihilation of Caste* (1936), *Who Were the Shudras?*, *The Untouchables*, *States and Minorities*, and Constituent Assembly interventions.
+- [Columbia CCNMTL, *The Annihilation of Caste* study environment](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/index.html), used as an accessible primary-text trail.
 - M. K. Gandhi, *Hind Swaraj*, *Young India*, *Harijan* and collected writings on *varṇa*, untouchability, temple entry and inter-caste marriage.
+- [Gandhi Heritage Portal](https://www.gandhiheritageportal.org/), including its Collected Works access, used to control the evolving-position claim.
+- [Poona Pact 1932 archival text — Constitution of India archive](https://www.constitutionofindia.net/historical-constitution/poona-pact-1932-b-r-ambedkar-and-m-k-gandhi/), used for the representation context.
 - Eleanor Zelliot, studies of Ambedkar and the Dalit movement.
 - Valerian Rodrigues (ed.), *The Essential Writings of B. R. Ambedkar*.
 - [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), especially Articles 14–17 and the constitutional safeguards relevant to representation.

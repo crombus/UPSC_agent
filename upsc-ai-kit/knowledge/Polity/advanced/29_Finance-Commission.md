@@ -45,8 +45,7 @@ Envisaged as the **"balancing wheel of fiscal federalism"** in India.
 ---
 
 # PART D — 📰 16th FINANCE COMMISSION (current) ⭐⭐
-- 📰 **16th FC** chaired by **Arvind Panagariya**, constituted **Dec 2023**; award period **2026–31**. Report
-  **accepted** by the government; recommendations **in effect from 1 April 2026**.
+- 📰 **16th FC** chaired by **Arvind Panagariya**, constituted **Dec 2023**; award period **2026–31**. Report submitted **17 November 2025**; the report and Explanatory Memorandum were laid **1 February 2026**. Accepted items apply to the **2026–31 award**, beginning FY 2026–27; implementation depends on the relevant Budget, orders and guidelines.
 - 📰 **Vertical devolution retained at 41%** of the divisible pool (states had demanded 50%) — same as the 15th FC.
 - 📰 **New horizontal formula** adds a **"Contribution to GDP" (10%)** criterion:
   Income Distance **42.5%** · Population 2011 **17.5%** · Demographic Performance **10%** · Area **10%** ·

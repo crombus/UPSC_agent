@@ -23,7 +23,7 @@
 - Board members **max 21**; **fixed 5-year term** for board & office-bearers.
 - **Reservation** — one SC/ST and two women seats where the society's individual
   membership includes those categories.
-- **Independent audit** within 6 months; **max 6-month** supersession of a board (elections meanwhile).
+- **Audit** within six months; supersession ordinarily cannot exceed six months, while a cooperative carrying on banking business has the separate constitutional ceiling. No supersession applies under the Part IXB text where there is no government shareholding, loan, financial assistance or guarantee.
 - Members' **right to information** about the society.
 
 ---
@@ -47,14 +47,13 @@ co-operatives revert to the respective **state laws**.
 - ❌ The whole 97th Amendment was struck down → **only Part IX-B's application to state co-operatives** was struck;
   **Art 19(1)(c) & Art 43-B survive intact**, and Part IX-B survives for **multi-state** co-ops.
 - ❌ Art 43-B is a Fundamental Right → it is a **DPSP** (the FR is **Art 19(1)(c)**).
-- ❌ Part IX-B is Articles 243-G... → it is **243-ZH to 243-ZT**.
+- ❌ Part IX-B is the Panchayat article range → it is **243-ZH to 243-ZT**.
 - ❌ Part IX-A = co-operatives → **Part IX-A = Municipalities (74th Amdt)**; **Part IX-B = co-operatives**.
 
 ## 📰 CA hooks (official/court-verified)
-- 📰 **Ministry of Cooperation** carved out (**July 2021**, first minister **Amit Shah**) with the motto
+- 📰 **Ministry of Cooperation** carved out (**July 2021**) with the motto
   **"Sahakar se Samriddhi"** — earlier co-operation was under the Agriculture Ministry.
-- 📰 **Multi-State Co-operative Societies (Amendment) Act, 2023** — created a **Co-operative Election Authority**,
-  a **Co-operative Rehabilitation, Reconstruction & Development Fund**, and strengthened governance/transparency.
+- 📰 **Multi-State Co-operative Societies (Amendment) Act, 2023** — created a **Co-operative Election Authority**, **Co-operative Ombudsman**, **Co-operative Information Officer** and a **Co-operative Rehabilitation, Reconstruction & Development Fund**, with strengthened audit and governance controls.
 - 📰 New national bodies: **NCOL** (Organics), **NCEL** (Exports), **BBSSL** (Seeds); a national **cooperative
   database**; PACS computerisation drive.
 

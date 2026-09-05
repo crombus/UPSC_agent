@@ -1,108 +1,15 @@
-# Administrative Tribunals and Tribunal Reforms - ADVANCED
+# Administrative Tribunals — OPTIONAL ADVANCED DEPTH
 
-> **Subject:** Polity | **Tier:** Advanced | **GS Paper:** GS-II  
-> **Grounded in:** Laxmikanth's Tribunals chapter (direct check of the local Sixth Revised Edition PDF);
-> Articles 323-A and 323-B; Administrative Tribunals Act, 1985;
-> *S.P. Sampath Kumar* (1987); *L. Chandra Kumar* (1997); *Madras Bar Association*
-> tribunal cases; Tribunal Reforms Act, 2021; verified 2025 GS-II Q2.  
-> ✅ = official/case-grounded | ⚠️ = analysis | 📰 = current/PYQ anchor.  
-> *Companion: `basic/Administrative-Tribunals.md`.*
+> Complete Core is in `basic/Administrative-Tribunals.md`. This file adds analytical refinements only.
 
-## 1. Constitutional design
+## Substitution, supplementation and review
+The Forty-second Amendment envisaged jurisdictional substitution. *S. P. Sampath Kumar* accepted an effective alternative mechanism; *L. Chandra Kumar* restored the non-excludable basic-structure floor of Articles 226/227 and 32. The modern model is specialist first instance plus constitutional supervision.
 
-| Axis | Article 323-A | Article 323-B |
-|---|---|---|
-| Field | Public-service recruitment and service conditions | Enumerated fields including taxation, labour, land reform and elections |
-| Competent legislature | Parliament | Parliament or State Legislature within legislative competence |
-| Design implication | Specialised administrative-justice system | Sector-specific tribunalisation |
+## Functional equivalence
+When judicial work is transferred, qualifications, selection, tenure, removal and administration must preserve equivalent independence. *R. Gandhi*, *Rojer Mathew* and the *Madras Bar Association* line apply this principle to different tribunal designs.
 
-Parliament enacted the Administrative Tribunals Act, 1985 under Article 323-A. CAT is a
-specialised adjudicatory forum, not an executive department and not a constitutional court.
+## Rationalisation
+Abolition can reduce fragmentation, but a forum transfer is not a pendency solution unless judges, staff, records, infrastructure and regional access move with the workload. Measure disposal time, remand rate, vacancy duration and user cost rather than tribunal count alone.
 
-## 2. Need compared with ordinary courts
-
-```text
-TECHNICAL / HIGH-VOLUME DISPUTE
-        |
-        +--> specialist members and domain familiarity
-        +--> simpler procedure and lower formality
-        +--> potentially faster disposal
-        |
-        v
-RISKS
-vacancies + executive dependence + fragmented appeals
-+ weak infrastructure + transfer of delay
-```
-
-⚠️ The case for tribunals is functional, not a claim that ordinary courts are
-dispensable. A tribunal succeeds only if specialisation and speed are matched by
-independence, stable tenure, adequate benches and constitutional-court supervision.
-
-## 3. Judicial-review settlement
-
-- ✅ *S.P. Sampath Kumar* initially accepted tribunal substitution if the alternative
-  mechanism was effective.
-- ✅ *L. Chandra Kumar* held that exclusion of High Court/Supreme Court judicial review
-  under Articles 226/227 and 32 was unconstitutional because judicial review is part of
-  the basic structure.
-- ✅ Tribunals may decide constitutional questions in the first instance, but their
-  decisions are subject to scrutiny by a Division Bench of the territorial High Court.
-- ⚠️ This protects constitutional supervision but adds another tier; speed therefore
-  depends on sound first-instance adjudication, not jurisdiction stripping.
-
-## 4. Tribunal Reforms Act, 2021
-
-- ✅ The Act rationalised the tribunal landscape by abolishing specified appellate
-  bodies and transferring their work to existing courts or other forums.
-- ✅ It established a common service-condition framework for covered tribunal
-  chairpersons and members.
-- ✅ The Supreme Court's *Madras Bar Association* line insists that tribunal
-  appointments, tenure and conditions must preserve judicial independence and
-  separation of powers.
-- 📰 ✅ On **19 Nov 2025**, the Supreme Court in **2025 INSC 1330** struck down the
-  re-enacted provisions covering the fifty-year minimum age, two-name recommendation
-  panel and merely preferable appointment timeline, four-year tenure, and impugned
-  allowance framework. It made *MBA (IV)* and *MBA (V)* the controlling standards and
-  directed a National Tribunals Commission within four months.
-- 📰 ✅ On **9 Mar 2026**, the Court made a separate continuity arrangement extending
-  specified serving incumbents until **8 Sep 2026** or the applicable maximum age,
-  whichever was earlier, because non-extension could make tribunals defunct. The order
-  did not revive the provisions invalidated in November 2025.
-
-| Claimed gain | Counter-risk | Surgical reform |
-|---|---|---|
-| Fewer overlapping bodies | Specialised work shifted to burdened courts | Dedicated rosters and transferred staff/records |
-| Uniform appointment rules | Executive dominance or delayed selection | Independent search-selection process and binding timelines |
-| Administrative economy | Vacancies and weak regional access | Bench planning, budgets and public vacancy dashboards |
-| Faster finality | An additional High Court-review stage remains | Better first-instance quality; do not remove judicial review |
-
-## 5. Verified PYQ application
-
-- ✅ **2025 GS-II Q2 (10 marks, 150 words):** “Comment on the need of administrative
-  tribunals as compared to the court system. Assess the impact of the recent tribunal
-  reforms through rationalization of tribunals made in 2021.”
-- **Thesis:** Tribunals remain justified by specialisation, accessibility and potential
-  speed, but the 2021 rationalisation is beneficial only where consolidation is
-  accompanied by capacity and independence; otherwise it transfers rather than resolves
-  delay.
-- **Structure:** need -> constitutional limits -> 2021 rationalisation -> gains and
-  displacement costs -> independent appointments, tenure, benches and infrastructure.
-
-## 6. Prelims traps
-
-- ❌ Only Parliament may legislate under both Articles. -> States may legislate within
-  their competence under Article 323-B; Article 323-A is Parliament-only.
-- ❌ CAT is outside all High Court supervision. -> *L. Chandra Kumar* preserves review
-  under Articles 226/227.
-- ❌ Tribunalisation permits Parliament to remove the basic structure. -> Constituent
-  and legislative power remain subject to basic-structure judicial review.
-- ❌ The March 2026 extensions revived the 2021 four-year-tenure framework. -> They were
-  temporary incumbent-specific continuity measures; *MBA (IV)/(V)* remained controlling
-  after the November 2025 judgment.
-
-## 7. Study links
-
-- `advanced/18_Supreme-Court.md` - judicial review and basic structure.
-- `advanced/21_High-Court-and-Subordinate-Courts.md` - Articles 226/227 and court burden.
-- `Governance/advanced/11_Regulatory-Governance-and-Independent-Regulators.md` -
-  independence/accountability design for specialist bodies.
+## Current status
+2025 INSC 1330 and the 9 March 2026 continuity order are the controlling official judicial anchors. Reports of a 2026 enactment must be separated from commencement and operational constitution; do not state that a National Tribunals Commission is functioning without the official commencement and appointment record.

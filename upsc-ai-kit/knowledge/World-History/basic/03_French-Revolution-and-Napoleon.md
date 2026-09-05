@@ -236,3 +236,26 @@ World History → Age of Revolutions → French Revolution, Rights and Napoleon
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## 9. Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Old Regime structures and fiscal-subsistence crisis; the
+  1789 constitutional and popular rupture; republic, war, Terror and Directory;
+  Napoleon's seizure, law, administration, empire and defeat; social
+  participation, exclusions and the Revolution's contested legacy.
+- **Boundary:** Topic 01 owns the conceptual Enlightenment overview, Topic 02
+  the American Revolution, and Topic 05 the Vienna settlement. Topic 03 ends
+  with Napoleon's defeat and uses Vienna only as the transition to Topic 05.
+- **Date control:** National Assembly (17 June 1789), Tennis Court Oath
+  (20 June), Bastille (14 July), August decrees and Rights Declaration (1789),
+  constitution (1791), republic (1792), regicide (1793), Terror (1793-94),
+  Directory (1795-99), Brumaire (1799), Code (1804) and Waterloo (1815) remain
+  distinct.
+- **Mechanism control:** structural privilege, fiscal breakdown and subsistence
+  stress differ from political triggers and popular agency; Napoleon preserved
+  legal equality and administrative rationalisation while restricting
+  sovereignty through censorship, dynasty and war.
+- **Verified PYQ ownership, 2018-2025:** the 2019 GS-I demand is cross-owned
+  with Topic 02; the 2025 GS-I enduring-relevance demand is directly owned and
+  retains its verified wording, marks and word limit. No objective key or live
+  commemoration is fabricated.

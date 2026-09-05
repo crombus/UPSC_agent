@@ -1,0 +1,1156 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-44",
+  "subject": "Polity",
+  "title": "PRESSURE GROUPS",
+  "short_route": "INFLUENCE WITHOUT OFFICE: DEFINITION → CONSTITUTIONAL CHANNELS AND PROPORTIONATE → TYPOLOGY WITHOUT MISCLASSIFICATION → METHODS: INSIDER, OUTSIDER AND → PLURALIST, ELITE AND CORPORATIST → BUSINESS, LABOUR AND PROFESSIONAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g4\\polity-44_Complete-Learning-Session_2026-08-28.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-44-2026-08-25-sequential.json",
+  "ascii_spec_sha256": "17de8888776e8d89666c14f2c3acead728273bd9bfd66fa736e01fdf0d830b68",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INFLUENCE WITHOUT OFFICE: DEFINITION AND BOUNDARIES",
+      "structural_type": "definition-distinction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INFLUENCE WITHOUT OFFICE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINITION AND BOUNDARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ROOT SHARED INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "INFLUENCE OVER PUBLIC DECISION",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINGUISH PARTY",
+          "role": "primary"
+        },
+        {
+          "text": "SEEKS OFFICE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE GROUP",
+          "role": "comparison"
+        },
+        {
+          "text": "SEEKS INFLUENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT shared interest → organisation → influence over public decision",
+        "DISTINGUISH party: seeks office",
+        "pressure group: seeks influence",
+        "NGO: legal/organisational vehicle",
+        "movement: broad change lobbyist: professional client representation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT shared interest → organisation → influence over public decision",
+            "DISTINGUISH party: seeks office"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "pressure group: seeks influence",
+            "NGO: legal/organisational vehicle"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "movement: broad change lobbyist: professional client representation",
+            "LIMIT forms overlap; dominant purpose and conduct decide the label."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ROOT shared interest → organisation → influence over public decision",
+            "DISTINGUISH party: seeks office"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT forms overlap; dominant purpose and conduct decide the label.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONSTITUTIONAL CHANNELS AND PROPORTIONATE LIMITS",
+      "structural_type": "constitutional-channel-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL CHANNELS AND PROPORTIONATE LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 19",
+          "role": "institution"
+        },
+        {
+          "text": "19(1)(A) SPEECH",
+          "role": "comparison"
+        },
+        {
+          "text": "19(1)(B) PEACEFUL UNARMED ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "19(1)(C) ASSOCIATION SUBJECT TO ARTICLES 19(2)-(4).",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 32 SUPREME COURT",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 226 HIGH COURT.",
+          "role": "institution"
+        },
+        {
+          "text": "LIMIT NO SEPARATE FUNDAMENTAL RIGHT TO LOBBY, STRIKE OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 19",
+        "19(1)(a) speech",
+        "19(1)(b) peaceful unarmed assembly",
+        "19(1)(c) association subject to Articles 19(2)-(4).",
+        "Article 32 Supreme Court"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 19",
+            "19(1)(a) speech"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "19(1)(b) peaceful unarmed assembly",
+            "19(1)(c) association subject to Articles 19(2)-(4)."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 32 Supreme Court",
+            "Article 226 High Court."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT no separate fundamental right to lobby, strike or occupy public ways indefinitely.",
+            "ARTICLE 19"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT no separate fundamental right to lobby, strike or occupy public ways indefinitely.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TYPOLOGY WITHOUT MISCLASSIFICATION",
+      "structural_type": "pressure-group-typology",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TYPOLOGY WITHOUT MISCLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "ALMOND-POWELL ASSOCIATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMAL SPECIALISED MEMBERSHIP NON-ASSOCIATIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY/COMMUNITY ARTICULATION INSTITUTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "INTEREST VOICED WITHIN DURABLE INSTITUTIONS ANOMIC",
+          "role": "primary"
+        },
+        {
+          "text": "SPONTANEOUS AND EPISODIC MOBILISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRAPS ANOMIC",
+          "role": "comparison"
+        },
+        {
+          "text": "STABLE ARMED ORGANISATION STATUTORY REGULATOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALMOND-POWELL associational: formal specialised membership non-associational: identity/community articulation institutional: interest",
+        "voiced within durable institutions anomic: spontaneous and episodic mobilisation",
+        "TRAPS anomic != stable armed organisation statutory regulator != ordinary voluntary pressure group."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ALMOND-POWELL associational: formal specialised membership non-associational: identity/community articulation institutional: interest",
+            "voiced within durable institutions anomic: spontaneous and episodic mobilisation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TRAPS anomic != stable armed organisation statutory regulator != ordinary voluntary pressure group.",
+            "ALMOND-POWELL associational: formal specialised membership non-associational: identity/community articulation institutional: interest"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "voiced within durable institutions anomic: spontaneous and episodic mobilisation",
+            "TRAPS anomic != stable armed organisation statutory regulator != ordinary voluntary pressure group."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ALMOND-POWELL associational: formal specialised membership non-associational: identity/community articulation institutional: interest",
+            "voiced within durable institutions anomic: spontaneous and episodic mobilisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAPS anomic != stable armed organisation statutory regulator != ordinary voluntary pressure group.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "METHODS: INSIDER, OUTSIDER AND CORPORATIST ROUTES",
+      "structural_type": "method-spectrum-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INSIDER, OUTSIDER AND CORPORATIST ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "INSIDER MEETING",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPERT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DRAFT COMMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTSIDER PETITION",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTORAL SIGNALLING",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE-STRUCTURED BARGAINING WITH SELECTED PEAK ASSOCIATIONS.",
+          "role": "institution"
+        },
+        {
+          "text": "TEST ACCESS + COHESION + EXPERTISE + NUMBERS +",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INSIDER meeting",
+        "expert evidence",
+        "draft comments",
+        "OUTSIDER petition",
+        "electoral signalling"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INSIDER meeting",
+            "expert evidence"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "draft comments",
+            "OUTSIDER petition"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "electoral signalling",
+            "State-structured bargaining with selected peak associations."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TEST access + cohesion + expertise + numbers + salience + legitimacy.",
+            "INSIDER meeting"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST access + cohesion + expertise + numbers + salience + legitimacy.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PLURALIST, ELITE AND CORPORATIST LENSES",
+      "structural_type": "theory-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLURALIST, ELITE AND CORPORATIST LENSES",
+          "role": "primary"
+        },
+        {
+          "text": "PLURALIST COMPETITION AND COUNTERVAILING POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "<→ MISSES UNEQUAL ORGANISATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "ELITE/CAPTURE WEALTH AND ACCESS SHAPE AGENDAS",
+          "role": "evidence"
+        },
+        {
+          "text": "<→ CAN MISS MOBILISATION BY WEAKER GROUPS.",
+          "role": "primary"
+        },
+        {
+          "text": "CORPORATIST COORDINATION THROUGH PEAK BODIES",
+          "role": "outcome"
+        },
+        {
+          "text": "<→ OUTSIDER EXCLUSION AND STATE SELECTION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PLURALIST competition and countervailing power",
+        "<→ misses unequal organisation.",
+        "ELITE/CAPTURE wealth and access shape agendas",
+        "<→ can miss mobilisation by weaker groups.",
+        "CORPORATIST coordination through peak bodies"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "PLURALIST competition and countervailing power",
+          "ELITE/CAPTURE wealth and access shape agendas",
+          "CORPORATIST coordination through peak bodies",
+          "PLURALIST competition and countervailing power"
+        ],
+        [
+          "<→ misses unequal organisation.",
+          "<→ can miss mobilisation by weaker groups.",
+          "<→ outsider exclusion and State selection.",
+          "<→ misses unequal organisation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PLURALIST competition and countervailing power",
+            "<→ misses unequal organisation."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ELITE/CAPTURE wealth and access shape agendas",
+            "<→ can miss mobilisation by weaker groups."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORPORATIST coordination through peak bodies",
+            "<→ outsider exclusion and State selection."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PLURALIST competition and countervailing power",
+            "<→ misses unequal organisation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORPORATIST coordination through peak bodies; <→ outsider exclusion and State selection.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BUSINESS, LABOUR AND PROFESSIONAL GROUPS",
+      "structural_type": "sector-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BUSINESS, LABOUR AND PROFESSIONAL GROUPS",
+          "role": "primary"
+        },
+        {
+          "text": "AGGREGATION + TECHNICAL INPUT + CAPTURE RISK.",
+          "role": "caution"
+        },
+        {
+          "text": "LABOUR BARGAINING + TRIPARTITE CONSULTATION + LAWFUL INDUSTRIAL ACTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "PROFESSIONAL VOLUNTARY ADVOCACY BODIES; SEPARATE STATUTORY REGULATORS.",
+          "role": "evidence"
+        },
+        {
+          "text": "MADRAS LABOUR UNION 1918",
+          "role": "primary"
+        },
+        {
+          "text": "AITUC FEDERATION 1920.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FICCI/CII/ASSOCHAM/NASSCOM → aggregation + technical input + capture risk.",
+        "LABOUR bargaining + tripartite consultation + lawful industrial action.",
+        "PROFESSIONAL voluntary advocacy bodies; separate statutory regulators.",
+        "Madras Labour Union 1918",
+        "AITUC federation 1920."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FICCI/CII/ASSOCHAM/NASSCOM → aggregation + technical input + capture risk.",
+          "PROFESSIONAL voluntary advocacy bodies; separate statutory regulators.",
+          "AITUC federation 1920.",
+          "LABOUR bargaining + tripartite consultation + lawful industrial action."
+        ],
+        [
+          "LABOUR bargaining + tripartite consultation + lawful industrial action.",
+          "Madras Labour Union 1918",
+          "FICCI/CII/ASSOCHAM/NASSCOM → aggregation + technical input + capture risk.",
+          "PROFESSIONAL voluntary advocacy bodies; separate statutory regulators."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FICCI/CII/ASSOCHAM/NASSCOM → aggregation + technical input + capture risk.",
+            "LABOUR bargaining + tripartite consultation + lawful industrial action."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PROFESSIONAL voluntary advocacy bodies; separate statutory regulators.",
+            "Madras Labour Union 1918"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "AITUC federation 1920.",
+            "FICCI/CII/ASSOCHAM/NASSCOM → aggregation + technical input + capture risk."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LABOUR bargaining + tripartite consultation + lawful industrial action.",
+            "PROFESSIONAL voluntary advocacy bodies; separate statutory regulators."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Madras Labour Union 1918 | AITUC federation 1920.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FARMERS' ORGANISATIONS: METHODS AND EFFECTIVENESS",
+      "structural_type": "farmer-effectiveness-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FARMERS' ORGANISATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "METHODS AND EFFECTIVENESS",
+          "role": "outcome"
+        },
+        {
+          "text": "METHODS REPRESENTATION + PRICE/PROCUREMENT SUBMISSIONS + ELECTION SIGNALLING COALITION",
+          "role": "comparison"
+        },
+        {
+          "text": "2020-21 MOBILISATION CONTRIBUTED DECISIVELY TO CONDITIONS BEFORE PARLIAMENT'S 2021",
+          "role": "evidence"
+        },
+        {
+          "text": "LIMIT VISIBILITY",
+          "role": "caution"
+        },
+        {
+          "text": "REPRESENTATION OF EVERY REGION, CROP, TENANT, WOMAN OR MARGINAL",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "METHODS representation + price/procurement submissions + election signalling coalition + protest + media + litigation.",
+        "2020-21 mobilisation contributed decisively to conditions before Parliament's 2021 repeal.",
+        "LIMIT visibility != representation of every region, crop, tenant, woman or marginal farmer."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "METHODS representation + price/procurement submissions + election signalling coalition + protest + media + litigation.",
+            "2020-21 mobilisation contributed decisively to conditions before Parliament's 2021 repeal."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LIMIT visibility != representation of every region, crop, tenant, woman or marginal farmer.",
+            "METHODS representation + price/procurement submissions + election signalling coalition + protest + media + litigation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2020-21 mobilisation contributed decisively to conditions before Parliament's 2021 repeal.",
+            "LIMIT visibility != representation of every region, crop, tenant, woman or marginal farmer."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "METHODS representation + price/procurement submissions + election signalling coalition + protest + media + litigation.",
+            "2020-21 mobilisation contributed decisively to conditions before Parliament's 2021 repeal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT visibility != representation of every region, crop, tenant, woman or marginal farmer.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ENVIRONMENTAL, CIVIL-SOCIETY AND DIGITAL PRESSURE",
+      "structural_type": "environmental-role-network",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ENVIRONMENTAL, CIVIL-SOCIETY AND DIGITAL PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "CSE RESEARCH.",
+          "role": "outcome"
+        },
+        {
+          "text": "SILENT VALLEY MOBILISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NBA REHABILITATION/REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "ELIGIBLE PIL UNDER ARTICLES 32/226.",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL RAPID AGENDA-SETTING <→ MISINFORMATION, ASTROTURFING AND PLATFORM OPACITY.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CSE research.",
+        "Silent Valley mobilisation",
+        "NBA rehabilitation/review",
+        "eligible PIL under Articles 32/226.",
+        "DIGITAL rapid agenda-setting <→ misinformation, astroturfing and platform opacity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CSE research.",
+            "Silent Valley mobilisation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NBA rehabilitation/review",
+            "eligible PIL under Articles 32/226."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIGITAL rapid agenda-setting <→ misinformation, astroturfing and platform opacity.",
+            "CSE research."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Silent Valley mobilisation",
+            "NBA rehabilitation/review"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIGITAL rapid agenda-setting <→ misinformation, astroturfing and platform opacity.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PROTEST RIGHTS AND JUDICIAL BOUNDARY",
+      "structural_type": "protest-rights-balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PROTEST RIGHTS AND JUDICIAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "DAMYANTI NARANGA V. UNION OF INDIA (1971) ASSOCIATION COMPOSITION/AUTONOMY.",
+          "role": "outcome"
+        },
+        {
+          "text": "RAMLILA MAIDAN INCIDENT (2012) PEACEFUL ASSEMBLY AND POLICE SCRUTINY.",
+          "role": "institution"
+        },
+        {
+          "text": "MAZDOOR KISAN SHAKTI SANGATHAN V. UNION OF INDIA (2018)",
+          "role": "evidence"
+        },
+        {
+          "text": "AMIT SAHNI V. COMMISSIONER OF POLICE (2020) NO INDEFINITE",
+          "role": "caution"
+        },
+        {
+          "text": "STRIKE REGULATED ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "VIOLENCE; NO GENERAL FUNDAMENTAL RIGHT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Damyanti Naranga v. Union of India (1971) association composition/autonomy.",
+        "Ramlila Maidan Incident (2012) peaceful assembly and police scrutiny.",
+        "Mazdoor Kisan Shakti Sangathan v. Union of India (2018) balance protest with residents and regulation.",
+        "Amit Sahni v. Commissioner of Police (2020) no indefinite occupation of public ways.",
+        "STRIKE regulated action != violence; no general fundamental right."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Damyanti Naranga v. Union of India (1971) association composition/autonomy.",
+            "Ramlila Maidan Incident (2012) peaceful assembly and police scrutiny."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Mazdoor Kisan Shakti Sangathan v. Union of India (2018) balance protest with residents and regulation.",
+            "Amit Sahni v. Commissioner of Police (2020) no indefinite occupation of public ways."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRIKE regulated action != violence; no general fundamental right.",
+            "Damyanti Naranga v. Union of India (1971) association composition/autonomy."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Ramlila Maidan Incident (2012) peaceful assembly and police scrutiny.",
+            "Mazdoor Kisan Shakti Sangathan v. Union of India (2018) balance protest with residents and regulation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRIKE regulated action != violence; no general fundamental right.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FCRA AND LOBBYING: SEPARATE LEGAL QUESTIONS",
+      "structural_type": "regulatory-boundary-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FCRA AND LOBBYING",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE LEGAL QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "FCRA 2010/2020 FOREIGN-CONTRIBUTION RECEIPT/USE; SECTION 3 PROHIBITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO TRANSFER; SBI RECEIPT ACCOUNT; 20% ADMIN CAP.",
+          "role": "caution"
+        },
+        {
+          "text": "NOEL HARPER V. UNION OF INDIA (2022) FRAMEWORK UPHELD",
+          "role": "primary"
+        },
+        {
+          "text": "LOBBYING NO COMPREHENSIVE STANDALONE REGISTER AS CHECKED 28 AUG",
+          "role": "caution"
+        },
+        {
+          "text": "GENERAL AND SECTORAL LAWS STILL APPLY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FCRA 2010/2020 foreign-contribution receipt/use; Section 3 prohibitions",
+        "no transfer; SBI receipt account; 20% admin cap.",
+        "Noel Harper v. Union of India (2022) framework upheld; passport-based Section 12A accommodation.",
+        "LOBBYING no comprehensive standalone register as checked 28 Aug 2026",
+        "general and sectoral laws still apply."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FCRA 2010/2020 foreign-contribution receipt/use; Section 3 prohibitions",
+            "no transfer; SBI receipt account; 20% admin cap."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Noel Harper v. Union of India (2022) framework upheld; passport-based Section 12A accommodation.",
+            "LOBBYING no comprehensive standalone register as checked 28 Aug 2026"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "general and sectoral laws still apply.",
+            "FCRA 2010/2020 foreign-contribution receipt/use; Section 3 prohibitions"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "no transfer; SBI receipt account; 20% admin cap.",
+            "Noel Harper v. Union of India (2022) framework upheld; passport-based Section 12A accommodation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOBBYING no comprehensive standalone register as checked 28 Aug 2026;.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 10"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TRANSPARENT AND INCLUSIVE CONSULTATION DESIGN",
+      "structural_type": "reform-architecture",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRANSPARENT AND INCLUSIVE CONSULTATION DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "NOTICE DRAFT + IMPACT NOTE + ADEQUATE PERIOD +",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCLOSURE MEETINGS + SUBMISSIONS + CLIENTS + FUNDING +",
+          "role": "comparison"
+        },
+        {
+          "text": "REASONS PUBLIC RESPONSE MATRIX.",
+          "role": "evidence"
+        },
+        {
+          "text": "INTEGRITY RECUSAL + COOLING-OFF + ANTI-CORRUPTION RULES.",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUSION OUTREACH TO UNDER-ORGANISED INTERESTS; PROCESS AUDIT, NOT POLICY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NOTICE draft + impact note + adequate period + accessible languages.",
+        "DISCLOSURE meetings + submissions + clients + funding + conflicts.",
+        "REASONS public response matrix.",
+        "INTEGRITY recusal + cooling-off + anti-corruption rules.",
+        "INCLUSION outreach to under-organised interests; process audit, not policy veto."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NOTICE draft + impact note + adequate period + accessible languages.",
+            "DISCLOSURE meetings + submissions + clients + funding + conflicts."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REASONS public response matrix.",
+            "INTEGRITY recusal + cooling-off + anti-corruption rules."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INCLUSION outreach to under-organised interests; process audit, not policy veto.",
+            "NOTICE draft + impact note + adequate period + accessible languages."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DISCLOSURE meetings + submissions + clients + funding + conflicts.",
+            "REASONS public response matrix."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INCLUSION outreach to under-organised interests; process audit, not policy veto.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 11"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SYNTHESIS",
+      "structural_type": "pressure-group-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED PYQS",
+          "role": "outcome"
+        },
+        {
+          "text": "2019 FARMERS' METHODS/EFFECTIVENESS 10/150",
+          "role": "comparison"
+        },
+        {
+          "text": "2021 BUSINESS ASSOCIATIONS/PUBLIC POLICIES 10/150",
+          "role": "evidence"
+        },
+        {
+          "text": "2025 ENVIRONMENTAL GROUPS AWARENESS/POLICY/ADVOCACY 15/250.",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER SPINE DEFINE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPARENT INCLUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFIED VERDICT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VERIFIED PYQS",
+        "2019 farmers' methods/effectiveness 10/150",
+        "2021 business associations/public policies 10/150",
+        "2025 environmental groups awareness/policy/advocacy 15/250.",
+        "ANSWER SPINE define → channel → method → evidence → gain → limit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "VERIFIED PYQS",
+            "2019 farmers' methods/effectiveness 10/150"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2021 business associations/public policies 10/150",
+            "2025 environmental groups awareness/policy/advocacy 15/250."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER SPINE define → channel → method → evidence → gain → limit",
+            "transparent inclusion → qualified verdict."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FINAL LINE continuous representation is democratic only when access and reasons are visible.",
+            "VERIFIED PYQS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINAL LINE continuous representation is democratic only when access and reasons are visible.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g4-source\\polity-44_g4-reviewed-source.md#SESSION 12"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CONCEPTUAL CAUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARATIVE ANALYTICAL LENSES",
+          "role": "comparison"
+        },
+        {
+          "text": "CLASSIFICATION REFINEMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "REGULATION REFINEMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "PROTEST AND REPRESENTATION REFINEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "RESEARCH-SAFE USE OF INDIAN EXAMPLES",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED ANSWER UPGRADE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Conceptual cautions",
+            "Comparative analytical lenses",
+            "Classification refinements",
+            "Regulation refinements"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "Protest and representation refinements",
+            "Research-safe use of Indian examples",
+            "Advanced answer upgrade",
+            "“Pressure group,” “interest group” and “vested interest” are not neutral synonyms in every scholarly tradition. “Vested interest” can be pejorative."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Some textbooks associate the expression's popular development with United States politics.",
+            "Treat this as a textbook-origin note, not an essential or uncontested historical fact.",
+            "The office/influence distinction is one of primary objective, not an absolute ban on endorsements, campaign activity or leaders entering elections.",
+            "Pluralism: organised competition can disperse power and generate countervailing groups."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

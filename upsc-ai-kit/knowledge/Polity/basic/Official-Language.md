@@ -7,14 +7,14 @@
 | Item | Fact |
 |---|---|
 | Official language of Union | **Hindi (Devanagari)** — **Art 343** |
-| English | 15 yrs (1950–65); continues **indefinitely** via **Official Languages Act 1963** |
+| English | 15 yrs (1950–65); continues **in addition to Hindi** under **Official Languages Act 1963, section 3** |
 | Eighth Schedule | **22 languages** (originally **14**) |
 | Linguistic Minorities Officer | **Art 350-B** (7th Amdt 1956) |
 | National language | **NONE** (India has no national language) |
 
 ## Core idea
 **Hindi in Devanagari** is the **official language of the Union** (Art 343) — but **not a "national language."**
-English was to end in **1965**, yet the **Official Languages Act 1963** keeps it **indefinitely**. States may choose
+English was to end in **1965**, yet the **Official Languages Act 1963** continues it **in addition to Hindi** for specified purposes. States may choose
 their own official language (**not limited to the 8th Schedule**).
 
 > 🔑 **No national language** — only an **official** one. Big UPSC trap.
@@ -34,7 +34,7 @@ their own official language (**not limited to the 8th Schedule**).
 ## 📰 Current link
 📰 **Classical Language** status (a *separate scheme*, not the 8th Schedule): **Oct 2024** added **Marathi, Pali,
 Prakrit, Assamese, Bengali** → total **11**. **NEP three-language formula** row with **Tamil Nadu** over "Hindi
-imposition"; demands to add ~38 more languages to the 8th Schedule.
+imposition"; additional-language demands, which remain proposals unless constitutionally enacted.
 
 ## 5. Answer architecture (10/15/20-mark support)
 
@@ -69,9 +69,9 @@ imposition"; demands to add ~38 more languages to the 8th Schedule.
 
 ### 5.4 Bank A — Language of the Union (Arts 343–344; the 1963/1967 statute)
 
-- ✅ **Claim:** Hindi is the Union's official language, with a numeral caveat. **Provision:** **Art 343(1)** — **Hindi in Devanagari** is the official language of the Union; the form of numerals is the **international (Indian) form**. **Mechanism:** it fixes the Union's default language of business. **Limitation:** "official language of the Union" is **not** "national language" — India has **none**.
+- ✅ **Claim:** Hindi is the Union's official language, with a numeral caveat. **Provision:** **Art 343(1)** — **Hindi in Devanagari** is the official language of the Union; the form of numerals is the **international form of Indian numerals**. **Mechanism:** it fixes the Union's default language of business. **Limitation:** "official language of the Union" is **not** "national language" — India has **none**.
 - ✅ **Claim:** English was given a fifteen-year runway, extendable. **Provision:** **Art 343(2)** continued **English for 15 years (1950–1965)**; **Art 343(3)** empowers Parliament to provide by law for its continued use thereafter. **Mechanism:** it built in a transition rather than a cliff-edge. **Limitation:** the runway alone did not settle the politics — Parliament had to act.
-- ✅ **Claim:** a statute, not the Constitution, made English permanent. **Provision:** the **Official Languages Act, 1963** allows English to continue **indefinitely** alongside Hindi; the **1967 amendment** (after the **1965 anti-Hindi agitation** in the South) **guaranteed the indefinite continuance of English** as an associate official language until the legislatures of *all* non-Hindi States resolve otherwise. **Mechanism:** it converted Art 343's transition into a durable **bilingual** regime. **Limitation:** ✅ this is **statute**, amendable by Parliament — distinguish it from the constitutional Articles.
+- ✅ **Claim:** a statute, not the Constitution, made English permanent. **Provision:** the **Official Languages Act, 1963** continues English **in addition to Hindi** for specified purposes; substituted section 3, effective in 1968 after the **1967 amendment**, created a State-plus-Parliament discontinuance lock. It requires resolutions of *all States that have not adopted Hindi as official language* and then each House of Parliament; the Act does not use “associate official language”. **Mechanism:** it converted Art 343's transition into a durable **bilingual** regime. **Limitation:** ✅ this is **statute**, amendable by Parliament — distinguish it from the constitutional Articles.
 - ✅ **Claim:** review of Hindi's progress is institutionalised. **Provision:** **Art 344(1)** — the **President constitutes a Language Commission** at the fifth and tenth year (first under **B.G. Kher, 1955**); **Art 344(2)** — a **Committee of Parliament (30 members: 20 LS + 10 RS)**, by convention chaired by the **Union Home Minister**, examines the recommendations (the Kher Commission was examined by the **G.B. Pant** committee). **Mechanism:** a periodic constitutional review of the switch to Hindi. **Limitation:** its recommendations are advisory, filtered through political feasibility.
 - ✅/⚠️ **Claim:** Part XVII is a drafted compromise, which explains its hedged design. **Evidence:** the **Munshi–Ayyangar formula** (K.M. Munshi and N. Gopalaswami Ayyangar) was the Constituent Assembly **via media** between Hindi-protagonists (who wanted Hindi installed at once as the sole national language) and non-Hindi members — it produced **Hindi as official language, English continued for fifteen years, and no "national" language**. **Significance:** the scheme's caution (numerals caveat, English continuance, State-language freedom) is **deliberate accommodation**, not oversight. **Limitation:** ⚠️ "Munshi–Ayyangar formula" is a **descriptive label** for the compromise, not a constitutional term.
 
@@ -82,11 +82,15 @@ imposition"; demands to add ~38 more languages to the 8th Schedule.
 - ✅ **Art 347:** on a demand by a substantial proportion of a State's population, the **President** may direct official recognition of that language in the State (a linguistic-minority safeguard).
 - ✅ **Key point:** a State's choice is **not restricted to the Eighth Schedule** — States have adopted non-Schedule languages. **Limitation:** recognition is at executive/legislative discretion, so protection varies.
 
-### 5.6 Bank C — Language of the courts and of legislation (Arts 348–349; Authorised Translations Act)
+### 5.6 Bank C — Language of courts and legislation (Arts 348–349; authoritative-text statutes)
 
 - ✅ **Art 348(1):** proceedings of the **Supreme Court and every High Court**, and the authoritative texts of **Bills, Acts, Ordinances, orders, rules and regulations**, are in **English** until Parliament provides otherwise.
 - ✅ **Art 348(2):** a **Governor**, with the **President's prior consent**, may authorise **Hindi or the State's official language in High Court proceedings** — but **not** for its judgments, decrees or orders, which remain in English unless the **Official Languages Act, 1963 (s.7)** route is used with an **authorised English translation**.
-- ✅ **Art 348(3) + the Authorised Translations (Central Laws) Act, 1973:** provides for **authorised translations** of Central Acts into Hindi and other languages, so a translation carries legal authenticity.
+- ✅ **Authoritative-text routes:** **Art 348(3)** deems a Governor-authorised English
+  translation of specified State texts authoritative. Sections **5–6 of the Official
+  Languages Act, 1963** govern authorised Hindi texts. The **Authoritative Texts
+  (Central Laws) Act, 1973** separately enables authoritative Central-law translations
+  in Eighth-Schedule languages other than Hindi through presidential authority and Gazette publication.
 - ✅ **Art 349:** during the first fifteen years, certain language-related Bills required the **President's prior sanction** — a transitional safeguard. **Limitation:** ⚠️ the persistence of English in the higher judiciary is defended for national uniformity but criticised as an **access-to-justice** barrier.
 
 ### 5.7 Bank D — Special safeguards and the directive on Hindi (Arts 350–351)
@@ -99,7 +103,7 @@ imposition"; demands to add ~38 more languages to the 8th Schedule.
 ### 5.8 Bank E — The Eighth Schedule and how a language is added (routed to 2024 Prelims Q72)
 
 - ✅ **Claim:** the Eighth Schedule lists recognised languages, now **22** (originally **14**). **Function:** representation on the Language Commission and enrichment of Hindi (Art 351) — **not** a list of everyday administrative languages. **Mechanism:** membership signals recognition and development support.
-- ✅ **Claim:** a language is added **only by constitutional amendment**. **Provision:** additions are made under **Art 368** — **Sindhi (21st Amendment, 1967)**; **Konkani, Manipuri, Nepali (71st Amendment, 1992)**; **Bodo, Dogri, Maithili, Santhali (92nd Amendment, 2003)**. **Mechanism:** this is the exact answer to "how is a language added to the Eighth Schedule" — **not** an executive notification. **Limitation:** ⚠️ demands to add ~38 more languages (Bhojpuri, Rajasthani, etc.) are **pending**, not enacted.
+- ✅ **Claim:** a language is added **only by constitutional amendment**. **Provision:** additions are made under **Art 368** — **Sindhi (21st Amendment, 1967)**; **Konkani, Manipuri, Nepali (71st Amendment, 1992)**; **Bodo, Dogri, Maithili, Santhali (92nd Amendment, 2003)**. **Mechanism:** this is the exact answer to "how is a language added to the Eighth Schedule" — **not** an executive notification. **Limitation:** ⚠️ additional-language demands remain proposals, not enacted additions; do not freeze a changing demand count.
 
 ### 5.9 Bank F — Classical languages (executive scheme) and the three-language formula (policy)
 
@@ -149,10 +153,10 @@ imposition"; demands to add ~38 more languages to the 8th Schedule.
 
 - ✅ **Hindi = official language of the Union (Art 343); India has no national language.** Never state otherwise.
 - ✅ **Eighth-Schedule additions are by constitutional amendment**; do not attribute them to an executive notification.
-- ✅ Distinguish the **layers**: Constitution (Arts 343–351) · statute (Official Languages Act 1963/1967; Authorised Translations Act 1973) · executive scheme (classical languages) · policy (three-language formula).
+- ✅ Distinguish the **layers**: Constitution (Arts 343–351) · statute (Official Languages Act 1963/1967; Authoritative Texts (Central Laws) Act 1973) · executive scheme (classical languages) · policy (three-language formula).
 - 📰 **Classical-language totals change** — cite **11 (Oct 2024)** with a re-verification note; do not quote the count as permanent.
 - ✅ **Art 350A and 350B** were both added by the **7th Amendment (1956)**; 350B is an **investigative** office, not an enforcing one.
-- ⚠️ Do **not** state a fixed number of pending Eighth-Schedule demands as settled — "~38" is a reported demand, not an enacted figure.
+- ⚠️ Do **not** state a fixed number of pending Eighth-Schedule demands as settled — a changing demand count is not enacted law.
 - ✅ In courts, **proceedings** (not judgments) may be in Hindi under Art 348(2); judgments/orders require an authorised **English translation**.
 - ✅ **Classical status ≠ Eighth-Schedule status:** classical recognition is a **Culture-Ministry executive scheme** (prestige/funding on criteria of antiquity and an independent literary tradition); Eighth-Schedule inclusion is **constitutional**, added by **Art 368 amendment** — never conflate the two.
 - ✅ The **15-year window in Art 343(2)** (the Hindi-only transition) **expired in 1965**; English's continuance since rests on the **Official Languages Act, 1963 (amended 1967)** — a **statute**, not on Art 343 itself. Do not say the Constitution itself guarantees English.

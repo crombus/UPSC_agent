@@ -181,6 +181,7 @@ C. DEVELOPMENT
 - ✅ Revise `Political-Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md` for the global structures conditioning development and dependency debates.
 - ✅ Use `Governance/advanced/14_Participatory-Governance.md` for administrative participation instruments rather than democratic theory alone.
 - ✅ Use `Polity/advanced/11_Parliamentary-System.md` for the actual working of representative institutions.
+- ⚠️ The foundation owner also contains optional-depth modules on populism, ecological political theory, digital democracy, democratisation, democratic backsliding and social movements. Downstream learner packages should place those modules after core practice rather than front-loading them into the ten Basic sessions.
 - ✅ Exclusion: this file does **not** provide current development indices, SDG data, present-day climate science updates or current country-wise democratic rankings.
 
 ## 12. Factual-risk checks

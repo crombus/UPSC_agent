@@ -32,13 +32,12 @@ citizen) → **2004 (both parents, or one citizen + other not an illegal migrant
 > citizenship), **D**eprivation (Centre cancels — fraud/disloyalty).
 
 ## Single citizenship — exceptions
-✅ Uniform rights everywhere, **except**: (1) Art 16 residence for some state jobs (now only AP &
-Telangana); (2) state concessions to residents (fees); (3) Art 19 curbs in **tribal areas**; (4) *till
+✅ Uniform rights everywhere, **except**: (1) Art **16(3)** permits Parliament to prescribe residence requirements for specified public employment; (2) state concessions to residents (fees); (3) Art 19 curbs in **tribal areas**; (4) *till
 2019* J&K permanent residents under **Art 35A** (abolished 2019).
 
 ## Must-Know Facts
-- ✅ Only **citizens** get Art 15, 16, 19, 29, 30, right to vote & to hold high offices.
-- ✅ **Enemy aliens** don't get **Art 22** (arrest protection).
+- ✅ Articles **15, 16, 19 and 29** are textually citizen-specific; Article **30** speaks of minorities rather than citizens. Voting and specified offices additionally require citizenship under their own provisions.
+- ✅ Article **22(3)(a)** excludes enemy aliens from clauses **22(1) and 22(2)**; avoid saying every protection in Article 22 is unavailable.
 - ✅ **OCI** cardholders **cannot** vote, be MP/MLA, President/VP, or SC/HC judge.
 - ✅ **Assam Accord / NRC cut-off = 24 March 1971** (Citizenship Amdt Act 1985).
 - ✅ **L.M. Singhvi Committee** → led to OCI (2003); PIO+OCI merged in **2015**.
@@ -72,7 +71,7 @@ eligibility, application and scrutiny remain necessary.
 - *India chose single citizenship to build fraternity in a plural federation, yet it tolerates residence- and region-based distinctions — through Articles 16(3), 19(5) and 371 — so that national unity does not erase local protection.*
 - *The CAA 2019 debate turns on a single question: whether fast-tracking six named communities from three neighbours is a reasonable classification of persecuted minorities or an impermissible religious test under Article 14 — a question still before the Supreme Court.*
 - *Citizenship, domicile and residence are three different statuses: only citizenship confers political rights, and conflating it with residence is the commonest error in both Prelims options and public debate.*
-- *OCI is diaspora engagement without enfranchisement: a statutory card, not a second citizenship, precisely because Article 9 forecloses dual citizenship.*
+- *OCI is diaspora engagement without enfranchisement: a statutory card, not a second citizenship, while Article 9 addresses the commencement routes and Section 9 of the Citizenship Act controls later voluntary foreign citizenship.*
 
 ### 8.3 Mark-scaled structures
 
@@ -89,7 +88,7 @@ eligibility, application and scrutiny remain necessary.
 
 ### 8.5 Bank B — Single citizenship and its exceptions (routed anchors)
 
-- **Claim:** single citizenship gives uniform rights, but residence-based distinctions survive. **Evidence:** ✅ India (like Canada) has **single citizenship** — no separate state citizenship. Exceptions: ✅ **Art 16(3)** lets Parliament prescribe a **residence** requirement for certain state jobs (Public Employment Act 1957; now effectively AP & Telangana); ✅ **Art 19(5)** permits restrictions on movement/residence to protect **Scheduled Tribes**; ✅ **Art 371/371-A to 371-J** give region-specific safeguards (e.g., **371-A Nagaland**, **371-G Mizoram** protect customary law/land; **371-D** local-cadre posts in AP/Telangana). **Significance:** ⚠️ uniformity of citizenship coexists with regional protection. **Caution:** ✅ these are constitutional special provisions, **not** separate citizenships.
+- **Claim:** single citizenship gives uniform rights, but residence-based distinctions survive. **Evidence:** ✅ India (like Canada) has **single citizenship** — no separate state citizenship. Exceptions: ✅ **Art 16(3)** lets Parliament prescribe residence requirements for specified classes of public employment; ✅ **Art 19(5)** permits restrictions on movement/residence to protect **Scheduled Tribes**; ✅ **Art 371/371-A to 371-J** give region-specific safeguards (e.g., **371-A Nagaland**, **371-G Mizoram** protect customary law/land; **371-D** local-cadre posts in AP/Telangana). **Significance:** ⚠️ uniformity of citizenship coexists with regional protection. **Caution:** ✅ these are constitutional special provisions, **not** separate citizenships.
 - **Claim:** the reason residence benefits are lawful is a precise Art 15 point. **Evidence:** ✅ **Art 15(1)** bars State discrimination on religion, race, caste, sex and **place of birth** — but **not residence**. **Significance:** ⚠️ States may therefore favour **residents/domiciles** (e.g., fee concessions) without breaching equal citizenship, because "residence" is not a prohibited ground. **Caution:** ✅ "**place of birth**" ≠ "**residence**" — discrimination on place of birth remains barred.
 - **Claim:** the largest single-citizenship exception has been removed. **Evidence:** ✅ till 2019, **Art 35A** (1954 Presidential Order under Art 370) protected J&K "permanent residents" in jobs/land; 📰 abrogated in **2019**, and the **Supreme Court upheld the abrogation in December 2023** (*In re Article 370*). **Significance:** ⚠️ J&K residents now stand under the general constitutional scheme, with statutory domicile rules. **Caution:** ✅ do **not** describe Art 35A permanent-resident privileges as current.
 
