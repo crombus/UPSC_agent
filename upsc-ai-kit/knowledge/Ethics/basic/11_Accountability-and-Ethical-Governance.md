@@ -15,8 +15,9 @@
 
 ```text
 RESPONSIBILITY                          ACCOUNTABILITY
-(duty owed going FORWARD,                (answerability AFTER THE FACT,
- before the act — "what must I do")       to a specific forum — "why did I do it")
+(assigned duty or obligation —           (obligation to explain and justify
+ "what must I do?")                       conduct to a forum that can judge,
+                                          correct, remedy or sanction)
         |                                        |
         v                                        v
    discretion + role                    external/internal control system
@@ -31,18 +32,19 @@ RESPONSIBILITY                          ACCOUNTABILITY
                      vigilance)                                          charters)
 ```
 
-**Core proposition:** ⚠️ Responsibility and accountability are related but distinct: responsibility
-is the *prospective* duty attached to a role; accountability is the *retrospective* answerability
-for how that duty was discharged, owed to a specific, identifiable forum (superior, legislature,
-court, CVC/Lokpal, public via RTI).
+**Core proposition:** ⚠️ Responsibility and accountability are related but distinct. Responsibility
+is the assigned duty attached to a role. Accountability is an identifiable actor's obligation to
+explain and justify conduct to a specific forum that can question, judge, require correction or
+remedy, and attach consequences. It operates ex ante through standards, records and reporting and
+ex post through review, correction and sanction.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ⚠️ **Responsibility** | The duty/obligation attached to a role, existing independent of whether anyone later checks its performance. |
-| ✅ **Accountability** (Nolan Principle 4, ARC 2.2.5) | Being "accountable for their decisions and actions to the public" and submitting "to whatever scrutiny is appropriate to their office." |
-| ✅ **Internal control system** | Departmental Chief Vigilance Officers (CVOs), the Central Vigilance Commission (CVC), and the CBI — mechanisms *within* the executive branch (ARC Colloquium Annexure-I(2)). |
+| ⚠️ **Responsibility** | The assigned duty or obligation attached to a role, existing independent of whether anyone later checks its performance. |
+| ✅ **Accountability** (Nolan Principle 4, ARC 2.2.5) | Being "accountable for their decisions and actions to the public" and submitting "to whatever scrutiny is appropriate to their office"; analytically, it requires a named actor, forum, standard, explanation, judgment and possible correction, remedy or consequence. |
+| ✅ **Internal/institutional control system** | Departmental vigilance and CVOs are internal administrative controls; the CBI investigates specified offences; the statutory CVC performs vigilance, advisory and superintendence functions but is not itself a prosecuting body. Their powers and locations are not identical (see `20`). |
 | ✅ **External control system** | The Comptroller and Auditor General (CAG) and the independent judiciary — mechanisms *outside* executive control (ARC Colloquium Annexure-I(2)). |
 | ✅ **Social control** | Civil society, media and citizen vigilance acting as an accountability check where formal mechanisms are weak (ARC Colloquium Annexure-I(2), citing Hong Kong's ICAC public-education model). |
 
@@ -50,30 +52,67 @@ court, CVC/Lokpal, public via RTI).
 
 1. **Assign responsibility clearly** — accountability is meaningless if it is unclear who was
    responsible for a decision (diffused responsibility undermines both).
-2. **Route accountability through internal control** (CVC/CVO/CBI) for administrative/criminal
-   misconduct, **external control** (CAG/judiciary) for financial/legal propriety, and **social
-   control** (RTI/media/civil society) for transparency-based public answerability.
+2. **Route accountability through differentiated institutions:** departmental vigilance/CVOs for
+   internal administrative control; CVC supervision/advice and CBI investigation within their
+   statutory remits; **external control** (CAG, legislature and judiciary) for financial, political
+   and legal scrutiny; and **social control** (RTI, media, civil society and social audit) for
+   citizen-based answerability.
 3. ✅ ARC's own Colloquium annexure diagnosis: internal control in India has historically been weak
    because of collusion, lack of independence of investigating agencies from the executive, and
    procedural delay; external control (CAG, judiciary) is independent but time-lagged; social
    control depends on civil-society capacity and information access (RTI).
-4. ✅ 2025 GS-IV Q6(b) directly tests this: India as an emerging economy where "allocated funds" in
-   some sectors are "either underutilised or misused" — asks for "specific measures" to "ensure
-   accountability" and "stop leakages."
+4. ⚠️ 2025 GS-IV Q6(b) is primarily owned by Topic `18` because its subject is utilisation of
+   public funds. Topic `11` is a shared accountability-mechanism cross-link: clear responsibility,
+   traceable transactions, audit, disclosure, grievance remedy and enforceable follow-up.
 5. ⚠️ Effective ethical governance requires **all three control layers reinforcing each other** —
    internal vigilance catching misconduct early, external audit verifying propriety after the fact,
    and social control (RTI, citizens' charters) sustaining pressure between audit cycles.
 
 ## 4. Indian applications and examples
 
-- ⚠️ A Direct Benefit Transfer (DBT) scheme with real-time expenditure dashboards operationalises
-  accountability by making "leakage" visible to internal (department), external (CAG) and social
-  (RTI/media) control simultaneously.
-- ✅ ARC's own account of CAG's limitations (time-lag between the act and its audit exposure) shows
-  why "concurrent audit" (the Fifth Pay Commission's recommendation, cited in the ARC Colloquium
-  annexure) strengthens accountability more than traditional post-facto audit.
+- ⚠️ A Direct Benefit Transfer or expenditure dashboard can improve traceability and timely
+  exception detection only where data access, data quality, review responsibility and escalation
+  are specified. Visibility becomes accountability when an authorised forum can investigate,
+  correct, remedy and sanction.
+- ✅ CAG's independent audit and legislative scrutiny remain indispensable for propriety,
+  performance and systemic correction. Concurrent/internal audit, transaction controls and
+  dashboards add in-course detection and correction; they do not replace constitutional audit.
 - ⚠️ A Lokayukta/Lokpal-style institution strengthens accountability specifically for high-level
   functionaries otherwise insulated from routine departmental vigilance (see `20`).
+
+### Social audit: from disclosure to remedy
+
+- ⚠️ A credible social audit separates verification from the implementing agency, proactively
+  discloses muster rolls, estimates, bills and asset records, verifies them with workers and at the
+  worksite, and places findings before a public hearing or Gram Sabha.
+- ⚠️ The cycle is incomplete without a time-bound action-taken report, recovery or disciplinary
+  referral where supported, grievance remedy for affected workers and protection against
+  intimidation or capture. Social audit is therefore more than publication of data.
+
+### Political and bureaucratic accountability
+
+- ⚠️ Political accountability makes ministers answerable to the legislature and electorate for
+  policy and departmental outcomes. Bureaucratic accountability makes officials answerable for
+  lawful, impartial and competent execution through hierarchy, files, audit, vigilance,
+  legislative committees and courts.
+- ⚠️ Political direction cannot require illegality; bureaucratic neutrality does not permit
+  obstruction of a lawful democratic mandate or evasion of reasoned implementation.
+
+### E-governance with ethical safeguards
+
+- ⚠️ E-governance can reduce delay, discretion and record tampering, but may also create exclusion,
+  language/disability barriers, authentication errors, privacy risks, opaque automated decisions,
+  vendor dependence and poor-quality data. Assisted/offline access, human review, speaking reasons,
+  audit logs and appeal are ethical design requirements.
+
+### MGNREGA accountability restoration
+
+- ⚠️ A district administrator confronting ghost beneficiaries or unverifiable work should reconcile
+  demand registers, job cards, muster rolls, attendance, wage payments, technical sanctions and
+  physical assets; hold an independent social-audit hearing; protect complainants; initiate
+  recovery/disciplinary or criminal referral where evidence warrants; and restore timely wages and
+  grievance closure. The 2025 case facts are an exam hypothetical, not proof of programme-wide
+  conditions.
 
 ## 5. Must-Know Facts for Prelims
 
@@ -85,14 +124,14 @@ court, CVC/Lokpal, public via RTI).
   Committee's recommendation and given statutory status by the Central Vigilance Commission Act,
   2003 (assent 11 September 2003), following *Vineet Narain v. Union of India*, (1998) 1 SCC 226,
   decided on **18 December 1997**.
-- ⚠️ Accountability (answerability to a forum, after the fact) is conceptually distinct from
-  responsibility (the duty itself, prospectively assigned) — a standard, frequently tested distinction.
+- ⚠️ Accountability requires answerability to a forum capable of judgment and follow-up; it is
+  conceptually distinct from responsibility, the assigned duty itself.
 
 ## 6. UPSC traps
 
-- ❌ Accountability and responsibility mean the same thing. -> Responsibility is the forward-looking
-  duty; accountability is the backward-looking answerability to a specific forum for how that duty
-  was discharged.
+- ❌ Accountability and responsibility mean the same thing. -> Responsibility assigns the duty;
+  accountability requires explanation and justification to a forum capable of review, correction,
+  remedy or consequence.
 - ❌ CAG audit alone is sufficient to ensure ethical use of public funds. -> The ARC's own diagnosis
   notes CAG audit is typically time-lagged, often reviewing transactions years after the fact,
   limiting its deterrent value unless made more concurrent.
@@ -102,9 +141,8 @@ court, CVC/Lokpal, public via RTI).
 
 ## 7. PYQ application
 
-- ✅ 2025 GS-IV Q6(b): India's economic rise despite fund underutilisation/misuse — asks for
-  "specific measures" for "ensuring accountability" and stopping "leakages" — a direct test of this
-  topic's control-system framework.
+- ⚠️ 2025 GS-IV Q6(b): India's economic rise despite fund underutilisation/misuse is primarily a
+  Topic `18` public-fund question and a shared Topic `11` cross-link for accountability mechanisms.
 - ⚠️ Any question on "ensuring good governance" or "reducing corruption through institutions" should
   invoke the internal-external-social control triad explicitly.
 

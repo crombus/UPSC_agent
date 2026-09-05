@@ -1,0 +1,3222 @@
+"""Durable learner-v2 content and master-flow specification for topic 6.
+
+Philosophy Optional, Paper II, Socio-Political Philosophy, official topic 6:
+``Humanism; Secularism; Multi-culturalism.``
+
+Every doctrine, thinker, dated constitutional fact and criticism below is
+grounded in the repository owners for this clause: the canonical owner
+``Humanism-Secularism-Multiculturalism.md``, the retained layered learning
+session and solved workbook, the verified 2018-2025 Socio-Political PYQ ledger,
+and the Socio-Political advanced dossier.  Nothing is taken from a live source,
+and no publication year, quotation, statute, judgment or constitutional
+provision is asserted that the repository sources do not already carry.  The
+1976 constitutional amendment and the 1994 judgment appear only as dated
+illustrations, never as philosophical proof; no Indian community, government,
+party, leader or period is characterised.
+"""
+
+from __future__ import annotations
+
+import re
+
+
+TOPIC_KEY = "philosophy-paper-ii-socio-political-philosophy-06"
+TOPIC_TITLE = "Humanism, Secularism and Multiculturalism"
+TOPIC_NUMBER = 6
+SECTION_KEY = "paper-ii-socio-political-philosophy"
+GENERATION_DATE = "2026-09-03"
+OFFICIAL_SYLLABUS_VERBATIM = "Humanism; Secularism; Multi-culturalism."
+CANONICAL_OWNER = (
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\"
+    "Humanism-Secularism-Multiculturalism.md"
+)
+ADVANCED_DOSSIER = (
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md"
+)
+PYQ_LEDGER = (
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\"
+    "_PYQ-SocioPolitical-2018-2025.md"
+)
+SUCCESSOR_MARKDOWN = (
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\"
+    "Socio-Political\\learning-sessions\\topic-06\\g3\\"
+    "topic-06_Complete-Learning-Session_2026-08-30.md"
+)
+ASSET_SLUG = "humanism-secularism-multiculturalism"
+IMMUTABLE_GENERATION_PATHS = True
+
+
+def visual(title: str, caption: str, *lines: str) -> dict[str, object]:
+    return {"title": title, "caption": caption, "lines": list(lines)}
+
+
+def session(
+    title: str,
+    plain: str,
+    technical: str,
+    answer: str,
+    keywords: list[str],
+    usage: str,
+    mechanism: str,
+    consequence: str,
+    trap: str,
+    objection: str,
+    reply: str,
+    limit: str,
+    exam: str,
+    revision: list[str],
+    visuals: list[dict[str, object]],
+) -> dict[str, object]:
+    return {
+        "title": title,
+        "plain": plain,
+        "technical": technical,
+        "answer": answer,
+        "keywords": keywords,
+        "usage": usage,
+        "mechanism": mechanism,
+        "consequence": consequence,
+        "trap": trap,
+        "objection": objection,
+        "reply": reply,
+        "limit": limit,
+        "exam": exam,
+        "revision": revision,
+        "visuals": visuals,
+    }
+
+
+SESSION_SPECS = (
+    session(
+        "Humanism I: Dignity, Agency and the Human-Centred Argument",
+        "Humanism is the family of outlooks that places the dignity, reason, "
+        "responsible agency and this-worldly flourishing of the human person at "
+        "the centre of value and inquiry, so that a person is treated as an end "
+        "and never as a mere instrument of church, state, caste, market or "
+        "community.",
+        "Technically humanism is a thesis about the ground and the scope of "
+        "moral status: worth attaches to persons in virtue of their capacities "
+        "for reflection, self-correction and responsible self-direction rather "
+        "than in virtue of birth, rank, revelation or usefulness, so every "
+        "claim of authority carries a burden of justification that must be "
+        "discharged in terms accessible to human reason and shared human "
+        "experience.",
+        "Humanism does not claim that human beings are the measure of every "
+        "truth; it claims that each person carries an unearned worth which no "
+        "church, state, caste, market or community may cancel, so an authority "
+        "that cannot justify itself before human reason and experience has not "
+        "yet earned obedience.",
+        [
+            "human dignity as unearned worth",
+            "reason and public justification",
+            "responsible agency and self-correction",
+            "this-worldly flourishing",
+            "person as end, not mere instrument",
+            "humanism against anthropocentrism",
+        ],
+        "Lead with dignity as unearned worth, make reason and public "
+        "justification the test that any authority must pass, use responsible "
+        "agency and this-worldly flourishing to say what dignity actually "
+        "protects, and separate humanism from anthropocentrism in one clause "
+        "before the examiner supplies that distinction for you.",
+        "Shared vulnerability, dependence and creative agency place all persons "
+        "inside a single moral world; institutions act within that world and "
+        "shape whether persons can flourish; therefore every exercise of power "
+        "must answer to reasons the affected person could examine.",
+        "Once worth is detached from inherited rank, caste, slavery and "
+        "servitude become criticisable from inside the idea of the person, "
+        "without borrowing either a theological premise or a merely legal one.",
+        "Do not equate humanism with atheism, with egoistic individualism, or "
+        "with a licence to do anything: religious humanisms exist, solidarity "
+        "and education are humanist themes, and dignity always arrives joined "
+        "to responsibility and limits.",
+        "The sovereign rational subject at the centre of humanism is a "
+        "historical construction, and the abstract human it universalises has "
+        "usually been modelled on male, European and dominant-caste experience, "
+        "so humanism installs a particular experience in the place reserved for "
+        "the universal.",
+        "The objection defeats abstract universalism rather than universality "
+        "itself. Feminist, anti-caste and postcolonial critics have in the main "
+        "reconstructed dignity instead of abandoning it: universality is "
+        "treated as something achieved through inclusion and contestation, not "
+        "as a possession already held by some and then generously extended. "
+        "Decentring the sovereign subject corrects an arrogance; abandoning "
+        "agency altogether would make responsibility, protest and emancipation "
+        "impossible to state.",
+        "The reconstruction still owes an account of who adjudicates a "
+        "contested interpretation of dignity when states, communities and the "
+        "persons inside them disagree, and it leaves the species boundary of "
+        "the doctrine entirely untouched.",
+        "Define humanism as a thesis about the ground of worth, distinguish it "
+        "in one line each from atheism, anthropocentrism, humanitarianism and "
+        "legal human rights, run the argument from shared vulnerability to "
+        "public justification, illustrate with dignity's criticism of inherited "
+        "rank, and close with the graded verdict that dignity survives the "
+        "abstract-universalism objection only in a difference-sensitive and "
+        "dialogical reconstruction.",
+        [
+            "Humanism centres four things on the person: dignity, reason, "
+            "responsible agency and this-worldly flourishing.",
+            "The load-bearing claim is that worth is not exhausted by "
+            "inherited rank, which is what lets a humanist criticise caste or "
+            "slavery from within.",
+            "Authority owes justification in terms persons can examine; status "
+            "and revelation alone do not discharge that burden.",
+            "Humanism is not atheism, not anthropocentrism, not "
+            "humanitarian relief and not a list of legal entitlements.",
+            "The strongest objection is abstract universalism; the strongest "
+            "reply is reconstruction through inclusion rather than abandonment.",
+        ],
+        [
+            visual(
+                "What humanism places at the centre of value",
+                "The opening move for every humanism stem: name the four "
+                "centred features, then tie them at once to responsibility and "
+                "limits so dignity is never read as licence.",
+                "            THE HUMAN PERSON  -  an end, never a mere instrument",
+                "                               |",
+                "   +-------------+-------------+-------------+---------------+",
+                "   v             v             v             v               v",
+                "DIGNITY       REASON        AGENCY      FLOURISHING     ALL FOUR",
+                "worth that    critical      responsible  this-worldly    together",
+                "is unearned   inquiry and   self-        realisation     |",
+                "and not from  self-         direction    of capacities   v",
+                "birth or rank correction                                 JOINED TO",
+                "   |             |             |             |          RESPONSIBILITY",
+                "   +-------------+-------------+-------------+-------->  AND LIMITS",
+                "",
+                "CONTROL -> dignity is a claim about the GROUND of worth; it is not a",
+                "           permission, not a mood, and not a prediction about religion.",
+            ),
+            visual(
+                "Four confusions that cost marks in the first paragraph",
+                "Each row is one sentence in the exam: state the confusion, "
+                "then the correct distinction, and the answer has already "
+                "shown control of the concept.",
+                "+---------------------------+-------------------------------------------+",
+                "| CONFUSION                 | CORRECT DISTINCTION                       |",
+                "+---------------------------+-------------------------------------------+",
+                "| humanism = atheism        | secular humanism is non-theistic, but     |",
+                "|                           | religious humanisms also exist            |",
+                "+---------------------------+-------------------------------------------+",
+                "| humanism = anthropo-      | humanism centres human WORTH; anthropo-   |",
+                "| centrism                  | centrism centres human INTEREST and can   |",
+                "|                           | license mastery over nature               |",
+                "+---------------------------+-------------------------------------------+",
+                "| humanism = humanitarian-  | humanitarianism relieves suffering;       |",
+                "| ism                       | humanism grounds why the sufferer matters |",
+                "+---------------------------+-------------------------------------------+",
+                "| humanism = human rights   | rights are legal entitlements; humanism   |",
+                "|                           | supplies the moral standing behind them   |",
+                "+---------------------------+-------------------------------------------+",
+                "TEST -> humanism answers 'why does this person count at all?', not",
+                "        'what shall we give them?' or 'does God exist?'",
+            ),
+        ],
+    ),
+    session(
+        "Humanism II: Genealogy and Forms (Renaissance, Enlightenment, Branches)",
+        "The many forms of humanism share one commitment to human worth but "
+        "differ over what grounds that worth, so Renaissance, Enlightenment, "
+        "secular, religious, Marxist and radical humanisms are rival groundings "
+        "of a single dignity rather than rival moods.",
+        "Genealogically, Renaissance humanism renewed classical learning, "
+        "rhetoric, history and cultivated human capacity, while the "
+        "Enlightenment radicalised the demand that beliefs and institutions "
+        "answer to reason, criticism and public justification; the resulting "
+        "branches are individuated by their ground of dignity, their view of "
+        "religion and the characteristic risk each grounding carries.",
+        "The Enlightenment is the decisive modern articulation of humanism and "
+        "not its sole source, because it shifts authority from inherited status "
+        "to reasoned justification, breaks epistemic monopoly through inquiry, "
+        "weakens compulsory religious uniformity and universalises the moral "
+        "standing of persons, while Stoic, devotional and Indian reform "
+        "traditions had already supplied human-centred resources.",
+        [
+            "Renaissance cultivation of human capacity",
+            "Enlightenment demand for public justification",
+            "secular and scientific humanism",
+            "religious humanism",
+            "Marxist humanism and species-being",
+            "ground of dignity and characteristic risk",
+        ],
+        "Sort the forms by their ground of dignity rather than by chronology "
+        "alone, give Renaissance cultivation and the Enlightenment demand for "
+        "public justification a clause each, contrast secular humanism with "
+        "religious humanism and with Marxist humanism's species-being, and "
+        "attach the characteristic risk to every form you name.",
+        "Authority shifts from inherited status toward reasoned justification, "
+        "scientific inquiry breaks an epistemic monopoly, conscience and "
+        "toleration weaken compulsory uniformity, natural-right and autonomy "
+        "traditions universalise moral standing, and education becomes a means "
+        "of emancipation.",
+        "Because each branch grounds dignity differently, each inherits a "
+        "different failure mode: elitist cultivation, abstract universalism, "
+        "scientism, paternalism or an internally contested relation to Marxist "
+        "orthodoxy.",
+        "Do not claim that eighteenth-century Europe created humanism from "
+        "nothing, and do not treat the branches as a chronological ladder in "
+        "which the latest is automatically the most defensible.",
+        "If humanism is a modern European settlement, then presenting it as a "
+        "universal moral floor merely repeats the coloniality it claims to "
+        "criticise, and its appeal to reason conceals the particular history "
+        "that produced it.",
+        "The reply separates the occasion of a doctrine from its warrant. That "
+        "the Enlightenment articulated dignity in Europe does not show that "
+        "dignity is European, any more than the European articulation of a "
+        "mathematical proof makes the proof European. The owner is explicit "
+        "that Stoic cosmopolitanism, religious traditions, devotional "
+        "egalitarian impulses and Indian reform movements also supply "
+        "human-centred resources, so the doctrine is better read as a plural "
+        "inheritance with one decisive modern statement.",
+        "The reply does not by itself show that every reconstruction preserves "
+        "what mattered in the original, and the more plural the genealogy, the "
+        "harder it becomes to say what all humanisms are supposed to agree "
+        "about beyond the bare word dignity.",
+        "Open by refusing the single-source story, expound Renaissance "
+        "cultivation and the five Enlightenment shifts, tabulate the branches "
+        "by ground of dignity, view of religion and risk, then answer the "
+        "which-form-is-relevant stem by choosing a form, defending it with its "
+        "own ground and conceding its named risk.",
+        [
+            "Renaissance humanism: cultivated human capacity, often Christian, "
+            "risk of elitist cultivation.",
+            "Enlightenment humanism: reason, autonomy and universal personhood, "
+            "risk of abstract universalism.",
+            "Secular or scientific humanism: naturalistic inquiry and human "
+            "welfare, risk of scientism.",
+            "Religious humanism: divine or spiritual worth expressed through "
+            "service, risk of paternalism.",
+            "Marxist humanism: creative social species-being and the overcoming "
+            "of alienation, contested within Marxism.",
+            "Five Enlightenment shifts: status to justification, epistemic "
+            "monopoly broken, compulsory uniformity weakened, moral standing "
+            "universalised, education as emancipation.",
+        ],
+        [
+            visual(
+                "One dignity, several grounds: the branch table",
+                "Answering a which-form stem means choosing a row and owning "
+                "its risk, not listing every row without adjudication.",
+                "+------------------+---------------------+-----------------+--------------+",
+                "| FORM             | GROUND OF DIGNITY   | VIEW OF RELIGION| RISK         |",
+                "+------------------+---------------------+-----------------+--------------+",
+                "| RENAISSANCE      | cultivated human    | often Christian | elitist      |",
+                "|                  | capacities          |                 | cultivation  |",
+                "+------------------+---------------------+-----------------+--------------+",
+                "| ENLIGHTENMENT    | reason, autonomy,   | critical and    | abstract     |",
+                "|                  | universal personhood| tolerant        | universalism |",
+                "+------------------+---------------------+-----------------+--------------+",
+                "| SECULAR /        | naturalistic        | rejects super-  | scientism    |",
+                "| SCIENTIFIC       | inquiry and welfare | natural authority|             |",
+                "+------------------+---------------------+-----------------+--------------+",
+                "| RELIGIOUS        | divine or spiritual | religion deepens| paternalism  |",
+                "|                  | worth in service    | human concern   |              |",
+                "+------------------+---------------------+-----------------+--------------+",
+                "| MARXIST          | creative social     | read through    | contested    |",
+                "|                  | species-being       | material        | inside       |",
+                "|                  |                     | suffering       | Marxism      |",
+                "+------------------+---------------------+-----------------+--------------+",
+                "| RADICAL (ROY)    | sovereignty of the  | secular         | understates  |",
+                "|                  | rational individual |                 | structure    |",
+                "+------------------+---------------------+-----------------+--------------+",
+            ),
+            visual(
+                "How the Enlightenment paved the way, in five shifts",
+                "This chain is the whole of the 2022 and 2024 enlightenment "
+                "stems; number the shifts and the marks follow.",
+                "  INHERITED STATUS AS THE SOURCE OF AUTHORITY",
+                "                |",
+                "                v",
+                "  (1) authority must now answer to REASONED JUSTIFICATION",
+                "                v",
+                "  (2) scientific inquiry breaks an EPISTEMIC MONOPOLY",
+                "                v",
+                "  (3) conscience and toleration weaken COMPULSORY UNIFORMITY",
+                "                v",
+                "  (4) natural-right and autonomy traditions UNIVERSALISE moral standing",
+                "                v",
+                "  (5) education becomes a means of EMANCIPATION",
+                "                |",
+                "                v",
+                "  HUMANISM AS A MODERN PUBLIC DOCTRINE",
+                "                |",
+                "  QUALIFICATION -> decisive articulation, NOT the sole source: Stoic",
+                "  cosmopolitanism, religious traditions, devotional egalitarian impulses",
+                "  and Indian reform traditions supply human-centred resources too.",
+            ),
+        ],
+    ),
+    session(
+        "Humanism III: Indian Humanism and Its Critics (Tagore, Gandhi, "
+        "Vivekananda, Roy)",
+        "Indian humanism is the group of positions in which the worth of the "
+        "person is grounded in relation, service or rational autonomy rather "
+        "than in isolated individualism, so Tagore, Gandhi, Vivekananda and "
+        "M. N. Roy defend one dignity from four different grounds.",
+        "Tagore locates the person in a creative relation with universal "
+        "humanity and reconciles individual with universal, reason with "
+        "spirituality, East with West, freedom with community and finite with "
+        "infinite; Gandhi grounds service in the unity and equal worth of life "
+        "and tests public action by its effect on the most vulnerable; "
+        "Vivekananda links the divine potential of the person to service of "
+        "humanity; and Roy places the rational, morally autonomous individual "
+        "above party, class and state, treating freedom as the progressive "
+        "removal of restraints on human potential.",
+        "Tagore's reconciliation of opposites is an argument and not a slogan: "
+        "the isolated ego is incomplete because creative self-expression "
+        "already presupposes language, relation and a shared world, so "
+        "universal humanity is a dimension of fulfilled personhood rather than "
+        "an abstraction imposed on it from outside.",
+        [
+            "Tagore's reconciliation of opposites",
+            "creative relation against isolated ego",
+            "Gandhi's service and equal worth of life",
+            "Vivekananda on divine potential and service",
+            "M. N. Roy's Radical Humanism",
+            "sovereignty of the rational individual",
+        ],
+        "Give Tagore the reconciliation table and the relational argument, "
+        "contrast Gandhi's service and equal worth of life with Vivekananda's "
+        "divine potential, set both against Roy's sovereignty of the rational "
+        "individual, and let the Ambedkarite objection about structure supply "
+        "the evaluation these positions require.",
+        "Individuality fulfils itself through relation, creativity and "
+        "sympathy, so community and universality complete the person instead of "
+        "competing with the person, and freedom becomes the progressive removal "
+        "of restraints on that fulfilment.",
+        "The four positions broaden humanism beyond an anti-religious "
+        "secularism, but they also part company sharply, since Roy's "
+        "naturalistic reason and Gandhi's spiritual unity ground the same "
+        "refusal to sacrifice the person to a collective idol.",
+        "Do not reduce Tagore to a slogan about East-West synthesis, and do not "
+        "let an appeal to spiritual unity stand in for an account of graded "
+        "hierarchy: sympathy alone does not dissolve structures.",
+        "A universalism grounded in creative relation and spiritual fulfilment "
+        "remains too inward to reach caste, class and institutional power, so "
+        "Indian humanism risks consoling the victim of graded hierarchy instead "
+        "of dismantling the hierarchy.",
+        "The reply concedes the point and repairs the position rather than "
+        "denying it. Tagore supplies an ethic of relation and a warning against "
+        "the mechanically organised nation; Roy warns that no promised "
+        "collective future licenses the present extinction of individual "
+        "freedom. Neither claim is a theory of structural hierarchy, so the "
+        "owner routes that work to Ambedkar and to Marx, whose accounts of "
+        "graded status and of exploitation expose what an ethic of sympathy "
+        "cannot by itself reach.",
+        "The repair leaves an unresolved division of labour: an ethic of "
+        "relation and a structural analysis are joined in the answer without "
+        "any single doctrine showing how transformed hearts and enforceable "
+        "institutions are to be coordinated.",
+        "Expound the named thinker first, then place the position in its debate: "
+        "Roy against Gandhi on the ground of dignity, Tagore against narrow "
+        "nationalism on the unit of loyalty, and both against the Ambedkarite "
+        "demand for structure, before a verdict that names the supplement each "
+        "position needs.",
+        [
+            "Tagore's five reconciliations: individual and universal, reason "
+            "and spirituality, East and West, freedom and community, finite "
+            "and infinite.",
+            "Tagore's argument: the isolated ego is incomplete because "
+            "self-expression presupposes language, relation and a shared world.",
+            "Gandhi: religious, ethical and practical humanism tested by the "
+            "effect of public action on the most vulnerable.",
+            "Vivekananda: divine potential of the person expressed as service "
+            "to humanity.",
+            "Roy: the rational individual is sovereign; freedom is the "
+            "progressive removal of restraints; democracy must be "
+            "participatory and ethically grounded.",
+            "Roy against Gandhi: naturalistic reason against spiritual unity, "
+            "but a common refusal to let any collective idol extinguish the "
+            "person.",
+        ],
+        [
+            visual(
+                "Tagore: how the opposites are reconciled",
+                "The 2025 Tagore stem is answered by this table plus the "
+                "relational argument beneath it; the objection then decides the "
+                "grade.",
+                "+------------------------+--------------------------------------------+",
+                "| APPARENT OPPOSITION    | TAGOREAN MEDIATION                         |",
+                "+------------------------+--------------------------------------------+",
+                "| individual / universal | individuality fulfils itself through       |",
+                "|                        | relation, creativity and sympathy          |",
+                "+------------------------+--------------------------------------------+",
+                "| reason / spirituality  | critical intelligence and spiritual depth  |",
+                "|                        | need not exclude each other                |",
+                "+------------------------+--------------------------------------------+",
+                "| East / West            | civilisations meet by reciprocal learning, |",
+                "|                        | not imitation or chauvinism                |",
+                "+------------------------+--------------------------------------------+",
+                "| freedom / community    | community nourishes freedom when it is not |",
+                "|                        | coercive                                   |",
+                "+------------------------+--------------------------------------------+",
+                "| finite / infinite      | the human reaches beyond ego through art,  |",
+                "|                        | love and a larger shared life              |",
+                "+------------------------+--------------------------------------------+",
+                "ARGUMENT -> the isolated ego is incomplete; self-expression already",
+                "            presupposes language and relation; so universal humanity is",
+                "            a DIMENSION of fulfilled personhood, not an external ideal.",
+            ),
+            visual(
+                "Four Indian groundings of one dignity",
+                "Use the branch you need, but always name the ground and the "
+                "objection that follows from it.",
+                "                       ONE DIGNITY, FOUR GROUNDS",
+                "                                |",
+                "   +-------------+--------------+--------------+-----------------+",
+                "   v             v              v              v",
+                "TAGORE        GANDHI       VIVEKANANDA       M. N. ROY",
+                "creative      unity and    divine potential  sovereignty of the",
+                "relation to   equal worth  of the person     rational, morally",
+                "universal     of life;     expressed as      autonomous individual",
+                "humanity      service and  service to        above party, class",
+                "              non-violence humanity          and state",
+                "   |             |              |              |",
+                "   v             v              v              v",
+                "OBJECTION:    OBJECTION:   OBJECTION:        OBJECTION:",
+                "too inward    moral        spiritual meta-   reason is socially",
+                "for graded    regeneration physics differs   conditioned; education",
+                "hierarchy     without      from naturalism   alone may not defeat",
+                "              structure                      structural inequality",
+                "   |             |              |              |",
+                "   +-------------+--------------+--------------+",
+                "                       v",
+                "COMMON POINT -> no collective idol may extinguish the person.",
+                "ROUTE -> for graded status and structure, use Ambedkar; the caste",
+                "         doctrine itself is owned by the Caste file, not by this one.",
+            ),
+        ],
+    ),
+    session(
+        "Secularism I: Secular, Secularisation, Secularism and the Core Argument",
+        "Secularism is a normative arrangement of religion, state and "
+        "citizenship that secures freedom of conscience and equal civic "
+        "standing, protecting citizens against religious domination and against "
+        "arbitrary state control of religion alike.",
+        "Secularism is a doctrine about the exercise of coercive public power "
+        "and must be held apart from three neighbours: secularisation, the "
+        "sociological decline or transformation of religious authority; "
+        "atheism, the belief that God does not exist; and religious toleration, "
+        "a permission to dissent that can coexist with an established religion "
+        "and therefore with unequal civic standing.",
+        "Secularism is a doctrine of public power rather than a sociological "
+        "prediction or a truth-claim about God, so a deeply religious society "
+        "can be fully secular while an irreligious state that ranks its "
+        "citizens by belief is not, and the whole argument turns on conscience "
+        "and equal citizenship rather than on the fate of religion.",
+        [
+            "freedom of conscience",
+            "equal civic standing",
+            "secularisation as a sociological process",
+            "toleration as permission to dissent",
+            "inter-religious and intra-religious domination",
+            "publicly justifiable intervention",
+        ],
+        "Spend the first two lines separating secularism from secularisation, "
+        "atheism and mere toleration, then run the argument from reasonable "
+        "disagreement to equal civic standing, and use the pairing of "
+        "inter-religious with intra-religious domination to show why publicly "
+        "justifiable intervention is part of the doctrine rather than an "
+        "exception to it.",
+        "Citizens reasonably disagree about religion and the ultimate good, "
+        "coercive state power nevertheless applies to all, so making political "
+        "status depend on adherence to one faith converts dissenters into "
+        "unequal citizens while total immunity for communities leaves internal "
+        "domination unchallenged.",
+        "The conclusion is therefore two-sided: the state must refuse religious "
+        "qualifications for citizenship and must also regulate by publicly "
+        "defensible principles rather than either establishing a faith or "
+        "abandoning members of a faith to whatever their community does to "
+        "them.",
+        "Do not equate secularism with secularisation or with irreligion, and "
+        "do not treat toleration as sufficient: toleration is a permission "
+        "granted by the powerful and can survive alongside an establishment "
+        "that recognition and equal citizenship would not allow.",
+        "Political legitimacy that must be intelligible to citizens who share "
+        "no theology is itself a sectarian demand, because it silently ranks "
+        "secular reasons above religious ones and so fails the neutrality it "
+        "advertises.",
+        "The reply distinguishes neutrality of effect from neutrality of "
+        "justification. Secularism does not promise that public decisions will "
+        "leave all faiths equally satisfied; it promises that no decision will "
+        "assign superior civic worth to a faith. A religious citizen may "
+        "advance religious reasons in public deliberation, and the owner's own "
+        "Gandhian material shows that an ethical religious vocabulary can "
+        "discipline politics; what the doctrine forbids is a coercive law whose "
+        "only defence is that one faith commands it.",
+        "The reply leaves the boundary genuinely contested, since deciding "
+        "which justifications are publicly accessible is itself a judgment on "
+        "which reasonable citizens can differ, and the doctrine supplies no "
+        "algorithm for settling that.",
+        "Define secularism in one sentence, distinguish it from secularisation, "
+        "atheism, toleration and pluralism in one line each, expound the "
+        "five-step core argument, name the presupposition about intelligible "
+        "legitimacy, and close by stating what secularism protects rather than "
+        "what it abolishes.",
+        [
+            "Secularism: freedom of conscience, equal civic standing, no "
+            "religious qualification for citizenship, publicly justifiable "
+            "regulation.",
+            "Secularisation is sociological, atheism is theological, toleration "
+            "is a permission; secularism is political.",
+            "Core argument: reasonable disagreement, universal coercive power, "
+            "unequal citizenship if faith qualifies status, unchallenged "
+            "internal domination if communities are immune.",
+            "The doctrine is two-sided: it restrains the state and it refuses "
+            "immunity to domination inside communities.",
+            "Presupposition: legitimacy must be intelligible to citizens who do "
+            "not share a single theology.",
+        ],
+        [
+            visual(
+                "Four words that are constantly confused",
+                "One line each in the exam; getting the four apart is the "
+                "cheapest mark in this whole clause.",
+                "+---------------------+---------------------------------------------+",
+                "| TERM                | WHAT IT ACTUALLY ASSERTS                    |",
+                "+---------------------+---------------------------------------------+",
+                "| SECULARISATION      | a sociological process: religious authority |",
+                "|                     | declines or is transformed                  |",
+                "+---------------------+---------------------------------------------+",
+                "| ATHEISM             | a theological claim: God does not exist     |",
+                "+---------------------+---------------------------------------------+",
+                "| RELIGIOUS TOLERATION| a permission to dissent, compatible with an |",
+                "|                     | established religion                        |",
+                "+---------------------+---------------------------------------------+",
+                "| SECULARISM          | a political doctrine governing coercive     |",
+                "|                     | public power and religious freedom          |",
+                "+---------------------+---------------------------------------------+",
+                "| RELIGIOUS PLURALISM | the fact and/or the value of many religions |",
+                "+---------------------+---------------------------------------------+",
+                "CONTROL -> only the fourth row is about the STATE; the others are about",
+                "           society, about God, about permission and about diversity.",
+            ),
+            visual(
+                "The core argument, and why it cuts both ways",
+                "Both horns matter: an answer that gives only the first horn "
+                "has argued for a wall, not for secularism.",
+                "  (1) citizens REASONABLY DISAGREE about religion and ultimate good",
+                "                 |",
+                "                 v",
+                "  (2) coercive STATE POWER nevertheless applies to everyone",
+                "                 |",
+                "        +--------+---------+",
+                "        v                  v",
+                "  (3) IF political      (4) IF religious communities",
+                "      status depends        are WHOLLY IMMUNE from",
+                "      on one faith ->       public norms ->",
+                "      dissenters become     INTRA-religious domination",
+                "      UNEQUAL CITIZENS      goes unchallenged",
+                "        |                  |",
+                "        +--------+---------+",
+                "                 v",
+                "  (5) SO: protect conscience, refuse religious qualification for",
+                "      citizenship, and regulate by PUBLICLY JUSTIFIABLE principles",
+                "                 |",
+                "                 v",
+                "  PRESUPPOSITION -> legitimacy must be intelligible to citizens who do",
+                "                    not share a single theology.",
+            ),
+        ],
+    ),
+    session(
+        "Secularism II: Western Models and the Secularism-Pluralism Relation",
+        "There is no single Western model of secularism: states arrange "
+        "religion and public power along a spectrum running from a rigid wall "
+        "of separation, through a strong civic secularity, to models that "
+        "permit principled engagement, and each model buys a strength at the "
+        "price of a characteristic risk.",
+        "The spectrum is individuated by the central device each model uses: "
+        "strict separation relies on institutional distance; laicite relies on "
+        "a strong public-institutional secularity; non-establishment with free "
+        "exercise relies on a dual protection; equal respect relies on the "
+        "state refusing to rank faiths; and principled distance relies on "
+        "context-sensitive engagement or disengagement governed by liberty, "
+        "equality and anti-domination.",
+        "Secularism and religious pluralism are related but the relation is "
+        "contingent rather than necessary, because a religiously homogeneous "
+        "society still needs secular protection for its dissenters, a plural "
+        "society can remain non-secular when one religion enjoys political "
+        "supremacy, and secularism is what converts mere coexistence into norms "
+        "of conscience and equal citizenship.",
+        [
+            "strict separation as institutional distance",
+            "laicite as public-institutional secularity",
+            "non-establishment with free exercise",
+            "equal respect without ranking faiths",
+            "plurality against pluralism",
+            "device, strength and characteristic risk",
+        ],
+        "Name each model with its central device, its strength and its "
+        "characteristic risk instead of listing labels, place strict separation "
+        "and laicite at the distance end and equal respect near principled "
+        "engagement, then use the plurality-against-pluralism distinction to "
+        "settle any stem that asks whether secularism requires religious "
+        "pluralism.",
+        "Each model answers one question differently, namely what "
+        "non-establishment requires in practice, so strict separation treats "
+        "distance as uniform while the engaged models treat it as justified by "
+        "reasons that can be stated publicly.",
+        "The models are therefore not ranked from bad to good: institutional "
+        "clarity is bought at the cost of ignoring social inequality among "
+        "religions, and a common civic identity is bought at the cost of "
+        "burdening visible minorities.",
+        "Do not write that Western secularism is one model, and do not answer a "
+        "question about necessary relation with examples of peaceful "
+        "coexistence, because that trades a conceptual-entailment question for "
+        "a historical one.",
+        "If distance can be adjusted for principled reasons, the spectrum "
+        "collapses: every model becomes a matter of degree, and the engaged "
+        "models are indistinguishable in practice from opportunistic "
+        "intervention dressed in principle.",
+        "The reply insists that the difference is one of justification and not "
+        "of degree. Opportunistic intervention cites no public principle and "
+        "changes with political advantage; principled engagement must cite "
+        "liberty, equality or anti-domination and must be prepared to abstain "
+        "on the same grounds in a different case. The owner's warning is "
+        "precise and is not concealed: discretion is the price of flexibility, "
+        "so the model must specify who judges and on what principle.",
+        "The specification remains incomplete in the doctrine itself, and the "
+        "test therefore becomes institutional rather than philosophical, which "
+        "is exactly the residue an examiner rewards a candidate for naming.",
+        "Draw the spectrum, allot device, strength and risk to each model, "
+        "adjudicate the complete-separation stem by showing that strict "
+        "separation is one model rather than the meaning of secularism, and "
+        "settle the pluralism stem with the three decoupling cases before a "
+        "verdict that the relation is real but contingent.",
+        [
+            "Spectrum: strict separation, laicite, non-establishment with free "
+            "exercise, equal respect, principled distance.",
+            "Devices: institutional distance, public civic secularity, dual "
+            "protection, refusal to rank faiths, context-sensitive engagement.",
+            "Risks: ignoring social inequality, burdening visible minorities, "
+            "boundary disputes, indiscriminate appeasement, partisan "
+            "discretion.",
+            "Plurality is the fact of many religions; pluralism affirms their "
+            "right to coexist; secularism governs coercive public power.",
+            "Three decoupling cases: homogeneous society still needs "
+            "protection; plural society can be non-secular; secularism "
+            "converts coexistence into equal-citizenship norms.",
+        ],
+        [
+            visual(
+                "The secularism spectrum with device, strength and risk",
+                "Every secularism stem at fifteen or twenty marks can be built "
+                "from this one strip; never name a model without its risk.",
+                "MORE DISTANCE  <========================================>  MORE ENGAGED",
+                "  STRICT        LAICITE        NON-ESTABLISH-   EQUAL        PRINCIPLED",
+                "  SEPARATION                   MENT + FREE      RESPECT      DISTANCE",
+                "                               EXERCISE",
+                "  ---------------------------------------------------------------------",
+                "  DEVICE:",
+                "  institutional  strong public  no established   state ranks  engage OR",
+                "  distance       civic          religion +       no faith     abstain on",
+                "                 secularity     protected                     principle",
+                "                                practice",
+                "  ---------------------------------------------------------------------",
+                "  STRENGTH:",
+                "  guards against common civic   dual protection  fits a       meets inter-",
+                "  establishment   identity                       plural       AND intra-",
+                "                                                 society      religious",
+                "                                                              domination",
+                "  ---------------------------------------------------------------------",
+                "  RISK:",
+                "  ignores social  burdens        boundary         can become   discretion",
+                "  inequality      visible        disputes         indiscrim-   can turn",
+                "  among faiths    minorities     persist          inate        partisan",
+                "                                                  appeasement",
+            ),
+            visual(
+                "Plurality, pluralism, secularism: the three decoupling cases",
+                "The 2025 stem is a conceptual-entailment question; these three "
+                "cases are the argument, and the verdict is contingent relation.",
+                "PLURALITY  = several religions are present            (a FACT)",
+                "PLURALISM  = their right to coexist is affirmed       (a VALUE)",
+                "SECULARISM = how coercive public power must act       (a DOCTRINE)",
+                "        |",
+                "        v",
+                "  DECOUPLING CASE 1 -> a religiously HOMOGENEOUS society still needs",
+                "  secular protection for dissenters and non-believers.",
+                "        v",
+                "  DECOUPLING CASE 2 -> a PLURAL society can remain NON-SECULAR when one",
+                "  religion enjoys political supremacy.",
+                "        v",
+                "  DECOUPLING CASE 3 -> secularism CONVERTS coexistence into norms of",
+                "  conscience and equal citizenship; coexistence alone does not.",
+                "        |",
+                "        v",
+                "  VERDICT -> the link is real but CONTINGENT: secularism presupposes some",
+                "  diversity of conscience to regulate, yet it is a doctrine of state",
+                "  power and can protect a single dissenter where pluralism is absent.",
+            ),
+        ],
+    ),
+    session(
+        "Secularism III: Indian Secularism, Principled Distance and Its Critics",
+        "Indian secularism is best understood as a cluster rather than a single "
+        "rule: freedom of conscience, equal citizenship, non-theocracy, "
+        "protection of minority culture, and reform of practices that violate "
+        "constitutional norms.",
+        "Its signature device is Rajeev Bhargava's principled distance, which "
+        "rejects both a rigid wall and opportunistic intervention: the state "
+        "may abstain in order to protect autonomy or engage in order to secure "
+        "equal citizenship and reform oppressive practice, and the same "
+        "principles of liberty, equality and anti-domination govern abstention "
+        "and engagement alike, so that the doctrine addresses inter-religious "
+        "and intra-religious domination together.",
+        "Gandhi's secularism does not expel religion from public life but "
+        "disciplines politics by religion understood as ethical truth and "
+        "self-purification rather than sectarian command, and the argument runs "
+        "from the partiality of every human apprehension of truth, through the "
+        "wrongness of coercion in matters of conscience, to a non-sectarian "
+        "public religion that democracy can actually bear.",
+        [
+            "principled distance",
+            "abstain to protect, engage to reform",
+            "intra-religious domination",
+            "Gandhi's ethical and non-sectarian public religion",
+            "constitutional illustration, not proof",
+            "equal citizenship against permanent political rank",
+        ],
+        "Open with the Indian cluster, make principled distance the hinge by "
+        "showing that the state may abstain to protect and engage to reform, "
+        "use intra-religious domination to explain why a wall would not "
+        "suffice, expound Gandhi's non-sectarian public religion before "
+        "evaluating it, and keep every constitutional illustration explicitly "
+        "labelled as illustration and not as proof.",
+        "A religious claim is tested by asking whether it threatens equal "
+        "citizenship or liberty; if it does not, the state abstains; if it "
+        "does, the state asks whether the domination runs between communities "
+        "or inside one, and engages accordingly on a stated principle.",
+        "The result is a distance that is justified rather than uniform, which "
+        "is why an answer that reduces Indian secularism to indiscriminate "
+        "equal treatment has already lost the mark-bearing content.",
+        "Do not use the 1976 amendment or the 1994 judgment as a philosophical "
+        "premise: both are dated legal facts that illustrate "
+        "institutionalisation, while the justification still rests on "
+        "conscience, equality and non-domination.",
+        "Once the state is permitted to reform religious practice on principle, "
+        "it becomes the arbiter of what a religion may require of its own "
+        "members, so principled distance licenses precisely the state control "
+        "of religion that secularism was introduced to prevent.",
+        "The reply narrows the licence rather than denying it. The trigger is "
+        "not doctrinal error but domination, and the ground is equal "
+        "citizenship, so the state does not adjudicate theology; it adjudicates "
+        "the civic standing of persons who happen to be members. The owner also "
+        "answers the neighbouring objections in the same register: equal "
+        "respect does not prevent reform, neutrality means that no faith is "
+        "assigned superior civic worth rather than that no decision has "
+        "effects, and recognition is tested by whether it protects equal "
+        "citizenship or creates permanent political rank.",
+        "What survives is the discretion problem the owner itself names: "
+        "flexibility requires a judge, and the doctrine does not settle who "
+        "that judge is or how inconsistency between cases is to be corrected.",
+        "For Gandhi stems expound the five steps and then evaluate with the "
+        "majoritarian-symbol objection and the institutional supplement; for "
+        "Indian-secularism stems run the cluster, principled distance and the "
+        "four objections with replies; and route the Gandhi-Ambedkar "
+        "secular-democracy comparison as a contrast that belongs to the caste "
+        "owner rather than counting it here.",
+        [
+            "Indian cluster: conscience, equal citizenship, non-theocracy, "
+            "minority culture, reform of practices violating constitutional "
+            "norms.",
+            "Principled distance: abstain to protect autonomy, engage to secure "
+            "equal citizenship; meets inter- and intra-religious domination; "
+            "risk is partisan discretion.",
+            "Constitutional illustrations only: Articles 25-28, Articles 29-30, "
+            "the Forty-second Amendment of 1976, and the 1994 judgment treating "
+            "secularism as basic structure.",
+            "Gandhi: religions are partial apprehensions of truth; coercion "
+            "violates conscience; humility supports respect; democracy needs "
+            "non-violence and equal fellowship; so public religion must be "
+            "ethical and non-sectarian.",
+            "Four objections answered: Western import, equal respect prevents "
+            "reform, neutrality is impossible, recognition causes communal "
+            "politics.",
+            "Gandhi plus Ambedkar plus Bhargava is the Indian secular-democracy "
+            "triangle: fellowship, constitutional morality and institutional "
+            "distance.",
+        ],
+        [
+            visual(
+                "Principled distance as a decision procedure",
+                "Follow the branch and the answer writes itself: the same "
+                "principle governs both abstention and engagement.",
+                "                 A religious practice or claim",
+                "                             |",
+                "        Does it threaten equal citizenship, liberty,",
+                "                 or generate domination?",
+                "                   /                    \\",
+                "                 NO                     YES",
+                "                  |                      |",
+                "        ABSTAIN / DISENGAGE     Is the domination INTER-religious",
+                "        (protect autonomy;      (between groups) or INTRA-religious",
+                "        no interference in      (within a group, over its members)?",
+                "        internal religious          /               \\",
+                "        life)                 INTER-religious    INTRA-religious",
+                "                  |           protect equal      reform the",
+                "                  |           standing between   oppressive",
+                "                  |           faiths             practice",
+                "                  +---------------+-----------------+",
+                "                                  v",
+                "        DISTANCE IS JUSTIFIED, NOT UNIFORM: liberty, equality and",
+                "        anti-domination govern abstention and engagement alike.",
+            ),
+            visual(
+                "Gandhi's five steps, the objection and the supplement",
+                "Present the exposition first because the directive asks for "
+                "it; the objection and supplement then convert exposition into "
+                "evaluation.",
+                "  (1) religions contain PARTIAL human apprehensions of truth",
+                "                 v",
+                "  (2) COERCION in religion violates conscience",
+                "                 v",
+                "  (3) HUMILITY toward one's own faith supports respect for others",
+                "                 v",
+                "  (4) democracy requires NON-VIOLENCE and equal civic fellowship",
+                "                 v",
+                "  (5) THEREFORE public religion must be ETHICAL and NON-SECTARIAN",
+                "                 |",
+                "                 v",
+                "  OBJECTION -> a religious vocabulary in politics can privilege",
+                "  majoritarian symbols and exclude non-believers.",
+                "                 v",
+                "  REPLY -> Gandhi's own principle of equal conscience resists that",
+                "  privilege, BUT personal virtue is not an institution.",
+                "                 v",
+                "  SUPPLEMENT -> Bhargava's institutional secularism supplies the",
+                "  safeguards that individual virtue alone cannot guarantee.",
+            ),
+        ],
+    ),
+    session(
+        "Multiculturalism I: Recognition, Group-Differentiated Rights and Dialogue",
+        "Multiculturalism is both the descriptive fact of cultural diversity "
+        "and the normative claim that a just polity may owe public recognition, "
+        "accommodation or group-differentiated rights so that minorities enjoy "
+        "equal freedom and equal membership.",
+        "Its three principal arguments are distinct: Charles Taylor grounds "
+        "recognition in the dialogical formation of identity, so that "
+        "persistent misrecognition inflicts a genuine harm; Will Kymlicka "
+        "grounds group-differentiated rights in the dependence of individual "
+        "autonomy on access to a societal culture that supplies meaningful "
+        "options, and separates external protections from internal "
+        "restrictions; and Bhikhu Parekh rejects both cultural monism and "
+        "uncritical relativism in favour of intercultural dialogue between "
+        "internally plural cultures.",
+        "Recognition is not a courtesy added to equal citizenship: equal "
+        "dignity sometimes requires differentiated treatment rather than "
+        "formally identical treatment, because supposedly neutral institutions "
+        "carry the majority's language, calendar and history, so minorities pay "
+        "an unequal cost of assimilation that uniform rules cannot even see.",
+        [
+            "recognition and dialogical identity",
+            "misrecognition as genuine harm",
+            "societal culture and meaningful options",
+            "external protections",
+            "internal restrictions",
+            "intercultural dialogue",
+        ],
+        "Take Taylor's recognition premise first, convert it into Kymlicka's "
+        "institutional criterion by defending external protections and refusing "
+        "internal restrictions, add Parekh's intercultural dialogue as the "
+        "method that keeps a culture from being frozen, and make the societal "
+        "culture argument carry the weight of the claim that liberal equality "
+        "itself can support minority rights.",
+        "Identity is formed through social languages and recognition, "
+        "institutions are never culturally empty, and autonomy needs a context "
+        "of meaningful options, so equal membership can require public "
+        "recognition rather than mere non-interference.",
+        "Group-differentiated rights therefore divide sharply along one line: "
+        "protecting a minority against external pressure is defensible, while "
+        "authorising a group to restrict its own members' basic liberties is "
+        "not.",
+        "Do not treat multiculturalism as mere demographic diversity, and never "
+        "defend group rights without addressing internal restrictions, gender "
+        "and exit, because that omission is the single commonest reason such "
+        "answers are marked down.",
+        "State recognition freezes fluid identities and hands authority to "
+        "community elites, so a policy introduced to secure equal membership "
+        "produces an official version of a culture that its own dissenters must "
+        "then live under.",
+        "The reply accepts the danger and builds the remedy into the criterion. "
+        "Recognition must remain revisable, internally democratic and "
+        "compatible with individual dissent and exit; Parekh's dialogical "
+        "method treats cultures as internally plural and mutually revisable, "
+        "which is precisely a refusal of any authorised version; and "
+        "Kymlicka's line against internal restrictions denies elites the power "
+        "the objection fears. Rights should protect persons and evolving "
+        "practices rather than an authorised text of a culture.",
+        "The boundary between an external protection and an internal "
+        "restriction is contested in practice, and communities themselves "
+        "dispute which category a given claim falls into, so the criterion "
+        "sorts clear cases decisively and hard cases only partially.",
+        "Define the descriptive and normative dimensions, expound Taylor, "
+        "Kymlicka and Parekh as three different jobs rather than three names, "
+        "deploy the external-protection and internal-restriction line as the "
+        "sharpest institutional criterion available, and close with a verdict "
+        "that recognition owed to a community is never endorsement of that "
+        "community's treatment of its own members.",
+        [
+            "Descriptive multiculturalism reports diversity; normative "
+            "multiculturalism asks what recognition or accommodation is just.",
+            "Taylor: identity is dialogically formed, so persistent "
+            "misrecognition is a real injury, not hurt feelings.",
+            "Kymlicka: autonomy depends on a societal culture supplying "
+            "meaningful options, so liberal equality can support minority "
+            "rights.",
+            "External protections shield a minority from majority decisions; "
+            "internal restrictions constrain a group's own members and are "
+            "refused.",
+            "Parekh: cultures are internally plural and learn through dialogue; "
+            "neither monism nor uncritical relativism.",
+            "Tolerance restrains coercion, coexistence is peaceful shared life, "
+            "recognition affirms equal standing and may require accommodation.",
+        ],
+        [
+            visual(
+                "Three thinkers, three distinct jobs",
+                "Do not list the names; assign each one the job it actually "
+                "does, because the marks sit in the division of labour.",
+                "                    THE MULTICULTURAL CLAIM",
+                "                              |",
+                "   +--------------------------+--------------------------+",
+                "   v                          v                          v",
+                "TAYLOR                    KYMLICKA                    PAREKH",
+                "PREMISE                   INSTITUTIONAL FORM          METHOD",
+                "identity is               autonomy needs a            cultures are",
+                "dialogically formed;      SOCIETAL CULTURE that       internally plural",
+                "misrecognition is a       supplies meaningful         and learn through",
+                "real injury               options                     DIALOGUE",
+                "   |                          |                          |",
+                "   v                          v                          v",
+                "equal dignity needs       EXTERNAL PROTECTIONS -> yes  neither monism",
+                "more than formally        INTERNAL RESTRICTIONS -> no  nor uncritical",
+                "identical treatment                                    relativism",
+                "   |                          |                          |",
+                "   +--------------------------+--------------------------+",
+                "                              v",
+                "CONTROL -> Taylor supplies the premise, Kymlicka the criterion, Parekh",
+                "           the method; an answer missing any one of the three is thin.",
+            ),
+            visual(
+                "From tolerance to recognition, and the four dimensions",
+                "The 2024 tolerance-and-coexistence stem and the 2019 and 2022 "
+                "descriptive-normative stems both live in this panel.",
+                "  TOLERANCE ------> COEXISTENCE ------> RECOGNITION",
+                "  restrains         peaceful shared     affirms equal standing;",
+                "  coercion          life                may require institutional",
+                "  against what                          accommodation",
+                "  one disapproves",
+                "        |",
+                "  LIMIT -> tolerance is necessary but can be HIERARCHICAL: the powerful",
+                "           'permit' the weak. Maturity moves from permission to equal",
+                "           citizenship and reciprocal recognition.",
+                "",
+                "+---------------+------------------------------+---------------------+",
+                "| DIMENSION     | QUESTION                     | EXAMPLE             |",
+                "+---------------+------------------------------+---------------------+",
+                "| DESCRIPTIVE   | are several communities      | linguistic and      |",
+                "|               | present?                     | religious diversity |",
+                "+---------------+------------------------------+---------------------+",
+                "| NORMATIVE     | what accommodation is just?  | language rights,    |",
+                "|               |                              | minority institutions|",
+                "+---------------+------------------------------+---------------------+",
+                "| INSTITUTIONAL | through which legal forms?   | federalism, cultural|",
+                "|               |                              | rights, representation|",
+                "+---------------+------------------------------+---------------------+",
+                "| CRITICAL      | when does recognition protect| hierarchy defended  |",
+                "|               | domination within groups?    | as tradition        |",
+                "+---------------+------------------------------+---------------------+",
+            ),
+        ],
+    ),
+    session(
+        "Multiculturalism II: India, Globalisation, Feminism and the Objections",
+        "The structural characteristics that make a nation multicultural are "
+        "institutional rather than merely demographic: plural societal cultures "
+        "that supply meaningful options to their members, institutional "
+        "accommodation of those cultures, and a public culture in which "
+        "recognition is contested and revisable.",
+        "Applied to India the philosophical question is not whether diversity "
+        "exists but how equal citizenship can coexist with community-specific "
+        "protection, so linguistic federalism, the constitutional protection of "
+        "minority cultural and educational interests, personal-law pluralism "
+        "and differentiated arrangements for tribal self-government are read as "
+        "institutional illustrations of accommodation and of its costs, never "
+        "as proof that a philosophical thesis is true.",
+        "Globalisation and multiculturalism stand in a two-way relation rather "
+        "than a simple opposition, because global flows pluralise societies and "
+        "generate hybrid identities while perceived cultural loss intensifies "
+        "demands for recognition, and transnational norms can empower "
+        "minorities even as global markets commodify culture and deepen "
+        "asymmetries.",
+        [
+            "structural characteristics of a multicultural nation",
+            "plural societal cultures",
+            "institutional accommodation",
+            "hybridity and contested translation",
+            "minorities within minorities",
+            "essentialism and majority invisibility",
+        ],
+        "Answer a structural-characteristics stem with plural societal "
+        "cultures, institutional accommodation and a revisable public culture "
+        "rather than a catalogue of diversity, treat globalisation through "
+        "hybridity and contested translation in both directions, and let the "
+        "minorities-within-minorities problem, essentialism and majority "
+        "invisibility supply the critical section.",
+        "Global markets and migration pluralise societies while also "
+        "homogenising, so cultural change is neither simple Westernisation nor "
+        "untouched preservation but a contested translation carried out under "
+        "unequal power.",
+        "The standing danger is therefore internal rather than external: group "
+        "rights can protect patriarchal or hierarchical practice inside a "
+        "minority, which is why the question of who speaks for a culture "
+        "decides how much recognition is owed.",
+        "Do not treat caste hierarchy as benign cultural diversity, and do not "
+        "reply to the feminist objection by asserting that cultures are "
+        "internally contested without saying what institutional difference that "
+        "contestation makes.",
+        "Group rights may protect patriarchal practices inside minorities, so a "
+        "policy of recognition can purchase a community's standing against "
+        "external prejudice with the freedom of its women and its lower-status "
+        "members, which asks who speaks for the culture and who bears the cost "
+        "of preserving it.",
+        "The reply refuses both forced assimilation and uncritical "
+        "accommodation. Cultures are internally contested rather than owned by "
+        "male elites; women in minority communities need protection from "
+        "external prejudice and freedom from internal domination at the same "
+        "time; and representation, voice, exit and reform are institutionally "
+        "available answers that assimilation would destroy while immunity would "
+        "entrench. The transformative move is to change the value patterns that "
+        "block equal standing, including standing inside the group.",
+        "Fragmentation and relativism remain live: fair recognition can deepen "
+        "allegiance, and dignity, bodily integrity, voice and non-domination "
+        "supply cross-cultural critical standards, yet the interpretation of "
+        "those standards stays dialogical and therefore unfinished.",
+        "For India stems, convert the diversity catalogue into structural "
+        "characteristics and name the equal-citizenship problem; for "
+        "globalisation stems, run the two-way relation; and for critical stems, "
+        "give relativism, fragmentation, essentialism and majority invisibility "
+        "one objection-reply chain each and close on internal restrictions.",
+        [
+            "Structural characteristics: plural societal cultures, "
+            "institutional accommodation, contested and revisable public "
+            "recognition.",
+            "Indian illustrations only: linguistic federalism, constitutional "
+            "protection of minority cultural and educational interests, "
+            "personal-law pluralism, tribal self-government arrangements.",
+            "Globalisation is two-way: pluralisation and hybridity against "
+            "homogenising markets and defensive identity politics.",
+            "Okin's challenge: group rights may protect patriarchal practice; "
+            "ask who speaks for the culture and who bears the cost.",
+            "Four objections: relativism, fragmentation, essentialism, majority "
+            "invisibility, each with its reply and residue.",
+            "Caste hierarchy is a domination question owned by the caste file "
+            "and is never treated as benign cultural diversity.",
+        ],
+        [
+            visual(
+                "Globalisation and multiculturalism: a two-way relation",
+                "The 2018 twenty-mark stem asks how the relationship affects "
+                "cultural change; run both arrows and end on contested "
+                "translation.",
+                "        GLOBAL FLOWS (migration, communication, exchange)",
+                "                 |                              ^",
+                "                 v                              |",
+                "  (1) societies PLURALISE; hybrid identities    (2) perceived cultural",
+                "      form                                          LOSS intensifies",
+                "                 |                                  demands for",
+                "                 v                                  RECOGNITION",
+                "  (3) transnational norms can EMPOWER minorities     |",
+                "                 |                                  |",
+                "                 v                                  |",
+                "  (4) global markets COMMODIFY culture and deepen ---+",
+                "      asymmetries",
+                "                 |",
+                "                 v",
+                "  RESULT -> cultural change is neither simple Westernisation nor",
+                "  untouched preservation; it is CONTESTED TRANSLATION under unequal",
+                "  power, which is exactly the phrase the stem is looking for.",
+            ),
+            visual(
+                "Four standing objections and their replies",
+                "Each row is a complete evaluative unit; two rows are enough at "
+                "fifteen marks, four at twenty.",
+                "+------------------+---------------------------+---------------------+",
+                "| OBJECTION        | BEST REPLY                | RESIDUAL DANGER     |",
+                "+------------------+---------------------------+---------------------+",
+                "| RELATIVISM:      | dignity, bodily integrity,| interpretation      |",
+                "| criticism becomes| voice and non-domination  | remains dialogical  |",
+                "| impossible       | are cross-cultural        | and unfinished      |",
+                "|                  | standards                 |                     |",
+                "+------------------+---------------------------+---------------------+",
+                "| FRAGMENTATION:   | fair recognition deepens  | elite capture of    |",
+                "| group rights     | allegiance by removing    | the group's voice   |",
+                "| weaken common    | assimilation as the price |                     |",
+                "| citizenship      | of membership             |                     |",
+                "+------------------+---------------------------+---------------------+",
+                "| ESSENTIALISM:    | protect persons and       | who certifies which |",
+                "| cultures treated | evolving practices, not   | practice is         |",
+                "| as timeless      | an authorised version     | authentic?          |",
+                "+------------------+---------------------------+---------------------+",
+                "| MAJORITY         | subject majority          | the majority rarely |",
+                "| INVISIBILITY:    | institutions to the same  | experiences itself  |",
+                "| only minorities  | scrutiny                  | as cultural         |",
+                "| look 'cultural'  |                           |                     |",
+                "+------------------+---------------------------+---------------------+",
+            ),
+        ],
+    ),
+    session(
+        "Recognition and Redistribution: Fraser, Honneth and the Two Grammars "
+        "of Justice",
+        "Injustice can be described in two grammars: maldistribution, which "
+        "locates the wrong in the economic structure and remedies it by "
+        "redistributing resources, and misrecognition, which locates the wrong "
+        "in institutionalised patterns of cultural value and remedies it by "
+        "changing what a society esteems.",
+        "Nancy Fraser defends a perspectival dualism in which the two "
+        "dimensions are irreducible but are adjudicated by one standard, parity "
+        "of participation, requiring jointly an objective condition of material "
+        "independence and an intersubjective condition of equal respect; Axel "
+        "Honneth treats recognition as the deeper moral grammar, identifying "
+        "love, rights and solidarity as three spheres that build "
+        "self-confidence, self-respect and self-esteem, each with its own form "
+        "of disrespect.",
+        "Recognition and redistribution are analytically distinct and "
+        "practically entangled: misrecognition frequently causes and is "
+        "reinforced by maldistribution, yet each can persist without the other, "
+        "so a remedy that addresses only one dimension will under-perform on "
+        "any question that joins culture to inequality.",
+        [
+            "maldistribution",
+            "misrecognition and status subordination",
+            "parity of participation",
+            "objective and intersubjective conditions",
+            "affirmative against transformative remedies",
+            "spheres of recognition",
+        ],
+        "Set maldistribution against misrecognition as two grammars with "
+        "different locations and different remedies, introduce parity of "
+        "participation with both its objective and intersubjective conditions "
+        "as the single adjudicating standard, use the affirmative and "
+        "transformative distinction to answer group-rights and gender stems, "
+        "and let Honneth's spheres explain the motivation that an institutional "
+        "account leaves unexplained.",
+        "Redistribution often requires dissolving a group as a distinct "
+        "category while recognition often requires affirming its distinctness, "
+        "so a single programme can appear to affirm the very identity it is "
+        "also trying to abolish, and naming that tension is the highest-yield "
+        "move on any culture-and-inequality stem.",
+        "Because a well-paid group can be despised and a respected group can be "
+        "poor, neither grammar reduces to the other, and a one-dimensional "
+        "theory of justice will systematically misdiagnose one of the two "
+        "wrongs.",
+        "Do not settle the dispute by writing that both dimensions matter, "
+        "because that states no position at all; the defensible claim is the "
+        "stronger one that the two are distinct yet entangled, so a "
+        "single-dimension remedy under-performs.",
+        "A status-based institutional criterion cannot explain the depth of the "
+        "injury of contempt, which is felt as damage to the self rather than as "
+        "exclusion from a procedure, while a recognition-first account risks "
+        "psychologising impersonal economic mechanisms that devastate groups "
+        "without anyone withholding esteem.",
+        "Each side has a reply and each reply leaves a residue. Fraser can "
+        "answer that justice concerns institutionalised relations rather than "
+        "psychological states, and that grounding claims in self-realisation "
+        "would make justice depend on contested accounts of the good life; the "
+        "residue is a thinner account of why contempt wounds. Honneth can "
+        "answer that what counts as a productive contribution is itself a "
+        "culturally instituted evaluation; the residue is that recognition then "
+        "stretches until it covers everything and thereby explains less.",
+        "Neither reply produces a decision procedure for a contested case, so "
+        "the adjudication in an answer must be stated as a graded verdict about "
+        "entanglement rather than as a proof that one grammar is fundamental.",
+        "Open with the two grammars in a table, introduce parity of "
+        "participation and its two conditions, run one Fraser-Honneth objection "
+        "and reply with its residue, add the affirmative and transformative "
+        "distinction where the stem touches group rights or gender, and close "
+        "with the entanglement verdict rather than a balanced non-answer.",
+        [
+            "Two grammars: maldistribution in the economic structure against "
+            "misrecognition in institutionalised patterns of cultural value.",
+            "Collectivity differs: a class defined by position in production "
+            "against a status group defined by esteem and standing.",
+            "Parity of participation: all adult members must be able to "
+            "interact as peers, on an objective and an intersubjective "
+            "condition.",
+            "Affirmative remedies correct outcomes and can mark beneficiaries "
+            "as deficient; transformative remedies restructure the generating "
+            "framework.",
+            "Honneth's three spheres: love builds self-confidence, rights build "
+            "self-respect, solidarity builds self-esteem, each with its "
+            "disrespect.",
+            "Fraser answers Okin: what is owed is transformation of value "
+            "patterns, including standing inside the group, not endorsement of "
+            "a group's self-description.",
+        ],
+        [
+            visual(
+                "Two grammars of injustice",
+                "Whenever a stem joins culture to inequality, put this table "
+                "down first and the rest of the answer becomes an adjudication.",
+                "+----------------+-----------------------------+---------------------+",
+                "|                | REDISTRIBUTION GRAMMAR      | RECOGNITION GRAMMAR |",
+                "+----------------+-----------------------------+---------------------+",
+                "| INJUSTICE IS   | maldistribution:            | misrecognition:     |",
+                "|                | exploitation, deprivation   | stigma, status      |",
+                "|                | and marginalisation         | subordination       |",
+                "+----------------+-----------------------------+---------------------+",
+                "| LOCATED IN     | the economic structure      | institutionalised   |",
+                "|                |                             | patterns of value   |",
+                "+----------------+-----------------------------+---------------------+",
+                "| COLLECTIVITY   | a class, by position in     | a status group, by  |",
+                "|                | production                  | esteem and standing |",
+                "+----------------+-----------------------------+---------------------+",
+                "| REMEDY         | redistribute; restructure   | revalue the identity|",
+                "|                | the division of labour      | or transform the    |",
+                "|                |                             | value patterns      |",
+                "+----------------+-----------------------------+---------------------+",
+                "| RISK IF ALONE  | economism: stigma read as a | culturalism:        |",
+                "|                | reflex of poverty           | identity celebrated,|",
+                "|                |                             | hierarchy untouched |",
+                "+----------------+-----------------------------+---------------------+",
+            ),
+            visual(
+                "Parity of participation against the three spheres",
+                "The dispute is about whether recognition is one dimension or "
+                "the deeper grammar; take a side and name the residue.",
+                "FRASER                                   HONNETH",
+                "perspectival DUALISM                     recognition is FOUNDATIONAL",
+                "   |                                        |",
+                "   v                                        v",
+                "PARITY OF PARTICIPATION                  THREE SPHERES OF RECOGNITION",
+                "all adults interact as PEERS             LOVE      -> self-confidence",
+                "   |                                     RIGHTS    -> self-respect",
+                "   +-- OBJECTIVE condition:              SOLIDARITY-> self-esteem",
+                "       material independence and voice      |",
+                "   +-- INTERSUBJECTIVE condition:           v",
+                "       institutionalised equal respect   DISRESPECT in each sphere",
+                "   |                                     motivates social STRUGGLE",
+                "   v",
+                "AFFIRMATIVE remedy -> corrects outcomes, leaves the framework, can",
+                "                      mark beneficiaries as deficient",
+                "TRANSFORMATIVE remedy -> restructures the framework that generates",
+                "                      the inequality",
+                "   |                                        |",
+                "   +-------------------+--------------------+",
+                "                       v",
+                "VERDICT -> distinct yet entangled: a remedy addressing only one",
+                "           dimension under-performs. Saying 'both matter' is not a",
+                "           position; saying which wrong survives which remedy is.",
+            ),
+        ],
+    ),
+    session(
+        "Synthesis and Limits: The Anthropocentric Boundary, Debates, "
+        "Criticisms and Traps",
+        "The three named doctrines form one argument: humanism supplies a "
+        "universal moral floor, secularism sets fair public terms among faiths, "
+        "and multiculturalism secures recognition for cultural difference, with "
+        "the shared limit that no culture may place domination beyond "
+        "criticism.",
+        "The synthesis is unstable in a productive way, because humanism "
+        "without pluralism can homogenise, pluralism without a humanist floor "
+        "can excuse oppression, and secularism mediates by protecting "
+        "conscience while making public power answerable to equal citizenship; "
+        "the whole structure is nevertheless species-bounded, since every "
+        "doctrine in the clause takes the human as the unit of moral concern.",
+        "Every stem in this clause is answered by specifying limits rather than "
+        "by affirming values, so an answer that never states what humanism, "
+        "secularism or multiculturalism cannot do has expounded a doctrine "
+        "without evaluating it, and the anthropocentric boundary is the limit "
+        "an examiner most often finds concealed.",
+        [
+            "universal dignity against homogenisation",
+            "fair public terms among faiths",
+            "recognised difference",
+            "anthropocentric boundary",
+            "instrumental, relational and extensional replies",
+            "limit-specifying verdict",
+        ],
+        "Join the three doctrines into one argument, show that universal "
+        "dignity, fair public terms and recognised difference constrain each "
+        "other rather than merely coexist, state the anthropocentric boundary "
+        "openly, rank the instrumental, relational and extensional replies, and "
+        "finish with a limit-specifying verdict instead of a celebration.",
+        "Each doctrine repairs a failure of the others: the humanist floor "
+        "stops recognition from immunising domination, secular equal "
+        "citizenship stops the floor from being administered by one faith, and "
+        "recognition stops universal citizenship from becoming an assimilating "
+        "uniformity.",
+        "The three therefore conflict in predictable places, and an answer "
+        "earns marks by naming the conflict rather than by announcing a "
+        "harmony that the doctrines do not actually possess.",
+        "Do not conceal the species boundary, and do not let the ecological "
+        "reconstruction pass without noting that the strongest reply gives up "
+        "the species-centred criterion and so gives up the name it defends.",
+        "Humanism does not merely omit non-human nature; it can positively "
+        "license domination, because if dignity attaches to rational "
+        "self-legislating agents then beings that are not such agents fall "
+        "outside the moral community by construction rather than by oversight.",
+        "There are three replies of ascending strength and the ranking must be "
+        "stated. The instrumental reply notes that ecological destruction harms "
+        "human beings, which preserves anthropocentrism and merely extends its "
+        "reach, and it should be labelled the weakest. The relational reply "
+        "holds that human flourishing is constituted rather than merely "
+        "supported by relations with living systems, so ecological care is "
+        "internal to dignity. The extensional reply observes that the criterion "
+        "grounding human dignity, the capacity to be harmed and to have a life "
+        "that goes better or worse, is not confined to human beings.",
+        "The extensional reply concedes that the name humanism no longer fits "
+        "the position it defends, so the honest options are a reconstruction "
+        "that abandons the species-centred criterion or a retention that "
+        "accepts a limit it cannot argue away.",
+        "Use this session as the closing move of any twenty-mark answer: state "
+        "the synthesis triangle, run one inter-thinker debate such as Roy "
+        "against Gandhi, strict separation against principled distance, or "
+        "uniform-rights liberalism against recognition, then state the "
+        "anthropocentric limit and deliver a graded verdict that preserves "
+        "universal dignity while bounding both state power and community power.",
+        [
+            "Synthesis triangle: universal dignity, fair public terms and "
+            "recognised difference, each constraining the others.",
+            "Master thesis: humanism without pluralism homogenises; pluralism "
+            "without a humanist floor excuses oppression; secularism mediates.",
+            "Inter-thinker debates: Roy against Gandhi, Tagore against narrow "
+            "nationalism, principled distance against strict separation, "
+            "recognition against uniform-rights liberalism.",
+            "Anthropocentric limit: three replies ranked instrumental, "
+            "relational, extensional; the strongest concedes the name.",
+            "Ten traps, including humanism as atheism, secularism as "
+            "secularisation, one Western model, and using 1976 or 1994 as "
+            "proof.",
+            "Verdict formulas: limit-specifying, two-dimension, model-choice, "
+            "internal-limit, asymmetric and reconstruction verdicts.",
+        ],
+        [
+            visual(
+                "The synthesis triangle and its shared limit",
+                "This is the closing paragraph of almost every twenty-mark "
+                "answer in the clause: three constraints, one shared limit.",
+                "                     UNIVERSAL HUMAN DIGNITY",
+                "                     (humanism: the moral FLOOR)",
+                "                          /            \\",
+                "        stops recognition/              \\ can homogenise unless",
+                "        immunising      /                \\ difference is recognised",
+                "        domination     /                  \\",
+                "                      v                    v",
+                "   SECULAR EQUAL CITIZENSHIP <------> RECOGNISED DIFFERENCE",
+                "   (secularism: fair public         (multiculturalism: the",
+                "    TERMS among faiths)              policy FORM)",
+                "        ^                                  ^",
+                "        |  stops the floor being           |  stops citizenship",
+                "        |  administered by one faith       |  becoming assimilation",
+                "        +----------------------------------+",
+                "                          |",
+                "                          v",
+                "  SHARED LIMIT -> no culture, and no state, may place domination",
+                "                  beyond criticism.",
+            ),
+            visual(
+                "The anthropocentric boundary: three replies, ranked",
+                "State the limit rather than concealing it, and rank the "
+                "replies; the strongest reply is also the most costly.",
+                "  OBJECTION -> if dignity attaches to RATIONAL SELF-LEGISLATING AGENTS,",
+                "  non-agents fall outside the moral community BY CONSTRUCTION.",
+                "        |",
+                "        v",
+                "  (1) INSTRUMENTAL  -> ecological damage harms human beings, so protect",
+                "      [WEAKEST]        ecosystems. Preserves anthropocentrism; merely",
+                "                       extends its reach. Label it as weakest.",
+                "        v",
+                "  (2) RELATIONAL    -> human flourishing is CONSTITUTED by relations with",
+                "                       living systems, so ecological care is INTERNAL to",
+                "                       dignity rather than added to it.",
+                "        v",
+                "  (3) EXTENSIONAL   -> the criterion grounding dignity (capacity to be",
+                "      [STRONGEST]      harmed; a life that can go better or worse) is not",
+                "                       confined to human beings.",
+                "        |",
+                "        v",
+                "  UNRESOLVED RESIDUE -> reply (3) concedes that the NAME 'humanism' no",
+                "  longer fits the position defended. Either reconstruct ecologically and",
+                "  give up the species-centred criterion, or keep the criterion and accept",
+                "  a limit that cannot be argued away.",
+                "  ROUTE -> the anthropocentric-biocentric-ecocentric spectrum, shallow and",
+                "  deep ecology and intergenerational justice belong to the Development",
+                "  owner; name the limit here and do not develop that file's content.",
+            ),
+        ],
+    ),
+)
+
+
+ASCII_PANELS = (
+                  {
+                      "title": (
+                          "The central question of the clause and what humanism places at "
+                          "the centre"
+                      ),
+                      "structural_type": "root-question-and-human-dignity-argument",
+                      "sessions": [1],
+                      "lines": [
+                          "CENTRAL QUESTION -> how can the equal worth of every human being survive in a",
+                          "                    world of many religions and many cultures?",
+                          "        |",
+                          "        v",
+                          "THREE DOCTRINES ANSWER IT IN TURN, AND EACH CONSTRAINS THE OTHERS",
+                          "  HUMANISM        -> every person has worth, reason, agency   (moral FLOOR)",
+                          "  SECULARISM      -> fair public terms among faiths           (state POSTURE)",
+                          "  MULTICULTURALISM-> recognition and accommodation of culture (policy FORM)",
+                          "  SHARED LIMIT    -> no culture and no state may place domination beyond",
+                          "                     criticism",
+                          "        |",
+                          "        v",
+                          "WHAT HUMANISM CENTRES ON THE PERSON (an end, never a mere instrument)",
+                          "  +-----------+-----------+-----------+-------------------+",
+                          "  v           v           v           v",
+                          "DIGNITY     REASON      AGENCY     FLOURISHING",
+                          "worth not   critical    responsible this-worldly realisation",
+                          "from birth  inquiry and self-       of human capacities",
+                          "or rank     self-       direction",
+                          "            correction",
+                          "  +-----------+-----------+-----------+---> JOINED TO RESPONSIBILITY AND LIMITS",
+                          "        |",
+                          "        v",
+                          "FIVE-STEP ARGUMENT (reproduce as numbered premises)",
+                          "  (1) persons share suffering, agency, dependence, creativity, vulnerability",
+                          "  (2) institutions act inside that shared human world and shape flourishing",
+                          "  (3) authority must be justified in terms accessible to human reason",
+                          "  (4) no person may be a mere instrument of church, state, caste or market",
+                          "  (5) education, criticism and free inquiry are conditions of self-development",
+                          "CONTROL -> humanism is NOT atheism, NOT anthropocentrism, NOT humanitarian",
+                          "           relief and NOT a list of legal rights; it grounds why a person counts.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Genealogy of humanism: Renaissance cultivation, Enlightenment "
+                          "shifts and the branches"
+                      ),
+                      "structural_type": "genealogy-timeline-and-forms-taxonomy",
+                      "sessions": [2],
+                      "lines": [
+                          "RENAISSANCE HUMANISM -> classical learning, rhetoric, history, cultivated",
+                          "                        human capacity; often Christian; risk: elitist",
+                          "        |",
+                          "        v",
+                          "ENLIGHTENMENT RADICALISATION -> five shifts that pave the way",
+                          "  (1) authority moves from INHERITED STATUS to REASONED JUSTIFICATION",
+                          "  (2) scientific inquiry breaks an EPISTEMIC MONOPOLY",
+                          "  (3) conscience and toleration weaken COMPULSORY RELIGIOUS UNIFORMITY",
+                          "  (4) natural-right and autonomy traditions UNIVERSALISE moral standing",
+                          "  (5) EDUCATION becomes a means of emancipation",
+                          "        |",
+                          "        v",
+                          "QUALIFICATION -> decisive modern articulation, NOT the sole source. Stoic",
+                          "  cosmopolitanism, religious traditions, devotional egalitarian impulses and",
+                          "  Indian reform traditions also supply human-centred resources.",
+                          "        |",
+                          "        v",
+                          "BRANCHES SORTED BY GROUND OF DIGNITY (ground -> religion -> risk)",
+                          "  +-- SECULAR / SCIENTIFIC : naturalistic inquiry and welfare -> rejects",
+                          "  |     supernatural authority -> risk of SCIENTISM",
+                          "  +-- RELIGIOUS            : divine or spiritual worth in service -> religion",
+                          "  |     deepens human concern -> risk of PATERNALISM",
+                          "  +-- MARXIST              : creative social SPECIES-BEING, overcoming",
+                          "  |     alienation -> religion read through material suffering -> contested",
+                          "  |     inside Marxism",
+                          "  +-- RADICAL (M. N. ROY)  : sovereignty of the rational individual ->",
+                          "        secular -> risk of understating structural power",
+                          "CONTROL -> a which-form stem is answered by CHOOSING a ground and OWNING its",
+                          "           named risk, never by listing every branch without adjudication.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Indian humanism: Tagore, Gandhi, Vivekananda and M. N. Roy on one "
+                          "dignity"
+                      ),
+                      "structural_type": "indian-humanism-comparison-matrix",
+                      "sessions": [3],
+                      "lines": [
+                          "ONE DIGNITY, FOUR GROUNDS -> compare down the same axes, never in sequence",
+                          "+---------------+------------------+-------------------+-------------------+",
+                          "| AXIS          | TAGORE           | GANDHI            | M. N. ROY         |",
+                          "+---------------+------------------+-------------------+-------------------+",
+                          "| GROUND        | creative relation| spiritual unity,  | naturalistic      |",
+                          "|               | to universal     | truth and non-    | reason and        |",
+                          "|               | humanity         | violence          | individual        |",
+                          "|               |                  |                   | autonomy          |",
+                          "+---------------+------------------+-------------------+-------------------+",
+                          "| RELIGION      | spiritual depth  | religion as       | rejects           |",
+                          "|               | and critical     | ethical discipline| supernatural      |",
+                          "|               | reason coexist   | of politics       | authority         |",
+                          "+---------------+------------------+-------------------+-------------------+",
+                          "| POLITICS      | anti-nationalism,| self-rule         | organised         |",
+                          "|               | civilisational   | (swaraj),         | participatory     |",
+                          "|               | exchange         | constructive work | democracy         |",
+                          "+---------------+------------------+-------------------+-------------------+",
+                          "| OBJECTION     | too inward for   | moral regeneration| reason is socially|",
+                          "|               | graded hierarchy | without structural| conditioned       |",
+                          "|               |                  | remedy            |                   |",
+                          "+---------------+------------------+-------------------+-------------------+",
+                          "VIVEKANANDA -> divine potential of the person expressed as SERVICE to humanity;",
+                          "  broadens humanism beyond anti-religious secularism, but its spiritual",
+                          "  metaphysics differs from Roy's naturalism.",
+                          "        v",
+                          "TAGORE'S ARGUMENT -> the isolated ego is INCOMPLETE; creative self-expression",
+                          "  already presupposes language, relation and a shared world; so universal",
+                          "  humanity is a DIMENSION of fulfilled personhood, not an external abstraction.",
+                          "COMMON POINT -> no collective idol may extinguish the person.",
+                          "ROUTE -> for graded status and structural hierarchy use Ambedkar; the caste",
+                          "         doctrine is owned by the Caste file and is not re-expounded here.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Secular, secularisation, secularism: the classification and the "
+                          "core argument"
+                      ),
+                      "structural_type": "secular-secularisation-secularism-classification-tree",
+                      "sessions": [4],
+                      "lines": [
+                          "ROOT DISTINCTION -> which of these is a claim about the STATE?",
+                          "        |",
+                          "  +-----+---------+-----------+--------------+--------------+",
+                          "  v               v           v              v              v",
+                          "SECULARISATION  ATHEISM   TOLERATION    SECULARISM    RELIGIOUS PLURALISM",
+                          "sociological    God does  permission    political     the fact and/or value",
+                          "decline or      not exist to dissent;   doctrine on   of several religions",
+                          "transformation            compatible    coercive",
+                          "of religious              with an       public power",
+                          "authority                 establishment",
+                          "  |               |           |              |              |",
+                          "  +---------------+-----------+--------------+--------------+",
+                          "                              v",
+                          "ONLY SECULARISM IS A DOCTRINE OF PUBLIC POWER",
+                          "        |",
+                          "        v",
+                          "CORE ARGUMENT, AND IT CUTS BOTH WAYS",
+                          "  (1) citizens REASONABLY DISAGREE about religion and ultimate good",
+                          "  (2) coercive STATE POWER applies to everyone alike",
+                          "        |",
+                          "  +-----+-------------------------------+",
+                          "  v                                     v",
+                          "(3) IF status depends on one faith ->  (4) IF communities are WHOLLY IMMUNE ->",
+                          "    dissenters become UNEQUAL              INTRA-RELIGIOUS domination goes",
+                          "    CITIZENS                               unchallenged",
+                          "  +-----+-------------------------------+",
+                          "        v",
+                          "  (5) protect conscience, refuse religious qualification for citizenship,",
+                          "      regulate by PUBLICLY JUSTIFIABLE principles",
+                          "PRESUPPOSITION -> legitimacy must be intelligible to citizens who share no",
+                          "                  single theology. TRAP -> secularism is not secularisation.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "The Western model spectrum and the plurality-pluralism-secularism "
+                          "boundary"
+                      ),
+                      "structural_type": "western-models-comparison-matrix",
+                      "sessions": [5],
+                      "lines": [
+                          "THERE IS NO SINGLE WESTERN MODEL -> name device, strength AND risk",
+                          "+------------------+----------------------+---------------+----------------+",
+                          "| MODEL            | CENTRAL DEVICE       | STRENGTH      | RISK           |",
+                          "+------------------+----------------------+---------------+----------------+",
+                          "| STRICT SEPARATION| institutional        | guards against| ignores social |",
+                          "|                  | distance             | establishment | inequality     |",
+                          "+------------------+----------------------+---------------+----------------+",
+                          "| LAICITE          | strong public-       | common civic  | burdens visible|",
+                          "|                  | institutional        | identity      | minorities     |",
+                          "|                  | secularity           |               |                |",
+                          "+------------------+----------------------+---------------+----------------+",
+                          "| NON-ESTABLISHMENT| no established faith | dual          | boundary       |",
+                          "| + FREE EXERCISE  | + protected practice | protection    | disputes       |",
+                          "+------------------+----------------------+---------------+----------------+",
+                          "| EQUAL RESPECT    | the state ranks no   | fits a plural | indiscriminate |",
+                          "|                  | faith                | society       | appeasement    |",
+                          "+------------------+----------------------+---------------+----------------+",
+                          "| PRINCIPLED       | context-sensitive    | meets inter-  | discretion can |",
+                          "| DISTANCE         | engagement or        | AND intra-    | turn partisan  |",
+                          "|                  | abstention on       | religious     |                |",
+                          "|                  | principle            | domination    |                |",
+                          "+------------------+----------------------+---------------+----------------+",
+                          "        |",
+                          "        v",
+                          "PLURALITY (fact) -> PLURALISM (value) -> SECULARISM (doctrine of state power)",
+                          "  DECOUPLING 1 -> a HOMOGENEOUS society still needs protection for dissenters",
+                          "  DECOUPLING 2 -> a PLURAL society can be NON-SECULAR under one supremacy",
+                          "  DECOUPLING 3 -> secularism CONVERTS coexistence into equal-citizenship norms",
+                          "VERDICT -> the link is real but CONTINGENT, not necessary; keep conceptual",
+                          "           entailment apart from historical coexistence.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Indian secularism: principled distance and Gandhi's non-sectarian "
+                          "public religion"
+                      ),
+                      "structural_type": "principled-distance-decision-process",
+                      "sessions": [6],
+                      "lines": [
+                          "INDIAN CLUSTER -> freedom of conscience | equal citizenship | non-theocracy |",
+                          "  protection of minority culture | reform of practices violating",
+                          "  constitutional norms",
+                          "        |",
+                          "        v",
+                          "PRINCIPLED DISTANCE (Bhargava) -> the decision procedure",
+                          "  Does the practice threaten equal citizenship, liberty or produce domination?",
+                          "        /                                        \\",
+                          "      NO                                          YES",
+                          "       |                                            |",
+                          "  ABSTAIN / DISENGAGE                      INTER-religious (between groups)",
+                          "  protect autonomy; no interference        -> protect equal standing",
+                          "  in internal religious life               INTRA-religious (over members)",
+                          "       |                                   -> reform the oppressive practice",
+                          "       +--------------------+-------------------------+",
+                          "                            v",
+                          "  DISTANCE IS JUSTIFIED, NOT UNIFORM: the same principles of liberty,",
+                          "  equality and anti-domination govern abstention and engagement alike.",
+                          "        |",
+                          "        v",
+                          "GANDHI'S SECULARISM -> five steps, then the objection",
+                          "  (1) religions are PARTIAL apprehensions of truth -> (2) coercion violates",
+                          "  conscience -> (3) humility supports respect -> (4) democracy needs non-",
+                          "  violence and equal fellowship -> (5) public religion must be ETHICAL and",
+                          "  NON-SECTARIAN",
+                          "  OBJECTION -> religious vocabulary can privilege majoritarian symbols",
+                          "  REPLY -> equal conscience resists it, but virtue is not an institution",
+                          "  SUPPLEMENT -> Bhargava's institutional safeguards; Ambedkar's constitutional",
+                          "  morality and fraternity complete the triangle",
+                          "ILLUSTRATION NOT PROOF -> Articles 25-28, Articles 29-30, the Forty-second",
+                          "  Amendment of 1976 and the 1994 judgment are DATED LEGAL FACTS only.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Recognition, group-differentiated rights and intercultural "
+                          "dialogue"
+                      ),
+                      "structural_type": "recognition-and-group-rights-hierarchy",
+                      "sessions": [7],
+                      "lines": [
+                          "MULTICULTURALISM = descriptive FACT of diversity + NORMATIVE claim that a just",
+                          "  polity may owe recognition, accommodation or group-differentiated rights",
+                          "        |",
+                          "  +-----+------------------+---------------------------+",
+                          "  v                        v                           v",
+                          "TAYLOR: PREMISE          KYMLICKA: CRITERION         PAREKH: METHOD",
+                          "identity is dialogically autonomy depends on a       cultures are internally",
+                          "formed; persistent       SOCIETAL CULTURE supplying  plural and learn through",
+                          "MISRECOGNITION is a      meaningful options          intercultural DIALOGUE",
+                          "genuine harm               |                           |",
+                          "  |                        +-- EXTERNAL PROTECTIONS -> defensible: shield a",
+                          "  |                        |     minority from majority decisions",
+                          "  |                        +-- INTERNAL RESTRICTIONS -> refused: constrain a",
+                          "  |                              group's own members' basic liberties",
+                          "  v                        |                           v",
+                          "equal dignity needs MORE   |                     neither cultural monism nor",
+                          "than formally identical    |                     uncritical relativism",
+                          "treatment, because         |",
+                          "institutions carry the     v",
+                          "majority's language,   OBJECTION -> recognition freezes identities and",
+                          "calendar and history   empowers community elites",
+                          "                       REPLY -> recognition must stay REVISABLE, internally",
+                          "                       democratic and compatible with dissent and EXIT",
+                          "        |",
+                          "        v",
+                          "TOLERANCE (restrains coercion) -> COEXISTENCE (peaceful shared life) ->",
+                          "RECOGNITION (affirms equal standing; may require accommodation)",
+                          "LIMIT -> tolerance can be hierarchical, since the powerful 'permit' the weak.",
+                          "CONTROL -> never defend group rights without internal restrictions and exit.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Multiculturalism under pressure: India, globalisation and the "
+                          "feminist challenge"
+                      ),
+                      "structural_type": "objection-and-reply-dialectic",
+                      "sessions": [8],
+                      "lines": [
+                          "STRUCTURAL CHARACTERISTICS OF A MULTICULTURAL NATION (not a diversity list)",
+                          "  (1) plural SOCIETAL CULTURES supplying meaningful options to members",
+                          "  (2) INSTITUTIONAL ACCOMMODATION of those cultures",
+                          "  (3) a public culture in which recognition is CONTESTED and REVISABLE",
+                          "  INDIAN ILLUSTRATIONS -> linguistic federalism; constitutional protection of",
+                          "  minority cultural and educational interests; personal-law pluralism; tribal",
+                          "  self-government arrangements. All are dated facts, never proof.",
+                          "        |",
+                          "        v",
+                          "GLOBALISATION <-> MULTICULTURALISM: a TWO-WAY relation",
+                          "  flows pluralise and hybridise -> perceived loss intensifies recognition",
+                          "  demands -> transnational norms empower minorities -> markets commodify",
+                          "  culture and deepen asymmetries",
+                          "  RESULT -> neither simple Westernisation nor untouched preservation, but",
+                          "  CONTESTED TRANSLATION under unequal power",
+                          "        |",
+                          "        v",
+                          "OBJECTION -> REPLY -> RESIDUE (the third move carries the marks)",
+                          "  OKIN: group rights may protect PATRIARCHAL practice inside minorities",
+                          "    REPLY -> cultures are internally contested, not owned by male elites;",
+                          "    representation, voice, exit and reform beat forced assimilation",
+                          "    RESIDUE -> who certifies which practice is authentic?",
+                          "  RELATIVISM -> dignity, bodily integrity, voice, non-domination are cross-",
+                          "    cultural standards; interpretation stays dialogical",
+                          "  FRAGMENTATION -> fair recognition deepens allegiance; risk is elite capture",
+                          "  ESSENTIALISM -> protect persons and evolving practices, not an authorised",
+                          "    version of a culture",
+                          "  MAJORITY INVISIBILITY -> majority norms masquerade as neutral; subject them",
+                          "    to the same scrutiny",
+                          "CONTROL -> caste hierarchy is a DOMINATION question, never benign diversity.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Recognition and redistribution: two grammars and one standard of "
+                          "justice"
+                      ),
+                      "structural_type": "two-grammars-comparison-matrix",
+                      "sessions": [9],
+                      "lines": [
+                          "IS RECOGNITION AN INDEPENDENT DIMENSION OF JUSTICE, OR A DERIVATIVE OF",
+                          "MATERIAL INEQUALITY? -> the question behind every culture-and-inequality stem",
+                          "+---------------+-------------------------------+-------------------------+",
+                          "| AXIS          | REDISTRIBUTION GRAMMAR        | RECOGNITION GRAMMAR     |",
+                          "+---------------+-------------------------------+-------------------------+",
+                          "| INJUSTICE IS  | maldistribution: exploitation,| misrecognition: stigma, |",
+                          "|               | deprivation, marginalisation  | status subordination    |",
+                          "+---------------+-------------------------------+-------------------------+",
+                          "| LOCATED IN    | the economic structure        | institutionalised       |",
+                          "|               |                               | patterns of value       |",
+                          "+---------------+-------------------------------+-------------------------+",
+                          "| COLLECTIVITY  | a class, by position in       | a status group, by      |",
+                          "|               | production                    | esteem and standing     |",
+                          "+---------------+-------------------------------+-------------------------+",
+                          "| REMEDY        | redistribute; restructure the | revalue the identity or |",
+                          "|               | division of labour            | transform value patterns|",
+                          "+---------------+-------------------------------+-------------------------+",
+                          "| RISK IF ALONE | economism                     | culturalism             |",
+                          "+---------------+-------------------------------+-------------------------+",
+                          "        |",
+                          "        v",
+                          "FRASER -> perspectival DUALISM adjudicated by PARITY OF PARTICIPATION",
+                          "  OBJECTIVE condition: material independence and voice",
+                          "  INTERSUBJECTIVE condition: institutionalised equal respect",
+                          "  AFFIRMATIVE remedy corrects outcomes and can mark beneficiaries as",
+                          "  deficient; TRANSFORMATIVE remedy restructures the generating framework",
+                          "HONNETH -> recognition is the DEEPER grammar; LOVE -> self-confidence,",
+                          "  RIGHTS -> self-respect, SOLIDARITY -> self-esteem; disrespect motivates",
+                          "  social struggle",
+                          "VERDICT -> analytically DISTINCT and practically ENTANGLED; a remedy that",
+                          "  addresses only one dimension will under-perform. 'Both matter' is no answer.",
+                      ],
+                  },
+                  {
+                      "title": (
+                          "Integrated answer spine: the synthesis triangle, the limits and "
+                          "the traps"
+                      ),
+                      "structural_type": "integrated-answer-and-revision-synthesis",
+                      "sessions": [10],
+                      "lines": [
+                          "SYNTHESIS TRIANGLE -> each doctrine repairs a failure of the others",
+                          "  UNIVERSAL DIGNITY stops recognition immunising domination",
+                          "  SECULAR EQUAL CITIZENSHIP stops the floor being administered by one faith",
+                          "  RECOGNISED DIFFERENCE stops citizenship becoming assimilation",
+                          "  MASTER THESIS -> humanism without pluralism homogenises; pluralism without",
+                          "  a humanist floor excuses oppression; secularism mediates.",
+                          "        |",
+                          "        v",
+                          "ANSWER ARCHITECTURE",
+                          "  10 MARKS -> define + distinguish the nearest confusable term -> argument in",
+                          "    three or four steps -> one evidence unit with its limit -> graded verdict",
+                          "  15 MARKS -> frame the tension -> doctrine and presupposition -> strongest",
+                          "    rival model -> one table -> one objection/reply/residue -> conditional",
+                          "    verdict",
+                          "  20 MARKS -> thesis -> locate the concept -> full doctrine -> best rival ->",
+                          "    two objection chains -> recognition/redistribution axis -> one dated",
+                          "    Indian illustration -> graded verdict bounding state AND community power",
+                          "        |",
+                          "        v",
+                          "ANTHROPOCENTRIC LIMIT -> INSTRUMENTAL (weakest) -> RELATIONAL -> EXTENSIONAL",
+                          "  (strongest, and it concedes the name 'humanism')",
+                          "        v",
+                          "TEN TRAPS BEFORE SUBMISSION",
+                          "  humanism = atheism | Enlightenment as sole source | Tagore as a slogan |",
+                          "  secularism = secularisation | 'one Western model' | Indian secularism as",
+                          "  indiscriminate equal treatment | pluralism = secularism | multiculturalism",
+                          "  as mere diversity | group rights without internal restrictions and gender |",
+                          "  1976 or 1994 used as philosophical proof",
+                          "CLOSING RULE -> these doctrines invite celebration; every stem is answered by",
+                          "  SPECIFYING LIMITS. An answer that never says what the doctrine cannot do",
+                          "  has expounded it without evaluating it.",
+                      ],
+                  },
+)
+
+
+GRAPHICAL_PILLS = (
+                  [
+                      {"text": "DIGNITY, REASON, AGENCY, FLOURISHING", "role": "primary"},
+                      {"text": "AUTHORITY OWES PUBLIC JUSTIFICATION", "role": "mechanism"},
+                      {"text": "WORTH NOT EXHAUSTED BY INHERITED RANK", "role": "evidence"},
+                      {"text": "HUMANISM AGAINST ANTHROPOCENTRISM", "role": "comparison"},
+                      {"text": "PERSON AS END, NEVER MERE INSTRUMENT", "role": "outcome"},
+                      {"text": "HUMANISM IS NOT ATHEISM", "role": "caution"},
+                  ],
+                  [
+                      {"text": "ONE DIGNITY, SEVERAL GROUNDS", "role": "primary"},
+                      {"text": "FIVE ENLIGHTENMENT SHIFTS", "role": "mechanism"},
+                      {"text": "RENAISSANCE, SECULAR, RELIGIOUS, MARXIST", "role": "evidence"},
+                      {"text": "GROUND OF DIGNITY AGAINST RISK", "role": "comparison"},
+                      {"text": "CHOOSE A FORM AND OWN ITS RISK", "role": "outcome"},
+                      {"text": "EUROPE DID NOT CREATE HUMANISM ALONE", "role": "caution"},
+                  ],
+                  [
+                      {"text": "INDIAN HUMANISM ON FOUR GROUNDS", "role": "primary"},
+                      {"text": "THE ISOLATED EGO IS INCOMPLETE", "role": "mechanism"},
+                      {"text": "TAGORE, GANDHI, VIVEKANANDA, ROY", "role": "evidence"},
+                      {"text": "SPIRITUAL UNITY AGAINST RATIONAL AUTONOMY", "role": "comparison"},
+                      {"text": "NO COLLECTIVE IDOL MAY EXTINGUISH THE PERSON", "role": "outcome"},
+                      {"text": "SYMPATHY DOES NOT DISSOLVE STRUCTURE", "role": "caution"},
+                  ],
+                  [
+                      {"text": "SECULARISM IS A DOCTRINE OF PUBLIC POWER", "role": "primary"},
+                      {"text": "REASONABLE DISAGREEMENT MEETS COERCION", "role": "mechanism"},
+                      {"text": "CONSCIENCE AND EQUAL CIVIC STANDING", "role": "evidence"},
+                      {"text": "SECULARISM AGAINST SECULARISATION", "role": "comparison"},
+                      {"text": "NO RELIGIOUS QUALIFICATION FOR CITIZENSHIP", "role": "outcome"},
+                      {"text": "TOLERATION IS NOT ENOUGH", "role": "caution"},
+                  ],
+                  [
+                      {"text": "THERE IS NO SINGLE WESTERN MODEL", "role": "primary"},
+                      {"text": "DEVICE, STRENGTH AND CHARACTERISTIC RISK", "role": "mechanism"},
+                      {"text": "SEPARATION, LAICITE, EQUAL RESPECT", "role": "evidence"},
+                      {"text": "PLURALITY, PLURALISM, SECULARISM", "role": "comparison"},
+                      {"text": "THE LINK IS REAL BUT CONTINGENT", "role": "outcome"},
+                      {"text": "COEXISTENCE DOES NOT ANSWER ENTAILMENT", "role": "caution"},
+                  ],
+                  [
+                      {"text": "PRINCIPLED DISTANCE, NOT A WALL", "role": "primary"},
+                      {"text": "ABSTAIN TO PROTECT, ENGAGE TO REFORM", "role": "mechanism"},
+                      {"text": "INTRA-RELIGIOUS DOMINATION", "role": "evidence"},
+                      {"text": "GANDHI, AMBEDKAR, BHARGAVA", "role": "comparison"},
+                      {"text": "ETHICAL AND NON-SECTARIAN PUBLIC RELIGION", "role": "outcome"},
+                      {"text": "1976 AND 1994 ILLUSTRATE, NEVER PROVE", "role": "caution"},
+                  ],
+                  [
+                      {"text": "RECOGNITION, RIGHTS AND DIALOGUE", "role": "primary"},
+                      {"text": "IDENTITY IS DIALOGICALLY FORMED", "role": "mechanism"},
+                      {"text": "SOCIETAL CULTURE AND MEANINGFUL OPTIONS", "role": "evidence"},
+                      {"text": "EXTERNAL PROTECTIONS AGAINST INTERNAL RESTRICTIONS", "role": "comparison"},
+                      {"text": "FROM PERMISSION TO EQUAL STANDING", "role": "outcome"},
+                      {"text": "NEVER OMIT EXIT AND DISSENT", "role": "caution"},
+                  ],
+                  [
+                      {"text": "STRUCTURAL CHARACTERISTICS, NOT A DIVERSITY LIST", "role": "primary"},
+                      {"text": "CONTESTED TRANSLATION UNDER UNEQUAL POWER", "role": "mechanism"},
+                      {"text": "OKIN AND MINORITIES WITHIN MINORITIES", "role": "evidence"},
+                      {"text": "ASSIMILATION AGAINST IMMUNITY", "role": "comparison"},
+                      {"text": "VOICE, REPRESENTATION, EXIT, REFORM", "role": "outcome"},
+                      {"text": "CASTE IS DOMINATION, NOT DIVERSITY", "role": "caution"},
+                  ],
+                  [
+                      {"text": "TWO GRAMMARS OF INJUSTICE", "role": "primary"},
+                      {"text": "PARITY OF PARTICIPATION", "role": "mechanism"},
+                      {"text": "OBJECTIVE AND INTERSUBJECTIVE CONDITIONS", "role": "evidence"},
+                      {"text": "FRASER AGAINST HONNETH", "role": "comparison"},
+                      {"text": "AFFIRMATIVE AGAINST TRANSFORMATIVE", "role": "outcome"},
+                      {"text": "'BOTH MATTER' IS NOT A POSITION", "role": "caution"},
+                  ],
+                  [
+                      {"text": "THE SYNTHESIS TRIANGLE", "role": "primary"},
+                      {"text": "EACH DOCTRINE REPAIRS THE OTHERS", "role": "mechanism"},
+                      {"text": "TEN STANDING TRAPS", "role": "evidence"},
+                      {"text": "INSTRUMENTAL, RELATIONAL, EXTENSIONAL", "role": "comparison"},
+                      {"text": "LIMIT-SPECIFYING GRADED VERDICT", "role": "outcome"},
+                      {"text": "CELEBRATION IS NOT EVALUATION", "role": "caution"},
+                  ],
+)
+
+
+GRAPHICAL_STAGE_ZERO_GROUPS = [
+                  {
+                      "heading": "THE RUNNING QUESTION OF THE CLAUSE",
+                      "role": "evidence",
+                      "items": [
+                          "How can the equal worth of every human being survive in a world "
+                          "of many religions and many cultures?",
+                          "Humanism supplies a universal moral floor, secularism sets fair "
+                          "public terms among faiths, multiculturalism secures recognition "
+                          "for cultural difference.",
+                          "The shared limit is that no culture and no state may place "
+                          "domination beyond criticism.",
+                      ],
+                  },
+                  {
+                      "heading": "WHAT HUMANISM CENTRES ON THE PERSON",
+                      "role": "mechanism",
+                      "items": [
+                          "Dignity as worth that is not derived from birth, rank, revelation "
+                          "or usefulness.",
+                          "Reason and self-correction, responsible agency, and this-worldly "
+                          "flourishing of human capacities.",
+                          "All four arrive joined to responsibility and limits, so dignity is "
+                          "never read as a licence.",
+                      ],
+                  },
+                  {
+                      "heading": "THE DISTINCTIONS THAT EARN THE FIRST MARK",
+                      "role": "caution",
+                      "items": [
+                          "Humanism is not atheism: secular humanism is non-theistic, but "
+                          "religious humanisms also exist.",
+                          "Humanism centres human worth; anthropocentrism centres human "
+                          "interest and can license mastery over nature.",
+                          "Humanitarianism relieves suffering and rights are legal "
+                          "entitlements; humanism grounds why the person counts at all.",
+                      ],
+                  },
+]
+
+
+GRAPHICAL_STAGE_GROUPS = (
+                  GRAPHICAL_STAGE_ZERO_GROUPS,
+                  [
+                      {
+                          "heading": "THE GENEALOGY, IN ORDER",
+                          "role": "evidence",
+                          "items": [
+                              "Renaissance humanism renewed classical learning, rhetoric, "
+                              "history and the cultivation of human capacity.",
+                              "The Enlightenment radicalised the demand that beliefs and "
+                              "institutions answer to reason, criticism and public "
+                              "justification.",
+                              "Five shifts follow: status to justification, epistemic "
+                              "monopoly broken, compulsory uniformity weakened, moral "
+                              "standing universalised, education as emancipation.",
+                          ],
+                      },
+                      {
+                          "heading": "BRANCHES SORTED BY GROUND OF DIGNITY",
+                          "role": "comparison",
+                          "items": [
+                              "Secular or scientific humanism grounds worth in naturalistic "
+                              "inquiry and human welfare, with the risk of scientism.",
+                              "Religious humanism grounds worth in divine or spiritual value "
+                              "expressed through service, with the risk of paternalism.",
+                              "Marxist humanism grounds worth in creative social "
+                              "species-being and the overcoming of alienation.",
+                              "Radical Humanism grounds worth in the sovereignty of the "
+                              "rational individual above party, class and state.",
+                          ],
+                      },
+                      {
+                          "heading": "THE QUALIFICATION THAT MUST BE STATED",
+                          "role": "caution",
+                          "items": [
+                              "The Enlightenment is a decisive modern articulation, not the "
+                              "sole historical source of humanism.",
+                              "Stoic cosmopolitanism, religious traditions, devotional "
+                              "egalitarian impulses and Indian reform traditions supply "
+                              "human-centred resources as well.",
+                              "A which-form stem is answered by choosing a ground and owning "
+                              "its named risk, never by listing every branch.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "FOUR INDIAN GROUNDS OF ONE DIGNITY",
+                          "role": "evidence",
+                          "items": [
+                              "Tagore grounds the person in creative relation with universal "
+                              "humanity rather than in isolated individualism.",
+                              "Gandhi grounds service in the unity and equal worth of life "
+                              "and tests public action by its effect on the most vulnerable.",
+                              "Vivekananda links the divine potential of the person to "
+                              "service of humanity.",
+                              "M. N. Roy places the rational, morally autonomous individual "
+                              "above party, class and state.",
+                          ],
+                      },
+                      {
+                          "heading": "TAGORE'S RECONCILIATION, AS AN ARGUMENT",
+                          "role": "mechanism",
+                          "items": [
+                              "Individual and universal, reason and spirituality, East and "
+                              "West, freedom and community, finite and infinite are mediated "
+                              "rather than merely balanced.",
+                              "The isolated ego is incomplete, because creative "
+                              "self-expression already presupposes language, relation and a "
+                              "shared world.",
+                              "Universal humanity is therefore a dimension of fulfilled "
+                              "personhood, not an abstraction imposed from outside.",
+                          ],
+                      },
+                      {
+                          "heading": "THE OBJECTION AND WHERE IT ROUTES",
+                          "role": "caution",
+                          "items": [
+                              "An appeal to spiritual unity that does not dismantle graded "
+                              "status leaves hierarchy intact.",
+                              "Roy answers that no promised collective future licenses the "
+                              "present extinction of individual freedom.",
+                              "For graded status and structural hierarchy the owner routes to "
+                              "Ambedkar; the caste doctrine belongs to the caste file.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "FOUR NEIGHBOURS THAT MUST BE SEPARATED",
+                          "role": "evidence",
+                          "items": [
+                              "Secularisation is the sociological decline or transformation "
+                              "of religious authority.",
+                              "Atheism is the belief that God does not exist; religious "
+                              "pluralism is the fact and value of many religions.",
+                              "Toleration is a permission to dissent that can coexist with an "
+                              "established religion.",
+                              "Secularism alone is a set of political principles governing "
+                              "coercive public power and religious freedom.",
+                          ],
+                      },
+                      {
+                          "heading": "THE CORE ARGUMENT, IN FIVE STEPS",
+                          "role": "mechanism",
+                          "items": [
+                              "Citizens reasonably disagree about religion and the ultimate "
+                              "good, while coercive state power applies to all alike.",
+                              "If political status depends on adherence to one faith, "
+                              "dissenters become unequal citizens.",
+                              "If religious communities are wholly immune from public norms, "
+                              "internal domination goes unchallenged.",
+                              "Therefore conscience is protected, religious qualification for "
+                              "citizenship is refused, and intervention is governed by "
+                              "publicly justifiable principles.",
+                          ],
+                      },
+                      {
+                          "heading": "THE PRESUPPOSITION AND THE TRAP",
+                          "role": "caution",
+                          "items": [
+                              "Political legitimacy must be intelligible to citizens who do "
+                              "not share a single theology.",
+                              "Neutrality of justification is promised, not neutrality of "
+                              "effect; no faith may be assigned superior civic worth.",
+                              "Secularism is not secularisation, not atheism and not merely a "
+                              "generous toleration.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "THE MODEL SPECTRUM AND ITS DEVICES",
+                          "role": "evidence",
+                          "items": [
+                              "Strict separation uses institutional distance; laicite uses a "
+                              "strong public-institutional secularity.",
+                              "Non-establishment with free exercise combines the absence of "
+                              "an established religion with protected practice.",
+                              "Equal respect refuses to rank faiths; principled distance "
+                              "engages or abstains on stated principle.",
+                          ],
+                      },
+                      {
+                          "heading": "EACH STRENGTH IS BOUGHT WITH A RISK",
+                          "role": "comparison",
+                          "items": [
+                              "Institutional clarity is bought at the cost of ignoring social "
+                              "inequality among religions.",
+                              "A common civic identity is bought at the cost of burdening "
+                              "visible minorities.",
+                              "Fitting a plural society can slide into indiscriminate "
+                              "appeasement, and flexibility can slide into partisan "
+                              "discretion.",
+                          ],
+                      },
+                      {
+                          "heading": "THE THREE DECOUPLING CASES",
+                          "role": "outcome",
+                          "items": [
+                              "A religiously homogeneous society still needs secular "
+                              "protection for dissenters and non-believers.",
+                              "A plural society can remain non-secular when one religion "
+                              "enjoys political supremacy.",
+                              "Secularism converts coexistence into norms of conscience and "
+                              "equal citizenship, so the link to pluralism is contingent "
+                              "rather than necessary.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "THE INDIAN CLUSTER",
+                          "role": "evidence",
+                          "items": [
+                              "Freedom of conscience, equal citizenship and non-theocracy "
+                              "form the first half of the cluster.",
+                              "Protection of minority culture and reform of practices that "
+                              "violate constitutional norms form the second half.",
+                              "Articles 25-28 and 29-30, the Forty-second Amendment of 1976 "
+                              "and the 1994 judgment illustrate institutionalisation and "
+                              "never prove a philosophical thesis.",
+                          ],
+                      },
+                      {
+                          "heading": "PRINCIPLED DISTANCE AS A PROCEDURE",
+                          "role": "mechanism",
+                          "items": [
+                              "Ask whether the practice threatens equal citizenship, liberty "
+                              "or produces domination.",
+                              "If it does not, abstain and protect autonomy; if it does, "
+                              "identify inter-religious or intra-religious domination.",
+                              "Engage to protect equal standing between faiths, or to reform "
+                              "an oppressive practice within one, on the same stated "
+                              "principles.",
+                          ],
+                      },
+                      {
+                          "heading": "GANDHI, THE OBJECTION AND THE SUPPLEMENT",
+                          "role": "caution",
+                          "items": [
+                              "Religion as ethical truth and self-purification disciplines "
+                              "politics, and all faiths deserve equal moral regard.",
+                              "A religious vocabulary in politics can privilege majoritarian "
+                              "symbols and exclude non-believers.",
+                              "Bhargava's institutional secularism supplies safeguards that "
+                              "personal virtue alone cannot guarantee.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "THE PREMISE AND THE INSTITUTIONAL FORM",
+                          "role": "evidence",
+                          "items": [
+                              "Identity is dialogically formed, so persistent misrecognition "
+                              "inflicts a genuine harm rather than hurt feelings.",
+                              "Individual autonomy depends on access to a societal culture "
+                              "that supplies meaningful options.",
+                              "Liberal equality can therefore itself support minority rights "
+                              "instead of merely tolerating them.",
+                          ],
+                      },
+                      {
+                          "heading": "THE DECISIVE INSTITUTIONAL LINE",
+                          "role": "comparison",
+                          "items": [
+                              "External protections shield a minority from majority decisions "
+                              "that threaten its cultural survival, and are defensible.",
+                              "Internal restrictions permit a group to constrain its own "
+                              "members' basic liberties, and are refused.",
+                              "Parekh's intercultural dialogue keeps cultures internally "
+                              "plural and mutually revisable rather than frozen.",
+                          ],
+                      },
+                      {
+                          "heading": "FROM TOLERATION TO RECOGNITION",
+                          "role": "outcome",
+                          "items": [
+                              "Tolerance restrains coercion against what one disapproves, and "
+                              "can be hierarchical because the powerful permit the weak.",
+                              "Coexistence names peaceful shared life; recognition affirms "
+                              "equal standing and may require institutional accommodation.",
+                              "Recognition must remain revisable, internally democratic and "
+                              "compatible with individual dissent and exit.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "STRUCTURAL CHARACTERISTICS AND INDIAN FORM",
+                          "role": "evidence",
+                          "items": [
+                              "Plural societal cultures supply meaningful options to their "
+                              "own members.",
+                              "Institutional accommodation appears as linguistic federalism, "
+                              "protected minority institutions, personal-law pluralism and "
+                              "tribal self-government arrangements.",
+                              "The philosophical question is how equal citizenship can "
+                              "coexist with community-specific protection.",
+                          ],
+                      },
+                      {
+                          "heading": "GLOBALISATION RUNS IN BOTH DIRECTIONS",
+                          "role": "mechanism",
+                          "items": [
+                              "Global flows pluralise societies and generate hybrid "
+                              "identities, while perceived cultural loss intensifies demands "
+                              "for recognition.",
+                              "Transnational norms can empower minorities even as global "
+                              "markets commodify culture and deepen asymmetries.",
+                              "Cultural change is therefore contested translation under "
+                              "unequal power, not simple Westernisation or untouched "
+                              "preservation.",
+                          ],
+                      },
+                      {
+                          "heading": "THE OBJECTIONS THAT DECIDE THE GRADE",
+                          "role": "caution",
+                          "items": [
+                              "Group rights may protect patriarchal practice inside "
+                              "minorities, so ask who speaks for the culture and who bears "
+                              "the cost.",
+                              "Relativism, fragmentation, essentialism and majority "
+                              "invisibility each require a reply and leave a residue.",
+                              "Caste hierarchy is treated as a domination question, never as "
+                              "benign cultural diversity.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "TWO GRAMMARS, TWO DIAGNOSES",
+                          "role": "evidence",
+                          "items": [
+                              "Maldistribution locates injustice in the economic structure "
+                              "and names exploitation, deprivation and marginalisation.",
+                              "Misrecognition locates injustice in institutionalised patterns "
+                              "of cultural value and names stigma and status subordination.",
+                              "A class is defined by position in production; a status group "
+                              "is defined by esteem and standing.",
+                          ],
+                      },
+                      {
+                          "heading": "ONE STANDARD AND TWO REMEDY TYPES",
+                          "role": "mechanism",
+                          "items": [
+                              "Parity of participation requires that all adult members can "
+                              "interact with one another as peers.",
+                              "The objective condition secures material independence and "
+                              "voice; the intersubjective condition secures institutionalised "
+                              "equal respect.",
+                              "Affirmative remedies correct outcomes without disturbing the "
+                              "framework; transformative remedies restructure the framework "
+                              "itself.",
+                          ],
+                      },
+                      {
+                          "heading": "THE DISPUTE AND ITS RESIDUES",
+                          "role": "comparison",
+                          "items": [
+                              "Honneth treats recognition as the deeper grammar, with love, "
+                              "rights and solidarity building self-confidence, self-respect "
+                              "and self-esteem.",
+                              "Fraser's residue is a thinner account of why contempt wounds; "
+                              "Honneth's residue is that recognition can stretch until it "
+                              "explains less.",
+                              "The defensible verdict is that the two are analytically "
+                              "distinct and practically entangled, so a single-dimension "
+                              "remedy under-performs.",
+                          ],
+                      },
+                  ],
+                  [
+                      {
+                          "heading": "THE SYNTHESIS TRIANGLE",
+                          "role": "primary",
+                          "items": [
+                              "Universal dignity prevents recognition from immunising "
+                              "domination inside a community.",
+                              "Secular equal citizenship prevents the moral floor from being "
+                              "administered by a single faith.",
+                              "Recognised difference prevents universal citizenship from "
+                              "becoming an assimilating uniformity.",
+                          ],
+                      },
+                      {
+                          "heading": "ANSWER ARCHITECTURE BY MARK LEVEL",
+                          "role": "mechanism",
+                          "items": [
+                              "At ten marks: define, distinguish the nearest confusable term, "
+                              "argue in three or four steps, use one evidence unit with its "
+                              "limit, deliver a graded verdict.",
+                              "At fifteen marks: frame the tension, expound the doctrine and "
+                              "its presupposition, give the strongest rival, use one table, "
+                              "run one objection with reply and residue.",
+                              "At twenty marks: add the recognition and redistribution axis "
+                              "and one dated Indian illustration, then bound both state power "
+                              "and community power.",
+                          ],
+                      },
+                      {
+                          "heading": "LIMITS AND STANDING TRAPS",
+                          "role": "caution",
+                          "items": [
+                              "The anthropocentric replies rank instrumental, relational and "
+                              "extensional, and the strongest concedes the name humanism.",
+                              "Do not equate humanism with atheism, secularism with "
+                              "secularisation, or pluralism with secularism.",
+                              "Do not treat multiculturalism as demographic diversity, and do "
+                              "not use the 1976 amendment or the 1994 judgment as "
+                              "philosophical proof.",
+                          ],
+                      },
+                  ],
+)
+
+
+GRAPHICAL_STAGE_SEQUENCES = (
+                  [
+                      "Ask how equal worth survives religious and cultural plurality",
+                      "Humanism supplies the moral floor of dignity and agency",
+                      "Secularism sets fair public terms among faiths",
+                      "Multiculturalism secures recognition for cultural difference",
+                      "No culture and no state may place domination beyond criticism",
+                  ],
+                  [
+                      "Renaissance humanism cultivates human capacity",
+                      "The Enlightenment demands reasoned public justification",
+                      "Authority, inquiry, conscience, standing and education all shift",
+                      "Branches divide by their ground of dignity",
+                      "Choose a form and state its characteristic risk",
+                  ],
+                  [
+                      "Tagore begins from creative relation, not the isolated ego",
+                      "Gandhi grounds service in the equal worth of life",
+                      "Vivekananda expresses divine potential as service",
+                      "Roy makes the rational individual sovereign",
+                      "Ambedkar supplies the structural analysis sympathy cannot reach",
+                  ],
+                  [
+                      "Separate secularisation, atheism, toleration and pluralism",
+                      "Citizens reasonably disagree while coercion applies to all",
+                      "Religious qualification would make dissenters unequal citizens",
+                      "Total immunity would leave internal domination unchallenged",
+                      "Protect conscience and regulate by publicly justifiable principles",
+                  ],
+                  [
+                      "Place the models on a spectrum of distance and engagement",
+                      "Name the central device of each model",
+                      "Attach the strength and the characteristic risk",
+                      "Distinguish plurality, pluralism and secularism",
+                      "Run the three decoupling cases to a contingent verdict",
+                  ],
+                  [
+                      "State the Indian cluster before naming any thinker",
+                      "Ask whether the practice threatens equal citizenship",
+                      "Abstain to protect autonomy where it does not",
+                      "Engage against inter-religious or intra-religious domination",
+                      "Add Gandhi's ethical public religion and its institutional supplement",
+                  ],
+                  [
+                      "Begin from the dialogical formation of identity",
+                      "Show that neutral institutions carry majority culture",
+                      "Ground minority rights in access to a societal culture",
+                      "Permit external protections and refuse internal restrictions",
+                      "Move from toleration through coexistence to recognition",
+                  ],
+                  [
+                      "Convert the diversity catalogue into structural characteristics",
+                      "Read Indian accommodation as illustration, never as proof",
+                      "Trace globalisation in both directions to contested translation",
+                      "Face the minorities-within-minorities objection directly",
+                      "Answer relativism, fragmentation, essentialism and majority invisibility",
+                  ],
+                  [
+                      "Separate maldistribution from misrecognition",
+                      "Note that redistribution dissolves what recognition affirms",
+                      "Adjudicate by parity of participation on two conditions",
+                      "Distinguish affirmative from transformative remedies",
+                      "Close on distinct yet entangled rather than on balance",
+                  ],
+                  [
+                      "Join the three doctrines into one constrained argument",
+                      "Select the answer architecture for the mark level",
+                      "Run one inter-thinker debate to an adjudication",
+                      "State the anthropocentric limit and rank the three replies",
+                      "Deliver a limit-specifying graded verdict",
+                  ],
+)
+
+
+GRAPHICAL_STAGE_MATRICES = (
+                  [],
+                  [],
+                  [
+                      ["AXIS", "TAGORE", "GANDHI", "M. N. ROY"],
+                      [
+                          "GROUND OF DIGNITY",
+                          "creative relation with universal humanity",
+                          "spiritual unity, truth and non-violence",
+                          "naturalistic reason and individual autonomy",
+                      ],
+                      [
+                          "VIEW OF RELIGION",
+                          "spiritual depth and critical reason can coexist",
+                          "religion as ethical discipline of politics",
+                          "rejects supernatural authority",
+                      ],
+                      [
+                          "POLITICAL FORM",
+                          "anti-nationalism and civilisational exchange",
+                          "self-rule, constructive work and decentralisation",
+                          "organised participatory democracy",
+                      ],
+                      [
+                          "STANDING OBJECTION",
+                          "too inward to reach graded hierarchy",
+                          "moral regeneration without structural remedy",
+                          "individual reason is itself socially conditioned",
+                      ],
+                  ],
+                  [],
+                  [
+                      ["MODEL", "CENTRAL DEVICE", "STRENGTH", "RISK"],
+                      [
+                          "STRICT SEPARATION",
+                          "institutional distance between state and religion",
+                          "guards against establishment",
+                          "may ignore social inequality among religions",
+                      ],
+                      [
+                          "LAICITE",
+                          "strong public-institutional secularity",
+                          "a common civic identity",
+                          "can burden visible minorities",
+                      ],
+                      [
+                          "NON-ESTABLISHMENT AND FREE EXERCISE",
+                          "no established religion plus protected practice",
+                          "dual protection",
+                          "boundary disputes persist",
+                      ],
+                      [
+                          "EQUAL RESPECT",
+                          "the state ranks no faith above another",
+                          "fits a religiously plural society",
+                          "can become indiscriminate appeasement",
+                      ],
+                      [
+                          "PRINCIPLED DISTANCE",
+                          "context-sensitive engagement or abstention on principle",
+                          "meets inter-religious and intra-religious domination",
+                          "discretion can become inconsistent or partisan",
+                      ],
+                  ],
+                  [],
+                  [],
+                  [],
+                  [
+                      ["AXIS", "REDISTRIBUTION GRAMMAR", "RECOGNITION GRAMMAR", "TEST IN AN ANSWER"],
+                      [
+                          "WHAT THE INJUSTICE IS",
+                          "maldistribution: exploitation, deprivation, marginalisation",
+                          "misrecognition: stigma, status subordination, devaluation",
+                          "name which wrong the stem is actually about",
+                      ],
+                      [
+                          "WHERE IT IS LOCATED",
+                          "the economic structure of society",
+                          "institutionalised patterns of cultural value",
+                          "locate it before proposing any remedy",
+                      ],
+                      [
+                          "WHO THE COLLECTIVITY IS",
+                          "a class defined by position in production",
+                          "a status group defined by esteem and standing",
+                          "a well-paid group can still be despised",
+                      ],
+                      [
+                          "WHAT THE REMEDY DOES",
+                          "redistributes resources and restructures the division of labour",
+                          "revalues the identity or transforms the value patterns",
+                          "one dissolves the group, the other affirms it",
+                      ],
+                      [
+                          "RISK IF USED ALONE",
+                          "economism treats stigma as a reflex of poverty",
+                          "culturalism celebrates identity and leaves hierarchy intact",
+                          "state entanglement rather than balance",
+                      ],
+                  ],
+                  [],
+)
+
+
+GRAPHICAL_EXTRA_PILLS = [
+    {"text": "OPTIONAL ENRICHMENT, NEVER A PREREQUISITE", "role": "neutral"},
+    {"text": "SECULARISM MODELS BEYOND THE MINIMUM", "role": "comparison"},
+    {"text": "MULTICULTURALISM AGAINST INTERCULTURALISM", "role": "comparison"},
+    {"text": "THE POSTHUMAN CHALLENGE TO HUMANISM", "role": "caution"},
+    {"text": "ELITE CAPTURE AND TRAPPED DISSENTERS", "role": "caution"},
+    {"text": "RECOGNITION AND REDISTRIBUTION ARE ALREADY CORE", "role": "outcome"},
+]
+
+
+GRAPHICAL_EXTRA_GROUPS = [
+    {
+        "heading": "OPTIONAL DEBATES, AND WHY THEY STAY OPTIONAL",
+        "role": "evidence",
+        "items": [
+            "Secularism models beyond the minimum: strict separation, "
+            "neutrality, principled distance and accommodation under equal "
+            "citizenship, once the Core already covers secularism and Indian "
+            "distinctiveness.",
+            "Multiculturalism against interculturalism: stable group "
+            "recognition and differentiated rights, or a deeper dialogic "
+            "exchange across communities, taken only after Taylor, Kymlicka "
+            "and Parekh are secure.",
+            "Humanism after the posthuman challenge: human-centred dignity "
+            "against the warning about domination over nature, animals and "
+            "technology, which is evaluative extension rather than corpus "
+            "demand.",
+        ],
+    },
+    {
+        "heading": "THE ADVANCED OBJECTION AND ITS REPLY",
+        "role": "caution",
+        "items": [
+            "Group-differentiated rights may empower community elites and trap "
+            "internal dissenters, especially women and lower-status members.",
+            "The most defensible multiculturalism protects the external "
+            "vulnerability of groups while refusing internal coercion.",
+            "Recognition is legitimate only under the discipline of equal "
+            "citizenship and revisable public reason.",
+        ],
+    },
+    {
+        "heading": "WHAT IS ALREADY CORE, AND WHAT NOT TO OVER-STUDY",
+        "role": "comparison",
+        "items": [
+            "Recognition and the recognition/redistribution debate were "
+            "promoted into the Core, so only the second-order question of "
+            "combining Fraser's status remedy with Honneth's grounding remains "
+            "optional here.",
+            "Do not collapse secularism into pluralism or multiculturalism, and "
+            "do not convert answers into current-affairs incident lists.",
+            "Do not add posthumanism at all unless the core triad of humanism, "
+            "secularism and multiculturalism is already under control.",
+        ],
+    },
+]
+
+
+REQUIRED_CORE_TERMS = (
+                  "humanism",
+                  "secularism",
+                  "multiculturalism",
+                  "dignity",
+                  "autonomy",
+                  "reason",
+                  "agency",
+                  "flourishing",
+                  "common humanity",
+                  "anthropocentrism",
+                  "humanitarianism",
+                  "human rights",
+                  "Renaissance",
+                  "Enlightenment",
+                  "public justification",
+                  "secular humanism",
+                  "religious humanism",
+                  "Marxist humanism",
+                  "species-being",
+                  "Radical Humanism",
+                  "M. N. Roy",
+                  "Tagore",
+                  "reconciliation of opposites",
+                  "The Religion of Man",
+                  "Nationalism",
+                  "Gandhi",
+                  "Vivekananda",
+                  "service",
+                  "Ambedkar",
+                  "caste",
+                  "secularisation",
+                  "atheism",
+                  "toleration",
+                  "freedom of conscience",
+                  "equal citizenship",
+                  "non-establishment",
+                  "free exercise",
+                  "neutrality",
+                  "strict separation",
+                  "laicite",
+                  "equal respect",
+                  "principled distance",
+                  "Bhargava",
+                  "inter-religious",
+                  "intra-religious",
+                  "domination",
+                  "plurality",
+                  "pluralism",
+                  "non-theocracy",
+                  "minority",
+                  "reform",
+                  "1976",
+                  "1994",
+                  "basic structure",
+                  "Preamble",
+                  "25",
+                  "29",
+                  "30",
+                  "recognition",
+                  "misrecognition",
+                  "Taylor",
+                  "dialogical",
+                  "Kymlicka",
+                  "societal culture",
+                  "group-differentiated rights",
+                  "external protections",
+                  "internal restrictions",
+                  "Parekh",
+                  "intercultural dialogue",
+                  "essentialism",
+                  "relativism",
+                  "fragmentation",
+                  "hybridity",
+                  "globalisation",
+                  "Okin",
+                  "feminist",
+                  "exit",
+                  "tolerance",
+                  "coexistence",
+                  "accommodation",
+                  "structural characteristics",
+                  "linguistic",
+                  "personal-law",
+                  "Fraser",
+                  "Honneth",
+                  "maldistribution",
+                  "parity of participation",
+                  "objective",
+                  "intersubjective",
+                  "affirmative",
+                  "transformative",
+                  "self-respect",
+                  "self-esteem",
+                  "self-confidence",
+                  "solidarity",
+                  "status subordination",
+                  "ecological",
+                  "posthuman",
+                  "coloniality",
+                  "verdict",
+)
+
+ASCII_PANELS = ASCII_PANELS + (
+    {
+        "title": "Humanist forms, the relevant-form test and the religion-substitute verdict",
+        "structural_type": "humanism-form-selection-and-function-matrix",
+        "sessions": [1, 2, 3],
+        "lines": [
+            "HUMANISM -> dignity + reason + responsible agency + flourishing",
+            "        |",
+            "        v",
+            "FORM TAXONOMY",
+            "  CLASSICAL/CULTURAL -> cultivated reason and civic virtue",
+            "  RENAISSANCE        -> recovered learning and human capacities",
+            "  ENLIGHTENMENT      -> autonomy and public justification",
+            "  NATURALISTIC       -> science, revisability and human welfare",
+            "  RELIGIOUS          -> spiritual worth expressed through service",
+            "  MARXIST            -> social species-being and non-alienated activity",
+            "  RADICAL / ROY      -> rational individual above party, class and state",
+            "  EXISTENTIAL        -> bounded comparison only; not separately routed",
+            "        |",
+            "2018 RELEVANT-FORM TEST",
+            "  universal dignity + scientific method + relational personhood",
+            "  + difference-sensitivity + ecological limit",
+            "  = CRITICAL, PLURAL, ECOLOGICAL HUMANISM (an argued synthesis, not a school)",
+            "        |",
+            "2021 RELIGION-SUBSTITUTE TEST",
+            "  moral orientation -> substantially YES | public ethic -> YES",
+            "  community/meaning -> PARTLY | transcendence -> NOT NECESSARILY",
+            "VERDICT -> humanism is a universal ethical floor and a possible partner to",
+            "           plural conscience, not the compulsory replacement of religion.",
+        ],
+    },
+    {
+        "title": "Secular public power, multicultural structure and the dignity-terms-recognition synthesis",
+        "structural_type": "secularism-multiculturalism-cross-triad-control",
+        "sessions": [4, 5, 6, 7, 10],
+        "lines": [
+            "SECULARISM -> freedom of conscience + non-establishment + equal citizenship",
+            "  STRICT SEPARATION | FREE EXERCISE | EQUAL RESPECT | PRINCIPLED DISTANCE",
+            "        |",
+            "PUBLIC CONTROL",
+            "  PERSONAL LAW -> accommodation is defeasible under internal domination",
+            "  PUBLIC REASON -> coercive law needs reasons for citizens without one theology",
+            "  MAJORITARIANISM -> majority culture is not a neutral baseline",
+            "  'MINORITYISM' -> protection is justified, not permanent immunity",
+            "  ACCEPT ALL RELIGIONS -> civic respect, NOT theological endorsement; include non-belief",
+            "        |",
+            "MULTICULTURAL STRUCTURE (2020)",
+            "  durable plurality + identity-bearing culture + unequal public baseline",
+            "  + accommodation claims + common institutions + internal plurality",
+            "        |",
+            "KYMLICKA'S INSTITUTIONAL TYPES",
+            "  self-government | polyethnic/accommodation | special representation",
+            "  NORMATIVE TEST -> external protections YES; internal restrictions NO",
+            "        |",
+            "DIVERSITY RESPONSES",
+            "  tolerance -> coexistence -> accommodation -> recognition -> integration",
+            "  ASSIMILATION is not integration: common citizenship need not erase culture",
+            "        |",
+            "CROSS-TRIAD SYNTHESIS",
+            "  HUMANISM = dignity floor | SECULARISM = fair public terms",
+            "  MULTICULTURALISM = context-sensitive recognition",
+            "LIMIT -> both state and community power remain rights-bound, publicly",
+            "         justifiable, internally accountable and open to dissent.",
+        ],
+    },
+)
+
+REQUIRED_CORE_TERMS = REQUIRED_CORE_TERMS + (
+    "exact printed ownership",
+    "classical/cultural humanism",
+    "existential humanism",
+    "critical, plural and ecological humanism",
+    "substitute for religion",
+    "public reason",
+    "majoritarianism",
+    "minorityism",
+    "self-government rights",
+    "polyethnic",
+    "special representation rights",
+    "integration",
+    "assimilation",
+    "minorities within minorities",
+    "common citizenship",
+)
+
+ADVANCED_SESSION_TITLES = tuple(str(spec["title"]) for spec in SESSION_SPECS)
+
+
+_SESSIONS = len(SESSION_SPECS)
+if _SESSIONS != 10:
+                  raise ValueError(
+                      f"The topic 6 learner-v2 spec requires ten Core sessions; found {_SESSIONS}."
+                  )
+_PANELS = len(ASCII_PANELS)
+if _PANELS != 12:
+                  raise ValueError(
+                      f"Topic 6 requires 12 ASCII panels; found {_PANELS}."
+                  )
+_PILLS = len(GRAPHICAL_PILLS)
+if _PILLS != _SESSIONS:
+                  raise ValueError(
+                      f"Graphical pill groups must match Core sessions; found {_PILLS}."
+                  )
+_GROUPS = len(GRAPHICAL_STAGE_GROUPS)
+_SEQUENCES = len(GRAPHICAL_STAGE_SEQUENCES)
+_MATRICES = len(GRAPHICAL_STAGE_MATRICES)
+if not _GROUPS == _SEQUENCES == _MATRICES == _SESSIONS:
+                  raise ValueError(
+                      "Graphical stage groups, sequences and matrices must each match the "
+                      f"Core session count; found {_GROUPS}, {_SEQUENCES}, {_MATRICES}."
+                  )
+
+
+def _extract_owner_section(owner_text: str, start: str, end: str) -> str:
+    match = re.search(
+        rf"(?ms)^{re.escape(start)}\s*$.*?(?=^{re.escape(end)}\s*$)",
+        owner_text,
+    )
+    if not match:
+        raise ValueError(f"Cannot extract owner section {start!r}.")
+    return match.group(0).strip()
+
+
+def _demote_owner(fragment: str) -> str:
+    return re.sub(
+        r"(?m)^(#{2,4})\s+",
+        lambda match: "#" * min(len(match.group(1)) + 1, 5) + " ",
+        fragment,
+    )
+
+
+def _replace_demoted_section(
+    text: str,
+    start_heading: str,
+    end_heading: str,
+    replacement: str,
+) -> str:
+    pattern = (
+        rf"(?ms)^{re.escape(start_heading)}\s*$.*?"
+        rf"(?=^{re.escape(end_heading)}\s*$)"
+    )
+    updated, count = re.subn(pattern, replacement.rstrip() + "\n\n", text, count=1)
+    if count != 1:
+        raise ValueError(f"Cannot replace learner section {start_heading!r}.")
+    return updated
+
+
+def transform_assembled(
+    text: str,
+    *,
+    owner_text: str,
+    generation: int,
+) -> str:
+    if generation != 4:
+        raise ValueError(
+            "Humanism, Secularism and Multiculturalism semantic successor is "
+            f"pinned to g4, got g{generation}."
+        )
+
+    text = re.sub(
+        r"(?m)^!\[(?:Humanism, secularism and multiculturalism|Humanism, "
+        r"Secularism and Multiculturalism)[^\]]*\]\([^)]+\)\s*\n+"
+        r"\*Concept map:.*?\*\s*\n*",
+        "",
+        text,
+        count=1,
+    )
+
+    boundary = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "## Exact printed ownership and cross-topic firewall",
+            "## 0. ONE-SCREEN MAP",
+        )
+    )
+    humanism_forms = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "### 1.4 Major forms",
+            "### 1.5 Tagore's humanism: reconciliation of opposites",
+        )
+    )
+    humanism_religion = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "### 1.8 Can humanism substitute for religion?",
+            "### 1.9 General objections and replies",
+        )
+    )
+    secular_application = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "### 2.4A Personal law, minority rights, reform and public reason",
+            "### 2.5 Gandhi's secularism",
+        )
+    )
+    secular_objections = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "### 2.7A Four recurrent public objections",
+            "## 3. MULTICULTURALISM",
+        )
+    )
+    multicultural_structure = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "### 3.2A Structural characteristics of a multicultural nation",
+            "### 3.3 Argument from recognition: Charles Taylor",
+        )
+    )
+    minority_rights = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "#### Three institutional types of minority right",
+            "### 3.5 Parekh and intercultural dialogue",
+        )
+    )
+    multicultural_limits = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "### 3.9 Tolerance, coexistence and recognition",
+            "## 3A. RECOGNITION AND REDISTRIBUTION",
+        )
+    )
+    synthesis = _demote_owner(
+        _extract_owner_section(
+            owner_text,
+            "## 3B. CROSS-CUTTING SYNTHESIS: DIGNITY, CITIZENSHIP AND RECOGNITION",
+            "## 4. INTER-THINKER / INTER-SCHOOL DEBATES",
+        )
+    )
+    synthesis = re.sub(r"(?m)^###\s+", "#### ", synthesis)
+
+    text = text.replace(
+        "- **Canonical doctrine source:** "
+        "`upsc-ai-kit/knowledge/Philosophy/paper-2/socio-political/"
+        "Humanism-Secularism-Multiculturalism.md` (7,146 words), sliced "
+        "verbatim into the CORE UPSC layers (each canonical teaching passage "
+        "exactly once) and preserved again, in full, in the canonical apparatus "
+        "block.",
+        "- **Canonical doctrine source:** "
+        "`upsc-ai-kit/knowledge/Philosophy/paper-2/socio-political/"
+        "Humanism-Secularism-Multiculturalism.md`, repaired under the ten-gate "
+        "semantic-completeness protocol and promoted into this immutable "
+        "successor.",
+    )
+    text = text.replace(
+        "- **Doctrine grounding (in the canonical file):** HUMANISM - the "
+        "human-centred argument",
+        "- **Doctrine grounding (in the canonical file):** exact printed "
+        "ownership and cross-topic boundaries; HUMANISM - the human-centred "
+        "argument",
+        1,
+    )
+    text = text.replace(
+        "Renaissance, Enlightenment, secular, religious, Marxist and radical "
+        "humanisms)",
+        "classical/cultural, Renaissance, Enlightenment, secular/naturalistic, "
+        "religious, Marxist and radical humanisms; an existential-humanism "
+        "boundary; the relevant-form and religion-substitute tests)",
+        1,
+    )
+    text = text.replace(
+        "Gandhi/Nehru/Ambedkar, religious pluralism",
+        "Gandhi and the bounded Ambedkar bridge, public reason, personal-law "
+        "accommodation, majoritarianism/minorityism controls, religious pluralism",
+        1,
+    )
+    text = text.replace(
+        "Kymlicka's societal cultures and group-differentiated rights with "
+        "external protections versus internal restrictions",
+        "Kymlicka's societal cultures, self-government/polyethnic/special-"
+        "representation rights and the external-protection/internal-restriction "
+        "test",
+        1,
+    )
+
+    preservation = (
+        "**Preservation note:** the canonical doctrine is reorganised into layers, "
+        "never compressed. Every doctrine, argument, objection/reply, comparison, "
+        "corpus-depth delta, PYQ route, directive rule, graded verdict and "
+        "provenance caution is retained; simplification means adding accessible "
+        "gateways, not deleting complexity."
+    )
+    if "Exact printed ownership and cross-topic firewall" not in text:
+        text = text.replace(preservation, preservation + "\n\n" + boundary, 1)
+
+    text = _replace_demoted_section(
+        text,
+        "#### 1.4 Major forms",
+        "#### CLOSING RECALL FLOW — Humanism II: Genealogy and Forms "
+        "(Renaissance, Enlightenment, Branches)",
+        humanism_forms,
+    )
+    if "#### 1.8 Can humanism substitute for religion?" not in text:
+        text = text.replace(
+            "#### 1.8 General objections and replies",
+            humanism_religion + "\n\n#### 1.9 General objections and replies",
+            1,
+        )
+    if "Personal law, minority rights, reform and public reason" not in text:
+        text = text.replace(
+            "#### 2.5 Gandhi's secularism",
+            secular_application + "\n\n#### 2.5 Gandhi's secularism",
+            1,
+        )
+    if "Four recurrent public objections" not in text:
+        text = text.replace(
+            "#### CLOSING RECALL FLOW — Secularism III: Indian Secularism, "
+            "Principled Distance and Its Critics",
+            secular_objections
+            + "\n\n#### CLOSING RECALL FLOW — Secularism III: Indian Secularism, "
+            "Principled Distance and Its Critics",
+            1,
+        )
+    if "#### 3.2A Structural characteristics of a multicultural nation" not in text:
+        text = text.replace(
+            "#### 3.3 Argument from recognition: Charles Taylor",
+            multicultural_structure
+            + "\n\n#### 3.3 Argument from recognition: Charles Taylor",
+            1,
+        )
+    if "Three institutional types of minority right" not in text:
+        text = text.replace(
+            "#### 3.5 Parekh and intercultural dialogue",
+            minority_rights + "\n\n#### 3.5 Parekh and intercultural dialogue",
+            1,
+        )
+    text = _replace_demoted_section(
+        text,
+        "#### 3.9 Tolerance, coexistence and recognition",
+        "#### CLOSING RECALL FLOW — Multiculturalism II: India, Globalisation, "
+        "Feminism and the Objections",
+        multicultural_limits,
+    )
+    if "CROSS-CUTTING SYNTHESIS: DIGNITY, CITIZENSHIP AND RECOGNITION" not in text:
+        text = text.replace(
+            "#### 4. INTER-THINKER / INTER-SCHOOL DEBATES",
+            synthesis + "\n\n#### 4. INTER-THINKER / INTER-SCHOOL DEBATES",
+            1,
+        )
+
+    text = text.replace(
+        "10. **Do not use the 1976 amendment or a 1994 judgment as "
+        "philosophical proof.** They are dated constitutional and judicial "
+        "illustrations.",
+        "10. **Do not use the 1976 amendment or a 1994 judgment as "
+        "philosophical proof.** They are dated constitutional and judicial "
+        "illustrations.\n"
+        "11. **Do not answer the relevant-form PYQ with a catalogue.**\n"
+        "12. **Do not say humanism simply replaces religion.**\n"
+        "13. **Do not import existential humanism, Nehru or Rawls as separately "
+        "printed or routed.**\n"
+        "14. **Do not call acceptance of all religions theological endorsement.**\n"
+        "15. **Do not present minority protection as immunity from reform.**\n"
+        "16. **Do not answer structural characteristics with a list of "
+        "communities.**\n"
+        "17. **Do not collapse Kymlicka's right-types into his normative test.**\n"
+        "18. **Do not equate integration with assimilation.**",
+        1,
+    )
+    text = text.replace(
+        "**Promoted vocabulary (this pass) ⚠️:** maldistribution",
+        "**Promoted vocabulary (this pass) ⚠️:** classical/cultural humanism · "
+        "critical plural humanism · religion-substitute test · public reason · "
+        "majoritarianism/minorityism · self-government/polyethnic/special-"
+        "representation rights · integration/assimilation · common citizenship · "
+        "maldistribution",
+        1,
+    )
+    if "H14 · Humanism is at most a partial substitute for religion" not in text:
+        text = text.replace(
+            "- **H13 · Every doctrine in this file is species-bounded.** Claim: "
+            "humanism, secularism, multiculturalism and recognition all take the "
+            "human as the unit of concern, which is a genuine limit and not an "
+            "oversight → Named: §3A.6 → Use for: the closing limit-statement on "
+            "any 20-mark humanism stem → Limit: ⚠️ the ecological reconstruction "
+            "concedes that the species-centred criterion is given up; the full "
+            "spectrum is owned by the Development file.",
+            "- **H13 · Every doctrine in this file is species-bounded.** Claim: "
+            "humanism, secularism, multiculturalism and recognition all take the "
+            "human as the unit of concern, which is a genuine limit and not an "
+            "oversight → Named: §3A.6 → Use for: the closing limit-statement on "
+            "any 20-mark humanism stem → Limit: ⚠️ the ecological reconstruction "
+            "concedes that the species-centred criterion is given up; the full "
+            "spectrum is owned by the Development file.\n"
+            "- **H14 · Humanism is at most a partial substitute for religion.** "
+            "It can ground ethical and civic equality without necessarily "
+            "replacing communal, existential or transcendent functions → Use: "
+            "2021 Q2(c) → Limit: functions vary among persons.\n"
+            "- **H15 · A multicultural nation has a structure, not merely a "
+            "diverse population.** Durable cultural membership, a non-neutral "
+            "baseline, accommodation claims, common institutions and internal "
+            "plurality jointly create the problem → Use: 2020 Q3(b).\n"
+            "- **H16 · Equal acceptance is civic, not theological.** Secularism "
+            "protects belief and non-belief without declaring every faith true → "
+            "Use: 2023 Q4(c), 2025 Q1(c) → Limit: principled reform remains.\n"
+            "- **H17 · Integration differs from assimilation.** Common citizenship "
+            "can coexist with protection against cultural erasure → Use: 2018 "
+            "Q1(b) and Indian-challenge stems → Limit: group voice must remain "
+            "internally accountable.",
+            1,
+        )
+    text = text.replace(
+        "the selectable evidence bank (H1-H13)",
+        "the selectable evidence bank (H1-H17)",
+        1,
+    )
+    text = text.replace(
+        "- Local course source, *Socio-Political Philosophy*, sections on "
+        "Humanism, Secularism and Multiculturalism.",
+        "- Local compiled notes PDF, *Socio-Political Philosophy*, searchable "
+        "pp. 134-159; no named author is asserted.",
+    )
+    text = text.replace(
+        "- O. P. Gauba, *An Introduction to Political Theory*.",
+        "- O. P. Gauba, *An Introduction to Political Theory*, used for bounded "
+        "political-theory taxonomy.",
+    )
+
+    closure_replacements = {
+        (
+            "KEY TERMS / DEFINITIONS: human dignity as unearned worth | reason "
+            "and public justification | responsible agency and self-correction | "
+            "this-worldly flourishing | person as end, not mere instrument | "
+            "humanism against anthropocentrism"
+        ): (
+            "KEY TERMS / DEFINITIONS: dignity | reason | agency | flourishing | "
+            "anthropocentrism"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: Renaissance cultivation of human capacity | "
+            "Enlightenment demand for public justification | secular and scientific "
+            "humanism | religious humanism | Marxist humanism and species-being | "
+            "ground of dignity and characteristic risk"
+        ): (
+            "KEY TERMS / DEFINITIONS: classical | Renaissance | Enlightenment | "
+            "naturalistic | religious"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: Tagore's reconciliation of opposites | "
+            "creative relation against isolated ego | Gandhi's service and equal "
+            "worth of life | Vivekananda on divine potential and service | M. N. "
+            "Roy's Radical Humanism | sovereignty of the rational individual"
+        ): (
+            "KEY TERMS / DEFINITIONS: Tagore | relation | Gandhi | Vivekananda | "
+            "Roy"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: freedom of conscience | equal civic standing "
+            "| secularisation as a sociological process | toleration as permission "
+            "to dissent | inter-religious and intra-religious domination | publicly "
+            "justifiable intervention"
+        ): (
+            "KEY TERMS / DEFINITIONS: conscience | citizenship | secularisation | "
+            "toleration | domination"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: strict separation as institutional distance "
+            "| laicite as public-institutional secularity | non-establishment with "
+            "free exercise | equal respect without ranking faiths | plurality "
+            "against pluralism | device, strength and characteristic risk"
+        ): (
+            "KEY TERMS / DEFINITIONS: separation | non-establishment | exercise | "
+            "respect | pluralism"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: principled distance | abstain to protect, "
+            "engage to reform | intra-religious domination | Gandhi's ethical and "
+            "non-sectarian public religion | constitutional illustration, not proof "
+            "| equal citizenship against permanent political rank"
+        ): (
+            "KEY TERMS / DEFINITIONS: distance | reform | public reason | Gandhi | "
+            "citizenship"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: recognition and dialogical identity | "
+            "misrecognition as genuine harm | societal culture and meaningful "
+            "options | external protections | internal restrictions | "
+            "intercultural dialogue"
+        ): (
+            "KEY TERMS / DEFINITIONS: recognition | identity | culture | "
+            "protection | restriction"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: structural characteristics of a multicultural "
+            "nation | plural societal cultures | institutional accommodation | "
+            "hybridity and contested translation | minorities within minorities | "
+            "essentialism and majority invisibility"
+        ): (
+            "KEY TERMS / DEFINITIONS: structure | accommodation | hybridity | "
+            "internal minorities | essentialism"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: maldistribution | misrecognition and status "
+            "subordination | parity of participation | objective and intersubjective "
+            "conditions | affirmative against transformative remedies | spheres of "
+            "recognition"
+        ): (
+            "KEY TERMS / DEFINITIONS: maldistribution | misrecognition | parity | "
+            "affirmative | transformative"
+        ),
+        (
+            "KEY TERMS / DEFINITIONS: universal dignity against homogenisation | "
+            "fair public terms among faiths | recognised difference | "
+            "anthropocentric boundary | instrumental, relational and extensional "
+            "replies | limit-specifying verdict"
+        ): (
+            "KEY TERMS / DEFINITIONS: dignity | citizenship | difference | "
+            "anthropocentrism | verdict"
+        ),
+    }
+    for old, new in closure_replacements.items():
+        text = text.replace(old, new)
+    return text

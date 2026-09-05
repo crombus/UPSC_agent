@@ -1,0 +1,585 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-20_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-20_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-20",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 31,
+      "markdown_body_line_end": 38,
+      "heading": "SESSION 1 - Institutional map: why India uses multiple anti-corruption bodies",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV (with GS-II overlap). **Core area:** The ethics-specific angle on India's anti-corruption institutions — CVC, CBI, Lokpal/Lokayukta — their jurisdiction debates and ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 621.824
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 58,
+      "heading": "1. Visual foundation",
+      "preview": "CVC (advisory/superintending)     CBI (investigating)      LOKPAL (2013 Act; overarching",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 597.324
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 446.324
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 75,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 741.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 385.49
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 194,
+      "markdown_body_line_end": 198,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** India's anti-corruption institutional architecture historically suffered from jurisdictional multiplicity and lack of coordination. A defensible response combines precise roles, lawful federal and subject-matter gates, se",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 128.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 55.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1364,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV (with GS-II overlap). **Core area:** Deeper institutional-design analysis of CVC/CBI/Lokpal jurisdiction, ARC's 2007 proposal vs the enacted 2013 Lokpal, and unresolved ethics-i",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 693.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1391,
+      "heading": "1. Architecture",
+      "preview": "ARC's 2007 LOK PAL PROPOSAL              LOKPAL AND LOKAYUKTAS ACT, 2013 (ENACTED)",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 665.524
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 444.524
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1406,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 280.69
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1514,
+      "markdown_body_line_end": 1517,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 204.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 81.29
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1568,
+      "markdown_body_line_end": 1597,
+      "heading": "ASCII PANEL 1/12 - 1. Anti-corruption institutional map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 714.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 423.091
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1630,
+      "heading": "ASCII PANEL 2/12 - 2. Complaint-to-adjudication chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 401.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 110.091
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1634,
+      "markdown_body_line_end": 1664,
+      "heading": "ASCII PANEL 3/12 - 3. CVC role boundary",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1697,
+      "heading": "ASCII PANEL 4/12 - 4. CBI federal-jurisdiction route",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1701,
+      "markdown_body_line_end": 1730,
+      "heading": "ASCII PANEL 5/12 - 5. Enacted Lokpal design",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1734,
+      "markdown_body_line_end": 1763,
+      "heading": "ASCII PANEL 6/12 - 6. ARC proposal versus enacted law",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1797,
+      "heading": "ASCII PANEL 7/12 - 7. Prime Minister jurisdiction compromise",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1801,
+      "markdown_body_line_end": 1830,
+      "heading": "ASCII PANEL 8/12 - 8. State-level institutional diversity",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1834,
+      "markdown_body_line_end": 1863,
+      "heading": "ASCII PANEL 9/12 - 9. Organic linkage for collusion cases",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1867,
+      "markdown_body_line_end": 1896,
+      "heading": "ASCII PANEL 10/12 - 10. Institutional quality test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1900,
+      "markdown_body_line_end": 1929,
+      "heading": "ASCII PANEL 11/12 - 11. Examiner trap board",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1933,
+      "markdown_body_line_end": 1963,
+      "heading": "ASCII PANEL 12/12 - 12. Examiner-ready answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1967,
+      "markdown_body_line_end": 1980,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 69.49
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2116,
+      "markdown_body_line_end": 2116,
+      "heading": "12. ANSWER-WRITING SPINE - ROLE, GATE, HAND-OFF",
+      "preview": "**Final thesis:** India's anti-corruption architecture should be understood as a chain of specialised institutions, not a contest for one all-powerful watchdog. CVC advice and superintendence, CVO departmental vigilance, CBI or ACB investig",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 157.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 70.224
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    }
+  ]
+}

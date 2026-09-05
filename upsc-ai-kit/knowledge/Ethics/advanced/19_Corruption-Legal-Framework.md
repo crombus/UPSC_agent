@@ -16,8 +16,8 @@
 
 ```text
 PRE-2018 PC ACT, 1988                         POST-2018 PC (AMENDMENT) ACT
-s.7: taking "gratification"                    s.7: taking "undue advantage" (broader
- (narrower term)                                 term than gratification)
+s.7: taking "gratification"                    s.7: taking defined "undue advantage"
+ (expressly not limited to cash)                (any gratification except legal remuneration)
 No standalone offence for                      s.8 (NEW): bribe-GIVING is now itself
  bribe-giving (giver liable only                 a distinct offence (up to 7 years),
  via "abetment," s.12)                           with a coercion-based defence (must
@@ -51,11 +51,12 @@ official protection and investigative reach.
 
 | Concept | Precise meaning |
 |---|---|
-| ✅ **"Gratification" vs "undue advantage"** | Pre-2018 "gratification" was interpreted narrowly (often monetary/valuable-thing focused); "undue advantage" (2018) is explicitly broader, covering any advantage other than legal remuneration which the public servant is not legally entitled to accept, aligning India's definition more closely with international instruments like UNCAC. |
+| ✅ **"Gratification" vs "undue advantage"** | The former Act expressly said gratification was not restricted to pecuniary or money-estimable benefits. The 2018 law recast the offence around the defined term "undue advantage": any gratification whatever other than legal remuneration. Treat this as a terminology and offence-architecture change, not as proof that non-cash benefits were previously outside the law. |
 | ⚠️ **Section 24, omitted in 2018** | Before its omission, Section 24 protected a person who stated in proceedings against a public servant that he had offered gratification from prosecution under Section 12. It was never a blanket immunity for all bribe-givers — it was tied to such a statement in proceedings — and it is no longer on the statute book at all. |
 | ✅ **Section 8 bribe-giving offence and its coercion defence** | A bribe-giver is now separately punishable (imprisonment up to seven years, or fine, or both) unless he was "compelled to give such undue advantage" and reports the matter "to the law enforcement authority or investigating agency within a period of seven days from the date of giving such undue advantage" — a structural attempt to preserve protection for *coerced* bribe-givers (ARC's coercive-corruption category) while removing the earlier Section 24 protection for *collusive* bribe-givers. Sections 9 and 10 separately make a commercial organisation punishable with fine, and its directors/managers/officers liable where the offence was committed with their "consent or connivance". |
 | ✅ **Section 13's narrowed scope** | Post-2018, "criminal misconduct" covers only (a) dishonest or fraudulent misappropriation or conversion of entrusted property, and (b) intentional illicit enrichment during the period of office — removing the earlier Section 13(1)(d) head of obtaining an advantage "by abusing his position as a public servant", a change critics argue narrows the law's reach against favouritism-based corruption not involving direct enrichment. |
 | ✅ **Section 17A (2018, new)** | Requires prior approval of the appropriate authority before a police officer conducts any enquiry, inquiry or investigation into a PC Act offence alleged against a public servant, serving or retired, "relatable to any recommendation made or decision taken by such public servant in discharge of his official functions or duties". ⚠️ It is **not** rank-based, and it does carry a time discipline: the second proviso requires the authority to "convey its decision... within a period of three months, which may, for reasons to be recorded in writing, be extended by a further period of one month." Approval is not required where a person is arrested on the spot accepting or attempting to accept an undue advantage. |
+| 📰 **Section 17A judicial status (2026 INSC 55)** | On 13 January 2026, the Supreme Court issued separate, divergent opinions on the constitutional challenge and an operative referral order directing placement before the Chief Justice of India for an appropriate Bench. Neither separate opinion should be presented as the Court's final binding resolution. |
 
 ## 3. Detailed treatment
 
@@ -108,6 +109,11 @@ official protection and investigative reach.
 - ⚠️ The genuinely open question is therefore no longer whether the statute contains a timeline — it
   does — but whether the timeline is complied with, and what follows if it is not, since neither
   provision creates a deemed approval or deemed sanction on expiry.
+- 📰 *Centre for Public Interest Litigation v. Union of India*, 2026 INSC 55, does not finally
+  settle Section 17A's constitutional validity. The separate opinions diverged, and the operative
+  order referred the issues through the Chief Justice of India for fresh consideration by an
+  appropriate Bench. State the statutory text, identify the pending constitutional question, and
+  reverify later official developments before relying on either opinion.
 
 ## 4. Institutional and reform architecture
 
@@ -115,15 +121,17 @@ official protection and investigative reach.
   5) remained inoperative for 18 years due to unnotified rules; the Benami Transactions
   (Prohibition) Amendment Act, 2016 substantially re-enacted and renamed the statute as the
   **Prohibition of Benami Property Transactions Act, 1988**, in force from **1 November 2016**
-  (S.O. 3288(E) of 25 October 2016), with detailed adjudication and appellate machinery.
+  (S.O. 3289(E) of 25 October 2016), with detailed adjudication and appellate machinery.
 - 📰 In *Union of India v. Ganpati Dealcom Pvt Ltd*, decided **23 August 2022**, the Supreme Court
   held the unamended Sections 3(2) and 5 unconstitutional and the 2016 regime incapable of
   retrospective application to pre-1 November 2016 transactions. ⚠️ By order dated **18 October
   2024** (2024 INSC 799) the Court **recalled that judgment in its entirety** and restored the
-  civil appeal to its file; no fresh merits decision has been traced as at 4 August 2026. The 2022
-  holding must therefore not be cited as settled law.
-- 📰 The Whistle Blowers Protection Act, 2014 received assent on 9 May 2014 but has **never been
-  brought into force**; the Whistle Blowers Protection (Amendment) Bill, 2015 lapsed with the
+  civil appeal to its file. The official recall order is the verified current anchor; the 2022
+  holding must not be cited as settled law, and any later merits development requires fresh
+  official verification.
+- 📰 The Whistle Blowers Protection Act, 2014 received assent on 9 May 2014 but remains
+  **uncommenced on the latest official verification**; the Whistle Blowers Protection
+  (Amendment) Bill, 2015 lapsed with the
   dissolution of the Sixteenth Lok Sabha. The CVC's non-statutory Public Interest Disclosure and
   Protection of Informers (PIDPI) Resolution — Government of India Resolution No. 371/12/2002-AVD-III
   dated **21 April 2004** — remains the operative interim mechanism (see `10`, `20`, `21`).
@@ -164,6 +172,9 @@ official protection and investigative reach.
 - ✅ Section 17A (2018, new) requires prior approval to enquire into, inquire into or investigate
   (not merely prosecute) a public servant's official-duty decision, with a three-month plus
   one-month decision timeline.
+- 📰 In 2026 INSC 55, separate Supreme Court opinions on Section 17A diverged and the operative
+  order referred the issues through the Chief Justice of India for an appropriate Bench; there is
+  no final binding resolution in that document.
 - 📰 The Supreme Court recalled its own 2022 *Ganpati Dealcom* judgment on 18 October 2024, in full,
   restoring the appeal and reopening the Benami Amendment Act, 2016's retrospective-application
   question.
@@ -182,11 +193,15 @@ official protection and investigative reach.
 - ❌ Section 17A gives the approving authority unlimited time to decide. -> Its second proviso
   prescribes three months, extendable by one further month for reasons recorded in writing —
   though expiry does not create a deemed approval.
+- ❌ The January 2026 Supreme Court document finally upheld or invalidated Section 17A. -> The
+  opinions diverged and the operative order referred the issues for consideration by an
+  appropriate Bench; neither opinion is the final binding resolution.
 
 ## 9. 📰 Current-anchor application
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
+| 📰 *Centre for Public Interest Litigation v. Union of India*, 2026 INSC 55: divergent Section 17A opinions followed by an operative referral through the Chief Justice of India | Shows why statutory text and pending constitutional adjudication must be separated; do not cite either opinion as a final resolution. |
 | 📰 Supreme Court's order of 18 October 2024 recalling, in full, its 2022 *Ganpati Dealcom* judgment on Benami Amendment Act retrospectivity, and restoring the appeal | Directly usable to show a live, unsettled legal question in India's anti-corruption/asset-recovery architecture — cite the recall, not the 2022 holding, as the current position. |
 | 📰 Whistle Blowers Protection Act, 2014 (assent 9 May 2014) never brought into force; 2015 Amendment Bill lapsed; CVC's PIDPI Resolution of 21 April 2004 remains the operative interim mechanism | Confirms a persisting gap in whistleblower protection nearly two decades after the ARC's 2007 recommendation, directly relevant to any "evaluate India's anti-corruption legal framework" Mains answer. |
 | 📰 DSPE Act s.6A "single directive" struck down in *Subramanian Swamy v. Director, CBI*, (2014) 8 SCC 682 (6 May 2014); PC Act s.17A (2018) is the differently designed, rank-neutral successor | Prevents the common error of describing the Joint-Secretary-and-above single directive as current law (see `21`). |
@@ -204,8 +219,9 @@ official protection and investigative reach.
 **Central thesis:** India's 2018 PC Amendment represents a genuine, debatable trade-off — closing
 the ARC-identified coercive/collusive bribe-giver immunity mismatch and adding corporate liability,
 while simultaneously narrowing criminal-misconduct coverage and adding a fresh pre-investigation
-sanction hurdle — leaving whistleblower protection and Benami-asset recovery as continuing,
-verifiably unresolved gaps.
+approval hurdle. Its operation must be assessed alongside the still-uncommenced whistleblower law,
+the reopened Benami retrospectivity question, and the unresolved constitutional challenge to
+Section 17A recorded in 2026 INSC 55.
 
 1. State the specific 2018 amendment provision relevant to the question (s.7/8/13/17A).
 2. Compare it explicitly to the pre-2018 position and the ARC's 2007 diagnosis/recommendation.

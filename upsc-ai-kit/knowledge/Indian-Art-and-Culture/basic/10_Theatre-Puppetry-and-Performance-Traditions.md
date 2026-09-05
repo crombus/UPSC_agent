@@ -369,3 +369,36 @@ securely dated textual evidence.
 - 📰 Dated anchors: Kutiyattam ICH **2008**; SNA Puraskar to Anupama
   Hoskere **2020**. All ICH totals and current award lists route through
   topic 14 with its verification date.
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Natyashastra dramaturgy; lokadharmi and natyadharmi;
+  ten rupakas; Sanskrit stage roles, registers and conventions; regional
+  folk theatre; colonial and modern theatre; string, shadow, rod and glove
+  puppetry; martial or ritual performance and post-1947 institutions.
+- **Source/inference control:** text, script, stage convention, mask, puppet
+  mechanism, repertoire, community practice, performer testimony and dated
+  institution are evidence. Prescriptive dramaturgy is not a census of every
+  historical performance and decline narratives require demonstrated causes.
+- **Date control:** Sanskrit textual prescription, surviving Kutiyattam
+  practice, regional theatre histories, the Dramatic Performances Act of
+  1876, twentieth-century modern theatre and present safeguarding records
+  remain separate chronologies.
+- **Geography control:** Kutiyattam, Yakshagana, Jatra, Nautanki, Tamasha,
+  Bhavai, Bhand Pather, Ankiya Naat, Therukoothu and named puppet traditions
+  retain region, language, material, mechanism and social function.
+- **Terminology/style control:** lokadharmi denotes realistic
+  representation and natyadharmi stylised convention; Nataka and Prakarana
+  are not all ten rupakas; Sutradhar's classical stage role is related to but
+  not identical with a puppet string-holder or narrator.
+- **Boundary:** Topic 08 owns music systems and Topic 09 owns dance
+  grammar. This topic owns dramatic composition, enactment, stage relation
+  and puppet mechanism while retaining music and dance as components of a
+  composite performance.
+- **Boundary:** Language/literature belongs to Topic 11,
+  religious synthesis to Topic 13 and UNESCO, Akademi, NSD or safeguarding
+  status to Topic 14 unless a dated official source is recorded.
+- **Verified PYQ ownership, 2018-2026:** zero direct question-level route is
+  claimed. Adjacent Kalaripayattu or UNESCO-status objective routes remain
+  cross-owned and all supplied Mains questions stay explicitly original
+  practice.

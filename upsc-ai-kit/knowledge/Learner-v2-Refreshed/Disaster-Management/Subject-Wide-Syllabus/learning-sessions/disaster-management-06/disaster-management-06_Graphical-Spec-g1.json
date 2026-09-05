@@ -1,0 +1,1017 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-06",
+  "subject": "Disaster-Management",
+  "title": "TSUNAMI AND COASTAL HAZARD MANAGEMENT",
+  "short_route": "TSUNAMI GENERATION CHAIN → COASTAL-HAZARD FIREWALL → SOURCE-TO-IMPACT MATRIX → DETECTION-CONFIRMATION RAIL → ITEWC AUTHORITY MAP → WARNING-UNCERTAINTY LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-06\\disaster-management-06_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-06-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "472b66c0dfed6ac792281c4b211de93e345b5e12b6d13eb32d3c39decac69f50",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TSUNAMI GENERATION CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TSUNAMI GENERATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SUDDEN WATER DISPLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "VOLCANIC ACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "LONG WAVES",
+          "role": "evidence"
+        },
+        {
+          "text": "COASTAL TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "RUN-UP + INUNDATION + RETURN FLOW",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "SUDDEN WATER DISPLACEMENT",
+        "VOLCANIC ACTIVITY",
+        "LONG WAVES → COASTAL TRANSFORMATION",
+        "RUN-UP + INUNDATION + RETURN FLOW"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "SUDDEN WATER DISPLACEMENT",
+            "VOLCANIC ACTIVITY"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LONG WAVES → COASTAL TRANSFORMATION",
+            "RUN-UP + INUNDATION + RETURN FLOW"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SUDDEN WATER DISPLACEMENT",
+            "VOLCANIC ACTIVITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LONG WAVES → COASTAL TRANSFORMATION; RUN-UP + INUNDATION + RETURN FLOW.",
+      "source_references": [
+        "Tsunami generation",
+        "Shoaling and inundation"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COASTAL-HAZARD FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COASTAL-HAZARD FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "SUDDEN DISPLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "GRAVITATIONAL CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "STORM SURGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CYCLONE WIND + PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENT MONITORING AND RESPONSE LOGIC",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TSUNAMI → sudden displacement",
+        "TIDE → gravitational cycle",
+        "STORM SURGE → cyclone wind + pressure",
+        "RULE → different monitoring and response logic"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "TSUNAMI → sudden displacement",
+          "STORM SURGE → cyclone wind + pressure",
+          "TSUNAMI → sudden displacement"
+        ],
+        [
+          "TIDE → gravitational cycle",
+          "RULE → different monitoring and response logic",
+          "TIDE → gravitational cycle"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "TSUNAMI → sudden displacement",
+            "TIDE → gravitational cycle"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STORM SURGE → cyclone wind + pressure",
+            "RULE → different monitoring and response logic"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "TSUNAMI → sudden displacement",
+            "TIDE → gravitational cycle"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STORM SURGE → cyclone wind + pressure; RULE → different monitoring and response logic.",
+      "source_references": [
+        "Tide and storm-surge boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SOURCE-TO-IMPACT MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE-TO-IMPACT MATRIX",
+          "role": "evidence"
+        },
+        {
+          "text": "MECHANISM DEPTH DISPLACEMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "DISTANCE AND OCEAN CONFIGURATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BATHYMETRY TOPOGRAPHY LAND USE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPOSURE VULNERABILITY AND ACTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SOURCE → mechanism depth displacement",
+        "PATH → distance and ocean configuration",
+        "COAST → bathymetry topography land use",
+        "OUTCOME → exposure vulnerability and action"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "SOURCE → mechanism depth displacement",
+          "COAST → bathymetry topography land use",
+          "SOURCE → mechanism depth displacement"
+        ],
+        [
+          "PATH → distance and ocean configuration",
+          "OUTCOME → exposure vulnerability and action",
+          "PATH → distance and ocean configuration"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "SOURCE → mechanism depth displacement",
+            "PATH → distance and ocean configuration"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COAST → bathymetry topography land use",
+            "OUTCOME → exposure vulnerability and action"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → mechanism depth displacement",
+            "PATH → distance and ocean configuration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COAST → bathymetry topography land use; OUTCOME → exposure vulnerability and action.",
+      "source_references": [
+        "Generation is not impact",
+        "Inundation mapping"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DETECTION-CONFIRMATION RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DETECTION-CONFIRMATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "1 SEISMIC EVENT ANALYSIS",
+          "role": "outcome"
+        },
+        {
+          "text": "2 PRE-RUN MODEL SCENARIO",
+          "role": "comparison"
+        },
+        {
+          "text": "3 SEA-LEVEL MONITORING",
+          "role": "evidence"
+        },
+        {
+          "text": "4 UPDATED BULLETIN",
+          "role": "primary"
+        },
+        {
+          "text": "THREAT STATUS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1 SEISMIC EVENT ANALYSIS",
+        "2 PRE-RUN MODEL SCENARIO",
+        "3 SEA-LEVEL MONITORING",
+        "4 UPDATED BULLETIN / THREAT STATUS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "1 SEISMIC EVENT ANALYSIS",
+            "2 PRE-RUN MODEL SCENARIO"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "3 SEA-LEVEL MONITORING",
+            "4 UPDATED BULLETIN / THREAT STATUS"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "1 SEISMIC EVENT ANALYSIS",
+            "2 PRE-RUN MODEL SCENARIO"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 SEA-LEVEL MONITORING; 4 UPDATED BULLETIN / THREAT STATUS.",
+      "source_references": [
+        "Detection chain",
+        "Forecast and warning"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ITEWC AUTHORITY MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ITEWC AUTHORITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ANALYSIS AND ADVISORY",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECTIVE ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "ALL CLEAR",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "INCOIS / ITEWC → analysis and advisory",
+        "IOTWMS / UNESCO-IOC → regional framework",
+        "STATE / DISTRICT / LOCAL → protective action",
+        "LOCAL AUTHORITY → all clear"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "INCOIS / ITEWC → analysis and advisory",
+            "IOTWMS / UNESCO-IOC → regional framework"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "STATE / DISTRICT / LOCAL → protective action",
+            "LOCAL AUTHORITY → all clear"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "INCOIS / ITEWC → analysis and advisory",
+            "IOTWMS / UNESCO-IOC → regional framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE / DISTRICT / LOCAL → protective action.",
+      "source_references": [
+        "ITEWC",
+        "Service-provider role",
+        "Local all clear"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WARNING-UNCERTAINTY LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WARNING-UNCERTAINTY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMINARY INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MODEL-BASED THREAT",
+          "role": "comparison"
+        },
+        {
+          "text": "OBSERVATION-INFORMED UPDATE",
+          "role": "evidence"
+        },
+        {
+          "text": "THREAT PASSED",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL ALL-CLEAR CHECK",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PRELIMINARY INFORMATION",
+        "MODEL-BASED THREAT",
+        "OBSERVATION-INFORMED UPDATE",
+        "FINAL / THREAT PASSED → local all-clear check"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "PRELIMINARY INFORMATION",
+            "MODEL-BASED THREAT"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OBSERVATION-INFORMED UPDATE",
+            "FINAL / THREAT PASSED → local all-clear check"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "PRELIMINARY INFORMATION",
+            "MODEL-BASED THREAT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINAL / THREAT PASSED → local all-clear check.",
+      "source_references": [
+        "Forecast and warning",
+        "Local all clear"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INUNDATION-TO-EVACUATION MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INUNDATION-TO-EVACUATION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "INUNDATION MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "ZONE + ROUTE + REFUGE + ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "ACCESSIBLE TRANSPORT + ACCOUNTABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DRILL + FEEDBACK + REVISION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HAZARD / INUNDATION MAP",
+        "ZONE + ROUTE + REFUGE + ASSEMBLY",
+        "ACCESSIBLE TRANSPORT + ACCOUNTABILITY",
+        "DRILL + FEEDBACK + REVISION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "HAZARD / INUNDATION MAP",
+            "ZONE + ROUTE + REFUGE + ASSEMBLY"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCESSIBLE TRANSPORT + ACCOUNTABILITY",
+            "DRILL + FEEDBACK + REVISION"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "HAZARD / INUNDATION MAP",
+            "ZONE + ROUTE + REFUGE + ASSEMBLY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCESSIBLE TRANSPORT + ACCOUNTABILITY; DRILL + FEEDBACK + REVISION.",
+      "source_references": [
+        "Inundation mapping",
+        "Evacuation chain"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COASTAL PROTECTION PORTFOLIO",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COASTAL PROTECTION PORTFOLIO",
+          "role": "primary"
+        },
+        {
+          "text": "SHELTERS WALLS BREAKWATERS WHERE JUSTIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "DUNES MANGROVES FORESTS REEFS",
+          "role": "comparison"
+        },
+        {
+          "text": "CRZ + RISK-SENSITIVE SITING",
+          "role": "caution"
+        },
+        {
+          "text": "LAYERED AND LOCATION-SPECIFIC",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ENGINEERED → shelters walls breakwaters where justified",
+        "NATURAL → dunes mangroves forests reefs",
+        "REGULATORY → CRZ + risk-sensitive siting",
+        "RULE → layered and location-specific"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "ENGINEERED → shelters walls breakwaters where justified",
+          "REGULATORY → CRZ + risk-sensitive siting",
+          "ENGINEERED → shelters walls breakwaters where justified"
+        ],
+        [
+          "NATURAL → dunes mangroves forests reefs",
+          "RULE → layered and location-specific",
+          "NATURAL → dunes mangroves forests reefs"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ENGINEERED → shelters walls breakwaters where justified",
+            "NATURAL → dunes mangroves forests reefs"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REGULATORY → CRZ + risk-sensitive siting",
+            "RULE → layered and location-specific"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ENGINEERED → shelters walls breakwaters where justified",
+            "NATURAL → dunes mangroves forests reefs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REGULATORY → CRZ + risk-sensitive siting; RULE → layered and location-specific.",
+      "source_references": [
+        "Coastal regulation",
+        "Natural buffers"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "COASTAL ECONOMY CONTINUITY",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COASTAL ECONOMY CONTINUITY",
+          "role": "primary"
+        },
+        {
+          "text": "SHUTDOWN ACCESS REOPENING",
+          "role": "outcome"
+        },
+        {
+          "text": "BOATS LANDING CENTRES MARKETS",
+          "role": "comparison"
+        },
+        {
+          "text": "VISITOR WARNING SIGNAGE ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUITY AND SAFE RECOVERY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PORT / HARBOUR → shutdown access reopening",
+        "FISHERIES → boats landing centres markets",
+        "TOURISM → visitor warning signage route",
+        "UTILITIES / HOSPITAL → continuity and safe recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "PORT / HARBOUR → shutdown access reopening",
+            "FISHERIES → boats landing centres markets"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "TOURISM → visitor warning signage route",
+            "UTILITIES / HOSPITAL → continuity and safe recovery"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "PORT / HARBOUR → shutdown access reopening",
+            "FISHERIES → boats landing centres markets"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UTILITIES / HOSPITAL → continuity and safe recovery.",
+      "source_references": [
+        "Ports and critical facilities",
+        "Fisheries and tourism"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TSUNAMI READY CYCLE",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TSUNAMI READY CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAP RISK",
+          "role": "caution"
+        },
+        {
+          "text": "EVACUATION MAP + SIGNAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "EVALUATE INDICATORS",
+          "role": "evidence"
+        },
+        {
+          "text": "RENEW READINESS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY RECOGNITION",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT NATIONAL CERTIFICATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MAP RISK → EDUCATE → WARN",
+        "EVACUATION MAP + SIGNAGE → DRILL",
+        "EVALUATE INDICATORS → RENEW READINESS",
+        "COMMUNITY RECOGNITION → NOT NATIONAL CERTIFICATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "MAP RISK → EDUCATE → WARN",
+            "EVACUATION MAP + SIGNAGE → DRILL"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EVALUATE INDICATORS → RENEW READINESS",
+            "COMMUNITY RECOGNITION → NOT NATIONAL CERTIFICATION"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "MAP RISK → EDUCATE → WARN",
+            "EVACUATION MAP + SIGNAGE → DRILL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVALUATE INDICATORS → RENEW READINESS; COMMUNITY RECOGNITION → NOT NATIONAL CERTIFICATION.",
+      "source_references": [
+        "Community preparedness",
+        "Tsunami Ready boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TRUST UNDER UNCERTAINTY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TRUST UNDER UNCERTAINTY",
+          "role": "primary"
+        },
+        {
+          "text": "THREAT POSSIBLE?",
+          "role": "outcome"
+        },
+        {
+          "text": "ISSUE PRECAUTIONARY MESSAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW DATA?",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPLAIN REASON",
+          "role": "primary"
+        },
+        {
+          "text": "PRESERVE TRUST",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMITED IMPACT",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT AUTOMATIC FALSE-ALARM FAILURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "THREAT POSSIBLE? → ISSUE PRECAUTIONARY MESSAGE",
+        "NEW DATA? → UPDATE / UPGRADE / DOWNGRADE",
+        "EXPLAIN REASON → PRESERVE TRUST",
+        "LIMITED IMPACT → NOT AUTOMATIC FALSE-ALARM FAILURE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "THREAT POSSIBLE? → ISSUE PRECAUTIONARY MESSAGE",
+            "NEW DATA? → UPDATE / UPGRADE / DOWNGRADE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN REASON → PRESERVE TRUST",
+            "LIMITED IMPACT → NOT AUTOMATIC FALSE-ALARM FAILURE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "THREAT POSSIBLE? → ISSUE PRECAUTIONARY MESSAGE",
+            "NEW DATA? → UPDATE / UPGRADE / DOWNGRADE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEW DATA? → UPDATE / UPGRADE / DOWNGRADE.",
+      "source_references": [
+        "False alarms and uncertainty"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TSUNAMI ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TSUNAMI ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE DISPLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE SHOALING AND CONSEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAP DETECTION MODEL SEA LEVEL BULLETIN AND AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONNECT MAP TO EVACUATION BUFFERS PORTS AND LIVELIHOODS",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFY UNCERTAINTY READINESS RECOVERY AND OUTCOME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE DISPLACEMENT → TRACE SHOALING AND CONSEQUENCE",
+        "MAP DETECTION MODEL SEA LEVEL BULLETIN AND AUTHORITY",
+        "CONNECT MAP TO EVACUATION BUFFERS PORTS AND LIVELIHOODS",
+        "QUALIFY UNCERTAINTY READINESS RECOVERY AND OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "DEFINE DISPLACEMENT → TRACE SHOALING AND CONSEQUENCE",
+            "MAP DETECTION MODEL SEA LEVEL BULLETIN AND AUTHORITY"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "CONNECT MAP TO EVACUATION BUFFERS PORTS AND LIVELIHOODS",
+            "QUALIFY UNCERTAINTY READINESS RECOVERY AND OUTCOME"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE DISPLACEMENT → TRACE SHOALING AND CONSEQUENCE",
+            "MAP DETECTION MODEL SEA LEVEL BULLETIN AND AUTHORITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONNECT MAP TO EVACUATION BUFFERS PORTS AND LIVELIHOODS.",
+      "source_references": [
+        "Recovery and livelihoods",
+        "Warning-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MULTI-AGENCY WARNING ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INDIAN TSUNAMI EARLY",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNO-LEGAL REGIME IS DUAL-PURPOSE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CRZ NOTIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL-BARRIER EVIDENCE FROM THE 2004 EVENT",
+          "role": "evidence"
+        },
+        {
+          "text": "VISIONIAS RECORDS",
+          "role": "comparison"
+        },
+        {
+          "text": "NAVAL HYDROGRAPHIC DEPARTMENT'S DUAL CIVIL-MILITARY ROLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Multi-agency warning architecture : the Indian Tsunami Early",
+            "Techno-legal regime is dual-purpose : the CRZ Notification,",
+            "Natural-barrier evidence from the 2004 event : VisionIAS records",
+            "Naval Hydrographic Department's dual civil-military role : seven"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: The bathymetry data gap is explicitly named as a limiting",
+            "CAUTION: Physical vulnerability of the sensing network itself :",
+            "CAUTION: VisionIAS names \"inadequate community awareness on tsunami risk and",
+            "CAUTION: Structural versus ecosystem-based coastal defence is a genuine,"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: The \"warning system exists, therefore coastal safety is assured\"",
+            "CAUTION: Traditional-knowledge documentation gap : VisionIAS names \"lack",
+            "CAUTION: VisionIAS does not detail tsunami-specific financing (structural",
+            "Monitoring paleo-tsunami studies and documentation — flagged by"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

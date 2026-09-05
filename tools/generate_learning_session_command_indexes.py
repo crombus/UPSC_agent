@@ -3,22 +3,35 @@
 from __future__ import annotations
 
 import re
-import json
 from difflib import SequenceMatcher
 from pathlib import Path
 
 from generate_export_command_index import (
     PHILOSOPHY_BLOCKS,
     SUPPLEMENTAL_TOPICS,
+    V2_VARIANT,
+    load_statuses,
+    philosophy_topic_key,
     read_topic_table,
+    records_for,
 )
 
 
 ROOT = Path(__file__).resolve().parents[1]
 KNOWLEDGE = ROOT / "upsc-ai-kit" / "knowledge"
 INDEX_NAME = "LEARNING-SESSION-COMMAND-INDEX.md"
+CANONICAL_SESSION_DIRECTORY = "learning-sessions"
+LEGACY_SESSION_DIRECTORY_ALIASES = (
+    "Terminal-Learning-Sessions",
+    "learning-sessions-v2",
+    "_learning-sessions",
+)
+SESSION_DIRECTORY_NAMES = (
+    CANONICAL_SESSION_DIRECTORY,
+    *LEGACY_SESSION_DIRECTORY_ALIASES,
+)
 
-SKIP_DIRECTORIES = {"_source-library", "Philosophy"}
+SKIP_DIRECTORIES = {"_source-library"}
 
 SUBJECT_STRATEGIES = {
     "Ancient-Indian-History": "Chronology -> sources -> institutions and society -> historical debate -> maps/PYQs.",
@@ -119,6 +132,47 @@ def package_for_number(
     return best_title_match(title, packages)
 
 
+def numbered_paths(paths: list[Path]) -> dict[int, Path]:
+    result = {}
+    for path in paths:
+        match = re.match(r"^(\d+)_", path.name)
+        if match:
+            result[int(match.group(1))] = path
+    return result
+
+
+def learning_session_for_number(subject: Path, number: int) -> Path | None:
+    subject_slug = subject.name.casefold()
+    # The tracker is authoritative when a preservation-safe learner-v2
+    # regeneration has created a newer assembled Markdown generation.  A
+    # filename sort alone can accidentally point an index at an old pilot.
+    tracked_key = f"{subject_slug}-{number:02d}"
+    statuses = load_statuses()
+    tracked = records_for(tracked_key, statuses, V2_VARIANT)
+    for _, record in tracked:
+        raw_path = record.get("markdown")
+        if not raw_path:
+            continue
+        candidate = ROOT / Path(str(raw_path).replace("\\", "/"))
+        if candidate.is_file():
+            return candidate
+    for directory_name in SESSION_DIRECTORY_NAMES:
+        directory = subject / directory_name
+        if not directory.is_dir():
+            continue
+        matches = sorted(
+            path
+            for path in directory.rglob("*.md")
+            if re.match(rf"^{number:02d}_", path.name)
+            or path.name.casefold().startswith(
+                f"{subject_slug}-{number:02d}-"
+            )
+        )
+        if matches:
+            return matches[0]
+    return None
+
+
 def ordered_subject_topics(subject: Path) -> list[tuple[str, str, Path, bool]]:
     advanced = sorted(
         path
@@ -127,64 +181,48 @@ def ordered_subject_topics(subject: Path) -> list[tuple[str, str, Path, bool]]:
     )
     basics = sorted((subject / "basic").glob("*.md"))
     packages = sorted(subject.glob("*Complete-Topic-Package.md"))
+    basic_by_number = numbered_paths(basics)
+    advanced_by_number = numbered_paths(advanced)
+    listed_by_number = dict(read_topic_table(subject))
+    supplemental_by_number = dict(SUPPLEMENTAL_TOPICS.get(subject.name, []))
+    for topic_number, title in supplemental_by_number.items():
+        listed_by_number.setdefault(topic_number, title)
 
-    listed_topics = read_topic_table(subject)
-    if listed_topics:
-        listed_topics.extend(SUPPLEMENTAL_TOPICS.get(subject.name, []))
-        topics: list[tuple[str, str, Path, bool]] = []
-        for topic_number, title in listed_topics:
-            number = f"{topic_number:02d}"
-            core = best_title_match(title, basics)
-            if core is None:
-                core = best_title_match(title, advanced)
-            if core is None:
-                continue
-            package = package_for_number(number, title, packages)
-            topics.append((number, title, core, package is not None))
-        return topics
-
-    if advanced:
-        topics = []
-        for advanced_path in advanced:
-            match = re.match(r"^(\d+)_", advanced_path.name)
-            if not match:
-                continue
-            number = match.group(1).zfill(2)
-            core = best_match(advanced_path, basics) or advanced_path
-            package = package_for_number(number, clean_title(advanced_path), packages)
-            topics.append((number, clean_title(advanced_path), core, package is not None))
-        existing_numbers = {int(number) for number, *_ in topics}
-        for topic_number, title in SUPPLEMENTAL_TOPICS.get(subject.name, []):
-            if topic_number in existing_numbers:
-                continue
-            number = f"{topic_number:02d}"
-            core = best_title_match(title, basics)
-            if core is None:
-                continue
-            package = package_for_number(number, title, packages)
-            topics.append((number, title, core, package is not None))
-        return topics
-
-    source_files = basics or packages
-    topics = []
-    for index, core in enumerate(source_files, 1):
-        match = re.match(r"^(\d+)_", core.name)
-        number = match.group(1).zfill(2) if match else f"{index:02d}"
-        package = best_match(core, packages)
-        topics.append((number, clean_title(core), core, package is not None))
+    all_numbers = sorted(
+        set(basic_by_number) | set(advanced_by_number) | set(listed_by_number)
+    )
+    topics: list[tuple[str, str, Path, bool]] = []
+    for topic_number in all_numbers:
+        basic = basic_by_number.get(topic_number)
+        advanced_path = advanced_by_number.get(topic_number)
+        core = basic or advanced_path
+        if core is None and topic_number in supplemental_by_number:
+            supplemental_title = supplemental_by_number[topic_number]
+            core = (
+                best_title_match(supplemental_title, basics)
+                or best_title_match(supplemental_title, advanced)
+            )
+        if core is None:
+            continue
+        title = listed_by_number.get(topic_number)
+        if title and not (title_tokens(title) & title_tokens(core)):
+            title = None
+        if not title:
+            basic_title = clean_title(basic) if basic else ""
+            advanced_title = clean_title(advanced_path) if advanced_path else ""
+            if basic_title and advanced_title and basic_title != advanced_title:
+                title = f"{basic_title} / {advanced_title}"
+            else:
+                title = basic_title or advanced_title
+        number = f"{topic_number:02d}"
+        package = package_for_number(number, title, packages)
+        session = learning_session_for_number(subject, topic_number)
+        topics.append((number, title, core, package is not None or session is not None))
     return topics
 
 
-def exported_commands() -> set[str]:
-    status_file = ROOT / "EXPORT-PDF-STATUS.json"
-    if not status_file.exists():
-        return set()
-    data = json.loads(status_file.read_text(encoding="utf-8"))
-    return {
-        entry["command"]
-        for entry in data.get("exports", [])
-        if isinstance(entry, dict) and entry.get("command")
-    }
+def exported_topic_keys() -> set[str]:
+    return {identity[0] for identity in load_statuses()}
 
 
 def philosophy_topics(subject: Path) -> list[tuple[str, str, str, Path, bool]]:
@@ -196,7 +234,7 @@ def philosophy_topics(subject: Path) -> list[tuple[str, str, str, Path, bool]]:
         and path.name.lower() != "readme.md"
         and path.parent.name != "_themes"
     ]
-    statuses = exported_commands()
+    statuses = exported_topic_keys()
     for block, titles in PHILOSOPHY_BLOCKS:
         label = block.removeprefix("Philosophy ")
         for index, title in enumerate(titles, 1):
@@ -204,9 +242,14 @@ def philosophy_topics(subject: Path) -> list[tuple[str, str, str, Path, bool]]:
             owner = best_title_match(title, files)
             if owner is None:
                 continue
-            export_command = f"Export PDF for {block} {number} — {title}"
             result.append(
-                (label, number, title, owner, export_command in statuses)
+                (
+                    label,
+                    number,
+                    title,
+                    owner,
+                    philosophy_topic_key(block, number) in statuses,
+                )
             )
     return result
 
@@ -224,7 +267,7 @@ def common_header(subject_name: str, topic_count: int) -> list[str]:
     return [
         f"# {subject_display} Learning Session Command Index",
         "",
-        f"> **Topics indexed:** {topic_count}  ",
+        f"> **Topics indexed:** {topic_count}",
         f"> **Subject method:** {strategy}",
         "",
         "## How to use these commands",
@@ -239,6 +282,9 @@ def common_header(subject_name: str, topic_count: int) -> list[str]:
         "### Learning-session rule",
         "",
         "The complete package remains the master reference. A live session should select all exam-relevant Core material, use advanced material only where it adds marks, run one genuine current-affairs check per integrated block, and end with cumulative retrieval rather than an MCQ after every small heading.",
+        "",
+        f"New archives use `{CANONICAL_SESSION_DIRECTORY}/`. "
+        f"`{'`, `'.join(LEGACY_SESSION_DIRECTORY_ALIASES)}` are indexed only as legacy migration aliases; do not create new sessions there.",
         "",
     ]
 
@@ -256,7 +302,7 @@ def render_standard_subject(subject: Path) -> str:
         ]
     )
     for number, title, core, has_package in topics:
-        status = "complete package available" if has_package else "Core owner ready"
+        status = "complete package/session available" if has_package else "Core owner ready"
         topic = f"**{title}**<br>{status}; `{core.relative_to(subject).as_posix()}`"
         prefix = f"{subject_display} {number}"
         lines.append(
@@ -279,7 +325,17 @@ def render_standard_subject(subject: Path) -> str:
 
 def render_philosophy(subject: Path) -> str:
     topics = philosophy_topics(subject)
+    statuses = load_statuses()
     lines = common_header(subject.name, len(topics))
+    lines.extend(
+        [
+            "For learner-v2 Philosophy exports, SIMPLE START + CORE UPSC are taught first "
+            "across the complete topic; EXAM APPLICATION + RAPID REVISION become practice; "
+            "ADVANCED is retained only in the optional final depth block. Legacy-v1 layered "
+            "sessions remain separate and unchanged.",
+            "",
+        ]
+    )
     lines.extend(
         [
             "## Copy-ready topic commands",
@@ -289,7 +345,28 @@ def render_philosophy(subject: Path) -> str:
         ]
     )
     for section, number, title, core, has_package in topics:
-        status = "complete package available" if has_package else "canonical owner ready"
+        key = next(
+            philosophy_topic_key(block, number)
+            for block, _ in PHILOSOPHY_BLOCKS
+            if block.removeprefix("Philosophy ") == section
+        )
+        variants = {
+            identity[1]
+            for identity in statuses
+            if identity[0] == key
+        }
+        status_parts = []
+        if "learner-v2" in variants:
+            status_parts.append("learner-v2 available")
+        else:
+            status_parts.append("learner-v2 pending")
+        if "legacy-v1" in variants:
+            status_parts.append("legacy-v1 retained")
+        elif has_package:
+            status_parts.append("earlier package/session available")
+        else:
+            status_parts.append("canonical owner ready")
+        status = "; ".join(status_parts)
         topic = f"**{title}**<br>{status}; `{core.relative_to(subject).as_posix()}`"
         prefix = f"Philosophy {section} {number}"
         lines.append(
@@ -346,6 +423,8 @@ def main() -> None:
         "- `Deep` is optional and should be used selectively, not after every session.",
         "- `Test` is closed-book practice.",
         "- `Revise` is compressed revision from register notes and the personal error log.",
+        f"- New session Markdown belongs under `{CANONICAL_SESSION_DIRECTORY}/`; "
+        "older directory names are compatibility aliases only.",
         "",
         "| Subject | Topics | Command index |",
         "|---|---:|---|",

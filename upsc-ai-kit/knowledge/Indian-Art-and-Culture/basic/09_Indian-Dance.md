@@ -338,3 +338,37 @@ mahari/gotipua history do not.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Natyashastra performance grammar; rasa and bhava; nritta,
+  nritya and natya; abhinaya, hasta and karana; Tandava and Lasya qualities;
+  the separately identified classical forms; regional, ritual, folk and
+  martial dance; pedagogy, repertoire and recognition distinctions.
+- **Source/inference control:** treatise passage, repertoire, costume,
+  movement vocabulary, music, community practice, lineage and dated
+  institutional record are evidence. Sculptural pose comparison does not
+  prove one unchanged meaning or continuous choreography.
+- **Date control:** textual layers, historical court or temple phases,
+  twentieth-century reconstruction and institutional recognition, and
+  current UNESCO status are separate chronologies. The number 108 belongs to
+  karanas, not to a universal count of mudras.
+- **Geography control:** Bharatanatyam, Kathak, Kathakali, Kuchipudi,
+  Odissi, Sattriya, Manipuri and Mohiniyattam retain distinct regions,
+  repertoires and performance grammars; Chhau, Garba and other regional forms
+  are not absorbed into that eight-form list.
+- **Terminology/style control:** nritta, nritya, natya, hasta, mudra,
+  karana, abhinaya, rasa, bhava, Lasya and Tandava remain separate. SNA's
+  eight-form list, a Ministry list including Chhau and UNESCO ICH inscription
+  are different classification or recognition systems.
+- **Boundary:** Topic 08 owns music as a system; Topic 10 owns
+  theatre, puppetry and dramaturgical media. Dance-drama is classified by its
+  dominant grammar and discussed cross-topic without homogenising the forms.
+- **Boundary:** Sculpture belongs to Topic 06, religious
+  synthesis to Topic 13 and all changing recognition, safeguarding and
+  institutional policy to Topic 14 unless supported by a dated official
+  source.
+- **Verified PYQ ownership, 2018-2026:** zero direct question-level route is
+  claimed for the core dance owner. The 2024 'latest Indian UNESCO ICH'
+  objective demand belongs to recognition-status control and is not used to
+  redefine Garba as SNA classical dance.

@@ -414,3 +414,30 @@ NO confirmed temple/palace      -->    a different, not absent, expression of
   carried by this folder's sources; do not give a temple tank dimensions;
   do not merge the **Modhera** Surya Kund with the **Gaya** Surya Kund; and
   do not present Harappan water works as the ancestor of the stepwell.
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** architectural reading axes and Harappan urban form: grid,
+  zoning, brick, domestic water, drainage, public works, regional variation
+  and the ceiling imposed by an undeciphered script.
+- **Source/inference control:** grid, fabric, drains, wells, reservoirs and
+  excavated plans are evidence; Great Bath ritual use, granary function,
+  Lothal dockyard function, Meluha identity and political centralisation are
+  qualified interpretations. No palace or temple is securely identified.
+- **Date control:** early, mature and late Harappan phases, site occupation,
+  excavation and modern World Heritage recognition are separate chronologies.
+- **Geography control:** Mohenjo-daro, Harappa, Dholavira, Lothal and
+  Kalibangan are compared as regional solutions, never copies of one city.
+- **Terminology/style control:** citadel, lower town, functional zoning,
+  standardised burnt brick, gypsum mortar and maintainable drainage are used
+  precisely; conventional archaeological labels remain conditional.
+- **Iconography control:** Topic 06 owns freestanding sculpture, seals,
+  pottery and the contested Pashupati reading; this topic uses them only when
+  they directly qualify architectural evidence.
+- **Boundary:** Ancient History owns full chronology, polity, economy, trade,
+  decline and script debates. Topic 14 owns institutional policy and changing
+  heritage status; no present-day status is asserted without a dated official
+  source.
+- **Verified PYQ ownership, 2018-2026:** one direct 2025 GS-I Mains demand on
+  salient features is retained with verified wording. No extra PYQ or
+  objective answer key is invented.

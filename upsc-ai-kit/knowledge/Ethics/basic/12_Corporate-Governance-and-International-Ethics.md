@@ -26,7 +26,7 @@
                     |
                     v
         CSR (Companies Act 2013, s.135) = a STATUTORY,
-        discretionary-spend obligation on qualifying companies —
+        ring-fenced expenditure obligation on qualifying companies —
         DISTINCT FROM, not identical to, corporate ethics
 ```
 
@@ -39,9 +39,9 @@ should describe *how* business is done throughout, not a separate reputational f
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Ethics in business vs "business ethics"** (ARC 1.17) | ARC explicitly favours "ethics in business" — ethical conduct integrated into ordinary commercial decision-making — over "business ethics" as a bolt-on compliance department. |
-| ⚠️ **Corporate ethics vs CSR** | Corporate ethics concerns the *means* by which a business operates (honest accounting, fair labour practices, non-bribery, environmental compliance); CSR is a *specific, often discretionary or statutorily mandated spend* directed at social/environmental causes, which can coexist with, but does not substitute for, ethical core operations. |
+| ⚠️ **Corporate ethics vs CSR** | Corporate ethics concerns the *means* by which a business operates (honest accounting, fair labour practices, non-bribery, environmental compliance); CSR under Section 135 is a statutory expenditure/transfer regime for qualifying companies, with discretion confined to lawful policy and project choices. It does not substitute for ethical core operations. |
 | ✅ **Serious Fraud Office model** (ARC Box 3.2; ARC 3.7.9 citing the Naresh Chandra Committee, 2002) | A dedicated, multi-disciplinary investigative body (law, accountancy, investigation expertise) for complex corporate/financial fraud, modelled on the UK's Serious Fraud Office (constituted under the Criminal Justice Act 1987; operational from April 1988). |
-| ✅ **UNCAC (UN Convention against Corruption, 2003)** | The principal global anti-corruption treaty, adopted by UNGA resolution 58/4 on 31 October 2003 and in force from 14 December 2005, requiring signatories to promote integrity, adopt codes of conduct for officials (Article 8) and maintain a preventive anti-corruption body or bodies (Article 6). **India signed on 9 December 2005 and ratified on 9 May 2011.** |
+| ✅ **UNCAC (UN Convention against Corruption, 2003)** | The principal global anti-corruption treaty, adopted by UNGA resolution 58/4 on 31 October 2003 and in force from 14 December 2005. It requires States Parties to take preventive, criminalisation, cooperation and asset-recovery measures; Articles 6 and 8 concern preventive bodies and public-official codes. **India signed on 9 December 2005 and ratified on 9 May 2011.** |
 
 ## 3. Mechanism: how corporate and international ethics interlock with public administration
 
@@ -65,9 +65,9 @@ should describe *how* business is done throughout, not a separate reputational f
 4. **International instruments** (UNCAC, OECD-ADB Anti-Corruption Action Plan, US Foreign Corrupt
    Practices Act) extend anti-corruption norms across borders, recognising that multinational
    business and cross-border bribery require coordinated, not merely national, response.
-5. ✅ 2024 GS-IV Q7 (Section B case study: tech company, AI/data-centre GHG emissions) directly tests the tension
-   between "business objectives" and "ethical obligations" in balancing "innovation, profitability
-   and sustainability" — a live corporate-ethics/environmental-ethics dilemma.
+5. ⚠️ 2024 GS-IV Q7 (tech company, AI/data-centre GHG emissions) is primarily owned by Topics
+   `13` and `22`; Topic `12` supplies a corporate-governance cross-link on stakeholder/shareholder
+   duties, board accountability, core-business ethics and greenwashing.
 
 ## 4. Indian applications and examples
 
@@ -80,7 +80,7 @@ should describe *how* business is done throughout, not a separate reputational f
   cooperation on corruption prevention — relevant to any question on India's international
   anti-corruption commitments. ⚠️ Do not confuse it with the OECD Anti-Bribery Convention, 1997, to
   which India is **not** a party.
-- ⚠️ A data-centre operator (as in 2024 GS-IV Q1) facing rising GHG emissions from AI-driven
+- ⚠️ A data-centre operator (as in 2024 GS-IV Q7) facing rising GHG emissions from AI-driven
   compute demand must balance shareholder-value obligations against environmental/ethical duties —
   a direct test of corporate-ethics-meets-environmental-ethics reasoning (see `13`).
 
@@ -116,9 +116,8 @@ should describe *how* business is done throughout, not a separate reputational f
 
 ## 7. PYQ application
 
-- ✅ 2024 GS-IV Q7 (Section B case study): a tech company (data centres, AI-driven energy demand, GHG emissions)
-  balancing "business objectives and ethical obligations" and "innovation, profitability and
-  sustainability" — a direct corporate-ethics/environment-ethics case (see `13`, `22`).
+- ⚠️ 2024 GS-IV Q7 is a primary Topic `13`/`22` route and a Topic `12` corporate-governance
+  cross-link on board responsibility, stakeholder claims and credible sustainability commitments.
 - ⚠️ Any question on "global cooperation against corruption" should cite UNCAC and the ADB-OECD
   Action Plan by name (ARC 1.14).
 
@@ -176,11 +175,12 @@ should describe *how* business is done throughout, not a separate reputational f
   worth ≥ ₹500 crore, **or** turnover ≥ ₹1,000 crore, **or** net profit ≥ ₹5 crore.
 - ✅ **Spend obligation:** at least 2% of average net profit of the three immediately preceding
   financial years, on Schedule VII activities, through a board-approved CSR policy.
-- ✅ **Unspent-fund architecture (Companies (CSR Policy) Amendment Rules, 2021):** unspent CSR amount
-  *not* linked to an ongoing project must be transferred to a specified Schedule VII fund (e.g., PM
-  CARES-type funds) within six months of the financial year-end; unspent amount linked to an
-  **ongoing project** must instead go into a separate "Unspent CSR Account" and be spent within
-  three financial years, failing which it too must be transferred to the specified fund.
+- ✅ **Unspent-fund architecture:** Section 135(5)-(6), inserted through the Companies (Amendment)
+  Act, 2019 and brought into force from 22 January 2021, creates the transfer regime. Amount not
+  linked to an ongoing project must go to a specified Schedule VII fund within six months of the
+  financial year-end. Ongoing-project amount goes to an **Unspent CSR Account** within 30 days,
+  must be spent within three financial years, and any residual amount must then be transferred to
+  the specified fund within 30 days. The 2021 CSR Rules define and operationalise "ongoing project."
 - ✅ **Impact assessment (mandate introduced by the Companies (CSR Policy) Amendment Rules, 2021;
   cost cap revised by the 2022 amendment):** the 2021 amendment first introduced the requirement
   that companies with average CSR obligation of ₹10 crore or more in the three preceding financial
@@ -196,6 +196,10 @@ should describe *how* business is done throughout, not a separate reputational f
   current text of the Companies (CSR Policy) Rules, 2014 (as amended) and any MCA circular before
   citing a specific numeric threshold in a live/administrative context, since rule-level detail is
   more amendment-prone than the Section 135 statutory thresholds themselves.
+- ✅ **Dated 2026 application:** MCA notifications G.S.R. 415(E) and 416(E) of 27 May 2026 added
+  subscription to eligible zero-coupon zero-principal instruments on the Social Stock Exchange to
+  Schedule VII and created a capped route under Rule 4A. This is an additional CSR route, not a
+  change to Section 135's applicability thresholds or 2% base obligation.
 
 ### Stakeholder responsibility and the greenwashing/box-ticking limit
 
@@ -218,17 +222,10 @@ should describe *how* business is done throughout, not a separate reputational f
 
 > ⚠️ 2022 GS-IV Q5(a) (historical demand, routed here): illustrate the ethical issues in the
 > Russia-Ukraine war. ⚠️ 2023 GS-IV Q1(b) (historical demand, routed here): comment on ethics in
-> contemporary international aid. 📰 The Russia-Ukraine conflict began with Russia's full-scale
-> invasion in **February 2022**; its status (active hostilities, partial truce, ceasefire
-> negotiation stage, or a concluded settlement) **changes over time and must be independently
-> verified via `web_search`/`web_fetch` immediately before any live session or answer that states a
-> current conflict/ceasefire status** — do not rely on any date-stamped status recorded in this
-> file (including the "as of" date below) without re-checking it, since this is exactly the kind of
-> fast-moving fact this repository's own accuracy discipline requires re-verifying rather than
-> repeating from memory. As last checked for this file (status recorded, not asserted as current):
-> as of **August 2026** the conflict had seen no durable, comprehensively verified ceasefire despite
-> repeated negotiation rounds — treat this, and any specific casualty/territorial/negotiation-
-> outcome figures, as time-sensitive; the *ethical framework* below does not depend on those figures.
+> contemporary international aid. The Russia-Ukraine conflict began with Russia's full-scale
+> invasion in **February 2022**; any present conflict, ceasefire, territorial, casualty or
+> negotiation status must be independently re-verified immediately before use. The ethical
+> framework below does not depend on a time-sensitive battlefield claim.
 
 ### War ethics framework (Just War tradition, applied neutrally)
 
@@ -258,6 +255,11 @@ should describe *how* business is done throughout, not a separate reputational f
   against its sovereignty cost, and valuing recipient ownership without ignoring legitimate donor
   concern for effective, non-corrupt utilisation — a one-sided "aid is always paternalistic" or "aid
   conditions are always justified" answer misses the genuine tension GS-IV is testing.
+- ⚠️ **Non-refoulement boundary:** Article 33 of the Refugee Convention expresses the prohibition
+  on returning a refugee to threatened persecution. India is not a party to the 1951 Convention or
+  1967 Protocol. In Indian answers, use *NHRC v. State of Arunachal Pradesh* for Article 21
+  protection of non-citizens and treat *Mohammad Salimullah* as an interim order, not a final
+  settlement of customary-law non-refoulement.
 - ⚠️ Cross-link: `10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md` treats sovereignty-vs-
   intervention tensions at the individual-conscience level (Snowden); this file's contribution is
   the state/institutional-level international-ethics register.
@@ -345,12 +347,12 @@ complementary measure/principle]."
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
 | 2024 | GS-IV | 10 | Case study: Sneha, a senior manager at a hospital chain | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
-| 2025 | GS-IV | 2 | (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 2 | (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas | Section A theory · 10 + 10 marks · 150 words each | Q2(a) owned here; Q2(b) owned by Topic 13 | Prepare the war-ethics demand here and cross-link the environmental-clearance demand to Topic 13. |
 
 ### What this owner must now support
 
 - Case study: Sneha, a senior manager at a hospital chain
-- (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas
+- Q2(a): Clausewitz - war as diplomacy by other means; Q2(b) remains a Topic 13 environmental-ethics demand
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

@@ -435,3 +435,33 @@ and the script change.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** language-family classification; Sanskrit, Pali and
+  Prakrit registers; Brahmi, right-to-left Kharoshthi and regional script
+  histories; layered Vedic, Buddhist, Jain, Sangam, classical Sanskrit,
+  vernacular and Urdu literatures; manuscripts as material witnesses.
+- **Source/inference control:** inscription, manuscript, colophon, grammar,
+  securely attributed text and staged speech convention are evidence.
+  Language use cannot by itself prove ethnicity, religion, literacy rate or
+  the speech of a whole population.
+- **Date control:** composition, oral transmission, redaction, earliest
+  surviving manuscript, critical edition, constitutional recognition and
+  Memory of the World inscription are separate dates. The Rigveda's 2007
+  recognition does not date its composition.
+- **Geography control:** Indo-Aryan, Dravidian, Austroasiatic and
+  Tibeto-Burman families, northwest Kharoshthi, Ashokan Greek-Aramaic
+  evidence, Tamil Sangam production and later regional publics retain their
+  own spatial histories.
+- **Terminology/style control:** language family, language, script, register,
+  literary genre, Eighth Schedule status, official-language use, classical
+  recognition and documentary-heritage recognition are not interchangeable.
+- **Boundary:** Ancient/Medieval History own full political chronology;
+  Topic 10 owns dramatic performance, Topic 13 religious-philosophical
+  doctrine and Topic 14 current heritage institutions and recognition.
+- **Verified PYQ ownership, 2018-2026:** objective routes cover the 2021
+  Bhavabhuti-Hastimalla-Kshemeshvara attribution, 2024 Bhasa attribution and
+  provisional 2026 place-value notation. The 2024 Pallava Mains demand is
+  cross-owned with Topic 03; no direct topic-only GS-I Mains PYQ or
+  objective answer letter is invented.

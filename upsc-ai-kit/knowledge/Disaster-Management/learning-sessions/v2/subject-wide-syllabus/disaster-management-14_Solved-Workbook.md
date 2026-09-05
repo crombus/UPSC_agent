@@ -1,0 +1,939 @@
+# Urban and Critical Infrastructure Resilience — Solved Practice Workbook
+
+> **Authoring-only generation:** 2026-09-04. Uses the same source-bounded disaster-management distinctions and strict A-B-C-D rotation.
+
+## BASIC MCQS / REMEDIATION
+
+### Q1. Which statement correctly identifies Urban disaster risk?
+
+A. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+B. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+C. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+D. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+
+**Answer: A.**
+**Explanation:** Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q2. Which option preserves the risk or institutional boundary of Urban disaster risk?
+
+A. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+B. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+C. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+D. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+
+**Answer: B.**
+**Explanation:** Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q3. Which statement uses Urban disaster risk without changing its hazard, mandate or status?
+
+A. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+B. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+C. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+D. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+
+**Answer: C.**
+**Explanation:** Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q4. Which option avoids the standard UPSC close-option trap about Urban disaster risk?
+
+A. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+B. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+C. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+D. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+
+**Answer: D.**
+**Explanation:** Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q5. Which statement correctly identifies Systemic and cascading failure?
+
+A. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+B. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+C. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+D. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+
+**Answer: A.**
+**Explanation:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q6. Which option preserves the risk or institutional boundary of Systemic and cascading failure?
+
+A. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+B. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+C. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+D. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+
+**Answer: B.**
+**Explanation:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q7. Which statement uses Systemic and cascading failure without changing its hazard, mandate or status?
+
+A. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+B. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+C. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+D. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+
+**Answer: C.**
+**Explanation:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q8. Which option avoids the standard UPSC close-option trap about Systemic and cascading failure?
+
+A. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+B. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+C. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+D. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+
+**Answer: D.**
+**Explanation:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q9. Which statement correctly identifies Critical infrastructure and lifelines?
+
+A. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+B. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+C. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+D. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+
+**Answer: A.**
+**Explanation:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q10. Which option preserves the risk or institutional boundary of Critical infrastructure and lifelines?
+
+A. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+B. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+C. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+D. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+
+**Answer: B.**
+**Explanation:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q11. Which statement uses Critical infrastructure and lifelines without changing its hazard, mandate or status?
+
+A. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+B. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+C. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+D. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+
+**Answer: C.**
+**Explanation:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q12. Which option avoids the standard UPSC close-option trap about Critical infrastructure and lifelines?
+
+A. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+B. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+C. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+D. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+
+**Answer: D.**
+**Explanation:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q13. Which statement correctly identifies Interdependency mapping?
+
+A. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+B. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+C. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+D. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+
+**Answer: A.**
+**Explanation:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q14. Which option preserves the risk or institutional boundary of Interdependency mapping?
+
+A. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+B. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+C. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+D. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+
+**Answer: B.**
+**Explanation:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q15. Which statement uses Interdependency mapping without changing its hazard, mandate or status?
+
+A. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+B. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+C. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+D. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+
+**Answer: C.**
+**Explanation:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q16. Which option avoids the standard UPSC close-option trap about Interdependency mapping?
+
+A. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+B. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+C. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+D. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+
+**Answer: D.**
+**Explanation:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q17. Which statement correctly identifies Robustness redundancy and rapid recovery?
+
+A. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+B. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+C. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+D. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+
+**Answer: A.**
+**Explanation:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q18. Which option preserves the risk or institutional boundary of Robustness redundancy and rapid recovery?
+
+A. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+B. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+C. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+D. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+
+**Answer: B.**
+**Explanation:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q19. Which statement uses Robustness redundancy and rapid recovery without changing its hazard, mandate or status?
+
+A. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+B. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+C. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+D. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+
+**Answer: C.**
+**Explanation:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q20. Which option avoids the standard UPSC close-option trap about Robustness redundancy and rapid recovery?
+
+A. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+B. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+C. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+D. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+
+**Answer: D.**
+**Explanation:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q21. Which statement correctly identifies Service continuity?
+
+A. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+B. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+C. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+D. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+
+**Answer: A.**
+**Explanation:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q22. Which option preserves the risk or institutional boundary of Service continuity?
+
+A. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+B. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+C. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+D. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+
+**Answer: B.**
+**Explanation:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q23. Which statement uses Service continuity without changing its hazard, mandate or status?
+
+A. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+B. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+C. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+D. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+
+**Answer: C.**
+**Explanation:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q24. Which option avoids the standard UPSC close-option trap about Service continuity?
+
+A. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+B. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+C. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+D. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+
+**Answer: D.**
+**Explanation:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q25. Which statement correctly identifies Risk-informed land use?
+
+A. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+B. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+C. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+D. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+
+**Answer: A.**
+**Explanation:** Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q26. Which option preserves the risk or institutional boundary of Risk-informed land use?
+
+A. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+B. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+C. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+D. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+
+**Answer: B.**
+**Explanation:** Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q27. Which statement uses Risk-informed land use without changing its hazard, mandate or status?
+
+A. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+B. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+C. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+D. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+
+**Answer: C.**
+**Explanation:** Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q28. Which option avoids the standard UPSC close-option trap about Risk-informed land use?
+
+A. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+B. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+C. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+D. Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+
+**Answer: D.**
+**Explanation:** Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q29. Which statement correctly identifies Building-code and retrofit chain?
+
+A. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+B. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+C. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+D. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+
+**Answer: A.**
+**Explanation:** Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q30. Which option preserves the risk or institutional boundary of Building-code and retrofit chain?
+
+A. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+B. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+C. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+D. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+
+**Answer: B.**
+**Explanation:** Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q31. Which statement uses Building-code and retrofit chain without changing its hazard, mandate or status?
+
+A. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+B. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+C. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+D. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+
+**Answer: C.**
+**Explanation:** Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q32. Which option avoids the standard UPSC close-option trap about Building-code and retrofit chain?
+
+A. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+B. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+C. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+D. Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+
+**Answer: D.**
+**Explanation:** Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q33. Which statement correctly identifies Urban drainage governance?
+
+A. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+B. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+C. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+D. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+
+**Answer: A.**
+**Explanation:** Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q34. Which option preserves the risk or institutional boundary of Urban drainage governance?
+
+A. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+B. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+C. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+D. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+
+**Answer: B.**
+**Explanation:** Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q35. Which statement uses Urban drainage governance without changing its hazard, mandate or status?
+
+A. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+B. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+C. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+D. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+
+**Answer: C.**
+**Explanation:** Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q36. Which option avoids the standard UPSC close-option trap about Urban drainage governance?
+
+A. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+B. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+C. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+D. Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+
+**Answer: D.**
+**Explanation:** Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q37. Which statement correctly identifies Criticality-based prioritisation?
+
+A. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+B. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+C. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+D. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+
+**Answer: A.**
+**Explanation:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q38. Which option preserves the risk or institutional boundary of Criticality-based prioritisation?
+
+A. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+B. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+C. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+D. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+
+**Answer: B.**
+**Explanation:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q39. Which statement uses Criticality-based prioritisation without changing its hazard, mandate or status?
+
+A. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+B. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+C. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+D. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+
+**Answer: C.**
+**Explanation:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q40. Which option avoids the standard UPSC close-option trap about Criticality-based prioritisation?
+
+A. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+B. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+C. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+D. A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+
+**Answer: D.**
+**Explanation:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q41. Which statement correctly identifies Hospitals and emergency facilities?
+
+A. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+B. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+C. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+D. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+
+**Answer: A.**
+**Explanation:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q42. Which option preserves the risk or institutional boundary of Hospitals and emergency facilities?
+
+A. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+B. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+C. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+D. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+
+**Answer: B.**
+**Explanation:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q43. Which statement uses Hospitals and emergency facilities without changing its hazard, mandate or status?
+
+A. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+B. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+C. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+D. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+
+**Answer: C.**
+**Explanation:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q44. Which option avoids the standard UPSC close-option trap about Hospitals and emergency facilities?
+
+A. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+B. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+C. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+D. Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+
+**Answer: D.**
+**Explanation:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q45. Which statement correctly identifies Informal settlements and equity?
+
+A. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+B. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+C. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+D. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+
+**Answer: A.**
+**Explanation:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q46. Which option preserves the risk or institutional boundary of Informal settlements and equity?
+
+A. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+B. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+C. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+D. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+
+**Answer: B.**
+**Explanation:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q47. Which statement uses Informal settlements and equity without changing its hazard, mandate or status?
+
+A. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+B. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+C. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+D. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+
+**Answer: C.**
+**Explanation:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q48. Which option avoids the standard UPSC close-option trap about Informal settlements and equity?
+
+A. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+B. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+C. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+D. Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+
+**Answer: D.**
+**Explanation:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q49. Which statement correctly identifies Accessible lifelines?
+
+A. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+B. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+C. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+D. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+
+**Answer: A.**
+**Explanation:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q50. Which option preserves the risk or institutional boundary of Accessible lifelines?
+
+A. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+B. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+C. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+D. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+
+**Answer: B.**
+**Explanation:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q51. Which statement uses Accessible lifelines without changing its hazard, mandate or status?
+
+A. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+B. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+C. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+D. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+
+**Answer: C.**
+**Explanation:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q52. Which option avoids the standard UPSC close-option trap about Accessible lifelines?
+
+A. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+B. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+C. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+D. Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+
+**Answer: D.**
+**Explanation:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q53. Which statement correctly identifies Urban institutions?
+
+A. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+B. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+C. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+D. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+
+**Answer: A.**
+**Explanation:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q54. Which option preserves the risk or institutional boundary of Urban institutions?
+
+A. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+B. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+C. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+D. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+
+**Answer: B.**
+**Explanation:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q55. Which statement uses Urban institutions without changing its hazard, mandate or status?
+
+A. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+B. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+C. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+D. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+
+**Answer: C.**
+**Explanation:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q56. Which option avoids the standard UPSC close-option trap about Urban institutions?
+
+A. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+B. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+C. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+D. ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+
+**Answer: D.**
+**Explanation:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q57. Which statement correctly identifies Urban Flooding Cell status?
+
+A. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+B. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+C. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+D. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+
+**Answer: A.**
+**Explanation:** The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q58. Which option preserves the risk or institutional boundary of Urban Flooding Cell status?
+
+A. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+B. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+C. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+D. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+
+**Answer: B.**
+**Explanation:** The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q59. Which statement uses Urban Flooding Cell status without changing its hazard, mandate or status?
+
+A. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+B. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+C. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+D. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+
+**Answer: C.**
+**Explanation:** The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q60. Which option avoids the standard UPSC close-option trap about Urban Flooding Cell status?
+
+A. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+B. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+C. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+D. The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+
+**Answer: D.**
+**Explanation:** The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q61. Which statement correctly identifies Urban Disaster Management Authority status?
+
+A. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+B. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+C. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+D. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+
+**Answer: A.**
+**Explanation:** The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q62. Which option preserves the risk or institutional boundary of Urban Disaster Management Authority status?
+
+A. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+B. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+C. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+D. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+
+**Answer: B.**
+**Explanation:** The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q63. Which statement uses Urban Disaster Management Authority status without changing its hazard, mandate or status?
+
+A. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+B. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+C. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+D. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+
+**Answer: C.**
+**Explanation:** The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q64. Which option avoids the standard UPSC close-option trap about Urban Disaster Management Authority status?
+
+A. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+B. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+C. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+D. The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+
+**Answer: D.**
+**Explanation:** The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q65. Which statement correctly identifies CDRI boundary?
+
+A. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+B. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+C. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+D. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+
+**Answer: A.**
+**Explanation:** CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q66. Which option preserves the risk or institutional boundary of CDRI boundary?
+
+A. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+B. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+C. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+D. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+
+**Answer: B.**
+**Explanation:** CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q67. Which statement uses CDRI boundary without changing its hazard, mandate or status?
+
+A. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+B. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+C. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+D. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+
+**Answer: C.**
+**Explanation:** CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q68. Which option avoids the standard UPSC close-option trap about CDRI boundary?
+
+A. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+B. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+C. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+D. CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient.
+
+**Answer: D.**
+**Explanation:** CDRI supports disaster-resilient infrastructure through risk knowledge, standards, finance and recovery cooperation, but coalition membership or a publication is not domestic operational command or proof that an asset is resilient. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q69. Which statement correctly identifies Smart technology and privacy?
+
+A. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+B. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+C. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+D. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+
+**Answer: A.**
+**Explanation:** Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q70. Which option preserves the risk or institutional boundary of Smart technology and privacy?
+
+A. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+B. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+C. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+D. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+
+**Answer: B.**
+**Explanation:** Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q71. Which statement uses Smart technology and privacy without changing its hazard, mandate or status?
+
+A. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+B. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+C. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+D. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+
+**Answer: C.**
+**Explanation:** Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q72. Which option avoids the standard UPSC close-option trap about Smart technology and privacy?
+
+A. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+B. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+C. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+D. Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+
+**Answer: D.**
+**Explanation:** Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q73. Which statement correctly identifies Resilience versus efficiency?
+
+A. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+B. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+C. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+D. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+
+**Answer: A.**
+**Explanation:** Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q74. Which option preserves the risk or institutional boundary of Resilience versus efficiency?
+
+A. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+B. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+C. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+D. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+
+**Answer: B.**
+**Explanation:** Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q75. Which statement uses Resilience versus efficiency without changing its hazard, mandate or status?
+
+A. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+B. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+C. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+D. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+
+**Answer: C.**
+**Explanation:** Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q76. Which option avoids the standard UPSC close-option trap about Resilience versus efficiency?
+
+A. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+B. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+C. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+D. Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+
+**Answer: D.**
+**Explanation:** Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q77. Which statement correctly identifies Input-outcome firewall?
+
+A. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+B. Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+C. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+D. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+
+**Answer: A.**
+**Explanation:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q78. Which option preserves the risk or institutional boundary of Input-outcome firewall?
+
+A. A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+B. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+C. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+D. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+
+**Answer: B.**
+**Explanation:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q79. Which statement uses Input-outcome firewall without changing its hazard, mandate or status?
+
+A. Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+B. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+C. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+D. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+
+**Answer: C.**
+**Explanation:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+### Q80. Which option avoids the standard UPSC close-option trap about Input-outcome firewall?
+
+A. Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+B. Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+C. Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+D. A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+
+**Answer: D.**
+**Explanation:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+
+## PYQS AND ANSWER PRACTICE
+
+### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+
+The 2024 urban-flood card is the closest verified direct application but remains Topic 08-owned. The 2024 resilience card is a direct conceptual support route; the 2023 dam-failure card is cross-owned infrastructure-cascade support.
+
+### PYQ DEMAND CARD 1 — 2024 GS-III
+
+**Demand:** Discuss urban flooding as a climate-induced disaster and the policies and frameworks in India that aim at tackling it.
+
+**Status:** Verified direct adjacent route owned by Topic 08; this card contributes urban-system, drainage, lifeline, institutional and continuity dimensions without replacing the flood-specific answer.
+
+**Model solution:** **Urban disaster risk:** Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits. **Systemic and cascading failure:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Service continuity:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Risk-informed land use:** Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents. **Building-code and retrofit chain:** Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links. **Urban drainage governance:** Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries. **Urban institutions:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. **Urban Flooding Cell status:** The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution. **Urban Disaster Management Authority status:** The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary. **Input-outcome firewall:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+
+### PYQ DEMAND CARD 2 — 2024 GS-III
+
+**Demand:** Describe disaster resilience, how it is determined and the elements of the Sendai Framework.
+
+**Status:** Verified support route: apply resilience determination to critical functions, dependencies, robustness, redundancy, recovery time and equity.
+
+**Model solution:** **Critical infrastructure and lifelines:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Interdependency mapping:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Robustness redundancy and rapid recovery:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Service continuity:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Criticality-based prioritisation:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. **Informal settlements and equity:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. **Accessible lifelines:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. **Input-outcome firewall:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+
+### PYQ DEMAND CARD 3 — 2023 GS-III
+
+**Demand:** Analyse the causes and catastrophic downstream effects of dam failures with examples.
+
+**Status:** Verified cross-owned route led by Topic 08; use only cascading lifeline failure, continuity and interdependency as bounded infrastructure-resilience support.
+
+**Model solution:** **Systemic and cascading failure:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Critical infrastructure and lifelines:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Interdependency mapping:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Robustness redundancy and rapid recovery:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Service continuity:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Criticality-based prioritisation:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. **Input-outcome firewall:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+
+### ORIGINAL MAINS 1 — 10 MARKS
+
+**Question:** Distinguish critical infrastructure, lifelines, robustness, redundancy and rapid recovery. Answer in about 150 words.
+
+**Model thesis:** **Claim:** Critical infrastructure and lifelines. **Named evidence/example:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+- Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+
+**Qualified conclusion:** **Claim:** Critical infrastructure and lifelines. **Named evidence/example:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+### ORIGINAL MAINS 2 — 10 MARKS
+
+**Question:** Explain why service-continuity planning is essential for urban lifelines. Answer in about 150 words.
+
+**Model thesis:** **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Service continuity. **Named evidence/example:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Hospitals and emergency facilities. **Named evidence/example:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+- Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+- Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+- Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+
+**Qualified conclusion:** **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Service continuity. **Named evidence/example:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Hospitals and emergency facilities. **Named evidence/example:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+### ORIGINAL MAINS 3 — 15 MARKS
+
+**Question:** Analyse systemic and cascading urban infrastructure failure. Answer in about 250 words.
+
+**Model thesis:** **Claim:** Urban disaster risk. **Named evidence/example:** Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Systemic and cascading failure. **Named evidence/example:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical infrastructure and lifelines. **Named evidence/example:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits.
+- A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+- Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+- Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+- Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+
+**Qualified conclusion:** **Claim:** Urban disaster risk. **Named evidence/example:** Urban disaster risk arises where hazards interact with dense populations, concentrated assets, unequal vulnerability and tightly coupled services; it is not merely a rural hazard occurring inside municipal limits. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Systemic and cascading failure. **Named evidence/example:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical infrastructure and lifelines. **Named evidence/example:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+### ORIGINAL MAINS 4 — 15 MARKS
+
+**Question:** Examine land-use, building-code, drainage and service-governance requirements for urban resilience. Answer in about 250 words.
+
+**Model thesis:** **Claim:** Risk-informed land use. **Named evidence/example:** Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Building-code and retrofit chain. **Named evidence/example:** Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban drainage governance. **Named evidence/example:** Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban institutions. **Named evidence/example:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban Flooding Cell status. **Named evidence/example:** The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban Disaster Management Authority status. **Named evidence/example:** The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents.
+- Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links.
+- Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries.
+- ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+- The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution.
+- The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary.
+
+**Qualified conclusion:** **Claim:** Risk-informed land use. **Named evidence/example:** Risk-informed land use keeps hazardous locations, drainage paths, evacuation routes and critical-service access visible in development control rather than treating hazard maps as stand-alone documents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Building-code and retrofit chain. **Named evidence/example:** Safer construction requires current risk-sensitive standards, municipal adoption, competent design, site supervision, occupancy control, maintenance and retrofit of vulnerable existing stock; publication of a code proves none of the later links. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban drainage governance. **Named evidence/example:** Urban drainage resilience combines catchment-scale planning, protected natural drains and water bodies, adequate conveyance, solid-waste control, maintenance, pumping where needed and coordination across municipal boundaries. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban institutions. **Named evidence/example:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban Flooding Cell status. **Named evidence/example:** The Urban Flooding Cell is an NDMA 2010 guideline recommendation whose actual constitution and operation require separate notification evidence; a recommendation is not an automatically functioning institution. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban Disaster Management Authority status. **Named evidence/example:** The statutory enabling provision for an Urban Disaster Management Authority does not prove that every city has constituted or operationalised one; State notification and local evidence remain necessary. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+### ORIGINAL MAINS 5 — 20 MARKS
+
+**Question:** Design an equitable resilience-audit and continuity framework for a city's critical infrastructure. Answer in about 300 words.
+
+**Model thesis:** **Claim:** Systemic and cascading failure. **Named evidence/example:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical infrastructure and lifelines. **Named evidence/example:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Service continuity. **Named evidence/example:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Criticality-based prioritisation. **Named evidence/example:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Hospitals and emergency facilities. **Named evidence/example:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Informal settlements and equity. **Named evidence/example:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accessible lifelines. **Named evidence/example:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban institutions. **Named evidence/example:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Input-outcome firewall. **Named evidence/example:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+**Claim → named evidence → analysis → qualification:**
+
+- A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+- Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone.
+- Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+- Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+- Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+- A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+- Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity.
+- Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+- Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+- ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility.
+- A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+
+**Qualified conclusion:** **Claim:** Systemic and cascading failure. **Named evidence/example:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical infrastructure and lifelines. **Named evidence/example:** Critical infrastructure and lifelines are assets, networks and services whose disruption causes disproportionate effects on life, health, safety, governance or economic functioning; criticality depends on function and consequence, not ownership alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Service continuity. **Named evidence/example:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Criticality-based prioritisation. **Named evidence/example:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Hospitals and emergency facilities. **Named evidence/example:** Hospitals, emergency operations centres, fire services, shelters and control rooms require structural safety plus dependable water, power, oxygen or clinical support, communications, access and supply continuity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Informal settlements and equity. **Named evidence/example:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accessible lifelines. **Named evidence/example:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban institutions. **Named evidence/example:** ULBs, utilities, development authorities, districts, SDMAs and sector regulators retain different mandates; a city resilience mechanism coordinates them without erasing statutory or technical responsibility. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Input-outcome firewall. **Named evidence/example:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+### ORIGINAL MAINS 6 — 20 MARKS
+
+**Question:** Critically evaluate smart-city technology and efficiency-led infrastructure from a disaster-resilience perspective. Answer in about 300 words.
+
+**Model thesis:** **Claim:** Systemic and cascading failure. **Named evidence/example:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Service continuity. **Named evidence/example:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Criticality-based prioritisation. **Named evidence/example:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Informal settlements and equity. **Named evidence/example:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accessible lifelines. **Named evidence/example:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Smart technology and privacy. **Named evidence/example:** Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience versus efficiency. **Named evidence/example:** Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Input-outcome firewall. **Named evidence/example:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+
+**Claim → named evidence → analysis → qualification:**
+
+- A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response.
+- Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection.
+- Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms.
+- Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident.
+- A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence.
+- Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement.
+- Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access.
+- Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions.
+- Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations.
+- A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence.
+
+**Qualified conclusion:** **Claim:** Systemic and cascading failure. **Named evidence/example:** A disruption becomes systemic when failure propagates across connected services, such as electricity loss disabling pumping, telecom, hospitals, traffic management and emergency response. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Interdependency mapping. **Named evidence/example:** Interdependency mapping identifies physical, digital, geographic and organisational dependencies among water, power, transport, health, telecom, sanitation and emergency systems before prioritising protection. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Robustness redundancy and rapid recovery. **Named evidence/example:** Robustness resists disruption, redundancy supplies alternative capacity or routes, and rapid recovery restores priority functions; the three are complementary and should not be used as synonyms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Service continuity. **Named evidence/example:** Continuity planning fixes minimum acceptable service, priority users, backup resources, alternate sites, manual workarounds, communication and restoration order before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Criticality-based prioritisation. **Named evidence/example:** A resilience audit should identify single points of failure, dependency concentration, vulnerable locations, backup duration, restoration time and populations affected, then rank interventions by consequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Informal settlements and equity. **Named evidence/example:** Informal settlements often combine high exposure, insecure tenure, weak drainage and intermittent services; resilience measures must protect residents and access rather than use risk reduction as a pretext for exclusionary displacement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accessible lifelines. **Named evidence/example:** Continuity standards should account for persons with disabilities, older people, children, migrants, low-income households and people dependent on medical or mobility services, because equal nominal supply does not ensure equal access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Smart technology and privacy. **Named evidence/example:** Sensors, digital twins, cameras, integrated command platforms and predictive analytics can improve situational awareness, but resilience requires cybersecurity, privacy, interoperability, offline fallback and accountable human decisions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilience versus efficiency. **Named evidence/example:** Highly efficient just-in-time and centralised systems can remove spare capacity; resilience may deliberately retain buffers, diversity and redundancy even when they appear costly during normal operations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Input-outcome firewall. **Named evidence/example:** A plan, code, audit, dashboard, smart-city platform, sanctioned project or authority proves an input or status only; continuity, equitable access, shorter restoration and reduced losses require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.

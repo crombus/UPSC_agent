@@ -1,0 +1,1234 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-15",
+  "subject": "Governance",
+  "title": "MONITORING, EVALUATION AND OUTCOMES",
+  "short_route": "RESULTS CHAIN → CLASSIFY THE STATISTIC → INSTITUTIONAL MAP → EVALUATION CRITERIA SET → COVERAGE DISCIPLINE CARD → THREE BUDGETING MODES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-15\\governance-15_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-15-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "cd74a889e52c63493245e2e91a0f65a4f8ef83cbb21b5552ef3a8f5cd0a631b2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RESULTS CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RESULTS CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY, STAFF AND MATERIALS COMMITTED TO THE INTERVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT WAS ACTUALLY DONE, SUCH AS TRAINING CONDUCTED OR",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT WAS DIRECTLY PRODUCED, SUCH AS KILOMETRES OF ROAD",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CHANGE IN THE TARGET POPULATION, SUCH AS TRAVEL",
+          "role": "primary"
+        },
+        {
+          "text": "THE WIDER, LONGER-TERM CHANGE IN ACCESS, INCOME OR MOBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REPORTING STOPS",
+          "role": "comparison"
+        },
+        {
+          "text": "MOST INDIAN SCHEME REPORTING HALTS AT THE OUTPUT RUNG",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INPUT → money, staff and materials committed to the intervention",
+        "ACTIVITY: what was actually done, such as training conducted or pipes laid",
+        "OUTPUT: what was directly produced, such as kilometres of road or schools built",
+        "OUTCOME: the change in the target population, such as travel time or learning",
+        "IMPACT: the wider, longer-term change in access, income or mobility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INPUT → money, staff and materials committed to the intervention",
+            "ACTIVITY: what was actually done, such as training conducted or pipes laid"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OUTPUT: what was directly produced, such as kilometres of road or schools built",
+            "OUTCOME: the change in the target population, such as travel time or learning"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPACT: the wider, longer-term change in access, income or mobility",
+            "REPORTING STOPS → most Indian scheme reporting halts at the output rung"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "INPUT → money, staff and materials committed to the intervention",
+            "ACTIVITY: what was actually done, such as training conducted or pipes laid"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REPORTING STOPS → most Indian scheme reporting halts at the output rung.",
+      "source_references": [
+        "Input, activity, output, outcome and impact",
+        "The results chain as the spine of every evaluative answer"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CLASSIFY THE STATISTIC",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLASSIFY THE STATISTIC",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARE OF HOUSEHOLDS COVERED; NUMBER OF FACILITIES CONSTRUCTED",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTCOME CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER QUALITY AT THE POINT OF USE; MEASURED LEARNING",
+          "role": "primary"
+        },
+        {
+          "text": "IMPACT CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKET ACCESS, HOUSEHOLD INCOME, MOBILITY OVER YEARS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM MOVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OUTPUT CLAIM → share of households covered; number of facilities constructed",
+        "OUTCOME CLAIM → water quality at the point of use; measured learning level",
+        "IMPACT CLAIM → market access, household income, mobility over years",
+        "EXAM MOVE → name the rung of the figure the stem supplies before using it"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "OUTPUT CLAIM → share of households covered; number of facilities constructed",
+          "IMPACT CLAIM → market access, household income, mobility over years",
+          "OUTPUT CLAIM → share of households covered; number of facilities constructed",
+          "IMPACT CLAIM → market access, household income, mobility over years"
+        ],
+        [
+          "OUTCOME CLAIM → water quality at the point of use; measured learning level",
+          "EXAM MOVE → name the rung of the figure the stem supplies before using it",
+          "OUTCOME CLAIM → water quality at the point of use; measured learning level",
+          "EXAM MOVE → name the rung of the figure the stem supplies before using it"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OUTPUT CLAIM → share of households covered; number of facilities constructed",
+            "OUTCOME CLAIM → water quality at the point of use; measured learning level"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "IMPACT CLAIM → market access, household income, mobility over years",
+            "EXAM MOVE → name the rung of the figure the stem supplies before using it"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTPUT CLAIM → share of households covered; number of facilities constructed",
+            "OUTCOME CLAIM → water quality at the point of use; measured learning level"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "IMPACT CLAIM → market access, household income, mobility over years",
+            "EXAM MOVE → name the rung of the figure the stem supplies before using it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM MOVE → name the rung of the figure the stem supplies before using it.",
+      "source_references": [
+        "Classify the examiner's own statistic"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INSTITUTIONAL MAP",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "EVALUATION OFFICE",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTACHED OFFICE OF NITI AAYOG; CONSTITUTED SEPTEMBER 2015",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMED BY MERGING",
+          "role": "evidence"
+        },
+        {
+          "text": "PROGRAM EVALUATION OFFICE AND INDEPENDENT EVALUATION OFFICE",
+          "role": "primary"
+        },
+        {
+          "text": "BUDGET FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY OF FINANCE, BUDGET DIVISION; DUAL OUTPUT AND OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRICT PROGRAMME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVALUATION OFFICE → attached office of NITI Aayog; constituted September 2015",
+        "FORMED BY MERGING → Program Evaluation Office and Independent Evaluation Office",
+        "BUDGET FRAMEWORK → Ministry of Finance, Budget Division; dual output and outcome reporting",
+        "DISTRICT PROGRAMME → Champions of Change dashboard with delta ranking",
+        "LIMIT → the evaluator produces evidence and cannot redesign the scheme"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "EVALUATION OFFICE → attached office of NITI Aayog; constituted September 2015",
+          "BUDGET FRAMEWORK → Ministry of Finance, Budget Division; dual output and outcome reporting",
+          "LIMIT → the evaluator produces evidence and cannot redesign the scheme",
+          "FORMED BY MERGING → Program Evaluation Office and Independent Evaluation Office"
+        ],
+        [
+          "FORMED BY MERGING → Program Evaluation Office and Independent Evaluation Office",
+          "DISTRICT PROGRAMME → Champions of Change dashboard with delta ranking",
+          "EVALUATION OFFICE → attached office of NITI Aayog; constituted September 2015",
+          "BUDGET FRAMEWORK → Ministry of Finance, Budget Division; dual output and outcome reporting"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "EVALUATION OFFICE → attached office of NITI Aayog; constituted September 2015",
+            "FORMED BY MERGING → Program Evaluation Office and Independent Evaluation Office"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "BUDGET FRAMEWORK → Ministry of Finance, Budget Division; dual output and outcome reporting",
+            "DISTRICT PROGRAMME → Champions of Change dashboard with delta ranking"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → the evaluator produces evidence and cannot redesign the scheme",
+            "EVALUATION OFFICE → attached office of NITI Aayog; constituted September 2015"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FORMED BY MERGING → Program Evaluation Office and Independent Evaluation Office",
+            "BUDGET FRAMEWORK → Ministry of Finance, Budget Division; dual output and outcome reporting"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → the evaluator produces evidence and cannot redesign the scheme.",
+      "source_references": [
+        "The Development Monitoring and Evaluation Office and its mandate",
+        "The Output-Outcome Monitoring Framework and its coverage rule"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EVALUATION CRITERIA SET",
+      "structural_type": "root-axes",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "EVALUATION CRITERIA SET",
+          "role": "primary"
+        },
+        {
+          "text": "WAS THE INTERVENTION THE RIGHT RESPONSE TO THE PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFECTIVENESS AND EFFICIENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "WAS THE OBJECTIVE MET, AND AT WHAT COST",
+          "role": "evidence"
+        },
+        {
+          "text": "SUSTAINABILITY AND IMPACT",
+          "role": "primary"
+        },
+        {
+          "text": "DOES THE CHANGE PERSIST, AND HOW WIDE IS IT",
+          "role": "outcome"
+        },
+        {
+          "text": "COHERENCE AND EQUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES IT FIT OTHER POLICY, AND WHO GAINED AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELEVANCE → was the intervention the right response to the problem",
+        "EFFECTIVENESS and EFFICIENCY → was the objective met, and at what cost",
+        "SUSTAINABILITY and IMPACT → does the change persist, and how wide is it",
+        "COHERENCE and EQUITY → does it fit other policy, and who gained and who did"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RELEVANCE → was the intervention the right response to the problem",
+            "EFFECTIVENESS and EFFICIENCY → was the objective met, and at what cost"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SUSTAINABILITY and IMPACT → does the change persist, and how wide is it",
+            "COHERENCE and EQUITY → does it fit other policy, and who gained and who did not"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RELEVANCE → was the intervention the right response to the problem",
+            "EFFECTIVENESS and EFFICIENCY → was the objective met, and at what cost"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SUSTAINABILITY and IMPACT → does the change persist, and how wide is it",
+            "COHERENCE and EQUITY → does it fit other policy, and who gained and who did not"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COHERENCE and EQUITY → does it fit other policy, and who gained and who did not.",
+      "source_references": [
+        "The REESI plus coherence and equity criteria"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COVERAGE DISCIPLINE CARD",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COVERAGE DISCIPLINE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "THE BUDGET FRAMEWORK DOES NOT COVER EVERY SCHEME IN",
+          "role": "caution"
+        },
+        {
+          "text": "2026-27 DOCUMENT COVERS 172 MAJOR SCHEMES",
+          "role": "comparison"
+        },
+        {
+          "text": "AN OUTLAY OF FIVE HUNDRED CRORE RUPEES OR MORE",
+          "role": "evidence"
+        },
+        {
+          "text": "CITE WITH THE BUDGET YEAR AND NEVER CARRY THE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RULE → the budget framework does not cover every scheme in every year",
+        "OWNER-VERIFIED → 2026-27 document covers 172 major schemes",
+        "THRESHOLD → an outlay of five hundred crore rupees or more in that document",
+        "DISCIPLINE → cite with the Budget year and never carry the figure forward"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RULE → the budget framework does not cover every scheme in every year",
+            "OWNER-VERIFIED → 2026-27 document covers 172 major schemes"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "THRESHOLD → an outlay of five hundred crore rupees or more in that document",
+            "DISCIPLINE → cite with the Budget year and never carry the figure forward"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → the budget framework does not cover every scheme in every year",
+            "OWNER-VERIFIED → 2026-27 document covers 172 major schemes"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "THRESHOLD → an outlay of five hundred crore rupees or more in that document",
+            "DISCIPLINE → cite with the Budget year and never carry the figure forward"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the budget framework does not cover every scheme in every year.",
+      "source_references": [
+        "The Output-Outcome Monitoring Framework and its coverage rule"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREE BUDGETING MODES",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE BUDGETING MODES",
+          "role": "primary"
+        },
+        {
+          "text": "INPUT BUDGETING",
+          "role": "outcome"
+        },
+        {
+          "text": "LINE ITEMS; HOW MUCH MONEY WAS ALLOCATED TO A",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTPUT BUDGETING",
+          "role": "evidence"
+        },
+        {
+          "text": "PHYSICAL UNITS PRODUCED FOR THE ALLOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOME BUDGETING",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CHANGE ACHIEVED RELATIVE TO THE ALLOCATION",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTCOME ACHIEVEMENT CARRIES NO BUDGETARY CONSEQUENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INPUT BUDGETING → line items; how much money was allocated to a category",
+        "OUTPUT BUDGETING → physical units produced for the allocation",
+        "OUTCOME BUDGETING → the change achieved relative to the allocation",
+        "UNFINISHED → outcome achievement carries no budgetary consequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INPUT BUDGETING → line items; how much money was allocated to a category",
+            "OUTPUT BUDGETING → physical units produced for the allocation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME BUDGETING → the change achieved relative to the allocation",
+            "UNFINISHED → outcome achievement carries no budgetary consequence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INPUT BUDGETING → line items; how much money was allocated to a category",
+            "OUTPUT BUDGETING → physical units produced for the allocation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "OUTCOME BUDGETING → the change achieved relative to the allocation",
+            "UNFINISHED → outcome achievement carries no budgetary consequence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNFINISHED → outcome achievement carries no budgetary consequence.",
+      "source_references": [
+        "Outcome budgeting against output and input budgeting"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DISTRICT AND BLOCK PROGRAMMES KEPT SEPARATE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISTRICT AND BLOCK PROGRAMMES KEPT SEPARATE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRICT PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "112 DISTRICTS; 49 KEY PERFORMANCE INDICATORS; FIVE THEMES",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE THEMES",
+          "role": "evidence"
+        },
+        {
+          "text": "HEALTH AND NUTRITION; EDUCATION; AGRICULTURE AND WATER RESOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "FINANCIAL INCLUSION AND SKILL DEVELOPMENT; BASIC INFRASTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "BLOCK PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "513 BLOCKS IN CURRENT NITI AAYOG MATERIAL; A FINER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTRICT PROGRAMME → 112 districts; 49 key performance indicators; five themes",
+        "FIVE THEMES → health and nutrition; education; agriculture and water resources",
+        "FIVE THEMES → financial inclusion and skill development; basic infrastructure",
+        "BLOCK PROGRAMME → 513 blocks in current NITI Aayog material; a finer unit",
+        "ERROR TO AVOID → merging district and block counts or their indicator sets"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DISTRICT PROGRAMME → 112 districts; 49 key performance indicators; five themes",
+          "FIVE THEMES → financial inclusion and skill development; basic infrastructure",
+          "ERROR TO AVOID → merging district and block counts or their indicator sets",
+          "FIVE THEMES → health and nutrition; education; agriculture and water resources"
+        ],
+        [
+          "FIVE THEMES → health and nutrition; education; agriculture and water resources",
+          "BLOCK PROGRAMME → 513 blocks in current NITI Aayog material; a finer unit",
+          "DISTRICT PROGRAMME → 112 districts; 49 key performance indicators; five themes",
+          "FIVE THEMES → financial inclusion and skill development; basic infrastructure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DISTRICT PROGRAMME → 112 districts; 49 key performance indicators; five themes",
+            "FIVE THEMES → health and nutrition; education; agriculture and water resources"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FIVE THEMES → financial inclusion and skill development; basic infrastructure",
+            "BLOCK PROGRAMME → 513 blocks in current NITI Aayog material; a finer unit"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ERROR TO AVOID → merging district and block counts or their indicator sets",
+            "DISTRICT PROGRAMME → 112 districts; 49 key performance indicators; five themes"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "FIVE THEMES → health and nutrition; education; agriculture and water resources",
+            "FIVE THEMES → financial inclusion and skill development; basic infrastructure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR TO AVOID → merging district and block counts or their indicator sets.",
+      "source_references": [
+        "The Aspirational Districts Programme and its dashboard architecture",
+        "The Aspirational Blocks Programme as a separate exercise"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RANKING DESIGN",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RANKING DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "ABSOLUTE RANKING",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARES PRESENT LEVEL; ALREADY-ADVANTAGED UNITS STAY ON TOP",
+          "role": "comparison"
+        },
+        {
+          "text": "DELTA RANKING",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPARES THE RATE OF IMPROVEMENT OVER A DEFINED PERIOD",
+          "role": "primary"
+        },
+        {
+          "text": "A HISTORICALLY DISADVANTAGED DISTRICT IS NOT PERMANENTLY PLACED AT",
+          "role": "caution"
+        },
+        {
+          "text": "BASELINE UNDERSTATEMENT INFLATES APPARENT IMPROVEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CAREFUL BASELINE-SETTING PLUS INDEPENDENT VALIDATION OF THE DATA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ABSOLUTE RANKING → compares present level; already-advantaged units stay on top",
+        "DELTA RANKING → compares the rate of improvement over a defined period",
+        "GAIN → a historically disadvantaged district is not permanently placed at the bottom",
+        "RISK → baseline understatement inflates apparent improvement",
+        "CONDITION → careful baseline-setting plus independent validation of the data"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ABSOLUTE RANKING → compares present level; already-advantaged units stay on top",
+          "GAIN → a historically disadvantaged district is not permanently placed at the bottom",
+          "CONDITION → careful baseline-setting plus independent validation of the data",
+          "DELTA RANKING → compares the rate of improvement over a defined period"
+        ],
+        [
+          "DELTA RANKING → compares the rate of improvement over a defined period",
+          "RISK → baseline understatement inflates apparent improvement",
+          "ABSOLUTE RANKING → compares present level; already-advantaged units stay on top",
+          "GAIN → a historically disadvantaged district is not permanently placed at the bottom"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ABSOLUTE RANKING → compares present level; already-advantaged units stay on top",
+            "DELTA RANKING → compares the rate of improvement over a defined period"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "GAIN → a historically disadvantaged district is not permanently placed at the bottom",
+            "RISK → baseline understatement inflates apparent improvement"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONDITION → careful baseline-setting plus independent validation of the data",
+            "ABSOLUTE RANKING → compares present level; already-advantaged units stay on top"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DELTA RANKING → compares the rate of improvement over a defined period",
+            "GAIN → a historically disadvantaged district is not permanently placed at the bottom"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITION → careful baseline-setting plus independent validation of the data.",
+      "source_references": [
+        "Delta ranking against absolute ranking"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MONITORING AGAINST EVALUATION",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "MONITORING AGAINST EVALUATION",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUOUS, HIGH FREQUENCY, TYPICALLY SELF-REPORTED ADMINISTRATIVE DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "ITS USE",
+          "role": "comparison"
+        },
+        {
+          "text": "RAPID COURSE CORRECTION WHILE THE PROGRAMME IS RUNNING",
+          "role": "evidence"
+        },
+        {
+          "text": "PERIODIC, OFTEN INDEPENDENT, ASSESSES WHETHER OUTCOMES WERE ACHIEVED",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEME REDESIGN AND RESOURCE REALLOCATION AFTER THE EVIDENCE IS",
+          "role": "evidence"
+        },
+        {
+          "text": "NEITHER SUBSTITUTES FOR THE OTHER AND EACH FAILS IN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MONITORING → continuous, high frequency, typically self-reported administrative data",
+        "ITS USE → rapid course correction while the programme is running",
+        "EVALUATION → periodic, often independent, assesses whether outcomes were achieved",
+        "ITS USE → scheme redesign and resource reallocation after the evidence is in",
+        "RULE → neither substitutes for the other and each fails in a different way"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "MONITORING → continuous, high frequency, typically self-reported administrative data",
+            "ITS USE → rapid course correction while the programme is running"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "EVALUATION → periodic, often independent, assesses whether outcomes were achieved",
+            "ITS USE → scheme redesign and resource reallocation after the evidence is in"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → neither substitutes for the other and each fails in a different way",
+            "MONITORING → continuous, high frequency, typically self-reported administrative data"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ITS USE → rapid course correction while the programme is running",
+            "EVALUATION → periodic, often independent, assesses whether outcomes were achieved"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → neither substitutes for the other and each fails in a different way.",
+      "source_references": [
+        "Monitoring and evaluation are complementary and distinct",
+        "Self-reported data with a validation layer"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "METHOD AND LIMIT TABLE",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "METHOD AND LIMIT TABLE",
+          "role": "caution"
+        },
+        {
+          "text": "BEFORE AND AFTER",
+          "role": "outcome"
+        },
+        {
+          "text": "SHOWS MOVEMENT; CANNOT SEPARATE THE INTERVENTION FROM EVERYTHING ELSE",
+          "role": "comparison"
+        },
+        {
+          "text": "WITH AND WITHOUT",
+          "role": "evidence"
+        },
+        {
+          "text": "PLAUSIBLE COUNTERFACTUAL; THE COMPARISON GROUP MAY DIFFER SYSTEMATICALLY",
+          "role": "primary"
+        },
+        {
+          "text": "RANDOMISED TRIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSAL EFFECT FOR THE DESIGN STUDIED; LIMITED EXTERNAL VALIDITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CAUSAL INFERENCE WITHOUT RANDOMISATION; ASSUMPTIONS CAN FAIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BEFORE AND AFTER → shows movement; cannot separate the intervention from everything else",
+        "WITH AND WITHOUT → plausible counterfactual; the comparison group may differ systematically",
+        "RANDOMISED TRIAL → causal effect for the design studied; limited external validity",
+        "QUASI-EXPERIMENTAL → causal inference without randomisation; assumptions can fail",
+        "PROCESS EVALUATION → explains why an outcome occurred; no effect size"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "BEFORE AND AFTER → shows movement; cannot separate the intervention from everything else",
+          "RANDOMISED TRIAL → causal effect for the design studied; limited external validity",
+          "PROCESS EVALUATION → explains why an outcome occurred; no effect size",
+          "BEFORE AND AFTER → shows movement; cannot separate the intervention from everything else"
+        ],
+        [
+          "WITH AND WITHOUT → plausible counterfactual; the comparison group may differ systematically",
+          "QUASI-EXPERIMENTAL → causal inference without randomisation; assumptions can fail",
+          "ADMINISTRATIVE DATA → continuous and cheap; only as good as the reporter's incentive",
+          "WITH AND WITHOUT → plausible counterfactual; the comparison group may differ systematically"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "BEFORE AND AFTER → shows movement; cannot separate the intervention from everything else",
+            "WITH AND WITHOUT → plausible counterfactual; the comparison group may differ systematically"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RANDOMISED TRIAL → causal effect for the design studied; limited external validity",
+            "QUASI-EXPERIMENTAL → causal inference without randomisation; assumptions can fail"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROCESS EVALUATION → explains why an outcome occurred; no effect size",
+            "ADMINISTRATIVE DATA → continuous and cheap; only as good as the reporter's incentive"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "BEFORE AND AFTER → shows movement; cannot separate the intervention from everything else",
+            "WITH AND WITHOUT → plausible counterfactual; the comparison group may differ systematically"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADMINISTRATIVE DATA → continuous and cheap; only as good as the reporter's incentive.",
+      "source_references": [
+        "What each evaluation method can and cannot establish",
+        "Attribution is the hard problem and the baseline is the precondition"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDICATOR FAILURE MODES AND CORRECTIONS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDICATOR FAILURE MODES AND CORRECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "A MEASURE WITH CONSEQUENCES IS PRODUCED RATHER THAN OBSERVED",
+          "role": "outcome"
+        },
+        {
+          "text": "THE JUDGED ENTITY GENERATES THE NUMBER; VALIDATE A SAMPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "AGGREGATION MASKING",
+          "role": "evidence"
+        },
+        {
+          "text": "THE AVERAGE HIDES BLOCK AND GROUP FAILURE; DISAGGREGATE BY",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT SUBSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "EFFORT MOVES TO WHAT IS COUNTED; ADD QUALITY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTION EFFECTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOODHART → a measure with consequences is produced rather than observed; use a basket",
+        "SELF-REPORTED → the judged entity generates the number; validate a sample independently",
+        "AGGREGATION MASKING → the average hides block and group failure; disaggregate by rule",
+        "OUTPUT SUBSTITUTION → effort moves to what is counted; add quality and outcome measures",
+        "SELECTION EFFECTS → only reachable beneficiaries are measured; report drop-off"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GOODHART → a measure with consequences is produced rather than observed; use a basket",
+            "SELF-REPORTED → the judged entity generates the number; validate a sample independently"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "AGGREGATION MASKING → the average hides block and group failure; disaggregate by rule",
+            "OUTPUT SUBSTITUTION → effort moves to what is counted; add quality and outcome measures"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SELECTION EFFECTS → only reachable beneficiaries are measured; report drop-off",
+            "DEFINITION DRIFT → the definition changes between years; publish definitions and breaks"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "GOODHART → a measure with consequences is produced rather than observed; use a basket",
+            "SELF-REPORTED → the judged entity generates the number; validate a sample independently"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGGREGATION MASKING → the average hides block and group failure; disaggregate by rule.",
+      "source_references": [
+        "What makes an indicator usable",
+        "The six indicator failure modes and their corrections"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR AN EVALUATE DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR AN EVALUATE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "SAY WHAT AN OUTPUT CLAIM PROVES AND WHAT IT",
+          "role": "outcome"
+        },
+        {
+          "text": "PLACE THE EVIDENCE ON THE RESULTS CHAIN AND NAME",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE THE COUNTERFACTUAL REQUIRED AND THE GAMING RISK IN",
+          "role": "caution"
+        },
+        {
+          "text": "GRADED VERDICT ABOUT THE EVALUATION DESIGN AS MUCH AS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → say what an output claim proves and what it does not, before citing",
+        "BUILD → place the evidence on the results chain and name the missing baseline",
+        "CORRECT → state the counterfactual required and the gaming risk in the indicator",
+        "CLOSE → graded verdict about the evaluation design as much as about the scheme"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OPEN → say what an output claim proves and what it does not, before citing anything",
+            "BUILD → place the evidence on the results chain and name the missing baseline"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → state the counterfactual required and the gaming risk in the indicator",
+            "CLOSE → graded verdict about the evaluation design as much as about the scheme"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → say what an output claim proves and what it does not, before citing anything",
+            "BUILD → place the evidence on the results chain and name the missing baseline"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORRECT → state the counterfactual required and the gaming risk in the indicator",
+            "CLOSE → graded verdict about the evaluation design as much as about the scheme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict about the evaluation design as much as about the scheme.",
+      "source_references": [
+        "Incidence, the learning loop and honest question ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE DISTINCTION BETWEEN MONITORING AND EVALUATION MAPS ONTO A",
+          "role": "comparison"
+        },
+        {
+          "text": "DELTA-RANKING'S INCENTIVE-COMPATIBILITY (REWARDING IMPROVEMENT REGARDLESS OF STARTING",
+          "role": "comparison"
+        },
+        {
+          "text": "OUTCOME BUDGETING'S FULL MATURITY REQUIRES CREDIBLE CAUSAL ATTRIBUTION (SHOWING",
+          "role": "evidence"
+        },
+        {
+          "text": "DMEO WAS FORMED IN 2015 SPECIFICALLY BY MERGING THE",
+          "role": "primary"
+        },
+        {
+          "text": "THE OUTPUT-OUTCOME MONITORING FRAMEWORK IS ISSUED/UPDATED BY THE MINISTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ASPIRATIONAL DISTRICTS PROGRAMME'S DASHBOARD ARCHITECTURE (MONTHLY OFFICER-REPORTED",
+          "role": "comparison"
+        },
+        {
+          "text": "A DISTRICT SHOWING STRONG MONTH-ON-MONTH IMPROVEMENT IN AN ADP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INSTITUTIONAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The distinction between monitoring and evaluation maps onto a broader governance-design",
+            "CAUTION: Delta-ranking's incentive-compatibility (rewarding improvement regardless of starting",
+            "CAUTION: Outcome budgeting's full maturity requires credible causal attribution (showing the",
+            "DMEO was formed in 2015 specifically by merging the Programme Evaluation Organisation"
+          ]
+        },
+        {
+          "heading": "STATUS / DATA CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "The Output-Outcome Monitoring Framework is issued/updated by the Ministry of Finance's",
+            "The Aspirational Districts Programme's dashboard architecture (monthly officer-reported",
+            "CAUTION: A district showing strong month-on-month improvement in an ADP health KPI despite a low",
+            "CAUTION: Boundary case: a district reporting an implausibly large one-month KPI jump raises a"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: A DMEO third-party evaluation finding a scheme's outputs fully achieved but its",
+            "CAUTION: High-frequency, self-reported monitoring (ADP-style) trades some data rigor for speed",
+            "CAUTION: Outcome budgeting's causal-attribution demands are methodologically harder to satisfy",
+            "CAUTION: Delta-ranking's fairness benefit (not penalising historical disadvantage) must be"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

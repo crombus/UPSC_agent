@@ -1,0 +1,978 @@
+---
+title: "Industrial Policy, 1991 Reforms, PSUs and Disinvestment — Solved Practice Workbook"
+topic_key: economy-16
+---
+# Industrial Policy, 1991 Reforms, PSUs and Disinvestment — Solved Practice Workbook
+
+## BASIC MCQS / REMEDIATION
+
+### Q1. Which statement correctly identifies Industrial-policy scope?
+
+A. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+D. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+
+**Answer: A.**
+**Explanation:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q2. Which option preserves the accounting or regulatory boundary of Industrial-policy scope?
+
+A. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+B. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+C. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+D. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+
+**Answer: B.**
+**Explanation:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q3. Which statement uses Industrial-policy scope without losing its vintage, basket or legal status?
+
+A. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+B. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+C. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+D. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+
+**Answer: C.**
+**Explanation:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q4. Which option avoids the standard UPSC close-option trap about Industrial-policy scope?
+
+A. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+B. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+C. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+D. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+
+**Answer: D.**
+**Explanation:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q5. Which statement correctly identifies 1948 mixed-economy settlement?
+
+A. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+B. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+C. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+D. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+
+**Answer: A.**
+**Explanation:** The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q6. Which option preserves the accounting or regulatory boundary of 1948 mixed-economy settlement?
+
+A. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+D. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+
+**Answer: B.**
+**Explanation:** The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q7. Which statement uses 1948 mixed-economy settlement without losing its vintage, basket or legal status?
+
+A. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+B. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+C. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+D. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+
+**Answer: C.**
+**Explanation:** The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q8. Which option avoids the standard UPSC close-option trap about 1948 mixed-economy settlement?
+
+A. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+B. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+C. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+D. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+
+**Answer: D.**
+**Explanation:** The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q9. Which statement correctly identifies 1956 schedule architecture?
+
+A. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+B. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+C. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+D. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+
+**Answer: A.**
+**Explanation:** The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q10. Which option preserves the accounting or regulatory boundary of 1956 schedule architecture?
+
+A. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+B. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+C. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+D. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+
+**Answer: B.**
+**Explanation:** The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q11. Which statement uses 1956 schedule architecture without losing its vintage, basket or legal status?
+
+A. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+B. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+C. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+D. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+
+**Answer: C.**
+**Explanation:** The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q12. Which option avoids the standard UPSC close-option trap about 1956 schedule architecture?
+
+A. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+B. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+C. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+D. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+
+**Answer: D.**
+**Explanation:** The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q13. Which statement correctly identifies Licence-regime boundary?
+
+A. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+B. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+C. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+D. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+
+**Answer: A.**
+**Explanation:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q14. Which option preserves the accounting or regulatory boundary of Licence-regime boundary?
+
+A. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+B. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+C. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+D. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+
+**Answer: B.**
+**Explanation:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q15. Which statement uses Licence-regime boundary without losing its vintage, basket or legal status?
+
+A. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+B. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+C. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+D. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+
+**Answer: C.**
+**Explanation:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q16. Which option avoids the standard UPSC close-option trap about Licence-regime boundary?
+
+A. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+B. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+
+**Answer: D.**
+**Explanation:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q17. Which statement correctly identifies 1980s transition?
+
+A. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+B. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+C. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+D. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+
+**Answer: A.**
+**Explanation:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q18. Which option preserves the accounting or regulatory boundary of 1980s transition?
+
+A. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+B. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+
+**Answer: B.**
+**Explanation:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q19. Which statement uses 1980s transition without losing its vintage, basket or legal status?
+
+A. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+B. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+C. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+D. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+
+**Answer: C.**
+**Explanation:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q20. Which option avoids the standard UPSC close-option trap about 1980s transition?
+
+A. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+B. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+
+**Answer: D.**
+**Explanation:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q21. Which statement correctly identifies 1991 reform package?
+
+A. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+B. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+
+**Answer: A.**
+**Explanation:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q22. Which option preserves the accounting or regulatory boundary of 1991 reform package?
+
+A. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+B. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+
+**Answer: B.**
+**Explanation:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q23. Which statement uses 1991 reform package without losing its vintage, basket or legal status?
+
+A. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+B. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+C. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+D. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+
+**Answer: C.**
+**Explanation:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q24. Which option avoids the standard UPSC close-option trap about 1991 reform package?
+
+A. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+B. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+C. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+D. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+
+**Answer: D.**
+**Explanation:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q25. Which statement correctly identifies Liberalisation and regulation?
+
+A. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+B. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+C. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+D. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+
+**Answer: A.**
+**Explanation:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q26. Which option preserves the accounting or regulatory boundary of Liberalisation and regulation?
+
+A. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+B. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+
+**Answer: B.**
+**Explanation:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q27. Which statement uses Liberalisation and regulation without losing its vintage, basket or legal status?
+
+A. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+B. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+C. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+D. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+
+**Answer: C.**
+**Explanation:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q28. Which option avoids the standard UPSC close-option trap about Liberalisation and regulation?
+
+A. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+B. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+C. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+D. Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+
+**Answer: D.**
+**Explanation:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q29. Which statement correctly identifies Disinvestment?
+
+A. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+B. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+
+**Answer: A.**
+**Explanation:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q30. Which option preserves the accounting or regulatory boundary of Disinvestment?
+
+A. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+B. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+C. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+D. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+
+**Answer: B.**
+**Explanation:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q31. Which statement uses Disinvestment without losing its vintage, basket or legal status?
+
+A. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+B. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+C. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+D. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+
+**Answer: C.**
+**Explanation:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q32. Which option avoids the standard UPSC close-option trap about Disinvestment?
+
+A. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+B. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+C. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+D. Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+
+**Answer: D.**
+**Explanation:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q33. Which statement correctly identifies Strategic disinvestment?
+
+A. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+B. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+C. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+D. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+
+**Answer: A.**
+**Explanation:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q34. Which option preserves the accounting or regulatory boundary of Strategic disinvestment?
+
+A. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+B. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+C. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+D. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+
+**Answer: B.**
+**Explanation:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q35. Which statement uses Strategic disinvestment without losing its vintage, basket or legal status?
+
+A. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+B. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+C. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+D. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+
+**Answer: C.**
+**Explanation:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q36. Which option avoids the standard UPSC close-option trap about Strategic disinvestment?
+
+A. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+B. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+C. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+D. DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+
+**Answer: D.**
+**Explanation:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q37. Which statement correctly identifies Air India transaction?
+
+A. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+B. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+C. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+D. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+
+**Answer: A.**
+**Explanation:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q38. Which option preserves the accounting or regulatory boundary of Air India transaction?
+
+A. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+B. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+C. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+D. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+
+**Answer: B.**
+**Explanation:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q39. Which statement uses Air India transaction without losing its vintage, basket or legal status?
+
+A. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+B. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+C. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+D. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+
+**Answer: C.**
+**Explanation:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q40. Which option avoids the standard UPSC close-option trap about Air India transaction?
+
+A. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+B. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+C. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+D. The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+
+**Answer: D.**
+**Explanation:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q41. Which statement correctly identifies New PSE Policy?
+
+A. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+B. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+C. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+D. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+
+**Answer: A.**
+**Explanation:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q42. Which option preserves the accounting or regulatory boundary of New PSE Policy?
+
+A. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+B. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+C. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+D. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+
+**Answer: B.**
+**Explanation:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q43. Which statement uses New PSE Policy without losing its vintage, basket or legal status?
+
+A. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+B. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+C. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+D. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Answer: C.**
+**Explanation:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q44. Which option avoids the standard UPSC close-option trap about New PSE Policy?
+
+A. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+B. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+C. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+D. The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+
+**Answer: D.**
+**Explanation:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q45. Which statement correctly identifies PSE-policy exclusions?
+
+A. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+B. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+C. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+D. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+
+**Answer: A.**
+**Explanation:** The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q46. Which option preserves the accounting or regulatory boundary of PSE-policy exclusions?
+
+A. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+B. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+C. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+D. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+
+**Answer: B.**
+**Explanation:** The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q47. Which statement uses PSE-policy exclusions without losing its vintage, basket or legal status?
+
+A. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+B. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+C. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+D. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+
+**Answer: C.**
+**Explanation:** The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q48. Which option avoids the standard UPSC close-option trap about PSE-policy exclusions?
+
+A. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+B. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+C. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+D. The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+
+**Answer: D.**
+**Explanation:** The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q49. Which statement correctly identifies Asset monetisation?
+
+A. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+B. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+C. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+D. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+
+**Answer: A.**
+**Explanation:** Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q50. Which option preserves the accounting or regulatory boundary of Asset monetisation?
+
+A. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+B. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+C. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+D. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+
+**Answer: B.**
+**Explanation:** Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q51. Which statement uses Asset monetisation without losing its vintage, basket or legal status?
+
+A. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+B. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+C. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+D. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Answer: C.**
+**Explanation:** Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q52. Which option avoids the standard UPSC close-option trap about Asset monetisation?
+
+A. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+B. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+C. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+D. Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+
+**Answer: D.**
+**Explanation:** Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q53. Which statement correctly identifies Capital-receipt boundary?
+
+A. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+B. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+C. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+D. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Answer: A.**
+**Explanation:** Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q54. Which option preserves the accounting or regulatory boundary of Capital-receipt boundary?
+
+A. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+B. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+C. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+D. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Answer: B.**
+**Explanation:** Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q55. Which statement uses Capital-receipt boundary without losing its vintage, basket or legal status?
+
+A. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+B. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+C. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+D. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+
+**Answer: C.**
+**Explanation:** Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q56. Which option avoids the standard UPSC close-option trap about Capital-receipt boundary?
+
+A. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+B. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+C. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+D. Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+
+**Answer: D.**
+**Explanation:** Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q57. Which statement correctly identifies PSU mandate test?
+
+A. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+B. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+C. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+D. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Answer: A.**
+**Explanation:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q58. Which option preserves the accounting or regulatory boundary of PSU mandate test?
+
+A. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+B. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+C. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+D. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+
+**Answer: B.**
+**Explanation:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q59. Which statement uses PSU mandate test without losing its vintage, basket or legal status?
+
+A. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+B. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+C. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+D. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+
+**Answer: C.**
+**Explanation:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q60. Which option avoids the standard UPSC close-option trap about PSU mandate test?
+
+A. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+B. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+C. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+D. A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+
+**Answer: D.**
+**Explanation:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q61. Which statement correctly identifies Competition after privatisation?
+
+A. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+B. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+C. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+D. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+
+**Answer: A.**
+**Explanation:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q62. Which option preserves the accounting or regulatory boundary of Competition after privatisation?
+
+A. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+B. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+C. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+D. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+
+**Answer: B.**
+**Explanation:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q63. Which statement uses Competition after privatisation without losing its vintage, basket or legal status?
+
+A. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+B. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+C. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+D. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+
+**Answer: C.**
+**Explanation:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q64. Which option avoids the standard UPSC close-option trap about Competition after privatisation?
+
+A. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+D. Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Answer: D.**
+**Explanation:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q65. Which statement correctly identifies Employment and regional effects?
+
+A. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+B. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+C. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+D. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+
+**Answer: A.**
+**Explanation:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q66. Which option preserves the accounting or regulatory boundary of Employment and regional effects?
+
+A. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+B. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+C. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+D. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+
+**Answer: B.**
+**Explanation:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q67. Which statement uses Employment and regional effects without losing its vintage, basket or legal status?
+
+A. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+D. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+
+**Answer: C.**
+**Explanation:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q68. Which option avoids the standard UPSC close-option trap about Employment and regional effects?
+
+A. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+B. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+C. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+D. Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+
+**Answer: D.**
+**Explanation:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q69. Which statement correctly identifies Plan-thrust distinction?
+
+A. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+B. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+C. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+D. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+
+**Answer: A.**
+**Explanation:** The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q70. Which option preserves the accounting or regulatory boundary of Plan-thrust distinction?
+
+A. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+B. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+C. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+D. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+
+**Answer: B.**
+**Explanation:** The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q71. Which statement uses Plan-thrust distinction without losing its vintage, basket or legal status?
+
+A. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+D. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+
+**Answer: C.**
+**Explanation:** The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q72. Which option avoids the standard UPSC close-option trap about Plan-thrust distinction?
+
+A. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+B. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+C. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+D. The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+
+**Answer: D.**
+**Explanation:** The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q73. Which statement correctly identifies Coal Controller distinction?
+
+A. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+D. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+
+**Answer: A.**
+**Explanation:** The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q74. Which option preserves the accounting or regulatory boundary of Coal Controller distinction?
+
+A. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+B. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+C. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+D. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+
+**Answer: B.**
+**Explanation:** The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q75. Which statement uses Coal Controller distinction without losing its vintage, basket or legal status?
+
+A. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+D. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+
+**Answer: C.**
+**Explanation:** The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q76. Which option avoids the standard UPSC close-option trap about Coal Controller distinction?
+
+A. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+B. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+C. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+D. The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role.
+
+**Answer: D.**
+**Explanation:** The Coal Controller's Organisation is a subordinate regulatory office under the Ministry of Coal with plan, grading, statistics and payment functions; it is distinct from Coal India Limited's production role. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q77. Which statement correctly identifies CSR governance boundary?
+
+A. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+B. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+C. Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+D. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+
+**Answer: A.**
+**Explanation:** Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q78. Which option preserves the accounting or regulatory boundary of CSR governance boundary?
+
+A. The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+B. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+C. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+D. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+
+**Answer: B.**
+**Explanation:** Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q79. Which statement uses CSR governance boundary without losing its vintage, basket or legal status?
+
+A. The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+B. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+C. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+D. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+
+**Answer: C.**
+**Explanation:** Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+### Q80. Which option avoids the standard UPSC close-option trap about CSR governance boundary?
+
+A. Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+B. The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+C. Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+D. Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules.
+
+**Answer: D.**
+**Explanation:** Section 135 of the Companies Act, 2013 makes CSR a statutory Board-owned obligation for qualifying companies and links spending to Schedule VII; current thresholds and percentages must be verified from the dated law and rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+
+## PYQS AND ANSWER PRACTICE
+
+### TRANSPARENT OBJECTIVE-ONLY PYQ AUDIT
+
+Audited ledgers route objective demands on Five-Year Plan industrial and financial thrusts, the Coal Controller's Organisation and CSR rules. They do not establish official answer letters here. The Basic owner carries these tested distinctions into the core evidence bank and practice extracts.
+
+### OWNER PYQ LEDGER EXTRACTS
+
+#### 9. PYQ application
+
+- ⚠️ Use 2025 protectionism and PLI questions to connect post-1991 openness with strategic
+  industrial policy.
+- ⚠️ Industry PYQs increasingly test rationale, implementation and measurable outcomes
+  rather than slogans.
+- ⚠️ 2019 Prelims: Five-Year Plans' industrial/financial-sector thrust — answer with the
+  phase-by-phase distinction in Section 5 (Second Plan through Eighth Plan) rather than
+  treating planning as one undifferentiated era.
+- ⚠️ 2022 Prelims: Coal Controller's Organisation's statutory role — answer with the named
+  functions in Section 5, distinguishing CCO's regulatory role from Coal India Limited's
+  production role.
+
+#### Recent PYQ Integration (2024-2025)
+
+> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
+> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+
+- **Years represented:** 2024
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 1
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---|---|---|---|---|
+| 2024 | Prelims GS-I | 50 | Corporate Social Responsibility (CSR) rules in India | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+
+##### What this owner must now support
+
+- Corporate Social Responsibility (CSR) rules in India
+
+> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
+<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+#### Historical PYQ Integration (2018-2023)
+
+> **Status:** Question-level PYQ demand is integrated into this owner.
+> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+
+- **Years represented:** 2019, 2022
+- **Paper(s):** Prelims GS-I
+- **Routed question demands:** 2
+
+| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
+|---:|---|---:|---|---|---|---|
+| 2019 | Prelims GS-I | 70 | India Five-Year Plans industrial and financial sector thrust | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 72 | Coal Controllers Organization statutory role and functions | Objective question; official key unavailable locally | Cross-routed to industrial-policy and coal-sector owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+
+##### What this owner must now support
+
+- India Five-Year Plans industrial and financial sector thrust
+- Coal Controllers Organization statutory role and functions
+
+> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
+<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+#### 10. PYQ-based analytical application
+
+- ⚠️ Use 2025 protectionism and PLI questions to connect post-1991 openness with strategic
+  industrial policy.
+- ⚠️ Industry PYQs increasingly test rationale, implementation and measurable outcomes
+  rather than slogans.
+
+### ORIGINAL MAINS 1 — 10 MARKS
+
+**Question:** Distinguish disinvestment, strategic disinvestment and privatisation. Answer in about 150 words.
+
+**Model thesis:** **Claim:** Disinvestment. **Named evidence/example:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic disinvestment. **Named evidence/example:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Air India transaction. **Named evidence/example:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+- DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+- The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+
+**Qualified conclusion:** **Claim:** Disinvestment. **Named evidence/example:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic disinvestment. **Named evidence/example:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Air India transaction. **Named evidence/example:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+### ORIGINAL MAINS 2 — 10 MARKS
+
+**Question:** Why must industrial delicensing be accompanied by competition and sector regulation? Answer in about 150 words.
+
+**Model thesis:** **Claim:** Licence-regime boundary. **Named evidence/example:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Liberalisation and regulation. **Named evidence/example:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Competition after privatisation. **Named evidence/example:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+- Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+- Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Qualified conclusion:** **Claim:** Licence-regime boundary. **Named evidence/example:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Liberalisation and regulation. **Named evidence/example:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Competition after privatisation. **Named evidence/example:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+### ORIGINAL MAINS 3 — 15 MARKS
+
+**Question:** Trace the evolution of India's industrial policy from 1948 to 1991. Answer in about 250 words.
+
+**Model thesis:** **Claim:** Industrial-policy scope. **Named evidence/example:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1948 mixed-economy settlement. **Named evidence/example:** The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1956 schedule architecture. **Named evidence/example:** The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Licence-regime boundary. **Named evidence/example:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1980s transition. **Named evidence/example:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1991 reform package. **Named evidence/example:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+- The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later.
+- The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage.
+- Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation.
+- Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+- The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+
+**Qualified conclusion:** **Claim:** Industrial-policy scope. **Named evidence/example:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1948 mixed-economy settlement. **Named evidence/example:** The Industrial Policy Resolution of 1948 assigned the state an important role within a mixed economy, so it must remain distinct from the more detailed public-sector reservation architecture adopted later. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1956 schedule architecture. **Named evidence/example:** The Industrial Policy Resolution of 1956 classified industries into Schedules A, B and C and placed the commanding heights under public-sector leadership; the schedule boundaries belong to that policy vintage. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Licence-regime boundary. **Named evidence/example:** Before 1991, industrial licensing under the Industries (Development and Regulation) Act, 1951 constrained entry, capacity, location and expansion in many industries, but licensing never represented every form of regulation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1980s transition. **Named evidence/example:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1991 reform package. **Named evidence/example:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+### ORIGINAL MAINS 4 — 15 MARKS
+
+**Question:** Examine the design and limits of the New Public Sector Enterprise Policy. Answer in about 250 words.
+
+**Model thesis:** **Claim:** New PSE Policy. **Named evidence/example:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PSE-policy exclusions. **Named evidence/example:** The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PSU mandate test. **Named evidence/example:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment and regional effects. **Named evidence/example:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+**Claim → named evidence → analysis → qualification:**
+
+- The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+- The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles.
+- A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+- Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+
+**Qualified conclusion:** **Claim:** New PSE Policy. **Named evidence/example:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PSE-policy exclusions. **Named evidence/example:** The official DIPAM policy page states that the New PSE Policy does not apply to specified classes such as not-for-profit companies and CPSEs with vulnerable-group support or developmental and promotional roles. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PSU mandate test. **Named evidence/example:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment and regional effects. **Named evidence/example:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+### ORIGINAL MAINS 5 — 20 MARKS
+
+**Question:** Evaluate PSU reform through ownership, mandate, competition and fiscal criteria. Answer in about 300 words.
+
+**Model thesis:** **Claim:** Disinvestment. **Named evidence/example:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic disinvestment. **Named evidence/example:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Air India transaction. **Named evidence/example:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** New PSE Policy. **Named evidence/example:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Asset monetisation. **Named evidence/example:** Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Capital-receipt boundary. **Named evidence/example:** Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PSU mandate test. **Named evidence/example:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Competition after privatisation. **Named evidence/example:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control.
+- DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer.
+- The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure.
+- The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process.
+- Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity.
+- Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity.
+- A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose.
+- Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+
+**Qualified conclusion:** **Claim:** Disinvestment. **Named evidence/example:** Disinvestment is the sale of part or all of government's equity in a public enterprise; a minority market sale can change ownership dispersion without transferring management control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic disinvestment. **Named evidence/example:** DIPAM defines strategic disinvestment as an entire or substantial government share sale together with transfer of management control; privatisation is the subset in which control passes to a private strategic buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Air India transaction. **Named evidence/example:** The transfer of Air India to Talace Private Limited completed in January 2022 and is a completed control-transfer example, not evidence that every announced strategic sale reaches closure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** New PSE Policy. **Named evidence/example:** The New Public Sector Enterprise Policy was notified on 4 February 2021 and seeks bare-minimum public-sector presence in four strategic sectors while considering other enterprises for privatisation, merger, subsidiarisation or closure under the policy process. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Asset monetisation. **Named evidence/example:** Asset monetisation can transfer operating or revenue rights in a brownfield public asset for a specified period while public ownership is retained; it is not the same transaction as selling government equity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Capital-receipt boundary. **Named evidence/example:** Disinvestment proceeds are capital receipts from sale of an asset and cannot be treated as recurring revenue, a permanent deficit correction or proof of enterprise productivity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PSU mandate test. **Named evidence/example:** A PSU assessment should separate commercial objectives, explicit strategic or public-service obligations, regulator functions and any soft-budget support rather than presume that all PSUs serve the same purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Competition after privatisation. **Named evidence/example:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+### ORIGINAL MAINS 6 — 20 MARKS
+
+**Question:** Has India's industrial policy moved from control to strategic capability building? Answer in about 300 words.
+
+**Model thesis:** **Claim:** Industrial-policy scope. **Named evidence/example:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1980s transition. **Named evidence/example:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1991 reform package. **Named evidence/example:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Liberalisation and regulation. **Named evidence/example:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Competition after privatisation. **Named evidence/example:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment and regional effects. **Named evidence/example:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Plan-thrust distinction. **Named evidence/example:** The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+
+**Claim → named evidence → analysis → qualification:**
+
+- Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership.
+- Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break.
+- The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms.
+- Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing.
+- Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly.
+- Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns.
+- The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period.
+
+**Qualified conclusion:** **Claim:** Industrial-policy scope. **Named evidence/example:** Industrial policy shapes firm entry, competition, technology, location, finance, infrastructure and strategic capability; it is not a synonym for subsidies or public ownership. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1980s transition. **Named evidence/example:** Modernisation, productivity measures, technology upgrading and selective delicensing in the Sixth and Seventh Plan periods preceded 1991, so the reform path was not an instantaneous clean break. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** 1991 reform package. **Named evidence/example:** The New Industrial Policy of 1991 substantially reduced industrial licensing and public-sector reservation within a broader package that also included trade, exchange-rate and financial reforms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Liberalisation and regulation. **Named evidence/example:** Liberalisation reduces entry controls and expands competition, while competition law, sector regulation, environmental clearance and standards remain necessary after delicensing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Competition after privatisation. **Named evidence/example:** Privatisation can improve incentives, but without contestability and independent regulation it can replace a public monopoly with a private monopoly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment and regional effects. **Named evidence/example:** Industrial restructuring affects workers, suppliers and regions differently because labour-intensive dispersed industries and capital-intensive concentrated sectors have different adjustment and spillover patterns. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Plan-thrust distinction. **Named evidence/example:** The Second Plan stressed heavy and basic industry under public-sector leadership; the Sixth and Seventh Plans stressed modernisation and early liberalisation; systemic post-1991 financial reform aligned with the Eighth Plan period. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.

@@ -16,8 +16,8 @@
 DEONTOLOGY variants          CONSEQUENTIALISM variants        VIRTUE ETHICS variants
 - Kantian (universalisability,   - Act utilitarianism             - Aristotelian (phronesis,
   humanity formula)               (judge each act)                   golden mean, eudaimonia)
-- Rights-based (side-            - Rule utilitarianism            - Care ethics (relational,
-  constraints, e.g., Nozick)      (judge the rule)                  context-sensitive virtue)
+- Rights-based (side-            - Rule utilitarianism            - Neo-Aristotelian and
+  constraints, e.g., Nozick)      (judge the rule)                  role-sensitive approaches
 - Divine-command / duty-           - Preference utilitarianism      - Confucian/Indian analogues
   based religious ethics           (satisfy preferences,              (dharma-based role-virtue,
                                     not just pleasure)                 see `06`)
@@ -29,6 +29,9 @@ DEONTOLOGY variants          CONSEQUENTIALISM variants        VIRTUE ETHICS vari
               and where the theories would instead disagree?
 ```
 
+Care ethics is an adjacent relational tradition rather than merely a variant of Aristotelian
+virtue ethics; it is compared with the three families where relationships and dependency matter.
+
 **Analytical claim:** The advanced skill is not reciting the three theories but **stress-testing**
 them against genuinely hard cases where they diverge, and showing methodological self-awareness
 about which theory is doing the justificatory work in a given recommendation.
@@ -39,8 +42,8 @@ about which theory is doing the justificatory work in a given recommendation.
 |---|---|
 | ✅ **Trolley-problem-type divergence** | Classic thought experiments (redirecting harm to save more people) show utilitarianism permitting an act that deontology's side-constraints would forbid — the canonical illustration of genuine theoretical divergence, directly transferable to triage/priority-list dilemmas in disaster or health administration. |
 | ✅ **Agent-relative vs agent-neutral reasons** | Deontology often gives agent-relative reasons (I must not personally violate this duty, even if someone else would produce a worse outcome by not violating it); consequentialism gives agent-neutral reasons (what matters is the best outcome, regardless of who brings it about). |
-| ⚠️ **Moral luck** | The observation that outcome-based judgment (consequentialism) can hold agents responsible for factors partly outside their control (a reasonable decision that had a bad outcome due to chance) — a caution against purely consequentialist evaluation of a public servant's *good-faith* decision. |
-| ⚠️ **Role-based/relational virtue** | Aristotelian virtue ethics, extended by care ethics and Indian dharma-based thought (`06`), recognises that the "right" virtuous action can depend on one's specific *role* (a district collector's duty differs from a private citizen's) — directly relevant to public-office-specific ethics. |
+| ⚠️ **Moral luck** | The wider challenge to the control principle created when agents are morally judged for outcomes, circumstances, traits or causes partly outside their control — directly relevant to evaluating a public servant's *good-faith* decision. |
+| ⚠️ **Role-based and relational reasoning** | Aristotelian virtue ethics recognises that public roles shape the virtues and practical judgment demanded of an agent. Care ethics is a neighbouring relational tradition, while Indian role-duty thought (`06`) offers a qualified comparison rather than an exact theoretical identity. |
 
 ## 3. Detailed treatment
 
@@ -63,27 +66,27 @@ about which theory is doing the justificatory work in a given recommendation.
   by the bad outcome (pure consequentialist blame) — this is precisely the ARC's own concern (see
   `21`) that vigilance machinery must distinguish a "genuine commercial decision going wrong" from
   actual misconduct.
-- ⚠️ Advanced point: this is a **deontological/virtue-ethics corrective to consequentialist
-  administrative evaluation** — good governance requires judging the *process and intention*
-  (duty/virtue) of a decision, not only its eventual outcome, precisely to protect honest risk-taking.
+- ⚠️ Advanced point: moral luck challenges any evaluation that ignores the limits of an agent's
+  control. Good governance should therefore judge information available ex ante, authority,
+  process, intention and diligence, while retaining outcomes as evidence and feedback rather than
+  treating them as the sole measure of blame.
 
 ### Rule utilitarianism as the practical compromise in public administration
 
-- ⚠️ Most actual public-administration ethics operates as **rule utilitarianism**: policies (rules)
-  are judged by their aggregate long-run consequences, but *individual acts* within that policy
-  framework are expected to follow the rule even in a specific case where breaking it might produce
-  a marginally better local outcome — this preserves predictability, trust and non-arbitrariness
-  (values central to `09`, `14`), which pure act-utilitarian discretion would undermine.
-- ⚠️ This explains why "the rule was followed even though a better outcome was conceivable by
-  breaking it" is often the ethically *and* institutionally correct case-study answer.
+- ⚠️ **Rule utilitarianism** explains one important administrative defence of stable policies:
+  judge a rule by the aggregate long-run consequences of its general acceptance, then normally
+  expect individual acts to follow it. This can preserve predictability, trust and
+  non-arbitrariness (values central to `09`, `14`) better than unrestricted act-level discretion.
+- ⚠️ It does not justify mechanical rule-worship. When literal compliance defeats the rule's
+  lawful purpose, an authorised, reasoned and reviewable exception may better protect both
+  institutional consequences and the substance of justice.
 
 ### Virtue ethics and role-specific duty (dharma parallel)
 
-- ⚠️ Aristotle's phronesis, applied to public office, becomes role-specific: the practical wisdom
+- ⚠️ Aristotle's phronesis, applied to public office, becomes role-sensitive: the practical wisdom
   expected of a district collector, a police officer or a judge differs because their institutional
-  role and public trust differ — directly parallel to the Indian dharma concept of *svadharma*
-  (duty appropriate to one's role/station), reinforcing `06`'s realist-idealist synthesis with a
-  role-based virtue lens.
+  responsibilities and public trust differ. Indian *svadharma* (role-appropriate duty) offers a
+  useful but limited analogy; the traditions should not be treated as theoretically identical.
 
 ## 4. Institutional and reform architecture
 
@@ -120,8 +123,8 @@ about which theory is doing the justificatory work in a given recommendation.
 
 - ✅ The trolley-problem class of thought experiments is the standard illustration of genuine
   divergence between consequentialist and deontological reasoning.
-- ✅ "Moral luck" describes the phenomenon of an agent being judged, unfairly on strict deontological/
-  virtue-ethics grounds, by factors outside their control that affected the outcome.
+- ✅ "Moral luck" describes the problem of morally judging an agent for outcomes, circumstances,
+  traits or causal influences partly outside that agent's control.
 - ✅ Rule utilitarianism, unlike act utilitarianism, judges the general rule (not the individual
   act) by its aggregate consequences.
 

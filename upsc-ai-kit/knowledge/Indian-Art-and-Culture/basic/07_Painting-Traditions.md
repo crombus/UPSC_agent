@@ -469,3 +469,38 @@ interpretive sentence is a new place to be wrong.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Shadanga; prehistoric rock art; Ajanta-Bagh,
+  Pallava-Chola and later murals; Pala and Western Indian manuscripts;
+  Mughal, Deccani, Rajasthani and Pahari ateliers; Tanjore, Mysore, Company,
+  bazaar, Kalighat, Ravi Varma, Bengal School and region-specific folk,
+  tribal and ritual painting.
+- **Source/inference control:** support, pigment, plaster, line, format,
+  inscription, atelier practice, patron and securely attributed work are
+  evidence. Survival scarcity does not prove low original production and
+  shared Persianate resources do not make every miniature Mughal.
+- **Date control:** prehistoric marks, ancient and early-medieval murals,
+  manuscript painting, Mughal atelier phases, regional dispersal, colonial
+  publics, nationalist responses and current institutional events remain
+  separate chronologies.
+- **Geography control:** Ajanta, Bagh, Kanchipuram, Panamalai,
+  Brihadishvara, Pala and Jain manuscript zones, Deccan courts, Basohli,
+  Guler, Kangra, Kishangarh, Tanjore, Mysore, Kalighat and named folk
+  regions retain distinct supports, patrons and functions.
+- **Terminology/style control:** petroglyph, fresco secco or tempera, true
+  wet fresco, manuscript folio, muraqqa, wash, gesso relief, Company
+  painting, bazaar painting, folk and tribal painting are not treated as
+  synonyms. Bani Thani belongs to Kishangarh and Hallisalasya remains a Bagh
+  subject with its cave attribution bounded.
+- **Boundary:** Architecture Topics 01-05 own buildings and their structural
+  history. This topic owns pictorial programmes and uses a monument only as
+  the support, patronage and viewing context of a painting.
+- **Boundary:** Sculpture/iconography belongs to Topic 06,
+  language and manuscript textual history to Topic 11, crafts/textiles to
+  Topic 12 and changing heritage or institutional recognition to Topic 14.
+- **Verified PYQ ownership, 2018-2026:** locally routed objective demands
+  cover Bani Thani, Jahangir-era portraiture and the provisional 2026
+  Hallisalasya route. No direct Mains demand is invented; mural evidence may
+  support architecture questions without transferring their ownership.

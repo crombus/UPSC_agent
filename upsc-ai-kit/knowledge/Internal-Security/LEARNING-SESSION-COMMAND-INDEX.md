@@ -1,6 +1,6 @@
 # Internal Security Learning Session Command Index
 
-> **Topics indexed:** 12  
+> **Topics indexed:** 12
 > **Subject method:** Threat architecture -> drivers -> institutions/law -> operational response -> safeguards and case studies.
 
 ## How to use these commands
@@ -16,11 +16,13 @@
 
 The complete package remains the master reference. A live session should select all exam-relevant Core material, use advanced material only where it adds marks, run one genuine current-affairs check per integrated block, and end with cumulative retrieval rather than an MCQ after every small heading.
 
+New archives use `learning-sessions/`. `Terminal-Learning-Sessions`, `learning-sessions-v2`, `_learning-sessions` are indexed only as legacy migration aliases; do not create new sessions there.
+
 ## Copy-ready topic commands
 
 | No. | Topic and source status | Core learning | Optional depth | Test | Revision |
 |---:|---|---|---|---|---|
-| 01 | **Internal-Security Foundations and Governance**<br>complete package available; `basic/01_Internal-Security-Foundations-and-Governance.md` | `Start Internal Security 01 - Internal-Security Foundations and Governance` | `Deep Internal Security 01` | `Test Internal Security 01` | `Revise Internal Security 01` |
+| 01 | **Internal-Security Foundations and Governance**<br>complete package/session available; `basic/01_Internal-Security-Foundations-and-Governance.md` | `Start Internal Security 01 - Internal-Security Foundations and Governance` | `Deep Internal Security 01` | `Test Internal Security 01` | `Revise Internal Security 01` |
 | 02 | **Terrorism and Counter-Terror Architecture**<br>Core owner ready; `basic/02_Terrorism-and-Counter-Terror-Architecture.md` | `Start Internal Security 02 - Terrorism and Counter-Terror Architecture` | `Deep Internal Security 02` | `Test Internal Security 02` | `Revise Internal Security 02` |
 | 03 | **Left-Wing Extremism and Integrated Response**<br>Core owner ready; `basic/03_Left-Wing-Extremism-and-Integrated-Response.md` | `Start Internal Security 03 - Left-Wing Extremism and Integrated Response` | `Deep Internal Security 03` | `Test Internal Security 03` | `Revise Internal Security 03` |
 | 04 | **North-East Insurgency and Peace Processes**<br>Core owner ready; `basic/04_North-East-Insurgency-and-Peace-Processes.md` | `Start Internal Security 04 - North-East Insurgency and Peace Processes` | `Deep Internal Security 04` | `Test Internal Security 04` | `Revise Internal Security 04` |

@@ -1032,3 +1032,29 @@ audit cycle exists to prevent.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** temple plan and elevation, Gupta experiments, Nagara,
+  Dravida and Deccan/regional solutions, Pallava-Chola-Hoysala comparison and
+  the complete Chandella-Khajuraho architectural dossier.
+- **Source/inference control:** plan, fabric, inscription and securely
+  attributed patronage are evidence; style families and readings of erotic
+  imagery remain analytical classifications rather than total explanations.
+- **Date control:** structural experiments, dynastic building phases, later
+  additions, modern conservation and recognition are separate chronologies.
+- **Geography control:** north Indian Nagara, Kalinga, Maru-Gurjara,
+  Khajuraho, Pallava-Chola Tamil country and Deccan/Hoysala solutions retain
+  material and regional specificity.
+- **Terminology/style control:** garbhagriha, mandapa, antarala, jagati,
+  shikhara, urushringa, amalaka, vimana and gopuram are distinguished;
+  Vesara is not treated as a mechanical half-Nagara/half-Dravida formula.
+- **Iconography control:** architecture-integrated sculpture may establish
+  programme, movement and patron-selected social visibility. Topic 06 owns
+  freestanding sculpture and iconographic doctrine; no sculptural programme
+  is treated as a social census.
+- **Boundary:** political dynastic history remains with Ancient/Medieval
+  History. Topic 14 owns institutional policy and current heritage status.
+- **Verified PYQ ownership, 2018-2026:** direct routed demands include 2022
+  temple-sculpture social life, 2024 Pallava and Chola art/architecture, and
+  2025 Chandella artform. Shared sculpture ownership is stated explicitly.

@@ -15,13 +15,18 @@
 
 ```text
 HONESTY              INTEGRITY                    PROBITY
-truthfulness in       consistency of values         demonstrable, PROCEDURALLY
-communication/         across situations,             VERIFIABLE rectitude in the
-disclosure              including unobserved           conduct of PUBLIC OFFICE
-                        ones                            (open to scrutiny, auditable)
+truthfulness and      principled consistency        upright, impartial and
+candid disclosure     and resistance to             public-purpose conduct in
+                      compromising influence        entrusted PUBLIC OFFICE
         \                     |                              /
          \                    |                             /
-          v                   v                            v
+          +-------------------+-----------------------------+
+                              |
+                              v
+             PROPRIETY + TRANSPARENCY + ACCOUNTABILITY
+        make public conduct appropriate, reasoned and reviewable
+                              |
+                              v
               Together, these underpin "GOOD GOVERNANCE":
    participatory, consensus oriented, accountable, transparent,
    responsive, effective and efficient, equitable and inclusive,
@@ -29,18 +34,21 @@ disclosure              including unobserved           conduct of PUBLIC OFFICE
        (UNESCAP's 8 characteristics, quoted in ARC Annexure-I(1))
 ```
 
-**Core proposition:** ⚠️ Probity is narrower and more institutional than honesty or integrity — it is
-specifically the *demonstrable, verifiable* rectitude of conduct in public office, judged not just
-by the official's private conscience but by whether the conduct would survive external, procedural
-scrutiny (audit, RTI disclosure, judicial review).
+**Core proposition:** ⚠️ Probity is the public-office standard of upright, impartial and
+public-purpose conduct. Honesty, integrity, propriety, transparency and accountability overlap with
+and support it; they are not a strict set-theoretic hierarchy. For analysis, probity should be
+capable of reasoned public justification and verification, but it is not reducible to paperwork or
+procedure alone.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ⚠️ **Probity** | Demonstrable, procedurally verifiable rectitude in the exercise of public office — the quality of conduct that would survive external scrutiny, not merely private moral conviction. |
-| ✅ **Integrity** (Nolan, ARC 2.2.5) | Freedom from financial/other obligation to outside individuals/organisations that "might influence" official duty. |
-| ⚠️ **Honesty** | Truthfulness in communication and disclosure — a necessary but not sufficient component of probity (an honest official can still lack procedural rigor or transparency). |
+| ⚠️ **Probity** | Upright, impartial and public-purpose conduct in entrusted public office. As an analytical test, it should be capable of reasoned public justification and verification. |
+| ✅ **Integrity** | Consistent adherence to ethical principle and resistance to improper influence. The Nolan integrity principle reproduced by ARC specifically stresses freedom from outside obligations that might influence official duty; that formulation is not the whole ordinary meaning of integrity. |
+| ⚠️ **Honesty** | Truthfulness, non-deception and candid disclosure, including declaration of relevant private interests. |
+| ⚠️ **Propriety** | Whether conduct is appropriate, fair and compatible with the purpose of entrusted power, even where it may be technically lawful. |
+| ⚠️ **Accountability** | Answerability to a competent forum that can review reasons and evidence and secure correction, remedy or consequence. Transparency alone does not complete this relationship. |
 | ✅ **Good governance** (UNESCAP's 8 characteristics, cited in ARC Annexure-I(1)) | Participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and follows the rule of law. |
 | ⚠️ **Philosophical basis of probity** | Draws on both deontological (duty to the public trust, regardless of consequence) and virtue-ethics (probity as a habituated public-office virtue) traditions — see `08`. |
 
@@ -56,17 +64,18 @@ scrutiny (audit, RTI disclosure, judicial review).
    probity within a wider system — probity alone (individual rectitude) is necessary but not
    sufficient; participation, transparency, accountability and rule of law must reinforce it
    institutionally.
-4. ⚠️ Probity's philosophical basis draws on the **public trust doctrine** — public office and
-   public money are held in trust for citizens (echoing Gandhi's trusteeship, `06`), such that any
-   private benefit from that trust, however small, is a probity failure even if not criminally
-   prosecutable.
+4. ⚠️ Probity's philosophical basis can be expressed through a **public-office-as-trust** or
+   fiduciary framing — public authority and money are entrusted for public purpose, not personal
+   extraction (echoing Gandhi's trusteeship, `06`). This is an ethical analogy. The settled Indian
+   environmental public-trust doctrine concerns State trusteeship of certain natural resources and
+   should not be presented as a direct judicial holding governing every aspect of public office.
 
 ## 4. Indian applications and examples
 
 - ⚠️ A district officer maintaining a transparent, dated file-noting trail for a discretionary
   land-allotment decision demonstrates probity — not merely being honest in intention, but making
   that honesty independently verifiable.
-- ✅ Annual asset-and-liability declarations by Members of Parliament under **Section 75A of the
+- ✅ A post-election asset-and-liability declaration by Members of Parliament under **Section 75A of the
   Representation of the People Act, 1951** (inserted by the Representation of the People (Third
   Amendment) Act, 2002) operationalise probity by converting private financial conduct into a
   verifiable record filed within 90 days of taking oath, with the Members of Lok Sabha and Members
@@ -75,9 +84,9 @@ scrutiny (audit, RTI disclosure, judicial review).
   paraphrase at 2.5.6.1 ("or the Legislature of the State") over-states its reach — State-level
   disclosure obligations rest on separate State rules and on Election Commission nomination
   affidavits.
-- ⚠️ 2024 GS-IV Q6(a)'s reference to maintaining "high standards of probity" for women public
-  servants confirms that probity, in the syllabus's own usage, denotes a demonstrable, institutional
-  standard of conduct, not merely a personal virtue.
+- ⚠️ 2024 GS-IV Q6(a) expressly asks how women public servants can improve efficiency and maintain
+  "high standards of probity" while addressing gender-specific challenges. Use it as an applied
+  institutional-context question, not as textual authority for one contested definition of probity.
 
 ## 5. Must-Know Facts for Prelims
 
@@ -93,10 +102,10 @@ scrutiny (audit, RTI disclosure, judicial review).
 
 ## 6. UPSC traps
 
-- ❌ Probity, integrity and honesty are fully interchangeable terms. -> They form a nested hierarchy:
-  honesty (truthful communication) is necessary for, but narrower than, integrity (consistency of
-  values across situations), which is in turn narrower than probity (demonstrable, verifiable
-  rectitude in public office specifically).
+- ❌ Probity, integrity and honesty are fully interchangeable terms, or form a rigid nested
+  hierarchy. -> They overlap but ask different questions: honesty tests truthful disclosure;
+  integrity tests principled consistency and independence; propriety tests appropriateness and
+  public purpose; accountability tests answerability; probity integrates these in public office.
 - ❌ Probity is purely a personal virtue with no institutional dimension. -> Probity is defined
   precisely by its institutional verifiability — disclosure, audit, transparency mechanisms make
   probity checkable, distinguishing it from private honesty alone.
@@ -121,16 +130,16 @@ scrutiny (audit, RTI disclosure, judicial review).
 
 ## 8. Mains angles
 
-- ⚠️ When a question asks to distinguish probity from integrity/honesty, use the nested-hierarchy
-  framing (honesty ⊂ integrity ⊂ probity) explicitly rather than treating them as loosely
-  synonymous.
-- ⚠️ Anchor "philosophical basis of governance" answers in the public-trust doctrine and at least
-  one named moral theory (deontological duty or virtue-based habituation).
+- ⚠️ When a question asks to distinguish probity from integrity/honesty, use an overlap-and-function
+  comparison rather than a rigid hierarchy; add propriety and accountability where space permits.
+- ⚠️ Anchor "philosophical basis of governance" answers in the public-office-as-trust framing and
+  at least one named moral theory (deontological duty or virtue-based habituation), while keeping
+  the settled environmental public-trust doctrine distinct.
 
-> **Answer thesis:** Probity is the demonstrable, institutionally verifiable form of integrity and
-> honesty specific to public office — necessary but insufficient alone, requiring reinforcement by
-> the wider good-governance characteristics of participation, transparency, accountability and rule
-> of law.
+> **Answer thesis:** Probity is upright, impartial and public-purpose conduct in entrusted public
+> office, made demonstrable through reasons, records and appropriate scrutiny. It overlaps with
+> honesty and integrity without reducing to either, and operates alongside the wider good-governance
+> characteristics of participation, transparency, accountability and rule of law.
 
 ## 9. Probable questions
 
@@ -139,7 +148,8 @@ scrutiny (audit, RTI disclosure, judicial review).
 - ⚠️ **Mains (10 marks):** Distinguish probity from integrity and honesty, with an Indian
   administrative example.
 - ⚠️ **Mains (15 marks):** Discuss the philosophical basis of probity in governance, linking it to
-  the public-trust doctrine and at least one classical ethical theory.
+  the public-office-as-trust or trusteeship analogy and at least one classical ethical theory,
+  while distinguishing the environmental public-trust doctrine.
 
 ## 10. Study links
 
@@ -156,15 +166,15 @@ scrutiny (audit, RTI disclosure, judicial review).
 
 - **Years represented:** 2025
 - **Paper(s):** GS-IV
-- **Routed question demands:** 1
+- **Routed question demands:** 1 isolated subpart
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2025 | GS-IV | 1 | (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2025 | GS-IV | 1(b) | Constitutional morality as a product of civil education and adherence to rule of law; significance for public servants, good governance and accountability | Section A theory · 10 marks · 150 words | Topic 14 primary; Topic 10 cross-link | Isolate Q1(b); Q1(a), social-media ethical dilemmas, belongs to Topic 13. |
 
 ### What this owner must now support
 
-- (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education
+- 2025 Q1(b): constitutional morality, civil education, rule of law, public service, good governance and accountability
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
@@ -177,25 +187,25 @@ scrutiny (audit, RTI disclosure, judicial review).
 
 - **Years represented:** 2018, 2019, 2021, 2022, 2023
 - **Paper(s):** GS-IV
-- **Routed question demands:** 6
+- **Routed question demands:** 6 isolated questions/subparts
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | GS-IV | 11 | Dr. X charitable trust hospital - tax irregularities found on inspection; two options: broad substantial compliance ignoring technical defaults vs strict pursuit on all fronts | Case study · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-IV | 3 | (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain | Explain · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-IV | 5 | (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-IV | 6 | (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being | Elaborate / Justify · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-IV | 5 | (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty | Illustrate (a); Short notes (b) · 10 + 10 marks · 150 words (a); 30 words each (b) | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-IV | 5 | (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development | Discuss · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 11 | Dr. X charitable-trust hospital: substantial tax non-compliance plus merely technical defaults; choose a reasoned enforcement course | Case study · 20 marks · 250 words | Topic 22 method; Topic 14 probity/propriety substance | Preserve the full official facts and both stated options. |
+| 2019 | GS-IV | 3(a) | Meaning of constitutional morality and how it is upheld | Explain · 10 marks · 150 words | Topic 14 primary; Topic 10 cross-link | Isolate Q3(a); crisis of conscience belongs to Topic 10. |
+| 2019 | GS-IV | 5(a) | Meaning of probity in governance and measures for ensuring it in government | Discuss · 10 marks · 150 words | Topic 14 primary | Isolate Q5(a); emotional intelligence belongs to Topic 05. |
+| 2021 | GS-IV | 6(b) | Integrity as a value that empowers the human being, with illustration | Justify · 10 marks · 150 words | Topic 07/09 primary; Topic 14 cross-link | Use it to distinguish integrity from probity without claiming identity. |
+| 2022 | GS-IV | 5(b)(iii) | Short note: Probity in public life | Short note · 2 marks · 30 words within Q5(b) | Topic 14 primary | Preserve the short-note format and do not import unrelated Q5 subparts. |
+| 2023 | GS-IV | 5(b) | Probity as essential for effective governance and socio-economic development | Discuss · 10 marks · 150 words | Topic 14 primary | Isolate Q5(b); conscience belongs to Topic 10. |
 
 ### What this owner must now support
 
-- Dr. X charitable trust hospital - tax irregularities found on inspection; two options: broad substantial compliance ignoring technical defaults vs strict pursuit on all fronts
-- (a) constitutional morality - meaning and how to uphold; (b) crisis of conscience - meaning and manifestation in public domain
-- (a) probity in governance - meaning and measures for ensuring probity; (b) emotional intelligence as ability to make emotions work for you
-- (a) independent social audit mechanism as absolute must for public service accountability and ethical conduct; (b) integrity as a value that empowers the human being
-- (a) ethical issues in Russia-Ukraine war; (b) short notes on conflict of interest, probity in public life, challenges of digitalization, devotion to duty
-- (a) conscience as reliable ethical guide compared to laws and rules; (b) probity essential for effective governance and development
+- 2018 Q11: Dr. X charitable-trust hospital and proportionate tax enforcement
+- 2019 Q3(a): constitutional morality
+- 2019 Q5(a): probity in governance and measures
+- 2021 Q6(b): integrity as an empowering value, as a distinction/cross-link
+- 2022 Q5(b)(iii): probity in public life
+- 2023 Q5(b): probity, effective governance and socio-economic development
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

@@ -21,6 +21,14 @@
 
 ## How this folder works
 
+- **Primary Essay package:** all 16 knowledge topics are combined in one
+  subject-wide guide under `subject-wide-syllabus/master/`. The same
+  package includes all 100 Essay PYQs as solved frameworks, plus one
+  question-only workbook containing those PYQs and 32 original practice
+  topics, and one separate matching solutions document/PDF.
+- **No GS mechanics:** the Essay master package contains no MCQs and no
+  artificial learning-session sequence. Every Basic and Advanced owner is
+  preserved in full inside the combined guide.
 - **Two tiers per topic:** `basic/NN` builds the must-do skill — what the
   move is, why it matters, a starter version, and how to avoid the
   obvious failure. `advanced/NN` does not repeat basic — it adds
@@ -45,10 +53,10 @@
   grid is explicitly and repeatedly labelled **"Internal Essay Practice
   Rubric — not UPSC's official rubric."** Nothing in this folder should
   ever be read as UPSC's own marking key.
-- **No full model essays.** Every topic gives decode grids, thesis
-  alternatives, argument maps, paragraph plans, transition banks, error
-  logs and timed drills — never a complete finished essay to memorise and
-  reproduce, because that defeats the exam's test of original synthesis.
+- **Model solutions are for comparison, not memorisation.** Generated
+  solution documents now provide prompt-specific theses, argument maps,
+  developed model responses, counter-views and conclusions. They remain
+  repository-authored examples rather than official UPSC model answers.
 - **No guaranteed formula.** Every engine, chain, grid and paragraph
   count in this folder is a ⚠️ scaffold for thinking, offered because it
   makes weaknesses visible — none is a scoring formula, and any of them

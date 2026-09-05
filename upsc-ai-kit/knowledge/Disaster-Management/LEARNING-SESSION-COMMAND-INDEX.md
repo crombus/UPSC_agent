@@ -1,6 +1,6 @@
 # Disaster Management Learning Session Command Index
 
-> **Topics indexed:** 18  
+> **Topics indexed:** 18
 > **Subject method:** Hazard-risk mechanism -> prevention/preparedness -> institutions -> response/recovery -> case study.
 
 ## How to use these commands
@@ -16,11 +16,13 @@
 
 The complete package remains the master reference. A live session should select all exam-relevant Core material, use advanced material only where it adds marks, run one genuine current-affairs check per integrated block, and end with cumulative retrieval rather than an MCQ after every small heading.
 
+New archives use `learning-sessions/`. `Terminal-Learning-Sessions`, `learning-sessions-v2`, `_learning-sessions` are indexed only as legacy migration aliases; do not create new sessions there.
+
 ## Copy-ready topic commands
 
 | No. | Topic and source status | Core learning | Optional depth | Test | Revision |
 |---:|---|---|---|---|---|
-| 01 | **Concepts, Risk, Resilience and Sendai**<br>complete package available; `basic/01_Concepts-Risk-Resilience-and-Sendai.md` | `Start Disaster Management 01 - Concepts, Risk, Resilience and Sendai` | `Deep Disaster Management 01` | `Test Disaster Management 01` | `Revise Disaster Management 01` |
+| 01 | **Concepts, Risk, Resilience and Sendai**<br>complete package/session available; `basic/01_Concepts-Risk-Resilience-and-Sendai.md` | `Start Disaster Management 01 - Concepts, Risk, Resilience and Sendai` | `Deep Disaster Management 01` | `Test Disaster Management 01` | `Revise Disaster Management 01` |
 | 02 | **Indian Legal and Institutional Architecture**<br>Core owner ready; `basic/02_Indian-Legal-and-Institutional-Architecture.md` | `Start Disaster Management 02 - Indian Legal and Institutional Architecture` | `Deep Disaster Management 02` | `Test Disaster Management 02` | `Revise Disaster Management 02` |
 | 03 | **Community-Based DRR and Inclusive Protection**<br>Core owner ready; `basic/03_Community-Based-DRR-and-Inclusive-Protection.md` | `Start Disaster Management 03 - Community-Based DRR and Inclusive Protection` | `Deep Disaster Management 03` | `Test Disaster Management 03` | `Revise Disaster Management 03` |
 | 04 | **Multi-Hazard Early Warning and Disaster Technology**<br>Core owner ready; `basic/04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md` | `Start Disaster Management 04 - Multi-Hazard Early Warning and Disaster Technology` | `Deep Disaster Management 04` | `Test Disaster Management 04` | `Revise Disaster Management 04` |

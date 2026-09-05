@@ -700,3 +700,37 @@ Saka) — and marks follow from telling them apart.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** pottery chronology; terracotta, stone, stucco and bronze
+  technique; Yaksha-Yakshi and Shalabhanjika; Gandhara, Mathura, Amaravati
+  and Gupta schools; Buddhist symbols; Nataraja; lion, bull, Nandi, Yali and
+  Vyala; and the evidentiary use of temple sculpture.
+- **Source/inference control:** material, manufacturing marks, posture,
+  gesture, attribute, inscription, find-site and architectural placement are
+  evidence. Pashupati, Mother Goddess and Priest-King are modern labels;
+  commissioned temple images are not a statistical census of society.
+- **Date control:** Harappan objects, early-historic pottery, overlapping
+  Gandhara-Mathura iconic production, Gupta idioms, the Ravana Phadi
+  antecedent and Chola canonical bronzes remain separate chronological
+  claims. Chola achievement is not treated as the origin of Nataraja.
+- **Geography control:** Gandhara's north-western workshops, Mathura's spotted
+  red sandstone, Amaravati-Vengi limestone, Sarnath restraint, Aihole and
+  Chola Tamil country retain distinct regions, materials and patrons.
+- **Terminology/style control:** cire-perdue, Red Ware, Black-and-Red Ware,
+  Painted Grey Ware, Northern Black Polished Ware, aniconic presence,
+  tribhanga, mudra, avayudha, aureole, Nandi mandapa, Yali and Vyala are not
+  interchanged or reduced to generic sculpture labels.
+- **Boundary:** Architecture Topics 01-05 own urban form, monument structure
+  and architecture-integrated programmes. This topic owns freestanding
+  sculpture, pottery and iconographic systems, using architectural placement
+  only where it is indispensable to the image's function.
+- **Boundary:** Dance posture belongs to Topic 09, religious
+  doctrine to Topic 13 and changeable museum, UNESCO, ASI, restitution or
+  safeguarding status to Topic 14.
+- **Verified PYQ ownership, 2018-2026:** direct routes are 2019 GS-I on
+  Central Asian and Greco-Bactrian elements in Gandhara art and the two 2022
+  GS-I demands on temple sculpture as social evidence and lion-bull
+  significance. The 2026 empty-seat objective route remains provisional and
+  unsolved.

@@ -1,0 +1,1012 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-06",
+  "subject": "Geography",
+  "title": "LANDFORMS OF GLACIATION / HIMALAYAN GLACIERS-GLOF",
+  "short_route": "GLACIER BUDGET → RETREAT PARADOX → EROSION SUITE → FJORD-RIA FIREWALL → DEPOSITIONAL SORTING → ICE-MASS FAMILY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g3 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-06\\g3\\geography-06_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-05-06-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "cdced53c7642cf38f93db569b93edd026eb7a856abeea3042d2c156355a3ca26",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GLACIER BUDGET",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GLACIER BUDGET",
+          "role": "primary"
+        },
+        {
+          "text": "SNOWFALL, AVALANCHE AND REFREEZING",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNUAL GAIN EQUALS ANNUAL LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "MELT, SUBLIMATION AND CALVING WHERE RELEVANT",
+          "role": "evidence"
+        },
+        {
+          "text": "NET BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "GEOMETRY RESPONDS WITH A LAG",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ACCUMULATION → snowfall, avalanche and refreezing",
+        "ELA → annual gain equals annual loss",
+        "ABLATION → melt, sublimation and calving where relevant",
+        "NET BALANCE → geometry responds with a lag"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ACCUMULATION → snowfall, avalanche and refreezing",
+            "ELA → annual gain equals annual loss"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ABLATION → melt, sublimation and calving where relevant",
+            "NET BALANCE → geometry responds with a lag"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ACCUMULATION → snowfall, avalanche and refreezing",
+            "ELA → annual gain equals annual loss"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NET BALANCE → geometry responds with a lag.",
+      "source_references": [
+        "Accumulation, ablation and ELA"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RETREAT PARADOX",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RETREAT PARADOX",
+          "role": "primary"
+        },
+        {
+          "text": "ICE PARTICLES",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINUE MOVING DOWNSLOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "RECEIVES FORWARD ICE FLUX",
+          "role": "evidence"
+        },
+        {
+          "text": "ABLATION DELIVERY",
+          "role": "primary"
+        },
+        {
+          "text": "SNOUT SHIFTS UP-VALLEY",
+          "role": "outcome"
+        },
+        {
+          "text": "METRIC RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "FLOW DIRECTION DIFFERS FROM MARGIN CHANGE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "ICE PARTICLES → continue moving downslope",
+        "TERMINUS → receives forward ice flux",
+        "ABLATION DELIVERY → snout shifts up-valley",
+        "METRIC RULE → flow direction differs from margin change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ICE PARTICLES → continue moving downslope",
+            "TERMINUS → receives forward ice flux"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ABLATION DELIVERY → snout shifts up-valley",
+            "METRIC RULE → flow direction differs from margin change"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ICE PARTICLES → continue moving downslope",
+            "TERMINUS → receives forward ice flux"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METRIC RULE → flow direction differs from margin change.",
+      "source_references": [
+        "Flow, retreat and debris cover"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EROSION SUITE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EROSION SUITE",
+          "role": "primary"
+        },
+        {
+          "text": "JOINTED BLOCKS REMOVED",
+          "role": "outcome"
+        },
+        {
+          "text": "POLISH, STRIAE AND ROCK FLOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "HEADWALL SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "HANGING VALLEY",
+          "role": "primary"
+        },
+        {
+          "text": "VALLEY-SCALE OVERDEEPENING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PLUCKING → jointed blocks removed",
+        "ABRASION → polish, striae and rock flour",
+        "CIRQUE / ARETE / HORN → headwall system",
+        "U-TROUGH / HANGING VALLEY → valley-scale overdeepening"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PLUCKING → jointed blocks removed",
+            "ABRASION → polish, striae and rock flour"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CIRQUE / ARETE / HORN → headwall system",
+            "U-TROUGH / HANGING VALLEY → valley-scale overdeepening"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PLUCKING → jointed blocks removed",
+            "ABRASION → polish, striae and rock flour"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CIRQUE / ARETE / HORN → headwall system.",
+      "source_references": [
+        "Plucking and abrasion",
+        "Cirque-to-trough erosional suite"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FJORD-RIA FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FJORD-RIA FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "GLACIAL TROUGH LATER FLOODED BY SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVER VALLEY LATER DROWNED BY SEA",
+          "role": "comparison"
+        },
+        {
+          "text": "FJORD CUES",
+          "role": "evidence"
+        },
+        {
+          "text": "DEEP WATER, STEEP WALLS, HANGING VALLEYS",
+          "role": "primary"
+        },
+        {
+          "text": "INUNDATION PRESERVES DIFFERENT PRE-EXISTING VALLEYS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FJORD → glacial trough later flooded by sea",
+        "RIA → river valley later drowned by sea",
+        "FJORD CUES → deep water, steep walls, hanging valleys",
+        "RULE → inundation preserves different pre-existing valleys"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "FJORD → glacial trough later flooded by sea",
+          "FJORD CUES → deep water, steep walls, hanging valleys",
+          "FJORD → glacial trough later flooded by sea"
+        ],
+        [
+          "RIA → river valley later drowned by sea",
+          "RULE → inundation preserves different pre-existing valleys",
+          "RIA → river valley later drowned by sea"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "FJORD → glacial trough later flooded by sea",
+            "RIA → river valley later drowned by sea"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FJORD CUES → deep water, steep walls, hanging valleys",
+            "RULE → inundation preserves different pre-existing valleys"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FJORD → glacial trough later flooded by sea",
+            "RIA → river valley later drowned by sea"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FJORD CUES → deep water, steep walls, hanging valleys.",
+      "source_references": [
+        "Fjords and rias"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DEPOSITIONAL SORTING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEPOSITIONAL SORTING",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT ICE, GENERALLY UNSORTED",
+          "role": "outcome"
+        },
+        {
+          "text": "MELTWATER RIDGE IN OR UNDER ICE",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAIDED MELTWATER, RELATIVELY SORTED",
+          "role": "evidence"
+        },
+        {
+          "text": "STREAMLINED DRIFT/TILL LANDFORM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TILL / MORAINE → direct ice, generally unsorted",
+        "ESKER → meltwater ridge in or under ice",
+        "OUTWASH → braided meltwater, relatively sorted",
+        "DRUMLIN → streamlined drift/till landform"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "TILL / MORAINE → direct ice, generally unsorted",
+          "OUTWASH → braided meltwater, relatively sorted",
+          "TILL / MORAINE → direct ice, generally unsorted"
+        ],
+        [
+          "ESKER → meltwater ridge in or under ice",
+          "DRUMLIN → streamlined drift/till landform",
+          "ESKER → meltwater ridge in or under ice"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "TILL / MORAINE → direct ice, generally unsorted",
+            "ESKER → meltwater ridge in or under ice"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTWASH → braided meltwater, relatively sorted",
+            "DRUMLIN → streamlined drift/till landform"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "TILL / MORAINE → direct ice, generally unsorted",
+            "ESKER → meltwater ridge in or under ice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ESKER → meltwater ridge in or under ice.",
+      "source_references": [
+        "Till, moraine, esker and outwash"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ICE-MASS FAMILY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ICE-MASS FAMILY",
+          "role": "primary"
+        },
+        {
+          "text": "GLACIER, ICE CAP, ICE SHEET",
+          "role": "outcome"
+        },
+        {
+          "text": "SHELF, ICEBERG AND SEA ICE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEA LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "GROUNDED LOSS ADDS OCEAN MASS",
+          "role": "primary"
+        },
+        {
+          "text": "SHELF LOSS CAN ACCELERATE INLAND DISCHARGE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "GROUNDED → glacier, ice cap, ice sheet",
+        "FLOATING → shelf, iceberg and sea ice",
+        "SEA LEVEL → grounded loss adds ocean mass",
+        "BUTTRESSING → shelf loss can accelerate inland discharge"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "GROUNDED → glacier, ice cap, ice sheet",
+            "FLOATING → shelf, iceberg and sea ice"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEA LEVEL → grounded loss adds ocean mass",
+            "BUTTRESSING → shelf loss can accelerate inland discharge"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "GROUNDED → glacier, ice cap, ice sheet",
+            "FLOATING → shelf, iceberg and sea ice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUTTRESSING → shelf loss can accelerate inland discharge.",
+      "source_references": [
+        "Grounded and floating ice"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HIMALAYAN MAP HOOKS",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HIMALAYAN MAP HOOKS",
+          "role": "primary"
+        },
+        {
+          "text": "BARA SHIGRI",
+          "role": "outcome"
+        },
+        {
+          "text": "CHENAB SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "NUBRA-SHYOK-INDUS SYSTEM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GANGOTRI → Bhagirathi",
+        "ZEMU → Teesta",
+        "BARA SHIGRI → Chenab system",
+        "SIACHEN → Nubra-Shyok-Indus system"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GANGOTRI → Bhagirathi",
+            "ZEMU → Teesta"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BARA SHIGRI → Chenab system",
+            "SIACHEN → Nubra-Shyok-Indus system"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "GANGOTRI → Bhagirathi",
+            "ZEMU → Teesta"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "BARA SHIGRI → Chenab system",
+            "SIACHEN → Nubra-Shyok-Indus system"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BARA SHIGRI → Chenab system; SIACHEN → Nubra-Shyok-Indus system.",
+      "source_references": [
+        "Himalayan glacier map hooks"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WATER-TIMING SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WATER-TIMING SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY LOSS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL MELT CONTRIBUTION MAY RISE",
+          "role": "comparison"
+        },
+        {
+          "text": "STORED ICE DECLINES",
+          "role": "evidence"
+        },
+        {
+          "text": "BUFFERING WEAKENS",
+          "role": "primary"
+        },
+        {
+          "text": "LEAN SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIABILITY RISK GROWS LOCALLY",
+          "role": "caution"
+        },
+        {
+          "text": "MONSOON, SNOW AND GROUNDWATER VARY BY BASIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLY LOSS → local melt contribution may rise",
+        "STORED ICE DECLINES → buffering weakens",
+        "LEAN SEASON → reliability risk grows locally",
+        "QUALIFIER → monsoon, snow and groundwater vary by basin"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "EARLY LOSS → local melt contribution may rise",
+            "STORED ICE DECLINES → buffering weakens"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEAN SEASON → reliability risk grows locally",
+            "QUALIFIER → monsoon, snow and groundwater vary by basin"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "EARLY LOSS → local melt contribution may rise",
+            "STORED ICE DECLINES → buffering weakens"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFIER → monsoon, snow and groundwater vary by basin.",
+      "source_references": [
+        "Glacier loss and water timing"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GLACIAL-LAKE TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GLACIAL-LAKE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "HOW WATER IS IMPOUNDED",
+          "role": "outcome"
+        },
+        {
+          "text": "SLOPE + ICE",
+          "role": "comparison"
+        },
+        {
+          "text": "POSSIBLE DISPLACEMENT TRIGGER",
+          "role": "evidence"
+        },
+        {
+          "text": "DAM CONDITION",
+          "role": "primary"
+        },
+        {
+          "text": "OVERTOPPING, PIPING OR EROSION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSURE CONVERTS HAZARD INTO RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BASIN / DAM → how water is impounded",
+        "SLOPE + ICE → possible displacement trigger",
+        "DAM CONDITION → overtopping, piping or erosion",
+        "DOWNSTREAM → exposure converts hazard into risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "BASIN / DAM → how water is impounded",
+            "SLOPE + ICE → possible displacement trigger"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DAM CONDITION → overtopping, piping or erosion",
+            "DOWNSTREAM → exposure converts hazard into risk"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "BASIN / DAM → how water is impounded",
+            "SLOPE + ICE → possible displacement trigger"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BASIN / DAM → how water is impounded.",
+      "source_references": [
+        "How glacial lakes form",
+        "Hazard, exposure and South Lhonak"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GLOF CASCADE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GLOF CASCADE",
+          "role": "primary"
+        },
+        {
+          "text": "SLOPE FAILURE, INFLOW OR INSTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DAM EROSION BEGINS",
+          "role": "comparison"
+        },
+        {
+          "text": "SUDDEN RELEASE + SEDIMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTRICTIONS AND ASSETS SHAPE CONSEQUENCES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TRIGGER → slope failure, inflow or instability",
+        "WAVE / OVERTOPPING → dam erosion begins",
+        "BREACH → sudden release + sediment",
+        "VALLEY → constrictions and assets shape consequences"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "TRIGGER → slope failure, inflow or instability",
+            "WAVE / OVERTOPPING → dam erosion begins"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BREACH → sudden release + sediment",
+            "VALLEY → constrictions and assets shape consequences"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "TRIGGER → slope failure, inflow or instability",
+            "WAVE / OVERTOPPING → dam erosion begins"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BREACH → sudden release + sediment; VALLEY → constrictions and assets shape consequences.",
+      "source_references": [
+        "GLOF trigger-to-breach chain"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RISK-REDUCTION STACK",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RISK-REDUCTION STACK",
+          "role": "caution"
+        },
+        {
+          "text": "SATELLITE INVENTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGING LAKES AND SLOPES",
+          "role": "comparison"
+        },
+        {
+          "text": "FIELD ASSESSMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DAM MATERIAL AND THRESHOLDS",
+          "role": "evidence"
+        },
+        {
+          "text": "WARNING + DRILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "LAST-MILE ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND USE + DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SATELLITE INVENTORY → changing lakes and slopes",
+        "FIELD ASSESSMENT → dam material and thresholds",
+        "WARNING + DRILLS → last-mile action",
+        "LAND USE + DESIGN → reduce exposure and fragility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SATELLITE INVENTORY → changing lakes and slopes",
+            "FIELD ASSESSMENT → dam material and thresholds"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WARNING + DRILLS → last-mile action",
+            "LAND USE + DESIGN → reduce exposure and fragility"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SATELLITE INVENTORY → changing lakes and slopes",
+            "FIELD ASSESSMENT → dam material and thresholds"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAND USE + DESIGN → reduce exposure and fragility.",
+      "source_references": [
+        "Monitoring and risk reduction"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CRYOSPHERE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CRYOSPHERE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "GLACIER, LAKE, GLOF AND RISK",
+          "role": "caution"
+        },
+        {
+          "text": "GLACIER-BASIN RELATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDGET, TRIGGER AND BREACH",
+          "role": "evidence"
+        },
+        {
+          "text": "HETEROGENEITY, ATTRIBUTION AND DATA DATE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → glacier, lake, GLOF and risk",
+        "MAP → glacier-basin relation",
+        "EXPLAIN → budget, trigger and breach",
+        "QUALIFY → heterogeneity, attribution and data date"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE → glacier, lake, GLOF and risk",
+            "MAP → glacier-basin relation"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN → budget, trigger and breach",
+            "QUALIFY → heterogeneity, attribution and data date"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE → glacier, lake, GLOF and risk",
+            "MAP → glacier-basin relation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXPLAIN → budget, trigger and breach; QUALIFY → heterogeneity, attribution and data date.",
+      "source_references": [
+        "Verified routes and cryosphere spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ABOUT 15,000 GLACIERS IN THE HIMALAYA, BETWEEN THE TWO",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWEST LEVEL OF PERPETUAL SNOW; IT VARIES WITH LATITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "GREATER SNOWFALL/ACCUMULATION CAN LOWER THE CLIMATIC SNOWLINE, WHILE ARIDITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MAIN GLACIERS LIE IN THE GREATER AND TRANS-HIMALAYA (KARAKORAM",
+          "role": "primary"
+        },
+        {
+          "text": "THE LESSER HIMALAYA HAS ONLY SMALL GLACIERS (TRACES IN",
+          "role": "outcome"
+        },
+        {
+          "text": "SIACHEN LIES IN THE EASTERN KARAKORAM UNDER INDIAN CONTROL.",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTH LHONAK IS A MORAINE-DAMMED GLACIAL LAKE THAT EXPANDED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "Khullar: about 15,000 glaciers in the Himalaya, between the two syntaxial bends (east & west).",
+            "Snowline = lowest level of perpetual snow; it varies with latitude, precipitation and local topography.",
+            "Greater snowfall/accumulation can lower the climatic snowline, while aridity raises it; aspect,",
+            "Main glaciers lie in the Greater and Trans-Himalaya (Karakoram, Ladakh, Zaskar)"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "the Lesser Himalaya has only small glaciers (traces in Pir-Panjal, Dhauladhar).",
+            "Siachen lies in the eastern Karakoram under Indian control. Biafo, Baltoro and Hispar are in the",
+            "South Lhonak is a moraine-dammed glacial lake that expanded as its glacier retreated; use a named",
+            "The October 2023 flood involved lake outburst/overtopping after intense precipitation and a"
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "Mitigation: glacial-lake monitoring, early-warning systems, and restricting development in the flood path (NDMA GLOF guidelines).",
+            "Khullar's ~15,000 figure is a source-era Himalayan estimate; modern inventory counts are method-dependent.",
+            "Snowline controls: latitude, precipitation, topography.",
+            "More accumulation generally lowers snowline; exact north-south contrast varies by Himalayan sector."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -40,8 +40,8 @@ apply more than one and reconcile or choose between them explicitly.
 | ✅ **Virtue Ethics** | An act is right if it is what a person of good character (possessing practical wisdom, *phronesis*) would do in that situation. | Aristotle |
 | ⚠️ **Ethical relativism** | The (contested) view that moral standards are relative to a culture/individual, with no universal standard — usually presented in GS-IV as a foil to be critiqued, not endorsed. |
 | ⚠️ **Ethical absolutism/universalism** | The view that some moral standards hold across all cultures/contexts — Kantian deontology is typically absolutist about core duties. |
-| ⚠️ **Motive vs intention vs consequence** | **Motive** = the underlying reason that moved the agent (career advancement, compassion, fear); **intention** = the specific outcome the agent chose to bring about; **consequence** = what actually followed, which can diverge from both. Deontology grades the maxim (and so intention); virtue ethics attends most closely to motive/character; consequentialism grades the outcome. A GS-IV case study is usually solved by separating the three explicitly — an officer can have a good motive, a defective intention, and a bad consequence, and each attracts a different response. |
-| ⚠️ **Means vs ends** | Consequentialism allows a bad means to be redeemed by a good end if the balance of outcomes is better; Kantian deontology and Gandhi's ends-means unity (`06`) deny this — impure means corrupt the end. Naming which position you are taking is the single clearest way to make a Mains answer non-generic. |
+| ⚠️ **Motive vs intention vs consequence** | **Motive** = the underlying reason that moved the agent (career advancement, compassion, fear); **intention** = the specific outcome and means the agent deliberately chose; **consequence** = what actually followed, which can diverge from both. Deontology tests the maxim and chosen action; virtue ethics gives special attention to character and practical judgment; consequentialism compares expected effects, while actual outcomes may also reflect luck. A GS-IV case study is usually solved by separating the three explicitly — an officer can have a good motive, a defective intention, and a bad consequence, and each attracts a different response. |
+| ⚠️ **Means vs ends** | Act-consequentialism may permit a normally wrongful means when that particular act produces the best expected balance of outcomes; rule-consequentialism can instead defend stable restraints because of their long-run effects. Kantian deontology and Gandhi's ends-means unity (`06`) reject treating a good end as an automatic cleanser of wrongful means. Naming which position you are taking is the single clearest way to make a Mains answer non-generic. |
 
 ## 3. Mechanism: applying each theory to a dilemma
 
@@ -94,7 +94,9 @@ apply more than one and reconcile or choose between them explicitly.
 
 ## 7. PYQ application
 
-- ✅ 2024 GS-IV Q3(c) (Kant quotation on law vs ethics) is a direct deontology-application question.
+- ⚠️ 2024 GS-IV Q3(c) (the quotation attributed to Kant on law and ethics) is a useful
+  cross-application for deontology, though the central routing ledger assigns it to Topics `06`
+  and `07`.
 - ⚠️ Case-study questions (2024 and 2025 GS-IV Q7-Q12) implicitly require running the decision
   through all three theories, even though the papers do not name them explicitly.
 - ⚠️ Theory questions asking to "critically examine" a policy/statement from "the ethical point of
@@ -200,7 +202,7 @@ defended by *reasoning* survives scrutiny/appeal in a way "it felt right" cannot
 
 ### Snowden-type legal-vs-moral disclosure
 
-> ⚠️ 2018 GS-IV Q12 (historical demand, routed jointly with `10`, `22`, `23`): Edward Snowden's
+> ⚠️ 2018 GS-IV Q12 (historical demand cross-linked from `10`, `22`, `23`): Edward Snowden's
 > 2013 disclosure of classified US government surveillance programmes, framed by him as a moral
 > obligation to inform the public, though it was legally prohibited — weigh the competing values.
 

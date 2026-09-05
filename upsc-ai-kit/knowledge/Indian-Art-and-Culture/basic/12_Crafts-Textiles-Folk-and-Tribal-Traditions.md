@@ -466,3 +466,33 @@ RAW MATERIAL  ->  SKILL / TECHNIQUE  ->  PRODUCING COMMUNITY
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** craft ecology from raw material through skill, producing
+  community, market, legal recognition and safeguarding; material classes;
+  ikat, brocade, embroidery, painted cloth, metal casting and region-specific
+  handloom traditions; GI mechanics and limits.
+- **Source/inference control:** fibre, material, tool, process, motif,
+  product, producing community, region and dated registration are evidence.
+  A marketed label cannot establish tribal authorship, unchanged continuity,
+  fair remuneration or community consent.
+- **Date control:** archaeological evidence, textual reference, workshop
+  history, colonial market change, GI registration, foreign protection and
+  current award or certification status are separate chronologies.
+- **Geography control:** Patola-Patan, Pochampally-Telangana, Banarasi
+  brocade, Lucknow Chikankari, Bengal Kantha and North-East community-fibre
+  pairings remain specific; mekhela chador alone cannot identify a state.
+- **Terminology/style control:** double and single ikat, supplementary-weft
+  brocade, embroidery, mordant or resist Kalamkari, lost-wax Dhokra, GI and
+  voluntary certification are not synonyms.
+- **Boundary:** Topic 06 owns sculpture and pottery typology, Topic 07
+  painting, Topic 10 performance, Topic 14 heritage policy, Modern History
+  and Economy deindustrialisation, and Indian Society marginality.
+- **Community control:** living traditions are described through named
+  communities, labour, gender, ecology and appropriation limits without
+  freezing communities as timeless or treating state labels as ownership.
+- **Verified PYQ ownership, 2018-2026:** two 2018 objective matching routes
+  and the provisional 2026 Eri-Oeko-Tex route are direct. The 2024
+  handicraft-decline and diversity-marginality Mains demands remain
+  cross-owned; no unsupported certification rule or answer letter is added.

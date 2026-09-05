@@ -39,14 +39,14 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 | ✅ **Categorical Imperative** (Kant) | Act only according to a maxim you could will to become a universal law; treat humanity (in yourself or others) always as an end, never merely as a means. |
 | ✅ **Utilitarianism** (Bentham/Mill) | An act or policy is right if it produces the greatest good (happiness/welfare) for the greatest number, with Mill adding a qualitative distinction between "higher" and "lower" pleasures and protection for individual liberty. |
 | ✅ **Golden Mean / Virtue Ethics** (Aristotle) | Virtue is a habituated disposition lying between two vicious extremes (e.g., courage between cowardice and recklessness); the good life (*eudaimonia*) is achieved through practising virtues, not merely following rules or calculating outcomes. |
-| ✅ **Veil of Ignorance / Justice as Fairness** (Rawls) | In the "original position", rational choosers deliberate behind a "veil of ignorance" about their own place in society (class, talents, conception of the good) and therefore choose principles for distributing "primary goods" that they could accept from any position — yielding equal basic liberties for all, plus fair equality of opportunity and the "difference principle" (inequalities justified only if they benefit the least advantaged). |
-| ⚠️ **"Know thyself"** (Socrates) | Ethical action begins with rigorous self-examination of one's own assumptions and biases — foundational to `01`'s emphasis on discretion-testing integrity. |
+| ✅ **Veil of Ignorance / Justice as Fairness** (Rawls) | In the "original position", rational choosers deliberate behind a "veil of ignorance" about their own place in society (class, talents, conception of the good) and therefore choose principles for distributing "primary goods" that they could accept from any position. The lexical order is equal basic liberties, then fair equality of opportunity, then the difference principle, under which inequalities must benefit the least advantaged. |
+| ⚠️ **"Know thyself" and Socratic examination** | "Know thyself" is a Delphic maxim associated with the Socratic tradition, not a sentence authored by Socrates. Its administrative use is rigorous self-examination of assumptions and biases — foundational to `01`'s discretion-testing integrity. |
 
 ## 3. Thinker-by-thinker administrative translation
 
-1. **Socrates:** ⚠️ "The unexamined life is not worth living" translates into mandatory ethical
-   self-reflection before exercising discretion — a discipline against unconscious bias in
-   decision-making.
+1. **Socrates:** ✅ Plato's *Apology* 38a portrays Socrates saying that "the unexamined life is not
+   worth living." ⚠️ Administratively, it supports ethical self-reflection before exercising
+   discretion — a discipline against unconscious bias in decision-making.
 2. **Plato:** ⚠️ The philosopher-king ideal (rule by wisdom and competence, not wealth or birth)
    supports merit-based, competence-driven public appointments (Nolan's "objectivity," see `09`);
    Plato's tripartite-soul justice (reason ruling over spirit and appetite) maps onto self-discipline
@@ -60,9 +60,10 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
    *Metaphysics of Morals*; the closest source is the section on Innocence in Louis Infield's 1930
    English *Lectures on Ethics*, itself reconstructed from students' notes of Kant's lectures. Use
    the idea, and say "as the paper attributes to Kant" rather than citing a Kantian work. ⚠️
-   Lesson: ethics demands a stricter standard than law — intention and disposition matter even
-   where no external act/violation occurred, directly supporting the "ethical dilemma is not the
-   same as legal violation" distinction (`00`, `09`).
+   Lesson: ethics demands a stricter standard than law — a harboured wrongful intention and
+   disposition matter even where no external act/violation occurred. The line should not be used
+   to assign moral guilt to an involuntary passing thought. It directly supports the "ethical
+   dilemma is not the same as legal violation" distinction (`00`, `09`).
 5. **Mill:** ⚠️ Utilitarian reasoning justifies public-policy trade-offs (e.g., a lockdown's
    aggregate health benefit against individual liberty cost) but Mill's own liberty principle warns
    against sacrificing individual rights purely for majority convenience — a built-in self-limit.
@@ -136,8 +137,8 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 
 | Thinker | Teaching (verbatim where verifiable) | Administrative lesson |
 |---|---|---|
-| ⚠️ Dalai Lama (Tenzin Gyatso) | 2021 GS-IV Q3(b) (historical demand, routed here): reflect on the idea that inner peace is the foundation for outer peace. ⚠️ The closely matching, widely published line is "We can never obtain peace in the outer world until we make peace with ourselves" — treat as a well-documented public teaching, not a primary-text citation. | Administratively: an official who has not resolved personal stress/bias (see `05`'s self-awareness component) cannot reliably mediate external conflict — inner composure is the precondition for credible conflict-resolution and disaster-leadership roles (cross-link `05`'s DC "Vijay" case). |
-| ⚠️ Erik Erikson | 2021 GS-IV Q3(c) (historical demand, routed here): reflect on Erikson's idea connecting "learning and acceptance." **Attribution caution:** no single verbatim Erikson sentence on this exact phrase is reliably traceable; the verifiable content is his **Eight Stages of Psychosocial Development** (*Childhood and Society*, 1950), each posing a crisis (e.g., Identity vs Role Confusion; Generativity vs Stagnation; Ego Integrity vs Despair) whose healthy resolution requires *learning* from the stage's demands and *accepting* the outcome (including one's own limitations) to carry a "virtue" (hope, fidelity, wisdom) into the next stage. | Applied to a civil-service career: repeated postings/transfers and setbacks are Eriksonian "crises" — an officer who neither denies difficulty nor is paralysed by it, but learns and accepts and moves forward, models exactly the resilience GS-IV rewards in EQ/attitude answers (cross-link `03`, `05`). |
+| ⚠️ Dalai Lama (Tenzin Gyatso) | 2021 GS-IV Q3(b) asks candidates to reflect on the idea that inner peace precedes outer peace. A closely matching line circulates widely, but no primary speech or book source has been verified for the exact UPSC wording; answer it as attributed by the paper. | Administratively: an official who has not regulated personal stress or bias (see `05`) cannot reliably mediate external conflict. Inner composure is a precondition for, not a substitute for, just decisions and institutional conflict resolution. |
+| ⚠️ Erik Erikson | 2021 GS-IV Q3(c) asks candidates to discuss: "Life doesn't make any sense without interdependence. We need each other, and the sooner we learn that, the better for us all." No primary Erikson source has been verified for the exact sentence; answer it as attributed by the paper. | Administratively: interdependence supports teamwork, cooperative federalism, citizen participation and reciprocal trust. Mutual reliance does not erase individual accountability; it makes coordinated responsibility more important. |
 | ⚠️ Potter Stewart (cross-link) | 2022 GS-IV Q3(a): "ethics is knowing the difference between what you have a right to do and what is right to do" — full treatment, including the attribution caution, is in `02_Human-Values-and-Lessons-from-Leaders.md`, Section 8a, since that file is this quotation's primary routed owner. | See `02` for the administrative translation (legality-vs-ethics gap). |
 
 - ⚠️ UPSC trap: ❌ Every Western name in a GS-IV quotation is a professional philosopher with a
@@ -212,13 +213,13 @@ applied without qualification."
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2024 | GS-IV | 3 | Three quotations of great thinkers and their present-day meaning | Section A theory · 10 + 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-IV | 3 | Three quotations (Thiruvalluvar, William James, Vivekananda) | Section A theory · 10 + 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2024 | GS-IV | 3(c) | Kant-attributed quotation distinguishing legal guilt from ethical guilt | Section A theory · 10 marks · 150 words | Routed subpart; exact paper wording verified | Prepare the law-ethics distinction, the intention/maxim mechanism, one administrative example, a provenance caution and a concise conclusion. |
+| 2025 | GS-IV | 3(b) | William James-attributed quotation on altering one's life by altering one's attitudes | Section A theory · 10 marks · 150 words | Routed subpart; exact paper wording verified | Explain attitude-mediated agency without denying structural constraints; add one administrative or social example and a source caution. |
 
 ### What this owner must now support
 
-- Three quotations of great thinkers and their present-day meaning
-- Three quotations (Thiruvalluvar, William James, Vivekananda)
+- Kant-attributed quotation distinguishing legal guilt from ethical guilt
+- William James-attributed quotation on altering life by altering attitudes
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
@@ -235,17 +236,17 @@ applied without qualification."
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | GS-IV | 6 | (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-IV | 6 | (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-IV | 6 | three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-IV | 3 | three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 6(a) | Abraham Lincoln on governmental policy being an inseparable compound of good and evil | Reflect · 10 marks · 150 words | Routed subpart; stem and attribution verified against official scan | Compare benefits, harms, distribution and rights before giving a qualified policy verdict. |
+| 2019 | GS-IV | 6(a) | Socrates on the unexamined life | Reflect · 10 marks · 150 words | Routed subpart | Explain reflective self-audit, reason-giving, bias correction and institutional review. |
+| 2020 | GS-IV | 6(c) | Socrates-attributed quotation rejecting morality based on relative emotional values | Discuss · 10 marks · 150 words | Routed subpart; exact classical source unverified | Distinguish reasoned moral justification from transient preference while retaining empathy as relevant evidence. |
+| 2021 | GS-IV | 3(b-c) | Dalai Lama on inner and outer peace; Erik Erikson on interdependence and mutual need | Discuss · 10 + 10 marks · 150 words each | Routed subparts; stems verified against official scan | Prepare each quotation separately with attribution caution, administrative mechanism, limitation and conclusion. |
 
 ### What this owner must now support
 
-- (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good
-- (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world
-- three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values
-- three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance
+- Abraham Lincoln on governmental policy as a compound of good and evil
+- Socrates on the unexamined life
+- Socrates-attributed rejection of morality grounded only in relative emotional values
+- Dalai Lama on inner and outer peace; Erik Erikson on interdependence and mutual need
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

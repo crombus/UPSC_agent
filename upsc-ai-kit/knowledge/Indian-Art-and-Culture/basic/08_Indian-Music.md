@@ -671,3 +671,38 @@ so treat the classical/folk line as a working distinction, not a barrier.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** saptaswara, shruti, raga, tala, Hindustani thaat,
+  Carnatic melakarta-janya classification, treatise chronology, dhrupad,
+  khayal, kriti and other forms, gharana or sampradaya transmission,
+  instruments, folk music and modern performing-arts institutions.
+- **Source/inference control:** notation, treatise, repertoire, lineage,
+  instrument construction, performance convention and dated institutional
+  record are evidence. Mood, time and season associations are
+  tradition-specific and are not universal acoustical laws.
+- **Date control:** Bharata, Dattilam, Matanga, Sharngadeva,
+  Venkatamakhin, later court and devotional repertoires, Bhatkhande's modern
+  pedagogy and current award records remain distinct theoretical and
+  institutional stages.
+- **Geography control:** Hindustani and Carnatic systems, regional gharanas,
+  Carnatic sampradayas, devotional traditions, tribal or folk communities
+  and instrument ecologies retain specific histories rather than two
+  homogeneous civilisational blocs.
+- **Terminology/style control:** a thaat is an unsung seven-note Hindustani
+  parent scale; a raga has characteristic ascent, descent, hierarchy and
+  phrase; seventy-two sampurna Carnatic melakartas are not Bhatkhande's ten
+  thaats. Raga, tala, shruti, laya, gharana and genre are not interchangeable.
+- **Boundary:** Topic 09 owns codified dance forms and Topic 10
+  owns theatre and puppetry. Music appears there as an accompaniment or
+  dramaturgical component, while this topic owns musical system, repertoire,
+  instrument and transmission analysis.
+- **Boundary:** Language/literature belongs to Topic 11,
+  devotional synthesis to Topic 13 and current Akademi awards, recognition
+  policy and safeguarding to Topic 14 unless a dated official record is
+  explicitly cited here.
+- **Verified PYQ ownership, 2018-2026:** no direct Mains route is claimed.
+  Locally routed objective demands, including the provisional 2026
+  Hindustani-Carnatic raga-equivalence question, retain exact key status and
+  are not converted into invented official answers.

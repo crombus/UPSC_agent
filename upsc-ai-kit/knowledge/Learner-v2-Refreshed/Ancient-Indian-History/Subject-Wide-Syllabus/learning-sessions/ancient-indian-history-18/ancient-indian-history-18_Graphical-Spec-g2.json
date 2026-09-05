@@ -1,0 +1,1098 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-18",
+  "subject": "Ancient-Indian-History",
+  "title": "THE SANGAM AGE & THE DEEP SOUTH",
+  "short_route": "TAMILAKAM GEOGRAPHY AND TINAI → EVIDENCE AND CHRONOLOGY ARCHITECTURE → SANGAM CORPUS: AKAM AND → CHERA, CHOLA AND PANDYA → CHIEFSHIP, WARFARE, GIFT AND → PRODUCTION AND INTERNAL EXCHANGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-18\\ancient-indian-history-18_Complete-Learning-Session_2026-08-29.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-21-2026-08-29-sequential.json",
+  "ascii_spec_sha256": "21d2b83993ed38307d8b8c835240af14cb219b7b654bcc6f15907f1c879fd54d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TAMILAKAM GEOGRAPHY AND TINAI",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TAMILAKAM GEOGRAPHY AND TINAI",
+          "role": "primary"
+        },
+        {
+          "text": "TIRUPATI HILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVENTIONAL NORTHERN MARKER",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN UPLANDS",
+          "role": "evidence"
+        },
+        {
+          "text": "CHERA-LINKED PEPPER AND COAST",
+          "role": "primary"
+        },
+        {
+          "text": "WET AGRICULTURE, URAIYUR AND PUHAR",
+          "role": "outcome"
+        },
+        {
+          "text": "PANDYA COURT, PEARLS AND SOUTHERN COAST",
+          "role": "institution"
+        },
+        {
+          "text": "TINAI IS A POETIC-ECOLOGICAL MODEL, NOT A FIXED REVENUE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VENKATAM / TIRUPATI HILLS → conventional northern marker",
+        "WESTERN UPLANDS → Chera-linked pepper and coast",
+        "KAVERI-MARUTAM → wet agriculture, Uraiyur and Puhar",
+        "MADURAI-KORKAI → Pandya court, pearls and southern coast",
+        "TINAI: kurinji"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VENKATAM / TIRUPATI HILLS → conventional northern marker",
+            "WESTERN UPLANDS → Chera-linked pepper and coast"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KAVERI-MARUTAM → wet agriculture, Uraiyur and Puhar",
+            "MADURAI-KORKAI → Pandya court, pearls and southern coast"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "TINAI: kurinji",
+            "RULE: tinai is a poetic-ecological model, not a fixed revenue or cadastral map."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: tinai is a poetic-ecological model, not a fixed revenue or cadastral map.",
+      "answer_line": "tinai is a poetic-ecological model, not a fixed revenue or cadastral map.",
+      "source_references": [
+        "Tamilakam geography",
+        "Tinai"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EVIDENCE AND CHRONOLOGY ARCHITECTURE",
+      "structural_type": "evidence-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EVIDENCE AND CHRONOLOGY ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "IRON-AGE BACKGROUND",
+          "role": "outcome"
+        },
+        {
+          "text": "ASHOKAN SOUTHERN-POLITY REFERENCES",
+          "role": "comparison"
+        },
+        {
+          "text": "TAMIL-BRAHMI NAMES, DONORS AND OFFICES",
+          "role": "evidence"
+        },
+        {
+          "text": "EARLY HISTORIC POEMS, COINS, PORTS AND CERAMICS",
+          "role": "primary"
+        },
+        {
+          "text": "LATER ANTHOLOGY AND REDACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "POEM + INSCRIPTION + ARCHAEOLOGY + EXTERNAL TEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "C. 300 BCE-300 CE IS A BROAD EVIDENTIARY HORIZON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEGALITHIC / IRON-AGE BACKGROUND",
+        "Ashokan southern-polity references",
+        "Tamil-Brahmi names, donors and offices",
+        "early historic poems, coins, ports and ceramics",
+        "later anthology and redaction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "MEGALITHIC / IRON-AGE BACKGROUND",
+            "Ashokan southern-polity references",
+            "Tamil-Brahmi names, donors and offices"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "early historic poems, coins, ports and ceramics",
+            "later anthology and redaction",
+            "METHOD: poem + inscription + archaeology + external text"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT: c. 300 BCE-300 CE is a broad evidentiary horizon, not one synchronized reign."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: c. 300 BCE-300 CE is a broad evidentiary horizon, not one synchronized reign.",
+      "source_references": [
+        "Chronology",
+        "Sources"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SANGAM CORPUS: AKAM AND PURAM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SANGAM CORPUS",
+          "role": "primary"
+        },
+        {
+          "text": "AKAM AND PURAM",
+          "role": "outcome"
+        },
+        {
+          "text": "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM",
+          "role": "comparison"
+        },
+        {
+          "text": "AKAM PURAM INTERIOR",
+          "role": "evidence"
+        },
+        {
+          "text": "LOVE PUBLIC",
+          "role": "primary"
+        },
+        {
+          "text": "FAME LANDSCAPE CONVENTION CHIEF, BARD AND HEROIC ETHIC SOCIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOVER VOCABULARY AND INSTITUTIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "GENRE AND LATER COMPILATION PREVENT LITERAL CHRONICLE READING.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM",
+        "AKAM PURAM interior / love public / war / gift / fame landscape",
+        "convention chief, bard and heroic ethic social and emotional codes political-redistributive values",
+        "USE: recover vocabulary and institutions.",
+        "LIMIT: genre and later compilation prevent literal chronicle reading."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM",
+          "convention chief, bard and heroic ethic social and emotional codes political-redistributive values",
+          "LIMIT: genre and later compilation prevent literal chronicle reading."
+        ],
+        [
+          "AKAM PURAM interior / love public / war / gift / fame landscape",
+          "USE: recover vocabulary and institutions.",
+          "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM",
+            "AKAM PURAM interior / love public / war / gift / fame landscape"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "convention chief, bard and heroic ethic social and emotional codes political-redistributive values",
+            "USE: recover vocabulary and institutions."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: genre and later compilation prevent literal chronicle reading.",
+            "ETTUTTOKAI + PATTUPPATTU + TOLKAPPIYAM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: genre and later compilation prevent literal chronicle reading.",
+      "source_references": [
+        "Sangam corpus",
+        "Genre"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHERA, CHOLA AND PANDYA COMPARISON",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHERA, CHOLA AND PANDYA COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "KAVERI BASIN",
+          "role": "comparison"
+        },
+        {
+          "text": "THREE CROWNED LINEAGES IN LITERARY MEMORY",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED RULERS AND PLACES DO NOT YIELD FIXED CONTINUOUS",
+          "role": "caution"
+        },
+        {
+          "text": "SANGAM CHOLAS ARE NOT THE LATER IMPERIAL CHOLAS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHERA → western routes / pepper / Muchiri / Senguttuvan",
+        "CHOLA → Kaveri basin / Uraiyur / Puhar / Karikala",
+        "PANDYA → Madurai / Korkai / pearls / Nedunjeliyan",
+        "MUVENDAR = three crowned lineages in literary memory",
+        "BOUNDARY: named rulers and places do not yield fixed continuous borders."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CHERA → western routes / pepper / Muchiri / Senguttuvan",
+          "PANDYA → Madurai / Korkai / pearls / Nedunjeliyan",
+          "BOUNDARY: named rulers and places do not yield fixed continuous borders."
+        ],
+        [
+          "CHOLA → Kaveri basin / Uraiyur / Puhar / Karikala",
+          "MUVENDAR = three crowned lineages in literary memory",
+          "TRAP: Sangam Cholas are not the later imperial Cholas."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHERA → western routes / pepper / Muchiri / Senguttuvan",
+            "CHOLA → Kaveri basin / Uraiyur / Puhar / Karikala"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PANDYA → Madurai / Korkai / pearls / Nedunjeliyan",
+            "MUVENDAR = three crowned lineages in literary memory"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "BOUNDARY: named rulers and places do not yield fixed continuous borders.",
+            "TRAP: Sangam Cholas are not the later imperial Cholas."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Sangam Cholas are not the later imperial Cholas.",
+      "source_references": [
+        "Muvendar",
+        "Dynasties"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CHIEFSHIP, WARFARE, GIFT AND FAME",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHIEFSHIP, WARFARE, GIFT AND FAME",
+          "role": "primary"
+        },
+        {
+          "text": "COASTAL RESOURCES RAIDS + WARFARE + TRIBUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "BOOTY COURT FEAST AND GIFTS",
+          "role": "institution"
+        },
+        {
+          "text": "FOLLOWERS + BARDS + DEPENDANTS PRAISE, HONOUR AND HEROIC",
+          "role": "evidence"
+        },
+        {
+          "text": "RENEWED LEGITIMACY",
+          "role": "primary"
+        },
+        {
+          "text": "DEFEATED RULER'S RITUAL FASTING IN THE HEROIC CODE.",
+          "role": "outcome"
+        },
+        {
+          "text": "CELEBRATORY POEMS MUTE PRODUCER COSTS AND COERCION.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AGRARIAN / PASTORAL / COASTAL RESOURCES raids + warfare + tribute / booty court feast",
+        "gifts → followers + bards + dependants praise, honour and heroic memory → renewed legitimacy",
+        "VATTakirutal: defeated ruler's ritual fasting in the heroic code.",
+        "LIMIT: celebratory poems mute producer costs and coercion."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRARIAN / PASTORAL / COASTAL RESOURCES raids + warfare + tribute / booty court feast and",
+            "gifts → followers + bards + dependants praise, honour and heroic memory → renewed legitimacy"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VATTakirutal: defeated ruler's ritual fasting in the heroic code.",
+            "LIMIT: celebratory poems mute producer costs and coercion."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "AGRARIAN / PASTORAL / COASTAL RESOURCES raids + warfare + tribute / booty court feast and",
+            "gifts → followers + bards + dependants praise, honour and heroic memory → renewed legitimacy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: celebratory poems mute producer costs and coercion.",
+      "source_references": [
+        "Polity",
+        "Warrior redistribution"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRODUCTION AND INTERNAL EXCHANGE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRODUCTION AND INTERNAL EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGICAL ZONES PADDY AND WET CULTIVATION CATTLE AND PASTORAL",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAVING, BEADS, SHELL, IRON AND OTHER CRAFTS MARKETS +",
+          "role": "comparison"
+        },
+        {
+          "text": "DIVERSIFIED LOCAL PRODUCTION UNDERPINNED COURTS AND OVERSEAS EXCHANGE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ECOLOGICAL ZONES paddy and wet cultivation cattle and pastoral products fish, salt, pearls, pepper and",
+        "weaving, beads, shell, iron and other crafts markets + chattu caravans + river/coastal movement",
+        "RESULT: diversified local production underpinned courts and overseas exchange."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ECOLOGICAL ZONES paddy and wet cultivation cattle and pastoral products fish, salt, pearls, pepper and forest goods",
+            "weaving, beads, shell, iron and other crafts markets + chattu caravans + river/coastal movement"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RESULT: diversified local production underpinned courts and overseas exchange.",
+            "ECOLOGICAL ZONES paddy and wet cultivation cattle and pastoral products fish, salt, pearls, pepper and forest goods"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "weaving, beads, shell, iron and other crafts markets + chattu caravans + river/coastal movement",
+            "RESULT: diversified local production underpinned courts and overseas exchange."
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: diversified local production underpinned courts and overseas exchange.",
+      "answer_line": "diversified local production underpinned courts and overseas exchange.",
+      "source_references": [
+        "Economy",
+        "Crafts"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PORT AND HINTERLAND NETWORK",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PORT AND HINTERLAND NETWORK",
+          "role": "primary"
+        },
+        {
+          "text": "HINTERLAND PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "KAVERI BASIN -------------------------------------→ PUHAR",
+          "role": "comparison"
+        },
+        {
+          "text": "PANDYA SOUTH",
+          "role": "evidence"
+        },
+        {
+          "text": "PEARL ZONE -----------------------→ KORKAI",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN PEPPER CIRCUITS -------------------------→ MUCHIRI",
+          "role": "outcome"
+        },
+        {
+          "text": "MUZIRIS TRADITION",
+          "role": "comparison"
+        },
+        {
+          "text": "PORT FUNCTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HINTERLAND PRODUCTION → MARKET / CARAVAN → PORT",
+        "KAVERI BASIN -------------------------------------→ PUHAR",
+        "PANDYA SOUTH / PEARL ZONE -----------------------→ KORKAI",
+        "WESTERN PEPPER CIRCUITS -------------------------→ MUCHIRI / MUZIRIS TRADITION",
+        "PORT FUNCTIONS: aggregation + customs + shipping + redistribution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HINTERLAND PRODUCTION → MARKET / CARAVAN → PORT",
+            "KAVERI BASIN -------------------------------------→ PUHAR"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PANDYA SOUTH / PEARL ZONE -----------------------→ KORKAI",
+            "WESTERN PEPPER CIRCUITS -------------------------→ MUCHIRI / MUZIRIS TRADITION"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PORT FUNCTIONS: aggregation + customs + shipping + redistribution",
+            "RULE: no port flourished without inland producers, routes and consumers."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: no port flourished without inland producers, routes and consumers.",
+      "answer_line": "no port flourished without inland producers, routes and consumers.",
+      "source_references": [
+        "Ports",
+        "Trade"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MEDITERRANEAN LINKS, ARIKAMEDU AND PATTANAM",
+      "structural_type": "evidence-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MEDITERRANEAN LINKS, ARIKAMEDU AND PATTANAM",
+          "role": "primary"
+        },
+        {
+          "text": "COINS + AMPHORAE + CERAMICS + PAPYRUS",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSICAL TEXTS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN OCEAN AND MEDITERRANEAN-LINKED EXCHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "EARLIER SETTLEMENT + LOCAL CRAFT + IMPORTED MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "MAJOR CONNECTED PORT EVIDENCE; MUZIRIS IDENTIFICATION DEBATED",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT PROVED",
+          "role": "caution"
+        },
+        {
+          "text": "ROMAN COLONY, ROMAN SOVEREIGNTY OR FOREIGN CREATION OF TAMIL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COINS + AMPHORAE + CERAMICS + PAPYRUS / CLASSICAL TEXTS",
+        "Indian Ocean and Mediterranean-linked exchange",
+        "ARIKAMEDU: earlier settlement + local craft + imported material",
+        "PATTANAM: major connected port evidence; Muziris identification debated",
+        "NOT PROVED: Roman colony, Roman sovereignty or foreign creation of Tamil economy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "COINS + AMPHORAE + CERAMICS + PAPYRUS / CLASSICAL TEXTS",
+            "Indian Ocean and Mediterranean-linked exchange"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "ARIKAMEDU: earlier settlement + local craft + imported material",
+            "PATTANAM: major connected port evidence; Muziris identification debated"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "NOT PROVED: Roman colony, Roman sovereignty or foreign creation of Tamil economy.",
+            "VERDICT: multi-nodal contact amplified indigenous production and routes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: multi-nodal contact amplified indigenous production and routes.",
+      "source_references": [
+        "Arikamedu",
+        "Muziris debate"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SOCIETY, LABOUR, WOMEN AND VARNA",
+      "structural_type": "social-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIETY, LABOUR, WOMEN AND VARNA",
+          "role": "primary"
+        },
+        {
+          "text": "COURT ELITES",
+          "role": "institution"
+        },
+        {
+          "text": "SALT WORKERS",
+          "role": "comparison"
+        },
+        {
+          "text": "OTHER DEPENDANT LABOUR",
+          "role": "evidence"
+        },
+        {
+          "text": "POETRY, SPINNING, FISHING, SALT EXCHANGE AND HOUSEHOLD WORK",
+          "role": "primary"
+        },
+        {
+          "text": "VARNA VOCABULARY WAS KNOWN; REGIONAL SOCIAL PRACTICE WAS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "OCCUPATIONAL VISIBILITY OR NAMED WOMEN DOES NOT PROVE EQUALITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COURT ELITES / CHIEFS / BARDS / WARRIORS",
+        "MERCHANTS / ARTISANS / CULTIVATORS / PASTORALISTS",
+        "FISHERS / SALT WORKERS / OTHER DEPENDANT LABOUR",
+        "WOMEN: poetry, spinning, fishing, salt exchange and household work",
+        "VARNA vocabulary was known; regional social practice was not a neat four-box census."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "COURT ELITES / CHIEFS / BARDS / WARRIORS",
+          "FISHERS / SALT WORKERS / OTHER DEPENDANT LABOUR",
+          "VARNA vocabulary was known; regional social practice was not a neat four-box census."
+        ],
+        [
+          "MERCHANTS / ARTISANS / CULTIVATORS / PASTORALISTS",
+          "WOMEN: poetry, spinning, fishing, salt exchange and household work",
+          "RULE: occupational visibility or named women does not prove equality."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "COURT ELITES / CHIEFS / BARDS / WARRIORS",
+            "MERCHANTS / ARTISANS / CULTIVATORS / PASTORALISTS"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FISHERS / SALT WORKERS / OTHER DEPENDANT LABOUR",
+            "WOMEN: poetry, spinning, fishing, salt exchange and household work"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VARNA vocabulary was known; regional social practice was not a neat four-box census.",
+            "RULE: occupational visibility or named women does not prove equality."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: occupational visibility or named women does not prove equality.",
+      "answer_line": "occupational visibility or named women does not prove equality.",
+      "source_references": [
+        "Society",
+        "Women and varna"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RELIGION, CULTURE AND MEGALITHIC CONTEXT",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RELIGION, CULTURE AND MEGALITHIC CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "KORRAVAI + BRAHMANICAL VOCABULARY",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHIST DONORS AND CAVE CONTEXTS",
+          "role": "comparison"
+        },
+        {
+          "text": "HEROIC AND MORTUARY MEMORY",
+          "role": "evidence"
+        },
+        {
+          "text": "POEMS, STONES AND BURIALS",
+          "role": "primary"
+        },
+        {
+          "text": "VARIED FORMS, GRAVE GOODS, IRON AND POTTERY",
+          "role": "outcome"
+        },
+        {
+          "text": "BURIAL EVIDENCE DOES NOT AUTOMATICALLY DISCLOSE SETTLEMENT MAP OR",
+          "role": "caution"
+        },
+        {
+          "text": "PLURALITY EMERGED THROUGH LOCAL TRADITIONS AND WIDER EXCHANGES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MURUGAN / MAYON / KORRAVAI + Brahmanical vocabulary",
+        "JAIN / BUDDHIST donors and cave contexts",
+        "HEROIC AND MORTUARY MEMORY → poems, stones and burials",
+        "MEGALITHS → varied forms, grave goods, iron and pottery",
+        "LIMIT: burial evidence does not automatically disclose settlement map or exact belief."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MURUGAN / MAYON / KORRAVAI + Brahmanical vocabulary",
+            "JAIN / BUDDHIST donors and cave contexts"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HEROIC AND MORTUARY MEMORY → poems, stones and burials",
+            "MEGALITHS → varied forms, grave goods, iron and pottery"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: burial evidence does not automatically disclose settlement map or exact belief.",
+            "CULTURE: plurality emerged through local traditions and wider exchanges."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CULTURE: plurality emerged through local traditions and wider exchanges.",
+      "source_references": [
+        "Religion",
+        "Megaliths"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CHIEFDOM-TO-STATE DEBATE",
+      "structural_type": "argument-tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CHIEFDOM-TO-STATE DEBATE",
+          "role": "institution"
+        },
+        {
+          "text": "CHIEFDOM READING",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL RETINUE, RAID, GIFT AND BARDIC PRESTIGE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE READING",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRES, EXTRACTION, TITLES, OFFICES AND DURABLE LINEAGES",
+          "role": "primary"
+        },
+        {
+          "text": "KO/KON, PUGALUR, MANGULAM, PORTS AND AGRARIAN CORES",
+          "role": "outcome"
+        },
+        {
+          "text": "AMPLIFIER, NOT SOLE CREATOR",
+          "role": "caution"
+        },
+        {
+          "text": "ENABLING TECHNOLOGY, NOT SOLE CAUSE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHIEFDOM READING → personal retinue, raid, gift and bardic prestige",
+        "STATE READING → centres, extraction, titles, offices and durable lineages",
+        "EVIDENCE → ko/kon, Pugalur, Mangulam, ports and agrarian cores",
+        "TRADE → amplifier, not sole creator",
+        "IRON → enabling technology, not sole cause"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHIEFDOM READING → personal retinue, raid, gift and bardic prestige",
+            "STATE READING → centres, extraction, titles, offices and durable lineages"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE → ko/kon, Pugalur, Mangulam, ports and agrarian cores",
+            "TRADE → amplifier, not sole creator"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "IRON → enabling technology, not sole cause",
+            "VERDICT: uneven movement toward early states; regional and reversible."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: uneven movement toward early states; regional and reversible.",
+      "answer_line": "uneven movement toward early states; regional and reversible.",
+      "source_references": [
+        "State formation",
+        "Historiography"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "VARNA AWARENESS",
+          "role": "outcome"
+        },
+        {
+          "text": "RULER-LINEAGE PAIRS",
+          "role": "comparison"
+        },
+        {
+          "text": "MAINS OPENING",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENTIARY HORIZON, NOT ONE SYNCHRONIZED DYNASTY BLOCK",
+          "role": "caution"
+        },
+        {
+          "text": "BODY 1",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOGRAPHY AND SOURCE METHOD",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS: varna awareness",
+        "ruler-lineage pairs",
+        "MAINS OPENING: evidentiary horizon, not one synchronized dynasty block",
+        "BODY 1: geography and source method",
+        "BODY 2: polity + economy + society + culture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PRELIMS: varna awareness",
+            "ruler-lineage pairs",
+            "MAINS OPENING: evidentiary horizon, not one synchronized dynasty block"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BODY 1: geography and source method",
+            "BODY 2: polity + economy + society + culture",
+            "BODY 3: port-hinterland mechanism and one historiographical debate"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "QUALIFY: genre, chronology, identification and representativeness",
+            "VERDICT: connected, uneven chiefdom-to-early-state Tamilakam."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BODY 3: port-hinterland mechanism and one historiographical debate.",
+      "source_references": [
+        "PYQs",
+        "Answer architecture"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE SANGAM AGE & THE DEEP SOUTH — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Sangam Age & the Deep South — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept — Tinai and ecology",
+            "Markets of Puhar and Madurai had sellers of flowers, garlands, aromatic powders, betel, shell bangles, jewellery, cloth, wine and bronze.",
+            "Caravans ( chattu ) carried paddy, salt and pepper between interiors and ports."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

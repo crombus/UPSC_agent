@@ -1,0 +1,1202 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-10",
+  "subject": "Governance",
+  "title": "ADMINISTRATIVE REFORMS AND THE SECOND ARC",
+  "short_route": "TWO COMMISSIONS, TWO QUESTIONS → FIVE-STATUS LADDER → THE LADDER WRITTEN AS → ROUTING TABLE, REPORTS ONE → ROUTING TABLE, REPORTS NINE → NODAL DEPARTMENT CARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-10\\governance-10_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-10-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "f7af39a5e240ae55f6aabc273aa5dfa7ea1f69b9a1e92fd7e29c74db70202b41",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO COMMISSIONS, TWO QUESTIONS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO COMMISSIONS, TWO QUESTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "1966 TO 1970; MORARJI DESAI, LATER K. HANUMANTHAIAH",
+          "role": "comparison"
+        },
+        {
+          "text": "QUESTION ASKED",
+          "role": "evidence"
+        },
+        {
+          "text": "HOW TO BUILD AN ADMINISTRATIVE STRUCTURE FOR A PLANNING-ERA",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTED 2005; M. VEERAPPA MOILY; FIFTEEN REPORTS, 2006 TO",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW TO MAKE AN EXISTING STRUCTURE ACCOUNTABLE AND TECHNOLOGY-ENABLED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIRST COMMISSION → 1966 to 1970; Morarji Desai, later K. Hanumanthaiah",
+        "QUESTION ASKED → how to build an administrative structure for a planning-era state",
+        "SECOND COMMISSION → constituted 2005; M. Veerappa Moily; fifteen reports, 2006 to 2009",
+        "QUESTION ASKED → how to make an existing structure accountable and technology-enabled"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FIRST COMMISSION → 1966 to 1970; Morarji Desai, later K. Hanumanthaiah",
+          "SECOND COMMISSION → constituted 2005; M. Veerappa Moily; fifteen reports, 2006 to 2009",
+          "FIRST COMMISSION → 1966 to 1970; Morarji Desai, later K. Hanumanthaiah",
+          "SECOND COMMISSION → constituted 2005; M. Veerappa Moily; fifteen reports, 2006 to 2009"
+        ],
+        [
+          "QUESTION ASKED → how to build an administrative structure for a planning-era state",
+          "QUESTION ASKED → how to make an existing structure accountable and technology-enabled",
+          "QUESTION ASKED → how to build an administrative structure for a planning-era state",
+          "QUESTION ASKED → how to make an existing structure accountable and technology-enabled"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FIRST COMMISSION → 1966 to 1970; Morarji Desai, later K. Hanumanthaiah",
+            "QUESTION ASKED → how to build an administrative structure for a planning-era state"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SECOND COMMISSION → constituted 2005; M. Veerappa Moily; fifteen reports, 2006 to 2009",
+            "QUESTION ASKED → how to make an existing structure accountable and technology-enabled"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FIRST COMMISSION → 1966 to 1970; Morarji Desai, later K. Hanumanthaiah",
+            "QUESTION ASKED → how to build an administrative structure for a planning-era state"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SECOND COMMISSION → constituted 2005; M. Veerappa Moily; fifteen reports, 2006 to 2009",
+            "QUESTION ASKED → how to make an existing structure accountable and technology-enabled"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUESTION ASKED → how to make an existing structure accountable and technology-enabled.",
+      "source_references": [
+        "The era contrast that answers a comparison stem"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FIVE-STATUS LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FIVE-STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "THE REPORT TEXT ALONE; THE COMMONEST ERROR IS PRESENTING",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCEPTED IN PRINCIPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "A RECORDED DECISION WITH NO OPERATIVE INSTRUMENT",
+          "role": "caution"
+        },
+        {
+          "text": "NOTIFIED OR ENACTED",
+          "role": "primary"
+        },
+        {
+          "text": "AN ACT, RULE, ORDER OR SCHEME INSTRUMENT EXISTS",
+          "role": "institution"
+        },
+        {
+          "text": "INSTITUTIONS, STAFF, BUDGET AND PROCEDURE ARE ACTUALLY FUNCTIONING",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENT EVIDENCE EXISTS ON IMPLEMENTATION QUALITY AND OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROPOSED → the report text alone; the commonest error is presenting this as practice",
+        "ACCEPTED IN PRINCIPLE → a recorded decision with no operative instrument",
+        "NOTIFIED OR ENACTED → an Act, rule, order or scheme instrument exists",
+        "OPERATIONAL → institutions, staff, budget and procedure are actually functioning",
+        "EVALUATED → independent evidence exists on implementation quality and outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PROPOSED → the report text alone; the commonest error is presenting this as practice",
+            "ACCEPTED IN PRINCIPLE → a recorded decision with no operative instrument"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NOTIFIED OR ENACTED → an Act, rule, order or scheme instrument exists",
+            "OPERATIONAL → institutions, staff, budget and procedure are actually functioning"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVALUATED → independent evidence exists on implementation quality and outcome",
+            "PROPOSED → the report text alone; the commonest error is presenting this as practice"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ACCEPTED IN PRINCIPLE → a recorded decision with no operative instrument",
+            "NOTIFIED OR ENACTED → an Act, rule, order or scheme instrument exists"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOTIFIED OR ENACTED → an Act, rule, order or scheme instrument exists.",
+      "source_references": [
+        "The five-status ladder"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE LADDER WRITTEN AS ONE SENTENCE",
+      "structural_type": "answer-spine",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE LADDER WRITTEN AS ONE SENTENCE",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "THE COMMISSION RECOMMENDED THE MEASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "THE GOVERNMENT ACCEPTED IT IN PRINCIPLE",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "THE OPERATIVE INSTRUMENT IS THE NAMED LATER ACT, RULE",
+          "role": "institution"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → the commission recommended the measure",
+        "STEP 2 → the government accepted it in principle",
+        "STEP 3 → the operative instrument is the named later Act, rule or scheme",
+        "STEP 4 → whether it functions as intended has not been independently evaluated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STEP 1 → the commission recommended the measure",
+            "STEP 2 → the government accepted it in principle"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → the operative instrument is the named later Act, rule or scheme",
+            "STEP 4 → whether it functions as intended has not been independently evaluated"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STEP 1 → the commission recommended the measure",
+            "STEP 2 → the government accepted it in principle"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "STEP 3 → the operative instrument is the named later Act, rule or scheme",
+            "STEP 4 → whether it functions as intended has not been independently evaluated"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STEP 3 → the operative instrument is the named later Act, rule or scheme.",
+      "source_references": [
+        "Writing the ladder as a sentence"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ROUTING TABLE, REPORTS ONE TO EIGHT",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROUTING TABLE, REPORTS ONE TO EIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "1 RIGHT TO INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPARENCY AND ACCOUNTABILITY OWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "2 UNLOCKING HUMAN CAPITAL",
+          "role": "evidence"
+        },
+        {
+          "text": "POLICY DESIGN AND IMPLEMENTATION OWNER",
+          "role": "primary"
+        },
+        {
+          "text": "3 CRISIS MANAGEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PAPER-III DISASTER-MANAGEMENT SPACE; CROSS-REFERENCE ONLY",
+          "role": "comparison"
+        },
+        {
+          "text": "4 ETHICS IN GOVERNANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 RIGHT TO INFORMATION → transparency and accountability owner",
+        "2 UNLOCKING HUMAN CAPITAL → policy design and implementation owner",
+        "3 CRISIS MANAGEMENT → Paper-III disaster-management space; cross-reference only",
+        "4 ETHICS IN GOVERNANCE → institutional accountability owners; personal probity is Ethics",
+        "5 PUBLIC ORDER → Paper-III internal-security space; cross-reference only"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "1 RIGHT TO INFORMATION → transparency and accountability owner",
+          "3 CRISIS MANAGEMENT → Paper-III disaster-management space; cross-reference only",
+          "5 PUBLIC ORDER → Paper-III internal-security space; cross-reference only",
+          "7 CAPACITY BUILDING FOR CONFLICT RESOLUTION → cross-reference only"
+        ],
+        [
+          "2 UNLOCKING HUMAN CAPITAL → policy design and implementation owner",
+          "4 ETHICS IN GOVERNANCE → institutional accountability owners; personal probity is Ethics",
+          "6 LOCAL GOVERNANCE → local governance and service delivery owner",
+          "8 COMBATING TERRORISM → Paper-III internal-security space; cross-reference only"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1 RIGHT TO INFORMATION → transparency and accountability owner",
+            "2 UNLOCKING HUMAN CAPITAL → policy design and implementation owner"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "3 CRISIS MANAGEMENT → Paper-III disaster-management space; cross-reference only",
+            "4 ETHICS IN GOVERNANCE → institutional accountability owners; personal probity is Ethics"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 PUBLIC ORDER → Paper-III internal-security space; cross-reference only",
+            "6 LOCAL GOVERNANCE → local governance and service delivery owner"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "7 CAPACITY BUILDING FOR CONFLICT RESOLUTION → cross-reference only",
+            "8 COMBATING TERRORISM → Paper-III internal-security space; cross-reference only"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "8 COMBATING TERRORISM → Paper-III internal-security space; cross-reference only.",
+      "source_references": [
+        "The fifteen reports as a routing table"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ROUTING TABLE, REPORTS NINE TO FIFTEEN",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROUTING TABLE, REPORTS NINE TO FIFTEEN",
+          "role": "primary"
+        },
+        {
+          "text": "9 SOCIAL CAPITAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CIVIL-SOCIETY, SELF-HELP-GROUP AND NON-GOVERNMENTAL-ORGANISATION OWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "10 REFURBISHING OF PERSONNEL ADMINISTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CIVIL SERVICES AND CAPACITY OWNER",
+          "role": "primary"
+        },
+        {
+          "text": "11 PROMOTING E-GOVERNANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "E-GOVERNANCE MODELS AND USER-CENTRICITY OWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "12 CITIZEN-CENTRIC ADMINISTRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "9 SOCIAL CAPITAL → civil-society, self-help-group and non-governmental-organisation owner",
+        "10 REFURBISHING OF PERSONNEL ADMINISTRATION → civil services and capacity owner",
+        "11 PROMOTING E-GOVERNANCE → e-governance models and user-centricity owner",
+        "12 CITIZEN-CENTRIC ADMINISTRATION → citizen-centric administration owner",
+        "13 ORGANISATIONAL STRUCTURE OF GOVERNMENT → machinery and coordination; Polity cross-link"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "9 SOCIAL CAPITAL → civil-society, self-help-group and non-governmental-organisation owner",
+          "11 PROMOTING E-GOVERNANCE → e-governance models and user-centricity owner",
+          "13 ORGANISATIONAL STRUCTURE OF GOVERNMENT → machinery and coordination; Polity cross-link",
+          "15 STATE AND DISTRICT ADMINISTRATION → local governance and district delivery owner"
+        ],
+        [
+          "10 REFURBISHING OF PERSONNEL ADMINISTRATION → civil services and capacity owner",
+          "12 CITIZEN-CENTRIC ADMINISTRATION → citizen-centric administration owner",
+          "14 STRENGTHENING FINANCIAL MANAGEMENT → public finance and service-delivery tools owner",
+          "9 SOCIAL CAPITAL → civil-society, self-help-group and non-governmental-organisation owner"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "9 SOCIAL CAPITAL → civil-society, self-help-group and non-governmental-organisation owner",
+            "10 REFURBISHING OF PERSONNEL ADMINISTRATION → civil services and capacity owner"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "11 PROMOTING E-GOVERNANCE → e-governance models and user-centricity owner",
+            "12 CITIZEN-CENTRIC ADMINISTRATION → citizen-centric administration owner"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "13 ORGANISATIONAL STRUCTURE OF GOVERNMENT → machinery and coordination; Polity cross-link",
+            "14 STRENGTHENING FINANCIAL MANAGEMENT → public finance and service-delivery tools owner"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "15 STATE AND DISTRICT ADMINISTRATION → local governance and district delivery owner",
+            "9 SOCIAL CAPITAL → civil-society, self-help-group and non-governmental-organisation owner"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "15 STATE AND DISTRICT ADMINISTRATION → local governance and district delivery owner.",
+      "source_references": [
+        "The fifteen reports as a routing table"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NODAL DEPARTMENT CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NODAL DEPARTMENT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IT IS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE NODAL UNION DEPARTMENT FOR TRACKING AND COORDINATING FOLLOW-UP",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT IT DOES",
+          "role": "evidence"
+        },
+        {
+          "text": "CIRCULATES RECOMMENDATIONS, HOLDS INSTITUTIONAL MEMORY, COORDINATES MINISTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IT CANNOT DO",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPEL A LINE MINISTRY OR A STATE GOVERNMENT TO",
+          "role": "institution"
+        },
+        {
+          "text": "NON-IMPLEMENTATION IS OFTEN AN INSTITUTIONAL FACT, NOT AN ATTITUDE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WHAT IT IS → the nodal Union department for tracking and coordinating follow-up",
+        "WHAT IT DOES → circulates recommendations, holds institutional memory, coordinates ministries",
+        "WHAT IT CANNOT DO → compel a line ministry or a State government to implement",
+        "CONSEQUENCE → non-implementation is often an institutional fact, not an attitude"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "WHAT IT IS → the nodal Union department for tracking and coordinating follow-up",
+          "WHAT IT CANNOT DO → compel a line ministry or a State government to implement anything",
+          "WHAT IT IS → the nodal Union department for tracking and coordinating follow-up",
+          "WHAT IT CANNOT DO → compel a line ministry or a State government to implement anything"
+        ],
+        [
+          "WHAT IT DOES → circulates recommendations, holds institutional memory, coordinates ministries",
+          "CONSEQUENCE → non-implementation is often an institutional fact, not an attitude",
+          "WHAT IT DOES → circulates recommendations, holds institutional memory, coordinates ministries",
+          "CONSEQUENCE → non-implementation is often an institutional fact, not an attitude"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "WHAT IT IS → the nodal Union department for tracking and coordinating follow-up",
+            "WHAT IT DOES → circulates recommendations, holds institutional memory, coordinates ministries"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "WHAT IT CANNOT DO → compel a line ministry or a State government to implement anything",
+            "CONSEQUENCE → non-implementation is often an institutional fact, not an attitude"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "WHAT IT IS → the nodal Union department for tracking and coordinating follow-up",
+            "WHAT IT DOES → circulates recommendations, holds institutional memory, coordinates ministries"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "WHAT IT CANNOT DO → compel a line ministry or a State government to implement anything",
+            "CONSEQUENCE → non-implementation is often an institutional fact, not an attitude"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → non-implementation is often an institutional fact, not an attitude.",
+      "source_references": [
+        "The nodal department and the limits of coordination"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DIAGNOSIS TO OUTCOME CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIAGNOSIS TO OUTCOME CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "THE COMMISSION IDENTIFIES A STRUCTURAL PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCEPTANCE, REPORT BY REPORT; FAILURE MODE IS ACCEPTANCE IN",
+          "role": "comparison"
+        },
+        {
+          "text": "AN ACT, RULE, ORDER OR SCHEME MUST BE SEPARATELY",
+          "role": "institution"
+        },
+        {
+          "text": "FEDERAL STEP",
+          "role": "primary"
+        },
+        {
+          "text": "STATE SUBJECTS NEED STATE ACTION; A UNION ACCEPTANCE CANNOT",
+          "role": "institution"
+        },
+        {
+          "text": "CAPACITY, THEN INCENTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO LOSES DISCRETION, AUTHORITY OR RENT?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSIS → the commission identifies a structural problem",
+        "ACCEPTANCE, report by report; failure mode is acceptance in principle with no instrument",
+        "INSTRUMENT: an Act, rule, order or scheme must be separately created",
+        "FEDERAL STEP: State subjects need State action; a Union acceptance cannot deliver them",
+        "CAPACITY, then INCENTIVE: who loses discretion, authority or rent?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIAGNOSIS → the commission identifies a structural problem",
+            "ACCEPTANCE, report by report; failure mode is acceptance in principle with no instrument"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "INSTRUMENT: an Act, rule, order or scheme must be separately created",
+            "FEDERAL STEP: State subjects need State action; a Union acceptance cannot deliver them"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPACITY, then INCENTIVE: who loses discretion, authority or rent?",
+            "OUTCOME: partial adoption, often unattributed and frequently unevaluated"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DIAGNOSIS → the commission identifies a structural problem",
+            "ACCEPTANCE, report by report; failure mode is acceptance in principle with no instrument"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "an Act, rule, order or scheme must be separately created.",
+      "source_references": [
+        "The acceptance-to-outcome chain and the federal step"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE FEDERAL EXPLANATION",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE FEDERAL EXPLANATION",
+          "role": "primary"
+        },
+        {
+          "text": "STATE-ACTION REPORTS",
+          "role": "institution"
+        },
+        {
+          "text": "LOCAL GOVERNANCE; STATE AND DISTRICT ADMINISTRATION",
+          "role": "institution"
+        },
+        {
+          "text": "PARTLY STATE-ACTION",
+          "role": "institution"
+        },
+        {
+          "text": "MUCH OF REFURBISHING OF PERSONNEL ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "UNION ACCEPTANCE CANNOT LEGISLATE OR STAFF A STATE SUBJECT",
+          "role": "institution"
+        },
+        {
+          "text": "EXPLAINS UNEVEN NATIONAL ADOPTION WITHOUT ASSERTING UNION INDIFFERENCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "STATE-ACTION REPORTS → Local Governance; State and District Administration",
+        "PARTLY STATE-ACTION → much of Refurbishing of Personnel Administration",
+        "MECHANISM → Union acceptance cannot legislate or staff a State subject",
+        "USE → explains uneven national adoption without asserting Union indifference"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STATE-ACTION REPORTS → Local Governance; State and District Administration",
+            "PARTLY STATE-ACTION → much of Refurbishing of Personnel Administration"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "MECHANISM → Union acceptance cannot legislate or staff a State subject",
+            "USE → explains uneven national adoption without asserting Union indifference"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE-ACTION REPORTS → Local Governance; State and District Administration",
+            "PARTLY STATE-ACTION → much of Refurbishing of Personnel Administration"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MECHANISM → Union acceptance cannot legislate or staff a State subject",
+            "USE → explains uneven national adoption without asserting Union indifference"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → explains uneven national adoption without asserting Union indifference.",
+      "source_references": [
+        "The acceptance-to-outcome chain and the federal step"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE ATTRIBUTION TRAP",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE ATTRIBUTION TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "A LATER REFORM RESEMBLES A REPORT, SO THE ANSWER",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSATION IS USUALLY UNPROVABLE WITHOUT A SOURCED ACCEPTANCE OR",
+          "role": "comparison"
+        },
+        {
+          "text": "NAMED RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CAPACITY PROGRAMMES AND STATE SERVICE-GUARANTEE STATUTES ARE THE USUAL",
+          "role": "institution"
+        },
+        {
+          "text": "CORRECT MOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE THEMATIC CONTINUITY, AND SAY THAT THE LINKAGE IS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "TEMPTATION → a later reform resembles a report, so the answer claims implementation",
+        "REALITY → causation is usually unprovable without a sourced acceptance or decision trail",
+        "NAMED RISK → capacity programmes and State service-guarantee statutes are the usual claims",
+        "CORRECT MOVE → state thematic continuity, and say that the linkage is not verified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TEMPTATION → a later reform resembles a report, so the answer claims implementation",
+            "REALITY → causation is usually unprovable without a sourced acceptance or decision trail"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NAMED RISK → capacity programmes and State service-guarantee statutes are the usual claims",
+            "CORRECT MOVE → state thematic continuity, and say that the linkage is not verified"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEMPTATION → a later reform resembles a report, so the answer claims implementation",
+            "REALITY → causation is usually unprovable without a sourced acceptance or decision trail"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NAMED RISK → capacity programmes and State service-guarantee statutes are the usual claims",
+            "CORRECT MOVE → state thematic continuity, and say that the linkage is not verified"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORRECT MOVE → state thematic continuity, and say that the linkage is not verified.",
+      "source_references": [
+        "The attribution problem and the datedness objection"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DATEDNESS OBJECTION AND REPLY",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DATEDNESS OBJECTION AND REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "A 2006 TO 2009 DIAGNOSIS PREDATES POPULATION-SCALE DIGITAL INFRASTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "IT ALSO PREDATES THE CURRENT DATA-PROTECTION FRAMEWORK AND LATER",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ANALYTICAL CATEGORIES HAVE AGED FAR BETTER THAN THE",
+          "role": "evidence"
+        },
+        {
+          "text": "SAY WHICH OF THE TWO THE ANSWER IS ACTUALLY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OBJECTION → a 2006 to 2009 diagnosis predates population-scale digital infrastructure",
+        "OBJECTION → it also predates the current data-protection framework and later fiscal design",
+        "REPLY → the analytical categories have aged far better than the specific prescriptions",
+        "DISCIPLINE → say which of the two the answer is actually using"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OBJECTION → a 2006 to 2009 diagnosis predates population-scale digital infrastructure",
+            "OBJECTION → it also predates the current data-protection framework and later fiscal design"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REPLY → the analytical categories have aged far better than the specific prescriptions",
+            "DISCIPLINE → say which of the two the answer is actually using"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OBJECTION → a 2006 to 2009 diagnosis predates population-scale digital infrastructure",
+            "OBJECTION → it also predates the current data-protection framework and later fiscal design"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "REPLY → the analytical categories have aged far better than the specific prescriptions",
+            "DISCIPLINE → say which of the two the answer is actually using"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → say which of the two the answer is actually using.",
+      "source_references": [
+        "The attribution problem and the datedness objection"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "POLITICAL ECONOMY OF ADOPTION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POLITICAL ECONOMY OF ADOPTION",
+          "role": "primary"
+        },
+        {
+          "text": "COMPREHENSIVE PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICALLY COMPLETE AND POLITICALLY INDIGESTIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "INCREMENTAL REFORM",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPLEMENTABLE AND INCOHERENT ACROSS THE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "COMMISSION FATIGUE",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATED COMMISSIONS CONVERT REFORM INTO A DOCUMENTED INTENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "COST DISTRIBUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPREHENSIVE PROGRAMME → analytically complete and politically indigestible",
+        "INCREMENTAL REFORM → implementable and incoherent across the system",
+        "COMMISSION FATIGUE → repeated commissions convert reform into a documented intention",
+        "COST DISTRIBUTION → concentrated resistance against diffuse benefit decides adoption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COMPREHENSIVE PROGRAMME → analytically complete and politically indigestible",
+            "INCREMENTAL REFORM → implementable and incoherent across the system"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMMISSION FATIGUE → repeated commissions convert reform into a documented intention",
+            "COST DISTRIBUTION → concentrated resistance against diffuse benefit decides adoption"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMPREHENSIVE PROGRAMME → analytically complete and politically indigestible",
+            "INCREMENTAL REFORM → implementable and incoherent across the system"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COMMISSION FATIGUE → repeated commissions convert reform into a documented intention",
+            "COST DISTRIBUTION → concentrated resistance against diffuse benefit decides adoption"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COST DISTRIBUTION → concentrated resistance against diffuse benefit decides adoption.",
+      "source_references": [
+        "Political economy, stakeholders and honest ownership"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A REFORM DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A REFORM DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE REPORT BY TITLE AND THE GOVERNANCE PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTE THE THEME TO ITS DESTINATION OWNER AND TAKE",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTACH A STATUS LABEL, THEN GIVE THE FEDERAL OR",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT ON CONTINUING RELEVANCE WITH THE DATEDNESS REPLY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the report by title and the governance problem it diagnoses",
+        "BUILD → route the theme to its destination owner and take the evidence from there",
+        "CORRECT → attach a status label, then give the federal or incentive reason for the",
+        "CLOSE → graded verdict on continuing relevance with the datedness reply stated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OPEN → name the report by title and the governance problem it diagnoses",
+            "BUILD → route the theme to its destination owner and take the evidence from there"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → attach a status label, then give the federal or incentive reason for the gap",
+            "CLOSE → graded verdict on continuing relevance with the datedness reply stated"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the report by title and the governance problem it diagnoses",
+            "BUILD → route the theme to its destination owner and take the evidence from there"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORRECT → attach a status label, then give the federal or incentive reason for the gap",
+            "CLOSE → graded verdict on continuing relevance with the datedness reply stated"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict on continuing relevance with the datedness reply stated.",
+      "source_references": [
+        "Political economy, stakeholders and honest ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE SECOND ARC'S OWN INSTITUTIONAL DESIGN (A TIME-BOUND COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE REPORT-ROUTING TABLE ITSELF ILLUSTRATES A BROADER POINT ABOUT",
+          "role": "comparison"
+        },
+        {
+          "text": "DARPG FUNCTIONS AS THE CONTINUING INSTITUTIONAL MEMORY AND ROUTING",
+          "role": "evidence"
+        },
+        {
+          "text": "ADMINISTRATIVE REFORM SHOULD BE EVALUATED AT FOUR LEVELS",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL ADOPTION, ORGANISATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "BECAUSE SEVERAL SECOND ARC RECOMMENDATIONS TOUCH SUBJECTS IN THE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE 11TH REPORT'S ( PROMOTING E-GOVERNANCE ) RECOMMENDATIONS ALIGNED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INSTITUTIONAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The Second ARC's own institutional design (a time-bound commission producing analytical",
+            "CAUTION: The report-routing table itself illustrates a broader point about GS-II's syllabus",
+            "DARPG functions as the continuing institutional memory and routing mechanism for ARC",
+            "CAUTION: Administrative reform should be evaluated at four levels: legal adoption, organisational"
+          ]
+        },
+        {
+          "heading": "STATUS / DATA CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Because several Second ARC recommendations touch subjects in the State List or",
+            "CAUTION: The 11th Report's ( Promoting e-Governance ) recommendations aligned closely with the",
+            "CAUTION: Boundary case: recommendations in the 10th Report ( Refurbishing of Personnel",
+            "CAUTION: Citing the 4th Report ( Ethics in Governance ) analytically in a Governance answer"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Expert-commission-driven reform (ARC model) provides rigorous, evidence-based diagnosis",
+            "CAUTION: Treating every ARC recommendation as equally \"live\" risks anachronism; a rigorous",
+            "CAUTION: Federal subject-matter division means Union-level ARC recommendations on state/",
+            "The Second ARC was constituted in 2005 and its 15 reports were released between 2006"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

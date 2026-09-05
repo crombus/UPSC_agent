@@ -1,227 +1,501 @@
 # The Harappan Civilization — MUST-DO
 
-> **Subject:** History (Ancient India) · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I (also Prelims).
-> **Grounded in:** R.S. Sharma, *India's Ancient Past*, Ch-10 "Harappan Culture: Bronze Age Urbanization in the Indus Valley".
-> ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
-> *Companion: `advanced/06_Harappan-Civilization.md`. Chronology spine: `00_Master-Chronology.md`.*
+> **Subject:** History (Ancient India) · **Tier:** Must-Do (foundation + standard) · **GS Paper:** Prelims GS-I and GS-I Mains architecture support.
+> **Grounded in:** R.S. Sharma, *India's Ancient Past*, Ch. 10 (local PDF pp. 90 onward); Upinder Singh, *A History of Ancient and Early Medieval India*, Ch. 4.
+> ✅ = directly source-grounded · ⚠️ = inference, debate or examination architecture.
+> *Topic 05 owns Neolithic/Chalcolithic cultures; topic 07 owns Aryan identity/migration; Indian Art and Culture owns detailed art-form analysis.*
 
 ---
 
-## Mini-timeline
+## Ownership firewall
 
-| Phase | Date (RS Sharma) | Marker |
+**Topic 06 owns:** Early–Mature–Late Harappan development; extent and sites; urban-rural settlement; architecture, drainage and water; subsistence, crafts, trade, measurement, script, society, polity, religion and decline as archaeological problems.
+
+**Topic 07 owns:** whether/how Harappan populations relate to Indo-Aryan language and Vedic culture, including full genetics/migration debate.
+
+**Indian Art and Culture owns:** detailed stylistic and aesthetic treatment of sculpture, pottery, seals and architecture. Topic 06 retains their historical context and PYQ facts.
+
+## 1. Discovery and archaeological reconstruction
+
+| Date/phase | Development | Caution |
 |---|---|---|
-| ✅ Early Harappan (pre-urban) | c. 3300–2600 BC | Kot Diji, Amri, Kalibangan I |
-| ✅ **Mature (urban) Harappan** | **c. 2600–1900 BC** | Town planning, script, seals, bronze |
-| ✅ Late / Post-urban Harappan | c. 1900–1300 BC | Decline of cities, deurbanisation |
+| 1853 | Alexander Cunningham noticed a Harappan seal | Its civilizational significance was not recognised |
+| 1921 | Daya Ram Sahni began excavation at Harappa | “Harappan” derives from the first excavated type-site |
+| 1920s | R.D. Banerji worked at Mohenjo-daro; John Marshall announced the civilisation | Early interpretations reflected limited excavation and comparison |
+| Later research | Expanded to villages, households, crafts, plants, animals, human remains and landscapes | Functional labels and social models remain revisable |
 
-## 1. Snapshot & core idea
+Because the script remains undeciphered, Harappan history is reconstructed primarily from archaeology. Material evidence is strongest for construction, production, diet, exchange and settlement; it is weaker for named rulers, language, doctrine, law and personal belief.
 
-**Foundation — the first Indian urbanisation (RS Sharma).**
+## 2. Chronology: regionalisation, integration and localisation
 
-✅ The Harappan (Indus) civilization was India's **first urban culture** and a **Bronze Age** civilization, contemporaneous with Mesopotamia and Egypt and spread over a very large area. It is called *Harappan* after **Harappa**, the first site excavated (1921, now in Pakistan). Settlement-area estimates vary by survey method: R.S. Sharma lists Mohenjo-daro as the largest, while Upinder Singh's newer synthesis records several very large settlements and cautions that reported areas are not always directly comparable.
-- ✅ **Town planning** is its hallmark: at Harappa and Mohenjo-daro, streets often followed a grid and a raised western sector was distinguished from a lower eastern town. The pattern and function vary by site; “citadel = rulers” is an inference.
-- ✅ Standardized mud/baked-brick construction, wells, bathing floors and covered drains created an exceptionally developed urban water-and-sanitation system.
-- ✅ Signature structures: the **Great Bath** at Mohenjo-daro; buildings conventionally called **“granaries”** at Harappa/Mohenjo-daro; and the basin conventionally identified as a **dockyard** at **Lothal**. Their functions are interpretations, not inscriptions on the buildings.
-- ✅ **Agriculture + domestication:** wheat, barley, peas, sesame, mustard; **first people to produce cotton** (Greeks called it *sindon*). Cattle, sheep, goats, buffalo; the **humped bull** is prominent — the **horse is not a characteristic animal**.
+| Phase | Broad dates | Historical process | Diagnostic tendency |
+|---|---:|---|---|
+| Early Harappan | c. 3300–2600 BCE | Regionalisation and proto-urban growth | Fortified/planned settlements, regional pottery, craft and exchange |
+| Mature Harappan | c. 2600–1900 BCE | Urban integration | Cities, common sign system, seals, standard weights, brick norms and wide exchange |
+| Late Harappan | c. 1900–1300 BCE, varying regionally | Localisation and deurbanisation | Reduced urban traits, settlement shifts, regional pottery and diversified agriculture |
 
-**Standard — economy, society, religion, script & decline (RS Sharma).**
+```text
+regional food-producing cultures
+        ↓ interaction, craft and settlement growth
+Early Harappan regionalisation
+        ↓ intensified coordination
+Mature Harappan integration
+        ↓ regionally varied transformation
+Late Harappan localisation
+```
 
-✅ Harappans were traders, farmers and specialized craftspeople; there is **no unambiguous evidence of palaces, royal tombs, monumental temples or a standing army**. Social and political organization remains debated. Their **logo-syllabic script is undeciphered**; it was generally read right-to-left, with a few left-to-right examples and occasional multi-line boustrophedon writing.
-- ✅ **Trade:** internal and long-distance; Mesopotamian texts mention **Meluhha**, probably the Indus region or a wider eastern zone, alongside **Dilmun (Bahrain)** and **Magan (Makran/Oman)**. No coinage is known; exchange used commodities and standardized weights.
-- ✅ **Crafts:** bronze tools, bead-making, seal-cutting; distinctive **red ware painted with black designs**.
-- ✅ **Household/craft evidence:** spindle whorls and textile impressions indicate spinning and weaving; a shell scale from Mohenjo-daro and an ivory scale from Lothal show precise measurement.
-- ⚠️ **Religion:** female figurines, the so-called **“Pashupati” seal**, pipal/animal motifs, fire installations and possible linga-yoni objects have religious interpretations, but “Mother Goddess” and “proto-Shiva” identifications are debated; no monumental temple has been securely identified.
-- ✅ **Decline (c. 1900 BC):** urban traits disappear; RS Sharma lists multiple causes — **ecological/environmental change, floods, river shifts (Indus/Ghaggar-Hakra), decline of trade, possibly incursions** — no single agreed cause.
+⚠️ These are archaeological process phases, not three sealed peoples. Beginnings and endings vary by site and region.
 
-## 2. Key classification / data
+## 3. Geographical extent and ecological domains
 
-| Site | Location / river | Signature find |
+“Harappan” is safer than “Indus Valley” because the distribution extended far beyond the Indus valley.
+
+| Direction/domain | Representative evidence |
+|---|---|
+| West | Sutkagen-dor on the Makran coast |
+| North-west outpost | Shortugai in Afghanistan near highland mineral routes |
+| North | Manda in the Jammu region |
+| East | Alamgirpur in western Uttar Pradesh |
+| South | Malvan in southern Gujarat; Daimabad preserves southern Late-Harappan/contact evidence but should not be used mechanically as the Mature-phase extreme |
+| Indus core | Harappa, Mohenjo-daro and many Sindh/Punjab settlements |
+| Ghaggar-Hakra/Haryana-Rajasthan | Kalibangan, Banawali, Rakhigarhi and dense settlement zones |
+| Kutch/Saurashtra/Gujarat | Dholavira, Lothal, Surkotada, Desalpur, Rangpur and coastal/resource sites |
+
+⚠️ Extent estimates vary with survey intensity, site definition and chronological phase. Use “vast multi-ecological distribution” rather than one immutable area number.
+
+⚠️ The Ghaggar-Hakra palaeochannel and the textual Sarasvati are related but distinct research questions; physical course, site chronology and textual identification require separate evidence.
+
+## 4. Settlement hierarchy: an urban-rural system
+
+| Settlement role | Examples | Function |
 |---|---|---|
-| ✅ Harappa | Ravi (Pakistan, Punjab) | First excavated; so-called granary; cemetery R-37 |
-| ✅ Mohenjo-daro | Indus (Sindh) | **Great Bath**, so-called granary, “Pashupati” seal, Dancing Girl, Priest-King |
-| ✅ Dholavira | Rann of Kutch (Gujarat) | Water reservoirs; giant **signboard**; three-part town |
-| ✅ Lothal | Gujarat (Bhogava) | Basin conventionally identified as **dockyard**; bead factory; fire installations |
-| ✅ Kalibangan | Ghaggar (Rajasthan) | **Ploughed field**; fire altars |
-| ✅ Rakhigarhi | Ghaggar-Hakra (Haryana) | One of the largest Indian sites; cemetery, DNA study |
-| ✅ Banawali | Haryana | Both pre- and mature-Harappan phases |
-| ✅ Surkotada | Gujarat | Debated **horse bones** |
+| Large cities | Harappa, Mohenjo-daro, Dholavira, Rakhigarhi, Ganweriwala | Dense residence, administration/coordination, craft, consumption and public works |
+| Regional centres | Kalibangan, Banawali and other fortified towns | Agricultural-craft exchange and regional coordination |
+| Specialist centres | Chanhudaro, Nageshwar, Lothal craft zones | Beads, shell, seals, metallurgy and other production |
+| Villages/farmsteads | Numerous small settlements; Allahdino as a small wealthy example | Food, livestock and local production |
+| Outposts/resource nodes | Shortugai and coastal/quarry sites | Raw-material procurement and route control |
 
-| Feature | Harappan reality |
+⚠️ An urban civilisation does not mean every settlement was a city. Large centres depended on rural producers, pastoralists, specialists and routes.
+
+⚠️ Standardisation implies coordination, not automatically one centralised empire.
+
+## 5. Town planning and architectural diversity
+
+### Common tendencies
+
+- planned streets and lanes, though not one perfect grid everywhere;
+- courtyards, bathing floors, drains and wells in many houses;
+- mud brick as a basic material and baked brick concentrated in water/public structures at several sites;
+- commonly used Mature-phase brick proportions near 1:2:4;
+- raised/enclosed sectors, fortifications or platforms;
+- differentiated house sizes and craft areas.
+
+### Citadel/lower-town caution
+
+“Citadel” and “lower town” are archaeological spatial labels. A raised or fortified sector does not by itself prove a palace, priestly residence or ruling-class quarter.
+
+| Site | Architectural signature | Interpretive caution |
+|---|---|---|
+| Harappa | Multiple mounds, working platforms, cemetery and 12-unit building | “Granary” remains a conventional functional label |
+| Mohenjo-daro | Great Bath, wells, drains, courtyard houses and public structures | “Priest-king”, “college”, “assembly hall” and “granary” are modern labels |
+| Dholavira | Stone construction, multiple enclosed sectors, reservoirs and signboard | Corrects a universal two-part city model; “stadium” is interpretive |
+| Kalibangan | Fortified sectors, early ploughed field and fire installations | Drainage differed from Mohenjo-daro; fire does not prove Vedic ritual |
+| Lothal | Brick basin, craft workshops, drains and measurement evidence | “Dockyard” is a leading but archaeological interpretation |
+| Banawali | Curved/fortified planning, moat, houses with seals/weights and plough model | Elite activity was not confined automatically to a “citadel” |
+| Chanhudaro | Unfortified specialist craft town | Urban production without a conventional citadel |
+
+## 6. Drainage, water management and civic maintenance
+
+### Secure evidence
+
+- house bathing floors linked to street drains at several sites;
+- covered drains, soak jars/pits and inspection arrangements;
+- public/private/neighbourhood wells, especially at Mohenjo-daro;
+- the Great Bath's baked brick, gypsum mortar and bitumen waterproofing;
+- Dholavira's dams, channels, cisterns and reservoir system between seasonal streams;
+- site-specific flood control, platforms and water storage.
+
+⚠️ Drains required cleaning, repair and collective norms; architecture therefore supports organised civic maintenance. It does not reveal the constitutional form of government.
+
+⚠️ Harappan sanitation was sophisticated but not uniform. Kalibangan, Dholavira, Lothal and Mohenjo-daro used different water/drainage solutions.
+
+## 7. Subsistence, crops, animals and adaptation
+
+| Category | Evidence | Caution |
+|---|---|---|
+| Cereals | Wheat and barley widespread; millets and rice more important in some regions | Crop packages varied by ecology and phase |
+| Pulses/oilseeds | Peas, lentils, sesame and mustard among reported crops | Presence does not measure dependence or yield |
+| Cotton | Early cotton cultivation/textile evidence | “First” claims should be tied to archaeological context |
+| Cattle | Humped cattle prominent; sheep/goat, buffalo, pig and other animals | Herd composition and use varied |
+| Fishing/wild resources | Fish, shellfish, wild animals and gathered resources | Urbanism did not eliminate wild-resource use |
+| Agriculture | Floodplain, rain-fed and locally managed water strategies | No one irrigation system covered the civilisation |
+
+Harappan food production was flexible and regionally diverse. Gujarat, the Indus plains, Ghaggar-Hakra settlements and highland/coastal zones did not use identical crop or water systems.
+
+### Horse caution
+
+Horse/equid remains reported at sites such as Surkotada are rare and disputed in identification/context. The horse was not a characteristic or securely central Harappan economic animal.
+
+## 8. Craft specialisation and metallurgy
+
+| Craft | Evidence/centres | Historical significance |
+|---|---|---|
+| Bead-making | Chanhudaro, Lothal and other workshops | Skill, standardisation and exchange |
+| Shell | Nageshwar, coastal/Gujarat sites | Coastal-resource procurement and specialised craft |
+| Faience | Beads, bangles and small objects | Controlled high-temperature production |
+| Seal-cutting | Steatite seals and sealings | Administration, identity, exchange and symbolism |
+| Metallurgy | Copper/bronze tools, vessels, mirrors and figurines; gold/silver/lead objects | Alloying, casting and specialist production |
+| Textiles | Spindle whorls, impressions and cotton evidence | Household and specialist spinning/weaving |
+| Pottery | Wheel-made red ware, often with black designs | Domestic use, chronology and regional variation |
+
+No iron defines the Mature Harappan technological system. Stone, bone, shell, wood and copper/bronze coexisted.
+
+⚠️ Craft concentration can indicate workshops and occupational specialisation; it does not automatically identify guilds, state factories or hereditary castes.
+
+## 9. Weights, measures and production standards
+
+- carefully graded stone weights supported exchange and production;
+- shell/ivory scales and measurement markings show linear measurement;
+- mature brick ratios and repeated seal forms show shared technical norms;
+- standardisation across regions supports communication and coordination;
+- local variation and changing series remain important.
+
+⚠️ Do not reduce the entire weight system to one memorised “multiple of 16” rule. Analyse sequence, material, context and regional variation.
+
+⚠️ Standard weights do not prove coinage; no Harappan metal coinage is securely known.
+
+## 10. Internal exchange and long-distance trade
+
+### Internal system
+
+Cities lacked all necessary raw materials. Networks moved:
+
+- copper, tin and other metals;
+- lapis, carnelian and other stones;
+- shell, timber and food;
+- finished beads, pottery, seals and metal products.
+
+Bullock carts, pack animals, river craft and coastal boats likely served different routes. Exchange could use commodities and standard weights without coinage.
+
+### Mesopotamian and maritime links
+
+| Term/evidence | Safe interpretation |
 |---|---|
-| ✅ Metal | **Bronze** (copper + tin); **no iron** (iron is post-Harappan) |
-| ✅ Script | Logo-syllabic, **undeciphered**; generally right-to-left |
-| ✅ Weights | Standardised binary/decimal series; do not reduce the whole system to one “multiple of 16” rule |
-| ✅ Chief crops | Wheat & barley (first cotton growers) |
-| ✅ Polity | Uncertain; no securely identified palace, royal tomb or monumental temple; competing models of authority |
+| Meluhha/Meluha | Mesopotamian term probably referring to the Indus/Harappan region or a wider eastern trading zone; exact reach debated |
+| Dilmun | Gulf intermediary commonly associated with Bahrain |
+| Magan/Makan | Oman/Makran-linked zone in Gulf trade discussions |
+| Mesopotamian texts/objects | Harappan merchants, materials or products entered western exchange systems |
+| Oman/Gulf and coastal finds | Maritime links and raw-material procurement |
 
-## 3. Study links
+⚠️ Imported objects prove contact, not a Harappan colony, trade volume or direct state control.
 
-> **Study link:** ✅ History → Ancient → Harappan Civilization (RS Sharma Ch-10).
-> **Study link:** ⚠️ Continuity/Aryan debate → `basic/07_Aryan-Problem-and-Identity.md`; chronology → `00_Master-Chronology.md`.
+⚠️ Lothal's basin may support maritime orientation, but the “dockyard” label should remain qualified.
 
-## 4. Must-Know Facts (Prelims)
+## 11. Script, seals and communication
 
-- ✅ First urbanisation; **Bronze Age**; contemporaneous with Mesopotamia/Egypt but **larger in extent**.
-- ✅ Mature phase **c. 2600–1900 BC**; Mohenjo-daro, Harappa, Rakhigarhi, Ganweriwala and Dholavira were among the largest settlements; exact rankings vary.
-- ✅ Grid town-planning; **citadel (west) + lower town (east)**; burnt bricks; covered drains.
-- ✅ Great Bath (Mohenjo-daro), Dockyard (Lothal), Ploughed field & fire altars (Kalibangan), Reservoirs & signboard (Dholavira).
-- ✅ Spindle whorls are common craft evidence; shell/ivory scales and standardized weights are measurement evidence.
-- ✅ **No iron**; the horse was not economically important and reported remains are debated; no securely identified palace, royal tomb or monumental temple.
-- ✅ Mesopotamian records mention **Meluhha**, Dilmun and Magan; the exact geographical reach of Meluhha is debated.
-- ⚠️ Religious labels such as Mother Goddess and proto-Shiva are interpretations; the script remains undeciphered.
+### Secure characteristics
 
-## ➕ Exact PYQ application (2025 GS-I)
+- the sign system remains undeciphered;
+- inscriptions are generally short and often occur on seals, sealings, pottery, tablets and other objects;
+- the corpus contains several hundred signs, with estimates depending on variant counting;
+- many inscriptions appear to run right-to-left; some layouts may use other directions or multi-line alternation;
+- language and exact sign values are unknown.
 
-> **Verbatim:** “Discuss the salient features of the Harappan architecture. (Answer in 150 words)”
+⚠️ “Logo-syllabic” is a proposed description, not a decipherment.
 
-| Answer dimension | Source-grounded points |
-|---|---|
-| Urban layout | Planned streets, drainage, differentiated raised and lower sectors; layouts varied by site |
-| Building technology | Standardized mud/baked bricks, wells, bathing floors, covered drains, courtyards |
-| Public works | Great Bath; Dholavira reservoirs and stone construction; Lothal basin/dockyard interpretation |
-| Regional variation | Dholavira's three-part plan differs from the simpler citadel/lower-town model |
-| Source caution | “Granary”, “dockyard”, “college of priests” and ruler-residence functions are archaeological interpretations |
+⚠️ A short seal inscription may concern identity, office, commodity, ownership or ritual, but function is not settled.
 
-## 5. UPSC Traps
+⚠️ Similar signs do not prove a later script/language descended directly from Harappan writing.
 
-> 🔑 Trap: UPSC repeatedly tests **what the Harappans did NOT have** and exact **site-find pairings**.
+## 12. Art and material culture
 
-- ❌ Harappans used iron. → **No iron** — it is a **Bronze Age** culture; iron appears only in the **later Vedic** period.
-- ❌ The horse was a characteristic Harappan animal. → It is **not**; horse remains are rare/debated (Surkotada). The **humped bull** dominates.
-- ❌ Harappans built grand temples like Mesopotamia's ziggurats. → **No monumental temples** identified.
-- ❌ The Great Bath is at Harappa. → It is at **Mohenjo-daro**; Lothal has the basin conventionally identified as a **dockyard**; the ploughed field is at **Kalibangan**.
-- ❌ The Harappan script has been deciphered. → It remains **undeciphered**.
-- ❌ Courtyard houses prove a “common-property system.” → House form alone cannot establish property relations; ownership and social organization remain debated.
+| Object/form | Secure fact | Interpretive caution |
+|---|---|---|
+| “Dancing Girl” | Bronze figurine from Mohenjo-daro | Pose/name are modern description; it is not a portrait biography |
+| “Priest-King” | Stone male bust from Mohenjo-daro | Priest, king and identity are unknown |
+| Female figurines | Varied terracotta figures | Not one automatic “Mother Goddess” cult |
+| Seals | Animals, composite beings, signs and ritual/administrative imagery | Meaning remains undeciphered |
+| Pottery | Red ware, black painting and regional forms | Decoration is not ethnicity |
+| Toys/models | Carts, animals and human figures | Can combine play, teaching, ritual and representation |
 
-## 6. 📰 Current link
+> **Boundary:** Indian Art and Culture owns detailed formal analysis. Topic 06 owns material context, historical use and PYQ identification.
 
-⚠️ **Current-link discipline:** The source-grounded modern anchor is the published **2019 Rakhigarhi genome**, summarized cautiously above. Any later excavation, burial count or laboratory result must be checked against an ASI or peer-reviewed report before use.
+## 13. Social organisation: what can and cannot be inferred
 
-## 7. Mains angles
+### Evidence
 
-### Interpretation cautions (promoted from Advanced — paper-essential)
+- unequal house sizes and facilities;
+- luxury/rare materials and ornaments;
+- specialised craft areas;
+- settlement hierarchy;
+- variation in burials and grave goods;
+- wide technical standardisation.
 
-⚠️ **Harappan answers must embed these source-method caveats:**
-1. The **script is undeciphered** — so all claims about polity, religion and social structure are archaeological inferences, not textual facts.
-2. **"Granary"**, **"dockyard"**, **"citadel"** are functional labels applied by excavators; the buildings' actual purposes are interpretations, not proven.
-3. **Polity is unknown/debated**: no royal tombs, king-lists or palaces have been identified; interpretations range from centralised state to city-states to decentralised elite network.
-4. **The "Pashupati" seal** interpretation (proto-Shiva) is contested; treat as "a horned deity" and mark interpretation as open.
-5. **Decline was multi-causal de-urbanisation**, not sudden destruction; Late Harappan rural cultures persisted and show cultural continuity.
-6. **Dholavira** corrections: its tripartite plan (citadel, middle town, lower town) corrects the two-part "citadel west / lower town east" generalisation.
+### Responsible inference
 
-### Thesis options
+These support occupational diversity and social differentiation. They do not securely establish:
 
-| Directive | Thesis |
-|---|---|
-| Discuss salient features of architecture (2025 PYQ) | Harappan architecture was civic-functional rather than monumental-religious: planned layouts, standardised bricks (1:2:4), advanced drainage, public water structures and site-specific variation (Dholavira tripartite, Lothal dock, Mohenjo-daro Great Bath) demonstrate administrative standardisation alongside regional adaptation. |
-| Critically examine | While the scale and uniformity of Harappan urbanism across ~1 million sq km is remarkable, the absence of deciphered texts means every major interpretation (polity, religion, social hierarchy) remains provisional — making the civilization an exercise in archaeological reasoning rather than textual certainty. |
+- caste;
+- slavery as an institution;
+- matriarchy;
+- exact property rights;
+- one class system;
+- a “peaceful civilisation”.
 
-- ⚠️ Prefer "urban and strongly civic, without securely identified monumental temples" to the anachronistic claim that Harappan society was definitively **secular**.
-- ⚠️ Use Harappan **water management** (Dholavira reservoirs, Lothal dock, Mohenjo-daro drains) as a GS-I/GS-III bridge to contemporary urban-planning and water-security answers.
-- ⚠️ Discuss why the **decline** has no single explanation — tie environmental/river-shift causes to lessons on climate-resilience of cities.
+⚠️ Fortifications, weapons, trauma and uneven destruction are insufficient to make either universal peace or endemic warfare a settled description.
 
-## 8. Answer architecture (20-mark synthesis support)
+## 14. Political organisation: models without invented kings
 
-### Qualified thesis options
+No securely identified royal tombs, king lists, palaces, monumental temples or named dynasties survive.
 
-| Directive type | Thesis option |
-|---|---|
-| Discuss | "Harappan civilisation demonstrates high urban coordination, but its polity and religion can only be reconstructed probabilistically because the script remains undeciphered." |
-| Critically examine | "The Harappan world was neither a mystery to be romanticised nor a monarchy to be confidently named; its strongest evidence lies in planning and standardisation." |
-| Compare / evaluate | "The most defensible answer treats Harappan achievement as clear, but many traditional labels must remain qualified." |
+| Model | Evidence used | Limitation |
+|---|---|---|
+| Centralised state/empire | Wide standardisation, urban planning, seals and weights | No named sovereign or uniform administrative text |
+| Several regional states/city-states | Large regional centres and layout variation | Shared norms and exchange crossed regions |
+| Corporate/decentralised elites | Limited royal display, collective standards and mercantile/craft coordination | Mechanism of coercion and decision remains unknown |
 
-### Structure guide
+⚠️ The exact polity is unresolved. The safest claim is **strong coordination across urban and exchange systems, with debated political form**.
 
-- **For causal/analytical Qs:** ecology and surplus -> urban planning -> craft/trade -> decline/localisation
-- **For comparison Qs:** Harappa/Mohenjo-daro vs Dholavira/Lothal across planning, water and trade
-- **For evaluate Qs:** achievements -> interpretive cautions -> balanced verdict on state/religion
+## 15. Religion and ritual: interpretation without back-projection
 
-### Named evidence units
+| Evidence | Possible interpretation | Caution |
+|---|---|---|
+| Female figurines | Household ritual, fertility, toys or representation | “Mother Goddess” is not established |
+| Horned seated figure seal | Deity, ritual figure or symbolic composition | “Pashupati/proto-Shiva” is contested |
+| Pipal and animal motifs | Sacred symbolism or identity marks | Meaning is not textually known |
+| Fire installations | Domestic, industrial or ritual use | “Fire altar” does not make them Vedic |
+| Great Bath | Collective/ritual bathing possibility | Secure function is waterproof public architecture |
+| Burials/grave goods | Mortuary customs and social memory | No single afterlife doctrine can be recovered |
+| Possible linga-like stones | Cultic or functional objects | Later Hindu identification is uncertain |
 
-| # | Claim | Named evidence | Significance | Limitation |
-|---|---|---|---|---|
-| 1 | Urban coordination is beyond doubt | ✅ Standard bricks, weights, drainage and planned streets | Strongest proof of organised civic life | Does not reveal the exact form of the state |
-| 2 | Trade and craft specialisation were central | ✅ Seals, bead-making, Lothal/Dholavira networks | Connects city life to exchange and administration | Trade volume and political control remain debated |
-| 3 | Religion and polity remain inferential fields | ⚠️ Pashupati seal, female figurines and building labels | Supplies workable but cautious interpretations | No direct textual confirmation exists |
-| 4 | Decline was multi-causal and regionally uneven | ✅ Localisation, river shifts and settlement dispersal | Defeats simple invasion-collapse narratives | Different zones changed at different rates |
+No monumental temple or unified state religion has been securely identified.
 
-### Counterpoint and balance
+## 16. Major sites: location–feature–caution
 
-- Avoid both extremes: total unknowability and false certainty.
-- Material evidence reconstructs broad structures well even when script remains unread.
+| Site | Location/setting | High-yield feature | Caution |
+|---|---|---|---|
+| Harappa | Ravi region, Punjab, Pakistan | First excavated; Cemetery R-37; working platforms; 12-unit building | “Granary” is conventional |
+| Mohenjo-daro | Indus, Sindh, Pakistan | Great Bath, wells, drains, bronze figurine and male bust | “Priest-King” and other building names are interpretive |
+| Dholavira | Khadir island, Kutch, Gujarat | Multi-part plan, stone architecture, reservoirs and signboard | Corrects universal two-part model |
+| Lothal | Gujarat | Brick basin, bead/copper craft, scale and burials | Dockyard is leading but contested functional interpretation |
+| Kalibangan | Ghaggar, Rajasthan | Early ploughed field, fortified sectors and fire installations | Fire is not automatically Vedic |
+| Rakhigarhi | Haryana | Large inland centre, craft, drains and cemetery | Size rankings and genetic generalisation require caution |
+| Banawali | Haryana | Early–Mature–Late sequence, moat, plough model and merchant/craft evidence | Layout is regionally distinctive |
+| Chanhudaro | Sindh, Pakistan | Unfortified specialist craft town and bead production | No conventional citadel |
+| Surkotada | Kutch, Gujarat | Fortified settlement and disputed equid bones | Horse claim is not settled |
+| Desalpur | Kutch, Gujarat | Fortified Harappan site | Distinguish from non-Harappan Sohgaura |
+| Shortugai | Afghanistan | Outpost near mineral routes | Does not by itself prove political annexation |
+| Sutkagen-dor | Makran | Western coastal/route node | Maritime function must be contextualised |
 
-### Verdict framing
+## 17. Decline, deurbanisation and regional transformation
 
-- Conclude that Harappan history is strongest on urban form, economy and technology, but weakest on named institutions and doctrine.
-- A high-scoring ending states achievement clearly while marking the boundaries of inference.
+After c. 1900 BCE, major urban traits declined unevenly:
+
+- large cities contracted or were abandoned;
+- script, seals, long-distance standards and some crafts diminished;
+- settlement distributions shifted;
+- regional pottery traditions became more prominent;
+- agriculture diversified;
+- smaller/rural communities continued.
+
+### Cause families
+
+| Cause family | Possible contribution | Why it cannot stand alone |
+|---|---|---|
+| River change/flood | Damaged or redirected particular settlements | Different sites had different hydrologies |
+| Aridity/monsoon stress | Raised water and agricultural risk | Chronology/proxy scale and social response vary |
+| Trade contraction | Reduced demand/raw-material circulation | Internal production and rural life continued |
+| Social/political reorganisation | Weakened integrative institutions | Direct institutional evidence is scarce |
+| Disease/resource pressure | Possible local stress | Evidence remains incomplete |
+| Invasion/incursion | Contact or violence may occur locally | No evidence supports one Aryan invasion destroying the civilisation |
+
+⚠️ Prefer **deurbanisation, localisation and transformation** to “sudden extinction”.
+
+⚠️ Climate, invasion, flood or river shift should not be presented as one universal cause.
+
+## 18. Continuity and discontinuity
+
+### Continuities may include
+
+- crops, livestock and rural settlement;
+- some pottery and craft traditions;
+- regional population continuity and interaction;
+- selected symbols or practices.
+
+### Discontinuities include
+
+- urban scale and integrated settlement networks;
+- script use;
+- seal system and standardisation;
+- aspects of long-distance exchange and specialised production.
+
+⚠️ A similar motif, crop or ritual does not prove an unchanged Harappan-to-later tradition.
+
+⚠️ Detailed Harappan–Vedic identity, language and genetics belong to topic 07. Topic 06's safe conclusion is continuity plus major institutional discontinuity.
+
+## 19. Recent scientific evidence: bounded use
+
+- The published 2019 Rakhigarhi ancient-DNA study provides evidence from one sampled individual.
+- It is relevant to population history but cannot represent every Harappan region, identify language, caste, religion or polity, or settle the full Aryan question.
+- Isotope, skeletal, palaeopathological and environmental studies can widen diet, mobility and health reconstruction when results are published and context is secure.
+
+⚠️ Announced analyses, transferred remains or proposed facial reconstruction are not completed findings.
+
+## 20. Routed PYQ ledger
+
+### 2019 Prelims GS-I Q7
+
+> **Demand:** Identify the non-Harappan site among Chanhudaro, Kot Diji, Sohgaura and Desalpur.
+
+- Chanhudaro: Harappan craft town.
+- Kot Diji: Early Harappan and later Harappan levels.
+- Desalpur: Harappan fortified site in Kutch.
+- Sohgaura: associated with a later copper-plate inscription in Uttar Pradesh; not a Harappan site.
+
+Official local key unavailable; the repository's inferred answer is Sohgaura and must not be called official.
+
+### 2021 Prelims GS-I Q32
+
+> **Demand:** Identify the ancient town known for dams, channels and connected reservoirs.
+
+**Dholavira** is the relevant site. Official local key unavailable; do not upgrade the inferred answer to an official key.
+
+### 2025 Prelims GS-I Q72
+
+> **Demand:** Identify the material of the Mohenjo-daro “Dancing Girl”.
+
+**Bronze**; official Set-A key available locally.
+
+### 2025 GS-I Mains Q1
+
+> **Question:** “Discuss the salient features of the Harappan architecture.”
+>
+> **Format:** 10 marks, 150 words.
+
+**Answer spine:** planning and household form → construction norms → drainage/water → public works → regional variation → functional-label caution.
+
+### 2026 Prelims GS-I Q8
+
+> **Demand:** infer responsibly from household spindle whorls, graduated weights/scales and large baked-brick courtyard houses with private wells/bathing platforms.
+
+- Household spindle whorls support household spinning; absence of preserved spinning wheels does not justify more than the stated inference.
+- Graduated weights and scales support developed measurement practices.
+- Courtyard houses, wells and bathing platforms support household architecture and water access; they do not establish a “common-property system”.
+
+The local key is provisional. The canonical owner records statement-level reasoning without upgrading the key status.
+
+## 21. Prelims traps
+
+- ❌ Indus Valley means every site lies on the Indus.
+  - ✅ Harappan distribution crossed river systems, highlands, deserts and coasts.
+- ❌ Citadel means palace/ruling-class residence.
+  - ✅ It is a raised/enclosed spatial label; social function is inferred.
+- ❌ “Granary” and “dockyard” are proven by inscriptions.
+  - ✅ They are archaeological functional interpretations.
+- ❌ Great Bath = proven temple/one religion.
+  - ✅ It securely shows waterproof collective architecture.
+- ❌ Chanhudaro had a conventional citadel.
+  - ✅ It was an unfortified specialist craft town.
+- ❌ Surkotada proves a horse-centred civilisation.
+  - ✅ Equid identification and wider significance are disputed.
+- ❌ “Priest-King” identifies a ruler.
+  - ✅ The bust's role and identity are unknown.
+- ❌ Female figurines prove one Mother Goddess.
+  - ✅ Their functions and identities vary.
+- ❌ Harappan script language is known.
+  - ✅ The script remains undeciphered.
+- ❌ A peaceful civilisation had no violence.
+  - ✅ Evidence cannot establish universal peace or warfare.
+- ❌ Decline was one invasion or one drought.
+  - ✅ Deurbanisation was multi-causal and regionally varied.
+
+## 22. Mains multidimensional architecture
+
+### 2025 architecture answer: 10 marks
+
+```text
+direct thesis: civic planning plus regional diversity
+  → streets/houses and brick construction
+  → drainage, wells and bathing
+  → Great Bath/Dholavira reservoirs/Lothal basin
+  → Dholavira/Kalibangan/Chanhudaro variation
+  → granary/dockyard/citadel caution
+  → concise verdict
+```
+
+### 15 marks
+
+```text
+chronology and extent
+  → urban-rural settlement
+  → architecture/water
+  → agriculture/crafts/trade
+  → script and administration
+  → society/polity/religion limits
+  → regional qualification
+```
+
+### 20 marks
+
+```text
+regionalisation → integration → localisation
+  → site atlas and ecological domains
+  → urban coordination and household diversity
+  → production, measurement and exchange
+  → script, social and political uncertainty
+  → religion/art interpretation ladder
+  → multi-causal decline
+  → continuity plus institutional discontinuity
+```
+
+### Paragraph formula
+
+> **Claim → named site/object → secure archaeological fact → historical inference → alternative/limit**
+
+## 23. Rapid revision
+
+- Phases: Early c. 3300–2600; Mature c. 2600–1900; Late c. 1900–1300 BCE, regionally variable.
+- Harappan = regionalisation → integration → localisation.
+- Extent: Sutkagen-dor west, Manda north, Alamgirpur east, Malvan south; Shortugai outpost.
+- Urbanism included cities, towns, specialist centres and villages.
+- Dholavira corrects one universal citadel/lower-town plan.
+- Great Bath secure; granary/dockyard/stadium functions require qualification.
+- Crops and water strategies varied regionally; horse evidence is rare/disputed.
+- Crafts: beads, shell, faience, seals, pottery, textiles and copper/bronze metallurgy.
+- Standard weights and measures show coordination, not coinage or one known empire.
+- Meluhha links to Mesopotamian trade; exact reach is debated.
+- Script remains undeciphered; language and sign values are unknown.
+- “Priest-King”, “Mother Goddess” and “Pashupati” are contested labels.
+- Political organisation remains debated; strong coordination is safer than invented monarchy.
+- Decline = multi-causal deurbanisation/localisation, not one invasion, flood or drought.
+- Continuity coexists with major urban/script/institutional discontinuity.
+- Routed PYQs: 2019 non-Harappan site; 2021 Dholavira water; 2025 bronze Dancing Girl; 2025 architecture; 2026 household inference.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+| Year | Paper | Q | Demand | Source status |
+|---:|---|---:|---|---|
+| 2026 | Prelims GS-I | 8 | Household artefacts, measurement, architecture and social inference | Provisional Set-A key present locally |
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 8 | Harappan household artefacts, weights, construction, and social inferences | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-### What this owner must now support
-
-- Harappan household artefacts, weights, construction, and social inferences
-
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+| Year | Paper | Q | Demand | Source status |
+|---:|---|---:|---|---|
+| 2025 | GS-I | 1 | Salient features of Harappan architecture | Routed to owner |
+| 2025 | Prelims GS-I | 72 | Mohenjo-daro “Dancing Girl” material | Official Set-A key available |
 
-- **Years represented:** 2025
-- **Paper(s):** GS-I, Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | GS-I | 1 | Salient features of Harappan architecture | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | Prelims GS-I | 72 | Mohenjo-daro 'Dancing Girl' figurine - material (bronze) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-### What this owner must now support
-
-- Salient features of Harappan architecture
-- Mohenjo-daro 'Dancing Girl' figurine - material (bronze)
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+| Year | Paper | Q | Demand | Source status |
+|---:|---|---:|---|---|
+| 2019 | Prelims GS-I | 7 | Identification of non-Harappan site | Official local key unavailable |
+| 2021 | Prelims GS-I | 32 | Harappan town with elaborate water harvesting | Official local key unavailable |
 
-- **Years represented:** 2019, 2021
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 7 | Identification of non-Harappan archaeological site | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 32 | Indus Valley site ancient water harvesting system | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-### What this owner must now support
-
-- Identification of non-Harappan archaeological site
-- Indus Valley site ancient water harvesting system
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

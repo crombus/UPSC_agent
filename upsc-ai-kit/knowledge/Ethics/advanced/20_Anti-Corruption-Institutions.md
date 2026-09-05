@@ -50,6 +50,7 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
 | 📰 **The 2013 Act's actual (qualified) PM jurisdiction** | Unlike the ARC's blanket exclusion, the enacted Act brings the Prime Minister within Lokpal jurisdiction but bars any inquiry into allegations relating to "international relations, external and internal security, public order, atomic energy and space"; an inquiry may be initiated only if the full bench considers it and **at least two-thirds of the Members** approve, the proceedings are held **in camera**, and if the complaint is dismissed the records are neither published nor made available to anyone. |
 | ⚠️ **Judicial-anchoring vs broad-representation institutional design** | ARC's judiciary-heavy 3-member design privileged perceived independence/legal rigor; the 2013 Act's larger composition — at least 50% judicial Members, and at least 50% from SC/ST/OBC, minorities and women — privileges legitimacy and inclusiveness: a genuine institutional-design trade-off between specialised independence and broad-based representative legitimacy. |
 | ⚠️ **NGO/substantially-funded-body jurisdiction** | ARC 3.3 had recommended extending PC Act-type coverage to substantially government-funded NGOs (>50% of annual operating cost or ≥₹1 crore in the preceding 3 years). The 2013 Act's own thresholds differ and must be stated precisely: **Section 14(1)(g)** covers bodies/associations receiving foreign contribution under the FCRA, 2010 "in excess of ten lakh rupees in a year"; **Section 14(1)(h)** covers bodies wholly or partly financed by government whose annual income exceeds "such amount as the Central Government may, by notification, specify". |
+| ✅ **CBI State-consent rule and constitutional-court caveat** | CBI was created by executive resolution, while DSPE police powers ordinarily require State consent for exercise within that State. Withdrawal of general consent changes the route for fresh cases but cannot disable the Supreme Court's Article 32 or High Courts' Article 226 power to direct a CBI investigation; this exceptional constitutional remedy is not a general Union-executive exception. |
 
 ## 3. Detailed treatment
 
@@ -87,10 +88,10 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
   problem: without such linkage, a case involving both ministerial and bureaucratic collusion risks
   falling into a jurisdictional gap between separately operating institutions.
 - 📰 The Lokpal and Lokayuktas Act, 2013 gives the Lokpal power to direct the CBI's investigation
-  in referred cases and to have its own inquiry and prosecution wings, operationalising a version of
-  this organic-linkage principle, though 📰 the practical, ongoing coordination dynamics between CVC,
-  CBI and Lokpal should be verified against current reporting rather than assumed to function
-  precisely as the ARC's 2007 model envisaged.
+  in referred cases and provides for its own inquiry and prosecution wings, operationalising a
+  version of this organic-linkage principle. The existence of statutory powers does not itself prove
+  operational effectiveness; staffing, referrals, reasons, timelines and outcomes require current
+  official verification.
 
 ### Multiplicity and coherence — an unresolved structural question
 
@@ -108,7 +109,8 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
 ## 4. Institutional and reform architecture
 
 - ⚠️ A coherent reform combining the ARC's organic-linkage principle with the 2013 Act's broader
-  jurisdiction would: (1) standardise State Lokayukta composition and independence safeguards;
+  jurisdiction would: (1) develop common minimum State Lokayukta independence and due-process
+  safeguards through cooperative federal consultation and State law;
   (2) strengthen formal CVC-CBI-Lokpal coordination protocols; (3) periodically review the PM-
   jurisdiction procedural threshold's practical operation to ensure it neither triggers frivolous
   enquiries nor becomes an unreviewable shield.
@@ -144,8 +146,8 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
   established a Chairperson plus not more than eight Members, at least half judicial and at least
   half from SC/ST/OBC, minorities and women, covering the PM (with the five subject-matter
   exclusions and a two-thirds-of-Members threshold), Ministers, MPs and all central government
-  officials. The first Chairperson was appointed on 19 March 2019; Justice A.M. Khanwilkar has been
-  Chairperson since 10 March 2024.
+  officials. The first Chairperson was appointed on 19 March 2019; verify current membership from
+  the official Lokpal portal on the day of use.
 - ✅ ARC 4.2.5's "multiplicity of institutions with overlapping functions" critique specifically
   targeted the lack of coordination between CVC, departmental vigilance, CBI (Union level) and the
   varying Lokayukta/Vigilance-Commission/Anti-Corruption-Bureau models (State level).
@@ -161,12 +163,16 @@ the ARC's central organic-linkage and Prime-Minister-jurisdiction principles in 
 - ❌ State-level anti-corruption institutional multiplicity has been fully resolved by the 2013
   Lokpal Act. -> The Act primarily addresses the central-government level; State Lokayukta
   heterogeneity, per the ARC's original 4.2.5 diagnosis, remains only partially addressed.
+- ❌ Withdrawal of general State consent removes the constitutional courts' power to order a CBI
+  investigation. -> The DSPE consent rule binds the ordinary executive route; Supreme Court and
+  High Court directions under Articles 32 and 226 remain an exceptional constitutional caveat.
 
 ## 9. Current application
 
 | Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| 📰 Lokpal's enacted composition and current officeholders (Chairperson Justice A.M. Khanwilkar since 10 March 2024; first Chairperson appointed 19 March 2019) | Anchor comparison with the ARC's 2007 design, and illustrate the enactment-versus-operation gap; verify the officeholder and vacancies from lokpal.gov.in on the date of use. |
+| 📰 Lokpal Circular No. 01/2026 dated 24 July 2026 sets procedures concerning complaints, listing of matters, uploading of orders and Section 14 jurisdiction | Use as a procedural-transparency anchor without treating listing or an uploaded order as proof of guilt. |
+| 📰 Official Financial Year 2025-26 data record 558 complaints received, 431 registered, 407 registered complaints disposed, 81 preliminary inquiries, 8 investigations, 0 prosecution sanctions, 2 disciplinary directions and 99 pending complaints | Preserve the report's category labels. These administrative counts are not automatically one cohort and do not by themselves prove corruption prevalence or institutional effectiveness. |
 
 ## 10. PYQ-based analytical application
 
@@ -192,8 +198,8 @@ State-level institutional multiplicity remains a substantially unresolved struct
    coverage demand).
 4. Assess the trade-offs of each design (lean/independent vs broad/representative; PM-jurisdiction
    continuity risk vs accountability).
-5. Recommend a specific, coherence-improving reform (State Lokayukta standardisation, CVC-CBI-
-   Lokpal coordination protocol).
+5. Recommend a specific, coherence-improving reform (common minimum State safeguards through
+   State law, CVC-CBI-Lokpal referral protocols, secure records and stage-wise reporting).
 
 ## 12. Probable questions
 

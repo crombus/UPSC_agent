@@ -2,7 +2,7 @@
 
 > **Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I + Prelims.
 > **Core area:** Cinema as a modern Indian art form; film language; institutions, certification, preservation, festivals and national/international awards.
-> **Grounded in:** Cinematograph Act and official Ministry of Information and Broadcasting/CBFC/NFDC material; BAFTA 2026 Children's & Family Film result; official 2026 Prelims Set-A scan. Current award facts verified 2 Aug 2026.
+> **Grounded in:** Cinematograph Act incorporating the 2023 amendment and official Ministry of Information and Broadcasting/CBFC/NFDC material; BAFTA 2026 Children's & Family Film result; official 2026 Prelims Set-A scan. Current law, institution and award facts verified 4 September 2026.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = dated current anchor | ❌ = trap.
 > *Companion: `advanced/15_Indian-Cinema-Film-Institutions-and-Awards.md`.*
 
@@ -41,8 +41,8 @@ cinema -> mass circulation -> memory, identity and soft power
 |---|---|
 | ✅ Ministry of Information and Broadcasting | Union policy and administrative anchor for film and broadcasting. |
 | ✅ CBFC | Certifies films for public exhibition under the Cinematograph framework; it is not a film-award jury. |
-| 📰 FTII, Pune | **Training** — established **1960**, a society under the Societies Registration Act, 1860, under MIB (verified 13 August 2026; §11.5A). Neither regulator nor archive. |
-| 📰 NFAI | **Archiving/preservation** — established **1964** under MIB at Pune; **merged into NFDC with effect from 1 April 2022** along with the Films Division, the Directorate of Film Festivals and CFSI (verified 13 August 2026; §11.5A). |
+| 📰 FTII, Pune | **Training** — established **1960**, a society under the Societies Registration Act, 1860, under MIB (rechecked 4 September 2026; §11.5A). Neither regulator nor archive. |
+| 📰 NFAI | **Archiving/preservation** — established **1964** under MIB at Pune; its functions were consolidated into NFDC with those of Films Division, the Directorate of Film Festivals and CFSI following the Government's 23 December 2020 decision (rechecked 4 September 2026; §11.5A). |
 | ✅ NFDC | Public-sector film-development and promotion institution with film-production, market/festival and preservation-related functions under the current consolidated architecture. |
 | ✅ National Film Awards | Indian national recognition across feature, non-feature and cinema-writing categories under the official awards framework. |
 | ✅ Dadasaheb Phalke Award | **Instituted 1969**; India's highest award in cinema, commemorating Dadasaheb Phalke (1870-1944), maker of *Raja Harishchandra* (1913); awarded by the Directorate of Film Festivals (*Nitin…pdf*, PDF p. 977). |
@@ -66,6 +66,10 @@ cinema -> mass circulation -> memory, identity and soft power
 - ✅ The question tests the award, director and claimed Indian milestone as separate statements.
 - ⚠️ Preserve the exact category. "Won a BAFTA" is too broad for statement elimination.
 - ⚠️ "First Indian film" claims must be tied to the exact category and dated source, not expanded into "first Indian film ever to receive any BAFTA recognition."
+- 📰 MIB's latest located official Dadasaheb Phalke announcement, rechecked
+  **4 September 2026**, names **Mohanlal** for award year **2023** during
+  the 71st National Film Awards. This does not authorise an invented 2026
+  recipient or a claim that award year and ceremony year are identical.
 
 ## 6. Must-know traps
 
@@ -102,24 +106,24 @@ cinema -> mass circulation -> memory, identity and soft power
 - ✅ **Federal split:** certification is a Union subject, but **enforcement
   of censorship in their respective domains lies with the State
   governments** (*Nitin…pdf*, PDF p. 575).
-- ✅ **Categories:** originally **U** (universal) and **A** (adults only);
-  in **1983** the Cinematograph (Certification) Rules added **UA**
-  (unrestricted, with parental guidance for children under 12) and **S**
-  (restricted to a specialised audience such as doctors or engineers)
-  (*Nitin…pdf*, PDF pp. 575-576).
-- ✅ **Appeal:** the **Film Certification Appellate Tribunal (FCAT)** was
-  established under section 5D of the 1952 Act to hear appeals against
-  Board decisions (*Nitin…pdf*, PDF p. 576). ⚠️ This is the book's
-  description of the statutory scheme; verify FCAT's **current** existence
-  and any later sub-categorisation of certificates against a dated official
-  source before presenting either as today's position.
+- ✅ **Current categories:** the amended Act retains **U**, **A** and **S**
+  and uses age-based **UA7+**, **UA13+** and **UA16+** markers. The marker
+  guides a parent or lawful guardian; it is not a fresh award category
+  (official MIB text of the Cinematograph Act incorporating the 2023
+  amendment, verified **4 September 2026**).
+- ✅ **Current appeal route:** section **5C** permits an appeal to the
+  **High Court**. Section **5D**, which formerly constituted the Film
+  Certification Appellate Tribunal, was omitted by the Tribunals Reforms
+  Act, 2021 with retrospective effect from **4 April 2021** (official MIB
+  consolidated Act, verified **4 September 2026**). ❌ Do not describe
+  FCAT as a current tribunal.
 - ✅ **CBFC institutional detail:** set up in **1950** as the Central Board
   of Film Censors and renamed under the 1952 Act; directly under the
   Ministry of Information and Broadcasting; head office in Mumbai with
-  regional offices at Delhi, Kolkata, Chennai, Bengaluru, Guwahati,
-  Cuttack, Thiruvananthapuram and Hyderabad; Chairman and members appointed
-  by the government, usually for three years or more (*Nitin…pdf*, PDF pp.
-  576-577).
+  **nine regional offices** at Mumbai, Kolkata, Chennai, Bengaluru,
+  Thiruvananthapuram, Hyderabad, New Delhi, Cuttack and Guwahati, plus a
+  regional facilitation office at Chandigarh (MIB, verified **4 September
+  2026**). Chairman and members are appointed by the Central Government.
 - ✅ **Scope:** all films need a certificate, including imported foreign
   films and films dubbed into another language, which need a fresh
   certificate; films made specially for Doordarshan are the exception;
@@ -155,7 +159,7 @@ cinema -> mass circulation -> memory, identity and soft power
   representation, not as social history.
 - ⚠️ **Regional plurality:** Indian cinema is multilingual by structure, not
   by exception — *Premsagar* (1939) as the first South Indian film, the
-  CBFC's eight regional offices dealing specifically with regional films,
+  CBFC's nine regional offices dealing with a multilingual film field,
   and the fresh-certificate requirement for dubbed versions all evidence a
   film field administered as many language markets rather than one.
   ❌ Do not equate Indian cinema with Hindi-language cinema.
@@ -266,7 +270,7 @@ cinema -> mass circulation -> memory, identity and soft power
 | CBFC | Certifies films for public exhibition; may require modification or refuse sanction; under MIB; Mumbai head office with eight regional offices | Not a jury, not a quality assessor |
 | State governments | Enforce censorship within their domains | Do not certify |
 | Cable Television Network (Regulation) Act, 1995 | Governs cable TV programme and advertisement content | Not CBFC certification; its offences are non-cognisable |
-| FCAT (s. 5D) | Statutory appeal against Board decisions, as described in the book | ⚠️ Current status must be verified against a dated source |
+| High Court appeal (s. 5C) | Current statutory appeal against specified Board decisions | Section 5D's former FCAT, omitted in 2021 |
 | National Film Awards | National recognition across feature, non-feature and cinema-writing categories | Not certification |
 | IFFI | International festival platform hosted in India | Selection ≠ prize |
 | BAFTA / Academy Awards / Cannes-Venice-Berlin | Separate award systems and festival prizes of distinct institutions | Not interchangeable with one another |
@@ -284,9 +288,9 @@ cinema -> mass circulation -> memory, identity and soft power
 
 | Function | ✅ Institution | ✅ What is verified, and by whom | ⚠️ Status discipline |
 |---|---|---|---|
-| **Certification** | **Central Board of Film Certification (CBFC)** | ✅ Set up in **1950** as the **Central Board of Film Censors**; renamed under the **Cinematograph Act, 1952**; directly under the **Ministry of Information and Broadcasting**; head office in **Mumbai**, with regional offices at **Delhi, Kolkata, Chennai, Bengaluru, Guwahati, Cuttack, Thiruvananthapuram and Hyderabad**; a film cannot be screened in theatres without its certificate (*Nitin…pdf*, PDF p. 576). ✅ The 1952 Act provides for a Chairman and a body of **not less than 12 and not more than 25** members appointed by the Central Government (PDF p. 575), and for the **Film Certification Appellate Tribunal (FCAT)** under **section 5D** (PDF p. 576) | ✅ Statute, founding years and regional-office list are **stable**. ⚠️ **FCAT's current existence must be verified against a dated official source before it is asserted in the present tense** (§11.8) |
-| **Training** | **Film and Television Institute of India (FTII), Pune** | 📰 **Established 1960**; functions as a **society registered under the Societies Registration Act, 1860**, under the **Ministry of Information and Broadcasting** (Government of India material, verified **13 August 2026**). ⚠️ **The locally held source does not carry FTII at all** — this row is externally sourced and is tagged accordingly | ⚠️ ❌ Do not state FTII's courses, intake, campus history, notable alumni, directors or any controversy; none is verified here. ✅ Its examinable point is **functional**: India's film-training institution is **neither the regulator nor the archive** |
-| **Archiving / preservation** | **National Film Archive of India (NFAI)** | 📰 **Established 1964** as a unit under the **Ministry of Information and Broadcasting**, at **Pune**, for film preservation. 📰 **Merged into the National Film Development Corporation (NFDC)** with effect from **1 April 2022**, together with the **Films Division**, the **Directorate of Film Festivals** and the **Children's Film Society, India** — a Ministry of Information and Broadcasting decision consolidating preservation, documentary/short-film production and festival organisation under **NFDC**, with asset ownership remaining with the Government of India (verified **13 August 2026**) | ⚠️ **This is the file's most dynamic institutional fact and the reason the §3 table says "under the current consolidated architecture."** ✅ Safe formulation: "film preservation was institutionally housed in the **NFAI (1964)** and, following the **2022 consolidation**, sits within **NFDC**." ❌ Do not state archive holdings, reel counts, restoration project names or budgets |
+| **Certification** | **Central Board of Film Certification (CBFC)** | ✅ Set up in **1950** as the **Central Board of Film Censors**; renamed under the **Cinematograph Act, 1952**; directly under the **Ministry of Information and Broadcasting**; headquarters in **Mumbai**, with nine regional offices and a Chandigarh facilitation office; a film cannot be screened publicly without certification. ✅ The Board has a Chairman and **not less than 12 and not more than 25** members. 📰 The amended Act uses **UA7+**, **UA13+** and **UA16+** markers, sends section **5C** appeals to the **High Court**, and records section **5D's FCAT as omitted in 2021** (official MIB sources verified **4 September 2026**) | ✅ Founding and statutory history remain distinct from current procedure. ❌ Do not use the book's former FCAT route as today's law |
+| **Training** | **Film and Television Institute of India (FTII), Pune** | 📰 **Established 1960**; functions as a **society registered under the Societies Registration Act, 1860**, under the **Ministry of Information and Broadcasting** (Government of India material rechecked **4 September 2026**). ⚠️ **The locally held source does not carry FTII at all** — this row is externally sourced and is tagged accordingly | ⚠️ ❌ Do not state FTII's courses, intake, campus history, notable alumni, directors or any controversy; none is verified here. ✅ Its examinable point is **functional**: India's film-training institution is **neither the regulator nor the archive** |
+| **Archiving / preservation** | **National Film Archive of India (NFAI)** | 📰 **Established 1964** as a unit under the **Ministry of Information and Broadcasting**, at **Pune**, for film preservation. 📰 MIB's page records the Government's **23 December 2020** decision merging the functions of NFAI, the **Films Division**, the **Directorate of Film Festivals** and the **Children's Film Society, India** into **NFDC** (rechecked **4 September 2026**) | ⚠️ **This is the file's most dynamic institutional fact and the reason the §3 table says "under the current consolidated architecture."** ✅ Safe formulation: "film preservation was institutionally housed in the **NFAI (1964)** and now sits within the consolidated **NFDC** architecture." ❌ Do not state archive holdings, reel counts, restoration project names or budgets |
 | **Development / production** | **NFDC** | ✅ Public-sector film-development and promotion institution with production, market/festival and preservation-related functions under the current consolidated architecture (§3) | ⚠️ Its mandate **widened** in 2022 by absorption, not by statute — say "consolidated," not "created" |
 | **Festival** | **International Film Festival of India (IFFI)** | ✅ International festival platform hosted in India (§§3, 4) | ❌ Selection or a premiere is **not** a prize |
 | **Awards** | **National Film Awards**; **Dadasaheb Phalke Award** | ✅ The **Dadasaheb Phalke Award**, **instituted 1969**, is "India's **highest award in cinema**," commemorating **Dadasaheb Phalke (1870-1944)**, maker of India's **first full-length feature film, *Raja Harishchandra* (1913)**; it is awarded by the **Directorate of Film Festivals** (*Nitin…pdf*, PDF p. 977) | ⚠️ **The awarding body is itself affected by the 2022 consolidation** — the Directorate of Film Festivals was among the units merged into NFDC. ✅ Cite the award, its year of institution and its namesake as **stable**; ⚠️ attach the **current** awarding arrangement only with a dated source. ❌ Do not name recent recipients from memory |
@@ -307,7 +311,7 @@ cinema -> mass circulation -> memory, identity and soft power
 - ❌ **Provenance flag for this bank.** The **CBFC**, **Cinematograph Act**
   and **Dadasaheb Phalke Award** rows come from the locally held
   *Nitin Singhania* PDF, pages cited. The **FTII** and **NFAI/NFDC** rows
-  come from **Government of India material verified 13 August 2026** and
+  come from **Government of India material rechecked 4 September 2026** and
   are marked 📰; the local PDF carries neither institution. Both must be
   cited with that status.
 
@@ -351,12 +355,12 @@ cinema -> mass circulation -> memory, identity and soft power
   with *Kisan Kanya* (1937, first indigenously made colour film).
 - ❌ Do not treat certification as an award, festival selection as a prize,
   or BAFTA and the Academy Awards as one institution.
-- ❌ Do not assert the current status of FCAT, current certificate
-  sub-categories, archive holdings or institutional mergers without a dated
-  official source. ✅ **§11.5A** now supplies the merger fact with its date
-  and verification (**NFAI, Films Division, DFF and CFSI into NFDC with
-  effect from 1 April 2022**, verified **13 August 2026**); cite it with
-  that status and re-verify before treating it as current.
+- ❌ Do not describe FCAT as current: the official consolidated Act records
+  section **5D as omitted in 2021**, while section **5C** sends appeals to
+  the **High Court**. ✅ Use **UA7+**, **UA13+** and **UA16+**, not a stale
+  undifferentiated UA-only account (MIB, verified **4 September 2026**).
+  ✅ **§11.5A** separately supplies the four-unit NFDC consolidation from
+  MIB's official page, rechecked on the same date.
 - ❌ **Institution prohibitions (§11.5A):** do not state FTII's courses,
   intake, alumni, directors or controversies; do not state NFAI holdings,
   reel counts, restoration projects or budgets; do not name recent
@@ -366,8 +370,10 @@ cinema -> mass circulation -> memory, identity and soft power
 - ❌ Do not state award winners, box-office figures, industry output or
   screen counts from memory; award and current lists must be **dated or
   bounded**.
-- ⚠️ The *Boong* facts in §5 carry a stated verification date (2 August
-  2026) and a category-specific milestone caution; keep both when citing.
+- ⚠️ The *Boong* facts in §5 and the latest located official Mohanlal
+  announcement carry the **4 September 2026** verification date. Keep the
+  exact BAFTA category and the Dadasaheb Phalke **award year 2023**
+  separate from ceremony date and from any future recipient.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
@@ -390,3 +396,38 @@ cinema -> mass circulation -> memory, identity and soft power
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** cinema as composite modern art; cinematography, editing,
+  mise-en-scene, documentary and animation; the 1896-1937 chronology of
+  distinct firsts; parallel cinema, representation and multilingual
+  production; certification, training, preservation, development, festivals
+  and awards.
+- **Source/inference control:** film print, credit, statute, certificate,
+  archive record, institutional page and exact award-category result are
+  evidence. Film representation is not a social census and an award is not a
+  universal measure of value.
+- **Date control:** exhibition, Indian-shot short, Indian-made short,
+  indigenous feature, talkie, colour-processing and indigenous-colour
+  milestones remain distinct; institutional founding, consolidation,
+  certificate rule and award year are separately dated.
+- **Geography control:** Bombay exhibition, Pune institutions and multiple
+  language markets remain specific; Indian cinema is not reduced to Hindi
+  cinema or Bollywood.
+- **Terminology/style control:** cinematography, editing and mise-en-scene;
+  certification, censorship, selection, nomination and winning; FTII, NFAI,
+  NFDC, IFFI, National Film Awards, BAFTA and Academy Awards are distinct.
+- **Boundary:** Topic 08 owns music systems, Topic 10 theatre, Topic 13
+  religious-cultural synthesis and Topic 14 heritage governance. Polity owns
+  the full free-speech doctrine.
+- **Verified PYQ ownership, 2018-2026:** zero direct GS-I Mains route is
+  claimed. The provisional 2026 Boong objective route retains category,
+  credited person and claimed milestone as separate statements with no
+  inferred answer letter.
+- **Live status, rechecked 2026-09-04:** the amended Cinematograph Act uses
+  UA7+, UA13+ and UA16+ markers and sends section 5C appeals to the High
+  Court; section 5D's FCAT was omitted in 2021. MIB confirms the four-unit
+  NFDC consolidation; BAFTA lists Boong in Children's and Family Film; MIB's
+  latest located official Dadasaheb Phalke announcement names Mohanlal for
+  award year 2023, not an invented 2026 recipient.

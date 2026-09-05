@@ -1,0 +1,973 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-23",
+  "subject": "Economy",
+  "title": "POVERTY, INEQUALITY, SOCIAL SECTOR AND INCLUSIVE GROWTH",
+  "short_route": "POVERTY AND INEQUALITY MAP → POVERTY-MEASURE LADDER → METHODOLOGY CLOCK → COMMITTEE DISTINCTION → LORENZ AND GINI MAP → MPI CONSTRUCTION RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\Subject-Wide-Syllabus\\learning-sessions\\economy-23\\economy-23_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-23-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "1a1585a2655e53744eb6cffac3063395e8210734fefe337692f8f5eb67be82e3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POVERTY AND INEQUALITY MAP",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POVERTY AND INEQUALITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "THRESHOLD SHORTFALL",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTIONAL DISPERSION",
+          "role": "comparison"
+        },
+        {
+          "text": "BOTH CAN MOVE DIFFERENTLY",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE METRIC + DATA BASE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "POVERTY → threshold shortfall",
+        "INEQUALITY → distributional dispersion",
+        "BOTH can move differently",
+        "STATE metric + data base"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "POVERTY → threshold shortfall",
+          "BOTH can move differently",
+          "POVERTY → threshold shortfall"
+        ],
+        [
+          "INEQUALITY → distributional dispersion",
+          "STATE metric + data base",
+          "INEQUALITY → distributional dispersion"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "POVERTY → threshold shortfall",
+            "INEQUALITY → distributional dispersion"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BOTH can move differently",
+            "STATE metric + data base"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "POVERTY → threshold shortfall",
+            "INEQUALITY → distributional dispersion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOTH can move differently; STATE metric + data base.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "POVERTY-MEASURE LADDER",
+      "structural_type": "measurement-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POVERTY-MEASURE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "POVERTY GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTION AMONG POOR",
+          "role": "comparison"
+        },
+        {
+          "text": "MULTIPLE DEPRIVATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HEADCOUNT → incidence",
+        "POVERTY GAP → depth",
+        "SEVERITY → distribution among poor",
+        "MPI → multiple deprivations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "HEADCOUNT → incidence",
+            "POVERTY GAP → depth"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "SEVERITY → distribution among poor",
+            "MPI → multiple deprivations"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "HEADCOUNT → incidence",
+            "POVERTY GAP → depth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEVERITY → distribution among poor; MPI → multiple deprivations.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "METHODOLOGY CLOCK",
+      "structural_type": "vintage-strip",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "METHODOLOGY CLOCK",
+          "role": "primary"
+        },
+        {
+          "text": "LINE + BASKET",
+          "role": "outcome"
+        },
+        {
+          "text": "PRICE BASIS + SURVEY",
+          "role": "comparison"
+        },
+        {
+          "text": "REFERENCE PERIOD",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPARABILITY BEFORE TREND",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LINE + BASKET",
+        "PRICE BASIS + SURVEY",
+        "REFERENCE PERIOD",
+        "COMPARABILITY before trend"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "LINE + BASKET",
+            "PRICE BASIS + SURVEY"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "REFERENCE PERIOD",
+            "COMPARABILITY before trend"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "LINE + BASKET",
+            "PRICE BASIS + SURVEY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRICE BASIS + SURVEY; REFERENCE PERIOD; COMPARABILITY before trend.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COMMITTEE DISTINCTION",
+      "structural_type": "comparison-board",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMMITTEE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE METHODOLOGY VINTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "REVISED BASKET + THRESHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "NO TIMELESS CURRENT LINE",
+          "role": "caution"
+        },
+        {
+          "text": "ATTRIBUTE EVERY ESTIMATE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TENDULKAR → one methodology vintage",
+        "RANGARAJAN → revised basket + threshold",
+        "NO TIMELESS current line",
+        "ATTRIBUTE every estimate"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "TENDULKAR → one methodology vintage",
+          "NO TIMELESS current line",
+          "TENDULKAR → one methodology vintage"
+        ],
+        [
+          "RANGARAJAN → revised basket + threshold",
+          "ATTRIBUTE every estimate",
+          "RANGARAJAN → revised basket + threshold"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "TENDULKAR → one methodology vintage",
+            "RANGARAJAN → revised basket + threshold"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NO TIMELESS current line",
+            "ATTRIBUTE every estimate"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "TENDULKAR → one methodology vintage",
+            "RANGARAJAN → revised basket + threshold"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RANGARAJAN → revised basket + threshold; NO TIMELESS current line; ATTRIBUTE every estimate.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LORENZ AND GINI MAP",
+      "structural_type": "concept-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LORENZ AND GINI MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PERFECT-EQUALITY LINE",
+          "role": "outcome"
+        },
+        {
+          "text": "LORENZ CURVE",
+          "role": "comparison"
+        },
+        {
+          "text": "GINI SUMMARY",
+          "role": "evidence"
+        },
+        {
+          "text": "WEALTH DIFFER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PERFECT-EQUALITY LINE",
+        "LORENZ CURVE",
+        "AREA → GINI summary",
+        "INCOME / CONSUMPTION / WEALTH differ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "PERFECT-EQUALITY LINE",
+            "LORENZ CURVE"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "AREA → GINI summary",
+            "INCOME / CONSUMPTION / WEALTH differ"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "PERFECT-EQUALITY LINE",
+            "LORENZ CURVE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AREA → GINI summary; INCOME / CONSUMPTION / WEALTH differ.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MPI CONSTRUCTION RAIL",
+      "structural_type": "formula-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MPI CONSTRUCTION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "12 INDICATORS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPRIVATION SCORE",
+          "role": "comparison"
+        },
+        {
+          "text": "H HEADCOUNT + A INTENSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "H X A",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "12 INDICATORS",
+        "deprivation score",
+        "H headcount + A intensity",
+        "MPI = H x A"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "12 INDICATORS",
+            "deprivation score"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "H headcount + A intensity",
+            "MPI = H x A"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "12 INDICATORS",
+            "deprivation score"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "H headcount + A intensity; MPI = H x A.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MPI VINTAGE BOUNDARY",
+      "structural_type": "status-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MPI VINTAGE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "NFHS-5 2019-21",
+          "role": "outcome"
+        },
+        {
+          "text": "OBSERVED BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECTED ESTIMATE",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT FRESH SURVEY",
+          "role": "caution"
+        },
+        {
+          "text": "COMPARE EDITIONS CAUTIOUSLY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NFHS-5 2019-21 → observed base",
+        "2022-23 → projected estimate",
+        "NOT fresh survey",
+        "COMPARE editions cautiously"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "NFHS-5 2019-21 → observed base",
+            "2022-23 → projected estimate"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NOT fresh survey",
+            "COMPARE editions cautiously"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "NFHS-5 2019-21 → observed base",
+            "2022-23 → projected estimate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2022-23 → projected estimate; NOT fresh survey; COMPARE editions cautiously.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INCLUSIVE-GROWTH ENGINE",
+      "structural_type": "cause-effect-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INCLUSIVE-GROWTH ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTIVE JOBS + ASSETS",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALITY HEALTH + EDUCATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REDISTRIBUTION + PROTECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPABILITY + MOBILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRODUCTIVE JOBS + ASSETS",
+        "QUALITY HEALTH + EDUCATION",
+        "REDISTRIBUTION + PROTECTION",
+        "CAPABILITY + MOBILITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "PRODUCTIVE JOBS + ASSETS",
+            "QUALITY HEALTH + EDUCATION"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "REDISTRIBUTION + PROTECTION",
+            "CAPABILITY + MOBILITY"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "PRODUCTIVE JOBS + ASSETS",
+            "QUALITY HEALTH + EDUCATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALITY HEALTH + EDUCATION; REDISTRIBUTION + PROTECTION; CAPABILITY + MOBILITY.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SOCIAL-SPENDING RESULTS CHAIN",
+      "structural_type": "results-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SOCIAL-SPENDING RESULTS CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SERVICE ACCESS + QUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "HOUSEHOLD OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "RELEASE → SPENDING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELEASE → SPENDING",
+        "SERVICE ACCESS + QUALITY",
+        "HOUSEHOLD OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "RELEASE → SPENDING",
+            "SERVICE ACCESS + QUALITY"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "HOUSEHOLD OUTCOME",
+            "RELEASE → SPENDING"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "SERVICE ACCESS + QUALITY",
+            "HOUSEHOLD OUTCOME"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELEASE → SPENDING; SERVICE ACCESS + QUALITY; HOUSEHOLD OUTCOME.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROTECTION ARCHITECTURE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PROTECTION ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "POOLED RISK",
+          "role": "caution"
+        },
+        {
+          "text": "UNIVERSAL SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCLUSION RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ASSISTANCE → need/category",
+        "INSURANCE → pooled risk",
+        "UNIVERSAL SERVICES → broad access",
+        "TARGETING → exclusion risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "ASSISTANCE → need/category",
+            "INSURANCE → pooled risk"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "UNIVERSAL SERVICES → broad access",
+            "TARGETING → exclusion risk"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "ASSISTANCE → need/category",
+            "INSURANCE → pooled risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNIVERSAL SERVICES → broad access; TARGETING → exclusion risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "NAMED INSTRUMENT BOUNDARY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NAMED INSTRUMENT BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "WORK GUARANTEE",
+          "role": "outcome"
+        },
+        {
+          "text": "FOOD ENTITLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "HEALTH INSURANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "HOSPITALISATION PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS + USAGE + QUALITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MGNREGA → work guarantee",
+        "NFSA → food entitlement",
+        "HEALTH INSURANCE → hospitalisation protection",
+        "FINANCE → access + usage + quality"
+      ],
+      "matrix": [
+        [
+          "MEASURE / INSTITUTION",
+          "DECISIVE DISTINCTION",
+          "VINTAGE / LEGAL LIMIT"
+        ],
+        [
+          "MGNREGA → work guarantee",
+          "HEALTH INSURANCE → hospitalisation protection",
+          "MGNREGA → work guarantee"
+        ],
+        [
+          "NFSA → food entitlement",
+          "FINANCE → access + usage + quality",
+          "NFSA → food entitlement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MEASURE / INSTITUTION",
+          "role": "primary",
+          "items": [
+            "MGNREGA → work guarantee",
+            "NFSA → food entitlement"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HEALTH INSURANCE → hospitalisation protection",
+            "FINANCE → access + usage + quality"
+          ]
+        },
+        {
+          "heading": "VINTAGE / LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "MGNREGA → work guarantee",
+            "NFSA → food entitlement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HEALTH INSURANCE → hospitalisation protection; FINANCE → access + usage + quality.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INCLUSIVE-GROWTH ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INCLUSIVE-GROWTH ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "FIX METRIC + VINTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE JOBS + SERVICES + TRANSFERS",
+          "role": "comparison"
+        },
+        {
+          "text": "DISAGGREGATE GROUPS + PLACES",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE CAPABILITY + RESILIENCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FIX metric + vintage",
+        "TRACE jobs + services + transfers",
+        "DISAGGREGATE groups + places",
+        "CONCLUDE capability + resilience"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / ACCOUNTING BASIS",
+          "role": "primary",
+          "items": [
+            "FIX metric + vintage",
+            "TRACE jobs + services + transfers"
+          ]
+        },
+        {
+          "heading": "TRANSMISSION / RECONCILIATION",
+          "role": "mechanism",
+          "items": [
+            "DISAGGREGATE groups + places",
+            "CONCLUDE capability + resilience"
+          ]
+        },
+        {
+          "heading": "DISTRIBUTIONAL / STABILITY LIMIT",
+          "role": "caution",
+          "items": [
+            "FIX metric + vintage",
+            "TRACE jobs + services + transfers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISAGGREGATE groups + places; CONCLUDE capability + resilience.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "GROWTH ELASTICITY OF POVERTY DEPENDS ON INITIAL INEQUALITY, SECTORAL",
+          "role": "outcome"
+        },
+        {
+          "text": "HORIZONTAL INEQUALITY ACROSS SOCIAL GROUPS CAN AFFECT TRUST AND",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFIT INCIDENCE ASKS WHO ACTUALLY RECEIVES THE VALUE OF",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCLUSION, INCLUSION AND TRANSACTION COSTS DETERMINE TARGETING PERFORMANCE.",
+          "role": "primary"
+        },
+        {
+          "text": "SHOCK-RESPONSIVE SOCIAL PROTECTION SHOULD EXPAND DURING CLIMATE, HEALTH OR",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL SPACE FOR INCLUSION GROWS THROUGH TAX CAPACITY, REPRIORITISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NITI AAYOG AND STATISTICAL AGENCIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL MODEL / MEASUREMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Growth elasticity of poverty depends on initial inequality, sectoral growth and labour",
+            "CAUTION: Horizontal inequality across social groups can affect trust and mobility beyond",
+            "CAUTION: Benefit incidence asks who actually receives the value of public spending.",
+            "CAUTION: Exclusion, inclusion and transaction costs determine targeting performance."
+          ]
+        },
+        {
+          "heading": "VINTAGE, BASKET OR LEGAL LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Shock-responsive social protection should expand during climate, health or employment",
+            "CAUTION: Fiscal space for inclusion grows through tax capacity, reprioritisation and higher",
+            "NITI Aayog and statistical agencies: track multidimensional poverty and development",
+            "Union and state social-sector departments: finance and deliver health, education,"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE POLICY NUANCE",
+          "role": "comparison",
+          "items": [
+            "Local governments and frontline systems: determine last-mile access, quality and",
+            "Finance Commissions and budget institutions: shape the fiscal capacity available for",
+            "CAUTION: Poverty can decline while inequality rises if all incomes grow but gains are",
+            "CAUTION: A cash transfer can protect consumption during a shock but cannot substitute for a"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

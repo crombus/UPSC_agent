@@ -422,3 +422,29 @@ intact.
   page before citing specifics.
 - ⚠️ Do not state building costs, floor areas, or dates of individual
   colonial structures beyond those recorded above.
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Portuguese, French and British colonial forms; Indo-Gothic,
+  Indo-Saracenic and imperial New Delhi; post-1947 Revivalist/Modernist
+  debates; named architects, climate, material, client and public purpose.
+- **Source/inference control:** plans, buildings, official award records and
+  named commissions are evidence; decolonisation, revival and rupture are
+  qualified interpretations rather than complete labels for every architect.
+- **Date control:** colonial urban phases, the 1911 capital shift, Lutyens-
+  Baker New Delhi, Chandigarh, later Indian modernisms, awards and current
+  building use/status remain separate.
+- **Geography control:** Goa, Puducherry, Mumbai, Kolkata, New Delhi,
+  Chandigarh and climate-responsive regional practice retain distinct urban
+  and material settings.
+- **Terminology/style control:** Baroque, Cartesian grid, Indo-Gothic,
+  Indo-Saracenic, Neo-Classical, Brutalist and climate-responsive modernism
+  are compared by plan, structure, ornament, material and patronage.
+- **Iconography control:** architectural symbolism and integrated ornament
+  belong here; Topic 06 owns sculpture/iconography outside the building
+  programme.
+- **Boundary:** Modern History owns imperial and post-Independence political
+  chronology. Topic 14 owns institutional policy, conservation law and all
+  changeable heritage status.
+- **Verified PYQ ownership, 2018-2026:** zero direct 2018-2026 routes are
+  claimed; every supplied Mains demand is labelled original practice.

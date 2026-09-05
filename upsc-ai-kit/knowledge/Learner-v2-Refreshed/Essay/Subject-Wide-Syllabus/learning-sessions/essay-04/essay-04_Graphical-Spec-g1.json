@@ -1,0 +1,1021 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "essay-04",
+  "subject": "Essay",
+  "title": "BRAINSTORMING AND DIMENSIONAL EXPANSION",
+  "short_route": "DIVERGENT-TO-CONVERGENT FUNNEL → ACTOR LADDER → SCALE-TIME MATRIX → DOMAIN SEARCH FIELD → CAUSAL ARCHITECTURE → DIRECTION TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Essay\\Subject-Wide-Syllabus\\learning-sessions\\essay-04\\essay-04_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\essay-04-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "69d69a4cbc35a7806f6a47fc4aa0cc9002c8ac20550923c659a329beff28e655",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DIVERGENT-TO-CONVERGENT FUNNEL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIVERGENT-TO-CONVERGENT FUNNEL",
+          "role": "primary"
+        },
+        {
+          "text": "DECODED PROMPT",
+          "role": "outcome"
+        },
+        {
+          "text": "GENERATE CANDIDATE CLAIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "MECHANISM + EVIDENCE + LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "COHERENT ARGUMENT CLUSTERS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DECODED PROMPT",
+        "DIVERGE → generate candidate claims",
+        "FILTER → mechanism + evidence + limit",
+        "CONVERGE → coherent argument clusters"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "DECODED PROMPT",
+            "DIVERGE → generate candidate claims"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "FILTER → mechanism + evidence + limit",
+            "CONVERGE → coherent argument clusters"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "DECODED PROMPT",
+            "DIVERGE → generate candidate claims"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FILTER → mechanism + evidence + limit; CONVERGE → coherent argument clusters.",
+      "source_references": [
+        "Divergent pass",
+        "Convergent pass"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ACTOR LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ACTOR LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "FAMILY OR COMMUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP ONLY",
+          "role": "evidence"
+        },
+        {
+          "text": "LEVELS THAT CHANGE CLAIM OR MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "INDIVIDUAL → FAMILY OR COMMUNITY",
+        "INSTITUTION → STATE",
+        "GLOBAL ORDER → CIVILISATION",
+        "KEEP ONLY → levels that change claim or mechanism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "INDIVIDUAL → FAMILY OR COMMUNITY",
+            "INSTITUTION → STATE"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "GLOBAL ORDER → CIVILISATION",
+            "KEEP ONLY → levels that change claim or mechanism"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "INDIVIDUAL → FAMILY OR COMMUNITY",
+            "INSTITUTION → STATE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "KEEP ONLY → levels that change claim or mechanism.",
+      "source_references": [
+        "Actor axis",
+        "Mechanism test"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SCALE-TIME MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCALE-TIME MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL TO NATIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PROXIMITY AND INSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL TO CIVILISATIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "SYSTEMS AND LONG-RUN PATTERN",
+          "role": "primary"
+        },
+        {
+          "text": "PAST TO PRESENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINUITY AND CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "PLAUSIBLE TRAJECTORY, NOT PREDICTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LOCAL TO NATIONAL → proximity and institutions",
+        "GLOBAL TO CIVILISATIONAL → systems and long-run pattern",
+        "PAST TO PRESENT → continuity and change",
+        "FUTURE → plausible trajectory, not prediction"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "LOCAL TO NATIONAL → proximity and institutions",
+          "PAST TO PRESENT → continuity and change",
+          "LOCAL TO NATIONAL → proximity and institutions"
+        ],
+        [
+          "GLOBAL TO CIVILISATIONAL → systems and long-run pattern",
+          "FUTURE → plausible trajectory, not prediction",
+          "GLOBAL TO CIVILISATIONAL → systems and long-run pattern"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "LOCAL TO NATIONAL → proximity and institutions",
+            "GLOBAL TO CIVILISATIONAL → systems and long-run pattern"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PAST TO PRESENT → continuity and change",
+            "FUTURE → plausible trajectory, not prediction"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCAL TO NATIONAL → proximity and institutions",
+            "GLOBAL TO CIVILISATIONAL → systems and long-run pattern"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GLOBAL TO CIVILISATIONAL → systems and long-run pattern.",
+      "source_references": [
+        "Scale axis",
+        "Time axis"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DOMAIN SEARCH FIELD",
+      "structural_type": "radial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DOMAIN SEARCH FIELD",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL + ECONOMIC + POLITICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ETHICAL + CULTURAL",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOLOGICAL + ECOLOGICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "LENS EARNS ENTRY ONLY THROUGH A DISTINCT CLAIM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SOCIAL + ECONOMIC + POLITICAL",
+        "ETHICAL + CULTURAL",
+        "TECHNOLOGICAL + ECOLOGICAL",
+        "RULE → lens earns entry only through a distinct claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "SOCIAL + ECONOMIC + POLITICAL",
+            "ETHICAL + CULTURAL"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "TECHNOLOGICAL + ECOLOGICAL",
+            "RULE → lens earns entry only through a distinct claim"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "SOCIAL + ECONOMIC + POLITICAL",
+            "ETHICAL + CULTURAL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → lens earns entry only through a distinct claim.",
+      "source_references": [
+        "Domain axis",
+        "Value-institution-technology-environment pass"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CAUSAL ARCHITECTURE",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CAUSAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "IMMEDIATE CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "STRUCTURAL CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "DISTRIBUTIONAL EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT EVERY PROMPT REQUIRES THE WHOLE CHAIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IMMEDIATE CAUSE → STRUCTURAL CAUSE",
+        "IMPACT → DISTRIBUTIONAL EFFECT",
+        "RESPONSE → FEEDBACK",
+        "LIMIT → not every prompt requires the whole chain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "IMMEDIATE CAUSE → STRUCTURAL CAUSE",
+            "IMPACT → DISTRIBUTIONAL EFFECT"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE → FEEDBACK",
+            "LIMIT → not every prompt requires the whole chain"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "IMMEDIATE CAUSE → STRUCTURAL CAUSE",
+            "IMPACT → DISTRIBUTIONAL EFFECT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → not every prompt requires the whole chain.",
+      "source_references": [
+        "Causality axis",
+        "Distribution axis",
+        "Cause-impact-response boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DIRECTION TEST",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIRECTION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "INTENDED BENEFIT",
+          "role": "outcome"
+        },
+        {
+          "text": "UNINTENDED CONSEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO GAINS OR LOSES",
+          "role": "evidence"
+        },
+        {
+          "text": "CONDITIONS CHANGING THE BALANCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INTENDED BENEFIT",
+        "UNINTENDED CONSEQUENCE",
+        "WHO GAINS OR LOSES",
+        "SYNTHESIS → conditions changing the balance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "INTENDED BENEFIT",
+            "UNINTENDED CONSEQUENCE"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "WHO GAINS OR LOSES",
+            "SYNTHESIS → conditions changing the balance"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "INTENDED BENEFIT",
+            "UNINTENDED CONSEQUENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHO GAINS OR LOSES; SYNTHESIS → conditions changing the balance.",
+      "source_references": [
+        "Direction axis",
+        "Distribution axis"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FRAMEWORK FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FRAMEWORK FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "RECALL PROMPT",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTOR OR DOMAIN GRID",
+          "role": "comparison"
+        },
+        {
+          "text": "SEARCH AID",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPULSORY HEADINGS",
+          "role": "primary"
+        },
+        {
+          "text": "PROMPT-SPECIFIC CLAIMS WITHOUT VISIBLE TEMPLATE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PESTLE → recall prompt",
+        "ACTOR OR DOMAIN GRID → search aid",
+        "COMPULSORY HEADINGS → reject",
+        "OUTPUT → prompt-specific claims without visible template"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "PESTLE → recall prompt",
+          "COMPULSORY HEADINGS → reject",
+          "PESTLE → recall prompt"
+        ],
+        [
+          "ACTOR OR DOMAIN GRID → search aid",
+          "OUTPUT → prompt-specific claims without visible template",
+          "ACTOR OR DOMAIN GRID → search aid"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "PESTLE → recall prompt",
+            "ACTOR OR DOMAIN GRID → search aid"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMPULSORY HEADINGS → reject",
+            "OUTPUT → prompt-specific claims without visible template"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "PESTLE → recall prompt",
+            "ACTOR OR DOMAIN GRID → search aid"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPULSORY HEADINGS → reject; OUTPUT → prompt-specific claims without visible template.",
+      "source_references": [
+        "PESTLE boundary",
+        "Domain axis"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CLAIM DISTINCTION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLAIM DISTINCTION TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "WRITE ONE SENTENCE PER DIMENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME CLAIM IN NEW WORDS?",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW MECHANISM OR SCALE?",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO THESIS LINK?",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WRITE ONE SENTENCE PER DIMENSION",
+        "SAME CLAIM IN NEW WORDS? → DELETE",
+        "NEW MECHANISM OR SCALE? → CONTINUE",
+        "NO THESIS LINK? → PARK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "WRITE ONE SENTENCE PER DIMENSION",
+            "SAME CLAIM IN NEW WORDS? → DELETE"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NEW MECHANISM OR SCALE? → CONTINUE",
+            "NO THESIS LINK? → PARK"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "WRITE ONE SENTENCE PER DIMENSION",
+            "SAME CLAIM IN NEW WORDS? → DELETE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEW MECHANISM OR SCALE? → CONTINUE; NO THESIS LINK? → PARK.",
+      "source_references": [
+        "One-line claim test",
+        "Redundancy removal"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EVIDENCE-LIMIT CARD",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE-LIMIT CARD",
+          "role": "caution"
+        },
+        {
+          "text": "NAMED EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "LIMIT OR COUNTER-CASE",
+          "role": "caution"
+        },
+        {
+          "text": "COMPLETE CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "ELIGIBLE FOR PRIORITISATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CLAIM → MECHANISM",
+        "MECHANISM → NAMED EVIDENCE",
+        "EVIDENCE → LIMIT OR COUNTER-CASE",
+        "COMPLETE CARD → eligible for prioritisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PRINTED PROMPT / STARTING CLAIM",
+          "role": "evidence",
+          "items": [
+            "CLAIM → MECHANISM",
+            "MECHANISM → NAMED EVIDENCE"
+          ]
+        },
+        {
+          "heading": "DECODING / SCOPING / ARGUMENT MOVE",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE → LIMIT OR COUNTER-CASE",
+            "COMPLETE CARD → eligible for prioritisation"
+          ]
+        },
+        {
+          "heading": "COUNTER-CASE / QUALIFICATION / SYNTHESIS",
+          "role": "caution",
+          "items": [
+            "CLAIM → MECHANISM",
+            "MECHANISM → NAMED EVIDENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE → LIMIT OR COUNTER-CASE; COMPLETE CARD → eligible for prioritisation.",
+      "source_references": [
+        "Mechanism test",
+        "Evidence map",
+        "Limit map"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PRIORITISATION GRID",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRIORITISATION GRID",
+          "role": "primary"
+        },
+        {
+          "text": "THESIS RELEVANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH OR LOW",
+          "role": "comparison"
+        },
+        {
+          "text": "MECHANISM STRENGTH",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLEAR OR VAGUE",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE SAFETY",
+          "role": "evidence"
+        },
+        {
+          "text": "SECURE OR RISKY",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW ARGUMENT JOB",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THESIS RELEVANCE → high or low",
+        "MECHANISM STRENGTH → clear or vague",
+        "EVIDENCE SAFETY → secure or risky",
+        "NEW ARGUMENT JOB → distinct or redundant"
+      ],
+      "matrix": [
+        [
+          "PROMPT / METHOD MOVE",
+          "DECISIVE ESSAY DISTINCTION",
+          "DRIFT / EVIDENCE / RULE LIMIT"
+        ],
+        [
+          "THESIS RELEVANCE → high or low",
+          "EVIDENCE SAFETY → secure or risky",
+          "THESIS RELEVANCE → high or low"
+        ],
+        [
+          "MECHANISM STRENGTH → clear or vague",
+          "NEW ARGUMENT JOB → distinct or redundant",
+          "MECHANISM STRENGTH → clear or vague"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "PROMPT / METHOD MOVE",
+          "role": "primary",
+          "items": [
+            "THESIS RELEVANCE → high or low",
+            "MECHANISM STRENGTH → clear or vague"
+          ]
+        },
+        {
+          "heading": "DECISIVE ESSAY DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE SAFETY → secure or risky",
+            "NEW ARGUMENT JOB → distinct or redundant"
+          ]
+        },
+        {
+          "heading": "DRIFT / EVIDENCE / RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "THESIS RELEVANCE → high or low",
+            "MECHANISM STRENGTH → clear or vague"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE SAFETY → secure or risky; NEW ARGUMENT JOB → distinct or redundant.",
+      "source_references": [
+        "Prioritisation",
+        "Redundancy removal"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CLUSTER BUILDER",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CLUSTER BUILDER",
+          "role": "primary"
+        },
+        {
+          "text": "RELATED CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE MECHANISM CLUSTER",
+          "role": "mechanism"
+        },
+        {
+          "text": "CLUSTER ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "CLUSTER TWO",
+          "role": "primary"
+        },
+        {
+          "text": "EXPANSION OR COMPLICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CLUSTER THREE",
+          "role": "comparison"
+        },
+        {
+          "text": "COUNTER-VIEW AND SYNTHESIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELATED CLAIMS → one mechanism cluster",
+        "CLUSTER ONE → foundation",
+        "CLUSTER TWO → expansion or complication",
+        "CLUSTER THREE → counter-view and synthesis"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "RELATED CLAIMS → one mechanism cluster",
+            "CLUSTER ONE → foundation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "CLUSTER TWO → expansion or complication",
+            "CLUSTER THREE → counter-view and synthesis"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "RELATED CLAIMS → one mechanism cluster",
+            "CLUSTER ONE → foundation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLUSTER TWO → expansion or complication; CLUSTER THREE → counter-view and synthesis.",
+      "source_references": [
+        "Clustering",
+        "Argument sequence"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BRAINSTORMING ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BRAINSTORMING ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DIVERGE ACROSS ACTOR SCALE TIME DOMAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST CAUSALITY DISTRIBUTION AND DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WRITE CLAIMS",
+          "role": "evidence"
+        },
+        {
+          "text": "MAP EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MAP LIMITS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DIVERGE ACROSS ACTOR SCALE TIME DOMAIN",
+        "TEST CAUSALITY DISTRIBUTION AND DIRECTION",
+        "WRITE CLAIMS → MAP EVIDENCE → MAP LIMITS",
+        "PRIORITISE → CLUSTER → CUT → SEQUENCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "PROMPT READING / CENTRAL TENSION",
+          "role": "primary",
+          "items": [
+            "DIVERGE ACROSS ACTOR SCALE TIME DOMAIN",
+            "TEST CAUSALITY DISTRIBUTION AND DIRECTION"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / DIMENSION / EVIDENCE USE",
+          "role": "mechanism",
+          "items": [
+            "WRITE CLAIMS → MAP EVIDENCE → MAP LIMITS",
+            "PRIORITISE → CLUSTER → CUT → SEQUENCE"
+          ]
+        },
+        {
+          "heading": "TOPIC-DRIFT / ATTRIBUTION / FORMULA LIMIT",
+          "role": "caution",
+          "items": [
+            "DIVERGE ACROSS ACTOR SCALE TIME DOMAIN",
+            "TEST CAUSALITY DISTRIBUTION AND DIRECTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WRITE CLAIMS → MAP EVIDENCE → MAP LIMITS.",
+      "source_references": [
+        "Convergent pass",
+        "Argument sequence",
+        "Evidence map"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "GENUINE DIMENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "YIELDS A DISTINCT CLAIM, TESTABLE INDEPENDENTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "FALSE DIMENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "A RELABELLING OF AN EXISTING DIMENSION IN",
+          "role": "primary"
+        },
+        {
+          "text": "A GENERATIVE CATEGORY (SCALE, TIME, DOMAIN, DISTRIBUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "BREADTH VS. DEPTH",
+          "role": "comparison"
+        },
+        {
+          "text": "THE HIDDEN ASSUMPTION THAT MORE DIMENSIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INTERPRETIVE / DIALECTICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "Genuine dimension: yields a distinct claim, testable independently",
+            "False dimension: a relabelling of an existing dimension in",
+            "Axis: a generative category (scale, time, domain, distributional",
+            "Breadth vs. depth: the hidden assumption that more dimensions"
+          ]
+        },
+        {
+          "heading": "PROMPT, ATTRIBUTION OR OFFICIAL-RULE LIMIT",
+          "role": "caution",
+          "items": [
+            "Breadth vs. coherence: a distinct and more dangerous trade-off than",
+            "Template completeness vs. relevance: the assumption that every",
+            "NOT: Mechanical axis-listing (forcing scale, time, domain, and",
+            "NOT: Duplicate-claim padding. → Protocol: run the Section 6 filter"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE ARGUMENT / STRUCTURE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Ignoring the distributional axis on prompts that clearly need",
+            "Subject: Essay | Tier: Advanced | GS Paper: Essay (General Studies Paper — Essay, Mains).",
+            "Core area: Disciplined dimension-generation using scale, time, domain and distributional axes together; detecting and pruning false expansion.",
+            "Grounded in: UPSC Essay PYQ corpus — V1 directly verified locally for 2018–2025 and V2 carried-forward practice wording"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

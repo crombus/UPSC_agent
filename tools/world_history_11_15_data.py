@@ -1,0 +1,517 @@
+"""Authored content data for World History learner-v2 Topics 11-15."""
+
+from __future__ import annotations
+
+import generate_world_history_common as common
+from world_history_01_05_data import panel, plan
+
+
+TOPIC_11 = common.topic(
+    11,
+    "International Relations 1919-39",
+    "11_International-Relations-1919-39",
+    "11_International-Relations-1919-39_Complete-Topic-Package.md",
+    [
+        ("League founded, 10 January 1920", "The League of Nations formally began on 10 January 1920 to preserve peace through collective security and promote economic and social cooperation."),
+        ("League machinery and social work", "The Assembly, Council, Court, Secretariat and commissions supported genuine work on labour, refugees, health, mandates, minorities and disputed territories."),
+        ("League structural weaknesses", "The absent United States, late membership of Germany and the USSR, unanimity, no standing army and dependence on British-French will weakened enforcement."),
+        ("Washington Conferences, 1921-22", "The Washington Conferences limited naval competition and temporarily eased Far Eastern tension without resolving Japanese continental ambition."),
+        ("Dawes Plan, 1924", "The Dawes Plan used American credit to make reparations manageable and enabled French withdrawal from the Ruhr."),
+        ("Locarno Treaties, 1925", "Locarno guaranteed Germany's western frontiers but left its eastern frontiers unguaranteed, making reconciliation geographically incomplete."),
+        ("Germany and the League, 1926", "Germany entered the League in 1926 during the brief phase of conditional reconciliation."),
+        ("Kellogg-Briand Pact, 1928", "The Kellogg-Briand Pact renounced war but lacked sanctions or an enforcement mechanism."),
+        ("Young Plan, 1929", "The Young Plan reduced reparations to two thousand million pounds but arrived as the economic foundation of cooperation began to collapse."),
+        ("Depression as diplomatic turning point", "Withdrawal of American credit, unemployment and radicalisation after 1929 destroyed the prosperity on which the Locarno spirit depended."),
+        ("Manchuria, 1931", "Japan's seizure of Manchuria was the first major successful defiance of the League and demonstrated that a great power could keep gains."),
+        ("Abyssinia, 1935", "Half-hearted sanctions during Italy's invasion of Abyssinia destroyed League credibility and advertised collective-security weakness."),
+        ("Anglo-German Naval Agreement, 1935", "Britain's separate naval agreement with Germany broke the Stresa Front and weakened coordinated resistance."),
+        ("Rhineland, 1936", "German remilitarisation of the Rhineland met protest without force and taught Hitler that further risks might go unopposed."),
+        ("Spanish Civil War, 1936-39", "Germany and Italy supported Franco while Britain and France stayed outside the Spanish Civil War, further exposing the weakness of collective restraint."),
+        ("Anschluss, 1938", "Germany absorbed Austria in 1938 without effective resistance from the other powers."),
+        ("Munich, September 1938", "The Sudetenland was conceded at Munich without Czechoslovak or Soviet participation, strategically crippling Czechoslovakia."),
+        ("Prague, March 1939", "Hitler's seizure of non-German Prague in March 1939 destroyed the argument that his aims were limited to national self-determination."),
+        ("Nazi-Soviet Pact and Poland, 1939", "The Nazi-Soviet Pact cleared the immediate path to Germany's invasion of Poland, after which Britain and France declared war."),
+        ("Appeasement and failure-of-order verdict", "Appeasement addressed grievances that sometimes looked finite, but repeated concessions removed deterrence while aggressors learned that enforcement would not follow protest."),
+    ],
+    [
+        "Do not describe the League as a total administrative failure.",
+        "Do not confuse technical success with peace enforcement.",
+        "Do not say the United States joined the League.",
+        "Do not claim Locarno guaranteed Germany's eastern frontiers.",
+        "Do not give Kellogg-Briand an enforcement mechanism.",
+        "Do not detach Locarno stability from American credit.",
+        "Do not say the League collapsed only because of Hitler.",
+        "Do not treat Manchuria and Abyssinia as minor incidents.",
+        "Do not describe appeasement only through hindsight morality.",
+        "Do not omit the Anglo-German Naval Agreement's effect on the Stresa Front.",
+        "Do not claim Czechoslovakia or the USSR negotiated at Munich.",
+        "Do not treat Prague as another self-determination concession.",
+        "Do not quote Chamberlain or Hitler without owner-verified wording.",
+        "Do not convert probable questions into claimed UPSC PYQs.",
+    ],
+    [
+        (10, "Why did the League fail as a peace-enforcement body?", "Its design lacked automatic force, but the decisive weakness was political: Britain and France would not accept the risks collective security required.", [0, 1, 2, 10, 11]),
+        (10, "Assess the Locarno phase.", "Dawes credit, western guarantees and German membership produced real easing, but dependence on prosperity and unguaranteed eastern frontiers made it conditional.", [4, 5, 6, 9]),
+        (15, "How did the Depression transform interwar international relations?", "Credit withdrawal and unemployment weakened cooperation, empowered revisionist regimes and converted institutional weakness into successful aggression.", [4, 8, 9, 10, 11]),
+        (15, "Why did appeasement appear reasonable, and why did it fail?", "War memory, genuine grievances and weak readiness made concession defensible, but Munich excluded allies and Prague proved Hitler's aims were not finite.", [12, 13, 16, 17, 19]),
+        (20, "Trace the collapse of collective security between 1931 and 1939.", "Manchuria established impunity; Abyssinia broke prestige; separate bargains, Rhineland, Spain, Anschluss and Munich removed deterrence before Poland.", [10, 11, 12, 13, 14, 15, 16, 18]),
+        (20, "Was the interwar order doomed by institutional design or state choices?", "The League's structure mattered, but member-state choices repeatedly withheld enforcement; political will converted remediable weaknesses into systemic collapse.", [1, 2, 5, 7, 10, 11, 19]),
+    ],
+    [
+        plan("League aims and operating machinery", [0, 1], "Institutional breadth did not guarantee coercive capacity.", "Start with what the League tried and actually achieved."),
+        plan("Why collective security lacked force", [2], "Political will and institutional design must be separated.", "Explain the enforcement deficit."),
+        plan("Washington and the limited Pacific easing", [3], "Naval limits did not settle Japanese continental ambition.", "Add the non-European interwar dimension."),
+        plan("Dawes credit and Ruhr recovery", [4], "Recovery rested on American credit rather than a final reparations settlement.", "Build the economic foundation of reconciliation."),
+        plan("Locarno's western guarantee", [5, 6], "Western reconciliation coexisted with eastern insecurity.", "Evaluate the settlement geographically."),
+        plan("Kellogg-Briand and Young Plan", [7, 8], "Legal renunciation without sanctions is not enforcement.", "Close the high point of 1920s optimism."),
+        plan("Depression destroys the Locarno base", [9], "Use the credit-to-radicalisation mechanism, not a slogan.", "Connect economic shock to diplomatic breakdown."),
+        plan("Manchuria and the lesson of impunity", [10], "The first major successful defiance predates Hitler's rule.", "Show aggressor learning."),
+        plan("Abyssinia and League discredit", [11], "Half-hearted sanctions mattered more than declaratory condemnation.", "Explain collective-security collapse."),
+        plan("Separate bargains and Rhineland risk", [12, 13], "British bilateralism weakened a common front.", "Trace deterrence erosion."),
+        plan("Spain and non-intervention", [14], "Avoid turning the session into Spanish domestic history.", "Use Spain as an international-relations test."),
+        plan("Anschluss and cumulative concession", [15], "Sequence the 1938 escalation before Munich.", "Show the shrinking resistance threshold."),
+        plan("Munich and excluded states", [16], "Czechoslovakia and the USSR were excluded.", "Evaluate appeasement on its own logic."),
+        plan("Prague, pact and Poland", [17, 18], "Prague broke the self-determination defence before the pact.", "Complete the road-to-war sequence."),
+        plan("Failure-of-order verdict", [19, 2, 9], "Do not reduce collapse to one aggressor or one treaty.", "Conclude through design, economy, agency and deterrence."),
+    ],
+    [
+        panel("League promise and machinery", "hierarchy", ["AIM -> collective security and cooperation", "ASSEMBLY/COUNCIL -> political deliberation", "COURT/SECRETARIAT -> legal and administrative work", "COMMISSIONS -> labour, refugees, health and mandates"], ["League aims and operating machinery"]),
+        panel("League's mixed record", "comparison", ["SUCCESS -> Aaland, Saar, Mosul and social work", "WEAKNESS -> no army and unanimity", "ABSENCE -> USA outside; Germany and USSR late", "VERDICT -> administration stronger than enforcement"], ["League aims and operating machinery", "Why collective security lacked force"]),
+        panel("1920s recovery ladder", "timeline", ["1921-22 -> Washington naval easing", "1924 -> Dawes credit and Ruhr withdrawal", "1925-26 -> Locarno and Germany in League", "1928-29 -> Kellogg-Briand and Young Plan"], ["Washington and the limited Pacific easing", "Dawes credit and Ruhr recovery", "Locarno's western guarantee", "Kellogg-Briand and Young Plan"]),
+        panel("Locarno's geographic flaw", "comparison", ["WEST -> German frontiers guaranteed", "EAST -> German frontiers not guaranteed", "PROSPERITY -> American credit supports confidence", "RISK -> eastern revisionism remains open"], ["Locarno's western guarantee"]),
+        panel("Depression transmission", "path-consequence", ["US CREDIT WITHDRAWS -> German recovery contracts", "UNEMPLOYMENT -> democratic legitimacy erodes", "RADICAL REGIMES -> revisionist policy strengthens", "COLLECTIVE SECURITY -> willingness to enforce falls"], ["Depression destroys the Locarno base"]),
+        panel("League-breaking crises", "timeline", ["1931 -> Manchuria establishes impunity", "1935 -> Abyssinia exposes weak sanctions", "1935 -> naval agreement breaks Stresa unity", "1936 -> Rhineland risk succeeds"], ["Manchuria and the lesson of impunity", "Abyssinia and League discredit", "Separate bargains and Rhineland risk"]),
+        panel("Aggressor-learning mechanism", "causal-system", ["ACTION -> treaty or frontier challenged", "RESPONSE -> protest without effective force", "LESSON -> cost of next move appears lower", "RESULT -> revision escalates from test to conquest"], ["Abyssinia and League discredit", "Failure-of-order verdict"]),
+        panel("1938 concession sequence", "timeline", ["ANSCHLUSS -> Austria absorbed", "MUNICH -> Sudetenland conceded", "EXCLUSION -> Czechoslovakia and USSR absent", "PRAGUE 1939 -> non-German territory seized"], ["Anschluss and cumulative concession", "Munich and excluded states", "Prague, pact and Poland"]),
+        panel("Appeasement on its own terms", "comparison-table", ["RATIONALE -> war memory and incomplete rearmament", "ASSUMPTION -> grievances are finite", "FAILURE -> concessions weaken deterrence", "TEST -> Prague disproves the assumption"], ["Munich and excluded states", "Failure-of-order verdict"]),
+        panel("Road to Poland", "path-consequence", ["PRAGUE -> appeasement rationale collapses", "NAZI-SOVIET PACT -> eastern obstacle removed", "POLAND -> Germany invades", "BRITAIN/FRANCE -> declare war"], ["Prague, pact and Poland"]),
+        panel("Design versus choice", "comparison", ["DESIGN -> unanimity, no army, incomplete membership", "CHOICE -> members refuse sanctions and military risk", "ECONOMY -> Depression narrows cooperation", "VERDICT -> weaknesses become fatal through decisions"], ["Why collective security lacked force", "Failure-of-order verdict"]),
+        panel("Interwar answer spine", "answer-spine", ["PROMISE -> League and collective security", "RECOVERY -> Dawes, Locarno and conditional stability", "BREAKDOWN -> Depression, Manchuria and Abyssinia", "COLLAPSE -> appeasement, Prague, pact and Poland"], ["Failure-of-order verdict"]),
+    ],
+    ["League of Nations", "collective security", "Dawes Plan", "Locarno Treaties", "Kellogg-Briand Pact", "Young Plan", "Manchuria", "Abyssinia", "Stresa Front", "Rhineland", "Spanish Civil War", "Anschluss", "Munich", "Nazi-Soviet Pact", "appeasement"],
+    "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. The 2021 democratic-system demand belongs to Topic 12.",
+    [],
+    live_sources=[
+        "https://www.gov.uk/government/speeches/the-foreign-secretarys-locarno-centenary-speech"
+    ],
+    current_note=(
+        "The UK Foreign Secretary's Locarno centenary speech commemorates "
+        "the hundredth anniversary of the 1925 treaty signing and reflects "
+        "on its lessons for present security and multilateral cooperation. "
+        "This supplies a narrow current link to interwar diplomacy and to "
+        "the limits of the 'spirit of Locarno'; it does not alter the "
+        "historical assessment of Locarno's incomplete guarantees."
+    ),
+    extra=["basic/10_First-World-War-and-Aftermath.md", "basic/12_Rise-of-Fascism-Italy-Germany-Japan.md", "basic/14_Second-World-War.md"],
+)
+
+
+TOPIC_12 = common.topic(
+    12,
+    "Rise of Fascism: Italy, Germany, Japan",
+    "12_Rise-of-Fascism-Italy-Germany-Japan",
+    "12_Rise-of-Fascism-Italy-Germany-Japan_Complete-Topic-Package.md",
+    [
+        ("Italian fascist organisations, 1919-21", "Mussolini founded the Fasci di combattimento in 1919 and organised the National Fascist Party in 1921."),
+        ("Italian crisis after war", "Disappointed victory, inflation, debt, unemployment, weak coalitions, labour unrest and fear of socialism widened fascist support."),
+        ("March on Rome, October 1922", "The March on Rome was more bluff than conquest; Victor Emmanuel III refused resistance and invited Mussolini to form a government."),
+        ("Core fascist features", "Italian fascism joined authoritarian rule, extreme nationalism, leader cult, one-party ambition, anti-communism, propaganda, autarky and glorified violence."),
+        ("Acerbo Law and Lateran Treaty", "The Acerbo Law helped fascist parliamentary dominance, while the Lateran Treaty of 1929 settled relations with the papacy."),
+        ("Weimar's layered crisis", "Versailles stigma, the stab-in-the-back myth, fragmented coalitions, violence, hyperinflation, American-credit dependence and Depression eroded the Weimar Republic's legitimacy."),
+        ("Nazi entry through legal office", "The Nazis never won an overall electoral majority; conservative intrigue helped Hitler become Chancellor in January 1933."),
+        ("Enabling Law, March 1933", "The Enabling Law of March 1933 supplied the decisive legal breakthrough from chancellorship to dictatorship."),
+        ("Night of the Long Knives, 1934", "The Night of the Long Knives consolidated Hitler's position by eliminating rivals and reassuring conservative power centres."),
+        ("Nazi ideological core", "Nazism fused national rebirth, totalitarian organisation and militarisation with Aryan supremacy and anti-Semitism at its centre."),
+        ("Nazi control system", "Trade-union destruction, youth and school control, Goebbels's propaganda machinery, police power and camps penetrated society more thoroughly than Italian fascism."),
+        ("Nuremberg Laws, 1935", "The Nuremberg Laws institutionalised racial exclusion in 1935, showing that race was constitutive rather than incidental to Nazism."),
+        ("Italy and Germany distinguished", "Both destroyed pluralism, but Italian fascism remained less systematic and racialised; Nazism made biological race an organising principle."),
+        ("Japan's turn to army dominance", "The occupation of Manchuria in 1931 and assassination of Prime Minister Inukai in 1932 marked the transition toward military dominance."),
+        ("Japanese category caution", "Japan retained imperial and constitutional forms under army influence and lacked the same mass party-state, so military authoritarianism is safer than an unqualified fascist label."),
+        ("Full-scale war in China, 1937", "Japanese army-led expansion widened into full-scale war in China in 1937 and later into the Pacific conflict."),
+        ("Spain's related path, 1931-39", "Spain's monarchy fell in 1931, civil war began in 1936, and Franco won in 1939 with German and Italian help."),
+        ("Spain not a full fascist replica", "Franco's regime shared authoritarian and anti-left features but lacked the same mass mobilisation for national rebirth as Italy and Germany."),
+        ("Democracy challenged from above and below", "Mass movements, economic grievance and violence weakened democracy from below while kings, conservative elites and constitutional mechanisms transferred power from above."),
+        ("Common crisis, different regimes", "Interwar authoritarianism arose from similar insecurity and parliamentary failure but produced Italian party dictatorship, German racial totalitarianism, Japanese militarism and Spanish authoritarianism."),
+    ],
+    [
+        "Do not describe the March on Rome as battlefield conquest.",
+        "Do not say Hitler won an overall electoral majority.",
+        "Do not date the Enabling Law to January 1933.",
+        "Do not make fascism and Nazism identical.",
+        "Do not remove race from Nazism's ideological core.",
+        "Do not call Mussolini's Italy fully totalitarian without qualification.",
+        "Do not call Japan fascist without definitional caution.",
+        "Do not treat Franco's Spain as a Nazi replica.",
+        "Do not attribute the Holocaust evidence to this topic.",
+        "Do not explain fascist rise by Depression alone.",
+        "Do not omit conservative-elite complicity.",
+        "Do not present propaganda and coercion as mutually exclusive.",
+        "Do not quote fascist leaders without owner-verified wording.",
+        "Do not present the 2021 neutral demand as locally held verbatim wording.",
+    ],
+    [
+        (10, "Why did Mussolini reach office in 1922?", "Postwar grievance and class fear widened support, but the decisive transfer came when the king refused resistance and invited Mussolini to govern.", [1, 2]),
+        (10, "Why is Japan not safely described as fascist in the strict sense?", "Army influence, emperor-centred nationalism and expansion resembled fascism, but Japan lacked the same mass party-state and route to power.", [13, 14, 15]),
+        (15, "Compare Italian fascism and German Nazism.", "Both destroyed pluralism through propaganda and coercion, but Nazism was more thorough and placed biological race at the state's ideological centre.", [3, 4, 9, 10, 11, 12]),
+        (15, "How did interwar democracies enable authoritarian takeover?", "Economic failure and violence eroded legitimacy, while kings, conservative elites and legal mechanisms handed power to movements they expected to control.", [2, 5, 6, 7, 18]),
+        (20, "Evaluate the challenge to the democratic state system between the World Wars.", "The challenge combined mass grievance, anti-left mobilisation, elite surrender and constitutional self-destruction, but took nationally distinct institutional forms.", [1, 2, 5, 6, 7, 13, 18, 19]),
+        (20, "Compare fascism, Nazism, Japanese militarism and Francoism.", "A common authoritarian family resemblance existed, but race, mass-party mobilisation, surviving institutions and routes to power prevent a single-category verdict.", [3, 9, 12, 14, 16, 17, 19]),
+    ],
+    [
+        plan("Italy's postwar crisis", [0, 1], "Economic distress worked through class fear and weak government.", "Build the conditions before the takeover."),
+        plan("March on Rome and elite transfer", [2], "The king's decision was more decisive than fascist military strength.", "Correct the seizure-of-power myth."),
+        plan("Fascist ideology and institutions", [3, 4], "Ambition for total control exceeded realised penetration.", "Separate doctrine from governing capacity."),
+        plan("Weimar's cumulative breakdown", [5], "The Depression accelerated older weaknesses.", "Use layered causation rather than one trigger."),
+        plan("Hitler's legal entry and dictatorship", [6, 7], "Chancellorship and dictatorial law belong to different months.", "Trace constitutional self-destruction."),
+        plan("Consolidation after 1933", [8], "Power consolidation involved bargains and purge, not election alone.", "Explain the Night of the Long Knives."),
+        plan("Nazism's racial core", [9, 11], "Race distinguishes Nazism from generic authoritarian nationalism.", "Keep exclusion central."),
+        plan("Consent, propaganda and coercion", [10], "Control depended on changing mixtures, not terror alone.", "Map institutional penetration."),
+        plan("Italy and Germany compared", [12], "Difference is qualitative as well as one of degree.", "Use race and thoroughness as axes."),
+        plan("Japan's military route", [13, 14], "Retained institutions do not imply parliamentary control.", "Define army dominance carefully."),
+        plan("Japanese expansion into China", [15], "Keep domestic form and foreign expansion analytically linked.", "Bridge militarism to war."),
+        plan("Spain's civil-war path", [16], "Use only the bounded chronology and external support.", "Distinguish civil-war victory from party takeover."),
+        plan("Why Spain was related but distinct", [17], "Authoritarian similarity does not prove fascist identity.", "Apply category discipline."),
+        plan("The democratic-system challenge", [18], "The verified 2021 demand is held only in neutral rendering.", "Answer through below, above and legal transfer."),
+        plan("Common crisis, different outcomes", [19, 12, 14, 17], "Comparison requires shared axes and national differences.", "Conclude without flattening regimes."),
+    ],
+    [
+        panel("Italian road to office", "path-consequence", ["1919-21 -> fascist movement and party organised", "POSTWAR CRISIS -> grievance, inflation and class fear", "OCT 1922 -> March on Rome applies pressure", "KING -> refuses resistance and invites Mussolini"], ["Italy's postwar crisis", "March on Rome and elite transfer"]),
+        panel("Fascist governing toolkit", "hierarchy", ["LEADER CULT -> il Duce", "PARTY/LAW -> monopoly grows through Acerbo system", "LABOUR/YOUTH -> corporate control and GIL", "CHURCH -> Lateran Treaty settles one rival centre"], ["Fascist ideology and institutions"]),
+        panel("Weimar breakdown chain", "causal-system", ["VERSAILLES + MYTH -> national legitimacy weakens", "HYPERINFLATION + CREDIT -> recovery remains fragile", "DEPRESSION -> unemployment and radicalisation", "CONSERVATIVE INTRIGUE -> Hitler enters office legally"], ["Weimar's cumulative breakdown", "Hitler's legal entry and dictatorship"]),
+        panel("From Chancellor to dictator", "timeline", ["JAN 1933 -> Hitler becomes Chancellor", "MAR 1933 -> Enabling Law grants dictatorial power", "1934 -> Night of the Long Knives", "1935 -> Nuremberg Laws institutionalise exclusion"], ["Hitler's legal entry and dictatorship", "Consolidation after 1933", "Nazism's racial core"]),
+        panel("Italian fascism versus Nazism", "comparison-table", ["ITALY -> authoritarian nationalism and corporate claims", "GERMANY -> racial-biological ideology at core", "ITALY -> less thorough social penetration", "GERMANY -> police, party, youth and camps integrate control"], ["Italy and Germany compared"]),
+        panel("Nazi control mixture", "causal-system", ["PROPAGANDA -> leader myth and national rebirth", "ORGANISATION -> youth, schools and labour reordered", "COERCION -> police power, camps and purge", "RACE -> membership in the nation legally restricted"], ["Consent, propaganda and coercion", "Nazism's racial core"]),
+        panel("Japan's distinct route", "timeline", ["1931 -> army occupies Manchuria", "1932 -> Inukai assassinated", "ARMY -> dominance grows inside surviving institutions", "1937 -> full-scale war in China"], ["Japan's military route", "Japanese expansion into China"]),
+        panel("Why Japan needs a qualifier", "comparison", ["SIMILAR -> nationalism, anti-left politics and expansion", "DIFFERENT -> no equivalent fascist mass party-state", "FORM -> emperor and constitution formally survive", "LABEL -> military authoritarianism is safer"], ["Japan's military route"]),
+        panel("Spain's bounded path", "timeline", ["1931 -> monarchy falls", "1936 -> civil war begins", "GERMANY/ITALY -> support Franco", "1939 -> Nationalist victory and authoritarian rule"], ["Spain's civil-war path"]),
+        panel("Four-regime matrix", "comparison-table", ["ITALY -> first fascist party dictatorship", "GERMANY -> racial totalitarian radicalisation", "JAPAN -> army-led imperial militarism", "SPAIN -> civil-war authoritarianism without full fascist form"], ["Common crisis, different outcomes"]),
+        panel("Democracy attacked twice", "comparison", ["BELOW -> mass grievance, violence and movement politics", "ABOVE -> king and conservatives enable transfer", "WITHIN LAW -> chancellorship and Enabling Law", "RESULT -> democracy abandoned before fully destroyed"], ["The democratic-system challenge"]),
+        panel("Authoritarianism answer spine", "answer-spine", ["CONTEXT -> postwar grievance and economic crisis", "ROUTE -> movement pressure plus elite or military transfer", "COMPARE -> ideology, base, institutions and coercion", "VERDICT -> family resemblance without identity"], ["Common crisis, different outcomes"]),
+    ],
+    ["Fasci di combattimento", "National Fascist Party", "March on Rome", "Victor Emmanuel III", "Acerbo Law", "Lateran Treaty", "Weimar Republic", "Enabling Law", "Night of the Long Knives", "Nuremberg Laws", "Nazism", "anti-Semitism", "Manchuria", "Inukai", "Franco"],
+    "The owner verifies one 2021 GS-I demand in neutral rendering only: evaluate the challenge to the democratic state system between the two World Wars. Verbatim official wording is not held locally.",
+    [
+        (
+            "2021",
+            "GS-I · 15 marks · 250 words",
+            "Evaluate the challenge to the democratic state system between the two World Wars.",
+            "Verified neutral rendering from the audited local routing ledger; not claimed as verbatim.",
+            "The democratic state system was challenged not only by fascist "
+            "movements but by failures within democracy. War grievance, "
+            "inflation, unemployment, fragmented coalitions and political "
+            "violence weakened mass confidence. Authoritarian movements then "
+            "mobilised nationalism and anti-communism from below, while "
+            "conservative elites transferred power from above: Italy's king "
+            "invited Mussolini, and German conservatives enabled Hitler's "
+            "chancellorship before the Enabling Law destroyed constitutional "
+            "restraint. Japan followed an army-led route inside surviving "
+            "institutions, and Spain a civil-war route. Thus the challenge was "
+            "both external assault and constitutional abandonment, expressed "
+            "through nationally distinct authoritarian forms.",
+        )
+    ],
+    live_sources=[
+        "https://www.un.org/en/outreach-programme-holocaust/united-nations-holocaust-memorial-observance"
+    ],
+    current_note=(
+        "The official United Nations Holocaust Memorial Observance on "
+        "27 January 2026 used the theme 'Holocaust Remembrance for Dignity "
+        "and Human Rights'. This is a bounded remembrance link to the "
+        "consequences of Nazism within this comparative topic; it is not "
+        "evidence about Italian fascism or Japanese militarism."
+    ),
+    extra=["basic/11_International-Relations-1919-39.md", "basic/14_Second-World-War.md"],
+)
+
+
+TOPIC_13 = common.topic(
+    13,
+    "Russian Revolution and USSR under Stalin",
+    "13_Russian-Revolution-and-USSR-under-Stalin",
+    "13_Russian-Revolution-and-USSR-under-Stalin_Complete-Topic-Package.md",
+    [
+        ("The incomplete settlement of 1905", "Defeat by Japan and unrest forced the October Manifesto and promise of a Duma, but divided opposition and army loyalty allowed Nicholas II to survive."),
+        ("Duma and agrarian limits", "The first two Dumas were dissolved, while Stolypin's reforms and abolition of redemption payments did not resolve land hunger for most peasants."),
+        ("Workers and dynastic legitimacy", "Strike waves revived after 1912, repression continued and the Rasputin scandal deepened distrust of the royal family."),
+        ("First World War as accelerator", "Defeats, shortages, transport breakdown and administrative incompetence converted long-standing legitimacy weakness into state collapse."),
+        ("February Revolution and abdication", "Bread riots, strikes and mutiny in Petrograd led the Duma and senior generals to abandon Nicholas II, who abdicated on 2 March 1917."),
+        ("Dual power", "The Provisional Government held formal office while the Petrograd soviet commanded much of the loyalty needed to enforce decisions."),
+        ("Provisional Government failure", "Continuation of war, delayed land reform and elections, inflation, shortages and divided authority steadily destroyed the government's legitimacy."),
+        ("April Theses and Kornilov affair", "Lenin's peace-land-soviet programme sharpened the alternative, while the Kornilov affair discredited Kerensky and strengthened the Bolsheviks."),
+        ("October seizure, 25-26 October", "Red Guards and pro-soviet troops occupied key Petrograd points and arrested Provisional Government ministers on the night of 25-26 October."),
+        ("Early decrees and Constituent Assembly", "The Bolsheviks nationalised land and widened economic controls, then dispersed the Assembly in January 1918 after failing to win a majority."),
+        ("Brest-Litovsk, March 1918", "Lenin accepted enormous territorial losses at Brest-Litovsk to remove Russia from war and gain time for the new regime."),
+        ("Civil War and Red victory", "Central territorial control, firmer Lenin-Trotsky leadership, divided Whites and foreign intervention helped the Reds win the 1918-20 Civil War."),
+        ("Cheka and Red Terror", "The Cheka and Red Terror made coercion constitutive of Bolshevik consolidation rather than a purely Stalinist invention."),
+        ("NEP, 1921", "The New Economic Policy restored peasant incentives and small trade while heavy industry, banking, transport and communist political control remained with the state."),
+        ("Stalin's rise after 1924", "As General Secretary Stalin used organisational position, rivals' underestimation and shifting alliances to isolate Trotsky, Kamenev, Zinoviev and Bukharin."),
+        ("Five Year Plans", "Rapid heavy-industrial growth in coal, steel, pig iron and electricity came with harsh discipline and poor consumer supply."),
+        ("Collectivisation by 1937", "Most farmland was collectivised by 1937, increasing state control of grain but causing resistance, livestock collapse and severe agricultural disruption."),
+        ("Famine, 1932-33", "Lowe reports estimates above five million deaths during the 1932-33 famine while grain exports continued; totals and responsibility remain contested."),
+        ("Purges and 1936 Constitution", "The Purges made Stalin unchallengeable but removed experienced officials and officers, while the 1936 Constitution concealed one-party dictatorship."),
+        ("War, reconstruction and final repression", "The USSR survived Nazi invasion, rebuilt industry under the Fourth Plan, tested an atomic bomb in 1949, yet agriculture lagged and repression continued until Stalin's death on 5 March 1953."),
+    ],
+    [
+        "Do not collapse February and October 1917 into one revolution.",
+        "Do not treat the First World War as the sole cause of collapse.",
+        "Do not call February a Bolshevik revolution.",
+        "Do not ignore dual power.",
+        "Do not present October as purely spontaneous.",
+        "Do not describe Lenin's system as liberal parliamentary democracy.",
+        "Do not say NEP restored capitalism without qualification.",
+        "Do not omit foreign intervention from the Red victory explanation.",
+        "Do not make Stalin's rise inevitable after Lenin's death.",
+        "Do not judge industrialisation without its consumer and human costs.",
+        "Do not give a famine figure other than the owner-bounded estimate.",
+        "Do not say the 1936 Constitution created competitive democracy.",
+        "Do not present revisionists as supporters of Stalin.",
+        "Do not convert probable questions into claimed UPSC PYQs.",
+    ],
+    [
+        (10, "Why did tsarism collapse in February 1917?", "War converted unresolved constitutional, agrarian, labour and dynastic weaknesses into shortages, mutiny and elite abandonment.", [0, 1, 2, 3, 4]),
+        (10, "Why was NEP a tactical retreat rather than restoration of capitalism?", "Markets returned for peasants and small trade, but commanding sectors and political monopoly stayed under communist control.", [13]),
+        (15, "Why did the Provisional Government fail?", "Its war policy, delay over land and elections, economic chaos and dual power created a legitimacy gap the Bolsheviks exploited.", [5, 6, 7, 8]),
+        (15, "How did the Bolsheviks consolidate power?", "Immediate decrees, withdrawal from war, Assembly dispersal, coercion, central control in civil war and NEP joined legitimacy, force and tactical retreat.", [9, 10, 11, 12, 13]),
+        (20, "Assess Stalin's economic transformation of the USSR.", "Heavy-industrial capacity rose rapidly, but coercive collectivisation, famine, poor consumption and lost expertise made achievement inseparable from immense cost.", [15, 16, 17, 18, 19]),
+        (20, "Was Stalinism a continuation of Leninism?", "Lenin created party monopoly, political police and anti-parliamentary rule; Stalin radicalised that framework into forced social revolution and vastly wider terror.", [9, 12, 13, 14, 16, 18]),
+    ],
+    [
+        plan("Why 1905 did not settle the crisis", [0, 1], "Stabilisation after 1905 was real but shallow.", "Begin with incomplete constitutional and agrarian reform."),
+        plan("Workers, dynasty and prewar legitimacy", [2], "Rasputin is a symptom, not a complete cause.", "Add labour and personal-rule weakness."),
+        plan("War converts weakness into collapse", [3, 4], "The war accelerated rather than created every grievance.", "Explain February through capacity failure."),
+        plan("Dual power after abdication", [5], "Formal office and enforceable authority were separated.", "Define the institutional contradiction."),
+        plan("Why the Provisional Government failed", [6, 7], "War, land and Kornilov must appear together.", "Show the Bolshevik alternative gaining credibility."),
+        plan("October as organised seizure", [8], "Do not merge popular support with spontaneous collapse.", "Fix actors and dates."),
+        plan("Decrees and constitutional closure", [9], "The Assembly dispersal is central to Lenin-Stalin continuity.", "Trace delivery and monopoly together."),
+        plan("Brest-Litovsk and strategic retreat", [10], "Territorial sacrifice served regime survival.", "Explain Lenin's time-for-space calculation."),
+        plan("Civil War and coercive consolidation", [11, 12], "Red victory was organisational and geographical, not automatic.", "Combine military advantage and terror."),
+        plan("NEP and bounded market recovery", [13], "Market mechanisms did not end one-party rule.", "Distinguish economy from politics."),
+        plan("Stalin's organisational rise", [14], "Succession was a struggle, not predetermined inheritance.", "Explain alliances and General Secretary power."),
+        plan("Five Year industrialisation", [15], "Output gains and consumer scarcity belong in one verdict.", "Evaluate achievement and cost."),
+        plan("Collectivisation and famine", [16, 17], "Use the sourced estimate with explicit contestability.", "Show state grain control and rural catastrophe."),
+        plan("Purges and constitutional facade", [18], "Terror removed expertise as well as opposition.", "Contrast formal constitution and actual rule."),
+        plan("War, reconstruction and Stalinist verdict", [19, 15, 18], "Survival does not erase repression or agrarian weakness.", "Conclude through capacity, cost and continuity."),
+    ],
+    [
+        panel("Unfinished revolution after 1905", "causal-system", ["DEFEAT BY JAPAN -> unrest and October Manifesto", "DUMA -> promised but first two dissolved", "LAND -> Stolypin reforms reach too few", "RESULT -> regime survives without solving legitimacy"], ["Why 1905 did not settle the crisis"]),
+        panel("War-to-collapse chain", "path-consequence", ["OLD WEAKNESS -> autocracy, land and labour conflict", "WORLD WAR -> defeat, shortage and transport failure", "PETROGRAD -> riots, strikes and mutiny", "2 MARCH 1917 -> Nicholas II abdicates"], ["War converts weakness into collapse"]),
+        panel("Dual-power mechanism", "comparison", ["PROVISIONAL GOVERNMENT -> formal state office", "PETROGRAD SOVIET -> soldier and worker loyalty", "WAR/LAND -> government delays decisions", "RESULT -> authority exists in two incompatible centres"], ["Dual power after abdication"]),
+        panel("February versus October", "comparison-table", ["FEBRUARY -> broad uprising and tsarist collapse", "OCTOBER -> prepared Bolshevik seizure", "FEBRUARY -> Nicholas abdicates", "OCTOBER -> ministers arrested, party takes power"], ["War converts weakness into collapse", "October as organised seizure"]),
+        panel("Provisional Government failure", "causal-system", ["WAR CONTINUES -> popular support falls", "LAND/ELECTIONS DELAYED -> rural and democratic trust falls", "SHORTAGES -> economic legitimacy collapses", "KORNILOV -> Bolsheviks gain organisational prestige"], ["Why the Provisional Government failed"]),
+        panel("Bolshevik consolidation toolkit", "hierarchy", ["DECREE -> land and worker measures", "EXIT WAR -> Brest-Litovsk, March 1918", "COERCION -> Assembly dispersed, Cheka and Red Terror", "SURVIVAL -> Civil War victory then NEP"], ["Decrees and constitutional closure", "Brest-Litovsk and strategic retreat", "Civil War and coercive consolidation", "NEP and bounded market recovery"]),
+        panel("Why the Reds won", "comparison-table", ["LEADERSHIP -> Lenin and Trotsky firmer", "GEOGRAPHY -> central Russian core controlled", "OPPONENT -> Whites divided in aim", "INTERVENTION -> Reds claim defence of Russia"], ["Civil War and coercive consolidation"]),
+        panel("NEP boundary", "comparison", ["MARKET RETURNS -> peasant surplus and small trade", "STATE RETAINS -> heavy industry, banks and transport", "POLITICS -> communist monopoly continues", "VERDICT -> economic retreat without political retreat"], ["NEP and bounded market recovery"]),
+        panel("Stalin's rise ladder", "path-consequence", ["GENERAL SECRETARY -> organisational network", "RIVALS -> underestimate Stalin", "SHIFTING ALLIANCES -> Trotsky isolated first", "END -> Kamenev, Zinoviev and Bukharin removed"], ["Stalin's organisational rise"]),
+        panel("Industrialisation and collectivisation", "comparison-table", ["FIVE YEAR PLANS -> heavy output rises", "CONSUMPTION -> scarcity and discipline persist", "COLLECTIVISATION -> grain control increases", "RURAL COST -> resistance, livestock loss and famine"], ["Five Year industrialisation", "Collectivisation and famine"]),
+        panel("Constitution and terror", "comparison", ["1936 CONSTITUTION -> democratic appearance", "ONE PARTY -> no real electoral competition", "PURGES -> Stalin becomes unchallengeable", "CAPABILITY COST -> officers and officials removed"], ["Purges and constitutional facade"]),
+        panel("Revolution-to-Stalin answer spine", "answer-spine", ["COLLAPSE -> unresolved 1905 order plus war", "SEIZURE -> dual power and organised October", "CONSOLIDATION -> decree, coercion, Civil War and NEP", "TRANSFORMATION -> industry, collectivisation and terror"], ["War, reconstruction and Stalinist verdict"]),
+    ],
+    ["October Manifesto", "Duma", "February Revolution", "Petrograd soviet", "dual power", "April Theses", "Kornilov affair", "October Revolution", "Constituent Assembly", "Brest-Litovsk", "Cheka", "New Economic Policy", "Five Year Plans", "collectivisation", "Purges"],
+    "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. All six Mains demands are original practice.",
+    [],
+    extra=["basic/10_First-World-War-and-Aftermath.md", "basic/14_Second-World-War.md", "basic/15_Cold-War-and-International-Relations.md"],
+)
+
+
+TOPIC_14 = common.topic(
+    14,
+    "Second World War",
+    "14_Second-World-War",
+    "14_Second-World-War_Complete-Topic-Package.md",
+    [
+        ("Two regional wars fused in 1941", "Japanese expansion from Manchuria and China and German expansion in Europe became one global war through Barbarossa, Pearl Harbor and German war against the United States."),
+        ("Poland and Blitzkrieg, 1939", "Germany and the USSR occupied Poland while German combined tanks, motorised thrusts and air support demonstrated Blitzkrieg's operational effect."),
+        ("Western victories and France, 1940", "Germany defeated Denmark, Norway, the Netherlands, Belgium and France in 1940; Dunkirk saved troops but not France."),
+        ("Battle of Britain, July-September 1940", "RAF resistance, radar, German range limits and the shift to bombing London prevented invasion and kept Britain in the war."),
+        ("Operation Barbarossa, 22 June 1941", "The attack on the USSR created the multi-front war Germany could not sustain."),
+        ("Pearl Harbor, 7 December 1941", "Japan's attack brought American industrial and financial power directly into the conflict."),
+        ("Midway, June 1942", "Midway crippled Japanese carrier strength and shifted Pacific momentum toward carrier-based air power."),
+        ("El Alamein, October 1942", "El Alamein protected Egypt and Suez and began the reversal of Axis power in North Africa."),
+        ("Stalingrad, February 1943", "German surrender at Stalingrad shattered the image of invincibility and opened sustained Soviet advance."),
+        ("Battle of the Atlantic", "Convoys, radar and long-range aircraft defeated the U-boat threat sufficiently to keep Britain supplied and enable later offensives."),
+        ("D-Day, 6 June 1944", "The Normandy landings opened the western front in France and accelerated Germany's two-front collapse."),
+        ("Why the Axis lost", "Strategic overreach, inferior combined resources, Allied naval-air superiority and brutal occupation outweighed early operational success."),
+        ("Holocaust and bounded figure", "Lowe gives a source-specific estimate of about 5.7 million murdered Jews and treats the Holocaust as a state project conducted through wartime occupation."),
+        ("Other Nazi victims", "Roma, disabled people, Soviet prisoners, Poles, political opponents, homosexuals and others must be named without merging them into the Jewish Holocaust total."),
+        ("Total war", "Civilian bombing, mobilisation of industry and society, attacks on transport and food, forced labour and racial occupation made civilians deliberate objects of strategy."),
+        ("Resistance and collaboration", "Bounded owner anchors include Norwegian assistance under Vidkun Quisling, Vichy collaboration and Italian partisans who captured and executed Mussolini."),
+        ("Germany and Japan defeated, 1945", "Germany surrendered in May 1945; Japan surrendered after atomic bombings, Soviet entry, blockade and conventional destruction in a still-debated causal combination."),
+        ("Political and social aftermath", "Mass death, displacement, reconstruction, welfare pressures and the fall of European primacy transformed politics and society."),
+        ("Superpowers, nuclear age and United Nations", "The United States and USSR emerged dominant, nuclear weapons transformed deterrence and the United Nations succeeded the League."),
+        ("Decolonisation mechanism", "European exhaustion and Japanese destruction of the myth of European invincibility accelerated, but did not instantly complete, decolonisation."),
+    ],
+    [
+        "Do not describe the Second World War as European only.",
+        "Do not say all theatres resembled trench warfare.",
+        "Do not say France fell because of cowardice.",
+        "Do not make one turning point solely decisive.",
+        "Do not omit the Battle of the Atlantic.",
+        "Do not reduce Axis defeat to American entry alone.",
+        "Do not give unsourced battle or casualty totals.",
+        "Do not give the Holocaust estimate without attributing it to Lowe.",
+        "Do not merge other victim groups into the Jewish death total.",
+        "Do not detach the Holocaust from occupation and war.",
+        "Do not name resistance or collaboration cases beyond owner bounds.",
+        "Do not give a single-cause account of Japan's surrender.",
+        "Do not say the war ended colonialism immediately.",
+        "Do not convert probable questions into claimed UPSC PYQs.",
+    ],
+    [
+        (10, "Why was the Battle of Britain strategically decisive?", "It denied Germany a quick western settlement, preserved Britain as an Allied base and ensured Germany entered its Soviet war without ending the first front.", [3, 4]),
+        (10, "Why was the Battle of the Atlantic indispensable?", "Keeping Britain supplied sustained the coalition and made every later western offensive materially possible.", [9, 10]),
+        (15, "Why did early Axis success end in defeat?", "Operational speed expanded the war faster than Axis resources could sustain, while Britain survived, the USSR absorbed attack and American power entered.", [1, 2, 3, 4, 5, 11]),
+        (15, "Explain the Second World War as total war.", "States mobilised whole societies and treated civilians, labour, food, transport, race and occupied populations as strategic resources or targets.", [12, 13, 14, 15]),
+        (20, "Analyse the turning points of the Second World War.", "Britain prevented quick victory; Midway, El Alamein and Stalingrad reversed expansion; Atlantic survival and D-Day converted reversal into defeat.", [3, 6, 7, 8, 9, 10]),
+        (20, "How did the Second World War transform world politics and society?", "Genocide, displacement and nuclear warfare delegitimised old orders while Europe weakened, two superpowers emerged, the UN formed and decolonisation accelerated.", [12, 14, 17, 18, 19]),
+    ],
+    [
+        plan("Two wars become one global conflict", [0], "The Asian war began before September 1939.", "Prevent a Europe-only origin story."),
+        plan("Blitzkrieg and early Axis expansion", [1, 2], "Operational surprise is not national cowardice.", "Explain the 1939-40 surge."),
+        plan("Britain survives in 1940", [3], "Use radar, range and targeting without unsupported detail.", "Show the first strategic check."),
+        plan("Barbarossa creates overreach", [4], "Multi-front war is a strategic mechanism.", "Connect expansion to self-exhaustion."),
+        plan("Pearl Harbor and global resource change", [5], "American contribution exceeded troops alone.", "Explain the coalition-resource shift."),
+        plan("Midway and Pacific air-sea power", [6], "Carrier air power, not battleship mythology, is central.", "Identify the Pacific reversal."),
+        plan("El Alamein and Stalingrad", [7, 8], "State why each mattered rather than listing battles.", "Compare southern and eastern reversals."),
+        plan("The Atlantic lifeline", [9], "Sea survival enabled land victory.", "Restore logistics to the turning-point account."),
+        plan("D-Day and two-front collapse", [10], "D-Day accelerated rather than single-handedly caused defeat.", "Place the western front beside Soviet advance."),
+        plan("Cumulative Axis defeat", [11], "Resources, strategy and occupation must be integrated.", "Build the multi-causal verdict."),
+        plan("Holocaust as wartime state project", [12, 13], "Keep victim categories and figures bounded.", "Connect genocide to occupation machinery."),
+        plan("Total war, resistance and collaboration", [14, 15], "Use only Quisling, Vichy and Italian partisan anchors.", "Give occupied societies constrained agency."),
+        plan("The contested end in 1945", [16], "Never reduce Japan's surrender to one cause.", "Separate German and Japanese endpoints."),
+        plan("Society, superpowers and institutions", [17, 18], "Political and social effects belong together.", "Bridge reconstruction to bipolarity and the UN."),
+        plan("Decolonisation and final verdict", [19, 17, 18], "Acceleration is not immediate completion.", "Conclude with global structural change."),
+    ],
+    [
+        panel("From two wars to one", "timeline", ["1931/1937 -> Japanese expansion in Asia", "SEPT 1939 -> German war begins in Europe", "22 JUNE 1941 -> Barbarossa widens European war", "7 DEC 1941 -> Pearl Harbor fuses the conflicts"], ["Two wars become one global conflict"]),
+        panel("Early Axis method", "causal-system", ["BLITZKRIEG -> tanks, motorised thrusts and air support", "SURPRISE -> defences bypassed before coordination", "1940 -> western states fall rapidly", "LIMIT -> operational speed cannot settle Britain"], ["Blitzkrieg and early Axis expansion"]),
+        panel("Battle of Britain mechanism", "path-consequence", ["RAF + RADAR -> attacks intercepted", "GERMAN RANGE -> fighter limits constrain operations", "LONDON SHIFT -> pressure on airfields eases", "RESULT -> invasion prevented; Britain remains a base"], ["Britain survives in 1940"]),
+        panel("Global turning-point set", "comparison-table", ["MIDWAY -> Japanese carrier strength broken", "EL ALAMEIN -> Egypt and Suez protected", "STALINGRAD -> sustained Soviet advance begins", "ATLANTIC -> Britain and western offensive survive"], ["Midway and Pacific air-sea power", "El Alamein and Stalingrad", "The Atlantic lifeline"]),
+        panel("Axis overreach chain", "path-consequence", ["BRITAIN SURVIVES -> western war remains open", "BARBAROSSA -> vast eastern front created", "PEARL HARBOR -> US resources enter", "RESULT -> Axis fights a coalition it cannot outproduce"], ["Barbarossa creates overreach", "Pearl Harbor and global resource change", "Cumulative Axis defeat"]),
+        panel("Why the Axis lost", "comparison-table", ["STRATEGY -> too many fronts", "RESOURCES -> Allied coalition advantage", "SEA/AIR -> Allied superiority grows", "OCCUPATION -> brutality creates resistance"], ["Cumulative Axis defeat"]),
+        panel("D-Day in coalition strategy", "causal-system", ["ATLANTIC CONTROL -> invasion supply possible", "6 JUNE 1944 -> Normandy front opens", "SOVIET ADVANCE -> Germany pressed from east", "RESULT -> genuine two-front collapse"], ["The Atlantic lifeline", "D-Day and two-front collapse"]),
+        panel("Holocaust boundary", "hierarchy", ["JEWISH VICTIMS -> about 5.7 million in Lowe's estimate", "STATE PROJECT -> racial policy uses occupation machinery", "OTHER VICTIMS -> name separately", "RULE -> never merge categories into one total"], ["Holocaust as wartime state project"]),
+        panel("Occupied-society choices", "comparison", ["RESISTANCE -> Italian partisans execute Mussolini", "COLLABORATION -> Quisling and Norwegian local Nazis", "STATE COLLABORATION -> Vichy France", "CAUTION -> no extra names or quantified claims"], ["Total war, resistance and collaboration"]),
+        panel("Japan's surrender caution", "comparison-table", ["ATOMIC BOMBS -> central shock", "SOVIET ENTRY -> Manchurian strategic collapse", "BLOCKADE/BOMBING -> cumulative exhaustion", "VERDICT -> relative weight remains debated"], ["The contested end in 1945"]),
+        panel("Postwar structural shift", "path-consequence", ["EUROPE WEAKENS -> imperial capacity contracts", "USA/USSR -> superpowers dominate", "NUCLEAR AGE -> deterrence changes", "UNITED NATIONS -> new collective institution"], ["Society, superpowers and institutions"]),
+        panel("Second World War answer spine", "answer-spine", ["ORIGINS -> Asian and European wars fuse", "COURSE -> expansion, overreach and turning points", "SOCIETY -> total war, genocide and occupation choices", "AFTERMATH -> superpowers, UN and decolonisation"], ["Decolonisation and final verdict"]),
+    ],
+    ["Blitzkrieg", "Battle of Britain", "Operation Barbarossa", "Pearl Harbor", "Midway", "El Alamein", "Stalingrad", "Battle of the Atlantic", "D-Day", "Holocaust", "Vidkun Quisling", "Vichy France", "total war", "United Nations", "decolonisation"],
+    "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. Probable world-war questions remain original practice.",
+    [],
+    live_sources=[
+        "https://www.roberthjackson.org/80-years-of-nuremberg-an-international-reflection/"
+    ],
+    current_note=(
+        "The Robert H. Jackson Center's international programme running "
+        "from November 2025 into 2026 marks eighty years of Nuremberg and "
+        "examines accountability, war crimes, crimes against humanity and "
+        "genocide. This supplies a narrow current link to the Second World "
+        "War's legal aftermath, not new evidence about the war's campaigns."
+    ),
+    extra=["basic/11_International-Relations-1919-39.md", "basic/12_Rise-of-Fascism-Italy-Germany-Japan.md", "basic/15_Cold-War-and-International-Relations.md", "basic/18_Decolonization-of-Africa-and-Asia.md"],
+)
+
+
+TOPIC_15 = common.topic(
+    15,
+    "Cold War and International Relations",
+    "15_Cold-War-and-International-Relations",
+    "15_Cold-War-and-International-Relations_Complete-Topic-Package.md",
+    [
+        ("Cold War defined", "The Cold War was organised hostility between the United States and USSR through ideology, alliances, arms, economic pressure and limited wars without direct general war between them."),
+        ("Security dilemma after 1945", "Soviet pursuit of an eastern European security belt and Western fear of expansion made each side read its own actions as defensive and the other's as aggressive."),
+        ("Ideology, atomic asymmetry and wartime mistrust", "Capitalist-communist conflict shaped interpretation, while the US atomic monopoly, second-front delay and occupation disputes deepened mistrust."),
+        ("Yalta and Potsdam, 1945", "Wartime agreement coexisted with serious disputes over Poland, Germany, eastern Europe and the meaning of free elections."),
+        ("Truman Doctrine and Marshall Plan, 1947", "The Truman Doctrine supported states resisting communist pressure, while Marshall aid combined recovery, humanitarian purpose and anti-communist strategy."),
+        ("Czechoslovakia and Berlin, 1948-49", "Communist takeover in Czechoslovakia hardened division, while the Berlin blockade was answered by airlift rather than direct land war."),
+        ("NATO, Soviet bomb and China, 1949", "NATO institutionalised western defence, the Soviet bomb opened nuclear competition and communist victory in China widened the rivalry's Asian scale."),
+        ("Korean War, 1950-53", "North Korea invaded the South, UN intervention expanded northward, China entered and the war ended near the thirty-eighth parallel."),
+        ("Thaw and bloc enforcement, 1953-56", "The Austrian State Treaty and peaceful-coexistence language suggested thaw, but the Warsaw Pact and Soviet crushing of Hungary exposed its limits."),
+        ("Berlin Wall, 1961", "The Berlin Wall physicalised and stabilised division without resolving the German question."),
+        ("Cuban missiles crisis, 1962", "The Cuban crisis brought the world close to nuclear war and demonstrated that catastrophic risk could impose restraint."),
+        ("Global Cold War theatres", "Vietnam exposed limits of American military power, Chile showed ideological conflict in domestic politics and Afghanistan revived East-West confrontation."),
+        ("Middle East retained local causes", "Arab nationalism, Israeli security, Palestinian displacement, decolonisation, oil and territorial conflict had autonomous force even when superpowers intervened."),
+        ("Suez, 1956", "Nasser's canal nationalisation and the British-French-Israeli attack, followed by US and Soviet pressure, exposed declining European imperial power."),
+        ("Arab-Israeli sequence, 1967-79", "The Six-Day War transformed territorial control, the 1973 war restored Arab leverage, and Camp David made Egyptian-Israeli peace without resolving Palestine."),
+        ("Detente, 1972-75", "SALT I, the US-China opening and Helsinki regulated rivalry because both sides feared nuclear catastrophe and faced strategic strain."),
+        ("Renewed confrontation after 1979", "Soviet intervention in Afghanistan, missile tension and NATO responses showed that detente managed but did not end rivalry."),
+        ("Non-alignment and decolonised-world agency", "New states often refused bloc membership and used non-alignment to protect sovereignty and bargaining space rather than act as passive proxies."),
+        ("Sino-Soviet fracture", "Deterioration after 1956, doctrinal and territorial conflict, aid withdrawal and China's 1979 attack on Soviet-aligned Vietnam disproved a monolithic communist bloc."),
+        ("Gorbachev and the end, 1985-91", "Arms reduction, the 1987 INF Treaty, Afghan withdrawal and refusal to use force converged with structural weakness and popular mobilisation as eastern European and Soviet systems collapsed."),
+    ],
+    [
+        "Do not define the Cold War as peace.",
+        "Do not assign blame through one side's intentions alone.",
+        "Do not say ideology or power politics acted alone.",
+        "Do not say the Berlin airlift was a direct land war.",
+        "Do not treat Korea as only civil or only proxy war.",
+        "Do not say the Berlin Wall solved the German question.",
+        "Do not say Cuba caused detente by itself.",
+        "Do not reduce every Middle Eastern conflict to superpower rivalry.",
+        "Do not treat non-alignment as indecision.",
+        "Do not describe the communist world as a single bloc.",
+        "Do not say detente ended the Cold War.",
+        "Do not make one summit or one leader solely responsible for the end.",
+        "Do not add India-specific non-alignment content here.",
+        "Do not convert probable questions into claimed UPSC PYQs.",
+    ],
+    [
+        (10, "What caused the Cold War?", "A postwar security dilemma interacted with ideological hostility, atomic asymmetry and wartime mistrust; power created stakes and ideology made defensive acts appear aggressive.", [1, 2, 3]),
+        (10, "What did the Berlin blockade reveal about bipolarity?", "Both sides accepted severe pressure but avoided direct combat, establishing limited confrontation under nuclear-era risk.", [5]),
+        (15, "How did Korea militarise the Cold War?", "UN, American, Chinese and Korean forces turned divided-state conflict into armed bloc confrontation and entrenched containment and rearmament in Asia.", [6, 7]),
+        (15, "Why was detente risk management rather than peace?", "SALT, Helsinki and diplomatic realignment regulated nuclear competition, but missile rivalry and Afghanistan showed the underlying contest survived.", [10, 15, 16]),
+        (20, "Why can the Cold War not be written as a two-bloc European conflict?", "Asia, the Middle East and decolonised states had local causes and agency, while non-alignment and the Sino-Soviet split fractured bloc assumptions.", [7, 11, 12, 13, 14, 17, 18]),
+        (20, "Why did the Cold War end?", "Soviet economic weakness, reformist choices, arms control, Afghan withdrawal, eastern European mobilisation and the decisive refusal to use force converged.", [16, 19]),
+    ],
+    [
+        plan("Cold War definition and security dilemma", [0, 1], "Organised hostility is neither peace nor direct general war.", "Define the system before assigning blame."),
+        plan("Ideology, atoms and wartime legacy", [2, 3], "Ideology shapes interpretation while power supplies stakes.", "Explain why alliance unity dissolved."),
+        plan("Containment through doctrine and aid", [4], "Marshall aid had humanitarian and strategic purposes.", "Connect economics to geopolitical containment."),
+        plan("Czechoslovakia and the Berlin blockade", [5], "Airlift demonstrated pressure with restraint.", "Use crisis to define Cold War rules."),
+        plan("1949 and institutional bipolarity", [6], "NATO, nuclear parity and China are distinct changes.", "Show the rivalry widening and hardening."),
+        plan("Korea as civil and international war", [7], "Reject both single-label reductions.", "Trace UN, US and Chinese escalation."),
+        plan("Thaw and coercive limits", [8], "Peaceful coexistence did not mean political pluralism inside the bloc.", "Compare Austria and Hungary."),
+        plan("Berlin Wall and frozen division", [9], "Physical stability did not solve sovereignty.", "Explain containment by partition."),
+        plan("Cuba and nuclear restraint", [10], "Near-catastrophe encouraged management, not reconciliation.", "Bridge crisis to detente."),
+        plan("Global theatres and local agency", [11, 17], "New states were not passive pieces.", "Move beyond Europe and proxy shorthand."),
+        plan("Middle East beyond the proxy label", [12, 13], "Suez combined decolonisation with superpower intervention.", "Restore local causal arrows."),
+        plan("Territory, war and partial peace", [14], "Keep 1967, 1973 and Camp David in sequence.", "Show settlement without complete resolution."),
+        plan("Detente's instruments and limits", [15, 16], "Arms control regulates rivalry rather than abolishing it.", "Evaluate the 1970s phase."),
+        plan("The communist bloc fractures", [18], "Bipolar weapons did not create ideological loyalty.", "Use Sino-Soviet evidence against monoliths."),
+        plan("Gorbachev and multi-causal ending", [19, 16, 17], "Agency, structure and non-use of force must converge.", "Conclude without single-cause triumphalism."),
+    ],
+    [
+        panel("Cold War security dilemma", "causal-system", ["USSR -> security belt in eastern Europe", "WEST -> reads belt as expansion", "CONTAINMENT -> USSR reads encirclement", "RESULT -> defensive acts reproduce hostility"], ["Cold War definition and security dilemma"]),
+        panel("Origins weighting", "comparison-table", ["IDEOLOGY -> defines friend and threat", "POWER VACUUM -> creates strategic stakes", "ATOMIC ASYMMETRY -> raises mistrust", "WARTIME LEGACY -> begins rivalry with low trust"], ["Ideology, atoms and wartime legacy"]),
+        panel("Containment sequence", "timeline", ["1947 -> Truman Doctrine and Marshall Plan", "1948 -> Czechoslovakia hardens division", "1948-49 -> Berlin blockade and airlift", "1949 -> NATO, Soviet bomb and communist China"], ["Containment through doctrine and aid", "Czechoslovakia and the Berlin blockade", "1949 and institutional bipolarity"]),
+        panel("Korean escalation", "path-consequence", ["NORTH INVADES -> June 1950", "UN/US FORCE -> advances north", "CHINA -> enters the war", "1953 -> frontier remains near 38th parallel"], ["Korea as civil and international war"]),
+        panel("Thaw versus control", "comparison", ["THAW -> Korean armistice and Austrian treaty", "COEXISTENCE -> rhetoric of reduced tension", "WARSAW PACT -> bloc institutionalised in 1955", "HUNGARY 1956 -> Soviet sphere enforced by force"], ["Thaw and coercive limits"]),
+        panel("Berlin and Cuba", "comparison-table", ["BERLIN WALL 1961 -> division made physical", "CUBA 1962 -> nuclear confrontation peaks", "COMMON RULE -> avoid direct general war", "RESULT -> stability through restraint, not settlement"], ["Berlin Wall and frozen division", "Cuba and nuclear restraint"]),
+        panel("Global Cold War map", "hierarchy", ["ASIA -> Korea, Vietnam and China", "LATIN AMERICA -> Cuba and Chile", "MIDDLE EAST -> Suez and Arab-Israeli wars", "AFGHANISTAN -> renewed confrontation after 1979"], ["Global theatres and local agency"]),
+        panel("Middle East causal layers", "causal-system", ["LOCAL -> nationalism, territory and refugees", "POST-IMPERIAL -> decolonisation and borders", "STRATEGIC -> oil and state security", "SUPERPOWERS -> internationalise rather than create all causes"], ["Middle East beyond the proxy label"]),
+        panel("Detente mechanism", "path-consequence", ["CUBA -> nuclear risk becomes undeniable", "SALT I 1972 -> arms competition regulated", "US-CHINA OPENING -> triangular diplomacy", "HELSINKI 1975 -> norms without ending rivalry"], ["Detente's instruments and limits"]),
+        panel("Non-alignment as agency", "comparison", ["REFUSAL -> no automatic bloc membership", "SOVEREIGNTY -> room for independent policy", "LEVERAGE -> aid and support sought from both sides", "CAUTION -> pressure persists despite autonomy"], ["Global theatres and local agency"]),
+        panel("Communist bloc fracture", "timeline", ["AFTER 1956 -> Sino-Soviet relations deteriorate", "DOCTRINE/TERRITORY -> dispute widens", "1972 -> US-China opening exploits the rift", "1979 -> communist China attacks communist Vietnam"], ["The communist bloc fractures"]),
+        panel("Cold War answer spine", "answer-spine", ["ORIGINS -> security dilemma read through ideology", "CRISES -> Berlin, Korea and Cuba define limits", "GLOBAL -> local causes, agency and fractured blocs", "END -> structural weakness plus reform and non-use of force"], ["Gorbachev and multi-causal ending"]),
+    ],
+    ["Cold War", "security dilemma", "Truman Doctrine", "Marshall Plan", "Berlin blockade", "NATO", "Korean War", "Warsaw Pact", "Berlin Wall", "Cuban missiles crisis", "Suez", "SALT I", "detente", "non-alignment", "INF Treaty"],
+    "No direct UPSC PYQ is verified as owned solely by this topic in the local routing blocks. All six Mains demands are original practice.",
+    [],
+    live_sources=[
+        "https://diplomacy.state.gov/about-nmad/",
+        "https://diplomacy.state.gov/discover-diplomacy/period/cold-war-diplomacy/",
+    ],
+    current_note=(
+        "The U.S. State Department's National Museum of American Diplomacy "
+        "is scheduled to open in October 2026 and identifies a Berlin Wall "
+        "segment in its collection. Its official Cold War material covers "
+        "the Berlin Airlift, nuclear rivalry, proxy wars and diplomacy. "
+        "Together these pages provide a narrow public-history link to "
+        "renewed attention to Cold War diplomacy, not a present-day "
+        "geopolitical analogy."
+    ),
+    extra=["basic/14_Second-World-War.md", "basic/16_United-Nations-and-Global-Governance.md", "basic/17_China-Communism-and-Asia.md", "basic/18_Decolonization-of-Africa-and-Asia.md", "basic/21_Cold-War-End-and-New-World-Order.md"],
+)
+
+
+ALL_TOPICS = [TOPIC_11, TOPIC_12, TOPIC_13, TOPIC_14, TOPIC_15]

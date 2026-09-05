@@ -31,9 +31,9 @@ trap cases effective; s.24 omitted          offence + presumption, ARC 3.2.2.4-7
 in 2018)
 ```
 
-**Core proposition:** ✅ ARC 3.2.2.1 — corruption is legally reducible to bribery under the
-Prevention of Corruption Act, but the ARC's own analysis stresses two structurally different
-transaction types (coercive vs collusive) requiring different legal responses.
+**Core proposition:** ✅ The Prevention of Corruption Act creates specific bribery and criminal-
+misconduct offences; the ARC's analysis separately identifies two structurally different bribery
+transactions (coercive vs collusive) that require different evidentiary and remedial responses.
 
 ## 2. Essential definitions
 
@@ -41,17 +41,20 @@ transaction types (coercive vs collusive) requiring different legal responses.
 |---|---|
 | ✅ **Coercive bribery** (ARC 1.13, 3.2.2.1) | The citizen is compelled to pay for a service to which they are already entitled, to avoid delay/harassment/loss — an unwilling victim of extortion. |
 | ✅ **Collusive bribery** (ARC 1.13, 3.2.2.6) | Both bribe-giver and bribe-taker benefit from the transaction (e.g., substandard-works certification, tax evasion, procurement kickbacks), with society/state bearing the loss. |
-| ✅ **Prevention of Corruption Act, 1988** | Consolidates the 1947 Act and 1952 Amendment; broadens "public servant"; introduces "criminal misconduct" (including possession of disproportionate assets); mandates trial by Special Judges; requires day-to-day proceedings. |
-| ✅ **Section 19, PC Act** | Requires prior sanction of the competent authority before a court takes cognizance of offences under Sections 7, 11, 13 and 15, intended to protect honest officials from vexatious complaints (see `21`). The sanctioning authority must "endeavour to convey the decision on the proposal for sanction within a period of three months", extendable by one further month where legal consultation is needed. |
-| ✅ **Section 17A, PC Act** (inserted 2018) | Requires prior approval of the appropriate authority before a police officer conducts any enquiry, inquiry or investigation into an alleged PC Act offence "relatable to any recommendation made or decision taken by such public servant in discharge of his official functions or duties", with the authority required to convey its decision within three months, extendable by one further month for recorded reasons. |
+| ✅ **Prevention of Corruption Act, 1988** | Consolidates the 1947 Act and 1952 Amendment; broadens "public servant"; contains specified bribery and criminal-misconduct offences; mandates trial by Special Judges; requires day-to-day proceedings as far as practicable. |
+| ✅ **Section 19, PC Act** | Requires prior sanction of the competent authority before a court takes cognizance of offences under Sections **7, 10, 11, 13 and 15** alleged against a public servant. The authority must endeavour to decide within three months, extendable by one further month where legal consultation is needed. |
+| ✅ **Section 17A, PC Act** (inserted 2018) | Requires prior approval of the appropriate authority before a police officer conducts any enquiry, inquiry or investigation into an alleged PC Act offence "relatable to any recommendation made or decision taken by such public servant in discharge of his official functions or duties", with a three-month decision period extendable by one further month for recorded reasons. The on-the-spot acceptance/attempted-acceptance arrest exception must be stated. |
+| 📰 **Section 17A judicial status (13 January 2026)** | In *Centre for Public Interest Litigation v. Union of India*, 2026 INSC 55, the separate opinions were divergent and the operative order referred the issues through the Chief Justice of India for consideration by an appropriate Bench. Neither opinion is a final binding resolution of Section 17A's constitutional validity. |
 | ✅ **Benami Transactions (Prohibition) Act, 1988** | Prohibits holding property in another's ("benami") name to conceal true ownership; Section 5 permitted confiscation, though the ARC (3.5.3) noted rules for confiscation had not been framed for 18 years after enactment. Substantially re-enacted as the **Prohibition of Benami Property Transactions Act, 1988** by the **Benami Transactions (Prohibition) Amendment Act, 2016**, which received assent on 10 August 2016 and was brought into force from **1 November 2016** (S.O. 3289(E)), inserting a fuller definitional, adjudicatory and confiscation architecture. |
-| 📰 **Benami law's retrospectivity status (as at 14 August 2026)** | In *Union of India v. Ganpati Dealcom Pvt Ltd* (23 August 2022), a two-judge Bench held the 2016 Amendment could not apply retrospectively to pre-2016 transactions and struck down the unamended Act's Section 3(2)/Section 5 as unconstitutional — but the **Supreme Court recalled this judgment in full on 18 October 2024**, holding that constitutional validity had been decided without a live contest on that specific question, and **restored the original appeal** for fresh adjudication. ⚠️ The retrospective-application question is therefore currently **open, not settled** — an answer should cite the recall as the live position, not the 2022 holding. |
+| 📰 **Benami law's retrospectivity status** | In *Union of India v. Ganpati Dealcom Pvt Ltd* (23 August 2022), a two-judge Bench held the 2016 Amendment could not apply retrospectively to pre-2016 transactions and struck down the unamended Act's Section 3(2)/Section 5 as unconstitutional — but the **Supreme Court recalled this judgment in full on 18 October 2024**, holding that constitutional validity had been decided without a live contest on that specific question, and **restored the original appeal** for fresh adjudication. ⚠️ The official recall order is the verified current anchor; do not cite the 2022 holding as settled law or assume a later merits result without fresh official verification. |
 | ⚠️ **Non-performance of duty as an ethical/corruption failure** | The ARC's own broader diagnosis of misconduct (see mechanism point 6 below) treats persistent, wilful non-performance or dereliction of duty — not only active bribe-taking — as an ethical failure warranting accountability, since a public servant's core obligation (Rule 3 of the CCS/AIS Conduct Rules, `16`) is precisely "devotion to duty." This is a distinct, narrower claim from "the PC Act criminalises non-performance," which it does not. |
 
 ## 3. Mechanism: how the legal framework is meant to operate
 
-1. **Definitional core (PC Act ss.7-15):** bribery-type offences centre on "gratification," "valuable
-   thing" or "pecuniary advantage" — a transactional, consideration-based definition.
+1. **Definitional core (PC Act ss.7-15):** post-2018 bribery provisions use the defined term
+   "undue advantage" and specify the actor, conduct, intent and public-duty connection. Current
+   Section 13 separately covers entrusted-property misappropriation/conversion and intentional
+   illicit enrichment; every unethical decision is not automatically a PC Act offence.
 2. **Presumption-shifting provisions:** ✅ ARC 3.2.2.5 — the pre-2018 Section 13(1)(e) made a public
    servant guilty of criminal misconduct if unable satisfactorily to account for disproportionate
    assets, and Section 20 shifts the burden to the accused once acceptance of an undue advantage is
@@ -79,8 +82,10 @@ transaction types (coercive vs collusive) requiring different legal responses.
    (a) a **vigilance** screening — is there a "vigilance angle" at all (see `21`); (b) a
    **departmental/disciplinary** proceeding under the CCS (CCA) Rules or All India Services rules,
    decided on preponderance of probability, with penalties up to dismissal; (c) a **criminal**
-   prosecution under the PC Act before a Special Judge, requiring proof beyond reasonable doubt plus
-   Section 17A approval and Section 19 sanction; and (d) a **civil/recovery** action or
+   prosecution under the PC Act before a Special Judge, requiring proof beyond reasonable doubt;
+   Section 17A approval additionally applies where the proposed inquiry concerns a covered official-
+   duty recommendation or decision, while Section 19 sanction operates later before cognizance for
+   listed offences; and (d) a **civil/recovery** action or
    confiscation route (Benami law, attachment under money-laundering law). ⚠️ They run on different
    standards of proof and different timelines, so acquittal in the criminal case does not
    automatically end the departmental proceeding — a distinction case-study answers frequently miss.
@@ -156,6 +161,10 @@ transaction types (coercive vs collusive) requiring different legal responses.
   the Supreme Court's 2022 *Ganpati Dealcom* ruling that it cannot apply retrospectively was
   **recalled in full on 18 October 2024**, so the retrospective-application question is currently
   open, pending fresh adjudication — not a settled position either way.
+- 📰 In *Centre for Public Interest Litigation v. Union of India*, 2026 INSC 55, the Supreme Court's
+  separate Section 17A opinions diverged and the operative order referred the issues through the
+  Chief Justice of India for an appropriate Bench. Do not present either opinion as the Court's
+  final binding resolution.
 - ✅ The Public Interest Disclosure and Protection of Informer (PIDPI) Resolution, 2004 designates
   the CVC as the receiving authority for corruption complaints against central-government/PSU
   employees, with mandatory confidentiality of the complainant's identity — the operative
@@ -182,6 +191,9 @@ transaction types (coercive vs collusive) requiring different legal responses.
   retrospectivity. -> That judgment was recalled in its entirety on 18 October 2024 because the
   Court had ruled on constitutional validity without a live contest on the point; the appeal now
   stands restored for fresh decision, and an answer should cite the recall as the current position.
+- ❌ The Supreme Court finally upheld or invalidated Section 17A in January 2026. -> 2026 INSC 55
+  contains divergent opinions followed by a referral order; neither separate opinion is the final
+  binding resolution.
 - ❌ Non-performance of duty can never amount to corruption unless a bribe is proved. -> The ARC's
   broader "acts of omission" framing (mechanism point 8) treats wilful or grossly negligent
   dereliction as an ethical/corruption failure in its own right; the necessary limit is that a
@@ -205,20 +217,21 @@ transaction types (coercive vs collusive) requiring different legal responses.
 
 - ⚠️ When a case study presents a bribery scenario, first classify it as coercive or collusive
   before recommending a response — the appropriate legal/ethical response differs (protect the
-  victim-complainant in coercive cases; presume and pursue both parties in collusive cases).
+  victim-complainant in coercive cases; investigate the willing beneficiary and recipient under
+  the applicable statutory ingredients in collusive cases).
 - ⚠️ Recommend specific legal reforms by name (collusive-bribery classification, extended PC Act
-  coverage of substantially state-funded NGOs, Benami-rule notification, whistleblower-law
+  coverage of substantially state-funded NGOs, clear Benami transition rules, whistleblower-law
   enforcement) rather than a generic "strengthen anti-corruption law" answer.
 - ⚠️ When a scenario involves suspected wilful non-performance (not a bribe), name it explicitly as
   an "acts of omission" ethical failure per the ARC's broader framing, while explicitly applying the
   bona fides-test limit (`21`) so the answer does not over-criminalise ordinary risk-taking.
 
-> **Answer thesis:** India's anti-corruption legal framework, built around the Prevention of
-> Corruption Act's gratification-based definition, requires explicit differentiation between
-> coercive and collusive bribery — since their detection, proof and appropriate punishment differ
-> fundamentally — supported by complementary, but still-unsettled or still-uncommenced,
-> Benami-asset-recovery and whistleblower-protection law, and by a broader recognition that wilful
-> non-performance, not only bribe-taking, can itself be an ethical/corruption failure.
+> **Answer thesis:** India's anti-corruption legal framework combines provision-specific bribery,
+> corporate-liability, criminal-misconduct and procedural rules with the ARC's analytical
+> distinction between coercive and collusive bribery. Its effectiveness also depends on
+> complementary asset-recovery and whistleblower-protection layers whose present limits must be
+> stated accurately, without converting ethical failure into an offence unless statutory
+> ingredients are proved.
 
 ## 9. Probable questions
 

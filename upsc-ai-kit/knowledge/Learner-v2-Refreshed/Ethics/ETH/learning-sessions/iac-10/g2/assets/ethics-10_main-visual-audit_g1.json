@@ -1,0 +1,831 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-10_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-10_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 33,
+      "markdown_body_line_end": 41,
+      "heading": "SESSION 1 - Why ethical guidance requires more than legal compliance",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Sources of ethical guidance — laws, rules, regulations and conscience — and their relative authority and interaction (official UPSC GS-IV syllabus it",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 641.624
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 56,
+      "heading": "1. Visual foundation",
+      "preview": "SOURCES OF ETHICAL GUIDANCE (distinct, interacting checks — not one rigid ladder)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 618.124
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 517.124
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 77,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 451.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 167,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** Law is a necessary but insufficient source of ethical guidance; a defensible public decision aligns authority, constitutional values, institutional standards, tested conscience, evidence and proportionate, reviewable impl",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 680.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 621.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 187,
+      "heading": "10. Crisis of conscience (historical demand - primary owner)",
+      "preview": "⚠️ 2019 GS-IV Q3(b) (historical demand, routed here): explain the meaning of \"crisis of conscience\" and how it manifests in the public domain.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 397.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 330.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 213,
+      "heading": "10. Crisis of conscience (historical demand - primary owner)",
+      "preview": "⚠️ In ascending order of formality/visibility — start at the lowest rung that adequately resolves the crisis; escalate only if it does not.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 739.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 250,
+      "markdown_body_line_end": 254,
+      "heading": "11. Snowden-type disclosure as the paradigm conscience-vs-law case (historical demand)",
+      "preview": "⚠️ 2018 GS-IV Q12 (historical demand, routed here jointly with `08`, `22`, `23`): Edward Snowden's 2013 disclosure of classified US surveillance programmes, framed as a moral obligation to inform the public though legally prohibited — weigh",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 258.924
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 163.856
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 275,
+      "heading": "12. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 676.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 624.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 310,
+      "heading": "13. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 266.924
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 111.522
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 331,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 595.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 529.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 360,
+      "markdown_body_line_end": 360,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 135.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 90.956
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 366,
+      "markdown_body_line_end": 367,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 414,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 677.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 633.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1561,
+      "markdown_body_line_end": 1567,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Deeper treatment of the hierarchy, conflicts and institutional design implications of ethical-guidance sources. **Grounded in:** 2nd ARC 4th Report *Ethics in Go",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 404.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 317.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1572,
+      "markdown_body_line_end": 1590,
+      "heading": "1. Architecture",
+      "preview": "LEGAL POSITIVISM VIEW              NATURAL-LAW / CONSCIENCE VIEW",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 290.124
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 109.124
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1598,
+      "markdown_body_line_end": 1603,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 463.09
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1699,
+      "markdown_body_line_end": 1701,
+      "heading": "9. CURRENT: Current-anchor application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 608.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 484.29
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1747,
+      "markdown_body_line_end": 1748,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 543.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 498.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1795,
+      "markdown_body_line_end": 1795,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 444.091
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 399.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1806,
+      "markdown_body_line_end": 1837,
+      "heading": "ASCII PANEL 1/12 - 1. Sources of ethical guidance map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1841,
+      "markdown_body_line_end": 1870,
+      "heading": "ASCII PANEL 2/12 - 2. Law, rule, regulation and instruction",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1874,
+      "markdown_body_line_end": 1904,
+      "heading": "ASCII PANEL 3/12 - 3. Legality, ethics and propriety",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1908,
+      "markdown_body_line_end": 1938,
+      "heading": "ASCII PANEL 4/12 - 4. Ethics in making rules",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1942,
+      "markdown_body_line_end": 1971,
+      "heading": "ASCII PANEL 5/12 - 5. Constitutional morality in administration",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1975,
+      "markdown_body_line_end": 2005,
+      "heading": "ASCII PANEL 6/12 - 6. Calibrating conscience",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2009,
+      "markdown_body_line_end": 2039,
+      "heading": "ASCII PANEL 7/12 - 7. Crisis of conscience response ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2043,
+      "markdown_body_line_end": 2073,
+      "heading": "ASCII PANEL 8/12 - 8. Civil disobedience versus institutional dissent",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2077,
+      "markdown_body_line_end": 2107,
+      "heading": "ASCII PANEL 9/12 - 9. Whistleblowing and protected channels",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2111,
+      "markdown_body_line_end": 2142,
+      "heading": "ASCII PANEL 10/12 - 10. Snowden-type external disclosure test",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 153.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2146,
+      "markdown_body_line_end": 2176,
+      "heading": "ASCII PANEL 11/12 - 11. Form, substance and reasoned discretion",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2180,
+      "markdown_body_line_end": 2210,
+      "heading": "ASCII PANEL 12/12 - 12. Answer-writing synthesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2214,
+      "markdown_body_line_end": 2227,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 215.09
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    }
+  ]
+}

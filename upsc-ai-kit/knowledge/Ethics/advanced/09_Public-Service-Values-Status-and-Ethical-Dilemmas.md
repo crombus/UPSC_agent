@@ -24,7 +24,7 @@ Leadership                                     Type 2: Value vs Value
         |                                       (immediate relief vs sustainable/systemic solution)
         v
    CODE OF CONDUCT
-   (precise, sanctionable)
+   (precise; enforceable where adopted in the applicable framework)
 ```
 
 **Analytical claim:** The Nolan principles function as an aspirational *ceiling* while the Code of
@@ -39,6 +39,10 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
 | ✅ **Objectivity in Nolan's specific sense** | Confined to public appointments, contracts, and awarding of benefits — narrower than a general "be unbiased" injunction; it is procedural (merit-based selection), not a claim about value-neutrality in policy itself. |
 | ⚠️ **Nested dilemmas** | Complex administrative situations often contain more than one dilemma simultaneously (e.g., a disaster-relief case combining resource-allocation fairness, personal-versus-duty conflict, and transparency-versus-order-maintenance) — advanced answers should decompose and address each nested dilemma distinctly. |
 | ⚠️ **Genuine vs manufactured dilemma** | A "manufactured" dilemma disguises a simple rule violation as a values conflict (e.g., presenting bribery as "compassionate flexibility") — an advanced skill is distinguishing real value conflicts from rule violations dressed up as dilemmas. |
+| ⚠️ **Status and role morality** | Public office confers authority, informational advantage and control of common resources; the role therefore justifies heightened restraint, impartiality, reasons and scrutiny rather than special personal privilege. |
+| ⚠️ **Political neutrality** | The permanent executive owes lawful implementation to the elected government while retaining duties of frank advice, constitutional fidelity, non-partisanship and recorded professional dissent. |
+| ⚠️ **Public/private boundary** | Family, financial, associational and post-employment relationships become ethically relevant when they intersect with official power; proportionate disclosure, screening, recusal or documentation protects public confidence. |
+| ⚠️ **Bounded discretion** | Administrative judgment is legitimate only within authority, relevant facts, equal criteria, proportionality, written reasons and review; discretion without those safeguards becomes arbitrariness. |
 
 ## 3. Detailed treatment
 
@@ -85,14 +89,13 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
 ## 4. Institutional and reform architecture
 
 - ✅ ARC 2.2.6's Code of Ethics/Code of Conduct distinction operationalises the Nolan principles:
-  the Code of Ethics states the aspirational Nolan-type standard; the Code of Conduct converts the
-  narrower, more objectively verifiable elements (gift limits, disclosure timelines, post-retirement
-  cooling-off) into sanctionable rules (see `16` for the full ARC recommendations on Ministers' and
-  legislators' codes).
-- ⚠️ India's continuing gap (Code of Conduct largely in place; comprehensive Code of Ethics still
-  incomplete for many public-office categories) is directly tested — 2025 GS-IV Q5(a) asks
-  candidates to "suggest a suitable model for code of ethics" precisely because the ARC's 2007
-  recommendation for a Ministers' Code of Ethics has not been comprehensively implemented.
+  the Code of Ethics states the aspirational Nolan-type standard; the Code of Conduct translates
+  narrower, objectively verifiable elements into precise standards. Those standards are
+  sanctionable only where the applicable law or service framework supplies enforcement (see `16`).
+- ⚠️ 2025 GS-IV Q5(a) itself presents a premise contrasting an operating Code of Conduct with a
+  Code of Ethics "not yet put in place" and asks for a suitable model. Use that as the question's
+  framing; do not generalise it into a live status claim for every category of Indian public office
+  without separate official verification.
 
 ## 5. Indian applications and boundary cases
 
@@ -122,9 +125,9 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
 - ✅ ARC's own recommendation (2.4.5) was that a Code of Ethics be created *in addition to* the
   existing Code of Conduct for Ministers, monitored by dedicated units in the PM's/CM's offices with
   an annual report to the legislature.
-- ✅ 2025 GS-IV Q5(a) explicitly acknowledges that India's Code of Conduct is "already in operation"
-  while a Code of Ethics remains "not yet put in place" — matching the ARC's own 2007 diagnosis,
-  still substantially unresolved as of the current PYQ.
+- ✅ 2025 GS-IV Q5(a) explicitly frames its own problem as a Code of Conduct "already in operation"
+  and a Code of Ethics "not yet put in place." Attribute this to the paper's premise rather than
+  treating it as proof of status across all public-office categories.
 - ✅ ARC 2.4.5(b)-(d) also specify *how* such a Code should be monitored: dedicated units in the
   offices of the Prime Minister and Chief Ministers, empowered to receive public complaints, with
   an annual report on observance — including specific violations and action taken — submitted to
@@ -139,9 +142,9 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
 - ❌ A genuine ethical dilemma always involves two "equally good" options. -> Options can be
   legitimately unequal in ethical weight; the dilemma is that both options honour some legitimate,
   competing duty, not that they are equivalent in merit.
-- ❌ The ARC's Code of Ethics recommendation for Ministers has been fully implemented. -> The 2025
-  GS-IV paper itself confirms the Code of Ethics is "not yet put in place", matching the ARC's
-  2007, still-largely-unaddressed recommendation.
+- ❌ The 2025 paper proves that no Indian public body has any Code of Ethics. -> The paper supplies
+  a problem premise for the answer; implementation status varies by institution and must be
+  independently verified before making a general claim.
 - ❌ The Nolan wording the ARC reproduces is the current UK text. -> The ARC quotes the Committee on
   Standards in Public Life's **1995** formulation; the UK's official wording has since been
   revised. Cite the ARC's version as the ARC's, not as today's UK standard.
@@ -150,14 +153,13 @@ them, where conduct is technically lawful but the Nolan-standard resolution is c
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 2025 GS-IV Q5(a)'s own framing ("Code of Ethics is not yet put in place") | Confirms, from a verified current exam source, that the ARC's 2007 Code-of-Ethics recommendation for Ministers remains substantially unimplemented — a dated-recommendation-vs-current-status point directly usable in any Mains answer. |
+| 📰 DARPG, *CPGRAMS Monthly Report for Central Ministries/Departments, June 2026* | The report states that June 2026 was the 48th consecutive month with Central Secretariat disposal above one lakh, with 78,793 pending grievances, about 68% pending under 21 days, and 83,544 new registrations. ⚠️ These metrics illustrate answerability and administrative monitoring; ethical accountability additionally requires fair reasons, remedy quality, accessibility and non-retaliation. |
 
 ## 10. PYQ-based analytical application
 
 - ✅ 2025 GS-IV Q5(a) rewards a candidate who (a) states the Code of Ethics/Code of Conduct
-  distinction precisely, (b) notes the current implementation gap, and (c) proposes a specific,
-  Nolan-principle-based model (e.g., integrity/openness/accountability clauses with a monitoring
-  unit, as the ARC itself recommended in 2.4.5).
+  distinction precisely, (b) works within the implementation premise given by the question, and
+  (c) proposes a specific Nolan-principle-based model with monitoring and reporting safeguards.
 - ✅ 2025 GS-IV Q7 (Section B case study) rewards decomposition into nested dilemmas (personal/duty,
   distributive-justice, transparency) rather than a single blended narrative response.
 
@@ -170,11 +172,12 @@ finally checking the proposed resolution against all seven Nolan principles for 
 defensibility.
 
 1. State the dilemma(s) precisely; test genuine vs manufactured.
-2. Decompose nested dilemmas if more than one competing-duty pair exists.
-3. Apply the relevant Nolan principle(s) as an aspirational checklist.
-4. Apply a moral-theory triangulation (`08`) to each sub-dilemma.
-5. Propose a resolution that is defensible under external scrutiny (Nolan's accountability test).
-6. Note the current Code of Ethics/Code of Conduct implementation gap where relevant.
+2. Identify how public status, role morality, political neutrality or a private relationship shapes
+   the duty.
+3. Decompose nested dilemmas if more than one competing-duty pair exists.
+4. Apply the relevant Nolan principle(s), constitutional boundary and bounded-discretion tests.
+5. Apply a moral-theory triangulation (`08`) to each sub-dilemma.
+6. Give a recorded, reviewable resolution defensible under external scrutiny.
 
 ## 12. Probable questions
 

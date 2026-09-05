@@ -15,20 +15,15 @@
 ## 1. Visual foundation
 
 ```text
-SOURCES OF ETHICAL GUIDANCE (widening circle of authority and internalisation)
---------------------------------------------------------------------------------
-Conscience/personal moral sense   -- innermost, self-authored, hardest to codify
-        |
-Family/religion/culture           -- socially transmitted, pre-institutional
-        |
-Professional codes of ethics      -- occupation-specific aspirational standards
-        |
-Codes of conduct/service rules    -- institution-specific, sanctionable
-        |
-Statutory law (PC Act, IPC, RTI)  -- state-enforced, universally binding
-        |
-Constitution/constitutional        -- outermost, foundational; "constitutional
-morality                             morality" binds even where ordinary law is silent
+SOURCES OF ETHICAL GUIDANCE (distinct, interacting checks — not one rigid ladder)
+---------------------------------------------------------------------------------
+Conscience / social formation  -> moral alarm, motivation and reflection
+Professional code of ethics   -> occupation-specific aspirational standards
+Code of conduct / service rule-> precise institutional duties under its legal basis
+Regulation / delegated rule   -> binding norm within delegated statutory authority
+Statute                       -> legislatively enacted legal duties and powers
+Constitutional legality       -> equality, liberty, due process and limits on all power
+Reasoned institutional process-> facts, consultation, recorded reasons, review and remedy
 ```
 
 **Core proposition:** ✅ ARC **Box 2.3** (quoting US Senator Fulbright, sourced to the Senate Ethics
@@ -41,24 +36,30 @@ sufficient ethical ceiling.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ⚠️ **Conscience** | An individual's internalised moral sense, formed by upbringing, reflection and experience, that judges an act as right/wrong independent of external rule. |
-| ✅ **Law/Rules/Regulations** | Externally codified, state-enforced standards carrying formal sanctions for violation — necessary for consistency and enforceability but, per ARC/Fulbright, not co-extensive with ethics. |
-| ✅ **Constitutional morality** | ✅ 2025 GS-IV Q1(b), verbatim: "not a natural sentiment but a product of civil education and adherence to the rule of law" — a deliberately cultivated commitment to constitutional values (equality, liberty, due process, restraint of power), distinguished from unreflective popular/majoritarian morality. |
-| ⚠️ **Hierarchy of guidance in a conflict** | When sources conflict (e.g., conscience says disclose a wrongdoing; departmental rule says maintain confidentiality), a public servant must weigh legality first (does law permit/require the act), then institutional rule, then personal conscience — while recognising conscience may still justify principled dissent (whistleblowing) through lawful channels. |
+| ⚠️ **Conscience** | An individual's internal moral judgment, shaped by upbringing, social experience and reflection. It can identify a wrong not yet codified, but may also be biased, incomplete or overconfident. |
+| ✅ **Law** | A binding legal norm whose validity, scope and enforcement depend on the applicable constitutional and statutory framework. |
+| ✅ **Rule** | Usually delegated or subordinate legislation made under an enabling law; it cannot exceed the authority, purpose or procedure supplied by that law. |
+| ✅ **Regulation** | Commonly a binding delegated norm issued by a statutory regulator or authorised body within its enabling framework; it is not a synonym for every office instruction. |
+| ⚠️ **Administrative instruction** | A circular, guideline or office memorandum may guide administration, but its legal force depends on authority and context; it is not automatically delegated legislation. |
+| ⚠️ **Constitutional morality** | A cultivated commitment to constitutional values and procedures — equality, liberty, due process, restraint and reasoned public power — rather than transient majority sentiment or personal preference. The 2025 GS-IV Q1(b) framing is a useful cross-link owned primarily by Topics `13` and `14`. |
+| ⚠️ **Calibrating a conflict** | Identify authority and constitutional limits, distinguish an unlawful order from an ethically troubling lawful one, test conscience against facts and bias, then use recorded objection, escalation, review or protected channels before exceptional external action. |
 
 ## 3. Mechanism: how the sources interact
 
-1. **Conscience** is the first, often pre-reflective, response to a situation — necessary but
-   insufficient alone, since it can be miscalibrated by bias or incomplete information.
+1. **Conscience** can provide an early moral warning, but it must be tested against facts,
+   constitutional values, role duties, bias and the interests of affected citizens.
 2. **Codes of ethics** translate widely-shared conscience-level values (integrity, fairness) into
    occupation-specific aspirational standards (see `16`).
-3. **Codes of conduct/service rules** convert the most objectively verifiable elements of those
-   standards into enforceable, sanctionable norms.
-4. **Statutory law** (PC Act, IPC, RTI Act) provides the state's binding floor, applicable to all
-   citizens/officials regardless of personal conscience or professional code.
-5. **Constitutional morality** operates as the outermost, foundational commitment — it can require
-   an official to act *against* an unjust ordinary rule or majoritarian preference, in fidelity to
-   constitutional values, when the two conflict.
+3. **Codes of conduct/service rules** translate verifiable duties into precise institutional
+   standards; their enforceability depends on the governing legal and service framework.
+4. **Statutes and delegated norms** supply binding duties within their defined scope. Examples
+   include the Prevention of Corruption Act, the Right to Information Act and, for relevant
+   criminal-law questions after 1 July 2024, the Bharatiya Nyaya Sanhita rather than the repealed
+   Indian Penal Code. These enactments do not apply identically to every citizen or official.
+5. **Constitutional legality and morality** require equality, due process, non-arbitrariness and
+   restraint. They do not authorise an individual official to disregard a valid rule merely because
+   it seems unjust; the official should seek lawful interpretation, recorded review, escalation or
+   competent constitutional remedy.
 6. ✅ Fulbright's warning (ARC Box 2.3) captures the risk at the narrowest end: an official who
    "under the guise of friendship, accept[s] favors, which offend the spirit of the law but do not
    violate its letter" has satisfied legality while failing ethics and propriety.
@@ -68,21 +69,22 @@ sufficient ethical ceiling.
 - ⚠️ An officer refusing an instruction that is *lawful* but conscience-troubling (e.g., a
   technically permissible but ethically dubious land reallocation) may seek internal review,
   written objection, or escalation rather than either blind compliance or unlawful refusal.
-- ✅ 2025 GS-IV Q1(b) tests constitutional morality's role in "ensuring accountability" — showing
-  that the exam expects candidates to treat constitutional morality as a *distinct, higher-order*
-  source of guidance, not simply another synonym for "following the law."
-- ⚠️ A whistleblower disclosing wrongdoing through a lawful, protected channel (rather than
-  anonymous leaks) exemplifies conscience operating *within*, not against, institutional and legal
-  channels (see `19` for whistleblower-protection law).
+- ⚠️ 2025 GS-IV Q1(b), routed primarily to Topics `13` and `14`, is a useful cross-application:
+  constitutional morality is not synonymous with technical compliance, yet remains tied to the
+  rule of law and accountable institutional process.
+- ⚠️ Evidence-based reporting of wrongdoing through an authorised or protected channel exemplifies
+  conscience operating within accountable process. The existence and scope of legal protection
+  must be verified for the specific channel; it should not be assumed from the label
+  "whistleblower" alone (see `19`).
 
 ## 5. Must-Know Facts for Prelims
 
 - ✅ ARC **Box 2.3** cites US Senator Fulbright, sourced to the Senate Ethics Manual (2003), warning
   against equating morality with mere legality.
-- ✅ Constitutional morality (2025 GS-IV Q1(b)) is explicitly described as a product of "civil
-  education and adherence to the rule of law", not an automatic or natural sentiment.
-- ⚠️ The standard hierarchy taught for GS-IV: conscience -> professional/social codes -> codes of
-  conduct/service rules -> statutory law -> constitutional morality (outermost, foundational).
+- ⚠️ 2025 GS-IV Q1(b) describes constitutional morality as a product of civil education and
+  adherence to the rule of law; use it here as a cross-link rather than direct Topic `10` ownership.
+- ⚠️ These sources are not a single mechanical hierarchy. Constitutional limits are part of the
+  legality test, while conscience, codes, statutes, delegated norms, evidence and review interact.
 - ⚠️ Legality, morality and propriety are three separate tests (see `01`); the Fulbright passage is
   the classic statement of the gap between the first and the last two.
 
@@ -104,23 +106,23 @@ sufficient ethical ceiling.
   this objective. (b) Giving examples, show how the two differ in their approaches." — compare
   source, enforcement, minimum standard and examples rather than treating law and ethics as
   interchangeable.
-- ✅ 2025 GS-IV Q1(b): constitutional morality's role in promoting good governance and accountability
-  — a direct test of this topic's outermost source of guidance.
+- ⚠️ 2025 GS-IV Q1(b) is a cross-application on constitutional guidance and accountability; its
+  primary routing is to Topics `13` and `14`.
 - ⚠️ Any question on "law vs ethics" (e.g., Kant's 2024 GS-IV Q3(c) quotation, see `07`) is a
   sources-of-guidance question at its core, testing whether law and ethics are co-extensive.
 
 ## 8. Mains angles
 
-- ⚠️ Structure a "sources of guidance" answer as: name the applicable sources in the given scenario
-  -> identify any conflict between them -> apply the hierarchy (legality first, then institutional
-  rule, then conscience, with constitutional morality as the ultimate check) -> propose a resolution
-  through lawful, institutional channels wherever conscience objects.
+- ⚠️ Structure a "sources of guidance" answer as: identify authority and the applicable source ->
+  distinguish unlawful, unconstitutional and merely conscience-troubling demands -> test facts,
+  purpose, fairness and harms -> use recorded, proportionate institutional channels -> preserve
+  review and remedy.
 - ⚠️ Always distinguish "law-abiding" from "ethical" explicitly when the question invites it — this
   single move often separates a strong answer from an average one.
 
-> **Answer thesis:** Law is a necessary but insufficient source of ethical guidance; a genuinely
-> ethical public servant is one whose conscience, professional code and constitutional-morality
-> commitment together exceed mere legal compliance, expressed through lawful institutional channels.
+> **Answer thesis:** Law is a necessary but insufficient source of ethical guidance; a defensible
+> public decision aligns authority, constitutional values, institutional standards, tested
+> conscience, evidence and proportionate, reviewable implementation.
 
 ## 9. Probable questions
 
@@ -233,9 +235,9 @@ sufficient ethical ceiling.
    returning officer registering written objection and escalating to the Election Commission rather
    than publicly refusing an unlawful instruction (see `advanced/10`). *Significance:* models lawful
    conscience-driven dissent. *Limitation:* the ladder presupposes a functioning escalation/
-   whistleblower mechanism — where it is weak (India's still-uncommenced Whistle Blowers Protection
-   Act, 2014, see `19`), officials face a genuine residual dilemma between silence and unprotected
-   disclosure.
+   whistleblower mechanism — where coverage or protection is weak or uncertain, officials face a
+   genuine residual dilemma between silence and potentially unprotected disclosure. Verify current
+   legal status and channel scope in Topic `19` before making a dated claim.
 3. *Claim:* Proportionality determines the ethical defensibility of a Snowden-type disclosure, not
    the bare fact of disclosure. *Evidence:* Section 11's treatment of the 2018 GS-IV Q12 case.
    *Significance:* gives a transferable test for any leak-vs-loyalty administrative dilemma.

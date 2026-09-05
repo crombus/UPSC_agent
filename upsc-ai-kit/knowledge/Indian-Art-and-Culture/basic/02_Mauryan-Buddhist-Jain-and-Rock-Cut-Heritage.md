@@ -609,3 +609,28 @@ carries (§13.4).
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** Mauryan court and non-court production, Ashokan pillars,
+  Barabar-Nagarjuni, stupa anatomy and accretion, chaitya-vihara functions,
+  Buddhist/Jain/Brahmanical rock-cut sequences and inscriptional evidence.
+- **Source/inference control:** plans, fabric, inscriptions and dedications
+  are evidence; patronage binaries, aniconic-to-iconic causation, Elephanta
+  attribution and a monument's complete social meaning remain qualified.
+- **Date control:** Ashokan foundations, Sunga/Satavahana enlargements, Gupta
+  additions, Ajanta phases and overlapping Ellora phases are not collapsed
+  into single-ruler monuments.
+- **Geography control:** Bihar, Sanchi, the Waghora gorge, Ellora, Elephanta,
+  Odisha and Amaravati retain distinct regions, patrons and materials.
+- **Terminology/style control:** pillar, capital, stupa, anda, medhi, vedika,
+  harmika, chhatra, torana, chaitya and vihara are never interchanged.
+- **Iconography control:** Topic 06 owns sculpture and freestanding
+  iconographic typology; architecture-integrated relief is used here only to
+  explain monument, movement, patronage and chronology.
+- **Boundary:** Ancient History owns dynastic narrative and doctrinal history;
+  Topic 13 owns philosophical depth. Topic 14 owns institutional policy and
+  changing UNESCO/ASI status.
+- **Verified PYQ ownership, 2018-2026:** the neutral-rendered 2020 GS-I
+  rock-cut architecture demand is direct. Locally unkeyed objective routes
+  remain unsolved and no official key is inferred.

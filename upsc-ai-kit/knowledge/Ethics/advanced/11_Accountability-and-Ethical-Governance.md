@@ -37,7 +37,7 @@ advanced answers must name the mechanism of failure, not just assert failure.
 | ✅ **Retail vs "scam"-level corruption** | ARC Colloquium annexure distinguishes widespread, extortionary "retail corruption" (touching ordinary citizens routinely) from large, politically-linked "scams" — the judiciary (via PIL/Article 142) has been more visibly activist against scams than against pervasive retail corruption, which is empirically more common (citing Public Affairs Centre studies: roughly 1-in-4 in Chennai, 1-in-8 in Bangalore, 1-in-17 in Pune reporting a bribe payment in specific service interactions, a 2000s-era estimate). |
 | ⚠️ **Four conditions for effective judicial accountability** (per the ARC Colloquium address) | Judicial independence, judicial enforcement, free access to the judiciary, and judicial effectiveness (speed/organisational efficiency) — India satisfies the first three robustly but lags on the fourth (chronic case backlog). |
 | ⚠️ **Accountability diffusion** | ARC 1.9's insight (see `01`) that over-centralisation widens the distance between authority and accountability — the more layers between decision and citizen, the harder it is to pin responsibility on an identifiable individual. |
-| ⚠️ **Concurrent vs post-facto audit** | Concurrent audit reviews transactions close to real time, enabling corrective action while a scheme is still running; post-facto audit (India's traditional CAG model) reviews transactions years later, primarily serving retrospective accountability/deterrence rather than in-course correction. |
+| ⚠️ **Concurrent vs ex-post audit** | Concurrent/internal assurance reviews transactions close to real time and can support in-course correction. CAG's independent audit and legislative scrutiny are predominantly ex post and remain indispensable for propriety, performance, responsibility-fixing and systemic learning. The two are complementary. |
 
 ## 3. Detailed treatment
 
@@ -66,16 +66,16 @@ advanced answers must name the mechanism of failure, not just assert failure.
   the impact of high-profile PIL activism on the much larger, more socially damaging retail-
   corruption problem, which requires trial-court capacity and process reform instead.
 
-### Concurrent audit as a structural fix to accountability's time-lag problem
+### Concurrent assurance as a complement to independent ex-post audit
 
 - ✅ The Fifth Pay Commission's own words (cited in the ARC Colloquium annexure): "Scandals and
   scams are known even while they are being planned and executed... Post-mortems are useful but can
   only be conducted while the patient is dead. It is better to cure the patient and try to keep him
   alive" — a direct institutional argument for real-time/concurrent auditing over exclusively
   post-facto review.
-- ⚠️ Digital public-finance management systems (real-time expenditure tracking, DBT dashboards)
-  operationalise this concurrent-audit principle far more feasibly today than when the Fifth Pay
-  Commission wrote its recommendation, strengthening the case for their expanded use.
+- ⚠️ Digital public-finance management systems can support transaction flags and in-course
+  correction where data quality, review responsibility and escalation are specified. They
+  complement rather than replace CAG audit, legislative scrutiny or independent investigation.
 
 ### Social control — civil society and information as an accountability multiplier
 
@@ -110,9 +110,9 @@ advanced answers must name the mechanism of failure, not just assert failure.
 
 ## 5. Indian applications and boundary cases
 
-- ⚠️ A centrally sponsored scheme with real-time, geo-tagged, publicly viewable expenditure and
-  physical-progress dashboards addresses accountability diffusion (ARC 1.9) by making both the
-  decision-maker and the outcome simultaneously visible to internal, external and social control.
+- ⚠️ A centrally sponsored scheme with real-time, geo-tagged expenditure and physical-progress
+  dashboards can reduce accountability diffusion only if responsible officers, exception-review
+  duties, public access, data-quality checks and escalation routes are identifiable.
 - ⚠️ Boundary case: digital dashboards improve *transparency* (visibility of data) but do not by
   themselves guarantee *accountability* (a consequence attaching to the responsible individual)
   unless paired with a clear escalation/sanction mechanism when the data reveals a problem.
@@ -160,13 +160,13 @@ advanced answers must name the mechanism of failure, not just assert failure.
 
 | Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| ⚠️ Digitally tracked public-expenditure systems such as DBT/PFMS | Illustrate concurrent accountability at scale; cite a dated PFMS/DBT report before adding current coverage or savings claims. |
+| ✅ CAG, *Implementation of Mahatma Gandhi National Rural Employment Guarantee Act in Rajasthan*, Report No. 2 of 2026, tabled 21 August 2026 | Current external-accountability anchor. Use the report metadata to illustrate independent audit and follow-up architecture; do not invent audit findings or financial totals without the report page. |
 
 ## 10. PYQ-based analytical application
 
-- ✅ 2025 GS-IV Q6(b) rewards an answer naming *specific* accountability mechanisms (concurrent/
-  digital audit, independent investigative agencies, whistleblower protection, social audit) mapped
-  to the internal-external-social control triad, rather than a generic "fight corruption" answer.
+- ⚠️ 2025 GS-IV Q6(b) is primarily Topic `18` because it concerns utilisation of public funds.
+  Topic `11` supplies shared mechanisms: responsibility mapping, traceable transactions,
+  concurrent controls, independent audit, social audit, grievance remedy and enforceable follow-up.
 - ⚠️ Cross-reference `20` for the CVC/CBI/Lokpal jurisdiction-specific ethics angle when a question
   asks specifically about anti-corruption institutions rather than accountability broadly.
 

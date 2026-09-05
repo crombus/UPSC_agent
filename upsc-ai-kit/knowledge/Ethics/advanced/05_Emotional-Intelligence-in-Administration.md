@@ -14,8 +14,8 @@
 
 ```text
 ABILITY MODEL (Salovey-Mayer)        MIXED/COMPETENCY MODEL (Goleman)     TRAIT MODEL (Bar-On)
-perceive -> understand ->            self-awareness, self-regulation,     emotional + social
-manage -> use emotion                 motivation, empathy, social skill    competencies (EQ-i)
+perceive -> use emotion ->            self-awareness, self-regulation,     emotional + social
+understand -> manage                  motivation, empathy, social skill    competencies (EQ-i)
         \                                     |                                  /
          \                                    v                                 /
           -------------------->  APPLIED TO: crisis leadership, stakeholder ----
@@ -65,8 +65,8 @@ also identify EI's dark-side risk (emotional skill used manipulatively rather th
   provide **structural supports** — succession/delegation protocols during crises, peer-support and
   debrief mechanisms after trauma exposure, and rotation policies that prevent chronic burnout in
   high-stress postings (disaster management, law and order, frontline health).
-- ⚠️ Mission Karmayogi's behavioural-competency modules on the iGOT-Karmayogi platform (Cabinet
-  approval 2 September 2020) represent an attempt to formalise EI-adjacent training, but competency
+- ⚠️ Mission Karmayogi's behavioural-competency architecture on the iGOT-Karmayogi platform
+  represents an attempt to formalise EI-adjacent training, but competency
   modules alone cannot substitute for structural crisis-management protocols.
 
 ### The manipulation risk — EI's ethical boundary

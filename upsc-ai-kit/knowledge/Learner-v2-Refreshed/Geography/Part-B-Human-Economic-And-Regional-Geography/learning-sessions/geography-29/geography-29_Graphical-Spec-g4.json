@@ -1,0 +1,1138 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-29",
+  "subject": "Geography",
+  "title": "REGIONAL DEVELOPMENT AND FIVE YEAR PLANS",
+  "short_route": "DIVERSITY VERSUS DISPARITY → UNEVEN DEVELOPMENT DRIVERS → GROWTH POLE MECHANISM → CORE-PERIPHERY AND BACKWASH → PLANNING REGION CRITERIA → INDIAN PLANNING TIMELINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g4 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-B-Human-Economic-And-Regional-Geography\\learning-sessions\\geography-29\\geography-29_Complete-Learning-Session_2026-08-22.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-29-2026-09-01-sequential-g3.json",
+  "ascii_spec_sha256": "480a2f72d66ebaa04278335cba30147eda96bfb16cff79aae8621be7c7702952",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DIVERSITY VERSUS DISPARITY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DIVERSITY VERSUS DISPARITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENCE OF CHARACTER",
+          "role": "outcome"
+        },
+        {
+          "text": "LANGUAGE, ECOLOGY, CULTURE, CROPS",
+          "role": "comparison"
+        },
+        {
+          "text": "RANKED INEQUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "INCOME, LITERACY, HEALTH, INFRASTRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "DIVERSITY IS ACCOMMODATED; DISPARITY IS REDUCED",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING INEQUALITY AS HARMLESS VARIETY IS A DIRECT EXAM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DIVERSITY → difference of character: language, ecology, culture, crops",
+        "DISPARITY → ranked inequality: income, literacy, health, infrastructure",
+        "POLICY → diversity is accommodated; disparity is reduced",
+        "TRAP → treating inequality as harmless variety is a direct exam error"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "DIVERSITY → difference of character: language, ecology, culture, crops",
+          "POLICY → diversity is accommodated; disparity is reduced",
+          "DIVERSITY → difference of character: language, ecology, culture, crops"
+        ],
+        [
+          "DISPARITY → ranked inequality: income, literacy, health, infrastructure",
+          "TRAP → treating inequality as harmless variety is a direct exam error",
+          "DISPARITY → ranked inequality: income, literacy, health, infrastructure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DIVERSITY → difference of character: language, ecology, culture, crops",
+            "DISPARITY → ranked inequality: income, literacy, health, infrastructure"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLICY → diversity is accommodated; disparity is reduced",
+            "TRAP → treating inequality as harmless variety is a direct exam error"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DIVERSITY → difference of character: language, ecology, culture, crops",
+            "DISPARITY → ranked inequality: income, literacy, health, infrastructure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → treating inequality as harmless variety is a direct exam error.",
+      "source_references": [
+        "Disparity versus diversity"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "UNEVEN DEVELOPMENT DRIVERS",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UNEVEN DEVELOPMENT DRIVERS",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCE ENDOWMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MINERALS, FERTILE LAND, PORTS OR IRRIGATION CLUSTER GROWTH",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSPORT + MARKET",
+          "role": "evidence"
+        },
+        {
+          "text": "CORRIDORS AND URBAN NODES OUTPACE INTERIORS",
+          "role": "primary"
+        },
+        {
+          "text": "HISTORICAL HEAD START",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLIER CENTRES KEEP CUMULATIVE ADVANTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE CAPACITY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RESOURCE ENDOWMENT → minerals, fertile land, ports or irrigation cluster growth",
+        "TRANSPORT + MARKET → corridors and urban nodes outpace interiors",
+        "HISTORICAL HEAD START → earlier centres keep cumulative advantage",
+        "STATE CAPACITY → policy and governance decide whether lagging regions catch up"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "RESOURCE ENDOWMENT → minerals, fertile land, ports or irrigation cluster growth",
+            "TRANSPORT + MARKET → corridors and urban nodes outpace interiors"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HISTORICAL HEAD START → earlier centres keep cumulative advantage",
+            "STATE CAPACITY → policy and governance decide whether lagging regions catch up"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "RESOURCE ENDOWMENT → minerals, fertile land, ports or irrigation cluster growth",
+            "TRANSPORT + MARKET → corridors and urban nodes outpace interiors"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE CAPACITY → policy and governance decide whether lagging regions catch up.",
+      "source_references": [
+        "Uneven development drivers"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GROWTH POLE MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GROWTH POLE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PROPULSIVE NODE",
+          "role": "outcome"
+        },
+        {
+          "text": "DYNAMIC INDUSTRY OR CITY BECOMES THE GROWTH POLE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPLIERS, LABOUR AND MARKETS CLUSTER AROUND THE POLE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPREAD EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "BENEFITS DIFFUSE OUTWARD IF LINKAGES DEEPEN LOCALLY",
+          "role": "outcome"
+        },
+        {
+          "text": "A POLE MAY REMAIN AN ENCLAVE WITHOUT REGIONAL DIFFUSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROPULSIVE NODE → dynamic industry or city becomes the growth pole",
+        "LINKAGES → suppliers, labour and markets cluster around the pole",
+        "SPREAD EFFECT → benefits diffuse outward if linkages deepen locally",
+        "LIMIT → a pole may remain an enclave without regional diffusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PROPULSIVE NODE → dynamic industry or city becomes the growth pole",
+            "LINKAGES → suppliers, labour and markets cluster around the pole"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPREAD EFFECT → benefits diffuse outward if linkages deepen locally",
+            "LIMIT → a pole may remain an enclave without regional diffusion"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PROPULSIVE NODE → dynamic industry or city becomes the growth pole",
+            "LINKAGES → suppliers, labour and markets cluster around the pole"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → a pole may remain an enclave without regional diffusion.",
+      "source_references": [
+        "Perroux growth pole idea",
+        "Balanced-unbalanced growth debate"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CORE-PERIPHERY AND BACKWASH",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CORE-PERIPHERY AND BACKWASH",
+          "role": "primary"
+        },
+        {
+          "text": "CAPITAL, SERVICES, INFRASTRUCTURE AND DECISION POWER CONCENTRATE",
+          "role": "mechanism"
+        },
+        {
+          "text": "LABOUR, RAW MATERIALS AND DEMAND ARE ORGANISED AROUND THE",
+          "role": "comparison"
+        },
+        {
+          "text": "TALENT AND CAPITAL DRAIN OUTWARD TOWARD THE CORE",
+          "role": "evidence"
+        },
+        {
+          "text": "TECHNOLOGY AND DEMAND MAY DIFFUSE, BUT NOT AUTOMATICALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CORE → capital, services, infrastructure and decision power concentrate",
+        "PERIPHERY → labour, raw materials and demand are organised around the core",
+        "BACKWASH → talent and capital drain outward toward the core",
+        "SPREAD → technology and demand may diffuse, but not automatically"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "CORE → capital, services, infrastructure and decision power concentrate",
+          "BACKWASH → talent and capital drain outward toward the core",
+          "CORE → capital, services, infrastructure and decision power concentrate"
+        ],
+        [
+          "PERIPHERY → labour, raw materials and demand are organised around the core",
+          "SPREAD → technology and demand may diffuse, but not automatically",
+          "PERIPHERY → labour, raw materials and demand are organised around the core"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "CORE → capital, services, infrastructure and decision power concentrate",
+            "PERIPHERY → labour, raw materials and demand are organised around the core"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BACKWASH → talent and capital drain outward toward the core",
+            "SPREAD → technology and demand may diffuse, but not automatically"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "CORE → capital, services, infrastructure and decision power concentrate",
+            "PERIPHERY → labour, raw materials and demand are organised around the core"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPREAD → technology and demand may diffuse, but not automatically.",
+      "source_references": [
+        "Friedmann core-periphery logic",
+        "Myrdal spread and backwash"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PLANNING REGION CRITERIA",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLANNING REGION CRITERIA",
+          "role": "primary"
+        },
+        {
+          "text": "FUNCTIONAL UNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FLOWS AND LINKAGES HOLD THE REGION TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE MANAGEABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "POLICY MUST ACTUALLY BE IMPLEMENTABLE",
+          "role": "primary"
+        },
+        {
+          "text": "ECONOMIC + ECOLOGICAL VIABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGY AND RESOURCE BASE MUST ALIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL ACCEPTABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FUNCTIONAL UNITY → flows and linkages hold the region together",
+        "ADMINISTRATIVE MANAGEABILITY → policy must actually be implementable",
+        "ECONOMIC + ECOLOGICAL VIABILITY → strategy and resource base must align",
+        "SOCIAL ACCEPTABILITY → regional identity and needs affect success"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "FUNCTIONAL UNITY → flows and linkages hold the region together",
+          "ECONOMIC + ECOLOGICAL VIABILITY → strategy and resource base must align",
+          "FUNCTIONAL UNITY → flows and linkages hold the region together"
+        ],
+        [
+          "ADMINISTRATIVE MANAGEABILITY → policy must actually be implementable",
+          "SOCIAL ACCEPTABILITY → regional identity and needs affect success",
+          "ADMINISTRATIVE MANAGEABILITY → policy must actually be implementable"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "FUNCTIONAL UNITY → flows and linkages hold the region together",
+            "ADMINISTRATIVE MANAGEABILITY → policy must actually be implementable"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECONOMIC + ECOLOGICAL VIABILITY → strategy and resource base must align",
+            "SOCIAL ACCEPTABILITY → regional identity and needs affect success"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FUNCTIONAL UNITY → flows and linkages hold the region together",
+            "ADMINISTRATIVE MANAGEABILITY → policy must actually be implementable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOCIAL ACCEPTABILITY → regional identity and needs affect success.",
+      "source_references": [
+        "Planning region criteria"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIAN PLANNING TIMELINE",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIAN PLANNING TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL PLANNING COMMITTEE BEGINS THE PLANNING IMAGINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNING COMMISSION SET UP AND FIRST PLAN LAUNCHED",
+          "role": "comparison"
+        },
+        {
+          "text": "ANNUAL PLANS AFTER WAR, DROUGHT AND MACRO STRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "TWELFTH PLAN LAST CYCLE; NITI REPLACES PLANNING COMMISSION",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "1938 → National Planning Committee begins the planning imagination",
+        "1950-51 → Planning Commission set up and First Plan launched",
+        "1966-69 → Annual Plans after war, drought and macro stress",
+        "2012-17 / 2015 → Twelfth Plan last cycle; NITI replaces Planning Commission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "1938 → National Planning Committee begins the planning imagination",
+            "1950-51 → Planning Commission set up and First Plan launched"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1966-69 → Annual Plans after war, drought and macro stress",
+            "2012-17 / 2015 → Twelfth Plan last cycle; NITI replaces Planning Commission"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "1938 → National Planning Committee begins the planning imagination",
+            "1950-51 → Planning Commission set up and First Plan launched"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "1966-69 → Annual Plans after war, drought and macro stress",
+            "2012-17 / 2015 → Twelfth Plan last cycle; NITI replaces Planning Commission"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2012-17 / 2015 → Twelfth Plan last cycle; NITI replaces Planning Commission.",
+      "source_references": [
+        "National Planning Committee 1938",
+        "Planning Commission and First Plan",
+        "Annual Plans and last cycle",
+        "NITI replacement date"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FIRST VERSUS SECOND PLAN",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FIRST VERSUS SECOND PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRST PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "IRRIGATION, AGRICULTURE, REFUGEE RESETTLEMENT, POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "SECOND PLAN",
+          "role": "evidence"
+        },
+        {
+          "text": "HEAVY INDUSTRY AND PUBLIC-SECTOR INDUSTRIAL BASE",
+          "role": "primary"
+        },
+        {
+          "text": "SPATIAL LOGIC",
+          "role": "outcome"
+        },
+        {
+          "text": "AGRARIAN RECOVERY FIRST, INDUSTRIAL CONCENTRATION NEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "DO NOT SWAP THE PRIORITIES OF THE TWO PLANS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FIRST PLAN → irrigation, agriculture, refugee resettlement, power",
+        "SECOND PLAN → heavy industry and public-sector industrial base",
+        "SPATIAL LOGIC → agrarian recovery first, industrial concentration next",
+        "TRAP → do not swap the priorities of the two plans"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "FIRST PLAN → irrigation, agriculture, refugee resettlement, power",
+          "SPATIAL LOGIC → agrarian recovery first, industrial concentration next",
+          "FIRST PLAN → irrigation, agriculture, refugee resettlement, power"
+        ],
+        [
+          "SECOND PLAN → heavy industry and public-sector industrial base",
+          "TRAP → do not swap the priorities of the two plans",
+          "SECOND PLAN → heavy industry and public-sector industrial base"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "FIRST PLAN → irrigation, agriculture, refugee resettlement, power",
+            "SECOND PLAN → heavy industry and public-sector industrial base"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPATIAL LOGIC → agrarian recovery first, industrial concentration next",
+            "TRAP → do not swap the priorities of the two plans"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FIRST PLAN → irrigation, agriculture, refugee resettlement, power",
+            "SECOND PLAN → heavy industry and public-sector industrial base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → do not swap the priorities of the two plans.",
+      "source_references": [
+        "First Plan priorities",
+        "Second Plan heavy industry"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WHY IMBALANCE PERSISTED",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY IMBALANCE PERSISTED",
+          "role": "primary"
+        },
+        {
+          "text": "UNEVEN IRRIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GREEN REVOLUTION GAINS STAYED REGIONALLY SELECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDUSTRIAL CONCENTRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PORTS, METROS AND CORRIDORS PULLED AHEAD",
+          "role": "primary"
+        },
+        {
+          "text": "CONNECTIVITY + GOVERNANCE GAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERIORS REMAINED INFRASTRUCTURE-POOR",
+          "role": "comparison"
+        },
+        {
+          "text": "BALANCED REGIONAL DEVELOPMENT STAYED INCOMPLETE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNEVEN IRRIGATION → Green Revolution gains stayed regionally selective",
+        "INDUSTRIAL CONCENTRATION → ports, metros and corridors pulled ahead",
+        "CONNECTIVITY + GOVERNANCE GAPS → interiors remained infrastructure-poor",
+        "OUTCOME → balanced regional development stayed incomplete"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "UNEVEN IRRIGATION → Green Revolution gains stayed regionally selective",
+            "INDUSTRIAL CONCENTRATION → ports, metros and corridors pulled ahead"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONNECTIVITY + GOVERNANCE GAPS → interiors remained infrastructure-poor",
+            "OUTCOME → balanced regional development stayed incomplete"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "UNEVEN IRRIGATION → Green Revolution gains stayed regionally selective",
+            "INDUSTRIAL CONCENTRATION → ports, metros and corridors pulled ahead"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONNECTIVITY + GOVERNANCE GAPS → interiors remained infrastructure-poor.",
+      "source_references": [
+        "Balanced development remained incomplete",
+        "Uneven development drivers"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PLANNING COMMISSION VERSUS NITI",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLANNING COMMISSION VERSUS NITI",
+          "role": "comparison"
+        },
+        {
+          "text": "PLANNING COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRALISED PLAN FORMULATION AND OUTLAY LOGIC",
+          "role": "comparison"
+        },
+        {
+          "text": "NITI AAYOG",
+          "role": "evidence"
+        },
+        {
+          "text": "THINK-TANK COORDINATION, COMPETITIVE AND COOPERATIVE FEDERALISM",
+          "role": "primary"
+        },
+        {
+          "text": "PLAN DOCUMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-HORIZON ALLOCATION FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "INDICATOR MONITORING AND MISSION-MODE COMPARISON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLANNING COMMISSION → centralised plan formulation and outlay logic",
+        "NITI AAYOG → think-tank coordination, competitive and cooperative federalism",
+        "PLAN DOCUMENTS → long-horizon allocation framework",
+        "DASHBOARDS → indicator monitoring and mission-mode comparison"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "PLANNING COMMISSION → centralised plan formulation and outlay logic",
+          "PLAN DOCUMENTS → long-horizon allocation framework",
+          "PLANNING COMMISSION → centralised plan formulation and outlay logic"
+        ],
+        [
+          "NITI AAYOG → think-tank coordination, competitive and cooperative federalism",
+          "DASHBOARDS → indicator monitoring and mission-mode comparison",
+          "NITI AAYOG → think-tank coordination, competitive and cooperative federalism"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PLANNING COMMISSION → centralised plan formulation and outlay logic",
+            "NITI AAYOG → think-tank coordination, competitive and cooperative federalism"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLAN DOCUMENTS → long-horizon allocation framework",
+            "DASHBOARDS → indicator monitoring and mission-mode comparison"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PLANNING COMMISSION → centralised plan formulation and outlay logic",
+            "NITI AAYOG → think-tank coordination, competitive and cooperative federalism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NITI AAYOG → think-tank coordination, competitive and cooperative federalism.",
+      "source_references": [
+        "NITI replacement date",
+        "NITI planning style"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DISTRICT AND BLOCK TARGETING LADDER",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DISTRICT AND BLOCK TARGETING LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "STATE AVERAGE",
+          "role": "institution"
+        },
+        {
+          "text": "USEFUL BUT HIDES INTERNAL INEQUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRICT TARGETING",
+          "role": "evidence"
+        },
+        {
+          "text": "ASPIRATIONAL DISTRICTS BRINGS LAGGING DISTRICTS INTO FOCUS",
+          "role": "primary"
+        },
+        {
+          "text": "BLOCK TARGETING",
+          "role": "outcome"
+        },
+        {
+          "text": "SCALE MOVES FURTHER DOWNWARD WHERE DISTRICT AVERAGES STILL HIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "GEOGRAPHIC LESSON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STATE AVERAGE → useful but hides internal inequality",
+        "DISTRICT TARGETING → Aspirational Districts brings lagging districts into focus",
+        "BLOCK TARGETING → scale moves further downward where district averages still hide gaps",
+        "GEOGRAPHIC LESSON → intra-state disparity is a first-order planning problem"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STATE AVERAGE → useful but hides internal inequality",
+            "DISTRICT TARGETING → Aspirational Districts brings lagging districts into focus"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLOCK TARGETING → scale moves further downward where district averages still hide gaps",
+            "GEOGRAPHIC LESSON → intra-state disparity is a first-order planning problem"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "STATE AVERAGE → useful but hides internal inequality",
+            "DISTRICT TARGETING → Aspirational Districts brings lagging districts into focus"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GEOGRAPHIC LESSON → intra-state disparity is a first-order planning problem.",
+      "source_references": [
+        "Aspirational Districts",
+        "District and block targeting"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SDG-STYLE BENCHMARKING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SDG-STYLE BENCHMARKING",
+          "role": "primary"
+        },
+        {
+          "text": "SDG INDIA INDEX 2023-24",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERALL INDIA SCORE 71",
+          "role": "comparison"
+        },
+        {
+          "text": "TERRITORIAL INDICATORS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPMENT IS RANKED SPATIALLY, NOT ONLY NATIONALLY",
+          "role": "caution"
+        },
+        {
+          "text": "CURRENT STYLE",
+          "role": "outcome"
+        },
+        {
+          "text": "DASHBOARDS COMPLEMENT MISSIONS AND PROGRAMME CONVERGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFE USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SDG INDIA INDEX 2023-24 → overall India score 71",
+        "TERRITORIAL INDICATORS → development is ranked spatially, not only nationally",
+        "CURRENT STYLE → dashboards complement missions and programme convergence",
+        "SAFE USE → planning changed form, but not the geography of disparity"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "SDG INDIA INDEX 2023-24 → overall India score 71",
+          "CURRENT STYLE → dashboards complement missions and programme convergence",
+          "SDG INDIA INDEX 2023-24 → overall India score 71"
+        ],
+        [
+          "TERRITORIAL INDICATORS → development is ranked spatially, not only nationally",
+          "SAFE USE → planning changed form, but not the geography of disparity",
+          "TERRITORIAL INDICATORS → development is ranked spatially, not only nationally"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "SDG INDIA INDEX 2023-24 → overall India score 71",
+            "TERRITORIAL INDICATORS → development is ranked spatially, not only nationally"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CURRENT STYLE → dashboards complement missions and programme convergence",
+            "SAFE USE → planning changed form, but not the geography of disparity"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "SDG INDIA INDEX 2023-24 → overall India score 71",
+            "TERRITORIAL INDICATORS → development is ranked spatially, not only nationally"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE USE → planning changed form, but not the geography of disparity.",
+      "source_references": [
+        "SDG India Index 2023-24",
+        "NITI planning style"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "REGIONAL DEVELOPMENT ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REGIONAL DEVELOPMENT ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DISPARITY VERSUS DIVERSITY AND THE MEANING OF REGIONAL PLANNING",
+          "role": "comparison"
+        },
+        {
+          "text": "GROWTH POLE, CORE-PERIPHERY, SPREAD AND BACKWASH",
+          "role": "comparison"
+        },
+        {
+          "text": "1938 COMMITTEE, FIRST PLAN, SECOND PLAN, NITI TRANSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRICT DASHBOARDS MATTER BECAUSE STATE AVERAGES CONCEAL DISPARITY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → disparity versus diversity and the meaning of regional planning",
+        "EXPLAIN → growth pole, core-periphery, spread and backwash",
+        "TRACE → 1938 committee, First Plan, Second Plan, NITI transition",
+        "QUALIFY → district dashboards matter because state averages conceal disparity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINE → disparity versus diversity and the meaning of regional planning",
+            "EXPLAIN → growth pole, core-periphery, spread and backwash"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE → 1938 committee, First Plan, Second Plan, NITI transition",
+            "QUALIFY → district dashboards matter because state averages conceal disparity"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "DEFINE → disparity versus diversity and the meaning of regional planning",
+            "EXPLAIN → growth pole, core-periphery, spread and backwash"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "TRACE → 1938 committee, First Plan, Second Plan, NITI transition",
+            "QUALIFY → district dashboards matter because state averages conceal disparity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → district dashboards matter because state averages conceal disparity.",
+      "source_references": [
+        "Disparity versus diversity",
+        "National Planning Committee 1938",
+        "NITI planning style"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ONE INTERPRETATION SAYS INDIA HAS MOVED FROM CENTRALISED FIVE-YEAR",
+          "role": "outcome"
+        },
+        {
+          "text": "ANOTHER SAYS THE UNDERLYING ISSUE REMAINS THE SAME",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW TO REDUCE",
+          "role": "evidence"
+        },
+        {
+          "text": "REGIONAL IMBALANCE IN LAGGING DISTRICTS, SMALL TOWNS, TRIBAL BELTS",
+          "role": "primary"
+        },
+        {
+          "text": "A GOOD MAINS ANSWER SHOULD THEREFORE TREAT NITI AS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE PLANNING COMMISSION WAS REPLACED BY NITI AAYOG ON",
+          "role": "comparison"
+        },
+        {
+          "text": "THE TWELFTH PLAN WAS THE LAST FIVE-YEAR PLAN CYCLE.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "CAUTION: One interpretation says India has moved from centralised Five-Year Plans to more flexible mission-based and state-compared governance.",
+            "CAUTION: Another says the underlying issue remains the same: how to reduce",
+            "regional imbalance in lagging districts, small towns, tribal belts and infrastructure-poor interiors.",
+            "CAUTION: A good Mains answer should therefore treat NITI as a change in planning style, not the end of planning geography."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "The Planning Commission was replaced by NITI Aayog on 1 January 2015.",
+            "The Twelfth Plan was the last Five-Year Plan cycle.",
+            "Balanced regional development remained an explicit concern but an incomplete achievement.",
+            "Aspirational Districts Programme targets districts, not states as a whole."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "SDG India Index is a territorial-development benchmarking tool.",
+            "NOT: NITI Aayog is simply the Planning Commission with a new name - The institutional style and policy mechanism changed significantly.",
+            "NOT: Ending Five-Year Plans ended planning - Planning continues through missions, indices, state coordination and targeted programmes.",
+            "NOT: Regional imbalance is only about poor states - It also exists within states, between districts and between metros and hinterlands."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

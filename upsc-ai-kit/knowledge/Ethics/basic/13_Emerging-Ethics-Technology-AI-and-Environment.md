@@ -40,7 +40,7 @@ application.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ⚠️ **AI ethics in administration** | The set of concerns (bias, opacity/explainability, accountability, human oversight) raised when algorithmic tools inform or make administrative/judicial decisions. |
+| ⚠️ **AI ethics in administration** | The set of concerns (bias, reliability, opacity/explainability, accountability, human oversight and contestability) raised when algorithmic tools inform administrative or judicial decisions. |
 | ⚠️ **Algorithmic accountability** | The principle that a human/institution must remain answerable for an AI-assisted decision's outcome — accountability cannot be "delegated" to the algorithm itself. |
 | ✅ **Precautionary principle** (environmental ethics) | Where an activity raises threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation. ⚠️ Rio Declaration **Principle 15** (1992), which is its classic statement, actually uses the words "precautionary **approach**". |
 | ⚠️ **Intergenerational justice** | The ethical obligation to consider the interests/rights of future generations (who cannot participate in present decision-making) when making resource-use and environmental decisions today. |
@@ -115,11 +115,11 @@ application.
 ## 8. 📰 Current anchors
 
 - 📰 **India AI Governance Guidelines (MeitY, released 5 November 2025):** *Enabling Safe and
-  Trusted AI Innovation* — seven "sutras" (trust is the foundation; people first; innovation over
-  restraint; fairness and equity; accountability; understandable by design; safety, resilience and
-  sustainability) and six pillars (infrastructure; capacity building; policy and regulation; risk
-  mitigation; accountability; institutions). Use them for institutional safeguards, **not** as a
-  claim that India has enacted a comprehensive AI statute.
+  Trusted AI Innovation* — a policy framework covering fairness, accountability, safety,
+  inclusivity, algorithmic transparency, risk classification, human oversight, testing and
+  grievance redressal. It contains recommendations, an action plan, practical guidance and
+  voluntary commitments; use it for institutional safeguards, **not** as a claim that India has
+  enacted a comprehensive AI statute or that a particular deployed system is fair or safe.
 - 📰 **India AI Impact Summit, New Delhi:** the headline summit was held on **19-20 February 2026**
   at Bharat Mandapam, within a broader 16-20 February programme; its official overarching
   formulation was *Sarvajana Hitaya, Sarvajana Sukhaya*, with "People, Planet, Progress" used as
@@ -174,27 +174,24 @@ application.
 > files' statutory detail operationalises.
 
 - ✅ **Constitutional anchor:** *Justice K.S. Puttaswamy (Retd.) v. Union of India*, (2017) 10 SCC 1
-  — a nine-judge Supreme Court bench (24 August 2017) unanimously held that the right to privacy is
-  a fundamental right, intrinsic to the right to life and personal liberty under Article 21 and
-  part of the freedoms in Part III. ⚠️ The judgment holds that a state action infringing privacy
-  must satisfy a **proportionality** standard — a legitimate state aim, necessity of the measure to
-  that aim, and a proportionate balance between the means adopted and the right infringed — the
-  same proportionality architecture the Court applied when subsequently testing Aadhaar's
-  data-linkage design in the 2018 Aadhaar verdict.
+  — a nine-judge Supreme Court bench (24 August 2017) unanimously held that privacy is a fundamental
+  right intrinsic to life and personal liberty under Article 21 and to the freedoms in Part III.
+  ⚠️ For an administrative answer, test a State restriction through legality, a legitimate aim,
+  rational connection, necessity or least-restrictive means, proportionate balancing, and
+  procedural safeguards. The exact doctrinal formulation developed across the privacy and Aadhaar
+  judgments; do not compress proportionality into a mere statement that the State has a useful aim.
 - ✅ **Statutory anchor:** the Digital Personal Data Protection Act, 2023 (DPDP Act) is India's first
   dedicated personal-data-protection statute, built around **consent-based processing, purpose
   limitation** (data used only for the purpose it was collected/consented for), **data
   minimisation**, and a **Data Protection Board of India** for enforcement.
-- 📰 **Commencement/status caution (verify before citing a current-affairs date):** the DPDP Act,
-  2023 and the DPDP Rules, 2025 have been notified only in **phases**, not brought into force as one
-  completed statute — the Data Protection Board's constitution and rule-making machinery are live,
-  while most substantive obligations on data fiduciaries (consent-manager mechanics, breach
-  notification, cross-border transfer conditions, Significant Data Fiduciary duties) commence on
-  their own later, staggered dates. A case-study or theory answer should cite the Act's *principles*
-  (consent, purpose limitation, data minimisation, security safeguards) as the ethical/legal
-  standard now applicable in substance, while flagging that full statutory enforcement is still
-  being phased in — never assert the Act is "fully in force" without checking the current
-  notification status.
+- 📰 **Commencement/status as at 29 August 2026:** G.S.R. 843(E), 13 November 2025, commenced only
+  specified provisions immediately. The Consent Manager tranche begins on 13 November 2026. Core
+  provisions concerning notice, consent, Data Principal rights, Data Fiduciary and Significant Data
+  Fiduciary duties, transfer restrictions, Board proceedings and penalties begin on 13 May 2027.
+  Thus *Puttaswamy* and the underlying ethical duties of dignity, autonomy, purpose limitation,
+  minimisation and security apply now, while most DPDP operational duties are enacted and notified
+  but not yet in force. Do not describe the Act as fully operational or those future duties as
+  presently enforceable.
 - ⚠️ **Ethics-law distinction (exam-critical):** Puttaswamy is a *constitutional* holding (privacy as
   a fundamental right, subject to a proportionality test on any restriction); the DPDP Act is the
   *ordinary legislative* mechanism operationalising informational privacy for personal-data
@@ -310,10 +307,9 @@ pairs it with [named institutional/legal safeguard]."
   Nadu's Vellore district discharged untreated effluent into the Palar river, contaminating
   agricultural land and drinking water. The Supreme Court held that **sustainable development**, the
   **precautionary principle** and the **polluter-pays principle** are part of the environmental law
-  of India and, along with Article 21, part of Indian jurisprudence — and directed closure of
-  non-complying tanneries pending effluent-treatment compliance, with compensation assessed for
-  ecological damage and affected individuals through a specially constituted "Green Bench"/
-  authority mechanism.
+  of India and part of Indian environmental jurisprudence. It directed closure of non-complying
+  tanneries pending effluent-treatment compliance and required an authority mechanism under the
+  Environment (Protection) Act to assess compensation for ecological damage and affected persons.
 - ⚠️ **What it correctly stands for:** it is the leading Indian judicial anchor for treating
   sustainable development, precaution and polluter-pays as *justiciable* legal principles (not
   merely policy aspirations) enforceable via Article 21 and the Supreme Court's writ jurisdiction —
@@ -322,10 +318,10 @@ pairs it with [named institutional/legal safeguard]."
 - ⚠️ **Its limits — do not over-claim:** (a) it is a **specific-industry, specific-river** judgment
   (tannery effluent on the Palar) resolved through case-specific directions and a compensation-
   authority mechanism, not a general environmental code covering every future dispute; (b) its
-  practical enforcement/monitoring role has since been substantially absorbed by the specialised
-  **National Green Tribunal** (constituted 2010) for ongoing environmental adjudication, so citing
-  Vellore Citizens alone as the *current* enforcement mechanism is incomplete (see the cross-link
-  below for NGT detail); (c) the judgment's balancing of industry/livelihood against ecological harm
+  practical setting now includes the specialised **National Green Tribunal** (constituted 2010),
+  which applies sustainable development, precaution and polluter-pays under NGT Act Section 20;
+  the NGT does not displace the Supreme Court's constitutional jurisdiction or erase *Vellore*;
+  (c) the judgment's balancing of industry/livelihood against ecological harm
   is itself an anthropocentric-leaning application (protecting human health/agriculture from
   pollution) rather than an ecocentric one — a nuance worth naming if a question specifically tests
   the orientations of Section 14A; (d) it does not, by itself, resolve every precautionary-principle
@@ -370,15 +366,13 @@ development" position -> decision naming which orientation/principle was decisiv
 `22`-style implementation/communication and residual-risk elements, with the residual ecological/
 compliance risk named explicitly rather than assumed resolved.
 
-## 15. Clausewitz and war ethics — routing note (2025 GS-IV Q2(a))
+## 15. Clausewitz and war ethics — non-owner routing note (2025 GS-IV Q2(a))
 
-> 📰 The audited 2025 GS-IV Q2(a) demand — "Clausewitz - war as diplomacy by other means" — is
-> routed to this topic's owner ledger alongside Q2(b)'s environmental-clearance question (see the
-> generated PYQ table below), but the *substance* of a Clausewitz/war-ethics answer belongs to this
-> file's own coverage only to the extent of the attribution/context caution below; the full Just
-> War/IHL/proportionality framework needed to actually answer it is owned by
+> 📰 The audited 2025 GS-IV Q2(a) demand — "Clausewitz - war as diplomacy by other means" — appears
+> beside Q2(b) in the printed paper, but it is **not owned by Topic 13**. The full Just
+> War/IHL/proportionality framework needed to answer it is owned by
 > `12_Corporate-Governance-and-International-Ethics.md`, Section 11 ("War ethics and international
-> aid ethics").
+> aid ethics"). Topic 13 owns only Q2(b), the environmental-clearance dilemma.
 
 - ⚠️ **Attribution/context caution:** the phrase commonly rendered "war is the continuation of
   policy [or "politics"] by other means" is a paraphrase of Carl von Clausewitz's *On War*
@@ -423,27 +417,27 @@ compliance risk named explicitly rather than assumed resolved.
 
 - **Years represented:** 2024, 2025
 - **Paper(s):** GS-IV
-- **Routed question demands:** 7
+- **Routed question demands:** 7 isolated subparts/cases
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2024 | GS-IV | 1 | (a) AI as a reliable input for administrative decisions; (b) dimensions of ethics guiding responsible behaviour | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | GS-IV | 2 | (a) belief in peace, not merely talk; (b) global warming and human greed | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | GS-IV | 7 | Case study: ABC Incorporated, a large technology company | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
-| 2024 | GS-IV | 12 | Case study: Dr. Srinivasan, a senior scientist at a biotechnology company | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
-| 2025 | GS-IV | 1 | (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-IV | 2 | (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas | Section A theory · 10 + 10 marks · 150 words each | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-IV | 8 | Case study: deforestation for housing and social-welfare objectives | Section B case study · 20 marks · 250 words | Routed to owning topic | Apply stakeholders, dilemmas, options, justification, implementation and safeguards. |
+| 2024 | GS-IV | 1(a) | AI as a dependable input for administrative rational decision-making | Section A theory · 10 marks · 150 words | Topic 13 primary | Prepare benefits, bias/reliability risks, human oversight, reasons, appeal and a qualified verdict. |
+| 2024 | GS-IV | 2(b) | Global warming and climate change as outcomes of greed in the name of development | Section A theory · 10 marks · 150 words | Topic 13 primary | Apply virtue ethics, intergenerational justice, sustainable development and practical restraint. |
+| 2024 | GS-IV | 7 | ABC Incorporated: AI/data-centre energy growth, GHG increase, net-zero pledge and competitive pressure | Section B case study · 20 marks · 250 words | Topic 22 method; Topic 13 substance; Topic 12 cross-link | Preserve the official emissions and competition facts; do not invent an algorithmic-discrimination strand. |
+| 2024 | GS-IV | 12 | Dr. Srinivasan: adverse-result suppression, informed consent and patented-compound issues in viral-drug trials | Section B case study · 20 marks · 250 words | Topic 22 method; Topic 13 data-ethics cross-link | Preserve every research-ethics fact and use a biotechnology/research-ethics cross-link. |
+| 2025 | GS-IV | 1(a) | Ethical dilemmas created by social media in the digital age | Section A theory · 10 marks · 150 words | Topic 13 primary | Isolate social-media ethics; Q1(b) constitutional morality belongs to Topic 14. |
+| 2025 | GS-IV | 2(b) | Environmental clearance in ecologically sensitive border areas, keeping national security in mind | Section A theory · 10 marks · 150 words | Topic 13 primary | Isolate environmental clearance; Q2(a) Clausewitz belongs to Topic 12. |
+| 2025 | GS-IV | 8 | Housing for homeless/EWS groups proposed on ecologically sensitive forest land | Section B case study · 20 marks · 250 words | Topic 22 method; Topic 13 substance | Preserve old trees, medicinal plants, biodiversity, ecosystem services and tribal/nomadic livelihoods; do not add degradation or court-monitoring facts. |
 
 ### What this owner must now support
 
-- (a) AI as a reliable input for administrative decisions; (b) dimensions of ethics guiding responsible behaviour
-- (a) belief in peace, not merely talk; (b) global warming and human greed
-- Case study: ABC Incorporated, a large technology company
-- Case study: Dr. Srinivasan, a senior scientist at a biotechnology company
-- (a) ethical dilemmas of social media in the digital age; (b) constitutional morality as product of civil education
-- (a) Clausewitz - war as diplomacy by other means; (b) ethics of environmental clearance in sensitive border areas
-- Case study: deforestation for housing and social-welfare objectives
+- 2024 Q1(a): AI as a dependable input for administrative rational decision-making
+- 2024 Q2(b): global warming, climate change and human greed
+- 2024 Q7: ABC Incorporated's AI/data-centre emissions and net-zero dilemma
+- 2024 Q12: research-data integrity and informed-consent cross-link in Dr. Srinivasan's case
+- 2025 Q1(a): ethical dilemmas created by social media
+- 2025 Q2(b): environmental clearance in ecologically sensitive border areas
+- 2025 Q8: forest ecology, housing and human-dignity case
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->

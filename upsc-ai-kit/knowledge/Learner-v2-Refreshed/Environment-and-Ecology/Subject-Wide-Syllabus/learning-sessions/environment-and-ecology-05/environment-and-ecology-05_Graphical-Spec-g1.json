@@ -1,0 +1,1110 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-05",
+  "subject": "Environment-and-Ecology",
+  "title": "IUCN RED LIST AND ENDEMISM",
+  "short_route": "RED LIST CATEGORY RAIL → STATUS FIELDS FIREWALL → CRITERIA A TO E → ONE-ROUTE DECISION GATE → NE AND DD DIAGNOSTIC → DISTRIBUTION VOCABULARY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-05\\environment-and-ecology-05_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-05-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "9d9ad599160451e1c7b3af10f85d5e53dea5fb415f8cc251fa039b0e916d7da6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RED LIST CATEGORY RAIL",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RED LIST CATEGORY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CRITERIA NOT YET APPLIED",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE INADEQUATE FOR A RISK ASSESSMENT",
+          "role": "caution"
+        },
+        {
+          "text": "VU + EN + CR ONLY",
+          "role": "evidence"
+        },
+        {
+          "text": "CATEGORY IS ASSESSED RISK, NOT LEGAL PROTECTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NE → criteria not yet applied",
+        "DD → evidence inadequate for a risk assessment",
+        "LC → NT → VU → EN → CR → EW → EX",
+        "THREATENED → VU + EN + CR only",
+        "RULE → category is assessed risk, not legal protection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NE → criteria not yet applied",
+            "DD → evidence inadequate for a risk assessment"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LC → NT → VU → EN → CR → EW → EX",
+            "THREATENED → VU + EN + CR only"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → category is assessed risk, not legal protection",
+            "NE → criteria not yet applied"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → category is assessed risk, not legal protection.",
+      "source_references": [
+        "Red List function",
+        "Nine assessment categories",
+        "Threatened collective term",
+        "Not Evaluated and Data Deficient"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STATUS FIELDS FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATUS FIELDS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESSED EXTINCTION-RISK CLASS",
+          "role": "caution"
+        },
+        {
+          "text": "QUANTITATIVE ROUTE SUPPORTING THE CATEGORY",
+          "role": "comparison"
+        },
+        {
+          "text": "INCREASING, STABLE, DECREASING OR UNKNOWN",
+          "role": "evidence"
+        },
+        {
+          "text": "GLOBAL OR REGIONAL/NATIONAL ASSESSMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESSMENT VINTAGE; NEVER SILENTLY OMIT IT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CATEGORY → assessed extinction-risk class",
+        "CRITERION → quantitative route supporting the category",
+        "TREND → increasing, stable, decreasing or unknown",
+        "SCALE → global or regional/national assessment",
+        "DATE → assessment vintage; never silently omit it"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CATEGORY → assessed extinction-risk class",
+          "TREND → increasing, stable, decreasing or unknown",
+          "DATE → assessment vintage; never silently omit it"
+        ],
+        [
+          "CRITERION → quantitative route supporting the category",
+          "SCALE → global or regional/national assessment",
+          "CATEGORY → assessed extinction-risk class"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CATEGORY → assessed extinction-risk class",
+            "CRITERION → quantitative route supporting the category"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TREND → increasing, stable, decreasing or unknown",
+            "SCALE → global or regional/national assessment"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "DATE → assessment vintage; never silently omit it",
+            "CATEGORY → assessed extinction-risk class"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DATE → assessment vintage; never silently omit it.",
+      "source_references": [
+        "Category and population trend",
+        "Category and criterion",
+        "Assessment scale"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CRITERIA A TO E MAP",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CRITERIA A TO E MAP",
+          "role": "primary"
+        },
+        {
+          "text": "POPULATION-SIZE REDUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RESTRICTED RANGE PLUS APPLICABLE SUBCONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SMALL POPULATION PLUS CONTINUING DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "VERY SMALL OR VERY RESTRICTED POPULATION",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTITATIVE EXTINCTION-PROBABILITY ANALYSIS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "A → population-size reduction",
+        "B → restricted range plus applicable subconditions",
+        "C → small population plus continuing decline",
+        "D → very small or very restricted population",
+        "E → quantitative extinction-probability analysis"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "A → population-size reduction",
+          "C → small population plus continuing decline",
+          "E → quantitative extinction-probability analysis"
+        ],
+        [
+          "B → restricted range plus applicable subconditions",
+          "D → very small or very restricted population",
+          "A → population-size reduction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "A → population-size reduction",
+            "B → restricted range plus applicable subconditions"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "C → small population plus continuing decline",
+            "D → very small or very restricted population"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "E → quantitative extinction-probability analysis",
+            "A → population-size reduction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "D → very small or very restricted population.",
+      "source_references": [
+        "Criterion A",
+        "Criterion B",
+        "Criterion C",
+        "Criterion D",
+        "Criterion E"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ONE-ROUTE DECISION GATE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ONE-ROUTE DECISION GATE",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESS TAXON",
+          "role": "outcome"
+        },
+        {
+          "text": "TEST CRITERIA A TO E",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE ROUTE MAY SUFFICE",
+          "role": "evidence"
+        },
+        {
+          "text": "ONLY FOR ITS APPLICABLE CATEGORY",
+          "role": "primary"
+        },
+        {
+          "text": "THRESHOLD, SUBCRITERION, EVIDENCE AND SCALE",
+          "role": "evidence"
+        },
+        {
+          "text": "CATEGORY PLUS CRITERION PLUS ASSESSMENT YEAR",
+          "role": "comparison"
+        },
+        {
+          "text": "INFER A THRESHOLD FROM THE CATEGORY NAME ALONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASSESS TAXON → test Criteria A to E",
+        "ONE ROUTE MAY SUFFICE → only for its applicable category",
+        "CHECK → threshold, subcriterion, evidence and scale",
+        "DOCUMENT → category plus criterion plus assessment year",
+        "NEVER → infer a threshold from the category name alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "ASSESS TAXON → test Criteria A to E",
+            "ONE ROUTE MAY SUFFICE → only for its applicable category"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "CHECK → threshold, subcriterion, evidence and scale",
+            "DOCUMENT → category plus criterion plus assessment year"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEVER → infer a threshold from the category name alone",
+            "ASSESS TAXON → test Criteria A to E"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEVER → infer a threshold from the category name alone.",
+      "source_references": [
+        "Category and criterion",
+        "One qualifying route",
+        "Assessment scale"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NE AND DD DIAGNOSTIC",
+      "structural_type": "decision-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NE AND DD DIAGNOSTIC",
+          "role": "primary"
+        },
+        {
+          "text": "WERE THE CRITERIA APPLIED?",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT EVALUATED",
+          "role": "caution"
+        },
+        {
+          "text": "YES, BUT EVIDENCE INADEQUATE",
+          "role": "evidence"
+        },
+        {
+          "text": "DATA DEFICIENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNCERTAINTY, NOT REASSURANCE",
+          "role": "caution"
+        },
+        {
+          "text": "NEITHER LABEL ESTABLISHES LEAST CONCERN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WERE THE CRITERIA APPLIED?",
+        "NO → Not Evaluated",
+        "YES, BUT EVIDENCE INADEQUATE → Data Deficient",
+        "DD → uncertainty, not reassurance",
+        "RULE → neither label establishes Least Concern"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / LEVEL / DEFINITION",
+          "STRUCTURE-FUNCTION MECHANISM",
+          "SCALE / EVIDENCE LIMIT"
+        ],
+        [
+          "WERE THE CRITERIA APPLIED?",
+          "YES, BUT EVIDENCE INADEQUATE → Data Deficient",
+          "RULE → neither label establishes Least Concern"
+        ],
+        [
+          "NO → Not Evaluated",
+          "DD → uncertainty, not reassurance",
+          "WERE THE CRITERIA APPLIED?"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "WERE THE CRITERIA APPLIED?",
+            "NO → Not Evaluated"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "YES, BUT EVIDENCE INADEQUATE → Data Deficient",
+            "DD → uncertainty, not reassurance"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → neither label establishes Least Concern",
+            "WERE THE CRITERIA APPLIED?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DD → uncertainty, not reassurance; RULE → neither label establishes Least Concern.",
+      "source_references": [
+        "Not Evaluated and Data Deficient"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DISTRIBUTION VOCABULARY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISTRIBUTION VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "NATURALLY OCCURS IN THE STATED REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "NATURALLY RESTRICTED TO THE STATED REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "LOW ABUNDANCE OR OCCURRENCE UNDER A STATED MEASURE",
+          "role": "evidence"
+        },
+        {
+          "text": "VU, EN OR CR ASSESSMENT OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "OVERLAP DOES NOT ERASE DISTINCT MEANINGS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NATIVE → naturally occurs in the stated region",
+        "ENDEMIC → naturally restricted to the stated region",
+        "RARE → low abundance or occurrence under a stated measure",
+        "THREATENED → VU, EN or CR assessment outcome",
+        "RULE → overlap does not erase distinct meanings"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NATIVE → naturally occurs in the stated region",
+          "RARE → low abundance or occurrence under a stated measure",
+          "RULE → overlap does not erase distinct meanings"
+        ],
+        [
+          "ENDEMIC → naturally restricted to the stated region",
+          "THREATENED → VU, EN or CR assessment outcome",
+          "NATIVE → naturally occurs in the stated region"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NATIVE → naturally occurs in the stated region",
+            "ENDEMIC → naturally restricted to the stated region"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RARE → low abundance or occurrence under a stated measure",
+            "THREATENED → VU, EN or CR assessment outcome"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → overlap does not erase distinct meanings",
+            "NATIVE → naturally occurs in the stated region"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → overlap does not erase distinct meanings.",
+      "source_references": [
+        "Endemic and native",
+        "Endemic, rare and threatened"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ENDEMISM RISK PATHWAY",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ENDEMISM RISK PATHWAY",
+          "role": "caution"
+        },
+        {
+          "text": "RESTRICTED NATURAL RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "FEWER SPATIAL REFUGES",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL HABITAT LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "AFFECTS A LARGER SHARE OF TOTAL RANGE",
+          "role": "primary"
+        },
+        {
+          "text": "WEAKER NATURAL RECOLONISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "VULNERABILITY MAY RISE",
+          "role": "comparison"
+        },
+        {
+          "text": "ENDEMIC DOES NOT AUTOMATICALLY MEAN THREATENED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESTRICTED NATURAL RANGE → fewer spatial refuges",
+        "LOCAL HABITAT LOSS → affects a larger share of total range",
+        "ISOLATION → weaker natural recolonisation",
+        "RESULT → vulnerability may rise",
+        "LIMIT → endemic does not automatically mean threatened"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "RESTRICTED NATURAL RANGE → fewer spatial refuges",
+            "LOCAL HABITAT LOSS → affects a larger share of total range"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ISOLATION → weaker natural recolonisation",
+            "RESULT → vulnerability may rise"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → endemic does not automatically mean threatened",
+            "RESTRICTED NATURAL RANGE → fewer spatial refuges"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → endemic does not automatically mean threatened.",
+      "source_references": [
+        "Endemism as risk multiplier"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ASSESSMENT SCALE LENS",
+      "structural_type": "nested-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ASSESSMENT SCALE LENS",
+          "role": "primary"
+        },
+        {
+          "text": "GLOBAL ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TAXON ACROSS ITS GLOBAL RANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL ASSESSMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "TAXON INSIDE A STATED REGION",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENT SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "CATEGORIES MAY DIFFER",
+          "role": "comparison"
+        },
+        {
+          "text": "POPULATION TREND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GLOBAL ASSESSMENT → taxon across its global range",
+        "REGIONAL ASSESSMENT → taxon inside a stated region",
+        "DIFFERENT SCOPE → categories may differ",
+        "POPULATION TREND → separately reported field",
+        "ANSWER RULE → state scale, year and evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GLOBAL ASSESSMENT → taxon across its global range",
+            "REGIONAL ASSESSMENT → taxon inside a stated region"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIFFERENT SCOPE → categories may differ",
+            "POPULATION TREND → separately reported field"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER RULE → state scale, year and evidence",
+            "GLOBAL ASSESSMENT → taxon across its global range"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER RULE → state scale, year and evidence.",
+      "source_references": [
+        "Category and population trend",
+        "Assessment scale"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ASSESSMENT WORKFLOW",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ASSESSMENT WORKFLOW",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIALIST ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCUMENTED APPLICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSISTENCY AND SUPPORTING INFORMATION",
+          "role": "evidence"
+        },
+        {
+          "text": "CATEGORY TIED TO ASSESSMENT RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "LATER CHANGE NEEDS A DATED SOURCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE → specialist assessment",
+        "CRITERIA → documented application",
+        "REVIEW → consistency and supporting information",
+        "PUBLICATION → category tied to assessment record",
+        "REASSESSMENT → later change needs a dated source"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE → specialist assessment",
+            "CRITERIA → documented application"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "REVIEW → consistency and supporting information",
+            "PUBLICATION → category tied to assessment record"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "REASSESSMENT → later change needs a dated source",
+            "EVIDENCE → specialist assessment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REASSESSMENT → later change needs a dated source.",
+      "source_references": [
+        "Assessment workflow"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RED LIST AND GREEN STATUS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RED LIST AND GREEN STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "RED LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTINCTION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "GREEN STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOVERY AND CONSERVATION IMPACT",
+          "role": "primary"
+        },
+        {
+          "text": "SAME TAXON",
+          "role": "outcome"
+        },
+        {
+          "text": "TWO DIFFERENT ANALYTICAL QUESTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SUBSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RED LIST → extinction risk",
+        "GREEN STATUS → recovery and conservation impact",
+        "SAME TAXON → two different analytical questions",
+        "NO SUBSTITUTION → recovery metric does not erase risk category",
+        "USE → pair risk diagnosis with recovery ambition"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "RED LIST → extinction risk",
+          "SAME TAXON → two different analytical questions",
+          "USE → pair risk diagnosis with recovery ambition"
+        ],
+        [
+          "GREEN STATUS → recovery and conservation impact",
+          "NO SUBSTITUTION → recovery metric does not erase risk category",
+          "RED LIST → extinction risk"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "RED LIST → extinction risk",
+            "GREEN STATUS → recovery and conservation impact"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SAME TAXON → two different analytical questions",
+            "NO SUBSTITUTION → recovery metric does not erase risk category"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "USE → pair risk diagnosis with recovery ambition",
+            "RED LIST → extinction risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → pair risk diagnosis with recovery ambition.",
+      "source_references": [
+        "Green Status distinction"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SCIENCE LAW ACTION CHAIN",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SCIENCE LAW ACTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IUCN RED LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "SCIENTIFIC GLOBAL OR REGIONAL RISK ASSESSMENT",
+          "role": "caution"
+        },
+        {
+          "text": "WILDLIFE LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMESTIC PROHIBITION, PERMIT AND SCHEDULE RULES",
+          "role": "primary"
+        },
+        {
+          "text": "COURT OR AGENCY",
+          "role": "institution"
+        },
+        {
+          "text": "REMEDY AND IMPLEMENTATION CHOICES",
+          "role": "comparison"
+        },
+        {
+          "text": "HABITAT ACTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IUCN RED LIST → scientific global or regional risk assessment",
+        "WILDLIFE LAW → domestic prohibition, permit and schedule rules",
+        "COURT OR AGENCY → remedy and implementation choices",
+        "HABITAT ACTION → mitigation, connectivity and monitoring",
+        "RULE → no layer automatically determines the next"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "IUCN RED LIST → scientific global or regional risk assessment",
+            "WILDLIFE LAW → domestic prohibition, permit and schedule rules"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COURT OR AGENCY → remedy and implementation choices",
+            "HABITAT ACTION → mitigation, connectivity and monitoring"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → no layer automatically determines the next",
+            "IUCN RED LIST → scientific global or regional risk assessment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → no layer automatically determines the next.",
+      "source_references": [
+        "Red List function",
+        "Science-law-action chain"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY, CRITERION, TREND AND SCALE",
+          "role": "outcome"
+        },
+        {
+          "text": "ENDEMIC, NATIVE, RARE AND THREATENED",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE SOURCE-BOUNDED INDIAN SPECIES OR HABITAT ROUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESSMENT YEAR AND NO INFERRED OBJECTIVE KEY",
+          "role": "caution"
+        },
+        {
+          "text": "ASSESSMENT MUST TRANSLATE INTO HABITAT AND LEGAL ACTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → category, criterion, trend and scale",
+        "DISTINGUISH → endemic, native, rare and threatened",
+        "APPLY → one source-bounded Indian species or habitat route",
+        "QUALIFY → assessment year and no inferred objective key",
+        "CONCLUDE → assessment must translate into habitat and legal action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINE → category, criterion, trend and scale",
+            "DISTINGUISH → endemic, native, rare and threatened"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPLY → one source-bounded Indian species or habitat route",
+            "QUALIFY → assessment year and no inferred objective key"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUDE → assessment must translate into habitat and legal action",
+            "DEFINE → category, criterion, trend and scale"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUDE → assessment must translate into habitat and legal action.",
+      "source_references": [
+        "Assessment scale",
+        "Endemic, rare and threatened",
+        "Audited PYQ boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "WILDLIFE INSTITUTE OF INDIA (WII)",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDUCTS POPULATION-VIABILITY AND HABITAT-USE",
+          "role": "comparison"
+        },
+        {
+          "text": "DECIDES DOMESTIC SCHEDULE LISTING/REVISION UNDER THE WILDLIFE PROTECTION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "IMPLEMENTATION GAP",
+          "role": "primary"
+        },
+        {
+          "text": "REASSESSMENT CYCLES FOR IUCN STATUS AND DOMESTIC SCHEDULE REVIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "DATA DEFICIENT (DD) IS A GENUINE ANALYTICAL TRAP EVEN",
+          "role": "caution"
+        },
+        {
+          "text": "ENDEMISM CLAIMS FOR LESSER-STUDIED TAXONOMIC GROUPS (E.G., MANY INVERTEBRATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "Wildlife Institute of India (WII): conducts population-viability and habitat-use",
+            "MoEFCC: decides domestic Schedule listing/revision under the Wildlife Protection Act",
+            "CAUTION: Implementation gap: reassessment cycles for IUCN status and domestic Schedule review",
+            "CAUTION: Data Deficient (DD) is a genuine analytical trap even at the advanced level: a"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Endemism claims for lesser-studied taxonomic groups (e.g., many invertebrates, fungi)",
+            "CAUTION: Population-count figures cited for charismatic species (bustard, tiger, elephant) come",
+            "IUCN Red List criteria (A-E) allow a species to be classified as threatened through",
+            "The Great Indian Bustard is Critically Endangered; in M.K. Ranjitsinh v. Union of India"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "IUCN's Green Status of Species is a separate assessment measuring species recovery",
+            "IUCN Red List reassessment cycles and India's Wildlife Protection Act Schedule revisions",
+            "Data Deficient status reflects an information gap, not a confirmed low-risk finding.",
+            "NOT: A species must show population decline to be Critically Endangered. - It can also"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

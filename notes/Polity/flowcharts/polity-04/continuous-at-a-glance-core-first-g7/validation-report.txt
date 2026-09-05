@@ -1,0 +1,37 @@
+topic=polity-04
+generated=2026-08-22T15:44:04.221448+05:30
+source=upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus-core-first-g3-core-first-g4-core-first-g5-core-first-g6\polity-04_Learning-Session.md
+master_png=master.png
+master_dimensions_px=3600x19293
+master_dpi_metadata=200x200
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x9114.80
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=10
+same_master_split=yes
+tile_overlap_px=260
+preview_count=10
+contact_sheet_count=2
+closure_stage_count=20
+node_pattern=heading -> decisive context -> exact terms/details -> consequence/contrast
+core_before_extra=PASS
+poster_pdf_validation=PASS
+renderability=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=1940..4140; overlap=260; from=2; continues=5
+  page-003: y=3880..6080; overlap=260; from=4; continues=7
+  page-004: y=5820..8020; overlap=260; from=6; continues=9
+  page-005: y=7760..9960; overlap=260; from=8; continues=11
+  page-006: y=9700..11900; overlap=260; from=11; continues=13
+  page-007: y=11640..13840; overlap=260; from=13; continues=15
+  page-008: y=13580..15780; overlap=260; from=15; continues=17
+  page-009: y=15520..17720; overlap=260; from=17; continues=19
+  page-010: y=17093..19293; overlap=260; from=18; continues=20
+errors=none
+
+post_render_box_clipping_check=PASS
+post_render_stage_overlap_check=PASS
+post_render_unsupported_glyph_check=PASS — no replacement glyph was found in the source-derived learning PDF
+post_render_same_master_identity_check=PASS

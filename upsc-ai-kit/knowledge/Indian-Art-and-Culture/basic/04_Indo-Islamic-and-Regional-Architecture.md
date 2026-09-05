@@ -418,3 +418,28 @@ defended.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** trabeate-arcuate interaction, mortar, arch, dome, vault,
+  jaali, calligraphy and regional Sultanate, Mughal, Rajput, Sikh, Awadh,
+  Deccan and Indo-Saracenic architectural adaptation.
+- **Source/inference control:** surviving fabric, inscriptions and documented
+  building phases are evidence; civilisational fusion, sole authorship,
+  universal spolia and one-way foreign influence are rejected.
+- **Date control:** early Sultanate construction, Qutb accretion, provincial
+  schools, Mughal phases and later regional/colonial reuse remain distinct.
+- **Geography control:** Delhi, Gujarat, Bengal, Malwa, Deccan, Rajasthan,
+  Punjab and Awadh are compared through material, climate and workshop, not
+  flattened into one Indo-Islamic style.
+- **Terminology/style control:** trabeate, arcuate, true arch, squinch,
+  pendentive, double dome, charbagh, pietra dura, jaali and Bangla roof retain
+  precise structural or ornamental meanings.
+- **Iconography control:** architectural ornament and inscription belong here;
+  Topic 06 owns freestanding sculpture and iconographic systems.
+- **Boundary:** Medieval History owns political chronology and Akbar's
+  religious policy. Topic 14 owns institutional policy and changing heritage
+  status; regional fortification appears only as an architectural comparison.
+- **Verified PYQ ownership, 2018-2026:** zero direct Mains routes are claimed.
+  Two locally unkeyed objective routes stay unsolved; adjacent Akbar and
+  temple-architecture demands remain with their canonical owners.

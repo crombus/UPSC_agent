@@ -631,73 +631,75 @@ family. Together they give Basic-alone coverage of every major family audited in
 
 ### 14.8 Environment-development case (anchor: 2025 GS-IV Q8, deforestation for housing)
 
-- **Facts:** A state housing department proposes clearing degraded forest land on a city's periphery
-  for low-cost housing for thousands of homeless/slum-displaced families; environmental officials
-  flag the site's ecological value (a wildlife corridor and groundwater recharge zone), and a
-  court-monitored clearance process is required before construction can lawfully begin.
-- **Stakeholders:** homeless/displaced families; local wildlife/ecosystem services; environmental
-  regulators and judicial oversight; the housing department's welfare mandate; future generations.
-- **Constraints:** statutory forest/environmental clearance procedures must be followed before any
-  diversion of forest land — no shortcut exists; the housing need is urgent but not so acute that due
-  process can be dispensed with; alternative sites may exist but need their own feasibility
-  assessment and time.
+- **Facts:** To advance the constitutional welfare objective of "Roti, Kapda aur Makan", a district
+  administration proposes clearing part of a forest for housing for homeless and economically
+  weaker sections. The site is an ecologically sensitive zone with age-old trees, medicinal plants
+  and vital biodiversity. It regulates micro-climate and rainfall, supports wildlife habitat and
+  soil fertility, prevents erosion, and sustains tribal and nomadic livelihoods. The administration
+  invokes fundamental human rights, upliftment of the poor, recurring human-wildlife conflict and
+  alleged use of the forest as hideouts by anti-social elements.
+- **Stakeholders:** homeless and economically weaker households; tribal and nomadic communities;
+  wildlife and ecological systems; district officials; future generations; citizens affected by
+  housing deprivation, human-wildlife conflict and law-and-order concerns.
+- **Constraints:** the administration must protect human dignity without treating social welfare as
+  an automatic override of ecological integrity or traditional livelihoods. Claims about unsafe
+  forests and alleged hideouts require evidence. Alternatives must be evaluated against housing
+  urgency, accessibility, livelihood disruption, ecological sensitivity and lawful clearance.
 - **Options:** (a) proceed immediately citing humanitarian emergency, bypassing full clearance —
   fails the legality hard threshold regardless of genuine need; (b) reject the project outright to
   protect the forest patch — disproportionate, ignoring a genuine competing public interest; (c)
-  commission an urgent, time-bound alternative-site assessment (degraded, low-ecological-value
-  government land elsewhere) while formally pursuing full statutory clearance (including any
-  required compensatory afforestation) for the original site as a fallback, phasing construction
-  accordingly; (d) delay pending an open-ended fresh study — protects the forest by default but
+  commission an urgent, time-bound comparison of non-forest public land, brownfield and in-situ
+  housing options while subjecting any proposed forest diversion to lawful, independent ecological
+  and social assessment; (d) delay through an open-ended study — protects the forest by default but
   leaves families unsheltered indefinitely.
 - **Ethical evaluation:** legality is a hard threshold — statutory clearance cannot be bypassed even
   for an urgent welfare objective; proportionality and public interest are decisive, requiring the
   least ecologically damaging option that still meaningfully meets the housing need in reasonable
   time, not a simple either/or between shelter and ecology.
-- **Decision:** Option (c) — urgent alternative-site assessment in parallel with full statutory
-  clearance for the original site, phasing construction to minimise both delay and ecological damage.
-- **Implementation/communication:** transparent, phased timeline communicated to affected families
-  and to environmental stakeholders/courts; alternative-site assessment and clearance correspondence
-  documented on file.
+- **Decision:** Option (c) — prioritise the least ecologically and socially damaging feasible
+  housing route, using in-situ upgrading, vacant or brownfield public land, higher-density design
+  and serviced rental housing before considering forest diversion.
+- **Implementation/communication:** publish a time-bound alternatives matrix; consult homeless,
+  tribal and nomadic communities; independently verify ecological and livelihood impacts; provide
+  interim shelter and services; document the reasons for the selected option and monitor outcomes.
 - **Residual risk:** the alternative-site search could be used to stall indefinitely, or rushed to
   justify the original site regardless of findings — mitigate with a fixed, published assessment
   timeline and independent (non-departmental) verification of feasibility and ecological comparison.
 
 ### 14.9 Corporate/AI discrimination or emissions case (anchor: 2024 GS-IV Q7, ABC Incorporated)
 
-- **Facts:** ABC Incorporated, a large technology company, faces criticism over its AI data-centre
-  emissions footprint while under board pressure to sustain rapid growth; an internal audit
-  separately flags that an AI-driven hiring/lending algorithm shows a statistically significant
-  adverse pattern against a protected group, traced to historically biased training data.
-- **Stakeholders:** communities near data centres; employees, shareholders and competitive position;
-  individuals affected by the biased algorithm; regulators; the public interest in both climate
-  action and non-discrimination; competitors facing fewer voluntary constraints.
-- **Constraints:** no single binding, universally enforced emissions cap governs operations, so
-  commitments here are substantially voluntary/reputational; halting AI expansion entirely carries
-  major commercial/employment consequences; the discriminatory pattern, once identified, cannot
-  ethically be left unaddressed regardless of cost.
-- **Options:** (a) continue unchanged, managing both issues as public relations — fails the
-  public-interest and non-discrimination thresholds; (b) halt AI expansion and withdraw the
-  algorithm indefinitely — addresses both but may be disproportionate if calibrated fixes exist; (c)
-  commit to a time-bound, independently verifiable renewable-energy/efficiency transition, and
-  immediately suspend and retrain the flagged algorithm on audited, bias-corrected data with an
-  independent fairness review before redeployment, publishing both commitments; (d) fix only the
-  algorithmic bias quietly, ignoring emissions — addresses one legitimate concern while ignoring the
-  other.
-- **Ethical evaluation:** legality is a hard threshold for the discrimination finding — continuing to
-  deploy a known-biased algorithm is impermissible once identified; the emissions question is
-  primarily a weighted proportionality/public-interest matter given no single binding cap;
-  steelmanning the "unconstrained competitors will out-innovate restraint" objection (Sec. 6) is met
-  by making the environmental commitment time-bound and verifiable, preserving competitiveness.
-- **Decision:** Option (c) — suspend and audit-correct the algorithm before redeployment; adopt a
-  time-bound, verifiable renewable/efficiency commitment; publish both.
-- **Implementation/communication:** publish the algorithm suspension/remediation plan with an
-  independent fairness-audit timeline; publish renewable/efficiency milestones with external
-  verification; frame both to shareholders as protecting long-term brand/regulatory/investor
-  confidence, not merely as costs.
-- **Residual risk:** bias-correction rarely eliminates all discriminatory risk, and voluntary
-  emissions commitments can lapse under future pressure — mitigate through a recurring (not one-time)
-  independent fairness-audit cycle and a published, externally verifiable annual emissions review,
-  both owned by a named board-level committee.
+- **Facts:** ABC Incorporated, the world's second-largest technology company situated in the Third
+  World, recorded a 48% increase in greenhouse-gas emissions in 2023 compared with 2019. The rise is
+  linked mainly to the surging electricity demand of data centres supporting rapid AI expansion.
+  The company has committed to net-zero emissions by 2030, but renewable-energy investment is
+  substantial and the technology sector rewards rapid innovation, market position and shareholder
+  value. The paper asks for the CEO's immediate response, the ethical issues, arguments concerning
+  a proposed penalty, and measures balancing AI innovation with environmental footprint.
+- **Stakeholders:** communities affected by energy, water and emissions burdens; employees;
+  shareholders; customers; environmental activists; regulators; future generations; competitors
+  facing different costs and commitments.
+- **Constraints:** the 48% increase and 2030 commitment require a credible response, yet an
+  indiscriminate halt to AI services may sacrifice useful innovation, employment and competitive
+  position. The CEO must not treat a public pledge as a substitute for verified implementation.
+- **Options:** (a) continue unchanged and manage criticism as public relations; (b) halt AI
+  expansion immediately; (c) retain AI innovation while adopting time-bound, independently
+  verifiable efficiency, renewable-energy, procurement and emissions-reduction milestones; (d)
+  offset reported emissions without changing energy demand or operating choices.
+- **Ethical evaluation:** option (a) risks greenwashing and breaches the company's public
+  commitment. Option (b) gives precaution absolute priority but may be disproportionate. Option (d)
+  can shift responsibility without reducing the underlying footprint. Option (c) joins
+  intergenerational justice, stakeholder responsibility and honest disclosure with a feasible
+  transition. A proportionate penalty can internalise environmental costs and deter false promises,
+  but must use transparent criteria, due process and equal treatment.
+- **Decision:** Option (c) — commission an immediate independently assured footprint assessment,
+  publish a credible 2030 transition pathway and tie capital expenditure and executive
+  accountability to measurable reduction milestones.
+- **Implementation/communication:** establish board-level responsibility; disclose scopes,
+  assumptions and progress consistently; improve model and data-centre efficiency; procure cleaner
+  power; manage water, hardware and e-waste impacts; engage regulators and affected communities.
+- **Residual risk:** cleaner electricity may remain constrained and efficiency can induce rebound
+  demand. Use periodic external assurance, absolute as well as intensity indicators, and a review
+  trigger when emissions diverge from the published pathway.
 
 ### 14.10 Disaster/personal-duty case — strengthened cross-reference
 

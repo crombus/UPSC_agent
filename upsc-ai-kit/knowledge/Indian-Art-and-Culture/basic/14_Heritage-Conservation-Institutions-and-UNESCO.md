@@ -9,8 +9,8 @@
 > 722-738 (UNESCO WHS/ICH), 955-971 (institutions), 983-992 (law/
 > Constitution); `00_Master-Framework.md` Sections 3, 9; audited UPSC
 > Mains 2024-2025 GS Paper I (no direct question — capstone/support role);
-> official UNESCO WHC/ICH/Memory of the World and PIB pages (verified
-> 21 July 2026).
+> official UNESCO WHC/ICH/Memory of the World, ASI and PIB pages (verified
+> 4 September 2026).
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
 > *Companion: `advanced/14_Heritage-Conservation-Institutions-and-UNESCO.md`.*
 
@@ -51,17 +51,18 @@ studies), alongside NMMA, ICCR, CCRT and others (*Nitin…pdf*, PDF pp.
 
 ## 4. Foundation narrative
 
-📰 **UNESCO WHS in India:** as verified 21 July 2026, India has **44 World
-Heritage properties** — 36 cultural, 7 natural,
+📰 **UNESCO WHS in India:** as verified 4 September 2026, India has **45
+World Heritage properties** — 37 cultural, 7 natural,
 1 mixed (Khangchendzonga National Park, the only Indian mixed-category
-site) (*Nitin…pdf*, PDF pp. 723, 727). ✅ No Indian site currently appears
-on UNESCO's List of World Heritage in Danger (as of July 2025); Manas
+site) (*Nitin…pdf*, PDF pp. 723, 727). 📰 No Indian site appeared on
+UNESCO's live List of World Heritage in Danger when rechecked on
+4 September 2026; Manas
 Wildlife Sanctuary and the Group of Monuments at Hampi were **previously**
 listed as endangered (ethnic unrest and cable-bridge construction
 respectively) but have since been removed following conservation
 improvements (*Nitin…pdf*, PDF pp. 728-729). 📰 **UNESCO ICH in India:** India has **16 elements** on the Representative
 List after Deepavali's 2025 inscription; none is currently on the Urgent
-Safeguarding List (UNESCO ICH India page, verified 21 July 2026).
+Safeguarding List (UNESCO ICH India page, verified 4 September 2026).
 Network membership counts (such as Creative Cities) change independently
 and should not be mixed with WHS/ICH totals.
 
@@ -110,15 +111,16 @@ verified                                21 Jul 2026)
 
 | Category | Governing instrument | India's count (book-period) |
 |---|---|---|
-| ✅ World Heritage Site | 1972 Convention | 44 (36 cultural + 7 natural + 1 mixed), verified 21 July 2026 |
-| ✅ Intangible Cultural Heritage | 2003 Convention | 16 Representative List elements, verified 21 July 2026 |
-| ✅ Memory of the World | UNESCO documentary register | 14 Indian International Register inscriptions, verified 21 July 2026 |
+| ✅ World Heritage Site | 1972 Convention | 45 (37 cultural + 7 natural + 1 mixed), verified 4 September 2026 |
+| ✅ Intangible Cultural Heritage | 2003 Convention | 16 Representative List elements, verified 4 September 2026 |
+| ✅ Memory of the World | UNESCO documentary register | 14 Indian International Register inscriptions, verified 4 September 2026 |
 | ✅ Geographical Indication | GI Act, 1999 (domestic) | 658 goods, July 2025 (topic 12) |
 
 | Current sequence | Status |
 |---|---|
 | Moidams — the Mound-Burial System of the Ahom Dynasty | India's 43rd WH property, inscribed 2024 |
 | Maratha Military Landscapes of India | India's 44th WH property, serial inscription in 2025 |
+| Ancient Buddhist Site of Sarnath | India's 45th WH property, serial inscription on 25 July 2026 |
 | Deepavali | India's 16th Representative List ICH element, inscribed 2025 |
 | Bhagavadgita and Natyashastra manuscripts | 2025 additions taking India's Memory of the World International Register total to 14 |
 
@@ -141,8 +143,9 @@ individually sourced statements elsewhere in the book (Ramappa 2021 at PDF
 p. 109; the three Hoysala temples 2023 at PDF p. 104; Pattadakal 1987 at
 PDF p. 101), and (ii) **UNESCO's own property pages** for Nalanda
 Mahavihara and the Sacred Ensembles of the Hoysalas, plus the Government
-of India's dated announcement for the 2025 Maratha inscription — all read
-on **13 August 2026**.
+of India's dated announcement for the 2025 Maratha inscription. The 2026
+Sarnath row was added from UNESCO's official property and inscription
+pages, rechecked **4 September 2026**.
 
 ## 7. Exact PYQ application
 
@@ -162,12 +165,14 @@ inscription).
   criteria (iii) and (iv). Political-administrative Ahom history routes
   to Medieval History topic 08; this file owns funerary form, status and
   conservation.
-- 📰 UNESCO records **44 World Heritage properties** in India as verified
-  21 July 2026, including the **Maratha
-  Military Landscapes of India (2025)** as the most recent addition.
+- 📰 UNESCO records the **Ancient Buddhist Site of Sarnath** as a serial
+  property inscribed on **25 July 2026**. Official UNESCO reporting
+  identifies it as India's **45th World Heritage property**, superseding
+  its former Tentative-List-only status. The **Maratha Military Landscapes
+  of India (2025)** remains the 44th entry.
 - 📰 UNESCO's ICH India page and decision 20.COM 7.b.24 confirm
   **Deepavali's 2025 inscription**, bringing India to **16 Representative
-  List elements** (verified 21 July 2026). ✅ Re-confirmed **13 August
+  List elements** (verified 4 September 2026). ✅ Re-confirmed **4 September
   2026** against the **Ministry of Culture** announcement, which dates the
   decision to **10 December 2025** at the **20th session of the
   Intergovernmental Committee** held at the **Red Fort, Delhi** — the
@@ -176,7 +181,7 @@ inscription).
   Heritage list." ✅ The full dated element ledger is at **§13.8B**.
 - 📰 ASI's live Monuments page states that it protects and maintains
   **3,679 centrally protected monuments and archaeological sites**
-  (accessed 21 July 2026); cite the live ASI figure with its access date.
+  (accessed 4 September 2026); cite the live ASI figure with its access date.
 
 ## 9. ❌ Traps and corrections
 
@@ -187,12 +192,12 @@ inscription).
   1999) with different criteria and a different granting body.
 - ❌ A monument's inclusion in the UNESCO Tentative List means it is
   already a World Heritage Site. -> Tentative-list status (e.g.
-  Bishnupur, Mattancherry Palace, Mandu, Sarnath, Sri Harimandir Sahib)
+  Bishnupur, Mattancherry Palace, Mandu and Sri Harimandir Sahib)
   is a nomination step, not an inscription.
 - ❌ Any Indian site currently sits on the List of World Heritage in
-  Danger. -> As of July 2025 (per the book), no Indian site is on this
-  list; Manas and Hampi were **previously** listed but have since been
-  removed.
+  Danger. -> UNESCO's live list showed no Indian property when rechecked
+  on 4 September 2026; Manas and Hampi were **previously** listed but have
+  since been removed.
 - ❌ Moidams are ordinary earthen tumuli without a built or ritual system.
   -> UNESCO describes a mound over a hollow vault, a shrine and octagonal
   wall within a continuing Tai-Ahom funerary and ancestor-worship
@@ -345,16 +350,16 @@ demonstrated transmission crisis — recognition is not safeguarding.
 
 ### 13.4 Evidence bank A — the four-category firewall (the highest-frequency error)
 
-| Category | Governing instrument | Granting body | India's status (verified 21 July 2026) |
+| Category | Governing instrument | Granting body | India's status (verified 4 September 2026) |
 |---|---|---|---|
-| World Heritage Site | 1972 World Heritage Convention | World Heritage Committee (21 members, advised by IUCN, ICOMOS, ICCROM) | 📰 **44 properties** — 36 cultural, 7 natural, 1 mixed (Khangchendzonga) |
+| World Heritage Site | 1972 World Heritage Convention | World Heritage Committee (21 members, advised by IUCN, ICOMOS, ICCROM) | 📰 **45 properties** — 37 cultural, 7 natural, 1 mixed (Khangchendzonga) |
 | Intangible Cultural Heritage | 2003 Convention (Representative List; Urgent Safeguarding List; Register of Good Safeguarding Practices) | UNESCO ICH intergovernmental committee | 📰 **16 Representative List elements**; none currently on the Urgent Safeguarding List |
 | Memory of the World | UNESCO documentary-heritage register | UNESCO MoW programme | 📰 **14 International Register inscriptions** (topic 11) |
 | Geographical Indication | GI of Goods (Registration & Protection) Act, 1999 — **domestic law, not UNESCO** | GI Registry, Chennai (DPIIT) | 658 goods, July 2025 (topic 12) |
 
 ❌ **Two errors this table prevents:** treating the four as interchangeable
 "heritage tags," and treating **Tentative List** entries (e.g. Bishnupur,
-Mattancherry Palace, Mandu, Sarnath, Sri Harimandir Sahib) as inscriptions.
+Mattancherry Palace, Mandu and Sri Harimandir Sahib) as inscriptions.
 
 ### 13.5 Evidence bank B — institutions with precise mandates
 
@@ -407,8 +412,8 @@ monument question to ASI — naming the wrong body is a substantive error.
   at Hampi were **both** previously placed on the List of World Heritage in
   Danger — for ethnic unrest and cable-bridge construction respectively —
   and **both were subsequently removed** after documented conservation
-  improvement (*Nitin…pdf*, PDF pp. 728-729). ✅ As of July 2025 (per the
-  book), no Indian site is on the Danger List.
+  improvement (*Nitin…pdf*, PDF pp. 728-729). 📰 UNESCO's live list
+  showed no Indian property when rechecked on 4 September 2026.
 - 📰 **Recent inscription with criteria:** UNESCO inscribed **Moidams — the
   Mound-Burial System of the Ahom Dynasty** at Charaideo on **26 July
   2024**, India's 43rd World Heritage property, a Tai-Ahom royal necropolis
@@ -417,21 +422,22 @@ monument question to ASI — naming the wrong body is a substantive error.
   are not ordinary earthen tumuli: UNESCO describes a mound over a hollow
   vault, with a shrine and octagonal wall, within a continuing funerary and
   ancestor-worship landscape.
-- 📰 **Most recent property:** the **Maratha Military Landscapes of India**
-  (2025) is India's 44th, a serial inscription. ❌ Do not repeat "43rd"
-  without noting the current 44th.
+- 📰 **Most recent property:** the **Ancient Buddhist Site of Sarnath**
+  (2026) is India's 45th, a serial inscription. The **Maratha Military
+  Landscapes of India** (2025) remains the 44th. ❌ Do not call Maratha
+  Landscapes the latest after Sarnath's inscription.
 - 📰 **Living-practice recognition:** **Deepavali** (2025) as the 16th
   Representative List element; **Garba of Gujarat** (2023); **Kutiyattam**
   (2008).
 - 📰 **Estate scale:** ASI's live Monuments page states it protects and
   maintains **3,679 centrally protected monuments and archaeological
-  sites** (accessed 21 July 2026) — cite the live figure **with** its
+  sites** (accessed 4 September 2026) — cite the live figure **with** its
   access date.
 - ⚠️ **Sovereignty rule:** inscription confers international recognition and
   Convention-based protections; ownership, management and legal
   jurisdiction remain with India and its own institutions (ASI/AMASR).
 
-### 13.8A Evidence bank E+ — the dated Indian World Heritage ledger (2016-2025)
+### 13.8A Evidence bank E+ — the dated Indian World Heritage ledger (2016-2026)
 
 > **Why this section exists.** A hostile review found that this file
 > carried India's **WHS count** and its two most recent properties but no
@@ -451,11 +457,12 @@ monument question to ASI — naming the wrong body is a substantive error.
 | **2023** | **Santiniketan** | West Bengal | ✅ The local source ties **Nandalal Bose** to Santiniketan (*Nitin…pdf*, PDF p. 361) | Topics 05, 07, 11 |
 | **2023** | **Sacred Ensembles of the Hoysalas** | Karnataka | ✅ A **serial** property of three 12th-13th century temple complexes: the **Channakeshava Temple, Belur**; the **Hoysalesvara Temple, Halebidu**; and the **Keshava Temple, Somanathapura**. UNESCO's OUV cites criteria **(i)**, **(ii)** and **(iv)**, and identifies the Hoysala style by its **stellate sanctum**, a **circumambulatory platform following the sanctum's shape**, a **multi-tiered frieze**, a thematically arranged sculptural gallery, sculpture over the entire exterior surface, and the **legend of Sala killing a tiger**; it also records that the **artists' signatures** on these temples are "an unusual practice in the Indian subcontinent" (UNESCO property page, verified **13 August 2026**). ✅ The local source independently states that "the above three temples were inscribed as UNESCO World Heritage Site in **2023**" (*Nitin…pdf*, PDF p. 104) | ✅ **Topic 03 §13.9A-C** — this row closes that cross-link |
 | **2024** | **Moidams — the Mound-Burial System of the Ahom Dynasty** | Assam (Charaideo) | 📰 Inscribed **26 July 2024**; a Tai-Ahom royal necropolis of mound-covered vaults created from the **13th to 19th** centuries, criteria **(iii)** and **(iv)** | §§8, 13.8 |
-| **2025** | **Maratha Military Landscapes of India** | Maharashtra and Tamil Nadu | 📰 A **serial** inscription; India's most recent property as at this file's verification date | §§8, 13.8; topic 04 |
+| **2025** | **Maratha Military Landscapes of India** | Maharashtra and Tamil Nadu | 📰 A **serial** inscription of twelve forts; India's 44th property | §§8, 13.8; topic 04 |
+| **2026** | **Ancient Buddhist Site of Sarnath** | Uttar Pradesh | 📰 A **serial** property comprising two archaeological zones, inscribed **25 July 2026** as India's 45th property; its former Tentative-List-only status is obsolete | §§8, 13.8; topic 02 |
 
 ⚠️ **Integrity notes that must travel with this ledger.**
 (i) ❌ **Do not convert the ledger into a count.** It lists eight
-inscriptions across 2016-2025, **not** India's total, and several years
+inscriptions across 2016-2026, **not** India's total, and several years
 carry more than one property while other Indian properties fall outside
 this window.
 (ii) ⚠️ **Component names are the examinable detail** for the two serial
@@ -474,8 +481,8 @@ Warangal Fort and the Kakatiya Kala Thoranam are Tentative-List only
 (*Nitin…pdf*, PDF pp. 99, 101, 108).
 (v) 📰 **Verification:** UNESCO property pages for **Nalanda Mahavihara**
 and the **Sacred Ensembles of the Hoysalas** were read directly and the
-2025 Maratha inscription cross-checked against the Government of India's
-own dated announcement, all on **13 August 2026**. Re-verify before
+2025 Maratha inscription and the 2026 Sarnath inscription were checked
+against official UNESCO pages on **4 September 2026**. Re-verify before
 citing any of these as current.
 
 ### 13.8B Evidence bank E++ — the dated Indian Intangible Cultural Heritage ledger
@@ -507,7 +514,7 @@ citing any of these as current.
 | **2017** | **Kumbh Mela** | Social practices, rituals and festive events | ✅ Described by the source's own ICH graphic as "an ancient tradition of spiritual significance and the world's largest peaceful gathering" (PDF p. 735; topic 13 §13.7) |
 | **2021** | **Durga Puja in Kolkata** | Social practices and festive events | West Bengal — ✅ the source's graphic records "performances, rituals, artistry, and the making of idols and pandals" (PDF p. 735; topics 12, 13) |
 | **2023** | **Garba of Gujarat** | Social practices / performing arts | Gujarat — ✅ the local source records the **2023 nomination** of Garba and describes it as a Navratri circle dance around a lamp-lit earthen pot, the **Garbha deep** (PDF p. 482; topic 09) |
-| **2025** | **Deepavali** | Social practices, rituals and festive events | 📰 Inscribed **10 December 2025**, at the **20th session of the Intergovernmental Committee**, held at the **Red Fort, Delhi** — the **first time India hosted** the session. The nomination was prepared by the **Sangeet Natak Akademi** under the **Ministry of Culture**, and Deepavali was among **67 global nominations** assessed. **Ministry of Culture (culture.gov.in) announcement, verified 13 August 2026** |
+| **2025** | **Deepavali** | Social practices, rituals and festive events | 📰 Inscribed **10 December 2025**, at the **20th session of the Intergovernmental Committee**, held at the **Red Fort, Delhi** — the **first time India hosted** the session. The nomination was prepared by the **Sangeet Natak Akademi** under the **Ministry of Culture**, and Deepavali was among **67 global nominations** assessed. **Ministry of Culture and UNESCO pages verified 4 September 2026** |
 
 ⚠️ **Integrity notes that must travel with this ledger.**
 (i) ✅ **The list is complete as at the verification date** and comprises
@@ -553,7 +560,7 @@ answering; the ledger above makes both answers derivable.
 
 | Instrument | Type | ✅ What is verified, and by whom | ⚠️ Status discipline |
 |---|---|---|---|
-| **Adopt a Heritage — "Apni Dharohar, Apni Pehchaan"** | **Scheme** (participation) | ✅ The local source defines the linked term: "**Monument Mitra** is the name of a public or private sector company collaborating with the government under the '**Adopt A Heritage**' – '**Apni Dharohar, Apni Pehchaan**' Scheme" (*Nitin…pdf*, PDF p. 988). 📰 The scheme was **revamped as "Adopt a Heritage 2.0"**, with the **Ministry of Culture** and the **ASI** as the responsible agencies and adoption confined to **visitor amenities** under the **AMASR Act, 1958** — no structural change to the monument is permitted (Government of India / PIB and ASI material, verified **13 August 2026**) | ⚠️ **Dynamic.** The scheme's ministry, its version and the terminology used for adopting agencies have all changed since launch. ✅ Cite it as "**Adopt a Heritage**, with **Monument Mitras** as the partner entities," which the local source supports directly; 📰 cite the **2.0 revamp and the Culture/ASI locus** only with the verification date above. ❌ Do not state the number of MoUs, the list of adopted monuments, the tenure in years, or a current alternative name for Monument Mitras without re-verification |
+| **Adopt a Heritage — "Apni Dharohar, Apni Pehchaan"** | **Scheme** (participation) | ✅ The local source defines the earlier linked term "**Monument Mitra**" for a public or private collaborator (*Nitin…pdf*, PDF p. 988). 📰 Official PIB material rechecked **4 September 2026** records the **Adopt a Heritage 2.0** programme under the **Ministry of Culture/ASI**, focused on developing and maintaining visitor amenities without transferring structural conservation | ⚠️ **Dynamic.** Version, ministry locus and partner terminology can change. Cite the dated 2.0 visitor-amenities mechanism; do not infer present MoU counts, adopted-site lists, tenure or structural-control transfer |
 | **National Culture Fund (NCF)** | **Funding mechanism** | ✅ Established **1996** under the **Charitable Endowments Act, 1890**, as "a distinct funding mechanism for the promotion of art and culture in India," enabling institutions and individuals to support art and culture **directly as partners** (*Nitin…pdf*, PDF p. 990) | ✅ **Stable and fully local-sourced** — the safest scheme-type instrument to cite. ⚠️ It is a **fund**, not a conservation authority: it channels money, it does not carry out or regulate conservation |
 | **Adarsh Smarak** | **Scheme** (amenities) | ✅ An ASI scheme identifying **100 monuments** — including **Bhimbetka, Hampi, Konark, Elephanta, the Shore Temple, the Taj Mahal and Humayun's Tomb** — for enhanced visitor amenities (*Nitin…pdf*, PDF pp. 956-957; §13.5) | ✅ Already in Core and locally sourced. ⚠️ It is an **amenities** scheme, not a protection instrument — protection comes from AMASR |
 | **AMASR Act, 1958** · **Antiquities and Art Treasures Act, 1972** | **Statutes** | ✅ §13.6; ASI functions under both; the 1972 Act gives the government and Director General power to acquire antiquities for preservation, control their movement, and demand compensation or levy penalties for damage (PDF p. 988) | ✅ Statutes are **stable** facts; ❌ do not describe a statute as a "scheme" or vice versa |
@@ -612,8 +619,8 @@ answering; the ledger above makes both answers derivable.
 
 ### 13.11 Factual-risk and dynamic-status controls
 
-- ⚠️ **Every count in this file is dynamic.** 44 WHS, 16 ICH, 14 MoW, 3,679
-  ASI monuments and 658 GI goods each carry a verification date (21 July
+- ⚠️ **Every count in this file is dynamic.** 45 WHS, 16 ICH, 14 MoW, 3,679
+  ASI monuments and 658 GI goods each carry a verification date (4 September
   2026 for the first four; July 2025 for GI). ❌ Never present any of them
   as today's figure without re-verification; ✅ always cite the source and
   the access date.
@@ -624,7 +631,7 @@ answering; the ledger above makes both answers derivable.
   and the criteria numbers for a named property. ✅ The dated ledger in
   **§13.8A** is the single place these years are recorded together.
 - ❌ **Do not turn §13.8A's ledger into a total.** It lists inscriptions
-  from **2016 to 2025 only**; India's running total is dynamic and lives in
+  from **2016 to 2026 only**; India's running total is dynamic and lives in
   §8 with its verification date.
 - ⚠️ **Serial-property component names are examinable:** the **three**
   Hoysala temples (Channakeshava/Belur, Hoysalesvara/Halebidu, Keshava/
@@ -650,7 +657,7 @@ answering; the ledger above makes both answers derivable.
   ✅ **§13.8B** now makes both answers derivable from a dated element
   ledger rather than from the running total.
 - ❌ **Do not turn §13.8B's ICH ledger into a stale total.** It lists **16**
-  elements as at **13 August 2026**; the running total lives in §8 with its
+  elements as at **4 September 2026**; the running total lives in §8 with its
   verification date, and the locally held book's "**15** items as on August
   2025" (PDF p. 733) **predates the Deepavali inscription** and must not be
   carried forward.
@@ -669,10 +676,10 @@ answering; the ledger above makes both answers derivable.
   state their full forms, ministries, launch years, components or current
   status (§13.8C).
 - ⚠️ **Adopt a Heritage's version, ministry and partner terminology are
-  dynamic.** ✅ The locally sourced formulation — Adopt a Heritage / *Apni
-  Dharohar, Apni Pehchaan*, with **Monument Mitras** as partner entities —
-  is safe; 📰 the **2.0** revamp and the Culture/ASI locus carry the
-  **13 August 2026** verification date and must be re-verified.
+  dynamic.** ✅ The locally sourced earlier formulation uses *Monument
+  Mitras*; 📰 official PIB material rechecked **4 September 2026** supports
+  the **2.0** visitor-amenities programme under the Culture/ASI locus.
+  Re-verify any current partner title, MoU count or adopted-site list.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -738,3 +745,37 @@ answering; the ledger above makes both answers derivable.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** 1972 World Heritage, 2003 Intangible Heritage, Memory of
+  the World and domestic GI firewalls; ASI, AMASR and antiquities law;
+  Akademi and documentary-institution mandates; conservation, restoration,
+  community rights, threats, funds and participation schemes.
+- **Source/inference control:** convention text, statute, official property
+  page, decision, institutional mandate and dated government record are
+  evidence. Recognition does not transfer sovereignty, guarantee
+  safeguarding or prove a conservation outcome.
+- **Date control:** nomination, Tentative List, inscription, extension,
+  Danger List entry or removal, scheme version, current count and access date
+  remain separate. Sarnath's 25 July 2026 inscription supersedes its former
+  Tentative-List-only status and makes it India's forty-fifth property.
+- **Geography control:** property components, state or Union Territory,
+  serial-property spread, buffer or regulated zone and living-community use
+  are recorded precisely; AMASR's 100 m plus 200 m zones are not UNESCO
+  buffers.
+- **Terminology/style control:** World Heritage, ICH, Memory of the World,
+  GI, Tentative List, Danger List, conservation, restoration, statute,
+  institution, fund and scheme are not interchangeable.
+- **Boundary:** Topics 01-13 and 15 own the substantive history, form or
+  practice. Topic 14 owns institutional policy, law, conservation and every
+  changeable UNESCO, ASI, scheme or recognition-status claim.
+- **Verified PYQ ownership, 2018-2026:** the direct 2018 GS-I safeguarding
+  demand is retained. Objective routes cover 2023 archaeologists, 2024
+  Santiniketan-Hoysalas and provisional 2026 Moidams; no objective answer
+  letter is inferred.
+- **Live status, rechecked 2026-09-04:** UNESCO records Sarnath as a 2026
+  serial property and official UNESCO/PIB reporting identifies it as India's
+  forty-fifth property; Deepavali remains the latest Indian Representative
+  List inscription pending the late-2026 cycle; ASI records 3,679 centrally
+  protected monuments and sites.

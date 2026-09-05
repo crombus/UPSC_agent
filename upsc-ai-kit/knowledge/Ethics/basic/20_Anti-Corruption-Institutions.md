@@ -24,8 +24,9 @@ CVC (advisory/superintending)     CBI (investigating)      LOKPAL (2013 Act; ove
                                                                   type exclusions
         |                                    |                        |
         v                                    v                        v
-   NOT A PROSECUTING BODY               PROSECUTES CASES         OVERARCHING, BUT NOT A
-   itself; advisory/oversight           under PC Act/IPC          SUBSTITUTE for CVC/CBI —
+   NOT A PROSECUTING BODY               INVESTIGATES CASES;       OVERARCHING, BUT NOT A
+   itself; advisory/oversight           competent prosecutors     SUBSTITUTE for CVC/CBI —
+                                        present charges
                                                                     works alongside them
 ```
 
@@ -38,8 +39,8 @@ the Lokpal) was needed.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **CVC (Central Vigilance Commission)** | Set up 1964 (Santhanam Committee recommendation); given statutory status via the CVC Act, 2003 following *Vineet Narain v. Union of India* (1997); advises the Union government on integrity/vigilance and superintends CBI's anti-corruption functions. |
-| ✅ **CBI (Central Bureau of Investigation)** | Union government's principal anti-corruption investigative agency, deriving power from the Delhi Special Police Establishment Act, 1946; its Anti-Corruption Division investigates PC Act cases. |
+| ✅ **CVC (Central Vigilance Commission)** | Set up in 1964 following the Santhanam Committee recommendation; given statutory status by the CVC Act, 2003 in the post-*Vineet Narain* reform context. It advises on Union vigilance administration and exercises specified superintendence over DSPE investigation of PC Act offences and connected trial offences; it does not command every CBI investigation or determine guilt. |
+| ✅ **CBI (Central Bureau of Investigation)** | Created by executive resolution in 1963; its police powers derive from the Delhi Special Police Establishment Act, 1946. The Anti-Corruption Division investigates within lawful subject and territorial jurisdiction; prosecutors and courts perform later, distinct functions. |
 | ✅ **Lok Pal/Lokayukta (ARC's 2007 conception)** | ARC 4.3.1-4.3.4 recommended a three-member Lok Pal (a serving/retired Supreme Court judge as Chairman, an eminent jurist, and the CVC ex-officio) to enquire into corruption allegations against Ministers and MPs, working in organic linkage with the CVC. |
 | 📰 **Lokpal (as actually enacted, 2013)** | The Lokpal and Lokayuktas Act, 2013 established a differently structured body — a Chairperson and **not more than eight Members**, of whom at least 50% must be judicial members and at least 50% must be from among SC/ST/OBC, minorities and women — with jurisdiction over the Prime Minister (subject to exclusions), Ministers, MPs, central government officials of all groups, and specified societies/trusts receiving public or foreign funding: distinct in composition from the ARC's own 2007 three-member proposal. |
 
@@ -61,7 +62,12 @@ the Lokpal) was needed.
    cases involving collusion between Ministers/officials are handled coherently, with the CVC
    working "under the overall guidance and superintendence of the Lok Pal" while retaining its own
    functional autonomy.
-5. **These institutions are the "authorised channel" step of the whistleblowing/ethical-dissent
+5. **CBI's federal gate:** ✅ Under the DSPE Act, ordinary exercise of DSPE police powers within a
+   State requires State consent, which may be general or case-specific. Withdrawal of general
+   consent changes the route for fresh cases but does not disable the Supreme Court under Article
+   32 or High Courts under Article 226 from directing a CBI investigation in an appropriate case;
+   that constitutional power is exceptional, not a general Union-executive bypass.
+6. **These institutions are the "authorised channel" step of the whistleblowing/ethical-dissent
    ladder** (full ladder developed in `19`, applied to honest-official protection in `21`): a
    central-government/PSU employee's corruption complaint is routed first to the CVC under the
    **Public Interest Disclosure and Protection of Informer (PIDPI) Resolution, 2004** (identity kept
@@ -78,8 +84,7 @@ the Lokpal) was needed.
 - 📰 The Lokpal and Lokayuktas Act, 2013 received assent on 1 January 2014 and came into force on
   **16 January 2014**, but the first Lokpal Chairperson (Justice Pinaki Chandra Ghose) was appointed
   only on **19 March 2019**, assuming office on 23 March 2019 — a five-year gap between commencement
-  and operation. 📰 The Chairperson as at 14 August 2026 is **Justice Ajay Manikrao Khanwilkar**,
-  appointed on 10 March 2024; check lokpal.gov.in on the day of use before naming an incumbent.
+  and operation. Verify current officeholders from the official Lokpal portal on the day of use.
 - ⚠️ A case involving both a Minister and a senior bureaucrat accused of collusive favouritism in a
   licensing decision exemplifies exactly the "organic link" scenario the ARC's 4.3.3 recommendation
   anticipated.
@@ -97,6 +102,9 @@ the Lokpal) was needed.
   formal Lok Pal enquiry, while Ministers and MPs should fall under Lok Pal jurisdiction. ⚠️ The
   enacted 2013 Act took a different route — inclusion of the PM with subject-matter exclusions and
   a higher procedural threshold (see the advanced companion).
+- ✅ State consent is the ordinary DSPE Act gate for CBI police powers within a State. It is not an
+  absolute constitutional veto: the Supreme Court and High Courts may direct a CBI investigation
+  under Articles 32 and 226 respectively, using that power cautiously.
 
 ## 6. UPSC traps
 
@@ -112,6 +120,9 @@ the Lokpal) was needed.
   PIDPI explicitly excludes anonymous/pseudonymous complaints from consideration; the complainant's
   identity must be known to the CVC (and kept confidential from others) for the mechanism to
   operate — anonymity and confidentiality are not the same safeguard.
+- ❌ Withdrawal of general State consent makes every CBI investigation constitutionally impossible.
+  -> Fresh executive-led investigations must respect the DSPE consent structure, but constitutional
+  courts retain their exceptional Articles 32/226 power to direct a CBI investigation.
 
 ## 7. PYQ application
 
@@ -133,10 +144,10 @@ the Lokpal) was needed.
   functional autonomy) as a model for any institutional-coordination recommendation.
 
 > **Answer thesis:** India's anti-corruption institutional architecture historically suffered from
-> jurisdictional multiplicity and lack of coordination; the ARC's own recommended corrective — an
-> overarching Lok Pal organically linked to the CVC, with a Parliament-based (not Lok-Pal-based)
-> check on the Prime Minister specifically — offers a defensible design template, even though the
-> institution actually enacted in 2013 differs materially from the ARC's 2007 proposal.
+> jurisdictional multiplicity and lack of coordination. A defensible response combines precise
+> roles, lawful federal and subject-matter gates, secure hand-offs and independent adjudication.
+> The ARC's 2007 Lok Pal proposal remains a useful design reference, but it must be distinguished
+> from the broader and differently composed institution enacted in 2013.
 
 ## 9. Probable questions
 

@@ -824,3 +824,31 @@ outperforms one that lists festivals by state.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+## Semantic-completeness ownership and PYQ control
+
+- **Owned core:** religion and philosophy as cultural frameworks shaping
+  patronage, language, institution, monument and practice; purusharthas,
+  six orthodox darshanas, bounded Vedanta distinctions, Bhakti trajectories,
+  Sufi silsilahs and mechanisms of cultural interaction.
+- **Source/inference control:** securely attributed text, inscription,
+  monument, hymn, khanqah, pilgrimage, ritual, language and institutional
+  history are evidence. Shared form does not prove doctrinal merger, patron
+  intention, social equality or timeless harmony.
+- **Date control:** textual layers, philosopher or saint chronology,
+  compilation, institutionalisation, monument phase, later reception and
+  current ICH recognition remain separate.
+- **Geography control:** Tamil Nayanar-Alvar canons, Kannada Lingayat
+  formation, Marathi Varkari practice, north Indian Saguna-Nirguna streams
+  and distinct Sufi orders retain region, language and institution.
+- **Terminology/style control:** purushartha, darshana, Samkhya, Yoga,
+  Advaita, Vishishtadvaita, Dvaita, Saguna, Nirguna, silsilah, khanqah,
+  sama, zikr, malfuzat and maktubat remain distinct.
+- **Boundary:** Philosophy owns full metaphysical proof and objections;
+  Ancient/Medieval History own political and sectarian chronology; Topics
+  03-04 own architectural form, Topic 11 literary history and Topic 14
+  current UNESCO status.
+- **Verified PYQ ownership, 2018-2026:** the direct 2020 GS-I Mains demand
+  on philosophy and tradition shaping monuments and art is retained. The
+  2022 Ramanuja and Somnath objective routes remain answer-letter-free and
+  bounded where the local evidence is incomplete.

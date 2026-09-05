@@ -1,0 +1,777 @@
+{
+  "schema_version": 1,
+  "topics": {
+    "philosophy-paper-ii-philosophy-of-religion-01": {
+      "section": "Philosophy-of-Religion",
+      "topic_folder": "Notions-of-God"
+    },
+    "ancient-indian-history-01": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "ancient-indian-history-01",
+      "session_titles": {
+        "What ancient history is actually about: the six layers under the dynasty list": "Importance of Ancient Indian History",
+        "The four things people call \"history\", and the gaps between them": "History, Historiography and Reconstruction",
+        "The evidence wheel: eight source classes, one rule, and the boundary line": "Evidence Architecture and Method",
+        "The colonial knowledge machine: administrative need in, imperial narrative out": "Colonial, Orientalist and Imperial Historiography",
+        "The nationalist counter-attack: which colonial claim each scholar answered": "Nationalist Historiography",
+        "The materialist turn: what changed when the question changed": "Marxist, Materialist and Social-History Turn",
+        "Two ways of cutting the same past": "Periodisation Debates",
+        "A beginner's source-criticism compass": "Bias, Silences and the Ethics of Interpretation",
+        "Public history and current-link discipline": "Public History and Living Stakes",
+        "The master comparison matrix": "Comparative Synthesis and UPSC Answer Architecture"
+      }
+    },
+    "polity-01": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-01"
+    },
+    "polity-08": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-08",
+      "semantic_overrides": {
+        "Complete article-by-article coverage: Articles 38 to 43B": {
+          "plain": "Articles 38 to 43B form the first welfare cluster of Part IV, covering justice, distribution, legal aid, village self-government, social security, humane work, living wages, worker participation and co-operatives.",
+          "technical": "The Articles 38 to 43B cluster directs distributive justice through Articles 38 and 39, access and decentralisation through Articles 39A and 40, and socio-economic security and participation through Articles 41 to 43B.",
+          "opening": "Articles 38 to 43B convert the Constitution's welfare commitment into linked directives on distributive justice, access to justice, local self-government, labour dignity, social security and democratic economic organisation.",
+          "keywords": [
+            "Articles 38 to 43B",
+            "Article 39(b)",
+            "Article 39(c)",
+            "Article 39A",
+            "Article 41",
+            "Article 43B"
+          ],
+          "how": "Define Articles 38 to 43B as a welfare map; contrast Article 39(b) resource distribution with Article 39(c) anti-concentration, then connect Article 39A, Article 41 and Article 43B to institutions and implementation limits.",
+          "mechanism": "The cluster moves from broad welfare and distribution to legal aid and panchayats, then to capacity-qualified social security, labour protection, living wages, worker participation and co-operative autonomy.",
+          "consequence": "Read together, these Articles require positive State action but leave the choice of legislation, expenditure and administrative sequencing subject to constitutional competence and capacity.",
+          "trap": "Do not treat Article 39(b) and Article 39(c) as synonyms, omit Article 41's economic-capacity qualifier, or claim that Article 43B makes every co-operative rule judicially enforceable."
+        },
+        "Complete article-by-article coverage: Articles 44 to 51": {
+          "plain": "Articles 44 to 51 form Part IV's second cluster, directing civil-law reform, early-childhood care, protection of weaker sections, public health, scientific agriculture, environmental and heritage protection, judicial independence and international peace.",
+          "technical": "The Articles 44 to 51 cluster links social capability and reform with ecological stewardship, institutional separation under Article 50 and the four international commitments contained in Article 51.",
+          "opening": "Articles 44 to 51 widen the Directive Principles beyond material welfare by constitutionalising reform, capability, ecology, heritage, judicial independence and a peace-oriented international outlook.",
+          "keywords": [
+            "Article 44",
+            "Article 45",
+            "Article 46",
+            "Article 48A",
+            "Article 50",
+            "Article 51"
+          ],
+          "how": "Use Article 44 for civil reform, Article 45 and Article 46 for capability and weaker-section protection, Article 48A for ecology, Article 50 for judicial independence and Article 51 for international peace and law.",
+          "mechanism": "This cluster directs legislation and administration across personal law, child development, public health, agriculture, environment, heritage, judicial organisation and foreign relations.",
+          "consequence": "Its breadth shows that constitutional welfare includes equal civil status, human capability, ecological security, impartial institutions and responsible international conduct.",
+          "trap": "Do not place Article 51A duties in Part IV, reduce Article 51 to one peace clause, or ignore the Parliamentary-law qualification governing Article 49."
+        }
+      }
+    },
+    "polity-10": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-10",
+      "semantic_overrides": {
+        "Ordinary legislative power and constituent power": {
+          "plain": "Ordinary legislative power makes law within the existing Constitution, whereas constituent power changes the constitutional text through the amendment authority and procedure in Article 368.",
+          "technical": "Constituent power under Article 368 operates by addition, variation or repeal of constitutional provisions, while ordinary legislative power remains limited by legislative competence and the unchanged constitutional framework.",
+          "opening": "The Constitution distinguishes law-making under distributed legislative competence from constitution-amending constituent power, because changing an ordinary rule is not the same as altering the higher legal framework.",
+          "keywords": [
+            "ordinary legislative power",
+            "constituent power",
+            "Article 368",
+            "legislative competence",
+            "addition",
+            "variation"
+          ],
+          "how": "Define ordinary legislative power through legislative competence, contrast it with constituent power under Article 368, and use addition and variation to show how constitutional amendment differs from ordinary law-making.",
+          "mechanism": "Ordinary legislation remains valid only within the Constitution, while an Article 368 amendment changes constitutional text through an entrenched constituent procedure.",
+          "consequence": "The distinction explains why simple-majority constitutional changes may be legally excluded from Article 368 and why ordinary statutes cannot claim the status of constitutional amendments.",
+          "trap": "Do not describe every Act of Parliament as constituent power or assume that every constitutional change must follow Article 368."
+        },
+        "Three constitutional change routes": {
+          "plain": "The Constitution uses three routes for change: simple-majority changes outside Article 368, Article 368 special-majority amendments, and amendments that additionally require ratification by at least half of the States.",
+          "technical": "The route depends on the provision changed: ordinary legislative form for expressly excluded matters, the dual special majority for most Article 368 amendments, and the proviso's federal ratification for its closed subject list.",
+          "opening": "India's amendment design combines flexibility and rigidity by matching the degree of entrenchment to the constitutional importance and federal sensitivity of the provision being changed.",
+          "keywords": [
+            "simple majority",
+            "special majority",
+            "total membership",
+            "present and voting",
+            "State ratification",
+            "Article 368 proviso"
+          ],
+          "how": "Begin with simple majority outside Article 368, explain special majority through total membership and present and voting, then add State ratification only for the Article 368 proviso subjects.",
+          "mechanism": "Increasing entrenchment moves from ordinary parliamentary passage to two simultaneous House-majority limbs and finally to a federal consent stage.",
+          "consequence": "The graded routes permit routine institutional adjustment while protecting constitutional and federal fundamentals from easy alteration.",
+          "trap": "Do not call a simple-majority change an Article 368 amendment or assume that every federal-looking amendment requires State ratification."
+        }
+      }
+    },
+    "polity-27": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-27",
+      "semantic_overrides": {
+        "Protection under section 16": {
+          "plain": "Section 16 protects serving and former Chief Election Commissioners and Election Commissioners from civil or criminal proceedings for acts, things or words done in the course of official duty or purported official duty.",
+          "technical": "The 2023 Act creates a statutory official-duty protection for the CEC and ECs, subject to the section's text and without converting the Commission into an institution above constitutional or judicial accountability.",
+          "opening": "Section 16 supplies office-linked litigation protection for official conduct, but it does not displace constitutional limits, judicial review or accountability for action outside the statutory field.",
+          "keywords": [
+            "section 16",
+            "official-duty protection",
+            "CEC and ECs",
+            "civil proceedings",
+            "criminal proceedings",
+            "judicial review"
+          ],
+          "how": "Name section 16, identify the protected office-holders and official-duty nexus, and immediately qualify the protection through constitutional limits and judicial review.",
+          "mechanism": "The protection attaches to specified acts, things or words connected with official or purported official duty and is invoked within the legal process governing a proceeding.",
+          "consequence": "Election Commissioners receive functional protection against personal litigation pressure while remaining bound by the Constitution, election law and reviewable legal limits.",
+          "trap": "Do not describe section 16 as blanket personal immunity, extend it to every election official or treat it as a bar on judicial review of ECI action."
+        }
+      }
+    },
+    "polity-28": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-28",
+      "semantic_overrides": {
+        "UPSC, SPSC and Joint Commission compared": {
+          "plain": "The Union Public Service Commission serves the Union, a State Public Service Commission serves a State, and a Joint State Public Service Commission serves participating States under a parliamentary law.",
+          "technical": "Article 315 distinguishes the UPSC, each SPSC and a Joint State Public Service Commission while assigning different creation, appointment, assistance and reporting routes.",
+          "opening": "Articles 315 to 323 create a differentiated federal commission system rather than one national recruitment authority for every public post.",
+          "keywords": [
+            "Article 315",
+            "UPSC",
+            "SPSC",
+            "Joint State PSC",
+            "parliamentary law",
+            "federal recruitment"
+          ],
+          "how": "Use Article 315 to compare UPSC, SPSC and Joint State PSC by constitutional source, appointing authority, service area and reporting route; then add the Article 315(4) and Article 320(2) assistance mechanisms.",
+          "mechanism": "The Constitution assigns a Union Commission and State Commissions, permits a Joint Commission after State resolutions and parliamentary law, and allows specified UPSC assistance.",
+          "consequence": "Recruitment expertise can be shared across governments without erasing the constitutional identity and accountability route of each commission.",
+          "trap": "Do not call a Joint State PSC purely extra-constitutional, confuse it with temporary UPSC assistance or say that the Union Commission controls every State recruitment."
+        },
+        "UPSC versus DoPT and the appointing government": {
+          "plain": "The recruitment ecosystem is the division in which the Commission conducts assigned examinations and advice, and the executive creates posts, manages cadres and makes lawful appointments.",
+          "technical": "The Article 320 consultation and examination mandate operates within the executive personnel framework created under Article 309, valid recruitment rules and the constitutional equality code.",
+          "opening": "The UPSC is an independent recruitment adviser, not the whole personnel administration: constitutional legitimacy depends on a lawful chain from post creation and rules to selection, appointment and review.",
+          "keywords": [
+            "Article 320",
+            "Article 309",
+            "DoPT",
+            "appointing authority",
+            "recruitment rules",
+            "advisory function"
+          ],
+          "how": "Use Article 309 and DoPT for recruitment rules and cadre control, Article 320 for UPSC examination and advice, and the appointing authority for the final lawful decision before evaluating independence.",
+          "mechanism": "Government defines the post and rules, the Commission conducts the assigned selection or consultation, the competent authority decides, and review bodies test legality.",
+          "consequence": "Institutional separation protects neutral selection while preserving elected-government responsibility for public administration.",
+          "trap": "Do not treat a UPSC recommendation as an appointment order, equate UPSC with DoPT or describe CAT as a recruitment body."
+        }
+      }
+    },
+    "polity-30": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-30",
+      "semantic_overrides": {
+        "Union of India v. Mohit Minerals (2022)": {
+          "plain": "Mohit Minerals is the controlling GST Council decision explaining that Council recommendations guide cooperative bargaining but do not command legislatures.",
+          "technical": "The Mohit Minerals doctrine distinguishes persuasive Article 279A recommendations from binding statutory conditions imposed on delegated executive action under GST legislation.",
+          "opening": "Mohit Minerals preserves both sides of the GST compact: legislatures retain Article 246A authority, while Council recommendations remain central to coordinated fiscal decision-making.",
+          "keywords": [
+            "Mohit Minerals",
+            "Article 279A",
+            "Article 246A",
+            "persuasive recommendation",
+            "simultaneous legislative power",
+            "delegated action"
+          ],
+          "how": "Use Mohit Minerals with Article 279A and Article 246A to distinguish persuasive recommendation, simultaneous legislative power and statute-bound delegated action before evaluating cooperative federalism.",
+          "mechanism": "The Council deliberates and recommends, legislatures exercise constitutional competence, and executive notifications remain bound by any recommendation condition written into the governing statute.",
+          "consequence": "The doctrine rejects Council hierarchy without reducing the institution to irrelevance, making dialogue and legal implementation separate but connected stages.",
+          "trap": "Do not say that every Council recommendation binds Parliament and States, or that non-binding status frees delegated executive action from statutory conditions."
+        }
+      }
+    },
+    "polity-32": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-32",
+      "semantic_overrides": {
+        "From audit finding to legislative accountability": {
+          "plain": "Legislative audit accountability is the process by which a CAG finding is laid before the legislature, examined by a committee and followed by an executive response.",
+          "technical": "The Article 151 accountability chain links CAG findings to President or Governor laying, PAC or CoPU scrutiny, ministry evidence, committee findings and action-taken follow-up.",
+          "opening": "A CAG report becomes democratically consequential through legislative scrutiny and executive follow-up, not through an automatic power in the auditor to punish or recover.",
+          "keywords": [
+            "Article 151",
+            "CAG report",
+            "Public Accounts Committee",
+            "CoPU",
+            "action-taken report",
+            "legislative scrutiny"
+          ],
+          "how": "Use Article 151 to trace the CAG report through the Public Accounts Committee or CoPU, ministry evidence and the action-taken report before evaluating legislative scrutiny.",
+          "mechanism": "The CAG submits evidence through the constitutional report route, committees test it against executive explanations, and the legislature pursues correction through recommendations and follow-up.",
+          "consequence": "Independent audit information is converted into public accountability while the constitutional roles of auditor, committee, executive and court remain separate.",
+          "trap": "Do not treat a CAG paragraph as a PAC conclusion, a binding judgment, a criminal finding or an automatic recovery order."
+        },
+        "Public-private nexus and controlled judicial doctrine": {
+          "plain": "The public-private audit boundary is the rule that CAG access follows a legally defined public-finance, public-revenue, company or entrustment nexus rather than private status alone.",
+          "technical": "Sections 14, 15, 16, 19 and 20 of the DPC Act connect audit jurisdiction to substantial finance, grants, Consolidated-Fund receipts, government companies, corporations and lawful entrustment.",
+          "opening": "CAG jurisdiction may follow public money or public revenue into a non-departmental entity, but its scope must remain tied to the statutory nexus that brought the entity within audit.",
+          "keywords": [
+            "public-finance nexus",
+            "Section 14",
+            "Section 15",
+            "Section 16",
+            "Section 19",
+            "Section 20"
+          ],
+          "how": "Identify the public-finance nexus, select Section 14, Section 15, Section 16, Section 19 or Section 20, and then define the permitted audit scope and accountability route.",
+          "mechanism": "Public financing, a specific grant, revenue payable to government, company status or lawful entrustment activates the corresponding statutory audit route and record-access power.",
+          "consequence": "Audit can protect public resources beyond departments while remaining proportionate to the legal connection and subject to legislative scrutiny.",
+          "trap": "Do not infer universal CAG jurisdiction merely because an entity is private, regulated, commercially important or politically controversial."
+        }
+      }
+    },
+    "polity-37": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-37",
+      "semantic_overrides": {
+        "CBI Director: Appointment, Tenure, Transfer and Senior Posts": {
+          "plain": "The CBI Director safeguard system protects professional control of the investigating establishment through committee-based appointment, a minimum tenure and restricted transfer.",
+          "technical": "Sections 4A, 4B, 4BA and 4C of the DSPE Act distribute Director selection, tenure, conditional extension, transfer protection and senior appointment inputs among specified statutory authorities.",
+          "opening": "CBI autonomy depends less on a slogan of independence than on a rule-bound Director architecture that separates high-level selection, secure minimum tenure, lawful extension and day-to-day administration.",
+          "keywords": [
+            "Section 4A",
+            "Section 4B",
+            "Section 4BA",
+            "Section 4C",
+            "selection committee",
+            "minimum tenure",
+            "conditional extension",
+            "transfer safeguard"
+          ],
+          "how": "Use sections 4A to 4C in sequence: identify the selection committee, state the two-year floor, qualify the current extension route and explain the committee safeguard against transfer-equivalent interference.",
+          "mechanism": "The statutory committee recommends the Director, a protected minimum tenure supports continuity, any extension must satisfy current recorded conditions, and transfer or equivalent divestment engages the protective scheme.",
+          "consequence": "The architecture reduces abrupt executive displacement while preserving legal supervision, judicial review and accountability for investigative decisions.",
+          "trap": "Do not describe the two-year minimum as an automatic five-year term, include the Home Minister in the Director committee or treat superintendence as power to dictate a case result."
+        }
+      }
+    },
+    "medieval-indian-history-05": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-05",
+      "semantic_overrides": {
+        "Muhammad versus Firuz: ambition, fiscal method, elite management, religion and durability": {
+          "plain": "Muhammad bin Tughlaq and Firuz Shah used contrasting strategies to govern the Sultanate, one stressing ambitious direct control and the other stressing conciliation and hereditary stability.",
+          "technical": "The comparison turns on territorial imagination, fiscal instruments, elite recruitment, religious politics and durability rather than on a simple contrast between irrationality and benevolence.",
+          "opening": "The two reigns reveal alternative responses to the same Sultanate problem of aligning territorial reach, agrarian revenue, elite compliance and administrative capacity.",
+          "keywords": [
+            "Muhammad bin Tughlaq",
+            "Firuz Shah",
+            "state capacity",
+            "fiscal strategy",
+            "elite management",
+            "durability"
+          ],
+          "how": "Compare Muhammad bin Tughlaq and Firuz Shah through state capacity, fiscal strategy, elite management, religious politics and durability before giving a qualified verdict.",
+          "mechanism": "Muhammad pursued wider direct supervision through experiments and heterogeneous recruitment, while Firuz reduced coercive intensity through elite concessions, heredity and public works.",
+          "consequence": "Muhammad's failures damaged trust and accelerated fragmentation, whereas Firuz achieved longer peace at the cost of weaker audit, military and succession controls.",
+          "trap": "Do not reduce the comparison to mad ruler versus kind ruler or treat either short-term stability or ambitious intention as proof of durable administrative success."
+        }
+      }
+    },
+    "medieval-indian-history-08": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-08",
+      "semantic_overrides": {
+        "Comparative political economy: trade, routes, architecture and state power": {
+          "plain": "Comparative political economy explains how Bengal, Gujarat, Malwa, Jaunpur and Kashmir converted different resources, routes, towns and cultural institutions into regional state power.",
+          "technical": "The comparison links agrarian bases, commercial corridors, urban nodes, architecture, elite incorporation and political geography to the unequal capacities of the five regional kingdoms.",
+          "opening": "Trade, routes and architecture mattered politically because regional courts had to organise production, movement, protection, revenue and legitimacy rather than merely possess a favourable location.",
+          "keywords": [
+            "comparative political economy",
+            "trade",
+            "routes",
+            "architecture",
+            "state power",
+            "regional kingdoms"
+          ],
+          "how": "Use comparative political economy to compare how trade, routes and architecture supported state power across the regional kingdoms before identifying each polity's distinct resource circuit.",
+          "mechanism": "Productive hinterlands supplied towns and crafts, routes and ports connected exchange, courts protected movement and recruited elites, and architecture made state power visible in regionally specific forms.",
+          "consequence": "The regional kingdoms developed durable but unequal capacities: commercial vitality and cultural patronage could strengthen rule while also attracting rivalry, intervention and maritime pressure.",
+          "trap": "Do not reduce comparative political economy to a port list, treat architecture as proof of social equality, or assume favourable routes automatically created state power without institutions."
+        }
+      }
+    },
+    "medieval-indian-history-10": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-10",
+      "semantic_overrides": {
+        "Kabir: critique, corpus and institutional limits": {
+          "plain": "Kabir used accessible nirguna devotional verse to challenge empty ritual, inherited rank and exclusive religious claims without creating a centrally governed reform organisation.",
+          "technical": "Kabir's historical significance lies in a vernacular nirguna critique transmitted through oral performance and later textual compilations whose variant recensions require source criticism.",
+          "opening": "Kabir joined devotion to a formless divine with an ethical attack on ritualism and hierarchy, but the social reach and exact wording of his teaching must be reconstructed through a layered corpus.",
+          "keywords": [
+            "Kabir",
+            "nirguna",
+            "vernacular",
+            "ritual critique",
+            "oral transmission",
+            "corpus criticism"
+          ],
+          "how": "Define Kabir's nirguna position, identify his critique of ritual and inherited status, explain the reach of vernacular performance, and then qualify claims through the oral and compiled character of the corpus.",
+          "mechanism": "Memorable vernacular couplets circulated across artisan, devotional and sectarian settings, allowing ethical criticism to travel beyond learned institutions while later communities preserved and reshaped the remembered corpus.",
+          "consequence": "Kabir enlarged the language of social and religious criticism and inspired durable communities of memory, but his teaching did not automatically abolish caste, hierarchy or institutional difference.",
+          "trap": "Do not authenticate every attributed couplet as Kabir's exact medieval wording, call him the founder of a modern political movement or use his critique as proof that caste disappeared."
+        }
+      }
+    },
+    "medieval-indian-history-11": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-11",
+      "semantic_overrides": {
+        "The Qutb complex: layered patronage and experimental craft": {
+          "plain": "The Qutb complex records successive acts of construction, expansion and repair by several Sultanate rulers rather than one finished monument from a single reign.",
+          "technical": "Its mosque, minar, Iltutmish tomb, Alai Darwaza, madrasa and unfinished Alai Minar preserve distinct stages of reuse, funerary building, arcuate experimentation and ceremonial enlargement.",
+          "opening": "The Qutb complex is best read as a layered architectural archive in which patronage, structural technique, ritual function and later conservation can be separated and then connected.",
+          "keywords": [
+            "Qutb complex",
+            "Quwwat-ul-Islam",
+            "Qutb Minar",
+            "Iltutmish tomb",
+            "Alai Darwaza",
+            "layered patronage"
+          ],
+          "how": "Move through the complex chronologically: identify early mosque reuse, Aibak and Iltutmish's minar work, Iltutmish's tomb experiment, Alauddin Khalji's additions and later repair before drawing a synthesis.",
+          "mechanism": "Successive rulers added, enlarged or repaired structures while Indian workshops adapted materials, carving and arcuate techniques to changing ritual, funerary and ceremonial requirements.",
+          "consequence": "The ensemble became evidence of both political succession and increasing technical confidence, while its present conservation preserves several historical layers rather than one imagined original state.",
+          "trap": "Do not collapse every component into one date, transfer Balban's first-surviving-true-arch claim to Alai Darwaza or use current UNESCO management language as proof of every medieval attribution."
+        }
+      }
+    },
+    "medieval-indian-history-13": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-13",
+      "semantic_overrides": {
+        "A reusable historical-method toolkit for this topic": {
+          "plain": "This toolkit turns disputed chronology, regional scale and mixed evidence into a disciplined sequence of claim, named evidence, mechanism, qualification and graded conclusion.",
+          "technical": "It combines chronological control, scale control and source control so that forts, routes, courts, campaigns, chronicles, traditions and monuments are assigned distinct evidentiary functions.",
+          "opening": "Humayun's struggle is also a method lesson: a defensible answer must preserve chronology, distinguish levels of causation and rank evidence instead of collecting anecdotes.",
+          "keywords": [
+            "chronological control",
+            "scale control",
+            "source control",
+            "named evidence",
+            "mechanism",
+            "qualification"
+          ],
+          "how": "State a narrow claim, name a dated or located evidence unit, explain its mechanism, add the source or scale limit, and return to the question with a qualified judgement.",
+          "mechanism": "Chronology separates phases, scale links local forts and routes to regional and imperial contests, and source ranking prevents later memory or heritage description from replacing event evidence.",
+          "consequence": "The answer remains analytical without flattening Chausa into Kannauj, treating one monument as a campaign source or allowing one brother, legend or character judgement to explain the entire reign.",
+          "trap": "Do not mistake a list of places for analysis, use source caution as an excuse for indecision or let a later tradition carry more evidentiary weight than dated political and military evidence."
+        }
+      }
+    },
+    "medieval-indian-history-14": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-14",
+      "semantic_overrides": {
+        "Sarais, dak and the political economy of movement": {
+          "plain": "Sher Shah's sarais were fortified route stations that combined lodging, local exchange, relay services, information movement and surveillance.",
+          "technical": "Placed at regular two-karoh intervals in the assigned source, the sarai-dak network converted roads into nodal infrastructure for merchants, officials, news carriers and military movement.",
+          "opening": "A road acquires administrative value through its nodes, and Sher Shah's sarais linked mobility, markets, intelligence and political supervision across imperial corridors.",
+          "keywords": [
+            "sarais",
+            "dak",
+            "two karohs",
+            "relay",
+            "markets",
+            "surveillance"
+          ],
+          "how": "Define the sarai as a multifunctional route station, connect it to the dak relay and road system, then analyse both commercial support and coercive supervision.",
+          "mechanism": "Regular stations supplied rest, exchange, animals, information and official presence, allowing messages, travellers, troops and revenue-related movement to pass through a monitored corridor.",
+          "consequence": "The network strengthened state reach and commercial confidence while also making movement more visible to officials and embedding surveillance in transport infrastructure.",
+          "trap": "Do not reduce sarais to welfare shelters, convert two karohs into a universal modern distance or claim that every surviving caravanserai belonged to Sher Shah's programme."
+        }
+      }
+    },
+    "medieval-indian-history-16": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "medieval-indian-history-16",
+      "semantic_overrides": {
+        "PART I — Orientation: a state made through stages, not from zero": {
+          "plain": "Akbar's government evolved in stages from Sultanate and Sur precedents, connecting ruler-centred authority, differentiated offices, ranked service, verification and revenue records without becoming a modern bureaucracy.",
+          "technical": "The institutional sequence moved from the regency lesson and stronger fiscal specialisation to numerical mansabs, dagh, twelve subas, dahsala and the late zat-sawar distinction, with each device serving a distinct administrative problem.",
+          "opening": "Akbar did not create a finished administration at accession; he progressively coordinated inherited offices, rank, records and revenue practices into a larger but still personal and uneven imperial system.",
+          "keywords": [
+            "institutional stages",
+            "ruler-centred authority",
+            "administrative precedents",
+            "numerical mansab",
+            "dahsala",
+            "zat-sawar"
+          ],
+          "how": "Define the institutional stages through administrative precedents; then show how ruler-centred authority coordinated numerical mansab, dahsala and zat-sawar before qualifying hierarchy, mediation and uneven reach.",
+          "mechanism": "Differentiated offices generated parallel information, graded service organised the elite, verification tested military claims, and measured or estimated revenue supplied the fiscal basis for remuneration and expansion.",
+          "consequence": "Imperial capacity increased because more officers, resources and claims became classifiable and reportable to the centre, although implementation still depended on personal supervision and local intermediaries.",
+          "trap": "Do not place every institution in 1556, translate the system into a modern bureaucracy or describe inherited Sultanate and Sur devices as unchanged Mughal copies."
+        },
+        "PART XVII — Building a high-scoring answer from a state-capacity question": {
+          "plain": "A high-scoring state-capacity answer defines ruler-centred systematisation, then connects central offices, mansabdari, verification, revenue calculation, local mediation and source limits through claim, mechanism and qualification.",
+          "technical": "The answer should move by function from differentiated offices to the rank-salary-service-verification chain and the measure-rate-record-realisation chain before testing imperial norms against local outcomes.",
+          "opening": "A high-scoring answer to a state-capacity question should present Akbar's offices, mansabdari and dahsala as an integrated system whose enlarged reach remained personal, hierarchical and uneven.",
+          "keywords": [
+            "state capacity",
+            "ruler-centred systematisation",
+            "rank-salary-service",
+            "revenue calculation",
+            "local mediation",
+            "qualified verdict"
+          ],
+          "how": "Frame state capacity as ruler-centred systematisation; use the rank-salary-service chain and revenue calculation; then test local mediation before giving a qualified verdict.",
+          "mechanism": "Central and provincial offices give multiple views of resources, mansabdari joins rank to remuneration and verified service, and revenue records convert fields and prices into claims whose realisation still requires local mediation.",
+          "consequence": "The structure avoids a vocabulary list and demonstrates how institutions interacted, why they increased imperial reach and where paper design diverged from actual contingents, receipts and village outcomes.",
+          "trap": "Do not equate checks with separation of powers, mansab with only troop numbers, dahsala with permanent settlement or assessed jama with realised hasil."
+        }
+      }
+    },
+    "modern-indian-history-02": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "modern-indian-history-02",
+      "semantic_overrides": {
+        "08. Maratha legacy before Peshwa expansion: bounded Shivaji, Shahu and Tarabai": {
+          "plain": "The early eighteenth-century Maratha inheritance combined Shivaji's forts, mobile warfare, revenue practices and sovereignty symbols with continuing bargaining among rival claimants and sardars.",
+          "technical": "After Shahu's release in 1707 intensified the Satara-Kolhapur contest, Balaji Vishwanath used negotiated sardar allegiance to strengthen Peshwa coordination without creating a unitary bureaucracy.",
+          "opening": "Maratha expansion under the Peshwas grew from a contested post-Shivaji political field in which military resources, hereditary rights and allegiance had to be repeatedly negotiated.",
+          "keywords": [
+            "Shivaji's legacy",
+            "Shahu",
+            "Tarabai",
+            "Satara and Kolhapur",
+            "Balaji Vishwanath",
+            "negotiated coalition"
+          ],
+          "how": "Use Shivaji's legacy as the inheritance, compare Shahu and Tarabai across Satara and Kolhapur, then explain how Balaji Vishwanath built a negotiated coalition before qualifying the polity's social and institutional unity.",
+          "mechanism": "Rival courts competed for sardars whose personal followings, watan rights and military resources made negotiated allegiance essential, allowing the Peshwa to become a coordinating centre through coalition rather than bureaucratic command.",
+          "consequence": "The settlement strengthened Shahu's position and the Peshwaship while preserving powerful regional intermediaries whose autonomy later shaped the confederate character and coordination limits of Maratha power.",
+          "trap": "Do not project a homogeneous modern nation or unitary state backward, reduce alliances to religion, or treat Shivaji's institutions as an unchanged blueprint for later Peshwa expansion."
+        }
+      }
+    },
+    "modern-indian-history-04": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "modern-indian-history-04",
+      "semantic_overrides": {
+        "CORE — 4. Plassey's hidden battle: the conspiracy network of 1757": {
+          "plain": "The Plassey conspiracy was a planned change of Nawab in which Company officials and dissatisfied Bengal elites coordinated before the battlefield encounter.",
+          "technical": "The regime-change coalition joined Company military leverage to Mir Jafar's command defection, Jagat Seth credit, Rai Durlabh's administrative position and Amichand's brokerage, thereby disabling Siraj-ud-Daulah's effective chain of command.",
+          "opening": "Plassey was politically decided through a coalition whose members sought different gains but converged on removing Siraj-ud-Daulah.",
+          "keywords": [
+            "Company military leverage",
+            "Mir Jafar",
+            "Jagat Seth",
+            "Rai Durlabh",
+            "Amichand",
+            "regime-change coalition"
+          ],
+          "how": "Map Company military leverage to Mir Jafar's non-participation, Jagat Seth's financial support and Rai Durlabh's administrative influence; then use Amichand to show that brokerage and deception operated within the regime-change coalition.",
+          "mechanism": "Secret correspondence and treaty bargaining aligned the Company's capacity with elite control of credit, office and military contingents, so most of the Nawabi army was politically neutralised before the fighting at Plassey began.",
+          "consequence": "The coalition installed Mir Jafar and made the Company Bengal's kingmaker, but it did not yet confer the military supremacy or legal revenue title later secured through Buxar and the Diwani.",
+          "trap": "Do not reduce the coalition to a single-word betrayal story, treat every Indian actor as having the same motive, or claim that conspiracy at Plassey alone completed Company sovereignty."
+        }
+      }
+    },
+    "modern-indian-history-05": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "modern-indian-history-05",
+      "semantic_overrides": {
+        "FOUNDATION — 1. From commercial-fiscal base to military-fiscal state: ring-fence, buffer, subsidiary dependency, paramountcy, annexation": {
+          "plain": "British territorial expansion was a graduated process in which the Company moved from protecting buffers to controlling allies and finally annexing selected territories.",
+          "technical": "The expansion ladder joined ring-fence strategy, subsidiary dependency, the claim of paramountcy and direct annexation to a Bengal-financed fiscal-military state.",
+          "opening": "Company expansion after 1765 combined changing policy postures with an expanding fiscal-military capacity rather than following one predetermined blueprint.",
+          "keywords": [
+            "ring-fence",
+            "buffer",
+            "subsidiary dependency",
+            "paramountcy",
+            "annexation",
+            "fiscal-military state"
+          ],
+          "how": "Define ring-fence and buffer policy first, show how subsidiary dependency removed effective sovereignty, then connect paramountcy and annexation to the Company's fiscal-military state.",
+          "mechanism": "Bengal revenue sustained permanent armies and diplomacy, allowing the Company to isolate opponents, subordinate surviving rulers through subsidiary treaties and absorb territories through conquest or legal pretexts.",
+          "consequence": "Different regions could simultaneously remain buffers, become dependent allies or face annexation, while every territorial gain strengthened the resource base for further expansion.",
+          "trap": "Do not treat ring-fence, Subsidiary Alliance, paramountcy and annexation as synonyms or describe the 1856 territorial map as inevitable from Plassey."
+        },
+        "CORE — 11. Treaty of Bassein, 1802: the turning point": {
+          "plain": "The Treaty of Bassein was the Peshwa's 1802 Subsidiary Alliance with the Company after his defeat and flight from Pune.",
+          "technical": "Bassein transferred the Peshwa's defence and external relations to Company control through a permanent subsidiary force, territorial support, a Resident and restrictions on independent diplomacy and European employment.",
+          "opening": "The Treaty of Bassein converted a Maratha succession and confederate conflict into a constitutional subordination of the Peshwa and a wider Company-Maratha war.",
+          "keywords": [
+            "Treaty of Bassein",
+            "Peshwa Baji Rao II",
+            "Subsidiary Alliance",
+            "Company control",
+            "Maratha confederacy",
+            "Second Anglo-Maratha War"
+          ],
+          "how": "Begin with Peshwa Baji Rao II's defeat by Holkar, define the Treaty of Bassein as a Subsidiary Alliance, trace the transfer to Company control and then connect Maratha confederacy opposition to the Second Anglo-Maratha War.",
+          "mechanism": "By accepting a Company force, territorial support and diplomatic restrictions, the nominal confederate head lost the capacity to coordinate independent Maratha resistance while giving the Company a treaty basis for intervention.",
+          "consequence": "Scindia and Bhonsle rejected the new relationship and fought the Company, while Holkar's later resistance showed that Bassein transformed rather than immediately ended the contest.",
+          "trap": "Do not say Bassein ended all Maratha resistance in 1802 or confuse it with the settlement that ended the Third Anglo-Maratha War."
+        }
+      }
+    },
+    "modern-indian-history-07": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "modern-indian-history-07",
+      "semantic_overrides": {
+        "CORE — 18. The famine case sequence and colonial famine policy": {
+          "plain": "The colonial famine sequence links repeated regional crises to the gradual development of commissions, relief doctrine and famine codes without reducing every famine to one cause.",
+          "technical": "The verified sequence runs from western Uttar Pradesh in 1860-61 and Orissa in 1865-66 through the 1876-78 famine, the Strachey Commission of 1880 and the 1896-1900 famine cycle, with 1770 retained as Topic 04 background.",
+          "opening": "Colonial famine policy evolved reactively: recurring harvest shocks exposed revenue, entitlement and relief failures, after which commissions and codes attempted to regularise an uneven administrative response.",
+          "keywords": [
+            "famine case sequence",
+            "western Uttar Pradesh 1860-61",
+            "Orissa 1865-66",
+            "1876-78 famine",
+            "Strachey Commission 1880",
+            "1896-1900 famine"
+          ],
+          "how": "Define the famine case sequence, order western Uttar Pradesh 1860-61 and Orissa 1865-66 before the 1876-78 famine, place the Strachey Commission 1880 as the policy response, and close with the recurrence represented by the 1896-1900 famine.",
+          "mechanism": "A climatic harvest shock interacted with rigid revenue, commercial exposure, price-led grain movement, limited relief ideology and administrative delay; post-crisis inquiry then converted selected lessons into famine-policy rules.",
+          "consequence": "The sequence shows both continuity in structural vulnerability and change toward more codified relief administration, while leaving implementation uneven and famine outcomes region-specific.",
+          "trap": "Do not begin Topic 07's detailed sequence with 1770, invent mortality totals, name an unverified commission, or present famine codes as proof that later relief was uniformly adequate."
+        }
+      }
+    },
+    "modern-indian-history-08": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "modern-indian-history-08",
+      "semantic_overrides": {
+        "CORE — 4. Fort William, Haileybury, and the training/exclusion pipeline": {
+          "plain": "Fort William College and Haileybury were successive training institutions for European Company civil servants, combining administrative preparation with an exclusive higher-service identity.",
+          "technical": "Wellesley's Fort William College trained European recruits in Indian languages, law and administration from 1800, while the East India College moved training to England and then Haileybury by 1809 under closer Court of Directors control.",
+          "opening": "The shift from Fort William in Calcutta to Haileybury in England shows that colonial training built both practical governing competence and a socially closed European service corps.",
+          "keywords": [
+            "Fort William College",
+            "Wellesley",
+            "1800",
+            "East India College",
+            "Haileybury",
+            "1809"
+          ],
+          "how": "Define Fort William College as Wellesley's 1800 Calcutta training institution, contrast it with the East India College at Haileybury from 1809, and connect European recruit training to both governing competence and exclusion.",
+          "mechanism": "Training supplied linguistic and administrative skills while residential socialisation and overseas location reproduced a cohesive European governing identity before district posting.",
+          "consequence": "The higher service became more professionally prepared without becoming more accessible to Indians, so competence and racial exclusion developed together.",
+          "trap": "Do not treat Fort William or Haileybury as colleges created for Indian civil-service aspirants, and do not reverse their chronology."
+        },
+        "CORE — 7. Sepoy army before 1857: conquest and internal control": {
+          "plain": "Before 1857, the Company army combined predominantly Indian rank-and-file manpower with European command to conquer territories and reinforce internal colonial order.",
+          "technical": "The sepoy system converted Indian military labour, regular fiscal support, regimental discipline and a British officer monopoly into a force usable for both external campaigns and domestic coercive reserve.",
+          "opening": "The pre-1857 Company army was not only a battlefield institution; it was the military foundation of conquest and the final enforcement arm behind district administration.",
+          "keywords": [
+            "sepoy army",
+            "Indian rank and file",
+            "European command",
+            "regular pay",
+            "territorial conquest",
+            "internal control"
+          ],
+          "how": "Define the manpower-command structure, separate Topic 05 campaign detail from Topic 08 administration, and show how regular pay, discipline and fiscal capacity supported conquest and internal order.",
+          "mechanism": "Company revenue financed regular military labour, British officers monopolised higher command and the army backed civil authority when ordinary district coercion proved insufficient.",
+          "consequence": "A relatively small European ruling establishment could expand territorially and police a much larger population through Indian manpower organised under colonial command.",
+          "trap": "Do not reduce the sepoy army to battle lists or assume that later Indian nationalism already determined soldiers' loyalties before 1857."
+        },
+        "CORE — 14. Cornwallis Code, Sadar courts, and codified legality": {
+          "plain": "The Cornwallis Code of 1793 gave colonial civil and criminal justice a more regular hierarchy of district, provincial and Sadar courts while retaining European control at the commanding levels.",
+          "technical": "Cornwallis organised District Diwani Adalats, provincial appellate channels, Courts of Circuit, the Sadar Diwani Adalat and Sadar Nizamat Adalat, with Indian Munsifs and Amins concentrated in subordinate judicial work.",
+          "opening": "The Cornwallis Code of 1793 organised Sadar courts and lower judicial layers into a more regular colonial hierarchy, making codified legality more predictable without making justice racially or socially equal.",
+          "keywords": [
+            "Cornwallis Code 1793",
+            "District Diwani Adalat",
+            "Sadar Diwani Adalat",
+            "Courts of Circuit",
+            "Sadar Nizamat Adalat",
+            "Munsifs and Amins"
+          ],
+          "how": "Define the Cornwallis Code of 1793, map the District and Sadar Diwani Adalats alongside Courts of Circuit and the Sadar Nizamat Adalat, place Munsifs and Amins below, and distinguish codified legality from equal justice.",
+          "mechanism": "A graded court hierarchy, written procedures and appellate supervision made adjudication more regular and governable while reserving decisive authority for the colonial state.",
+          "consequence": "Colonial legality became more predictable and administratively usable, yet procedural modernisation coexisted with racial hierarchy and coercive imperial purposes.",
+          "trap": "Do not claim that Cornwallis created British judicial organisation from nothing or equate codified hierarchy with social justice and racial equality."
+        }
+      }
+    },
+    "polity-53": {
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-53",
+      "semantic_overrides": {
+        "Master Article map": {
+          "plain": "Part XVI is a constitutional map that separates legislative representation, service claims, safeguard institutions and class-identification lists.",
+          "technical": "Articles 330 to 342A distribute political reservation, time clauses, Article 335 service claims, Articles 338 to 340 monitoring and Articles 341 to 342A specification powers among distinct constitutional mechanisms.",
+          "opening": "Part XVI is not one reservation rule; it is a layered architecture linking representation, service equality, constitutional oversight and legally controlled beneficiary identification.",
+          "keywords": [
+            "Part XVI",
+            "Article 330",
+            "Article 334",
+            "Article 335",
+            "Articles 338 to 340",
+            "Articles 341 to 342A"
+          ],
+          "how": "Define Part XVI as the master map; use Article 330 for representation, Article 334 for duration, Article 335 for service claims, Articles 338 to 340 for safeguards and Articles 341 to 342A for constitutional-list identification.",
+          "mechanism": "The Part first allocates reserved legislative representation and its time framework, then states the service-claim balance, creates monitoring and inquiry routes, and controls constitutional-list specification.",
+          "consequence": "The architecture advances substantive equality while ensuring that a reserved seat, a service claim, a commission report and a constitutional list retain different legal effects.",
+          "trap": "Do not treat Part XVI as a universal quota code, use Article 335 to identify a class, or confuse commission inquiry powers with Parliament's list-alteration role."
+        }
+      }
+    },
+    "geography-22": {
+      "semantic_overrides": {
+        "FOUNDATION — NORTH AMERICAN CONFINEMENT": {
+          "keywords": [
+            "British Columbia",
+            "Coast Mountains",
+            "Rockies",
+            "onshore westerlies",
+            "orographic interception",
+            "narrow coastal strip"
+          ],
+          "plain": "In western North America, high mountain barriers confine the cool maritime climate to a narrow coastal strip.",
+          "technical": "The Coast Mountains and Rockies intercept moisture-bearing westerlies and sharply increase continentality inland, restricting marine west-coast conditions mainly to coastal British Columbia and the Pacific Northwest.",
+          "how": "Map the Pacific westerlies, coastal mountains and inland rain-shadow transition; contrast this barrier-controlled strip with the wider west-to-east penetration of maritime influence across lowland northwestern Europe.",
+          "opening": "North America's British-type climate is narrow because relief blocks inland maritime penetration, not because the Pacific lacks moisture."
+        },
+        "CORE — RAINFALL REGIME": {
+          "keywords": [
+            "year-round precipitation",
+            "winter maximum",
+            "frontal cyclones",
+            "westerlies",
+            "orographic uplift",
+            "windward slopes"
+          ],
+          "plain": "Rain falls in every season, usually with a cool-season maximum as westerly storms reach western margins.",
+          "technical": "Persistent westerlies, travelling extratropical cyclones and windward orographic uplift produce year-round precipitation, with a frequent autumn-winter maximum where frontal activity strengthens.",
+          "how": "Begin with year-round precipitation; connect westerlies to frontal cyclones, connect windward slopes to orographic uplift, explain the winter maximum, then use the Mediterranean summer-dry contrast and an inland rain shadow as qualifications.",
+          "opening": "The British-type rainfall regime is a year-round westerly-storm system, regionally amplified by relief."
+        }
+      }
+    },
+    "geography-27": {
+      "semantic_overrides": {
+        "CORE — SOURCE AND DESTINATION EFFECTS": {
+          "keywords": [
+            "source region",
+            "destination region",
+            "remittances",
+            "labour supply",
+            "urban services",
+            "social costs"
+          ],
+          "plain": "Migration changes both the place people leave and the place where they settle, creating gains and costs on each side.",
+          "technical": "Source regions may gain remittances and lower labour pressure but lose selected skills or workers, while destinations gain labour and demand but face differentiated housing, service and integration pressures.",
+          "how": "Compare source-region remittances and labour supply with destination-region jobs and urban services; then add skill loss, congestion, housing and social-integration qualifications.",
+          "opening": "Migration redistributes people, income, skills and service burdens between linked source and destination regions."
+        },
+        "CORE — MOSPI 2020-21 HEADLINE FIGURES": {
+          "keywords": [
+            "MoSPI",
+            "2020-21",
+            "all-India migration rate",
+            "rural migration rate",
+            "urban migration rate",
+            "survey definition"
+          ],
+          "plain": "MoSPI migration figures must be quoted together with their survey year, population base and rural-urban categories.",
+          "technical": "The 2020-21 MoSPI estimates are survey-defined rates whose all-India, rural and urban values must retain the report period, denominator and migration definition before comparison.",
+          "how": "Name MoSPI and 2020-21, state the all-India migration rate, compare rural and urban migration rates on the same denominator, then disclose the survey definition and avoid projecting the figures to another year.",
+          "opening": "A migration statistic is usable evidence only when agency, survey period, denominator and category travel with the number."
+        }
+      }
+    },
+    "geography-29": {
+      "semantic_overrides": {
+        "CORE — SECOND PLAN SHIFT": {
+          "keywords": [
+            "Second Five Year Plan",
+            "Mahalanobis strategy",
+            "heavy industry",
+            "capital goods",
+            "public sector",
+            "agrarian constraint"
+          ],
+          "plain": "The Second Plan shifted investment priority toward heavy industry and capital goods while agriculture remained an essential constraint.",
+          "technical": "The Mahalanobis strategy raised the planned share of public-sector heavy and capital-goods capacity to expand long-run productive capability, accepting short-run consumption and foreign-exchange pressures.",
+          "how": "Contrast First-Plan agrarian recovery with the Second Five Year Plan; connect Mahalanobis strategy to heavy industry, capital goods and public-sector investment, then qualify the shift through agriculture and foreign-exchange constraints.",
+          "opening": "The Second Plan changed the growth strategy from immediate recovery toward building the domestic capital-goods base."
+        }
+      }
+    },
+    "geography-31": {
+      "semantic_overrides": {
+        "CORE — OCCURRENCE VERSUS USABLE RESOURCE": {
+          "keywords": [
+            "geological occurrence",
+            "ore grade",
+            "depth",
+            "accessibility",
+            "technology",
+            "economic reserve"
+          ],
+          "plain": "A mineral occurrence becomes a usable resource only when its quality, location and extraction conditions make recovery feasible.",
+          "technical": "Resource status filters geological occurrence through ore grade, depth, deposit geometry, infrastructure, technology, environmental limits and prevailing costs and prices.",
+          "how": "Begin with geological occurrence; test ore grade and depth, add accessibility and technology, then apply cost-price and environmental constraints before calling the deposit an economic reserve.",
+          "opening": "A mineral on a geological map is not automatically a reserve available to the economy."
+        },
+        "CORE — INDIA'S PETROLEUM PROVINCES": {
+          "keywords": [
+            "Assam-Arakan basin",
+            "Cambay basin",
+            "Mumbai Offshore",
+            "Krishna-Godavari basin",
+            "Cauvery basin",
+            "sedimentary province"
+          ],
+          "plain": "India produces petroleum from several onshore and offshore sedimentary provinces rather than from one continuous oil belt.",
+          "technical": "Hydrocarbon prospectivity follows basin-specific source, reservoir, seal, trap and maturation conditions across Assam-Arakan, Cambay, Mumbai Offshore, Krishna-Godavari, Cauvery and other sedimentary basins.",
+          "how": "Map Assam-Arakan and Cambay onshore, Mumbai Offshore offshore, and Krishna-Godavari plus Cauvery on the east coast; connect each sedimentary province to the source-reservoir-seal-trap chain without attaching undated output figures.",
+          "opening": "India’s petroleum geography is a basin-and-petroleum-system map, not a list of producing states."
+        }
+      }
+    },
+    "geography-35": {
+      "semantic_overrides": {
+        "CORE — WHAT THE CLASSICAL LENSES OMIT": {
+          "keywords": [
+            "classical location theory",
+            "state policy",
+            "informal economy",
+            "global production network",
+            "environmental externality",
+            "digital connectivity"
+          ],
+          "plain": "Classical location theories simplify decisions and therefore miss several institutions, networks and costs shaping real locations.",
+          "technical": "Least-cost and market-area models abstract from state policy, finance, labour institutions, informality, global production networks, environmental externalities and digital or logistical connectivity.",
+          "how": "State the classical location theory and its cost or market mechanism first; then add state policy, informal economy, global production network, environmental externality and digital connectivity as answer-specific omissions.",
+          "opening": "A classical model is valuable as a controlled lens, but its assumptions must be disclosed before it is applied to contemporary industry."
+        }
+      }
+    },
+    "geography-37": {
+      "semantic_overrides": {
+        "CORE — THE TWO GRADIENTS OF THE NORTHERN PLAIN": {
+          "keywords": [
+            "north-south gradient",
+            "west-east gradient",
+            "bhabar",
+            "tarai",
+            "bangar",
+            "khadar"
+          ],
+          "plain": "The Northern Plain changes both from the Himalayan foothills southward and from the drier west toward the wetter east.",
+          "technical": "The north-south piedmont-to-floodplain sequence distinguishes bhabar, tarai, bangar and khadar, while the west-east gradient changes discharge, rainfall, sediment and floodplain character across river basins.",
+          "how": "Draw the north-south gradient from bhabar to tarai, bangar and khadar; add the west-east gradient in rainfall, discharge and flood tendency; only then locate a named sub-region within both axes.",
+          "opening": "The Northern Plain cannot be reconstructed with one belt alone because its landforms vary along two intersecting gradients."
+        }
+      }
+    }
+  }
+}

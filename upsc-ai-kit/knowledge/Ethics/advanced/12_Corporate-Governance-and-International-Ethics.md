@@ -95,7 +95,8 @@ fraud investigation, whistleblower protection) are directly transferable to the 
   pressure." ⚠️ India is **not** a party to the separate OECD Anti-Bribery Convention, 1997.
 - ⚠️ The US Foreign Corrupt Practices Act (FCPA), 1977 is distinctive because it extraterritorially
   punishes *bribe-paying* by US issuers/persons and by foreign firms acting in furtherance within
-  US territory — ARC 3.2.2 notes most countries, unlike the US via the FCPA, have historically been
+  US territory. It also contains issuer accounting provisions on accurate books and records and
+  adequate internal accounting controls. ARC 3.2.2 notes most countries, unlike the US via the FCPA, have historically been
   reluctant to punish bribe-payers as vigorously as bribe-takers, a parallel to the
   coercive/collusive distinction in `19`. 📰 Date-stamp any *enforcement* claim: Executive Order
   14209 of 10 February 2025 directed a pause on new FCPA matters pending review, and revised DOJ
@@ -105,7 +106,7 @@ fraud investigation, whistleblower protection) are directly transferable to the 
 
 ### The 2024 GS-IV case study — a genuine stakeholder-vs-shareholder dilemma
 
-- ✅ 2024 GS-IV Q7 presents a tech CEO/majority shareholder facing a 48% increase in greenhouse-gas
+- ⚠️ 2024 GS-IV Q7, primarily owned by Topics `13` and `22` and cross-linked here, presents a tech CEO/majority shareholder facing a 48% increase in greenhouse-gas
   emissions in 2023 against 2019 levels, driven by AI-fuelled data-centre energy demand, against a
   stated net-zero-by-2030 commitment, amid competitive pressure for innovation and shareholder
   value; the paper asks for an immediate response, the ethical issues, the arguments the CEO would
@@ -190,6 +191,7 @@ fraud investigation, whistleblower protection) are directly transferable to the 
 | Current application (verify before use) | Topic-specific analytical use |
 |---|---|
 | ⚠️ Corporate net-zero and ESG-disclosure pressure | Frames the 2024 AI/data-centre case study as a verifiability-versus-signalling dilemma; cite the applicable dated SEBI disclosure instrument before stating a current obligation. |
+| ✅ UNODC and UN Global Compact, updated *Anti-Corruption Ethics and Compliance Programme for Business: A Practical Guide*, March 2026 | Current corporate-integrity anchor: moves beyond compliance towards transformational governance and covers environmental stewardship, human rights, responsible technology and emerging AI risks. |
 
 ## 10. PYQ-based analytical application
 

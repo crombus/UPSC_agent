@@ -1,0 +1,1192 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-08",
+  "subject": "Governance",
+  "title": "TRANSPARENCY, ACCOUNTABILITY, RTI, GRIEVANCE REDRESS AND SOCIAL AUDIT",
+  "short_route": "TRANSPARENCY TO CONSEQUENCE → INFORMATION-REQUEST ROUTE CARD → EXEMPTIONS AND THE OVERRIDE → THE SUBSTITUTED EXEMPTION → SOCIAL AUDIT STATUTORY BASIS → TWO LAYERS, ONE AUDIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\Subject-Wide-Syllabus\\learning-sessions\\governance-08\\governance-08_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-08-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "dc0d0fefc4967c3f2c7159beadd0b0a4a1b2e80df8fb555c07d91d0f23f7e81d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TRANSPARENCY TO CONSEQUENCE",
+      "structural_type": "root-axes",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRANSPARENCY TO CONSEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "VISIBILITY OF RECORDS, SPENDING AND DECISIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "AN IDENTIFIABLE AUTHORITY OBLIGED TO EXPLAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRECTION, REMEDY OR CONSEQUENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN PATTERN",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST BUILT EXTENSIVELY, SECOND UNEVENLY, THIRD RARELY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TRANSPARENCY → visibility of records, spending and decisions",
+        "ANSWERABILITY → an identifiable authority obliged to explain",
+        "ENFORCEABILITY → correction, remedy or consequence",
+        "INDIAN PATTERN → first built extensively, second unevenly, third rarely"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TRANSPARENCY → visibility of records, spending and decisions",
+            "ANSWERABILITY → an identifiable authority obliged to explain"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ENFORCEABILITY → correction, remedy or consequence",
+            "INDIAN PATTERN → first built extensively, second unevenly, third rarely"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRANSPARENCY → visibility of records, spending and decisions",
+            "ANSWERABILITY → an identifiable authority obliged to explain"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ENFORCEABILITY → correction, remedy or consequence",
+            "INDIAN PATTERN → first built extensively, second unevenly, third rarely"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDIAN PATTERN → first built extensively, second unevenly, third rarely.",
+      "source_references": [
+        "Transparency, answerability and enforceability"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INFORMATION-REQUEST ROUTE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INFORMATION-REQUEST ROUTE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "30 DAYS FROM THE PUBLIC INFORMATION OFFICER",
+          "role": "comparison"
+        },
+        {
+          "text": "LIFE OR LIBERTY",
+          "role": "evidence"
+        },
+        {
+          "text": "48 HOURS",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST APPEAL ORDINARILY WITHIN 30 DAYS; SECOND APPEAL WITHIN",
+          "role": "outcome"
+        },
+        {
+          "text": "TWO HUNDRED AND FIFTY RUPEES PER DAY UP TO",
+          "role": "comparison"
+        },
+        {
+          "text": "OBTAINS EXISTING INFORMATION; CANNOT CREATE IT OR ORDER A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORDINARY REPLY → 30 days from the public information officer",
+        "LIFE OR LIBERTY → 48 hours",
+        "APPEALS → first appeal ordinarily within 30 days; second appeal within 90 days",
+        "PENALTY → two hundred and fifty rupees per day up to twenty-five thousand rupees",
+        "LIMIT → obtains existing information; cannot create it or order a service"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ORDINARY REPLY → 30 days from the public information officer",
+          "APPEALS → first appeal ordinarily within 30 days; second appeal within 90 days",
+          "LIMIT → obtains existing information; cannot create it or order a service",
+          "LIFE OR LIBERTY → 48 hours"
+        ],
+        [
+          "LIFE OR LIBERTY → 48 hours",
+          "PENALTY → two hundred and fifty rupees per day up to twenty-five thousand rupees",
+          "ORDINARY REPLY → 30 days from the public information officer",
+          "APPEALS → first appeal ordinarily within 30 days; second appeal within 90 days"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORDINARY REPLY → 30 days from the public information officer",
+            "LIFE OR LIBERTY → 48 hours"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "APPEALS → first appeal ordinarily within 30 days; second appeal within 90 days",
+            "PENALTY → two hundred and fifty rupees per day up to twenty-five thousand rupees"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → obtains existing information; cannot create it or order a service",
+            "ORDINARY REPLY → 30 days from the public information officer"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIFE OR LIBERTY → 48 hours",
+            "APPEALS → first appeal ordinarily within 30 days; second appeal within 90 days"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → obtains existing information; cannot create it or order a service.",
+      "source_references": [
+        "The information-request route"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EXEMPTIONS AND THE OVERRIDE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXEMPTIONS AND THE OVERRIDE",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 8, APPLIED CLAUSE BY CLAUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "AN EXEMPT PART DOES NOT WITHHOLD THE WHOLE RECORD",
+          "role": "caution"
+        },
+        {
+          "text": "SECTION 8(2) PERMITS DISCLOSURE WHERE PUBLIC INTEREST OUTWEIGHS HARM",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 24 FOR LISTED ORGANISATIONS, WITH CORRUPTION AND RIGHTS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EXEMPTIONS → section 8, applied clause by clause",
+        "SEVERABILITY → an exempt part does not withhold the whole record",
+        "OVERRIDE → section 8(2) permits disclosure where public interest outweighs harm",
+        "EXCLUSION → section 24 for listed organisations, with corruption and rights provisos preserved"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "EXEMPTIONS → section 8, applied clause by clause",
+          "OVERRIDE → section 8(2) permits disclosure where public interest outweighs harm",
+          "EXEMPTIONS → section 8, applied clause by clause",
+          "OVERRIDE → section 8(2) permits disclosure where public interest outweighs harm"
+        ],
+        [
+          "SEVERABILITY → an exempt part does not withhold the whole record",
+          "EXCLUSION → section 24 for listed organisations, with corruption and rights provisos preserved",
+          "SEVERABILITY → an exempt part does not withhold the whole record",
+          "EXCLUSION → section 24 for listed organisations, with corruption and rights provisos preserved"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "EXEMPTIONS → section 8, applied clause by clause",
+            "SEVERABILITY → an exempt part does not withhold the whole record"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OVERRIDE → section 8(2) permits disclosure where public interest outweighs harm",
+            "EXCLUSION → section 24 for listed organisations, with corruption and rights provisos preserved"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXEMPTIONS → section 8, applied clause by clause",
+            "SEVERABILITY → an exempt part does not withhold the whole record"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "OVERRIDE → section 8(2) permits disclosure where public interest outweighs harm",
+            "EXCLUSION → section 24 for listed organisations, with corruption and rights provisos preserved"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXCLUSION → section 24 for listed organisations, with corruption and rights provisos preserved.",
+      "source_references": [
+        "Exemptions, severability and the override"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE SUBSTITUTED EXEMPTION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE SUBSTITUTED EXEMPTION",
+          "role": "primary"
+        },
+        {
+          "text": "THE PRE-SUBSTITUTION PERSONAL-INFORMATION TEST, NOW SUPERSEDED",
+          "role": "outcome"
+        },
+        {
+          "text": "13 AND 14 NOVEMBER 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 44(3) SUBSTITUTION TAKES EFFECT IN THE IMMEDIATE TRANCHE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE SECTION 8(2) PUBLIC-INTEREST OVERRIDE REMAINS AVAILABLE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL CHALLENGES FILED; NO FINAL JUDGMENT LOCATED AS OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BEFORE → the pre-substitution personal-information test, now superseded",
+        "13 AND 14 NOVEMBER 2025 → section 44(3) substitution takes effect in the immediate tranche",
+        "UNAFFECTED → the section 8(2) public-interest override remains available",
+        "PENDING → constitutional challenges filed; no final judgment located as of 13 August 2026"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "BEFORE → the pre-substitution personal-information test, now superseded",
+            "13 AND 14 NOVEMBER 2025 → section 44(3) substitution takes effect in the immediate tranche"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "UNAFFECTED → the section 8(2) public-interest override remains available",
+            "PENDING → constitutional challenges filed; no final judgment located as of 13 August 2026"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BEFORE → the pre-substitution personal-information test, now superseded",
+            "13 AND 14 NOVEMBER 2025 → section 44(3) substitution takes effect in the immediate tranche"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "UNAFFECTED → the section 8(2) public-interest override remains available",
+            "PENDING → constitutional challenges filed; no final judgment located as of 13 August 2026"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PENDING → constitutional challenges filed; no final judgment located as of 13 August 2026.",
+      "source_references": [
+        "The substituted personal-information exemption"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SOCIAL AUDIT STATUTORY BASIS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL AUDIT STATUTORY BASIS",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 17",
+          "role": "outcome"
+        },
+        {
+          "text": "THE GRAM SABHA HOLDS THE MONITORING AND SOCIAL-AUDIT FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RULES OF 2011",
+          "role": "evidence"
+        },
+        {
+          "text": "AN INDEPENDENT STATE SOCIAL AUDIT UNIT FACILITATES THE AUDIT",
+          "role": "institution"
+        },
+        {
+          "text": "AT LEAST ONCE EVERY SIX MONTHS IN EVERY GRAM",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC HEARING FOLLOWED BY A MANDATED FOLLOW-UP PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "SECTION 17 → the Gram Sabha holds the monitoring and social-audit function",
+        "RULES OF 2011 → an independent State Social Audit Unit facilitates the audit",
+        "CYCLE → at least once every six months in every Gram Panchayat",
+        "COMPLETION → public hearing followed by a mandated follow-up process"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "SECTION 17 → the Gram Sabha holds the monitoring and social-audit function",
+          "CYCLE → at least once every six months in every Gram Panchayat",
+          "SECTION 17 → the Gram Sabha holds the monitoring and social-audit function",
+          "CYCLE → at least once every six months in every Gram Panchayat"
+        ],
+        [
+          "RULES OF 2011 → an independent State Social Audit Unit facilitates the audit",
+          "COMPLETION → public hearing followed by a mandated follow-up process",
+          "RULES OF 2011 → an independent State Social Audit Unit facilitates the audit",
+          "COMPLETION → public hearing followed by a mandated follow-up process"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 17 → the Gram Sabha holds the monitoring and social-audit function",
+            "RULES OF 2011 → an independent State Social Audit Unit facilitates the audit"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CYCLE → at least once every six months in every Gram Panchayat",
+            "COMPLETION → public hearing followed by a mandated follow-up process"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECTION 17 → the Gram Sabha holds the monitoring and social-audit function",
+            "RULES OF 2011 → an independent State Social Audit Unit facilitates the audit"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CYCLE → at least once every six months in every Gram Panchayat",
+            "COMPLETION → public hearing followed by a mandated follow-up process"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPLETION → public hearing followed by a mandated follow-up process.",
+      "source_references": [
+        "The statutory basis and its dual design"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TWO LAYERS, ONE AUDIT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO LAYERS, ONE AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL KNOWLEDGE, PUBLIC LEGITIMACY, PRESENCE OF THE AFFECTED PEOPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEPENDENT UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "FACILITATION, RECORD ACCESS, TRAINING, SEPARATION FROM THE IMPLEMENTER",
+          "role": "primary"
+        },
+        {
+          "text": "CAPTURE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "PRESENT AT BOTH LAYERS AND NOT REMOVED BY EITHER",
+          "role": "caution"
+        },
+        {
+          "text": "MORE INDEPENDENCE REDUCES CAPTURE AND REDUCES HYPER-LOCAL KNOWLEDGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMUNITY LAYER → local knowledge, public legitimacy, presence of the affected people",
+        "INDEPENDENT UNIT → facilitation, record access, training, separation from the implementer",
+        "CAPTURE RISK → present at both layers and not removed by either alone",
+        "TRADE-OFF → more independence reduces capture and reduces hyper-local knowledge"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "COMMUNITY LAYER → local knowledge, public legitimacy, presence of the affected people",
+          "CAPTURE RISK → present at both layers and not removed by either alone",
+          "COMMUNITY LAYER → local knowledge, public legitimacy, presence of the affected people",
+          "CAPTURE RISK → present at both layers and not removed by either alone"
+        ],
+        [
+          "INDEPENDENT UNIT → facilitation, record access, training, separation from the implementer",
+          "TRADE-OFF → more independence reduces capture and reduces hyper-local knowledge",
+          "INDEPENDENT UNIT → facilitation, record access, training, separation from the implementer",
+          "TRADE-OFF → more independence reduces capture and reduces hyper-local knowledge"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COMMUNITY LAYER → local knowledge, public legitimacy, presence of the affected people",
+            "INDEPENDENT UNIT → facilitation, record access, training, separation from the implementer"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CAPTURE RISK → present at both layers and not removed by either alone",
+            "TRADE-OFF → more independence reduces capture and reduces hyper-local knowledge"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMUNITY LAYER → local knowledge, public legitimacy, presence of the affected people",
+            "INDEPENDENT UNIT → facilitation, record access, training, separation from the implementer"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CAPTURE RISK → present at both layers and not removed by either alone",
+            "TRADE-OFF → more independence reduces capture and reduces hyper-local knowledge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADE-OFF → more independence reduces capture and reduces hyper-local knowledge.",
+      "source_references": [
+        "The statutory basis and its dual design"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TWO TESTS THAT DECIDE QUALITY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO TESTS THAT DECIDE QUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENCE TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "IS THE FACILITATOR STRUCTURALLY SEPARATE FROM THE AUDITED DEPARTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FOLLOW-UP TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "DOES A FINDING TRIGGER TIMED RECOVERY, DISCIPLINE OR PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRODUCED BY THE PUBLIC HEARING ITSELF",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCED ONLY BY THE MANDATED ACTION-TAKEN PROCESS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "INDEPENDENCE TEST → is the facilitator structurally separate from the audited department",
+        "FOLLOW-UP TEST → does a finding trigger timed recovery, discipline or process correction",
+        "ANSWERABILITY → produced by the public hearing itself",
+        "ENFORCEABILITY → produced only by the mandated action-taken process"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "INDEPENDENCE TEST → is the facilitator structurally separate from the audited department",
+          "ANSWERABILITY → produced by the public hearing itself",
+          "INDEPENDENCE TEST → is the facilitator structurally separate from the audited department",
+          "ANSWERABILITY → produced by the public hearing itself"
+        ],
+        [
+          "FOLLOW-UP TEST → does a finding trigger timed recovery, discipline or process correction",
+          "ENFORCEABILITY → produced only by the mandated action-taken process",
+          "FOLLOW-UP TEST → does a finding trigger timed recovery, discipline or process correction",
+          "ENFORCEABILITY → produced only by the mandated action-taken process"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INDEPENDENCE TEST → is the facilitator structurally separate from the audited department",
+            "FOLLOW-UP TEST → does a finding trigger timed recovery, discipline or process correction"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ANSWERABILITY → produced by the public hearing itself",
+            "ENFORCEABILITY → produced only by the mandated action-taken process"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDEPENDENCE TEST → is the facilitator structurally separate from the audited department",
+            "FOLLOW-UP TEST → does a finding trigger timed recovery, discipline or process correction"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWERABILITY → produced by the public hearing itself",
+            "ENFORCEABILITY → produced only by the mandated action-taken process"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENFORCEABILITY → produced only by the mandated action-taken process.",
+      "source_references": [
+        "The public hearing and its enforcement gap"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "VISIBILITY TO CORRECTION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VISIBILITY TO CORRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLISHED BUT SOMETIMES AGGREGATED, TECHNICAL OR STALE",
+          "role": "outcome"
+        },
+        {
+          "text": "INTELLIGIBLE TO THE AFFECTED PERSON, IN THEIR OWN LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "RECORD COMPARED AGAINST REALITY BY AN INDEPENDENT FACILITATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "A NAMED OFFICIAL EXPLAINS IN PUBLIC, ON THE RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "FOLLOW-UP AND CONSEQUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTION-TAKEN REPORT, RECOVERY, DISCIPLINE; THE USUAL BREAK POINT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DISCLOSURE → published but sometimes aggregated, technical or stale",
+        "COMPREHENSION → intelligible to the affected person, in their own language",
+        "VERIFICATION → record compared against reality by an independent facilitator",
+        "ANSWERABILITY → a named official explains in public, on the record",
+        "FOLLOW-UP AND CONSEQUENCE → action-taken report, recovery, discipline; the usual break point"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DISCLOSURE → published but sometimes aggregated, technical or stale",
+            "COMPREHENSION → intelligible to the affected person, in their own language"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "VERIFICATION → record compared against reality by an independent facilitator",
+            "ANSWERABILITY → a named official explains in public, on the record"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOLLOW-UP AND CONSEQUENCE → action-taken report, recovery, discipline; the usual break point",
+            "DISCLOSURE → published but sometimes aggregated, technical or stale"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COMPREHENSION → intelligible to the affected person, in their own language",
+            "VERIFICATION → record compared against reality by an independent facilitator"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FOLLOW-UP AND CONSEQUENCE → action-taken report, recovery, discipline; the usual break point.",
+      "source_references": [
+        "Where the visibility-to-correction chain breaks"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ACCOUNTABILITY TYPOLOGY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ACCOUNTABILITY TYPOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC AUDIT, LEGISLATIVE COMMITTEES, VIGILANCE, OMBUDSMAN, COURTS, REGULATORS",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTIONS, LEGISLATIVE QUESTIONING, POLITICAL COMPETITION",
+          "role": "comparison"
+        },
+        {
+          "text": "INFORMATION REQUESTS, SOCIAL AUDIT, PUBLIC HEARINGS, REPORT CARDS, MEDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "COUPLING RULE",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL ANSWERABILITY NEEDS A HORIZONTAL INSTRUMENT TO SUPPLY CONSEQUENCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HORIZONTAL → public audit, legislative committees, vigilance, ombudsman, courts, regulators",
+        "VERTICAL → elections, legislative questioning, political competition",
+        "SOCIAL → information requests, social audit, public hearings, report cards, media",
+        "COUPLING RULE → social answerability needs a horizontal instrument to supply consequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "HORIZONTAL → public audit, legislative committees, vigilance, ombudsman, courts, regulators",
+            "VERTICAL → elections, legislative questioning, political competition"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SOCIAL → information requests, social audit, public hearings, report cards, media",
+            "COUPLING RULE → social answerability needs a horizontal instrument to supply consequence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "HORIZONTAL → public audit, legislative committees, vigilance, ombudsman, courts, regulators",
+            "VERTICAL → elections, legislative questioning, political competition"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SOCIAL → information requests, social audit, public hearings, report cards, media",
+            "COUPLING RULE → social answerability needs a horizontal instrument to supply consequence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COUPLING RULE → social answerability needs a horizontal instrument to supply consequence.",
+      "source_references": [
+        "The typology and its coupling rule"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTITUTIONAL DIVISION OF LABOUR",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL DIVISION OF LABOUR",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC AUDITOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 148 TO 151; FINANCIAL, COMPLIANCE AND PERFORMANCE AUDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "VIGILANCE COMMISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "ACT OF 2003; SUPERINTENDENCE AND ADVICE, NOT CONVICTION",
+          "role": "caution"
+        },
+        {
+          "text": "CORRUPTION OMBUDSMAN",
+          "role": "outcome"
+        },
+        {
+          "text": "ACT OF 2013; INQUIRY INTO COVERED CORRUPTION COMPLAINTS",
+          "role": "institution"
+        },
+        {
+          "text": "GRIEVANCE PLATFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUBLIC AUDITOR → Articles 148 to 151; financial, compliance and performance audit",
+        "VIGILANCE COMMISSION → Act of 2003; superintendence and advice, not conviction",
+        "CORRUPTION OMBUDSMAN → Act of 2013; inquiry into covered corruption complaints",
+        "GRIEVANCE PLATFORM → 21-day redress and 30-day appeal benchmarks, August 2024 guidelines"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PUBLIC AUDITOR → Articles 148 to 151; financial, compliance and performance audit",
+            "VIGILANCE COMMISSION → Act of 2003; superintendence and advice, not conviction"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CORRUPTION OMBUDSMAN → Act of 2013; inquiry into covered corruption complaints",
+            "GRIEVANCE PLATFORM → 21-day redress and 30-day appeal benchmarks, August 2024 guidelines"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PUBLIC AUDITOR → Articles 148 to 151; financial, compliance and performance audit",
+            "VIGILANCE COMMISSION → Act of 2003; superintendence and advice, not conviction"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORRUPTION OMBUDSMAN → Act of 2013; inquiry into covered corruption complaints",
+            "GRIEVANCE PLATFORM → 21-day redress and 30-day appeal benchmarks, August 2024 guidelines"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRIEVANCE PLATFORM → 21-day redress and 30-day appeal benchmarks, August 2024 guidelines.",
+      "source_references": [
+        "The institutional division of labour"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ROUTING THE REMEDY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ROUTING THE REMEDY",
+          "role": "primary"
+        },
+        {
+          "text": "INFORMATION DENIED",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC INFORMATION OFFICER, FIRST APPEAL, INFORMATION COMMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE DELAYED",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPARTMENT, NOTIFIED SERVICE-GUARANTEE ROUTE, GRIEVANCE PLATFORM",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY MISUSED",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL AUDIT, PERFORMANCE AUDIT, LEGISLATIVE SCRUTINY",
+          "role": "comparison"
+        },
+        {
+          "text": "VIGILANCE, CORRUPTION OMBUDSMAN, INVESTIGATIVE AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INFORMATION DENIED → public information officer, first appeal, Information Commission",
+        "SERVICE DELAYED → department, notified service-guarantee route, grievance platform",
+        "MONEY MISUSED → social audit, performance audit, legislative scrutiny",
+        "CORRUPTION → vigilance, corruption ombudsman, investigative agency",
+        "PERSONAL-DATA BREACH → not an operative route until the Board is appointed and duties commence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INFORMATION DENIED → public information officer, first appeal, Information Commission",
+            "SERVICE DELAYED → department, notified service-guarantee route, grievance platform"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "MONEY MISUSED → social audit, performance audit, legislative scrutiny",
+            "CORRUPTION → vigilance, corruption ombudsman, investigative agency"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PERSONAL-DATA BREACH → not an operative route until the Board is appointed and duties commence",
+            "INFORMATION DENIED → public information officer, first appeal, Information Commission"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "SERVICE DELAYED → department, notified service-guarantee route, grievance platform",
+            "MONEY MISUSED → social audit, performance audit, legislative scrutiny"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PERSONAL-DATA BREACH → not an operative route until the Board is appointed and duties commence.",
+      "source_references": [
+        "Routing the remedy and four distinct functions"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR AN ACCOUNTABILITY DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR AN ACCOUNTABILITY DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSPARENCY, ANSWERABILITY AND ENFORCEABILITY SEPARATED IN SENTENCE ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAP THE ECOSYSTEM, THEN APPLY THE INDEPENDENCE AND FOLLOW-UP",
+          "role": "comparison"
+        },
+        {
+          "text": "MANDATED ACTION-TAKEN PROCESS, INDEPENDENT FACILITATION, PROTECTION FOR REPORTERS",
+          "role": "mechanism"
+        },
+        {
+          "text": "GRADED VERDICT, CURRENT-STATUS CAVEAT WITH DATES, AND STATED QUESTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → transparency, answerability and enforceability separated in sentence one",
+        "BUILD → map the ecosystem, then apply the independence and follow-up tests to one case",
+        "CORRECT → mandated action-taken process, independent facilitation, protection for reporters",
+        "CLOSE → graded verdict, current-status caveat with dates, and stated question ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OPEN → transparency, answerability and enforceability separated in sentence one",
+            "BUILD → map the ecosystem, then apply the independence and follow-up tests to one case"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → mandated action-taken process, independent facilitation, protection for reporters",
+            "CLOSE → graded verdict, current-status caveat with dates, and stated question ownership"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → transparency, answerability and enforceability separated in sentence one",
+            "BUILD → map the ecosystem, then apply the independence and follow-up tests to one case"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CORRECT → mandated action-taken process, independent facilitation, protection for reporters",
+            "CLOSE → graded verdict, current-status caveat with dates, and stated question ownership"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict, current-status caveat with dates, and stated question ownership.",
+      "source_references": [
+        "The uncommenced protection and honest question ownership"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE GRAM SABHA LAYER FACES A STRUCTURAL TENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SAME COMMUNITY THAT MAY",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY SOCIAL AUDIT (MGNREGA, MEGHALAYA) DEMONSTRATES THE BROADER ACCOUNTABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CPGRAMS-STYLE INDIVIDUAL GRIEVANCE REDRESS AND SOCIAL AUDIT ARE COMPLEMENTARY",
+          "role": "primary"
+        },
+        {
+          "text": "MGNREGA'S SECTION 17 FRAMEWORK IS OPERATIONALISED THROUGH THE STATUTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE MEGHALAYA COMMUNITY PARTICIPATION AND PUBLIC SERVICES SOCIAL AUDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDER REPLICATION OF MEGHALAYA-STYLE GENERALISED SOCIAL-AUDIT LEGISLATION (COVERING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL INSTITUTIONAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The Gram Sabha layer faces a structural tension: the same community that may",
+            "CAUTION: Statutory social audit (MGNREGA, Meghalaya) demonstrates the broader accountability",
+            "CAUTION: CPGRAMS-style individual grievance redress and social audit are complementary but",
+            "MGNREGA's Section 17 framework is operationalised through the statutory 2011 Rules,"
+          ]
+        },
+        {
+          "heading": "STATUS / DATA CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "The Meghalaya Community Participation and Public Services Social Audit Act, 2017",
+            "CAUTION: Wider replication of Meghalaya-style generalised social-audit legislation (covering",
+            "CAUTION: A Gram Sabha social audit that identifies a contractor billing for unexecuted rural-road",
+            "CAUTION: Boundary case: a jan sunwai that publicly surfaces discrepancies but where the"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Extending a Meghalaya-style dedicated Social Audit Unit to audit non-MGNREGA welfare",
+            "CAUTION: Greater auditor independence (dedicated Social Audit Units) reduces local-power capture",
+            "CAUTION: Mandating follow-up enforcement (recovery, disciplinary action) strengthens",
+            "CAUTION: Statutory social-audit legislation adds a genuine administrative and fiscal burden"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

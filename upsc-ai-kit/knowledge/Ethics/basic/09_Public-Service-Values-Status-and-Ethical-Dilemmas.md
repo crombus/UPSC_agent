@@ -27,8 +27,9 @@ cited verbatim by the 2nd ARC (para 2.2.5)
 
 **Core proposition:** ✅ ARC 2.2.6 — these principles are "of general applicability in every
 democracy," and from them flows the need for both a **Code of Ethics** (broad guiding principles)
-and a **Code of Conduct** (precise, sanctionable rules) — the ARC's own foundational distinction
-(fully treated in `16`).
+and a **Code of Conduct** (precise standards of acceptable and unacceptable behaviour). Conduct
+standards become sanctionable where they are incorporated into the applicable legal or service-rule
+framework; the ARC definition alone does not create a penalty (fully treated in `16`).
 
 ## 2. Essential definitions
 
@@ -36,10 +37,14 @@ and a **Code of Conduct** (precise, sanctionable rules) — the ARC's own founda
 |---|---|
 | ✅ **Ethical dilemma** | A situation in which two or more legitimate duties, values or loyalties genuinely conflict, such that honouring one requires compromising another — distinct from a simple temptation to break a known rule. |
 | ✅ **Legal violation** | A breach of a specific, codified rule/law, independent of whether the underlying situation involved any genuine value conflict. |
-| ⚠️ **Ethical dilemma vs legal violation** | A dilemma may exist even where *no law is broken* (e.g., choosing between two lawful options with different ethical costs); a legal violation may occur without any real dilemma (e.g., simple theft) — GS-IV case studies are built almost entirely around genuine dilemmas, not simple violations. |
+| ⚠️ **Ethical dilemma vs legal violation** | A dilemma may exist even where *no law is broken* (e.g., choosing between two lawful options with different ethical costs); a legal violation may occur without any real dilemma (e.g., simple theft). GS-IV case studies often contain genuine value conflicts, but some principally test malpractice, corruption or failure to follow a clear duty. |
 | ⚠️ **Conflict of interest vs corruption** | A conflict of interest is a *situation*, not an act of wrongdoing: a private interest (family, financial, past employment) that could reasonably be thought to compromise official judgment. The **ethical failure is the non-disclosure or non-recusal**, not the existence of the interest. Corruption requires an actual abuse of office — under the PC Act, an "undue advantage" (see `19`). Every conflict of interest left unmanaged is a corruption risk; not every conflict of interest is corruption. Nolan's "honesty" principle is specifically about declaring such interests. |
 | ✅ **Code of Ethics** (ARC 2.2.6) | Broad guiding principles of good behaviour and governance. |
-| ✅ **Code of Conduct** (ARC 2.2.6) | A precise, unambiguous list of acceptable and unacceptable behaviour and action, with sanctions. |
+| ✅ **Code of Conduct** (ARC 2.2.6) | A precise, unambiguous list of acceptable and unacceptable behaviour and action. Sanctions depend on the applicable law, service rule or other enforceable framework. |
+| ⚠️ **Status and role morality** | Public status brings asymmetric authority, privileged information and control over public resources; role morality therefore imposes stricter restraint, reason-giving and public-purpose duties than private preference alone. |
+| ⚠️ **Political neutrality** | A permanent civil servant gives frank, evidence-based advice and then implements lawful elected policy without partisan favour; neutrality does not mean ignorance of policy values or indifference to constitutional duties. |
+| ⚠️ **Responsibility and accountability** | Responsibility is the duty to perform and own a decision; accountability adds answerability to appropriate external scrutiny, reasons, remedy and institutional learning. |
+| ⚠️ **Bounded discretion** | Discretion is structured judgment within legal purpose, relevant facts, equal treatment, proportionality, recorded reasons and review — not personal freedom to substitute private morality for public authority. |
 
 ## 3. Dilemma-diagnosis anatomy — a pre-answer diagnostic nested inside Basic 22's eight elements
 
@@ -57,8 +62,9 @@ controlling answer architecture.
 2. **Check for a legal floor** — is one of the options actually illegal, removing it from
    consideration regardless of its apparent ethical appeal?
 3. **Apply a moral-theory lens** (see `08`) — duty, consequence, virtue — to each remaining option.
-4. **Weigh institutional role and long-term systemic effect**, not just the immediate, visible
-   outcome.
+4. **Weigh institutional role and long-term systemic effect**, including the higher restraint
+   created by public status, the elected/permanent-executive boundary, public/private relationship
+   risks and the effect of precedent on similarly placed citizens.
 5. **Decide, document and be prepared to be accountable** — Nolan's "accountability" principle
    requires that the resolution be defensible to public scrutiny, not merely privately justified.
 
@@ -70,9 +76,9 @@ controlling answer architecture.
 - ⚠️ A whistleblower employee weighing loyalty to colleagues/organisation against public-interest
   disclosure of wrongdoing faces the classic dilemma the ARC addresses through whistleblower
   protection recommendations (see `19`).
-- ✅ 2025 GS-IV Q1(b) frames constitutional morality as *not* a natural sentiment but the product of
-  civic education and rule-of-law adherence — directly linking dilemma-resolution capacity to
-  deliberate institutional training, not innate virtue.
+- ⚠️ 2025 GS-IV Q1(b), routed primarily to Topics `13` and `14`, is a useful cross-link: its
+  framing of constitutional morality as a product of civic education and rule-of-law adherence
+  shows why dilemma resolution requires disciplined public reason rather than innate virtue alone.
 
 ## 5. Must-Know Facts for Prelims
 
@@ -82,15 +88,17 @@ controlling answer architecture.
   public life. ⚠️ The UK's own official wording has since been revised (notably after the 2013
   *Standards Matter* review) — quote the ARC's 1995 text when citing the ARC, and check gov.uk if
   you need the current UK formulation.
-- ✅ ARC 2.2.6: a Code of Ethics ≠ a Code of Conduct — the former is principle-based, the latter is
-  rule-based with defined sanctions.
+- ✅ ARC 2.2.6: a Code of Ethics ≠ a Code of Conduct — the former states broad guiding principles,
+  while the latter states precise acceptable and unacceptable behaviour. Enforcement depends on
+  the legal or service framework adopting the conduct standard.
 - ⚠️ An ethical dilemma requires a genuine conflict between legitimate values; a mere temptation to
   break a known rule for personal gain is not, by itself, a dilemma.
 
 ## 6. UPSC traps
 
-- ❌ Every ethical problem in a case study is really about whether a law was broken. -> Most GS-IV
-  case studies are built on genuine value conflicts where no law is necessarily broken by any option.
+- ❌ Every ethical problem in a case study is really about whether a law was broken. -> Many GS-IV
+  cases contain genuine value conflicts where no law is necessarily broken by every option, while
+  others test a clear violation or abuse that should not be disguised as a dilemma.
 - ❌ The Nolan principles are India-specific. -> They originate from the UK's 1995 Committee on
   Standards in Public Life and are cited by the ARC as being "of general applicability in every
   democracy," not as an Indian invention.
@@ -100,8 +108,8 @@ controlling answer architecture.
 
 ## 7. PYQ application
 
-- ✅ 2025 GS-IV Q1(b): constitutional morality as a civic-education product, tested for its role in
-  "promoting good governance" and "ensuring accountability."
+- ⚠️ 2025 GS-IV Q1(b) is a cross-application on constitutional role morality; its primary routing
+  is to Topics `13` and `14`, not direct Topic `09` ownership.
 - ✅ 2025 GS-IV Q5(a): Code of Conduct "already in operation" vs Code of Ethics "not yet put in
   place" — directly tests the ARC 2.2.6 distinction (fully answered in `16`).
 - ✅ 2025 GS-IV Q7 (Section B case study: DC Vijay) is a textbook multi-duty ethical dilemma (public duty vs
@@ -192,8 +200,10 @@ controlling answer architecture.
    individual-integrity-based, safeguard. *Limitation:* cooling-off periods can be too short to
    break deeply entrenched relationships, or too long and deter legitimate post-retirement
    employment.
-4. *Claim:* Constitutional morality can require resisting an otherwise lawful instruction. *Evidence:*
-   ✅ 2025 GS-IV Q1(b)'s framing of constitutional morality as a product of civic education.
+4. *Claim:* Constitutional morality can require seeking lawful review of an instruction whose
+   application appears inconsistent with constitutional values. *Evidence:* ⚠️ 2025 GS-IV Q1(b),
+   cross-routed from Topics `13` and `14`, frames constitutional morality as a product of civic
+   education and adherence to the rule of law.
    *Significance:* shows dilemma-resolution operating above the legality floor, not only within it.
    *Limitation:* invoking constitutional morality too loosely risks dressing up personal preference
    as constitutional principle (see `10`'s advanced-tier caution).

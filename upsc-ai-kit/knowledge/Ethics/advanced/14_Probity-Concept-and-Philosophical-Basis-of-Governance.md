@@ -41,7 +41,7 @@ a personal-virtue one.
 
 | Concept | Precise meaning |
 |---|---|
-| ⚠️ **Public trust doctrine (fiduciary framing)** | Public office/authority/resources are held by the official *in trust* for citizens, not as personal entitlement — any private benefit extracted from that trust, even if legally permissible, is a probity concern. |
+| ⚠️ **Public-office-as-trust (fiduciary framing)** | Public office, authority and money are ethically entrusted for public purpose, not personal entitlement. This is a fiduciary/trusteeship analogy; the settled Indian environmental public-trust doctrine concerns State trusteeship of certain natural resources. |
 | ⚠️ **Procedural vs substantive probity** | Procedural probity concerns whether decisions followed transparent, auditable, rule-bound processes; substantive probity concerns whether the actual outcome served the public interest — both are necessary, and a process can be procedurally impeccable while substantively serving a narrow interest (or vice versa). |
 | ⚠️ **Presumption of regularity vs presumption of suspicion** | Good governance design must balance a workable presumption that officials act in good faith (protecting honest risk-taking, see `21`) against sufficient verification mechanisms to catch genuine misconduct — an unresolved design tension in any probity framework. |
 | ✅ **UNESCAP's eight good-governance characteristics** | Participatory, consensus oriented, accountable, transparent, responsive, effective and efficient, equitable and inclusive, and follows the rule of law — cited in ARC Annexure-I(1) as the internationally recognised governance standard within which probity operates. |
@@ -59,13 +59,13 @@ a personal-virtue one.
   private character — probity is engineered into institutional design, not merely hoped for from
   individual virtue.
 
-### The public-trust doctrine as probity's constitutional-philosophical anchor
+### Public-office-as-trust as probity's philosophical anchor
 
-- ⚠️ The public-trust doctrine (rooted in Roman law's *res communes* and developed in Anglo-American
+- ⚠️ The environmental public-trust doctrine (rooted in Roman law's *res communes* and developed in Anglo-American
   environmental and administrative law, echoed in India's own Supreme Court jurisprudence on natural
   resources, e.g., *M.C. Mehta v. Kamal Nath*, 1997) holds that certain public goods/authority are
   held in trust for present and future citizens, not subject to private alienation.
-- ⚠️ Advanced application: extending this doctrine from natural resources (its original context) to
+- ⚠️ Advanced application: extending this idea from natural resources (its settled legal context) to
   *public office itself* (Gandhi's trusteeship, `06`, and the ARC's own critique of officials
   treating "public office as an extension of one's property," `01`) gives probity a deep,
   constitutionally resonant philosophical foundation, not merely an administrative-convenience
@@ -159,7 +159,7 @@ a personal-virtue one.
 
 | Current application (verify before use) | Topic-specific analytical use |
 |---|---|
-| ⚠️ Digitised asset-disclosure and expenditure-tracking systems in Indian public administration | Illustrate the institutional trend toward converting probity from periodic disclosure into near-continuous verifiability; cite a dated system/order before presenting a specific implementation claim. |
+| 📰 GeM Integrity Pact Guidelines, illustrated by GeM bid document no. 9511605 created 23 June 2026 | The Pact converts anti-bribery, anti-collusion and fair-treatment values into an ex-ante procurement commitment supported by an electronic bid record. Its force depends on incorporation in the particular bid or contract; it does not cover every GeM procurement, determine criminal guilt or replace eligibility checks, conflict screening, competition safeguards, audit, CVC/CVO action or statutory remedies. |
 
 ## 10. PYQ-based analytical application
 
@@ -174,18 +174,21 @@ a personal-virtue one.
   probity as demonstrable/verifiable (not merely personal) rectitude, then proposes specific
   institutional measures (transparent posting/appraisal criteria, harassment-redress documentation)
   relevant to the gender-specific context of the question.
-- ⚠️ Any "philosophical basis of governance" essay question should combine this file's public-trust
-  doctrine with at least one named classical theory (`07`, `08`) for full theoretical credit.
+- ⚠️ Any "philosophical basis of governance" essay question should combine this file's
+  public-office-as-trust or trusteeship analogy with at least one named classical theory (`07`,
+  `08`), while keeping the environmental public-trust doctrine distinct.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** Probity is the institutionally verifiable, publicly demonstrable form of
-integrity specific to public office, philosophically grounded in the public-trust doctrine and
-reinforced by risk-graded disclosure, audit and transparency mechanisms — not achievable through
-individual honesty alone.
+**Central thesis:** Probity is the integrated standard of upright, impartial and public-purpose
+conduct in entrusted public office. It overlaps with integrity and honesty without becoming their
+superordinate category, is illuminated by the public-office-as-trust analogy, and is reinforced by
+risk-graded disclosure, audit and transparency mechanisms.
 
-1. Define probity precisely, distinguishing it from honesty/integrity via the verifiability test.
-2. Ground the definition philosophically (public-trust doctrine, deontological duty, virtue ethics).
+1. Define probity precisely, distinguishing it functionally from honesty and integrity while using
+   reasons, records and scrutiny as evidence of verifiability.
+2. Ground the definition philosophically (public-office-as-trust or trusteeship analogy,
+   deontological duty, virtue ethics), not in a universal extension of environmental doctrine.
 3. Name the specific institutional mechanism that would make the conduct in question verifiable.
 4. Apply risk-graded scrutiny reasoning if the question involves discretion/documentation trade-offs.
 5. Conclude by linking individual probity to the systemic good-governance characteristics (UNESCAP).

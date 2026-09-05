@@ -1,0 +1,1019 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "disaster-management-12",
+  "subject": "Disaster-Management",
+  "title": "INDUSTRIAL, CHEMICAL, NUCLEAR AND CBRN EMERGENCIES",
+  "short_route": "HAZARD-FAMILY MATRIX → INDUSTRIAL LIFE-CYCLE RAIL → NATECH CASCADE → CHEMICAL-LAW BOUNDARY → NUCLEAR GOVERNANCE BOUNDARY → ON-SITE PLAN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Disaster-Management\\Subject-Wide-Syllabus\\learning-sessions\\disaster-management-12\\disaster-management-12_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\disaster-management-12-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "dede839e0e46a3e1d8deb22f35feca95b35bb04c809d2f0836e6c735dceafdc4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "HAZARD-FAMILY MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HAZARD-FAMILY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSPORT ACCIDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "HAZARDOUS RELEASE FIRE OR REACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NUCLEAR-FACILITY CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "UMBRELLA; MECHANISMS AND OWNERS REMAIN DISTINCT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INDUSTRIAL → facility / process / transport accident",
+        "CHEMICAL → hazardous release fire or reaction",
+        "RADIOLOGICAL / NUCLEAR → exposure / nuclear-facility context",
+        "CBRN → umbrella; mechanisms and owners remain distinct"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "INDUSTRIAL → facility / process / transport accident",
+          "RADIOLOGICAL / NUCLEAR → exposure / nuclear-facility context",
+          "INDUSTRIAL → facility / process / transport accident"
+        ],
+        [
+          "CHEMICAL → hazardous release fire or reaction",
+          "CBRN → umbrella; mechanisms and owners remain distinct",
+          "CHEMICAL → hazardous release fire or reaction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "INDUSTRIAL → facility / process / transport accident",
+            "CHEMICAL → hazardous release fire or reaction"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RADIOLOGICAL / NUCLEAR → exposure / nuclear-facility context",
+            "CBRN → umbrella; mechanisms and owners remain distinct"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "INDUSTRIAL → facility / process / transport accident",
+            "CHEMICAL → hazardous release fire or reaction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CBRN → umbrella; mechanisms and owners remain distinct.",
+      "source_references": [
+        "Industrial accident",
+        "Chemical emergency",
+        "Nuclear and radiological emergency",
+        "CBRN category"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INDUSTRIAL LIFE-CYCLE RAIL",
+      "structural_type": "numbered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDUSTRIAL LIFE-CYCLE RAIL",
+          "role": "mechanism"
+        },
+        {
+          "text": "1 DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERIAL SELECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "2 MANUFACTURE PROCESS STORAGE TRANSPORT",
+          "role": "mechanism"
+        },
+        {
+          "text": "3 OPERATION MAINTENANCE AND CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "4 WASTE DISPOSAL REMEDIATION AND LEARNING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "1 DESIGN / MATERIAL SELECTION",
+        "2 MANUFACTURE PROCESS STORAGE TRANSPORT",
+        "3 OPERATION MAINTENANCE AND CHANGE",
+        "4 WASTE DISPOSAL REMEDIATION AND LEARNING"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "1 DESIGN / MATERIAL SELECTION",
+            "2 MANUFACTURE PROCESS STORAGE TRANSPORT"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 OPERATION MAINTENANCE AND CHANGE",
+            "4 WASTE DISPOSAL REMEDIATION AND LEARNING"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "1 DESIGN / MATERIAL SELECTION",
+            "2 MANUFACTURE PROCESS STORAGE TRANSPORT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "3 OPERATION MAINTENANCE AND CHANGE; 4 WASTE DISPOSAL REMEDIATION AND LEARNING.",
+      "source_references": [
+        "Industrial life cycle",
+        "Process-safety causes"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NATECH CASCADE",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NATECH CASCADE",
+          "role": "primary"
+        },
+        {
+          "text": "FLOOD QUAKE CYCLONE HEAT OR LIFELINE FAILURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS STRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRE EXPLOSION RELEASE OR CONTAMINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPOUND PUBLIC HEALTH AND ENVIRONMENTAL EMERGENCY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FLOOD QUAKE CYCLONE HEAT OR LIFELINE FAILURE",
+        "CONTAINMENT / POWER / COOLING / ACCESS STRESS",
+        "FIRE EXPLOSION RELEASE OR CONTAMINATION",
+        "COMPOUND PUBLIC HEALTH AND ENVIRONMENTAL EMERGENCY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "FLOOD QUAKE CYCLONE HEAT OR LIFELINE FAILURE",
+            "CONTAINMENT / POWER / COOLING / ACCESS STRESS"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FIRE EXPLOSION RELEASE OR CONTAMINATION",
+            "COMPOUND PUBLIC HEALTH AND ENVIRONMENTAL EMERGENCY"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "FLOOD QUAKE CYCLONE HEAT OR LIFELINE FAILURE",
+            "CONTAINMENT / POWER / COOLING / ACCESS STRESS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTAINMENT / POWER / COOLING / ACCESS STRESS.",
+      "source_references": [
+        "NaTech risk"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHEMICAL-LAW BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHEMICAL-LAW BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "FACTORIES LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "HAZARDOUS-PROCESS FIELD",
+          "role": "mechanism"
+        },
+        {
+          "text": "EPA + MSIHC",
+          "role": "evidence"
+        },
+        {
+          "text": "COVERED HAZARDOUS-CHEMICAL PREVENTION DUTIES",
+          "role": "primary"
+        },
+        {
+          "text": "CHEMICAL ACCIDENTS RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "CRISIS-GROUP PREPAREDNESS",
+          "role": "comparison"
+        },
+        {
+          "text": "PLI ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "FACTORIES LAW → workplace / hazardous-process field",
+        "EPA + MSIHC → covered hazardous-chemical prevention duties",
+        "CHEMICAL ACCIDENTS RULES → crisis-group preparedness / response",
+        "PLI ACT → no-fault immediate civil-relief route"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "FACTORIES LAW → workplace / hazardous-process field",
+          "CHEMICAL ACCIDENTS RULES → crisis-group preparedness / response",
+          "FACTORIES LAW → workplace / hazardous-process field"
+        ],
+        [
+          "EPA + MSIHC → covered hazardous-chemical prevention duties",
+          "PLI ACT → no-fault immediate civil-relief route",
+          "EPA + MSIHC → covered hazardous-chemical prevention duties"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "FACTORIES LAW → workplace / hazardous-process field",
+            "EPA + MSIHC → covered hazardous-chemical prevention duties"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CHEMICAL ACCIDENTS RULES → crisis-group preparedness / response",
+            "PLI ACT → no-fault immediate civil-relief route"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "FACTORIES LAW → workplace / hazardous-process field",
+            "EPA + MSIHC → covered hazardous-chemical prevention duties"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHEMICAL ACCIDENTS RULES → crisis-group preparedness / response.",
+      "source_references": [
+        "MSIHC boundary",
+        "Chemical Accidents Rules",
+        "Factories-law boundary",
+        "Public Liability boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NUCLEAR GOVERNANCE BOUNDARY",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NUCLEAR GOVERNANCE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ATOMIC ENERGY FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL TECHNICAL DOMAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "ATOMIC-ENERGY AND EMERGENCY COORDINATION ROLE",
+          "role": "evidence"
+        },
+        {
+          "text": "REGULATORY SAFETY REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "CONSENT FUNCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "DM AUTHORITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC COORDINATION AND SPECIALISED SUPPORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ATOMIC ENERGY FRAMEWORK → CENTRAL TECHNICAL DOMAIN",
+        "DAE → atomic-energy and emergency coordination role",
+        "AERB → regulatory safety review / consent functions",
+        "DM AUTHORITIES / NDRF → public coordination and specialised support"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "ATOMIC ENERGY FRAMEWORK → CENTRAL TECHNICAL DOMAIN",
+            "DAE → atomic-energy and emergency coordination role"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AERB → regulatory safety review / consent functions",
+            "DM AUTHORITIES / NDRF → public coordination and specialised support"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ATOMIC ENERGY FRAMEWORK → CENTRAL TECHNICAL DOMAIN",
+            "DAE → atomic-energy and emergency coordination role"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DM AUTHORITIES / NDRF → public coordination and specialised support.",
+      "source_references": [
+        "Atomic-energy boundary",
+        "Role separation"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ON-SITE PLAN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ON-SITE PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNAL COMMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "SHUTDOWN OR ISOLATION",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKER PROTECTION + ACCOUNTING",
+          "role": "primary"
+        },
+        {
+          "text": "INFORM OUTSIDE AUTHORITY + REQUEST SUPPORT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DETECT / ALARM → INTERNAL COMMAND",
+        "SOURCE CONTROL / SHUTDOWN OR ISOLATION",
+        "WORKER PROTECTION + ACCOUNTING",
+        "INFORM OUTSIDE AUTHORITY + REQUEST SUPPORT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DETECT / ALARM → INTERNAL COMMAND",
+            "SOURCE CONTROL / SHUTDOWN OR ISOLATION"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WORKER PROTECTION + ACCOUNTING",
+            "INFORM OUTSIDE AUTHORITY + REQUEST SUPPORT"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DETECT / ALARM → INTERNAL COMMAND",
+            "SOURCE CONTROL / SHUTDOWN OR ISOLATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WORKER PROTECTION + ACCOUNTING; INFORM OUTSIDE AUTHORITY + REQUEST SUPPORT.",
+      "source_references": [
+        "On-site plan"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OFF-SITE PLAN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "OFF-SITE PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "FACILITY INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC WARNING",
+          "role": "evidence"
+        },
+        {
+          "text": "EVACUATION DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "TRAFFIC HEALTH ENVIRONMENT AND RESOURCE COORDINATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FACILITY INFORMATION → DISTRICT / LOCAL ASSESSMENT",
+        "PUBLIC WARNING → SHELTER / EVACUATION DECISION",
+        "TRAFFIC HEALTH ENVIRONMENT AND RESOURCE COORDINATION",
+        "MONITOR → UPDATE → RECOVERY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "FACILITY INFORMATION → DISTRICT / LOCAL ASSESSMENT",
+            "PUBLIC WARNING → SHELTER / EVACUATION DECISION"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRAFFIC HEALTH ENVIRONMENT AND RESOURCE COORDINATION",
+            "MONITOR → UPDATE → RECOVERY"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "FACILITY INFORMATION → DISTRICT / LOCAL ASSESSMENT",
+            "PUBLIC WARNING → SHELTER / EVACUATION DECISION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAFFIC HEALTH ENVIRONMENT AND RESOURCE COORDINATION; MONITOR → UPDATE → RECOVERY.",
+      "source_references": [
+        "Off-site plan"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ACTOR-ROLE MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACTOR-ROLE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENT CONTROL DISCLOSE AND SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "STANDARDS INSPECTION CONSENT ENFORCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC PROTECTIVE ACTION AND COORDINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIALISED TEAMS",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNICAL RESPONSE SUPPORT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OCCUPIER → prevent control disclose and support",
+        "REGULATOR → standards inspection consent enforcement",
+        "LOCAL / DISTRICT → public protective action and coordination",
+        "SPECIALISED TEAMS → technical response support"
+      ],
+      "matrix": [
+        [
+          "HAZARD / ACTOR / INSTRUMENT",
+          "DECISIVE RISK OR MANDATE DISTINCTION",
+          "WARNING / IMPLEMENTATION / OUTCOME LIMIT"
+        ],
+        [
+          "OCCUPIER → prevent control disclose and support",
+          "LOCAL / DISTRICT → public protective action and coordination",
+          "OCCUPIER → prevent control disclose and support"
+        ],
+        [
+          "REGULATOR → standards inspection consent enforcement",
+          "SPECIALISED TEAMS → technical response support",
+          "REGULATOR → standards inspection consent enforcement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "HAZARD / ACTOR / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "OCCUPIER → prevent control disclose and support",
+            "REGULATOR → standards inspection consent enforcement"
+          ]
+        },
+        {
+          "heading": "DECISIVE RISK OR MANDATE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LOCAL / DISTRICT → public protective action and coordination",
+            "SPECIALISED TEAMS → technical response support"
+          ]
+        },
+        {
+          "heading": "WARNING / IMPLEMENTATION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "OCCUPIER → prevent control disclose and support",
+            "REGULATOR → standards inspection consent enforcement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOCAL / DISTRICT → public protective action and coordination.",
+      "source_references": [
+        "Role separation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PROTECTIVE-ACTION LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROTECTIVE-ACTION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESS AREA AND POPULATION AT RISK",
+          "role": "caution"
+        },
+        {
+          "text": "AUTHORISE SHELTER EVACUATION ACCESS CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "DECONTAMINATE TRIAGE REFER AND MONITOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DETECT / IDENTIFY / MONITOR",
+        "ASSESS AREA AND POPULATION AT RISK",
+        "AUTHORISE SHELTER EVACUATION ACCESS CONTROL",
+        "DECONTAMINATE TRIAGE REFER AND MONITOR"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "RISK CONDITION / INPUT",
+          "role": "evidence",
+          "items": [
+            "DETECT / IDENTIFY / MONITOR",
+            "ASSESS AREA AND POPULATION AT RISK"
+          ]
+        },
+        {
+          "heading": "PREVENTION / PREPAREDNESS / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUTHORISE SHELTER EVACUATION ACCESS CONTROL",
+            "DECONTAMINATE TRIAGE REFER AND MONITOR"
+          ]
+        },
+        {
+          "heading": "LAST-MILE / INCLUSION / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "DETECT / IDENTIFY / MONITOR",
+            "ASSESS AREA AND POPULATION AT RISK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUTHORISE SHELTER EVACUATION ACCESS CONTROL; DECONTAMINATE TRIAGE REFER AND MONITOR.",
+      "source_references": [
+        "Detection and protection",
+        "Decontamination and medical care"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RISK COMMUNICATION CARD",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RISK COMMUNICATION CARD",
+          "role": "caution"
+        },
+        {
+          "text": "WHAT HAPPENED + OFFICIAL UNCERTAINTY",
+          "role": "outcome"
+        },
+        {
+          "text": "WHERE + WHAT ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CARE LOCATION + UPDATE CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "RUMOUR CORRECTION WITHOUT STIGMA OR SPECULATION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WHAT HAPPENED + OFFICIAL UNCERTAINTY",
+        "WHO / WHERE + WHAT ACTION",
+        "CARE LOCATION + UPDATE CHANNEL",
+        "RUMOUR CORRECTION WITHOUT STIGMA OR SPECULATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "WHAT HAPPENED + OFFICIAL UNCERTAINTY",
+            "WHO / WHERE + WHAT ACTION"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "CARE LOCATION + UPDATE CHANNEL",
+            "RUMOUR CORRECTION WITHOUT STIGMA OR SPECULATION"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "WHAT HAPPENED + OFFICIAL UNCERTAINTY",
+            "WHO / WHERE + WHAT ACTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CARE LOCATION + UPDATE CHANNEL; RUMOUR CORRECTION WITHOUT STIGMA OR SPECULATION.",
+      "source_references": [
+        "Public communication"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RECOVERY-ACCOUNTABILITY LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RECOVERY-ACCOUNTABILITY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "REMEDIATE SITE AND ENVIRONMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MONITOR HEALTH + RESTORE LIVELIHOODS",
+          "role": "comparison"
+        },
+        {
+          "text": "INVESTIGATE DISCLOSE RELIEF",
+          "role": "evidence"
+        },
+        {
+          "text": "CORRECT DESIGN REGULATION PLAN AND LAND USE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "REMEDIATE SITE AND ENVIRONMENT",
+        "MONITOR HEALTH + RESTORE LIVELIHOODS",
+        "INVESTIGATE DISCLOSE RELIEF / COMPENSATION",
+        "CORRECT DESIGN REGULATION PLAN AND LAND USE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "REMEDIATE SITE AND ENVIRONMENT",
+            "MONITOR HEALTH + RESTORE LIVELIHOODS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "INVESTIGATE DISCLOSE RELIEF / COMPENSATION",
+            "CORRECT DESIGN REGULATION PLAN AND LAND USE"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "REMEDIATE SITE AND ENVIRONMENT",
+            "MONITOR HEALTH + RESTORE LIVELIHOODS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INVESTIGATE DISCLOSE RELIEF / COMPENSATION; CORRECT DESIGN REGULATION PLAN AND LAND USE.",
+      "source_references": [
+        "Liability and recovery"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INDUSTRIAL-CBRN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INDUSTRIAL-CBRN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY HAZARD",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE LIFE-CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "NATECH FAILURE",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSIGN LAW REGULATOR OCCUPIER LOCAL AUTHORITY AND RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "CONNECT ON-SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "OFF-SITE PLANS TO PUBLIC AND MEDICAL ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "END WITH REMEDIATION LIABILITY AND VERIFIED OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY HAZARD → TRACE LIFE-CYCLE / NATECH FAILURE",
+        "ASSIGN LAW REGULATOR OCCUPIER LOCAL AUTHORITY AND RESPONSE",
+        "CONNECT ON-SITE / OFF-SITE PLANS TO PUBLIC AND MEDICAL ACTION",
+        "END WITH REMEDIATION LIABILITY AND VERIFIED OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "HAZARD / RISK / RESILIENCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "CLASSIFY HAZARD → TRACE LIFE-CYCLE / NATECH FAILURE",
+            "ASSIGN LAW REGULATOR OCCUPIER LOCAL AUTHORITY AND RESPONSE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL OR COMMUNITY RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "CONNECT ON-SITE / OFF-SITE PLANS TO PUBLIC AND MEDICAL ACTION",
+            "END WITH REMEDIATION LIABILITY AND VERIFIED OUTCOME"
+          ]
+        },
+        {
+          "heading": "CAPACITY / STATUS / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSIFY HAZARD → TRACE LIFE-CYCLE / NATECH FAILURE",
+            "ASSIGN LAW REGULATOR OCCUPIER LOCAL AUTHORITY AND RESPONSE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONNECT ON-SITE / OFF-SITE PLANS TO PUBLIC AND MEDICAL ACTION.",
+      "source_references": [
+        "Preparedness-outcome firewall"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CRISIS-GROUP CASCADING STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CHEMICAL ACCIDENT RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "\"NO FAULT LIABILITY\" AS A DELIBERATELY VICTIM-PROTECTIVE LEGAL",
+          "role": "caution"
+        },
+        {
+          "text": "ANY CURRENT CLAIM ABOUT AERB'S LICENSING STANDARDS, MAH-UNIT",
+          "role": "primary"
+        },
+        {
+          "text": "CPCL CHENNAI SPILL (DECEMBER 2023) AS A RECENT, PRECISELY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEPWATER HORIZON AS AN INTERNATIONAL BENCHMARK, NOT AN INDIAN",
+          "role": "caution"
+        },
+        {
+          "text": "VISIONIAS'S OWN OIL-SPILL \"EXISTING CHALLENGES\" MATERIAL (INDUSTRIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL RISK / RESILIENCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Crisis-group cascading structure : the Chemical Accident Rules,",
+            "\"No fault liability\" as a deliberately victim-protective legal",
+            "Any current claim about AERB's licensing standards, MAH-unit",
+            "CPCL Chennai spill (December 2023) as a recent, precisely"
+          ]
+        },
+        {
+          "heading": "MANDATE, WARNING OR OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Deepwater Horizon as an international benchmark, not an Indian",
+            "CAUTION: VisionIAS's own oil-spill \"existing challenges\" material (industrial",
+            "CAUTION: VisionIAS's own recommendation for a \"legislation on the buffer",
+            "CAUTION: Toxic-chemical substitution versus production-cost/process"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HAZARD / GOVERNANCE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Relocation versus buffer-zone retrofitting for existing settled",
+            "NOT: The \"chemical safety laws exist, therefore chemical risk is",
+            "CAUTION: No national biological-warfare-specific institutional parallel",
+            "Environmental Relief Fund (2008) , funded by NGT-ordered"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

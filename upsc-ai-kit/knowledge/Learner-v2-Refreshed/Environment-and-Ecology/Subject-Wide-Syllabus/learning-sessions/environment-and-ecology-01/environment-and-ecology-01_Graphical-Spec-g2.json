@@ -1,0 +1,1117 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-01",
+  "subject": "Environment-and-Ecology",
+  "title": "ECOSYSTEM STRUCTURE AND FUNCTION",
+  "short_route": "ECOSYSTEM BOUNDARY CARD → ENERGY AND MATTER SPLIT → FUNCTIONAL GUILD LADDER → CHAIN AND WEB COMPARISON → HABITAT AND NICHE MATRIX → ECOTONE LOGIC",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-01\\environment-and-ecology-01_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-01-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "29df05c763cb0ee7c849dc6db097f7d79f3b17d7b93e43a89e9c8b04e6950aec",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ECOSYSTEM BOUNDARY CARD",
+      "structural_type": "root-axes",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ECOSYSTEM BOUNDARY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "STATE THE POND, FOREST PATCH, WETLAND OR LANDSCAPE BEING",
+          "role": "institution"
+        },
+        {
+          "text": "CLIMATE, WATER, SOIL, MINERALS AND TOPOGRAPHY INSIDE THAT BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCERS, CONSUMERS, DETRITIVORES AND MICROBIAL DECOMPOSERS",
+          "role": "evidence"
+        },
+        {
+          "text": "ENERGY TRANSFER, MATTER CYCLING, PRODUCTIVITY AND RECOVERY",
+          "role": "primary"
+        },
+        {
+          "text": "A BOUNDARY IS ANALYTICAL; IT MUST MATCH THE QUESTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BOUNDARY → state the pond, forest patch, wetland or landscape being analysed",
+        "ABIOTIC → climate, water, soil, minerals and topography inside that boundary",
+        "BIOTIC → producers, consumers, detritivores and microbial decomposers",
+        "FUNCTION → energy transfer, matter cycling, productivity and recovery",
+        "RULE → a boundary is analytical; it must match the question and evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "BOUNDARY → state the pond, forest patch, wetland or landscape being analysed",
+            "ABIOTIC → climate, water, soil, minerals and topography inside that boundary"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BIOTIC → producers, consumers, detritivores and microbial decomposers",
+            "FUNCTION → energy transfer, matter cycling, productivity and recovery"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → a boundary is analytical; it must match the question and evidence",
+            "BOUNDARY → state the pond, forest patch, wetland or landscape being analysed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a boundary is analytical; it must match the question and evidence.",
+      "source_references": [
+        "Ecosystem as a bounded functional unit",
+        "Biotic and abiotic structure"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ENERGY AND MATTER SPLIT",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENERGY AND MATTER SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "SOLAR OR CHEMICAL INPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCER FIXATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSUMER TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "AT EACH TRANSFER",
+          "role": "primary"
+        },
+        {
+          "text": "RESPIRATION AND HEAT DISSIPATION REDUCE USABLE ENERGY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEAD ORGANIC MATTER",
+          "role": "comparison"
+        },
+        {
+          "text": "MICROBIAL DECOMPOSITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOLAR OR CHEMICAL INPUT → producer fixation → consumer transfer",
+        "AT EACH TRANSFER → respiration and heat dissipation reduce usable energy",
+        "DEAD ORGANIC MATTER → fragmentation → microbial decomposition",
+        "RELEASED NUTRIENTS → abiotic pool → producer uptake",
+        "VERDICT → energy moves one way; matter can cycle"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "SOLAR OR CHEMICAL INPUT → producer fixation → consumer transfer",
+            "AT EACH TRANSFER → respiration and heat dissipation reduce usable energy"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "DEAD ORGANIC MATTER → fragmentation → microbial decomposition",
+            "RELEASED NUTRIENTS → abiotic pool → producer uptake"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → energy moves one way; matter can cycle",
+            "SOLAR OR CHEMICAL INPUT → producer fixation → consumer transfer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → energy moves one way; matter can cycle.",
+      "source_references": [
+        "Producer entry point",
+        "Detritivore and decomposer distinction",
+        "Energy movement versus matter cycling"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FUNCTIONAL GUILD LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FUNCTIONAL GUILD LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CREATE ORGANIC MATTER FROM INORGANIC INPUTS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMARY CONSUMERS",
+          "role": "comparison"
+        },
+        {
+          "text": "FEED DIRECTLY ON PRODUCERS",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGHER CONSUMERS",
+          "role": "primary"
+        },
+        {
+          "text": "FEED THROUGH ONE OR MORE TROPHIC ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "FRAGMENT DEAD MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CHEMICALLY RELEASE NUTRIENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRODUCERS → create organic matter from inorganic inputs",
+        "PRIMARY CONSUMERS → feed directly on producers",
+        "HIGHER CONSUMERS → feed through one or more trophic routes",
+        "DETRITIVORES → fragment dead material",
+        "DECOMPOSERS → chemically release nutrients"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "PRODUCERS → create organic matter from inorganic inputs",
+            "PRIMARY CONSUMERS → feed directly on producers"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HIGHER CONSUMERS → feed through one or more trophic routes",
+            "DETRITIVORES → fragment dead material"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DECOMPOSERS → chemically release nutrients",
+            "PRODUCERS → create organic matter from inorganic inputs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HIGHER CONSUMERS → feed through one or more trophic routes.",
+      "source_references": [
+        "Producer entry point",
+        "Consumers and trophic position",
+        "Detritivore and decomposer distinction"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CHAIN AND WEB COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHAIN AND WEB COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "FOOD CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE SELECTED LINEAR ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "FOOD WEB",
+          "role": "evidence"
+        },
+        {
+          "text": "CONNECTED SET OF CHAINS WITHIN THE SAME BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ALTERNATIVE LINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY REDUCE DEPENDENCE ON ONE ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE ORGANISM MAY FEED ACROSS TROPHIC POSITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOOD CHAIN → one selected linear route",
+        "FOOD WEB → connected set of chains within the same boundary",
+        "ALTERNATIVE LINKS → may reduce dependence on one route",
+        "OMNIVORY → one organism may feed across trophic positions",
+        "LIMIT → connectivity does not immunise a system against every disturbance"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "FOOD CHAIN → one selected linear route",
+          "ALTERNATIVE LINKS → may reduce dependence on one route",
+          "LIMIT → connectivity does not immunise a system against every disturbance"
+        ],
+        [
+          "FOOD WEB → connected set of chains within the same boundary",
+          "OMNIVORY → one organism may feed across trophic positions",
+          "FOOD CHAIN → one selected linear route"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "FOOD CHAIN → one selected linear route",
+            "FOOD WEB → connected set of chains within the same boundary"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ALTERNATIVE LINKS → may reduce dependence on one route",
+            "OMNIVORY → one organism may feed across trophic positions"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "LIMIT → connectivity does not immunise a system against every disturbance",
+            "FOOD CHAIN → one selected linear route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → connectivity does not immunise a system against every disturbance.",
+      "source_references": [
+        "Consumers and trophic position",
+        "Food chain versus food web"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HABITAT AND NICHE MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HABITAT AND NICHE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL ADDRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "HABITAT NICHE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHERE WITHIN THAT ADDRESS THE ORGANISM OPERATES",
+          "role": "evidence"
+        },
+        {
+          "text": "TROPHIC NICHE",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCES AND FEEDING RELATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "REPRODUCTIVE NICHE",
+          "role": "comparison"
+        },
+        {
+          "text": "BREEDING REQUIREMENTS AND TIMING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HABITAT → physical address",
+        "HABITAT NICHE → where within that address the organism operates",
+        "TROPHIC NICHE → resources and feeding relations",
+        "REPRODUCTIVE NICHE → breeding requirements and timing",
+        "RULE → overlap in place does not prove identical functional niches"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "HABITAT → physical address",
+          "TROPHIC NICHE → resources and feeding relations",
+          "RULE → overlap in place does not prove identical functional niches"
+        ],
+        [
+          "HABITAT NICHE → where within that address the organism operates",
+          "REPRODUCTIVE NICHE → breeding requirements and timing",
+          "HABITAT → physical address"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "HABITAT → physical address",
+            "HABITAT NICHE → where within that address the organism operates"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TROPHIC NICHE → resources and feeding relations",
+            "REPRODUCTIVE NICHE → breeding requirements and timing"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → overlap in place does not prove identical functional niches",
+            "HABITAT → physical address"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → overlap in place does not prove identical functional niches.",
+      "source_references": [
+        "Habitat, niche and niche dimensions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ECOTONE LOGIC",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ECOTONE LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "ECOSYSTEM A",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSITION ZONE OF VARIABLE WIDTH",
+          "role": "comparison"
+        },
+        {
+          "text": "ECOSYSTEM B",
+          "role": "evidence"
+        },
+        {
+          "text": "OVERLAPPING CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIES FROM BOTH SIDES MAY OCCUR",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW EDGE CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOME ADDITIONAL SPECIALISTS MAY OCCUR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ECOSYSTEM A → transition zone of variable width → ECOSYSTEM B",
+        "OVERLAPPING CONDITIONS → species from both sides may occur",
+        "NEW EDGE CONDITIONS → some additional specialists may occur",
+        "COMPETITION AND TENSION → the zone is not automatically benign",
+        "EDGE EFFECT → possible density or variety pattern, not the definition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ECOSYSTEM A → transition zone of variable width → ECOSYSTEM B",
+            "OVERLAPPING CONDITIONS → species from both sides may occur"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEW EDGE CONDITIONS → some additional specialists may occur",
+            "COMPETITION AND TENSION → the zone is not automatically benign"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EDGE EFFECT → possible density or variety pattern, not the definition",
+            "ECOSYSTEM A → transition zone of variable width → ECOSYSTEM B"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EDGE EFFECT → possible density or variety pattern, not the definition.",
+      "source_references": [
+        "Ecotone and edge effect"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FOREST STRATIFICATION SECTION",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOREST STRATIFICATION SECTION",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH LIGHT, WIND EXPOSURE AND ARBOREAL NICHES",
+          "role": "outcome"
+        },
+        {
+          "text": "FILTERED LIGHT AND HUMID MICROCLIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHRUB AND HERB LAYERS",
+          "role": "evidence"
+        },
+        {
+          "text": "NEAR-GROUND RESOURCE PARTITIONING",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST FLOOR",
+          "role": "outcome"
+        },
+        {
+          "text": "LITTER, DETRITIVORES AND DECOMPOSER ACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE LAYERS DO NOT PROVE UNIVERSAL STABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CANOPY → high light, wind exposure and arboreal niches",
+        "UNDERSTOREY → filtered light and humid microclimate",
+        "SHRUB AND HERB LAYERS → near-ground resource partitioning",
+        "FOREST FLOOR → litter, detritivores and decomposer activity",
+        "CAUTION → more layers do not prove universal stability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CANOPY → high light, wind exposure and arboreal niches",
+            "UNDERSTOREY → filtered light and humid microclimate"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHRUB AND HERB LAYERS → near-ground resource partitioning",
+            "FOREST FLOOR → litter, detritivores and decomposer activity"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → more layers do not prove universal stability",
+            "CANOPY → high light, wind exposure and arboreal niches"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → more layers do not prove universal stability.",
+      "source_references": [
+        "Stratification and resource partitioning"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PRODUCTIVITY ACCOUNTING",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRODUCTIVITY ACCOUNTING",
+          "role": "primary"
+        },
+        {
+          "text": "GROSS PRIMARY PRODUCTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "TOTAL PRODUCER FIXATION PER UNIT TIME",
+          "role": "comparison"
+        },
+        {
+          "text": "MINUS PRODUCER RESPIRATION",
+          "role": "evidence"
+        },
+        {
+          "text": "METABOLIC ENERGY USED BY PRODUCERS",
+          "role": "primary"
+        },
+        {
+          "text": "NET PRIMARY PRODUCTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GROWTH AND PRODUCTION AVAILABLE ONWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "STANDING CROP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GROSS PRIMARY PRODUCTIVITY → total producer fixation per unit time",
+        "MINUS PRODUCER RESPIRATION → metabolic energy used by producers",
+        "NET PRIMARY PRODUCTIVITY → growth and production available onward",
+        "STANDING CROP → living stock at a stated instant",
+        "RULE → a stock cannot substitute for a production rate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "GROSS PRIMARY PRODUCTIVITY → total producer fixation per unit time",
+            "MINUS PRODUCER RESPIRATION → metabolic energy used by producers"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "NET PRIMARY PRODUCTIVITY → growth and production available onward",
+            "STANDING CROP → living stock at a stated instant"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a stock cannot substitute for a production rate",
+            "GROSS PRIMARY PRODUCTIVITY → total producer fixation per unit time"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a stock cannot substitute for a production rate.",
+      "source_references": [
+        "Gross and net primary productivity",
+        "Standing crop and standing state"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RESISTANCE AND RESILIENCE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RESISTANCE AND RESILIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "LIMITED DEPARTURE FROM PRIOR CONDITION DURING A DISTURBANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOVERY AFTER THE DISTURBANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY LOOK UNIFORM WHILE REMAINING SHOCK-SPECIFIC AND FRAGILE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVERSE WEB",
+          "role": "primary"
+        },
+        {
+          "text": "MAY PROVIDE RESPONSE OPTIONS BUT NO UNIVERSAL GUARANTEE",
+          "role": "caution"
+        },
+        {
+          "text": "NAME THE SHOCK, RESPONSE VARIABLE AND TIME FRAME",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RESISTANCE → limited departure from prior condition during a disturbance",
+        "RESILIENCE → recovery after the disturbance",
+        "MONOCULTURE → may look uniform while remaining shock-specific and fragile",
+        "DIVERSE WEB → may provide response options but no universal guarantee",
+        "ANSWER → name the shock, response variable and time frame"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "RESISTANCE → limited departure from prior condition during a disturbance",
+          "MONOCULTURE → may look uniform while remaining shock-specific and fragile",
+          "ANSWER → name the shock, response variable and time frame"
+        ],
+        [
+          "RESILIENCE → recovery after the disturbance",
+          "DIVERSE WEB → may provide response options but no universal guarantee",
+          "RESISTANCE → limited departure from prior condition during a disturbance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "RESISTANCE → limited departure from prior condition during a disturbance",
+            "RESILIENCE → recovery after the disturbance"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MONOCULTURE → may look uniform while remaining shock-specific and fragile",
+            "DIVERSE WEB → may provide response options but no universal guarantee"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "ANSWER → name the shock, response variable and time frame",
+            "RESISTANCE → limited departure from prior condition during a disturbance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER → name the shock, response variable and time frame.",
+      "source_references": [
+        "Stability and resilience"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SERVICES AND CONTRIBUTIONS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SERVICES AND CONTRIBUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL OUTPUTS SUCH AS FOOD, FIBRE AND WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "FLOOD BUFFERING, POLLINATION AND CLIMATE MODERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOIL FORMATION, PRIMARY PRODUCTION AND NUTRIENT CYCLING",
+          "role": "evidence"
+        },
+        {
+          "text": "SPIRITUAL, AESTHETIC, RECREATIONAL AND KNOWLEDGE VALUES",
+          "role": "primary"
+        },
+        {
+          "text": "INCLUDES RELATIONAL AND INDIGENOUS OR LOCAL-KNOWLEDGE VALUES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PROVISIONING → material outputs such as food, fibre and water",
+        "REGULATING → flood buffering, pollination and climate moderation",
+        "SUPPORTING → soil formation, primary production and nutrient cycling",
+        "CULTURAL → spiritual, aesthetic, recreational and knowledge values",
+        "NCP → includes relational and indigenous or local-knowledge values"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "PROVISIONING → material outputs such as food, fibre and water",
+          "SUPPORTING → soil formation, primary production and nutrient cycling",
+          "NCP → includes relational and indigenous or local-knowledge values"
+        ],
+        [
+          "REGULATING → flood buffering, pollination and climate moderation",
+          "CULTURAL → spiritual, aesthetic, recreational and knowledge values",
+          "PROVISIONING → material outputs such as food, fibre and water"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "PROVISIONING → material outputs such as food, fibre and water",
+            "REGULATING → flood buffering, pollination and climate moderation"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SUPPORTING → soil formation, primary production and nutrient cycling",
+            "CULTURAL → spiritual, aesthetic, recreational and knowledge values"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NCP → includes relational and indigenous or local-knowledge values",
+            "PROVISIONING → material outputs such as food, fibre and water"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NCP → includes relational and indigenous or local-knowledge values.",
+      "source_references": [
+        "Ecosystem services and NCP"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CARRYING-CAPACITY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CARRYING-CAPACITY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SUSTAINED LOAD WITHOUT EROSION OF REGENERATIVE FUNCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "REGENERATIVE SUPPLY, ASSIMILATIVE CAPACITY AND CONNECTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSUMPTION, TECHNOLOGY AND GOVERNANCE ALTER THE THRESHOLD",
+          "role": "evidence"
+        },
+        {
+          "text": "NO TIMELESS FIXED HEADCOUNT FOLLOWS FROM THE CONCEPT",
+          "role": "caution"
+        },
+        {
+          "text": "PLAN WITHIN ECOLOGICAL LIMITS AND MONITOR THE RESPONSE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → sustained load without erosion of regenerative functions",
+        "MEASURE → regenerative supply, assimilative capacity and connectivity",
+        "CONTEXT → consumption, technology and governance alter the threshold",
+        "LIMIT → no timeless fixed headcount follows from the concept",
+        "CONCLUDE → plan within ecological limits and monitor the response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINE → sustained load without erosion of regenerative functions",
+            "MEASURE → regenerative supply, assimilative capacity and connectivity"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTEXT → consumption, technology and governance alter the threshold",
+            "LIMIT → no timeless fixed headcount follows from the concept"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCLUDE → plan within ecological limits and monitor the response",
+            "DEFINE → sustained load without erosion of regenerative functions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUDE → plan within ecological limits and monitor the response.",
+      "source_references": [
+        "Carrying capacity"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE AND INSTITUTION FIREWALL",
+      "structural_type": "evidence-table",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE AND INSTITUTION FIREWALL",
+          "role": "institution"
+        },
+        {
+          "text": "BASIC OWNER",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINITIONS, MECHANISMS AND VERIFIED PYQ CONCEPTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTING LEDGER",
+          "role": "evidence"
+        },
+        {
+          "text": "PAPER, YEAR AND NEUTRAL DEMAND OWNERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL PAPER OCR",
+          "role": "outcome"
+        },
+        {
+          "text": "PRINTED WORDING ONLY, NEVER AN INFERRED ANSWER KEY",
+          "role": "comparison"
+        },
+        {
+          "text": "FSI OR SURVEY BODY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASIC OWNER → definitions, mechanisms and verified PYQ concepts",
+        "ROUTING LEDGER → paper, year and neutral demand ownership",
+        "OFFICIAL PAPER OCR → printed wording only, never an inferred answer key",
+        "FSI OR SURVEY BODY → extent or inventory within its stated method",
+        "LIVE STUB → recorded as a failure, never converted into a current claim"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "BASIC OWNER → definitions, mechanisms and verified PYQ concepts",
+            "ROUTING LEDGER → paper, year and neutral demand ownership"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "OFFICIAL PAPER OCR → printed wording only, never an inferred answer key",
+            "FSI OR SURVEY BODY → extent or inventory within its stated method"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "LIVE STUB → recorded as a failure, never converted into a current claim",
+            "BASIC OWNER → definitions, mechanisms and verified PYQ concepts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIVE STUB → recorded as a failure, never converted into a current claim.",
+      "source_references": [
+        "Interaction and coevolution PYQ routes",
+        "Ocean producers, filter feeders and detritivores",
+        "Wetland filtering as structure-function evidence",
+        "Extent versus ecosystem quality",
+        "Institution and evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MOEFCC OPERATIONALISES ECOSYSTEM CONCEPTS THROUGH SPECIES/HABITAT LAW (TOPICS 06-10)",
+          "role": "outcome"
+        },
+        {
+          "text": "WII, BSI, ZSI GENERATE THE BASELINE ECOLOGICAL DATA (SPECIES",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTATION GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "ECOSYSTEM-SERVICES VALUE IS RARELY MONETISED IN INDIAN PROJECT",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST/TREE COVER STATISTICS (ISFR) MEASURE CANOPY DENSITY THRESHOLDS, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "\"ECOSYSTEM HEALTH\" HAS NO SINGLE AGREED METRIC; EXAMINERS REWARD",
+          "role": "caution"
+        },
+        {
+          "text": "KEYSTONE-SPECIES ARGUMENTS (E.G., APEX PREDATOR REMOVAL TRIGGERING TROPHIC CASCADE)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "MoEFCC operationalises ecosystem concepts through species/habitat law (Topics 06-10),",
+            "WII, BSI, ZSI generate the baseline ecological data (species inventories, habitat",
+            "CAUTION: Implementation gap: ecosystem-services value is rarely monetised in Indian project",
+            "CAUTION: Forest/tree cover statistics (ISFR) measure canopy density thresholds, not species"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: \"Ecosystem health\" has no single agreed metric; examiners reward candidates who name",
+            "CAUTION: Keystone-species arguments (e.g., apex predator removal triggering trophic cascade) are",
+            "Only about 10% of energy is transferred on average from one trophic level to the next",
+            "Net Primary Productivity (NPP) = Gross Primary Productivity (GPP) − respiratory loss by"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "The Millennium Ecosystem Assessment's four-fold service classification (provisioning,",
+            "Ecotones show the edge effect — higher species density and variety than either bordering",
+            "IPBES reframed the MEA's \"ecosystem services\" as Nature's Contributions to People",
+            "A niche is not a single attribute: it decomposes into habitat, trophic (food) and"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

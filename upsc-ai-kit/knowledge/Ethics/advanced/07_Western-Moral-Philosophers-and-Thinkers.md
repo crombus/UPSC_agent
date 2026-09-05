@@ -39,7 +39,7 @@ underlying *rule/institution*, not just the isolated act, is just.
 | ✅ **Rule vs act utilitarianism** (Mill/Bentham lineage) | Act utilitarianism judges each act by its individual consequences; rule utilitarianism judges the *rule* an act follows by the consequences of everyone following that rule — the latter is closer to how public administration actually reasons (policy = a rule applied repeatedly). |
 | ✅ **Aristotle's practical wisdom (phronesis)** | The capacity to judge *which* mean is appropriate in a *particular* situation — virtue ethics is therefore not a fixed formula but a trained, context-sensitive judgment, distinguishing it from both Kant's universal rule and Mill's outcome calculus. |
 | ✅ **Rawls's two principles of justice** (in lexical order) | (1) Equal basic liberties for all, compatible with the same liberties for others — this principle has *priority*; (2) social/economic inequalities permitted only if attached to positions open to all under fair equality of opportunity, and to the greatest benefit of the least advantaged (difference principle). The priority ordering matters: liberty cannot be traded away for economic gain. |
-| ✅ **Original position and primary goods** | The veil of ignorance operates inside the "original position": self-interested but non-envious, risk-averse rational choosers, ignorant of their own class, talents and conception of the good, select the criteria for distributing "primary goods" (liberties, opportunities, income, the social bases of self-respect) — which is why each reasons as if he might be in the least advantaged position. |
+| ✅ **Original position and primary goods** | The veil of ignorance operates inside the "original position": mutually disinterested rational parties, ignorant of their own class, talents and conception of the good, select principles governing "primary goods" such as liberties, opportunities, income and the social bases of self-respect. Rawls's maximin reasoning should not be reduced to ordinary psychological risk aversion. |
 | ⚠️ **Reflective equilibrium** (Rawls's method) | Moving back and forth between general principles and particular judgments until they cohere — a defensible method for a candidate reconciling a "gut reaction" to a case study with a stated ethical theory. |
 
 ## 3. Detailed comparative treatment
@@ -72,10 +72,10 @@ underlying *rule/institution*, not just the isolated act, is just.
 - ⚠️ Advanced application: a purely aggregate-welfare justification for coercive public-health or
   surveillance measures must additionally clear Mill's harm-principle test — utilitarian
   justification alone is necessary but not sufficient in a liberal-democratic administrative ethic.
-- ⚠️ Rule utilitarianism resolves the classic "utilitarianism justifies punishing an innocent person
+- ⚠️ Rule utilitarianism offers a response to the classic "utilitarianism justifies punishing an innocent person
   to placate a mob" objection: judging the *rule* "punish only the guilty" by its long-run
   consequences (deterrence, trust in justice) yields a better aggregate outcome than judging the
-  single act in isolation — a defensible answer to the standard anti-utilitarian objection.
+  single act in isolation. Whether this fully escapes act-level exceptions remains disputed.
 
 ### Aristotle's phronesis vs Kantian universalism — the context-sensitivity debate
 
@@ -131,9 +131,9 @@ underlying *rule/institution*, not just the isolated act, is just.
 - ⚠️ Aristotelian virtue ethics, without codified rules, risks inconsistency across different
   officials' individual judgments of "what a virtuous person would do" — hence its pairing with
   codes of conduct (`16`) for consistency.
-- ⚠️ Rawls's veil of ignorance is a powerful heuristic but assumes rational, self-interested
-  choosers behind the veil — a simplifying assumption that itself requires justification in
-  non-Western, communitarian contexts (a common critique applicable to Indian policy debates).
+- ⚠️ Rawls's veil of ignorance is a powerful heuristic but models mutually disinterested rational
+  parties and brackets particular attachments behind the veil — simplifying assumptions that
+  invite communitarian and non-Western critiques in Indian policy debates.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
@@ -216,17 +216,17 @@ isolation.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | GS-IV | 6 | (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-IV | 6 | (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world | Reflect · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-IV | 6 | three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-IV | 3 | three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance | Discuss · 10 + 10 + 10 marks · 150 words each | Routed to owning Ethics topic; stem verified against official scan; OCR artifact resolved | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| 2018 | GS-IV | 6(a) | Abraham Lincoln on governmental policy being an inseparable compound of good and evil | Reflect · 10 marks · 150 words | Routed subpart; stem and attribution verified against official scan | Compare benefits, harms, distribution and rights before giving a qualified policy verdict. |
+| 2019 | GS-IV | 6(a) | Socrates on the unexamined life | Reflect · 10 marks · 150 words | Routed subpart | Explain reflective self-audit, reason-giving, bias correction and institutional review. |
+| 2020 | GS-IV | 6(c) | Socrates-attributed quotation rejecting morality based on relative emotional values | Discuss · 10 marks · 150 words | Routed subpart; exact classical source unverified | Distinguish reasoned moral justification from transient preference while retaining empathy as relevant evidence. |
+| 2021 | GS-IV | 3(b-c) | Dalai Lama on inner and outer peace; Erik Erikson on interdependence and mutual need | Discuss · 10 + 10 marks · 150 words each | Routed subparts; stems verified against official scan | Prepare each quotation separately with attribution caution, administrative mechanism, limitation and conclusion. |
 
 ### What this owner must now support
 
-- (a) first quotation on weighing evil and good in governmental policy - attribution unclear in OCR; (b) Gandhi on anger and intolerance as enemies of understanding; (c) Tirukkural on falsehood and unblemished good
-- (a) Socrates on unexamined life; (b) M.K. Gandhi on thoughts shaping character; (c) A.P.J. Abdul Kalam on righteousness in heart and harmony in home nation and world
-- three quotations: (a) Vivekananda on selfless service and brotherhood; (b) Gandhi on finding self through service to others; (c) Socrates on morality and emotional values
-- three quotations: (a) Vivekananda on perseverance through difficulties; (b) Dalai Lama on inner peace as foundation for outer peace; (c) Erikson on learning and acceptance
+- Abraham Lincoln on governmental policy as a compound of good and evil
+- Socrates on the unexamined life
+- Socrates-attributed rejection of morality grounded only in relative emotional values
+- Dalai Lama on inner and outer peace; Erik Erikson on interdependence and mutual need
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->

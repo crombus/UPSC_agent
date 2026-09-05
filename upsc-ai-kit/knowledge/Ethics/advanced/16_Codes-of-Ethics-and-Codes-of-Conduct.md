@@ -1,218 +1,797 @@
-# Codes of Ethics and Codes of Conduct - ADVANCED
+# Codes of Ethics and Codes of Conduct — ADVANCED
 
-> **Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV.
-> **Core area:** Deeper institutional and comparative treatment of codes of ethics/conduct, their
-> enforcement architecture and international models.
-> **Grounded in:** 2nd ARC 4th Report *Ethics in Governance* (2007), Ch.2; audited GS-IV PYQs
-> (2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor.
-> *Companion: `basic/16_Codes-of-Ethics-and-Codes-of-Conduct.md`.*
+> **OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER**
+> **Subject:** Ethics | **GS Paper:** GS-IV | **Topic owner:** 16
+> This companion deepens institutional design, jurisprudential limits, comparative reasoning and
+> enforcement trade-offs after the Basic owner has been completed.
+> ✅ = source-grounded fact | ⚠️ = analysis/inference | 📰 = current official anchor.
 
 ---
 
-## 1. Architecture
+## 1. Codes as an institutional system, not a document pair
 
 ```text
-INTERNATIONAL MODELS (ARC 2.3-2.5)              INDIA'S CURRENT ARCHITECTURE
-UN Convention against Corruption,                 Ministers' Code of Conduct (ARC 2.4.2) —
-Article 8 (codes of conduct for                    EXISTS, precise, sanctionable
-public officials, 2003)
-UK Ministerial Code; US Senate                    Ministers' Code of ETHICS —
-Code of Conduct; Canada's                          RECOMMENDED (ARC 2.4.5) but NOT
-"Guide for Ministers"; Belize's                    COMPREHENSIVELY IMPLEMENTED (per
-constitutionally embedded code                     2025 GS-IV Q5(a)'s own framing)
-(Box 2.5)
-UK's Parliamentary Commissioner                   Rajya Sabha/Lok Sabha Ethics
-for Standards (post-Nolan)                         Committees — EXIST, but NO
-                                                    equivalent standing "Ethics
-                                                    Commissioner" office (ARC's own
-                                                    2007 recommendation, not yet
-                                                    enacted as of current status)
+                    ETHICS INFRASTRUCTURE
+
+ VALUES ---------> RULES ----------> PROCEDURES
+   |                 |                  |
+   v                 v                  v
+ADVICE            RECORDS          FAIR INQUIRY
+   |                 |                  |
+   v                 v                  v
+TRAINING -------> MONITORING ------> SANCTION / REMEDY
+   \_____________________________________/
+                     |
+                     v
+            REVIEW AND REVISION
 ```
 
-**Analytical claim:** India's code architecture is **asymmetric** — strong on Codes of Conduct
-(precise, enforceable, with committee-based sanction mechanisms) but weak on Codes of Ethics and on
-a dedicated, ARC-recommended "Ethics Commissioner" office — a structural gap directly tested by the
-current exam and requiring named institutional recommendations, not generic ethics rhetoric.
+⚠️ The advanced question is not “Which document is better?” It is whether the institution has a
+complete **ethics infrastructure** that:
 
-## 2. Concepts and distinctions
+- helps people recognise and resolve risk before breach;
+- makes conduct observable and reviewable;
+- protects lawful dissent and consultation;
+- investigates allegations fairly;
+- corrects harm and organisational weakness; and
+- updates rules without retroactive punishment.
 
-| Concept | Precise meaning |
+---
+
+## 2. A spectrum rather than a watertight binary
+
+The ethics/conduct distinction remains controlling, but real systems lie on a spectrum.
+
+| Instrument | Typical character | Advanced qualification |
+|---|---|---|
+| statement of values | highly aspirational | may influence appraisal or interpretation without itself defining misconduct |
+| ethics code with examples | principle-led and educative | examples improve notice but do not automatically create penalties |
+| conduct code | specific and procedural | may contain open-textured duties such as “integrity” |
+| service rule | legally authorised employment norm | requires disciplinary procedure and review |
+| House rule | institution-specific constitutional/parliamentary procedure | political and privilege dimensions differ from service law |
+| criminal statute | offence, investigation and court sanction | highest stigma; requires statutory ingredients and criminal process |
+
+⚠️ **Do not confuse breadth with weakness.** A broad integrity duty may be enforceable if
+competently incorporated, but overbroad use can violate notice and invite selective punishment.
+Likewise, a detailed rule may be legally valid yet ethically under-inclusive.
+
+### Minimum-compliance paradox
+
+A detailed code can unintentionally teach:
+
+> “Everything outside the prohibited list is ethically acceptable.”
+
+The response is not unlimited discretion. It is a layered system:
+
+1. specific conduct rules for notice;
+2. general principles for purpose and circumvention;
+3. accessible prospective advice;
+4. reasoned, reviewable application; and
+5. prospective clarification after new patterns emerge.
+
+---
+
+## 3. The Second ARC's civil-service proposal: precise reading
+
+✅ The Fourth Report states that public-service values towards which all public servants should
+aspire should be defined and made applicable to all tiers of Government and parastatal
+organisations.
+
+✅ It recommends that conflict of interest be comprehensively covered in both the Code of Ethics
+and the Code of Conduct for officers.
+
+✅ It also observes that organisations, especially those with a public interface, should prescribe
+codes appropriate to their operating risks rather than relying only on a service-wide document.
+
+### Advanced caveat
+
+The ARC formulation combines:
+
+- aspirational public-service values; and
+- a recommendation that transgression should attract misconduct consequences.
+
+⚠️ Therefore, avoid the simplistic claim that the ARC wanted a purely voluntary poster. An
+aspirational Code of Ethics is not legally self-executing. Equally,
+do not say the ARC report itself enacted misconduct. A recommendation becomes enforceable only
+through competent legal implementation.
+
+### Current status formulation
+
+Use:
+
+> India has enforceable conduct rules containing ethical duties, but the Second ARC-recommended
+> comprehensive and coherent civil-service Code of Ethics/public-service-values framework remains
+> unimplemented as a distinct national architecture.
+
+Avoid:
+
+- “India has no ethics in its service rules.”
+- “The ARC Code of Ethics is already law.”
+- “India has no Code of Conduct for public servants.”
+
+---
+
+## 4. Values-to-rules translation: the regulatory design problem
+
+### Example: integrity
+
+```text
+INTEGRITY
+   |
+   +--> no improper obligation
+   +--> disclose material interest
+   +--> do not misuse information
+   +--> do not seek private benefit
+   |
+   v
+RISK-SPECIFIC RULES
+   |
+   +--> gifts / hospitality
+   +--> relatives / beneficial ownership
+   +--> outside employment
+   +--> future employment
+   +--> property reporting
+   |
+   v
+PROCEDURES
+   |
+   +--> declaration
+   +--> independent assessment
+   +--> recusal / restriction / divestment
+   +--> record and audit
+```
+
+### Six tests for a translated rule
+
+1. **Authority:** who may issue and enforce it?
+2. **Notice:** can the covered person understand the duty?
+3. **Fit:** does the rule address the identified risk?
+4. **Proportionality:** is the burden no greater than needed?
+5. **Administrability:** can disclosures and approvals be processed?
+6. **Reviewability:** are reasons and remedies available?
+
+⚠️ More disclosure is not always better. Excessive family-data collection may produce privacy
+harm, security risk and false positives. Use role-sensitive and risk-sensitive disclosure.
+
+---
+
+## 5. Political neutrality and responsive government
+
+Political neutrality creates a three-sided duty:
+
+| Relationship | Duty |
 |---|---|
-| ✅ **UNCAC Article 8** (2003) | Requires State Parties to "promote... integrity, honesty and responsibility" among public officials and to "apply... codes or standards of conduct," referencing the UN's 1996 International Code of Conduct for Public Officials (ARC 2.3.1). |
-| ✅ **UK's Ministerial Code** | Explicitly *not* a rulebook enforced by officials — "Ministers are personally responsible for deciding how to act... and for justifying their actions... in Parliament," with the Prime Minister as "the ultimate judge" (ARC 2.4.1, quoted verbatim) — a code of political, not judicial/quasi-judicial, accountability. |
-| ✅ **Belize's constitutionally embedded code** (ARC Box 2.5) | Section 121(1) of Belize's Constitution directly prohibits public officials from conflicts of interest, compromising official functions, using office for private gain, demeaning their office, or endangering confidence in government — an unusually strong example of constitutionalising a code of conduct rather than leaving it to ordinary legislation or executive instruction. |
-| ✅ **UK's Parliamentary Commissioner for Standards** (post-Nolan, ARC 2.5.7.4) | An independent office responsible for maintaining the Register of Members' Interests, advising Members confidentially, and investigating Code-of-Conduct complaints, reporting findings to the Committee on Standards and Privileges. ARC 2.5.7.4 also cites Canada's Conflict of Interest and Post-Employment Code for public office holders (2006), overseen by an Ethics Commissioner who is an Officer of Parliament appointed under Section 72.01 of the Parliament of Canada Act. ARC 2.5.7.6(a) recommended a similar "Ethics Commissioner" office for **each House** of the Indian Parliament, functioning under the Speaker/Chairman — a recommendation not traced as enacted. |
+| to elected government | faithful implementation of lawful policy |
+| to Constitution and law | resistance to unlawful or discriminatory instruction |
+| to future governments and citizens | preserve professional capacity, records and impartial administration |
 
-## 3. Detailed treatment
+⚠️ Neutrality can fail in opposite ways:
 
-### Why India's Code of Ethics gap persists — a structural, not merely political, explanation
+- **partisan capture:** manipulating transfers, data, enforcement or schemes for party advantage;
+- **bureaucratic veto:** frustrating lawful policy because officials prefer another ideology.
 
-- ✅ ARC 2.4.3 itself diagnoses why a Code of Conduct alone is insufficient: it "is not comprehensive
-  in its coverage and is more in the nature of a list of prohibitions" — a Code of Ethics is needed
-  precisely to cover the intention/disposition layer a rule-list cannot reach (the Kantian
-  legal-ethical guilt gap, see `07`, `10`).
-- ⚠️ Advanced explanation for the persisting gap (still visible in 2025 GS-IV Q5(a)'s framing,
-  18 years after the ARC's 2007 recommendation): aspirational codes are harder to politically agree
-  upon across coalition partners and successive governments than precise, narrowly scoped conduct
-  rules, and lack an obvious enforcement metric — making them easier to defer indefinitely compared
-  to Code-of-Conduct amendments, which typically arise reactively after a specific scandal.
+### Minister-civil servant boundary
 
-### The UK Ministerial Code's "political, not judicial" accountability model
+✅ The ARC's ministerial ethical framework says Ministers should uphold civil-service political
+impartiality and should not ask civil servants to act contrary to their duties.
 
-- ✅ ARC 2.4.1 quotes the UK Cabinet Office directly: the Code is "not... the role of the Secretary
-  of the Cabinet or other officials to enforce it," and the Prime Minister is "the ultimate judge"
-  of a Minister's conduct and consequences.
-- ⚠️ Advanced point: this is a **deliberately political** (not quasi-judicial) accountability model
-  — it trades procedural due-process rigor for speed and ministerial-responsibility coherence (a
-  Prime Minister can act swiftly on conduct concerns without a lengthy tribunal process), but at the
-  cost of insulating the process from independent, non-partisan review — a genuine institutional
-  design trade-off relevant to any comparative-model Mains answer.
+⚠️ A credible code should also protect:
 
-### Belize's constitutional embedding — the strongest formal model, with its own limits
+- candid advice;
+- documented disagreement;
+- lawful implementation after decision;
+- responsibility of the political executive for policy; and
+- responsibility of the permanent executive for legality, evidence and administration.
 
-- ✅ Embedding a code of conduct directly in the Constitution (Belize, Section 121(1)) gives it the
-  highest possible legal status and insulates it from ordinary-legislative dilution.
-- ⚠️ Advanced critique: constitutional embedding increases *rigidity* — updating the code to address
-  newly emerging ethical challenges (e.g., digital-era conflicts of interest, AI-related decision-
-  making) requires the higher threshold of constitutional amendment rather than ordinary legislative
-  or executive-rule adjustment, a genuine trade-off between durability and adaptability.
+The official 2019 GS-IV discussion of politicisation of bureaucracy is a useful cross-topic
+example, but full political-executive case analysis belongs with the relevant case-study owner.
 
-### The Ethics Commissioner recommendation — India's unfilled institutional gap
+---
 
-- ✅ ARC 2.5.7.6(a) recommends that an Office of "Ethics Commissioner" be constituted by **each House**
-  of the Indian Parliament (modelled on the UK's Parliamentary Commissioner for Standards and
-  Canada's Ethics Commissioner), functioning under the Speaker/Chairman, to assist the Committee on
-  Ethics, advise Members when required and maintain the necessary records; ARC 2.5.7.6(b) extends
-  parallel recommendations to State legislatures.
-- ⚠️ 📰 On the position verified as at 4 August 2026, no such statutory Ethics Commissioner office
-  has been traced for either House — a precise, citable institutional gap for advanced Mains answers
-  proposing concrete reforms rather than generic "strengthen ethics" language.
+## 6. Speech, media and information in the digital workplace
 
-## 4. Institutional and reform architecture
+### Four categories
 
-- ⚠️ A defensible model Code of Ethics for Indian Ministers/civil servants (answering 2025 GS-IV
-  Q5(a) at an advanced level) should explicitly: (1) restate the seven Nolan principles as the
-  aspirational floor; (2) require Ministers to resolve conflicts of interest by prioritising public
-  interest, consistent with the existing Code of Conduct's disclosure/divestment rules; (3) establish
-  a dedicated monitoring unit in the PM's/CM's office, empowered to receive public complaints
-  (ARC 2.4.5(b)); (4) make the PM/CM duty-bound to enforce it uniformly across coalition partners
-  (2.4.5(c)); (5) mandate an annual report to the legislature listing violations and action taken
-  (2.4.5(d)); (6) place all three documents in the public domain (2.4.5(f)); and (7) create an
-  Ethics Commissioner office for each House of Parliament (2.5.7.6), extended to State legislatures.
-- ⚠️ This model explicitly closes the letter/spirit-of-the-law gap (`10`) that a Code of Conduct
-  alone cannot reach, while retaining the Code of Conduct's existing enforceability.
-
-## 5. Indian applications and boundary cases
-
-- ⚠️ A Minister who technically complies with the existing Code of Conduct's gift/business-interest
-  rules but repeatedly uses discretionary power to benefit associates in ways not explicitly
-  prohibited would fail a Code of Ethics standard (Nolan's selflessness/integrity) even while
-  remaining compliant with the Code of Conduct — the precise gap this file addresses.
-- ⚠️ Boundary case: an "Ethics Commissioner" office, if not given genuine investigative independence
-  (mirroring the UK Parliamentary Commissioner's confidential-advice-plus-investigation dual role),
-  risks becoming a purely advisory, toothless body — the institutional-design lesson from comparing
-  the UK model against a merely nominal Indian equivalent.
-
-## 6. Limitations and trade-offs
-
-- ⚠️ Aspirational Codes of Ethics, without clear enforcement metrics, risk becoming purely rhetorical
-  documents unless paired with a monitoring unit and mandatory public reporting (as ARC 2.4.5
-  itself specifies) — codifying ethics alone does not guarantee behavioural change.
-- ⚠️ Politically accountable (UK-style) enforcement models trade due-process rigor for
-  responsiveness; independent (Lokpal/Ethics-Commissioner-style) enforcement models trade
-  responsiveness for procedural insulation — no single model optimises both dimensions simultaneously.
-- ⚠️ Constitutionally embedding a code (Belize-style) maximises durability at the cost of
-  adaptability to emerging ethical challenges.
-
-## 7. Must-Know Facts for Advanced Prelims
-
-- ✅ UNCAC Article 8 (2003) is the international treaty basis for codes of conduct for public
-  officials, referencing the UN's 1996 International Code of Conduct for Public Officials.
-- ✅ The UK's Parliamentary Commissioner for Standards emerged from the Nolan Committee's
-  recommendations and maintains the Register of Members' Interests, advises confidentially, and
-  investigates Code-of-Conduct complaints.
-- ✅ Belize's Constitution (Section 121(1)) is the ARC's cited example of a code of conduct embedded
-  directly in a national constitution.
-
-## 8. Advanced Prelims traps
-
-- ❌ The UK Ministerial Code is enforced by an independent judicial-type body. -> ARC 2.4.1 quotes
-  the Code itself stating the Prime Minister is "the ultimate judge," making it a political, not
-  judicial, accountability mechanism.
-- ❌ India has already established an "Ethics Commissioner" office for Parliament as recommended by
-  the ARC. -> On the position verified as at 4 August 2026, no such statutory office has been traced
-  for either House; it remains a 2007 ARC recommendation (2.5.7.6).
-- ❌ UNCAC Article 8 mandates a single, universal code of conduct text for all signatory states. ->
-  It requires States to "promote" and "endeavour to apply" codes/standards within their own
-  institutional/legal systems, referencing the 1996 UN model code as guidance, not imposing a
-  uniform binding text.
-
-## 9. 📰 Current-anchor application
-
-| Verified current anchor | Topic-specific analytical use |
+| Category | Default ethical treatment |
 |---|---|
-| 📰 2025 GS-IV Q5(a)'s own framing confirming India's Code of Ethics remains "not yet put in place" | Confirms, from a verified current exam source, that the ARC's 2007 diagnosis of the Code of Ethics gap remains substantially accurate 18 years later — directly usable to justify the urgency of a specific reform proposal. |
+| authorised official communication | accurate, role-bound and recorded |
+| private expression unrelated to duty | protected subject to applicable lawful limits |
+| partisan use of office or confidential data | strongly restricted |
+| protected reporting of wrongdoing | use authorised, secure and proportionate routes |
 
-## 10. PYQ-based analytical application
+### Digital-era risks
 
-- ✅ 2025 GS-IV Q5(a) rewards a candidate who names specific comparative models (UK Ministerial
-  Code's political-accountability design; UK Parliamentary Commissioner for Standards; Belize's
-  constitutional embedding) and then synthesises a concrete, India-specific Code of Ethics proposal,
-  rather than a generic "we need ethics" answer.
+- private messaging used to avoid records;
+- screenshot leakage of citizen or bidder data;
+- anonymous partisan amplification by serving officials;
+- undisclosed sponsored commentary;
+- cloud tools processing protected official material;
+- deletion of material directions;
+- deepfake or manipulated official statements.
 
-## 11. Mains-ready framework
+⚠️ The answer is not total surveillance of employees. Use:
 
-**Central thesis:** India's Code of Conduct architecture is mature and enforceable, but its Code of
-Ethics and dedicated Ethics Commissioner institution remain substantially unimplemented since the
-ARC's 2007 recommendation; a defensible reform combines the Nolan principles, ARC's own monitoring-
-unit and annual-reporting proposals, and a genuinely independent Ethics Commissioner office.
+- authorised systems for material business;
+- clear retention categories;
+- privacy-protective logging;
+- lawful device and information policy;
+- secure reporting channels;
+- proportional investigation based on evidence; and
+- written reasons for access to employee data.
 
-1. State the Code of Ethics/Code of Conduct distinction and confirm which currently exists in India.
-2. Cite the specific institutional gap (Code of Ethics; Ethics Commissioner office) using the ARC's
-   own 2007 recommendation as the baseline.
-3. Draw on at least one comparative model (UK, Belize, UNCAC) explicitly, noting its own trade-off.
-4. Propose a specific, India-tailored Code of Ethics model with a monitoring/reporting mechanism.
-5. Note the enforcement-design trade-off (political vs independent; rigid vs adaptable) in your
-   proposed model.
+---
 
-## 12. Probable questions
+## 7. Conflict of interest: beyond disclose-and-recuse
 
-- ⚠️ **Prelims:** Which international treaty provision (Article and instrument) requires States to
-  promote codes of conduct for public officials?
-- ⚠️ **Mains (10 marks):** Compare the UK Ministerial Code's political-accountability model with
-  Belize's constitutionally embedded code of conduct.
-- ⚠️ **Mains (15 marks):** Design a Code of Ethics and an Ethics Commissioner mechanism for the
-  Indian Parliament, drawing on the ARC's 2007 recommendations and the UK's Parliamentary
-  Commissioner for Standards model.
+### Management options
 
-## 13. Study links
+```text
+LOW / REMOTE RISK ------------------------------ HIGH / DIRECT RISK
 
-- ✅ Foundation companion: `basic/16_Codes-of-Ethics-and-Codes-of-Conduct.md`.
-- ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` — Nolan principles as the Code of
-  Ethics foundation.
-- ✅ `10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md` — the letter/spirit-of-law gap.
-- ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — comparative international anti-corruption models.
+record only -> disclosure -> access restriction -> recusal/reassignment
+             -> independent review -> divestment -> withdrawal from role
+```
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-## Historical PYQ Integration (2018-2023)
+The choice depends on:
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+- value and concentration of interest;
+- decision power;
+- availability of substitutes;
+- access to non-public information;
+- duration of conflict;
+- public appearance;
+- impact on vulnerable persons; and
+- risk of strategic manipulation.
 
-- **Years represented:** 2018, 2019
-- **Paper(s):** GS-IV
-- **Routed question demands:** 2
+### Actual, potential, apparent and perceived
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-IV | 1 | (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct | Describe/Distinguish · 10 + 10 marks · 150 words each | Routed to owning Ethics topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-IV | 12 | Civil service ethics reform - institutional measures for anticipating ethical threats strengthening ethical competence and developing administrative processes promoting integrity | Suggest · 20 marks · 250 words | Case routed to Ethics case-study method | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+“Apparent conflict” should not become punishment for every suspicion. The standard is a
+**reasonable, informed observer**, not social-media hostility. Management can be necessary to
+protect trust even where actual bias is unproved; sanction still requires proof of the charged
+breach.
 
-### What this owner must now support
+### Regulatory capture and revolving doors
 
-- (a) three basic values universal in civil services and their importance; (b) distinction between code of ethics and code of conduct
-- Civil service ethics reform - institutional measures for anticipating ethical threats strengthening ethical competence and developing administrative processes promoting integrity
+Post-employment restrictions should address:
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+- negotiating employment while regulating;
+- switching sides in the same matter;
+- using confidential information;
+- privileged access to former subordinates; and
+- compensation linked to official decisions.
+
+⚠️ Cooling-off periods should be role- and risk-sensitive. Excessive bans deter expertise and may
+violate livelihood interests without proportional benefit.
+
+---
+
+## 8. Gifts, hospitality and beneficial ownership
+
+### Substance-over-form analysis
+
+```text
+FORMAL RECIPIENT
+      |
+      v
+OFFICIAL? SPOUSE? CHILD? ASSOCIATE? FOUNDATION? INTERMEDIARY?
+      |
+      v
+WHO FUNDED IT? WHO BENEFITED? WHAT DECISION WAS PENDING?
+      |
+      v
+AGGREGATE CONNECTED BENEFITS
+      |
+      v
+APPLY CURRENT RULE + CONFLICT TEST + FAIR INQUIRY
+```
+
+⚠️ Anti-circumvention does not permit guilt by association. Investigators need evidence of
+connection, knowledge, benefit and applicable duty. Innocent ceremonial, family or widely
+available benefits require fair distinction.
+
+### Threshold fallacy
+
+A monetary trigger may govern:
+
+- reporting;
+- prior permission;
+- surrender;
+- valuation; or
+- outright prohibition.
+
+It does not answer every ethical question. A below-trigger benefit from a regulated company during
+a live inspection may still create a conflict or violate another clause.
+
+---
+
+## 9. Legislatures: self-regulation and public legitimacy
+
+✅ Current official Rajya Sabha rules establish:
+
+- a Committee on Ethics;
+- oversight of moral and ethical conduct;
+- preparation and amendment of a Code of Conduct;
+- a Register of Members' Interests;
+- written complaints by any person;
+- committee inquiry; and
+- recommended sanctions including censure, reprimand and specified suspension.
+
+### Institutional trade-off
+
+House control respects legislative autonomy and privilege, but risks partisan protection or
+majoritarian punishment.
+
+Possible safeguards include:
+
+- published admissibility criteria;
+- declaration of committee-member conflicts;
+- fair notice and evidence access;
+- reasoned reports;
+- consistent sanction principles;
+- public reporting subject to legitimate confidentiality; and
+- independent technical or ethics advice.
+
+⚠️ An independent adviser should not displace the House's constitutional role. The design question
+is how to add professional, non-partisan capacity while preserving lawful institutional competence.
+
+---
+
+## 10. Ministers: political accountability and procedural fairness
+
+Ministerial codes often operate differently from civil-service disciplinary rules.
+
+| Civil servant | Minister |
+|---|---|
+| service relationship and disciplinary rules | political office and collective responsibility |
+| identified misconduct charge | political confidence and standards of office |
+| formal inquiry and service penalty | explanation, censure, resignation or removal may arise politically |
+| appeal/tribunal/court routes may apply | legislative and Prime Minister/Chief Minister accountability |
+
+⚠️ Political action need not await criminal conviction. Yet accusations should not automatically
+produce punishment without fact checking. A model may combine:
+
+- rapid preliminary fact assessment;
+- publication of applicable standard;
+- opportunity to respond;
+- independent advice or investigation for disputed facts;
+- reasoned political decision; and
+- separate referral where criminal or service-law issues arise.
+
+### Coalition problem
+
+✅ The ARC recommended that the Prime Minister or Chief Minister remain duty-bound to ensure
+observance even where coalition Ministers belong to different parties.
+
+⚠️ Ethical standards cannot become optional coalition bargaining terms; equally, enforcement must
+not become a weapon applied only to junior allies.
+
+---
+
+## 11. Advice, investigation and adjudication
+
+### Why prospective advice matters
+
+Many ethics problems are preventable if an official can safely ask:
+
+- Must I declare this holding?
+- May I attend this event?
+- Should I recuse?
+- Can I publish this article?
+- May I accept this outside role?
+- How should I handle an oral direction?
+
+### Role-conflict risk
+
+If the same office:
+
+1. receives confidential facts;
+2. advises a course;
+3. investigates departure;
+4. prosecutes; and
+5. decides guilt,
+
+employees may stop asking and procedural fairness may suffer.
+
+⚠️ Separation need not mean five agencies. It can mean internal firewalls, recusal, limited use of
+advisory communications, independent decision-makers and published confidentiality rules.
+
+---
+
+## 12. Monitoring: gaming-resistant ethics metrics
+
+### Bad metrics
+
+- number of pledges signed;
+- attendance at one lecture;
+- raw number of sanctions;
+- falling complaints without accessibility data;
+- 100% forms filed without quality review;
+- no reported conflicts in a high-risk unit.
+
+### Better dashboard
+
+| Dimension | Indicator | Interpretation caution |
+|---|---|---|
+| advice | volume, response time, recurring themes | more requests may show trust, not more wrongdoing |
+| disclosure | timeliness and completeness | quantity does not prove quality |
+| recusal | reasons and reassignment quality | excessive recusal may disable administration |
+| culture | speak-up and retaliation survey | perception requires triangulation |
+| control | repeat audit anomalies | anomaly is not automatically misconduct |
+| enforcement | time, consistency, appeals upheld | speed cannot replace fairness |
+| learning | rules revised after repeated ambiguity | constant revision can reduce certainty |
+
+⚠️ Publish aggregate findings, not raw personal data, unless lawful process and public interest
+justify disclosure.
+
+---
+
+## 13. Sanctions, due process and Article 311 context
+
+For civil servants, constitutional and service-law protections make discipline an institutional
+process, not managerial anger.
+
+### Fair-enforcement tests
+
+1. **Legality:** identify the applicable rule and competent authority.
+2. **Particularity:** state the act, time and alleged breach.
+3. **Evidence:** preserve and disclose relevant material fairly.
+4. **Impartiality:** remove investigator or decision-maker conflicts.
+5. **Hearing:** allow meaningful response.
+6. **Reason:** address defence and evidence.
+7. **Proportionality:** distinguish error, negligence, recklessness and deliberate concealment.
+8. **Consistency:** explain departure from comparable outcomes.
+9. **Review:** preserve the applicable appeal or judicial route.
+10. **Remedy:** correct citizen or institutional harm, not only punish the employee.
+
+⚠️ Article 311 should not be presented as immunity from discipline. It structures protection
+against arbitrary dismissal, removal or reduction in rank while permitting lawful disciplinary
+action.
+
+---
+
+## 14. Loopholes versus vagueness
+
+There is a genuine design tension:
+
+```text
+VERY DETAILED RULES                       VERY GENERAL PRINCIPLES
+clear notice                              adaptable to new schemes
+but easy to game                          but risk selective enforcement
+             \                            /
+              \                          /
+       SPECIFIC RULE + PURPOSE CLAUSE
+          + ADVICE + REASONS + REVIEW
+```
+
+### Safe anti-loophole method
+
+- identify the specific applicable duty;
+- explain the rule's public purpose;
+- prove the connected transaction or benefit;
+- address innocent explanations;
+- avoid retroactive creation of misconduct;
+- impose consequence only within valid authority;
+- clarify the rule prospectively if ambiguity was genuine.
+
+⚠️ “Spirit of the code” is persuasive for advice and reform, but cannot substitute for legal
+notice where serious disciplinary sanction is imposed.
+
+---
+
+## 15. Ethical competence as organisational capability
+
+### Competence ladder
+
+| Level | Capability |
+|---|---|
+| 1. Awareness | recognises obvious prohibited conduct |
+| 2. Rule literacy | finds the applicable rule and authority |
+| 3. Risk perception | sees conflict, appearance, bias and indirect benefit |
+| 4. Judgment | compares lawful alternatives and proportional controls |
+| 5. Courage | gives candid advice and escalates safely |
+| 6. Reflection | learns from near misses and revises practice |
+| 7. Leadership | creates conditions in which others can act ethically |
+
+The 2019 GS-IV institutional-measures question is best answered through three connected systems:
+
+1. **anticipation:** risk registers, audits, near misses and stakeholder intelligence;
+2. **competence:** scenario training, advice, mentoring and reasoned-decision practice;
+3. **process:** disclosure, recusal, records, review, remedy and fair sanctions.
+
+⚠️ Punishment cannot create all seven levels. Excessive fear may suppress advice and hide early
+warning signals.
+
+---
+
+## 16. Comparative models: use without transplantation
+
+### UNCAC Article 8
+
+✅ UNCAC Article 8 calls on States Parties to promote integrity, honesty and responsibility and to
+apply codes or standards of conduct for correct, honourable and proper performance of public
+functions within their legal systems.
+
+Use: international legitimacy for codes and interest-reporting architecture.
+Limit: it does not impose one universal text or erase domestic procedure.
+
+### UK-type ministerial responsibility
+
+✅ The ARC's comparative discussion highlights a model in which the Prime Minister is the ultimate
+political judge of ministerial conduct.
+
+Use: speed, political responsibility and coherence.
+Limit: risk of partisan or discretionary enforcement without independent fact-finding.
+
+### Parliamentary standards commissioner model
+
+✅ The ARC discusses the UK Parliamentary Commissioner for Standards and Canadian Ethics
+Commissioner arrangements, including advice, registers, investigation and reporting.
+
+Use: specialised capacity and continuity.
+Limit: Indian adoption must respect the constitutional competence of each House and avoid an
+unaccountable parallel sovereign.
+
+### Australia public-service model
+
+✅ The ARC notes Australian public-service values and a commissioner's role in evaluating how
+agencies incorporate and uphold them.
+
+Use: connects values with organisational systems and annual service-wide assessment.
+Limit: transplant only after adapting federal structure, service law and administrative capacity.
+
+---
+
+## 17. Designing the missing civil-service Code of Ethics
+
+### Part I — identity and purpose
+
+- constitutional fidelity;
+- public office as entrusted responsibility;
+- primacy of lawful public interest;
+- service to every citizen, especially vulnerable groups;
+- non-partisan professionalism.
+
+### Part II — values
+
+- selflessness;
+- integrity;
+- objectivity and merit;
+- impartiality;
+- honesty;
+- openness with lawful confidentiality;
+- accountability;
+- empathy and courtesy;
+- courage in advice;
+- stewardship;
+- leadership by example.
+
+### Part III — decision principles
+
+- identify authority and purpose;
+- seek relevant evidence;
+- declare interests;
+- hear affected perspectives where appropriate;
+- compare alternatives;
+- minimise rights intrusion;
+- give reasons;
+- preserve records;
+- accept review and correct error.
+
+### Part IV — operating support
+
+- ethics office;
+- confidential advice;
+- induction and scenario training;
+- role-specific guidance;
+- leadership declarations;
+- climate measurement;
+- annual aggregate reporting;
+- periodic review.
+
+### Part V — enforcement boundary
+
+State expressly:
+
+> This Code guides aspiration, judgment, leadership, advice and interpretation. Disciplinary
+> consequence arises only under applicable law or conduct rules through the competent procedure.
+
+This sentence prevents the false implication that aspirational ethical language is automatically a
+legal offence.
+
+---
+
+## 18. Advanced UPSC traps
+
+- ❌ **India has no code for civil servants.**
+  ✅ CCS/AIS conduct rules exist; the gap concerns a distinct comprehensive ethics code.
+
+- ❌ **All clauses in a Code of Ethics are voluntary.**
+  ✅ Values can be validly incorporated into enforceable rules, but aspiration alone creates no penalty.
+
+- ❌ **Conflict proves corruption.**
+  ✅ Conflict is a risk condition; concealment, biased action or bribery requires evidence.
+
+- ❌ **Disclosure always solves conflict.**
+  ✅ Material conflict may require recusal, reassignment or divestment.
+
+- ❌ **Any benefit below a monetary threshold is ethical.**
+  ✅ Thresholds do not defeat conflict, anti-circumvention or other prohibitions.
+
+- ❌ **Asset return equals public online disclosure.**
+  ✅ Regimes differ in access, confidentiality and purpose.
+
+- ❌ **Neutrality requires silent obedience.**
+  ✅ It requires candid non-partisan advice and lawful implementation.
+
+- ❌ **Confidentiality requires concealment of wrongdoing.**
+  ✅ Use lawful protected channels; avoid indiscriminate leakage.
+
+- ❌ **Ethics Committee recommendation is final House punishment.**
+  ✅ Inquiry/recommendation and House action are distinct procedural stages.
+
+- ❌ **2025 Q5(a) is the missing-code question.**
+  ✅ 2024 Q5(a) is the direct gap question; 2025 Q5(a) is devotion to duty; 2025 Q6(a) is workplace code.
+
+---
+
+## 19. PYQ synthesis
+
+### 2018 cluster
+
+The four relevant demands form one sequence:
+
+```text
+DISTINGUISH THE CODES
+        v
+DEFINE PUBLIC INTEREST
+        v
+CONTROL PRIVATE INTEREST
+        v
+LIMIT "NOT PROHIBITED" DISCRETION
+```
+
+An examiner expects precision plus application, not a list of virtues.
+
+### 2019 cluster
+
+The institutional-measures question requires:
+
+- anticipation;
+- competence; and
+- integrity-supporting process.
+
+Use an organisation-wide system rather than recommending only moral education or harsher punishment.
+
+### 2024–2025 cluster
+
+- ✅ **2024 Q5(a):** design a suitable ethics model while acknowledging existing conduct.
+- ✅ **2025 Q5(a):** show how devotion becomes responsible, non-blind public service.
+- ✅ **2025 Q6(a):** combine value-based culture with compliance-based mechanisms.
+
+---
+
+## 20. Examiner-grade answer frameworks
+
+### “Distinguish”
+
+| Step | Content |
+|---|---|
+| 1 | define each code |
+| 2 | compare purpose, content and enforcement |
+| 3 | give one civil-service example |
+| 4 | give one minister/legislator example |
+| 5 | state complementarity and self-execution caveat |
+
+### “Suggest a model”
+
+```text
+VALUES
+  -> DECISION PRINCIPLES
+  -> RISK-SPECIFIC GUIDANCE
+  -> OWNER AND ADVICE
+  -> TRAINING AND LEADERSHIP
+  -> DISCLOSURE / RECUSAL / RECORDS
+  -> MONITORING AND REPORTING
+  -> FAIR ENFORCEMENT UNDER SEPARATE VALID RULES
+  -> REVIEW
+```
+
+### “Critically examine”
+
+Use:
+
+1. benefit of codification;
+2. implementation limits;
+3. enforcement trade-off;
+4. loophole/vagueness tension;
+5. competence and culture;
+6. qualified reform.
+
+> **Advanced conclusion:** Ethics codes should enlarge judgment without enlarging arbitrary
+> punishment; conduct codes should discipline behaviour without shrinking public service into
+> box-ticking.
+
+---
+
+## 21. Advanced consolidated register notes
+
+### Institutional architecture
+
+- Codes operate inside advice, training, records, monitoring, enforcement, remedy and revision.
+- Treat the ethics/conduct distinction as controlling but not watertight.
+- Values may be enforceable only through competent incorporation and fair procedure.
+- Separate political, House, service and criminal accountability.
+
+### Design
+
+- Translate value → role meaning → risk → rule → procedure → owner → evidence → consequence → review.
+- Combine specific clauses with a purpose-sensitive anti-circumvention principle.
+- Do not punish serious misconduct by retroactively inventing the “spirit” of an ambiguous code.
+- Use role-sensitive disclosure and privacy minimisation.
+
+### High-risk domains
+
+- political activity and official resources;
+- public statements and confidential information;
+- gifts and hospitality;
+- relatives and beneficial ownership;
+- assets and property;
+- outside and post-employment;
+- private messaging and record avoidance;
+- retaliation against advice or reporting.
+
+### Implementation
+
+- named ethics owner;
+- confidential prospective advice;
+- scenario-based competence;
+- leadership example;
+- leading plus lagging indicators;
+- aggregate annual reporting;
+- periodic prospective revision.
+
+### Fair enforcement
+
+- applicable rule;
+- evidence;
+- notice and material;
+- impartial inquiry;
+- reasoned finding;
+- proportional sanction;
+- appeal and victim/institutional remedy.
+
+### Factual cautions
+
+- Comprehensive ARC-recommended civil-service Code of Ethics remains unimplemented as a distinct national framework.
+- Existing CCS/AIS conduct duties must not be denied.
+- Verify mutable thresholds and forms in current official text.
+- Direct gap question is 2024 Q5(a).
+- 2025 Q5(a) is devotion to duty; 2025 Q6(a) is the workplace-code question.
+- Topic 22 retains the full case-study method.
+
+---
+
+## 22. Source ledger
+
+### Local official material
+
+- `books\ethics4.pdf` — Second ARC, Fourth Report, *Ethics in Governance*.
+- `books\more_previous_papers\GENERAL-STUDIES-PAPER-IV.pdf` — 2018 GS-IV.
+- `books\more_previous_papers\QP-CSM19-GeneralStudies-IV.pdf` — 2019 GS-IV.
+- `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER IV-190922.pdf` — 2022 GS-IV.
+- `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-IV-180923.pdf` — 2023 GS-IV.
+- `books\mains\05 UPSC 2024 Paper-IV_Final 1.pdf` — 2024 GS-IV.
+- `books\mains\UPSC Mains 2025 GS Paper 4.pdf` — 2025 GS-IV.
+
+### Live official sources verified 29 August 2026
+
+1. Department of Personnel and Training, **Central Civil Services (Conduct) Rules, 1964
+   (Updated)**:
+   `https://dopt.gov.in/acts/central-civil-services-conduct-rules-1964-updated-0`
+
+2. Rajya Sabha, **Committee on Ethics rules**:
+   `https://cms.rajyasabha.nic.in/UploadedFiles/CommitteeSection/CommitteeRules/1626363812501.54_CommitteOnEthics.pdf`
+
+⚠️ Current hosting verifies the live official rule architecture. It does not prove that every ARC
+recommendation has been enacted or that every threshold in an older consolidated PDF remains
+unchanged.
