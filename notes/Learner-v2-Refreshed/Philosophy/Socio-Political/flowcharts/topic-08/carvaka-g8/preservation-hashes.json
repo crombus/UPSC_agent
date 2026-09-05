@@ -1,0 +1,50 @@
+{
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+  "reference_expected": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "reference_after": {
+    "Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989"
+  },
+  "preexisting_before": {
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g7\\topic-08_Complete-Learning-Session_2026-09-03.md": "1547dd3ecee2d9e6c20faffcc88da757c3ed31fa1250b3c53e6b24f3387c10ba",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md": "d9707a807c4ad80525ba0f5c5ff5176d04cfafcf81038dabce7cca52068adb3e",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Complete-Learning-Session_2026-08-20.md": "63e1574689f9f4f1381db4aac350790fe936c6ae62bb897151c9879b18be82e1",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Solved-Practice-Workbook_2026-08-20.md": "a8749e0bf47ca9994e41efd57777f6dc3242c16497e6b8eea4f4dc88dcc78258"
+  },
+  "preexisting_after": {
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+    "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g7\\topic-08_Complete-Learning-Session_2026-09-03.md": "1547dd3ecee2d9e6c20faffcc88da757c3ed31fa1250b3c53e6b24f3387c10ba",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md": "d9707a807c4ad80525ba0f5c5ff5176d04cfafcf81038dabce7cca52068adb3e",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Complete-Learning-Session_2026-08-20.md": "63e1574689f9f4f1381db4aac350790fe936c6ae62bb897151c9879b18be82e1",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Solved-Practice-Workbook_2026-08-20.md": "a8749e0bf47ca9994e41efd57777f6dc3242c16497e6b8eea4f4dc88dcc78258"
+  },
+  "all_preexisting_files_unchanged": true,
+  "mismatches": []
+}

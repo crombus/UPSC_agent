@@ -1,0 +1,942 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+  "subject": "Philosophy",
+  "title": "FORMS OF GOVERNMENT",
+  "short_route": "THE CENTRAL QUESTION OF → PLATO: THE DEGENERATION SEQUENCE → ARISTOTLE'S SIX-FOLD MATRIX AND → MONARCHY: TWO TYPES, FOUR → THEOCRACY: DIVINE SOVEREIGNTY, THE → DEMOCRACY: THE MODEL TAXONOMY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g3\\topic-04_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-socio-political-philosophy-04-ascii-g3-2026-08-30.json",
+  "ascii_spec_sha256": "e345c560163322af2dd6ec3165cab0383fd25467ba097da5f34ca87af5a0bcaa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL QUESTION OF REGIME CLASSIFICATION AND ITS FOUR AXES",
+      "structural_type": "root-question-and-classification-axes",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MONARCHY, THEOCRACY, DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "WHO RULES, BY WHAT TITLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "FOR WHOSE GOOD, UNDER WHAT LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "HEREDITY, REVELATION, CONSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "DESCRIPTION BEFORE EVALUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO FORM WINS ON EVERY AXIS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Who rules: one, few or many",
+        "For whose good: common or sectional",
+        "By what title: heredity, revelation, consent",
+        "Under what limits: law, rights, accountability",
+        "Description first, then the normative verdict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "FOUR QUESTIONS INSIDE ONE LABEL",
+          "role": "evidence",
+          "items": [
+            "Who rules — one, few or many — is only the first of the four questions a regime label compresses.",
+            "For whose good rule is exercised separates the right form of any number from its deviation.",
+            "By what title and under what limits decide whether the arrangement can claim obedience at all."
+          ]
+        },
+        {
+          "heading": "THREE FORMS, THREE TITLES TO RULE",
+          "role": "mechanism",
+          "items": [
+            "Monarchy claims heredity, conquest and tradition, and sometimes the divine right of kings.",
+            "Theocracy claims revelation and sacred law, read through clerical interpreters.",
+            "Democracy claims consent, political equality, participation and representation."
+          ]
+        },
+        {
+          "heading": "DESCRIPTION BEFORE EVALUATION",
+          "role": "outcome",
+          "items": [
+            "A descriptive classification records what a regime is; a normative verdict judges whether it ought to bind anyone.",
+            "Each form carries its own standing danger: arbitrariness, crushed conscience, or manipulated majorities.",
+            "Separate the axes first, fix the register second, and adjudicate last on a criterion already named."
+          ]
+        }
+      ],
+      "mechanism_strip": "Every regime label compresses four separate questions into one word, so a controlled answer unpacks who rules, by what title, for whose good and under what limits before it names any form at all.",
+      "answer_line": "Monarchy, theocracy and democracy are not three neutral names for the same activity: each answers who rules and by what title, and the marks are earned by also asking for whose good rule is exercised and under what limits of law, rights and accountability it operates.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PLATO: THE DEGENERATION SEQUENCE AND THE THREE CHARGES AGAINST DEMOCRACY",
+      "structural_type": "degeneration-sequence-with-critique",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RULING IS A CRAFT OF KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "SHIP OF STATE NEEDS A NAVIGATOR",
+          "role": "mechanism"
+        },
+        {
+          "text": "TIMOCRACY, OLIGARCHY, DEMOCRACY, TYRANNY",
+          "role": "evidence"
+        },
+        {
+          "text": "LIBERTY IS NOT QUALIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIAGNOSIS SURVIVES, REMEDY FAILS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT A DEFENCE OF HEREDITARY RULE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Ruling is a craft that requires knowledge",
+        "Timocracy: honour displaces wisdom",
+        "Oligarchy: wealth divides rich from poor",
+        "Democracy: freedom becomes licence",
+        "Tyranny: the demagogue completes the fall"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE ROOT CLAIM AND ITS IMAGE",
+          "role": "evidence",
+          "items": [
+            "Ruling is a craft that requires knowledge of justice and the good, not a status that numbers can confer.",
+            "The ship-of-state analogy holds that navigation is not handed to the unskilled merely because they are many.",
+            "Plato therefore rejects the assumption that all opinions are politically equal in competence."
+          ]
+        },
+        {
+          "heading": "THE DEGENERATION SEQUENCE",
+          "role": "mechanism",
+          "items": [
+            "Timocracy prizes honour until the desire for wealth displaces it, and oligarchy divides rich from poor.",
+            "Democracy prizes freedom and equality of desires until restraint itself begins to look oppressive.",
+            "Out of that licence emerges the demagogue who flatters the many, attacks elites and seizes absolute power."
+          ]
+        },
+        {
+          "heading": "THREE CHARGES AND THE VERDICT",
+          "role": "outcome",
+          "items": [
+            "The charges are that ruling is a craft, that liberty is mistaken for qualification, and that licence breeds tyranny.",
+            "This is not a defence of hereditary monarchy and not a simple hatred of freedom.",
+            "Asymmetric verdict: the diagnosis of demagoguery survives while the unaccountable guardian remedy does not."
+          ]
+        }
+      ],
+      "mechanism_strip": "When the ruling principle of soul and city falls from reason to appetite, each constitution's dominant value corrupts into the value of the next, so political decline follows a determinate order rather than mere accident.",
+      "answer_line": "Plato's target is not participation as such but rule by unexamined opinion and unrestricted appetite: the ship of state needs a trained navigator, and a city that treats every opinion as equally qualified is already preparing its own demagogue.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARISTOTLE'S SIX-FOLD MATRIX AND THE POLITY AS THE PRACTICABLE MEAN",
+      "structural_type": "six-fold-classification-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NUMBER TIMES END SERVED",
+          "role": "primary"
+        },
+        {
+          "text": "PURPOSE, NOT SIZE, DIVIDES THE FORMS",
+          "role": "mechanism"
+        },
+        {
+          "text": "MONARCHY, ARISTOCRACY, POLITY",
+          "role": "evidence"
+        },
+        {
+          "text": "TYRANNY, OLIGARCHY, DEVIANT DEMOCRACY",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITY IS THE MIDDLE COURSE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITY IS NOT MODERN DEMOCRACY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Cross number of rulers with end served",
+        "Right forms: monarchy, aristocracy, polity",
+        "Deviations: tyranny, oligarchy, democracy",
+        "Polity mixes under law with a middle class",
+        "Verdict: the practicable mean, not modern democracy"
+      ],
+      "matrix": [
+        [
+          "NUMBER RULING",
+          "RIGHT FORM (common good)",
+          "DEVIATION (private gain)",
+          "WHAT DIVIDES THEM"
+        ],
+        [
+          "ONE",
+          "monarchy",
+          "tyranny",
+          "rule for the city or for the ruler"
+        ],
+        [
+          "FEW",
+          "aristocracy",
+          "oligarchy",
+          "excellence or mere wealth as the title"
+        ],
+        [
+          "MANY",
+          "polity",
+          "democracy in the classical sense",
+          "law-bound common good or the interest of the poor many"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "TWO VARIABLES, SIX FORMS",
+          "role": "evidence",
+          "items": [
+            "Number of rulers — one, few, many — is crossed with rule for the common or the private advantage.",
+            "Right forms are monarchy, aristocracy and polity; deviations are tyranny, oligarchy and classical democracy.",
+            "The right and corrupt version of each number differ in purpose rather than in size."
+          ]
+        },
+        {
+          "heading": "POLITY AS THE PRACTICABLE MEAN",
+          "role": "mechanism",
+          "items": [
+            "Polity is the mixed constitution: rule of the many under law, moderated by property, virtue and civic participation.",
+            "A broad middle class makes lawful moderation self-sustaining where extremes of wealth and poverty breed faction.",
+            "Against statism it refuses the all-wise ruler; against individualism it refuses unrestricted self-assertion."
+          ]
+        },
+        {
+          "heading": "LIMIT AND COMPARATIVE USE",
+          "role": "outcome",
+          "items": [
+            "Common advantage is not self-specifying and requires an independent theory of the human good.",
+            "The stability of polity is a sociological judgement, not a demonstration that polity is just.",
+            "Plato asks who ought ideally to rule; Aristotle asks which constitution sustains good political life in practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "Because the same number of rulers may serve either the common advantage or a sectional one, each numerical class splits into a right form and its deviation, so purpose rather than size does the classificatory work.",
+      "answer_line": "Classification needs two variables rather than one: number tells you who decides, orientation tells you for whom, and the right and corrupt version of each number differ in purpose rather than in size.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MONARCHY: TWO TYPES, FOUR OBJECTIONS AND THE ABOVE-POLITICS TEST",
+      "structural_type": "monarchy-type-comparison-and-freedom-verdict",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ABSOLUTE AGAINST CONSTITUTIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "HEREDITY SETTLES RULE WITHOUT MERIT",
+          "role": "mechanism"
+        },
+        {
+          "text": "EQUALITY, MERIT, ACCOUNTABILITY, FREEDOM",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVINE RIGHT BRIDGES TO THEOCRACY",
+          "role": "comparison"
+        },
+        {
+          "text": "REIGNS BUT DOES NOT GOVERN",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOVE PARTY, NEVER ABOVE THE LAW",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Fix the type: absolute or constitutional",
+        "Heredity settles rule without any test of merit",
+        "Four objections: equality, merit, accountability, freedom",
+        "Divine right bridges monarchy to theocracy",
+        "Freedom only where the crown is constitutionalised"
+      ],
+      "matrix": [
+        [
+          "AXIS",
+          "ABSOLUTE MONARCHY",
+          "CONSTITUTIONAL MONARCHY",
+          "STANDING DANGER"
+        ],
+        [
+          "POWERS",
+          "executive, legislative and sometimes judicial in one person",
+          "the crown reigns while the cabinet governs",
+          "concentration without a reviewable limit"
+        ],
+        [
+          "TITLE",
+          "heredity, conquest, tradition and divine right",
+          "historic continuity bounded by convention and law",
+          "birth substituted for qualification"
+        ],
+        [
+          "ACCOUNTABILITY",
+          "weak and institutionally unsecured",
+          "shifted to cabinet and parliament",
+          "succession failure and arbitrary rule"
+        ],
+        [
+          "FREEDOM",
+          "subjects are placed under personal rule",
+          "civil liberties coexist with a symbolic crown",
+          "inherited hierarchy and unequal civic status"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "TWO KINDS OF MONARCHY",
+          "role": "evidence",
+          "items": [
+            "Absolute monarchy concentrates executive, legislative and sometimes judicial power in one hereditary ruler.",
+            "Constitutional monarchy keeps the crown as a ceremonial office while cabinet and parliament actually govern.",
+            "Divine right sacralises kingship and makes the monarch answerable primarily to God rather than to the people."
+          ]
+        },
+        {
+          "heading": "FOUR OBJECTIONS TO HEREDITARY RULE",
+          "role": "mechanism",
+          "items": [
+            "Equality: public authority should be open to all on equal terms rather than settled by birth.",
+            "Merit and accountability: birth guarantees no wisdom, and concentrated power invites arbitrariness.",
+            "Freedom: liberty in the modern sense needs law, rights and equal citizenship, none of which heredity supplies."
+          ]
+        },
+        {
+          "heading": "THE ABOVE-POLITICS TEST",
+          "role": "outcome",
+          "items": [
+            "Above party conflict is systematic, because the role is fixed by convention while elected institutions govern.",
+            "Above constitutional accountability is not systematic, because the order then slides toward arbitrary rule.",
+            "Verdict: monarchy coexists with freedom only where it has been constitutionalised and politically limited."
+          ]
+        }
+      ],
+      "mechanism_strip": "Hereditary succession settles who shall rule without any test of competence or consent, so monarchy purchases continuity and decisiveness at the direct cost of merit and answerability.",
+      "answer_line": "Monarchy leaves room for individual freedom only where law, rights and representative institutions already restrain the crown: the institution does not itself ground freedom, and hereditary title guarantees neither wisdom nor virtue nor answerability.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THEOCRACY: DIVINE SOVEREIGNTY, THE INTERPRETATION MONOPOLY AND VALIDITY",
+      "structural_type": "problem-response-validity-ledger",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SOVEREIGNTY OF GOD, NOT THE PEOPLE",
+          "role": "primary"
+        },
+        {
+          "text": "SACRED LAW AND CLERICAL MEDIATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "WHO SPEAKS FOR GOD",
+          "role": "evidence"
+        },
+        {
+          "text": "SECULARISM PROTECTS EQUAL CITIZENSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILS CONSENT AND REVISABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT EVERY RELIGIOUS POLITICS IS THEOCRACY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Sovereignty is claimed for God, not the people",
+        "Sacred law and clerical mediation follow",
+        "Who speaks for God becomes the decisive problem",
+        "Interpretation hardens into a monopoly",
+        "Verdict by consent, equal citizenship and revisability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "WHAT MAKES A REGIME THEOCRATIC",
+          "role": "evidence",
+          "items": [
+            "Sovereignty is claimed for God rather than the people, and sacred law guides or determines civil law.",
+            "Clerical mediation gives priests, jurists and religious elites the authority to interpret divine command.",
+            "Pluralism is limited because dissent appears as theological deviance rather than legitimate disagreement."
+          ]
+        },
+        {
+          "heading": "THE CASE FOR AND THE DECISIVE PROBLEM",
+          "role": "mechanism",
+          "items": [
+            "The case for theocracy is moral unity, restraint on self-interested politics and a higher law above rulers.",
+            "The decisive problem is who speaks for God: once interpretation is human, certainty can mask power struggles.",
+            "Interpretation then becomes a monopoly immunised from ordinary criticism."
+          ]
+        },
+        {
+          "heading": "SECULARISM AND THE VALIDITY VERDICT",
+          "role": "outcome",
+          "items": [
+            "Secularism asks that the state not rest on the supremacy of one religious truth for all citizens.",
+            "Articles 25 to 28 guarantee freedom of conscience and religion subject to public order, morality and health.",
+            "Verdict: internally valid for believers, but as a general form it fails consent, equal citizenship and revisability."
+          ]
+        }
+      ],
+      "mechanism_strip": "Because revelation must always be interpreted by human beings, theocracy transfers political power to interpreters whose authority is immunised from ordinary criticism, and theological certainty can then mask ordinary struggles for power.",
+      "answer_line": "The decisive line runs between religiously informed public reasoning, which a constitutional democracy can accommodate, and theocratic sovereignty, which makes political authority derive from and answer to religious authority; an answer that condemns theocracy without drawing this line has not made the argument.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DEMOCRACY: THE MODEL TAXONOMY AND THE PROTECTION OF MINORITIES",
+      "structural_type": "democracy-model-taxonomy-and-minority-protection",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RULE OF THE PEOPLE, NOT MERE VOTING",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT, REPRESENTATIVE, PROCEDURAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "SUBSTANTIVE, PARTICIPATORY, DELIBERATIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "LIBERAL DEMOCRACY LIMITS THE MAJORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUAL AUTHORISATION AND PEACEFUL CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTIONS DO NOT PROVE INCLUSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Name the model the stem is testing",
+        "Direct and representative, procedural and substantive",
+        "Liberal democracy limits what a majority may do",
+        "Participation and deliberation deepen the model",
+        "Minority protection judged on norm and delivery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE MODEL TAXONOMY",
+          "role": "evidence",
+          "items": [
+            "Direct democracy has citizens decide themselves; representative democracy has them elect rulers and lawmakers.",
+            "Procedural democracy asks whether rulers are chosen fairly; substantive democracy asks about real social conditions.",
+            "Liberal democracy adds constitutional limits, rights, rule of law and protection for minorities."
+          ]
+        },
+        {
+          "heading": "DEEPENING THE MODEL",
+          "role": "mechanism",
+          "items": [
+            "Participatory democracy is defended developmentally, because participation educates citizens and resists alienation.",
+            "Deliberative democracy grounds legitimacy in public reasoning under freedom, reciprocity and absence of domination.",
+            "The epistemic defence claims that democratic procedures allow error-detection, revision and dispersed knowledge."
+          ]
+        },
+        {
+          "heading": "MINORITIES: ACHIEVEMENT AND LIMIT",
+          "role": "outcome",
+          "items": [
+            "Achievements: legal guarantees, representation, judicial review, protected dissent and constitutional accommodation.",
+            "Limits: social prejudice outlasts formal equality and electoral incentives reward majoritarian rhetoric.",
+            "Ambedkar warns that political equality cannot long survive amid deep social and economic inequality."
+          ]
+        }
+      ],
+      "mechanism_strip": "Elections authorise rulers, but authorisation is worth having only where rights, independent adjudication and a real opposition keep the losing side able to become the winning side, which is why constitutional limits are internal to democracy rather than external constraints upon it.",
+      "answer_line": "Democracy is not simply periodic election: its distinctive claim is that rule is equally authorised, publicly justified and peacefully replaceable, so a regime that keeps elections while dismantling those conditions retains the form and loses the substance.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AUTHORITY AND LEGITIMACY: THE WEBERIAN GRID LAID ACROSS THE CLASSICAL ONE",
+      "structural_type": "authority-typology-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POWER AGAINST AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "TRADITIONAL, CHARISMATIC, LEGAL-RATIONAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "ROUTINISATION OF CHARISMA",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPETITIVE STRUGGLE FOR THE VOTE",
+          "role": "comparison"
+        },
+        {
+          "text": "IRON LAW OF OLIGARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGITIMATE IS NOT JUSTIFIED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Separate power from authority",
+        "Traditional, charismatic and legal-rational grounds",
+        "Charisma must routinise or die with its bearer",
+        "Schumpeter reduces democracy to competitive selection",
+        "Michels finds oligarchy inside democratic bodies"
+      ],
+      "matrix": [
+        [
+          "TYPE OF AUTHORITY",
+          "GROUND OF BELIEF",
+          "ADMINISTRATIVE FORM",
+          "SUCCESSION PROBLEM"
+        ],
+        [
+          "TRADITIONAL",
+          "sanctity of immemorial custom and of those who rule under it",
+          "personal retainers and patrimonial household staff",
+          "solved by inheritance or by custom"
+        ],
+        [
+          "CHARISMATIC",
+          "devotion to the exceptional character of one leader",
+          "personally chosen disciples with no career structure",
+          "acute, because the type is inherently unstable"
+        ],
+        [
+          "LEGAL-RATIONAL",
+          "belief in the legality of enacted rules",
+          "bureaucracy with offices, jurisdictions, files and careers",
+          "solved impersonally by rule"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POWER, AUTHORITY AND THREE PURE TYPES",
+          "role": "evidence",
+          "items": [
+            "Power secures compliance despite resistance; authority is power regarded as rightful by those subject to it.",
+            "Traditional authority rests on immemorial custom, charismatic on devotion to an exceptional leader.",
+            "Legal-rational authority rests on enacted rules and is administered through bureaucracy."
+          ]
+        },
+        {
+          "heading": "WHY THE TYPOLOGY CUTS ACROSS THE GRID",
+          "role": "mechanism",
+          "items": [
+            "Monarchy is normally traditional, theocracy joins traditional to charismatic, democracy is normally legal-rational.",
+            "Routinisation converts charisma into traditional or legal-rational form, or the authority dies with its bearer.",
+            "A democracy can retain legal forms while being captured by a plebiscitary charismatic leader."
+          ]
+        },
+        {
+          "heading": "TWO DEFLATIONARY CHALLENGES",
+          "role": "outcome",
+          "items": [
+            "Schumpeter defines democracy as the competitive struggle for the people's vote, so the people produce a government.",
+            "Michels argues in Political Parties of 1911 that scale and control of information entrench a permanent leadership.",
+            "Caution: Weberian legitimacy is belief, never a normative certificate of justification."
+          ]
+        }
+      ],
+      "mechanism_strip": "No regime can rest on coercion alone because surveillance costs rise without limit, so stability requires belief in rightfulness, and beliefs of that kind take only a few forms, each generating its own administrative apparatus and its own crisis.",
+      "answer_line": "Classification by number of rulers tells us who decides, while classification by type of legitimacy tells us why they are obeyed, and a complete assessment of monarchy, theocracy or democracy requires both grids laid over each other.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POPULISM, ILLIBERAL DEMOCRACY AND THE MANUFACTURE OF CONSENT",
+      "structural_type": "causal-process-of-democratic-erosion",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PURE PEOPLE AGAINST CORRUPT ELITE",
+          "role": "primary"
+        },
+        {
+          "text": "EXCLUSIVE MORAL REPRESENTATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "THIN-CENTRED IDEOLOGY, HOST IDEOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "LOGIC OF ARTICULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FORM RETAINED, SUBSTANCE ERODED",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULATOR'S DILEMMA, NOT CENSORSHIP",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "State the definitional contest before judging",
+        "Anti-elitism is compatible with democracy",
+        "Anti-pluralism claims exclusive moral representation",
+        "Checking institutions are recast and weakened",
+        "Form retained while substance is hollowed out"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREE ACCOUNTS OF POPULISM",
+          "role": "evidence",
+          "items": [
+            "Mudde in 2004 treats populism as a thin-centred ideology opposing a pure people to a corrupt elite.",
+            "Muller in 2016 locates the danger in the claim to exclusive moral representation, which is anti-pluralism.",
+            "Laclau in 2005 treats populism as a logic of articulation binding unsatisfied demands into a collective subject."
+          ]
+        },
+        {
+          "heading": "HOW THE SLIDE ACTUALLY WORKS",
+          "role": "mechanism",
+          "items": [
+            "A representation deficit lets a leader claim to embody the real people, so disagreement becomes betrayal.",
+            "Courts, second chambers, commissions, the press and federal units are recast as elite obstructions and weakened.",
+            "Elections continue while the constitutional conditions of the next contest are hollowed out."
+          ]
+        },
+        {
+          "heading": "PROPAGANDA AND THE REGULATOR'S DILEMMA",
+          "role": "outcome",
+          "items": [
+            "Consent formed without access, rival argument and freedom from manipulation is manufactured rather than given.",
+            "Content-based remedies hand the state power over public truth, the very power a propagandising state abuses.",
+            "Defensible remedies are structural: plural ownership, transparent finance, independent adjudication, civic education."
+          ]
+        }
+      ],
+      "mechanism_strip": "A real representation deficit lets a leader articulate excluded demands and claim to embody the people, and because the people is then defined morally rather than procedurally, disagreement becomes betrayal and the institutions that check majority will are weakened while elections continue.",
+      "answer_line": "Anti-elitism is ordinary democratic politics and is entirely compatible with democracy, whereas anti-pluralism, the claim that only one side represents the real people, is not, and that is the line on which any judgement of democratic decay should turn.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WHERE POWER SITS: UNITARY AGAINST FEDERAL DESIGN AND SUBSIDIARITY",
+      "structural_type": "territorial-cross-section-of-public-power",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WHERE POWER SITS TERRITORIALLY",
+          "role": "primary"
+        },
+        {
+          "text": "DELEGATED AGAINST DIVIDED POWERS",
+          "role": "mechanism"
+        },
+        {
+          "text": "BICAMERALISM AND A JUDICIAL UMPIRE",
+          "role": "evidence"
+        },
+        {
+          "text": "COMING-TOGETHER, HOLDING-TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSIDIARITY AND VILLAGE SELF-RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL, NOT PARLIAMENTARY, SUPREMACY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Add the territorial axis as labelled scaffolding",
+        "Unitary delegation against federal division",
+        "Bicameralism and a judicial umpire stabilise it",
+        "Coming-together and holding-together varieties",
+        "Subsidiarity carries power down to self-government"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE TERRITORIAL AXIS",
+          "role": "evidence",
+          "items": [
+            "A unitary system delegates powers to sub-units and may withdraw them at will.",
+            "A federal system divides powers constitutionally, giving each level a guaranteed sphere of competence.",
+            "Federations come together from independent states or hold together a single polity that devolves to manage diversity."
+          ]
+        },
+        {
+          "heading": "WHAT MAKES DIVISION WORKABLE",
+          "role": "mechanism",
+          "items": [
+            "Bicameralism gives the units a chamber of their own inside the central legislature.",
+            "A judicial umpire adjudicates the centre-unit boundary, and fiscal machinery makes autonomy real.",
+            "A federation holds one indissoluble sovereignty, whereas a confederation leaves members sovereign and free to exit."
+          ]
+        },
+        {
+          "heading": "SUBSIDIARITY AND SELF-RULE",
+          "role": "outcome",
+          "items": [
+            "Subsidiarity requires that decisions be taken at the lowest level capable of taking them well.",
+            "Article 40 directs the State to organise village panchayats as units of self-government, and the 73rd and 74th Constitutional Amendment Acts, 1992 added Parts IX and IX-A.",
+            "Gandhi's ideal of village self-rule places self-reliant participatory village republics at the base of the pyramid."
+          ]
+        }
+      ],
+      "mechanism_strip": "Federalism buys autonomy, diversity-management and a check on central overreach at the price of coordination costs and possible deadlock, while unitary design buys uniformity and decisiveness at the price of remoteness from those governed.",
+      "answer_line": "A complete modern account of forms of government runs two axes rather than one: who rules and by what title, and where power sits territorially and how far down it is pushed under the principle that decisions belong at the lowest capable level.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "THE ANSWER SPINE: SHARED AXES, DIRECTIVE DECODER AND THE GRADED VERDICT",
+      "structural_type": "integrated-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DEFINE, LOCATE, RIVALS, OBJECT, VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATION OF POWERS UNDER SUPREME LAW",
+          "role": "mechanism"
+        },
+        {
+          "text": "SHARED AXES RUN IN PARALLEL",
+          "role": "evidence"
+        },
+        {
+          "text": "CLASSICAL GRID PLUS LEGITIMACY GRID",
+          "role": "comparison"
+        },
+        {
+          "text": "ERROR-CORRECTION AND PEACEFUL TRANSFER",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER THREE DISCONNECTED MINI-ESSAYS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Define the form by its source of authority",
+        "Locate it on the classical and legitimacy grids",
+        "Stage one real debate, not three mini-essays",
+        "Run every form down the same shared axes",
+        "Close on error-correction and peaceful transfer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE CONSTITUTIONAL MIXTURE",
+          "role": "evidence",
+          "items": [
+            "Legislature, executive and judiciary check one another under a constitution that both authorises and limits them.",
+            "The pillars are separation of powers, rule of law, constitutionalism and entrenched rights.",
+            "No holder of public power can be judge in its own cause, which is what makes error-correction possible."
+          ]
+        },
+        {
+          "heading": "THE SHARED AXES OF COMPARISON",
+          "role": "mechanism",
+          "items": [
+            "Source of authority, type of legitimacy claimed, and mode of succession or selection.",
+            "Accountability, relation to law, treatment of dissent and equality of citizenship.",
+            "Capacity to correct error, the axis that most often decides and is most often omitted."
+          ]
+        },
+        {
+          "heading": "THE GRADED VERDICT",
+          "role": "outcome",
+          "items": [
+            "Concede decisiveness and continuity to monarchy, and moral limitation of rulers to theocracy.",
+            "Award equal standing, public justification and peaceful replacement to constitutional democracy.",
+            "The verdict stays conditional: a democracy that loses fair contest and independent adjudication keeps only the form."
+          ]
+        }
+      ],
+      "mechanism_strip": "Because each organ authorises and limits the others under a supreme law, no holder of public power can be judge in its own cause, and the same design supplies the mechanism by which the regime corrects its own mistakes.",
+      "answer_line": "Democracy's superiority is not that it guarantees wise decisions; it lies in equal standing, public justification and the institutionalised correction of error, and that is the axis on which the comparison of monarchy, theocracy and democracy finally turns.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE CLASSIFICATION PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO RULES, FOR WHOM, UNDER WHAT LIMITS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — PLATO",
+          "role": "evidence"
+        },
+        {
+          "text": "THE DEGENERATION OF CONSTITUTIONS AND THE CRITIQUE OF DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — ARISTOTLE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SIX-FOLD MATRIX, ARISTOCRACY/OLIGARCHY AND THE POLITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — MONARCHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Classification Problem: Who Rules, For Whom, Under What Limits",
+            "ADVANCED SESSION 2 — Plato: The Degeneration of Constitutions and the Critique of Democracy",
+            "ADVANCED SESSION 3 — Aristotle: The Six-Fold Matrix, Aristocracy/Oligarchy and the Polity",
+            "ADVANCED SESSION 4 — Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+            "ADVANCED SESSION 6 — Democracy: Models, Institutional Forms and Minority Protection",
+            "ADVANCED SESSION 7 — Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+            "ADVANCED SESSION 8 — Populism, Illiberal Democracy and Propaganda"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+            "ADVANCED SESSION 10 — Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite: Monarchy, theocracy and democracy as named syllabus terms"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "source_generation": 3
+}

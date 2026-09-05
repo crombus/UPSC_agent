@@ -1,0 +1,37 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-02",
+  "topic_title": "Sovereignty",
+  "official_syllabus_verbatim": "Sovereignty : Austin, Bodin, Laski, Kautilya.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 11,
+  "verified_pyqs": [
+    "'There is no permanent friend or permanent enemy.' Discuss this statement in the light of Kautilya's view on Sovereignty.",
+    "What insights does the Arthasastra offer with regard to the concept of sovereignty? Does it have any relevance in the modern times? Critically discuss.",
+    "Elucidate why the absolute nature of sovereignty was rejected by Laski.",
+    "What arguments does Bodin present to contend that sovereignty must be absolute, perpetual and undivided? Is Bodin's conception of sovereignty compatible with the social and political ideals of equality, justice and liberty? Critically discuss.",
+    "Is Austin's theory of sovereignty compatible with democracy? Discuss.",
+    "Discuss Kautilya's contribution regarding the concept of sovereignty. Is it applicable in a democratic form of government? Explain.",
+    "Explain the importance of Bodin's theory of sovereignty.",
+    "State and explain the relevance of the doctrine of sovereignty in times of globalization.",
+    "Discuss how far does Austin's concept of sovereignty go along with Kautilya's concept of sovereignty.",
+    "Discuss Kautilya's concept of sovereignty in the light of 'Danda-neety'.",
+    "Critically evaluate Laski's view on sovereignty as a satisfactory position in political theory."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g5\\topic-02_Complete-Learning-Session_2026-09-03.md": "1df7acf4b9d7d8f05d059b3e4a65ceae9ff569c7b04d30dc801090e06a345755",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Sovereignty.md": "d1382214675712bc2bc176772b220a5aced47464dc8e4346af124f15bedbd597",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Sovereignty\\Sovereignty_Layered-Complete-Learning-Session_2026-08-19.md": "b0269d8bf0224a345f767e51467521f69f63b87e4b42823baf5934e94ab24fa3",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Sovereignty\\Sovereignty_Layered-Solved-Practice-Workbook_2026-08-19.md": "12d70db2283365065fda7e4cef67ce9239e5c9ba4a66e07c9ff208230286d404"
+  }
+}

@@ -1,0 +1,1211 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "political-theory-03",
+  "subject": "Political Theory",
+  "title": "LIBERALISM AND NEOLIBERALISM",
+  "short_route": "THE LIBERAL FAMILY AND → HISTORICAL SPINE AND ESSENTIAL → THINKERS, ILLUSTRATIONS AND THE → OWNERSHIP BOUNDARIES AND UPSC → CLASSICAL, NEW, WELFARE-STATE AND → HAYEK AND NOZICK: DIFFERENT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-03\\g5\\topic-03_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-03-ascii-2026-08-30-g5.json",
+  "ascii_spec_sha256": "1ceb6613042e639d242273eec0725fc4b87abda143039bfe799b283a97051356",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE LIBERAL FAMILY AND ITS CORE VOCABULARY",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE LIBERAL FAMILY AND ITS CORE VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] UPSC OFTEN REWARDS ANSWERS THAT KEEP TOGETHER LIBERALISM'S",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] LIBERALISM IS THE STARTING POINT FOR UNDERSTANDING RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GAUBA SHOWS THAT LIBERALISM HAS AT LEAST TWO",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSICAL LAISSEZ-FAIRE AND WELFARE/POSITIVE LIBERALISM (GAUBA, PDF PP.41-42).",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE CHAPTER ALSO EXPLAINS WHY NEOLIBERALISM CANNOT SIMPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "(GAUBA, PDF PP.42-43).",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Liberal Family and Its Core Vocabulary",
+        "[1] UPSC often rewards answers that keep together liberalism's durable constitutional core and its debated",
+        "[2] Liberalism is the starting point for understanding rights, constitutionalism, limited government, consent",
+        "and the rule of law in modern politics (Gauba, PDF pp.40-41, 45)."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Liberal Family and Its Core Vocabulary",
+            "[1] UPSC often rewards answers that keep together liberalism's durable constitutional core and its debated economic program.",
+            "[2] Liberalism is the starting point for understanding rights, constitutionalism, limited government, consent",
+            "and the rule of law in modern politics (Gauba, PDF pp.40-41, 45)."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Gauba shows that liberalism has at least two major internal turns",
+            "before neoliberal revival: classical laissez-faire and welfare/positive liberalism (Gauba, PDF pp.41-42).",
+            "[4] The chapter also explains why neoliberalism cannot simply be equated with all liberalism",
+            "it is a contemporary restoration of the classical laissez-faire impulse",
+            "(Gauba, PDF pp.42-43)."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → The Liberal Family and Its Core Vocabulary is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Liberal Family and Its Core Vocabulary is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HISTORICAL SPINE AND ESSENTIAL DISTINCTIONS",
+      "structural_type": "doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "HISTORICAL SPINE AND ESSENTIAL DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] LIBERALISM EMERGED HISTORICALLY IN THE WEST TO ATTACK",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] ITS CORE TENETS INCLUDE RATIONAL INDIVIDUALITY, NATURAL RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] IN ITS EARLY CLASSICAL PHASE, LOCKE, SMITH AND",
+          "role": "primary"
+        },
+        {
+          "text": "[4] MILL AND THEN GREEN, HOBHOUSE, LASKI AND TAWNEY",
+          "role": "outcome"
+        },
+        {
+          "text": "[5] GAUBA THEN IDENTIFIES NEOLIBERALISM AS A TWENTIETH-CENTURY EFFORT",
+          "role": "comparison"
+        },
+        {
+          "text": "HAYEK, FRIEDMAN AND NOZICK, TO ROLL BACK WELFARE-STATE EXPANSION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Historical Spine and Essential Distinctions",
+        "[1] Liberalism emerged historically in the West to attack feudal privilege and",
+        "create space for the entrepreneurial class against authoritarian rule (Gauba, PDF p.40).",
+        "[2] Its core tenets include rational individuality, natural rights, consent, civil society and state as"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Historical Spine and Essential Distinctions",
+            "[1] Liberalism emerged historically in the West to attack feudal privilege and",
+            "create space for the entrepreneurial class against authoritarian rule (Gauba, PDF p.40).",
+            "[2] Its core tenets include rational individuality, natural rights, consent, civil society and state as"
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "artificial institutions, primacy of fair procedure, civil liberties, contract and group bargaining (Gauba, PDF pp.40-41).",
+            "[3] In its early classical phase, Locke, Smith and Bentham defend laissez-faire and the negative role of the state",
+            "the state is treated as a necessary evil and the individual as the end (Gauba, PDF p.41).",
+            "[4] Mill and then Green, Hobhouse, Laski and Tawney move liberalism toward welfare",
+            "and positive state action to secure a dignified life (Gauba, PDF p.41)."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[5] Gauba then identifies neoliberalism as a twentieth-century effort, associated with",
+            "Hayek, Friedman and Nozick, to roll back welfare-state expansion and restore market-led liberty (Gauba, PDF pp.42-43).",
+            "SYNTHESIS → Historical Spine and Essential Distinctions is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Historical Spine and Essential Distinctions is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THINKERS, ILLUSTRATIONS AND THE COMPARISON MATRIX",
+      "structural_type": "argument-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THINKERS, ILLUSTRATIONS AND THE COMPARISON MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] A CLASSICAL LIBERAL STATE PROTECTS LIFE, PROPERTY AND",
+          "role": "institution"
+        },
+        {
+          "text": "[2] A WELFARE LIBERAL STATE TAXES AND REGULATES IN",
+          "role": "institution"
+        },
+        {
+          "text": "(GAUBA, PDF P.41).",
+          "role": "primary"
+        },
+        {
+          "text": "[3] A NEOLIBERAL RESPONSE SAYS FORCED TRANSFER OF RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] GAUBA'S OWN CRITICISM NOTES THAT REPRESENTATIVE INSTITUTIONS MAY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] A COMPACT EXAM CONTRAST IS THIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Thinkers, Illustrations and the Comparison Matrix",
+        "[1] A classical liberal state protects life, property and contract and avoids broad interference in",
+        "[2] A welfare liberal state taxes and regulates in order to provide",
+        "education, health and social security, because dignity requires more than non-interference alone"
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] A neoliberal response says forced transfer of resources harms liberty and",
+          "neoliberalism asks whether those conditions themselves have become coercive through the state."
+        ],
+        [
+          "Thinkers, Illustrations and the Comparison Matrix",
+          "that markets coordinate needs better than governments can (Gauba, PDF pp.42-43).",
+          "SYNTHESIS → Thinkers, Illustrations and the Comparison Matrix is best presented"
+        ],
+        [
+          "[1] A classical liberal state protects life, property and contract and avoids broad interference in production and exchange (Gauba, PDF p.41).",
+          "[4] Gauba's own criticism notes that representative institutions may still reflect unequal group organization and vocal",
+          "through its central claim, causal logic, strongest limit and qualified verdict."
+        ],
+        [
+          "[2] A welfare liberal state taxes and regulates in order to provide",
+          "power, as in his India example of concentrated business interests versus diffuse consumers (Gauba, PDF p.44).",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Thinkers, Illustrations and the Comparison Matrix",
+            "[1] A classical liberal state protects life, property and contract and avoids broad interference in production and exchange (Gauba, PDF p.41).",
+            "[2] A welfare liberal state taxes and regulates in order to provide",
+            "education, health and social security, because dignity requires more than non-interference alone"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[3] A neoliberal response says forced transfer of resources harms liberty and",
+            "that markets coordinate needs better than governments can (Gauba, PDF pp.42-43).",
+            "[4] Gauba's own criticism notes that representative institutions may still reflect unequal group organization and vocal",
+            "power, as in his India example of concentrated business interests versus diffuse consumers (Gauba, PDF p.44).",
+            "[5] A compact exam contrast is this: liberalism asks how to protect liberty"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "neoliberalism asks whether those conditions themselves have become coercive through the state.",
+            "SYNTHESIS → Thinkers, Illustrations and the Comparison Matrix is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Thinkers, Illustrations and the Comparison Matrix is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "OWNERSHIP BOUNDARIES AND UPSC TRAP REPAIR",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OWNERSHIP BOUNDARIES AND UPSC TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] NEOLIBERALISM VS LIBERTARIANISM",
+          "role": "comparison"
+        },
+        {
+          "text": "HAYEK AND FRIEDMAN CHIEFLY DEFEND MARKET COORDINATION AND LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CHAIN 3 — OBJECTION",
+          "role": "primary"
+        },
+        {
+          "text": "\"WELFARE LIBERALISM ABANDONED LIBERTY FOR EQUALITY.\" REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "WELFARE LIBERALISM'S OWN CLAIM IS THAT LIBERTY WITHOUT SUPPORTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] UPSC OFTEN REWARDS ANSWERS THAT KEEP TOGETHER LIBERALISM'S",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Ownership Boundaries and UPSC Trap Repair",
+        "[1] Neoliberalism vs libertarianism: Hayek and Friedman chiefly defend market coordination and limits on welfare",
+        "Nozick grounds a minimal state in self-ownership and entitlement.",
+        "The labels may overlap in Gauba, but the arguments should not be treated as interchangeable."
+      ],
+      "matrix": [
+        [
+          "MODEL / STANDARD",
+          "DECISIVE DISTINCTION",
+          "INSTITUTIONAL LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[2] Chain 3 — Objection: \"Welfare liberalism abandoned liberty for equality.\" Reply",
+          "centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40)."
+        ],
+        [
+          "Ownership Boundaries and UPSC Trap Repair",
+          "welfare liberalism's own claim is that liberty without supportive social conditions is too thin to be meaningful (Gauba, PDF p.41",
+          "SYNTHESIS → Ownership Boundaries and UPSC Trap Repair is best presented"
+        ],
+        [
+          "[1] Neoliberalism vs libertarianism: Hayek and Friedman chiefly defend market coordination and limits on welfare intervention",
+          "§9 trap already in this file).",
+          "through its central claim, causal logic, strongest limit and qualified verdict."
+        ],
+        [
+          "Nozick grounds a minimal state in self-ownership and entitlement.",
+          "[3] UPSC often rewards answers that keep together liberalism's durable constitutional core and its debated economic program.",
+          "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "MODEL / STANDARD",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Ownership Boundaries and UPSC Trap Repair",
+            "[1] Neoliberalism vs libertarianism: Hayek and Friedman chiefly defend market coordination and limits on welfare intervention",
+            "Nozick grounds a minimal state in self-ownership and entitlement.",
+            "The labels may overlap in Gauba, but the arguments should not be treated as interchangeable."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "[2] Chain 3 — Objection: \"Welfare liberalism abandoned liberty for equality.\" Reply",
+            "welfare liberalism's own claim is that liberty without supportive social conditions is too thin to be meaningful (Gauba, PDF p.41",
+            "§9 trap already in this file).",
+            "[3] UPSC often rewards answers that keep together liberalism's durable constitutional core and its debated economic program.",
+            "[4] Liberalism: A political principle that places liberty of the individual at the"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL LIMIT",
+          "role": "caution",
+          "items": [
+            "centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).",
+            "SYNTHESIS → Ownership Boundaries and UPSC Trap Repair is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Ownership Boundaries and UPSC Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CLASSICAL, NEW, WELFARE-STATE AND NEOLIBERAL STRANDS",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CLASSICAL, NEW, WELFARE-STATE AND NEOLIBERAL STRANDS",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CLASSICAL LIBERALISM IS LAISSEZ-FAIRE AND NEGATIVE-STATE; WELFARE LIBERALISM",
+          "role": "institution"
+        },
+        {
+          "text": "[2] TWO-LINE ENRICHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CLASSICAL LIBERALS FEAR STATE COERCION, WELFARE LIBERALS FEAR MARKET-GENERATED",
+          "role": "institution"
+        },
+        {
+          "text": "[3] LOCKE, SMITH AND BENTHAM ANCHOR THE CLASSICAL, LAISSEZ-FAIRE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE STATE IS A",
+          "role": "institution"
+        },
+        {
+          "text": "\"NECESSARY EVIL\" CONFINED TO PROTECTING LIFE, PROPERTY AND CONTRACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Classical, New, Welfare-State and Neoliberal Strands",
+        "[1] Classical liberalism is laissez-faire and negative-state",
+        "welfare liberalism is positive-state",
+        "neoliberalism is rollback liberalism (Gauba, PDF pp.41-43)."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Classical, New, Welfare-State and Neoliberal Strands",
+            "[1] Classical liberalism is laissez-faire and negative-state",
+            "welfare liberalism is positive-state",
+            "neoliberalism is rollback liberalism (Gauba, PDF pp.41-43)."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "market-generated deprivation, and neoliberals fear the coercive growth of welfare-state control.",
+            "[3] Locke, Smith and Bentham anchor the classical, laissez-faire strand: the state is a",
+            "\"necessary evil\" confined to protecting life, property and contract, with minimal interference in production and exchange (Gauba, PDF p.41).",
+            "[4] Laski and Tawney, writing later in the first half of the twentieth century,",
+            "develop a fuller welfare-state tradition — institutionalized social security, education and redistribution — going"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[5] Gauba's critique focuses on bourgeois bias, unequal group power and the",
+            "gap between market liberty and actual social welfare (Gauba, PDF pp.43-44).",
+            "SYNTHESIS → Classical, New, Welfare-State and Neoliberal Strands is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Classical, New, Welfare-State and Neoliberal Strands is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "HAYEK AND NOZICK: DIFFERENT ROUTES TO THE MINIMAL STATE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HAYEK AND NOZICK",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENT ROUTES TO THE MINIMAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] GAUBA NAMES NOZICK, ALONGSIDE HAYEK AND FRIEDMAN, AS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] KNOWLEDGE ARGUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NEOLIBERALISM HOLDS THAT GOVERNMENTS CANNOT POSSESS SUFFICIENT KNOWLEDGE OF",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] COERCION ARGUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ON THIS VIEW, FORCED OR COMPULSORY REDISTRIBUTION (TAX-FINANCED WELFARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Hayek and Nozick: Different Routes to the Minimal State",
+        "[1] Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian exponent of rollback",
+        "liberalism, grounded in rights and entitlement rather than only in market-efficiency argument (Gauba, PDF p.42).",
+        "[2] Knowledge argument: neoliberalism holds that governments cannot possess sufficient knowledge of dispersed individual needs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Hayek and Nozick: Different Routes to the Minimal State",
+            "[1] Gauba names Nozick, alongside Hayek and Friedman, as a chief neoliberal/libertarian exponent of rollback",
+            "liberalism, grounded in rights and entitlement rather than only in market-efficiency argument (Gauba, PDF p.42)."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Knowledge argument: neoliberalism holds that governments cannot possess sufficient knowledge of dispersed individual needs and circumstances to",
+            "needs and coordination emerge instead through unpredictable transactions in a free market (\"spontaneous order\"), not through centralized state",
+            "[3] Coercion argument: on this view, forced or compulsory redistribution (tax-financed welfare, state",
+            "intervention) is itself a form of coercion that curtails freedom without reliably satisfying"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "genuine wants, even when it is intended to enlarge welfare (Gauba, PDF pp.42-43).",
+            "SYNTHESIS → Hayek and Nozick: Different Routes to the Minimal State is best",
+            "presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "Different Routes to the Minimal State is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THE RAWLSIAN REPLY AND THE INDIAN MIXED-ECONOMY LENS",
+      "structural_type": "institution-balance",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE RAWLSIAN REPLY AND THE INDIAN MIXED-ECONOMY LENS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE STANDARD WELFARE-LIBERAL/RAWLSIAN REPLY TO NOZICK (ANALYTICAL SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "EVEN A PROCEDURALLY CLEAN HISTORY OF ACQUISITION AND TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] RAWLS IS NOTED (IN THE JUSTICE-CHAPTER GROUNDING ALREADY",
+          "role": "primary"
+        },
+        {
+          "text": "THE RAWLSIAN REPLY AND THE INDIAN MIXED-ECONOMY LENS IS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINE PRECISELY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "The Rawlsian Reply and the Indian Mixed-Economy Lens",
+        "[1] The standard welfare-liberal/Rawlsian reply to Nozick (analytical synthesis, cross-referencing the justice files rather than",
+        "A fair procedure, on this reply, should be judged partly by whether the resulting inequalities",
+        "[2] Rawls is noted (in the justice-chapter grounding already used elsewhere in this knowledge"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "The Rawlsian Reply and the Indian Mixed-Economy Lens",
+            "[1] The standard welfare-liberal/Rawlsian reply to Nozick (analytical synthesis, cross-referencing the justice files rather than duplicating them): even",
+            "A fair procedure, on this reply, should be judged partly by whether the resulting inequalities work to the"
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "[2] Rawls is noted (in the justice-chapter grounding already used elsewhere in this knowledge",
+            "base) as a critic of utilitarianism who tries to accommodate substantive concerns within a",
+            "procedural framework (Gauba, PDF pp.434-435, 443) — the standard reply-anchor against neoliberal/libertarian proceduralism.",
+            "SYNTHESIS → The Rawlsian Reply and the Indian Mixed-Economy Lens is best"
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → The Rawlsian Reply and the Indian Mixed-Economy Lens is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "QUALIFIED THESIS AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+      "structural_type": "dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "QUALIFIED THESIS AND DIRECTIVE-SPECIFIC ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] PREMISES",
+          "role": "comparison"
+        },
+        {
+          "text": "(A) LIBERALISM PLACES INDIVIDUAL LIBERTY AT THE CENTRE OF",
+          "role": "evidence"
+        },
+        {
+          "text": "(GAUBA, PDF PP.40-41); (C) NEOLIBERALISM ARGUES THAT STATE-PROVIDED WELFARE",
+          "role": "institution"
+        },
+        {
+          "text": "[2] MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "BECAUSE \"LIBERTY\" IS NOT SELF-DEFINING, EACH STRAND SUPPLIES A",
+          "role": "caution"
+        },
+        {
+          "text": "(NEW/WELFARE, §12.2), OR THE REDISTRIBUTIVE STATE ITSELF (NEOLIBERAL, §13)",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Qualified Thesis and Directive-Specific Architecture",
+        "[1] Premises: (a) liberalism places individual liberty at the centre of politics and opposes arbitrary/authoritarian",
+        "(b) liberty can be read negatively (freedom from restraint) or positively (conditions for self-development)",
+        "(Gauba, PDF pp.40-41); (c) neoliberalism argues that state-provided welfare itself becomes a new coercive restraint"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Qualified Thesis and Directive-Specific Architecture",
+            "[1] Premises: (a) liberalism places individual liberty at the centre of politics and opposes arbitrary/authoritarian rule (Gauba, PDF p.40)",
+            "(b) liberty can be read negatively (freedom from restraint) or positively (conditions for self-development)",
+            "(Gauba, PDF pp.40-41); (c) neoliberalism argues that state-provided welfare itself becomes a new coercive restraint on liberty (Gauba, PDF pp.42-43)."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Mechanism: because \"liberty\" is not self-defining, each strand supplies a different account",
+            "of what threatens it most — the state (classical), unmet welfare needs",
+            "(new/welfare, §12.2), or the redistributive state itself (neoliberal, §13) — and",
+            "Nozick's entitlement theory converts the neoliberal claim into a rights-based test of acquisition/transfer/rectification (§14),",
+            "while Rawls's reply converts the welfare claim into a procedural-cum-substantive test, the difference principle"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "[3] Conclusion: liberalism's durable, cross-strand contribution is constitutionalism — limits on arbitrary power —",
+            "while its economic program remains genuinely contested between these strands (Gauba, PDF p.45).",
+            "SYNTHESIS → Qualified Thesis and Directive-Specific Architecture is best presented through",
+            "its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Qualified Thesis and Directive-Specific Architecture is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EVIDENCE UNITS, OBJECTION-REPLY CHAINS AND ANSWER DESIGN",
+      "structural_type": "application-pyq",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "EVIDENCE UNITS, OBJECTION-REPLY CHAINS AND ANSWER DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] MARK-WEIGHT CUE (10/15/20)",
+          "role": "comparison"
+        },
+        {
+          "text": "SCALE THE NUMBER OF THINKERS AND DEPTH OF OBJECTION-REPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CHAIN 1 — OBJECTION",
+          "role": "primary"
+        },
+        {
+          "text": "\"NEOLIBERALISM JUST WANTS SMALL GOVERNMENT, WHICH IS THE SAME",
+          "role": "outcome"
+        },
+        {
+          "text": "NEOLIBERALISM IS A TWENTIETH-CENTURY RESTORATION RESPONDING SPECIFICALLY TO AN",
+          "role": "comparison"
+        },
+        {
+          "text": "(GAUBA, PDF PP.41-43).",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Evidence Units, Objection-Reply Chains and Answer Design",
+        "[1] Mark-weight cue (10/15/20): Scale the number of thinkers and depth of objection-reply chain (§21).",
+        "[2] Chain 1 — Objection: \"Neoliberalism just wants small government, which is the same as",
+        "there is nothing new here.\" Reply: neoliberalism is a twentieth-century restoration responding specifically to an"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THEORY / CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "Evidence Units, Objection-Reply Chains and Answer Design",
+            "[1] Mark-weight cue (10/15/20): Scale the number of thinkers and depth of objection-reply chain (§21).",
+            "[2] Chain 1 — Objection: \"Neoliberalism just wants small government, which is the same as classical liberalism, so",
+            "there is nothing new here.\" Reply: neoliberalism is a twentieth-century restoration responding specifically to an already-existing welfare state,"
+          ]
+        },
+        {
+          "heading": "OBJECTION / POWER TEST",
+          "role": "caution",
+          "items": [
+            "did not need to make because the welfare state did not yet exist in their own time",
+            "(Gauba, PDF pp.41-43).",
+            "[3] Chain 2 — Objection: \"Because Nozick's entitlement theory only requires a",
+            "clean procedural history, any existing distribution of wealth is automatically just.\"",
+            "Reply: the rectification principle itself requires correcting holdings traceable to unjust acquisition or transfer, and"
+          ]
+        },
+        {
+          "heading": "REPLY / QUALIFIED VERDICT",
+          "role": "comparison",
+          "items": [
+            "benefits the least advantaged — so Nozick's own framework does not endorse every existing distribution",
+            "SYNTHESIS → Evidence Units, Objection-Reply Chains and Answer Design is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Evidence Units, Objection-Reply Chains and Answer Design is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROPOSITION DISCIPLINE, SOURCES AND FINAL INTEGRATION",
+      "structural_type": "answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROPOSITION DISCIPLINE, SOURCES AND FINAL INTEGRATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] THE \"NEW LIBERALISM\" LABEL (§12.2) AND THE ACQUISITION/TRANSFER/RECTIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] DIRECT-BOOK ANCHORS USED HERE",
+          "role": "evidence"
+        },
+        {
+          "text": "PDF PP.40-42 FOR LIBERAL CORE AND INTERNAL STREAMS",
+          "role": "primary"
+        },
+        {
+          "text": "PDF PP.42-43 FOR NEOLIBERALISM; PDF PP.43-45 FOR CRITIQUE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] TERMINOLOGY CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "GAUBA PLACES NEO-LIBERALISM, NEO-CLASSICAL LIBERALISM AND LIBERTARIANISM CLOSE TOGETHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "Proposition Discipline, Sources and Final Integration",
+        "[1] The \"New Liberalism\" label (§12.2) and the acquisition/transfer/rectification triad and Rawlsian reply (§14-15) are",
+        "do not upgrade them to status or attach a specific book title/year/page to Nozick's or",
+        "[2] Direct-book anchors used here: PDF pp.40-42 for liberal core and internal streams"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "Proposition Discipline, Sources and Final Integration",
+            "[1] The \"New Liberalism\" label (§12.2) and the acquisition/transfer/rectification triad and Rawlsian reply (§14-15) are flagged specifically because",
+            "do not upgrade them to status or attach a specific book title/year/page to Nozick's or Rawls's own works without independent verification."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Direct-book anchors used here: PDF pp.40-42 for liberal core and internal streams",
+            "PDF pp.42-43 for neoliberalism; PDF pp.43-45 for critique and contribution; PDF pp.434-435, 443 (justice chapter, reused) for the Rawls reply-anchor.",
+            "[3] Terminology caution: Gauba places neo-liberalism, neo-classical liberalism and libertarianism close together",
+            "§13-15 extend this compressed treatment with standard, well-established political-theory clarifications that are explicitly flagged as analytical rather than"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS → Proposition Discipline, Sources and Final Integration is best presented",
+            "through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → Proposition Discipline, Sources and Final Integration is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MCQ REMEDIATION AND TRAP REPAIR",
+      "structural_type": "close-option-trap-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MCQ REMEDIATION AND TRAP REPAIR",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] CHAIN 3 — OBJECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "\"WELFARE LIBERALISM ABANDONED LIBERTY FOR EQUALITY.\" REPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "WELFARE LIBERALISM'S OWN CLAIM IS THAT LIBERTY WITHOUT SUPPORTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "[2] LIBERALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "A POLITICAL PRINCIPLE THAT PLACES LIBERTY OF THE INDIVIDUAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] AUTHORITARIAN STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "MCQ Remediation and Trap Repair",
+        "[1] Chain 3 — Objection: \"Welfare liberalism abandoned liberty for equality.\" Reply",
+        "welfare liberalism's own claim is that liberty without supportive social conditions is too thin to",
+        "§9 trap already in this file)."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "MCQ Remediation and Trap Repair",
+            "[1] Chain 3 — Objection: \"Welfare liberalism abandoned liberty for equality.\" Reply",
+            "welfare liberalism's own claim is that liberty without supportive social conditions is too thin to be meaningful (Gauba, PDF p.41",
+            "§9 trap already in this file)."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[2] Liberalism: A political principle that places liberty of the individual at the",
+            "centre of public policy, especially freedom from authoritarian restraint (Gauba, PDF p.40).",
+            "[3] Authoritarian state: A state in which authority is treated as unquestionable",
+            "and its directives must be obeyed without challenge (Gauba, PDF p.40).",
+            "[4] Classical / negative liberalism: The laissez-faire strand that confines the state to"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "protection of life, property, contract and minimal common services (Gauba, PDF p.41).",
+            "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+            "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → MCQ Remediation and Trap Repair is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+      "structural_type": "integrated-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ OWNERSHIP AND ANSWER PRACTICE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "[1] DOCTRINE. JUSTICE IN HOLDINGS HAS THREE PRINCIPLES",
+          "role": "comparison"
+        },
+        {
+          "text": "[2] HISTORICAL VS PATTERNED. PATTERNED PRINCIPLES (EQUALITY, NEED, MERIT)",
+          "role": "comparison"
+        },
+        {
+          "text": "CHAMBERLAIN ARGUMENT SHOWS THAT IF PEOPLE FREELY PAY TO",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CRITIQUE. THE ACQUISITION AND RECTIFICATION PRINCIPLES ARE THE",
+          "role": "outcome"
+        },
+        {
+          "text": "BOTH NEED AN INDEPENDENT CRITERION, AND REAL STARTING DISTRIBUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] THE CORE ARGUMENT. A SOCIETY THAT EXCLUDES HALF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "PYQ Ownership and Answer Practice",
+        "[1] Doctrine.",
+        "Justice in holdings has three principles -- justice in ACQUISITION (how unowned things are first",
+        "There is no required end-state pattern."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONCEPT / THINKER",
+          "role": "evidence",
+          "items": [
+            "CENTRAL FOCUS",
+            "PYQ Ownership and Answer Practice",
+            "[1] Doctrine.",
+            "Justice in holdings has three principles -- justice in ACQUISITION (how unowned things are first justly held), justice",
+            "There is no required end-state pattern."
+          ]
+        },
+        {
+          "heading": "POLITICAL MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Patterned principles (equality, need, merit) judge the shape of the distribution",
+            "historical principles judge the PROCESS.",
+            "The Wilt",
+            "Chamberlain argument shows that if people freely pay to watch him, the resulting inequality",
+            "is just, and maintaining any fixed pattern would require continuous interference with voluntary transfers."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "The acquisition and rectification principles are the weakest links: both need an independent criterion, and real starting distributions",
+            "[4] The core argument.",
+            "A society that excludes half its members or attaches rights to status wastes human capacities and violates utility properly understood",
+            "\"nature\" invoked to justify subordination is itself socially manufactured through subjection.",
+            "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM ROUTE → define precisely → explain the mechanism → test the limit → conclude with a qualified political judgment.",
+      "answer_line": "SYNTHESIS → PYQ Ownership and Answer Practice is best presented through its central claim, causal logic, strongest limit and qualified verdict.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ONE-SCREEN ADVANCED MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "2. SCOPE, ASSUMPTIONS AND CONCEPTUAL BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DIRECT-BOOK ARGUMENT RECONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "4. DEFINITIONS AND DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "5. THINKER-BY-THINKER POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. COMPETING PERSPECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "7. INTERNAL DEBATES AND CRITICISMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORY DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. One-screen advanced map",
+            "2. Scope, assumptions and conceptual boundary",
+            "3. Direct-book argument reconstruction",
+            "4. Definitions and distinctions"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Thinker-by-thinker positions",
+            "6. Competing perspectives",
+            "7. Internal debates and criticisms",
+            "8. Comparative matrix"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE / INSTITUTIONAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Application without current-affairs dependence",
+            "10. UPSC answer-engine prompts",
+            "11. Cross-links and exclusions",
+            "12. Factual-risk checks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

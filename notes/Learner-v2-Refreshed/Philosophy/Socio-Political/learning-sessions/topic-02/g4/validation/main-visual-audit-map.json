@@ -1,0 +1,4884 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g4\\topic-02_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g4\\topic-02_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Sovereignty - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Sovereignty : Austin, Bodin, Laski, Kautilya.  **Generation:** g4, 2026-09-03 · **Approval:** false pending explicit topic approval  **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 15,
+      "markdown_body_line_end": 15,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Sovereignty concept map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g4\\assets\\philosophy-paper-ii-socio-political-philosophy-02\\sovereignty-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 645.224
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 337.688
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 19,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Sovereignty : Austin, Bodin, Laski, Kautilya.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 304.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 273.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 31,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 229.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 99.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 57,
+      "heading": "Exact ownership boundary and indispensable bridges",
+      "preview": "Bridge | Treatment owned here | Full owner retained elsewhere",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Bridge",
+          "Treatment owned here",
+          "Full owner retained elsewhere"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 550.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 72,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 525.69
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 289.088
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 86,
+      "markdown_body_line_end": 112,
+      "heading": "VISUAL - The four axes of the concept",
+      "preview": "SUPREME, FINAL, AUTHORITATIVE POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 138,
+      "heading": "VISUAL - What sovereignty is not",
+      "preview": "+-----------------------+------------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 505.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 324.091
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sovereignty names the claim to supreme and final authority within a political community, and a controlled answer opens by separating internal from external, legal from political, de jure from de facto, and titular from actual before any thi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 304.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 224.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 200,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "SOVEREIGNTY -- one word, several layers to keep apart",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 486.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 295.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 207,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Four pairs to open any answer -- INTERNAL/EXTERNAL, LEGAL/POLITICAL, DE JURE/DE FACTO, TITULAR/ACTUAL. Distinguish first, then locate each thinker.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 262.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 217.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 218,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "Thinker | Core statement | Type of sovereignty | What limits it? | UPSC use-value",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 4,
+        "headers": [
+          "Thinker",
+          "Core statement",
+          "Type of sovereignty",
+          "What limits it?",
+          "UPSC use-value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 534.39
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 247,
+      "heading": "1.2 Internal and external sovereignty",
+      "preview": "Distinction | Meaning | Relevance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Distinction",
+          "Meaning",
+          "Relevance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 697.89
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 271,
+      "heading": "1.2A Classical attributes of sovereignty",
+      "preview": "Attribute | Exam-safe meaning | Required qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Attribute",
+          "Exam-safe meaning",
+          "Required qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 463.29
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 231.888
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 282,
+      "markdown_body_line_end": 285,
+      "heading": "1.3 Legal and political sovereignty",
+      "preview": "Type | Meaning | Main association",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Meaning",
+          "Main association"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 148.088
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 47.487
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 298,
+      "markdown_body_line_end": 301,
+      "heading": "1.4 De jure and de facto sovereignty",
+      "preview": "Type | Meaning | UPSC value",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Meaning",
+          "UPSC value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 573.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 495.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 317,
+      "heading": "1.5 Titular and actual sovereignty",
+      "preview": "Type | Meaning | Illustration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Meaning",
+          "Illustration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 308.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 230.288
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 332,
+      "heading": "1.5A Popular and national sovereignty",
+      "preview": "Form | Core claim | Main problem",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Form",
+          "Core claim",
+          "Main problem"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 675.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 357,
+      "markdown_body_line_end": 373,
+      "heading": "CLOSING RECALL FLOW - The Concept and Taxonomy of Sovereignty",
+      "preview": "The Concept and Taxonomy of Sovereignty",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 384.29
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 304.471
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 421,
+      "heading": "VISUAL - From civil war to the sovereign office",
+      "preview": "RIVAL FINAL CLAIMS (churches, estates, feudal lords)",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 451,
+      "heading": "VISUAL - Bodin's limits, and their weakness",
+      "preview": "+---------------------------+----------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 184.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 457,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bodin gives the modern state its first systematic vocabulary of sovereignty — absolute, perpetual and undivided — while keeping the sovereign bound by divine law, natural law and the fundamental laws of the realm, so his absolutism is juris",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 164.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 84.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 506,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "BODIN'S SOVEREIGN -- absolute, perpetual, undivided",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 385.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 234.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 513,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: A-P-U (Absolute, Perpetual, Undivided) + the three leashes (divine, natural, leges imperii). Founder of the doctrine; absolutist but not lawless.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 201.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 156.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 569,
+      "markdown_body_line_end": 573,
+      "heading": "2.4 Limits on Bodin's sovereign",
+      "preview": "Bound by | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Bound by",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 126.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 37.89
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 623,
+      "heading": "CLOSING RECALL FLOW - Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "preview": "Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 290.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 211.073
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 663,
+      "heading": "VISUAL - The command chain",
+      "preview": "DETERMINATE HUMAN SUPERIOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 689,
+      "heading": "VISUAL - The five attributes and what each excludes",
+      "preview": "+-----------------+--------------------------------+---------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 485.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 304.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 695,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Austin converts sovereignty into a question of legal form: a determinate human superior, habitual obedience from the bulk of society, and law as command backed by sanction, which is unmatched for juristic clarity and immediately vulnerable ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 284.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 204.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 744,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE AUSTINIAN MACHINE -- command theory of law",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 500.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 349.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 751,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Sovereign = determinate human superior, habitually obeyed, obeying none. Law = command + sanction. Attributes = D-A-I-I-I.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 301.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 256.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 794,
+      "heading": "3.3 Attributes of Austinian sovereignty",
+      "preview": "Attribute | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Attribute",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 484.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 354.29
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 839,
+      "heading": "CLOSING RECALL FLOW - Austin I: The Command Theory of Legal Sovereignty",
+      "preview": "Austin I: The Command Theory of Legal Sovereignty",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 697.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 609.123
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 881,
+      "heading": "VISUAL - Four objections and the monist replies",
+      "preview": "+----------------+-------------------------+---------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 423.723
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 142.723
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 917,
+      "heading": "VISUAL - Is Austin compatible with democracy?",
+      "preview": "QUESTION: is Austin's sovereign compatible with democracy?",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Austin's sovereign survives as an account of legal finality and fails as an account of democratic political reality, so compatibility with democracy is partial in the narrow legal sense and weak in the deeper sense of derivative, divided an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 487.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 406.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 977,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "FIVE STRAINS ON THE AUSTINIAN SOVEREIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 524.491
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 985,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Criticisms = FEDERALISM, INTERNATIONAL LAW, CUSTOM, DEMOCRACY/POPULAR SOVEREIGNTY, MAINE (Ranjit Singh). \"Yes in a narrow legal sense; no in the deeper constitutional-political sense.\"",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 491.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 446.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1035,
+      "heading": "(d1) Parliamentary sovereignty and constitutional supremacy",
+      "preview": "Jurisdictional model | Legal location of finality | Judicial position | Philosophical use",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Jurisdictional model",
+          "Legal location of finality",
+          "Judicial position",
+          "Philosophical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 534.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 385.59
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1097,
+      "heading": "CLOSING RECALL FLOW - Austin II: Criticisms and Compatibility with Democracy",
+      "preview": "Austin II: Criticisms and Compatibility with Democracy",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 484.591
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 404.773
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1133,
+      "heading": "VISUAL - Three defects, two repairs",
+      "preview": "+---------------------+-------------------------+---------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1165,
+      "heading": "VISUAL - The two structures side by side",
+      "preview": "KELSEN                              HART",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 284.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1171,
+      "markdown_body_line_end": 1171,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kelsen and Hart preserve the idea of supreme legal authority while dissolving the personal sovereign: validity flows from a presupposed basic norm for Kelsen, and from an officially practised rule of recognition for Hart, which answers exac",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 264.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 184.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1229,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "KELSEN -- validity flows DOWN a hierarchy of norms",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 429.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 208.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1238,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Kelsen = hierarchy of norms + Grundnorm (Eng. 1945). Hart = primary + secondary rules + rule of recognition + internal point of view (1961). Never swap the 1945/1961 dates.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 160.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 115.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1244,
+      "markdown_body_line_end": 1244,
+      "heading": "3A. KELSEN AND HART - THE POST-AUSTINIAN REFINEMENT OF LEGAL SOVEREIGNTY",
+      "preview": "⚠️ **Why this section exists.** Austin's critics in this file so far are *external* — federalism, custom, international law, democracy, Laski's pluralism. The two most powerful criticisms are **internal to legal positivism itself**. Any que",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1284,
+      "markdown_body_line_end": 1289,
+      "heading": "3A.3 Hart: primary and secondary rules, and the rule of recognition",
+      "preview": "Rule type | Function | What it answers | Failure it cures",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Rule type",
+          "Function",
+          "What it answers",
+          "Failure it cures"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 643.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 495.59
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1303,
+      "markdown_body_line_end": 1308,
+      "heading": "3A.3 Hart: primary and secondary rules, and the rule of recognition",
+      "preview": "Austin's claim | Hart's objection",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Austin's claim",
+          "Hart's objection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 280.99
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 137.988
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1327,
+      "heading": "3A.4 Placement against Bodin, Austin, Laski and Kautilya",
+      "preview": "Axis | **Bodin** | **Austin** | **Kelsen** | **Hart** | **Laski** | **Kautilya**",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "**Bodin**",
+          "**Austin**",
+          "**Kelsen**",
+          "**Hart**",
+          "**Laski**",
+          "**Kautilya**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 622.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 317.19
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1370,
+      "heading": "CLOSING RECALL FLOW - Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "preview": "Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 525.791
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 445.973
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1382,
+      "markdown_body_line_end": 1412,
+      "heading": "VISUAL - Why absolute sovereignty is rejected",
+      "preview": "ABSOLUTE SOVEREIGNTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1418,
+      "markdown_body_line_end": 1440,
+      "heading": "VISUAL - Monist state versus pluralist state",
+      "preview": "+---------------------------+------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 465.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 264.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1446,
+      "markdown_body_line_end": 1446,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Laski rejects absolute sovereignty because it is false to a plural social world, dangerous as a licence for unquestioned power and unreal as description, replacing it with authority that is divided, shared and continuously earned through co",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 244.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 164.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1481,
+      "markdown_body_line_end": 1498,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE PLURALIST NETWORK -- state as ONE association among many",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 300.691
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1506,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: FALSE / DANGEROUS / UNREAL. State = one association among many. Allegiance is EARNED, not owed. Pluralist, NOT anarchist.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 253.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 208.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1532,
+      "markdown_body_line_end": 1536,
+      "heading": "4.1A The supported pluralist lineage",
+      "preview": "Thinker | Supported contribution | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "Supported contribution",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 649.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 483.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1619,
+      "markdown_body_line_end": 1635,
+      "heading": "CLOSING RECALL FLOW - Laski and the Pluralist Critique of Absolute Sovereignty",
+      "preview": "Laski and the Pluralist Critique of Absolute Sovereignty",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 653.873
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1673,
+      "heading": "VISUAL - The seven limbs and what each supplies",
+      "preview": "+------------------+-----------------------+--------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 463.673
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 222.673
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1679,
+      "markdown_body_line_end": 1701,
+      "heading": "VISUAL - The calibration of the rod",
+      "preview": "TOO LITTLE                 CALIBRATED                 TOO MUCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1707,
+      "markdown_body_line_end": 1707,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kautilyan sovereignty is the capacity of a seven-limbed state organism headed by a duty-bound ruler and sustained by calibrated coercion, which makes it systemic and welfare-oriented rather than a personal, illimitable will in the Austinian",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 567.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 486.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1742,
+      "markdown_body_line_end": 1761,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "SAPTANGA -- the seven limbs of the state (organism model)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1768,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Saptanga = Svami, Amatya, Janapada, Durga, Kosa, Danda, Mitra. Dandaniti = calibrated coercion between anarchy and tyranny.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 568.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 524.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1790,
+      "markdown_body_line_end": 1798,
+      "heading": "5.2 The seven-limbed (saptāṅga) theory of the state",
+      "preview": "Limb | Meaning | Function in sovereignty",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Limb",
+          "Meaning",
+          "Function in sovereignty"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 229.224
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 56.222
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1842,
+      "markdown_body_line_end": 1859,
+      "heading": "CLOSING RECALL FLOW - Kautilya I: The Seven-Limbed State (saptāṅga), the Ruler (svāmī) and Calibrated Coercion (daṇḍanīti)",
+      "preview": "Kautilya I: The Seven-Limbed State (saptāṅga), the Ruler (svāmī) and Calibrated",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 166.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 86.873
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1871,
+      "markdown_body_line_end": 1895,
+      "heading": "VISUAL - The circle of states",
+      "preview": "[ NEIGHBOUR'S NEIGHBOUR ]  <-- natural ALLY (mitra)",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 384.091
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1901,
+      "markdown_body_line_end": 1927,
+      "heading": "VISUAL - The six-fold policy as a decision toolkit",
+      "preview": "+-------------------+-------------------+----------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 342.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 101.891
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1933,
+      "markdown_body_line_end": 1933,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kautilya's external sovereignty is relational rather than declaratory, since the circle of states and the six-fold policy make independence a matter of continuously managed advantage, while security and welfare supply the ethical frame that",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1968,
+      "markdown_body_line_end": 1987,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MANDALA -- the circle of states (positional, not sentimental)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1993,
+      "markdown_body_line_end": 1994,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Mandala = positional friends/enemies; Sadgunya = 6 policies; Yogakshema = security + welfare. \"No permanent friend or enemy -- only interests.\"",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 568.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 524.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2013,
+      "markdown_body_line_end": 2020,
+      "heading": "5.5 Maṇḍala theory and ṣāḍguṇya",
+      "preview": "Policy | General sense",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Policy",
+          "General sense"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 340.024
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 188.222
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2070,
+      "markdown_body_line_end": 2088,
+      "heading": "CLOSING RECALL FLOW - Kautilya II: The Circle of States (maṇḍala), Six-Fold Policy (ṣāḍguṇya), Security and Welfare (yogakṣema) and Modern Relevance",
+      "preview": "Kautilya II: The Circle of States (maṇḍala), Six-Fold Policy (ṣāḍguṇya), Security and",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 145.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 65.673
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2100,
+      "markdown_body_line_end": 2128,
+      "heading": "VISUAL - The four-thinker grid",
+      "preview": "+---------------+------------+------------+-----------+-------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 657.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 396.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2134,
+      "markdown_body_line_end": 2158,
+      "heading": "VISUAL - The critical-answer engine",
+      "preview": "OBJECTION  ---->  MONIST REPLY  ---->  RESIDUAL DIFFICULTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 355.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 134.091
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2164,
+      "markdown_body_line_end": 2164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sovereignty debates are settled on a fixed grid — location, absoluteness, divisibility, associations, anxiety and weakness — and the strongest answers move objection to reply to residual difficulty instead of merely listing what each thinke",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 114.891
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2197,
+      "markdown_body_line_end": 2216,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MONIST <-> PLURALIST -- four thinkers on shared axes",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 271.624
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 80.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2222,
+      "markdown_body_line_end": 2224,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Fix 4-5 axes (location, absoluteness, divisibility, associations, anxiety), run all four down each, THEN adjudicate. Criticism -> reply -> residual.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2231,
+      "markdown_body_line_end": 2238,
+      "heading": "6.1 Monist vs pluralist table",
+      "preview": "Issue | Bodin | Austin | Laski | Kautilya",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 6,
+        "headers": [
+          "Issue",
+          "Bodin",
+          "Austin",
+          "Laski",
+          "Kautilya"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 717.624
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 360.722
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2241,
+      "markdown_body_line_end": 2250,
+      "heading": "6.2 Austin vs Kautilya comparison (asked 2019)",
+      "preview": "Dimension | Austin | Kautilya",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Dimension",
+          "Austin",
+          "Kautilya"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 338.722
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 77.32
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2256,
+      "markdown_body_line_end": 2261,
+      "heading": "6.3 Bodin vs Austin",
+      "preview": "Point | Bodin | Austin",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Point",
+          "Bodin",
+          "Austin"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 635.29
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2275,
+      "markdown_body_line_end": 2282,
+      "heading": "7.1 Criticisms of the doctrine of absolute sovereignty",
+      "preview": "Criticism | Against whom primarily? | Core point | Typical reply",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Against whom primarily?",
+          "Core point",
+          "Typical reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 457.89
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 216.488
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2293,
+      "markdown_body_line_end": 2309,
+      "heading": "CLOSING RECALL FLOW - Inter-Thinker Debates, Criticisms and Replies",
+      "preview": "Inter-Thinker Debates, Criticisms and Replies",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 63.088
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 736.423
+        }
+      },
+      "pdf_pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2321,
+      "markdown_body_line_end": 2349,
+      "heading": "VISUAL - Erosion against transformation",
+      "preview": "SAME EVIDENCE BASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 546.223
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 285.223
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2355,
+      "markdown_body_line_end": 2379,
+      "heading": "VISUAL - Final pre-submission trap check",
+      "preview": "+---+------------------------------------+------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2385,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Globalization reconfigures sovereignty rather than abolishing it, because legal independence and practical interdependence are different things, and states still claim the final decision on war, treaty, currency and membership even where th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 547.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 466.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2436,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "GLOBALIZATION PRESSURE MAP -- constraint, not extinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 584.691
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2443,
+      "markdown_body_line_end": 2444,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Globalization -> transformed, not vanished, sovereignty. Erosion thesis vs transformation/resilience thesis; the truthful verdict is a matter of degree.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 537.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2466,
+      "heading": "Mechanisms of constraint and reconfiguration",
+      "preview": "Mechanism | What happens | Sovereignty consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Mechanism",
+          "What happens",
+          "Sovereignty consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 296.624
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 108.822
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2489,
+      "markdown_body_line_end": 2506,
+      "heading": "CLOSING RECALL FLOW - Globalization, Contemporary Sovereignty and the Standing Examiner Traps",
+      "preview": "Globalization, Contemporary Sovereignty and the Standing Examiner Traps",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 314.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 234.473
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2523,
+      "markdown_body_line_end": 2524,
+      "heading": "RAPID REVISION 1 - The Concept and Taxonomy of Sovereignty",
+      "preview": "WRONG: Treating all four thinkers as saying the same thing about \"supremacy\". The paper asks for exact differences; the taxonomy is how you supply them.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2544,
+      "markdown_body_line_end": 2545,
+      "heading": "RAPID REVISION 2 - Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "preview": "WRONG: Equating Bodin with Austin. Bodin ALLOWS higher-law restraints; Austin's legal sovereign is formally unlimited.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 586.524
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 541.856
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2564,
+      "markdown_body_line_end": 2566,
+      "heading": "RAPID REVISION 3 - Austin I: The Command Theory of Legal Sovereignty",
+      "preview": "WRONG: Calling Austin's sovereign \"the state in the abstract.\" It is a DETERMINATE person or body -- a legislature or monarch fits better than diffuse democratic opinion.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 388.956
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 344.288
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2586,
+      "markdown_body_line_end": 2587,
+      "heading": "RAPID REVISION 4 - Austin II: Criticisms and Compatibility with Democracy",
+      "preview": "WRONG: A flat \"Austin is/ isn't compatible with democracy.\" The mark is in the two-level answer -- legally yes, constitutionally-politically no.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 172.188
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 127.52
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2607,
+      "markdown_body_line_end": 2608,
+      "heading": "RAPID REVISION 5 - Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "preview": "WRONG: Dating Kelsen to 1961. 1961 is HART. Kelsen's English edition is 1945. If unsure in the hall, name the works in sequence without years.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 658.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 614.224
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2627,
+      "markdown_body_line_end": 2628,
+      "heading": "RAPID REVISION 6 - Laski and the Pluralist Critique of Absolute Sovereignty",
+      "preview": "WRONG: Presenting pluralism as decentralisation. Laski denies the monistic claim that one final unlimited will exists at all.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 461.324
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 416.656
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2648,
+      "markdown_body_line_end": 2649,
+      "heading": "RAPID REVISION 7 - Kautilya I: Saptanga, the Svami and Dandaniti",
+      "preview": "WRONG: Treating the svami as Austin's illimitable sovereign, or danda as blind terror.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 244.556
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 214.088
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2668,
+      "markdown_body_line_end": 2669,
+      "heading": "RAPID REVISION 8 - Kautilya II: Mandala, Sadgunya, Yogakshema and Modern Relevance",
+      "preview": "WRONG: Reading the realism as amoral, or transposing ancient monarchy directly onto modern democracy.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2689,
+      "markdown_body_line_end": 2690,
+      "heading": "RAPID REVISION 9 - Inter-Thinker Debates, Criticisms and Replies",
+      "preview": "WRONG: Two sequential mini-essays, or criticisms without replies. Use criticism -> reply -> residual.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 600.724
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 570.256
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2710,
+      "markdown_body_line_end": 2711,
+      "heading": "RAPID REVISION 10 - Globalization, Contemporary Sovereignty and Common Traps",
+      "preview": "WRONG: \"Sovereignty disappears under globalization.\" Say reconfigured, constrained, pooled, negotiated.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 417.356
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 386.888
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2719,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Sovereignty.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank, the corpus-driven depth",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 366.188
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 271.12
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2767,
+      "markdown_body_line_end": 2767,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 11 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 164.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 97.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2769,
+      "markdown_body_line_end": 2781,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 501.39
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2789,
+      "markdown_body_line_end": 2797,
+      "heading": "11.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 446.19
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 184.288
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2804,
+      "heading": "11.1 10-mark method (~150 words · 5 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not attempt the full Austin → Kelsen → Hart sequence. Use **one** repair, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 85.288
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 54.82
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2811,
+      "markdown_body_line_end": 2811,
+      "heading": "11.2 15-mark method (~220 words · 6 moves · ~18 minutes)",
+      "preview": "⚠️ For Kautilya stems, the mark-bearing move is showing that his sovereign is **strong but duty-bound** — *saptāṅga* interdependence, *daṇḍanīti*, *yogakṣema* — so that he is neither an Austinian absolutist nor a constitutionalist.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 696.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 637.224
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2817,
+      "heading": "11.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On \"Austin vs Kautilya\" (2019 pattern), run five axes — source of authority, limits, purpose of rule, treatment of law, treatment of external relations — and finish with the asymmetry: Austin analyses the *form* of authority, Kautilya pr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 484.424
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 425.556
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2879,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §3A (added in this pass):** the Kelsen and Hart module is a named-scholar reconstruction adapted into this Philosophy owner. It asserts no page, chapter, edition or verbatim wording, makes no empirical claim about a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 414.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 341.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2887,
+      "markdown_body_line_end": 2887,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 314.324
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 269.656
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3480,
+      "markdown_body_line_end": 3482,
+      "heading": "EXAM APPLICATION 1 - The Concept and Taxonomy of Sovereignty",
+      "preview": "MEMORY: Concept spine -> internal/external + legal/political + de jure/de facto + titular/actual -> then \"this thinker answers WHERE final authority sits and WHETHER it can be absolute.\" Distinguish, locate, only then expound.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 606.024
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3503,
+      "markdown_body_line_end": 3505,
+      "heading": "EXAM APPLICATION 2 - Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "preview": "MEMORY: Bodin verdict formula -> \"the first systematic theory of modern sovereignty; indispensable vocabulary, but its absolutism sits uneasily with democratic and pluralist ideals.\" Concede the absolute/bound tension yourself.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 432.224
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 387.556
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3524,
+      "markdown_body_line_end": 3526,
+      "heading": "EXAM APPLICATION 3 - Austin I: The Command Theory of Legal Sovereignty",
+      "preview": "MEMORY: At 10 marks, use ONE precision distinction (legal vs political sovereignty) and ONE evidence unit; do not attempt the full Austin -> Kelsen -> Hart sequence -- that is a 20-mark move.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 242.156
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 197.488
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3546,
+      "markdown_body_line_end": 3548,
+      "heading": "EXAM APPLICATION 4 - Austin II: Criticisms and Compatibility with Democracy",
+      "preview": "MEMORY: Compatibility verdict -> \"Austin's legal form of sovereignty is unmatched; his account of democratic political reality is not.\" Degree-judgment, never a bare yes/no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3569,
+      "markdown_body_line_end": 3572,
+      "heading": "EXAM APPLICATION 5 - Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "preview": "MEMORY: 20-mark verdict -> \"Austin is not refuted from outside so much as rebuilt from inside -- Kelsen supplying a hierarchy of validity, Hart a structure of rules -- so the CONCEPT of supreme legal authority survives while the IMAGE of a ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 562.624
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 503.756
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3591,
+      "markdown_body_line_end": 3594,
+      "heading": "EXAM APPLICATION 6 - Laski and the Pluralist Critique of Absolute Sovereignty",
+      "preview": "MEMORY: Laski verdict formula -> \"an indispensable corrective against absolutism, yet a polity that can never speak with one voice cannot discharge the coordinating task -- emergency, defence, redistribution -- that made sovereignty necessa",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 358.356
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 299.488
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3615,
+      "markdown_body_line_end": 3617,
+      "heading": "EXAM APPLICATION 7 - Kautilya I: Saptanga, the Svami and Dandaniti",
+      "preview": "MEMORY: Kautilya mark-bearing move -> show the sovereign is STRONG BUT DUTY-BOUND (saptanga interdependence, dandaniti, welfare) -- neither an Austinian absolutist nor a modern constitutionalist.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 131.888
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 87.22
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3639,
+      "markdown_body_line_end": 3641,
+      "heading": "EXAM APPLICATION 8 - Kautilya II: Mandala, Sadgunya, Yogakshema and Modern Relevance",
+      "preview": "MEMORY: Quoted-line spine -> LOCATE the line in the mandala doctrine, state what it asserts, name its internal-welfare limit, then a graded verdict. Never treat the quotation as self-explanatory.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 628.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 583.824
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3659,
+      "markdown_body_line_end": 3661,
+      "heading": "EXAM APPLICATION 9 - Inter-Thinker Debates, Criticisms and Replies",
+      "preview": "MEMORY: Compare-stem spine -> \"fix the axes, run both/all in parallel, adjudicate with a degree-judgment.\" Austin gives the FORM; Kautilya the FUNCTION; the honest verdict names what each explains and what it cannot.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 416.224
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 371.556
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3680,
+      "markdown_body_line_end": 3682,
+      "heading": "EXAM APPLICATION 10 - Globalization, Contemporary Sovereignty and Common Traps",
+      "preview": "MEMORY: Globalization verdict -> \"sovereignty is illimitable in legal form, limited in political fact, and negotiated in international practice; the stem is answerable only as a matter of degree.\"",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 223.156
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 178.488
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3703,
+      "markdown_body_line_end": 3705,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED SOURCE / EXAMPLE -> OBJECTION / REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 448.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3709,
+      "markdown_body_line_end": 3709,
+      "heading": "SOLVED PYQ BANK - EXACTLY 11 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 11 primary parts (2018:2, 2019:1, 2020:2, 2021:2, 2022:1, 2023:1, 2024:1, 2025:1). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 423.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 336.424
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3736,
+      "markdown_body_line_end": 3738,
+      "heading": "Solved PYQ 1 - 2018 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks - it defines danda precisely (calibrated, not cruel), embeds it in saptanga and yogakshema, and delivers a graded verdict at exactly the 10-mark depth without drifting into the mandala.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 547.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3770,
+      "markdown_body_line_end": 3772,
+      "heading": "Solved PYQ 2 - 2018 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it converts \"satisfactory?\" into an explicit two-part test, runs FALSE/DANGEROUS/UNREAL, states the coordination objection, and grades rather than merely praises Laski.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 171.224
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 78.956
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3801,
+      "markdown_body_line_end": 3803,
+      "heading": "Solved PYQ 3 - 2019 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it fixes axes and runs both thinkers in parallel, then closes with the FORM-vs-FUNCTION asymmetry instead of a flat \"they agree / disagree.\"",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 474.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 382.424
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3828,
+      "markdown_body_line_end": 3830,
+      "heading": "Solved PYQ 4 - 2020 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks - it gives the exact definition, the A-P-U attributes, the higher-law limits, and the foundational significance -- pure exposition at 10-mark depth without heavy critique.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 134.824
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 56.756
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3859,
+      "markdown_body_line_end": 3861,
+      "heading": "Solved PYQ 5 - 2020 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it distinguishes the senses first, weighs erosion against transformation, and separates legal independence from practical interdependence rather than declaring sovereignty \"dead.\"",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 496.891
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 418.824
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3885,
+      "markdown_body_line_end": 3887,
+      "heading": "Solved PYQ 6 - 2021 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks - it answers on two levels (legal yes / constitutional no) and ties incompatibility precisely to derivativeness, division and rights, not to vague \"democracy is different.\"",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 190.424
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 112.356
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3912,
+      "markdown_body_line_end": 3913,
+      "heading": "Solved PYQ 7 - 2021 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it separates transferable *principles* from the > non-transferable *form*, giving a disciplined \"yes, selectively\" instead of a blanket applicable / not-applicable.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 533.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 455.224
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3948,
+      "markdown_body_line_end": 3950,
+      "heading": "Solved PYQ 8 - 2022 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it runs each attribute with its argument (Part A), then grades compatibility honestly (Part B), conceding the absolute-vs-bound tension instead of defending or dismissing Bodin wholesale.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 711.024
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3979,
+      "markdown_body_line_end": 3981,
+      "heading": "Solved PYQ 9 - 2023 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks - it elucidates FALSE/DANGEROUS/UNREAL as the reasons for rejection, adds \"one association among many\" and \"earned allegiance,\" and pre-empts the shared-sovereignty objection.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 404.824
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 312.556
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4008,
+      "markdown_body_line_end": 4010,
+      "heading": "Solved PYQ 10 - 2024 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it lists concrete insights, argues relevance by theme (capacity, welfare, strategy), and adds the transposition caution instead of claiming ancient monarchy maps directly onto the present.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 533.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 455.224
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4031,
+      "markdown_body_line_end": 4031,
+      "heading": "Solved PYQ 11 - 2025 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks - it controls attribution before interpreting the prompt, then uses maṇḍala, ṣāḍguṇya and yogakṣema to give a sourced, qualified verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 167.024
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 74.756
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4035,
+      "markdown_body_line_end": 4035,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4039,
+      "markdown_body_line_end": 4039,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: Distinguish / Explain",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 715.624
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 670.956
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4063,
+      "markdown_body_line_end": 4063,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 411.956
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 345.288
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4092,
+      "markdown_body_line_end": 4092,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 400 words - directive: Examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4257,
+      "markdown_body_line_end": 4262,
+      "heading": "ADVANCED SESSION 1 - The Concept and Taxonomy of Sovereignty",
+      "preview": "ANALYSIS: Why the distinctions matter. The classic monist claim -- one supreme, indivisible, unlimited authority -- looks devastating only if you refuse to disaggregate. Once you separate LEGAL finality from POLITICAL power, and DE JURE tit",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 374.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 286.824
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4264,
+      "markdown_body_line_end": 4267,
+      "heading": "ADVANCED SESSION 1 - The Concept and Taxonomy of Sovereignty",
+      "preview": "ANALYSIS: Sovereignty is not force. A gang can compel; it is not sovereign, because sovereignty implies RECOGNISED or effectively settled final authority within a political order, not episodic coercion. This is why de facto power alone is t",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 286.824
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 227.956
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4269,
+      "markdown_body_line_end": 4272,
+      "heading": "ADVANCED SESSION 1 - The Concept and Taxonomy of Sovereignty",
+      "preview": "WRONG: Collapsing \"the state\", \"the government\" and \"the sovereign\" into one word. The state is the community; the government is an organ; sovereignty is the attribute of final authority the community claims. Careless identification of \"the",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 227.956
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 169.088
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4280,
+      "markdown_body_line_end": 4284,
+      "heading": "ADVANCED SESSION 2 - Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "preview": "ANALYSIS: The permanent tension in Bodin is between \"absolute\" and \"bound\". He wants a power high enough to end civil war, yet he refuses pure caprice by retaining divine/natural-law and the leges imperii. This is exactly the vulnerability ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4286,
+      "markdown_body_line_end": 4290,
+      "heading": "ADVANCED SESSION 2 - Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "preview": "ANALYSIS: Indivisibility is a LOGICAL claim, not merely a preference. If two authorities were each final, an irresoluble conflict could reopen the disorder Bodin wants to close. He can allow distribution of governmental FUNCTIONS (courts, e",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 712.224
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 639.156
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4292,
+      "markdown_body_line_end": 4296,
+      "heading": "ADVANCED SESSION 2 - Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "preview": "ANALYSIS (comparative context, not a syllabus thinker): Hobbes radicalises the same impulse -- an undivided sovereign authorised to secure peace -- but strips the higher-law furniture Bodin keeps. Naming this contrast is legitimate enrichme",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 639.156
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 566.088
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4298,
+      "markdown_body_line_end": 4300,
+      "heading": "ADVANCED SESSION 2 - Bodin: The Absolute and Perpetual Power of the Commonwealth",
+      "preview": "WRONG: Writing \"Bodin's sovereign is lawless.\" He is legibus solutus with respect to ordinary positive law only; divine law, natural law and the fundamental laws of the realm remain normative limits.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 566.088
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 521.42
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4308,
+      "markdown_body_line_end": 4311,
+      "heading": "ADVANCED SESSION 3 - Austin I: The Command Theory of Legal Sovereignty",
+      "preview": "ANALYSIS: Austin's strength is his self-imposed narrowness. By privileging SOURCE and ENFORCEABILITY he gets a testable criterion of legal validity that Bodin's mix of law, office and higher law never quite delivers. Penal law fits him beau",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 496.42
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 437.553
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4313,
+      "markdown_body_line_end": 4317,
+      "heading": "ADVANCED SESSION 3 - Austin I: The Command Theory of Legal Sovereignty",
+      "preview": "ANALYSIS: Indivisibility, for Austin, is a LOGICAL feature of his scheme, not a report on political reality. If final authority were partitioned, limited by a legal superior, or indeterminate, the chain of command would break and the system",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 437.553
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 378.685
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4319,
+      "markdown_body_line_end": 4324,
+      "heading": "ADVANCED SESSION 3 - Austin I: The Command Theory of Legal Sovereignty",
+      "preview": "ANALYSIS (comparative context): Austin's determinate superior is the exact opposite pole from popular sovereignty. Where Rousseau (not a syllabus thinker here) makes the sovereign the people's general will -- inalienable and collective -- A",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 378.685
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 305.617
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4326,
+      "markdown_body_line_end": 4329,
+      "heading": "ADVANCED SESSION 3 - Austin I: The Command Theory of Legal Sovereignty",
+      "preview": "WRONG: Saying \"Austin reduces law to coercion, therefore he is refuted.\" He KNOWS he privileges enforceability; the powerful objection (next layer) is that much law is power-CONFERRING, not command -- rules for making a valid will or contra",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 305.617
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 246.75
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4337,
+      "markdown_body_line_end": 4341,
+      "heading": "ADVANCED SESSION 4 - Austin II: Criticisms and Compatibility with Democracy",
+      "preview": "ANALYSIS: The federalism reply is the sharpest test. Austin can say \"the constitution-making authority is sovereign\" -- but that often SHIFTS rather than solves the problem, because the constitution itself may entrench shared or divided aut",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 221.75
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 148.682
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4343,
+      "markdown_body_line_end": 4347,
+      "heading": "ADVANCED SESSION 4 - Austin II: Criticisms and Compatibility with Democracy",
+      "preview": "ANALYSIS: On democracy, do not answer with a flat yes or no. YES in a narrow legal sense: one can identify a determinate law-making body. NO in the deeper sense: democracy makes that authority DERIVATIVE (electorally dependent), DIVIDED (in",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 148.682
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 75.614
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4349,
+      "markdown_body_line_end": 4352,
+      "heading": "ADVANCED SESSION 4 - Austin II: Criticisms and Compatibility with Democracy",
+      "preview": "ANALYSIS: Maine's Ranjit Singh example is not just \"one odd case.\" The point is the WIDER mismatch between a neat schema and the personal, unstable, socially embedded character of much historical authority. Concede that exceptional cases do",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4354,
+      "markdown_body_line_end": 4357,
+      "heading": "ADVANCED SESSION 4 - Austin II: Criticisms and Compatibility with Democracy",
+      "preview": "WRONG: Treating international law's existence as an obvious knock-down. Austin's reply preserves conceptual purity (no world sovereign -> not \"law properly\"); the honest verdict is that he narrows \"law\" excessively, not that he simply blund",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 685.556
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4365,
+      "markdown_body_line_end": 4370,
+      "heading": "ADVANCED SESSION 5 - Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "preview": "ANALYSIS: \"Being obliged\" vs \"having an obligation\" is Hart's decisive stroke. Austin's habit of obedience captures only the EXTERNAL regularity of behaviour -- which cannot distinguish a legal duty from a gunman's threat. The INTERNAL poin",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 660.556
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 587.488
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4372,
+      "markdown_body_line_end": 4377,
+      "heading": "ADVANCED SESSION 5 - Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "preview": "ANALYSIS: Kelsen's Grundnorm is deliberately NOT a fact and NOT a moral norm -- it is a transcendental-logical presupposition that lets jurists read a chain of norms as valid law rather than as effective threats. The residual problem to con",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 587.488
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 514.42
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4379,
+      "markdown_body_line_end": 4383,
+      "heading": "ADVANCED SESSION 5 - Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "preview": "ANALYSIS: Do not merge Kelsen, Hart and Laski into one \"critique of Austin.\" They replace the personal sovereign with THREE different things -- a norm-hierarchy, an official social practice, and a plurality of associations. Dworkin's hard-c",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 514.42
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 441.353
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4385,
+      "markdown_body_line_end": 4387,
+      "heading": "ADVANCED SESSION 5 - Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+      "preview": "WRONG: Calling the Grundnorm a moral standard, or treating Hart's rules as a restatement of Austin. The Grundnorm confers legal validity only; Hart REJECTS command theory (nullity is not a sanction; habit cannot explain succession).",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 441.353
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 382.485
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4395,
+      "markdown_body_line_end": 4399,
+      "heading": "ADVANCED SESSION 6 - Laski and the Pluralist Critique of Absolute Sovereignty",
+      "preview": "ANALYSIS: Laski's critique is BOTH empirical and normative -- and you must run both. Empirically, monism misdescribes a functionally differentiated society. Normatively, treating one will as final licenses domination and overrides minority ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 357.485
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 284.417
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4401,
+      "markdown_body_line_end": 4404,
+      "heading": "ADVANCED SESSION 6 - Laski and the Pluralist Critique of Absolute Sovereignty",
+      "preview": "ANALYSIS: \"Shared sovereignty\" is the standard objection -- if sovereignty is divided it is not sovereignty. Laski's real reply is that the MONISTIC CONCEPT ITSELF is misleading: political life contains overlapping authorities, and theory s",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 284.417
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 225.55
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4406,
+      "markdown_body_line_end": 4411,
+      "heading": "ADVANCED SESSION 6 - Laski and the Pluralist Critique of Absolute Sovereignty",
+      "preview": "ANALYSIS (school context, marked): Laski is the canonical name here, but the English pluralist current also includes figures such as MacIver (the state as one association among associations), Figgis (the real personality of groups) and G.D.",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 225.55
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 152.482
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4413,
+      "markdown_body_line_end": 4416,
+      "heading": "ADVANCED SESSION 6 - Laski and the Pluralist Critique of Absolute Sovereignty",
+      "preview": "WRONG: Calling Laski an anarchist, or reducing his pluralism to mere administrative decentralisation. He challenges the very CLAIM that one final, unlimited will exists in the state -- a conceptual, not merely a managerial, attack.",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 152.482
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 107.814
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4424,
+      "markdown_body_line_end": 4428,
+      "heading": "ADVANCED SESSION 7 - Kautilya I: Saptanga, the Svami and Dandaniti",
+      "preview": "ANALYSIS: The organism model quietly refutes the \"premodern despot\" reading. If sovereignty is distributed across seven interdependent limbs, the king cannot be identical with his private will -- his authority is CONDITIONAL on ministerial ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4430,
+      "markdown_body_line_end": 4433,
+      "heading": "ADVANCED SESSION 7 - Kautilya I: Saptanga, the Svami and Dandaniti",
+      "preview": "ANALYSIS: Dandaniti is not blind terror. Its deep claim is that fear WITHOUT welfare is self-defeating, while welfare WITHOUT order is impossible -- so coercion and welfare are complementary. This is why Kautilya is a REALIST but not a norm",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 712.224
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 653.356
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4435,
+      "markdown_body_line_end": 4438,
+      "heading": "ADVANCED SESSION 7 - Kautilya I: Saptanga, the Svami and Dandaniti",
+      "preview": "ANALYSIS: The contrast with Austin is structural. Austin asks for the legal SOURCE of command; Kautilya describes the operational ANATOMY of rule. A ruler can satisfy Austin (determinate, obeyed) yet fail Kautilya (no treasury, no counsel) ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 653.356
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 594.488
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4440,
+      "markdown_body_line_end": 4443,
+      "heading": "ADVANCED SESSION 7 - Kautilya I: Saptanga, the Svami and Dandaniti",
+      "preview": "WRONG: Equating Kautilya with Austinian absolutism, or reducing him to foreign-policy cunning. The svami is strong but bound by dharma, welfare, prudence and institutional interdependence; saptanga and dandaniti come BEFORE the mandala.",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 594.488
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 535.62
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4451,
+      "markdown_body_line_end": 4451,
+      "heading": "ADVANCED SESSION 8 - Kautilya II: Mandala, Sadgunya, Yogakshema and Modern Relevance",
+      "preview": "ANALYSIS: The 2025 line is the examiner's prompt framing, not a verified Kautilya quotation. Its defensible use is analytical: the maṇḍala and ṣāḍguṇya support strategic flexibility as positions, power and interests change, while yogakṣema ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 510.62
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 451.753
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4453,
+      "markdown_body_line_end": 4457,
+      "heading": "ADVANCED SESSION 8 - Kautilya II: Mandala, Sadgunya, Yogakshema and Modern Relevance",
+      "preview": "ANALYSIS: Modern relevance is best argued by THEME, not transposition. Kautilya refuses the false choice between moralism and realism: sovereignty involves administrative capacity, fiscal strength (kosa), intelligence, external balancing (m",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 451.753
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 378.685
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4459,
+      "markdown_body_line_end": 4462,
+      "heading": "ADVANCED SESSION 8 - Kautilya II: Mandala, Sadgunya, Yogakshema and Modern Relevance",
+      "preview": "ANALYSIS: On democracy (2021 stem), the answer is SELECTIVE APPROPRIATION. You can retain strategic realism, administrative discipline and welfare orientation while rejecting monarchical absolutism -- so the principles of statecraft are app",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 378.685
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 319.817
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4464,
+      "markdown_body_line_end": 4466,
+      "heading": "ADVANCED SESSION 8 - Kautilya II: Mandala, Sadgunya, Yogakshema and Modern Relevance",
+      "preview": "WRONG: Reducing Kautilya to the mandala alone, or reading yogakshema as a mask for pure raison d'etat. Mandala matters, but so do saptanga, dandaniti and yogakshema; welfare and prudence are genuinely combined.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 319.817
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 275.15
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4474,
+      "markdown_body_line_end": 4478,
+      "heading": "ADVANCED SESSION 9 - Inter-Thinker Debates, Criticisms and Replies",
+      "preview": "ANALYSIS: The Austin vs Kautilya asymmetry (the 2019 stem) is the highest-value comparison. Austin analyses the legal FORM of authority; Kautilya prescribes its political FUNCTION. They are not rival answers to one question -- they answer d",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 250.15
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 177.082
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4480,
+      "markdown_body_line_end": 4483,
+      "heading": "ADVANCED SESSION 9 - Inter-Thinker Debates, Criticisms and Replies",
+      "preview": "ANALYSIS: Bodin vs Austin is a real difference, not a synonym. Bodin allows higher-law restraints (divine, natural, leges imperii); Austin's legal sovereign is formally unlimited, with moral limits placed OUTSIDE the definition of law. Blur",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 177.082
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 118.214
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4485,
+      "markdown_body_line_end": 4489,
+      "heading": "ADVANCED SESSION 9 - Inter-Thinker Debates, Criticisms and Replies",
+      "preview": "ANALYSIS: Even severe critics rarely deny that order needs SOME principle of final decision. So reframe the whole debate: the real question is not WHETHER sovereignty exists but HOW it is structured and limited -- undivided and morally self",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 118.214
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 59.346
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4491,
+      "markdown_body_line_end": 4494,
+      "heading": "ADVANCED SESSION 9 - Inter-Thinker Debates, Criticisms and Replies",
+      "preview": "WRONG: Writing two sequential mini-essays on a compare stem, or listing five criticisms with no replies. Each criticism needs its monist reply AND its residual problem -- that objection-reply-residual layer IS the answer on \"critically exam",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4502,
+      "markdown_body_line_end": 4507,
+      "heading": "ADVANCED SESSION 10 - Globalization, Contemporary Sovereignty and Common Traps",
+      "preview": "ANALYSIS: Route the four thinkers through globalization to show command of the whole file. Bodin: external pressure does not negate the need for a final INTERNAL authority. Austin: interdependence complicates the \"uncommanded superior.\" Las",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 719.424
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 646.356
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4509,
+      "markdown_body_line_end": 4513,
+      "heading": "ADVANCED SESSION 10 - Globalization, Contemporary Sovereignty and Common Traps",
+      "preview": "ANALYSIS: The trap is a stale absolute in EITHER direction -- \"sovereignty is dead\" and \"sovereignty is untouched\" are both wrong. Legal INDEPENDENCE is not the same as practical INTERDEPENDENCE; a state can be legally sovereign and economi",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 646.356
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 587.488
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4515,
+      "markdown_body_line_end": 4518,
+      "heading": "ADVANCED SESSION 10 - Globalization, Contemporary Sovereignty and Common Traps",
+      "preview": "ANALYSIS: The canonical trap list is the examiner's own checklist -- Austin's sovereign is not \"the state\"; Laski is not an anarchist; Bodin is not lawless; Kautilya is not an Austinian absolutist; do not merge Kelsen/Hart/Laski; do not dat",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 587.488
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 528.62
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4520,
+      "markdown_body_line_end": 4522,
+      "heading": "ADVANCED SESSION 10 - Globalization, Contemporary Sovereignty and Common Traps",
+      "preview": "WRONG: Writing that sovereignty \"simply disappears\" under globalization. The defensible claim is reconfiguration -- pooled, constrained, negotiated, networked -- with final decision on war, treaty and membership still claimed.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 528.62
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 483.953
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4528,
+      "markdown_body_line_end": 4528,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** Constituent power, legal pluralism, emergency sovereignty and global-governance debates are unnecessary for a competent Core answer on this clause, and should be used only after Bodin, Austin, Laski an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 458.953
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 400.085
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4533,
+      "markdown_body_line_end": 4538,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 337.285
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 115.883
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4550,
+      "markdown_body_line_end": 4552,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "One-glance revision of the whole file. Every entry is compressed for recall, not for first learning; read it after the ten layered subtopics, never instead of them.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 616.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 571.624
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4573,
+      "markdown_body_line_end": 4577,
+      "heading": "B. Taxonomy spine (open every answer with this)",
+      "preview": "internal / external   |   legal / political",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 257.624
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 216.624
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4581,
+      "markdown_body_line_end": 4587,
+      "heading": "C. Thinker matrix (monist <-> pluralist)",
+      "preview": "Axis | Bodin | Austin | Laski | Kautilya",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "Bodin",
+          "Austin",
+          "Laski",
+          "Kautilya"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 191.624
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 65.222
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4637,
+      "markdown_body_line_end": 4643,
+      "heading": "H. Trap list (final pre-submission check)",
+      "preview": "WRONG: Austin's sovereign = \"the state.\" It is a determinate person/body. WRONG: Laski is an anarchist. He limits, he does not abolish, the state. WRONG: Bodin is lawless. He keeps divine/natural/fundamental-law limits. WRONG: Kautilya's sv",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 698.024
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4659,
+      "markdown_body_line_end": 4660,
+      "heading": "I. Graded verdicts (memorise the closing lines)",
+      "preview": "MEMORY: The whole file in one line -- sovereignty is not dying and not absolute; the question is always HOW final authority is LOCATED, STRUCTURED and LIMITED.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 473.824
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 429.156
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4666,
+      "markdown_body_line_end": 4683,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The central question and the analytical axes of sovereignty",
+      "preview": "CENTRAL QUESTION -> where is final authority LOCATED, how is it STRUCTURED, how far",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 382.156
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 207.956
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4687,
+      "markdown_body_line_end": 4709,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Bodin: absolute, perpetual, undivided - and still bounded",
+      "preview": "CONDITION: confessional civil war; churches, estates and feudal lords each claim finality",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 562.091
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4713,
+      "markdown_body_line_end": 4735,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Austin's command theory: the mechanism of legal sovereignty",
+      "preview": "PROJECT -> analytical jurisprudence: define law and sovereignty with juristic precision",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 540.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 314.891
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4739,
+      "markdown_body_line_end": 4758,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: The external critique of Austin and the democracy verdict",
+      "preview": "+----------------+---------------------------+------------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4762,
+      "markdown_body_line_end": 4782,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Kelsen and Hart: the internal repair of supreme legal authority",
+      "preview": "DIAGNOSIS -> the command theory fails on SUCCESSION, PERSISTENCE and",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 365.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4786,
+      "markdown_body_line_end": 4806,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Laski's pluralism: the rejection and its replacement",
+      "preview": "TARGET -> the monistic doctrine of absolute, indivisible, unlimited state sovereignty",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 343.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 139.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4810,
+      "markdown_body_line_end": 4830,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Kautilya inside the state: seven limbs and the calibrated rod",
+      "preview": "CLAIM -> sovereignty is the CAPACITY of a state organism, not one man's bare will",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4834,
+      "markdown_body_line_end": 4856,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Kautilya outside the state: circle, six-fold policy and relevance",
+      "preview": "SPATIAL LAYER -> the MAṆḌALA: authority is measured against neighbours",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 335.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4860,
+      "markdown_body_line_end": 4881,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Comparison grid and the objection-reply-residual engine",
+      "preview": "+---------------+------------+-------------+-----------+---------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 313.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 98.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4885,
+      "markdown_body_line_end": 4908,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Globalization, standing traps and the reusable answer spine",
+      "preview": "SAME EVIDENCE -> treaties | trade regimes | supranational adjudication | flows",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0191",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4912,
+      "markdown_body_line_end": 4922,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Five classical attributes and two sovereignty-of-the-people claims",
+      "preview": "CLASSICAL LEGAL ATTRIBUTES -> absoluteness | permanence | universality |",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 529.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 427.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0192",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4926,
+      "markdown_body_line_end": 4936,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Pluralist lineage and jurisdiction-safe constitutional comparison",
+      "preview": "PLURALIST SCHOOL -> Figgis: real associations | Cole: functional groups |",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 302.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    }
+  ]
+}

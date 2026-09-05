@@ -1,0 +1,38 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+  "topic_title": "Crime and Punishment",
+  "official_syllabus_verbatim": "Crime and Punishment : Corruption, Mass Violence, Genocide, Capital Punishment.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 12,
+  "verified_pyqs": [
+    "\"Corrupt practices reveal an inherent tension between particularistic and universalistic normative standards.\" Do you agree with this statement? Give reasons and justification for your answer.",
+    "Can one's right to life be absolute? Answer with reference to the idea of Capital Punishment.",
+    "On what grounds would you accept or reject the idea of capital punishment as an effective deterrent? Discuss.",
+    "\"Severity of punishment should be proportionate to the seriousness of the crime.\" Do you agree that while punishing a juvenile, the nature of the crime should be considered? Justify your answer.",
+    "Is corruption a systemic issue or an ethical issue? Give your critical comments.",
+    "What are the moral justifications of capital punishment? Discuss.",
+    "Explain the reformative theory of punishment and discuss whether this is in tune with human dignity.",
+    "Do you think that retributive theory of punishment is against human rights? Discuss.",
+    "How far do the social and political regimes condition corrupt practices in a nation-state? Discuss.",
+    "Is corruption not a form of mass violence? Discuss.",
+    "Does capital punishment weaken the doctrine of social justice? Discuss.",
+    "What measures do you suggest to eradicate corruption in Indian democracy?"
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g4\\topic-07_Complete-Learning-Session_2026-09-03.md": "b63ce85504c56db4c478fd0a4cc6b9c65d2654ed5178630fbfdabaf85a16ee50",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Crime-and-Punishment.md": "cf99eb6e787ea7771a4c75f2517313563ad89bb1738b56e1d567c9fc90915437",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Crime-and-Punishment\\Crime-and-Punishment_Layered-Complete-Learning-Session_2026-08-20.md": "fa9c552820ac00a19a63d3aea0f47f924c319df8d23a99e6c38239bfe1c65ccf",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Crime-and-Punishment\\Crime-and-Punishment_Layered-Solved-Practice-Workbook_2026-08-20.md": "832fcdf9ed30c82ea3cd6e251fcfb05f0684429423b435289f21d6a06ff703f0"
+  }
+}

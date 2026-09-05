@@ -1,0 +1,937 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g3\\topic-04_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g3\\topic-04_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 195,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Forms-of-Government.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank with its corpus-",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 161.791
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 52.524
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 226,
+      "markdown_body_line_end": 226,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 10 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 339.791
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 273.124
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 239,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 553.39
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 255,
+      "heading": "10.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 498.19
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 215.288
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 262,
+      "heading": "10.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not run the full authority typology, the populism debate and the classical classification. One line of argument, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 102.088
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 57.42
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 271,
+      "heading": "10.2 15-mark method (~220 words · 6 moves · ~18 minutes)",
+      "preview": "⚠️ For theocracy stems, the mark-bearing move is the distinction between **religiously informed public reasoning** (compatible with constitutional democracy) and **theocratic sovereignty** (a claim that political authority derives from and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 633.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 560.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 278,
+      "markdown_body_line_end": 278,
+      "heading": "10.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On propaganda stems, the mark-bearing move is the **regulator's dilemma** (§4A.5): the remedy hands the state power over public truth, so defensible responses must be structural — plurality, transparency, independent adjudication, civic ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 404.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 331.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 366,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §4A (added in this pass):** the Weber, Schumpeter, Michels and populism modules are named-scholar reconstructions adapted into this Philosophy owner. They assert no page, chapter, edition or verbatim wording, and ma",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 604.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 516.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 374,
+      "markdown_body_line_end": 374,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 489.324
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 444.656
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1018,
+      "heading": "EXAM APPLICATION 1 - The Classification Problem: Who Rules, For Whom, Under What Limits",
+      "preview": "MEMORY: Concept spine -> WHO / FOR WHOSE GOOD / BY WHAT TITLE / UNDER WHAT LIMITS -> descriptive or normative? -> only then expound the specific form.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 606.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 561.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1039,
+      "heading": "EXAM APPLICATION 2 - Plato: The Degeneration of Constitutions and the Critique of Democracy",
+      "preview": "MEMORY: 2025 = \"Comment on Plato's critique of Democracy\". Four moves, ~150 words: target -> spine -> objection -> graded verdict. Never a description dump.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 394.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 349.556
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1060,
+      "heading": "EXAM APPLICATION 3 - Aristotle: The Six-Fold Matrix, Aristocracy/Oligarchy and the Polity",
+      "preview": "MEMORY: Matrix = number x purpose (F2). Middle-course = polity + middle class (F3). \"Common interest\" is not self-specifying -- name the standard you use.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 153.556
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 108.888
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1083,
+      "markdown_body_line_end": 1084,
+      "heading": "EXAM APPLICATION 4 - Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim",
+      "preview": "MEMORY: Freedom stem -> constitutional-only \"yes\". Systematic stem -> \"above party, not above the constitution\". Never let symbolic monarchy blur into autocracy.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 586.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 541.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1110,
+      "markdown_body_line_end": 1111,
+      "heading": "EXAM APPLICATION 5 - Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+      "preview": "MEMORY: Theocracy = 3 owned stems. Status (2019, residual) / relation to monarchy (2022, divine-right bridge) / validity (2025, criterion verdict). Never caricature.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 302.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 258.156
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1138,
+      "heading": "EXAM APPLICATION 6 - Democracy: Models, Institutional Forms and Minority Protection",
+      "preview": "MEMORY: 2018 = liberal democracy + social cohesion (Indian context, Ambedkar). 2020 = minority protection, degree judgment (form vs substance). Liberty/equality as distinctive features (2018 Q2a) is Ideals, not here.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 739.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1161,
+      "heading": "EXAM APPLICATION 7 - Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+      "preview": "MEMORY: Authority types = ground of belief (F4). Routinisation (F5) = succession/ systematic. Sequence: Plato (competence) -> Michels (organisation) -> Schumpeter (redefine). Never equate \"legitimate\" with \"justified\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 529.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 484.756
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1186,
+      "heading": "EXAM APPLICATION 8 - Populism, Illiberal Democracy and Propaganda",
+      "preview": "MEMORY: 2022 propaganda (20) = regulator's dilemma + structural remedies. 2023 challenges (15) = form-vs-substance + institutional repairs. Never name actors.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 282.556
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 237.888
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1211,
+      "heading": "EXAM APPLICATION 9 - Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+      "preview": "MEMORY: Federal/unitary + decentralisation = SCAFFOLDING (not owned PYQs). Comparison rule: shared axes in parallel; error-correction is the axis that decides verdicts.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 722.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1234,
+      "markdown_body_line_end": 1235,
+      "heading": "EXAM APPLICATION 10 - Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+      "preview": "MEMORY: Same axes in parallel -> error-correction decides -> graded verdict. No form wins on every axis; say which axis you are weighting and why.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 498.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 453.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1258,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE / EXAMPLE -> OBJECTION / REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1262,
+      "markdown_body_line_end": 1262,
+      "heading": "SOLVED PYQ BANK - EXACTLY 10 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 10 primary parts (2018:1, 2019:1, 2020:1, 2021:1, 2022:2, 2023:2, 2024:0, 2025:2). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 576.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1298,
+      "markdown_body_line_end": 1301,
+      "heading": "Solved PYQ 1 - 2018 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it DEFINES liberal democracy exactly (popular rule + constitutional limits + minority protection), answers the \"deeper principles\" half with Ambedkar's political-vs-social-equality thesis, and anchors India w",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 243.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 136.756
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1336,
+      "heading": "Solved PYQ 2 - 2019 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it states the residual/contested STATUS, grounds the defect in F13 (interpretation monopoly, unequal citizenship), draws the informed-public-reasoning vs theocratic-sovereignty line, and closes on the criteri",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 471.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 412.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1369,
+      "heading": "Solved PYQ 3 - 2020 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs the achievements/limits balance the stem demands, deploys F10 form-vs-substance as the critical engine, and grades with the form/substance verdict instead of a flat \"yes/no\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 89.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 44.356
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1399,
+      "markdown_body_line_end": 1401,
+      "heading": "Solved PYQ 4 - 2021 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it treats the \"does X leave room for Y\" directive conceptually (entailment of monarchy vs requirements of freedom), splits absolute from constitutional, and uses F4 to locate freedom in legal-rational limits,",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 533.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 426.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1447,
+      "markdown_body_line_end": 1450,
+      "heading": "Solved PYQ 5 - 2022 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it reframes propaganda as an attack on opinion-formation (F11), runs two objection/reply chains, lands the REGULATOR'S DILEMMA with structural remedies + F12, keeps India to Art 19(1)(a)/19(2) and RPA 1951 as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 629.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 570.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1487,
+      "heading": "Solved PYQ 6 - 2022 Q4(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the locus-of-sovereignty axis, states the canonical \"theologically legitimated vs politically constitutive\" line, uses F13/F4, and grades the relation as contingent-historical rather than necessary.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 221.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 114.956
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1517,
+      "markdown_body_line_end": 1519,
+      "heading": "Solved PYQ 7 - 2023 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the systematicity conditions, uses F5 (routinisation) to explain how a crown becomes rule-bound, and disambiguates \"above politics\" (above party, not above accountability) before a conditional verdic",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 533.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 426.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1554,
+      "markdown_body_line_end": 1556,
+      "heading": "Solved PYQ 8 - 2023 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it separates form from substance, itemises the challenges with named anchors (F9/F8/Laclau, F11, Michels/F7, F10), pairs each with a structural remedy plus F12, and answers the anti-democratic objection tempo",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1588,
+      "heading": "Solved PYQ 9 - 2025 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes Plato's TARGET (rule by appetite and opinion, not participation as such), runs the three-claim spine with F1, raises the epistemic objection, and lands the asymmetric verdict the \"Comment on\" directi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 367.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 308.156
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1626,
+      "markdown_body_line_end": 1628,
+      "heading": "Solved PYQ 10 - 2025 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it NAMES the validity test before judging, runs the for/against charitably on shared axes, drives the defect through F13 (interpretation monopoly) with F14 as a dated Indian fact, and closes on the criterion ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 378.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 319.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1632,
+      "markdown_body_line_end": 1632,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 319.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 274.756
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1636,
+      "markdown_body_line_end": 1636,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: Distinguish / Explain",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 722.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1664,
+      "markdown_body_line_end": 1666,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: Why this earns marks -- it distinguishes classical (number x purpose, F2) from modern (legitimacy F4, form/substance F10, design), and closes on the cross-typology verdict rather than a flat list.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 440.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 362.156
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1670,
+      "markdown_body_line_end": 1670,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1703,
+      "markdown_body_line_end": 1706,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: Why this earns marks -- it fixes equal citizenship as the test, uses F5 to show the crown routinised under a public constitution and F13 to locate theocracy's defect in the interpretation monopoly, and grades with a criterion verdic",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 362.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 303.156
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1710,
+      "markdown_body_line_end": 1710,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 400 words - directive: Examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1757,
+      "markdown_body_line_end": 1760,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: Why this earns marks -- it makes the majority-rule/constitutional-democracy distinction the spine, runs F10 form/substance, two named objection/reply chains (F8/F9/Laclau; F11 + regulator's dilemma + F12), keeps India to dated legal",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 212.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 153.156
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    }
+  ]
+}

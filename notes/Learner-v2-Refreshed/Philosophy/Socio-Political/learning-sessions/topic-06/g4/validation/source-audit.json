@@ -1,0 +1,42 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-06",
+  "topic_title": "Humanism, Secularism and Multiculturalism",
+  "official_syllabus_verbatim": "Humanism; Secularism; Multi-culturalism.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 16,
+  "verified_pyqs": [
+    "Is the idea of secularism necessarily related to the idea of religious pluralism? Discuss.",
+    "How does the reconciliation of opposites take place in the Humanism of Tagore? Evaluate.",
+    "Delineate the central tenets of Humanism. How does advent of enlightenment in Europe pave the way for Humanism? Discuss.",
+    "Present an exposition of Gandhi's views on secularism as one of the foundational principles of democracy.",
+    "Discuss the role of ethical principles of tolerance and coexistence for the rise of multicultural societies.",
+    "Critically examine the challenges faced by a multicultural society with reference to India.",
+    "Secularism is not a rejection of religion but acceptance of all religions. Discuss.",
+    "Discuss the role of enlightenment movement in the rise of humanism.",
+    "Critically analyze the descriptive and normative aspects of multiculturalism.",
+    "Can humanism be a substitute for religion? Explain and evaluate in the context of the present Indian society.",
+    "Do you think that secularism requires complete separation of religion and state? Discuss.",
+    "What do you understand by multiculturalism? Explain the structural characteristics that make a nation multicultural.",
+    "What are the descriptive and normative perspectives on ideas of multiculturalism?",
+    "Do you subscribe to the view that Indian cultural identity needs to integrate the principles of multi-culturalism and respect for the dignity of each person? Justify your answer.",
+    "What do you understand by multi-culturalism ? How are globalization and multi-culturalism related ? How does their relationship affect cultural changes ?",
+    "What form of humanism do you approve as relevant in the present day context ? Discuss in detail."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-06\\g3\\topic-06_Complete-Learning-Session_2026-08-30.md": "a63e158ce78c8750ae720e7fc71ad74b9da9c75844c6b195a5e97a146077fbb2",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Humanism-Secularism-Multiculturalism.md": "30b70717e0181eb83e6ce859ecba1a77ce4873401082323c6026b2aee3c2bac8",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Humanism-Secularism-Multiculturalism\\Humanism-Secularism-Multiculturalism_Layered-Complete-Learning-Session_2026-08-19.md": "27044e80a8ba8e6636dc2e80fd4d800ee08fed955667c77b289540144761ec56",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Humanism-Secularism-Multiculturalism\\Humanism-Secularism-Multiculturalism_Layered-Solved-Practice-Workbook_2026-08-19.md": "8c42ec39fee47a402578b9f2cd4f7d070277ab0a559d50afe5ff1d1ecb27bd00"
+  }
+}

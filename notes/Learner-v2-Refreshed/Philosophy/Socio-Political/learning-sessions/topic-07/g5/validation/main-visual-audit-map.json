@@ -1,0 +1,4772 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g5\\topic-07_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Crime and Punishment - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Crime and Punishment : Corruption, Mass Violence, Genocide, Capital Punishment.  **Generation:** g5, 2026-09-03 · **Approval:** false pending explicit topic approval  **Evidence key:** ✅ canonical doctrine · ⚠️ anal",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 16,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Crime and Punishment concept map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g5\\assets\\philosophy-paper-ii-socio-political-philosophy-07\\crime-and-punishment-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 631.024
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 323.488
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 20,
+      "markdown_body_line_end": 20,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Three doors from a wrong to a punishment, and the four named cases of the clause",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-07\\g5\\assets\\philosophy-paper-ii-socio-political-philosophy-07\\crime-and-punishment-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 290.088
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 24,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Crime and Punishment : Corruption, Mass Violence, Genocide, Capital Punishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 448.156
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 417.688
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 30,
+      "markdown_body_line_end": 36,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 373.488
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 242.887
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 62,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Content | Ownership here | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Content",
+          "Ownership here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 250.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 73.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 81,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 759.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 522.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 95,
+      "markdown_body_line_end": 125,
+      "heading": "VISUAL - Legal crime and moral wrong: what overlaps and what does not",
+      "preview": "LEGAL CRIME                          MORAL WRONG",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 173,
+      "heading": "VISUAL - The criminalisation filter: may the state make THIS conduct a crime?",
+      "preview": "conduct",
+      "metadata": {
+        "language": "text",
+        "line_count": 41,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 179,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wrongdoing, criminalisation and punishment are three doors with three different keys, and the standard failure in this clause is to open the third door by pointing at how ugly the room behind the first one looks.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 286.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 239,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "CRIME vs MORAL WRONG -- two ideas that OVERLAP but are NOT identical",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 373.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 192.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 252,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE CRIMINALISATION FILTER -- may the state make THIS conduct a crime?",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 254,
+      "markdown_body_line_end": 255,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: \"WRONG -> CRIME -> PUNISH are three doors, each with its own key.\" Never open door three by pointing at how ugly the room behind door one is.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 746.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 701.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 274,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "WRONGDOING",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 679.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 548.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 290,
+      "heading": "1.1 Crime: legal and moral concepts",
+      "preview": "Concept | Question | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Concept",
+          "Question",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 411.924
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 323.722
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 304,
+      "heading": "1.1A Elements and defences as philosophical prerequisites",
+      "preview": "Element | Philosophical function | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Element",
+          "Philosophical function",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 254.122
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 88.72
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 336,
+      "heading": "CLOSING RECALL FLOW - Crime, Moral Wrong and the Question of Criminalisation",
+      "preview": "Crime, Moral Wrong and the Question of Criminalisation",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 636.673
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 348,
+      "markdown_body_line_end": 382,
+      "heading": "VISUAL - The seven conditions that must hold before any theory is reached",
+      "preview": "+---------------------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 418.073
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 97.073
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 388,
+      "markdown_body_line_end": 428,
+      "heading": "VISUAL - The five theories on four axes",
+      "preview": "+--------------+-------------+------------+----------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 434,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Punishment is not revenge with paperwork: it is public, proportionate and impartial hard treatment imposed on a responsible agent under rules known in advance, and every one of those adjectives is doing work that private vengeance cannot do",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 372.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 292.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 489,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE RESPONSIBILITY LADDER -- how much is a person answerable?",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 303.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 192.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 501,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE FIVE THEORIES OF PUNISHMENT (the whole map on one line)",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 173.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 92.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 505,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: theories = \"R-D-P-R-R\"; DIRECTIONS = back / forward / forward / forward / relational. Ask of any theory: which direction does it look, and what is its single test?",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 92.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 47.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 529,
+      "heading": "1.2A Free will, determinism and criminal responsibility",
+      "preview": "Position | Penal implication | Difficulty",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Position",
+          "Penal implication",
+          "Difficulty"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 597.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 475.49
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 546,
+      "heading": "1.3 Theories of punishment",
+      "preview": "Theory | Doctrine | Direction | Central test | Main danger",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 6,
+        "headers": [
+          "Theory",
+          "Doctrine",
+          "Direction",
+          "Central test",
+          "Main danger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 396.69
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 123.788
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 550,
+      "markdown_body_line_end": 554,
+      "heading": "1.3A Deontological and consequentialist justificatory logics",
+      "preview": "Logic | Central question | Typical theories | Non-negotiable objection",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Logic",
+          "Central question",
+          "Typical theories",
+          "Non-negotiable objection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 659.89
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "preview": "Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 596.49
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 508.321
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 633,
+      "heading": "VISUAL - The retributive argument, step by step",
+      "preview": "CRIME COMMITTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 675,
+      "heading": "VISUAL - Maximising and limiting retributivism are not the same theory",
+      "preview": "+-------------------+-------------------+-------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 681,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Retribution is not vengeance made respectable: it is the claim that a responsible agent's own act, and not the community's appetite for suffering, fixes both the ground and the ceiling of what may lawfully be done to him.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 346.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 732,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "RETRIBUTION vs UTILITARIAN DETERRENCE -- two opposite engines",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 384.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 293.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 741,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: \"DESERT looks in the rear-view mirror.\" Retributivism keeps its eyes on the deed already done, and lets desert set both the floor (only the guilty) and the ceiling (never more than deserved).",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 245.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 201.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 782,
+      "heading": "CLOSING RECALL FLOW - Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "preview": "Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 721.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 633.323
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 830,
+      "heading": "VISUAL - Two forward-looking arguments with two different targets",
+      "preview": "FORWARD-LOOKING PREVENTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 428.923
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 87.923
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 872,
+      "heading": "VISUAL - Where the classic objection actually lands",
+      "preview": "PURE DETERRENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 878,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Deterrence works on the offender's reasons and incapacitation works on his opportunities, which is why an argument that succeeds for one of them has not thereby succeeded for the other.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 346.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 933,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "FORWARD-LOOKING PREVENTION -- two mechanisms, one aim: fewer future harms",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 249.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 941,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: deterrence = \"make it not worth it\"; incapacitation = \"make it not possible.\" Beccaria's rule: it is the CERTAINTY of being caught, not the severity of the penalty, that deters.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 201.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 156.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 961,
+      "markdown_body_line_end": 980,
+      "heading": "CLOSING RECALL FLOW - Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "preview": "Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 704.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 616.123
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 1026,
+      "heading": "VISUAL - Two dimensions of proportionality, and where the juvenile stem bites",
+      "preview": "ORDINAL PROPORTIONALITY            CARDINAL PROPORTIONALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 430.723
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 109.723
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1062,
+      "heading": "VISUAL - Bounded rehabilitation: the four limits that answer the objection",
+      "preview": "REFORMATIVE MEASURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1068,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reform is not leniency: it accepts responsibility and accepts proportionate restraint, and adds only the claim that a state which forecloses the route back to membership has punished the person rather than the offence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 487.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 420.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1123,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE FORWARD-LOOKING, PERSON-CENTRED FAMILY -- reform and restoration",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 446.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 335.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1131,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: reform asks \"can this person be remade?\"; proportionality asks \"does the penalty FIT?\"; the juvenile case forces you to hold both at once.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 287.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 242.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1185,
+      "heading": "CLOSING RECALL FLOW - Reform, Dignity, Proportionality and Juveniles",
+      "preview": "Reform, Dignity, Proportionality and Juveniles",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 592.791
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 512.973
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1235,
+      "heading": "VISUAL - One institution, three questions, two directions of justification",
+      "preview": "+-----+-------------------+---------------------+-------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1241,
+      "markdown_body_line_end": 1277,
+      "heading": "VISUAL - How the grid dissolves the classical dilemma",
+      "preview": "APPARENT DILEMMA: retribution OR deterrence?",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1283,
+      "markdown_body_line_end": 1283,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Retribution and deterrence stop looking like rivals the moment one notices that they are answering different questions: prevention explains why the institution exists at all, desert explains whom it may touch and how far it may go.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 427.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 346.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1341,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE MIXED / LIMITING THEORY -- a funnel: a forward AIM inside backward LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 384.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 223.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1348,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: \"AIM forward, LIMIT backward.\" The forward-looking good (crime reduction) supplies the AIM; backward-looking desert supplies the FLOOR (only the guilty) and the CEILING (never beyond desert).",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 189.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 145.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1354,
+      "heading": "1A. THE JUSTIFYING-QUESTION GRID, AND THE EXPRESSIVE-COMMUNICATIVE-RESTORATIVE FAMILY",
+      "preview": "⚠️ **Why this section exists.** Most answers on punishment collapse three separate questions into one and then oscillate between retribution and deterrence. §1.3 gives the theories; this section gives the **structure of the problem** that d",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 145.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1364,
+      "markdown_body_line_end": 1368,
+      "heading": "1A.1 Hart's three questions that must be separated",
+      "preview": "Question | Formulation | Answers that fit well | Answers that fit badly",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Question",
+          "Formulation",
+          "Answers that fit well",
+          "Answers that fit badly"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 698.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 560.122
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1385,
+      "markdown_body_line_end": 1404,
+      "heading": "CLOSING RECALL FLOW - The Three-Question Grid and the Mixed or Limiting Theory",
+      "preview": "The Three-Question Grid and the Mixed or Limiting Theory",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 282.922
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 203.104
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1416,
+      "markdown_body_line_end": 1454,
+      "heading": "VISUAL - Expression, communication and restoration on the same act",
+      "preview": "THE PENAL ACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 372.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1460,
+      "markdown_body_line_end": 1502,
+      "heading": "VISUAL - Foucault: where he belongs and where he does not",
+      "preview": "SPECTACLE ON THE BODY  ->  DISCIPLINE OF CONDUCT",
+      "metadata": {
+        "language": "text",
+        "line_count": 41,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1508,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Condemnation supplies the meaning of punishment, communication supplies its address to the offender, and restoration supplies the repair of harm, which is why the old quarrel between retribution and reform is a false alternative rather than",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 286.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1567,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE COMMUNICATIVE ARC -- punishment as message, then dialogue, then repair",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1574,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: SPEAK -> ADDRESS -> REPAIR (Feinberg -> Duff -> Braithwaite), with Foucault as the sceptic in the margin.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 608.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 564.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1605,
+      "markdown_body_line_end": 1610,
+      "heading": "1A.3 Duff: punishment as communication and secular penance",
+      "preview": " | **Expressive (Feinberg)** | **Communicative (Duff)**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "**Expressive (Feinberg)**",
+          "**Communicative (Duff)**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 671.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1658,
+      "markdown_body_line_end": 1665,
+      "heading": "1A.5 Restorative justice, and Braithwaite's reintegrative shaming",
+      "preview": "Axis | **Retributive / conventional process** | **Restorative process**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "**Retributive / conventional process**",
+          "**Restorative process**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 456.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 270.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1697,
+      "markdown_body_line_end": 1719,
+      "heading": "CLOSING RECALL FLOW - Expressive, Communicative and Restorative Theories, with Foucault's Caution",
+      "preview": "Expressive, Communicative and Restorative Theories, with Foucault's Caution",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 336.991
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 248.823
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1731,
+      "markdown_body_line_end": 1771,
+      "heading": "VISUAL - Three named wrongs, three distinctive features",
+      "preview": "PUBLIC WRONGDOING",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1777,
+      "markdown_body_line_end": 1833,
+      "heading": "VISUAL - Five kinds of collective responsibility, and the one that must be refused",
+      "preview": "+---------------------+--------------+--------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 55,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 246.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1873,
+      "heading": "VISUAL - Is corruption a form of mass violence? Test, do not assert",
+      "preview": "STEP 1  state the necessary conditions of VIOLENCE:",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1879,
+      "markdown_body_line_end": 1879,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Scale does not make the wrong: corruption is distinctive because power held in trust was turned to private use, mass violence because organisation multiplied ordinary agency, and genocide because a group's continued existence was itself the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 432.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1928,
+      "markdown_body_line_end": 1941,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE STRUCTURAL-WRONG MATRIX -- three scaled betrayals of the shared order",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1948,
+      "markdown_body_line_end": 1949,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: TRUST -> PERSONS -> GROUP (corruption -> mass violence -> genocide), with one axis beneath: particular loyalty vs universal rule.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 584.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1980,
+      "markdown_body_line_end": 1984,
+      "heading": "2.4 Systemic or ethical?",
+      "preview": "Ethical diagnosis | Systemic diagnosis",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Ethical diagnosis",
+          "Systemic diagnosis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 194.424
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 106.222
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2038,
+      "markdown_body_line_end": 2042,
+      "heading": "3.4 Collective and individual responsibility",
+      "preview": "Position | Strength | Danger",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Position",
+          "Strength",
+          "Danger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 187.191
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 65.39
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2050,
+      "markdown_body_line_end": 2056,
+      "heading": "3.4A Kinds of collective responsibility, distinguished",
+      "preview": "Kind | Claim | Defensible? | Attaches to",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Kind",
+          "Claim",
+          "Defensible?",
+          "Attaches to"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 498.59
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2111,
+      "markdown_body_line_end": 2116,
+      "heading": "4.2 Genocide, mass violence and crimes against humanity",
+      "preview": "Concept | Distinctive feature",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Distinctive feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2145,
+      "markdown_body_line_end": 2167,
+      "heading": "CLOSING RECALL FLOW - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 341.19
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 261.371
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2179,
+      "markdown_body_line_end": 2219,
+      "heading": "VISUAL - The capital-punishment argument tree",
+      "preview": "CAPITAL PUNISHMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2225,
+      "markdown_body_line_end": 2271,
+      "heading": "VISUAL - The right-to-life sequence, and the two Indian illustrations classified",
+      "preview": "STEP 1  a right may be fundamental WITHOUT being exceptionless",
+      "metadata": {
+        "language": "text",
+        "line_count": 45,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2277,
+      "markdown_body_line_end": 2277,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive move on any death-penalty stem is the custody distinction: a right that yields to an ongoing unjust threat has not thereby yielded to a decision taken calmly about a person already restrained.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 312.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 246.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2322,
+      "markdown_body_line_end": 2344,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "CAPITAL PUNISHMENT -- the argument tree",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2351,
+      "markdown_body_line_end": 2353,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: RETAIN (desert, deterrence, incapacitation, closure) vs ABOLISH (life, dignity, irreversibility, arbitrariness, brutalisation). The tie-breaker is FALLIBILITY + IRREVERSIBILITY.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 538.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 494.024
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2407,
+      "markdown_body_line_end": 2427,
+      "heading": "CLOSING RECALL FLOW - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "Capital Punishment: the Argument Tree and the Indian Position",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 472.391
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 384.223
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2489,
+      "heading": "VISUAL - The directive decoder: the verb fixes the structure",
+      "preview": "+---------------------+-----------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 49,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 306.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2533,
+      "heading": "VISUAL - The universal spine, and the four adjudications it carries",
+      "preview": "1 NAME the penal question at issue (not the topic)",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2539,
+      "markdown_body_line_end": 2539,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Marks in this clause are not carried by the catalogue of theories but by the three moves that follow it: separate the justifying question, adjudicate one live rival, and state the conditions under which the verdict holds.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 392.891
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 326.224
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2582,
+      "markdown_body_line_end": 2596,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE UNIVERSAL ANSWER SPINE -- any punishment stem, 10 / 15 / 20 marks",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2603,
+      "markdown_body_line_end": 2604,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "🔑 Mnemonic: FRAME - SEPARATE - THEORY - RIVAL - OBJECT - CRITICAL - INDIA - VERDICT. Eight moves; the middle four are where the marks live.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 618.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 574.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2612,
+      "markdown_body_line_end": 2617,
+      "heading": "6.1 Kant vs Bentham",
+      "preview": "Axis | Kantian retribution | Benthamite deterrence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Kantian retribution",
+          "Benthamite deterrence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 533.024
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 423.622
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2635,
+      "markdown_body_line_end": 2642,
+      "heading": "7. CRITICISMS AND REPLIES",
+      "preview": "Claim | Objection | Reply",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Claim",
+          "Objection",
+          "Reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 590.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2671,
+      "markdown_body_line_end": 2689,
+      "heading": "CLOSING RECALL FLOW - Inter-School Debates, Traps and the Universal Answer Spine",
+      "preview": "Inter-School Debates, Traps and the Universal Answer Spine",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 149.89
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 61.721
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2911,
+      "markdown_body_line_end": 2911,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Crime-and-Punishment.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank with its corpus",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 532.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 423.224
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2941,
+      "markdown_body_line_end": 2941,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 626.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2956,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 626.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 325.022
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2964,
+      "markdown_body_line_end": 2972,
+      "heading": "11.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 506.39
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2979,
+      "markdown_body_line_end": 2979,
+      "heading": "11.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not run the full theory catalogue. One theory or one distinction, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 407.39
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 376.922
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2990,
+      "markdown_body_line_end": 2990,
+      "heading": "11.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On capital-punishment stems, the mark-bearing sequence is: the right to life is not treated as absolute even by its defenders (self-defence, necessity) → so the question is whether *custodial* killing meets the same conditions → desert a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3058,
+      "markdown_body_line_end": 3058,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §1A, §3.4A, §3.4B and §4.1A (added in this pass):** these are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Feinberg, Duff, Foucault,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 172.591
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 71.124
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3066,
+      "markdown_body_line_end": 3066,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3667,
+      "markdown_body_line_end": 3669,
+      "heading": "EXAM APPLICATION 1 - Crime as Legal Wrong versus Moral Wrong; the Criminalisation Question",
+      "preview": "🔑 MEMORY: crime (legal) vs moral wrong (ethical), overlap not identity; then the three doors WRONG -> CRIME -> PUNISH, each with its own key. Open with the distinction, never with the emotion.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 265.424
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3692,
+      "markdown_body_line_end": 3693,
+      "heading": "EXAM APPLICATION 2 - Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "preview": "🔑 MEMORY: seven-condition checklist for \"just punishment\"; five-theory menu with direction + test + danger for \"why punish?\"; responsibility is not causation.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3716,
+      "markdown_body_line_end": 3718,
+      "heading": "EXAM APPLICATION 3 - Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "preview": "🔑 MEMORY: desert = floor + ceiling; retribution =/= revenge (public, proportionate, impartial); limiting not maximising; the social-inequality objection is the bridge to social justice.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 500.824
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 456.156
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3742,
+      "markdown_body_line_end": 3743,
+      "heading": "EXAM APPLICATION 4 - Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "preview": "🔑 MEMORY: deterrence (choices) + incapacitation (ability); certainty > severity; never say \"deterrence is proved\"; separate EFFECTIVENESS from PERMISSIBILITY.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 245.956
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 201.288
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3766,
+      "markdown_body_line_end": 3768,
+      "heading": "EXAM APPLICATION 5 - Reform, Dignity, Proportionality and Juveniles",
+      "preview": "🔑 MEMORY: reform in tune with dignity ONLY if bounded (consent, proportionality, determinate ceiling); ordinal vs cardinal proportionality; juvenile = nature is an input, culpability is reduced.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 722.224
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3788,
+      "markdown_body_line_end": 3790,
+      "heading": "EXAM APPLICATION 6 - The Three-Question Grid and the Mixed / Limiting Theory",
+      "preview": "🔑 MEMORY: three questions -- AIM (forward), DISTRIBUTION (desert floor), AMOUNT (desert ceiling). Limiting retributivism = utility WITHIN desert limits; hold the ceiling lexically firm or it collapses into utilitarianism.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 526.224
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 481.556
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3812,
+      "markdown_body_line_end": 3814,
+      "heading": "EXAM APPLICATION 7 - Expressive, Communicative and Restorative Theories; Foucault's Caution",
+      "preview": "🔑 MEMORY: Feinberg = censure (SPEAK); Duff = penance/standing (ADDRESS); Braithwaite = reintegrative shaming (REPAIR); Foucault = disciplinary critique, not a justifying theory. Restorative =/= leniency; limited by power imbalance and grave",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 235.156
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 176.288
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3840,
+      "markdown_body_line_end": 3843,
+      "heading": "EXAM APPLICATION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "🔑 MEMORY: corruption = particular over universal in a trusted role; systemic AND ethical; conditions not determines; mass-violence analogy PARTIAL (effects yes, intention no); genocide = specific intent vs a group \"as such\"; structure condi",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 519.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 460.424
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3869,
+      "markdown_body_line_end": 3871,
+      "heading": "EXAM APPLICATION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "🔑 MEMORY: argue both sides fully; Kant retained, Beccaria abolished (state both accurately); right to life not absolute BUT custodial killing =/= self-defence; fallibility + irreversibility is the pivot; Indian facts are FACTS not proofs.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 191.624
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 132.756
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3898,
+      "markdown_body_line_end": 3900,
+      "heading": "EXAM APPLICATION 10 - Inter-School Debates, Criticisms, Traps and the Universal Answer Spine",
+      "preview": "🔑 MEMORY: FRAME-SEPARATE-THEORY-RIVAL-OBJECT-CRITICAL-INDIA-VERDICT; match the directive; every reply leaves a residue; separate validity from implementation from empirical effect.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 499.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 454.424
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3920,
+      "markdown_body_line_end": 3923,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE (C1-C15) / EXAMPLE -> OBJECTION / REPLY /",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 720.891
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3927,
+      "markdown_body_line_end": 3927,
+      "heading": "SOLVED PYQ BANK - EXACTLY 12 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 12 primary parts (2018:1, 2019:2, 2020:2, 2021:1, 2022:2, 2023:1, 2024:1, 2025:2). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 695.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 566.024
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3959,
+      "markdown_body_line_end": 3961,
+      "heading": "Solved PYQ 1 - 2018 Q1(e), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- a 10-marker kept to one worked distinction (systemic/ethical) with correctly classified statutes (C15) and a twin-tracked verdict, not a scattershot list of \"solutions\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 275.824
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 197.756
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3988,
+      "markdown_body_line_end": 3990,
+      "heading": "Solved PYQ 2 - 2019 Q1(d), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it refuses both the easy \"yes\" and the dismissive \"no\", states the conditions of violence, and lands the exact C14 discipline (effects yes, intention no).",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 583.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 505.824
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4020,
+      "markdown_body_line_end": 4022,
+      "heading": "Solved PYQ 3 - 2019 Q4(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it routes \"social justice\" through the arbitrariness objection plus Duff's standing (C6), and separates philosophical validity from implementation rather than moralising.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 252.024
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 159.756
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4050,
+      "markdown_body_line_end": 4052,
+      "heading": "Solved PYQ 4 - 2020 Q3(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it turns the expected \"retribution vs rights\" clash on its head via limiting retributivism (desert as ceiling, C1/C2) and answers the cruelty and inequality objections directly.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 569.691
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 491.624
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4079,
+      "markdown_body_line_end": 4081,
+      "heading": "Solved PYQ 5 - 2020 Q4(c), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it answers \"how far\" with a graded \"strongly but not deterministically\", names the opportunity/discretion/accountability mechanism, and keeps agency intact.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 252.024
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 159.756
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4108,
+      "markdown_body_line_end": 4110,
+      "heading": "Solved PYQ 6 - 2021 Q2(b), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it gives a CONDITIONAL yes, states reform's dignity credentials AND the Foucault/indeterminacy dangers (C7), and resolves via the bounded mixed theory.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 569.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 491.624
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4135,
+      "markdown_body_line_end": 4137,
+      "heading": "Solved PYQ 7 - 2022 Q1(c), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it names the either/or as a false dichotomy, holds both levels with C14, and keeps the 10-marker tight around one controlling distinction.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 280.424
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 202.356
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4163,
+      "markdown_body_line_end": 4165,
+      "heading": "Solved PYQ 8 - 2022 Q1(e), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it answers the \"justifications\" demand fully (C1 desert, deterrence, incapacitation) but a 10-marker still lands the decisive fallibility limit rather than eulogising the penalty.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 583.891
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 505.824
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4205,
+      "markdown_body_line_end": 4207,
+      "heading": "Solved PYQ 9 - 2023 Q4(a), 20 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- a 20-marker that separates the three questions (C4), deploys ordinal/cardinal proportionality (C10) and the responsibility gradient, runs two objection chains, and lands a genuinely graded verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4235,
+      "markdown_body_line_end": 4236,
+      "heading": "Solved PYQ 10 - 2024 Q3(b), 15 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it splits effectiveness from permissibility, uses Beccaria's certainty-over-severity (C3), and refuses to assert deterrence as proven.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 428.824
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 350.756
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4263,
+      "markdown_body_line_end": 4265,
+      "heading": "Solved PYQ 11 - 2025 Q1(a), 10 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it endorses the statement while disciplining it (wrongful subordination, not all partiality), grounding the answer in C14's definition rather than generic anti-corruption rhetoric.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 569.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 491.624
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4310,
+      "markdown_body_line_end": 4312,
+      "heading": "Solved PYQ 12 - 2025 Q3(a), 20 marks",
+      "preview": "🔑 MEMORY: Why this earns marks -- it concedes \"not absolute\", then blocks the inference with the custodial-killing-is-not-self-defence move, runs fallibility and standing (C6), and classifies the Indian facts (C15) as facts, not proofs.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4316,
+      "markdown_body_line_end": 4316,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 696.824
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 652.156
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4320,
+      "markdown_body_line_end": 4320,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: State / Explain",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 609.156
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 564.488
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4334,
+      "markdown_body_line_end": 4334,
+      "heading": "Original Mains 1",
+      "preview": "🔑 MEMORY: seven conditions (public law, voluntary act, proportionate culpability, fair procedure, competent authority, proportionality, equal application); responsibility = agency, not causal contribution (canonical 1.2).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 352.888
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 260.62
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4338,
+      "markdown_body_line_end": 4338,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4352,
+      "markdown_body_line_end": 4352,
+      "heading": "Original Mains 2",
+      "preview": "🔑 MEMORY: restoration = repair (C8/C9) inside desert bands; three objections (proportionality, power imbalance, public wrong); supplement not replace for grave crimes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 488.424
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 410.356
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4356,
+      "markdown_body_line_end": 4356,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 300 words - directive: Discuss",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 410.356
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 357.888
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4374,
+      "markdown_body_line_end": 4374,
+      "heading": "Original Mains 3",
+      "preview": "🔑 MEMORY: constrained practice = aim (Q1) inside desert limits (Q2/Q3); constraints = legality, culpability, proportionality, dignity, due process, equality, reintegration; capital punishment = right-to-life-not-absolute + custody distincti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 677.624
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4510,
+      "markdown_body_line_end": 4518,
+      "heading": "ADVANCED SESSION 1 - Crime as Legal Wrong versus Moral Wrong; the Criminalisation Question",
+      "preview": "ANALYSIS: The three accounts of crime. (1) The LEGAL-POSITIVIST account asks only \"what has the law prohibited?\" -- clean and certain, but validity does not prove justice, so it cannot criticise an unjust criminal law from within. (2) The M",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 496.491
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 395.024
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4520,
+      "markdown_body_line_end": 4523,
+      "heading": "ADVANCED SESSION 1 - Crime as Legal Wrong versus Moral Wrong; the Criminalisation Question",
+      "preview": "🔑 CAUTION: Do NOT equate every moral wrong with a legal crime (Trap 1 in the canonical bank). Adultery, ingratitude and private cruelty may be moral wrongs without being crimes; an unjust regime may criminalise dissent that is morally innoc",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 395.024
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 336.156
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4525,
+      "markdown_body_line_end": 4533,
+      "heading": "ADVANCED SESSION 1 - Crime as Legal Wrong versus Moral Wrong; the Criminalisation Question",
+      "preview": "ANALYSIS: Criminalisation is a distinct question from punishment. Even where conduct clears the criminalisation filter (harm, rights, public wrong, culpability, proportionality), it is a FURTHER question whether and how the state may punish",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 336.156
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 234.688
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4535,
+      "markdown_body_line_end": 4540,
+      "heading": "ADVANCED SESSION 1 - Crime as Legal Wrong versus Moral Wrong; the Criminalisation Question",
+      "preview": "ANALYSIS: Wrong in itself (mala in se) versus wrong because prohibited (mala prohibita). Some conduct is wrong \"in itself\" (mala in se: murder, rape), some is wrong only \"because prohibited\" (mala prohibita: driving on the wrong side, unlic",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 234.688
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 147.42
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4552,
+      "markdown_body_line_end": 4559,
+      "heading": "ADVANCED SESSION 2 - Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "preview": "ANALYSIS: The seven conditions of defensible punishment (canonical 1.2), worth memorising as a checklist: (1) a public law known in advance; (2) a voluntary act or a legally relevant omission; (3) culpability proportioned to intention, know",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 737.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 636.424
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4561,
+      "markdown_body_line_end": 4566,
+      "heading": "ADVANCED SESSION 2 - Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "preview": "🔑 CAUTION: Responsibility is not identical with causal contribution. A person may causally contribute to a harm without sufficient knowledge or control (so bears little responsibility); conversely an official can be fully responsible for a ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 636.424
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 563.356
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4568,
+      "markdown_body_line_end": 4575,
+      "heading": "ADVANCED SESSION 2 - Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "preview": "ANALYSIS: Diminished responsibility and the philosophical/legal boundary. At the philosophical level, free will, determinism and compatibilism sit underneath the whole ladder: retributive desert seems to need some real authorship of action,",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 563.356
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 461.888
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4577,
+      "markdown_body_line_end": 4582,
+      "heading": "ADVANCED SESSION 2 - Conditions of Just Punishment: Responsibility, Culpability and the Five Theories",
+      "preview": "ANALYSIS: Why the five theories cannot be simply ranked. Each answers a slightly different question and carries a signature DANGER (canonical 1.3): retribution -> vengeance/excess; deterrence -> using the offender as a mere means; preventio",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 461.888
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 374.62
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4593,
+      "markdown_body_line_end": 4597,
+      "heading": "ADVANCED SESSION 3 - Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "preview": "🔑 CAUTION: Retribution is NOT revenge (canonical Trap 2). Revenge is private, unlimited, partial and appetite-driven; retribution is PUBLIC, PROPORTIONATE, IMPARTIAL desert administered by a competent authority. Saying \"retribution is just ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 316.22
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 243.153
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4599,
+      "markdown_body_line_end": 4609,
+      "heading": "ADVANCED SESSION 3 - Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "preview": "ANALYSIS: Kant and Hegel, precisely. For KANT punishment must answer to the offender's culpable ACT and never be imposed merely to produce social utility; treating a person only as an instrument of deterrence violates rational agency (C1: p",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 243.153
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 113.285
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4611,
+      "markdown_body_line_end": 4618,
+      "heading": "ADVANCED SESSION 3 - Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "preview": "ANALYSIS: Maximising vs limiting retributivism -- the move that saves the theory. Objection: suffering does not undo suffering, and desert alone cannot show why the STATE should add pain to the world. Reply: modern retributivism can be LIMI",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4620,
+      "markdown_body_line_end": 4624,
+      "heading": "ADVANCED SESSION 3 - Retributivism: Desert, Kant, Hegel and the Limits of Punishment",
+      "preview": "ANALYSIS: The social-inequality objection. If culpability presupposes fair opportunity to obey the law, then punishing the severely disadvantaged at full desert is questionable, because the background injustice compromises the very responsi",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 701.824
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 628.756
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4635,
+      "markdown_body_line_end": 4640,
+      "heading": "ADVANCED SESSION 4 - Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "preview": "ANALYSIS: The presuppositions deterrence needs (canonical 1.5): persons respond to perceived costs; sanctions are known and sufficiently certain; the preventive benefit exceeds direct and collateral harm; and less harmful alternatives are i",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 556.356
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 469.088
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4642,
+      "markdown_body_line_end": 4649,
+      "heading": "ADVANCED SESSION 4 - Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "preview": "🔑 CAUTION: The innocent-scapegoat objection. If social benefit is large enough, raw deterrence would license framing and punishing an innocent person to reassure the public. Reply: RULE-utilitarian constraints -- reliable guilt, legality an",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 469.088
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 367.62
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4651,
+      "markdown_body_line_end": 4659,
+      "heading": "ADVANCED SESSION 4 - Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "preview": "ANALYSIS: Incapacitation and the preventive/incapacitative theory. Beyond deterrence lies pure restraint: protect the public by removing a dangerous offender's ABILITY to offend. Its test is necessity and risk, and its dangers are indefinit",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 367.62
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 251.953
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4661,
+      "markdown_body_line_end": 4665,
+      "heading": "ADVANCED SESSION 4 - Deterrence and Incapacitation: the Utilitarian Justification of Punishment",
+      "preview": "ANALYSIS: Instrumentalisation, the shared Kantian charge. Both deterrence and incapacitation risk using the offender as a MEANS to social protection. The utilitarian's honest reply is that a DESERT SIDE-CONSTRAINT (Subtopic 6) can be bolted",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 251.953
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 178.885
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4676,
+      "markdown_body_line_end": 4683,
+      "heading": "ADVANCED SESSION 5 - Reform, Dignity, Proportionality and Juveniles",
+      "preview": "ANALYSIS: Reform and human dignity (2021 Q2b). The dignity CASE: treating the offender as capable of moral change respects them as an agent with a future, not a fixed criminal type; education, therapy and reintegration honour the person (ca",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4685,
+      "markdown_body_line_end": 4690,
+      "heading": "ADVANCED SESSION 5 - Reform, Dignity, Proportionality and Juveniles",
+      "preview": "🔑 CAUTION: The three standing objections to pure reform -- (1) PATERNALISM: it can override the offender's own ends in the name of their good; (2) INDETERMINACY: \"cure first, release later\" detaches confinement from desert; (3) INEFFICACY /",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 650.424
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 563.156
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4692,
+      "markdown_body_line_end": 4696,
+      "heading": "ADVANCED SESSION 5 - Reform, Dignity, Proportionality and Juveniles",
+      "preview": "ANALYSIS: Proportionality has two dimensions (canonical 1.7, C10). CARDINAL proportionality fixes the overall severity scale (how harsh the system is); ORDINAL proportionality fixes RANKINGS (worse crimes get worse penalties, like cases ali",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 563.156
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 490.088
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4698,
+      "markdown_body_line_end": 4705,
+      "heading": "ADVANCED SESSION 5 - Reform, Dignity, Proportionality and Juveniles",
+      "preview": "ANALYSIS: The juvenile problem (2023 Q4a), stated fairly. The stem pits the NATURE of the crime against the status of the offender. The philosophically careful answer holds BOTH: proportionality means grave crimes are grave whoever commits ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 490.088
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 388.62
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4716,
+      "markdown_body_line_end": 4724,
+      "heading": "ADVANCED SESSION 6 - The Three-Question Grid and the Mixed / Limiting Theory",
+      "preview": "ANALYSIS: Hart's separation of questions (canonical 1A.1). The GENERAL JUSTIFYING AIM of the practice of punishment may be forward-looking (a society institutes punishment to reduce crime and protect rights), while the DISTRIBUTION of punis",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 330.22
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 228.753
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4726,
+      "markdown_body_line_end": 4731,
+      "heading": "ADVANCED SESSION 6 - The Three-Question Grid and the Mixed / Limiting Theory",
+      "preview": "ANALYSIS: Limiting retributivism, precisely. Desert functions as a CONSTRAINT, not a goal: no punishment without desert (floor) and none beyond it (ceiling), while WITHIN those limits forward-looking aims -- deterrence, reform, protection -",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 228.753
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 141.485
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4733,
+      "markdown_body_line_end": 4739,
+      "heading": "ADVANCED SESSION 6 - The Three-Question Grid and the Mixed / Limiting Theory",
+      "preview": "🔑 CAUTION: The residual tension (do not over-sell the synthesis). Critics note the mixed theory can be pulled apart under pressure: when a large social benefit tempts us to breach the desert ceiling, which side yields? A committed limiting ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 141.485
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 54.217
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4741,
+      "markdown_body_line_end": 4745,
+      "heading": "ADVANCED SESSION 6 - The Three-Question Grid and the Mixed / Limiting Theory",
+      "preview": "ANALYSIS: Why this is the master key. Almost every \"compare/critically examine the theories of punishment\" stem is best answered NOT by ranking theories 1-2-3-4 but by showing they answer different questions and then assembling them into an",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4757,
+      "markdown_body_line_end": 4762,
+      "heading": "ADVANCED SESSION 7 - Expressive, Communicative and Restorative Theories; Foucault's Caution",
+      "preview": "ANALYSIS: Feinberg -- the EXPRESSIVE function (canonical 1A.2, C5). Punishment differs from a mere penalty (a parking fine) because it carries society's reprobation: it symbolically DENOUNCES the wrong and vindicates the victim and the norm",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 657.824
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 570.556
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4764,
+      "markdown_body_line_end": 4770,
+      "heading": "ADVANCED SESSION 7 - Expressive, Communicative and Restorative Theories; Foucault's Caution",
+      "preview": "ANALYSIS: Duff -- the COMMUNICATIVE theory (C6). Punishment is addressed TO the offender as a member of the moral community: it is a secular penance that seeks to bring the offender to understand and repent the wrong, and to make reparation",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 570.556
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 483.288
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4772,
+      "markdown_body_line_end": 4778,
+      "heading": "ADVANCED SESSION 7 - Expressive, Communicative and Restorative Theories; Foucault's Caution",
+      "preview": "ANALYSIS: Foucault -- the disciplinary CAUTION (C7). Do not read Foucault as a rival \"theory of justified punishment\"; he is a genealogical critic. The shift from public torture to the \"gentle\" prison is not simply moral progress but a chan",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 483.288
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 396.02
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4780,
+      "markdown_body_line_end": 4788,
+      "heading": "ADVANCED SESSION 7 - Expressive, Communicative and Restorative Theories; Foucault's Caution",
+      "preview": "ANALYSIS: Braithwaite and restorative justice -- strengths and honest limits (C8 restorative; C9 reintegrative shaming). Reintegrative shaming condemns the ACT while keeping the PERSON within the community, aiming at acknowledgment, restitu",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 396.02
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 280.353
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4790,
+      "markdown_body_line_end": 4793,
+      "heading": "ADVANCED SESSION 7 - Expressive, Communicative and Restorative Theories; Foucault's Caution",
+      "preview": "🔑 CAUTION: Avoid duplicate labelling (canonical warning). Expressive, denunciatory and communicative are a FAMILY with different emphases (symbolic censure vs addressed dialogue); do not treat every mention of \"condemnation\" as a brand-new ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 280.353
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 221.485
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4805,
+      "markdown_body_line_end": 4818,
+      "heading": "ADVANCED SESSION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "ANALYSIS: Corruption is a betrayal of an entrusted public role (C14). It substitutes PARTICULARISTIC standards (favour for kin, caste, party, bribe-payer) for the UNIVERSALISTIC standards that offices held in trust demand, corroding equal c",
+      "metadata": {
+        "line_count": 14
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 645.024
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4820,
+      "markdown_body_line_end": 4826,
+      "heading": "ADVANCED SESSION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "🔑 CAUTION: Is corruption a form of mass violence (2019 Q1d)? Handle the analogy HONESTLY (C14 limit). State the necessary conditions of \"violence\" FIRST, then argue the analogy is PARTIAL: corruption resembles mass violence in aggregate har",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 645.024
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 543.556
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4828,
+      "markdown_body_line_end": 4833,
+      "heading": "ADVANCED SESSION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "ANALYSIS: Eradicating corruption (2018 Q1e) needs BOTH arms, precisely classified. Institutional (correctly labelled Indian statutes, C15): the Prevention of Corruption Act, 1988 (amended 2018) and the Lokpal and Lokayuktas Act, 2013 are EN",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 543.556
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 456.288
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4835,
+      "markdown_body_line_end": 4842,
+      "heading": "ADVANCED SESSION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "ANALYSIS: Mass violence and the FIVE kinds of collective responsibility (C12, canonical 3.4A). Criminal GUILT is individual; but responsibility also takes organisational (liability of institutions), political (citizens' responsibility for a",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 456.288
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 354.82
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4844,
+      "markdown_body_line_end": 4850,
+      "heading": "ADVANCED SESSION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "ANALYSIS: Genocide (C13, canonical 4). Lemkin coined the term (Axis Rule in Occupied Europe, 1944) for a coordinated plan to destroy the essential foundations of a group's life; the 1948 Genocide Convention requires SPECIFIC INTENT to destr",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 354.82
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 253.353
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4852,
+      "markdown_body_line_end": 4856,
+      "heading": "ADVANCED SESSION 8 - Corruption, Mass Violence and Genocide: the Structural-Wrong Frontier",
+      "preview": "🔑 CAUTION: The structural-justice temptation. Poverty, caste, gender and marginalisation shape who offends, who is policed and who is criminalised (selective criminalisation, policing bias). This MITIGATES and contextualises, but a philosop",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 253.353
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 180.285
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4867,
+      "markdown_body_line_end": 4873,
+      "heading": "ADVANCED SESSION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "ANALYSIS: The retention case, at full strength. Retributively, if desert justifies proportionate punishment, the gravest murders may seem to deserve the gravest penalty (Kant, C1, notably DID defend the death penalty on strict retributive g",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4875,
+      "markdown_body_line_end": 4881,
+      "heading": "ADVANCED SESSION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "ANALYSIS: The abolition case, at full strength. The right to LIFE and human DIGNITY tell against the state deliberately killing a defenceless person. IRREVERSIBILITY plus human FALLIBILITY means wrongful executions cannot be corrected. ARBI",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 614.556
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4883,
+      "markdown_body_line_end": 4889,
+      "heading": "ADVANCED SESSION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "ANALYSIS: The right to life is NOT treated as absolute even by its defenders (canonical 5, the mark-bearing sequence). Self-defence and necessity are conceded exceptions, so the abolitionist cannot simply assert an exceptionless right. The ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 614.556
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 513.088
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4891,
+      "markdown_body_line_end": 4895,
+      "heading": "ADVANCED SESSION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "ANALYSIS: The fallibility verdict is the pivot (canonical 5, verdict formula). Even GRANTING the desert argument, an irrevocable penalty administered by a fallible and unequally applied process cannot satisfy the very principle of proportio",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 513.088
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 440.02
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4897,
+      "markdown_body_line_end": 4902,
+      "heading": "ADVANCED SESSION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "🔑 CAUTION: Indian legal facts are FACTS, not proofs (C15). Bachan Singh v. State of Punjab (1980) is a JUDGMENT articulating the \"rarest of rare\" framework; Law Commission of India Report No. 262 (2015) is a REPORT recommending abolition ex",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 440.02
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 352.753
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4904,
+      "markdown_body_line_end": 4909,
+      "heading": "ADVANCED SESSION 9 - Capital Punishment: the Argument Tree and the Indian Position",
+      "preview": "ANALYSIS: Does capital punishment weaken social justice (2019 Q4c)? Because the penalty falls unequally on the poor and marginalised (counsel quality, bias), its administration can DEEPEN existing injustice -- the social-justice objection i",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 352.753
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 279.685
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4920,
+      "markdown_body_line_end": 4927,
+      "heading": "ADVANCED SESSION 10 - Inter-School Debates, Criticisms, Traps and the Universal Answer Spine",
+      "preview": "ANALYSIS: The four canonical debates (canonical 6). (1) KANT vs BENTHAM -- desert vs utility; backward vs forward; person-as-end vs person-as-lever. The mixed theory (Subtopic 6) is the reconciliation, not a knockout. (2) RETRIBUTION vs REF",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 207.285
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 105.817
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4929,
+      "markdown_body_line_end": 4936,
+      "heading": "ADVANCED SESSION 10 - Inter-School Debates, Criticisms, Traps and the Universal Answer Spine",
+      "preview": "ANALYSIS: Criticisms and replies every theory must survive (canonical 7). Retribution -> \"sanctified revenge / adds suffering\": reply with the limiting version (desert as constraint). Deterrence -> \"punishes the innocent / instrumentalises\"",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4938,
+      "markdown_body_line_end": 4944,
+      "heading": "ADVANCED SESSION 10 - Inter-School Debates, Criticisms, Traps and the Universal Answer Spine",
+      "preview": "🔑 CAUTION: The ten common traps (canonical 8), compressed. (1) Retribution = revenge. (2) Deterrence \"proved\". (3) Reform is automatically humane. (4) Restorative = leniency. (5) Treating Foucault as a justifying theory. (6) Banality => red",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 701.824
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 614.556
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4946,
+      "markdown_body_line_end": 4949,
+      "heading": "ADVANCED SESSION 10 - Inter-School Debates, Criticisms, Traps and the Universal Answer Spine",
+      "preview": "ANALYSIS: The directive decoder (canonical 11.0). \"Examine/critically examine\" => both sides + verdict; \"discuss\" => structured for-and-against; \"comment\" => take and defend a position; \"do you agree\" => explicit thesis then defence with a ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 614.556
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 555.688
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4955,
+      "markdown_body_line_end": 4955,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** The residual question whether censure-communication can be coercively delivered, the question whether restorative practice scales to grave and mass crimes, the collective and command responsibility ref",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 530.688
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 429.22
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4960,
+      "markdown_body_line_end": 4965,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 366.42
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 122.619
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4977,
+      "markdown_body_line_end": 4982,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "One-glance revision of the whole file. Every entry is compressed for RECALL, not for first learning; read it after the ten layered subtopics, never instead of them. Canonical scope is crime and the justification of punishment (five theories",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 573.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 486.424
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4986,
+      "markdown_body_line_end": 4994,
+      "heading": "A. The topic in one line (open almost every answer here)",
+      "preview": "WHY PUNISH?  separate THREE questions -- never answer them with one theory:",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 461.424
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 380.424
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5017,
+      "markdown_body_line_end": 5025,
+      "heading": "D. The five theories (compressed)",
+      "preview": "THEORY            WHY PUNISH               DIRECTION  TEST            DANGER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5102,
+      "markdown_body_line_end": 5112,
+      "heading": "M. Capital punishment",
+      "preview": "FOR                              AGAINST",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 352.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5134,
+      "markdown_body_line_end": 5138,
+      "heading": "P. Exam apparatus in miniature",
+      "preview": "ANSWER SPINE (10/15/20):  FRAME -> SEPARATE (Q1/Q2/Q3) -> THEORY -> RIVAL -> OBJECTION/REPLY/",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 681.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 640.291
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5164,
+      "markdown_body_line_end": 5196,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The central question of the clause and the three doors from wrong to punishment",
+      "preview": "CENTRAL QUESTION -> when, and on what terms, may a political community",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5200,
+      "markdown_body_line_end": 5233,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Conditions of responsible punishment and the classification of the seven theories",
+      "preview": "PUNISHMENT = hard treatment + AUTHORITATIVE CENSURE, imposed by a",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 32,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 412.091
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 74.691
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5237,
+      "markdown_body_line_end": 5269,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: The retributive argument: desert as ground and as ceiling",
+      "preview": "CLAIM -> punish BECAUSE a culpable wrong was done, not in order to",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 460.091
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5273,
+      "markdown_body_line_end": 5304,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Deterrence and incapacitation weighed on the same axes",
+      "preview": "FORWARD-LOOKING PREVENTION splits into two arguments with two targets",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 438.091
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 121.091
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5308,
+      "markdown_body_line_end": 5339,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Reform, dignity and the two proportionality dimensions for juveniles",
+      "preview": "REFORMATIVE THESIS -> the offender is capable of moral development",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5343,
+      "markdown_body_line_end": 5375,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: The three-question grid and the mixed or limiting theory",
+      "preview": "THE CLASSIC MISTAKE -> one answer offered to three different questions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 121.091
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5379,
+      "markdown_body_line_end": 5409,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Expressive, communicative and restorative theories compared",
+      "preview": "WHAT SEPARATES PUNISHMENT FROM A MERE PENALTY? -> CONDEMNATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5413,
+      "markdown_body_line_end": 5445,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Corruption: entrusted power, particularism and the systemic-ethical verdict",
+      "preview": "CORRUPTION = misuse of ENTRUSTED public or institutional power through",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 118.291
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5449,
+      "markdown_body_line_end": 5480,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Mass violence: mechanisms and the five kinds of collective responsibility",
+      "preview": "MASS VIOLENCE = large-scale violence against populations produced by",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 457.291
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5484,
+      "markdown_body_line_end": 5516,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Genocide: Lemkin's coinage, the 1948 Convention and the neighbouring categories",
+      "preview": "1944  LEMKIN, Axis Rule in Occupied Europe -> coins GENOCIDE from",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 95.091
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5520,
+      "markdown_body_line_end": 5551,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Capital punishment: the argument tree, objections and replies",
+      "preview": "CAPITAL PUNISHMENT = the state's intentional execution of a convicted",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5555,
+      "markdown_body_line_end": 5586,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Integrated answer spine, directive decoder and the graded verdict bank",
+      "preview": "FOUR STANDING DEBATES OF THE CLAUSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 435.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 118.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    }
+  ]
+}

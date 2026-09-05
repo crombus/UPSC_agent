@@ -1,0 +1,126 @@
+Philosophy Paper II — Philosophy of Religion 01 — Notions of God — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  A first cause is not thereby shown to be personal, omniscient, good or worship-worthy.
+        |
+        v
++-- SESSION 01: CONCEPTUAL GRAMMAR OF GOD-CONCEPTS
+|   DEFINITION / TERMS : A first cause is not thereby shown to be personal, omniscient, good or worship-worthy.
+|   MECHANISM / ARGUMENT: A first cause is not thereby shown to be personal, omniscient, good or worship-worthy.
+|   CONSEQUENCE / CONTRAST: [THESIS] A notion of God is not merely a sacred name.
+|   TRAP / ANSWER-USE: [REPLY] Directional content remains: the divine is not finite, composite or dependent, while positive terms indicate perfection without univocal transfer from creatures.
+|   EXAM OPENING: The boundary is porous, but an Optional answer should not use revelation as a substitute for conceptual clarity.
++--
+        |
+        v
++-- SESSION 02: THEISM, DEISM, PANTHEISM AND PANENTHEISM
+|   DEFINITION / TERMS : Classical theism treats God as the primary sustaining cause through which genuine secondary natural causes operate.
+|   MECHANISM / ARGUMENT: Classical theism treats God as the primary sustaining cause through which genuine secondary natural causes operate.
+|   CONSEQUENCE / CONTRAST: Pantheism and panentheism are not synonyms.
+|   TRAP / ANSWER-USE: Deism is not atheism: it affirms a creator but rejects continuing providential intervention.
+|   EXAM OPENING: God is a personal creator, distinct from the world but continuously sustaining and governing it.
++--
+        |
+        v
++-- SESSION 03: DIVINE ATTRIBUTES AND THEIR COHERENCE
+|   DEFINITION / TERMS : However, this analogy does not by itself solve divine foreknowledge.
+|   MECHANISM / ARGUMENT: The classical attributes generate pressure when unlimited power, complete foreknowledge, perfect goodness and creaturely freedom are asserted without qualification.
+|   CONSEQUENCE / CONTRAST: However, this analogy does not by itself solve divine foreknowledge.
+|   TRAP / ANSWER-USE: Do not discuss each attribute separately when the question asks about their compatibility.
+|   EXAM OPENING: Aseity means God depends on nothing else for existence.
++--
+        |
+        v
++-- SESSION 04: SPINOZA'S NOTION OF GOD
+|   DEFINITION / TERMS : In Spinoza, a substance is "in itself and conceived through itself." Its existence and conception do not depend upon another thing.
+|   MECHANISM / ARGUMENT: God could not have chosen a fundamentally different world through arbitrary will.
+|   CONSEQUENCE / CONTRAST: The analogy is limited: Spinoza's modes follow with metaphysical necessity, whereas ordinary waves are contingent physical events.
+|   TRAP / ANSWER-USE: [QUALIFICATION] The analogy is limited: Spinoza's modes follow with metaphysical necessity, whereas ordinary waves are contingent physical events.
+|   EXAM OPENING: In Spinoza, a substance is "in itself and conceived through itself." Its existence and conception do not depend upon another thing.
++--
+        |
+        v
++-- SESSION 05: ADVAITA VEDANTA'S NOTION OF GOD
+|   DEFINITION / TERMS : Saguna Isvara is Brahman viewed through maya.
+|   MECHANISM / ARGUMENT: Isvara, jiva and world belong to the standpoint eventually sublated by non-dual knowledge. [QUALIFICATION] Therefore Advaita accommodates empirical theism, but its ultimate metaphysics is non-dual rather than personalistic theism.
+|   CONSEQUENCE / CONTRAST: Sat-cit-ananda is not a collection of three finite qualities.
+|   TRAP / ANSWER-USE: [QUALIFICATION] Isvara is not false in the sense of non-existent.
+|   EXAM OPENING: Nirguna (without limiting qualities) means Brahman (ultimate reality) is free from limiting, finite and relational qualities.
++--
+        |
+        v
++-- SESSION 06: RAMANUJA'S VISISTADVAITA NOTION OF GOD
+|   DEFINITION / TERMS : Brahman is non-dual qualified by selves and matter - hence Visista-advaita, "qualified non-dualism.".
+|   MECHANISM / ARGUMENT: Brahman is non-dual qualified by selves and matter - hence Visista-advaita, "qualified non-dualism.".
+|   CONSEQUENCE / CONTRAST: Visistadvaita is not halfway compromise; it is an organic theory of unity-in-difference.
+|   TRAP / ANSWER-USE: Reality is one organic whole, but its internal distinctions are real.
+|   EXAM OPENING: Ramanuja accepts all three as real but denies that they are three independent substances.
++--
+        |
+        v
++-- SESSION 07: NYAYA'S NOTION OF GOD
+|   DEFINITION / TERMS : [QUALIFICATION] Philosophical pressure remains: if karma already determines results, why is God required?
+|   MECHANISM / ARGUMENT: Therefore Nyaya does not teach creation ex nihilo or a real transformation of God into the world.
+|   CONSEQUENCE / CONTRAST: Therefore Nyaya does not teach creation ex nihilo or a real transformation of God into the world.
+|   TRAP / ANSWER-USE: God, selves, atoms, space and time are real; they are not appearances of one undifferentiated Absolute.
+|   EXAM OPENING: Isvara (Lord or personal God) is eternal, omniscient, omnipotent and a special self never subject to bondage or karma (morally consequential action).
++--
+        |
+        v
++-- SESSION 08: THE HINDU POLYTHEISM DEBATE
+|   DEFINITION / TERMS : Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.
+|   MECHANISM / ARGUMENT: Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.
+|   CONSEQUENCE / CONTRAST: [QUALIFICATION] This verse does not automatically prove that every Hindu school is monotheistic or monistic.
+|   TRAP / ANSWER-USE: [QUALIFICATION] Therefore, "Hinduism is polytheistic" is descriptively partial but philosophically inadequate.
+|   EXAM OPENING: The Vedic statement "Reality is one; sages speak of it variously" is frequently used to interpret plurality as diverse naming or manifestation rather than independent rival gods.
++--
+        |
+        v
++-- SESSION 09: MADHVA, SAIVA AND SAKTA NOTIONS OF GOD
+|   DEFINITION / TERMS : Answer-grabbing line: Indian theism ranges from Madhva's eternal difference through Śaiva Lord-soul-bond structures to Śākta identity of divinity and power; none can be reduced to a generic “Hindu God.”.
+|   MECHANISM / ARGUMENT: each school connects a causal doctrine to bondage and liberation
+|   CONSEQUENCE / CONTRAST: real difference, real manifestation and divine power replace Advaita's sublatable appearance
+|   TRAP / ANSWER-USE: do not merge Śaiva Siddhānta with Kashmir Śaivism or reflection with identity
+|   EXAM OPENING: A complete core answer can therefore choose Śaiva Siddhānta or Madhva instead of using Rāmānuja every time.
++--
+        |
+        v
++-- SESSION 10: COMPARATIVE GOD-WORLD-MAN RELATIONS
+|   DEFINITION / TERMS : Merely naming attributes does not explain what a God-concept philosophically entails.
+|   MECHANISM / ARGUMENT: [QUALIFICATION] Therefore, "Hinduism is polytheistic" is descriptively partial but philosophically inadequate.
+|   CONSEQUENCE / CONTRAST: [QUALIFICATION] Therefore, "Hinduism is polytheistic" is descriptively partial but philosophically inadequate.
+|   TRAP / ANSWER-USE: High-value transition: The Vedic statement "Reality is one; sages speak of it variously" is frequently used to interpret plurality as diverse naming or manifestation rather than independent rival gods.
+|   EXAM OPENING: Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.
++--
+        |
+        v
++-- SESSION 11: PHYSICAL MANIFESTATION AND ULTIMATE CAUSATION
+|   DEFINITION / TERMS : Some God-concepts involve embodiment, but it is not conceptually necessary for every ultimate cause.
+|   MECHANISM / ARGUMENT: Some God-concepts involve embodiment, but it is not conceptually necessary for every ultimate cause.
+|   CONSEQUENCE / CONTRAST: [QUALIFICATION] The stronger conclusion is that ultimacy requires explanatory non-dependence, not bodily manifestation.
+|   TRAP / ANSWER-USE: [QUALIFICATION] Every familiar cause is encountered through some effect or embodied activity.
+|   EXAM OPENING: Every familiar cause is encountered through some effect or embodied activity.
++--
+        |
+        v
++-- SESSION 12: CRITICAL SYNTHESIS OF COMPETING GOD-MODELS
+|   DEFINITION / TERMS : Advaita (non-dual school) creates a hierarchy between the two; Visistadvaita (qualified non-dualism) makes personality ultimate; Spinoza rejects volitional personality; classical theism extends personal predicates analogically rather than univocally.
+|   MECHANISM / ARGUMENT: Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.
+|   CONSEQUENCE / CONTRAST: High-value transition: Every familiar cause is encountered through some effect or embodied activity.
+|   TRAP / ANSWER-USE: 4. Advaita's Brahman is the presupposition of manifestation, not one manifested object.
+|   EXAM OPENING: Advaita (non-dual school) creates a hierarchy between the two; Visistadvaita (qualified non-dualism) makes personality ultimate; Spinoza rejects volitional personality; classical theism extends personal predicates analogically rather than univocally.
++--
+        |
+        v
++-- SESSION 13: UPSC ANSWER WRITING FOR NOTIONS OF GOD
+|   DEFINITION / TERMS : Nyaya God is not the material cause.
+|   MECHANISM / ARGUMENT: High-value transition: 10 marks: personal and impersonal aspects.
+|   CONSEQUENCE / CONTRAST: High-value transition: 10 marks: personal and impersonal aspects.
+|   TRAP / ANSWER-USE: Answer-use
+|   EXAM OPENING: Final verdict: "The notion of God is not a single universal concept but a family of metaphysical models.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

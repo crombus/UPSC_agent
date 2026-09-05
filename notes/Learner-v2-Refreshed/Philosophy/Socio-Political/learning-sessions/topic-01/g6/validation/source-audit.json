@@ -1,0 +1,40 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+  "topic_title": "Social and Political Ideals",
+  "official_syllabus_verbatim": "Social and Political ldeals : Equality, Justice, Liberty.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 14,
+  "verified_pyqs": [
+    "Discuss the salient features of equality according to J.S. Mill.",
+    "How are both equality and liberty inadequate as social and political ideals without justice? Discuss.",
+    "Briefly discuss Plato's concept of justice.",
+    "Critically evaluate the concepts of liberty and equality as political ideals.",
+    "What is meant by justice as fairness? Explain Rawls' theory of justice.",
+    "\"Complete liberty may lead to inequality while order and restrictions imply a necessary loss of freedom.\" Critically discuss.",
+    "Explain the difference between the notion of equity and equality with reference to Marxian philosophy.",
+    "Discuss critically the distributive theory of justice as propounded by R. Nozick.",
+    "How does Rousseau distinguish between natural and artificial inequality ? Explain.",
+    "Discuss whether Amartya Sen's idea of justice is an improvement upon Rawl's theory of justice.",
+    "Is the concept of liberty realizable in the modern technological society? Explain.",
+    "How far do you think John Rawls is continuing with Plato's concept of justice?",
+    "Does liberty put limitations to equality? Discuss.",
+    "How far can liberty and equality be considered as distinctive features of democracy ? Discuss."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g5\\topic-01_Complete-Learning-Session_2026-08-30.md": "94af0203e1e2ef98f98f92929e3bcebc0f661da44069ce9d830f72d02f08c4c7",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Social-Political-Ideals.md": "b855f13aaf6bb1fe5f9cd38bdd8178fe025ae7baa90336713f3655e5cff81e77",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Social-Political-Ideals\\Social-Political-Ideals_Layered-Complete-Learning-Session_2026-08-19.md": "e5c4f17fc3c1ed090117ded479f31a3227c3bbd4d169c7ef6ef874c0302307d0",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Social-Political-Ideals\\Social-Political-Ideals_Layered-Solved-Practice-Workbook_2026-08-19.md": "42593f510ccab4409580292c951f6a0e47719b278ee2c5242abca69551d59e80"
+  }
+}

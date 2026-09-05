@@ -1,0 +1,4495 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\topic-05_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Political Ideologies - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Political Ideologies: Anarchism; Marxism and Socialism.  **Generation:** g4, 2026-09-03 · **Approval:** false pending explicit topic approval  **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for ex",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 15,
+      "markdown_body_line_end": 15,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Political Ideologies concept map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g4\\assets\\philosophy-paper-ii-socio-political-philosophy-05\\anarchism-marxism-socialism-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 645.224
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 337.688
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 19,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Political Ideologies: Anarchism; Marxism and Socialism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 304.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 273.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 25,
+      "markdown_body_line_end": 31,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 229.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 99.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 57,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Family | Status in this owner | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Family",
+          "Status in this owner",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 491.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 69,
+      "heading": "Shared comparison axes",
+      "preview": "Axis | Anarchism | Marxism | Socialism as a family",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Axis",
+          "Anarchism",
+          "Marxism",
+          "Socialism as a family"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 469.09
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 175.688
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 86,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 548.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 142,
+      "heading": "VISUAL - The discriminating question and its three answers",
+      "preview": "CAPITALISM  /  HIERARCHY  /  COERCION",
+      "metadata": {
+        "language": "text",
+        "line_count": 41,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 176,
+      "heading": "VISUAL - Two senses of ideology that must never be run together",
+      "preview": "+---------------------+----------------------------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 182,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anarchism, Marxism and socialism are separated by one discriminating question — is domination produced chiefly by coercive authority, by the capitalist mode of production, or by socially uncontrolled productive property? — and every later d",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 507.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 426.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 236,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE DISCRIMINATING QUESTION  --  what causes domination?",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 549.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 368.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 245,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: One question sorts the whole syllabus item -- is domination caused by coercive AUTHORITY (anarchism), by uncontrolled PROPERTY (socialism), or by CLASS relations of the mode of production (Marxism)? Diagnosis fixes the cure.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 320.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 261.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 251,
+      "markdown_body_line_end": 265,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "CAPITALISM / HIERARCHY / COERCION",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 239.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 98.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 290,
+      "heading": "CLOSING RECALL FLOW - Ideology, Domination and the Discriminating Question",
+      "preview": "Ideology, Domination and the Discriminating Question",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 780.791
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 692.623
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 348,
+      "heading": "VISUAL - The five-step burden-of-justification argument",
+      "preview": "(1) Legitimate authority must be compatible with the MORAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 45,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 346.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 380,
+      "heading": "VISUAL - Four neighbouring terms that examiners deliberately confuse",
+      "preview": "+------------------------+---------------------------+------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 386,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The anarchist thesis is not that order is unnecessary but that order must not be identified with sovereign command: the state is asked to justify a content-independent right to be obeyed, and anarchism holds that no available justification ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 527.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 446.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 443,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "FOUR WORDS THAT ARE OFTEN CONFUSED",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 549.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 358.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 451,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Anarchism = order WITHOUT a sovereign coercive centre. The engine is the five-step burden-of-justification argument; the state loses because it demands obedience for legality, not for rightness.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 324.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 280.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 468,
+      "heading": "1.1 Doctrine statement",
+      "preview": "Term | Meaning | Discriminating test",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Discriminating test"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 172.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 63.022
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 509,
+      "heading": "CLOSING RECALL FLOW - Anarchism I: The Argument Against the Authority of the State",
+      "preview": "Anarchism I: The Argument Against the Authority of the State",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 472.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 393.073
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 561,
+      "heading": "VISUAL - The anarchist family tree, sorted by the property axis",
+      "preview": "ANARCHISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 595,
+      "heading": "VISUAL - Four objections to stateless order and the anarchist replies",
+      "preview": "OBJECTION 1  security dilemma      -> REPLY: the state itself has",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 350.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 89.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anarchism does not infer that every person is always benevolent; its claim is institutional — that reciprocity, custom, association and horizontal coordination can generate order without a final coercive superior — and Gandhi enters this fa",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 662,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE ANARCHIST STRANDS NETWORK  (shared root: reject domination)",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 670,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Five strands sorted by property + transition; four objections, of which HIDDEN AUTHORITY is the one a serious anarchist must concede and answer.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 508.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 464.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 682,
+      "heading": "1.4 Main strands",
+      "preview": "Strand | Property | Preferred order | Key emphasis",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Strand",
+          "Property",
+          "Preferred order",
+          "Key emphasis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 442.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 263.122
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 748,
+      "heading": "CLOSING RECALL FLOW - Anarchism II: Strands, Voluntary Order, Objections and Gandhi",
+      "preview": "Anarchism II: Strands, Voluntary Order, Objections and Gandhi",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 364.191
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 276.023
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 760,
+      "markdown_body_line_end": 802,
+      "heading": "VISUAL - From material reproduction to revolutionary transformation",
+      "preview": "(1) Human beings must PRODUCE THE MEANS OF LIFE",
+      "metadata": {
+        "language": "text",
+        "line_count": 41,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 838,
+      "heading": "VISUAL - The four structural terms and what each is used to say",
+      "preview": "+------------------------+-------------------------------+-------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 844,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Marx takes from Hegel that contradiction drives development while rejecting the primacy of a self-developing Idea: the contradiction that moves history is between developing productive forces and the relations of production that come to fet",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 487.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 392.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 899,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE MARX CAUSAL CHAIN  (why history moves)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 540.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 369.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 907,
+      "markdown_body_line_end": 909,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Six-step chain: produce -> social relations -> forces develop -> relations become fetters -> struggle -> new mode. Base and superstructure interact; the relation is reciprocal, never a mechanical one-way cause.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 321.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 277.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 950,
+      "heading": "2.3 Historical materialism",
+      "preview": "Element | Meaning | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Meaning",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 597.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 455.29
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 975,
+      "heading": "CLOSING RECALL FLOW - Marxism I: Materialist Method and Historical Materialism",
+      "preview": "Marxism I: Materialist Method and Historical Materialism",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 390.69
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 310.871
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL - The four dimensions of alienated labour",
+      "preview": "CAPITALIST LABOUR under private property and division of labour",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1031,
+      "markdown_body_line_end": 1069,
+      "heading": "VISUAL - Why exploitation is structural and not theft",
+      "preview": "(1) Workers lack independent access to the MEANS OF PRODUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 37,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1075,
+      "markdown_body_line_end": 1075,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Alienation is not low pay and exploitation is not theft: a well-paid worker remains alienated wherever labour, product and purpose are controlled by another, and exploitation arises through a formally free contract because the value labour ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 407.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 326.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1130,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "ALIENATION -- the four estrangements (1844 Manuscripts)",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 450.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 269.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1139,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Alienation = four estrangements (product / activity / species-being / others) and is broader than low pay. Surplus value = the labour done exceeds the wage paid; the gap is appropriated. Exploitation is structural, not cruelty.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 221.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 162.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1190,
+      "heading": "CLOSING RECALL FLOW - Marxism II: Alienation, Exploitation and Surplus Value",
+      "preview": "Marxism II: Alienation, Exploitation and Surplus Value",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 502.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 422.273
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1242,
+      "heading": "VISUAL - From the capitalist contradiction to the classless order",
+      "preview": "SOCIALISED PRODUCTION  +  PRIVATE APPROPRIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 39,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1248,
+      "markdown_body_line_end": 1278,
+      "heading": "VISUAL - Four concepts that the equality question keeps separate",
+      "preview": "+----------------------+--------------------------------+-------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1284,
+      "markdown_body_line_end": 1284,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The dictatorship of the proletariat denotes a transitional political supremacy of the working class and not a textual licence for permanent one-party dictatorship, and Marxian socialism is consistent with individual freedom only where colle",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 487.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 406.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1346,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "FROM CAPITALIST CONTRADICTION TO COMMUNISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 494.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 263.691
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1357,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Contradiction (socialised production + private appropriation) -> revolution -> transitional proletarian rule -> classless, stateless communism. Ideology = making the contingent look natural. Equality: formal / substantive / equity /",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 201.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 143.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1385,
+      "markdown_body_line_end": 1390,
+      "heading": "2.8 Equality, equity and freedom",
+      "preview": "Concept | Question | Marxian concern",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Question",
+          "Marxian concern"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 549.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 440.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1412,
+      "markdown_body_line_end": 1430,
+      "heading": "CLOSING RECALL FLOW - Marxism III: Ideology, the State, Revolution and Equality",
+      "preview": "Marxism III: Ideology, the State, Revolution and Equality",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 162.79
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 82.971
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1474,
+      "heading": "VISUAL - Which classical claim each successor revises, and how",
+      "preview": "+----+------------------------------+-------------+---------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 553.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 252.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1516,
+      "heading": "VISUAL - Gramsci's two spheres and Althusser's two apparatuses",
+      "preview": "GRAMSCI                                ALTHUSSER",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1522,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Neo-Marxism does not abandon the materialist mechanism but relocates causal weight into party, culture, state form and subject-formation, so an answer that names which classical claim each successor revises, and on what ground, controls the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 427.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 346.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1561,
+      "markdown_body_line_end": 1579,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE NEO-MARXIST REVISION TREE  (which classical claim is revised)",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 393.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 212.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1588,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Four revisions -> Lenin (weakest link + vanguard), Gramsci (hegemony), Miliband/Poulantzas (instrument vs relative autonomy), Althusser (interpellation). Thesis: causal weight RELOCATED into the superstructure, class still ultimate.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 164.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 105.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1594,
+      "heading": "2A. FROM CLASSICAL TO NEO-MARXISM - WHAT CHANGES, AND WHY",
+      "preview": "⚠️ **Why this section exists.** \"Marxism\" in a Paper II stem is not one doctrine. Answers that treat Marx, Lenin, Gramsci and Althusser as a single voice lose marks twice over — once for imprecision, once for missing the internal debate whe",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1598,
+      "markdown_body_line_end": 1603,
+      "heading": "2A.1 The four classical claims that later Marxists revise",
+      "preview": "# | Classical claim (§2) | Who revises it | What replaces it",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "#",
+          "Classical claim (§2)",
+          "Who revises it",
+          "What replaces it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 678.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 477.622
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1609,
+      "markdown_body_line_end": 1612,
+      "heading": "Humanist and structural Marxism",
+      "preview": "Family | Main explanatory focus | Representative vocabulary | Main risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Family",
+          "Main explanatory focus",
+          "Representative vocabulary",
+          "Main risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 398.822
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 291.92
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1657,
+      "markdown_body_line_end": 1660,
+      "heading": "2A.3 Gramsci: hegemony, civil society and the war of position",
+      "preview": "Sphere | Mode of rule | Institutions | Gramsci's term",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Sphere",
+          "Mode of rule",
+          "Institutions",
+          "Gramsci's term"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 242.59
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1687,
+      "markdown_body_line_end": 1692,
+      "heading": "2A.4 Althusser: RSA, ISA and interpellation",
+      "preview": " | **Repressive State Apparatus (RSA)** | **Ideological State Apparatuses (ISAs)**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "**Repressive State Apparatus (RSA)**",
+          "**Ideological State Apparatuses (ISAs)**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 442.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 311.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1731,
+      "markdown_body_line_end": 1737,
+      "heading": "2A.5 Miliband and Poulantzas: instrumentalism against relative autonomy",
+      "preview": "Axis | **Miliband (1969)** | **Poulantzas (1973)**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "**Miliband (1969)**",
+          "**Poulantzas (1973)**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 277.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 113.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1763,
+      "markdown_body_line_end": 1782,
+      "heading": "CLOSING RECALL FLOW - Marx After Marx: Lenin, Gramsci, Althusser and the State Debate",
+      "preview": "Marx After Marx: Lenin, Gramsci, Althusser and the State Debate",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 370.991
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 291.173
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1794,
+      "markdown_body_line_end": 1836,
+      "heading": "VISUAL - The socialist family sorted by method and form of ownership",
+      "preview": "SOCIALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 41,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1842,
+      "markdown_body_line_end": 1872,
+      "heading": "VISUAL - Socialism, communism and social democracy on four axes",
+      "preview": "+--------------+---------------------+--------------------+------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1878,
+      "markdown_body_line_end": 1878,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Socialism is a family and Marxism is one member of it: a socialist may choose revolution or parliament, planning or regulated markets, state ownership or cooperatives, so the mark-bearing move is to define the sense in use before any compar",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 472.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 392.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1918,
+      "markdown_body_line_end": 1937,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE SOCIALISM FAMILY TREE",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 418.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 227.691
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1944,
+      "markdown_body_line_end": 1946,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Socialism is the family; Marxism is one revolutionary member. Sort every variant by OWNERSHIP (state/cooperative/market/moral) and METHOD (revolution vs gradual). Socialism =/= communism =/= social democracy.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 180.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 121.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1969,
+      "markdown_body_line_end": 1976,
+      "heading": "3.3 Major varieties",
+      "preview": "Variant | Method | Ownership / control | Distinctive claim",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Variant",
+          "Method",
+          "Ownership / control",
+          "Distinctive claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 633.691
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 413.29
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1993,
+      "markdown_body_line_end": 1998,
+      "heading": "Reform, planning, markets and social ownership",
+      "preview": "Tension | First pole | Second pole | Controlling verdict",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Tension",
+          "First pole",
+          "Second pole",
+          "Controlling verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 239.69
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 70.788
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2002,
+      "markdown_body_line_end": 2007,
+      "heading": "3.4 Socialism, communism and social democracy",
+      "preview": "Axis | Socialism (family) | Communism (Marxian higher phase) | Social democracy",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Socialism (family)",
+          "Communism (Marxian higher phase)",
+          "Social democracy"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 670.89
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2038,
+      "markdown_body_line_end": 2056,
+      "heading": "CLOSING RECALL FLOW - Socialism: The Family, Its Varieties and Gandhian Socialism",
+      "preview": "Socialism: The Family, Its Varieties and Gandhian Socialism",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 276.19
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 196.371
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2068,
+      "markdown_body_line_end": 2104,
+      "heading": "VISUAL - Anarchism against Marxism on four shared axes",
+      "preview": "+---------------------+---------------------------+---------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 364.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2110,
+      "markdown_body_line_end": 2142,
+      "heading": "VISUAL - Marx and Gandhi: five axes and the means-ends divide",
+      "preview": "AXIS               MARX                      GANDHI",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2148,
+      "markdown_body_line_end": 2148,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bakunin predicts that a revolutionary state will generate a new ruling stratum while Marxists reply that organised class power is needed to defeat entrenched property and coercion, and the honest presentation reports this exchange as genuin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 467.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2184,
+      "markdown_body_line_end": 2201,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "COMPARATIVE IDEOLOGY MATRIX",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 492.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 321.691
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2211,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: Debates = shared axes (domination / state / method / means-ends / core fear). Anarchism vs Marxism = the STATE; Marx vs Gandhi = VIOLENCE + SCALE; Marx vs democratic socialists = can a capitalist state be converted by ballots?",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 274.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 215.224
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2219,
+      "markdown_body_line_end": 2224,
+      "heading": "4.1 Anarchism vs Marxism",
+      "preview": "Axis | Anarchism | Marxism",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Anarchism",
+          "Marxism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 174.224
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 64.822
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2236,
+      "markdown_body_line_end": 2242,
+      "heading": "4.3 Marx vs Gandhi",
+      "preview": "Axis | Marx | Gandhi",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "Marx",
+          "Gandhi"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 654.891
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 513.09
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2254,
+      "markdown_body_line_end": 2259,
+      "heading": "4.5 Contemporary relevance without current-affairs dependence",
+      "preview": "Ideology | What remains diagnostically live | What must be qualified",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Ideology",
+          "What remains diagnostically live",
+          "What must be qualified"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 387.59
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 188.588
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2269,
+      "markdown_body_line_end": 2287,
+      "heading": "CLOSING RECALL FLOW - Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi and M. N. Roy",
+      "preview": "Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi and M. N. Roy",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 119.688
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 779.823
+        }
+      },
+      "pdf_pages": [
+        49,
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2299,
+      "markdown_body_line_end": 2331,
+      "heading": "VISUAL - The three-move structure that a critical directive rewards",
+      "preview": "STEP 1  OBJECTION, stated in its STRONGEST form",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 561.223
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 260.223
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2337,
+      "markdown_body_line_end": 2371,
+      "heading": "VISUAL - The six standing criticisms with reply and residual",
+      "preview": "+----------------------+-------------+----------------------+----------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2377,
+      "markdown_body_line_end": 2377,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A critical-examination stem is scored on the third move rather than the second: state the objection in its strongest form, give the best reply the doctrine actually possesses, and then name the residual problem that survives the reply and g",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 447.091
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 366.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2415,
+      "markdown_body_line_end": 2430,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "THE CRITIQUE / OBJECTION LADDER  (criticism -> best reply -> residual)",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 301.091
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2437,
+      "heading": "EXAM USE AND CONCISE REVISION",
+      "preview": "MEMORY: For each ideology, hold criticism -> best reply -> RESIDUAL. Grade the residual; the residual is where the marks live.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 267.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 223.024
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2443,
+      "markdown_body_line_end": 2450,
+      "heading": "5. CRITICISMS AND REPLIES",
+      "preview": "Criticism | Target | Strongest reply | Residual issue",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Target",
+          "Strongest reply",
+          "Residual issue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 587.89
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 2470,
+      "markdown_body_line_end": 2486,
+      "heading": "CLOSING RECALL FLOW - Criticisms, Replies and the Residual Problems That Decide Marks",
+      "preview": "Criticisms, Replies and the Residual Problems That Decide Marks",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 287.69
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 207.871
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2695,
+      "markdown_body_line_end": 2695,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Political-Ideologies.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank with its corpus",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 169.591
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 60.324
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2726,
+      "markdown_body_line_end": 2726,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 13 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 288.191
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 221.524
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2728,
+      "markdown_body_line_end": 2742,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 13,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 502.39
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2750,
+      "markdown_body_line_end": 2757,
+      "heading": "9.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 447.19
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 216.288
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2764,
+      "markdown_body_line_end": 2764,
+      "heading": "9.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not run the classical-to-neo trajectory. Use one doctrine or one revision, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 131.488
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 101.02
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2778,
+      "markdown_body_line_end": 2778,
+      "heading": "9.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On \"is Marxism still relevant\" stems, the mark-bearing structure is a three-column judgment: what the analysis still explains (concentration, precarity, ideological reproduction, global inequality), what it failed to predict (the sequenc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 571.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 498.624
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2840,
+      "markdown_body_line_end": 2840,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §2A (added in this pass):** the Lenin, Gramsci, Althusser and Miliband–Poulantzas modules are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is assert",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 285.024
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2848,
+      "markdown_body_line_end": 2848,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 257.524
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 212.856
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3444,
+      "markdown_body_line_end": 3446,
+      "heading": "EXAM APPLICATION 1 - What an Ideology Is: The Discriminating Question of Domination",
+      "preview": "MEMORY: Concept spine -> which SENSE of ideology is in play -> which DIAGNOSIS of domination (authority / property / mode of production) -> only then expound the specific doctrine.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 374.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 330.224
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3466,
+      "markdown_body_line_end": 3468,
+      "heading": "EXAM APPLICATION 2 - Anarchism I: The Case Against the State",
+      "preview": "MEMORY: 10-mark anarchism = burden-of-justification argument in four moves + one named anchor (Bakunin corruption / Proudhon property / Kropotkin mutual aid) + a graded verdict; do not narrate a movement's history.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 170.624
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 125.956
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3490,
+      "markdown_body_line_end": 3491,
+      "heading": "EXAM APPLICATION 3 - Anarchism II: Strands, Voluntary Order, Objections, and Gandhi",
+      "preview": "MEMORY: Gandhi = anarchist in ideal, reformer in method. Objection ladder = security / scale / anthropology / HIDDEN AUTHORITY (the residual).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 569.624
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3511,
+      "markdown_body_line_end": 3513,
+      "heading": "EXAM APPLICATION 4 - Marxism I: Method, Dialectical and Historical Materialism",
+      "preview": "MEMORY: Historical materialism = the six-step chain in premises + the reciprocal base/superstructure caution. Relevance stems = three columns: what it still explains / what it failed to predict / what its institutional record forecloses.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 424.224
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 365.356
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3534,
+      "markdown_body_line_end": 3536,
+      "heading": "EXAM APPLICATION 5 - Marxism II: Alienation, Exploitation and Surplus Value",
+      "preview": "MEMORY: Alienation 10-marker = definition + four dimensions + \"broader than low wages\" + species-being objection + verdict. Keep exposition dominant when the verb is \"expound/present\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 205.756
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 161.088
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3560,
+      "markdown_body_line_end": 3562,
+      "heading": "EXAM APPLICATION 6 - Marxism III: Ideology, State, Revolution, Communism, Equality",
+      "preview": "MEMORY: Freedom-consistency = the \"only if... otherwise self-defeats\" conditional. Marxism-as-ideology = the four §2.9 objections, each graded, + diagnosis/remedy split.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 569.624
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3582,
+      "markdown_body_line_end": 3584,
+      "heading": "EXAM APPLICATION 7 - Marx After Marx: Lenin, Gramsci, Althusser, Miliband and Poulantzas",
+      "preview": "MEMORY: On any \"is Marxism still relevant\" stem, deploy the four-revision table + the relocation verdict; on any \"state and class\" stem, run Miliband -> Poulantzas -> relative-autonomy-must-stay-relative.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 402.024
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 357.356
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3607,
+      "markdown_body_line_end": 3609,
+      "heading": "EXAM APPLICATION 8 - Socialism: The Family, Its Varieties, and Gandhian Socialism",
+      "preview": "MEMORY: Compare-socialism-communism = shared axes in parallel (property/state/ distribution/method). Gandhian socialism = trusteeship cluster + voluntary- conversion objection + means-ends verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 161.356
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 116.688
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3629,
+      "markdown_body_line_end": 3630,
+      "heading": "EXAM APPLICATION 9 - Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi, M. N. Roy",
+      "preview": "MEMORY: Bring M. N. Roy to the freedom stem; run Bakunin-Marx on the state-abolition stem; always adjudicate the debate, never declare a knockout.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 584.024
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3649,
+      "markdown_body_line_end": 3651,
+      "heading": "EXAM APPLICATION 10 - Criticisms, Replies and the Common Traps",
+      "preview": "MEMORY: Critically-examine = two objections, each with reply + residual, + graded verdict. Relevance = analytical survival vs institutional record. Never \"prove\" an ideology with a scheme or statute.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 402.224
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 357.556
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3672,
+      "markdown_body_line_end": 3675,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED EVIDENCE (P1-P12) / EXAMPLE -> OBJECTION / REPLY /",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 727.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 696.691
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3679,
+      "markdown_body_line_end": 3679,
+      "heading": "SOLVED PYQ BANK - EXACTLY 13 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 13 primary parts (2018:2, 2019:2, 2020:2, 2021:2, 2022:0, 2023:2, 2024:2, 2025:1). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 541.824
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3719,
+      "markdown_body_line_end": 3721,
+      "heading": "Solved PYQ 1 - 2018 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers \"do you subscribe?\" with a graded yes/no (accept the critique via P9, reject the strong constructive claim via the hidden-authority residual) and closes on the asymmetric verdict, not a slogan.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 133.024
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 74.156
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3760,
+      "markdown_body_line_end": 3762,
+      "heading": "Solved PYQ 2 - 2018 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it turns \"consistent?\" into the \"only if... otherwise self-defeats\" conditional (P3 + §2.8), brings M. N. Roy as the internal Indian reply, concedes the adverse record, and grades rather than answers yes/no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 414.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 355.824
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3796,
+      "markdown_body_line_end": 3798,
+      "heading": "Solved PYQ 3 - 2019 Q1(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it grades the label (affinity via self-rule/swarāj/minimal state; divergence via P10 means-ends and non-violence) and lands the precise \"ideal vs method\" verdict instead of a flat yes or no.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 519.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 426.824
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3835,
+      "markdown_body_line_end": 3837,
+      "heading": "Solved PYQ 4 - 2019 Q3(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it splits diagnosis (P2/P4, still explains) from prediction and remedy (falsified), uses the neo-Marxist relocation (P6/P8) as the survival mechanism, and grades without commenting on any actual regime.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3872,
+      "markdown_body_line_end": 3874,
+      "heading": "Solved PYQ 5 - 2020 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it refuses the anarchy/anarchism conflation up front, reads the pandemic through P9 (mutual aid, bounded), and grades to \"shows the insight, not the conclusion\" rather than answering a careless yes.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 454.224
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 347.756
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3912,
+      "markdown_body_line_end": 3914,
+      "heading": "Solved PYQ 6 - 2020 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it isolates the philosophical core (P2/P3/P6/P7), concedes the necessary-not-sufficient limit and the authoritarian residual, and closes on the diagnosis/remedy split rather than a yes/no on \"relevance\".",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 428.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 370.024
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3955,
+      "markdown_body_line_end": 3958,
+      "heading": "Solved PYQ 7 - 2021 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it expounds anarchism as an argument with named strands, presses the strongest case (P9), then answers \"completely?\" through the hidden-authority residual and Bakunin's double-edged warning, closing on the as",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 386.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 327.424
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4000,
+      "markdown_body_line_end": 4002,
+      "heading": "Solved PYQ 8 - 2021 Q3(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the trusteeship/self-rule (swarāj)/sarvodaya cluster, contrasts it with Marxian socialism, presses the voluntary-conversion objection to a residual (Ambedkar), and grounds relevance in means-ends + e",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 411.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4041,
+      "markdown_body_line_end": 4043,
+      "heading": "Solved PYQ 9 - 2023 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it \"critically examines\" by reconstructing the claim via P9, isolating the fatal word \"always/everywhere\", and rescuing the defensible philosophical-anarchist core with a graded criterion verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 414.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 370.024
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4085,
+      "markdown_body_line_end": 4087,
+      "heading": "Solved PYQ 10 - 2023 Q3(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it runs P2 as six numbered premises (not slogans), states the base/superstructure caution pre-emptively, extends via P6/P7, and grades with the necessary-not-sufficient verdict tuned to Indian social change.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 386.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 327.424
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4123,
+      "markdown_body_line_end": 4126,
+      "heading": "Solved PYQ 11 - 2024 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- as an EXPOSITION it leads with the definition and the four dimensions (P3), makes the \"broader than low wages\" distinction the centrepiece, adds only one controlled objection/reply, and keeps exposition domin",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 504.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 398.424
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4164,
+      "markdown_body_line_end": 4167,
+      "heading": "Solved PYQ 12 - 2024 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it COMPARES on fixed axes (property/state/ distribution/method) via P11 and P12 rather than writing two summaries, flags the lower-phase/higher-phase vocabulary, and lands the \"all communists are socialists, ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4210,
+      "markdown_body_line_end": 4213,
+      "heading": "Solved PYQ 13 - 2025 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it evaluates on BOTH senses of ideology, banks the strengths (P2/P4/P6/P7), runs all four §2.9 objections to residuals with the P5 revision, adds the P8 relocation, and closes on the diagnosis/remedy split, n",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 237.424
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 178.556
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4217,
+      "markdown_body_line_end": 4217,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4221,
+      "markdown_body_line_end": 4221,
+      "heading": "Original Mains 1",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 10 marks - answer in about 150 words - directive: Bring out / Assess",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 715.624
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 670.956
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4237,
+      "markdown_body_line_end": 4237,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: Two senses (neutral vs naturalising) + persistence of mobilisation + 'end of ideology is itself ideological' = full marks.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 468.556
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 404.688
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4241,
+      "markdown_body_line_end": 4241,
+      "heading": "Original Mains 2",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 15 marks - answer in about 250 words - directive: Critically examine",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 404.688
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 338.02
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4259,
+      "markdown_body_line_end": 4259,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: socialisation = control by society; nationalisation without democracy = bureaucratic domination (P11). State the axes, then the self-defeat condition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4263,
+      "markdown_body_line_end": 4263,
+      "heading": "Original Mains 3",
+      "preview": "Original practice - Socio-Political Philosophy Paper II - 20 marks - answer in about 300 words - directive: Critically examine and assess",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 725.224
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 658.556
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4281,
+      "markdown_body_line_end": 4281,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: shared enemy + state-as-method split; P9/Bakunin vs P1/P5/Lenin; hidden-authority objection both ways; conditional verdict, not a knock-out.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 294.956
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 216.888
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4427,
+      "markdown_body_line_end": 4436,
+      "heading": "ADVANCED SESSION 1 - What an Ideology Is: The Discriminating Question of Domination",
+      "preview": "ANALYSIS: Four senses of \"ideology\". (1) DESCRIPTIVE / neutral -- any organised belief-system guiding political action (liberalism, socialism, etc.). (2) PEJORATIVE / Marxian -- a distorting framework that makes historically specific, class",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 510.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 394.824
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4438,
+      "markdown_body_line_end": 4444,
+      "heading": "ADVANCED SESSION 1 - What an Ideology Is: The Discriminating Question of Domination",
+      "preview": "ANALYSIS: Ideology vs its neighbours. IDEOLOGY differs from PHILOSOPHY (which seeks justified truth without a mobilising agenda), from POLITICAL THEORY (systematic analysis of concepts such as authority and justice), from DOCTRINE (a fixed ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 394.824
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 307.556
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4446,
+      "markdown_body_line_end": 4450,
+      "heading": "ADVANCED SESSION 1 - What an Ideology Is: The Discriminating Question of Domination",
+      "preview": "CAUTION: The \"end of ideology\" claim (post-war, and again after 1991) held that grand ideological contests were exhausted by technocratic, market-democratic convergence. The persistence of anarchist, Marxist, socialist, nationalist, religio",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 307.556
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 234.488
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4452,
+      "markdown_body_line_end": 4455,
+      "heading": "ADVANCED SESSION 1 - What an Ideology Is: The Discriminating Question of Domination",
+      "preview": "WRONG: Do not treat the three named ideologies as a menu of unrelated opinions. They are RIVAL DIAGNOSES of one condition (domination) that share premises -- human equality, the illegitimacy of unearned power -- and diverge on cause and cur",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 234.488
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 175.62
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4466,
+      "markdown_body_line_end": 4472,
+      "heading": "ADVANCED SESSION 2 - Anarchism I: The Case Against the State",
+      "preview": "ANALYSIS: Who adds what. BAKUNIN adds the corruption thesis -- concentrated power deforms both ruler and ruled, so even a well-meant revolutionary state becomes a new despotism. PROUDHON attacks property when it functions as an institutiona",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 678.824
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4474,
+      "markdown_body_line_end": 4479,
+      "heading": "ADVANCED SESSION 2 - Anarchism I: The Case Against the State",
+      "preview": "ANALYSIS: The presuppositions do the real work. Anarchism assumes (a) humans can cooperate and reason reciprocally; (b) coordination does NOT logically require a sovereign centre -- federations and associations can coordinate; (c) hierarchy",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 678.824
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 591.556
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4481,
+      "markdown_body_line_end": 4484,
+      "heading": "ADVANCED SESSION 2 - Anarchism I: The Case Against the State",
+      "preview": "WRONG: Reading the argument as empirical optimism (\"people are naturally good\"). The claim is INSTITUTIONAL, not psychological: order CAN emerge from reciprocity and federation without a final coercive superior. Anarchists need not deny ego",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 591.556
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 532.688
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4494,
+      "markdown_body_line_end": 4501,
+      "heading": "ADVANCED SESSION 3 - Anarchism II: Strands, Voluntary Order, Objections, and Gandhi",
+      "preview": "ANALYSIS: Which objections are answerable, which are residual. The security and scale objections have decent replies (the state is itself the great organiser of violence; federated, recallable administration can coordinate). The anthropolog",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 488.488
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 387.02
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4503,
+      "markdown_body_line_end": 4509,
+      "heading": "ADVANCED SESSION 3 - Anarchism II: Strands, Voluntary Order, Objections, and Gandhi",
+      "preview": "ANALYSIS: Gandhi as a QUALIFIED political anarchist. Gandhi's self-rule (swarāj) begins with self-rule; his preference for decentralised village republics and a state reduced to a minimum creates a real anarchist affinity. But he is NOT a B",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 387.02
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 299.753
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4511,
+      "markdown_body_line_end": 4514,
+      "heading": "ADVANCED SESSION 3 - Anarchism II: Strands, Voluntary Order, Objections, and Gandhi",
+      "preview": "WRONG: Calling all anarchists collectivists, or all of them anti-market. Individualist and mutualist strands exist; philosophical anarchism may even coexist with institutions under critical allegiance. Specify the strand before you attribut",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 299.753
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 240.885
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4525,
+      "markdown_body_line_end": 4530,
+      "heading": "ADVANCED SESSION 4 - Marxism I: Method, Dialectical and Historical Materialism",
+      "preview": "ANALYSIS: Dialectic, used with care. Marx takes from Hegel that contradiction drives development, but rejects the primacy of a self-developing Idea: contradictions are embedded in MATERIAL life, not in Spirit. The textbook formula \"thesis-a",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 196.685
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 123.617
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4532,
+      "markdown_body_line_end": 4537,
+      "heading": "ADVANCED SESSION 4 - Marxism I: Method, Dialectical and Historical Materialism",
+      "preview": "ANALYSIS: The five load-bearing terms. PRODUCTIVE FORCES = capacity to produce (labour-power, knowledge, tools). RELATIONS OF PRODUCTION = ownership/control and class relations (who commands and appropriates). MODE OF PRODUCTION = their uni",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4539,
+      "markdown_body_line_end": 4543,
+      "heading": "ADVANCED SESSION 4 - Marxism I: Method, Dialectical and Historical Materialism",
+      "preview": "CAUTION: The UPSC-safe nuance. Do NOT write that the base mechanically causes every idea. Marx allows reciprocal effects and political agency; the legitimate criticism is a TENDENCY toward economic reductionism, not a crude determinism he n",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 642.956
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4553,
+      "markdown_body_line_end": 4559,
+      "heading": "ADVANCED SESSION 5 - Marxism II: Alienation, Exploitation and Surplus Value",
+      "preview": "ANALYSIS: Alienation presupposes SPECIES-BEING -- conscious, social, creative activity as human flourishing. The objection is that this assumes a controversial universal human essence. The reply reconstructs it MINIMALLY: persons need meani",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 598.756
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 511.488
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4561,
+      "markdown_body_line_end": 4565,
+      "heading": "ADVANCED SESSION 5 - Marxism II: Alienation, Exploitation and Surplus Value",
+      "preview": "ANALYSIS: Exploitation vs inequality -- the distinction that earns marks. EXPLOITATION concerns the social RELATION of production (control and appropriation); INEQUALITY concerns the DISTRIBUTION of holdings. Redistribution may reduce inequ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 511.488
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 438.42
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4567,
+      "markdown_body_line_end": 4571,
+      "heading": "ADVANCED SESSION 5 - Marxism II: Alienation, Exploitation and Surplus Value",
+      "preview": "WRONG: Reducing Marxism to \"equality of income\". Its central categories are production, class, exploitation, alienation and praxis. And on surplus value, argue the STRUCTURAL point (control + appropriation), not the price theory: the labour",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 438.42
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 379.553
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4581,
+      "markdown_body_line_end": 4586,
+      "heading": "ADVANCED SESSION 6 - Marxism III: Ideology, State, Revolution, Communism, Equality",
+      "preview": "ANALYSIS: Relative autonomy, stated early. The classical claim that the state secures capitalist conditions does NOT mean every state act directly benefits every capitalist; \"relative autonomy is compatible with structural class function\". ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 335.353
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 262.285
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4588,
+      "markdown_body_line_end": 4593,
+      "heading": "ADVANCED SESSION 6 - Marxism III: Ideology, State, Revolution, Communism, Equality",
+      "preview": "ANALYSIS: The self-defeat condition on emancipation. Marxian socialism and individual freedom are consistent ONLY IF collective ownership ENLARGES real self-development and democratic control. If \"collective\" power becomes bureaucratic comm",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 262.285
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 189.217
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4595,
+      "markdown_body_line_end": 4602,
+      "heading": "ADVANCED SESSION 6 - Marxism III: Ideology, State, Revolution, Communism, Equality",
+      "preview": "WRONG: Four standard overreaches. (1) Do not read \"dictatorship of the proletariat\" as endorsing permanent one-party rule. (2) Do not claim Marx gives a detailed blueprint of communist institutions -- his account is deliberately limited. (3",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 189.217
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 101.95
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4613,
+      "markdown_body_line_end": 4619,
+      "heading": "ADVANCED SESSION 7 - Marx After Marx: Lenin, Gramsci, Althusser, Miliband and Poulantzas",
+      "preview": "ANALYSIS: Lenin. Imperialism exports capital and buys off a stratum of home workers, so revolution erupts at the weakest link, not the strongest economy; and spontaneous struggle yields only trade-union consciousness, so a vanguard party un",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 766.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 678.824
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4621,
+      "markdown_body_line_end": 4627,
+      "heading": "ADVANCED SESSION 7 - Marx After Marx: Lenin, Gramsci, Althusser, Miliband and Poulantzas",
+      "preview": "ANALYSIS: Gramsci vs Althusser -- the distinction examiners reward. Both give the superstructure real weight. Gramsci's CIVIL SOCIETY is a terrain of CONTEST where hegemony is won and lost by organic intellectuals, so revolution needs a \"wa",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 678.824
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 591.556
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4629,
+      "markdown_body_line_end": 4635,
+      "heading": "ADVANCED SESSION 7 - Marx After Marx: Lenin, Gramsci, Althusser, Miliband and Poulantzas",
+      "preview": "ANALYSIS: Miliband vs Poulantzas -- the state debate, and its internal limit. Run it as claim (Miliband: the state is an instrument, shown by social composition, structural leverage, positional interest) -> objection (Poulantzas: the state ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 591.556
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 504.288
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4637,
+      "markdown_body_line_end": 4642,
+      "heading": "ADVANCED SESSION 7 - Marx After Marx: Lenin, Gramsci, Althusser, Miliband and Poulantzas",
+      "preview": "CAUTION: Indian application is CONCEPTUAL only. The Directive Principles (Part IV, Articles 38, 39, 43) are non-justiciable constitutional facts; their presence neither proves the Indian state is relatively autonomous nor an instrument of a",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 504.288
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 431.22
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4652,
+      "markdown_body_line_end": 4658,
+      "heading": "ADVANCED SESSION 8 - Socialism: The Family, Its Varieties, and Gandhian Socialism",
+      "preview": "ANALYSIS: The socialist argument. (1) Productive capacities are socially inherited and cooperatively exercised; (2) private control of indispensable assets gives some power over others' work and life-chances; (3) markets do not automaticall",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 387.02
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 299.753
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4660,
+      "markdown_body_line_end": 4669,
+      "heading": "ADVANCED SESSION 8 - Socialism: The Family, Its Varieties, and Gandhian Socialism",
+      "preview": "ANALYSIS: Gandhian socialism, precisely. It combines non-possession, trusteeship, bread labour, decentralised production, village self-rule (swarāj) and sarvodaya, rejecting BOTH unrestricted capitalism AND violent, centralised collectivism",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 299.753
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 184.085
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4671,
+      "markdown_body_line_end": 4677,
+      "heading": "ADVANCED SESSION 8 - Socialism: The Family, Its Varieties, and Gandhian Socialism",
+      "preview": "WRONG: Two identity errors. (1) \"Socialism = state ownership\": FALSE -- socialisation requires control by SOCIETY (democratic, participatory, accountable), and nationalisation alone can become ownership by OFFICIALS (bureaucratic domination",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 184.085
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 96.817
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4687,
+      "markdown_body_line_end": 4692,
+      "heading": "ADVANCED SESSION 9 - Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi, M. N. Roy",
+      "preview": "ANALYSIS: Anarchism vs Marxism -- the Bakunin-Marx exchange. Bakunin predicts a revolutionary state will create a new ruling stratum; Marxists reply that organised class power is NEEDED to defeat entrenched property and coercion, and that a",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 752.091
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 679.024
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4694,
+      "markdown_body_line_end": 4699,
+      "heading": "ADVANCED SESSION 9 - Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi, M. N. Roy",
+      "preview": "ANALYSIS: Marx vs democratic socialists. Marxism doubts a state embedded in capitalist property can be peacefully converted into an impartial instrument; democratic socialism argues suffrage, unions, constitutional rights and public institu",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 679.024
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 605.956
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4701,
+      "markdown_body_line_end": 4707,
+      "heading": "ADVANCED SESSION 9 - Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi, M. N. Roy",
+      "preview": "ANALYSIS: M. N. Roy's radical-humanist bridge -- the internal INDIAN correction. Roy rejects subordinating the individual to class, party or historical necessity; freedom is the progressive removal of obstacles to human capacities, and conc",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 605.956
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 504.488
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4709,
+      "markdown_body_line_end": 4711,
+      "heading": "ADVANCED SESSION 9 - Inter-School Debates: Anarchism, Marxism, Democratic Socialism, Gandhi, M. N. Roy",
+      "preview": "WRONG: Presenting any of these debates as settled. The value is in the standing tension; the mark is for stating both sides in their strongest form and grading, not for declaring a winner.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 504.488
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 459.82
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4722,
+      "markdown_body_line_end": 4725,
+      "heading": "ADVANCED SESSION 10 - Criticisms, Replies and the Common Traps",
+      "preview": "WRONG: Do not equate anarchism with chaos -- it proposes order without sovereign coercion; and do not say anarchists reject every form of organisation -- they reject DOMINATION, not association or coordination; nor are all anarchists collec",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 415.62
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 356.753
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4727,
+      "markdown_body_line_end": 4730,
+      "heading": "ADVANCED SESSION 10 - Criticisms, Replies and the Common Traps",
+      "preview": "WRONG: Do not reduce Marxism to equality of income -- its categories are production, class, exploitation, alienation and praxis; do not write base->superstructure as a mechanical one-way cause; and do not attribute \"thesis-antithesis-synthe",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 356.753
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 297.885
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4732,
+      "markdown_body_line_end": 4735,
+      "heading": "ADVANCED SESSION 10 - Criticisms, Replies and the Common Traps",
+      "preview": "WRONG: Do not identify socialism with state ownership -- socialisation needs control by SOCIETY, not merely officials; do not identify socialism and communism without specifying vocabulary and phase; and do not claim Marx gives a detailed b",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 297.885
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 239.017
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4737,
+      "markdown_body_line_end": 4743,
+      "heading": "ADVANCED SESSION 10 - Criticisms, Replies and the Common Traps",
+      "preview": "ANALYSIS: The all-purpose \"utopian\" charge and its disciplined reply. Calling any ideology \"utopian\" is cheap; the reply is that every ideology (including liberalism) contains a regulative picture of a justified order -- the real test is wh",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 239.017
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 151.75
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4749,
+      "markdown_body_line_end": 4749,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** The analytic-against-orthodox Marxism dispute, the market-socialism design debate, the class-reduction quarrel and the institutional reading of anarchism are unnecessary for a competent Core answer on ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 712.224
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4754,
+      "markdown_body_line_end": 4759,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 649.424
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 439.222
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4771,
+      "markdown_body_line_end": 4774,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "One-glance revision of the whole file. Every entry is compressed for recall, not for first learning; read it after the ten layered subtopics, never instead of them. Canonical scope is anarchism, Marxism (with Marx-after-Marx) and socialism,",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 159.022
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 85.954
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4778,
+      "markdown_body_line_end": 4784,
+      "heading": "A. The discriminating question (open almost every answer here)",
+      "preview": "WHAT is the deepest cause of domination?",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4921,
+      "markdown_body_line_end": 4931,
+      "heading": "M. Trap list (final pre-submission check)",
+      "preview": "WRONG: conflating anarchy (disorder) with anarchism (a doctrine of order without a sovereign). WRONG: 'thesis-antithesis-synthesis' as Marx's own fixed law. It is a later shorthand. WRONG: socialism = state ownership. Socialisation = contro",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 184.691
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4947,
+      "markdown_body_line_end": 4949,
+      "heading": "N. PYQ ownership (2018-2025)",
+      "preview": "MEMORY: The whole file in one line -- name the diagnosed cause of domination (authority / property / mode of production), let it fix the cure, state the strongest objection WITH its reply and residual, and close with a graded, source-discip",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 627.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 568.424
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4955,
+      "markdown_body_line_end": 4985,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The central question: what an ideology claims and how domination is diagnosed",
+      "preview": "CENTRAL QUESTION -> what chiefly produces domination in society, and what",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 201.624
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4989,
+      "markdown_body_line_end": 5020,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Anarchism I: the burden-of-justification argument against the state",
+      "preview": "ROOT CLAIM -> coercive political authority lacks adequate moral justification",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 30,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 470.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5024,
+      "markdown_body_line_end": 5056,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Anarchism II: strands of the family, voluntary order and Gandhi's qualified place",
+      "preview": "AXIS OF DIVISION -> who may control PRODUCTIVE PROPERTY, and what replaces",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 435.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 108.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5060,
+      "markdown_body_line_end": 5092,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Marxism I: the materialist method and the elements of historical materialism",
+      "preview": "MARXISM IS FOUR THINGS AT ONCE -> a METHOD, a CRITIQUE, a THEORY OF CHANGE,",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5096,
+      "markdown_body_line_end": 5128,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Marxism II: the four dimensions of alienation and the extraction of surplus value",
+      "preview": "SOURCE -> Economic and Philosophic Manuscripts of 1844",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 412.091
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5132,
+      "markdown_body_line_end": 5164,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Marxism III: ideology, the state, revolution and the two phases of communism",
+      "preview": "IDEOLOGY -> not merely a lie, but a socially rooted framework in which",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5168,
+      "markdown_body_line_end": 5200,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Marx after Marx: which classical claim each successor revises",
+      "preview": "ONE-LINE THESIS -> neo-Marxism RELOCATES causal weight into the",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 425.091
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 97.891
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5204,
+      "markdown_body_line_end": 5236,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Socialism: the family, its varieties and the socialism-communism boundary",
+      "preview": "CORE ARGUMENT -> productive capacities are socially inherited; private",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5240,
+      "markdown_body_line_end": 5272,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Inter-school debates: anarchism, Marxism, democratic socialism, Gandhi and Roy",
+      "preview": "FIX THE AXES BEFORE NAMING ANYONE -> primary domination | the state |",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 412.091
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 84.891
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5276,
+      "markdown_body_line_end": 5308,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Answer spine: criticisms, replies, residual problems and the graded verdict",
+      "preview": "THREE-MOVE STRUCTURE -> OBJECTION (strongest form) -> REPLY (the doctrine's",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 31,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 447.091
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5312,
+      "markdown_body_line_end": 5339,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Exact printed ownership and the ideology comparison firewall",
+      "preview": "OFFICIAL CLAUSE -> Political Ideologies: ANARCHISM; MARXISM and SOCIALISM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 26,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 425.091
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 148.891
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 5343,
+      "markdown_body_line_end": 5370,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Variant taxonomy, historical control and contemporary verdict",
+      "preview": "ANARCHIST LINEAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 26,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 511.091
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1755 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Gender Discrimination - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Gender Discrimination: Female Foeticide, Land and Property Rights, Empowerment.  **Generation:** g4, 30 August 2026 · **Approval:** false pending explicit topic approval  **Evidence key:** ✅ canonical doctrine · ⚠️ ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 14,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Gender Discrimination concept map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\assets\\philosophy-paper-ii-socio-political-philosophy-09\\gender-discrimination-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 631.024
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 323.488
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 52,
+      "heading": "VISUAL - Self / Other Construction",
+      "preview": "MALE NORM (Self/Subject)",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 643.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 482.091
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 58,
+      "markdown_body_line_end": 58,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Open by stating the sex/gender distinction, cite Beauvoir's becoming thesis and the Self/Other structure, then show what work the distinction does for a discrimination argument: if gender is made, gender discrimination is a remediable socia",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 462.891
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 382.024
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 96,
+      "heading": "CANONICAL OWNER COVERAGE",
+      "preview": "**Syllabus (verbatim):** Gender Discrimination : Female Foeticide, Land and Property Rights; Empowerment. **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested/empirical claim **Placement:** This clau",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 616.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 521.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 100,
+      "markdown_body_line_end": 115,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "SEXED BODY + SOCIAL INTERPRETATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 499.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 348.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 133,
+      "heading": "1.2 Sex and gender",
+      "preview": "Concept | Basic meaning | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Concept",
+          "Basic meaning",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 222.924
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 101.122
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 207,
+      "heading": "CLOSING RECALL FLOW - Sex, Gender and Beauvoir's 'Other'",
+      "preview": "Sex, Gender and Beauvoir's 'Other'",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 650.391
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 562.223
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 229,
+      "heading": "VISUAL - Performative Repetition Loop",
+      "preview": "stylised act --> read as natural --> repeated",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 372.023
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 291.023
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State the shift from Beauvoir's 'becoming' to Butler's 'performative repetition,' then use it to answer whether gender is culturally, not biologically, constituted -- performativity supplies the mechanism Beauvoir's account leaves underspec",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 271.823
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 190.955
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 297,
+      "heading": "CLOSING RECALL FLOW - Gender as a Cultural Category and Butler's Performativity",
+      "preview": "Gender as a Cultural Category and Butler's Performativity",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 363.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 274.923
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 319,
+      "heading": "VISUAL - Equality Typology Table",
+      "preview": "TYPE          | REMEDY               | RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 325,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Set out the equality typology first, then use it to adjudicate whether feminism aims at empowerment (substantive, outcome-sensitive) or equality (formal, rule-neutral) -- and show the two are not mutually exclusive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 687.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 620.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 370,
+      "heading": "1.4 Main feminist diagnoses",
+      "preview": "Approach | Primary source of oppression | Remedy | Standard objection",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Approach",
+          "Primary source of oppression",
+          "Remedy",
+          "Standard objection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 568.89
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 399,
+      "heading": "CLOSING RECALL FLOW - Feminist Diagnoses and the Architecture of Equality",
+      "preview": "Feminist Diagnoses and the Architecture of Equality",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 463.09
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 383.271
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 427,
+      "heading": "VISUAL - Foeticide Causal Chain",
+      "preview": "son preference (discriminatory attitude)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 433,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Distinguish foeticide/infanticide/dowry-death precisely, cite Sen's missing-women statistic-as-argument (not a specific invented number), name the PCPNDT Act 1994 as the enacted legal response, and conclude that son preference (a gender-dis",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 612.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 532.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 477,
+      "markdown_body_line_end": 482,
+      "heading": "2.2 Distinguish the issues",
+      "preview": "Issue | Philosophical question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Issue",
+          "Philosophical question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 664.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 555.09
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 537,
+      "markdown_body_line_end": 555,
+      "heading": "CLOSING RECALL FLOW - Female Foeticide: Doctrine, Distinctions, Causes and Missing Women",
+      "preview": "Female Foeticide: Doctrine, Distinctions, Causes and Missing Women",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 584.591
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 504.773
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 579,
+      "heading": "VISUAL - Agarwal's Five-Level Analysis",
+      "preview": "LEGAL TITLE   (recognised in law or record)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 300.373
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 199.373
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 597,
+      "heading": "VISUAL - Indian Legal Instruments on Inheritance -- Status Table",
+      "preview": "INSTRUMENT                         | KIND      | STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State the five-level analysis, map India's legal record onto it (Hindu Succession Act, 2005 amendment giving daughters coparcenary rights; *Vineeta Sharma v. Rakesh Sharma*, 2020 as a Supreme Court judgment clarifying that amendment, not it",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 667.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 586.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 666,
+      "heading": "3.3 Ownership, access and control",
+      "preview": "Level | Question | Why title alone fails",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Level",
+          "Question",
+          "Why title alone fails"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 498.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 312.09
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - Land and Property Rights: Agarwal's Five Levels and the Legal Record",
+      "preview": "Land and Property Rights: Agarwal's Five Levels and the Legal Record",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 316.791
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 236.973
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 761,
+      "heading": "VISUAL - Kabeer's Empowerment Chain",
+      "preview": "RESOURCES  -->   AGENCY   -->  ACHIEVEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 767,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Introduce Kabeer's resources-agency-achievements chain, name the four power registers, and use the chain to test whether a given policy (land title, employment scheme, reservation) empowers or merely resources women without building agency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 667.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 586.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 817,
+      "heading": "4.2 Dimensions of power",
+      "preview": "Dimension | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 698.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 589.49
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 827,
+      "markdown_body_line_end": 836,
+      "heading": "4.3 Resources-agency-achievement",
+      "preview": "RESOURCES  (preconditions)",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 458.09
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 367.09
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 858,
+      "markdown_body_line_end": 863,
+      "heading": "4.3A Care ethics: the Gilligan intervention",
+      "preview": " | **Ethic of justice** | **Ethic of care**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "**Ethic of justice**",
+          "**Ethic of care**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 648.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 505.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 900,
+      "markdown_body_line_end": 915,
+      "heading": "CLOSING RECALL FLOW - Empowerment: Dimensions of Power and Kabeer's Resources-Agency-Achievements",
+      "preview": "Empowerment: Dimensions of Power and Kabeer's Resources-Agency-Achievements",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 616.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 536.873
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL - Legal vs Effective Empowerment Gap",
+      "preview": "106th Amendment: enacted 2023; commenced 16-Apr-2026",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 332.473
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 191.473
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 949,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Introduce Gilligan's care ethic as a supplement/critique of rights-based empowerment, then test the 106th Amendment, 2023 against Kabeer's agency criterion -- noting precisely that its reservation is enacted but implementation is conditiona",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 172.273
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 77.205
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1032,
+      "heading": "CLOSING RECALL FLOW - Care Ethics, the Limits of Empowerment and Political Representation",
+      "preview": "Care Ethics, the Limits of Empowerment and Political Representation",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 733.191
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 653.373
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1056,
+      "heading": "VISUAL - Feminist Schools -- Root-Cause Comparison",
+      "preview": "SCHOOL      | ROOT CAUSE                | IMPLICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 434.773
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 333.773
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1062,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State each school's causal diagnosis (capitalism / patriarchy / both), then bring in Pateman and Okin to show the debate extends beyond economic structure into the very contract-theoretic and family-based foundations of political obligation",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 300.373
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 219.505
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1120,
+      "heading": "5.3 Marxist feminism and socialist feminism - kept separate",
+      "preview": "Axis | **Marxist feminism** | **Socialist feminism**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "**Marxist feminism**",
+          "**Socialist feminism**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 549.49
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1150,
+      "markdown_body_line_end": 1173,
+      "heading": "CLOSING RECALL FLOW - Feminist Schools in Debate: Marxist, Socialist, Radical, Pateman and Okin",
+      "preview": "Feminist Schools in Debate: Marxist, Socialist, Radical, Pateman and Okin",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 707.473
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1199,
+      "heading": "VISUAL - Intersection of Caste and Gender",
+      "preview": "GENDER axis  ---------->",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 503.073
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 382.073
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1223,
+      "heading": "VISUAL - Okin's Multiculturalism Dilemma Test",
+      "preview": "group practice claims cultural protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 326.673
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 165.673
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1229,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Introduce intersectionality to show caste and gender compound rather than merely add; then apply Okin's multiculturalism test to ask whether a given accommodation of group practice should yield to women's equality claims within that group, ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 146.473
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 65.605
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1286,
+      "heading": "6. CRITICISMS AND REPLIES",
+      "preview": "Criticism | Reply | Residual issue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Reply",
+          "Residual issue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.49
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1314,
+      "markdown_body_line_end": 1335,
+      "heading": "CLOSING RECALL FLOW - Gender, Caste and Multiculturalism: The Indian Intersection",
+      "preview": "Gender, Caste and Multiculturalism: The Indian Intersection",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 56.49
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 715.123
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1365,
+      "heading": "VISUAL - PYQ Keyword Router",
+      "preview": "PROMPT KEYWORD           -> PRIMARY SESSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 539.123
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 378.123
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1371,
+      "markdown_body_line_end": 1371,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "For any gender-discrimination prompt: (1) decode the directive word (discuss/examine/analyse/critically evaluate), (2) select the correct primary session(s) via the routing logic below, (3) deploy objection-reply structure from that session",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 358.923
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 278.055
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1440,
+      "markdown_body_line_end": 1440,
+      "heading": "9. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1455,
+      "heading": "9. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 742.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 441.222
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1471,
+      "heading": "10.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 386.022
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 113.62
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1482,
+      "heading": "10.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not attempt Butler, Kabeer, Agarwal and care ethics together. One framework, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 690.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 645.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1504,
+      "markdown_body_line_end": 1504,
+      "heading": "10.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On \"can empowerment eliminate gender discrimination\" stems, the mark-bearing move is building the mechanism and then finding its limit: empowerment expands agency and bargaining power, but discrimination is also sustained by norms held b",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 250.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 176.956
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1576,
+      "markdown_body_line_end": 1576,
+      "heading": "SOURCES",
+      "preview": "⚠️ **Provenance note for §1.3A, §3.3, §4.3, §4.3A and §5.3–§5.3A (added or repaired in this pass):** these are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for B",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 392.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 291.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1580,
+      "markdown_body_line_end": 1600,
+      "heading": "CLOSING RECALL FLOW - Integrated Answer Architecture: Directive Decoder, Evidence Bank and PYQ Routing",
+      "preview": "Integrated Answer Architecture: Directive Decoder, Evidence Bank and PYQ Routing",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 256.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 167.855
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3340,
+      "markdown_body_line_end": 3342,
+      "heading": "ADVANCED SESSION 1 - Advanced: Structural Injustice and Iris Marion Young's Model of Responsibility",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 701.49
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3354,
+      "markdown_body_line_end": 3356,
+      "heading": "ADVANCED SESSION 2 - Advanced: Capability-Based versus Property-Based Models of Women's Empowerment",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 429.49
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 350.088
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3358,
+      "markdown_body_line_end": 3360,
+      "heading": "ADVANCED SESSION 2 - Advanced: Capability-Based versus Property-Based Models of Women's Empowerment",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 350.088
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 281.887
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3362,
+      "markdown_body_line_end": 3364,
+      "heading": "ADVANCED SESSION 2 - Advanced: Capability-Based versus Property-Based Models of Women's Empowerment",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 281.887
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 213.685
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3603,
+      "markdown_body_line_end": 3611,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Self / Other Construction",
+      "preview": "MALE NORM (Self/Subject)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 227.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3615,
+      "markdown_body_line_end": 3620,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Performative Repetition Loop",
+      "preview": "stylised act --> read as natural --> repeated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3624,
+      "markdown_body_line_end": 3629,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Equality Typology Table",
+      "preview": "TYPE          | REMEDY               | RISK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3633,
+      "markdown_body_line_end": 3641,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Foeticide Causal Chain",
+      "preview": "son preference (discriminatory attitude)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3645,
+      "markdown_body_line_end": 3651,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Agarwal's Five-Level Analysis",
+      "preview": "LEGAL TITLE   (recognised in law or record)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3655,
+      "markdown_body_line_end": 3661,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Indian Legal Instruments on Inheritance -- Status Table",
+      "preview": "INSTRUMENT                         | KIND      | STATUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3665,
+      "markdown_body_line_end": 3671,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Kabeer's Empowerment Chain",
+      "preview": "RESOURCES  -->   AGENCY   -->  ACHIEVEMENTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3675,
+      "markdown_body_line_end": 3683,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Legal vs Effective Empowerment Gap",
+      "preview": "106th Amendment: enacted 2023; commenced 16-Apr-2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3687,
+      "markdown_body_line_end": 3693,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Feminist Schools -- Root-Cause Comparison",
+      "preview": "SCHOOL      | ROOT CAUSE                | IMPLICATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3697,
+      "markdown_body_line_end": 3704,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Intersection of Caste and Gender",
+      "preview": "GENDER axis  ---------->",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3708,
+      "markdown_body_line_end": 3717,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Okin's Multiculturalism Dilemma Test",
+      "preview": "group practice claims cultural protection",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3721,
+      "markdown_body_line_end": 3730,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ Keyword Router",
+      "preview": "PROMPT KEYWORD           -> PRIMARY SESSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 297.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+  "topic_title": "Forms of Government",
+  "official_syllabus_verbatim": "Forms of Government : Monarchy; Theocracy and Democracy.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 10,
+  "verified_pyqs": [
+    "Comment on Plato's critique of Democracy.",
+    "Can Theocracy be accepted as a valid form of Government? Give reasons and justification in support of your answer.",
+    "If monarchs are above politics, can monarchy be a systematic form of government? Discuss.",
+    "Explain the challenges faced by a democratic state and the ways to overcome them.",
+    "Discuss propaganda as a challenge to democratic form of government.",
+    "Are monarchy and theocracy necessarily related? Discuss with reference to the theory of Divine Right.",
+    "Does monarchy as a form of government leave room for individual freedom? Explain.",
+    "How far do the liberal democracies safeguard the interests of minorities? Evaluate critically.",
+    "Discuss the status of theocracy in the modern secular state.",
+    "What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g3\\topic-04_Complete-Learning-Session_2026-08-30.md": "cea8a92e36a042b35cf04b53b3b511ca81b0d983bbe367b832aaca76852eefb5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Forms-of-Government.md": "28f339456e651c04be3e0dd58e2888fa13c8b78308f9950c2168d4f2cd857564",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Forms-of-Government\\Forms-of-Government_Layered-Complete-Learning-Session_2026-08-19.md": "be6438742a706a40bb4914e0fcd6dcc3740575374ae5932f20b85b660eb31396",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Forms-of-Government\\Forms-of-Government_Layered-Solved-Practice-Workbook_2026-08-19.md": "c3e9c5c1988356d7bf26a4578894d4cccc511f977a7237ab5fe91d199abfee23"
+  }
+}

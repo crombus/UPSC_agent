@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\Notions-of-God_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    12589
+  ],
+  "stages": [
+    {
+      "title": "CONCEPTUAL GRAMMAR OF GOD-CONCEPTS",
+      "terms": "It distinguishes divine nature (personal, impersonal or transpersonal), predication (cataphatic, apophatic and analogical), attributes, reference, and the God–world and God–man relations of transcendence and immanence.",
+      "mechanism": "Conceptual grammar is the checklist used to identify what a tradition means by “God” before asking whether that God exists.",
+      "consequence": "It distinguishes divine nature (personal, impersonal or transpersonal), predication (cataphatic, apophatic and analogical), attributes, reference, and the God–world and God–man relations of transcendence and immanence.",
+      "trap": "A notion of God must be examined as a structured metaphysical model—nature, attributes, world-relation and human-relation—rather than as an undefined sacred name; conceptual clarification therefore precedes proof.",
+      "answer": "A notion of God must be examined as a structured metaphysical model—nature, attributes, world-relation and human-relation—rather than as an undefined sacred name; conceptual clarification therefore precedes proof."
+    },
+    {
+      "title": "THEISM, DEISM, PANTHEISM AND PANENTHEISM",
+      "terms": "Theism affirms a distinct personal creator and sustainer; deism a creator-lawgiver without continuing special intervention; pantheism God–world or God–Nature identity; and panentheism the world's inclusion in God while God exceeds the world.",
+      "mechanism": "These four models differ over whether God creates the world, withdraws from it, includes it, or is identical with it.",
+      "consequence": "Theism affirms a distinct personal creator and sustainer; deism a creator-lawgiver without continuing special intervention; pantheism God–world or God–Nature identity; and panentheism the world's inclusion in God while God exceeds the world.",
+      "trap": "Theism, deism, pantheism and panentheism are rival grammars of dependence: they respectively affirm sustaining distinction, non-intervention after creation, identity, and inclusion-with-divine-excess.",
+      "answer": "Theism, deism, pantheism and panentheism are rival grammars of dependence: they respectively affirm sustaining distinction, non-intervention after creation, identity, and inclusion-with-divine-excess."
+    },
+    {
+      "title": "DIVINE ATTRIBUTES AND THEIR COHERENCE",
+      "terms": "The classical perfect-being model combines aseity, necessity, eternity, immutability, simplicity, omnipotence, omniscience and omnibenevolence, and tests their compossibility with freedom, evil, temporal action and personal responsiveness.",
+      "mechanism": "Divine-attribute theory asks what perfections belong to God and whether they can consistently belong to one being.",
+      "consequence": "The classical perfect-being model combines aseity, necessity, eternity, immutability, simplicity, omnipotence, omniscience and omnibenevolence, and tests their compossibility with freedom, evil, temporal action and personal responsiveness.",
+      "trap": "The philosophical task is not to catalogue divine attributes but to test whether maximal power, complete knowledge, perfect goodness, eternity and simplicity form a coherent package.",
+      "answer": "The philosophical task is not to catalogue divine attributes but to test whether maximal power, complete knowledge, perfect goodness, eternity and simplicity form a coherent package."
+    },
+    {
+      "title": "SPINOZA'S NOTION OF GOD",
+      "terms": "It is an impersonal, radically immanent conception commonly classified as pantheistic—qualified because God is the one infinite substance, not merely the aggregate of finite things; attributes express its essence and finite beings are modes.",
+      "mechanism": "Spinoza's notion of God is called substance monism: everything that exists is in the one infinite reality, God or Nature.",
+      "consequence": "It is an impersonal, radically immanent conception commonly classified as pantheistic—qualified because God is the one infinite substance, not merely the aggregate of finite things; attributes express its essence and finite beings are modes.",
+      "trap": "Spinoza replaces the personal creator with Deus sive Natura: one self-explanatory infinite substance whose attributes and modes unfold by necessity, gaining metaphysical unity at the cost of providential personality and libertarian freedom.",
+      "answer": "Spinoza replaces the personal creator with Deus sive Natura: one self-explanatory infinite substance whose attributes and modes unfold by necessity, gaining metaphysical unity at the cost of providential personality and libertarian freedom."
+    },
+    {
+      "title": "ADVAITA VEDANTA'S NOTION OF GOD",
+      "terms": "This is non-dualism structured by two standpoints: nirguṇa Brahman is ultimate at the pāramārthika level, whereas saguṇa Īśvara is the omniscient Lord at the vyāvahārika level; plurality arises through māyā, adhyāsa and vivarta without real change in Brahman.",
+      "mechanism": "Advaita teaches one non-dual Brahman, while personal Īśvara is that same reality understood in relation to the empirical world.",
+      "consequence": "This is non-dualism structured by two standpoints: nirguṇa Brahman is ultimate at the pāramārthika level, whereas saguṇa Īśvara is the omniscient Lord at the vyāvahārika level; plurality arises through māyā, adhyāsa and vivarta without real change in Brahman.",
+      "trap": "Advaita preserves an empirically valid personal God while locating ultimacy in nirguṇa Brahman; its strength is non-dual absoluteness, but its pressure lies in explaining māyā, devotion and the reality of suffering.",
+      "answer": "Advaita preserves an empirically valid personal God while locating ultimacy in nirguṇa Brahman; its strength is non-dual absoluteness, but its pressure lies in explaining māyā, devotion and the reality of suffering."
+    },
+    {
+      "title": "RAMANUJA'S VISISTADVAITA NOTION OF GOD",
+      "terms": "Viśiṣṭādvaita is an organic personal theism: Īśvara is the independent whole, cit and acit are real dependent qualifications, and the śarīra–śarīrī plus apṛthak-siddhi relations preserve distinction, inseparability and divine immanence.",
+      "mechanism": "Rāmānuja's qualified non-dualism presents one personal Brahman whose unity genuinely includes distinct souls and matter.",
+      "consequence": "Viśiṣṭādvaita is an organic personal theism: Īśvara is the independent whole, cit and acit are real dependent qualifications, and the śarīra–śarīrī plus apṛthak-siddhi relations preserve distinction, inseparability and divine immanence.",
+      "trap": "Rāmānuja reconciles unity with real plurality by treating souls and world as the dependent body of a personal Brahman, thereby grounding devotion without reducing difference to illusion.",
+      "answer": "Rāmānuja reconciles unity with real plurality by treating souls and world as the dependent body of a personal Brahman, thereby grounding devotion without reducing difference to illusion."
+    },
+    {
+      "title": "NYAYA'S NOTION OF GOD",
+      "terms": "This is pluralistic realist theism: Īśvara is a special eternal self and nimitta-kāraṇa (efficient cause), while atoms are material causes; God coordinates adṛṣṭa, cosmic order, dissolution and Vedic authorship without becoming the world.",
+      "mechanism": "Therefore Nyaya does not teach creation ex nihilo or a real transformation of God into the world.",
+      "consequence": "Therefore Nyaya does not teach creation ex nihilo or a real transformation of God into the world.",
+      "trap": "God, selves, atoms, space and time are real; they are not appearances of one undifferentiated Absolute.",
+      "answer": "Nyāya's God is an efficient, not material, cause: Īśvara supplies intelligent cosmic and moral coordination while preserving the independent reality of atoms, selves, space, time and karma."
+    },
+    {
+      "title": "THE HINDU POLYTHEISM DEBATE",
+      "terms": "The classification problem requires separating polytheism, henotheism, kathenotheism, monolatry, sectarian monotheism and metaphysical monism, because ritual plurality and claims about ultimate reality operate at different levels.",
+      "mechanism": "The debate asks whether Hindu plurality is best described as many independent gods, one chosen supreme deity, or diverse forms of one ultimate reality.",
+      "consequence": "The classification problem requires separating polytheism, henotheism, kathenotheism, monolatry, sectarian monotheism and metaphysical monism, because ritual plurality and claims about ultimate reality operate at different levels.",
+      "trap": "Calling Hinduism simply polytheistic is descriptively possible at the level of many deities but philosophically incomplete, since henotheistic invocation, sectarian monotheism and monistic or qualified-non-dual interpretations coexist.",
+      "answer": "Calling Hinduism simply polytheistic is descriptively possible at the level of many deities but philosophically incomplete, since henotheistic invocation, sectarian monotheism and monistic or qualified-non-dual interpretations coexist."
+    },
+    {
+      "title": "MADHVA, SAIVA AND SAKTA NOTIONS OF GOD",
+      "terms": "Madhva's Dvaita affirms svatantra Viṣṇu and pañca-bheda; Śaiva Siddhānta distinguishes pati, paśu and pāśa; Kashmir Śaivism interprets the world as Śiva–Śakti's real ābhāsa; and Śākta traditions identify supreme divinity with conscious dynamic Śakti.",
+      "mechanism": "each school connects a causal doctrine to bondage and liberation",
+      "consequence": "real difference, real manifestation and divine power replace Advaita's sublatable appearance",
+      "trap": "do not merge Śaiva Siddhānta with Kashmir Śaivism or reflection with identity",
+      "answer": "Indian theism ranges from Madhva's eternal difference through Śaiva structures of lordship and recognition to Śākta divine power, so no generic 'Hindu God' can replace school-specific metaphysics."
+    },
+    {
+      "title": "COMPARATIVE GOD-WORLD-MAN RELATIONS",
+      "terms": "The constant matrix compares divine nature, causal status, world ontology, human dependence or identity, religious function and liberation across classical theism, deism, Spinoza, Advaita, Viśiṣṭādvaita and Nyāya.",
+      "mechanism": "[QUALIFICATION] Therefore, \"Hinduism is polytheistic\" is descriptively partial but philosophically inadequate.",
+      "consequence": "[QUALIFICATION] Therefore, \"Hinduism is polytheistic\" is descriptively partial but philosophically inadequate.",
+      "trap": "High-value transition: The Vedic statement \"Reality is one; sages speak of it variously\" is frequently used to interpret plurality as diverse naming or manifestation rather than independent rival gods.",
+      "answer": "A valid comparison keeps the conceptual constant fixed: identity, appearance, embodiment, inclusion and efficient causation are distinct God–world grammars with different God–man consequences."
+    },
+    {
+      "title": "PHYSICAL MANIFESTATION AND ULTIMATE CAUSATION",
+      "terms": "It distinguishes physical embodiment, religious manifestation or incarnation, material causation and metaphysical grounding; ultimacy normally requires explanatory independence rather than spatially limited embodiment.",
+      "mechanism": "This issue asks whether an ultimate cause must possess or appear through a physical form in order to explain the physical world.",
+      "consequence": "It distinguishes physical embodiment, religious manifestation or incarnation, material causation and metaphysical grounding; ultimacy normally requires explanatory independence rather than spatially limited embodiment.",
+      "trap": "Physical manifestation may make divine agency religiously accessible, but it is not a necessary condition of ultimate causation, because the ground of physical reality cannot itself depend on the same limiting physical conditions without further explanation.",
+      "answer": "Physical manifestation may make divine agency religiously accessible, but it is not a necessary condition of ultimate causation, because the ground of physical reality cannot itself depend on the same limiting physical conditions without further explanation."
+    },
+    {
+      "title": "CRITICAL SYNTHESIS OF COMPETING GOD-MODELS",
+      "terms": "It evaluates personal versus impersonal ultimacy, transcendence versus immanence, attribute coherence, world status, freedom, evil, devotion and causation through objection–reply–residual-pressure analysis.",
+      "mechanism": "Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.",
+      "consequence": "High-value transition: Every familiar cause is encountered through some effect or embodied activity.",
+      "trap": "4. Advaita's Brahman is the presupposition of manifestation, not one manifested object.",
+      "answer": "No notion of God is cost-free: personal models strengthen agency and worship but face evil and anthropomorphism, while impersonal models secure unity and absoluteness but weaken providence, moral response and reciprocal relation."
+    },
+    {
+      "title": "UPSC ANSWER WRITING FOR NOTIONS OF GOD",
+      "terms": "The method is directive-sensitive and uses a fixed spine: precise definition, metaphysical model, God–world and God–man relations, exact terminology, objection and reply, constant-matrix comparison, and a qualified verdict proportionate to 10, 15 or 20 marks.",
+      "mechanism": "High-value transition: 10 marks: personal and impersonal aspects.",
+      "consequence": "High-value transition: 10 marks: personal and impersonal aspects.",
+      "trap": "Answer-use",
+      "answer": "A high-scoring Notions of God answer defines the model, explains its relations and mechanism, tests it dialectically, compares through a fixed axis and ends with a qualified philosophical verdict."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 4,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 6,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 8,
+      "continues_stage": 11
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 10,
+      "continues_stage": 13
+    },
+    {
+      "page": 7,
+      "y_start": 10389,
+      "y_end": 12589,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 13
+    }
+  ]
+}

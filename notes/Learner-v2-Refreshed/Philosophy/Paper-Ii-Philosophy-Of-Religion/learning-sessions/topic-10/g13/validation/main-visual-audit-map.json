@@ -1,0 +1,1905 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\topic-10_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 5,
+      "heading": "Nature of Religious Language - Complete Learning Session",
+      "preview": "**Catalogue identity:** Philosophy Optional · Philosophy Paper II — Philosophy of Religion · `philosophy-paper-ii-philosophy-of-religion-10` **Generation:** g13, 3 September 2026 · **Approval:** false · **Validation:** revalidation pending ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 699.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 18,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 674.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 480.022
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 37,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Owned here | Boundary",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Owned here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 388.622
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 148.42
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 54,
+      "heading": "0A. SEMANTIC MODE AND SPEECH FUNCTION ANALYSIS:",
+      "preview": "Mode/use | What it does | Truth-aptness",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Mode/use",
+          "What it does",
+          "Truth-aptness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 523.89
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "0A. SEMANTIC MODE AND SPEECH FUNCTION ANALYSIS:",
+      "preview": "Religious Language foundation-to-core navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\assets\\topic-10_Teaching-Navigation_2026-08-27.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 490.49
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 182.954
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 73,
+      "markdown_body_line_end": 80,
+      "heading": "Source-complete coverage ledger and answer-worthiness labels",
+      "preview": "Source corpus | Final location | Retention decision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source corpus",
+          "Final location",
+          "Retention decision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 615.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 407.69
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 100,
+      "heading": "Learning roadmap",
+      "preview": "Unit | Learner objective",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Unit",
+          "Learner objective"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 524.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 112,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religious language cannot be judged by vocabulary alone; its philosophical status depends on how it refers, what it claims and the practices in which it functions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 389.29
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 322.622
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 130,
+      "markdown_body_line_end": 130,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Religious language two axes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\assets\\religious-language-two-axes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 134,
+      "markdown_body_line_end": 141,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "HOW:     univocal / analogical / symbolic / negative / indicative",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 495.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 424.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Master verdict:** Religious utterances are often assertoric, symbolic and performative together; a mixed account preserves realist intent while acknowledging that transcendence requires non-literal modes of predication.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 424.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 380.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 165,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "PROBLEM -> finite literal language must refer to an infinite/transcendent reality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 358.088
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 187.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — two axes: \"HOW (Analogy/Symbol/Negation) × WHETHER (Cognitive/Non-cognitive).\"** Analogy & symbol rescue *meaning*; the cog/non-cog debate is about *factual truth*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 187.088
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 142.42
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 179,
+      "heading": "CLOSING RECALL FLOW - THE PROBLEM OF RELIGIOUS LANGUAGE",
+      "preview": "THE PROBLEM OF RELIGIOUS LANGUAGE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 118.92
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 190,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The problem of meaning, reference and transcendence is to preserve intelligible God-talk without either anthropomorphic univocity or empty equivocity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 649.523
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 582.855
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 203,
+      "markdown_body_line_end": 203,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DISTINCTION — answer-ready definition:** Religious language is discourse about transcendent reality whose central problem is how finite human concepts can be meaningful without reducing their object to finite categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 424.255
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 379.587
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 218,
+      "heading": "CLOSING RECALL FLOW - MEANING, REFERENCE AND TRANSCENDENCE",
+      "preview": "MEANING, REFERENCE AND TRANSCENDENCE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 294.287
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 188.269
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 229,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Analogy preserves ordered similarity, symbol mediates participation and negation removes creaturely limitation; each seeks meaningful reference without literal anthropomorphism. (a) Analogy (Aquinas — 2024 PYQ): religious language is analog",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Analogy preserves ordered similarity, symbol mediates participation and negation removes creaturely limitation; each seeks meaningful reference without literal anthropomorphism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 525.156
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 264,
+      "heading": "CLOSING RECALL FLOW - ANALOGY, SYMBOL AND NEGATIVE THEOLOGY",
+      "preview": "ANALOGY, SYMBOL AND NEGATIVE THEOLOGY",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 681.273
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 275,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cognitivism treats religious claims as truth-apt, whereas non-cognitivism emphasises attitude, commitment or use; these are semantic functions, not automatically exclusive categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 527.273
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 460.605
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 288,
+      "markdown_body_line_end": 288,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Cognitivism treats religious claims as truth-apt, whereas non-cognitivism emphasises attitude, commitment or use; these are semantic functions, not automatically exclusive categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 302.005
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 257.337
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 319,
+      "markdown_body_line_end": 327,
+      "heading": "CLOSING RECALL FLOW - COGNITIVISM, NON-COGNITIVISM AND FALSIFICATION",
+      "preview": "COGNITIVISM, NON-COGNITIVISM AND FALSIFICATION",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 507.791
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 393.423
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 338,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "🔑 The strong answer: religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist), while Braithwaite offers moral-conative non-cognitivism and Wittgensteinian use analysis explains practice with",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 196.823
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 115.955
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 358,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Theory | Type | Claim | Thinker | Weakness",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 6,
+        "headers": [
+          "Theory",
+          "Type",
+          "Claim",
+          "Thinker",
+          "Weakness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 718.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 550.39
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 360,
+      "markdown_body_line_end": 360,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "🔑 The strong answer: religious language is **neither literal nor meaningless** — analogy/symbol give it **cognitive meaning** (realist), while **Braithwaite** offers moral-conative non-cognitivism and Wittgensteinian use analysis explains p",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 550.39
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 491.522
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 373,
+      "heading": "CLOSING RECALL FLOW - TILLICH, AQUINAS, VIA NEGATIVA AND LANGUAGE-GAMES",
+      "preview": "TILLICH, AQUINAS, VIA NEGATIVA AND LANGUAGE-GAMES",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 468.022
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 362.004
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 384,
+      "markdown_body_line_end": 384,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "No single theory captures every religious utterance: analogy protects predication, symbol mediates participation, and apophatic language disciplines claims about transcendence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 241.204
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 174.536
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 429,
+      "heading": "CLOSING RECALL FLOW - ANALOGY, SYMBOL AND FOUNDATIONAL POSITIONS",
+      "preview": "ANALOGY, SYMBOL AND FOUNDATIONAL POSITIONS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 198.673
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A complete answer must keep two axes separate: how religious predicates refer and whether religious utterances assert facts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 453,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** A complete answer must keep two axes separate: how religious predicates refer and whether religious utterances assert facts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 539.356
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 461,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Exit from the univocal/equivocal dilemma | Western | Indian | Shared objection",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Exit from the univocal/equivocal dilemma",
+          "Western",
+          "Indian",
+          "Shared objection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 539.356
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 318.454
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 476,
+      "heading": "7.1 - \"Distinguish cognitivist & non-cognitivist accounts; does cognitivism lead to contradiction? (Braithwaite)\" (2024, 20m)",
+      "preview": "Intro : the problem — can God-talk be literal/factual?",
+      "metadata": {
+        "language": "plain",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 261.954
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 170.954
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 485,
+      "heading": "7.2 - \"Is religious language symbolic? (Tillich)\" (2025, 10m)",
+      "preview": "Intro : literal language fails for the transcendent; Tillich's symbolic theory.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 148.954
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 87.954
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 488,
+      "markdown_body_line_end": 507,
+      "heading": "7.3 - \"In what sense is the secular use of language different from the religious use?\" (2018, 10m)",
+      "preview": "Line 1: the difference is NOT lexical — religion borrows ordinary words. It is functional.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 18,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 528,
+      "heading": "7.4 - \"Discuss whether and how religious symbolism leads to mysticism.\" (2019, 20m)",
+      "preview": "Intro : two obligations — WHETHER and HOW. The \"how\" carries the marks.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 17,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 574.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 393.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 548,
+      "heading": "7.5 - \"The analogical nature of religious language.\" (2024, 10m) - with the Scotist contrast",
+      "preview": "Intro : the dilemma — univocal predication anthropomorphises, equivocal predication silences.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 16,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 371.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 200.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 554,
+      "markdown_body_line_end": 560,
+      "heading": "2.1 Indian semantic strategies - bounded comparison",
+      "preview": "Tradition | Primary semantic strategy | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Tradition",
+          "Primary semantic strategy",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 567.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - INDIAN AND WESTERN STRATEGIES OF RELIGIOUS SPEECH",
+      "preview": "INDIAN AND WESTERN STRATEGIES OF RELIGIOUS SPEECH",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 530.89
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 424.871
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 586,
+      "heading": "g12 source-change ledger",
+      "preview": "Old or unsafe claim | Corrected claim | Evidence | Affected Core",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Old or unsafe claim",
+          "Corrected claim",
+          "Evidence",
+          "Affected Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 399.871
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 115.97
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 596,
+      "heading": "Core/Advanced coverage ledger",
+      "preview": "Classification | Included before Optional Advanced",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Classification",
+          "Included before Optional Advanced"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 631.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 604,
+      "heading": "CORE DOCTRINE DOSSIERS - PYQ-ESSENTIAL, NOT OPTIONAL",
+      "preview": "These dossiers complete the syllabus and all verified PYQ demand routes. They belong to Core even when they contain objections or comparative refinements.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 558.49
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 513.822
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 657,
+      "heading": "9.6 Secular versus religious use of language (2018 Q5(a) owner-module)",
+      "preview": "Axis | Secular use | Religious use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Secular use",
+          "Religious use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 573.09
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 702,
+      "heading": "9.9 The cognitivist-non-cognitivist spectrum (not a binary)",
+      "preview": "# | Position | Truth-apt? | Mechanism | Representative",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 10,
+        "headers": [
+          "#",
+          "Position",
+          "Truth-apt?",
+          "Mechanism",
+          "Representative"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 437.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 709,
+      "heading": "9.10 The pluralism bridge: how a theory of religious language decides the pluralism question",
+      "preview": "✅ Bidirectional cross-link: [Religious Pluralism §9.11 and §19](./Religious-Pluralism.md).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 144.89
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 92.422
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 736,
+      "heading": "10. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "Theory | Truth-apt? | Semantic mechanism | Strength | Risk",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 11,
+        "headers": [
+          "Theory",
+          "Truth-apt?",
+          "Semantic mechanism",
+          "Strength",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 427.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 781,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 783,
+      "markdown_body_line_end": 798,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 740.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 335.222
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 808,
+      "heading": "10 marks",
+      "preview": "Define theory → mechanism of meaning → canonical example →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 269.022
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 238.022
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 814,
+      "heading": "15 marks",
+      "preview": "Frame finite-language problem → doctrine's argument and presupposition →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 216.022
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 185.022
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 821,
+      "heading": "20 marks",
+      "preview": "Separate HOW from WHETHER → compare cognitive and non-cognitive families →",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 163.022
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 122.022
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 836,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "Directive | Examiner is buying | Structural consequence | Live example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Directive",
+          "Examiner is buying",
+          "Structural consequence",
+          "Live example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 440.89
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 838,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "🔑 **Rule:** every question in this clause sits on one of two axes — **HOW** transcendent predicates signify (univocal / analogical / symbolic / negative / indicative) and **WHETHER** the utterance is truth-apt (the ten-point spectrum). Say ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 440.89
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 367.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 842,
+      "markdown_body_line_end": 848,
+      "heading": "17. GRADED VERDICT LADDER",
+      "preview": "Band | What the script contains | Typical fault",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Band",
+          "What the script contains",
+          "Typical fault"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 342.822
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 122.62
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 857,
+      "markdown_body_line_end": 882,
+      "heading": "18. FACTUAL AND QUOTATION DISCIPLINE",
+      "preview": "Item | Status | Safe use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 24,
+        "headers": [
+          "Item",
+          "Status",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 672.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 617.89
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1340,
+      "heading": "43. Match List I with List II:",
+      "preview": "List I | List II",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "List I",
+          "List II"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 643.49
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1391,
+      "heading": "46. Read the passage:",
+      "preview": "A partisan trusts a stranger despite disturbing evidence, but admits that the evidence counts against the trust and that sufficiently grave evidence could defeat it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 237.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 170.622
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1412,
+      "heading": "47. Which row contains only accurate school/doctrine qualifications?",
+      "preview": "Row | Mīmāṃsā | Grammarians | Nyāya comparison",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Row",
+          "Mīmāṃsā",
+          "Grammarians",
+          "Nyāya comparison"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 681.39
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1522,
+      "heading": "VERIFIED PYQS - 14 COMPLETE SOLUTIONS",
+      "preview": "The following are **independent practice models, not official UPSC answer keys**. Question wording, year, number and marks reproduce the verified Paper II bank. Each model follows the directive and mark demand while retaining philosophical ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 699.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1971,
+      "markdown_body_line_end": 1971,
+      "heading": "ORIGINAL SOLVED MAINS PRACTICE",
+      "preview": "These six questions are **original practice questions, not UPSC PYQs**. Their solutions are independent learner models rather than official keys.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 438.024
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2204,
+      "markdown_body_line_end": 2207,
+      "heading": "A. Two-axis control",
+      "preview": "Axis | Question | Families",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Axis",
+          "Question",
+          "Families"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 679.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 612.69
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2291,
+      "markdown_body_line_end": 2291,
+      "heading": "L. Final answer discipline",
+      "preview": "**Final judgement:** Religious language is neither crudely literal nor semantically empty. Its strongest account is analogical or symbolic realism within a mixed speech-act framework, disciplined by evidential vulnerability and apophatic li",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 161.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 102.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2297,
+      "markdown_body_line_end": 2309,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: 1. Official boundary and the two-axis control",
+      "preview": "IDENTITY -> learner-v2:g13 | generated 2026-09-03 | approval FALSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 640.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2313,
+      "markdown_body_line_end": 2323,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: 2. Aquinas and Scotus: continuity without collapse",
+      "preview": "AQUINAS -> pure perfection exists in God ESSENTIALLY AND EMINENTLY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 618.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 515.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2337,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: 3. Tillich: symbol, participation and distortion",
+      "preview": "SIGN -> conventional pointer, replaceable, does not participate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 493.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 390.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2341,
+      "markdown_body_line_end": 2350,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: 4. Verification, falsification and the cognitive spectrum",
+      "preview": "COGNITIVE REALISM -> claims may be true or false; analogy can qualify mode",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 368.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 275.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2363,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: 5. Braithwaite and qualified Wittgensteinian use",
+      "preview": "BRAITHWAITE -> \"God is love\" avows an AGAPEISTIC MORAL POLICY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2367,
+      "markdown_body_line_end": 2376,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: 6. Speech acts, Ramsey and Mimamsa",
+      "preview": "AUSTIN -> locutionary content | illocutionary force | perlocutionary effect",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2392,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: 7. Advaita: negation, indication and sublation",
+      "preview": "BRAHMAN -> SAT, but NON-OBJECTIFIABLE; words turn back",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2406,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: 8. From symbol toward mysticism: mechanism and counter-case",
+      "preview": "AFFIRMATIVE ROUTE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 310.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2410,
+      "markdown_body_line_end": 2420,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: 9. Fourteen verified PYQ demand routes",
+      "preview": "2018 Q5(a) secular/religious use | Q7(b) Braithwaite | Q8(c) symbol mediation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2424,
+      "markdown_body_line_end": 2434,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: 10. Executable answer spine, traps and qualified conclusion",
+      "preview": "OPEN -> define the exact demand and separate HOW from WHETHER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    }
+  ]
+}

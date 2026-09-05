@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+  "generation": 11,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g11\\Notions-of-God_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    11714
+  ],
+  "stages": [
+    {
+      "title": "CONCEPTUAL GRAMMAR OF GOD-CONCEPTS",
+      "terms": "Technically, Conceptual Grammar Of God-Concepts is analysed by relating Topic 02 firewall to Philosophy Optional | Paper II | Philosophy of Religion, then testing the relationship through Progress and Pacing.",
+      "mechanism": "A first cause is not thereby shown to be personal, omniscient, good or worship-worthy.",
+      "consequence": "[THESIS] A notion of God is not merely a sacred name.",
+      "trap": "[REPLY] Directional content remains: the divine is not finite, composite or dependent, while positive terms indicate perfection without univocal transfer from creatures.",
+      "answer": "The boundary is porous, but an Optional answer should not use revelation as a substitute for conceptual clarity."
+    },
+    {
+      "title": "THEISM, DEISM, PANTHEISM AND PANENTHEISM",
+      "terms": "Deism is not atheism: it affirms a creator but rejects continuing providential intervention.",
+      "mechanism": "Classical theism treats God as the primary sustaining cause through which genuine secondary natural causes operate.",
+      "consequence": "Pantheism and panentheism are not synonyms.",
+      "trap": "Deism is not atheism: it affirms a creator but rejects continuing providential intervention.",
+      "answer": "God is a personal creator, distinct from the world but continuously sustaining and governing it."
+    },
+    {
+      "title": "DIVINE ATTRIBUTES AND THEIR COHERENCE",
+      "terms": "Immutability concerns divine nature; avoid writing that God is an inert object.",
+      "mechanism": "The classical attributes generate pressure when unlimited power, complete foreknowledge, perfect goodness and creaturely freedom are asserted without qualification.",
+      "consequence": "Do not discuss each attribute separately when the question asks about their compatibility.",
+      "trap": "However, this analogy does not by itself solve divine foreknowledge.",
+      "answer": "Aseity means God depends on nothing else for existence."
+    },
+    {
+      "title": "SPINOZA'S NOTION OF GOD",
+      "terms": "Spinoza's \"intellectual love of God\" is rational participation in and understanding of the necessary whole.",
+      "mechanism": "God could not have chosen a fundamentally different world through arbitrary will.",
+      "consequence": "The analogy is limited: Spinoza's modes follow with metaphysical necessity, whereas ordinary waves are contingent physical events.",
+      "trap": "Some interpreters therefore emphasize Spinoza's complex substance monism rather than the slogan \"everything is God.\".",
+      "answer": "In Spinoza, a substance is \"in itself and conceived through itself.\" Its existence and conception do not depend upon another thing."
+    },
+    {
+      "title": "ADVAITA VEDANTA'S NOTION OF GOD",
+      "terms": "Advaita does not posit two Brahmans.",
+      "mechanism": "Isvara, jiva and world belong to the standpoint eventually sublated by non-dual knowledge. [QUALIFICATION] Therefore Advaita accommodates empirical theism, but its ultimate metaphysics is non-dual rather than personalistic theism.",
+      "consequence": "Sat-cit-ananda is not a collection of three finite qualities.",
+      "trap": "Advaita does not posit two Brahmans.",
+      "answer": "Nirguna (without limiting qualities) means Brahman (ultimate reality) is free from limiting, finite and relational qualities."
+    },
+    {
+      "title": "RAMANUJA'S VISISTADVAITA NOTION OF GOD",
+      "terms": "A body, in Ramanuja's technical sense, is that which.",
+      "mechanism": "God is also the material cause because the world arises from the acit that exists inseparably as God's body.",
+      "consequence": "The resulting consequence is that it is an organic theory of unity-in-difference.",
+      "trap": "Change occurs in dependent acit, not in God's essential perfection.",
+      "answer": "Visistadvaita is not halfway compromise; it is an organic theory of unity-in-difference."
+    },
+    {
+      "title": "NYAYA'S NOTION OF GOD",
+      "terms": "[QUALIFICATION] Philosophical pressure remains: if karma already determines results, why is God required?",
+      "mechanism": "Therefore Nyaya does not teach creation ex nihilo or a real transformation of God into the world.",
+      "consequence": "Therefore Nyaya does not teach creation ex nihilo or a real transformation of God into the world.",
+      "trap": "God, selves, atoms, space and time are real; they are not appearances of one undifferentiated Absolute.",
+      "answer": "Isvara (Lord or personal God) is eternal, omniscient, omnipotent and a special self never subject to bondage or karma (morally consequential action)."
+    },
+    {
+      "title": "THE HINDU POLYTHEISM DEBATE",
+      "terms": "[QUALIFICATION] This verse does not automatically prove that every Hindu school is monotheistic or monistic.",
+      "mechanism": "Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.",
+      "consequence": "[QUALIFICATION] This verse does not automatically prove that every Hindu school is monotheistic or monistic.",
+      "trap": "Vaisnava, Saiva and Sakta traditions may treat Visnu, Siva or Devi respectively as supreme while accommodating other deities within a wider sacred order.",
+      "answer": "Polytheism, henotheism and kathenotheism are distinct."
+    },
+    {
+      "title": "MADHVA, SAIVA AND SAKTA NOTIONS OF GOD",
+      "terms": "Answer-grabbing line: Indian theism ranges from Madhva's eternal difference through Śaiva Lord-soul-bond structures to Śākta identity of divinity and power; none can be reduced to a generic “Hindu God.”.",
+      "mechanism": "each school connects a causal doctrine to bondage and liberation",
+      "consequence": "real difference, real manifestation and divine power replace Advaita's sublatable appearance",
+      "trap": "do not merge Śaiva Siddhānta with Kashmir Śaivism or reflection with identity",
+      "answer": "A complete core answer can therefore choose Śaiva Siddhānta or Madhva instead of using Rāmānuja every time."
+    },
+    {
+      "title": "COMPARATIVE GOD-WORLD-MAN RELATIONS",
+      "terms": "Technically, Comparative God-World-Man Relations is analysed by relating Final verdict to Classical theism, then testing the relationship through Deism and Spinoza.",
+      "mechanism": "[QUALIFICATION] Therefore, \"Hinduism is polytheistic\" is descriptively partial but philosophically inadequate.",
+      "consequence": "[QUALIFICATION] Therefore, \"Hinduism is polytheistic\" is descriptively partial but philosophically inadequate.",
+      "trap": "High-value transition: The Vedic statement \"Reality is one; sages speak of it variously\" is frequently used to interpret plurality as diverse naming or manifestation rather than independent rival gods.",
+      "answer": "Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function."
+    },
+    {
+      "title": "PHYSICAL MANIFESTATION AND ULTIMATE CAUSATION",
+      "terms": "Some God-concepts involve embodiment, but it is not conceptually necessary for every ultimate cause.",
+      "mechanism": "Some God-concepts involve embodiment, but it is not conceptually necessary for every ultimate cause.",
+      "consequence": "[QUALIFICATION] The stronger conclusion is that ultimacy requires explanatory non-dependence, not bodily manifestation.",
+      "trap": "Advaita's Brahman is the presupposition of manifestation, not one manifested object.",
+      "answer": "Every familiar cause is encountered through some effect or embodied activity."
+    },
+    {
+      "title": "CRITICAL SYNTHESIS OF COMPETING GOD-MODELS",
+      "terms": "Advaita (non-dual school) creates a hierarchy between the two; Visistadvaita (qualified non-dualism) makes personality ultimate; Spinoza rejects volitional personality; classical theism extends personal predicates analogically rather than univocally.",
+      "mechanism": "Final verdict: Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.",
+      "consequence": "High-value transition: Every familiar cause is encountered through some effect or embodied activity.",
+      "trap": "4. Advaita's Brahman is the presupposition of manifestation, not one manifested object.",
+      "answer": "Advaita (non-dual school) creates a hierarchy between the two; Visistadvaita (qualified non-dualism) makes personality ultimate; Spinoza rejects volitional personality; classical theism extends personal predicates analogically rather than univocally."
+    },
+    {
+      "title": "UPSC ANSWER WRITING FOR NOTIONS OF GOD",
+      "terms": "[QUALIFICATION] \"The notion of God is not a single universal concept but a family of metaphysical models.",
+      "mechanism": "High-value transition: 10 marks: personal and impersonal aspects.",
+      "consequence": "High-value transition: 10 marks: personal and impersonal aspects.",
+      "trap": "Answer-use",
+      "answer": "Final verdict: \"The notion of God is not a single universal concept but a family of metaphysical models."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9514,
+      "y_end": 11714,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 13
+    }
+  ]
+}

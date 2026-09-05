@@ -1,0 +1,1209 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+  "subject": "Philosophy",
+  "title": "DEVELOPMENT AND SOCIAL PROGRESS",
+  "short_route": "THE CENTRAL DEVELOPMENT QUESTION → HUMAN DEVELOPMENT AND SEN'S → NUSSBAUM, DEPENDENCY, POST-DEVELOPMENT AND → SOCIAL PROGRESS: WEAK TELEOLOGY → NECESSARY, SUFFICIENT, REDISTRIBUTION, RECOGNITION → TECHNOLOGY AND SKILL EDUCATION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g6\\topic-08_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-08-ascii-g6-2026-09-03.json",
+  "ascii_spec_sha256": "f6fec9f0b88b8750b11a27af27e2f4d1bde8ed966c946d86fd54445f493a38b2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL DEVELOPMENT QUESTION AND THE FIVE-RUNG LADDER",
+      "structural_type": "conceptual-ladder-and-normative-test",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE CENTRAL DEVELOPMENT QUESTION AND THE FIVE-RUNG LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT COUNTS AS A BETTER SOCIETY, AND HOW DO",
+          "role": "outcome"
+        },
+        {
+          "text": "FIVE RUNGS (EACH ADDS A QUESTION THE PREVIOUS RUNG",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE OUTPUT",
+          "role": "evidence"
+        },
+        {
+          "text": "INCOME MEASURE",
+          "role": "primary"
+        },
+        {
+          "text": "QUANTITY DEVELOPMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURAL AND QUALITATIVE CHANGE MEASURE",
+          "role": "comparison"
+        },
+        {
+          "text": "OPPORTUNITY HUMAN DEV.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → what counts as a better society, and how do material changes become",
+        "FIVE RUNGS (each adds a question the previous rung cannot answer) growth → more output",
+        "→ health, knowledge, material command measure: human options capability → substantive freedom to be and",
+        "→ justified social relations/institutions measure: freedom, equality, justice, dignity, participation, sustainability",
+        "MEASURE FAMILIES → output"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION → what counts as a better society, and how do material changes become morally justified progress?",
+            "FIVE RUNGS (each adds a question the previous rung cannot answer) growth → more output / income measure",
+            "→ health, knowledge, material command measure: human options capability → substantive freedom to be and do measure: real opportunity social prog.",
+            "→ justified social relations/institutions measure: freedom, equality, justice, dignity, participation, sustainability"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEASURE FAMILIES → output",
+            "basic needs",
+            "welfare/quality of life human development",
+            "CONTROL → every indicator reveals one space and hides another"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ECONOMISTIC MODEL → productivity / investment / industrialisation → resources enabling truth: scarcity blocks health, education and",
+            "choice failure: output says nothing by itself about distribution, voice, work quality, displacement or ecological cost",
+            "MASTER VERDICT → growth can finance development; just conversion into capability, dignity, participation and sustainable institutions makes progress."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MASTER VERDICT → growth can finance development; just conversion into capability, dignity, participation and sustainable institutions makes progress.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HUMAN DEVELOPMENT AND SEN'S RESOURCE-TO-FREEDOM CONVERSION",
+      "structural_type": "conversion-chain-and-concept-discrimination",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HUMAN DEVELOPMENT AND SEN'S RESOURCE-TO-FREEDOM CONVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "SHIFT FROM WEALTH OF ECONOMY TO LIVES OF PEOPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "LONGEVITY + KNOWLEDGE + DECENT MATERIAL STANDARD LIMITATION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPOSITE INDICES CAN CONCEAL DISTRIBUTION, FREEDOM, GENDER, DISABILITY AND",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPMENT AS FREEDOM; REMOVE UNFREEDOMS, EXPAND SUBSTANTIVE FREEDOM",
+          "role": "primary"
+        },
+        {
+          "text": "ENVIRONMENTAL CONVERSION FACTORS",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPABILITY SAME INCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "DISABILITY, GENDER NORMS, LOCATION, PUBLIC SERVICES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HAQ / UNDP → shift from wealth of economy to lives of people",
+        "longevity + knowledge + decent material standard limitation: composite indices",
+        "can conceal distribution, freedom, gender, disability and ecological dependence",
+        "SEN → DEVELOPMENT AS FREEDOM; remove unfreedoms, expand substantive freedom",
+        "RESOURCE → personal / social / environmental CONVERSION FACTORS → CAPABILITY same"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "HAQ / UNDP → shift from wealth of economy to lives of people",
+            "longevity + knowledge + decent material standard limitation: composite indices",
+            "can conceal distribution, freedom, gender, disability and ecological dependence",
+            "SEN → DEVELOPMENT AS FREEDOM; remove unfreedoms, expand substantive freedom",
+            "RESOURCE → personal / social / environmental CONVERSION FACTORS → CAPABILITY same"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FUNCTIONING = achieved being/doing",
+            "CAPABILITY = real opportunity for alternative functionings",
+            "UTILITY = satisfaction; may adapt downward under deprivation",
+            "AGENCY = pursue goals one has reason to value beyond welfare",
+            "FIVE FREEDOMS REINFORCE: political freedom"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "social opportunities",
+            "transparency guarantees",
+            "protective security",
+            "CONTROL → capability is neither income plus schemes nor compulsory functioning."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → capability is neither income plus schemes nor compulsory functioning.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NUSSBAUM, DEPENDENCY, POST-DEVELOPMENT AND SUSTAINABILITY",
+      "structural_type": "rival-models-and-qualified-reconstruction",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NUSSBAUM, DEPENDENCY, POST-DEVELOPMENT AND SUSTAINABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "SEN VS NUSSBAUM",
+          "role": "comparison"
+        },
+        {
+          "text": "PUBLIC REASONING; NO SINGLE FINAL CANONICAL LIST",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL CAPABILITIES; DIGNITY-COMPATIBLE THRESHOLD COMMON",
+          "role": "evidence"
+        },
+        {
+          "text": "SECURE OPPORTUNITY, NOT COMPULSORY FUNCTIONING TENSION",
+          "role": "caution"
+        },
+        {
+          "text": "PLURAL OPENNESS VS PATERNALISTIC CLOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNDERDEVELOPMENT CAN BE PRODUCED THROUGH UNEQUAL INCORPORATION, NOT MERELY",
+          "role": "caution"
+        },
+        {
+          "text": "MODERNISATION ASSUMES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEN vs NUSSBAUM",
+        "Sen → public reasoning; no single final canonical list",
+        "Nussbaum → central capabilities",
+        "dignity-compatible threshold common → secure OPPORTUNITY, not compulsory FUNCTIONING tension → plural openness vs paternalistic",
+        "DEPENDENCY → underdevelopment can be PRODUCED through unequal incorporation, not merely inherited as an earlier"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SEN vs NUSSBAUM",
+            "Sen → public reasoning; no single final canonical list",
+            "Nussbaum → central capabilities",
+            "dignity-compatible threshold common → secure OPPORTUNITY, not compulsory FUNCTIONING tension → plural openness vs paternalistic closure / underspecification",
+            "DEPENDENCY → underdevelopment can be PRODUCED through unequal incorporation, not merely inherited as an earlier stage on one universal path"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MODERNISATION ASSUMES → linear sequence",
+            "traditional/modern binary",
+            "diffusion of capital/knowledge",
+            "expert direction",
+            "CONTROL → structural change is real; one neutral inevitable route is not"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "POST-DEVELOPMENT → who authorises experts to define a whole society as deficient?",
+            "trap → neither critique proves that health, education, mobility or infrastructure are unwanted; local voice joins universal dignity and non-domination",
+            "SUSTAINABLE DEVELOPMENT → present improvement without destroying ecological conditions/options for future persons: intergenerational justice",
+            "+ precaution non-substitutable limits + duties to vulnerable persons + possible non-human value."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "trap → neither critique proves that health, education, mobility or infrastructure are unwanted; local voice joins universal dignity and non-domination.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SOCIAL PROGRESS: WEAK TELEOLOGY, PLURAL CRITERIA AND NON-INEVITABILITY",
+      "structural_type": "criteria-wheel-and-causal-defeater",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SOCIAL PROGRESS",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK TELEOLOGY, PLURAL CRITERIA AND NON-INEVITABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTIFIED IMPROVEMENT IN RELATIONS, INSTITUTIONS AND LIVES WEAKLY TELEOLOGICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CALLS MOVEMENT BETTER; DOES NOT POSIT AUTOMATIC HISTORY",
+          "role": "caution"
+        },
+        {
+          "text": "CRITERIA (NO ONE AGGREGATE SETTLES ALL) FREEDOM",
+          "role": "caution"
+        },
+        {
+          "text": "REAL OPTIONS/VOICE",
+          "role": "outcome"
+        },
+        {
+          "text": "LESS DOMINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFENSIBLE BENEFITS/BURDENS/PROCEDURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOCIAL PROGRESS = justified improvement in relations, institutions and lives weakly TELEOLOGICAL → calls movement",
+        "does NOT posit automatic history",
+        "CRITERIA (no one aggregate settles all) freedom: real options/voice",
+        "equality: less domination",
+        "justice: defensible benefits/burdens/procedure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SOCIAL PROGRESS = justified improvement in relations, institutions and lives weakly TELEOLOGICAL → calls movement better",
+            "does NOT posit automatic history",
+            "CRITERIA (no one aggregate settles all) freedom: real options/voice",
+            "equality: less domination",
+            "justice: defensible benefits/burdens/procedure"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "dignity: no humiliation",
+            "participation: co-decision sustainability: future conditions",
+            "fraternity/solidarity: social equality",
+            "WHY NOT INEVITABLE?",
+            "knowledge/technology → capacity for care AND destruction institutions → distribute control and risk moral learning → can be reversed"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CONCEPTIONS → linear/cumulative",
+            "dialectical/conflictual plural/non-linear (plural paths within a dignity floor)",
+            "VERDICT → progress requires agency, conflict, accountable institutions and judgment",
+            "public reasoning is part of progress, not merely a way to measure it."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → progress requires agency, conflict, accountable institutions and judgment;.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NECESSARY, SUFFICIENT, REDISTRIBUTION, RECOGNITION AND DEMOCRACY",
+      "structural_type": "modal-test-and-democratic-equality-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NECESSARY, SUFFICIENT, REDISTRIBUTION, RECOGNITION AND DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "2024 MODAL TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "IS ECONOMIC DEVELOPMENT NECESSARY, SUFFICIENT, BOTH OR NEITHER?",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERE DEPRIVATION BLOCKS HEALTH, EDUCATION, AGENCY QUALIFIED RESULT",
+          "role": "evidence"
+        },
+        {
+          "text": "ADEQUATE MATERIAL CAPABILITIES NORMALLY THRESHOLD-NECESSARY CAVEAT",
+          "role": "evidence"
+        },
+        {
+          "text": "'ECONOMIC DEVELOPMENT' IS BROADER THAN A LOGICAL NECESSITY CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "WEALTH CAN COEXIST WITH EXCLUSION, AUTHORITARIANISM, GENDER HIERARCHY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "CLEARLY NOT SUFFICIENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "2024 MODAL TEST → Is economic development necessary, sufficient, both or neither?",
+        "NECESSITY → severe deprivation blocks health, education, agency qualified result → adequate MATERIAL CAPABILITIES",
+        "normally threshold-necessary caveat → 'economic development' is broader than a logical necessity claim",
+        "SUFFICIENCY → wealth can coexist with exclusion, authoritarianism, gender hierarchy and ecological destruction → clearly",
+        "DISTRIBUTION + RECOGNITION + PARTICIPATION redistribution → resources"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "2024 MODAL TEST → Is economic development necessary, sufficient, both or neither?",
+          "DISTRIBUTION + RECOGNITION + PARTICIPATION redistribution → resources",
+          "LADDER → information → consultation → participation → co-decision →"
+        ],
+        [
+          "NECESSITY → severe deprivation blocks health, education, agency qualified result → adequate MATERIAL CAPABILITIES",
+          "recognition → equal status",
+          "EMPOWERMENT: durable power over options, resources and rules"
+        ],
+        [
+          "normally threshold-necessary caveat → 'economic development' is broader than a logical necessity claim",
+          "participation → decision-power provision without respect → paternalism",
+          "VERDICT → means become progress only through just conversion and democratic equality."
+        ],
+        [
+          "SUFFICIENCY → wealth can coexist with exclusion, authoritarianism, gender hierarchy and ecological destruction → clearly NOT sufficient",
+          "recognition without resources → symbolism participation is INSTRUMENTAL (information/accountability) AND CONSTITUTIVE (voice itself)",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "2024 MODAL TEST → Is economic development necessary, sufficient, both or neither?",
+            "NECESSITY → severe deprivation blocks health, education, agency qualified result → adequate MATERIAL CAPABILITIES",
+            "normally threshold-necessary caveat → 'economic development' is broader than a logical necessity claim",
+            "SUFFICIENCY → wealth can coexist with exclusion, authoritarianism, gender hierarchy and ecological destruction → clearly NOT sufficient"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DISTRIBUTION + RECOGNITION + PARTICIPATION redistribution → resources",
+            "recognition → equal status",
+            "participation → decision-power provision without respect → paternalism",
+            "recognition without resources → symbolism participation is INSTRUMENTAL (information/accountability) AND CONSTITUTIVE (voice itself)"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "LADDER → information → consultation → participation → co-decision →",
+            "EMPOWERMENT: durable power over options, resources and rules",
+            "VERDICT → means become progress only through just conversion and democratic equality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → means become progress only through just conversion and democratic equality.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TECHNOLOGY AND SKILL EDUCATION: CONDITIONAL ROUTES TO DEVELOPMENT",
+      "structural_type": "dual-causal-chain-and-defeater-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TECHNOLOGY AND SKILL EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "CONDITIONAL ROUTES TO DEVELOPMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGES CAPACITIES AND SOCIAL RELATIONS; SUPPLIES NO ETHICAL END",
+          "role": "caution"
+        },
+        {
+          "text": "MEDICINE REDUCES SUFFERING",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNICATION WIDENS KNOWLEDGE TRANSPARENCY SUPPORTS ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTIVITY REDUCES DRUDGERY POSSIBLE LOSSES",
+          "role": "outcome"
+        },
+        {
+          "text": "UNEQUAL ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "BIAS CONVERSION CONDITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TECHNOLOGY → changes capacities and social relations; supplies NO ethical end possible gains → medicine",
+        "communication widens knowledge transparency supports accountability",
+        "productivity reduces drudgery possible losses → surveillance/manipulation",
+        "unequal access",
+        "bias conversion conditions → ethical purpose + fair access + accountable human control"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "TECHNOLOGY → changes capacities and social relations; supplies NO ethical end possible gains → medicine reduces suffering",
+          "bias conversion conditions → ethical purpose + fair access + accountable human control",
+          "critical citizenship defeat → skills without decent work = frustrated capability"
+        ],
+        [
+          "communication widens knowledge transparency supports accountability",
+          "SKILL EDUCATION → relevant competence → work options → productivity + bargaining power self-respect → capability and agency must add → decent work",
+          "narrow employability can displace civic/humanistic education"
+        ],
+        [
+          "productivity reduces drudgery possible losses → surveillance/manipulation",
+          "equal access",
+          "rapid technical change can make training obsolete"
+        ],
+        [
+          "unequal access",
+          "dignity of labour",
+          "VERDICT → technology/skill enhance development conditionally, never automatically."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TECHNOLOGY → changes capacities and social relations; supplies NO ethical end possible gains → medicine reduces suffering",
+            "communication widens knowledge transparency supports accountability",
+            "productivity reduces drudgery possible losses → surveillance/manipulation",
+            "unequal access"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "bias conversion conditions → ethical purpose + fair access + accountable human control",
+            "SKILL EDUCATION → relevant competence → work options → productivity + bargaining power self-respect → capability and agency must add → decent work",
+            "equal access",
+            "dignity of labour"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "critical citizenship defeat → skills without decent work = frustrated capability",
+            "narrow employability can displace civic/humanistic education",
+            "rapid technical change can make training obsolete",
+            "VERDICT → technology/skill enhance development conditionally, never automatically."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → technology/skill enhance development conditionally, never automatically.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GANDHIAN SOCIAL DEVELOPMENT AND THE AMBEDKARITE SAFEGUARD",
+      "structural_type": "argument-chain-and-reconstruction-test",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GANDHIAN SOCIAL DEVELOPMENT AND THE AMBEDKARITE SAFEGUARD",
+          "role": "primary"
+        },
+        {
+          "text": "GANDHIAN END",
+          "role": "outcome"
+        },
+        {
+          "text": "WELFARE OF ALL (SARVODAYA) SELF-RULE (SWARAJ); NON-VIOLENCE (AHIMSA)",
+          "role": "comparison"
+        },
+        {
+          "text": "UNLIMITED WANTS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPENDENCE + COMPETITION + VIOLENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRALISED INDUSTRIAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "DISTANCE FROM NEED/LOCAL CONTROL; DEGRADED LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "MEANS SHAPE ENDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GANDHIAN END → welfare of all (SARVODAYA) self-rule (SWARAJ); non-violence (AHIMSA)",
+        "UNLIMITED WANTS → dependence + competition + violence",
+        "CENTRALISED INDUSTRIAL POWER → distance from need/local control; degraded labour",
+        "MEANS SHAPE ENDS → violent/degrading means cannot yield a non-violent good society",
+        "DEVELOPMENT → decentralisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "GANDHIAN END → welfare of all (SARVODAYA) self-rule (SWARAJ); non-violence (AHIMSA)",
+            "UNLIMITED WANTS → dependence + competition + violence",
+            "CENTRALISED INDUSTRIAL POWER → distance from need/local control; degraded labour",
+            "MEANS SHAPE ENDS → violent/degrading means cannot yield a non-violent good society"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEVELOPMENT → decentralisation",
+            "village-centred production",
+            "dignity of labour trusteeship",
+            "restraint of wants"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ecological restraint",
+            "OBJECTIONS → village can reproduce caste/patriarchy; trusteeship is voluntary paternalism",
+            "complex needs may require large-scale technique",
+            "RECONSTRUCTION → equal rights + anti-domination + mobility + accountability; judge machines by scale/control/need, not by a blanket anti-machine rule."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECONSTRUCTION → equal rights + anti-domination + mobility + accountability; judge machines by scale/control/need, not by a blanket anti-machine rule.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TRIBAL RECONCILIATION: THE FOUR TESTS AND LEGAL-STATUS DISCIPLINE",
+      "structural_type": "reconciliation-gate-and-classified-illustrations",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TRIBAL RECONCILIATION",
+          "role": "primary"
+        },
+        {
+          "text": "THE FOUR TESTS AND LEGAL-STATUS DISCIPLINE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE COLLISION",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO DEFINES BENEFIT? WHO BEARS COST/RISK? IS LAND COMMODITY",
+          "role": "caution"
+        },
+        {
+          "text": "FOUR JOINT TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "1 CAPABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "COUNT CAPABILITIES GAINED AND DESTROYED",
+          "role": "comparison"
+        },
+        {
+          "text": "2 AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE COLLISION → who defines benefit?",
+        "who bears cost/risk?",
+        "is land commodity or identity/livelihood?",
+        "whose knowledge counts?",
+        "are consent and self-government real?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "THE COLLISION → who defines benefit?",
+            "who bears cost/risk?",
+            "is land commodity or identity/livelihood?",
+            "whose knowledge counts?",
+            "are consent and self-government real?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1 capability → count capabilities GAINED AND DESTROYED",
+            "2 agency → affected communities decide, not merely receive compensation",
+            "3 precaution → irreversible ecological/cultural loss attracts presumption against",
+            "4 justice → no transfer of adjustment burden to persons least able to bear",
+            "it plus → equal citizenship + recognition + individual/community rights dissent/exit + gender justice"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PESA 1996 → enacted statute, adapted panchayat arrangements in Scheduled Areas",
+            "FRA 2006 → enacted rights-recognition statute",
+            "Orissa Mining Corporation (2013) → Supreme Court judgment; Gram Sabha consideration",
+            "CONTROL → enactment/judgment is NOT notification, implementation, success or philosophical proof."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → enactment/judgment is NOT notification, implementation, success or philosophical proof.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MORAL STANDING AND NAESS: ECOLOGY BEFORE ENVIRONMENTAL POLICY",
+      "structural_type": "moral-standing-classification-and-depth-argument",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MORAL STANDING AND NAESS",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGY BEFORE ENVIRONMENTAL POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIOR QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT HAS MORAL STANDING?",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAN BEINGS; NATURE HAS INSTRUMENTAL VALUE WEAKNESS",
+          "role": "primary"
+        },
+        {
+          "text": "IGNORES UNSEEN OR UNUSABLE NATURE BIOCENTRIC",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIVIDUAL LIVING BEINGS WITH INHERENT WORTH; WEAKNESS",
+          "role": "comparison"
+        },
+        {
+          "text": "CANNOT EASILY VALUE SYSTEMS ECOCENTRIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRIOR QUESTION → what has MORAL STANDING?",
+        "anthropocentric → human beings",
+        "nature has instrumental value weakness: ignores unseen or unusable nature biocentric → individual living beings",
+        "weakness: cannot easily value systems ecocentric → species/habitats/ecosystems/biotic whole",
+        "weakness: can subordinate individuals discriminating question → destroy wilderness no human will see/use/know?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PRIOR QUESTION → what has MORAL STANDING?",
+            "anthropocentric → human beings",
+            "nature has instrumental value weakness: ignores unseen or unusable nature biocentric → individual living beings with inherent worth",
+            "weakness: cannot easily value systems ecocentric → species/habitats/ecosystems/biotic whole"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "weakness: can subordinate individuals discriminating question → destroy wilderness no human will see/use/know?",
+            "NAESS (1973): SHALLOW vs DEEP ECOLOGY shallow → fight pollution/depletion for human health/affluence",
+            "manage symptoms deep → intrinsic non-human value + diversity + revise framework of standing reserve argument → ever-rising",
+            "policy fixes symptoms while the generating conception of self/good life remains"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "QUALIFICATION → distinguish subsistence from luxury consumption",
+            "defend dignity/agency against eco-authoritarian sacrifice and do not assert intrinsic value without argument."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFICATION → distinguish subsistence from luxury consumption; defend dignity/agency against eco-authoritarian sacrifice and do not assert intrinsic value without argument.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PRODUCTIVISM, DEGROWTH AND INTERGENERATIONAL JUSTICE",
+      "structural_type": "ecological-limits-argument-and-future-duty-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRODUCTIVISM, DEGROWTH AND INTERGENERATIONAL JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "EXPANDING PRODUCTION IS MASTER OBJECTIVE AND SOLVENT OF DISTRIBUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "FINITE SINKS/STOCKS + EFFICIENCY OFFSET BY OUTPUT EXPANSION +",
+          "role": "comparison"
+        },
+        {
+          "text": "PLANNED REDUCTION OF ENERGY/MATERIAL THROUGHPUT SUFFICIENCY + CARE +",
+          "role": "evidence"
+        },
+        {
+          "text": "JOBS, REVENUE, PUBLIC SERVICES; NO DEMONSTRATED STABLE CONTRACTION AT",
+          "role": "caution"
+        },
+        {
+          "text": "CONTRACTION AND CONVERGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCE AFFLUENT LUXURY; EXPAND BASE CAPABILITY WHERE DEPRIVATION PERSISTS",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERGENERATIONAL JUSTICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRODUCTIVISM → expanding production is master objective and solvent of distributional conflict applies to industrial",
+        "FINITE SINKS/STOCKS + efficiency offset by output expansion + diminishing capability gains",
+        "DEGROWTH → planned reduction of energy/material throughput sufficiency + care + shorter work + equality",
+        "no demonstrated stable contraction at scale qualified reply → CONTRACTION AND CONVERGENCE: reduce affluent luxury",
+        "expand base capability where deprivation persists"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PRODUCTIVISM → expanding production is master objective and solvent of distributional conflict applies to industrial socialism AS WELL AS capitalism",
+          "no demonstrated stable contraction at scale qualified reply → CONTRACTION AND CONVERGENCE: reduce affluent luxury",
+          "INTERGENERATIONAL JUSTICE → preserve options, avoid irreversible loss problems → non-identity"
+        ],
+        [
+          "FINITE SINKS/STOCKS + efficiency offset by output expansion + diminishing capability gains",
+          "expand base capability where deprivation persists",
+          "no reciprocity"
+        ],
+        [
+          "DEGROWTH → planned reduction of energy/material throughput sufficiency + care + shorter work + equality objection → jobs, revenue, public services",
+          "never prescribe blanket degrowth",
+          "pure time preference/discounting response → impersonal principles + precaution, not specific future preferences"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PRODUCTIVISM → expanding production is master objective and solvent of distributional conflict applies to industrial socialism AS WELL AS capitalism",
+            "FINITE SINKS/STOCKS + efficiency offset by output expansion + diminishing capability gains",
+            "DEGROWTH → planned reduction of energy/material throughput sufficiency + care + shorter work + equality objection → jobs, revenue, public services"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "no demonstrated stable contraction at scale qualified reply → CONTRACTION AND CONVERGENCE: reduce affluent luxury",
+            "expand base capability where deprivation persists",
+            "never prescribe blanket degrowth"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "INTERGENERATIONAL JUSTICE → preserve options, avoid irreversible loss problems → non-identity",
+            "no reciprocity",
+            "pure time preference/discounting response → impersonal principles + precaution, not specific future preferences"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INTERGENERATIONAL JUSTICE → preserve options, avoid irreversible loss problems → non-identity | no reciprocity | pure time preference/discounting response → impersonal principles + precaution, not specific future preferences.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ENVIRONMENTALISM OF THE POOR AND THE JUST-TRANSITION REPLY",
+      "structural_type": "distributive-reframing-and-objection-reply-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ENVIRONMENTALISM OF THE POOR AND THE JUST-TRANSITION REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "ENVIRONMENTALISM OF THE POOR (GUHA AND MARTINEZ-ALIER, 1997) CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL SOUTH ENVIRONMENTAL CONFLICT OFTEN CONCERNS LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "FORESTS, WATER, GRAZING, FISHERIES, CLEAN AIR AND CONTROL OF",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT 'ENVIRONMENT VERSUS DEVELOPMENT' BUT WHO GAINS, WHO BEARS",
+          "role": "caution"
+        },
+        {
+          "text": "THESIS DESCRIBES CONFLICT STRUCTURE, NOT ECOLOGICAL VIRTUE OF EVERY",
+          "role": "caution"
+        },
+        {
+          "text": "ECO-AUTHORITARIAN CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMITS ARE URGENT; DEMOCRACY IS SLOW; INSULATE DECISIONS REPLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENVIRONMENTALISM OF THE POOR (Guha and Martinez-Alier, 1997) claim → Global South environmental conflict often",
+        "concerns livelihood: forests, water, grazing, fisheries, clean air and control of resources on which subsistence",
+        "depends reframing → NOT 'environment versus development' but WHO gains, WHO bears cost/risk, WHO decides",
+        "control → thesis describes conflict structure, NOT ecological virtue of every poor community",
+        "ECO-AUTHORITARIAN CLAIM → limits are urgent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ENVIRONMENTALISM OF THE POOR (Guha and Martinez-Alier, 1997) claim → Global South environmental conflict often",
+            "concerns livelihood: forests, water, grazing, fisheries, clean air and control of resources on which subsistence",
+            "depends reframing → NOT 'environment versus development' but WHO gains, WHO bears cost/risk, WHO decides"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "control → thesis describes conflict structure, NOT ecological virtue of every poor community",
+            "ECO-AUTHORITARIAN CLAIM → limits are urgent",
+            "democracy is slow"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "insulate decisions reply 1 epistemic → dispersed local knowledge reply 2 compliance → imposed policies are evaded/reversed and",
+            "JUST TRANSITION → livelihood + retraining + compensation + participation BEFORE restructuring."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JUST TRANSITION → livelihood + retraining + compensation + participation BEFORE restructuring.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "THE DIRECTIVE DECODER AND COMPLETE DEVELOPMENT ANSWER SPINE",
+      "structural_type": "exam-decision-sequence-and-qualified-verdict",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "THE DIRECTIVE DECODER AND COMPLETE DEVELOPMENT ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "READ THE DIRECTIVE FIRST EXPLAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEPTION/COMPONENTS/DISTINCTION/EXAMPLE DISCUSS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCEPTION/RIVAL/OBJECTION/REPLY/VERDICT EVALUATE",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARD/APPLICATION/COUNTER-CASE/JUDGMENT NECESSARY/SUFFICIENT",
+          "role": "primary"
+        },
+        {
+          "text": "TEST EACH SEPARATELY, THEN MODAL VERDICT AGREE",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFIED COMMITMENT FIRST; RECONCILE",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLISION PLUS CONDITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "READ THE DIRECTIVE FIRST explain → conception/components/distinction/example discuss → conception/rival/objection/reply/verdict evaluate → standard/application/counter-case/judgment necessary/sufficient →",
+        "reconcile → collision plus conditions",
+        "causal → mechanism plus defeater",
+        "UNIVERSAL SPINE",
+        "1 conception under dispute → 2 provisional thesis → 3 mechanism/conversion conditions →"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "READ THE DIRECTIVE FIRST explain → conception/components/distinction/example discuss → conception/rival/objection/reply/verdict evaluate → standard/application/counter-case/judgment necessary/sufficient → test EACH separately,",
+            "reconcile → collision plus conditions",
+            "causal → mechanism plus defeater"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNIVERSAL SPINE",
+            "1 conception under dispute → 2 provisional thesis → 3 mechanism/conversion conditions →",
+            "4 named evidence or correctly classified Indian illustration → 5 strongest objection →"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "6 reply + residual limit → 7 distribution: benefit/cost/decision → 8 graded verdict",
+            "FINAL CONTROL → means != conversion conditions != final values",
+            "statute/judgment/constitutional commitment establish legal status, never implementation, empirical effect or philosophical correctness."
+          ]
+        }
+      ],
+      "mechanism_strip": "FINAL CONTROL → means != conversion conditions != final values; statute/judgment/constitutional commitment establish legal status, never implementation, empirical effect or philosophical correctness.",
+      "answer_line": "READ THE DIRECTIVE FIRST explain → conception/components/distinction/example discuss → conception/rival/objection/reply/verdict evaluate → standard/application/counter-case/judgment necessary/sufficient → test EACH separately, then modal verdict agree → qualified commitment first; reconcile → collision plus conditions;.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — METRICS AND THE RESIDUAL ANTI-ECONOMISTIC",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — CAPABILITY COMPARISON, MEASUREMENT AND ADAPTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — CAPABILITY THRESHOLD, DEPENDENCY AND POST-DEVELOPMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — VALUE PLURALISM AND THE CHALLENGE",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — PARTICIPATION, URGENCY AND THE PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 6 — TECHNOLOGY, POWER AND THE LIMITS",
+          "role": "mechanism"
+        },
+        {
+          "text": "ADVANCED SESSION 7 — GANDHI, AMBEDKAR AND THE SCALE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Metrics and the residual anti-economistic objection",
+            "ADVANCED SESSION 2 — Capability comparison, measurement and adaptive preference",
+            "ADVANCED SESSION 3 — Capability threshold, dependency and post-development disputes",
+            "ADVANCED SESSION 4 — Value pluralism and the challenge of progress relativism"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Participation, urgency and the problem of elite capture",
+            "ADVANCED SESSION 6 — Technology, power and the limits of employability",
+            "ADVANCED SESSION 7 — Gandhi, Ambedkar and the scale of modernity",
+            "ADVANCED SESSION 8 — Tribal agency, plural rights and institutional implementation"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Intrinsic value, deep ecology and the eco-authoritarian risk",
+            "ADVANCED SESSION 10 — Degrowth, non-identity and just transition: residual disputes",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Growth is descriptive and quantitative (aggregate output)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

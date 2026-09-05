@@ -1,0 +1,32 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-08",
+  "topic_title": "Development and Social Progress",
+  "official_syllabus_verbatim": "Development and Social Progress.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 6,
+  "verified_pyqs": [
+    "Is it possible to reconcile the concept of development with tribal values to bring social and economic progress? Discuss.",
+    "Is economic development a necessary condition, sufficient condition, both or neither, in order to achieve social progress? Give reasons and justifications for your answer.",
+    "In the present scenario, will the emphasis on skill education enhance development? Evaluate.",
+    "Do you agree that economic development does not on its own lead to human development and social progress? Give reasons and justifications for your answer.",
+    "State and examine the Gandhian concept of social development.",
+    "Does technological development lead to progress in the ethical standards of the society? Explain."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-08\\g7\\topic-08_Complete-Learning-Session_2026-09-03.md": "1547dd3ecee2d9e6c20faffcc88da757c3ed31fa1250b3c53e6b24f3387c10ba",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md": "d9707a807c4ad80525ba0f5c5ff5176d04cfafcf81038dabce7cca52068adb3e",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Complete-Learning-Session_2026-08-20.md": "63e1574689f9f4f1381db4aac350790fe936c6ae62bb897151c9879b18be82e1",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Development-and-Social-Progress\\Development-and-Social-Progress_Layered-Solved-Practice-Workbook_2026-08-20.md": "a8749e0bf47ca9994e41efd57777f6dc3242c16497e6b8eea4f4dc88dcc78258"
+  }
+}

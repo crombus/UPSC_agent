@@ -1,0 +1,36 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-09",
+  "topic_title": "Gender Discrimination",
+  "official_syllabus_verbatim": "Gender Discrimination : Female Foeticide, Land and Property Rights; Empowerment.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 12,
+  "verified_pyqs": [
+    "How does gender as a social construct affect individuals' opportunities, rights, and access to resources? Critically discuss.",
+    "Discuss gender equality as a necessary condition to achieve empowerment of women. Also examine the role of women empowerment in curbing the menace of female foeticide.",
+    "Do you agree that the rights concerning land and property have empowered women? Discuss.",
+    "How does gender discrimination lead to female foeticide and social imbalance? Discuss.",
+    "Discuss gender as a cultural category as opposed to sex as a biological category.",
+    "How far can land and property rights be effective in empowerment of women? Explain.",
+    "What are the main causes of female foeticide in India? Is it the result of demonic application of technology only? Discuss.",
+    "Do you agree that empowering women can eliminate gender discrimination? Discuss.",
+    "Can gender equality be realised within a socialist regime? Analyse.",
+    "Consider critically that gender discrimination is a rather man-made concept but not naturally endowed.",
+    "How do you evaluate gender discrimination in the context of female foeticide ?",
+    "Is feminism an ideology for empowerment or for equality ? Discuss."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-08-30.md": "d7436bcb7c8fded7d7e93ed90811936594055910728f90d949df75703bb564ab",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md": "b954a82912e573d35c9e4a57df046b3ff26b61f668dbd9c10632e3f3963d4fc9",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184"
+  }
+}

@@ -1,0 +1,316 @@
+ASCII MASTER FLOW — PANEL 1/10: The central question of regime classification and its four axes
+CENTRAL QUESTION -> by what title may one arrangement of rule bind everyone in a
+                    territory, and on what grounds may that arrangement be judged?
+        |
+        v
+FOUR AXES, NEVER ONE
+  (1) WHO RULES?            one  |  few  |  many
+  (2) FOR WHOSE GOOD?       common good  <-->  private or sectional interest
+  (3) BY WHAT TITLE?        heredity | conquest | divine sanction |
+                            consent and election | sacred law
+  (4) UNDER WHAT LIMITS?    law? rights? accountability? none at all?
+        |
+  +-----+-----------------------+-----------------------------+
+  v                             v                             v
+MONARCHY                     THEOCRACY                     DEMOCRACY
+rule of one; title is        rule in the name of God;      rule of the people;
+heredity, tradition and      title is revelation and       title is consent,
+sometimes divine right       sacred law read by clergy     equality, participation
+  |                             |                             |
+  v                             v                             v
+danger: arbitrariness,       danger: conscience crushed,   danger: majoritarianism,
+unaccountability, a weak     citizenship made unequal,     manipulated opinion,
+basis in equality            dissent read as impiety       mediocrity, propaganda
+        |
+        v
+DESCRIPTIVE map (what a regime IS)  vs  NORMATIVE verdict (whether it OUGHT to bind)
+CONTROL -> separate the four axes first, fix description or evaluation second,
+           adjudicate last on a criterion you have already named.
+
+ASCII MASTER FLOW — PANEL 2/10: Plato: the degeneration sequence and the three charges against democracy
+ROOT CLAIM -> ruling is a CRAFT requiring KNOWLEDGE of justice and the good
+        |
+        v
+SHIP OF STATE -> navigation is not handed to the unskilled because they are many
+        |
+        v
+DEGENERATION OF CONSTITUTIONS (Republic): each dominant value corrupts into the next
+  ARISTOCRACY OF KNOWLEDGE -- wisdom rules
+        |  honour displaces wisdom
+        v
+  TIMOCRACY -- honour and military spiritedness
+        |  the desire for wealth displaces honour
+        v
+  OLIGARCHY -- property and wealth; rich divided from poor
+        |  the poor many overthrow the propertied few
+        v
+  DEMOCRACY -- freedom and equality of desires
+        |  unrestrained licence makes restraint itself look oppressive
+        v
+  TYRANNY -- one demagogue who flatters the many, then dominates them
+        |
+        v
+THREE CHARGES -> [1] ruling is a craft, so numbers confer no competence
+              -> [2] democracy mistakes LIBERTY for QUALIFICATION
+              -> [3] unregulated liberty breeds the demagogue, hence tyranny
+TRAP -> this is NOT a defence of hereditary monarchy and NOT mere hatred of freedom
+VERDICT (asymmetric) -> the diagnosis of demagoguery and defective leadership-
+  selection survives; the guardian remedy fails for want of consent and correction.
+
+ASCII MASTER FLOW — PANEL 3/10: Aristotle's six-fold matrix and the polity as the practicable mean
+TWO VARIABLES -> [A] HOW MANY RULE    [B] FOR WHOSE ADVANTAGE
++---------------+------------------------------+-----------------------------+
+| NUMBER RULING | RIGHT FORM (common good)     | DEVIATION (private gain)    |
++---------------+------------------------------+-----------------------------+
+| ONE           | MONARCHY                     | TYRANNY                     |
+| FEW           | ARISTOCRACY                  | OLIGARCHY                   |
+| MANY          | POLITY                       | DEMOCRACY (classical sense) |
++---------------+------------------------------+-----------------------------+
+        |
+        v
+KEY -> the right and corrupt version of each number differ in PURPOSE, not in SIZE;
+       the good-MANY form is POLITY, and classical democracy is its DEVIATION
+        |
+        v
+POLITY = mixed constitution -> rule of the many UNDER LAW, moderated by property,
+         virtue, civic participation and a broad MIDDLE CLASS
+  against STATISM       -> value is not absorbed into one all-wise ruler or state
+  against INDIVIDUALISM -> politics is not unrestricted private self-assertion
+  for CIVIC MODERATION  -> citizenship inside a lawful order aimed at common good
+        |
+        v
+PLATO asks WHO OUGHT IDEALLY TO RULE   |  ARISTOTLE asks WHICH CONSTITUTION CAN
+                                       |  SUSTAIN good political life in practice
+LIMIT -> common advantage is not self-specifying and needs an independent theory of
+         the good; the stability of polity is a sociological claim, not a proof.
+TRAP -> polity is a mixed-government precursor, NOT universal-suffrage democracy.
+
+ASCII MASTER FLOW — PANEL 4/10: Monarchy: two types, four objections and the above-politics test
+DEFINITION -> rule by ONE person, normally holding office by HEREDITY
+        |
+  +-----+-------------------------------------+
+  v                                           v
+ABSOLUTE MONARCHY                          CONSTITUTIONAL MONARCHY
+executive, legislative and sometimes       the monarch REIGNS while elected
+judicial power concentrated in one         institutions GOVERN
+title: heredity, conquest, tradition,      historic continuity plus legal
+       DIVINE RIGHT OF KINGS               limitation by convention
+accountability: weak, unsecured            accountability: cabinet, parliament
+verdict: efficient, normatively risky      verdict: acceptable as symbolic head
+        |
+        v
+FOUR OBJECTIONS TO HEREDITARY RULE AS A PRINCIPLE
+  EQUALITY       -> public authority should be open to all on equal terms
+  MERIT          -> birth guarantees neither wisdom nor virtue
+  ACCOUNTABILITY -> concentrated power invites arbitrariness and despotism
+  FREEDOM        -> liberty needs law, rights and institutions, not a crown
+        |
+        v
+THE ABOVE-POLITICS TEST
+  above PARTY CONFLICT -> systematic: the role is fixed by convention and the
+                          elected institutions retain governance
+  above CONSTITUTIONAL ACCOUNTABILITY -> not systematic: the order ceases to be
+                          constitutional and slides toward arbitrary rule
+        |
+        v
+DIVINE RIGHT -> the king rules by God's will and answers primarily to God: a BRIDGE
+                between monarchy and theocracy, never an identity of the two
+VERDICT -> monarchy coexists with individual freedom only where CONSTITUTIONALISED;
+           as a principle of rule it does not by itself ground freedom.
+
+ASCII MASTER FLOW — PANEL 5/10: Theocracy: divine sovereignty, the interpretation monopoly and validity
+DEFINITION -> political authority claimed in the name of GOD, of divine law, or of
+              the authorised interpreters of sacred truth
+NOT the same as -> a society merely INFLUENCED by religion, or a morally informed
+                   polity in which believers argue publicly as equal citizens
+        |
+        v
+FIVE STRUCTURAL FEATURES
+  SOVEREIGNTY OF GOD  -> final authority is divine will, not the people
+  SACRED LAW          -> religious law guides or determines civil law
+  CLERICAL MEDIATION  -> priests, jurists and elites interpret divine command
+  LIMITED PLURALISM   -> dissent is constrained as theological deviance
+  FUSION              -> political and religious legitimacy overlap
+        |
+        v
+CASE FOR                              |  CASE AGAINST
+moral unity and collective purpose    |  no equal standing for other faiths or none
+restraint on self-interested politics |  liberty of conscience is compromised
+a stable ethical order derived from   |  dissent becomes impiety, not disagreement
+sacred obligation                     |  interpretation becomes a clerical MONOPOLY
+a higher law above human rulers       |  adaptation to rights discourse is hard
+        |
+        v
+THE DECISIVE PROBLEM -> WHO SPEAKS FOR GOD? once interpretation is human,
+  theological certainty can mask ordinary struggles for power
+SECULARISM -> the state is not founded on the supremacy of one religious truth for
+  all; it protects equal citizenship, liberty of conscience and coexistence
+  (India: Articles 25-28 guarantee freedom of conscience and religion subject to
+   public order, morality and health, and bar religious instruction in wholly
+   State-funded institutions -- dated legal facts, not proof of a thesis)
+VERDICT -> internally valid for believers; as a GENERAL form of government in a
+           plural modern society it fails consent, equal citizenship and revision.
+
+ASCII MASTER FLOW — PANEL 6/10: Democracy: the model taxonomy and the protection of minorities
+DEFINITION -> rule of the people: political equality, consent, participation,
+              accountability, public justification and protection of rights
+        |
+  +-----+-----------+---------------------+--------------------+
+  v                 v                     v                    v
+DIRECT          REPRESENTATIVE        PROCEDURAL           SUBSTANTIVE
+citizens        citizens elect        are rulers chosen    do people actually
+decide          rulers and            fairly? elections,   govern under fair
+themselves      lawmakers             competition, rules   social conditions?
+high            workable at scale;                         justice, rights,
+participation   power stands apart                         real equality
+        |
+        v
+LIBERAL DEMOCRACY = popular rule + constitutional limits + rights + rule of law
+  -> the majority governs WITHOUT converting number into unrestricted power
+        |
+  +-----+------------------------------+
+  v                                    v
+ACHIEVEMENTS                        LIMITS
+legal guarantees, representation    social prejudice outlasts formal equality
+judicial review, civil liberties    incentives reward majoritarian rhetoric
+protected dissent and association   formal tolerance, substantive exclusion
+constitutional accommodation        delivery rests on constitutional culture
+        |
+        v
+DEEPENING MODELS -> PARTICIPATORY: participation educates citizens and resists
+                    alienation, echoing Mill on public character
+                 -> DELIBERATIVE: Habermas grounds legitimacy in public reasoning
+                    under freedom, reciprocity and absence of domination
+                 -> EPISTEMIC: procedures allow error-detection and revision
+INDIA ANCHOR -> Ambedkar warns that political equality cannot long survive amid
+                deep social and economic inequality.
+
+ASCII MASTER FLOW — PANEL 7/10: Authority and legitimacy: the Weberian grid laid across the classical one
+POWER = compliance secured despite resistance | AUTHORITY = power believed RIGHTFUL
++------------------+----------------------+----------------------+---------------+
+| TYPE             | GROUND OF BELIEF     | ADMINISTRATION       | SUCCESSION    |
++------------------+----------------------+----------------------+---------------+
+| TRADITIONAL      | sanctity of          | personal retainers,  | inheritance   |
+|                  | immemorial custom    | patrimonial staff    | or custom     |
+| CHARISMATIC      | devotion to an       | disciples chosen     | acute; the    |
+|                  | exceptional leader   | personally, no rules | type is frail |
+| LEGAL-RATIONAL   | legality of enacted  | BUREAUCRACY: office, | impersonal,   |
+|                  | rules                | files, career        | by rule       |
++------------------+----------------------+----------------------+---------------+
+        |
+        v
+THE TYPOLOGY CUTS ACROSS THE CLASSICAL GRID
+  monarchy   -> traditional, occasionally charismatic
+  theocracy  -> traditional joined to charismatic
+  democracy  -> normally legal-rational, yet capturable by plebiscitary charisma
+ROUTINISATION OF CHARISMA -> movement becomes party becomes bureaucracy
+        |
+        v
+SCHUMPETER -> democracy is the COMPETITIVE STRUGGLE FOR THE PEOPLE'S VOTE; the
+  people's function is to PRODUCE A GOVERNMENT, not to govern (procedural pole)
+MICHELS, Political Parties (1911) -> IRON LAW OF OLIGARCHY: scale, specialisation
+  and control of information entrench a permanent leadership
+TRAP -> Weberian legitimacy is a SOCIOLOGICAL fact about belief, never a normative
+        certificate of justification; ideal types are yardsticks, not portraits
+VERDICT -> number of rulers tells us WHO decides; type of legitimacy tells us WHY
+           they are obeyed, and a complete assessment requires both grids.
+
+ASCII MASTER FLOW — PANEL 8/10: Populism, illiberal democracy and the manufacture of consent
+DEFINITIONAL CONTEST -> state it, never settle it silently
+  MUDDE (2004)  -> populism as a THIN-CENTRED ideology: a pure people against a
+                   corrupt elite, attaching to a HOST ideology across the spectrum
+  MULLER (2016) -> the decisive move is EXCLUSIVE MORAL REPRESENTATION: rivals are
+                   not opponents but enemies of the people (ANTI-PLURALISM)
+  LACLAU (2005) -> populism as a LOGIC OF ARTICULATION binding unsatisfied demands
+                   into a collective subject called the people
+        |
+        v
+THE SLIDE, STEP BY STEP
+  [1] a genuine representation deficit exists
+  [2] a leader articulates the excluded demands and claims to embody the people
+  [3] the people is defined MORALLY, so disagreement becomes betrayal
+  [4] courts, chambers, commissions, press and federal units become obstructions
+  [5] they are weakened, captured or bypassed while elections continue
+  [6] result -> ILLIBERAL DEMOCRACY
+        v
+FORM RETAINED             |  SUBSTANCE ERODED
+elections continue        |  fairness of contest: access, finance, media, disputes
+a majority governs        |  limits on what a majority may do to minorities
+courts function           |  independence of appointment, tenure and enforcement
+a press exists            |  plurality of ownership, absence of indirect pressure
+opposition parties exist  |  a realistic prospect of alternation in power
+        v
+PROPAGANDA -> a judgment is the citizen's own only under access to information,
+  rival argument and freedom from manipulation; otherwise consent is MANUFACTURED
+  and a vote confers sociological legitimacy without normative authorisation
+REGULATOR'S DILEMMA -> content-based remedies hand the state power over public
+  truth, the very power a propagandising state abuses
+STRUCTURAL REMEDIES -> plural ownership, transparent political finance, independent
+  electoral adjudication, protected journalism, civic education, rights of reply
+CAUTION -> a diagnostic grid only; no country, party, leader or period is judged.
+
+ASCII MASTER FLOW — PANEL 9/10: Where power sits: unitary against federal design and subsidiarity
+SECOND AXIS (comparative scaffolding, clearly labelled -- not owned doctrine)
+WHO RULES is one question; WHERE POWER SITS and HOW FAR DOWN it goes is another
+        |
+UNITARY  <--------------------------------------------------------->  FEDERAL
+one central government;                    a constitutional DIVISION of powers
+sub-units exercise DELEGATED               between centre and units, each with
+powers it may withdraw                     a guaranteed sphere
+uniformity and decisiveness,               autonomy, diversity-management and a
+at the price of remoteness                 check on central overreach, at the
+                                           price of coordination and deadlock
+        |
+        +--------------- STABILISERS --------------+
+                    bicameralism: a chamber for the units
+                    a JUDICIAL UMPIRE over the centre-unit boundary
+                    fiscal and intergovernmental machinery
+        v
+VARIETIES -> COMING-TOGETHER federation: independent states unite
+          -> HOLDING-TOGETHER federation: one polity devolves to hold diversity
+          -> FEDERATION (one indissoluble sovereignty) against CONFEDERATION
+             (sovereign members, exit possible, weak centre)
+        v
+SUBSIDIARITY -> decide at the LOWEST capable level
+CENTRE -> STATE / PROVINCE -> DISTRICT -> LOCAL SELF-GOVERNMENT
+                                          (panchayats and municipalities)
+INDIA (dated legal facts) -> Article 40 directs the State to organise village
+  panchayats as units of self-government; the 73rd and 74th Constitutional
+  Amendment Acts, 1992 added Parts IX and IX-A. India is a parliamentary,
+  holding-together federal republic under CONSTITUTIONAL SUPREMACY with judicial
+  review -- never parliamentary sovereignty
+GANDHI -> village self-rule (swaraj): self-reliant, participatory village republics
+CONTROL -> keep the axis subordinate and return to source, purpose and limits.
+
+ASCII MASTER FLOW — PANEL 10/10: The answer spine: shared axes, directive decoder and the graded verdict
+STEP 1 DEFINE   -> name the form by its SOURCE OF AUTHORITY, not by a caricature
+STEP 2 LOCATE   -> place the stem on the classical grid AND the legitimacy grid
+STEP 3 RIVALS   -> stage ONE real debate, never three disconnected mini-essays
+STEP 4 OBJECT   -> voice the strongest objection to your own thesis, then reply
+STEP 5 EVIDENCE -> one unit at 10 marks, two at 15, four or five at 20
+STEP 6 VERDICT  -> graded, conceding something to the losing side
+        v
+RUN ALL THREE FORMS DOWN THE SAME AXES
+  source of authority | type of legitimacy claimed | succession or selection
+  accountability | relation to law | treatment of dissent | equal citizenship
+  CAPACITY TO CORRECT ERROR  <- the axis that usually decides and is usually left out
+        v
+DIRECTIVE DECODER -- the verb fixes the structure
+  Comment on               -> claim, argument, one objection, verdict
+  Discuss                  -> doctrine, rival, objection, reply, verdict
+  Critically examine       -> two objections, each with reply and residual problem
+  Can X be accepted?       -> NAME THE TEST first, apply it, then judge
+  Does X leave room for Y? -> what X entails, what Y requires, can they co-exist
+  How far is X distinctive -> a degree judgment plus a distinctiveness test
+        |
+        v
+VERDICT FORMULAS (adapt, never reproduce mechanically)
+  ASYMMETRIC     -> the diagnosis survives, the remedy does not
+  CRITERION      -> by consent and equal citizenship, theocratic sovereignty fails
+  FORM/SUBSTANCE -> the form is kept; the conditions worth having are not
+  CROSS-TYPOLOGY -> who decides, plus why they are obeyed
+  DILEMMA        -> answer propaganda by contestable institutions, not censorship
+        |
+        v
+CLOSING THESIS -> democracy's superiority is not guaranteed wisdom; it is equal
+  standing, public justification and institutionalised correction of error.

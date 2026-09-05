@@ -1,0 +1,1273 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g4\\topic-01_Solved-Practice-Workbook_2026-08-30.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-01\\g4\\topic-01_Solved-Practice-Workbook_2026-08-30.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 18,
+      "markdown_body_line_end": 19,
+      "heading": "RAPID REVISION 1 - The Ideals Triad: Map, Working Thesis and the Ordering Problem",
+      "preview": "WRONG: Answering a composite stem with three separate mini-essays. Adjudicate the relation, do not just list.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 579.691
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 549.224
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 38,
+      "markdown_body_line_end": 38,
+      "heading": "RAPID REVISION 2 - Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome",
+      "preview": "WRONG: Equating equality with sameness. That caps you at the average band.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 396.324
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 365.856
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 57,
+      "markdown_body_line_end": 57,
+      "heading": "RAPID REVISION 3 - Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need",
+      "preview": "WRONG: Treating \"equity\" and \"equality\" as synonyms in the Marxian question.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 210.956
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 180.488
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "RAPID REVISION 4 - Equality III: 'Equality of What?' -- Sen, Cohen and Dworkin",
+      "preview": "WRONG: Capability = utility, or capability = income. Both are wrong.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 678.091
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 647.624
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 94,
+      "heading": "RAPID REVISION 5 - Liberty I: Meaning, Berlin's Two Concepts, Mill's Harm Principle",
+      "preview": "WRONG: Saying Berlin rejects positive liberty outright.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 513.924
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 483.456
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 113,
+      "heading": "RAPID REVISION 6 - Liberty II: Hobbes, Locke, Rousseau, Green and the Liberty-Equality Relation",
+      "preview": "WRONG: Treating liberty and equality as permanent, level-independent enemies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 316.556
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 286.088
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "RAPID REVISION 7 - Liberty III: Technological Society and Republican Non-Domination",
+      "preview": "WRONG: Confusing an un-interfered-with dependent with a free person.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 113.988
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 83.52
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 154,
+      "heading": "RAPID REVISION 8 - Justice I: Meaning, Plato, Aristotle, the Criteria Problem and Corrective Justice",
+      "preview": "WRONG: Reducing justice to \"whatever the law says\"; legality is not legitimacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 627.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 597.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 178,
+      "markdown_body_line_end": 179,
+      "heading": "RAPID REVISION 9 - Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict",
+      "preview": "WRONG: \"Rawls's first principle is equality.\" It is equal LIBERTY (lexically prior).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 369.524
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 339.056
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 198,
+      "markdown_body_line_end": 198,
+      "heading": "RAPID REVISION 10 - Debates, Criticisms and Traps: Synthesis Across the Triad",
+      "preview": "WRONG: Two-biography comparisons and one-sided demolitions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 203.356
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 172.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 206,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Social-Political-Ideals.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the keyword and statement bank, the corpus-",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 152.188
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 42.92
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 255,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 448.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 257,
+      "markdown_body_line_end": 272,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 448.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 126.822
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 287,
+      "heading": "9.0 Directive decoder - read the verb before the topic",
+      "preview": "Directive in the stem | What is actually being scored | Minimum structural obligation | Failure mode that costs marks",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Directive in the stem",
+          "What is actually being scored",
+          "Minimum structural obligation",
+          "Failure mode that costs marks"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 547.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 294,
+      "heading": "9.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not attempt two thinkers, two objections, or an Indian illustration unless the stem asks for one. Depth of one doctrine beats breadth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 448.89
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 404.222
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 300,
+      "heading": "9.2 15-mark method (~220 words · 6 moves · ~18 minutes)",
+      "preview": "⚠️ For \"compare/distinguish\" stems, insert one 3-axis table here. For \"how far\" stems, the conditional verdict is the mark-bearing move and must be at least three lines.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 308.222
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 263.554
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "9.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On composite stems (\"liberty and equality inadequate without justice\"), the mark-bearing move is showing *why* the third ideal is needed — that liberty and equality are each indeterminate about **which** liberties and **which** equalitie",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 136.154
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 77.287
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 361,
+      "heading": "Sources",
+      "preview": "⚠️ **Provenance note for §2.8, §3.3A and §3.3B (added in this pass):** the republican non-domination module, the distributive-criteria grid and the compensatory-principle reconstruction are named-scholar syntheses adapted into this Philosop",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 211.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 369,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 183.924
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 139.256
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 965,
+      "heading": "EXAM APPLICATION 1 - The Ideals Triad: Map, Working Thesis and the Ordering Problem",
+      "preview": "MEMORY: Composite spine -> name the two ideals -> show each is indeterminate alone -> bring in justice as the ordering criterion -> graded verdict that concedes something to the losing side.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 184.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 139.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 982,
+      "markdown_body_line_end": 984,
+      "heading": "EXAM APPLICATION 2 - Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome",
+      "preview": "MEMORY: Equality spine -> equal worth (not sameness) -> name the relevant form (legal / political / social / economic) -> opportunity vs outcome -> which criterion, and why, is the mark-bearing move.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 656.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 612.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1006,
+      "heading": "EXAM APPLICATION 3 - Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need",
+      "preview": "MEMORY: Do not import the Marx-as-ideology answer here; the demand is the equity/equality DISTINCTION, framed by Marx.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 430.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 385.756
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1022,
+      "heading": "EXAM APPLICATION 4 - Equality III: 'Equality of What?' -- Sen, Cohen and Dworkin",
+      "preview": "MEMORY: If a stem treats equality as one flat thing, win marks by asking \"equality of what -- welfare, resources or capabilities?\" and naming Sen.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 268.756
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 224.088
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1040,
+      "heading": "EXAM APPLICATION 5 - Liberty I: Meaning, Berlin's Two Concepts, Mill's Harm Principle",
+      "preview": "MEMORY: 10-mark liberty spine -> negative/positive distinction -> Berlin's warning OR Mill's harm gate -> one evidence unit -> graded verdict.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1060,
+      "heading": "EXAM APPLICATION 6 - Liberty II: Hobbes, Locke, Rousseau, Green and the Liberty-Equality Relation",
+      "preview": "MEMORY: \"How far\" = degree judgment compulsory. Name the conditions under which liberty limits equality and the conditions under which they reinforce.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 554.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 510.156
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1077,
+      "heading": "EXAM APPLICATION 7 - Liberty III: Technological Society and Republican Non-Domination",
+      "preview": "MEMORY: On any liberty-vs-equality stem, deploy non-domination to show that certain equalisations are freedom-INCREASING, not freedom-reducing.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.156
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 353.488
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1094,
+      "heading": "EXAM APPLICATION 8 - Justice I: Meaning, Plato, Aristotle, the Criteria Problem and Corrective Justice",
+      "preview": "MEMORY: Justice-first distinction = proportional (distributive) vs arithmetic (corrective); then name the criterion for the specific good in dispute.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 205.288
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 160.62
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1117,
+      "markdown_body_line_end": 1118,
+      "heading": "EXAM APPLICATION 9 - Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict",
+      "preview": "MEMORY: For \"is X an improvement upon Y?\", the criterion of improvement must be named BEFORE you apply it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 569.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 539.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1132,
+      "markdown_body_line_end": 1134,
+      "heading": "EXAM APPLICATION 10 - Debates, Criticisms and Traps: Synthesis Across the Triad",
+      "preview": "MEMORY: Directive first. \"Discuss\" = expose one live tension; \"critically evaluate\" = objection-reply is the answer; \"how far\" = degree judgment; \"is X an improvement?\" = name the criterion first.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 424.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 379.756
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1156,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED SOURCE / EXAMPLE -> OBJECTION / REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1160,
+      "markdown_body_line_end": 1160,
+      "heading": "SOLVED PYQ BANK - EXACTLY 14 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the local Socio-Political Philosophy Paper II bank for 2018-2025. This clause owns exactly 14 primary parts (2018:1, 2019:2, 2020:1, 2021:3, 2022:2, 2023:1, 2024:2, 2025:2). Ownership discipline",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 618.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1199,
+      "heading": "Solved PYQ 1 - 2018 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it treats \"how far\" as a degree question, shows the base-level complementarity AND the marginal conflict, and closes with the justice/fraternity supplement rather than one-sided praise.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 277.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 185.556
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1231,
+      "heading": "Solved PYQ 2 - 2019 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the axis of continuity before judging, and separates a shared question from opposed answers instead of forcing a single verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 547.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1261,
+      "heading": "Solved PYQ 3 - 2019 Q4(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it gives a genuine degree-judgment, deploys non-domination to dissolve the trade-off, and avoids a flat yes/no.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 221.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 143.756
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1290,
+      "heading": "Solved PYQ 4 - 2020 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers the yes/no with a condition, distinguishes convenience from autonomy, and names the informational form of modern unfreedom.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 575.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 497.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1324,
+      "heading": "Solved PYQ 5 - 2021 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the historical/patterned distinction, uses Wilt Chamberlain as argument (not decoration), and lands the critique on acquisition/rectification.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 236.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 143.756
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1354,
+      "heading": "Solved PYQ 6 - 2021 Q1(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it states both terms precisely, explains the convert-difference-into-domination mechanism, and blocks the \"romantic Rousseau\" misreading.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 561.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 483.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1389,
+      "heading": "Solved PYQ 7 - 2021 Q2(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it states the criterion of improvement first, uses niti/nyaya and capabilities as argument, concedes what Rawls still does better, and gives a criterion-relative verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 157.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 78.956
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1418,
+      "markdown_body_line_end": 1420,
+      "heading": "Solved PYQ 8 - 2022 Q1(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it attacks the modal word \"necessary\", uses the freedom-constituting-law point, and delivers a graded rather than either/or verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 547.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1450,
+      "markdown_body_line_end": 1452,
+      "heading": "Solved PYQ 9 - 2022 Q2(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes the measure-vs-need distinction, roots it in the equal-right-as-right-of-inequality argument, and flags the higher-stage qualification without drifting into a Political-Ideologies essay.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 193.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 101.156
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1483,
+      "markdown_body_line_end": 1485,
+      "heading": "Solved PYQ 10 - 2023 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it defines fairness through the fair choice situation, states the principles with their PRIORITY, and adds reflective equilibrium rather than listing slogans.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 547.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1511,
+      "markdown_body_line_end": 1512,
+      "heading": "Solved PYQ 11 - 2024 Q1(a), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it gives the soul-city parallel, distinguishes harmony from distribution, and balances the standard criticism with its reply.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 236.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 157.956
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1546,
+      "heading": "Solved PYQ 12 - 2024 Q2(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it specifies both ideals (three liberties, four equalities + the metric question), runs objection-reply on each, and closes with the ordering role of justice.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 533.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 455.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1580,
+      "heading": "Solved PYQ 13 - 2025 Q1(e), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it lists Mill's features precisely, foregrounds the feminist argument and the individuality proviso, and states the structural limit rather than over-claiming.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 165.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 86.956
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1615,
+      "markdown_body_line_end": 1617,
+      "heading": "Solved PYQ 14 - 2025 Q4(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it proves inadequacy by showing each ideal is indeterminate about its own content, compares three ordering positions, anchors in Ambedkar, and ends with the architectonic verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 454.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 376.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1621,
+      "markdown_body_line_end": 1621,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 376.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 331.556
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1625,
+      "markdown_body_line_end": 1625,
+      "heading": "Original Mains 1",
+      "preview": "Original 10-marker - Social and Political Ideals - approx. 150 words.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 736.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1648,
+      "markdown_body_line_end": 1650,
+      "heading": "Original Mains 1",
+      "preview": "MEMORY: Why this earns marks - it fixes the two senses precisely, names the mechanism of entrenchment, and grades formal equality as necessary-but-partial rather than dismissing it.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 525.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 447.356
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1654,
+      "markdown_body_line_end": 1654,
+      "heading": "Original Mains 2",
+      "preview": "Original 15-marker - Social and Political Ideals - approx. 250 words.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 447.356
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 394.888
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1686,
+      "markdown_body_line_end": 1688,
+      "heading": "Original Mains 2",
+      "preview": "MEMORY: Why this earns marks - it states Berlin accurately, uses the un-interfered-with dependent as argument, gives objection-reply, and returns a qualified verdict rather than a flat one.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1692,
+      "markdown_body_line_end": 1692,
+      "heading": "Original Mains 3",
+      "preview": "Original 20-marker - Social and Political Ideals - approx. 250 words.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 725.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 672.756
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1725,
+      "markdown_body_line_end": 1727,
+      "heading": "Original Mains 3",
+      "preview": "MEMORY: Why this earns marks - it proves the thesis by demonstrating the indeterminacy of both ideals, compares three ordering positions, meets the master-value objection, and lands a precise architectonic verdict.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 339.756
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 261.688
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-05",
+  "topic_title": "Political Ideologies",
+  "official_syllabus_verbatim": "Political Ideologies: Anarchism; Marxism and Socialism.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 13,
+  "verified_pyqs": [
+    "Evaluate Marxism as a Political Ideology.",
+    "Present an exposition of the concept of alienation as propounded by Marx.",
+    "Compare socialism and communism as two distinct political ideologies.",
+    "Critically examine the anarchist's view that \"all States always and everywhere are illegitimate and unjust.\"",
+    "Explain Historical Materialism and discuss its relevance in the context of social development and change.",
+    "Discuss anarchism as a political ideology. Is it possible to dispense with political authority completely? Give reasons for your answer.",
+    "Discuss the distinctive features of Gandhian Socialism and its contemporary relevance.",
+    "Do you think that the prevailing pandemic will lead to anarchism in society? Discuss.",
+    "How far is Marxism as a philosophical doctrine relevant in the present context? Justify your answer.",
+    "Evaluate Mahatma Gandhi as a political anarchist.",
+    "What do you consider to be the future of Marxism in the context of the prevalent free-market economy?",
+    "Do you subscribe to the political ideology of Anarchists ? Justify your answer.",
+    "Are Marxian Socialism and individual freedom consistent ? Discuss critically."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-05\\g3\\topic-05_Complete-Learning-Session_2026-08-30.md": "8035a89f0bd0952feee41f0e922ed23f7d70088abce12048e450e97a3992c25a",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Political-Ideologies.md": "f7184e3e3cc7d20fa6515b3796acf55f4c37b5951dd18eb696cfe3aeb9caa04a",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Political-Ideologies\\Political-Ideologies_Layered-Complete-Learning-Session_2026-08-19.md": "285553f004d3ce5693909b35a4e5db7e385278e3d2e26222b81b66a818100741",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Socio-Political-Philosophy\\learning-sessions\\Political-Ideologies\\Political-Ideologies_Layered-Solved-Practice-Workbook_2026-08-19.md": "acd7f4c61f29dc0d080d0f0704ec6e4d71ed640ee94590edb7ef989bf6e40ef2"
+  }
+}

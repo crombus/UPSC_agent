@@ -1,0 +1,33 @@
+{
+  "generated_on": "2026-09-03",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+  "topic_title": "Caste Discrimination: Gandhi and Ambedkar",
+  "official_syllabus_verbatim": "Caste Discrimination : Gandhi and Ambedkar.",
+  "assembly_mode": "immutable-successor-from-latest-validated-learner-v2",
+  "source_order": [
+    "Markdown canonical owner and any retained layered package",
+    "OCR/PDF evidence already reconciled in source owners",
+    "Live web not used for static doctrine or exact PYQ wording",
+    "Qdrant not required"
+  ],
+  "verified_pyq_count": 9,
+  "verified_pyqs": [
+    "Present a detailed account of the debate between Gandhi and Ambedkar on the issue of caste discrimination.",
+    "Discuss the main factors responsible for caste discrimination.",
+    "Critically analyse the social and political significance of Ambedkar's notion of annihilation of caste.",
+    "In the age of individualism and universal franchise, what role does caste play in body-politic? Discuss.",
+    "Critically evaluate Gandhi's views on eradication of caste discrimination.",
+    "Discuss the views of Dr. B.R. Ambedkar regarding caste-discrimination in Indian society. What are the measures suggested by him for its elimination? Explain.",
+    "State and examine B.R. Ambedkar's contribution towards social changes in Independent India.",
+    "Examine whether there is any difference between the views of Mahatma Gandhi and Dr. Babasaheb Ambedkar on the philosophical foundations of secular democracy.",
+    "It is said that the traditional hold of caste-based groups on Indian social behaviour has survived all attempts to build alternate identities. Discuss in the light of M. K. Gandhi."
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g6\\topic-10_Complete-Learning-Session_2026-09-03.md": "a3084c1ce285c2e2af493a545f0e7ff1ad42eac3a391058b1a427007d1b52518",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md": "b976f783f5f8db183b76b4fa3024355c558ba4b251ebfc31e7ab83f35aa2ee46",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-SocioPolitical-2018-2025.md": "f2591259e7ffd3e4406d3784caa1499f8fd38e1c3dd43bfbbdc84a5b13bf9904",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md": "b30d52a63dd56a0e61bdea6ed5cb80a9e7f552c7d6783d21ee642c784ce4980c",
+    "upsc-ai-kit\\knowledge\\Philosophy\\README.md": "774d9497c0a762f23482ef8ea90d416a49df3eb50731596ababbb1e76ea20184"
+  }
+}

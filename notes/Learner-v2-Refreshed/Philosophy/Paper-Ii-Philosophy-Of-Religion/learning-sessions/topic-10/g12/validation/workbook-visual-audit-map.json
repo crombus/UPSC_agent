@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g12\\topic-10_Solved-Practice-Workbook_2026-08-27.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g12\\topic-10_Solved-Practice-Workbook_2026-08-27.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 6,
+      "heading": "Nature of Religious Language - Solved Practice Workbook",
+      "preview": "**Artifact identity:** `philosophy-paper-ii-philosophy-of-religion-10:learner-v2:g12` **Generation:** g12, 2026-08-27 **Approval:** false · **Validation:** revalidation pending **Derived from:** `upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\P",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 772.291
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 699.224
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 464,
+      "heading": "43. Match List I with List II:",
+      "preview": "List I | List II",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "List I",
+          "List II"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 127.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 757.49
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 515,
+      "heading": "46. Read the passage:",
+      "preview": "A partisan trusts a stranger despite disturbing evidence, but admits that the evidence counts against the trust and that sufficiently grave evidence could defeat it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 334.29
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 289.622
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 536,
+      "heading": "47. Which row contains only accurate school/doctrine qualifications?",
+      "preview": "Row | Mīmāṃsā | Grammarians | Nyāya comparison",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Row",
+          "Mīmāṃsā",
+          "Grammarians",
+          "Nyāya comparison"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 167.422
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 61.52
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 646,
+      "heading": "VERIFIED PYQS - 14 COMPLETE SOLUTIONS",
+      "preview": "The following are **independent practice models, not official UPSC answer keys**. Question wording, year, number and marks reproduce the verified Paper II bank. Each model follows the directive and mark demand while retaining philosophical ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 152.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 93.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1227,
+      "markdown_body_line_end": 1227,
+      "heading": "ORIGINAL SOLVED MAINS PRACTICE",
+      "preview": "These six questions are **original practice questions, not UPSC PYQs**. Their solutions are independent learner models rather than official keys.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 552.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 507.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    }
+  ]
+}

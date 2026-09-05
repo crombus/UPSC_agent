@@ -1,0 +1,1077 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+  "subject": "Philosophy",
+  "title": "CASTE DISCRIMINATION: GANDHI AND AMBEDKAR",
+  "short_route": "THE CENTRAL QUESTION AND → REPRODUCTION: ENDOGAMY TO GRADED → CASTE IN DEMOCRACY AND → GANDHI'S STAGED POSITION → GANDHIAN MORAL REFORM: ARGUMENT → AMBEDKAR'S CASTE DIAGNOSIS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g7 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g7\\topic-10_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-10-ascii-g7-2026-09-03.json",
+  "ascii_spec_sha256": "82b4d3f0c01f5c60e0621c225621c12d9079ac58aa5716c0612f2eebcf584776",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL QUESTION AND CONCEPTUAL GRAMMAR",
+      "structural_type": "root-question-and-distinction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE CENTRAL QUESTION AND CONCEPTUAL GRAMMAR",
+          "role": "primary"
+        },
+        {
+          "text": "HOW DOES BIRTH-BASED HIERARCHY REPRODUCE ITSELF, AND HOW DO",
+          "role": "outcome"
+        },
+        {
+          "text": "TEXTUAL FOURFOLD ORDER (VARNA)",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVED BIRTH-GROUP (JATI)",
+          "role": "evidence"
+        },
+        {
+          "text": "!= CASTE SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "UNTOUCHABILITY CASTE",
+          "role": "outcome"
+        },
+        {
+          "text": "ORDER OF BIRTH, RANK, OCCUPATION AND CLOSURE UNTOUCHABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INTENSIFIED STIGMA AND EXCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → how does birth-based hierarchy reproduce itself, and how do Gandhi and Ambedkar",
+        "TEXTUAL FOURFOLD ORDER (VARNA) != LIVED BIRTH-GROUP (JATI)",
+        "!= CASTE SYSTEM != UNTOUCHABILITY caste: order of birth, rank, occupation and closure untouchability: intensified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION → how does birth-based hierarchy reproduce itself, and how do Gandhi and Ambedkar differently seek its transformation?",
+            "TEXTUAL FOURFOLD ORDER (VARNA) != LIVED BIRTH-GROUP (JATI)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "!= CASTE SYSTEM != UNTOUCHABILITY caste: order of birth, rank, occupation and closure untouchability: intensified stigma and exclusion",
+            "CENTRAL QUESTION → how does birth-based hierarchy reproduce itself, and how do Gandhi and Ambedkar differently seek its transformation?"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TEXTUAL FOURFOLD ORDER (VARNA) != LIVED BIRTH-GROUP (JATI)",
+            "!= CASTE SYSTEM != UNTOUCHABILITY caste: order of birth, rank, occupation and closure untouchability: intensified stigma and exclusion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "!= CASTE SYSTEM != UNTOUCHABILITY caste: order of birth, rank, occupation and closure untouchability: intensified stigma and exclusion.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REPRODUCTION: ENDOGAMY TO GRADED INEQUALITY",
+      "structural_type": "causal-reproduction-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENDOGAMY TO GRADED INEQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "INHERITED MEMBERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "HEREDITARY STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "OCCUPATIONAL CLOSURE + PURITY/POLLUTION + SANCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVISION OF LABOURERS",
+          "role": "primary"
+        },
+        {
+          "text": "GRADED INEQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FRACTURED SOLIDARITY AND RESTRICTED FREE ASSOCIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE IS NOT MERELY WORK DIVISION, CLASS OR PREJUDICE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "endogamy → inherited membership → hereditary status",
+        "occupational closure + purity/pollution + sanction",
+        "division of labourers → graded inequality",
+        "fractured solidarity and restricted free association",
+        "TRAP → caste is not merely work division, class or prejudice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "endogamy → inherited membership → hereditary status",
+            "occupational closure + purity/pollution + sanction"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "division of labourers → graded inequality",
+            "fractured solidarity and restricted free association"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP → caste is not merely work division, class or prejudice.",
+            "endogamy → inherited membership → hereditary status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → caste is not merely work division, class or prejudice.",
+      "source_references": [
+        "SESSION 1",
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CASTE IN DEMOCRACY AND THE BODY POLITIC",
+      "structural_type": "formal-social-democracy-contrast",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CASTE IN DEMOCRACY AND THE BODY POLITIC",
+          "role": "primary"
+        },
+        {
+          "text": "UNIVERSAL FRANCHISE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL VOICE, REPRESENTATION, BARGAINING CASTE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "PATRONAGE, CANDIDATE SELECTION, SOCIAL BLOCS",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSERTION FOR EQUAL CITIZENSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "DEFENCE OF HEREDITARY SUPREMACY CLASS + GENDER INTERACT WITH",
+          "role": "outcome"
+        },
+        {
+          "text": "REDISTRIBUTION + RECOGNITION/STATUS + REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BELIEF IS FREE; SACRED SANCTION CANNOT IMPOSE CIVIC DISABILITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "universal franchise → political voice, representation, bargaining caste power → patronage, candidate selection, social blocs",
+        "ASSERTION for equal citizenship != DEFENCE of hereditary supremacy class + gender interact with caste",
+        "JUSTICE → redistribution + recognition/status + representation",
+        "RELIGION → belief is free; sacred sanction cannot impose civic disability."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "universal franchise → political voice, representation, bargaining caste power → patronage, candidate selection, social blocs",
+            "ASSERTION for equal citizenship != DEFENCE of hereditary supremacy class + gender interact with caste; neither erases its mechanism."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JUSTICE → redistribution + recognition/status + representation",
+            "RELIGION → belief is free; sacred sanction cannot impose civic disability."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "universal franchise → political voice, representation, bargaining caste power → patronage, candidate selection, social blocs",
+            "ASSERTION for equal citizenship != DEFENCE of hereditary supremacy class + gender interact with caste; neither erases its mechanism."
+          ]
+        }
+      ],
+      "mechanism_strip": "ASSERTION for equal citizenship != DEFENCE of hereditary supremacy class + gender interact with caste; neither erases its mechanism.",
+      "answer_line": "RELIGION → belief is free; sacred sanction cannot impose civic disability.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GANDHI'S STAGED POSITION",
+      "structural_type": "chronology-with-residual-objection",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GANDHI'S STAGED POSITION",
+          "role": "primary"
+        },
+        {
+          "text": "IDEALISED HEREDITARY DUTY-ORDER (VARNA), NO ASSERTED RANK",
+          "role": "caution"
+        },
+        {
+          "text": "UNTOUCHABILITY CONDEMNED; TEMPLE ENTRY AND COMMON SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "INCREASINGLY CRITICAL OF BIRTH BARRIERS; INTER-CASTE MARRIAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "INHERITED ALLOCATION CAN PRESERVE CLOSURE DESPITE DENIED RANK",
+          "role": "primary"
+        },
+        {
+          "text": "'HARIJAN' IS HISTORICAL USAGE AND CONTESTED, NOT NEUTRAL.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EARLIER → idealised hereditary duty-order (varna), no asserted rank",
+        "CAMPAIGN → untouchability condemned; temple entry and common service",
+        "LATER → increasingly critical of birth barriers; inter-caste marriage",
+        "RESIDUE → inherited allocation can preserve closure despite denied rank",
+        "TERM → 'Harijan' is historical usage and contested, not neutral."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "EARLIER → idealised hereditary duty-order (varna), no asserted rank",
+            "CAMPAIGN → untouchability condemned; temple entry and common service"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "LATER → increasingly critical of birth barriers; inter-caste marriage",
+            "RESIDUE → inherited allocation can preserve closure despite denied rank"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "TERM → 'Harijan' is historical usage and contested, not neutral.",
+            "EARLIER → idealised hereditary duty-order (varna), no asserted rank"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TERM → 'Harijan' is historical usage and contested, not neutral.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GANDHIAN MORAL REFORM: ARGUMENT AND METHOD",
+      "structural_type": "ethical-method-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GANDHIAN MORAL REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "ARGUMENT AND METHOD",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL SPIRITUAL WORTH",
+          "role": "comparison"
+        },
+        {
+          "text": "UNTOUCHABILITY VIOLATES TRUTH + NON-VIOLENCE (AHIMSA)",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIVILEGED CASTE RESPONSIBILITY, REPENTANCE, SELF-PURIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "TRUTH-FORCE (SATYAGRAHA) + CONSTRUCTIVE PROGRAMME + REINTERPRETATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MORAL RESPONSIBILITY AND CHANGED DAILY PRACTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSCIENCE DOES NOT GUARANTEE RIGHTS, POWER OR VOICE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "equal spiritual worth → untouchability violates truth + non-violence (ahimsa)",
+        "privileged caste responsibility, repentance, self-purification",
+        "truth-force (satyagraha) + constructive programme + reinterpretation",
+        "STRENGTH → moral responsibility and changed daily practice",
+        "LIMIT → conscience does not guarantee rights, power or voice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "equal spiritual worth → untouchability violates truth + non-violence (ahimsa)",
+            "privileged caste responsibility, repentance, self-purification"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "truth-force (satyagraha) + constructive programme + reinterpretation",
+            "STRENGTH → moral responsibility and changed daily practice"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "LIMIT → conscience does not guarantee rights, power or voice.",
+            "equal spiritual worth → untouchability violates truth + non-violence (ahimsa)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → conscience does not guarantee rights, power or voice.",
+      "source_references": [
+        "SESSION 4",
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AMBEDKAR'S CASTE DIAGNOSIS",
+      "structural_type": "mechanism-and-consequence-ladder",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AMBEDKAR'S CASTE DIAGNOSIS",
+          "role": "primary"
+        },
+        {
+          "text": "CASTES IN INDIA (1916)",
+          "role": "outcome"
+        },
+        {
+          "text": "ENDOGAMY CLOSES THE MARRIAGE CIRCLE CLOSED CIRCLE",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE REPRODUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUS HIERARCHY GRADED INEQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "EACH LEVEL HAS STAKE IN DISTINCTION BELOW",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE IS ANTI-SOCIAL AND WEAKENS PUBLIC SPIRIT.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "Castes in India (1916) → endogamy closes the marriage circle closed circle → caste",
+        "reproduction → status hierarchy graded inequality → each level has stake in distinction below",
+        "RESULT → caste is anti-social and weakens public spirit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "Castes in India (1916) → endogamy closes the marriage circle closed circle → caste",
+            "reproduction → status hierarchy graded inequality → each level has stake in distinction below"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT → caste is anti-social and weakens public spirit.",
+            "Castes in India (1916) → endogamy closes the marriage circle closed circle → caste"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "reproduction → status hierarchy graded inequality → each level has stake in distinction below",
+            "RESULT → caste is anti-social and weakens public spirit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → caste is anti-social and weakens public spirit.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ANNIHILATION RATHER THAN ADJUSTMENT",
+      "structural_type": "normative-foundation-replacement",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ANNIHILATION RATHER THAN ADJUSTMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ANNIHILATION OF CASTE (1936)",
+          "role": "outcome"
+        },
+        {
+          "text": "ISOLATED REFORM LEAVES SANCTION INTACT CASTE-SANCTIONING AUTHORITY + ENDOGAMY",
+          "role": "comparison"
+        },
+        {
+          "text": "REJECT IMPOSED CIVIC INFERIORITY, NOT INDIVIDUAL BELIEF AS SUCH.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Annihilation of Caste (1936) → isolated reform leaves sanction intact caste-sanctioning authority + endogamy +",
+        "EDUCATE → AGITATE → ORGANISE",
+        "CONTROL → reject imposed civic inferiority, not individual belief as such."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "Annihilation of Caste (1936) → isolated reform leaves sanction intact caste-sanctioning authority + endogamy + power must be",
+            "EDUCATE → AGITATE → ORGANISE"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTROL → reject imposed civic inferiority, not individual belief as such.",
+            "Annihilation of Caste (1936) → isolated reform leaves sanction intact caste-sanctioning authority + endogamy + power must be"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "EDUCATE → AGITATE → ORGANISE",
+            "CONTROL → reject imposed civic inferiority, not individual belief as such."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → reject imposed civic inferiority, not individual belief as such.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AMBEDKAR'S SOCIAL-DEMOCRATIC PROGRAMME",
+      "structural_type": "rights-to-fraternity-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "AMBEDKAR'S SOCIAL-DEMOCRATIC PROGRAMME",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS + REMEDIES",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTED ACTION REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTONOMOUS POLITICAL VOICE CONSTITUTIONAL MORALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CIVIC NORMS ABOVE INHERITED AUTHORITY LIBERTY + EQUALITY +",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL DEMOCRACY CONVERSION (1956)",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHISM AS NEW VEHICLE (NAVAYANA), ETHICAL RECONSTRUCTION RATHER THAN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "rights + remedies → protected action representation → autonomous political voice constitutional morality →",
+        "civic norms above inherited authority liberty + equality + fraternity → social democracy conversion",
+        "(1956) → Buddhism as new vehicle (Navayana), ethical reconstruction rather than mere ritual change."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "rights + remedies → protected action representation → autonomous political voice constitutional morality →",
+            "civic norms above inherited authority liberty + equality + fraternity → social democracy conversion"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "(1956) → Buddhism as new vehicle (Navayana), ethical reconstruction rather than mere ritual change.",
+            "rights + remedies → protected action representation → autonomous political voice constitutional morality →"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "civic norms above inherited authority liberty + equality + fraternity → social democracy conversion",
+            "(1956) → Buddhism as new vehicle (Navayana), ethical reconstruction rather than mere ritual change."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "rights + remedies → protected action representation → autonomous political voice constitutional morality → civic norms above inherited authority liberty + equality + fraternity → social democracy conversion (1956) → Buddhism as new vehicle (Navayana), ethical reconstruction rather than mere ritual change.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE GANDHI-AMBEDKAR MATRIX",
+      "structural_type": "parallel-seven-axis-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE GANDHI-AMBEDKAR MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "GANDHI UNTOUCHABILITY/LATER BARRIERS",
+          "role": "outcome"
+        },
+        {
+          "text": "AMBEDKAR CASTE ITSELF",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRUPTED CONSCIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ENDOGAMY, SANCTION, CLOSURE, POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "REFORMED SOCIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTONOMOUS OPPRESSED ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM AND NON-VIOLENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TARGET: Gandhi untouchability/later barriers",
+        "Ambedkar caste itself",
+        "ROOT: corrupted conscience",
+        "endogamy, sanction, closure, power",
+        "AGENT: reformed society"
+      ],
+      "matrix": [
+        [
+          "TARGET: Gandhi untouchability/later barriers",
+          "Ambedkar caste itself"
+        ],
+        [
+          "ROOT: corrupted conscience",
+          "endogamy, sanction, closure, power"
+        ],
+        [
+          "AGENT: reformed society",
+          "autonomous oppressed organisation"
+        ],
+        [
+          "METHOD: reform and non-violence",
+          "rights, representation, annihilation"
+        ],
+        [
+          "DEMOCRACY: ethical fellowship",
+          "constitutional/social democracy"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TARGET: Gandhi untouchability/later barriers",
+            "Ambedkar caste itself",
+            "ROOT: corrupted conscience",
+            "endogamy, sanction, closure, power"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AGENT: reformed society",
+            "autonomous oppressed organisation",
+            "METHOD: reform and non-violence",
+            "rights, representation, annihilation"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "DEMOCRACY: ethical fellowship",
+            "constitutional/social democracy",
+            "CONVERGENCE: anti-untouchability, worth, social reform",
+            "CONTROL: common ends do not erase unequal diagnosis or autonomous power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL: common ends do not erase unequal diagnosis or autonomous power.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "POONA PACT AND SECULAR DEMOCRACY",
+      "structural_type": "representation-conflict-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POONA PACT AND SECULAR DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNAL AWARD (1932)",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE ELECTORAL ARRANGEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "POONA PACT (1932)",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINT ELECTORATE + RESERVED SEATS + PRIMARY-ELECTION MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "FEARED LASTING SEPARATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FEARED DEPENDENT REPRESENTATIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO CAN CHOOSE A SUBORDINATED GROUP'S REPRESENTATIVES?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Communal Award (1932) → separate electoral arrangements",
+        "Poona Pact (1932) → joint electorate + reserved seats + primary-election mechanism",
+        "Gandhi: feared lasting separation",
+        "Ambedkar: feared dependent representatives",
+        "QUESTION → who can choose a subordinated group's representatives?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "Communal Award (1932) → separate electoral arrangements",
+            "Poona Pact (1932) → joint electorate + reserved seats + primary-election mechanism"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Gandhi: feared lasting separation",
+            "Ambedkar: feared dependent representatives"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "QUESTION → who can choose a subordinated group's representatives?",
+            "TRAP → interpret autonomy; do not narrate figures or harmony."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → interpret autonomy; do not narrate figures or harmony.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SAFEGUARDS, AFFIRMATIVE ACTION AND LEGAL-STATUS DISCIPLINE",
+      "structural_type": "justification-and-status-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SAFEGUARDS, AFFIRMATIVE ACTION AND LEGAL-STATUS DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 17",
+          "role": "institution"
+        },
+        {
+          "text": "CONSTITUTIONAL RULE ABOLISHING UNTOUCHABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "1989 ACT, IN FORCE 1990",
+          "role": "institution"
+        },
+        {
+          "text": "ENACTED PROTECTIVE PENAL STATUTE GROUNDS",
+          "role": "primary"
+        },
+        {
+          "text": "INDRA SAWHNEY (1992)",
+          "role": "outcome"
+        },
+        {
+          "text": "103RD AMENDMENT (2019)",
+          "role": "comparison"
+        },
+        {
+          "text": "ENABLING AMENDMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Article 17 → constitutional rule abolishing untouchability",
+        "1989 Act, in force 1990 → enacted protective penal statute grounds → compensatory",
+        "Mandal = report",
+        "Indra Sawhney (1992) = judgment",
+        "103rd Amendment (2019) = enabling amendment"
+      ],
+      "matrix": [
+        [
+          "1989 Act, in force 1990 → enacted protective penal statute grounds → compensatory",
+          "distributive",
+          "representational",
+          "anti-domination"
+        ],
+        [
+          "Mandal = report",
+          "Indra Sawhney (1992) = judgment",
+          "",
+          ""
+        ],
+        [
+          "103rd Amendment (2019) = enabling amendment",
+          "Janhit Abhiyan (2022) = judgment",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "Article 17 → constitutional rule abolishing untouchability",
+            "1989 Act, in force 1990 → enacted protective penal statute grounds → compensatory"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Mandal = report",
+            "Indra Sawhney (1992) = judgment"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "103rd Amendment (2019) = enabling amendment",
+            "Janhit Abhiyan (2022) = judgment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "103rd Amendment (2019) = enabling amendment | Janhit Abhiyan (2022) = judgment.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SPINE AND QUALIFIED CONCLUSION",
+      "structural_type": "directive-to-verdict-flow",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SPINE AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE EXACT CASTE MECHANISM OR THINKER-AXIS",
+          "role": "mechanism"
+        },
+        {
+          "text": "VARNA/JATI/CASTE; REFORM/ANNIHILATION; LAW/SOCIAL CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NAMED ANCHOR",
+          "role": "evidence"
+        },
+        {
+          "text": "RESIDUAL LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "RUN COMMON AXES, NEVER TWO BIOGRAPHIES",
+          "role": "outcome"
+        },
+        {
+          "text": "AMBEDKARITE STRUCTURE AND RIGHTS; MORAL TRANSFORMATION SERVES IT",
+          "role": "comparison"
+        },
+        {
+          "text": "PYQ ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → name the exact caste mechanism or thinker-axis",
+        "DISTINGUISH → varna/jati/caste; reform/annihilation; law/social change",
+        "ARGUE → named anchor → analysis → objection/reply → residual limit",
+        "COMPARE → run common axes, never two biographies",
+        "CONCLUDE → Ambedkarite structure and rights; moral transformation serves it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE → name the exact caste mechanism or thinker-axis",
+            "DISTINGUISH → varna/jati/caste; reform/annihilation; law/social change"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARGUE → named anchor → analysis → objection/reply → residual limit",
+            "COMPARE → run common axes, never two biographies"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CONCLUDE → Ambedkarite structure and rights; moral transformation serves it",
+            "PYQ ROUTES → factors, Gandhi, Ambedkar, annihilation, body politic, debate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PYQ ROUTES → factors, Gandhi, Ambedkar, annihilation, body politic, debate.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — MORAL REFORM VERSUS STRUCTURAL RECONSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE RESIDUAL DISPUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — CASTE AS STATUS HIERARCHY VERSUS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — CONSTITUTIONAL MORALITY VERSUS SOCIAL FRATERNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — AMBEDKAR AND MARX",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERACTING, NOT REDUCIBLE, STRUCTURES OF DOMINATION",
+          "role": "caution"
+        },
+        {
+          "text": "CORE PREREQUISITE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Moral Reform versus Structural Reconstruction: the Residual Dispute",
+            "ADVANCED SESSION 2 — Caste as Status Hierarchy versus Labour Order",
+            "ADVANCED SESSION 3 — Constitutional Morality versus Social Fraternity",
+            "ADVANCED SESSION 4 — Ambedkar and Marx: Interacting, Not Reducible, Structures of Domination"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Core prerequisite: Caste discrimination, Gandhi and Ambedkar as named syllabus requirement",
+            "varṇa/jāti/untouchability, graded inequality, annihilation of caste, constitutional morality, Poona Pact, social democracy, conversion, caste in body-politic",
+            "the entire 2018–2025 ownership cycle.",
+            "Strongest additional objection / reply:"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "India-centric safe use in 15/20 markers: Use representation, education, land/labour hierarchy, inter-caste marriage, village power and constitutional democracy",
+            "Keep Gandhi and Ambedkar as the controlling frame.",
+            "Risks / what not to over-study: Do not let later caste theory displace Gandhi and Ambedkar.",
+            "Do not turn the section into movement chronology or policy statistics."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

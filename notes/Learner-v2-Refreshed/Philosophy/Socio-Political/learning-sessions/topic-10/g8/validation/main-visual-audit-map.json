@@ -1,0 +1,1993 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\topic-10_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 9,
+      "heading": "Caste Discrimination: Gandhi and Ambedkar - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Syllabus (verbatim):** Caste Discrimination : Gandhi and Ambedkar.  **Generation:** g8, 2026-09-03 · **Approval:** false pending explicit topic approval  **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 17,
+      "markdown_body_line_end": 17,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Caste Discrimination: Gandhi and Ambedkar concept map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-10\\g8\\assets\\philosophy-paper-ii-socio-political-philosophy-10\\caste-gandhi-ambedkar-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 645.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 337.688
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 33,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Content | Ownership here | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Content",
+          "Ownership here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 583.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 64,
+      "heading": "VISUAL - Four terms, four scopes",
+      "preview": "TEXTUAL FOURFOLD ORDER (VARNA) -> normative classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 78,
+      "heading": "VISUAL - How caste reproduces itself",
+      "preview": "endogamy -> inherited membership -> hereditary status",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 604.091
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 84,
+      "markdown_body_line_end": 84,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Caste persists not because work is divided, but because persons are ranked and closed into inherited social locations across generations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 584.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 518.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 119,
+      "heading": "CANONICAL OWNER COVERAGE",
+      "preview": "**Syllabus (verbatim):** Caste Discrimination : Gandhi and Ambedkar. **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (for exam use) · ❓ contested interpretation **Placement:** The clause tests rival diagnoses of caste and r",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 141,
+      "heading": "0. ONE-SCREEN MAP",
+      "preview": "CASTE DISCRIMINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 692.224
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 511.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 154,
+      "heading": "1.1 Textual order (varṇa), lived birth-group (jāti), caste and untouchability",
+      "preview": "Term | Basic meaning | UPSC caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Basic meaning",
+          "UPSC caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 468.724
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 314.522
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 249,
+      "heading": "CLOSING RECALL FLOW - Caste Discrimination: The Conceptual Grammar and Its Reproduction",
+      "preview": "Caste Discrimination: The Conceptual Grammar and Its Reproduction",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 557.191
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 477.373
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 273,
+      "heading": "VISUAL - Political democracy versus social hierarchy",
+      "preview": "universal franchise -> equal vote -> constituency and voice",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 306.173
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 205.173
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 279,
+      "markdown_body_line_end": 289,
+      "heading": "VISUAL - Three interacting, non-identical structures",
+      "preview": "CASTE: rank, endogamy, stigma",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 295,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "One person, one vote can open representation; it cannot by itself erase the unequal social value attached to persons by caste.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 687.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 620.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 419,
+      "heading": "SOURCES",
+      "preview": "⚠️ **Provenance note for §5A (added in this pass):** the affirmative-action module is a philosophical reconstruction adapted into this Philosophy owner. Constitutional article numbers, case law and policy detail belong to the `Polity` and `",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 687.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 423,
+      "markdown_body_line_end": 430,
+      "heading": "5.3A Status, redistribution, recognition and intersection",
+      "preview": "Dimension | Caste mechanism | Required response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Caste mechanism",
+          "Required response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 665.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 446.622
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW - Caste, Democracy and the Body Politic",
+      "preview": "Caste, Democracy and the Body Politic",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 376.522
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 296.704
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 476,
+      "heading": "VISUAL - Gandhi: a staged position, not a slogan",
+      "preview": "EARLIER -> idealised hereditary duty, no asserted superiority",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 490,
+      "heading": "VISUAL - The varna liability",
+      "preview": "idealised division of duty -> inherited allocation",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 604.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 496,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gandhi cannot be reduced either to a defender of every caste form or to an opponent of every form of varna throughout his life.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 584.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 518.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 553,
+      "markdown_body_line_end": 568,
+      "heading": "CLOSING RECALL FLOW - Gandhi I: Periodising Hereditary Duty, Caste and Untouchability",
+      "preview": "Gandhi I: Periodising Hereditary Duty, Caste and Untouchability",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 468.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 380.123
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 588,
+      "heading": "VISUAL - Gandhi's moral-reform argument",
+      "preview": "equal spiritual worth -> untouchability is moral/religious wrong",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 602,
+      "heading": "VISUAL - What Gandhian reform can and cannot do",
+      "preview": "STRENGTH: mobilises conscience; locates privileged responsibility",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 624.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 608,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gandhi makes the oppressor answerable to conscience: social equality cannot be secured by a law whose ethical meaning no one lives.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 604.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 684,
+      "heading": "CLOSING RECALL FLOW - Gandhi II: Moral-Reform Diagnosis, Method and Achievement",
+      "preview": "Gandhi II: Moral-Reform Diagnosis, Method and Achievement",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 475.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 395.473
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 704,
+      "heading": "VISUAL - A critical answer's three moves",
+      "preview": "paternalism -> autonomous oppressed leadership -> responsibility still matters",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 710,
+      "markdown_body_line_end": 718,
+      "heading": "VISUAL - The non-substitution rule",
+      "preview": "moral transformation + enforceable equality + autonomous voice",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 624.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 724,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gandhi's moral reform identifies privileged responsibility, but its paternalism and structural insufficiency remain until autonomous voice, rights and power let oppressed people act as equal political agents.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 604.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 782,
+      "heading": "7. CRITICISMS AND REPLIES",
+      "preview": "Criticism | Reply | Residual issue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Criticism",
+          "Reply",
+          "Residual issue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 652.191
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 433.19
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 811,
+      "heading": "CLOSING RECALL FLOW - Gandhi III: Evaluation, Paternalism and the Structural Reply",
+      "preview": "Gandhi III: Evaluation, Paternalism and the Structural Reply",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 259.09
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 170.921
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 831,
+      "heading": "VISUAL - Ambedkar's reproduction mechanism",
+      "preview": "closed marriage circle -> endogamy -> inherited caste membership",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 624.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 563.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 843,
+      "heading": "VISUAL - Why graded inequality matters",
+      "preview": "group A: privileged over B; group B: subordinated to A, superior to C",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 521.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 480.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 849,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Caste is a closed, ranked division of labourers; that is why removing one abusive practice cannot by itself produce fraternity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 461.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 395.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 909,
+      "heading": "10. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 9 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 391.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 324.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 921,
+      "heading": "10. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 324.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 84.922
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 950,
+      "heading": "CLOSING RECALL FLOW - Ambedkar I: Endogamy, Graded Inequality and the Caste Diagnosis",
+      "preview": "Ambedkar I: Endogamy, Graded Inequality and the Caste Diagnosis",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 642.191
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 554.023
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 962,
+      "markdown_body_line_end": 970,
+      "heading": "VISUAL - The annihilation argument",
+      "preview": "sanctified rank -> isolated reform leaves foundation intact",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 382.823
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 321.823
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 984,
+      "heading": "VISUAL - Remedy matched to mechanism",
+      "preview": "endogamy -> inter-caste marriage",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 990,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Annihilation means dismantling the authority and social mechanisms that reproduce hereditary rank, not merely correcting its harshest outward practice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 707.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 640.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW - Ambedkar II: Annihilation Rather Than Reform of Abuse",
+      "preview": "Ambedkar II: Annihilation Rather Than Reform of Abuse",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 670.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 590.273
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1081,
+      "heading": "VISUAL - From political to social democracy",
+      "preview": "equal vote -> rights and remedies -> representation and power",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 414.273
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 353.273
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1093,
+      "heading": "VISUAL - Ambedkar beyond reservation",
+      "preview": "annihilation | endogamy | rights | representation | fraternity",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 312.073
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 271.073
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1099,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A constitution can give equal votes; social democracy asks whether persons can actually meet as equals, and fraternity supplies the social relation that law alone cannot create.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 251.873
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 185.205
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1169,
+      "heading": "3.9 Ambedkar and Marx",
+      "preview": "Axis | Marxian emphasis | Ambedkarite emphasis",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Marxian emphasis",
+          "Ambedkarite emphasis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1186,
+      "markdown_body_line_end": 1200,
+      "heading": "CLOSING RECALL FLOW - Ambedkar III: Constitutional Morality, Social Democracy and Conversion",
+      "preview": "Ambedkar III: Constitutional Morality, Social Democracy and Conversion",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 549.19
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 469.371
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1220,
+      "heading": "VISUAL - The comparison grid",
+      "preview": "GANDHI: primary evil untouchability | reforming conscience | non-violent reform",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1226,
+      "markdown_body_line_end": 1234,
+      "heading": "VISUAL - Poona Pact: the philosophical question",
+      "preview": "separate electoral arrangements -> Gandhi's unity concern",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 624.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1240,
+      "markdown_body_line_end": 1240,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Gandhi asks how a tradition may reform its conscience; Ambedkar asks how persons subordinated by that tradition acquire equal power to reject its hierarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 604.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1277,
+      "markdown_body_line_end": 1286,
+      "heading": "4.1 Structured comparison",
+      "preview": "Axis | Gandhi | Ambedkar",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Axis",
+          "Gandhi",
+          "Ambedkar"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 749.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 521.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1363,
+      "markdown_body_line_end": 1363,
+      "heading": "11.3 20-mark method (~300 words · 8 moves · ~25 minutes)",
+      "preview": "⚠️ On any 2025-pattern comparison stem, use the §4.1 grid. A two-biography answer will underperform regardless of content.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 121.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 77.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1373,
+      "heading": "4.6A Convergence without false equivalence",
+      "preview": "Genuine convergence | Irreducible disagreement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Genuine convergence",
+          "Irreducible disagreement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 634.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1407,
+      "heading": "CLOSING RECALL FLOW - The Gandhi-Ambedkar Debate: Poona Pact, Religion and Secular Democracy",
+      "preview": "The Gandhi-Ambedkar Debate: Poona Pact, Religion and Secular Democracy",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 451.99
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 363.821
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1419,
+      "markdown_body_line_end": 1425,
+      "heading": "VISUAL - Four stages that must never be collapsed",
+      "preview": "enactment -> notification -> enforcement -> social transformation",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1441,
+      "heading": "VISUAL - Affirmative-action argument map",
+      "preview": "compensatory -> rectify transmitted group harm",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 705.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 624.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1447,
+      "markdown_body_line_end": 1447,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Safeguards can alter power and access, but annihilation concerns the valuation of persons: enactment, notification, enforcement and social change are distinct stages.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 604.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1483,
+      "markdown_body_line_end": 1483,
+      "heading": "5A. AFFIRMATIVE ACTION: JUSTIFICATIONS, OBJECTIONS AND INDIAN LEGAL STATUS",
+      "preview": "⚠️ **Why this section exists.** §5.2 records that constitutional provisions for representation exist. It does not supply the **arguments** for them, and reservation stems are decided on arguments. This section separates the competing justif",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1489,
+      "markdown_body_line_end": 1494,
+      "heading": "5A.1 Four distinct justifications - do not merge them",
+      "preview": "Justification | Core claim | Beneficiary is | Measure of success | Terminates when | Vulnerable to",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 4,
+        "headers": [
+          "Justification",
+          "Core claim",
+          "Beneficiary is",
+          "Measure of success",
+          "Terminates when",
+          "Vulnerable to"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 616.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 132.322
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1549,
+      "markdown_body_line_end": 1558,
+      "heading": "5A.5 Ambedkar beyond reservation",
+      "preview": "Element | Ambedkar's claim | Why it exceeds reservation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Element",
+          "Ambedkar's claim",
+          "Why it exceeds reservation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 287.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1568,
+      "markdown_body_line_end": 1576,
+      "heading": "11.0 Directive decoder - the verb fixes the structure",
+      "preview": "Directive in the stem | What is actually scored | Compulsory structural move | Failure mode",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Directive in the stem",
+          "What is actually scored",
+          "Compulsory structural move",
+          "Failure mode"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 504.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1587,
+      "markdown_body_line_end": 1587,
+      "heading": "11.1 10-mark method (~150 words · 4 moves · ~12 minutes)",
+      "preview": "❌ At 10 marks do not attempt both thinkers plus the reservation debate. One doctrine or one contrast, fully worked.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 342.59
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 297.922
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1600,
+      "markdown_body_line_end": 1615,
+      "heading": "CLOSING RECALL FLOW - Constitutional Safeguards, Affirmative Action and the Integrated Verdict",
+      "preview": "Constitutional Safeguards, Affirmative Action and the Integrated Verdict",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 658.873
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3235,
+      "markdown_body_line_end": 3237,
+      "heading": "ADVANCED SESSION 1 - Moral Reform versus Structural Reconstruction: the Residual Dispute",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 137.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 69.09
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3249,
+      "markdown_body_line_end": 3251,
+      "heading": "ADVANCED SESSION 2 - Caste as Status Hierarchy versus Labour Order",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 534.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3257,
+      "markdown_body_line_end": 3259,
+      "heading": "ADVANCED SESSION 3 - Constitutional Morality versus Social Fraternity",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 438.39
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 370.188
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3265,
+      "markdown_body_line_end": 3267,
+      "heading": "ADVANCED SESSION 4 - Ambedkar and Marx: Interacting, Not Reducible, Structures of Domination",
+      "preview": "Optional debate | Contending positions | Why it stays optional",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Optional debate",
+          "Contending positions",
+          "Why it stays optional"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 309.188
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 229.787
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3480,
+      "markdown_body_line_end": 3487,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The central question and conceptual grammar",
+      "preview": "CENTRAL QUESTION -> how does birth-based hierarchy reproduce itself,",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3491,
+      "markdown_body_line_end": 3497,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Reproduction: endogamy to graded inequality",
+      "preview": "endogamy -> inherited membership -> hereditary status",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 669.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 607.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3501,
+      "markdown_body_line_end": 3508,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Caste in democracy and the body politic",
+      "preview": "universal franchise -> political voice, representation, bargaining",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 512.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3512,
+      "markdown_body_line_end": 3518,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Gandhi's staged position",
+      "preview": "EARLIER -> idealised hereditary duty-order (varna), no asserted rank",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 490.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 428.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3522,
+      "markdown_body_line_end": 3528,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Gandhian moral reform: argument and method",
+      "preview": "equal spiritual worth -> untouchability violates truth + non-violence (ahimsa)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 406.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 344.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3532,
+      "markdown_body_line_end": 3537,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Ambedkar's caste diagnosis",
+      "preview": "Castes in India (1916) -> endogamy closes the marriage circle",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 322.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 271.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3541,
+      "markdown_body_line_end": 3546,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Annihilation rather than adjustment",
+      "preview": "Annihilation of Caste (1936) -> isolated reform leaves sanction intact",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3550,
+      "markdown_body_line_end": 3557,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Ambedkar's social-democratic programme",
+      "preview": "rights + remedies -> protected action",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3561,
+      "markdown_body_line_end": 3569,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: The Gandhi-Ambedkar matrix",
+      "preview": "TARGET: Gandhi untouchability/later barriers | Ambedkar caste itself",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3573,
+      "markdown_body_line_end": 3579,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Poona Pact and secular democracy",
+      "preview": "Communal Award (1932) -> separate electoral arrangements",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3583,
+      "markdown_body_line_end": 3589,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Safeguards, affirmative action and legal-status discipline",
+      "preview": "Article 17 -> constitutional rule abolishing untouchability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3593,
+      "markdown_body_line_end": 3600,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ answer spine and qualified conclusion",
+      "preview": "DEFINE -> name the exact caste mechanism or thinker-axis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 274.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    }
+  ]
+}

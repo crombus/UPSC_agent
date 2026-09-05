@@ -1,0 +1,943 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-02",
+  "subject": "Philosophy",
+  "title": "SOVEREIGNTY",
+  "short_route": "THE CENTRAL QUESTION AND → BODIN: ABSOLUTE, PERPETUAL, UNDIVIDED → AUSTIN'S COMMAND THEORY: THE → THE EXTERNAL CRITIQUE OF → KELSEN AND HART: THE → LASKI'S PLURALISM: THE REJECTION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-02\\g3\\topic-02_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-socio-political-philosophy-02-ascii-g3-2026-08-30.json",
+  "ascii_spec_sha256": "aeeb209f26801874665c252621f3439f027059ad2e30e4b5c169da96022780e2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL QUESTION AND THE ANALYTICAL AXES OF SOVEREIGNTY",
+      "structural_type": "root-question-and-conceptual-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SUPREME, FINAL, AUTHORITATIVE POWER",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNAL VS EXTERNAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "LEGAL VS POLITICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "DE JURE VS DE FACTO",
+          "role": "evidence"
+        },
+        {
+          "text": "TITULAR VS ACTUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT FORCE, NOT GOVERNMENT, NOT THE STATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → where is final authority LOCATED, how is it STRUCTURED, how far is",
+        "ROOT CONCEPT: supreme, final and authoritative power within a political community",
+        "NOT mere force (a bandit coerces)",
+        "NOT the government of the day",
+        "NOT the state"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE ROOT CONCEPT",
+          "role": "evidence",
+          "items": [
+            "Sovereignty is the supreme, final and authoritative power within a political community.",
+            "It is not mere force: a bandit coerces without holding final authority.",
+            "It is neither the government of the day nor the state taken as a whole."
+          ]
+        },
+        {
+          "heading": "THE FOUR ANALYTICAL AXES",
+          "role": "mechanism",
+          "items": [
+            "Internal supremacy within the community against external independence among states.",
+            "Legal sovereignty as the competent law-maker against political sovereignty as the real power behind it.",
+            "De jure lawful title against de facto obedience; titular dignity against actual decision."
+          ]
+        },
+        {
+          "heading": "THE EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Distinguish the axes first, locate the thinker second, adjudicate last.",
+            "Austin and Bodin are monists; Laski is the pluralist; Kautilya is systemic and duty-bound.",
+            "Every verdict on this clause is graded, never a simple victory for one thinker."
+          ]
+        }
+      ],
+      "mechanism_strip": "A political community needs a point of final decision, so the concept isolates that point and then splits it along four axes rather than assuming one undivided centre of power.",
+      "answer_line": "Sovereignty names the claim to supreme and final authority within a political community, and a controlled answer opens by separating internal from external, legal from political, de jure from de facto, and titular from actual before any thinker is named.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BODIN: ABSOLUTE, PERPETUAL, UNDIVIDED - AND STILL BOUNDED",
+      "structural_type": "doctrine-derivation-with-limits",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ABSOLUTE AND PERPETUAL POWER",
+          "role": "primary"
+        },
+        {
+          "text": "MAKE AND UNMAKE LAW",
+          "role": "mechanism"
+        },
+        {
+          "text": "UNDIVIDED SOVEREIGN TITLE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVINE, NATURAL, FUNDAMENTAL LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGIBUS SOLUTUS ONLY AS TO POSITIVE LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT HOBBES BEFORE HOBBES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONDITION: confessional civil war; churches, estates and feudal lords each claim finality",
+        "DEFINITION → sovereignty is the ABSOLUTE and PERPETUAL power of a commonwealth",
+        "ABSOLUTE PERPETUAL UNDIVIDED no human superior attached to the OFFICE, two final wills would inside",
+        "PRE-EMINENT MARK → power to MAKE and UNMAKE law for all subjects in general, without",
+        "LIMITS THAT SURVIVE → divine law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CONDITION: confessional civil war; churches, estates and feudal lords each claim finality",
+            "DEFINITION → sovereignty is the ABSOLUTE and PERPETUAL power of a commonwealth",
+            "ABSOLUTE PERPETUAL UNDIVIDED no human superior attached to the OFFICE, two final wills would inside the realm not to a magistrate revive civil war",
+            "PRE-EMINENT MARK → power to MAKE and UNMAKE law for all subjects in general, without the consent of any superior"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMITS THAT SURVIVE → divine law",
+            "natural law",
+            "fundamental laws (leges imperii)",
+            "LEGIBUS SOLUTUS → released from ORDINARY POSITIVE LAW only; not from higher law"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP → Bodin is not Hobbes before Hobbes; supreme is not morally empty",
+            "VERDICT → first systematic theory and indispensable vocabulary; institutional guarantees against abuse remain weak."
+          ]
+        }
+      ],
+      "mechanism_strip": "Confessional civil war makes rival final claims intolerable, so Bodin concentrates the power to make and unmake law in one perpetual office that no subject may lawfully rival.",
+      "answer_line": "Bodin gives the modern state its first systematic vocabulary of sovereignty — absolute, perpetual and undivided — while keeping the sovereign bound by divine law, natural law and the fundamental laws of the realm, so his absolutism is juristic rather than lawless.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "AUSTIN'S COMMAND THEORY: THE MECHANISM OF LEGAL SOVEREIGNTY",
+      "structural_type": "causal-mechanism-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DETERMINATE HUMAN SUPERIOR",
+          "role": "primary"
+        },
+        {
+          "text": "HABITUAL OBEDIENCE OF THE BULK",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMAND BACKED BY SANCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ABSOLUTE, INDIVISIBLE, ILLIMITABLE, INALIENABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVINCE OF JURISPRUDENCE DETERMINED 1832",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT THE STATE ITSELF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROJECT → analytical jurisprudence: define law and sovereignty with juristic precision",
+        "DETERMINATE HUMAN SUPERIOR (an identifiable person or body, never an abstraction) v receives",
+        "HABITUAL OBEDIENCE from the BULK of a given society v and renders",
+        "OBEDIENCE TO NO OTHER SUPERIOR v therefore",
+        "COMMAND -→ SANCTION -→ DUTY -→ POSITIVE LAW"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PROJECT → analytical jurisprudence: define law and sovereignty with juristic precision",
+            "DETERMINATE HUMAN SUPERIOR (an identifiable person or body, never an abstraction) v receives",
+            "HABITUAL OBEDIENCE from the BULK of a given society v and renders"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OBEDIENCE TO NO OTHER SUPERIOR v therefore",
+            "COMMAND -→ SANCTION -→ DUTY -→ POSITIVE LAW",
+            "DETERMINATE ABSOLUTE INDIVISIBLE ILLIMITABLE INALIENABLE identifiable no legal finality no superior transfer ends limit unpartitionable sovereignty"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SOURCE → The Province of Jurisprudence Determined, 1832",
+            "TRAP → Austin's sovereign is NOT the state; it is a determinate superior."
+          ]
+        }
+      ],
+      "mechanism_strip": "Because law is treated as the command of a determinate superior, the sovereign must be identifiable, must face no legal superior, and must not be partitioned without ceasing to be sovereign.",
+      "answer_line": "Austin converts sovereignty into a question of legal form: a determinate human superior, habitual obedience from the bulk of society, and law as command backed by sanction, which is unmatched for juristic clarity and immediately vulnerable on political reality.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE EXTERNAL CRITIQUE OF AUSTIN AND THE DEMOCRACY VERDICT",
+      "structural_type": "problem-response-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FEDERALISM: NO SINGLE SUPERIOR",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL LAW OVER-NARROWED",
+          "role": "mechanism"
+        },
+        {
+          "text": "CUSTOM PRECEDES COMMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "MAINE: RANJIT SINGH",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOCRACY BY DEGREE-JUDGMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER A FLAT YES OR NO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MONIST REPLY / RESIDUAL federalism",
+        "no single determinate",
+        "finality relocated to the",
+        "superior in a federation",
+        "constituent power; that"
+      ],
+      "matrix": [
+        [
+          "superior in a federation",
+          "constituent power; that",
+          "",
+          ""
+        ],
+        [
+          "command",
+          "widely judged artificial popular",
+          "the people rule but are",
+          "legal indeterminacy admitted;"
+        ],
+        [
+          "sovereignty",
+          "legally indeterminate",
+          "political finality conceded",
+          ""
+        ],
+        [
+          "Maine: Ranjit",
+          "despotic power coexisted",
+          "authority is often personal",
+          ""
+        ],
+        [
+          "Singh",
+          "with untouched custom",
+          "and socially embedded",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "MONIST REPLY / RESIDUAL federalism",
+            "no single determinate",
+            "finality relocated to the",
+            "superior in a federation",
+            "constituent power; that"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "but law is over-narrowed custom",
+            "obedience can PRECEDE",
+            "tacit adoption by courts",
+            "widely judged artificial popular",
+            "the people rule but are"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "despotic power coexisted",
+            "authority is often personal",
+            "with untouched custom",
+            "and socially embedded",
+            "DEMOCRACY → narrow legal sense: compatible in form"
+          ]
+        }
+      ],
+      "mechanism_strip": "Each objection isolates a legal fact the command model cannot describe without strain, and the accumulated strain is what forces the degree-judgment on democracy.",
+      "answer_line": "Austin's sovereign survives as an account of legal finality and fails as an account of democratic political reality, so compatibility with democracy is partial in the narrow legal sense and weak in the deeper sense of derivative, divided and rights-bound authority.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "KELSEN AND HART: THE INTERNAL REPAIR OF SUPREME LEGAL AUTHORITY",
+      "structural_type": "parallel-reconstruction-hierarchies",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "HIERARCHY OF NORMS",
+          "role": "primary"
+        },
+        {
+          "text": "GRUNDNORM PRESUPPOSED",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRIMARY AND SECONDARY RULES",
+          "role": "evidence"
+        },
+        {
+          "text": "RULE OF RECOGNITION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNAL POINT OF VIEW",
+          "role": "comparison"
+        },
+        {
+          "text": "KELSEN 1945, HART 1961",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSIS → the command theory fails on SUCCESSION, PERSISTENCE and",
+        "POWER-CONFERRING RULES",
+        "KELSEN (General Theory, 1945) HART (The Concept of Law, 1961)",
+        "GRUNDNORM (presupposed) RULE OF RECOGNITION",
+        "^ ^ official convergent practice validity descends"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DIAGNOSIS → the command theory fails on SUCCESSION, PERSISTENCE and",
+            "POWER-CONFERRING RULES",
+            "KELSEN (General Theory, 1945) HART (The Concept of Law, 1961)",
+            "GRUNDNORM (presupposed) RULE OF RECOGNITION",
+            "^ ^ official convergent practice validity descends"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "+ INTERNAL POINT OF VIEW",
+            "CONSTITUTION SECONDARY RULES",
+            "^ recognition",
+            "^ cure uncertainty",
+            "PRIMARY RULES (duties)"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ORDERS AND JUDGMENTS",
+            "TERMINOLOGY → having an obligation (internal) vs being obliged (gunman coercion)",
+            "PLACEMENT → both keep SUPREME LEGAL AUTHORITY and discard the PERSONAL sovereign",
+            "TRAP → never merge Kelsen, Hart and Laski; never date Kelsen to 1961."
+          ]
+        }
+      ],
+      "mechanism_strip": "Validity is transferred from a person to a structure, so a legal system can outlive any ruler and can confer powers as well as impose duties.",
+      "answer_line": "Kelsen and Hart preserve the idea of supreme legal authority while dissolving the personal sovereign: validity flows from a presupposed basic norm for Kelsen, and from an officially practised rule of recognition for Hart, which answers exactly the defects that sank the command theory.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LASKI'S PLURALISM: THE REJECTION AND ITS REPLACEMENT",
+      "structural_type": "branch-tree-with-replacement",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FALSE, DANGEROUS, UNREAL",
+          "role": "primary"
+        },
+        {
+          "text": "ONE ASSOCIATION AMONG MANY",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIVIDED AND SHARED AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPETE FOR ALLEGIANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSOCIATIONAL AUTONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "PLURALIST, NOT ANARCHIST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TARGET → the monistic doctrine of absolute, indivisible, unlimited state sovereignty",
+        "PHILOSOPHICALLY FALSE POLITICALLY DANGEROUS SOCIOLOGICALLY UNREAL loyalty is plural",
+        "no supplies a doctrine of churches, unions, single will exhausts unquestioned power universities and local",
+        "REPLACEMENT ARCHITECTURE",
+        "the state is ONE ASSOCIATION AMONG MANY, though uniquely important"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "TARGET → the monistic doctrine of absolute, indivisible, unlimited state sovereignty",
+            "PHILOSOPHICALLY FALSE POLITICALLY DANGEROUS SOCIOLOGICALLY UNREAL loyalty is plural",
+            "no supplies a doctrine of churches, unions, single will exhausts unquestioned power universities and local obligation against liberty"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPLACEMENT ARCHITECTURE",
+            "the state is ONE ASSOCIATION AMONG MANY, though uniquely important",
+            "authority is DIVIDED AND SHARED with functional associations"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "the state must COMPETE FOR ALLEGIANCE by what it does",
+            "TRAP → pluralist, NOT anarchist: he limits the state, he does not abolish it",
+            "VERDICT → decisive corrective on liberty; incomplete on coordination, which is why examiners ask whether it is a satisfactory position."
+          ]
+        }
+      ],
+      "mechanism_strip": "If loyalty is genuinely plural, then no single will can claim total obedience, and authority must be justified association by association rather than assumed for the state as a whole.",
+      "answer_line": "Laski rejects absolute sovereignty because it is false to a plural social world, dangerous as a licence for unquestioned power and unreal as description, replacing it with authority that is divided, shared and continuously earned through competition for allegiance.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "KAUTILYA INSIDE THE STATE: SEVEN LIMBS AND THE CALIBRATED ROD",
+      "structural_type": "organic-classification-and-calibration",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SAPTĀṄGA: SEVEN LIMBS",
+          "role": "primary"
+        },
+        {
+          "text": "SVĀMĪ HEADS, DOES NOT OWN",
+          "role": "mechanism"
+        },
+        {
+          "text": "KOŚA, DAṆḌA, JANAPADA",
+          "role": "evidence"
+        },
+        {
+          "text": "DAṆḌANĪTI IS CALIBRATED",
+          "role": "outcome"
+        },
+        {
+          "text": "MĀTSYA-NYĀYA IF WITHHELD",
+          "role": "comparison"
+        },
+        {
+          "text": "DHARMA-BOUND, NOT ILLIMITABLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLAIM → sovereignty is the CAPACITY of a state organism, not one man's bare will",
+        "SAPTĀṄGA (seven limbs) svāmī ruler → headship and direction amātya ministers → counsel, administration, execution",
+        "the productive social base durga fortified place → security and protection kośa treasury → the",
+        "rule daṇḍa coercive force → enforcement, punishment, defence mitra ally → external support in the",
+        "DAṆḌANĪTI, THE CALIBRATION DIAL too little <----------------- proper -----------------→ too much"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CLAIM → sovereignty is the CAPACITY of a state organism, not one man's bare will",
+            "SAPTĀṄGA (seven limbs) svāmī ruler → headship and direction amātya ministers → counsel, administration, execution janapada territory/people →",
+            "the productive social base durga fortified place → security and protection kośa treasury → the material basis of"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "rule daṇḍa coercive force → enforcement, punishment, defence mitra ally → external support in the interstate order",
+            "DAṆḌANĪTI, THE CALIBRATION DIAL too little <----------------- proper -----------------→ too much",
+            "MĀTSYA-NYĀYA order + welfare TYRANNY the strong devour the weak (yogakṣema) revolt, ruined janapada, empty kośa"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP → the svāmī is DHARMA-BOUND; he is not Austin's illimitable superior."
+          ]
+        }
+      ],
+      "mechanism_strip": "Because every limb depends on the others, headship works only through counsel, revenue, defence and enforcement, so authority is exercised through an institutional system rather than by bare command.",
+      "answer_line": "Kautilyan sovereignty is the capacity of a seven-limbed state organism headed by a duty-bound ruler and sustained by calibrated coercion, which makes it systemic and welfare-oriented rather than a personal, illimitable will in the Austinian sense.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "KAUTILYA OUTSIDE THE STATE: CIRCLE, SIX-FOLD POLICY AND RELEVANCE",
+      "structural_type": "spatial-strategy-and-application",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MAṆḌALA: THE CIRCLE OF STATES",
+          "role": "primary"
+        },
+        {
+          "text": "NEIGHBOUR IS RIVAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "ṢĀḌGUṆYA: SIX-FOLD POLICY",
+          "role": "evidence"
+        },
+        {
+          "text": "YOGAKṢEMA: SECURITY AND WELFARE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO PERMANENT FRIEND OR ENEMY",
+          "role": "comparison"
+        },
+        {
+          "text": "APPROPRIATE THEMES, NOT MONARCHY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SPATIAL LAYER → the MAṆḌALA: authority is measured against neighbours",
+        "[ neighbour's neighbour ] = natural ALLY (shares a rival)",
+        "[ immediate neighbour ] = natural RIVAL (shares a border)",
+        "[ the aspiring ruler ] = vijigīṣu",
+        "MAXIM → no permanent friend and no permanent enemy, only interests"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SPATIAL LAYER → the MAṆḌALA: authority is measured against neighbours",
+            "[ neighbour's neighbour ] = natural ALLY (shares a rival)",
+            "[ immediate neighbour ] = natural RIVAL (shares a border)",
+            "[ the aspiring ruler ] = vijigīṣu",
+            "MAXIM → no permanent friend and no permanent enemy, only interests"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ṢĀḌGUṆYA, the six-fold operational policy sandhi peace",
+            "vigraha hostility",
+            "yāna advance āsana poised inaction",
+            "saṃśraya shelter",
+            "dvaidhībhāva dual policy"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ETHICAL FRAME → YOGAKṢEMA: security plus well-being is the ruler's duty",
+            "MODERN RELEVANCE → by THEME: state capacity, fiscal strength, intelligence, calibrated enforcement, strategic autonomy, welfare obligation",
+            "LIMIT → SELECTIVE APPROPRIATION of principles, never reproduction of monarchy."
+          ]
+        }
+      ],
+      "mechanism_strip": "Because power is measured against immediate neighbours, alliance and hostility follow position and interest, and the six-fold policy simply operationalises that geometry.",
+      "answer_line": "Kautilya's external sovereignty is relational rather than declaratory, since the circle of states and the six-fold policy make independence a matter of continuously managed advantage, while security and welfare supply the ethical frame that keeps the realism from becoming normless.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "COMPARISON GRID AND THE OBJECTION-REPLY-RESIDUAL ENGINE",
+      "structural_type": "comparison-matrix-and-critical-engine",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MONISM VERSUS PLURALISM GRID",
+          "role": "primary"
+        },
+        {
+          "text": "LOCATION, ABSOLUTENESS, DIVISIBILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "AUSTIN VERSUS KAUTILYA",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTION, REPLY, RESIDUAL",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERNAL CRITIQUE FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT COLLAPSE BODIN INTO AUSTIN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KAUTILYA located in",
+        "no single",
+        "svāmī within",
+        "saptāṅga absolute?",
+        "yes, with"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "KAUTILYA located in",
+          "higher law",
+          "AUSTIN vs KAUTILYA → command/obedience/sanction against rule/administration welfare/coercion/strategy"
+        ],
+        [
+          "no single",
+          "legal form",
+          "CRITICAL ENGINE → OBJECTION → MONIST REPLY → RESIDUAL DIFFICULTY democracy → legal finality retained → authority still"
+        ],
+        [
+          "svāmī within",
+          "dharma-bound divisible?",
+          "derivative and divided federalism → constituent power → relocation is not proof of one superior pluralism → shared"
+        ],
+        [
+          "saptāṅga absolute?",
+          "coordinated associations",
+          "is not sovereign → monism may misdescribe plural life"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "KAUTILYA located in",
+            "no single",
+            "svāmī within",
+            "saptāṅga absolute?",
+            "yes, with"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "higher law",
+            "legal form",
+            "dharma-bound divisible?",
+            "coordinated associations",
+            "constitutive core anxiety"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "AUSTIN vs KAUTILYA → command/obedience/sanction against rule/administration welfare/coercion/strategy",
+            "CRITICAL ENGINE → OBJECTION → MONIST REPLY → RESIDUAL DIFFICULTY democracy → legal finality retained → authority still",
+            "derivative and divided federalism → constituent power → relocation is not proof of one superior pluralism → shared",
+            "is not sovereign → monism may misdescribe plural life",
+            "ORDERING RULE → internal critique (Kelsen, Hart) first, external critique second."
+          ]
+        }
+      ],
+      "mechanism_strip": "Comparing thinkers on identical questions exposes exactly where they agree in vocabulary and diverge in doctrine, which is what a comparative directive is testing.",
+      "answer_line": "Sovereignty debates are settled on a fixed grid — location, absoluteness, divisibility, associations, anxiety and weakness — and the strongest answers move objection to reply to residual difficulty instead of merely listing what each thinker said.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "GLOBALIZATION, STANDING TRAPS AND THE REUSABLE ANSWER SPINE",
+      "structural_type": "synthesis-verdict-and-answer-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EROSION VERSUS TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "POOLED, CONSTRAINED, NEGOTIATED",
+          "role": "mechanism"
+        },
+        {
+          "text": "LEGAL INDEPENDENCE IS NOT INTERDEPENDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "WAR, TREATY, CURRENCY, MEMBERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "RECONFIGURED, NOT ABOLISHED",
+          "role": "outcome"
+        },
+        {
+          "text": "SEVEN-TRAP PRE-SUBMISSION CHECK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SAME EVIDENCE → treaties",
+        "trade regimes",
+        "supranational adjudication",
+        "EROSION THESIS TRANSFORMATION / RESILIENCE THESIS authority leaks upward and outward sovereignty is pooled, constrained",
+        "DECISIVE DISTINCTION → legal independence vs practical interdependence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SAME EVIDENCE → treaties",
+            "trade regimes",
+            "supranational adjudication",
+            "EROSION THESIS TRANSFORMATION / RESILIENCE THESIS authority leaks upward and outward sovereignty is pooled, constrained, negotiated and networked",
+            "DECISIVE DISTINCTION → legal independence vs practical interdependence"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRAP CHECK → Austin's sovereign is not the state",
+            "Laski is not an anarchist",
+            "Bodin is not lawless",
+            "svāmī is not illimitable",
+            "Kelsen 1945, Hart 1961 sovereignty has not disappeared"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "3 state the doctrine in the thinker's own terms",
+            "4 objection and reply, objector named",
+            "5 graded verdict",
+            "TIERS → 10 marks: steps 1-3 and a verdict; 15: full spine and one objection",
+            "20: full spine, internal then external critique, and a comparison close."
+          ]
+        }
+      ],
+      "mechanism_strip": "Treaty commitments and supranational regimes bind conduct without removing the competence to enter, interpret or exit them, so constraint operates through consent rather than through the loss of final authority.",
+      "answer_line": "Globalization reconfigures sovereignty rather than abolishing it, because legal independence and practical interdependence are different things, and states still claim the final decision on war, treaty, currency and membership even where they have pooled authority.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE CONCEPT AND TAXONOMY OF",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — BODIN",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ABSOLUTE AND PERPETUAL POWER OF THE COMMONWEALTH",
+          "role": "mechanism"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — AUSTIN I",
+          "role": "primary"
+        },
+        {
+          "text": "THE COMMAND THEORY OF LEGAL SOVEREIGNTY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — AUSTIN II",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITICISMS AND COMPATIBILITY WITH DEMOCRACY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Concept and Taxonomy of Sovereignty",
+            "ADVANCED SESSION 2 — Bodin: The Absolute and Perpetual Power of the Commonwealth",
+            "ADVANCED SESSION 3 — Austin I: The Command Theory of Legal Sovereignty",
+            "ADVANCED SESSION 4 — Austin II: Criticisms and Compatibility with Democracy"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Kelsen and Hart: The Post-Austinian Refinement of Legal Sovereignty",
+            "ADVANCED SESSION 6 — Laski and the Pluralist Critique of Absolute Sovereignty",
+            "ADVANCED SESSION 7 — Kautilya I: Saptanga, the Svami and Dandaniti",
+            "ADVANCED SESSION 8 — Kautilya II: Mandala, Sadgunya, Yogakshema and Modern Relevance"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Inter-Thinker Debates, Criticisms and Replies",
+            "ADVANCED SESSION 10 — Globalization, Contemporary Sovereignty and Common Traps",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite: Bodin, Austin, Laski and Kautilya"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ],
+  "source_generation": 3
+}

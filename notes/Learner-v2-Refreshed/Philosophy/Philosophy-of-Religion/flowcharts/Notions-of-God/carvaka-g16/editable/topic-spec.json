@@ -1,0 +1,969 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+  "subject": "Philosophy",
+  "title": "PHILOSOPHY PAPER II — PHILOSOPHY OF RELIGION 01 — NOTIONS OF GOD",
+  "short_route": "CONTROL QUESTION AND CONCEPTUAL → WESTERN RELATION MODELS → DIVINE ATTRIBUTES UNDER COHERENCE → SPINOZA: DEUS SIVE NATURA → ADVAITA: NIRGUṆA, SAGUṆA AND → RĀMĀNUJA: ORGANIC UNITY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g16 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g16\\topic-01_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "e63024680b7d5d533aa883522db37d9b5a5422a860f7e0e78f96da1e8816180d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONTROL QUESTION AND CONCEPTUAL AXES",
+      "structural_type": "approved-master conceptual map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONTROL QUESTION AND CONCEPTUAL AXES",
+          "role": "primary"
+        },
+        {
+          "text": "NOTIONS OF GOD",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT KIND OF REALITY IS CALLED “GOD”, AND HOW",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSPERSONAL ATTRIBUTES",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLICITY RELATION",
+          "role": "primary"
+        },
+        {
+          "text": "NATURE AXIS",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL <→ IMPERSONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "RELATION AXIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NOTIONS OF GOD",
+        "What kind of reality is called “God”, and how is it related to man and",
+        "nature: personal / impersonal / transpersonal attributes: power / knowledge / goodness / eternity /",
+        "/ God-man / transcendence / immanence",
+        "NATURE AXIS: personal <→ impersonal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NOTIONS OF GOD",
+            "What kind of reality is called “God”, and how is it related to man and the world?",
+            "nature: personal / impersonal / transpersonal attributes: power / knowledge / goodness / eternity / simplicity relation: God-world"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "/ God-man / transcendence / immanence",
+            "NATURE AXIS: personal <→ impersonal",
+            "RELATION AXIS: transcendent <→ immanent cataphatic affirmation + apophatic negation → analogical control too much affirmation = anthropomorphism"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "too much negation = empty God-talk."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Classify nature, role, attributes and relation separately; personal does not mean bodily or male, and comparison axes are not equations.",
+      "source_references": [
+        "FINAL REGISTER 1/10 — Control question",
+        "Conceptual method before doctrine",
+        "Cataphatic and apophatic control"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WESTERN RELATION MODELS",
+      "structural_type": "approved-master model branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WESTERN RELATION MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN NOTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL NECESSARY CREATOR; DISTINCT, SUSTAINING, PROVIDENTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "NATURAL LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "WITHDRAWAL; MIRACLES/REVELATION WEAKENED",
+          "role": "primary"
+        },
+        {
+          "text": "WORLD IS IN GOD, BUT GOD EXCEEDS WORLD",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCESS/DIPOLAR GOD ABSTRACT POLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ETERNAL POSSIBILITIES + STABLE CHARACTER CONSEQUENT POLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WESTERN NOTIONS",
+        "THEISM: personal necessary Creator; distinct, sustaining, providential",
+        "DEISM: creation → natural law → withdrawal; miracles/revelation weakened",
+        "PANTHEISM: God = world/nature",
+        "PANENTHEISM: world is in God, but God exceeds world"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "WESTERN NOTIONS",
+            "THEISM: personal necessary Creator; distinct, sustaining, providential",
+            "DEISM: creation → natural law → withdrawal; miracles/revelation weakened"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PANTHEISM: God = world/nature",
+            "PANENTHEISM: world is in God, but God exceeds world",
+            "PROCESS/DIPOLAR GOD abstract pole: eternal possibilities + stable character consequent pole: receives changing world and experience persuasion protects"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "freedom, but revises omnipotence and immutability."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Monotheism counts one God; classical theism additionally profiles a necessary creator, sustainer, ruler and moral governor.",
+      "source_references": [
+        "FINAL REGISTER 2/10 — Western relation models"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DIVINE ATTRIBUTES UNDER COHERENCE PRESSURE",
+      "structural_type": "approved-master attribute matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DIVINE ATTRIBUTES UNDER COHERENCE PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "ETERNITY IMMUTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ASEITY OMNIPOTENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGICALLY POSSIBLE ACTS; CONTRADICTIONS ARE NOT OBJECTS OF POWER",
+          "role": "caution"
+        },
+        {
+          "text": "OPEN THEISM GOODNESS + POWER + KNOWLEDGE + EVIL",
+          "role": "mechanism"
+        },
+        {
+          "text": "JOINT COMPATIBILITY PRESSURE SIMPLICITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NO PARTS; ESSENCE",
+          "role": "caution"
+        },
+        {
+          "text": "EXISTENCE; ATTRIBUTES NOT SEPARABLE COMPONENTS OBJECTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ATTRIBUTES: omnipotence",
+        "eternity immutability",
+        "aseity omnipotence → logically possible acts; contradictions are not objects of power foreknowledge vs freedom",
+        "open theism goodness + power + knowledge + evil → joint compatibility pressure simplicity →",
+        "essence = existence"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "ATTRIBUTES: omnipotence",
+          "aseity omnipotence → logically possible acts; contradictions are not objects of power foreknowledge vs freedom → Boethius",
+          "essence = existence"
+        ],
+        [
+          "eternity immutability",
+          "open theism goodness + power + knowledge + evil → joint compatibility pressure simplicity → no parts",
+          "attributes not separable components objection: can identical attributes permit free, personal relation to changing creatures?"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ATTRIBUTES: omnipotence",
+            "eternity immutability"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "aseity omnipotence → logically possible acts; contradictions are not objects of power foreknowledge vs freedom → Boethius",
+            "open theism goodness + power + knowledge + evil → joint compatibility pressure simplicity → no parts"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "essence = existence",
+            "attributes not separable components objection: can identical attributes permit free, personal relation to changing creatures?"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Power, knowledge, goodness, eternity, immutability, simplicity and personhood survive only through specified, cost-bearing readings.",
+      "source_references": [
+        "FINAL REGISTER 3/10 — Attributes"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SPINOZA: DEUS SIVE NATURA",
+      "structural_type": "approved-master substance tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEUS SIVE NATURA",
+          "role": "primary"
+        },
+        {
+          "text": "ONE INFINITE SUBSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "INFINITE EXPRESSION MODES",
+          "role": "comparison"
+        },
+        {
+          "text": "FINITE MINDS AND BODIES HUMANS KNOW THOUGHT AND EXTENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSONALITY, PROVIDENCE AND FREE WILL DISAPPEAR REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "SELF-DETERMINED ACTION FROM ONE'S OWN NATURE, NOT ARBITRARY CHOICE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEUS SIVE NATURA → ONE INFINITE SUBSTANCE",
+        "ATTRIBUTES: infinite expression MODES: finite minds and bodies humans know Thought and Extension depend on",
+        "God does not choose to create radically immanent, not a personal ruler outside nature objection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEUS SIVE NATURA → ONE INFINITE SUBSTANCE",
+            "ATTRIBUTES: infinite expression MODES: finite minds and bodies humans know Thought and Extension depend on the one substance"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "God does not choose to create radically immanent, not a personal ruler outside nature objection: personality, providence and",
+            "DEUS SIVE NATURA → ONE INFINITE SUBSTANCE"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ATTRIBUTES: infinite expression MODES: finite minds and bodies humans know Thought and Extension depend on the one substance",
+            "God does not choose to create radically immanent, not a personal ruler outside nature objection: personality, providence and"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Spinoza replaces a purposive creator with one necessary substance from whose nature every finite mode follows.",
+      "source_references": [
+        "FINAL REGISTER 4/10 — Spinoza"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADVAITA: NIRGUṆA, SAGUṆA AND VIVARTA",
+      "structural_type": "approved-master two-level map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NIRGUṆA, SAGUṆA AND VIVARTA",
+          "role": "primary"
+        },
+        {
+          "text": "ONE NON-DUAL BRAHMAN",
+          "role": "outcome"
+        },
+        {
+          "text": "BEYOND LIMITING PREDICATES; PĀRAMĀRTHIKA; SAT-CIT-ĀNANDA",
+          "role": "comparison"
+        },
+        {
+          "text": "SAGUṆA ĪŚVARA",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSONAL LORD; CREATOR/RULER; VYĀVAHĀRIKA; DEVOTION",
+          "role": "primary"
+        },
+        {
+          "text": "BRAHMAN + MĀYĀ",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPERIENCED WORLD THROUGH VIVARTA, APPARENT TRANSFORMATION ROPE APPEARS SNAKE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIBERATION KNOWS AN ALREADY-EXISTING IDENTITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONE NON-DUAL BRAHMAN",
+        "NIRGUṆA: beyond limiting predicates; pāramārthika; Sat-Cit-Ānanda",
+        "SAGUṆA ĪŚVARA: personal Lord; creator/ruler; vyāvahārika; devotion",
+        "Brahman + māyā → experienced world through VIVARTA, apparent transformation rope appears snake; Brahman undergoes",
+        "ĀTMAN = BRAHMAN → liberation knows an already-existing identity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ONE NON-DUAL BRAHMAN",
+            "NIRGUṆA: beyond limiting predicates; pāramārthika; Sat-Cit-Ānanda"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAGUṆA ĪŚVARA: personal Lord; creator/ruler; vyāvahārika; devotion",
+            "Brahman + māyā → experienced world through VIVARTA, apparent transformation rope appears snake; Brahman undergoes no real change"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ĀTMAN = BRAHMAN → liberation knows an already-existing identity",
+            "TRAP: anirvacanīya properly marks māyā/world appearance, not nirguṇa Brahman itself."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Advaita applies indefinability to māyā and world-appearance, while nirguṇa Brahman remains the non-dual reality beyond limiting predicates.",
+      "source_references": [
+        "FINAL REGISTER 5/10 — Advaita"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RĀMĀNUJA: ORGANIC UNITY",
+      "structural_type": "approved-master body-soul relation",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ORGANIC UNITY",
+          "role": "primary"
+        },
+        {
+          "text": "PERSONAL SAGUṆA BRAHMAN, NĀRĀYAṆA",
+          "role": "outcome"
+        },
+        {
+          "text": "CIT (SELVES) + ACIT (MATTER)",
+          "role": "comparison"
+        },
+        {
+          "text": "REAL QUALIFICATIONS OF BRAHMAN",
+          "role": "evidence"
+        },
+        {
+          "text": "WORLD/SOULS ARE BODY; BRAHMAN IS INDWELLING CONTROLLER",
+          "role": "primary"
+        },
+        {
+          "text": "INSEPARABLE DEPENDENCE WITHOUT NUMERICAL IDENTITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERIAL AND EFFICIENT CAUSE; WORLD IS REAL PARIṆĀMA JĪVA",
+          "role": "evidence"
+        },
+        {
+          "text": "LIBERATION OBJECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VIŚIṢṬĀDVAITA → personal saguṇa Brahman, Nārāyaṇa",
+        "CIT (selves) + ACIT (matter) = real qualifications of Brahman",
+        "ŚARĪRA-ŚARĪRĪ: world/souls are body; Brahman is indwelling controller",
+        "APṚTHAK-SIDDHI: inseparable dependence without numerical identity",
+        "God = material and efficient cause"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "VIŚIṢṬĀDVAITA → personal saguṇa Brahman, Nārāyaṇa",
+            "CIT (selves) + ACIT (matter) = real qualifications of Brahman",
+            "ŚARĪRA-ŚARĪRĪ: world/souls are body; Brahman is indwelling controller"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APṚTHAK-SIDDHI: inseparable dependence without numerical identity",
+            "God = material and efficient cause",
+            "world is real PARIṆĀMA jīva → dependence → bhakti → prapatti → liberation objection: do bodily defects taint God?"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "reply: defects belong to controlled body."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "High-value transition: Real manifestation/pariṇāma (real transformation); bhakti and prapatti; liberation is service/communion, not absorption.",
+      "source_references": [
+        "FINAL REGISTER 6/10 — Rāmānuja"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NYĀYA AND HINDU DIVINE PLURALITY",
+      "structural_type": "approved-master pluralism branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NYĀYA AND HINDU DIVINE PLURALITY",
+          "role": "primary"
+        },
+        {
+          "text": "NYĀYA ĪŚVARA",
+          "role": "outcome"
+        },
+        {
+          "text": "GOD + SELVES + ATOMS + SPACE/TIME ARE REAL",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD IS EFFICIENT CAUSE; ETERNAL ATOMS ARE MATERIAL CAUSES",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVINE COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "FITTING RESULTS; SELVES REMAIN DISTINCT",
+          "role": "outcome"
+        },
+        {
+          "text": "“IS HINDUISM POLYTHEISTIC?” POLYTHEISM",
+          "role": "comparison"
+        },
+        {
+          "text": "ṚGVEDA 1.164.46",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NYĀYA ĪŚVARA: God + selves + atoms + space/time are real",
+        "God is efficient cause; eternal atoms are material causes karma/adṛṣṭa → divine coordination → fitting",
+        "“IS HINDUISM POLYTHEISTIC?” polytheism",
+        "Ṛgveda 1.164.46: reality is one; sages speak of it variously verdict: many-deity practice, one-deity praise",
+        "Upaniṣadic monism coexist; one label cannot exhaust all levels."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NYĀYA ĪŚVARA: God + selves + atoms + space/time are real",
+            "God is efficient cause; eternal atoms are material causes karma/adṛṣṭa → divine coordination → fitting results; selves remain distinct"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "“IS HINDUISM POLYTHEISTIC?” polytheism",
+            "Ṛgveda 1.164.46: reality is one; sages speak of it variously verdict: many-deity practice, one-deity praise, sectarian supremacy and"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Upaniṣadic monism coexist; one label cannot exhaust all levels.",
+            "NYĀYA ĪŚVARA: God + selves + atoms + space/time are real"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Nyāya profiles one eternal omniscient incorporeal efficient cause and karmic governor; proofs and anti-creator replies belong elsewhere.",
+      "source_references": [
+        "FINAL REGISTER 7/10 — Other Indian and plural forms"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COMPARATIVE GOD-WORLD-MAN MATRIX",
+      "structural_type": "approved-master comparison table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARATIVE GOD-WORLD-MAN MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SYSTEM GOD-WORLD GOD-MAN",
+          "role": "outcome"
+        },
+        {
+          "text": "THEISM CREATOR AND SUSTAINER WORSHIP, PROVIDENCE, GRACE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEISM CREATOR WHO WITHDRAWS REMOTE RATIONAL SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPINOZA GOD",
+          "role": "primary"
+        },
+        {
+          "text": "NATURE PERSON IS FINITE MODE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVAITA WORLD IS VIVARTA ĀTMAN",
+          "role": "comparison"
+        },
+        {
+          "text": "RĀMĀNUJA WORLD IS GOD'S REAL BODY DISTINCT YET INSEPARABLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SYSTEM GOD-WORLD GOD-MAN",
+        "Theism creator and sustainer worship, providence, grace",
+        "Deism creator who withdraws remote rational source",
+        "Spinoza God = Nature person is finite mode",
+        "Advaita world is vivarta ātman = Brahman"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "SYSTEM GOD-WORLD GOD-MAN",
+          "Spinoza God = Nature person is finite mode",
+          "Nyāya God orders eternal atoms distinct soul under moral governance ultimate cause need not be physical: spatial/material dependence limits ultimacy"
+        ],
+        [
+          "Theism creator and sustainer worship, providence, grace",
+          "Advaita world is vivarta ātman = Brahman",
+          "pantheism and Rāmānuja qualify this without requiring an anthropomorphic body."
+        ],
+        [
+          "Deism creator who withdraws remote rational source",
+          "Rāmānuja world is God's real body distinct yet inseparably dependent",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "SYSTEM GOD-WORLD GOD-MAN",
+            "Theism creator and sustainer worship, providence, grace",
+            "Deism creator who withdraws remote rational source"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Spinoza God = Nature person is finite mode",
+            "Advaita world is vivarta ātman = Brahman",
+            "Rāmānuja world is God's real body distinct yet inseparably dependent"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "Nyāya God orders eternal atoms distinct soul under moral governance ultimate cause need not be physical: spatial/material dependence limits ultimacy",
+            "pantheism and Rāmānuja qualify this without requiring an anthropomorphic body."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "God-models must be compared on common axes of world-relation, human freedom and worship, not by labels considered in isolation.",
+      "source_references": [
+        "FINAL REGISTER 8/10 — Comparison and physical manifestation"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EXAMINER TRAPS AND PYQ ROUTES",
+      "structural_type": "approved-master exam routing grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND PYQ ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "SPATIALLY REMOTE IMMANENT",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-EXISTENT APṚTHAK-SIDDHI",
+          "role": "comparison"
+        },
+        {
+          "text": "NYĀYA GOD",
+          "role": "evidence"
+        },
+        {
+          "text": "EFFICIENT CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "PYQ ROUTES PERSONAL/IMPERSONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "THEISM + SPINOZA + SAGUṆA/NIRGUṆA",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVOTION FREEDOM/GOD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRAPS: personal != anthropomorphic",
+        "transcendent != spatially remote immanent != pantheistic",
+        "pantheism != panentheism",
+        "nirguṇa != non-existent apṛthak-siddhi != identity",
+        "Nyāya God = efficient cause"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "TRAPS: personal != anthropomorphic",
+          "nirguṇa != non-existent apṛthak-siddhi != identity",
+          "PYQ ROUTES personal/impersonal → theism + Spinoza + saguṇa/nirguṇa"
+        ],
+        [
+          "transcendent != spatially remote immanent != pantheistic",
+          "Nyāya God = efficient cause",
+          "Spinoza → substance → attributes → modes → necessity → criticism"
+        ],
+        [
+          "pantheism != panentheism",
+          "monism != monotheism",
+          "Rāmānuja → cit/acit → body-soul → apṛthak-siddhi → devotion freedom/God → foreknowledge problem → named solutions → qualified verdict."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TRAPS: personal != anthropomorphic",
+            "transcendent != spatially remote immanent != pantheistic",
+            "pantheism != panentheism"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "nirguṇa != non-existent apṛthak-siddhi != identity",
+            "Nyāya God = efficient cause",
+            "monism != monotheism"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "PYQ ROUTES personal/impersonal → theism + Spinoza + saguṇa/nirguṇa",
+            "Spinoza → substance → attributes → modes → necessity → criticism",
+            "Rāmānuja → cit/acit → body-soul → apṛthak-siddhi → devotion freedom/God → foreknowledge problem → named solutions → qualified verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Analogy and symbol can preserve reference without anthropomorphic or gendered literalism; non-dual Brahman is not classical personal God.",
+      "source_references": [
+        "FINAL REGISTER 9/10 — PYQ answer spine"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "ANSWER SPINE AND QUALIFIED CONCLUSION",
+      "structural_type": "approved-master convergence rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE EXACT GOD-CONCEPT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE METAPHYSICAL MODEL",
+          "role": "institution"
+        },
+        {
+          "text": "EXPLAIN GOD-WORLD AND GOD-MAN RELATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "USE EXACT SCHOOL TERMINOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "STRONGEST OBJECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGEST REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "SAME-AXIS COMPARISON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "define exact God-concept → state metaphysical model",
+        "explain God-world and God-man relations → use exact school terminology",
+        "strongest objection → strongest reply → same-axis comparison",
+        "qualified philosophical verdict",
+        "God is a family of models: perfect person, infinite substance, non-dual consciousness, organic unity or"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "define exact God-concept → state metaphysical model",
+            "explain God-world and God-man relations → use exact school terminology"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "strongest objection → strongest reply → same-axis comparison",
+            "qualified philosophical verdict"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "God is a family of models: perfect person, infinite substance, non-dual consciousness, organic unity or intelligent ordering.",
+            "Adequacy turns on nature + attributes + relations coherence: whether ultimacy best preserves agency, unity, devotion, independence, moral"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Final verdict: \"The notion of God is not a single universal concept but a family of metaphysical models.",
+      "source_references": [
+        "FINAL REGISTER 10/10 — Advanced reserve and traps",
+        "Answer-writing spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ENRICHMENT — EXTRA DEPTH, NEVER A PREREQUISITE FOR THE",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERN AND ABRAHAMIC REFERENCE STANDARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN SCHOOL-SPECIFIC COMPARISON",
+          "role": "evidence"
+        },
+        {
+          "text": "CRITIQUE, LANGUAGE AND PRACTICAL CONSEQUENCES",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL PHILOSOPHY OF RELIGION DOSSIER",
+          "role": "outcome"
+        },
+        {
+          "text": "TOPIC 1 — [OPTIONAL ADVANCED]",
+          "role": "comparison"
+        },
+        {
+          "text": "CREATION EX NIHILO MEANS DEPENDENCE ON DIVINE AGENCY WITHOUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED / ENRICHMENT — extra depth, never a prerequisite for the verified PYQs",
+            "Western and Abrahamic Reference Standards",
+            "Indian School-Specific Comparison",
+            "Critique, Language and Practical Consequences"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "External Philosophy of Religion dossier: Topic 1 — [OPTIONAL ADVANCED]",
+            "Creation ex nihilo means dependence on divine agency without independent primordial material; \"nothing\" is not a material cause.",
+            "Emanation treats finite reality as proceeding from the source, often with stronger necessity and weaker choice.",
+            "Panentheism places the world within divine life while holding that God exceeds it."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Efficient causation need not require physical manifestation.",
+            "Ramanuja's body-language expresses dependence and governance, not a finite divine organism.",
+            "Augustine: creator, eternal truth, goodness and providential personal relation.",
+            "Anselm: perfect-being grammar; use its attribute implications here, not the proof."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

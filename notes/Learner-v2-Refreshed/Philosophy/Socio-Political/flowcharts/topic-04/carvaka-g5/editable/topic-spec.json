@@ -1,0 +1,1276 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-04",
+  "subject": "Philosophy",
+  "title": "FORMS OF GOVERNMENT",
+  "short_route": "THE CENTRAL QUESTION OF → PLATO: THE DEGENERATION SEQUENCE → ARISTOTLE'S SIX-FOLD MATRIX AND → MONARCHY: TWO TYPES, FOUR → THEOCRACY: DIVINE SOVEREIGNTY, THE → DEMOCRACY: THE MODEL TAXONOMY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-ii-socio-political-philosophy-04-ascii-g5-2026-09-03.json",
+  "ascii_spec_sha256": "575e81760bc83afd18e990b71e4efa4236045fabf6549bde436c7a7dac2810f5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL QUESTION OF REGIME CLASSIFICATION AND ITS FOUR AXES",
+      "structural_type": "root-question-and-classification-axes",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE CENTRAL QUESTION OF REGIME CLASSIFICATION AND ITS FOUR",
+          "role": "primary"
+        },
+        {
+          "text": "BY WHAT TITLE MAY ONE ARRANGEMENT OF RULE BIND",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR AXES, NEVER ONE",
+          "role": "comparison"
+        },
+        {
+          "text": "(1) WHO RULES? ONE",
+          "role": "evidence"
+        },
+        {
+          "text": "(2) FOR WHOSE GOOD? COMMON GOOD <-→ PRIVATE OR",
+          "role": "primary"
+        },
+        {
+          "text": "(3) BY WHAT TITLE? HEREDITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVINE SANCTION CONSENT AND ELECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SACRED LAW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → by what title may one arrangement of rule bind everyone in a",
+        "FOUR AXES, NEVER ONE",
+        "(1) WHO RULES? one",
+        "(2) FOR WHOSE GOOD? common good <-→ private or sectional interest",
+        "(3) BY WHAT TITLE? heredity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION → by what title may one arrangement of rule bind everyone in a territory, and on what grounds may that arrangement be judged?",
+            "FOUR AXES, NEVER ONE",
+            "(1) WHO RULES? one",
+            "(2) FOR WHOSE GOOD? common good <-→ private or sectional interest",
+            "(3) BY WHAT TITLE? heredity"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "divine sanction consent and election",
+            "sacred law",
+            "(4) UNDER WHAT LIMITS? law? rights? accountability? none at all?",
+            "MONARCHY THEOCRACY DEMOCRACY rule of one; title is rule in the name of God; rule of the people",
+            "heredity, tradition and title is revelation and title is consent, sometimes divine right sacred law"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "read by clergy equality, participation danger: arbitrariness, danger: conscience crushed, danger: majoritarianism, unaccountability, a weak",
+            "citizenship made unequal, manipulated opinion, basis in equality dissent read as impiety mediocrity, propaganda",
+            "DESCRIPTIVE map (what a regime IS) vs NORMATIVE verdict (whether it OUGHT to bind)",
+            "CONTROL → separate the four axes first, fix description or evaluation second, adjudicate last on a criterion you have already named."
+          ]
+        }
+      ],
+      "mechanism_strip": "CENTRAL QUESTION → by what title may one arrangement of rule bind everyone in a territory, and on what grounds may that arrangement be judged?",
+      "answer_line": "DESCRIPTIVE map (what a regime IS) vs NORMATIVE verdict (whether it OUGHT to bind).",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PLATO: THE DEGENERATION SEQUENCE AND THE THREE CHARGES AGAINST DEMOCRACY",
+      "structural_type": "degeneration-sequence-with-critique",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE DEGENERATION SEQUENCE AND THE THREE CHARGES AGAINST DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "RULING IS A CRAFT REQUIRING KNOWLEDGE OF JUSTICE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "SHIP OF STATE",
+          "role": "institution"
+        },
+        {
+          "text": "NAVIGATION IS NOT HANDED TO THE UNSKILLED BECAUSE THEY",
+          "role": "caution"
+        },
+        {
+          "text": "DEGENERATION OF CONSTITUTIONS (REPUBLIC)",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH DOMINANT VALUE CORRUPTS INTO THE NEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "ARISTOCRACY OF KNOWLEDGE -- WISDOM RULES HONOUR DISPLACES WISDOM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT CLAIM → ruling is a CRAFT requiring KNOWLEDGE of justice and the good",
+        "SHIP OF STATE → navigation is not handed to the unskilled because they are many",
+        "DEGENERATION OF CONSTITUTIONS (Republic): each dominant value corrupts into the next",
+        "ARISTOCRACY OF KNOWLEDGE -- wisdom rules honour displaces wisdom",
+        "TIMOCRACY -- honour and military spiritedness the desire for wealth displaces honour"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ROOT CLAIM → ruling is a CRAFT requiring KNOWLEDGE of justice and the good",
+            "SHIP OF STATE → navigation is not handed to the unskilled because they are many",
+            "DEGENERATION OF CONSTITUTIONS (Republic): each dominant value corrupts into the next",
+            "ARISTOCRACY OF KNOWLEDGE -- wisdom rules honour displaces wisdom",
+            "TIMOCRACY -- honour and military spiritedness the desire for wealth displaces honour"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "OLIGARCHY -- property and wealth; rich divided from poor the poor many overthrow the propertied few",
+            "DEMOCRACY -- freedom and equality of desires unrestrained licence makes restraint itself look oppressive",
+            "TYRANNY -- one demagogue who flatters the many, then dominates them",
+            "THREE CHARGES → [1] ruling is a craft, so numbers confer no competence",
+            "[2] democracy mistakes LIBERTY for QUALIFICATION"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "[3] unregulated liberty breeds the demagogue, hence tyranny",
+            "TRAP → this is NOT a defence of hereditary monarchy and NOT mere hatred of freedom",
+            "VERDICT (asymmetric) → the diagnosis of demagoguery and defective leadership selection survives",
+            "the guardian remedy fails for want of consent and correction."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT (asymmetric) → the diagnosis of demagoguery and defective leadership selection survives; the guardian remedy fails for want of consent and correction.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARISTOTLE'S SIX-FOLD MATRIX AND THE POLITY AS THE PRACTICABLE MEAN",
+      "structural_type": "six-fold-classification-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARISTOTLE'S SIX-FOLD MATRIX AND THE POLITY AS THE PRACTICABLE",
+          "role": "primary"
+        },
+        {
+          "text": "TWO VARIABLES",
+          "role": "outcome"
+        },
+        {
+          "text": "[A] HOW MANY RULE [B] FOR WHOSE ADVANTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NUMBER RULING",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHT FORM (COMMON GOOD)",
+          "role": "primary"
+        },
+        {
+          "text": "DEVIATION (PRIVATE GAIN)",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMOCRACY (CLASSICAL SENSE)",
+          "role": "comparison"
+        },
+        {
+          "text": "THE RIGHT AND CORRUPT VERSION OF EACH NUMBER DIFFER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TWO VARIABLES → [A] HOW MANY RULE [B] FOR WHOSE ADVANTAGE",
+        "NUMBER RULING",
+        "RIGHT FORM (common good)",
+        "DEVIATION (private gain)",
+        "DEMOCRACY (classical sense)"
+      ],
+      "matrix": [
+        [
+          "NUMBER RULING",
+          "RIGHT FORM (common good)",
+          "DEVIATION (private gain)"
+        ],
+        [
+          "ONE",
+          "MONARCHY",
+          "TYRANNY"
+        ],
+        [
+          "FEW",
+          "ARISTOCRACY",
+          "OLIGARCHY"
+        ],
+        [
+          "MANY",
+          "POLITY",
+          "DEMOCRACY (classical sense)"
+        ],
+        [
+          "PLATO asks WHO OUGHT IDEALLY TO RULE",
+          "ARISTOTLE asks WHICH CONSTITUTION CAN",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TWO VARIABLES → [A] HOW MANY RULE [B] FOR WHOSE ADVANTAGE",
+            "NUMBER RULING",
+            "RIGHT FORM (common good)",
+            "DEVIATION (private gain)",
+            "DEMOCRACY (classical sense)"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "the good-MANY form is POLITY, and classical democracy is its DEVIATION",
+            "POLITY = mixed constitution → rule of the many UNDER LAW, moderated by property, virtue,",
+            "civic participation and a broad MIDDLE CLASS against STATISM → value is not absorbed into",
+            "one all-wise ruler or state against INDIVIDUALISM → politics is not unrestricted private self-assertion for",
+            "CIVIC MODERATION → citizenship inside a lawful order aimed at common good"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "ARISTOTLE asks WHICH CONSTITUTION CAN",
+            "SUSTAIN good political life in practice",
+            "LIMIT → common advantage is not self-specifying and needs an independent theory of the good",
+            "the stability of polity is a sociological claim, not a proof.",
+            "TRAP → polity is a mixed-government precursor, NOT universal-suffrage democracy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → polity is a mixed-government precursor, NOT universal-suffrage democracy.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MONARCHY: TWO TYPES, FOUR OBJECTIONS AND THE ABOVE-POLITICS TEST",
+      "structural_type": "monarchy-type-comparison-and-freedom-verdict",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO TYPES, FOUR OBJECTIONS AND THE ABOVE-POLITICS TEST",
+          "role": "primary"
+        },
+        {
+          "text": "RULE BY ONE PERSON, NORMALLY HOLDING OFFICE BY HEREDITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSOLUTE MONARCHY CONSTITUTIONAL MONARCHY EXECUTIVE, LEGISLATIVE AND SOMETIMES THE",
+          "role": "comparison"
+        },
+        {
+          "text": "HEREDITY, CONQUEST, TRADITION, HISTORIC CONTINUITY PLUS LEGAL",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVINE RIGHT OF KINGS LIMITATION BY CONVENTION ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK, UNSECURED ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET, PARLIAMENT VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "EFFICIENT, NORMATIVELY RISKY VERDICT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINITION → rule by ONE person, normally holding office by HEREDITY",
+        "ABSOLUTE MONARCHY CONSTITUTIONAL MONARCHY executive, legislative and sometimes the monarch REIGNS while elected judicial",
+        "power concentrated in one institutions GOVERN title: heredity, conquest, tradition, historic continuity plus legal",
+        "DIVINE RIGHT OF KINGS limitation by convention accountability: weak, unsecured accountability",
+        "cabinet, parliament verdict: efficient, normatively risky verdict: acceptable as symbolic head"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "DEFINITION → rule by ONE person, normally holding office by HEREDITY",
+          "EQUALITY → public authority should be open to all on equal terms",
+          "the order ceases to be constitutional and slides toward arbitrary rule"
+        ],
+        [
+          "ABSOLUTE MONARCHY CONSTITUTIONAL MONARCHY executive, legislative and sometimes the monarch REIGNS while elected judicial",
+          "MERIT → birth guarantees neither wisdom nor virtue",
+          "DIVINE RIGHT → the king rules by God's will and answers primarily to God: a BRIDGE between monarchy and theocracy, never an identity of the two"
+        ],
+        [
+          "power concentrated in one institutions GOVERN title: heredity, conquest, tradition, historic continuity plus legal",
+          "ACCOUNTABILITY → concentrated power invites arbitrariness and despotism",
+          "VERDICT → monarchy coexists with individual freedom only where CONSTITUTIONALISED"
+        ],
+        [
+          "DIVINE RIGHT OF KINGS limitation by convention accountability: weak, unsecured accountability",
+          "FREEDOM → liberty needs law, rights and institutions, not a crown",
+          "as a principle of rule it does not by itself ground freedom."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINITION → rule by ONE person, normally holding office by HEREDITY",
+            "ABSOLUTE MONARCHY CONSTITUTIONAL MONARCHY executive, legislative and sometimes the monarch REIGNS while elected judicial",
+            "power concentrated in one institutions GOVERN title: heredity, conquest, tradition, historic continuity plus legal",
+            "DIVINE RIGHT OF KINGS limitation by convention accountability: weak, unsecured accountability",
+            "cabinet, parliament verdict: efficient, normatively risky verdict: acceptable as symbolic head"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "EQUALITY → public authority should be open to all on equal terms",
+            "MERIT → birth guarantees neither wisdom nor virtue",
+            "ACCOUNTABILITY → concentrated power invites arbitrariness and despotism",
+            "FREEDOM → liberty needs law, rights and institutions, not a crown",
+            "THE ABOVE-POLITICS TEST above PARTY CONFLICT → systematic: the role is fixed by"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "the order ceases to be constitutional and slides toward arbitrary rule",
+            "DIVINE RIGHT → the king rules by God's will and answers primarily to God: a BRIDGE between monarchy and theocracy, never an identity of the two",
+            "VERDICT → monarchy coexists with individual freedom only where CONSTITUTIONALISED",
+            "as a principle of rule it does not by itself ground freedom."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "as a principle of rule it does not by itself ground freedom.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THEOCRACY: DIVINE SOVEREIGNTY, THE INTERPRETATION MONOPOLY AND VALIDITY",
+      "structural_type": "problem-response-validity-ledger",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DIVINE SOVEREIGNTY, THE INTERPRETATION MONOPOLY AND VALIDITY",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL AUTHORITY CLAIMED IN THE NAME OF GOD, OF",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT THE SAME AS",
+          "role": "caution"
+        },
+        {
+          "text": "A SOCIETY MERELY INFLUENCED BY RELIGION, OR A MORALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "FIVE STRUCTURAL FEATURES",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGNTY OF GOD",
+          "role": "outcome"
+        },
+        {
+          "text": "FINAL AUTHORITY IS DIVINE WILL, NOT THE PEOPLE",
+          "role": "caution"
+        },
+        {
+          "text": "SACRED LAW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINITION → political authority claimed in the name of GOD, of divine law, or of",
+        "NOT the same as → a society merely INFLUENCED by religion, or a morally informed",
+        "FIVE STRUCTURAL FEATURES",
+        "SOVEREIGNTY OF GOD → final authority is divine will, not the people",
+        "SACRED LAW → religious law guides or determines civil law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINITION → political authority claimed in the name of GOD, of divine law, or of the authorised interpreters of sacred truth",
+            "NOT the same as → a society merely INFLUENCED by religion, or a morally informed polity in which believers argue publicly as equal citizens",
+            "FIVE STRUCTURAL FEATURES",
+            "SOVEREIGNTY OF GOD → final authority is divine will, not the people",
+            "SACRED LAW → religious law guides or determines civil law"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CASE FOR",
+            "CASE AGAINST moral unity and collective purpose",
+            "no equal standing for other faiths or none restraint on self-interested politics",
+            "liberty of conscience is compromised a stable ethical order derived from",
+            "dissent becomes impiety, not disagreement sacred obligation"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SECULARISM → the state is not founded on the supremacy of one religious truth for all",
+            "it protects equal citizenship, liberty of conscience and coexistence",
+            "(India: Articles 25-28 guarantee freedom of conscience and religion subject to",
+            "public order, morality and health, and bar religious instruction in wholly",
+            "State-funded institutions -- dated legal facts, not proof of a thesis)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → internally valid for believers; as a GENERAL form of government in a plural modern society it fails consent, equal citizenship and revision.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DEMOCRACY: THE MODEL TAXONOMY AND THE PROTECTION OF MINORITIES",
+      "structural_type": "democracy-model-taxonomy-and-minority-protection",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE MODEL TAXONOMY AND THE PROTECTION OF MINORITIES",
+          "role": "primary"
+        },
+        {
+          "text": "RULE OF THE PEOPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL EQUALITY, CONSENT, PARTICIPATION, ACCOUNTABILITY, PUBLIC JUSTIFICATION AND PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT REPRESENTATIVE PROCEDURAL SUBSTANTIVE CITIZENS CITIZENS ELECT ARE RULERS",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGH WORKABLE AT SCALE; JUSTICE, RIGHTS, PARTICIPATION POWER STANDS",
+          "role": "mechanism"
+        },
+        {
+          "text": "LIBERAL DEMOCRACY",
+          "role": "outcome"
+        },
+        {
+          "text": "POPULAR RULE + CONSTITUTIONAL LIMITS + RIGHTS + RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE MAJORITY GOVERNS WITHOUT CONVERTING NUMBER INTO UNRESTRICTED POWER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "DEFINITION → rule of the people: political equality, consent, participation, accountability, public justification and protection",
+        "DIRECT REPRESENTATIVE PROCEDURAL SUBSTANTIVE citizens citizens elect are rulers chosen do people actually decide rulers",
+        "elections, govern under fair themselves lawmakers competition, rules social conditions?",
+        "high workable at scale; justice, rights, participation power stands apart real equality",
+        "LIBERAL DEMOCRACY = popular rule + constitutional limits + rights + rule of law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINITION → rule of the people: political equality, consent, participation, accountability, public justification and protection of rights",
+            "DIRECT REPRESENTATIVE PROCEDURAL SUBSTANTIVE citizens citizens elect are rulers chosen do people actually decide rulers and fairly?",
+            "elections, govern under fair themselves lawmakers competition, rules social conditions?",
+            "high workable at scale; justice, rights, participation power stands apart real equality"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIBERAL DEMOCRACY = popular rule + constitutional limits + rights + rule of law",
+            "the majority governs WITHOUT converting number into unrestricted power",
+            "ACHIEVEMENTS LIMITS legal guarantees, representation social prejudice outlasts formal equality judicial review, civil liberties incentives reward majoritarian",
+            "rhetoric protected dissent and association formal tolerance, substantive exclusion constitutional accommodation delivery rests on constitutional culture"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DEEPENING MODELS → PARTICIPATORY: participation educates citizens and resists alienation, echoing Mill on public character",
+            "DELIBERATIVE: Habermas grounds legitimacy in public reasoning under freedom, reciprocity and absence of domination",
+            "EPISTEMIC: procedures allow error-detection and revision",
+            "INDIA ANCHOR → Ambedkar warns that political equality cannot long survive amid deep social and economic inequality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIBERAL DEMOCRACY = popular rule + constitutional limits + rights + rule of law.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AUTHORITY AND LEGITIMACY: THE WEBERIAN GRID LAID ACROSS THE CLASSICAL ONE",
+      "structural_type": "authority-typology-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AUTHORITY AND LEGITIMACY",
+          "role": "primary"
+        },
+        {
+          "text": "THE WEBERIAN GRID LAID ACROSS THE CLASSICAL ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLIANCE SECURED DESPITE RESISTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER BELIEVED RIGHTFUL",
+          "role": "mechanism"
+        },
+        {
+          "text": "GROUND OF BELIEF",
+          "role": "primary"
+        },
+        {
+          "text": "SANCTITY OF",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL RETAINERS",
+          "role": "comparison"
+        },
+        {
+          "text": "IMMEMORIAL CUSTOM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POWER = compliance secured despite resistance",
+        "AUTHORITY = power believed RIGHTFUL",
+        "GROUND OF BELIEF",
+        "sanctity of",
+        "personal retainers"
+      ],
+      "matrix": [
+        [
+          "POWER = compliance secured despite resistance",
+          "AUTHORITY = power believed RIGHTFUL",
+          "",
+          ""
+        ],
+        [
+          "TYPE",
+          "GROUND OF BELIEF",
+          "ADMINISTRATION",
+          "SUCCESSION"
+        ],
+        [
+          "TRADITIONAL",
+          "sanctity of",
+          "personal retainers,",
+          "inheritance"
+        ],
+        [
+          "immemorial custom",
+          "patrimonial staff",
+          "or custom",
+          ""
+        ],
+        [
+          "CHARISMATIC",
+          "devotion to an",
+          "disciples chosen",
+          "acute; the"
+        ],
+        [
+          "exceptional leader",
+          "personally, no rules",
+          "type is frail",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "POWER = compliance secured despite resistance",
+            "AUTHORITY = power believed RIGHTFUL",
+            "GROUND OF BELIEF",
+            "sanctity of",
+            "personal retainers,"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "disciples chosen",
+            "acute; the",
+            "exceptional leader",
+            "personally, no rules",
+            "type is frail"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "THE TYPOLOGY CUTS ACROSS THE CLASSICAL GRID monarchy → traditional, occasionally charismatic theocracy →",
+            "traditional joined to charismatic democracy → normally legal-rational, yet capturable by plebiscitary charisma",
+            "ROUTINISATION OF CHARISMA → movement becomes party becomes bureaucracy",
+            "SCHUMPETER → democracy is the COMPETITIVE STRUGGLE FOR THE PEOPLE'S VOTE",
+            "the people's function is to PRODUCE A GOVERNMENT, not to govern (procedural pole)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → number of rulers tells us WHO decides; type of legitimacy tells us WHY they are obeyed, and a complete assessment requires both grids.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POPULISM, ILLIBERAL DEMOCRACY AND THE MANUFACTURE OF CONSENT",
+      "structural_type": "causal-process-of-democratic-erosion",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POPULISM, ILLIBERAL DEMOCRACY AND THE MANUFACTURE OF CONSENT",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINITIONAL CONTEST",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE IT, NEVER SETTLE IT SILENTLY",
+          "role": "institution"
+        },
+        {
+          "text": "MUDDE (2004)",
+          "role": "evidence"
+        },
+        {
+          "text": "POPULISM AS A THIN-CENTRED IDEOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "A PURE PEOPLE AGAINST A CORRUPT ELITE, ATTACHING TO",
+          "role": "outcome"
+        },
+        {
+          "text": "MULLER (2016)",
+          "role": "comparison"
+        },
+        {
+          "text": "THE DECISIVE MOVE IS EXCLUSIVE MORAL REPRESENTATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINITIONAL CONTEST → state it, never settle it silently",
+        "MUDDE (2004) → populism as a THIN-CENTRED ideology: a pure people against a corrupt elite",
+        "MULLER (2016) → the decisive move is EXCLUSIVE MORAL REPRESENTATION: rivals are not opponents but",
+        "LACLAU (2005) → populism as a LOGIC OF ARTICULATION binding unsatisfied demands into a collective",
+        "THE SLIDE, STEP BY STEP"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINITIONAL CONTEST → state it, never settle it silently",
+            "MUDDE (2004) → populism as a THIN-CENTRED ideology: a pure people against a corrupt elite, attaching to a HOST ideology across the spectrum",
+            "MULLER (2016) → the decisive move is EXCLUSIVE MORAL REPRESENTATION: rivals are not opponents but enemies of the people (ANTI-PLURALISM)",
+            "LACLAU (2005) → populism as a LOGIC OF ARTICULATION binding unsatisfied demands into a collective subject called the people",
+            "THE SLIDE, STEP BY STEP"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] courts, chambers, commissions, press and federal units become obstructions",
+            "[5] they are weakened, captured or bypassed while elections continue",
+            "[6] result → ILLIBERAL DEMOCRACY",
+            "FORM RETAINED",
+            "SUBSTANCE ERODED elections continue"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "plurality of ownership, absence of indirect pressure opposition parties exist",
+            "a realistic prospect of alternation in power",
+            "PROPAGANDA → a judgment is the citizen's own only under access to information, rival argument and freedom from manipulation",
+            "otherwise consent is MANUFACTURED and a vote confers sociological legitimacy without normative authorisation",
+            "REGULATOR'S DILEMMA → content-based remedies hand the state power over public truth, the very power a propagandising state abuses"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → a diagnostic grid only; no country, party, leader or period is judged.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WHERE POWER SITS: UNITARY AGAINST FEDERAL DESIGN AND SUBSIDIARITY",
+      "structural_type": "territorial-cross-section-of-public-power",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WHERE POWER SITS",
+          "role": "mechanism"
+        },
+        {
+          "text": "UNITARY AGAINST FEDERAL DESIGN AND SUBSIDIARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SECOND AXIS (COMPARATIVE SCAFFOLDING, CLEARLY LABELLED -- NOT OWNED",
+          "role": "caution"
+        },
+        {
+          "text": "WHO RULES IS ONE QUESTION; WHERE POWER SITS AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "UNITARY <--------------------------------------------------------→ FEDERAL ONE CENTRAL GOVERNMENT; A CONSTITUTIONAL DIVISION",
+          "role": "primary"
+        },
+        {
+          "text": "STABILISERS BICAMERALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "A CHAMBER FOR THE UNITS A JUDICIAL UMPIRE OVER",
+          "role": "comparison"
+        },
+        {
+          "text": "COMING-TOGETHER FEDERATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECOND AXIS (comparative scaffolding, clearly labelled -- not owned doctrine)",
+        "WHO RULES is one question; WHERE POWER SITS and HOW FAR DOWN it goes is",
+        "UNITARY <--------------------------------------------------------→ FEDERAL one central government",
+        "a constitutional DIVISION of powers sub-units exercise DELEGATED between centre and units, each with powers",
+        "STABILISERS bicameralism: a chamber for the units a JUDICIAL UMPIRE over the centre-unit boundary fiscal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SECOND AXIS (comparative scaffolding, clearly labelled -- not owned doctrine)",
+            "WHO RULES is one question; WHERE POWER SITS and HOW FAR DOWN it goes is another",
+            "UNITARY <--------------------------------------------------------→ FEDERAL one central government",
+            "a constitutional DIVISION of powers sub-units exercise DELEGATED between centre and units, each with powers it may withdraw",
+            "STABILISERS bicameralism: a chamber for the units a JUDICIAL UMPIRE over the centre-unit boundary fiscal and intergovernmental machinery"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOLDING-TOGETHER federation: one polity devolves to hold diversity",
+            "FEDERATION (one indissoluble sovereignty) against CONFEDERATION",
+            "(sovereign members, exit possible, weak centre)",
+            "SUBSIDIARITY → decide at the LOWEST capable level",
+            "CENTRE → STATE / PROVINCE → DISTRICT → LOCAL SELF-GOVERNMENT"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "INDIA (dated legal facts) → Article 40 directs the State to organise village panchayats as units of self-government; the 73rd and 74th Constitutional",
+            "Amendment Acts, 1992 added Parts IX and IX-A.",
+            "India is a parliamentary, holding-together federal republic under CONSTITUTIONAL SUPREMACY with judicial review -- never parliamentary sovereignty",
+            "GANDHI → village self-rule (swaraj): self-reliant, participatory village republics",
+            "CONTROL → keep the axis subordinate and return to source, purpose and limits."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → keep the axis subordinate and return to source, purpose and limits.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE ANSWER SPINE: SHARED AXES, DIRECTIVE DECODER AND THE GRADED VERDICT",
+      "structural_type": "integrated-answer-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED AXES, DIRECTIVE DECODER AND THE GRADED VERDICT",
+          "role": "outcome"
+        },
+        {
+          "text": "STEP 1 DEFINE",
+          "role": "comparison"
+        },
+        {
+          "text": "NAME THE FORM BY ITS SOURCE OF AUTHORITY, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "STEP 2 LOCATE",
+          "role": "primary"
+        },
+        {
+          "text": "PLACE THE STEM ON THE CLASSICAL GRID AND THE",
+          "role": "outcome"
+        },
+        {
+          "text": "STEP 3 RIVALS",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE ONE REAL DEBATE, NEVER THREE DISCONNECTED MINI-ESSAYS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 DEFINE → name the form by its SOURCE OF AUTHORITY, not by a",
+        "STEP 2 LOCATE → place the stem on the classical grid AND the legitimacy grid",
+        "STEP 3 RIVALS → stage ONE real debate, never three disconnected mini-essays",
+        "STEP 4 OBJECT → voice the strongest objection to your own thesis, then reply",
+        "STEP 5 EVIDENCE → one unit at 10 marks, two at 15, four or five"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "STEP 1 DEFINE → name the form by its SOURCE OF AUTHORITY, not by a caricature",
+            "STEP 2 LOCATE → place the stem on the classical grid AND the legitimacy grid",
+            "STEP 3 RIVALS → stage ONE real debate, never three disconnected mini-essays",
+            "STEP 4 OBJECT → voice the strongest objection to your own thesis, then reply",
+            "STEP 5 EVIDENCE → one unit at 10 marks, two at 15, four or five at 20"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "treatment of dissent",
+            "equal citizenship",
+            "CAPACITY TO CORRECT ERROR <- the axis that usually decides and is usually left out",
+            "DIRECTIVE DECODER -- the verb fixes the structure",
+            "Comment on → claim, argument, one objection, verdict"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "VERDICT FORMULAS (adapt, never reproduce mechanically)",
+            "ASYMMETRIC → the diagnosis survives, the remedy does not",
+            "CRITERION → by consent and equal citizenship, theocratic sovereignty fails",
+            "FORM/SUBSTANCE → the form is kept; the conditions worth having are not",
+            "CROSS-TYPOLOGY → who decides, plus why they are obeyed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Comment on → claim, argument, one objection, verdict.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INSTITUTIONAL FORM AXES INSIDE CONSTITUTIONAL GOVERNMENT",
+      "structural_type": "three-axis institutional matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL FORM AXES INSIDE CONSTITUTIONAL GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTIVE-LEGISLATIVE FUSION PLUS COLLECTIVE RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE MANDATE, FIXED TENURE AND STRONGER SEPARATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REMOVABILITY AND COORDINATION VERSUS STABILITY AND DEADLOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "SUB-UNIT POWERS ARE DELEGATED AND LEGALLY WITHDRAWABLE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRE AND UNITS HOLD CONSTITUTIONALLY DIVIDED COMPETENCES",
+          "role": "outcome"
+        },
+        {
+          "text": "COORDINATION MUST COEXIST WITH CHECKS AND REVIEW",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSIDIARITY, LOCAL KNOWLEDGE AND PARTICIPATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARLIAMENTARY → executive-legislative fusion plus collective responsibility",
+        "PRESIDENTIAL → separate mandate, fixed tenure and stronger separation",
+        "TRADE-OFF → removability and coordination versus stability and deadlock",
+        "UNITARY → sub-unit powers are delegated and legally withdrawable",
+        "FEDERAL → centre and units hold constitutionally divided competences"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PARLIAMENTARY → executive-legislative fusion plus collective responsibility",
+          "UNITARY → sub-unit powers are delegated and legally withdrawable",
+          "DECENTRALISATION → subsidiarity, local knowledge and participation"
+        ],
+        [
+          "PRESIDENTIAL → separate mandate, fixed tenure and stronger separation",
+          "FEDERAL → centre and units hold constitutionally divided competences",
+          "CONTROL → no institutional axis by itself proves democratic legitimacy"
+        ],
+        [
+          "TRADE-OFF → removability and coordination versus stability and deadlock",
+          "FUSION/SEPARATION → coordination must coexist with checks and review",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PARLIAMENTARY → executive-legislative fusion plus collective responsibility",
+            "PRESIDENTIAL → separate mandate, fixed tenure and stronger separation",
+            "TRADE-OFF → removability and coordination versus stability and deadlock"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "UNITARY → sub-unit powers are delegated and legally withdrawable",
+            "FEDERAL → centre and units hold constitutionally divided competences",
+            "FUSION/SEPARATION → coordination must coexist with checks and review"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "DECENTRALISATION → subsidiarity, local knowledge and participation",
+            "CONTROL → no institutional axis by itself proves democratic legitimacy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL → no institutional axis by itself proves democratic legitimacy.",
+      "source_references": [
+        "SESSION 6",
+        "SESSION 9",
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "NON-DEMOCRATIC REGIME FAMILIES AND THE SIX DEMOCRATIC PATHOLOGIES",
+      "structural_type": "regime-spectrum-and-pathology-grid",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NON-DEMOCRATIC REGIME FAMILIES AND THE SIX DEMOCRATIC PATHOLOGIES",
+          "role": "primary"
+        },
+        {
+          "text": "CONCENTRATED RULE WITHOUT REGULAR COMPETITIVE ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RESTRICTED PLURALISM, OPPOSITION AND PUBLIC DISCUSSION",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPREHENSIVE IDEOLOGY, MOBILISATION AND PARTY-STATE PENETRATION",
+          "role": "institution"
+        },
+        {
+          "text": "MAJORITY TYRANNY",
+          "role": "primary"
+        },
+        {
+          "text": "ELITE CAPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTABILITY/SHORT-TERMISM POPULIST ANTI-PLURALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "BUREAUCRATIC DOMINATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DICTATORSHIP → concentrated rule without regular competitive accountability",
+        "AUTHORITARIANISM → restricted pluralism, opposition and public discussion",
+        "TOTALITARIANISM → comprehensive ideology, mobilisation and party-state penetration",
+        "PATHOLOGIES → majority tyranny",
+        "elite capture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "DICTATORSHIP → concentrated rule without regular competitive accountability",
+            "AUTHORITARIANISM → restricted pluralism, opposition and public discussion",
+            "TOTALITARIANISM → comprehensive ideology, mobilisation and party-state penetration",
+            "PATHOLOGIES → majority tyranny"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "elite capture",
+            "instability/short-termism populist anti-pluralism",
+            "bureaucratic domination",
+            "COUNTERWEIGHTS → rights"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "plural media",
+            "transparency decentralisation",
+            "realistic alternation in power",
+            "VERDICT → democracy's strength is corrigibility, not immunity from error"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → democracy's strength is corrigibility, not immunity from error.",
+      "source_references": [
+        "SESSION 7",
+        "SESSION 8",
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE CLASSIFICATION PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO RULES, FOR WHOM, UNDER WHAT LIMITS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — PLATO",
+          "role": "evidence"
+        },
+        {
+          "text": "THE DEGENERATION OF CONSTITUTIONS AND THE CRITIQUE OF DEMOCRACY",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — ARISTOTLE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SIX-FOLD MATRIX, ARISTOCRACY/OLIGARCHY AND THE POLITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — MONARCHY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Classification Problem: Who Rules, For Whom, Under What Limits",
+            "ADVANCED SESSION 2 — Plato: The Degeneration of Constitutions and the Critique of Democracy",
+            "ADVANCED SESSION 3 — Aristotle: The Six-Fold Matrix, Aristocracy/Oligarchy and the Polity",
+            "ADVANCED SESSION 4 — Monarchy: Absolute vs Constitutional, Freedom and the Above-Politics Claim"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Theocracy: Divine Sovereignty, Secularism and the Validity Question",
+            "ADVANCED SESSION 6 — Democracy: Models, Institutional Forms and Minority Protection",
+            "ADVANCED SESSION 7 — Authority, Legitimacy and the Non-Democratic Forms (Weber, Schumpeter, Michels)",
+            "ADVANCED SESSION 8 — Populism, Illiberal Democracy and Propaganda"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Institutional and Territorial Design: Federal/Unitary, Decentralisation and Inter-Form Debates",
+            "ADVANCED SESSION 10 — Mixed/Constitutional Government, Criteria of Evaluation and the Comparative Verdict",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite: Monarchy, theocracy and democracy as named syllabus terms"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

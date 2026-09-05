@@ -1,0 +1,610 @@
+#### ASCII MASTER FLOW — PANEL 1/10: Conceptual grammar and analytical axes
+
+```ascii-master
+Philosophy — Notions of God: ASCII Master Flow Diagram
+
+                       NOTIONS OF GOD
+                              │
+                              ▼
+                  CENTRAL PHILOSOPHICAL QUESTION
+       What kind of reality is called “God”, and how is it
+                 related to man and the world?
+                              │
+                              ▼
+                CONCEPTUAL ANALYSIS BEFORE PROOF
+                              │
+ ┌──────────────────┬──────────────────┬──────────────────┐
+ ▼                  ▼                  ▼
+Nature of God       Divine attributes  Relation
+• Personal          • Power            • God–world
+• Impersonal        • Knowledge        • God–man
+• Transpersonal     • Goodness         • Transcendence
+                    • Eternity         • Immanence
+                    • Simplicity
+                              │
+                              ▼
+                   TWO FUNDAMENTAL AXES
+                              │
+       ┌──────────────────────┴──────────────────────┐
+       ▼                                             ▼
+   NATURE AXIS                                  RELATION AXIS
+       │                                             │
+ ┌─────┴─────┐                              ┌────────┴────────┐
+ ▼           ▼                              ▼                 ▼
+Personal   Impersonal                  Transcendent        Immanent
+• Knows    • Absolute                  • Beyond world      • Present in
+• Wills    • Principle                 • Independent         the world
+• Loves    • Substance                 • Not reducible     • Sustains or
+• Acts     • Pure reality                to creation         indwells it
+                              │
+                              ▼
+             THESE AXES ARE NOT MUTUALLY EXCLUSIVE
+• Classical theism: personal + transcendent + immanent
+• Spinoza: impersonal + radically immanent
+• Advaita: impersonal Absolute; Īśvara at empirical level
+• Rāmānuja: personal + immanent + transcendent
+                              │
+                              ▼
+                  LANGUAGE USED ABOUT GOD
+                              │
+       ┌──────────────────────┴──────────────────────┐
+       ▼                                             ▼
+    CATAPHATIC                                    APOPHATIC
+  Positive theology                            Negative theology
+• God is good                                • God is not finite
+• God is wise                                • Not composite
+• God is powerful                            • Not dependent
+• God is loving                              • Beyond ordinary
+                                               predication
+       └──────────────────────┬──────────────────────┘
+                              ▼
+                     ANALOGICAL CONTROL
+• Divine predicates cannot always have exactly the same meaning
+  as their human applications
+• Too much affirmation → anthropomorphism
+• Too much negation → empty or indeterminate God-talk
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 2/10: Western models: theism, deism and Spinoza
+
+```ascii-master
+                 WESTERN NOTIONS OF GOD
+                              │
+ ┌────────────┬────────────┬────────────┬────────────┬────────────┐
+ ▼            ▼            ▼            ▼            ▼
+Theism       Deism       Pantheism   Panentheism   Process God
+                              │
+                              ▼
+                     CLASSICAL THEISM
+• Personal and necessary Creator
+• Distinct from the world
+• Creates and continuously sustains it
+• Transcendent yet immanent
+• Omnipotent, omniscient and perfectly good
+• Eternal, immutable, simple and self-existent
+                              │
+                              ▼
+                     GOD–WORLD RELATION
+              Creator → Sustainer → Providence
+                              │
+                              ▼
+                      GOD–MAN RELATION
+• Human beings are dependent creatures
+• Moral responsibility and divine command
+• Prayer, worship, grace and providence are intelligible
+                              │
+                              ▼
+                            DEISM
+• God creates the universe and its natural laws
+• God does not normally intervene afterward
+• Miracles and special revelation are rejected
+• God resembles a “cosmic clockmaker”
+                              │
+                              ▼
+              CREATION → NATURAL LAW → WITHDRAWAL
+                              │
+                              ▼
+                         CONSEQUENCE
+• God remains transcendent
+• Divine immanence and providential intervention are weakened
+• Man encounters God primarily through reason and natural order
+                              │
+                              ▼
+                          PANTHEISM
+                    GOD AND WORLD ARE IDENTICAL
+                              │
+                              ▼
+                      SPINOZA’S GOD
+                   “DEUS SIVE NATURA”
+                     “God, or Nature”
+                              │
+                              ▼
+                    ONE INFINITE SUBSTANCE
+                              │
+        ┌─────────────────────┴─────────────────────┐
+        ▼                                           ▼
+     ATTRIBUTES                                  MODES
+• Infinite ways in which                  • Finite things
+  substance is expressed                  • Minds and bodies
+• Human beings know                       • Depend on the one
+  Thought and Extension                     infinite substance
+                              │
+                              ▼
+                GOD DOES NOT CHOOSE TO CREATE
+• Everything follows necessarily from divine nature
+• God is not a personal ruler outside nature
+• God is wholly immanent
+• Divine freedom means acting from the necessity of one’s nature
+                              │
+                              ▼
+                   SPINOZA’S CENTRAL PROBLEM
+• Personality, providence and free will appear to disappear
+                              │
+                              ▼
+                        SPINOZA’S REPLY
+• Freedom is not arbitrary choice
+• Freedom is self-determined activity arising from one’s nature
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 3/10: Panentheism and process/dipolar theism
+
+```ascii-master
+                         PANENTHEISM
+                    THE WORLD EXISTS IN GOD
+                              │
+              ┌───────────────┴───────────────┐
+              ▼                               ▼
+       God includes world              God exceeds world
+       Divine immanence                Divine transcendence
+                              │
+                              ▼
+                    NOT THE SAME AS PANTHEISM
+• Pantheism: God = world/nature
+• Panentheism: world is in God, but God is more than the world
+                              │
+                              ▼
+                    PROCESS/DIPOLAR THEISM
+                              │
+       ┌──────────────────────┴──────────────────────┐
+       ▼                                             ▼
+ Abstract pole                                 Consequent pole
+• Eternal possibilities                      • Receives the world
+• Stable divine character                    • Relates to changing
+                                               events and experiences
+                              │
+                              ▼
+                 GOD PERSUADES RATHER THAN COERCES
+• Protects creaturely freedom
+• Makes God relational and responsive
+• But revises classical omnipotence and immutability
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 4/10: Divine attributes and coherence pressures
+
+```ascii-master
+                       DIVINE ATTRIBUTES
+                              │
+ ┌──────────────┬──────────────┬──────────────┬──────────────┐
+ ▼              ▼              ▼              ▼
+Omnipotence   Omniscience   Omnibenevolence  Eternity
+All-powerful  All-knowing   Perfect goodness Beyond ordinary
+                                             temporal limitation
+                              │
+ ┌──────────────┬──────────────┬──────────────┬──────────────┐
+ ▼              ▼              ▼              ▼
+Immutability  Simplicity      Necessity       Aseity
+Unchanging    No composition  Cannot fail     Depends on
+                              to exist         nothing else
+                              │
+                              ▼
+                  OMNIPOTENCE — LOGICAL LIMIT
+                              │
+    Can God create a square circle or make 2 + 2 equal 5?
+                              │
+                              ▼
+                     CLASSICAL RESPONSE
+• Omnipotence means power to do everything logically possible
+• Contradictions are not genuine objects of power
+• Inability to perform nonsense is not weakness
+                              │
+                              ▼
+                    OMNISCIENCE AND FREEDOM
+                              │
+        God infallibly knows what a person will choose
+                              │
+                              ▼
+        Can that person genuinely choose otherwise?
+                              │
+ ┌────────────────┬────────────────┬────────────────┬────────────────┐
+ ▼                ▼                ▼                ▼
+Boethian view    Ockhamism        Molinism        Open theism
+God is timeless  Some past facts  God knows       Future free acts
+rather than      remain dependent “middle         are not yet fixed
+foreknowing      on free choices   knowledge”
+                              │
+                              ▼
+                      QUALIFIED VERDICT
+Compatibility is possible only after clearly defining:
+• Divine knowledge
+• Human freedom
+• Alternative possibilities
+• Temporal or timeless eternity
+                              │
+                              ▼
+             GOODNESS + POWER + KNOWLEDGE PROBLEM
+                              │
+      If God is all-powerful, all-knowing and perfectly good,
+                       why does evil exist?
+                              │
+                              ▼
+                       COHERENCE PRESSURE
+• Evil challenges the joint compatibility of divine attributes
+• The problem concerns the kind of God being affirmed
+• Detailed theodicies belong primarily to the Problem of Evil topic
+                              │
+                              ▼
+                      DIVINE SIMPLICITY
+• God is not composed of matter and form
+• No substance–property composition
+• No real division between divine essence and existence
+• Wisdom, goodness and power are not separate parts of God
+                              │
+                              ▼
+                         PURPOSE
+     Whatever is composite depends on its constituent parts
+                              │
+                              ▼
+       The ultimate independent ground cannot be composite
+                              │
+                              ▼
+                         OBJECTION
+If God is identical with every divine attribute, how can:
+• Wisdom differ from power?
+• God freely relate to changing creatures?
+• Personal divine action remain intelligible?
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 5/10: Advaita: Brahman, Īśvara and vivarta
+
+```ascii-master
+               INDIAN NOTIONS OF ULTIMATE REALITY
+                              │
+ ┌──────────────────┬──────────────────┬──────────────────┐
+ ▼                  ▼                  ▼
+Advaita           Viśiṣṭādvaita       Nyāya
+Śaṅkara           Rāmānuja            Īśvara
+                              │
+                              ▼
+                          ADVAITA
+                  ONE NON-DUAL BRAHMAN
+                              │
+       ┌──────────────────────┴──────────────────────┐
+       ▼                                             ▼
+ NIRGUṆA BRAHMAN                                SAGUṆA ĪŚVARA
+• Without limiting qualities                   • Brahman with qualities
+• Beyond objectifying speech                   • Personal Lord
+• Pāramārthika standpoint                      • Creator and ruler
+• Non-dual reality                             • Object of devotion
+• Sat–Cit–Ānanda                               • Vyāvahārika standpoint
+                              │
+                              ▼
+                    IMPORTANT TECHNICAL TRAP
+• Nirguṇa Brahman is beyond limiting predication
+• Brahman should not technically be called anirvacanīya
+• Anirvacanīya describes māyā/world appearance:
+  neither absolutely real nor absolutely unreal
+                              │
+                              ▼
+                    GOD–WORLD RELATION
+                Brahman + Māyā → Experienced world
+                              │
+                              ▼
+                         VIVARTA
+• Apparent transformation
+• Brahman does not undergo real modification
+• Rope appears as snake without becoming a snake
+                              │
+                              ▼
+                     GOD–MAN RELATION
+                         ĀTMAN = BRAHMAN
+                              │
+                              ▼
+       Liberation is knowledge of the already existing identity
+                              │
+                              ▼
+                  ADVAITA’S CENTRAL STRENGTH
+• Preserves non-dual ultimacy
+• Explains transcendence of finite categories
+                              │
+                              ▼
+                    RĀMĀNUJA’S OBJECTION
+A reality entirely without qualities is:
+• Religiously inaccessible
+• Difficult to distinguish from non-being
+• Unable to support genuine devotion
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 6/10: Rāmānuja: qualified non-dualism
+
+```ascii-master
+                       VIŚIṢṬĀDVAITA
+                    QUALIFIED NON-DUALISM
+                              │
+                              ▼
+              PERSONAL SAGUṆA BRAHMAN — NĀRĀYAṆA
+                              │
+        ┌─────────────────────┴─────────────────────┐
+        ▼                                           ▼
+       CIT                                         ACIT
+Conscious selves                          Non-conscious matter
+        └─────────────────────┬─────────────────────┘
+                              ▼
+                 REAL QUALIFICATIONS OF BRAHMAN
+                              │
+                              ▼
+                    ŚARĪRA–ŚARĪRĪ RELATION
+       World and souls                Brahman
+       God’s body            ←→       Indwelling self/controller
+                              │
+                              ▼
+                       APṚTHAK-SIDDHI
+• Souls and world are inseparable from God
+• They are dependent upon God
+• They remain real and distinct
+• Inseparability does not mean numerical identity
+                              │
+                              ▼
+                     GOD AS BOTH CAUSES
+        ┌─────────────────────┴─────────────────────┐
+        ▼                                           ▼
+  Material cause                              Efficient cause
+World proceeds from                         God intelligently
+God’s own dependent reality                 orders and controls it
+                              │
+                              ▼
+                         PARIṆĀMA
+• The world is a real manifestation
+• Creation is not merely an illusory appearance
+                              │
+                              ▼
+                    GOD–MAN RELATION
+        Jīva → dependence → bhakti → prapatti → liberation
+                              │
+                              ▼
+                 RĀMĀNUJA’S CENTRAL STRENGTH
+• Preserves unity without destroying plurality
+• Grounds devotion in a real personal relationship
+                              │
+                              ▼
+                         OBJECTION
+If the world is God’s body, do worldly defects affect God?
+                              │
+                              ▼
+                      RĀMĀNUJA’S REPLY
+• Defects belong to the controlled body
+• They do not compromise the perfection of its inner controller
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 7/10: Nyāya and Hindu divine plurality
+
+```ascii-master
+                        NYĀYA ĪŚVARA
+                 PLURALISTIC REALIST SYSTEM
+                              │
+ ┌────────────────┬────────────────┬────────────────┬────────────────┐
+ ▼                ▼                ▼                ▼
+God             Selves           Atoms            Space and time
+Real            Real             Real             Real
+                              │
+                              ▼
+                    GOD IS EFFICIENT CAUSE
+• God orders eternal atoms
+• Atoms constitute the material cause
+• Nyāya does not teach creation ex nihilo
+• God does not transform himself into the world
+                              │
+                              ▼
+                    MORAL GOVERNANCE
+       Karma/adṛṣṭa → divine coordination → appropriate results
+                              │
+                              ▼
+                    GOD–MAN RELATION
+• God administers the moral order
+• Individual selves remain distinct
+• Liberation does not erase the self into an Absolute
+                              │
+                              ▼
+                 HINDU DIVINE PLURALITY PROBLEM
+                   “IS HINDUISM POLYTHEISTIC?”
+                              │
+ ┌────────────┬────────────┬──────────────┬────────────┬────────────┐
+ ▼            ▼            ▼              ▼            ▼
+Polytheism  Henotheism  Kathenotheism  Monotheism    Monism
+Many gods   One deity   One deity at   One supreme   One ultimate
+treated as  treated as  a time receives God          reality
+independent supreme     supreme praise
+                              │
+                              ▼
+                         VEDIC ANCHOR
+                    ṚGVEDA 1.164.46
+         “Reality is one; sages speak of it variously.”
+                              │
+                              ▼
+                    TWO-SIDED EVALUATION
+        ┌─────────────────────┴─────────────────────┐
+        ▼                                           ▼
+Polytheistic appearance                       Deeper unity
+• Many deities                                • One reality,
+• Distinct rituals                              many names
+• Different functions                        • Henotheistic invocation
+• Village and temple worship                 • Upaniṣadic monism
+                                              • Sectarian monotheism
+                              │
+                              ▼
+                      QUALIFIED VERDICT
+Hinduism cannot be adequately described by one category:
+• Polytheistic practice
+• Henotheistic invocation
+• Vaiṣṇava, Śaiva and Śākta monotheistic forms
+• Upaniṣadic monism
+coexist at different religious and philosophical levels
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 8/10: God–world–man comparison and physical manifestation
+
+```ascii-master
+           COMPARATIVE GOD–WORLD–MAN RELATION
+                              │
+ ┌──────────────┬─────────────────────┬─────────────────────────┐
+ │ SYSTEM       │ GOD–WORLD           │ GOD–MAN                 │
+ ├──────────────┼─────────────────────┼─────────────────────────┤
+ │ Theism       │ Creator and         │ Personal relation,      │
+ │              │ sustainer           │ worship and providence  │
+ ├──────────────┼─────────────────────┼─────────────────────────┤
+ │ Deism        │ Creator who         │ Remote rational source  │
+ │              │ withdraws           │                         │
+ ├──────────────┼─────────────────────┼─────────────────────────┤
+ │ Spinoza      │ God = Nature        │ Man is a finite mode    │
+ ├──────────────┼─────────────────────┼─────────────────────────┤
+ │ Advaita      │ World is vivarta    │ Ātman is Brahman        │
+ ├──────────────┼─────────────────────┼─────────────────────────┤
+ │ Rāmānuja     │ World is God’s      │ Jīva is distinct yet    │
+ │              │ real body           │ inseparably dependent   │
+ ├──────────────┼─────────────────────┼─────────────────────────┤
+ │ Nyāya        │ God orders atoms    │ Distinct soul under     │
+ │              │ as efficient cause  │ moral governance        │
+ └──────────────┴─────────────────────┴─────────────────────────┘
+                              │
+                              ▼
+             MUST GOD HAVE PHYSICAL MANIFESTATION
+                   TO BE THE ULTIMATE CAUSE?
+                              │
+       ┌──────────────────────┴──────────────────────┐
+       ▼                                             ▼
+          NO                                     QUALIFICATION
+• Physical existence implies                • Pantheism identifies
+  spatial and material limits                 God with nature
+• Ultimate cause must not                   • Rāmānuja calls the world
+  depend on physical conditions               God’s body, but not an
+• Theism and Advaita affirm                    anthropomorphic physical
+  a non-physical ultimate                      body
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 9/10: Examiner traps and PYQ routes
+
+```ascii-master
+                        EXAMINER TRAPS
+• Personal does not mean anthropomorphic
+• Transcendent does not mean spatially remote
+• Immanent does not automatically mean pantheistic
+• Pantheism is not panentheism
+• Nirguṇa does not mean non-existent
+• Nirguṇa Brahman is not technically anirvacanīya
+• Apṛthak-siddhi means inseparability, not identity
+• Nyāya God is efficient cause; atoms are material causes
+• Monism and monotheism answer different questions
+• Do not list attributes without examining their compatibility
+                              │
+                              ▼
+                    HIGH-YIELD PYQ ROUTES
+                              │
+ ┌──────────────────────────────┬──────────────────────────────────┐
+ │ PYQ THEME                    │ REQUIRED ROUTE                   │
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ Personal and impersonal God  │ Theism/Spinoza +                │
+ │                              │ Saguṇa/Nirguṇa                   │
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ Immanent and transcendent    │ Define both → show compatibility│
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ Spinoza’s God                │ Substance → attributes → modes  │
+ │                              │ → necessity → criticism         │
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ God and self in Rāmānuja     │ Cit–acit → body–soul →          │
+ │                              │ apṛthak-siddhi → devotion       │
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ Hinduism polytheistic?       │ Define categories → Vedic       │
+ │                              │ evidence → qualified verdict    │
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ Freedom and omnipotent God   │ Foreknowledge problem → major   │
+ │                              │ solutions → qualified verdict   │
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ Nature of Nyāya God          │ Pluralism → efficient cause →   │
+ │                              │ atoms → karma administration    │
+ ├──────────────────────────────┼──────────────────────────────────┤
+ │ Physical manifestation       │ Ultimacy → independence →       │
+ │                              │ compare major models            │
+ └──────────────────────────────┴──────────────────────────────────┘
+                              │
+                              ▼
+```
+
+#### ASCII MASTER FLOW — PANEL 10/10: Answer-writing spine and qualified conclusion
+
+```ascii-master
+                    ANSWER-WRITING SPINE
+                              │
+ Define the precise God-concept
+              │
+              ▼
+ State its metaphysical model
+              │
+              ▼
+ Explain God–world and God–man relations
+              │
+              ▼
+ Introduce exact philosopher/school terminology
+              │
+              ▼
+ Present strongest objection and strongest reply
+              │
+              ▼
+ Compare using the same conceptual axes
+              │
+              ▼
+ Give a qualified philosophical verdict
+                              │
+                              ▼
+                    MODEL CONCLUSION
+The notion of God is not one universally identical concept but
+a family of metaphysical models. Classical theism emphasises
+perfect personal agency and transcendence; Spinoza emphasises
+unity, necessity and immanence; Advaita protects non-dual
+absoluteness; Rāmānuja reconciles unity with real plurality and
+devotion; and Nyāya preserves intelligent causation and moral
+governance. Their adequacy depends on whether ultimacy is best
+understood as a perfect person, infinite substance, non-dual
+consciousness, organic unity or intelligent ordering.
+
+High-yield formula:
+
+NOTION OF GOD
+      =
+Nature of ultimate reality
+      +
+Divine attributes
+      +
+God–world relation
+      +
+God–man relation
+      +
+Coherence under objections
+```
+
+
+<!-- PHILOSOPHY RELIGION 01 SOURCE-COMPLETE REBUILD -->
