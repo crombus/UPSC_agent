@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/11: Responsible government: identity and constitutional architecture
+ASCII MASTER FLOW — PANEL 1/12: Responsible government: identity and constitutional architecture
 CENTRAL QUESTION
 Who governs, who remains answerable, and what happens when confidence is lost?
 
@@ -13,8 +13,12 @@ Art 77 business form -> Art 78 PM-President information -> Art 88 House particip
 
 STATE MIRROR
 Arts 163-164 advice / Assembly responsibility -> Arts 166-167 business / information
+MUST REMEMBER: Build responsible government from Articles 74, 75, 78 and 88 at the Union and
+  Articles 163-164 in the States: aid and advice, appointment, collective responsibility,
+  confidence, six-month membership, ministry size, secrecy and dissolution must remain
+  distinct.
 
-ASCII MASTER FLOW — PANEL 2/11: Nominal and real executive: advice, office and bounded discretion
+ASCII MASTER FLOW — PANEL 2/12: Nominal and real executive: advice, office and bounded discretion
 FORMAL VESTING -> RESPONSIBLE EXERCISE
 President / Governor = constitutional head
 PM / CM + Council = real political executive
@@ -30,7 +34,7 @@ Governor retains only constitutionally recognised discretionary fields
 TRAP
 nominal != useless; formal vesting and binding advice are both true
 
-ASCII MASTER FLOW — PANEL 3/11: Eight features and three forms of ministerial responsibility
+ASCII MASTER FLOW — PANEL 3/12: Eight features and three forms of ministerial responsibility
 EIGHT FEATURES
 dual executive | majority/coalition support | collective responsibility | common programme
 double membership | PM leadership | lower-House dissolution | secrecy
@@ -47,7 +51,7 @@ India has no universal British-style countersignature rule for every presidentia
 CAVEATS
 homogeneity is political, secrecy is not immunity, six-month membership is temporary
 
-ASCII MASTER FLOW — PANEL 4/11: Confidence, supply, dissolution and judicial floor-test controls
+ASCII MASTER FLOW — PANEL 4/12: Confidence, supply, dissolution and judicial floor-test controls
 CONTINUING CONFIDENCE
 majority / coalition / minority support -> House test -> authority to govern
 
@@ -65,7 +69,7 @@ objective material of lost House confidence is required
 CARETAKER
 continuity with restraint until a responsible ministry takes office
 
-ASCII MASTER FLOW — PANEL 5/11: Cabinet, Council and Prime Ministerial leadership
+ASCII MASTER FLOW — PANEL 5/12: Cabinet, Council and Prime Ministerial leadership
 COUNCIL OF MINISTERS
 wider constitutional ministry; every rank shares collective responsibility
 
@@ -81,7 +85,7 @@ LIMIT
 PM leadership remains bounded by Cabinet responsibility, party support, federalism,
 courts, Parliament and elections
 
-ASCII MASTER FLOW — PANEL 6/11: How cabinet and PM dominance can marginalise Parliament
+ASCII MASTER FLOW — PANEL 6/12: How cabinet and PM dominance can marginalise Parliament
 CONSTITUTIONAL FUSION
 Arts 74-75 ministry inside legislature
         +
@@ -100,8 +104,12 @@ PRS CONTROL
 17th Lok Sabha: 274 sitting days; 16% Bills referred to committees
 16th: 26%; 15th: 71%
 effect = weaker deliberation, not transfer of constitutional sovereignty
+CLOSE DISTINCTION: India has parliamentary government but not British parliamentary
+  sovereignty. Compare parliamentary and presidential systems only on executive identity,
+  tenure, responsibility, membership, dissolution and fusion/separation; do not turn an
+  analytical comparison into Indian law.
 
-ASCII MASTER FLOW — PANEL 7/11: Accountability correctives: Parliament is not powerless
+ASCII MASTER FLOW — PANEL 7/12: Accountability correctives: Parliament is not powerless
 SURVIVAL CONTROL
 no-confidence | confidence | supply
 
@@ -121,7 +129,7 @@ member research support -> proper Money Bill classification -> restrained ordina
 VERDICT
 renew parliamentary capacity; do not abandon responsible government
 
-ASCII MASTER FLOW — PANEL 8/11: Parliamentary and presidential systems compared precisely
+ASCII MASTER FLOW — PANEL 8/12: Parliamentary and presidential systems compared precisely
 AXIS                    PARLIAMENTARY              PRESIDENTIAL
 executive               dual                        single political executive
 selection               legislative support         separate election
@@ -135,7 +143,7 @@ risk                    instability / dominance      deadlock / personal concent
 US TRAP
 formal department secretaries != informal 'Kitchen Cabinet' advisers
 
-ASCII MASTER FLOW — PANEL 9/11: Why India chose it and how the system has performed
+ASCII MASTER FLOW — PANEL 9/12: Why India chose it and how the system has performed
 INDIAN CHOICE
 Ambedkar: daily responsibility preferred to greater fixed-term stability
 familiarity -> coordination -> plural cabinet representation
@@ -154,7 +162,7 @@ instability is conditional, not inherent
 JUDGMENT
 responsibility is the design priority; strengthen scrutiny and coalition practice
 
-ASCII MASTER FLOW — PANEL 10/11: Current control, close-option traps and verified PYQ routes
+ASCII MASTER FLOW — PANEL 10/12: Current control, close-option traps and verified PYQ routes
 CURRENT CONTROL — 28 AUGUST 2026
 Constitution (129th Amendment) Bill, 2024 proposes Art 82A
 Joint Committee term extended 30 July 2026 -> report by Winter Session 2026
@@ -170,7 +178,7 @@ VERIFIED PYQ ROUTES
 2024 GS-II Q3 cabinet growth and marginalised parliamentary supremacy
 older objective answers remain explicitly inferred where official keys are unavailable
 
-ASCII MASTER FLOW — PANEL 11/11: Marks-scaled answer routes and qualified conclusion
+ASCII MASTER FLOW — PANEL 11/12: Marks-scaled answer routes and qualified conclusion
 10 MARKS / 150 WORDS
 define distinction -> 2-3 mechanisms -> one Article/case/data unit -> corrective -> verdict
 
@@ -188,3 +196,13 @@ use answer-specific compression; never dump every feature or case
 FINAL LINE
 India's parliamentary system trades some tenure certainty for continuing
 responsibility; its answer is stronger Parliament, not confidence-free executive power.
+
+ASCII MASTER FLOW — PANEL 12/12: Current parliamentary-design control: simultaneous elections remain a Bill
+129TH AMENDMENT BILL, 17 DEC 2024 -> proposed Article 82A
+JOINT COMMITTEE -> official inquiry continues on 5 SEP 2026
+BILL != ACT | PROPOSED ARTICLE != CONSTITUTIONAL TEXT
+FIXED CYCLES MAY AFFECT DISSOLUTION/CONFIDENCE -> requires enacted amendment
+RULE: analyse the proposal; never teach implementation as current law.
+LEGAL/SOURCE LIMIT: The 129th Amendment Bill, 2024 remains a proposal under Joint Committee
+  examination on the located official record. Article 82A is not operative constitutional text
+  and no implementation date may be invented.

@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/11: From Objectives Resolution to authoritative Preamble
+ASCII MASTER FLOW — PANEL 1/12: From Objectives Resolution to authoritative Preamble
 13 DEC 1946  Objectives Resolution moved by Jawaharlal Nehru
 22 JAN 1947  Objectives Resolution adopted
       |
@@ -15,8 +15,10 @@ TEXTUAL MEMORY
 source -> nature of State -> objectives -> adoption/enactment declaration
 
 TRAP: adoption and commencement dates perform different constitutional work.
+MUST REMEMBER: The Preamble must be read through authority, State descriptors, objectives and
+  the enactment clause, then linked to Articles 14-21, 25-28, 38-39 and 368.
 
-ASCII MASTER FLOW — PANEL 2/11: Clause architecture: authority, identity, ends and enactment
+ASCII MASTER FLOW — PANEL 2/12: Clause architecture: authority, identity, ends and enactment
 WE, THE PEOPLE OF INDIA
   +-- SOURCE: popular constituent authority
   +-- STATE: SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC
@@ -31,7 +33,7 @@ WE, THE PEOPLE OF INDIA
 People are the source; descriptors identify the polity;
 objectives set its destination; enactment converts resolution into authority.
 
-ASCII MASTER FLOW — PANEL 3/11: Five State descriptors: exact constitutional work
+ASCII MASTER FLOW — PANEL 3/12: Five State descriptors: exact constitutional work
 DESCRIPTOR   CONSTITUTIONAL WORK
 Sovereign    no external superior; internal authority under Constitution
 Socialist    democratic welfare and distribution, not total statism
@@ -45,7 +47,7 @@ it did not create their entire constitutional substance.
 
 Britain: democracy + hereditary monarchy | India: democracy + republic.
 
-ASCII MASTER FLOW — PANEL 4/11: Justice, liberty, equality and fraternity as one system
+ASCII MASTER FLOW — PANEL 4/12: Justice, liberty, equality and fraternity as one system
 JUSTICE: social + economic + political
   -> Directive Principles and social-reform powers
 LIBERTY: thought + expression + belief + faith + worship
@@ -60,7 +62,7 @@ liberty without equality entrenches privilege;
 equality without liberty risks coercion;
 fraternity sustains both as a shared constitutional project.
 
-ASCII MASTER FLOW — PANEL 5/11: Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995): legal status settled
+ASCII MASTER FLOW — PANEL 5/12: Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995): legal status settled
 BERUBARI UNION (1960)
   +-- Preamble is a key to the makers' minds
   +-- advisory opinion did not regard it as part of Constitution
@@ -77,7 +79,7 @@ TWO LIMITS
 No independent legislative power comes from Preamble.
 No standalone directly enforceable right comes from Preamble.
 
-ASCII MASTER FLOW — PANEL 6/11: Amendability stops at constitutional identity
+ASCII MASTER FLOW — PANEL 6/12: Amendability stops at constitutional identity
 ARTICLE 368
   +-- reaches Preamble because it is part of Constitution
   +-- 42nd Amendment validly added three expressions
@@ -91,8 +93,11 @@ Does change destroy sovereignty, democracy, secularism, republic or dignity?
 
 CORRECT FORMULA
 Preamble is amendable; its basic features are not abrogable.
+CLOSE DISTINCTION: Berubari Union (1960) treated it as not part; Kesavananda Bharati (1973)
+  held it part and amendable subject to basic structure; LIC OF INDIA (1995) reaffirmed that
+  position.
 
-ASCII MASTER FLOW — PANEL 7/11: How non-justiciable words produce legal force
+ASCII MASTER FLOW — PANEL 7/12: How non-justiciable words produce legal force
 AMBIGUOUS CONSTITUTIONAL TEXT
         |
 Preamble identifies purpose, value and structural direction
@@ -108,7 +113,7 @@ STOP RULE
 Clear text cannot be rewritten by Preamble alone.
 No power, offence, tax or enforceable claim arises solely from Preamble.
 
-ASCII MASTER FLOW — PANEL 8/11: Preamble claims: problem and precise response
+ASCII MASTER FLOW — PANEL 8/12: Preamble claims: problem and precise response
 CLAIM                                      PRECISE RESPONSE
 "mere ornament"                           false: interpretive and structural force
 "source of all government power"          false: operative provisions confer power
@@ -121,7 +126,7 @@ CLAIM                                      PRECISE RESPONSE
 
 Constitution in miniature, but not a miniature Constitution.
 
-ASCII MASTER FLOW — PANEL 9/11: Exact PYQ control: wording, ownership and answer route
+ASCII MASTER FLOW — PANEL 9/12: Exact PYQ control: wording, ownership and answer route
 DIRECT OWNER
 2020 GS-I Q16: Preamble is part, but has no legal effect independently of other parts -> D
   (reasoned; no local official key).
@@ -141,7 +146,7 @@ EXACT MAINS DEMANDS
 TRAP: never convert a cross-owned PYQ into an exclusive Preamble question or silently rewrite
   its demand.
 
-ASCII MASTER FLOW — PANEL 10/11: Exact 10/15/20-mark architecture: Preamble as identity and interpretive control
+ASCII MASTER FLOW — PANEL 10/12: Exact 10/15/20-mark architecture: Preamble as identity and interpretive control
 10 MARKS / 150 WORDS
 1. Define Preamble as declaratory, identity-bearing and interpretive.
 2. Decode people, State, objectives and enactment.
@@ -167,7 +172,7 @@ ASCII MASTER FLOW — PANEL 10/11: Exact 10/15/20-mark architecture: Preamble as
 6. Apply Article 368/basic-structure boundary and Dr Balram Singh.
 7. Add one criticism, reply and calibrated conclusion.
 
-ASCII MASTER FLOW — PANEL 11/11: Current legal control and qualified synthesis
+ASCII MASTER FLOW — PANEL 11/12: Current legal control and qualified synthesis
 DR BALRAM SINGH (2024 INSC 893; 25 NOV 2024)
 +-- Article 368 reaches the Preamble
 +-- challenge to Socialist and Secular dismissed
@@ -182,3 +187,13 @@ FINAL VERDICT
 The Preamble is constitutional text and an authoritative interpretive charter, but it creates no
   standalone power or enforceable claim. Its values work through operative provisions and
   basic-structure review.
+
+ASCII MASTER FLOW — PANEL 12/12: 2024 current-law control: Socialist and Secular remain
+42ND AMENDMENT 1976 -> inserts SOCIALIST, SECULAR and INTEGRITY
+CHALLENGE -> retrospective insertion / constituent choice objections
+BALRAM SINGH, 25 NOV 2024, 2024 INSC 893 -> petitions rejected
+HOLDING -> Constitution is amendable/living, subject to constitutional limits
+LIMIT -> no standalone Preamble cause of action and no compulsory economic model.
+LEGAL/SOURCE LIMIT: Non-justiciable does not mean legally irrelevant, and the 25 November 2024
+  Balram Singh order upheld the 42nd-Amendment words without converting 'socialist' into one
+  compulsory economic model.

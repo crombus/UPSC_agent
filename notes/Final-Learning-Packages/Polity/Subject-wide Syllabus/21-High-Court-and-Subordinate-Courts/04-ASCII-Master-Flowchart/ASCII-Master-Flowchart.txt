@@ -3,7 +3,7 @@ ARTICLES 214-237: STATE-LEVEL CONSTITUTIONAL JUSTICE
 Supreme Court -> High Court -> district and subordinate courts.
 
 214: High Court for each State | 231: common High Court by parliamentary law.
-25 HIGH COURTS as at 28 August 2026; one-per-State/UT is false.
+25 HIGH COURTS as at 5 September 2026; one-per-State/UT is false.
 
 HISTORY
 1862: Calcutta, Bombay and Madras | 1866: Allahabad.
@@ -15,6 +15,10 @@ Never quote working strength or vacancy without its date.
 
 CORE ROLE
 constitutional remedies + appeals + supervision + judicial administration.
+MUST REMEMBER: Audit Articles 214-237 as separate constitutional controls: High Court
+  existence/common courts, judge appointment and service, jurisdiction, writs,
+  superintendence, court administration and subordinate-judiciary recruitment/control must not
+  be collapsed into one judicial-independence claim.
 
 ASCII MASTER FLOW — PANEL 2/12: High Court judges: appointment, qualification and independence
 ARTICLE 216
@@ -112,6 +116,10 @@ Substantial constitutional-interpretation question -> HC withdraws
 -> decides question or case -> may return case with binding answer.
 
 TRAP: supervision and withdrawal are not routine appeals.
+CLOSE DISTINCTION: Keep Articles 226, 227 and 235 distinct. Article 226 reaches Fundamental
+  Rights and other legal rights; Article 227 is supervisory rather than an ordinary appeal;
+  Article 235 gives the High Court administrative control over the district and subordinate
+  judiciary.
 
 ASCII MASTER FLOW — PANEL 7/12: Articles 233-237 and current recruitment law
 ARTICLE 233 DISTRICT JUDGES
@@ -230,3 +238,6 @@ multi-dimensional matrix -> causal chain -> counterargument -> executable safegu
 FINAL LINE
 Independent State justice needs broad remedies, restrained supervision,
 High Court-controlled careers, dated capacity evidence and inclusive digital administration.
+LEGAL/SOURCE LIMIT: India has 25 High Courts. The 1 July 2026 DoJ snapshot is 1,122
+  sanctioned, 781 working and 341 vacant. Rejanish K.V. (2025 INSC 1208) prospectively
+  replaced the categorical Dheeraj Mor exclusion; AIJS remains uncreated.

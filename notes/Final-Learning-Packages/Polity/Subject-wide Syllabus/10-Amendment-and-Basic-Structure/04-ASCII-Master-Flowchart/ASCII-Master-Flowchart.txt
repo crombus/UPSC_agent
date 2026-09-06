@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/11: Constitutional change: flexible routes, entrenched identity
+ASCII MASTER FLOW — PANEL 1/12: Constitutional change: flexible routes, entrenched identity
 CONSTITUTIONAL CHANGE
   +-- SIMPLE MAJORITY OUTSIDE ARTICLE 368
   |     +-- ordinary legislative power; legally not an Article 368 amendment
@@ -16,8 +16,11 @@ constituent power -> changes constitutional text by addition, variation or repea
 
 IDENTITY LIMIT
 Parliament may amend every provision, but cannot destroy the Constitution's basic structure.
+MUST REMEMBER: Article 368 constituent power, the dual special majority, the exact federal
+  proviso list, mandatory assent, no joint sitting and simple-majority changes outside Article
+  368 must precede the basic-structure doctrine.
 
-ASCII MASTER FLOW — PANEL 2/11: Article 368 procedure: separate Houses, no shortcuts
+ASCII MASTER FLOW — PANEL 2/12: Article 368 procedure: separate Houses, no shortcuts
 AMENDMENT BILL
   +-- may originate in either House of Parliament
   +-- may be introduced by a minister or private member
@@ -38,7 +41,7 @@ PRESIDENT SHALL ASSENT -> Constitution stands amended
 
 2026 defeated Bill: total-membership limb passed; two-thirds limb failed.
 
-ASCII MASTER FLOW — PANEL 3/11: Federal ratification: the exact Article 368 proviso map
+ASCII MASTER FLOW — PANEL 3/12: Federal ratification: the exact Article 368 proviso map
 RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO
   +-- election of the President: Articles 54 and 55
   +-- Union and State executive power: Articles 73 and 162
@@ -56,7 +59,7 @@ NOT THE RULE
 STATE ROLE
 ratify or refuse the passed text -> no initiation, amendment or joint conference power.
 
-ASCII MASTER FLOW — PANEL 4/11: From Shankari Prasad (1951) to Minerva Mills (1980): the core doctrine chain
+ASCII MASTER FLOW — PANEL 4/12: From Shankari Prasad (1951) to Minerva Mills (1980): the core doctrine chain
 SHANKARI PRASAD (1951) -> amendment is not Article 13 "law"; FR may be amended
 Sajjan Singh (1964) -> amendability reaffirmed; reported in 1965 SCR
 I.C. GOLAKNATH (1967)       -> Parliament cannot amend Fundamental Rights
@@ -72,7 +75,7 @@ I.R. COELHO (2007)     -> post-cut-off insertions face basic-structure impact re
 
 FORMULA: amend the Constitution -> do not destroy its constitutional identity.
 
-ASCII MASTER FLOW — PANEL 5/11: Basic-structure elements: non-exhaustive and case-attributed
+ASCII MASTER FLOW — PANEL 5/12: Basic-structure elements: non-exhaustive and case-attributed
 BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST
   +-- supremacy of the Constitution
   +-- republican and democratic government
@@ -92,7 +95,7 @@ identify the amendment -> identify the protected feature -> prove damage, not po
 
 TRAP: Kesavananda Bharati (1973) did not supply one unanimous, exhaustive catalogue.
 
-ASCII MASTER FLOW — PANEL 6/11: Ninth Schedule: insertion is not immunity after the 1973 cut-off
+ASCII MASTER FLOW — PANEL 6/12: Ninth Schedule: insertion is not immunity after the 1973 cut-off
 FIRST AMENDMENT, 1951
   +-- Article 31B + Ninth Schedule protect listed laws from specified rights challenge
         |
@@ -113,8 +116,12 @@ ANSWER TEST
 2 identify affected right / basic feature
 3 examine actual constitutional damage
 4 state the remedy narrowly.
+CLOSE DISTINCTION: Case propositions must remain chronological and distinct: Shankari Prasad
+  (1951), Sajjan Singh (1964), Golak Nath, the 24th Amendment, Kesavananda Bharati (1973),
+  Indira Nehru Gandhi v. Raj Narain (1975), Minerva Mills (1980), Waman Rao (1980), Bommai,
+  Coelho, NJAC and Anjum Kadari (2024).
 
-ASCII MASTER FLOW — PANEL 7/11: The Anjum Kadari (2024) boundary: amendments versus ordinary statutes
+ASCII MASTER FLOW — PANEL 7/12: The Anjum Kadari (2024) boundary: amendments versus ordinary statutes
 CONSTITUTIONAL AMENDMENT
   +-- directly tested against basic structure under Article 368 doctrine
 
@@ -133,7 +140,7 @@ ANJUM KADARI (2024) INSC 831
 EXAM CORRECTION
 write "violates Article X embodying the feature", not merely "violates basic structure".
 
-ASCII MASTER FLOW — PANEL 8/11: Current evidence: defeated proposal versus commenced framework
+ASCII MASTER FLOW — PANEL 8/12: Current evidence: defeated proposal versus commenced framework
 131ST AMENDMENT BILL, 2026
   +-- introduced 16 April; negatived 17 April
   +-- 298 ayes / 230 noes / 528 present and voting
@@ -149,7 +156,7 @@ ASCII MASTER FLOW — PANEL 8/11: Current evidence: defeated proposal versus com
 STATUS RULE
 date + source + legal stage -> no proposal presented as law.
 
-ASCII MASTER FLOW — PANEL 9/11: Doctrine evaluation: guardian of identity or judicial supremacy?
+ASCII MASTER FLOW — PANEL 9/12: Doctrine evaluation: guardian of identity or judicial supremacy?
 CRITICISM
   +-- doctrine is judicially inferred and non-exhaustive
   +-- unelected judges review elected super-majorities
@@ -166,7 +173,7 @@ textual foundation -> settled precedent -> actual damage -> narrow remedy
 VERDICT
 reasoned, bounded review is legitimate; feature language must not become a policy veto.
 
-ASCII MASTER FLOW — PANEL 10/11: Prelims traps and verified PYQ control
+ASCII MASTER FLOW — PANEL 10/12: Prelims traps and verified PYQ control
 PRELIMS CONTROL
 Article 368 -> addition, variation or repeal      no joint sitting
 both Houses use both special-majority limbs       President shall assent
@@ -183,7 +190,7 @@ CURRENT TRAPS
 131st Bill = defeated proposal
 106th Amendment = commenced, not operational.
 
-ASCII MASTER FLOW — PANEL 11/11: Marks-scaled Mains execution: 10, 15 and 20 marks
+ASCII MASTER FLOW — PANEL 11/12: Marks-scaled Mains execution: 10, 15 and 20 marks
 10 MARKS / 150 WORDS
   thesis -> 3-4 dimensions -> 2-3 evidence units -> qualification -> verdict
 
@@ -201,3 +208,13 @@ compress by demand; do not dump every case or basic feature
 FINAL LINE
 Article 368 permits transformation within constitutional identity.
 Parliament may amend, but cannot destroy or replace the Constitution.
+
+ASCII MASTER FLOW — PANEL 12/12: Current amendment-status control: proposal, commencement and operation
+ANJUM KADARI (2024) INSC 831 -> no free-standing basic-structure attack on ordinary law
+131ST AMENDMENT BILL 2026 -> defeated proposal; not law or precedent
+S.O. 1922(E), 16 APR 2026 -> 106TH AMENDMENT commenced
+ARTICLE 334A -> operation awaits specified census publication plus delimitation
+RULE: enactment, commencement and operational effect are distinct legal events.
+LEGAL/SOURCE LIMIT: Basic structure limits constitutional amendments, not ordinary statutes as
+  a free-standing test. The 131st Bill was defeated; the 106th Amendment has commenced, while
+  Article 334A still separates commencement from operation.

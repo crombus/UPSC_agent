@@ -5,8 +5,8 @@ Topic: Salient Features
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 03
-Source record ID: polity-03:learner-v2:g18
-Source generation: 18
+Source record ID: polity-03:learner-v2:g19
+Source generation: 19
 Approval: Approval pending
 
 Deliverables

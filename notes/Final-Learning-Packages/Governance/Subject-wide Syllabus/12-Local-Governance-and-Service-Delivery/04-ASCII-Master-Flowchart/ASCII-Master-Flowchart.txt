@@ -36,6 +36,7 @@ STATUTE -> the Panchayats Extension to Scheduled Areas Act, 1996
 APPLIES TO -> Fifth Schedule areas, not to every tribal-majority area
 GRAM SABHA -> powers over local plans, resources and dispute resolution
 EXACT LIMIT -> consultation before land acquisition and resettlement, not consent
+CLOSE DISTINCTION: Eleventh and Twelfth Schedule subjects are not self-executing...
 
 ASCII MASTER FLOW — PANEL 7/12: Three degrees of decentralisation
 DECONCENTRATION -> field offices of a higher tier operating locally
@@ -62,7 +63,6 @@ CRITERION 1 -> population density trajectory and non-agricultural employment sha
 CRITERION 2 -> infrastructure-sharing potential and territorial contiguity
 CRITERION 3 -> revenue-base compatibility and capacity of the receiving body
 MIDDLE OPTIONS -> service-level convergence, graduated reclassification, joint authorities
-CLOSE DISTINCTION: Eleventh and Twelfth Schedule subjects are not self-executing...
 
 ASCII MASTER FLOW — PANEL 11/12: Urban fragmentation map
 POLITICAL LEADERSHIP -> Mayor and council under State law
@@ -70,10 +70,10 @@ EXECUTIVE CONTROL -> a State-appointed Municipal Commissioner in many States
 FUNCTIONS AND BUDGETS -> development authorities and water, transport, housing agencies
 FINANCE -> constrained property tax; municipal bonds only for stronger bodies
 CONSEQUENCE -> responsibility without matching authority at the elected tier
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Kerala planning, municipal sanitation,...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a local-governance demand
 OPEN -> the three legs, not the amendment; delivery capacity, not constitutional recital
 BUILD -> trace one service from listed subject to work order and name where it stops
 CORRECT -> label advantages and disadvantages separately and give a criteria-based rule
 CLOSE -> graded verdict on representation against authority with State variation stated
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Kerala planning, municipal sanitation,...

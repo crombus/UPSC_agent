@@ -35,6 +35,7 @@ SECTION 44(3) -> substitutes the personal-information exemption in the transpare
 STATUS -> immediate tranche; operative since 13 and 14 November 2025
 SECTION 44(2) -> amends the Information Technology Act, 2000
 STATUS -> deferred to 13 May 2027; challenges filed and no final judgment located
+CLOSE DISTINCTION: DPI is not every government portal, a digital identity is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Enforcement sequence
 STAGE 1 ESTABLISHED -> the Board exists in law under section 18
@@ -62,17 +63,16 @@ CONNECTIVITY -> quality and cost, not merely coverage
 LANGUAGE -> content and error messages outside the user's script
 FUNCTIONAL LITERACY -> completing a task, not operating a phone
 TRUST AND AUTHENTICATION -> fear of error, worn fingerprints, address mismatch
-CLOSE DISTINCTION: DPI is not every government portal, a digital identity is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Intermediary paradox and four safeguards
 REALISTIC ROUTE -> assisted access through a centre, a shopkeeper or a family member
 NEW RISK -> a fee, an error rate and access to the citizen's own credentials
 SAFEGUARDS 1 AND 2 -> necessity and proportionality; minimisation with purpose tagging
 SAFEGUARDS 3 AND 4 -> assisted and offline fallback; reasoned human review and appeal
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Aadhaar, UPI, DigiLocker, Account...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for an adequacy demand
 OPEN -> separate rails, service and safeguard, and name the layer at issue
 BUILD -> state the tranche, the section and the date before evaluating adequacy
 TEST -> exclusion tail, consent quality, reuse tension, enforcement stage
 CLOSE -> graded verdict with a pending-challenge caveat and correct grievance routing
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Aadhaar, UPI, DigiLocker, Account...

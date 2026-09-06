@@ -5,8 +5,8 @@ Topic: Preamble
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 04
-Source record ID: polity-04:learner-v2:g18
-Source generation: 18
+Source record ID: polity-04:learner-v2:g19
+Source generation: 19
 Approval: Approval pending
 
 Deliverables

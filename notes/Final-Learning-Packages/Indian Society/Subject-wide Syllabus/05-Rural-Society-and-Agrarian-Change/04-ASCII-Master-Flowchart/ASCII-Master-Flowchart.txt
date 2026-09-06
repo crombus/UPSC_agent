@@ -37,6 +37,9 @@ DOMINANT CASTE -> caste-level, numbers plus land plus office
 LANDOWNING CLASS -> economic category cutting across castes
 USUAL CASE -> the two largely coincide in a village
 ERROR PREVENTED -> treating them as the same unit
+CLOSE DISTINCTION: Rural is not agricultural, landowner is not cultivator, farmer is not only
+  title-holder, productivity is not income, agricultural labour is not bonded labour, and
+  Panchayati Raj representation is not the same as effective decision-making power.
 
 ASCII MASTER FLOW — PANEL 7/12: Green Revolution differentiation
 INPUT PACKAGE -> high-yielding seed, irrigation, fertiliser
@@ -61,22 +64,19 @@ SOCIETY OWNS -> jajmani, dominance, stratification, continuum
 ECONOMY OWNS -> land ceiling, tenancy law, poverty aggregates
 GOVERNANCE OWNS -> Panchayati Raj institutional design
 RULE -> cross-refer the borrowing and label it
-CLOSE DISTINCTION: Rural is not agricultural, landowner is not cultivator, farmer is not only
-  title-holder, productivity is not income, agricultural labour is not bonded labour, and
-  Panchayati Raj representation is not the same as effective decision-making power.
 
 ASCII MASTER FLOW — PANEL 11/12: Measurement boundary
 PLFS 2023-24 -> dated rural workforce comparator
 PLFS ANNUAL REPORT 2025 -> released March 2026, latest round
 PERIOD -> January to December, not the older July to June cycle
 LIMIT -> cannot prove jajmani decline or caste dominance
-EVIDENCE LIMIT: Contrast Punjab-Haryana, eastern India, dryland Deccan, plantation, tribal and
-  peri-urban regions; use Agriculture Census, Situation Assessment and labour data with
-  period/coverage labels, and treat technology-policy correlations as mechanisms requiring
-  land, water, market and power analysis.
 
 ASCII MASTER FLOW — PANEL 12/12: Rural answer spine
 OPEN -> name the changing power relation, not a village portrait
 BODY -> jajmani change, class structure, dominance, Panchayat
 FRAME -> which resource now carries power in this village
 CLOSE -> continuum verdict with the data and scope caveats
+EVIDENCE LIMIT: Contrast Punjab-Haryana, eastern India, dryland Deccan, plantation, tribal and
+  peri-urban regions; use Agriculture Census, Situation Assessment and labour data with
+  period/coverage labels, and treat technology-policy correlations as mechanisms requiring
+  land, water, market and power analysis.

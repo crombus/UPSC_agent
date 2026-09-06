@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/10: From Company sovereignty to constituent sovereignty, 1765-1950
+ASCII MASTER FLOW — PANEL 1/12: From Company sovereignty to constituent sovereignty, 1765-1950
 1765 DIWANI: revenue power outruns public accountability
   |
 1773 PARLIAMENTARY REGULATION
@@ -17,8 +17,11 @@ ASCII MASTER FLOW — PANEL 1/10: From Company sovereignty to constituent sovere
 1935 FEDERAL BLUEPRINT + PROVINCIAL AUTONOMY
   |
 1947 SOVEREIGN CONSTITUENT POWER -> 1950 DEMOCRATIC CONSTITUTIONALISM
+MUST REMEMBER: Colonial constitutional development must run in exact sequence from Company
+  regulation through Crown rule, representation, responsible government, the 1935
+  federal-administrative blueprint and the sovereign 1947-1950 transition.
 
-ASCII MASTER FLOW — PANEL 2/10: Who controlled whom: the imperial power hierarchy
+ASCII MASTER FLOW — PANEL 2/12: Who controlled whom: the imperial power hierarchy
 BRITISH PARLIAMENT
   +-- 1773: begins statutory control over territorial Company rule
   +-- 1784: creates Board of Control for political supervision
@@ -34,7 +37,7 @@ POWER SHIFT
 Company charter -> parliamentary supervision -> Crown executive responsibility
 LIMIT: accountability moved to Britain; responsible government in India did not follow.
 
-ASCII MASTER FLOW — PANEL 3/10: 1773-1853: regulation, monopoly and centralisation compared
+ASCII MASTER FLOW — PANEL 3/12: 1773-1853: regulation, monopoly and centralisation compared
 ACT     CONTROL / ECONOMY              INSTITUTIONAL RESULT
 1773    Parliament regulates           GG of Bengal; Calcutta Supreme Court
 1781    jurisdiction clarified         executive-revenue sphere protected
@@ -47,7 +50,7 @@ ACT     CONTROL / ECONOMY              INSTITUTIONAL RESULT
 
 EXAM LINE: 1833 centralised the legislative state; 1853 specialised its machinery.
 
-ASCII MASTER FLOW — PANEL 4/10: Representation without responsibility, 1861-1919
+ASCII MASTER FLOW — PANEL 4/12: Representation without responsibility, 1861-1919
 1861: NOMINATION
   +-- nominated Indian non-officials; portfolio system recognised
   +-- legislative decentralisation revived; no executive responsibility
@@ -66,7 +69,7 @@ ASCII MASTER FLOW — PANEL 4/10: Representation without responsibility, 1861-19
   +-- central bicameralism; direct elections and limited franchise
   +-- ministers lacked decisive coercive and fiscal levers
 
-ASCII MASTER FLOW — PANEL 5/10: The 1935 constitutional machine: promise and safeguards
+ASCII MASTER FLOW — PANEL 5/12: The 1935 constitutional machine: promise and safeguards
 GOVERNMENT OF INDIA ACT 1935
   +-- ALL-INDIA FEDERATION: provinces + princely states
   |     +-- never commenced because required princely accession failed
@@ -82,7 +85,7 @@ GOVERNMENT OF INDIA ACT 1935
 
 VERDICT: autonomy was enlarged inside an imperial veto structure.
 
-ASCII MASTER FLOW — PANEL 6/10: 1935 inheritance: retained, transformed, rejected
+ASCII MASTER FLOW — PANEL 6/12: 1935 inheritance: retained, transformed, rejected
 1935 DEVICE             1950 TREATMENT
 Three legislative lists retained; redistributed under Seventh Schedule
 Federal Court           transformed into Supreme Court with wider review
@@ -97,8 +100,11 @@ imperial sovereignty -> popular sovereignty
 communal electorates -> common electoral citizenship
 limited franchise -> universal adult suffrage
 ruler safeguards -> enforceable rights and judicial review
+CLOSE DISTINCTION: Governor-General of Bengal (1773) is not Governor-General of India (1833);
+  1909 separate electorates, 1919 provincial dyarchy and 1935 provincial autonomy are
+  distinct; the 1935 federation and central dyarchy never operated.
 
-ASCII MASTER FLOW — PANEL 7/10: 1947 bridge: dominion legality to republican authority
+ASCII MASTER FLOW — PANEL 7/12: 1947 bridge: dominion legality to republican authority
 INDIAN INDEPENDENCE ACT 1947
   +-- British rule ends; India and Pakistan become Dominions
   +-- British parliamentary authority over the new Dominions ends
@@ -115,7 +121,7 @@ TRANSITIONAL GOVERNMENT
 
 BRIDGE: legal continuity prevented a vacuum; constituent power changed authority's source.
 
-ASCII MASTER FLOW — PANEL 8/10: Colonial reform: official motive versus Indian pressure
+ASCII MASTER FLOW — PANEL 8/12: Colonial reform: official motive versus Indian pressure
 OFFICIAL PROBLEM                 IMPERIAL RESPONSE
 Company abuse / fiscal crisis   parliamentary regulation, not self-government
 administrative overload         centralisation, codification, specialised services
@@ -131,7 +137,7 @@ British policy designed controlled adaptation to preserve authority.
 Indian politics converted concessions into platforms for further claims.
 Reform was neither a unilateral gift nor a linear march to democracy.
 
-ASCII MASTER FLOW — PANEL 9/10: Historical-background close-option control board
+ASCII MASTER FLOW — PANEL 9/12: Historical-background close-option control board
 CLAIM TO TEST                              EXACT CONTROL
 1773 created Governor-General of India     No: Governor-General of Bengal
 1784 transferred India to Crown rule       No: dual control; Crown rule begins in 1858
@@ -145,7 +151,7 @@ CLAIM TO TEST                              EXACT CONTROL
 1935 created RBI directly                  RBI Act 1934; operations began in 1935
 1947 automatically integrated princes      No: suzerainty lapsed; integration followed
 
-ASCII MASTER FLOW — PANEL 10/10: Exact 10/15-mark architecture: evolution into the 1950 Constitution
+ASCII MASTER FLOW — PANEL 10/12: Exact 10/15-mark architecture: evolution into the 1950 Constitution
 10 MARKS / 150 WORDS
 1. Thesis: colonial statutes built machinery; 1950 changed its sovereign basis.
 2. Three phases: 1773-1858 control; 1861-1919 representation; 1935 blueprint.
@@ -161,3 +167,19 @@ ASCII MASTER FLOW — PANEL 10/10: Exact 10/15-mark architecture: evolution into
 5. Compare retained devices with rejected imperial principles.
 6. Add Indian pressure versus British controlled adaptation.
 7. Conclude: inheritance supplied instruments, not constitutional legitimacy.
+
+ASCII MASTER FLOW — PANEL 11/12: Jurisdiction, service and finance: the less-visible institutional spine
+JUDICIARY: 1774 Supreme Court -> 1861 High Courts -> 1937 Federal Court -> 1950 Supreme Court
+SERVICES: Company patronage -> 1853 competition principle -> 1919 PSC provision -> 1926 PSC
+FINANCE: revenue control -> legislative budget scrutiny -> RBI Act 1934 / operations 1935
+RULE: institutional ancestry does not imply unchanged constitutional purpose.
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ, ownership and source hierarchy control
+DIRECT PYQ: 2024 Prelims Q62 -> 1935 federation provided, not commenced
+RESERVED CONTROL: defence and external affairs -> Governor-General
+BOUNDARY: Topic 02 owns Assembly detail; Modern History owns movements/Partition
+SOURCE ORDER: statute/text -> official record -> judgment -> standard textbook
+FINAL LINE: colonial machinery survived only after democratic transformation.
+LEGAL/SOURCE LIMIT: Colonial statutes supplied machinery, not popular legitimacy: identify
+  what 1950 retained, transformed and rejected, and do not invent a post-1947 live status for
+  repealed enactments.

@@ -37,6 +37,7 @@ INPUT BUDGETING -> line items; how much money was allocated to a category
 OUTPUT BUDGETING -> physical units produced for the allocation
 OUTCOME BUDGETING -> the change achieved relative to the allocation
 UNFINISHED -> outcome achievement carries no budgetary consequence
+CLOSE DISTINCTION: Indicator is not target, output is not outcome, outcome is not...
 
 ASCII MASTER FLOW — PANEL 7/12: District and block programmes kept separate
 DISTRICT PROGRAMME -> 112 districts; 49 key performance indicators; five themes
@@ -66,7 +67,6 @@ RANDOMISED TRIAL -> causal effect for the design studied; limited external valid
 QUASI-EXPERIMENTAL -> causal inference without randomisation; assumptions can fail
 PROCESS EVALUATION -> explains why an outcome occurred; no effect size
 ADMINISTRATIVE DATA -> continuous and cheap; only as good as the reporter's incentive
-CLOSE DISTINCTION: Indicator is not target, output is not outcome, outcome is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Indicator failure modes and corrections
 GOODHART -> a measure with consequences is produced rather than observed; use a basket
@@ -75,10 +75,10 @@ AGGREGATION MASKING -> the average hides block and group failure; disaggregate b
 OUTPUT SUBSTITUTION -> effort moves to what is counted; add quality and outcome measures
 SELECTION EFFECTS -> only reachable beneficiaries are measured; report drop-off
 DEFINITION DRIFT -> the definition changes between years; publish definitions and breaks
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Aspirational Districts, outcome...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for an evaluate demand
 OPEN -> say what an output claim proves and what it does not, before citing anything
 BUILD -> place the evidence on the results chain and name the missing baseline
 CORRECT -> state the counterfactual required and the gaming risk in the indicator
 CLOSE -> graded verdict about the evaluation design as much as about the scheme
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Aspirational Districts, outcome...

@@ -38,6 +38,7 @@ INTEGRATION -> Public Financial Management System plus State IFMIS plus RBI e-Ku
 RULE -> Union and State shares released together against an actual expenditure claim
 GAIN -> idle float and advance parking are removed from the release chain
 COST -> State cash-planning buffer is lost and agency reconciliation load rises
+CLOSE DISTINCTION: Budget allocation is not release, release is not expenditure,...
 
 ASCII MASTER FLOW — PANEL 7/12: Error matrix
 E1 INCLUSION ERROR -> an ineligible person receives; cause: fake, duplicate, outdated lists
@@ -65,7 +66,6 @@ SELECTION -> lowest-cost selection for quality-dependent services buys the wrong
 AFTER AWARD -> weak contract management and thin technical evaluation capacity
 INTEGRITY -> disclosure, debarment, independent complaint handling, audit of the award
 TRADE-OFF -> tighter rules raise integrity, lengthen timelines and deter capable suppliers
-CLOSE DISTINCTION: Budget allocation is not release, release is not expenditure,...
 
 ASCII MASTER FLOW — PANEL 11/12: Local-body finance three-source test
 SOURCE 1 -> own revenue raised by the local body itself
@@ -73,10 +73,10 @@ SOURCE 2 -> State devolution on State Finance Commission recommendations
 SOURCE 3 -> Union Finance Commission grants under Article 280(3)(bb) and Article 280(3)(c)
 TEST -> dependence on source three alone is spending capacity without fiscal autonomy
 CONDITION -> audited accounts, predictable release, transparent formula, public disclosure
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use PFMS, DBT, Government e-Marketplace,...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a financial-flow demand
 OPEN -> name the stage of the chain the stem occupies and the failure that belongs to it
 BUILD -> assign each tool its own problem, mechanism and limitation, never one system
 CORRECT -> separate leakage, exclusion and inefficiency and state which error is borne
 CLOSE -> graded verdict with the reporting-date caveat and no dashboard total asserted
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use PFMS, DBT, Government e-Marketplace,...

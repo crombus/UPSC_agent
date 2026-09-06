@@ -5,8 +5,8 @@ Topic: Political Parties
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 43
-Source record ID: polity-43:learner-v2:g7
-Source generation: 7
+Source record ID: polity-43:learner-v2:g8
+Source generation: 8
 Approval: Approval pending
 
 Deliverables

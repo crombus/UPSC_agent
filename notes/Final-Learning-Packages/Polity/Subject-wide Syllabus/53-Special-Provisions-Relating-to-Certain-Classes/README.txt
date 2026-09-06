@@ -5,8 +5,8 @@ Topic: Special Provisions Relating to Certain Classes
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 53
-Source record ID: polity-53:learner-v2:g3
-Source generation: 3
+Source record ID: polity-53:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

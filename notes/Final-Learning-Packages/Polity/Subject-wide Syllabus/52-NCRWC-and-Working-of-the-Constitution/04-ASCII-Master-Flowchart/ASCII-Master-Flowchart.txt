@@ -13,6 +13,8 @@ parliamentary democracy + basic structure preserved.
 
 VERDICT
 review of working != rewriting the Constitution.
+MUST REMEMBER: Treat every NCRWC proposition as a 2002 recommendation unless a later
+  constitutional amendment, statute, rule or judgment independently proves law.
 
 ASCII MASTER FLOW — PANEL 2/12: Consultation and institutional identity firewall
 CONSULTATION
@@ -94,6 +96,8 @@ S.R. Bommai (1994) -> federal and secular structural enforcement.
 
 TRAP
 majority strength or coalition form does not itself prove good constitutional working.
+CLOSE DISTINCTION: Separate constitutional text, institutional capacity, conventions, party
+  practice, federal trust, rights outcomes and effective remedies.
 
 ASCII MASTER FLOW — PANEL 7/12: Constitutional morality and rights enforcement
 CONSTITUTIONAL MORALITY
@@ -190,3 +194,10 @@ constitutional morality | electoral reform | judicial accountability | basic str
 
 CONCLUSION
 NCRWC is a diagnostic reform menu subject to constitutional route and present-law verification.
+
+CURRENT CONTROL: 5 SEPTEMBER 2026
+The official NCRWC report remains advisory. A later amendment, Act,
+rule, judgment or executive instrument must independently prove law;
+similarity and chronology do not prove implementation.
+LEGAL/SOURCE LIMIT: The official NCRWC report remains advisory; resemblance, chronology or
+  shared policy language does not prove implementation or causation.

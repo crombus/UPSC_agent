@@ -18,6 +18,8 @@ accountability.
 LIMIT
 merit is not one test score; Articles 14, 16, reservation and suitability remain
 operative.
+MUST REMEMBER: Audit Articles 315-323 actor by actor across UPSC, SPSC and a Joint State PSC;
+  constitutional existence does not mean constitutionally fixed strength.
 
 ASCII MASTER FLOW — PANEL 2/12: UPSC, SPSC and Joint PSC federal map
 UNION PUBLIC SERVICE COMMISSION
@@ -129,6 +131,9 @@ annual report -> President/Governor -> legislature
 SYNTHESIS
 non-binding advice becomes constitutionally visible through reasoned legislative
 reporting.
+CLOSE DISTINCTION: Only the President removes any PSC member, but pending an Article 317
+  reference the President suspends UPSC/Joint PSC members and the Governor suspends an SPSC
+  member.
 
 ASCII MASTER FLOW — PANEL 7/12: Recruitment ownership and lateral entry
 WHO OWNS WHAT?
@@ -238,3 +243,6 @@ REFORM
 transparent appointments -> filled vacancies -> fixed calendars -> recusal and interview
 rubrics -> published consultation memoranda -> interoperable but accountable State
 learning.
+LEGAL/SOURCE LIMIT: The official UPSC page identifies Dr Ajay Kumar as Chairman. Article 320
+  consultation remains directory under Manbodhan Lal, while valid exemption regulations and
+  Article 323 reporting preserve accountability.

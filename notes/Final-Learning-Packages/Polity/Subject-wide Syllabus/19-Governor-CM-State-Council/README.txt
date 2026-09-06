@@ -5,8 +5,8 @@ Topic: Governor CM State Council
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 19
-Source record ID: polity-19:learner-v2:g5
-Source generation: 5
+Source record ID: polity-19:learner-v2:g9
+Source generation: 9
 Approval: Approval pending
 
 Deliverables

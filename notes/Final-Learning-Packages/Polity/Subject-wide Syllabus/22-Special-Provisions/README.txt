@@ -5,8 +5,8 @@ Topic: Special Provisions
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 22
-Source record ID: polity-22:learner-v2:g4
-Source generation: 4
+Source record ID: polity-22:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

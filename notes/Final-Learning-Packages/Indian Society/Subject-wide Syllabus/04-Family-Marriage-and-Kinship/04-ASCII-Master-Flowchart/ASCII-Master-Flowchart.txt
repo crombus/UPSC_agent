@@ -37,6 +37,10 @@ INPUT -> caste, religious and gender norms of the previous generation
 PROCESS -> socialisation of children inside the household
 OUTPUT -> reproduction or contestation of those norms
 SIGNAL -> social change appears here before it appears in law
+CLOSE DISTINCTION: Family is not household, joint is not necessarily co-resident, monogamy is
+  not gender equality, patriarchy is not identical across communities, and patriliny,
+  matriliny, patrilocality, matrilocality, inheritance and authority must be compared on
+  separate axes.
 
 ASCII MASTER FLOW — PANEL 7/12: Law against acceptance
 DOWRY -> legally prohibited, sociologically persistent
@@ -61,22 +65,18 @@ DISPLACED -> what direct interaction is being replaced
 AGE AND CONTEXT -> what the child needs at this stage
 MEDIATION -> is an adult present in the digital interaction
 GAIN -> contact and learning that would not otherwise occur
-CLOSE DISTINCTION: Family is not household, joint is not necessarily co-resident, monogamy is
-  not gender equality, patriarchy is not identical across communities, and patriliny,
-  matriliny, patrilocality, matrilocality, inheritance and authority must be compared on
-  separate axes.
 
 ASCII MASTER FLOW — PANEL 11/12: Data boundary
 NFHS-5 2019-21 -> national Total Fertility Rate of 2.0
 NFHS-6 2023-24 -> released on 29 May 2026
 MEASURES -> fertility, not household form or marriage acceptance
 RULE -> quote a metric only from its released fact sheet
-EVIDENCE LIMIT: Use Hindu Succession reform, personal-law and Special Marriage Act boundaries
-  with Khasi/Garo, Nair, north Indian and south Indian kinship variation; legal capacity and
-  formal equality must not be reported as automatic bargaining power or social acceptance.
 
 ASCII MASTER FLOW — PANEL 12/12: Family answer spine
 OPEN -> redistribution of functions, not institutional decline
 BODY -> residence, obligation, marriage boundary, socialisation
 CONDITION -> region, class, gender norms and mediation
 CLOSE -> differentiated verdict with the data caveat
+EVIDENCE LIMIT: Use Hindu Succession reform, personal-law and Special Marriage Act boundaries
+  with Khasi/Garo, Nair, north Indian and south Indian kinship variation; legal capacity and
+  formal equality must not be reported as automatic bargaining power or social acceptance.

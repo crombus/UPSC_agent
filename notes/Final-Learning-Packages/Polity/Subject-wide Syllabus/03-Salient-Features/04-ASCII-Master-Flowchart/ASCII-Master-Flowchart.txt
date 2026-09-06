@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/11: Complete 17-feature control: four interacting layers
+ASCII MASTER FLOW — PANEL 1/12: Complete 17-feature control: four interacting layers
 FORM AND CHANGE
 01 lengthy written text | 02 varied sources | 03 rigidity + flexibility
 
@@ -15,8 +15,11 @@ INSTITUTIONS AND CONSTITUTIONAL MODES
 16 constitutional local government | 17 co-operative societies
 
 CONTROL: a feature is a system-level interaction, not one isolated Article.
+MUST REMEMBER: Salient features form one architecture: written supremacy, federal distribution
+  with integrative devices, parliamentary responsibility, judicial review, rights, DPSP,
+  duties, universal franchise, independent bodies and local government.
 
-ASCII MASTER FLOW — PANEL 2/11: Written detail, supremacy and three amendment tracks
+ASCII MASTER FLOW — PANEL 2/12: Written detail, supremacy and three amendment tracks
 ORIGINAL CONTROL: Preamble + 395 Articles + 22 Parts + 8 Schedules
 CURRENT CONTROL: avoid one fixed Article total; inserted/omitted text changes counts
 
@@ -30,7 +33,7 @@ LIMIT: Article 368 power -> constitutional change
 
 VERDICT: detail secures inclusion; calibrated amendment balances continuity and change.
 
-ASCII MASTER FLOW — PANEL 3/11: Borrowed, adapted and rejected: design rather than photocopy
+ASCII MASTER FLOW — PANEL 3/12: Borrowed, adapted and rejected: design rather than photocopy
 SOURCE        ADAPTED INPUT                     REJECTED / TRANSFORMED
 1935 Act      federal/admin/judicial scheme       colonial rule + restricted franchise
 Britain       cabinet, rule of law, bicameralism   monarchy + unlimited Parliament
@@ -43,7 +46,7 @@ S Africa/Japan amendment route + Art 21 wording     both altered by Indian doctr
 
 Maneka Gandhi (1978): 'procedure established' requires fair, just, reasonable procedure.
 
-ASCII MASTER FLOW — PANEL 4/11: Federal power-sharing with integrative and asymmetric devices
+ASCII MASTER FLOW — PANEL 4/12: Federal power-sharing with integrative and asymmetric devices
 FEDERAL CORE
 two levels + divided competence + written supremacy + independent judiciary
 Article 1: 'Union of States' -> no State right to secede
@@ -58,7 +61,7 @@ J&K CONTROL: In Re: Article 370 of the Constitution (2023) treated it as tempora
 
 VERDICT: real federal distribution plus constitutionally strong integration.
 
-ASCII MASTER FLOW — PANEL 5/11: Parliamentary responsibility, overlap and separation-of-powers checks
+ASCII MASTER FLOW — PANEL 5/12: Parliamentary responsibility, overlap and separation-of-powers checks
 PEOPLE -> LOK SABHA -> COUNCIL OF MINISTERS
                          +-- Article 75 collective responsibility
                          +-- confidence + questions + committees + finance
@@ -72,7 +75,7 @@ INSULATION: Articles 50, 121/211, 122/212 | institutional core domains
 CASE CONTROL: Ram Jawaya = no rigid separation; basic structure limits capture
 PYQ 2021 Q90: best liberty safeguard among exact options = separation of powers.
 
-ASCII MASTER FLOW — PANEL 6/11: Judiciary, rule of law and the rights-DPSP-duties triangle
+ASCII MASTER FLOW — PANEL 6/12: Judiciary, rule of law and the rights-DPSP-duties triangle
 CONSTITUTIONAL SUPREMACY
 +-- rule of law -> limited, reasoned and reviewable power
 +-- integrated judiciary -> SC > High Courts > subordinate courts
@@ -85,8 +88,11 @@ FR: enforceable liberty/equality/dignity
 DPSPs: non-justiciable welfare/transformation directives
 Duties: civic obligations; no licence to erase rights
 Minerva Mills (1980): harmony of Parts III and IV belongs to basic structure.
+CLOSE DISTINCTION: India has checks and balances rather than strict separation; parliamentary
+  government fuses executive and legislature while Articles 13, 32, 226 and the
+  basic-structure doctrine preserve constitutional supremacy.
 
-ASCII MASTER FLOW — PANEL 7/11: Democracy, citizenship, bodies, local government and co-operatives
+ASCII MASTER FLOW — PANEL 7/12: Democracy, citizenship, bodies, local government and co-operatives
 CITIZEN -> adult franchise -> Lok Sabha/Assemblies -> responsible government
 SINGLE CITIZENSHIP -> common membership, not erasure of every domicile rule
 
@@ -99,7 +105,7 @@ Finance Commission  280 periodic expert commission, not permanent body
 LOCAL: Parts IX/IX-A + Schedules 11/12; detailed status is distinctive, not unique
 CO-OPS: Union of India v. Rajendra N. Shah (2021) limits Part IX-B for State co-ops.
 
-ASCII MASTER FLOW — PANEL 8/11: Three Emergency modes, safeguards and return to normal balance
+ASCII MASTER FLOW — PANEL 8/12: Three Emergency modes, safeguards and return to normal balance
 NORMAL FEDERAL-RESPONSIBLE MODE
       |
       +-- Article 352: war / external aggression / armed rebellion
@@ -114,7 +120,7 @@ RETURN TO ORDINARY CONSTITUTIONAL BALANCE
 
 CONTROL: temporary centralisation is India's specified design, not a unique world claim.
 
-ASCII MASTER FLOW — PANEL 9/11: Strength-risk pairs and live constitutional controls
+ASCII MASTER FLOW — PANEL 9/12: Strength-risk pairs and live constitutional controls
 FEATURE              GAIN                         RISK / CONTROL
 strong Centre         coordination/integrity       overreach -> federal review
 parliamentary fusion  daily accountability         majority dominance
@@ -128,7 +134,7 @@ LIVE CONTROLS (28 AUG 2026)
 J&K remains a UT with legislature; no statehood-restoration notice located.
 Rajendra N Shah remains controlling for State co-operative Part IX-B limits.
 
-ASCII MASTER FLOW — PANEL 10/11: Verified PYQ control panel: exact answers and traps
+ASCII MASTER FLOW — PANEL 10/12: Verified PYQ control panel: exact answers and traps
 YEAR Q     CONTROLLED ANSWER / ROUTE
 2018 Q40   B: without law there is no liberty
 2018 Q45   C: limitation + equality + liberty/civil rights
@@ -143,7 +149,7 @@ YEAR Q     CONTROLLED ANSWER / ROUTE
 2023 Q84   D: 600x400 not standard; 3:2 ratio correct
 2024 Q74   D officially keyed: Parts IX-A, XVIII and XX all matched.
 
-ASCII MASTER FLOW — PANEL 11/11: Executable 10/15/20-mark answer spine
+ASCII MASTER FLOW — PANEL 11/12: Executable 10/15/20-mark answer spine
 10 MARKS / 150 WORDS
 Define demand -> 3 feature clusters -> Article/case for each -> one limit -> verdict
 
@@ -160,3 +166,13 @@ Thesis -> written/amendment -> federal/integrative -> parliamentary/checks
 6 Institutions/modes: bodies, co-ops, Emergency design.
 7 Pair every strength with risk + authority/current control.
 8 Conclude: constitutional morality sustains dynamic balance.
+
+ASCII MASTER FLOW — PANEL 12/12: Exact Parts, Schedules, amendments and current-law controls
+PART IX Panchayats | PART IX-A Municipalities | PART IX-B Co-operatives
+PART XVIII Emergency | PART XX Amendment | SEVENTH/TENTH/ELEVENTH/TWELFTH SCHEDULES
+42ND (1976): Socialist/Secular/Integrity | 61ST (1988): voting age 18
+73RD/74TH (1992): local bodies | 97TH: State portion limited by Rajendra N Shah (2021)
+J&K: 2019 measures upheld in 2023; statehood assurance is not restoration.
+LEGAL/SOURCE LIMIT: Borrowing is not copying, constitutional design is not implementation
+  success, and current J&K/co-operative status must follow authoritative judgments and
+  notifications rather than political assurances.

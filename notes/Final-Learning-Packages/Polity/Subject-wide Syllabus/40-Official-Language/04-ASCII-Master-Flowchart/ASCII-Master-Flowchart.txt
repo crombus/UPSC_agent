@@ -16,6 +16,12 @@ SETTLEMENT
 Hindi in Devanagari + international form of Indian numerals
 paired with statutory continuation of English and federal safeguards.
 
+CURRENT LAW: 5 SEPTEMBER 2026
+No constitutional national language exists. Hindi is the Union official
+language; English continues by statute in addition to Hindi.
+MUST REMEMBER: State precisely that Hindi in Devanagari is the Union's official language and
+  that the Constitution declares no national language.
+
 ASCII MASTER FLOW — PANEL 2/12: Articles 343-344 and the statutory continuation of English
 ARTICLE 343
 Hindi in Devanagari = official language of Union.
@@ -101,6 +107,8 @@ section 7: authorised non-English judgment + High Court-authorised English trans
 
 TRAP
 translation utility, including machine output, does not itself confer authority.
+CLOSE DISTINCTION: Keep Union, State, court, grievance, minority-instruction, scheduled,
+  classical and education-policy language categories separate.
 
 ASCII MASTER FLOW — PANEL 7/12: Articles 350, 350A, 350B and 351: access and development
 ARTICLE 350
@@ -155,6 +163,11 @@ THREE-LANGUAGE FORMULA
 education-policy framework with State implementation variation.
 It is not a constitutional national-language command.
 
+CURRENT INSTITUTIONAL SNAPSHOT
+Eighth Schedule: 22 languages. Rules portal: amendments through 2011.
+Committee portal: Amit Shah as Chairperson and thirteenth report displayed.
+Committee recommendations cannot override section 3's statutory safeguards.
+
 ASCII MASTER FLOW — PANEL 10/12: Language cases: competence, minority context and protected choice
 Gujarat University v. Shri Krishna (1963)
 medium/language power must respect the Union-State education competence boundary.
@@ -208,3 +221,5 @@ constitutional compromise -> Part XVII -> 1963 Act
 
 CONCLUSION
 multilingual unity requires exact law, consent and authoritative parity.
+LEGAL/SOURCE LIMIT: The 1963 Act, 1967 settlement and 1976 Rules as amended through 2011
+  remain operative; the Eighth Schedule contains twenty-two languages.

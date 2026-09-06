@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/11: Articles 1-4: the territorial power hierarchy
+ASCII MASTER FLOW — PANEL 1/12: Articles 1-4: the territorial power hierarchy
 ARTICLE 1
   India, that is Bharat = Union of States
   territory = States + Union territories + acquired territories
@@ -15,8 +15,11 @@ ARTICLE 4
 
 FIRST SCHEDULE = living ledger of States and Union territories
 PRINCIPLE: States have constitutional status, but no right to secede.
+MUST REMEMBER: Articles 1-4 and the First/Fourth Schedules separate territorial identity,
+  admission or establishment, internal reorganisation and consequential schedule changes
+  within an indestructible Union.
 
-ASCII MASTER FLOW — PANEL 2/11: Article 3 procedure: consultation without a State veto
+ASCII MASTER FLOW — PANEL 2/12: Article 3 procedure: consultation without a State veto
 PRESIDENT'S RECOMMENDATION REQUIRED
         |
 BILL affects area, boundary or name of a State?
@@ -32,7 +35,7 @@ PRESIDENTIAL ASSENT -> territorial and Schedule changes
 
 State view is required consultation, not consent.
 
-ASCII MASTER FLOW — PANEL 3/11: Article 2, Article 3 and foreign-territory transfer are distinct
+ASCII MASTER FLOW — PANEL 3/12: Article 2, Article 3 and foreign-territory transfer are distinct
 QUESTION                         CONSTITUTIONAL ROUTE
 admit or establish new State    Article 2
 reorganise existing Indian unit Article 3
@@ -49,7 +52,7 @@ boundary settlement differs from cession.
 100TH AMENDMENT, 2015
 constitutional route used for India-Bangladesh land-boundary exchange.
 
-ASCII MASTER FLOW — PANEL 4/11: First Schedule as a constitutional change ledger
+ASCII MASTER FLOW — PANEL 4/12: First Schedule as a constitutional change ledger
 TERRITORIAL LAW UNDER ARTICLE 2 OR 3
   +-- changes First Schedule: State and Union-territory description
   +-- may change Fourth Schedule: Rajya Sabha seat allocation
@@ -64,7 +67,7 @@ LIMIT
 Article 4 supports territorial reorganisation;
 it does not bypass Article 368 for unrelated constitutional changes.
 
-ASCII MASTER FLOW — PANEL 5/11: Integration and linguistic reorganisation, 1947-1956
+ASCII MASTER FLOW — PANEL 5/12: Integration and linguistic reorganisation, 1947-1956
 1947-49  accession and integration of princely states
 1950     Part A, B, C and D classification begins
 1948     Dhar Commission cautions against language-only reorganisation
@@ -79,7 +82,7 @@ ASCII MASTER FLOW — PANEL 5/11: Integration and linguistic reorganisation, 194
 
 Language became accommodation's basis, not an automatic sole test.
 
-ASCII MASTER FLOW — PANEL 6/11: Post-1956 map-making: reorganisation, creation and renaming
+ASCII MASTER FLOW — PANEL 6/12: Post-1956 map-making: reorganisation, creation and renaming
 1956 SETTLEMENT
   +-- 1960 Maharashtra + Gujarat
   +-- 1963 Nagaland
@@ -94,8 +97,11 @@ ASCII MASTER FLOW — PANEL 6/11: Post-1956 map-making: reorganisation, creation
 
 RENAMING uses Article 3 when a State name changes.
 CURRENT MAP IN SOURCE: 28 States and 8 Union territories.
+CLOSE DISTINCTION: A State legislature supplies non-binding views under Article 3; Article 4
+  uses ordinary legislative procedure, while foreign cession requires Article 368 under
+  Berubari Union (1960) and a mere boundary settlement may not.
 
-ASCII MASTER FLOW — PANEL 7/11: Jammu and Kashmir reorganisation as an Article 3 stress test
+ASCII MASTER FLOW — PANEL 7/12: Jammu and Kashmir reorganisation as an Article 3 stress test
 2019 REORGANISATION -> J&K UT WITH LEGISLATURE + LADAKH UT WITHOUT LEGISLATURE
         |
 IN RE ARTICLE 370 (2023 INSC 1058)
@@ -109,7 +115,7 @@ No enacted restoration located; Ladakh Statehood/Sixth-Schedule demands remain u
 
 EXAM LIMIT: do not say the Court generally approved every State-to-UT conversion.
 
-ASCII MASTER FLOW — PANEL 8/11: New-State demand: democratic claim versus viable federal unit
+ASCII MASTER FLOW — PANEL 8/12: New-State demand: democratic claim versus viable federal unit
 CLAIM FOR NEW STATE
 identity + distance from capital + uneven development + administrative access
         |
@@ -126,7 +132,7 @@ TESTS
 
 Smaller can improve access; it does not automatically produce capacity or equality.
 
-ASCII MASTER FLOW — PANEL 9/11: Exact verified PYQ controls: wording, demand and answer ownership
+ASCII MASTER FLOW — PANEL 9/12: Exact verified PYQ controls: wording, demand and answer ownership
 2025 PRELIMS GS-I Q52
 Arunachal Pradesh + Nagaland + Tripura pairs -> official key C: all three.
 Nagaland: Statehood Act and accompanying Thirteenth Amendment are not mutually exclusive.
@@ -140,7 +146,7 @@ Answer demand = economic benefit, capacity, fiscal viability and transition cost
 Political and administrative reorganization has been a continuous ongoing process since the
   mid-nineteenth century -> prove continuity with colonial + post-1947 examples.
 
-ASCII MASTER FLOW — PANEL 10/11: Exact 10/15/20-mark architecture: flexible territory within an indestructible Union
+ASCII MASTER FLOW — PANEL 10/12: Exact 10/15/20-mark architecture: flexible territory within an indestructible Union
 10 MARKS / 150 WORDS
 Article 1 thesis -> Articles 2/3 distinction -> Article 3 procedure -> one case -> verdict.
 
@@ -154,7 +160,7 @@ Use validity -> legitimacy -> prudence; never substitute a current proposal for 
 ANSWER CONTROL
 Every model: evidence -> mechanism -> analysis -> limit -> verdict -> answer-specific improvement.
 
-ASCII MASTER FLOW — PANEL 11/11: Qualified final synthesis: flexible map, protected sovereignty, negotiated legitimacy
+ASCII MASTER FLOW — PANEL 11/12: Qualified final synthesis: flexible map, protected sovereignty, negotiated legitimacy
 INTERNAL FLEXIBILITY
 Articles 3-4 permit ordinary-law reorganisation after constitutionally required consultation.
         +
@@ -171,3 +177,13 @@ CURRENT-LAW DISCIPLINE
 FINAL VERDICT
 Article 3 is a centralising safety valve whose legitimacy depends on using flexibility as
   constitutional accommodation, not as a substitute for federal trust.
+
+ASCII MASTER FLOW — PANEL 12/12: Current territorial status and authoritative-source gate
+CURRENT MAP, RECHECKED 5 SEP 2026 -> 28 STATES + 8 UNION TERRITORIES
+J&K REORGANISATION ACT 2019 -> UT of J&K + UT of Ladakh
+IN RE ARTICLE 370, 11 DEC 2023 -> 2019 measures upheld; early statehood restoration recorded
+NO OPERATIVE RESTORATION NOTIFICATION LOCATED -> J&K remains a UT
+SOURCE ORDER: Constitution -> India Code -> Supreme Court -> MHA -> textbook.
+LEGAL/SOURCE LIMIT: State/UT counts, J&K status and reorganisation claims are date-sensitive:
+  use the Constitution, India Code, MHA and Supreme Court, and never turn an assurance to
+  restore statehood into an accomplished legal notification.

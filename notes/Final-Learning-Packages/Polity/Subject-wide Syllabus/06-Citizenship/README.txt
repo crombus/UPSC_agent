@@ -5,8 +5,8 @@ Topic: Citizenship
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 06
-Source record ID: polity-06:learner-v2:g16
-Source generation: 16
+Source record ID: polity-06:learner-v2:g17
+Source generation: 17
 Approval: Approval pending
 
 Deliverables

@@ -6,6 +6,9 @@ CENTRE-STATE AND INTER-STATE RELATIONS
   +-- INTER-STATE / MARKET: Articles 261-263 and 301-307
 
 METHOD: identify field -> constitutional route -> check -> remedy.
+MUST REMEMBER: Keep four owned dimensions separate: legislative relations under Articles
+  245-255, administrative relations under Articles 256-263 and 355/365, financial relations
+  under Articles 268-293, and inter-State coordination under Articles 261-263 and 301-307.
 
 ASCII MASTER FLOW — PANEL 2/12: Legislative competence and State-field entry
 COMPETENCE FIRST
@@ -54,6 +57,10 @@ ARTICLE 265: authority of law
 275 -> constitutional grants | 282 -> any-public-purpose grants
 280 -> Finance Commission | 292 / 293 -> borrowing
 285 / 289 -> reciprocal property and income tax immunities with exceptions.
+CLOSE DISTINCTION: Article 254 repugnancy is principally a Concurrent-List conflict rule; pith
+  and substance tests competence, Article 262 permits statutory exclusion for defined river
+  disputes, and Article 263 creates an enabling power rather than a self-executing
+  adjudicatory council.
 
 ASCII MASTER FLOW — PANEL 7/12: Fiscal evolution, Sixteenth Finance Commission and GST
 PLAN ERA -> FC / GST / NITI ERA
@@ -118,3 +125,7 @@ claim -> Article/institution -> operation -> State/Union counterpoint -> commiss
 VERDICT
 Strong Union power is constitutionally bounded; durable relations require consultation
 before compulsion, predictable finance, shared data and reviewable discretion.
+LEGAL/SOURCE LIMIT: Special Reference No. 1 of 2025 rejects rigid judicial timelines and
+  deemed assent, recognises Article 200 discretion, and permits only a limited mandamus
+  against prolonged, unexplained and indefinite inaction. Do not continue the displaced April
+  2025 timeline rule.

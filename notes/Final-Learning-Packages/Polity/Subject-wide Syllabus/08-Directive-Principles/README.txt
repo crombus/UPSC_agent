@@ -5,8 +5,8 @@ Topic: Directive Principles
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 08
-Source record ID: polity-08:learner-v2:g8
-Source generation: 8
+Source record ID: polity-08:learner-v2:g9
+Source generation: 9
 Approval: Approval pending
 
 Deliverables

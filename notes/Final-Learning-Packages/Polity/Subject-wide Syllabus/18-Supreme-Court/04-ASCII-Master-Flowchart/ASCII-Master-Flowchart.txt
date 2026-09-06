@@ -7,8 +7,11 @@ one hierarchy applies Union + State law; Article 141 promotes national legal uni
 LIMIT: integrated does not mean unitary administration; Articles 226, 227 and 235 remain vital.
 
 CONTROL CARD, 28 AUG 2026
-sanctioned 34 including CJI | official sitting roster 34 | retirement 65
+sanctioned 38 including CJI | working strength: live roster | retirement 65
 seat Delhi, Article 130 | Article 145(3): five-judge minimum for specified questions.
+MUST REMEMBER: Map Articles 124-147 with exact appointment, qualification, tenure, removal,
+  independence, jurisdiction, precedent, review, contempt and complete-justice rules; do not
+  merge Article 32, 136, 137, 141, 142 or 143.
 
 ASCII MASTER FLOW — PANEL 2/12: Appointment text, collegium evolution and NJAC test
 ARTICLE 124: PRESIDENT APPOINTS -> CONSTITUTIONALLY REQUIRED CONSULTATION
@@ -80,6 +83,9 @@ Opinion remains advisory, not an ordinary binding decree.
 prolonged unexplained inaction remains reviewable. Use as dated, issue-specific evidence.
 State of Tamil Nadu v. Governor of Tamil Nadu (2025) -> facts-specific assent relief.
 In re Assent, Withholding or Reservation of Bills (2025) -> advisory control.
+CLOSE DISTINCTION: Keep collegium doctrine, NJAC invalidation, judicial review, Basic
+  Structure, PIL and judicial legislation proposition-specific. Article 142 supplies complete
+  justice in a cause or matter, not free-standing power to ignore substantive law.
 
 ASCII MASTER FLOW — PANEL 7/12: Finality, review, curative power and contempt
 JUDGMENT -> ARTICLE 137 REVIEW -> FINALITY
@@ -164,3 +170,6 @@ define institutional role -> Article -> mechanism -> case + year -> consequence
 VERDICT
 The Court guards constitutional supremacy only when independent authority is joined to
 reasoned restraint, accountable process, accessible remedies and executable orders.
+LEGAL/SOURCE LIMIT: Act 14 of 2026 raises the statutory maximum to thirty-seven judges
+  excluding the CJI, total sanctioned strength thirty-eight, deemed in force from 16 May 2026.
+  Working strength and pendency remain dynamic.

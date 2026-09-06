@@ -8,8 +8,6 @@ AXIS 2 -> AWARENESS: IFC-IOR 2018, Gurugram; IORA; IONS 2008
 AXIS 3 -> PARTNERS: island-state vision documents; non-treaty minilaterals
 RULE -> dependence is the premise; every later instrument answers it
 MUST REMEMBER: The Indo-Pacific and Indian Ocean framework links sea-lane security,...
-MUST REMEMBER: The Indo-Pacific and Indian Ocean framework links sea-lane security,...
-MUST REMEMBER: The Indo-Pacific and Indian Ocean framework links sea-lane security,...
 
 ASCII MASTER FLOW — PANEL 2/12: Doctrine ladder: SAGAR to MAHASAGAR
 12 MARCH 2015, MAURITIUS -> SAGAR: Security and Growth for All in the Region
@@ -57,6 +55,7 @@ USD 400 MILLION + INR 30 BILLION -> currency-swap arrangement
   INR 4,850 crore Line of Credit
 LEVEL -> Terms of Reference launch talks; they do not conclude an agreement
 READING -> India answered political distance with more instruments, not fewer
+CLOSE DISTINCTION: UNCLOS membership is not acceptance of every maritime claim, freedom...
 
 ASCII MASTER FLOW — PANEL 7/12: Colombo Security Conclave category matrix
 STATUS ON 20 NOVEMBER 2025, NEW DELHI, NSA-LEVEL MEETING
@@ -94,9 +93,6 @@ MARCH 2023 PATHWAY -> rotational UK-US presence from as early as 2027;
 JUNE 2022 -> EUR 555 million settlement over the cancelled French programme
 NOVEMBER 2025 -> IAEA Article 14 safeguards arrangement still under negotiation
 INDIA -> not an AUKUS member; its Quadrilateral route is parallel and non-treaty
-CLOSE DISTINCTION: UNCLOS membership is not acceptance of every maritime claim, freedom...
-CLOSE DISTINCTION: UNCLOS membership is not acceptance of every maritime claim, freedom...
-CLOSE DISTINCTION: UNCLOS membership is not acceptance of every maritime claim, freedom...
 
 ASCII MASTER FLOW — PANEL 11/12: Sectoral rule-making at the International Maritime Organization
 1948 CONVENTION ADOPTED -> 1958 ENTRY INTO FORCE -> UN specialised agency
@@ -107,12 +103,10 @@ INSTRUMENTS -> SOLAS | MARPOL | Ballast Water Management, in force 2017 |
 2023 GHG STRATEGY -> net zero by or around 2050, with 2030 and 2040 checkpoints
 OCTOBER 2025 -> Net-Zero Framework approved at committee level, NOT adopted; adjourned
 INDIA -> elected to Council Category (b) for 2026-27; access, not guaranteed outcomes
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify grouping membership, exercise...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify grouping membership, exercise...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify grouping membership, exercise...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a maritime demand
 OPEN -> name the sea-lane dependence and the exact interest it creates
 BUILD -> rules, awareness and partners, each with one dated instrument at its level
 TEST -> price external-power basing, island-state agency and minilateral asymmetry
 CLOSE -> qualify the net security provider label and give a graded contested-order verdict
+EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify grouping membership, exercise...

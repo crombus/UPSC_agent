@@ -12,6 +12,8 @@ statutory | corruption-specific | Union institution | no general suo-motu route.
 
 CORE DISTINCTION
 Lokpal directs a legal process; the Special Court decides criminal guilt.
+MUST REMEMBER: Treat Lokpal as a statutory corruption-complaint institution under the 2013
+  Act, not as a constitutional court, police force or ombudsman for every grievance.
 
 ASCII MASTER FLOW — PANEL 2/12: Composition and eligibility
 COMPOSITION
@@ -23,6 +25,13 @@ judicial and eminent-person routes have distinct statutory conditions.
 
 TRAP
 representation applies to Members; it is not an extra seat count.
+
+CURRENT ROSTER: 5 SEPTEMBER 2026
+Chairperson: Justice Ajay Manikrao Khanwilkar.
+Judicial Members: Justice L. Narayana Swamy | Justice Sanjay Yadav
+| Justice Ritu Raj Awasthi.
+Members: Sushil Chandra | Pankaj Kumar | Ajay Tirkey.
+No occupant is inferred for an unfilled statutory seat.
 
 ASCII MASTER FLOW — PANEL 3/12: Selection, tenure and removal
 SELECTION
@@ -68,6 +77,8 @@ preliminary inquiry | investigation | lawful closure.
 INQUIRY
 prima facie screen -> public-servant hearing -> reasoned report.
 Inquiry is not investigation and allegation is not guilt.
+CLOSE DISTINCTION: Prime-Minister safeguards, parliamentary privilege, the seven-year bar,
+  agency dependence and State-law Lokayukta variation must remain explicit.
 
 ASCII MASTER FLOW — PANEL 7/12: Investigation, prosecution and Special Court
 INVESTIGATION
@@ -154,6 +165,10 @@ Supreme Court stayed the Lokpal order; no final merits holding.
 CURRENT CLAIMS
 use dated primary sources; do not freeze transient statistics.
 
+PENDING-JURISDICTION CONTROL
+The Supreme Court's 20 February 2025 interim order stayed the Lokpal's
+High Court-judge jurisdiction order. Do not convert the stay into a final merits rule.
+
 ASCII MASTER FLOW — PANEL 12/12: UPSC traps and answer synthesis
 PRELIMS FIREWALL
 statutory, not constitutional | maximum eight Members | PM included with filters
@@ -171,3 +186,5 @@ ombudsman evolution -> legal identity -> composition/independence
 VERDICT
 Lokpal has real process powers, but credibility depends on appointments, agency autonomy,
 reasoned transparency and court-controlled legality rather than institutional mythology.
+LEGAL/SOURCE LIMIT: Justice A. M. Khanwilkar and the six officially listed Members form the
+  dated central roster; the 2025 High Court-judge jurisdiction order remains stayed.

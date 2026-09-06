@@ -15,6 +15,8 @@ ARTICLE CHAIN
 
 CORE DISTINCTION
 gross tax revenue != net proceeds != divisible pool != State share != grants.
+MUST REMEMBER: Keep Article 280 Finance Commission, State Finance Commissions and the Article
+  279A GST Council institutionally and functionally distinct.
 
 ASCII MASTER FLOW — PANEL 2/12: Article 280 institution and award lifecycle
 CONSTITUTION
@@ -111,6 +113,8 @@ accounts + audit + timely SFCs + transparent release + service outcomes.
 LIMIT
 Union local-body grants supplement; they do not replace State devolution,
 own revenue or the constitutional role of State Finance Commissions.
+CLOSE DISTINCTION: Vertical devolution applies to Article 270 net proceeds, not gross tax
+  revenue; Article 271 surcharges and applicable cesses stay outside the divisible pool.
 
 ASCII MASTER FLOW — PANEL 7/12: Disaster finance: response, mitigation and release controls
 DISASTER-MANAGEMENT FINANCE
@@ -221,3 +225,6 @@ MAINS SPINE
 define imbalance -> article chain -> transfer mechanism -> award evidence
 -> contested incentive/autonomy effect -> implementation qualification
 -> predictable, transparent and accountable fiscal-federal verdict.
+LEGAL/SOURCE LIMIT: The Sixteenth Finance Commission report and February 2026 Explanatory
+  Memorandum control the 2026-31 award: 41 per cent vertical share and the accepted
+  six-criterion horizontal formula.

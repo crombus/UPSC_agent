@@ -11,6 +11,9 @@ President is integral to Parliament but is not a member of either House.
 ANSWER LINE
 Use this route to show that this design combines popular authority, federal revision and
 constitutional form.
+MUST REMEMBER: Audit Parliament through Articles 79-122 and the financial provisions:
+  composition, officers, sessions, membership, privileges, legislation, lapse, joint sitting,
+  finance, committees and accountability require their own procedural chains.
 
 ASCII MASTER FLOW — PANEL 2/12: Membership, disqualification, vacancies and opposition
 CORE RULE
@@ -90,6 +93,10 @@ Money and Constitution Amendment Bills have no joint-sitting route.
 ANSWER LINE
 Use this route to show that Sita Soren (2024) preserves institutional independence by denying
 immunity that subverts it.
+CLOSE DISTINCTION: Keep constitutional text, House rules and conventions separate. Speaker
+  certification is textually final but not wholly immune from constitutional review; Rajya
+  Sabha is subordinate on money and confidence but co-equal on ordinary legislation and
+  amendment, with exclusive Articles 249/312 powers.
 
 ASCII MASTER FLOW — PANEL 7/12: Budget, grants, funds and power of the purse
 CORE RULE
@@ -181,3 +188,6 @@ Never substitute current-sensitive numbers or proposals for stable constitutiona
 ANSWER LINE
 Use this route to show that better time, information and incentives can activate existing
 powers without inventing new devices.
+LEGAL/SOURCE LIMIT: The 106th Amendment commenced on 16 April 2026 but reservation remains
+  non-operational pending the Article 334A census-publication-delimitation sequence. Census
+  2027 dates are notified; publication and delimitation dates are not.

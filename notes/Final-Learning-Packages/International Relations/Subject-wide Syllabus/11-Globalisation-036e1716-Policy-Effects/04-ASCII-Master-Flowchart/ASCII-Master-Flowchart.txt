@@ -9,8 +9,6 @@ PYQ WORDING -> the 2025 demand itself says waning, never ended
 BOUNDARY -> tariff and balance-of-payments mechanics to Economy;
   de-risking detail to topic 03; the organisation's full structure to topic 12
 MUST REMEMBER: Globalisation and trade agreements transmit tariffs, services rules,...
-MUST REMEMBER: Globalisation and trade agreements transmit tariffs, services rules,...
-MUST REMEMBER: Globalisation and trade agreements transmit tariffs, services rules,...
 
 ASCII MASTER FLOW — PANEL 2/12: Three transmission channels into Indian interests
 TRADE CHANNEL -> protectionism | stalled multilateral liberalisation
@@ -69,6 +67,7 @@ STEP 2 ENTRY INTO FORCE -> on two-thirds acceptance; threshold reached at a
 STEP 3 INDIVIDUAL ACCEPTANCE -> India deposits its instrument, 20 July 2026
 MANDATE -> MC11 Buenos Aires Ministerial Decision and SDG 14.6
 CONTINUING -> additional provisions under the Negotiating Group on Rules
+CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry...
 
 ASCII MASTER FLOW — PANEL 7/12: Agriculture and the reform demand India actually makes
 PROBLEM -> public-stockholding procurement collides with domestic-support rules
@@ -116,9 +115,6 @@ PRICE -> calculated from EU Emissions Trading System allowance auction prices
 CLASSIFICATION -> trade instrument, industrial-policy tool and climate measure
 INDIA -> affected through market access, standards and negotiating strategy
   without being a party to the European Union's internal law
-CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry...
-CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry...
-CLOSE DISTINCTION: Negotiation launch, concluded text, signature, ratification, entry...
 
 ASCII MASTER FLOW — PANEL 11/12: Tariff volatility as the transmission mechanism
 7 AUGUST 2025 -> 25 per cent reciprocal duty on India takes effect
@@ -130,9 +126,6 @@ FEBRUARY 2026 -> additional duties under the International Emergency
 STATUS -> another state's domestic measures; exposure, not Indian obligation
 MECHANISM -> a duty lasting under six months still shaped a negotiating cycle
 ANSWER LINE -> volatility, not level, is what transmits
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Identify parties, legal coverage, rules...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Identify parties, legal coverage, rules...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Identify parties, legal coverage, rules...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a globalisation or trade-effects demand
 OPEN -> define both forces and state that they are co-present, not sequential
@@ -146,3 +139,4 @@ CONCEDE -> rules-of-origin fragmentation, transition cost, contested
 OWNERSHIP -> the 2025 elucidate, 2018 reform and 2022 climate-fora demands
 CLOSE -> open enough for markets and technology, resilient enough to absorb
   volatility, and active enough to shape the rules that transmit it
+EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Identify parties, legal coverage, rules...

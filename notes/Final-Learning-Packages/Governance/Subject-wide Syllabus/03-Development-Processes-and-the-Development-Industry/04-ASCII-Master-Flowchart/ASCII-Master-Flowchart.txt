@@ -34,6 +34,7 @@ FUNDING SOURCE -> project cycle, founder priority or Schedule VII compliance set
 LEGAL VEHICLE -> determines disclosure and governance quality available to a beneficiary
 IMPLEMENTER -> local social capital and capacity determine last-mile fidelity
 ACCOUNTABILITY -> upward to donor and regulator; never downward to the beneficiary
+CLOSE DISTINCTION: Development industry is an analytical label for organisations,...
 
 ASCII MASTER FLOW — PANEL 7/12: Five-test grid
 ADDITIONALITY -> adds capacity, or substitutes for a public obligation still owed
@@ -58,17 +59,16 @@ TIERS -> Union, state, district and local plan what each is best placed to know
 CONSOLIDATION -> District Planning Committee under Article 243ZD; operationalisation uneven
 FISCAL PRECONDITION -> the State Finance Commission
 DEMONSTRATION -> Kerala People's Plan Campaign, 1996; funds, functions and functionaries together
-CLOSE DISTINCTION: Development industry is an analytical label for organisations,...
 
 ASCII MASTER FLOW — PANEL 11/12: Four donor-distortion channels
 AGENDA -> donor priority sets the problem before local need is assessed
 METRIC -> reporting rewards countable outputs, so participatory process is cut first
 CYCLE -> project-based time-bound grants mismatch a multi-year institution-building horizon
 ACCOUNTABILITY SUBSTITUTION -> upward reporting replaces downward answerability
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use SHG-bank linkage, district missions,...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a distance demand
 OPEN -> name distance as an institutional property of the funding chain, not only of the state
 BUILD -> four channels, then the five-test grid applied to one case
 CORRECT -> convergence with the local plan, co-decision, exit planning, disclosed funding and cost
 CLOSE -> graded verdict recording the one open routing conflict rather than concealing it
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use SHG-bank linkage, district missions,...

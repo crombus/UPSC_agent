@@ -36,6 +36,9 @@ ESTABLISHES -> aggregate participation in the labour force
 SUGGESTS -> the employment context of a migration decision
 DOES NOT ESTABLISH -> size, age, marital status, destination or cause
 PROHIBITION -> no migration stream may be inferred from a participation rate
+CLOSE DISTINCTION: Globalisation is not westernisation, liberalisation is not privatisation,
+  cultural diffusion is not homogenisation, hybridity is not equal exchange, and aggregate
+  growth or connectivity does not establish inclusion, causation or uniform local response.
 
 ASCII MASTER FLOW — PANEL 7/12: Freedom and renegotiation
 INCOME AND RESIDENCE -> mobility, spending autonomy, later marriage, partner voice
@@ -60,21 +63,18 @@ CLASSICAL PREDICTION -> rising health awareness reduces consumption
 OBSERVED -> awareness and industry growth coexist
 LENS -> bounded rationality weighs convenience and status against long-run health
 LIMIT -> a lens, not proof that one motive dominates every purchase
-CLOSE DISTINCTION: Globalisation is not westernisation, liberalisation is not privatisation,
-  cultural diffusion is not homogenisation, hybridity is not equal exchange, and aggregate
-  growth or connectivity does not establish inclusion, causation or uniform local response.
 
 ASCII MASTER FLOW — PANEL 11/12: Digital access ladder
 ROUND SIX FACT SHEETS -> ever-internet use 64.3 per cent, women aged 15 to 49
 ROUND FIVE COMPARATOR -> 33.3 per cent for the same measure
 STATUS -> round six results are labelled provisional
 DIVIDE -> access is unequal by income, gender, region and generation
-EVIDENCE LIMIT: Use IT-Bengaluru, garment clusters, Kerala-Gulf migration, platform work,
-  food/media hybridity and farmer/artisan value chains with sector and region qualifications;
-  distinguish policy chronology, firm strategy, technology and household agency.
 
 ASCII MASTER FLOW — PANEL 12/12: Globalisation answer spine
 OPEN -> name the channels, refuse the single-force framing
 BODY -> concede consumption, then add labour, family and digital channels
 TEST -> convergence against adaptation, domain by domain
 CLOSE -> graded verdict with the statistic and status caveats
+EVIDENCE LIMIT: Use IT-Bengaluru, garment clusters, Kerala-Gulf migration, platform work,
+  food/media hybridity and farmer/artisan value chains with sector and region qualifications;
+  distinguish policy chronology, firm strategy, technology and household agency.

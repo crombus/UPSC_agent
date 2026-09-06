@@ -8,6 +8,10 @@ MUST REMEMBER: Contemporary Indian issues are spatial systems: regional inequali
   stress, agrarian change, land degradation, water conflict, disasters, climate risk,
   coastal/Himalayan vulnerability, displacement and environmental justice emerge through
   hazard or pressure × exposure × vulnerability × governance.
+MUST REMEMBER: Contemporary Indian issues are spatial systems: regional inequality, urban
+  stress, agrarian change, land degradation, water conflict, disasters, climate risk,
+  coastal/Himalayan vulnerability, displacement and environmental justice emerge through
+  hazard or pressure × exposure × vulnerability × governance.
 
 ASCII MASTER FLOW — PANEL 2/12: Six issue-lenses
 RESOURCE CONFLICT -> control of water, minerals, forests and coasts
@@ -74,6 +78,9 @@ ADMINISTRATION -> bifurcation reorganised the basin's management, not its geomet
 CLOSE DISTINCTION: Hazard differs from disaster, scarcity from access failure, drought from
   aridity, degradation from desertification, climate trend from single event, mitigation from
   adaptation, and project approval, construction and operation are separate status stages.
+CLOSE DISTINCTION: Hazard differs from disaster, scarcity from access failure, drought from
+  aridity, degradation from desertification, climate trend from single event, mitigation from
+  adaptation, and project approval, construction and operation are separate status stages.
 
 ASCII MASTER FLOW — PANEL 11/12: Fragile-edge development trade-off
 GREAT NICOBAR ADVANTAGE -> proximity to east-west routes and the Malacca-facing arc
@@ -81,6 +88,10 @@ GREAT NICOBAR CONSTRAINT -> coral coast, tribal habitat, seismicity, coastal reg
 NORTH-EAST ADVANTAGE -> Bay of Bengal access bypassing the narrow mainland hinge
 NORTH-EAST CONSTRAINT -> folded slopes, heavy monsoon, landslides, forest fragmentation
 RULE -> route value and ecological fragility occupy the same site, so name the trade-off
+EVIDENCE LIMIT: Joshimath/Himalayan towns, Delhi air basin, Bengaluru/Chennai water stress,
+  Marathwada drought, Punjab groundwater, Bundelkhand, Sundarbans, Western Ghats, mining belts
+  and inter-state river disputes show scale-specific causation; current claims require IMD,
+  Census, CWC, CGWB, ISRO, MoEFCC or other official source-date-status labels.
 EVIDENCE LIMIT: Joshimath/Himalayan towns, Delhi air basin, Bengaluru/Chennai water stress,
   Marathwada drought, Punjab groundwater, Bundelkhand, Sundarbans, Western Ghats, mining belts
   and inter-state river disputes show scale-specific causation; current claims require IMD,

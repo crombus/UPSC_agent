@@ -5,8 +5,8 @@ Topic: High Court and Subordinate Courts
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 21
-Source record ID: polity-21:learner-v2:g4
-Source generation: 4
+Source record ID: polity-21:learner-v2:g7
+Source generation: 7
 Approval: Approval pending
 
 Deliverables

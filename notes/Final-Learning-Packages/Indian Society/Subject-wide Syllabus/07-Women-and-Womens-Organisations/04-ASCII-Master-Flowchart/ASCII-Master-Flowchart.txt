@@ -37,6 +37,9 @@ TIME -> unpaid care and domestic work compress schooling and paid work
 SPACE -> mobility limits, harassment and safety condition public presence
 WORK -> workplace access and treatment shape continuity of employment
 DIGITAL -> internet and device access shape information and market reach
+CLOSE DISTINCTION: Women are not a homogeneous category, labour-force participation is not
+  total work, unpaid care is not inactivity, descriptive representation is not substantive
+  empowerment, and protective law is not implementation or transformed social norms.
 
 ASCII MASTER FLOW — PANEL 7/12: Access indicator card
 SOURCE -> National Family Health Survey round five, 2019-21
@@ -61,22 +64,19 @@ GAIN -> wider entry, flexible hours, independent earning opportunity
 COST -> income volatility, algorithmic control, thin social protection
 TEST -> do earnings, safety and voice improve together
 BOUNDARY -> platform legal status is owned by Social Justice
-CLOSE DISTINCTION: Women are not a homogeneous category, labour-force participation is not
-  total work, unpaid care is not inactivity, descriptive representation is not substantive
-  empowerment, and protective law is not implementation or transformed social norms.
 
 ASCII MASTER FLOW — PANEL 11/12: Causal restraint
 REPORTED CATEGORY -> an outcome record, never a proof of cause
 STRESSORS -> candidate pathways, examined without attribution
 FRAME -> National Suicide Prevention Strategy of 2022, surveillance to resilience
 CLOSE -> support access and non-stigmatising discussion
-EVIDENCE LIMIT: Use SEWA, Kudumbashree, Self-Employed Women's Association, anti-arrack, Chipko
-  participation and constitutional/statutory institutions with named regional variation;
-  distinguish NFHS/PLFS source periods and avoid attributing outcomes to one scheme without a
-  mechanism.
 
 ASCII MASTER FLOW — PANEL 12/12: Women and organisations spine
 OPEN -> define the exact term the directive names
 BODY -> organisational mechanism, then reach across caste and class
 TEST -> instrument reached, taken up, and converted into a decision
 CLOSE -> agency verdict with the coverage-is-not-agency caveat
+EVIDENCE LIMIT: Use SEWA, Kudumbashree, Self-Employed Women's Association, anti-arrack, Chipko
+  participation and constitutional/statutory institutions with named regional variation;
+  distinguish NFHS/PLFS source periods and avoid attributing outcomes to one scheme without a
+  mechanism.

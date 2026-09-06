@@ -5,8 +5,8 @@ Topic: National Integration and Foreign Policy
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 45
-Source record ID: polity-45:learner-v2:g5
-Source generation: 5
+Source record ID: polity-45:learner-v2:g8
+Source generation: 8
 Approval: Approval pending
 
 Deliverables

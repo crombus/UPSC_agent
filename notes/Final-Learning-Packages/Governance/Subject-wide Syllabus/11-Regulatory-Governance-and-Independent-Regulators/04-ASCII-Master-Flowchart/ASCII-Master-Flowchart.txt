@@ -38,6 +38,7 @@ ASCII MASTER FLOW — PANEL 6/12: Six-test design checklist
 4 RULE-MAKING -> pre-consultation, published response to comments, impact appraisal
 5 ENFORCEMENT DUE PROCESS -> notice, hearing, reasoned order, proportionality, no bias
 6 REVIEW AND REPORTING -> appellate route and reporting to the legislature
+CLOSE DISTINCTION: Independence is protection from improper direction, not immunity from...
 
 ASCII MASTER FLOW — PANEL 7/12: Competition regulator card
 PARENT STATUTE -> the Competition Act, 2002
@@ -65,17 +66,16 @@ SAME JUDGMENT -> earlier Madras Bar Association standards made controlling
 SAME JUDGMENT -> a National Tribunals Commission directed within four months
 9 MARCH 2026 -> interim extensions for specified incumbents to 8 September 2026
 13 AUGUST 2026 -> no establishment notification located; implementation unresolved
-CLOSE DISTINCTION: Independence is protection from improper direction, not immunity from...
 
 ASCII MASTER FLOW — PANEL 11/12: Architecture proposal against adoption
 PROPOSAL -> a Unified Financial Agency on a regulation-by-activity principle, 2013
 SCOPE -> subsuming most financial regulators, excluding the central bank
 SEPARATE PROPOSAL -> a draft Indian Financial Code consolidating the legislation
 OUTCOME -> neither implemented in full; a 2015 merger is a partial related step only
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RBI, SEBI, TRAI, CERC and CCI only with...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a regulatory demand
 OPEN -> statutory character first: statutory, not constitutional, not executive-created
 BUILD -> mandate, function and appellate route, then the trilemma and capture mechanism
 CORRECT -> apply the six tests and name both directions of capture with correctives
 CLOSE -> graded verdict, dated status for anything unresolved, stated question ownership
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RBI, SEBI, TRAI, CERC and CCI only with...

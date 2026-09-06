@@ -5,8 +5,8 @@ Topic: Social Empowerment
 Subject: Indian Society
 Section: Subject-wide Syllabus
 Catalogue number: 08
-Source record ID: indian-society-08:learner-v2:g2
-Source generation: 2
+Source record ID: indian-society-08:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

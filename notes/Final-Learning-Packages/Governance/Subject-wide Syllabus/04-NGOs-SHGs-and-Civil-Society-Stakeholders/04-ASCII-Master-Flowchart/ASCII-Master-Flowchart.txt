@@ -34,6 +34,7 @@ SCOPE -> credit, savings, insurance and remittance; micro-credit is one componen
 STRONGEST -> consumption smoothing and vulnerability reduction
 WEAKEST -> structural poverty exit, because loan sizes suit micro-enterprise not asset accumulation
 WARNING -> repayment discipline can be sustained by borrowing again rather than by income growth
+CLOSE DISTINCTION: NGO, voluntary organisation, charitable trust, society, section 8...
 
 ASCII MASTER FLOW — PANEL 7/12: Named risk register
 OVER-INDEBTEDNESS -> multiple lenders serving one household
@@ -58,17 +59,16 @@ INCORPORATION -> state registrar or Registrar of Companies; legal existence
 FOREIGN FUNDING -> Ministry of Home Affairs; whether foreign contribution may be received at all
 TAX STATUS -> Income Tax Department, Sections 12A and 80G; exemption and donor deduction
 GRANT IDENTITY -> NITI Aayog NGO Darpan unique identification; identification, not permission
-CLOSE DISTINCTION: NGO, voluntary organisation, charitable trust, society, section 8...
 
 ASCII MASTER FLOW — PANEL 11/12: Suspicion chain
 STRUCTURE -> the watchdog function is independent of government by construction
 TRIGGER -> advocacy opposes a specific policy or project
 PERCEPTION -> independence is read as adversarial rather than as feedback
 RESOLUTION -> justify or contest the label case by case; refuse the blanket characterisation
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Kudumbashree, SEWA, SHG-bank linkage,...
 
 ASCII MASTER FLOW — PANEL 12/12: Roles, gates and the answer spine
 OPEN -> commit to a position in sentence one and name the structural category
 BUILD -> innovator, facilitator and monitor; never the compellable duty-holder for a right
 TEST -> representation, information, scrutiny and capture risk; rotation and disclosure correct it
 CLOSE -> the party ticket gate, the non-member poor, and the two recorded routing conflicts
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Kudumbashree, SEWA, SHG-bank linkage,...

@@ -16,6 +16,9 @@ larger urban area -> Municipal Corporation.
 INDUSTRIAL-TOWNSHIP PROVISO
 Governor may specify after considering municipal services supplied/proposed;
 it is an exception, not the status of every industrial or census town.
+MUST REMEMBER: Audit the Seventy-fourth Amendment, Part IXA Articles 243P-243ZG and Twelfth
+  Schedule's 18 matters through municipal types, composition, reservation, duration,
+  elections, powers, finance and planning committees.
 
 ASCII MASTER FLOW — PANEL 2/12: Council, wards, reservation, tenure and State Election Commission
 ARTICLE 243R
@@ -108,6 +111,9 @@ PERI-URBAN CHOICE
 Nagar Panchayat | merger | joint authority | phased transition.
 
 LIMIT constitutional plan preparation needs alignment with agencies, budgets and land powers.
+CLOSE DISTINCTION: Articles 243W and 243X are enabling: constitutional status does not itself
+  transfer functions, staff or buoyant revenue. DPC four-fifths, MPC two-thirds, Ward
+  Committee three-lakh threshold and SEC ownership must stay exact.
 
 ASCII MASTER FLOW — PANEL 7/12: Citizen participation, accountability and bounded digital reform
 DOWNWARD ACCOUNTABILITY
@@ -201,3 +207,6 @@ PRELIMS FIREWALL
 MAINS SPINE
 constitutional design -> operational gap -> finance/governance mechanism
 -> city-region evidence -> State-law caveat -> democratic functionality verdict.
+LEGAL/SOURCE LIMIT: Use XVI Finance Commission 2026-31, AMRUT 2.0 and the SEBI municipal-debt
+  framework only as dated evidence. SEBI's 2015 regulations were amended on 8 July 2026; bonds
+  are regulated borrowing, not tax devolution.

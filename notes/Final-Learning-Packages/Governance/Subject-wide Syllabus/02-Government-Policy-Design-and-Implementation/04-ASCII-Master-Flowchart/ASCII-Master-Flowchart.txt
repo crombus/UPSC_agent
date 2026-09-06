@@ -34,6 +34,7 @@ AIMS -> prevent and penalise paper leaks, impersonation and tampering; protect c
 SCOPE -> scheduled authority, or a Central Government notification, or separate state law
 ERROR -> reading territorial extent as coverage
 ANSWER MOVE -> answer the scope half separately and explicitly
+CLOSE DISTINCTION: Policy, statute, rule, scheme, guideline, budget and administrative...
 
 ASCII MASTER FLOW — PANEL 7/12: Six-stage implementation map
 1 LEGAL AUTHORITY -> Act, rule, guideline or executive scheme, and who is bound
@@ -58,17 +59,16 @@ MANDATES -> each ministry optimises its own objective function
 GAP -> no single actor is accountable for the aggregate environmental outcome
 MECHANISM -> the environmental cost sits in nobody's departmental performance metric
 QUALIFICATION -> some contradictions are value conflicts, not coordination failures
-CLOSE DISTINCTION: Policy, statute, rule, scheme, guideline, budget and administrative...
 
 ASCII MASTER FLOW — PANEL 11/12: Coordination against authority
 PM GATISHAKTI -> shared geographic-information-system layer for multi-modal connectivity
 GAIN -> removes sequencing failure and lowers private-sector information risk
 LIMIT -> coordinates information, not authority over land, utilities and approvals
 PARTNERSHIP CHAIN -> risk allocation, competitive procurement, performance payment, exit rules
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map Union, state, district, local body,...
 
 ASCII MASTER FLOW — PANEL 12/12: Targeting and answer spine
 TRADE-OFF -> tighter verification lowers inclusion error and raises exclusion error
 RULE -> fix the tolerable exclusion error first for subsistence entitlements; add assisted fallback
 OWNERSHIP -> one routed demand sits with the Basic owner; three sit with the Advanced owner
 CLOSE -> name the stalling stage, attach one corrective and state its cost
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map Union, state, district, local body,...

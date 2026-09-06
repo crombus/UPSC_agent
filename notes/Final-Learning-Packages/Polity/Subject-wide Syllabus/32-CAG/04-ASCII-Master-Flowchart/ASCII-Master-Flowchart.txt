@@ -11,6 +11,8 @@ President or Governor causes report to be laid
 PAC / CoPU / legislature scrutinises -> executive responds
 
 LIMIT: audit informs control; it does not govern, punish or recover by itself.
+MUST REMEMBER: Separate constitutional status under Articles 148-151 from the detailed audit
+  mandate supplied by the CAG's DPC Act, 1971 and its amendments.
 
 ASCII MASTER FLOW — PANEL 2/12: Articles 148-151 constitutional spine
 ARTICLE 148 -> office, oath, removal safeguards, IAAD and charged expenses
@@ -28,6 +30,10 @@ REMOVAL -> same manner and grounds as Supreme Court Judge
 INSULATION -> no disadvantageous variation; charged office expenses; no further office
 
 LIMIT: strong post-appointment protection does not answer selection-process criticism.
+
+CURRENT OFFICEHOLDER: 5 SEPTEMBER 2026
+K. Sanjay Murthy was sworn in and assumed office on 21 November 2024.
+The officeholder changes; Article 148 and section 4 tenure rules do not.
 
 ASCII MASTER FLOW — PANEL 4/12: Audit accounts and the 1976 boundary
 ACCOUNTS create and compile the financial record
@@ -55,6 +61,8 @@ PERFORMANCE -> economy + efficiency + effectiveness
 RECEIPTS / IT / ENVIRONMENT -> specialised objects or methods within legal mandate
 
 BOUNDARY: test implementation and results; do not replace a lawful policy choice.
+CLOSE DISTINCTION: The CAG is an ex-post auditor and reports through legislatures; it does not
+  pre-authorise expenditure, prosecute wrongdoing or enforce PAC action.
 
 ASCII MASTER FLOW — PANEL 7/12: Government companies and statutory corporations
 GOVERNMENT COMPANY
@@ -110,3 +118,5 @@ PYQ 2024 -> legality plus propriety
 
 MAINS SPINE: independence -> mandate -> audit type/entity route -> report chain
 -> limit -> targeted reform -> evidence-led accountability verdict.
+LEGAL/SOURCE LIMIT: The official CAG page identifies K. Sanjay Murthy as CAG from 21 November
+  2024; the statutory term remains six years or age sixty-five.

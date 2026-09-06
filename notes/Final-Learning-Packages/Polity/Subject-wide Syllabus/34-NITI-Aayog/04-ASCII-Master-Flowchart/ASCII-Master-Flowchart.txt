@@ -5,6 +5,8 @@ ROLE -> advise, convene, strategise, monitor and support capacity
 NO OWN POWER -> legislate, tax, allocate divisible pool or impose State plans
 
 LIMIT: recommendation becomes action only through competent government authority.
+MUST REMEMBER: NITI Aayog is an executive, non-constitutional and non-statutory policy
+  platform created by the Cabinet resolution of 1 January 2015.
 
 ASCII MASTER FLOW — PANEL 2/12: Mandate: think, convene and learn
 THINK -> strategy, policy research and knowledge networks
@@ -22,6 +24,12 @@ UNION LINK -> ex-officio Ministers + special invitees
 ADMINISTRATION -> CEO
 
 CONTROL: names, portfolios and invitees require a dated official notification.
+
+LATEST FORMAL ROSTER: 24 APRIL 2026
+Vice Chairperson: Ashok Kumar Lahiri.
+Full-time: Rajiv Gauba | K. V. Raju | Gobardhan Das
+| Abhay Karandikar | M. Srinivas.
+Ex-officio members and special invitees remain those in the 16 July 2024 notice.
 
 ASCII MASTER FLOW — PANEL 4/12: Governing Council and Regional Councils
 GOVERNING COUNCIL -> continuing PM-chaired development-policy forum
@@ -46,6 +54,8 @@ STATE SUPPORT -> policy and institutional capability partnerships
 RISKS -> central agenda power + boycott/non-attendance + unequal capacity + data gaming
 
 BALANCE: participation improves legitimacy only when evidence and follow-up are credible.
+CLOSE DISTINCTION: Advice, convening, monitoring and rankings do not confer legislative,
+  taxing, devolution, fund-allocation or implementation powers.
 
 ASCII MASTER FLOW — PANEL 7/12: Evidence, indicators and evaluation
 OUTCOME -> indicator -> baseline -> verified data -> comparison
@@ -97,3 +107,5 @@ MAINS -> origin -> mandate -> composition -> federal mechanism -> programme evid
         -> fiscal/data limits -> accountable reform -> qualified verdict
 
 NITI succeeds through credible persuasion, State ownership and implementation.
+LEGAL/SOURCE LIMIT: The 24 April 2026 Gazette replaced the Vice Chairperson and full-time
+  member roster while retaining the July 2024 ex-officio members and invitees.

@@ -5,8 +5,8 @@ Topic: Amendment and Basic Structure
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 10
-Source record ID: polity-10:learner-v2:g6
-Source generation: 6
+Source record ID: polity-10:learner-v2:g8
+Source generation: 8
 Approval: Approval pending
 
 Deliverables

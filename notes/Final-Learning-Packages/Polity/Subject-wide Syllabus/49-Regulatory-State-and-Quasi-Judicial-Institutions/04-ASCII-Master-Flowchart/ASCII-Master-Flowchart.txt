@@ -12,6 +12,8 @@ less direct production -> more rule-setting, network access, prudential oversigh
 
 VERDICT
 Regulation is a change in State technique, not disappearance of the State.
+MUST REMEMBER: Classify every institution separately by legal source, primary function and
+  decisional character; a regulator is not always quasi-judicial.
 
 ASCII MASTER FLOW — PANEL 2/12: Source, function and decisional character
                          BODY / AUTHORITY
@@ -98,6 +100,8 @@ CERC/SERC -> APTEL -> Supreme Court.
 
 LIMIT
 statutory merits appeal differs from Article 226/227 legality review.
+CLOSE DISTINCTION: Preserve delegated legislation, investigation, adjudication, statutory
+  appeal and Articles 226/32 review as separate stages with natural justice.
 
 ASCII MASTER FLOW — PANEL 7/12: Independence, accountability and capture
 INDEPENDENCE AXES
@@ -131,6 +135,11 @@ clear harm -> statutory power -> impact assessment -> consultation
 
 CURRENT FIREWALL
 dated Act/rule/order != draft Bill/committee paper/proposal.
+
+CURRENT LAW: 5 SEPTEMBER 2026
+The DPDP Board is established under commenced 2025 provisions in NCR.
+Wider duties remain subject to the notified phased timetable;
+draft or consultation instruments are not operative law.
 
 ASCII MASTER FLOW — PANEL 9/12: Enabling laws and appellate routes
 SOURCE -> REGULATOR -> APPEAL
@@ -191,3 +200,5 @@ NGT/CPCB | FSSAI source | CCI dominance | PNGRB jurisdiction.
 
 VERDICT
 expert regulation is legitimate only when mandate, fairness, reasons and review converge.
+LEGAL/SOURCE LIMIT: The DPDP Board is established under the commenced 2025 framework while
+  wider DPDP commencement remains phased; draft regulatory changes are not law.

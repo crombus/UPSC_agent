@@ -5,8 +5,8 @@ Topic: Concept of the Constitution
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 50
-Source record ID: polity-50:learner-v2:g3
-Source generation: 3
+Source record ID: polity-50:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

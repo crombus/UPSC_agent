@@ -11,6 +11,8 @@ finance.
 
 LIMIT
 RTI gives covered records, not compelled creation of answers or opinions.
+MUST REMEMBER: Keep the constitutional Article 19(1)(a) right-to-know root distinct from the
+  statutory CIC/SIC machinery created by the RTI Act, 2005.
 
 ASCII MASTER FLOW — PANEL 2/12: Proactive disclosure and the request route
 SECTION 4
@@ -43,6 +45,13 @@ Governor appoints after CM + Assembly LoP + nominated State Cabinet Minister com
 ELIGIBILITY
 eminence across listed fields; conflict disqualifications apply.
 
+CURRENT CENTRAL ROSTER: 5 SEPTEMBER 2026
+Chief: Raj Kumar Goyal.
+ICs: Anandi Ramalingam | Vinod Kumar Tiwari | Surendra Singh Meena
+| Ashutosh Chaturvedi | Swagat Das | Sudha Rani Relangi | P. R. Ramesh
+| Khushwant Singh Sethi | Jaya Varma Sinha | Sanjeev Kumar Jindal.
+SIC incumbency is State-specific; never infer one national State roster.
+
 ASCII MASTER FLOW — PANEL 5/12: Tenure, service conditions and removal after 2019
 2019 AMENDMENT
 Act-fixed term and Election-Commission pay linkage removed
@@ -65,6 +74,8 @@ Commission may inspect covered records notwithstanding another objection.
 
 LIMIT
 evidence powers do not themselves supply the section 19 disclosure remedy.
+CLOSE DISTINCTION: Separate requests, first appeals, second appeals and section 18 complaints;
+  a Commission cannot be treated as a record-creation agency.
 
 ASCII MASTER FLOW — PANEL 7/12: Appeal, compliance, compensation and penalty
 SECTION 19 APPEAL
@@ -105,6 +116,11 @@ section 8(2) | severability | other statutes | Article 19(1)(a) and privacy prop
 LIMIT
 do not invent a stay, Constitution Bench reference or final judgment.
 
+CURRENT-LAW CONTROL: 5 SEPTEMBER 2026
+Section 44(3) substitution has operated since 13 November 2025.
+The shorter clause is in force; section 8(2), severability, appeal
+and judicial review survive. No final constitutional merits ruling is asserted.
+
 ASCII MASTER FLOW — PANEL 11/12: Case law and public-authority boundaries
 STATE OF U.P. V. RAJ NARAIN (1975): right to know public acts.
 S.P. GUPTA V. UNION OF INDIA (1981): open government.
@@ -124,3 +140,5 @@ proactive disclosure | reasoned penalty practice.
 
 PYQ 2020: amendment and autonomy, 10 marks, 150 words.
 VERDICT: legal teeth require independent, staffed and accessible commissions.
+LEGAL/SOURCE LIMIT: The 13 November 2025 DPDP substitution is operative but section 8(2),
+  section 10 and judicial review remain; Raj Kumar Goyal heads the CIC.

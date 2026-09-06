@@ -19,6 +19,8 @@ Article 338B + Article 342A + Article 366(26C)
 
 105TH AMENDMENT ACT, 2021
 State/UT own-list competence made explicit from 15 September 2021.
+MUST REMEMBER: Keep Articles 338, 338A and 338B distinct from Articles 341, 342 and 342A and
+  from the temporary Article 340 commission route.
 
 ASCII MASTER FLOW — PANEL 2/12: Composition, appointment, tenure and procedure
 COMMON COMPOSITION
@@ -40,6 +42,12 @@ entrenches existence, mandate and report route.
 LIMIT
 constitutional status does not automatically guarantee timely appointments,
 regional reach, staff capacity, data quality or acceptance of recommendations.
+
+CURRENT ROSTER: 5 SEPTEMBER 2026
+NCSC: Kishor Makwana + Love Kush Kumar + Vaddepalli Ramchander + Dr Partha Biswas;
+Vice-Chairperson not displayed. NCST: Antar Singh Arya + Dr Asha Lakra
++ Nirupam Chakma + Jatothu Hussain; Vice-Chairperson not displayed.
+NCBC page displays Sadhvi Niranjan Jyoti + Kiran Umesh Mahalle only.
 
 ASCII MASTER FLOW — PANEL 3/12: Common duties and complaint-to-policy cycle
 COMMON DUTIES UNDER CLAUSE (5)
@@ -94,6 +102,8 @@ and atrocity-prevention implementation.
 NCST: ARTICLE 338A
 ST safeguards plus tribal land, forest, minor produce, displacement,
 resources, PESA and shifting-cultivation concerns under specified functions.
+CLOSE DISTINCTION: Civil-court powers are evidentiary inquiry powers; recommendations,
+  consultation and reports do not become binding judgments or list amendments.
 
 ASCII MASTER FLOW — PANEL 7/12: NCBC constitutionalisation and safeguard role
 NCBC: ARTICLE 338B
@@ -210,3 +220,5 @@ PYQ ROUTES
 MAINS SPINE
 constitutional purpose -> common powers -> distinct domain -> legal limit
 -> case/amendment -> implementation gap -> coordinated-specialisation verdict.
+LEGAL/SOURCE LIMIT: The 5 September 2026 roster check records the occupied and unfilled posts
+  shown by the official NCSC, NCST and NCBC pages without inventing incumbents.

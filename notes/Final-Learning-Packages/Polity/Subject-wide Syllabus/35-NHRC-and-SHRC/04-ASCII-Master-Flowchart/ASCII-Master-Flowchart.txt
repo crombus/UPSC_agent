@@ -16,6 +16,8 @@ NHRC at Union level | SHRCs at State level | Human Rights Courts as trial route.
 
 LIMIT
 human-rights importance does not convert NHRC or SHRC into a constitutional court.
+MUST REMEMBER: Use the Protection of Human Rights Act, 1993 as amended in 2019; keep NHRC and
+  SHRC statutory rather than constitutional.
 
 ASCII MASTER FLOW — PANEL 2/12: NHRC composition and deemed-member boundary
 NHRC: Chairperson + five ordinary members under section 3(2).
@@ -29,6 +31,11 @@ They participate for section 12(b)-(j), not section 12(a) complaint inquiry.
 
 TRAP
 'deemed member' is not a merger of specialised commissions.
+
+CURRENT PUBLIC ROSTER: 5 SEPTEMBER 2026
+Chair: Justice V. Ramasubramanian.
+Members: Justice (Dr) Bidyut Ranjan Sarangi | Vijaya Bharathi Sayani
+| Priyank Kanoongo. Do not infer occupants for undisplayed statutory seats.
 
 ASCII MASTER FLOW — PANEL 3/12: NHRC appointment, tenure and removal
 APPOINTMENT
@@ -92,6 +99,8 @@ Give a reasonable opportunity of hearing where conduct or reputation may be prej
 LIMIT
 government-linked staff can support capacity,
 but does not equal an independent permanent investigation cadre.
+CLOSE DISTINCTION: Sections 12-14 inquiry powers and section 18 recommendations do not create
+  criminal jurisdiction or self-executing compensation awards.
 
 ASCII MASTER FLOW — PANEL 7/12: Inquiry outputs, reporting and the one-year bar
 ENTRY
@@ -164,40 +173,29 @@ an umbrella merger cannot absorb constitutional commissions through ordinary PHR
 
 ASCII MASTER FLOW — PANEL 11/12: Paris Principles, accreditation and case-law controls
 PARIS PRINCIPLES, 1993
-broad legal mandate | pluralism | open appointment
-| adequate resources | stable tenure | independent methods | accessibility.
+broad mandate | pluralism | open appointment | adequate resources
+| stable tenure | independent methods | accessibility.
 
 DOMESTIC TEST
-PHRA mandate and inquiry powers
-versus police/deputation dependence, short terms, selection opacity and weak follow-up.
+PHRA mandate and inquiry powers versus police/deputation dependence,
+short terms, selection opacity and weak follow-up.
 
 GANHRI CONTROL
-March 2025 SCA recommended B downgrade.
-India challenged with required Bureau support.
-Public membership page continued to list India as A on the 24 August 2026 control.
+March 2025 SCA recommended B downgrade; India challenged.
+Alteration of India's accreditation is listed for a November 2026 session.
+SAFE LANGUAGE: unresolved official scrutiny, not a completed downgrade.
 
-SAFE LANGUAGE
-current public A listing + unresolved official scrutiny.
-
-TRAP
-recommendation under challenge != completed downgrade;
-A listing != proof of perfect Paris-Principles compliance.
-
-Paramjit Kaur v. State of Punjab (1999)
-Supreme Court used NHRC as an expert body assisting Article 32 jurisdiction.
-This constitutional assignment is not ordinary PHRA jurisdiction.
-
-N.C. Dhoundial v. Union of India (2003)
-section 36(2) is a jurisdictional bar;
-a completed violation does not become a daily continuing wrong merely through non-reparation.
-
-EEVFAM (2016)
-excessive-force allegations require lawful inquiry under Article 32 oversight;
-NHRC is a valuable route but not exclusive and recommendations were not made generally binding.
+CASE CONTROLS
+Paramjit Kaur v. State of Punjab (1999): Court-assigned Article 32 expert role
+does not erase ordinary PHRA limits.
+N.C. Dhoundial v. Union of India (2003): section 36(2) is jurisdictional;
+non-reparation does not make a completed act a daily continuing wrong.
+EEVFAM (2016): unlawful-force allegations require lawful inquiry;
+NHRC is valuable but neither exclusive nor generally binding.
 
 SYNTHESIS
 Court-assigned expertise may exceed the ordinary route,
-but an autonomous statutory commission remains bound by statutory limits.
+but autonomous statutory action remains bounded by the PHRA.
 
 ASCII MASTER FLOW — PANEL 12/12: Limits, reforms, PYQs and qualified verdict
 STRUCTURAL LIMITS
@@ -220,3 +218,5 @@ PYQ ROUTES
 
 MAINS VERDICT
 strengthen fact-finding, independence and follow-through without misdescribing NHRC as a court.
+LEGAL/SOURCE LIMIT: The official roster identifies Justice V. Ramasubramanian and three
+  full-time members; GANHRI alteration proceedings remain unresolved.

@@ -5,6 +5,9 @@ PART XVIII: ARTICLES 352-360
 METHOD
 trigger -> written advice/material -> parliamentary control -> duration -> effects -> exit
 Emergency power preserves constitutional government; it is not an extra-constitutional regime.
+MUST REMEMBER: Teach Articles 352-360 as three different regimes with exact triggers, approval
+  periods, renewal, revocation, maximum duration, federal effects and rights consequences;
+  Articles 358 and 359 must never be merged.
 
 ASCII MASTER FLOW — PANEL 2/12: Article 352 trigger, approval, renewal and revocation
 TRIGGER: war | external aggression | armed rebellion | imminent danger
@@ -48,6 +51,10 @@ JUSTICE H.R. KHANNA -> liberty is not executive grace
 44TH AMENDMENT -> Articles 20 and 21 excluded from Article 359
 K.S. K.S. PUTTASWAMY (2017) -> ADM Jabalpur (1976) majority wrongly decided and overruled
 Historical warning, not current law.
+CLOSE DISTINCTION: The 44th Amendment replaced internal disturbance with armed rebellion,
+  requires written Cabinet advice, protects Articles 20 and 21, narrows Article 358 to
+  war/external aggression and creates the Lok Sabha revocation route; Article 356 still has
+  its own six-month approval cycle.
 
 ASCII MASTER FLOW — PANEL 7/12: President's Rule mechanics and consequences
 ARTICLE 356: Governor report or otherwise -> objective material -> proclamation
@@ -102,3 +109,7 @@ EVIDENCE CHAIN
 claim -> Article/amendment -> mechanism -> case/history -> qualification
 VERDICT: emergency is legitimate temporary constitutional self-defence only when reviewable
 and directed toward restoration of ordinary democratic government.
+LEGAL/SOURCE LIMIT: As of 5 September 2026 no National or Financial Emergency was located in
+  force. The Gazette proclamation of 4 February 2026 revoked the Manipur Article 356
+  proclamation; retain S.R. Bommai (1994) review and floor-test discipline without converting
+  every political crisis into constitutional breakdown.

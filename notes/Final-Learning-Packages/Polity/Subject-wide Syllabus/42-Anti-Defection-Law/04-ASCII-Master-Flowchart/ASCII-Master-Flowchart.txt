@@ -15,6 +15,8 @@ split defence deleted | ministry-size caps
 CURRENT PARAGRAPH MAP
 1 definitions | 2 grounds | 3 omitted | 4 merger
 | 5 presiding exemption | 6 decision | 7 invalid court bar | 8 rules.
+MUST REMEMBER: Apply the Tenth Schedule's exact member-specific grounds, merger defence and
+  paragraph 5 presiding-officer exemption without reviving the deleted split.
 
 ASCII MASTER FLOW — PANEL 2/12: Grounds and member-type rules
 PARTY MEMBER
@@ -111,6 +113,8 @@ Articles 75(1B), 164(1B), 361B
 
 LIMIT
 Tenth Schedule disqualification is not a criminal conviction or universal public-office ban.
+CLOSE DISTINCTION: Separate the political party, legislature party, whip, Speaker, Election
+  Commission, resignation and judicial-review tracks.
 
 ASCII MASTER FLOW — PANEL 7/12: Case-law chronology and controlled propositions
 CASE SPINE
@@ -136,10 +140,15 @@ Telangana judgment (2025) -> case-specific three-month direction.
 
 PENDING DOCTRINE
 Subhash Desai (2023) referred Nabam Rebia (2016) to seven judges.
-No verified later merits ruling by 28 August 2026.
+No verified later merits ruling by 5 September 2026.
 
 TRAP
 constitutional silence is not unlimited delay; a judicial norm is not enacted text.
+
+CURRENT CASE CONTROL
+Subhash Desai (2023) remains controlling. Nabam Rebia (2016) remains
+referred for larger-bench reconsideration; no later merits result is asserted.
+Status rechecked on 5 September 2026.
 
 ASCII MASTER FLOW — PANEL 9/12: Nabam Rebia (2016) and Subhash Desai (2023): institutional roles
 Nabam Rebia (2016)
@@ -217,3 +226,6 @@ history -> grounds/member types -> party/whip
 VERDICT
 stability needs discipline, but democratic legitimacy needs a narrower whip,
 neutral adjudication and enforceable decision time.
+LEGAL/SOURCE LIMIT: Subhash Desai (2023) remains controlling; the Nabam Rebia (2016)
+  reconsideration remains unresolved in the official Supreme Court material located through 5
+  September 2026.

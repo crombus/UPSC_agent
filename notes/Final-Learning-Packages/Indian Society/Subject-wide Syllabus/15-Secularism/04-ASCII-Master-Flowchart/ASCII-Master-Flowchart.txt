@@ -37,6 +37,9 @@ STEP ONE -> name the practice and the shared space it operates in
 STEP TWO -> identify the exclusion or coercion mechanism at work
 STEP THREE -> state the rights and pluralism response to that mechanism
 LIMIT -> never move from a practice to a verdict about a community
+CLOSE DISTINCTION: Secularism is not atheism, equal respect is not unconditional
+  non-intervention, religious freedom is not immunity from health, morality, public order or
+  other rights, and minority educational rights are not a general exemption from regulation.
 
 ASCII MASTER FLOW — PANEL 7/12: Two equalities
 FORMAL EQUALITY -> identical rules applied regardless of religion
@@ -61,22 +64,19 @@ CODE -> Uniform Civil Code, Uttarakhand, 2024, in force from 27 January 2025
 RULES -> the Rules, 2025 accompany the code
 AMENDMENT -> the 2026 revision was reported as an ordinance
 PROHIBITION -> it may not be called an Amendment Act without an enacted text
-CLOSE DISTINCTION: Secularism is not atheism, equal respect is not unconditional
-  non-intervention, religious freedom is not immunity from health, morality, public order or
-  other rights, and minority educational rights are not a general exemption from regulation.
 
 ASCII MASTER FLOW — PANEL 11/12: Four evidentiary questions
 ENACTMENT -> established by the code and its commencement date
 REVISION -> established by the reported 2026 ordinance
 IMPLEMENTATION -> registration, awareness and practical access, not established
 OUTCOME -> social effect and community trust, not established
-EVIDENCE LIMIT: Use Articles 14-16, 25-30, 44 and relevant constitutional doctrine with
-  precise institutional boundaries; distinguish legal secularism from social outcomes, avoid
-  homogenising religions, and qualify comparisons with strict separation or establishment
-  models.
 
 ASCII MASTER FLOW — PANEL 12/12: Secularism answer spine
 OPEN -> name the level and define the concept the demand actually uses
 BODY -> lived mechanisms, then the reform tension with both sides fairly stated
 TEST -> tolerance against assimilation against pluralism
 CLOSE -> rights-sensitive consultative reform with the status caveats stated
+EVIDENCE LIMIT: Use Articles 14-16, 25-30, 44 and relevant constitutional doctrine with
+  precise institutional boundaries; distinguish legal secularism from social outcomes, avoid
+  homogenising religions, and qualify comparisons with strict separation or establishment
+  models.

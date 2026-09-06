@@ -5,8 +5,8 @@ Topic: Comparative Constitutional Design
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 47
-Source record ID: polity-47:learner-v2:g5
-Source generation: 5
+Source record ID: polity-47:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

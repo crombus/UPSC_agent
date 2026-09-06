@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/11: From absent list to Part IVA and eleven citizen duties
+ASCII MASTER FLOW — PANEL 1/12: From absent list to Part IVA and eleven citizen duties
 ORIGINAL CONSTITUTION
   +-- enforceable rights in Part III
   +-- State duties in Part IV
@@ -16,8 +16,11 @@ ORIGINAL CONSTITUTION
   +-- inserted clause (k): education opportunity for child / ward, age 6-14
 
 USSR is the conventional source influence; Indian duties remain rights-bounded.
+MUST REMEMBER: Part IVA contains the exact eleven duties in Article 51A: ten inserted by the
+  42nd Amendment in 1976 and clause (k) by the 86th Amendment in 2002; the Swaran Singh
+  Committee recommended eight, not the enacted ten.
 
-ASCII MASTER FLOW — PANEL 2/11: The eleven duties grouped for exact recall
+ASCII MASTER FLOW — PANEL 2/12: The eleven duties grouped for exact recall
 CONSTITUTIONAL LOYALTY AND NATION
   +-- (a) Constitution, ideals, institutions, Flag and Anthem
   +-- (b) freedom-struggle ideals
@@ -37,7 +40,7 @@ PUBLIC ETHIC AND CAPABILITY
   +-- (j) strive for individual and collective excellence
   +-- (k) education opportunity for child / ward aged six to fourteen
 
-ASCII MASTER FLOW — PANEL 3/11: Legal character: constitutional duty mediated by enforceable law
+ASCII MASTER FLOW — PANEL 3/12: Legal character: constitutional duty mediated by enforceable law
 ARTICLE 51A APPLIES TO EVERY CITIZEN
   +-- not directly to foreigners
   +-- several clauses need legislation or institutional support
@@ -55,7 +58,7 @@ LEGAL MEDIATION
 moral and civic norm -> education + valid law + institutions -> enforceable obligation
 TRAP: no separate statute exists for every duty.
 
-ASCII MASTER FLOW — PANEL 4/11: Rights, duties and DPSP: three constitutional directions
+ASCII MASTER FLOW — PANEL 4/12: Rights, duties and DPSP: three constitutional directions
 PART III: RIGHTS
   +-- protected claims, autonomy and enforceable remedies
         |
@@ -73,7 +76,7 @@ rights protect responsible agency
 
 LIMIT: duty cannot erase a right; right does not immunise violence or illegality.
 
-ASCII MASTER FLOW — PANEL 5/11: Patriotism and symbols: respect without compelled conformity
+ASCII MASTER FLOW — PANEL 5/12: Patriotism and symbols: respect without compelled conformity
 ARTICLE 51A(a): RESPECT CONSTITUTION, INSTITUTIONS, FLAG AND ANTHEM
   |
 BIJOE EMMANUEL (1986)
@@ -90,7 +93,7 @@ SHYAM NARAYAN CHOUKSEY (2018)
 
 VERDICT: protect republican symbols without reducing patriotism to one performance.
 
-ASCII MASTER FLOW — PANEL 6/11: Citizenship domains and the education triad
+ASCII MASTER FLOW — PANEL 6/12: Citizenship domains and the education triad
 CLAUSE   DOMAIN                  OPERATIVE DISTINCTION
 51A(e)   harmony + dignity       includes renouncing practices derogatory to women
 51A(f)   composite culture      plural inheritance, not one frozen culture
@@ -106,8 +109,11 @@ Article 45  -> early-childhood care and education below six
 51A(k)      -> parent / guardian duty, ages 6-14
 
 2023 Jallikattu ruling qualifies the stronger 2014 animal-welfare reading.
+CLOSE DISTINCTION: Fundamental Duties bind citizens, are non-justiciable and create no
+  automatic offence. Legal consequences arise only through valid statutes, while courts may
+  use duties as interpretive context subject to Fundamental Rights.
 
-ASCII MASTER FLOW — PANEL 7/11: Verma Committee and the existing-law implementation web
+ASCII MASTER FLOW — PANEL 7/12: Verma Committee and the existing-law implementation web
 J.S. VERMA COMMITTEE, 1999
   +-- preferred education, awareness and enforcement of existing laws
   +-- did not assume that every duty needs a separate penal statute
@@ -123,7 +129,7 @@ EXISTING-LAW WEB: ILLUSTRATIVE, NOT ONE-TO-ONE
 
 CONTROL: valid statute defines offence and penalty; Article 51A supplies context.
 
-ASCII MASTER FLOW — PANEL 8/11: Criticism, enforceability debate and proportionate reform
+ASCII MASTER FLOW — PANEL 8/12: Criticism, enforceability debate and proportionate reform
 CRITICISM                         RESPONSE / REFORM
 vague terms                        teach meaning through civic education
 non-justiciability                 enforce valid laws, not abstract commands
@@ -141,7 +147,7 @@ REFORM LADDER
 
 VERDICT: strengthen civic capacity before creating an omnibus penal code.
 
-ASCII MASTER FLOW — PANEL 9/11: Current legal status and evidence control
+ASCII MASTER FLOW — PANEL 9/12: Current legal status and evidence control
 CURRENT STATUS — CHECK BEFORE THE EXAM
   +-- Durga Dutt v Union of India, W.P.(C) 67/2022: pending on 28 August 2026
   +-- written order, 11 September 2024: enactment synopsis sought; matter relisted
@@ -156,7 +162,7 @@ OPERATIVE STATUTORY CONTROLS
 EVIDENCE RULE
 Constitutional duty supplies context; the statute supplies elements, process and sanction.
 
-ASCII MASTER FLOW — PANEL 10/11: Prelims traps and verified PYQ routes
+ASCII MASTER FLOW — PANEL 10/12: Prelims traps and verified PYQ routes
 PRELIMS CONTROL
 Part IVA -> Article 51A only          citizens only; non-justiciable text
 42nd -> ten duties                   86th -> clause (k), total eleven
@@ -172,7 +178,7 @@ VERIFIED PYQ STATUS
 
 TRAP: never manufacture a direct Mains PYQ from a coaching practice question.
 
-ASCII MASTER FLOW — PANEL 11/11: Executable 10, 15 and 20-mark answer routes
+ASCII MASTER FLOW — PANEL 11/12: Executable 10, 15 and 20-mark answer routes
 10 MARKS / 150 WORDS
 Part IVA status -> amendment origin -> two legal effects -> one rights limit -> verdict
 
@@ -190,3 +196,13 @@ EXECUTION CHECK
 
 FINAL LINE
 Responsible citizenship gains legal effect through precise, rights-compatible institutions.
+
+ASCII MASTER FLOW — PANEL 12/12: Current legal-status firewall: duty is not automatic liability
+ARTICLE 51A -> constitutional duty, citizens only, non-justiciable
+NATIONAL HONOUR ACT / BNS / RTE / ENVIRONMENT LAWS -> separate statutory elements
+DURGA DUTT ORDER, 11 SEP 2024 -> synopsis requested; no final enforceability holding
+ORAL OBSERVATION != RATIO | MORAL DUTY != OFFENCE | DUTY != UNLIMITED RESTRICTION
+VERDICT: operationalise through precise law, civic education and rights-compatible review.
+LEGAL/SOURCE LIMIT: Durga Dutt remains a pending proceeding on the located official record;
+  its 11 September 2024 order sought a legislative synopsis and did not make duties
+  justiciable or convert reported oral observations into ratio.

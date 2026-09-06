@@ -8,6 +8,10 @@ MUST REMEMBER: Cultural and social geography examines language, religion, caste,
   ethnicity, gender, livelihood, landscape, place identity and diffusion across India's plural
   regions; cultural area, hearth, route, frontier, sacred landscape and vernacular region are
   analytical tools rather than fixed natural containers.
+MUST REMEMBER: Cultural and social geography examines language, religion, caste, tribe,
+  ethnicity, gender, livelihood, landscape, place identity and diffusion across India's plural
+  regions; cultural area, hearth, route, frontier, sacred landscape and vernacular region are
+  analytical tools rather than fixed natural containers.
 
 ASCII MASTER FLOW — PANEL 2/12: Region types compared
 FORMAL -> a dominant shared trait such as language or religion defines the area
@@ -75,6 +79,10 @@ CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous and ethnic group are not a
   synonyms; language family differs from script and official status, caste distribution from
   caste determinism, cultural region from state boundary, and diversity from either
   frictionless harmony or permanent conflict.
+CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous and ethnic group are not automatic
+  synonyms; language family differs from script and official status, caste distribution from
+  caste determinism, cultural region from state boundary, and diversity from either
+  frictionless harmony or permanent conflict.
 
 ASCII MASTER FLOW — PANEL 11/12: Cultural marker geographies
 LANGUAGE -> regional cores, transition zones and relief-sustained minority pockets
@@ -82,6 +90,10 @@ RELIGION -> concentrations plus pilgrimage circuits forming functional interacti
 TRIBE -> forested hill, plateau and north-eastern association from historical isolation
 LIVELIHOOD -> agrarian structures and urban occupational clustering link to economy
 MIGRATION -> corridor communities in destination cities redistribute culture continuously
+EVIDENCE LIMIT: Indo-Aryan/Dravidian/Austroasiatic/Tibeto-Burman language zones, tribal
+  central belt and Northeast, Himalayan and coastal livelihoods, pilgrimage networks, pastoral
+  routes, borderlands and metropolitan mosaics require named maps; Census 2011 remains the
+  completed census baseline while identities are dynamic and multi-scalar.
 EVIDENCE LIMIT: Indo-Aryan/Dravidian/Austroasiatic/Tibeto-Burman language zones, tribal
   central belt and Northeast, Himalayan and coastal livelihoods, pilgrimage networks, pastoral
   routes, borderlands and metropolitan mosaics require named maps; Census 2011 remains the

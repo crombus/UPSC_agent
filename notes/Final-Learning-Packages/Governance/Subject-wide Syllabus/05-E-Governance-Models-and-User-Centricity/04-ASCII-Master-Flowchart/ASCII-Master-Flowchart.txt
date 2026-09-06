@@ -36,6 +36,7 @@ END SERVICE DELIVERY -> is the service completed online, not merely initiated
 INTEGRATED SERVICE DELIVERY -> are departments and services joined up seamlessly
 WHAT THE PAIR SEPARATES -> real interactive delivery from a front end on unchanged silos
 CAUTION -> a scored parameter can be optimised without changing citizen experience
+CLOSE DISTINCTION: Digitisation converts form, digitalisation changes a process, and...
 
 ASCII MASTER FLOW — PANEL 7/12: Dated status controls
 LATEST COMPLETED ASSESSMENT LOCATED -> NeSDA 2021
@@ -62,17 +63,16 @@ PROCESS -> re-engineer before digitising; ownership continuity across transfers
 ARCHITECTURE -> interoperability and open standards instead of one-off vendor stacks
 DATA AND CAPACITY -> clean source records; officials and citizens trained; assisted access
 PEOPLE AND CONTINUITY -> change management and incentives; security, audit trail, fallback
-CLOSE DISTINCTION: Digitisation converts form, digitalisation changes a process, and...
 
 ASCII MASTER FLOW — PANEL 11/12: Three inadequacy buckets
 EFFECTIVENESS -> unreformed process, poor source data, online start with offline finish
 TRANSPARENCY -> status without reasons, unusable rules, disposal dashboards without quality
 ACCOUNTABILITY -> no named officer, tickets closed without the capability fix, no penalty
 STRUCTURAL POINT -> transparency features create no accountability without a duty-holder
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use UMANG, DigiLocker, Government...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for an e-governance evaluation
 OPEN -> name the model, the interaction domain and the maturity stage separately
 BUILD -> four-stage bias mechanism, then the twin completion parameters as the benchmark
 CORRECT -> journey mapping, usability testing, vernacular and low-bandwidth design, assisted route
 CLOSE -> graded verdict with an explicit dated status caveat and stated question ownership
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use UMANG, DigiLocker, Government...

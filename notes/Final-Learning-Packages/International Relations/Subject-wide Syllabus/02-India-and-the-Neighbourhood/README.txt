@@ -5,8 +5,8 @@ Topic: India and the Neighbourhood
 Subject: International Relations
 Section: Subject-wide Syllabus
 Catalogue number: 02
-Source record ID: international-relations-02:learner-v2:g5
-Source generation: 5
+Source record ID: international-relations-02:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

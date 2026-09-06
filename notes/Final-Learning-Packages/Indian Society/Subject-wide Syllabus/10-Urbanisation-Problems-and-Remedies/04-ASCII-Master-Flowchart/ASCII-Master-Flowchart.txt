@@ -37,6 +37,10 @@ DISTRIBUTIVE -> are services and infrastructure fairly shared
 PROCEDURAL -> did affected residents have a real planning voice
 SEQUENCE -> exclusion from process usually precedes exclusion from benefit
 USE -> apply both before judging any urban investment
+CLOSE DISTINCTION: Urbanisation is not urban population growth, statutory town is not census
+  town, slum is not every informal settlement, metropolitan region is not one municipality,
+  and Smart Cities, AMRUT, PMAY-U and municipal constitutional functions have distinct
+  mandates.
 
 ASCII MASTER FLOW — PANEL 7/12: Smart-city design contrast
 EXCLUSIONARY -> upgrading concentrated in designated or better-off zones
@@ -61,23 +65,19 @@ DENSITY ALONE -> insufficient as an explanation of urban crime
 CONFOUNDERS -> inequality, policing, opportunity, reporting, networks
 REQUIREMENT -> context-specific evidence before any causal claim
 SAFE MOVE -> describe mechanisms, refuse an anomie shortcut
-CLOSE DISTINCTION: Urbanisation is not urban population growth, statutory town is not census
-  town, slum is not every informal settlement, metropolitan region is not one municipality,
-  and Smart Cities, AMRUT, PMAY-U and municipal constitutional functions have distinct
-  mandates.
 
 ASCII MASTER FLOW — PANEL 11/12: Growth and its cost
 CLUSTERING -> productivity, matching and a wage premium
 SAME MECHANISM -> congestion, housing-cost inflation, service strain
 TIER-2 -> new middle class, organised retail, consumption aspiration
 READING -> differentiated work and housing, not shared prosperity
-EVIDENCE LIMIT: Compare Delhi-NCR, Mumbai, Bengaluru, Surat, Chennai and Kerala's dispersed
-  settlement; source Census 2011 classifications and current mission status separately, and
-  explain congestion, segregation or flooding through land, infrastructure, ecology and
-  governance rather than city size alone.
 
 ASCII MASTER FLOW — PANEL 12/12: Urbanisation answer spine
 OPEN -> name the mechanism the directive is actually testing
 BODY -> pull, housing lag, tenure and service exclusion in order
 TEST -> distributive and procedural justice against the design chosen
 CLOSE -> conditional verdict with the projection-not-Census caveat
+EVIDENCE LIMIT: Compare Delhi-NCR, Mumbai, Bengaluru, Surat, Chennai and Kerala's dispersed
+  settlement; source Census 2011 classifications and current mission status separately, and
+  explain congestion, segregation or flooding through land, infrastructure, ecology and
+  governance rather than city size alone.

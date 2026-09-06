@@ -5,8 +5,8 @@ Topic: Scheduled and Tribal Areas
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 26
-Source record ID: polity-26:learner-v2:g4
-Source generation: 4
+Source record ID: polity-26:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

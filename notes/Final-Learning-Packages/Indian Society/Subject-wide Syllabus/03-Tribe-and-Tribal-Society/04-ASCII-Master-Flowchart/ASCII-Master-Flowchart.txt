@@ -37,6 +37,9 @@ LAND FOR LAND -> was an equivalent land base restored
 LIVELIHOOD -> was the earning system rebuilt, not just paid for
 COMMUNITY -> was the village relocated intact or scattered
 VERDICT -> restoration means gain, compensation alone means loss
+CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous people, Particularly Vulnerable Tribal
+  Group and forest dweller are not synonyms; Fifth Schedule, Sixth Schedule, PESA 1996 and
+  Forest Rights Act 2006 have distinct territorial, institutional and rights boundaries.
 
 ASCII MASTER FLOW — PANEL 7/12: Vulnerability card
 SOURCE -> Ministry of Tribal Affairs list dated 9 July 2024
@@ -61,22 +64,19 @@ EMBEDDED -> held in practice, not abstracted into models
 COLLECTIVE -> authored by a community, not an individual
 ORAL AND PLACE-SPECIFIC -> transmitted by speech, indexed to one tract
 VALIDATION -> long-run use rather than controlled testing
-CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous people, Particularly Vulnerable Tribal
-  Group and forest dweller are not synonyms; Fifth Schedule, Sixth Schedule, PESA 1996 and
-  Forest Rights Act 2006 have distinct territorial, institutional and rights boundaries.
 
 ASCII MASTER FLOW — PANEL 11/12: Erosion and prohibition
 DISPLACEMENT -> severs the ecology the knowledge was indexed to
 SCHOOLING AND MARKET -> break oral transmission chains
 PROHIBITION 1 -> no substitute for public health or formal education
 PROHIBITION 2 -> no unverified remedy attributed to a named tribe
-EVIDENCE LIMIT: Use central Indian, Northeast, Himalayan, island and pastoral examples,
-  including Bhil, Gond, Santhal, Naga and PVTG variation; avoid primitive-versus-modern
-  binaries, and distinguish notified status, statutory entitlement, implementation and lived
-  outcome.
 
 ASCII MASTER FLOW — PANEL 12/12: Tribal answer spine
 OPEN -> state the opinion and the framing being tested
 BODY -> displacement axis, then rehabilitation adequacy
 ADD -> what the framing omits: identity, services, self-governance
 CLOSE -> graded verdict with the dated official evidence
+EVIDENCE LIMIT: Use central Indian, Northeast, Himalayan, island and pastoral examples,
+  including Bhil, Gond, Santhal, Naga and PVTG variation; avoid primitive-versus-modern
+  binaries, and distinguish notified status, statutory entitlement, implementation and lived
+  outcome.

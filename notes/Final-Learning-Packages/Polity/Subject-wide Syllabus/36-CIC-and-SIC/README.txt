@@ -5,8 +5,8 @@ Topic: CIC and SIC
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 36
-Source record ID: polity-36:learner-v2:g5
-Source generation: 5
+Source record ID: polity-36:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

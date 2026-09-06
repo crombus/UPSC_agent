@@ -5,8 +5,8 @@ Topic: Historical Background
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 01
-Source record ID: polity-01:learner-v2:g16
-Source generation: 16
+Source record ID: polity-01:learner-v2:g17
+Source generation: 17
 Approval: Approval pending
 
 Deliverables

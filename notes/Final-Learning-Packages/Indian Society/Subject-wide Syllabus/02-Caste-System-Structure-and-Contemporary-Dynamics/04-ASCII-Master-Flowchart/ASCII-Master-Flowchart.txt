@@ -37,6 +37,10 @@ OVERLAP -> caste rank and economic class coincide locally
 CROSS-CUTTING -> rich and poor households inside one caste
 DRIVER -> urban employment and market credentials
 LIMIT -> the overlap is loosening, not abolished
+CLOSE DISTINCTION: Varna is not jati, caste is not class, ritual rank is not identical to
+  economic or political power, untouchability is not every caste inequality, and
+  constitutional Scheduled Caste status is a legal-administrative category rather than a
+  complete sociological map.
 
 ASCII MASTER FLOW — PANEL 7/12: Associational reinvention
 WEAKENED -> occupational allocation and public purity enforcement
@@ -61,23 +65,19 @@ INTERCASTE -> parity protects status and resource base
 INTERRELIGIOUS -> belonging, kinship and community sanction
 CIVIL ROUTE -> Special Marriage Act, 1954 exists across religions
 VERDICT -> different guards, therefore different speeds
-CLOSE DISTINCTION: Varna is not jati, caste is not class, ritual rank is not identical to
-  economic or political power, untouchability is not every caste inequality, and
-  constitutional Scheduled Caste status is a legal-administrative category rather than a
-  complete sociological map.
 
 ASCII MASTER FLOW — PANEL 11/12: Measurement status
 PIB 30 APRIL 2025 -> caste enumeration announced for Census 2027
 GAZETTE S.O. 2681(E) -> fixes the reference dates
 STATUS -> prospective, so no caste count may be quoted
 LIMIT -> not India's first historical caste enumeration
-EVIDENCE LIMIT: Articles 15-17, 46, 330-342A and reservation institutions set legal
-  boundaries, but legal prohibition does not equal social eradication; compare Jat, Maratha,
-  Patidar, Dalit and regional caste dynamics without homogenising communities or inferring
-  causes from aggregate correlations.
 
 ASCII MASTER FLOW — PANEL 12/12: Caste answer spine
 OPEN -> name the level and the demand family
 BODY -> structure, mobility, dominance, association
 TENSION -> what changed against what did not
 CLOSE -> arena-specific verdict with the measurement caveat
+EVIDENCE LIMIT: Articles 15-17, 46, 330-342A and reservation institutions set legal
+  boundaries, but legal prohibition does not equal social eradication; compare Jat, Maratha,
+  Patidar, Dalit and regional caste dynamics without homogenising communities or inferring
+  causes from aggregate correlations.

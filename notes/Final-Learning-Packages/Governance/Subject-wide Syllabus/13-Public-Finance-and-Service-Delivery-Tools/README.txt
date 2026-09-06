@@ -5,8 +5,8 @@ Topic: Public Finance and Service-Delivery Tools
 Subject: Governance
 Section: Subject-wide Syllabus
 Catalogue number: 13
-Source record ID: governance-13:learner-v2:g2
-Source generation: 2
+Source record ID: governance-13:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

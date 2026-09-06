@@ -5,8 +5,8 @@ Topic: Fundamental Rights
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 07
-Source record ID: polity-07:learner-v2:g17
-Source generation: 17
+Source record ID: polity-07:learner-v2:g19
+Source generation: 19
 Approval: Approval pending
 
 Deliverables

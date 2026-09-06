@@ -37,6 +37,10 @@ NATIONAL -> a weighted summary of states in different transition phases
 BELOW REPLACEMENT -> ageing pressure and workforce-shrinkage risk
 ABOVE REPLACEMENT -> young structure with an open dividend window
 VERDICT -> the honest answer is state-graded, not nation-uniform
+CLOSE DISTINCTION: Population growth is not fertility, replacement fertility is not zero
+  growth, density is not pressure, sex ratio at birth is not overall sex ratio, Census stock
+  is not survey flow, and demographic dividend is an opportunity rather than an automatic
+  bonus.
 
 ASCII MASTER FLOW — PANEL 7/12: Winter and dividend
 DEMOGRAPHIC WINTER -> sustained sub-replacement fertility with ageing and decline
@@ -61,22 +65,18 @@ RECEIVING REGION -> working-age inflow cushions workforce shrinkage
 SENDING REGION -> elderly parents left with thinner household support
 NET EFFECT -> the ageing problem is redistributed, not removed
 ANSWER USE -> state the regional trade-off before recommending mobility
-CLOSE DISTINCTION: Population growth is not fertility, replacement fertility is not zero
-  growth, density is not pressure, sex ratio at birth is not overall sex ratio, Census stock
-  is not survey flow, and demographic dividend is an opportunity rather than an automatic
-  bonus.
 
 ASCII MASTER FLOW — PANEL 11/12: Population education design
 CONTENT -> age-appropriate, scientific and rights-respecting instruction
 OBJECTIVES -> health information, gender equality, voluntary choice, resource awareness
 DELIVERY -> schools, community outreach and health services
 SAFEGUARD -> capability building, never a demographic target
-EVIDENCE LIMIT: Census 2011 is the latest completed census baseline as of review, while SRS,
-  NFHS-5 and projections have different dates and methods; compare Kerala/Tamil Nadu ageing,
-  EAG-state youth and migration destinations without causal claims from state averages alone.
 
 ASCII MASTER FLOW — PANEL 12/12: Population answer spine
 OPEN -> define the term precisely and name the social mechanism
 BODY -> dated anchor, then immediate disaggregation by state
 TEST -> ageing pressure against continuing dividend conditions
 CLOSE -> graded verdict with the survey-versus-census caveat
+EVIDENCE LIMIT: Census 2011 is the latest completed census baseline as of review, while SRS,
+  NFHS-5 and projections have different dates and methods; compare Kerala/Tamil Nadu ageing,
+  EAG-state youth and migration destinations without causal claims from state averages alone.

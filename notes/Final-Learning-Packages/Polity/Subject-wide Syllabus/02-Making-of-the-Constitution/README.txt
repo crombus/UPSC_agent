@@ -5,8 +5,8 @@ Topic: Making of the Constitution
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 02
-Source record ID: polity-02:learner-v2:g17
-Source generation: 17
+Source record ID: polity-02:learner-v2:g18
+Source generation: 18
 Approval: Approval pending
 
 Deliverables

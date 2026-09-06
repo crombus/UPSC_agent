@@ -13,6 +13,9 @@ accountable executive power.
 ANSWER LINE
 The President is a constitutional sentinel without a rival popular mandate; the
 Vice-President is principally a parliamentary presiding officer.
+MUST REMEMBER: Map Articles 52-73 office by office: electoral colleges, vote values,
+  qualifications, oath, term, vacancy, impeachment/removal, Article 71 disputes, aid and
+  advice, veto, ordinance and clemency require separate procedural chains.
 
 ASCII MASTER FLOW — PANEL 2/12: Election Colleges And Statutory Timeline
 ARTICLE 54: elected MPs plus elected State, Delhi and Puducherry MLAs
@@ -94,6 +97,10 @@ review allocate real decision-making authority.
 ANSWER LINE
 A complete answer names the exact power, advice route, legal limit and accountability
 mechanism.
+CLOSE DISTINCTION: The President is indirectly elected by elected MPs and elected MLAs of
+  States plus Delhi and Puducherry; the Vice-President is elected by all members of both
+  Houses. Presidential impeachment under Article 61 and Vice-Presidential removal under
+  Article 67(b) are not interchangeable.
 
 ASCII MASTER FLOW — PANEL 7/12: Article 111 Veto And Article 201 Reserved Bills
 ORDINARY UNION BILL: assent, withhold or return once; repassage requires assent
@@ -192,3 +199,7 @@ directive-sensitive conclusion.
 ANSWER LINE
 The two offices preserve continuity without displacing parliamentary responsibility: dignity
 and discretion remain constitutionally bounded.
+LEGAL/SOURCE LIMIT: Current office control is Droupadi Murmu as President and C. P.
+  Radhakrishnan as Vice-President, elected 9 September and assuming office 12 September 2025.
+  Articles 72 and 123 remain advice-bound and judicially reviewable within settled
+  constitutional limits.

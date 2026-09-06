@@ -8,6 +8,10 @@ MUST REMEMBER: World regional geography synthesises location, physiography, drai
   biomes, resources, population and economy rather than memorising country lists; every
   continent is reconstructed through plate-relief belts, wind/current controls, river basins,
   settlement cores and strategic interfaces.
+MUST REMEMBER: World regional geography synthesises location, physiography, drainage, climate,
+  biomes, resources, population and economy rather than memorising country lists; every
+  continent is reconstructed through plate-relief belts, wind/current controls, river basins,
+  settlement cores and strategic interfaces.
 
 ASCII MASTER FLOW — PANEL 2/12: Continental pattern anchors
 ASIA -> largest in area and population in the source framework; greatest sub-regional variety
@@ -75,6 +79,10 @@ CLOSE DISTINCTION: Europe is not coterminous with the EU, Middle East with West 
   America with South America, Sahel with Sahara, mainland with maritime Southeast Asia, and a
   continent, cultural region, economic bloc and political boundary answer different map
   questions.
+CLOSE DISTINCTION: Europe is not coterminous with the EU, Middle East with West Asia, Latin
+  America with South America, Sahel with Sahara, mainland with maritime Southeast Asia, and a
+  continent, cultural region, economic bloc and political boundary answer different map
+  questions.
 
 ASCII MASTER FLOW — PANEL 11/12: India outward arcs
 WEST -> Arabian Sea to Gulf and Red Sea approaches to the Suez corridor
@@ -82,6 +90,10 @@ EAST -> Bay of Bengal to Andaman Sea toward Malacca-oriented passages
 NORTH -> Himalaya and Karakoram barrier with transit-constrained Central Asia
 LAND BRIDGE -> Myanmar is the only overland entry to mainland South-East Asia
 READING -> maritime-heavy west and east, barrier-heavy north
+EVIDENCE LIMIT: Andes–Amazon–Pampas, Rockies–Great Lakes–Mississippi, Alps–North European
+  Plain, Atlas–Sahara–Sahel–Congo–Rift, West Siberian Plain–Central Asian basins–monsoon Asia,
+  and Australian interior/eastern rim provide comparable regional spines; country data and
+  geopolitical status remain source-dated.
 EVIDENCE LIMIT: Andes–Amazon–Pampas, Rockies–Great Lakes–Mississippi, Alps–North European
   Plain, Atlas–Sahara–Sahel–Congo–Rift, West Siberian Plain–Central Asian basins–monsoon Asia,
   and Australian interior/eastern rim provide comparable regional spines; country data and

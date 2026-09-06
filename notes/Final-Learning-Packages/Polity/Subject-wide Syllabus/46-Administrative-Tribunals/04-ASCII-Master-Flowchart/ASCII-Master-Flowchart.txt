@@ -14,6 +14,8 @@ Administrative Tribunals Act 1985 -> CAT and enabled SAT arrangements.
 NON-NEGOTIABLE FLOOR
 judicial independence + natural justice + reasoned order
 + High Court/Supreme Court constitutional review.
+MUST REMEMBER: Keep Article 323A administrative tribunals, Article 323B subject tribunals and
+  the Administrative Tribunals Act, 1985 institutionally distinct.
 
 ASCII MASTER FLOW — PANEL 2/12: Articles 323A and 323B compared
 ARTICLE 323A
@@ -66,7 +68,7 @@ follow exact Administrative Tribunals Act text and notifications;
 not every public employee or constitutional office enters CAT.
 
 CONTROL
-appointments, tenure and service conditions must be stated with the 25 August 2026 caveat.
+appointments, tenure and service conditions must be stated with the 5 September 2026 caveat.
 
 ASCII MASTER FLOW — PANEL 5/12: Application, procedure, powers and contempt
 PROCESS
@@ -100,6 +102,8 @@ tribunal order -> territorial High Court Division Bench -> Supreme Court constit
 TRAP
 routine direct appeal from CAT to Supreme Court
 is not the ordinary substitute for High Court review.
+CLOSE DISTINCTION: Preserve L. Chandra Kumar (1997)'s first-instance tribunal role together
+  with Articles 226/227 review by the territorial High Court Division Bench.
 
 ASCII MASTER FLOW — PANEL 7/12: Tribunal-independence doctrine across five decisions
 Union of India v. R. Gandhi (2010)
@@ -175,6 +179,12 @@ AUGUST 2026 CAUTION
 enactment != commencement != operational commission.
 Use Gazette commencement and appointment records before claiming operation.
 
+CURRENT CONTROL: 5 SEPTEMBER 2026
+2025 INSC 1330 remains the merits baseline; the 9 March 2026 order
+continues specified incumbents only until 8 September 2026/maximum age.
+Parliament passed the Tribunals Reforms Bill, 2026, but no official
+assented Act or commencement notification was located; do not call it operative.
+
 ASCII MASTER FLOW — PANEL 11/12: Exact PYQ demand and answer architecture
 2018 GS-II 15/250
 court-jurisdiction curtailment + validity + competency.
@@ -210,3 +220,5 @@ independent appointments body | secure adequate tenure | transparent vacancies
 VERDICT
 tribunals are justified only as independent, accessible specialist courts
 under constitutional supervision.
+LEGAL/SOURCE LIMIT: Parliament passed the Tribunals Reforms Bill, 2026, but no official
+  assented Act or commencement notification was located by 5 September 2026.

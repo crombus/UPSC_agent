@@ -15,6 +15,8 @@ DSPE -> statutory police establishment supplying core investigative powers.
 
 LIMIT
 common anti-corruption purpose does not merge advice, police power, prosecution and judgment.
+MUST REMEMBER: Keep the statutory CVC, executive-created CBI and statutory DSPE police
+  establishment legally distinct despite their connected vigilance work.
 
 ASCII MASTER FLOW — PANEL 2/12: CVC composition, appointment and tenure
 COMPOSITION
@@ -28,6 +30,11 @@ Prime Minister + Union Home Minister + Lok Sabha Opposition Leader/substitute.
 QUALIFICATION
 experience in vigilance, policy, administration, police administration,
 finance including insurance and banking, law or investigations.
+
+CURRENT LEADERSHIP: 5 SEPTEMBER 2026
+A S Rajeev: acting Central Vigilance Commissioner from 3 August 2026.
+Praveen Vashista: Vigilance Commissioner.
+Acting charge does not alter the statutory appointment architecture.
 
 ASCII MASTER FLOW — PANEL 3/12: CVC removal, service safeguards and legal limits
 TERM
@@ -80,6 +87,8 @@ FIR or regular case -> search, seizure, arrest and examination under law
 BOUNDARY
 organisational mandate does not override notified offences, territory,
 criminal procedure, special statutes, consent or court directions.
+CLOSE DISTINCTION: CVC superintendence is offence-field specific and does not permit dictating
+  a particular investigation, conviction or disciplinary result.
 
 ASCII MASTER FLOW — PANEL 7/12: CBI superintendence and investigative judgment
 SUPERINTENDENCE
@@ -105,6 +114,10 @@ statutory committee safeguard applies.
 
 TRAP
 two-year floor != automatic five-year term and superintendence != case-outcome command.
+
+CURRENT DIRECTOR: 5 SEPTEMBER 2026
+Praveen Sood's dated extension runs through 24 May 2027.
+A one-year extension under the amended law is not an automatic five-year term.
 
 ASCII MASTER FLOW — PANEL 9/12: State consent and constitutional-court directions
 ORDINARY STATE-AREA ROUTE
@@ -198,3 +211,5 @@ PYQ SPINE
 
 VERDICT
 operational autonomy must be paired with legality, federal restraint and answerable coercive power.
+LEGAL/SOURCE LIMIT: A S Rajeev is acting Central Vigilance Commissioner; Praveen Vashista is
+  Vigilance Commissioner; Praveen Sood's CBI term runs to 24 May 2027.

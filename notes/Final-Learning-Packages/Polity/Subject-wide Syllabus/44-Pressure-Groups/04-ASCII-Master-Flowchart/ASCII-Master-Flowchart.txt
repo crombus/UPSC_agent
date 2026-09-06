@@ -9,6 +9,8 @@ lobbyist: professional client representation
 
 LIMIT
 forms overlap; dominant purpose and conduct decide the label.
+MUST REMEMBER: Treat pressure group as an analytical role, not a single legal form, and keep
+  parties, movements, NGOs, unions and lobbyists distinct.
 
 ASCII MASTER FLOW — PANEL 2/12: Constitutional channels and proportionate limits
 ARTICLE 19
@@ -70,6 +72,8 @@ voluntary advocacy bodies; separate statutory regulators.
 
 HISTORY
 Madras Labour Union 1918 | AITUC federation 1920.
+CLOSE DISTINCTION: Apply Articles 19, protest regulation, PIL, consultation, FCRA and entity
+  law through separate legal routes rather than inventing a right to lobby.
 
 ASCII MASTER FLOW — PANEL 7/12: Farmers' organisations: methods and effectiveness
 METHODS
@@ -120,8 +124,13 @@ Noel Harper v. Union of India (2022)
 framework upheld; passport-based Section 12A accommodation.
 
 LOBBYING
-no comprehensive standalone register as checked 28 Aug 2026;
+no comprehensive standalone register as checked 5 September 2026;
 general and sectoral laws still apply.
+
+CURRENT LAW: 5 SEPTEMBER 2026
+The 2025 FCRA Rules changes are procedural application controls.
+FCRA is not a lobbying statute; no comprehensive general Indian
+lobbying-registration or lobbying-disclosure law was located.
 
 ASCII MASTER FLOW — PANEL 11/12: Transparent and inclusive consultation design
 NOTICE
@@ -151,3 +160,5 @@ define -> channel -> method -> evidence -> gain -> limit
 
 FINAL LINE
 continuous representation is democratic only when access and reasons are visible.
+LEGAL/SOURCE LIMIT: The 2025 FCRA Rules changes are procedural; India still has no
+  comprehensive general lobbying-registration or lobbying-disclosure statute.

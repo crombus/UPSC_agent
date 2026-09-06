@@ -5,8 +5,8 @@ Topic: Indian Diaspora, Consular Protection and Soft Power
 Subject: International Relations
 Section: Subject-wide Syllabus
 Catalogue number: 09
-Source record ID: international-relations-09:learner-v2:g4
-Source generation: 4
+Source record ID: international-relations-09:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

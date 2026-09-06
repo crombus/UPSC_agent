@@ -5,8 +5,8 @@ Topic: Ministries Departments and Central Secretariat
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 48
-Source record ID: polity-48:learner-v2:g4
-Source generation: 4
+Source record ID: polity-48:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

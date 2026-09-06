@@ -37,6 +37,10 @@ CLAIM -> caste is not benign division of labour
 STRUCTURE -> each caste looks down and simultaneously aspires upward
 SANCTION -> religious sanction on endogamy reproduces the grade
 CONSEQUENCE -> the system supplies defenders at every level
+CLOSE DISTINCTION: Welfare is not empowerment, formal inclusion is not substantive access,
+  equality is not uniform treatment, reservation is not the whole of social justice, and
+  constitutional rights, statutory commissions, executive schemes and community institutions
+  have different mandates.
 
 ASCII MASTER FLOW — PANEL 7/12: Reform against annihilation
 PIECEMEAL REFORM -> one group improves its own relative position
@@ -61,22 +65,21 @@ SOURCE -> NITI Aayog discussion paper of 2024
 TITLE -> Multidimensional Poverty in India since 2005-06
 ESTIMATE -> 11.28 per cent multidimensional poverty in 2022-23
 EXITS -> about 24.8 crore persons between 2013-14 and 2022-23
-CLOSE DISTINCTION: Welfare is not empowerment, formal inclusion is not substantive access,
-  equality is not uniform treatment, reservation is not the whole of social justice, and
-  constitutional rights, statutory commissions, executive schemes and community institutions
-  have different mandates.
 
-ASCII MASTER FLOW — PANEL 11/12: Three boundary cases
-ENTITLEMENT WITHOUT CAPABILITY -> admitted seat, weak prior schooling
-CAPABILITY BUILT -> bridge course and mentoring before and during study
-FORMAL WITHOUT SUBSTANTIVE -> higher income, continuing social exclusion
-READING -> each case fixes one link in the conversion chain
-EVIDENCE LIMIT: Analyse SC, ST, OBC, minority, disability, transgender, elderly and other
-  experiences without merging them; use Articles 14-17, 21, 38, 46 and relevant
-  commissions/laws precisely, separating entitlement, implementation, uptake and outcome.
+ASCII MASTER FLOW — PANEL 11/12: Distinct legal fields before intersection
+SC/ST/OBC COMMISSIONS -> Articles 338, 338A and 338B are distinct
+SC/ST/OBC LISTS -> Articles 341, 342 and 342A govern distinct fields
+MINORITIES -> Articles 29-30 differ from the six NCM Act communities
+LINGUISTIC MINORITIES -> Article 350B is a separate constitutional field
+PwD -> RPwD Act 2016; benchmark disability is a statutory subcategory
+TRANSGENDER -> 2019 Act is not a complete LGBTQIA+ equality code
+ELDERLY -> 2007 maintenance law is not proof of universal care
 
 ASCII MASTER FLOW — PANEL 12/12: Empowerment answer spine
 OPEN -> define empowerment as capability and agency, not receipt
 BODY -> entitlement, conversion factor and outcome named in order
 TEST -> boundary cases that break an entitlement-only claim
 CLOSE -> capability-building verdict with a dated estimate caveat
+EVIDENCE LIMIT: Analyse SC, ST, OBC, minority, disability, transgender, elderly and other
+  experiences without merging them; use Articles 14-17, 21, 38, 46 and relevant
+  commissions/laws precisely, separating entitlement, implementation, uptake and outcome.

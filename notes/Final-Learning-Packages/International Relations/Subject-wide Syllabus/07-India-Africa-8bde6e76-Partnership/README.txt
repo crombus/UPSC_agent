@@ -5,8 +5,8 @@ Topic: India-Africa Development and Digital Partnership
 Subject: International Relations
 Section: Subject-wide Syllabus
 Catalogue number: 07
-Source record ID: international-relations-07:learner-v2:g4
-Source generation: 4
+Source record ID: international-relations-07:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

@@ -5,6 +5,8 @@ ROLE -> legal advice + assigned legal duties + government representation
 NOT -> judge, minister, legislature member, prosecutor-general or final interpreter
 
 CORE: constitutional status defines the office; courts decide law and government decides policy.
+MUST REMEMBER: Keep the constitutional Attorney General and Advocate General separate from the
+  executive offices of Solicitor General and Additional Solicitors General.
 
 ASCII MASTER FLOW — PANEL 2/12: Article 76 Attorney General clause spine
 76(1) -> President appoints a person qualified as Supreme Court Judge
@@ -30,6 +32,10 @@ UNION RULE 3 -> administrative term subject always to Article 76(4) pleasure
 
 TRAP: judicial qualification or retirement age does not become law-officer tenure.
 
+CURRENT OFFICEHOLDER: 5 SEPTEMBER 2026
+R. Venkataramani: reappointed for two years from 1 October 2025.
+This appointment term does not replace Article 76 pleasure tenure.
+
 ASCII MASTER FLOW — PANEL 5/12: Advice representation and audience distinctions
 ADVICE -> legal matter referred or assigned through government route
 REPRESENTATION -> specific brief in court or constitutional reference
@@ -46,6 +52,8 @@ ARTICLES 105(4) / 194(4) -> proceeding-linked privilege extension
 COMMON LIMIT -> no vote by office; no elected membership or ministerial responsibility
 
 TRAP: permission to participate is not a legislative seat.
+CLOSE DISTINCTION: Pleasure tenure, legislative participation without vote, audience rights
+  and professional-practice restrictions must be stated office by office.
 
 ASCII MASTER FLOW — PANEL 7/12: Rule 8 private practice conflicts and permissions
 PRIVATE PRACTICE -> possible, but not unrestricted
@@ -95,7 +103,7 @@ LIMIT -> judgment did not replace Governor appointment of Advocate General under
 REFORM: transparent criteria, conflict register, reasoned recusals and reviewable procedures.
 
 ASCII MASTER FLOW — PANEL 12/12: Current controls PYQs traps and answer synthesis
-CONTROL DATE -> 28 August 2026; no volatile officeholder frozen
+CONTROL DATE -> 5 September 2026; no volatile officeholder frozen
 PYQ 2019 -> AGI as chief legal adviser
 PYQ 2025 -> responsibilities, rights and limitations
 PRELIMS 2022 -> AGI versus Solicitor General constitutional position
@@ -104,3 +112,5 @@ FIREWALL: pleasure != impeachment | audience != assigned brief | speak != vote
 | privilege != blanket immunity | private practice != conflict-free practice
 
 MAINS: source -> function/right -> limits -> dual-role tension -> qualified reform.
+LEGAL/SOURCE LIMIT: The 2025 Gazette reappointed R. Venkataramani as Attorney General for two
+  years from 1 October 2025; the 2026 rules amendment concerns fees.

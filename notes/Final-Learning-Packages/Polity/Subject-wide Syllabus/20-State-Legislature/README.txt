@@ -5,8 +5,8 @@ Topic: State Legislature
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 20
-Source record ID: polity-20:learner-v2:g5
-Source generation: 5
+Source record ID: polity-20:learner-v2:g8
+Source generation: 8
 Approval: Approval pending
 
 Deliverables

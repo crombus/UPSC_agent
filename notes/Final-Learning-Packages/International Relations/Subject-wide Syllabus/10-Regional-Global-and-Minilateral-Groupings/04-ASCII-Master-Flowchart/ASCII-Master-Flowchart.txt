@@ -10,8 +10,6 @@ RULE -> name the layer before analysing the body
 BOUNDARY -> Quad maritime security to topic 04; SCO connectivity to topic 05;
   Global South to topic 08; UN and Bretton Woods reform linkage to topic 12
 MUST REMEMBER: Regional, global and minilateral groupings vary by treaty basis,...
-MUST REMEMBER: Regional, global and minilateral groupings vary by treaty basis,...
-MUST REMEMBER: Regional, global and minilateral groupings vary by treaty basis,...
 
 ASCII MASTER FLOW — PANEL 2/12: South Asian layer read as a dated record
 26-27 NOVEMBER 2014 -> 18th SAARC Summit at Kathmandu, the last Summit held
@@ -68,6 +66,7 @@ SCO -> charter-based Eurasian intergovernmental organisation
   Tianjin summit 31 August-1 September 2025; Tianjin Declaration
   Kyrgyzstan chairs 2025-26
 LIMIT -> a seat supplies voice, never privileged access or shared threat views
+CLOSE DISTINCTION: Member, observer, dialogue partner, guest, chair and invited...
 
 ASCII MASTER FLOW — PANEL 7/12: Global-governance layer counted correctly
 BRICS -> 11 full members; not a treaty alliance
@@ -119,9 +118,6 @@ MEKONG-GANGA -> 6 members: Cambodia, India, Lao PDR, Myanmar, Thailand, Viet Nam
   most recent ministerial located officially: the 10th, Bangkok, 1 August 2019
   corridor engineering routes to the neighbourhood owner
 DISCIPLINE -> state the asymmetry whenever the platforms are listed together
-CLOSE DISTINCTION: Member, observer, dialogue partner, guest, chair and invited...
-CLOSE DISTINCTION: Member, observer, dialogue partner, guest, chair and invited...
-CLOSE DISTINCTION: Member, observer, dialogue partner, guest, chair and invited...
 
 ASCII MASTER FLOW — PANEL 11/12: Regime vocabulary that decides objective questions
 MTCR -> India the 35th member, 27 June 2016
@@ -134,9 +130,6 @@ SCO -> India a full member since 2017; access without shared threat perception
 IAEA ADDITIONAL PROTOCOL -> in force 25 July 2014; applies to safeguards only
   it does not make India a non-nuclear-weapon State under the NPT
 GAP -> ASEM joined 2007; APEC still a non-membership example, 3 August 2026
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify current membership and...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify current membership and...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify current membership and...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a groupings or minilateralism demand
 OPEN -> name the layer, the legal form and the exact participation tier
@@ -148,3 +141,4 @@ OWNERSHIP -> the 2020 Quad, 2021 and 2023 SCO, 2022 BIMSTEC-SAARC, 2022 I2U2
   and 2023 alliance-expansion demands are the routed Mains questions
 CLOSE -> form must match the problem; multiplying memberships without delivery
   or status precision produces only diplomatic symbolism
+EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify current membership and...

@@ -5,8 +5,8 @@ Topic: India, China, Major Powers and Resilient Supply Chains
 Subject: International Relations
 Section: Subject-wide Syllabus
 Catalogue number: 03
-Source record ID: international-relations-03:learner-v2:g4
-Source generation: 4
+Source record ID: international-relations-03:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

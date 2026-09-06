@@ -37,6 +37,9 @@ UNIVERSALISATION -> local deity or festival rises into pan-Indian recognition
 CARRIERS -> pilgrimage networks, textual incorporation, patronage
 PAROCHIALISATION -> pan-Indian ritual adapted to local resources and language
 RESULT -> layered, regionally variable practice rather than uniform culture
+CLOSE DISTINCTION: Modernisation is not westernisation, secularisation is not necessarily
+  declining belief, Sanskritisation is not structural equality, mobility is not transformation
+  of the hierarchy, and legal reform is not identical to normative or behavioural change.
 
 ASCII MASTER FLOW — PANEL 7/12: Three levels of the religious question
 SECULARISATION -> institutional differentiation of religious authority
@@ -61,21 +64,18 @@ SOCIETY LAYER -> access, trust, work, identity and unequal risk
 CROSS-LINKED -> instrument mechanics owned by Economy and Science and Technology
 PROHIBITION -> no price, legal status or adoption figure is asserted
 OUTPUT -> a social effect argued from access and use, not from a label
-CLOSE DISTINCTION: Modernisation is not westernisation, secularisation is not necessarily
-  declining belief, Sanskritisation is not structural equality, mobility is not transformation
-  of the hierarchy, and legal reform is not identical to normative or behavioural change.
 
 ASCII MASTER FLOW — PANEL 11/12: Evidence-status card
 NAMED SCHOLARS -> M. N. Srinivas, Robert Redfield, McKim Marriott
 DATED ANCHOR -> none is required for this durable-theory topic
 RECENT DEMANDS -> one routed 2025 demand, three routed 2018 to 2021 demands
 PROHIBITION -> no village study, survey figure or date is invented
-EVIDENCE LIMIT: Use M.N. Srinivas and Yogendra Singh as bounded analytical frameworks,
-  alongside education, media, urban and movement examples; avoid linear tradition-to-modernity
-  teleology and identify feedback, resistance, regional paths and unintended effects.
 
 ASCII MASTER FLOW — PANEL 12/12: Social-change answer spine
 OPEN -> name the lens and the axis the question is testing
 BODY -> apply the India-specific vocabulary with one worked example
 TEST -> continuity mechanisms against their parallel change pressures
 CLOSE -> graded verdict with the cross-owner boundary stated
+EVIDENCE LIMIT: Use M.N. Srinivas and Yogendra Singh as bounded analytical frameworks,
+  alongside education, media, urban and movement examples; avoid linear tradition-to-modernity
+  teleology and identify feedback, resistance, regional paths and unintended effects.

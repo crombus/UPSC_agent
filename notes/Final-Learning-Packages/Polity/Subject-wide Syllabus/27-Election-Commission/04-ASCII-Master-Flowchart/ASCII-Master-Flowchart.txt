@@ -16,6 +16,8 @@ local-body elections -> State Election Commissions under Articles 243K and 243ZA
 CONSTITUTIONAL POSITION
 independent election manager + distributed field machinery
 bounded by Constitution, enacted law, natural justice and judicial review.
+MUST REMEMBER: Separate Article 324, Articles 325-329, the RPA 1950, the RPA 1951, the 2023
+  appointment Act and the non-statutory Model Code.
 
 ASCII MASTER FLOW — PANEL 2/12: Appointment Act, tenure, removal and independence safeguards
 Anoop Baranwal (2023)
@@ -120,6 +122,9 @@ Union of India v. Association for Democratic Reforms (2002)
 
 REFORM TEST
 clear law + reasons + equal enforcement + rapid remedy + audit trail.
+CLOSE DISTINCTION: The ECI conducts Union, State, Presidential and Vice-Presidential
+  elections; State Election Commissions conduct local-body elections, and the Delimitation
+  Commission remains a distinct statutory body.
 
 ASCII MASTER FLOW — PANEL 7/12: EVM-VVPAT architecture and current judicial controls
 POLLING CHAIN
@@ -233,3 +238,6 @@ discretion.
 CONTROL
 reasoned order -> natural justice where applicable -> preserve election timetable ->
 post-result petition for final election challenge.
+LEGAL/SOURCE LIMIT: The official ECI roster lists CEC Gyanesh Kumar and ECs Dr Sukhbir Singh
+  Sandhu and Dr Vivek Joshi. The 2023 Act operates while its section 7 challenge remains
+  undecided.

@@ -37,6 +37,9 @@ RUMOUR -> unverified account circulates where information channels are distruste
 REFRAMING -> a local dispute becomes a community-versus-community event
 SEGREGATION -> routine contact stops and informal trust repair disappears
 STATUS -> a diagnostic risk heuristic, never a universal chronology
+CLOSE DISTINCTION: Religion is not communalism, religiosity is not violence, communal identity
+  is not internally homogeneous, prejudice is not automatically collective violence, and
+  secular constitutional regulation is not hostility to religion.
 
 ASCII MASTER FLOW — PANEL 7/12: Presence against impartiality
 PRESENCE -> police and administrative machinery are deployed on the ground
@@ -61,22 +64,19 @@ REFORM -> differentiated gains, insecure work, local resource competition
 FRAMING -> identity entrepreneurs convert insecurity into a communal narrative
 COUNTER-CONDITION -> civic institutions and credible impartiality
 PROHIBITION -> no aggregate reform explains a specific episode by itself
-CLOSE DISTINCTION: Religion is not communalism, religiosity is not violence, communal identity
-  is not internally homogeneous, prejudice is not automatically collective violence, and
-  secular constitutional regulation is not hostility to religion.
 
 ASCII MASTER FLOW — PANEL 11/12: Two registers
 NATIONAL INTEGRATION -> institutional and constitutional management of diversity
 COMMUNAL HARMONY -> everyday social coexistence and inter-community trust
 RELATION -> the first does not automatically deliver the second
 CROSS-LINKED -> the National Integration Council's status belongs to Polity
-EVIDENCE LIMIT: Use colonial representation and post-Independence examples with constitutional
-  Articles 14-16, 25-30 and public-order boundaries; analyse triggering events separately from
-  enabling structures, avoid collective blame, and distinguish legal norms, enforcement and
-  social reconciliation.
 
 ASCII MASTER FLOW — PANEL 12/12: Communalism answer spine
 OPEN -> define mobilisation and separate it from religious belief
 BODY -> structural layer, trigger layer and the actor who links them
 TEST -> power struggle against relative deprivation, with interaction named
 CLOSE -> verification, impartiality and contact, with reversibility stated
+EVIDENCE LIMIT: Use colonial representation and post-Independence examples with constitutional
+  Articles 14-16, 25-30 and public-order boundaries; analyse triggering events separately from
+  enabling structures, avoid collective blame, and distinguish legal norms, enforcement and
+  social reconciliation.

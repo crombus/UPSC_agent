@@ -5,8 +5,8 @@ Topic: Global South and Development Partnering
 Subject: International Relations
 Section: Subject-wide Syllabus
 Catalogue number: 08
-Source record ID: international-relations-08:learner-v2:g4
-Source generation: 4
+Source record ID: international-relations-08:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

@@ -11,6 +11,9 @@ CONSTITUTIONAL RAIL
 -> 196-207 Bills/finance -> 208-212 procedure and judicial restraint.
 
 CORE: Assembly has direct mandate and confidence; Council offers optional delay and continuity.
+MUST REMEMBER: Audit Articles 168-212 through legislature shape, Article 169, composition,
+  duration, membership, officers, sessions, privileges, ordinary and financial Bills, budget,
+  procedure and judicial-review limits.
 
 ASCII MASTER FLOW — PANEL 2/12: Article 169 creation or abolition route
 STATE ASSEMBLY RESOLUTION
@@ -77,6 +80,9 @@ ACCOUNTABILITY
 questions -> discussions -> motions -> budget scrutiny -> committees -> no-confidence.
 Only Assembly confidence can make or unmake the ministry.
 TRAP: Governor is a legislative component, not an Article 194-protected member.
+CLOSE DISTINCTION: Keep the Council's four-month ordinary-Bill delay, fourteen-day Money-Bill
+  role and absence of a State joint sitting distinct. Article 207(1) and 207(3) financial
+  Bills are not automatically Money Bills.
 
 ASCII MASTER FLOW — PANEL 7/12: Ordinary Bills, lapse and unequal bicameralism
 UNICAMERAL
@@ -162,3 +168,6 @@ public assent tracker | modernised Council representation.
 MAINS SPINE
 Article/design -> mechanism -> Assembly-Council comparison -> case/current evidence
 -> democratic or scrutiny consequence -> targeted reform -> representative-federal verdict.
+LEGAL/SOURCE LIMIT: Six States retain Councils. The 106th Amendment is commenced but its
+  reservation is not operational; Census 2027 reference dates do not equal publication of
+  figures or commencement of delimitation.

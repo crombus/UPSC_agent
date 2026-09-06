@@ -7,6 +7,8 @@ SAFEGUARDS -> Arts 338-340.
 IDENTIFICATION -> Arts 341-342A.
 
 FIREWALL: list != quota != commission report != welfare scheme.
+MUST REMEMBER: Keep representation, service claims, safeguard commissions and beneficiary-list
+  identification as four legally distinct Part XVI techniques.
 
 ASCII MASTER FLOW — PANEL 2/12: SC/ST legislative seats and territorial electorate
 ART 330 -> Lok Sabha SC/ST seats.
@@ -34,6 +36,11 @@ ENACTMENT / INCORPORATION
 
 SCOPE: Lok Sabha, State Assemblies and Delhi Assembly; not Rajya Sabha/Councils.
 
+CURRENT STATUS: 5 SEPTEMBER 2026
+S.O. 1922(E) commenced the Amendment on 16 April 2026.
+The remaining chain is post-commencement census figures -> publication
+-> delimitation -> electoral operation. Commenced != electorally applied.
+
 ASCII MASTER FLOW — PANEL 5/12: Delimitation and women-within-SC/ST seats
 ARTS 330A / 332A -> one-third design, including one-third within SC/ST reserved seats.
 ART 334A -> fifteen-year duration from operational commencement; later continuation by law.
@@ -48,6 +55,8 @@ SC/ST CLAIMS IN SERVICES
 M. Nagaraj (2006) + Jarnail Singh (2018) -> controlling promotion doctrine.
 
 TRAP: no fixed quota and no definition of efficiency.
+CLOSE DISTINCTION: Separate list membership, benefit design, sub-classification, monitoring,
+  delimitation and electoral operation by exact competent authority.
 
 ASCII MASTER FLOW — PANEL 7/12: NCSC, NCST, NCBC and neighbouring powers
 ART 338 -> NCSC | 338A -> NCST | 338B -> NCBC.
@@ -94,3 +103,5 @@ ASCII MASTER FLOW — PANEL 12/12: UPSC decision tree and qualified verdict
 5 STATUS -> amendment, case, notification and date.
 
 VERDICT: substantive equality requires exact-source discipline.
+LEGAL/SOURCE LIMIT: S.O. 1922(E) commenced the 106th Amendment on 16 April 2026, but Article
+  334A electoral operation still awaits census figures and delimitation.

@@ -7,8 +7,6 @@ FRAME -> demand-driven, non-intrusive support to democratic institutions
 TEST -> does the institution or network still work after the launch ceremony?
 BOUNDARY -> trade mechanics to Economy; representation to topic 08; diaspora to topic 09
 MUST REMEMBER: India-Africa relations combine political solidarity, capacity-building,...
-MUST REMEMBER: India-Africa relations combine political solidarity, capacity-building,...
-MUST REMEMBER: India-Africa relations combine political solidarity, capacity-building,...
 
 ASCII MASTER FLOW — PANEL 2/12: Summit architecture with exact dates and an honest gap
 IAFS-I  -> NEW DELHI, 8-9 APRIL 2008      | grant of 500 million USD announced
@@ -59,6 +57,7 @@ COMMITMENT          | DELIVERY QUESTION            | CORRECT WORDING
 15,116 scholarships  | were they completed?         | offered, in 22 countries
 RULE -> name the gap explicitly; the marks sit in the distinction, not the number
 TRADE BOUNDARY -> USD 81.99 billion in FY2024-25 is scale context, owned by Economy
+CLOSE DISTINCTION: Africa is not a single actor, African Union membership is not the same...
 
 ASCII MASTER FLOW — PANEL 7/12: Co-development against donor conditionality
 PROBLEM -> is India simply another external donor with a template?
@@ -96,9 +95,6 @@ REAL SCALE -> one forum, one seat
 NOT RESOLVED -> Africa's financing deficit, implementation deficit and United Nations
   representation deficit remain open
 USE -> cite as the benchmark for what a realistic representation success looks like
-CLOSE DISTINCTION: Africa is not a single actor, African Union membership is not the same...
-CLOSE DISTINCTION: Africa is not a single actor, African Union membership is not the same...
-CLOSE DISTINCTION: Africa is not a single actor, African Union membership is not the same...
 
 ASCII MASTER FLOW — PANEL 11/12: Political risk and the comparator, without caricature
 SAHEL AND WEST AFRICA -> coups in Mali, Guinea, Burkina Faso and Niger, 2020-2023
@@ -109,9 +105,6 @@ INDIA'S COMPARATIVE EDGE -> training, affordable technology, digital public
   infrastructure, demand-driven project selection
 DISCIPLINE -> do not generalise instability to the continent
 DISCIPLINE -> do not assume African states passively choose between India and China
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Name the country, African or regional...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Name the country, African or regional...
-EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Name the country, African or regional...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine tested against Africa's own plan
 OPEN -> name the partnership's two limbs and the dated summit framework with its gap
@@ -121,3 +114,4 @@ ALIGN -> set the model against Agenda 2063, signed as the 50th Anniversary Solem
   Declaration in May 2013, with its 2013 to 2063 horizon and ten-year implementation
   plans, and its Pan-African Vision of an integrated, prosperous and peaceful Africa
 CLOSE -> graded verdict on delivery and local ownership; predict no summit or project
+EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Name the country, African or regional...

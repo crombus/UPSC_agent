@@ -5,8 +5,8 @@ Topic: Election Commission
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 27
-Source record ID: polity-27:learner-v2:g4
-Source generation: 4
+Source record ID: polity-27:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

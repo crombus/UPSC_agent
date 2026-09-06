@@ -42,6 +42,7 @@ WHAT IT IS -> the nodal Union department for tracking and coordinating follow-up
 WHAT IT DOES -> circulates recommendations, holds institutional memory, coordinates ministries
 WHAT IT CANNOT DO -> compel a line ministry or a State government to implement anything
 CONSEQUENCE -> non-implementation is often an institutional fact, not an attitude
+CLOSE DISTINCTION: Commission recommendation is not law, acceptance in principle is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Diagnosis to outcome chain
 DIAGNOSIS -> the commission identifies a structural problem
@@ -68,17 +69,16 @@ OBJECTION -> a 2006 to 2009 diagnosis predates population-scale digital infrastr
 OBJECTION -> it also predates the current data-protection framework and later fiscal design
 REPLY -> the analytical categories have aged far better than the specific prescriptions
 DISCIPLINE -> say which of the two the answer is actually using
-CLOSE DISTINCTION: Commission recommendation is not law, acceptance in principle is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Political economy of adoption
 COMPREHENSIVE PROGRAMME -> analytically complete and politically indigestible
 INCREMENTAL REFORM -> implementable and incoherent across the system
 COMMISSION FATIGUE -> repeated commissions convert reform into a documented intention
 COST DISTRIBUTION -> concentrated resistance against diffuse benefit decides adoption
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Cite the relevant Second ARC report and...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a reform demand
 OPEN -> name the report by title and the governance problem it diagnoses
 BUILD -> route the theme to its destination owner and take the evidence from there
 CORRECT -> attach a status label, then give the federal or incentive reason for the gap
 CLOSE -> graded verdict on continuing relevance with the datedness reply stated
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Cite the relevant Second ARC report and...

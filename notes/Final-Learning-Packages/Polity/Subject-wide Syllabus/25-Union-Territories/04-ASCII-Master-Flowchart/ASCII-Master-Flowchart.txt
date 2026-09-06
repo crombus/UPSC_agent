@@ -9,6 +9,9 @@ Part C/D arrangements -> 7th Amendment and 1956 reorganisation -> modern UT cate
 CURRENT EIGHT
 A&N | Chandigarh | DNHDD | Delhi | J&K | Ladakh | Lakshadweep | Puducherry.
 WITH LEGISLATURE: Delhi, Puducherry, J&K | WITHOUT: the other five.
+MUST REMEMBER: Separate Articles 239, 239A, 239AA, 239AB, 239B, 240, 241 and 246(4), then
+  distinguish direct administration, statutory legislatures and Delhi's constitutionally
+  entrenched NCT model.
 
 ASCII MASTER FLOW — PANEL 2/12: Part VIII constitutional map
 ARTICLE MAP
@@ -67,6 +70,10 @@ NCCSA recommends transfers/postings; LG has statutory final say on disagreement.
 
 28 AUGUST 2026 CONTROL
 The Act remains operative; pending constitutional challenge is not invalidation.
+CLOSE DISTINCTION: Delhi excludes State List Entries 1, 2 and 18 plus related 64-66; J&K
+  excludes public order and police; Puducherry's statutory competence is over List II/III
+  matters insofar as applicable to Union Territories. Parliament retains overriding UT
+  competence.
 
 ASCII MASTER FLOW — PANEL 7/12: Puducherry statutory model
 ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT 1963
@@ -89,12 +96,12 @@ State/Concurrent competence except public order and police; land is not generall
 Budget, legislation and executive accountability operate under the Act and rules.
 
 CURRENT
-Elected Assembly and CoM function after 2024; Statehood not restored by 28 Aug 2026.
+Elected Assembly and CoM function after 2024; Statehood not restored by 5 Sep 2026.
 Ladakh has no legislature; safeguard demands are proposals, not enacted status.
 
 ASCII MASTER FLOW — PANEL 9/12: Delhi, Puducherry and J&K compared
 DELHI | constitutional Article 239AA | excludes public order, police, land.
-PUDUCHERRY | Article 239A + 1963 Act | broad statutory State/Concurrent field.
+PUDUCHERRY | Article 239A + 1963 Act | List II/III matters insofar as applicable to UTs.
 J&K | 2019 Act + Article 239A application | excludes public order and police.
 
 ALL THREE
@@ -147,3 +154,7 @@ GNCTD Act 2023 operative | challenge unresolved | proposal is not law.
 
 THESIS
 A UT legislature is real self-government, but not State-equivalent autonomy.
+LEGAL/SOURCE LIMIT: India has eight Union Territories and three legislatures: Delhi,
+  Puducherry and J&K. J&K has an elected government but remains a UT; Ladakh has no
+  legislature. Act 19 of 2023 remains operative while the Delhi services constitutional
+  challenge is unresolved.

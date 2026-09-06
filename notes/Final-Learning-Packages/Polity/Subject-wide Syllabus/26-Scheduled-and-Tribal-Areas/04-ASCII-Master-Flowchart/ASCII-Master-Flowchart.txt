@@ -19,6 +19,8 @@ Scheduled Tribe = Article 342 community status
 
 CORE IDEA differentiated institutions pursue substantive equality within one
 Constitution.
+MUST REMEMBER: Keep Article 244, Article 244A, the Fifth Schedule and the Sixth Schedule
+  separate before adding the statutory PESA and FRA layers.
 
 ASCII MASTER FLOW — PANEL 2/12: Fifth Schedule: declaration, Governor, TAC and regulation chain
 SCHEDULED AREA
@@ -120,6 +122,8 @@ not a detached nationwide mining ban.
 Orissa Mining Corporation (2013)
 Gram Sabhas determined specified FRA religious/community-right claims at Niyamgiri;
 not an unlimited veto over every project.
+CLOSE DISTINCTION: PESA section 4 uses distinct verbs: approval, consultation, mandatory prior
+  recommendation, ownership and control. None creates one universal veto.
 
 ASCII MASTER FLOW — PANEL 7/12: Scheduled Tribe safeguards beyond territorial autonomy
 RIGHTS AND REPRESENTATION
@@ -219,3 +223,5 @@ aid.
 EXTENSION TEST
 tribal geography + customary institutions + democratic demand + viable powers + federal
 fit; never treat Sixth Schedule as an automatic template.
+LEGAL/SOURCE LIMIT: The 4 August 2026 MHA parliamentary answer identifies ten Sixth-Schedule
+  ADCs in four States; Ladakh remains outside the Sixth Schedule.

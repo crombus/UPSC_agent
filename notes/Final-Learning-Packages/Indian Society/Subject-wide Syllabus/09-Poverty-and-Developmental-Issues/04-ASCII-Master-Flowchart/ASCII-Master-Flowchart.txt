@@ -37,6 +37,9 @@ WORK -> precarious informal employment and income loss
 HOUSING AND HEALTH -> density raises exposure and recovery cost
 SAVINGS -> thin buffers and non-portable social protection
 SERVICES -> unequal digital access blocks relief and schooling
+CLOSE DISTINCTION: Absolute is not relative poverty, poverty is not inequality, incidence is
+  not depth or severity, multidimensional indices are not interchangeable with consumption
+  lines, and programme coverage is not proof of adequacy, access or durable exit.
 
 ASCII MASTER FLOW — PANEL 7/12: Two development conflicts
 CONSERVATION RESTRICTION -> access curtailed, nobody physically moved
@@ -61,22 +64,19 @@ ROLES UNDIVIDED -> two actors attempt the same function
 DUPLICATION -> effort repeated and coverage still incomplete
 ACCOUNTABILITY -> responsibility diffused across three actors
 RESULT -> cooperation without a traceable outcome owner
-CLOSE DISTINCTION: Absolute is not relative poverty, poverty is not inequality, incidence is
-  not depth or severity, multidimensional indices are not interchangeable with consumption
-  lines, and programme coverage is not proof of adequacy, access or durable exit.
 
 ASCII MASTER FLOW — PANEL 11/12: Three boundary cases
 CULTURE-ONLY -> literacy campaign without income security
 STRUCTURAL -> land titling and credit access expand the opportunity set
 EXCLUSIONARY -> total ban with no alternative livelihood provided
 PARTICIPATORY -> co-management rights with an alternative income stream
-EVIDENCE LIMIT: Use Tendulkar/Rangarajan history, NITI Aayog's National MPI and official
-  survey dates/status carefully; map rural, urban, regional, caste, tribe and gender
-  variation, and distinguish correlation from mechanisms such as assets, labour markets,
-  discrimination, health shocks and state capacity.
 
 ASCII MASTER FLOW — PANEL 12/12: Poverty answer spine
 OPEN -> define deprivation and name the mechanism being tested
 BODY -> coverage, access and use, then the class or design channel
 TEST -> contrasting boundary cases and the standing trade-off
 CLOSE -> graded verdict with the dated-estimate caveat
+EVIDENCE LIMIT: Use Tendulkar/Rangarajan history, NITI Aayog's National MPI and official
+  survey dates/status carefully; map rural, urban, regional, caste, tribe and gender
+  variation, and distinguish correlation from mechanisms such as assets, labour markets,
+  discrimination, health shocks and state capacity.

@@ -35,6 +35,7 @@ REDRESS BENCHMARK -> 21 days
 APPEAL BENCHMARK -> 30 days
 SOURCE -> Comprehensive Guidelines for Handling Public Grievances, August 2024
 CHARACTER -> administrative and revisable, not a judicial limitation period
+CLOSE DISTINCTION: Citizen charter is a publicly stated service commitment, not...
 
 ASCII MASTER FLOW — PANEL 7/12: Five reasons the promise falls short
 DESIGN -> non-consultative drafting and standards chosen for administrative convenience
@@ -62,17 +63,16 @@ PUBLICISED -> displayed at the service point, in the local language, actually kn
 BREACH -> is it auto-detectable against the timeline, or must the citizen notice
 GRIEVANCE ROUTE -> department, then platform, then appeal, in the correct forum
 CONSEQUENCE -> penalty, compensation or nothing, feeding back into standard-setting
-CLOSE DISTINCTION: Citizen charter is a publicly stated service commitment, not...
 
 ASCII MASTER FLOW — PANEL 11/12: Last-mile stakeholders
 FRONTLINE OFFICIAL -> faces the penalty and controls intake when capability lags
 DESIGNATED OFFICER -> the addressee on whom the enforceability claim rests
 APPELLATE OFFICER -> the difference between a complaint and a remedy
 CITIZEN -> travel, documents, wage loss and an intermediary fee no statistic records
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Sevottam, time-bound service laws, Common...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a charter demand
 OPEN -> name the design-stage cause before any implementation cause
 BUILD -> three pillars, then the five-element test applied to one service
 CORRECT -> map each measure to the limitation it repairs, and keep capability in the pair
 CLOSE -> graded verdict, State-variation caveat and stated question ownership
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Sevottam, time-bound service laws, Common...

@@ -9,6 +9,10 @@ PERSON WITHIN INDIA
 CITIZENSHIP = membership | DOMICILE = permanent legal home | RESIDENCE = factual link
 SINGLE CITIZENSHIP does not erase constitutionally authorised regional protection.
 CASE CONTROL: Pradeep Jain (1984) explains one Indian domicile, not State citizenship.
+MUST REMEMBER: Separate the commencement settlement in Articles 5-11 from the continuing
+  statutory regime under the Citizenship Act, 1955, and state each migration, birth, descent,
+  registration, naturalisation, loss, Section 6A, OCI and Section 6B rule with its exact
+  trigger and date.
 
 ASCII MASTER FLOW — PANEL 2/12: Articles 5-7: commencement citizenship decision tree
 AT COMMENCEMENT: 26 JANUARY 1950
@@ -62,6 +66,10 @@ DEPRIVATION -> eligible category + listed ground + public-good finding + procedu
 OCI IS NOT CITIZENSHIP
 Section 7D requires a hearing. The 11 Aug 2025 Section 7D(da) notification adds:
   sentence of at least two years OR charge-sheet for an offence punishable by seven years.
+CLOSE DISTINCTION: Article 9 is confined to citizenship by virtue of Articles 5, 6 or 8; the
+  present no-dual-citizenship position also depends on Section 9. OCI is a statutory card,
+  while the CAA and the 2025 immigration exemption use different cut-offs and produce
+  different legal consequences.
 
 ASCII MASTER FLOW — PANEL 7/12: Assam Section 6A: three streams and the controlling judgment
 ASSAM-SPECIFIC SECTION 6A
@@ -133,3 +141,6 @@ BALANCE
   humanitarian facilitation without arbitrary classification
 
 FINAL LINE: membership is legitimate only when classification, proof and procedure remain lawful.
+LEGAL/SOURCE LIMIT: Current procedure must follow the 2024 Rules and the 19 August 2026
+  Collector-route notifications. Section 6A remains valid under the 17 October 2024 majority;
+  no unlocated final CAA judgment may be invented.

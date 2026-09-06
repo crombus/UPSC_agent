@@ -14,6 +14,8 @@ Symbols Order 1968: recognition and symbol disputes.
 
 TENSION
 public democratic power <-> Article 19(1)(c) associational autonomy.
+MUST REMEMBER: Separate Section 29A registration, Symbols Order recognition, Tenth Schedule
+  discipline, finance disclosure and candidate regulation.
 
 ASCII MASTER FLOW — PANEL 2/12: Section 29A registration and ECI's bounded cancellation power
 SECTION 29A
@@ -98,6 +100,13 @@ voter Article 19(1)(a) right to information protected; SBI-ECI disclosure ordere
 
 LIMIT
 The verdict removed one opacity mechanism; it did not enact a complete finance code.
+
+CURRENT LAW: 5 SEPTEMBER 2026
+ADR, 2024 INSC 113, remains the controlling electoral-bonds judgment.
+It invalidated the scheme and enabling amendments; it did not enact
+a complete replacement campaign-finance code.
+CLOSE DISTINCTION: Do not convert the ECI's bounded registration/symbol powers into a general
+  power to control internal democracy or deregister parties on the merits.
 
 ASCII MASTER FLOW — PANEL 7/12: Whips, anti-defection and party-symbol identity
 PARTY ORGANISATION
@@ -207,3 +216,5 @@ verified internal elections | candidate criteria | donation transparency
 
 VERDICT
 regulate the party's public consequences while preserving its legitimate associational core.
+LEGAL/SOURCE LIMIT: The 2024 electoral-bonds judgment remains controlling; recognition lists,
+  party counts, officeholders and election-specific symbol concessions are not frozen.

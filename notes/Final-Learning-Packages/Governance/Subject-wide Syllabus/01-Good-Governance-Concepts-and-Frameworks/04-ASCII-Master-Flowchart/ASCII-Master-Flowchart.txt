@@ -34,6 +34,7 @@ WORLD BANK -> Worldwide Governance Indicators, six dimensions, cross-country
 WORLD JUSTICE PROJECT -> Rule of Law Index, published annually, distinct family
 DEPARTMENT OF ADMINISTRATIVE REFORMS -> Good Governance Index and Good Governance Day
 MINISTRY OF PANCHAYATI RAJ -> Devolution Index, panchayat scope only
+CLOSE DISTINCTION: Government is the formal authority structure, governance is the wider...
 
 ASCII MASTER FLOW — PANEL 7/12: Four objects at four scales
 CROSS-COUNTRY -> Worldwide Governance Indicators benchmark over time
@@ -58,17 +59,16 @@ LEGAL FORM -> Act, rule, guideline or executive policy, and who is bound
 INSTITUTION AND PROCEDURE -> identified duty-holder, timeline, officer, appeal, penalty
 CAPACITY AND CITIZEN SIDE -> staff, records, budget; awareness, distance, cost, language
 REMEDY AND FEEDBACK -> is failure correctable, and is it counted and used for redesign
-CLOSE DISTINCTION: Government is the formal authority structure, governance is the wider...
 
 ASCII MASTER FLOW — PANEL 11/12: Five index tests
 INDICATOR VALIDITY -> does it measure the governed outcome or an easily counted input
 COMPARABILITY -> is the data self-reported by the entity being ranked
 OUTPUT AGAINST OUTCOME -> how much of the score is coverage rather than realised change
 ADJUSTMENT AND CONSEQUENCE -> like-for-like federal comparison; does a poor score trigger correction
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use constitutional values, citizen charters,...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine and answered objections
 OPEN -> separate the institution set, the decision process and the normative standard
 BUILD -> norm to named instrument to mechanism to stated limitation, three to six units
 TEST -> five index tests; answer vagueness, measurement, conditionality and capacity objections
 CLOSE -> graded verdict with the edition-dated evidence and the condition that would reverse it
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use constitutional values, citizen charters,...

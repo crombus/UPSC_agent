@@ -5,8 +5,8 @@ Topic: Foreign-Policy Foundations and Strategic Autonomy
 Subject: International Relations
 Section: Subject-wide Syllabus
 Catalogue number: 01
-Source record ID: international-relations-01:learner-v2:g5
-Source generation: 5
+Source record ID: international-relations-01:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

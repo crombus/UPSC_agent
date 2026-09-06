@@ -37,6 +37,7 @@ QUALIFYING -> a separate stage with its own draw size and its own entry route
 WILD CARD -> discretionary entry outside ordinary ranking acceptance
 PROTECTED OR SPECIAL ENTRY -> a defined exception route under the rule book
 RULE -> eligibility is a condition; acceptance into a draw is an outcome
+CLOSE DISTINCTION: The Ministry of Youth Affairs and Sports is an executive ministry,...
 
 ASCII MASTER FLOW — PANEL 7/12: Wild-card proposition test
 WHAT IT IS -> discretionary entry bypassing ordinary ranking acceptance
@@ -64,7 +65,6 @@ NATIONAL ANTI-DOPING ORGANISATION -> statutory under the 2022 Act; a real 2022 c
 BOARD AND TRIBUNAL -> statutory creations under the 2025 Act; powers not all commenced
 NATIONAL FEDERATIONS -> private associations that require recognition to represent
 ARBITRAL FORUM -> an international arbitral institution at Lausanne, established 1984
-CLOSE DISTINCTION: The Ministry of Youth Affairs and Sports is an executive ministry,...
 
 ASCII MASTER FLOW — PANEL 11/12: Six-test checklist for a sports body
 1 BASIS OF AUTHORITY -> statute, recognition, contract or a private rule book
@@ -73,10 +73,10 @@ ASCII MASTER FLOW — PANEL 11/12: Six-test checklist for a sports body
 4 SELECTION -> criteria published before the cycle and reasons given for exclusion
 5 DISPUTE -> independent forum with notice, hearing, reasons and appeal
 6 ATHLETE PROTECTION -> safeguarding independent of coach, and no retaliation
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Qualify the National Sports Development Code,...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a sports-governance demand
 OPEN -> name the layer and the legal character of the body actually in dispute
 BUILD -> autonomy as protection for sporting judgement, bounded by law and rights
 CORRECT -> apply the status ladder and never treat enactment as operation
 CLOSE -> graded verdict on basis of authority against practice, with no result cited
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Qualify the National Sports Development Code,...

@@ -8,6 +8,10 @@ INDIAN FORMATION
   +-- Article 1: Union of States; holding-together, Union-weighted design
   +-- Article 3: presidential recommendation + State views, not State consent
   +-- Article 4: reorganisation law is not an Article 368 amendment
+MUST REMEMBER: Test federalism through dual government, constitutional distribution,
+  supremacy, rigidity, independent courts and bicameral representation, then map the Union
+  tilt through Articles 3, 248-253, 256-257, 312, 352-356 and integrated constitutional
+  institutions.
 
 ASCII MASTER FLOW — PANEL 2/12: Federal features and Union bias
 FEDERAL FEATURES
@@ -60,6 +64,9 @@ FISCAL CONSTITUTION
 16TH FINANCE COMMISSION
   +-- report submitted 17 Nov 2025 | award 2026-31
   +-- States: 41% vertical share; exact horizontal weights need official report
+CLOSE DISTINCTION: Article 1's 'Union of States' rejects a secession compact but does not make
+  India unitary. Federalism is basic structure; the Union may be stronger and States
+  territorially alterable while each level retains constitutionally assigned fields.
 
 ASCII MASTER FLOW — PANEL 7/12: Basic Structure and emergency control
 CASE CHAIN
@@ -83,6 +90,8 @@ MODES COEXIST
 CHANNELS: Rajya Sabha + ISC + Zonal Councils + GST Council + FC + courts
 HEALTH TEST: conflict becomes reasons, negotiation and adjudication.
   +-- Mohit Minerals (2022): GST Council advice is non-binding
+2024 West Bengal ruling (2024 INSC 502): Article 131 suit survived
+preliminary objections; CBI-consent merits were not decided.
 
 ASCII MASTER FLOW — PANEL 9/12: Asymmetric federalism
 ASYMMETRY = DIFFERENTIATED CONSTITUTIONAL ACCOMMODATION
@@ -124,3 +133,7 @@ MASTER SPINE
   -> limitation -> reform -> conclusion
 
 VERDICT: Union capacity earns federal legitimacy through consultation and restraint.
+LEGAL/SOURCE LIMIT: Current federal claims must distinguish enacted law, advisory judgments
+  and failed proposals: the 2025 Article 143 opinion controls assent, the 16th Finance
+  Commission retains 41 percent vertical devolution, and the defeated 131st Amendment Bill,
+  2026 never amended the Constitution.

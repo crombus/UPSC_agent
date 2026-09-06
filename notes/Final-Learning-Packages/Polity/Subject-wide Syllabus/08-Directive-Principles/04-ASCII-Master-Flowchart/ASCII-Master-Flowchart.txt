@@ -1,4 +1,4 @@
-ASCII MASTER FLOW — PANEL 1/11: Part IV's constitutional operating logic
+ASCII MASTER FLOW — PANEL 1/12: Part IV's constitutional operating logic
 PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51
   |
   +-- ARTICLE 36: "STATE" carries the Part III / Article 12 meaning
@@ -14,8 +14,11 @@ PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51
 
 CORE DISTINCTION
 non-justiciable != optional; constitutional duty != an automatic individual remedy.
+MUST REMEMBER: Article 37 makes Articles 36-51 non-justiciable but fundamental in governance;
+  teach every directive, its amendment history and implementation mechanism before applying
+  the non-textual socialistic/Gandhian/liberal taxonomy.
 
-ASCII MASTER FLOW — PANEL 2/11: Articles 38-43B: welfare, work and democratic economy
+ASCII MASTER FLOW — PANEL 2/12: Articles 38-43B: welfare, work and democratic economy
 SOCIAL ORDER AND DISTRIBUTION
   +-- 38(1): welfare through social, economic and political justice
   +-- 38(2): minimise inequalities in income, status, facilities and opportunities
@@ -34,7 +37,7 @@ WORK, SECURITY AND ASSOCIATION
   +-- 43A: workers participate in management
   +-- 43B: voluntary, autonomous, democratic and professional co-operatives
 
-ASCII MASTER FLOW — PANEL 3/11: Articles 44-51: reform, capability and constitutional civilisation
+ASCII MASTER FLOW — PANEL 3/12: Articles 44-51: reform, capability and constitutional civilisation
 REFORM / CAPABILITY                 ECOLOGY / INSTITUTIONS / PEACE
 44  Uniform Civil Code              48A environment, forests and wildlife
 45  care and education below six    49 nationally important monuments and objects
@@ -50,7 +53,7 @@ Article 41 contains an economic-capacity limit; Article 46 is not confined to SC
 Article 49 requires declaration by or under Parliamentary law.
 Article 51 does not make every treaty self-executing in domestic law.
 
-ASCII MASTER FLOW — PANEL 4/11: Classification and amendment overlays
+ASCII MASTER FLOW — PANEL 4/12: Classification and amendment overlays
 ANALYTICAL CLASSIFICATION: THE CONSTITUTION DOES NOT CREATE THESE LABELS
   +-- SOCIALISTIC: 38, 39, 39A, 41, 42, 43, 43A, 47
   +-- GANDHIAN: 40, 43, 43B, 46, 47, 48
@@ -66,7 +69,7 @@ AMENDMENT OVERLAY
 EXAM RULE
 Begin with the Article's exact text; use categories only as an explanatory aid.
 
-ASCII MASTER FLOW — PANEL 5/11: FR-DPSP evolution and the surviving Article 31C
+ASCII MASTER FLOW — PANEL 5/12: FR-DPSP evolution and the surviving Article 31C
 CHAMPAKAM DORAIRAJAN (1951) -> enforceable Fundamental Rights prevail over conflicting directives
   |
 1st / 4th / 17th AMENDMENTS -> protective constitutional responses
@@ -85,7 +88,7 @@ PROPERTY OWNERS ASSOCIATION (2024) -> surviving shield remains for genuine 39(b)
 
 CURRENT SCOPE: shield against Articles 14 and 19; nexus and basic structure remain reviewable.
 
-ASCII MASTER FLOW — PANEL 6/11: Implementation chain: directive to law, institution and outcome
+ASCII MASTER FLOW — PANEL 6/12: Implementation chain: directive to law, institution and outcome
 DPSP TEXT
   -> legislature selects instrument and competence
   -> appropriation funds the programme
@@ -103,8 +106,11 @@ Ordinary Lok Adalat -> settlement only; no merits decision if compromise fails.
 Permanent Lok Adalat -> public utility dispute; conciliation, then bounded merits power.
 
 LIMIT: an implementation law illustrates a directive; it does not exhaust its meaning.
+CLOSE DISTINCTION: The present FR-DPSP position is harmony, not blanket primacy. Original
+  Article 31C survives only for genuine Article 39(b)/(c) laws against Articles 14 and 19,
+  with nexus and basic-structure review preserved.
 
-ASCII MASTER FLOW — PANEL 7/11: Article 44: equality, pluralism and federal legislative design
+ASCII MASTER FLOW — PANEL 7/12: Article 44: equality, pluralism and federal legislative design
 ARTICLE 44: STATE ENDEAVOUR TO SECURE A UNIFORM CIVIL CODE FOR CITIZENS
   |
   +-- LEGISLATIVE BASE: Concurrent List Entry 5
@@ -122,7 +128,7 @@ Uttarakhand: 2024 Act commenced 27 Jan 2025.
 January 2026 Ordinance -> Amendment Act published 7 Apr 2026.
 Article 44 is non-justiciable; judicial observations do not command one model.
 
-ASCII MASTER FLOW — PANEL 8/11: Criticism, institutional limits and constitutional relevance
+ASCII MASTER FLOW — PANEL 8/12: Criticism, institutional limits and constitutional relevance
 CRITIQUE                              CONSTITUTIONAL RESPONSE
 no direct judicial remedy             Article 37 creates duty and political sanction
 broad, unevenly arranged aspirations  breadth permits democratic sequencing and adaptation
@@ -139,7 +145,7 @@ WHY PART IV STILL MATTERS
 
 BALANCED VERDICT: direction is binding in purpose, flexible in implementation.
 
-ASCII MASTER FLOW — PANEL 9/11: Prelims traps, PYQ routes and the Mains answer spine
+ASCII MASTER FLOW — PANEL 9/12: Prelims traps, PYQ routes and the Mains answer spine
 PRELIMS CONTROL BOARD
 36 -> Part III meaning of State        37 -> no direct enforcement, but duty remains
 39(b) resources / common good          39(c) harmful concentration
@@ -159,7 +165,7 @@ MAINS SPINE
 4 qualify with rights, federal competence, finance and institutional limits
 5 conclude: distributive ends through rights-disciplined means.
 
-ASCII MASTER FLOW — PANEL 10/11: Current-law and evidence control
+ASCII MASTER FLOW — PANEL 10/12: Current-law and evidence control
 VOLATILE CLAIM
   -> check official Constitution / judgment / Gazette
   -> record date + instrument + exact legal effect
@@ -175,7 +181,7 @@ DO NOT OVERSTATE
 No court command for a UCC; not every private asset is a 39(b) resource;
 volatile office holders are not durable doctrine.
 
-ASCII MASTER FLOW — PANEL 11/11: Executable 10, 15 and 20-mark answer routes
+ASCII MASTER FLOW — PANEL 11/12: Executable 10, 15 and 20-mark answer routes
 10 MARKS / 150 WORDS
 exact Article -> three mechanisms -> one limit -> direct verdict
 
@@ -189,3 +195,13 @@ thesis -> analytical dimensions -> institutional/fiscal/rights counter-case
 SCALING RULE
 Increase dimensions and evidence with marks; do not merely lengthen generic prose.
 Every answer closes: exact text + mechanism + evidence + limitation + verdict.
+
+ASCII MASTER FLOW — PANEL 12/12: Current implementation control: legal aid, labour and UCC
+ARTICLE 39A -> Legal Services Authorities Act 1987 -> NALSA / SLSA / DLSA / TALUK
+SUHAS CHAKMA, 23 OCT 2024 -> structured prison legal-aid monitoring
+FOUR LABOUR CODES -> operative from 21 NOV 2025; implementation capacity still varies
+UTTARAKHAND UCC -> 2024 Act commenced 27 JAN 2025 -> Amendment Act 7 APR 2026
+RULE: implementation evidence does not turn Article 37 into direct enforceability.
+LEGAL/SOURCE LIMIT: Current examples must be legally current: Property Owners Association
+  (2024) controls Article 31C, Rajendra N Shah limits Part IX-B but not Article 43B, and
+  Uttarakhand's April 2026 Amendment Act supersedes the January Ordinance.

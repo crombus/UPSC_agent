@@ -5,8 +5,8 @@ Topic: Panchayati Raj
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 23
-Source record ID: polity-23:learner-v2:g6
-Source generation: 6
+Source record ID: polity-23:learner-v2:g7
+Source generation: 7
 Approval: Approval pending
 
 Deliverables

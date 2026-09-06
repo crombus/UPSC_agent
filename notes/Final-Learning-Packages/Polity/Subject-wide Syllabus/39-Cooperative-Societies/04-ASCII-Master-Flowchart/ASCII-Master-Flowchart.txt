@@ -17,6 +17,9 @@ Entry 32: State cooperatives | Entry 44: multi-State corporations | Entry 45: ba
 
 LIMIT
 international principles guide interpretation; applicable Indian law controls outcomes.
+MUST REMEMBER: Preserve the post-Union of India v. Rajendra N. Shah (2021) split: State-field
+  cooperatives remain under Entry 32 and State law; Part IXB survives for the multi-State
+  field.
 
 ASCII MASTER FLOW — PANEL 2/12: Federal competence and the 97th Amendment
 ENTRY 32, STATE LIST
@@ -72,6 +75,8 @@ Entry 44 | MSCS Act 2002 | Central Registrar | surviving Part IXB field.
 
 TRAP
 operating in several districts is not the same as statutory multi-State status.
+CLOSE DISTINCTION: Do not merge the Ministry, CRCS, Election Authority, Ombudsman, RBI,
+  NABARD, representative federations or operating cooperative societies.
 
 ASCII MASTER FLOW — PANEL 7/12: MSCS Amendment 2023 institutions
 CO-OPERATIVE ELECTION AUTHORITY
@@ -96,6 +101,11 @@ registration, regulation and winding-up functions under the MSCS Act.
 CRCS INSTITUTIONS
 Election Authority and Ombudsman publish current official processes.
 Use dated official data; do not freeze dashboard counts.
+
+CURRENT POLICY CONTROL: 5 SEPTEMBER 2026
+National Cooperation Policy 2025 was launched on 24 July 2025.
+Its governance, professionalisation, digital, market, finance and
+inclusion programme is policy; Entry 32 and State-law variation remain.
 
 ASCII MASTER FLOW — PANEL 9/12: Cooperative banking regulation
 INSTITUTIONS
@@ -166,3 +176,5 @@ identity/principles -> federal competence -> 97th Amendment
 
 CONCLUSION
 valid reform is cooperative in both enterprise form and federal method.
+LEGAL/SOURCE LIMIT: The MSCS Amendment Act and Rules, 2023 remain operative; National
+  Cooperation Policy 2025 is policy, not a transfer of legislative competence.

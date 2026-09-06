@@ -5,8 +5,8 @@ Topic: Rights and Liabilities of the Government
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 51
-Source record ID: polity-51:learner-v2:g3
-Source generation: 3
+Source record ID: polity-51:learner-v2:g4
+Source generation: 4
 Approval: Approval pending
 
 Deliverables

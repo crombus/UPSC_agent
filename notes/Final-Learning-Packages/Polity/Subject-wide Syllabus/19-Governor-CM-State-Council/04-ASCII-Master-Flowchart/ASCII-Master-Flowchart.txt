@@ -9,6 +9,9 @@ ARTICLE MAP
 
 CORE RULE
 Union appointment creates a federal link, not authority to govern as a Central party agent.
+MUST REMEMBER: Teach Articles 153-167 office by office, then separate aid and advice, express
+  or necessarily implied discretion, government formation, floor tests, Article 356 reporting,
+  assent, ordinance and clemency.
 
 ASCII MASTER FLOW — PANEL 2/12: Appointment, conditions, immunity and pleasure tenure
 ENTRY: President appoints by warrant -> citizen + 35 -> Article 159 oath
@@ -67,6 +70,9 @@ CARETAKER -> continuity with restraint, not a fresh policy mandate.
 
 Subhash Desai (2023): factional dissent alone insufficient.
 Rameshwar Prasad (2006): anticipated misconduct cannot replace House process.
+CLOSE DISTINCTION: Apply Shamsher Singh (1974), S.R. Bommai (1994), Rameshwar Prasad (2006),
+  B.P. Singhal, Nabam Rebia (2016) and Subhash Desai (2023) only for their stated
+  propositions. Article 200 discretion does not create general gubernatorial discretion.
 
 ASCII MASTER FLOW — PANEL 7/12: Article 356 report and the federal firewall
 GOVERNOR'S REASONED REPORT OR OTHER MATERIAL
@@ -105,8 +111,8 @@ D.C. Wadhwa (1986): serial re-promulgation is fraud on Constitution.
 Krishna Kumar Singh (2017): laying mandatory; satisfaction reviewable; no routine survival.
 
 ARTICLE 161 V ARTICLE 72
-Governor: State-field offences; no court-martial limb; cannot pardon death sentence
-but may suspend, remit or commute it. President has wider text.
+Governor: State-field offences; may pardon death within that field; no court-martial limb.
+President: court-martial, Union-field offences and every death sentence.
 Both ordinarily act on advice and remain reviewable for recognised defects.
 
 ASCII MASTER FLOW — PANEL 10/12: Chief Minister, Article 167 and State Council
@@ -151,3 +157,8 @@ Money Bill return? NO | Chancellor constitutional? NO | Article 361 = State immu
 MAINS SPINE
 text -> advice default -> exceptional trigger -> case + year -> federal risk
 -> matched reform -> neutral constitutional-head conclusion.
+LEGAL/SOURCE LIMIT: The 20 November 2025 Article 143 opinion gives three Article 200 options,
+  rejects rigid timelines and deemed assent, and permits only limited mandamus against
+  prolonged unexplained indefinite inaction. Article 161 can include pardon of a death
+  sentence where the offence-law nexus lies within State executive power; court-martial
+  remains outside it.

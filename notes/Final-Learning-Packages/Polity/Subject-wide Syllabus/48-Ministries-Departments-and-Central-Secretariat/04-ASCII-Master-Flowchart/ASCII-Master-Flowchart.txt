@@ -10,6 +10,8 @@ How does parliamentary executive authority become organised governmental action?
                               |
                               v
 Ministerial direction -> Secretariat advice/process -> agency delivery -> accountability.
+MUST REMEMBER: Separate Articles 73-78, Allocation of Business jurisdiction, Transaction of
+  Business procedure and each body's own statutory source.
 
 ASCII MASTER FLOW — PANEL 2/12: AoB and ToB: jurisdiction before procedure
                     ARTICLE 77(3)
@@ -88,6 +90,8 @@ receipt -> examination/noting -> consultation -> competent approval
 
 RULE
 lowest competent delegated level; authority and reasons remain traceable.
+CLOSE DISTINCTION: Keep the Central Secretariat, Cabinet Secretariat, PMO, ministries,
+  departments, attached offices and delivery bodies institutionally distinct.
 
 ASCII MASTER FLOW — PANEL 7/12: Cabinet Secretariat, PMO and coordination
 CABINET SECRETARIAT
@@ -153,6 +157,11 @@ Article 77(3) rule change -> cadres/budgets/records/contracts/statutory referenc
 TRAP
 renamed organogram != improved outcome; ministry/committee counts must be dated.
 
+CURRENT SNAPSHOT: 5 SEPTEMBER 2026
+The 27 April 2026 Cabinet Secretariat directory identifies T. V.
+Somanathan as Cabinet Secretary. Ministry/department counts and
+portfolio labels remain notification-sensitive and are not frozen.
+
 ASCII MASTER FLOW — PANEL 11/12: Verified PYQs and answer execution
 2025 PRELIMS Q57: organisation-ministry pairs -> NONE.
 2020 GS-II Q7: institutional quality -> civil-service + departmental reform.
@@ -178,3 +187,5 @@ PYQ SPINE
 
 VERDICT
 effective machinery aligns functions, funds, functionaries, expertise and answerability.
+LEGAL/SOURCE LIMIT: The 27 April 2026 Cabinet Secretariat directory identifies T. V.
+  Somanathan as Cabinet Secretary; ministry and department counts are not frozen.

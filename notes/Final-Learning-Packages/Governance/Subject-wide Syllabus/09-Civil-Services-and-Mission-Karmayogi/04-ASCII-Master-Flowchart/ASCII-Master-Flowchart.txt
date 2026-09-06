@@ -37,6 +37,7 @@ COORDINATION -> Cabinet Secretariat Coordination Unit
 STANDARDS AND PLANS -> Capacity Building Commission, Annual Capacity Building Plans
 PLATFORM OPERATION -> Karmayogi Bharat, the government-owned special purpose vehicle
 TRAP -> the Commission sets standards; it does not operate the platform
+CLOSE DISTINCTION: Political neutrality is not constitutional value-neutrality, anonymity...
 
 ASCII MASTER FLOW — PANEL 7/12: Dated capacity anchors
 CABINET APPROVAL -> 2 September 2020, Ministry of Personnel, Public Grievances and Pensions
@@ -62,17 +63,16 @@ UNCONSTRAINED POSTING AND TRANSFER DISCRETION
 -> permanence protects the office, not the post: displacement is easier than dismissal
 -> anonymity turns asymmetric: public blame in controversy, invisibility in achievement
 -> perceived partiality erodes the legitimacy of unelected discretionary power
-CLOSE DISTINCTION: Political neutrality is not constitutional value-neutrality, anonymity...
 
 ASCII MASTER FLOW — PANEL 11/12: Reform conflict ladder
 FIXED MINIMUM TENURE -> repairs arbitrary transfer; can entrench a poor performer
 PERFORMANCE ACCOUNTABILITY -> repairs non-performance; can become a political lever
 LATERAL ENTRY -> repairs domain deficit; raises representation and memory questions
 CONTRACTUAL MISSION-MODE STAFFING -> buys speed; weakens tenure and neutrality guarantees
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the National Programme for Civil Services...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a civil-services demand
 OPEN -> name the function being tested rather than listing duties of the service
 BUILD -> the three-trait package, then the legitimacy layer the stem actually engages
 CORRECT -> pair every reform with the risk it buys and the protection that reconciles it
 CLOSE -> graded verdict, outcome indicators instead of dashboard totals, stated ownership
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the National Programme for Civil Services...
