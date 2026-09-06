@@ -1,0 +1,131 @@
+ASCII MASTER FLOW — PANEL 1/12: Four-dimensional constitutional map
+CENTRE-STATE AND INTER-STATE RELATIONS
+  +-- LEGISLATIVE: Articles 245-255 and Seventh Schedule
+  +-- ADMINISTRATIVE: Articles 256-263
+  +-- FINANCIAL: Articles 265-293 plus 246A / 269A / 279A
+  +-- INTER-STATE / MARKET: Articles 261-263 and 301-307
+
+METHOD: identify field -> constitutional route -> check -> remedy.
+MUST REMEMBER: Keep four owned dimensions separate: legislative relations under Articles
+  245-255, administrative relations under Articles 256-263 and 355/365, financial relations
+  under Articles 268-293, and inter-State coordination under Articles 261-263 and 301-307.
+
+ASCII MASTER FLOW — PANEL 2/12: Legislative competence and State-field entry
+COMPETENCE FIRST
+Article 245 reach -> Article 246 lists -> Article 248 residue
+  +-- Union 100 | State 61 | Concurrent 52
+  +-- Article 246A: special GST competence
+
+PARLIAMENT IN STATE FIELD
+249 Rajya Sabha | 250 Emergency | 252 State request | 253 treaty | 356 breakdown
+Each route has a separate trigger, duration and amendment consequence.
+
+ASCII MASTER FLOW — PANEL 3/12: Doctrines, repugnancy and State Bills
+TRUE NATURE -> ENTRY -> RECONCILIATION -> CONFLICT
+pith and substance -> harmonious construction -> Article 254 repugnancy
+*M. Karunanidhi* (1979): real, direct and irreconcilable Concurrent-field conflict
+
+STATE BILL CONTROLS
+prior presidential sanction != Governor reservation under Article 200
+Article 201 presidential consideration; no automatic assent after State reconsideration.
+
+ASCII MASTER FLOW — PANEL 4/12: Administrative cooperation and central agencies
+ARTICLES 256-257
+State compliance + no impediment -> bounded Union directions
+ARTICLES 258 / 258A -> reciprocal entrustment
+ARTICLE 312 -> Rajya Sabha route for IAS / IPS / Indian Forest Service
+
+CBI / DSPE ACT
+State consent for ordinary operation; Articles 32/226 court orders remain possible
+2024 West Bengal ruling: Article 131 suit maintainable at preliminary stage, merits open.
+
+ASCII MASTER FLOW — PANEL 5/12: Articles 355-365 and judicial limits
+DUTY -> REMEDY -> TEMPORARY CONSEQUENCE
+Article 355 Union duty
+Article 356 exceptional proclamation + Parliament + review
+Article 357 temporary exercise of State legislative power
+Article 360 separate financial-emergency route
+Article 365 non-compliance may supply material, never automatic rule
+
+*State of Rajasthan* (1977) -> review not wholly excluded
+*S.R. Bommai* (1994) -> federalism, review and floor-test discipline.
+
+ASCII MASTER FLOW — PANEL 6/12: Fiscal architecture from tax to borrowing
+ARTICLE 265: authority of law
+268 / 269 / 269A -> assigned and apportioned revenue
+270 -> divisible pool | 271 -> Union surcharge outside sharing
+275 -> constitutional grants | 282 -> any-public-purpose grants
+280 -> Finance Commission | 292 / 293 -> borrowing
+285 / 289 -> reciprocal property and income tax immunities with exceptions.
+CLOSE DISTINCTION: Article 254 repugnancy is principally a Concurrent-List conflict rule; pith
+  and substance tests competence, Article 262 permits statutory exclusion for defined river
+  disputes, and Article 263 creates an enabling power rather than a self-executing
+  adjudicatory council.
+
+ASCII MASTER FLOW — PANEL 7/12: Fiscal evolution, Sixteenth Finance Commission and GST
+PLAN ERA -> FC / GST / NITI ERA
+Planning Commission discretion -> NITI has no devolution power
+Sixteenth Finance Commission 2026-31 -> 41% vertical share
+horizontal weights include income distance, demography, ecology and GDP contribution
+
+GST: Articles 246A + 269A + 279A
+Union one-third votes | States two-thirds | three-fourths decision threshold
+*Mohit Minerals* (2022): Council recommendations are recommendatory, not binding.
+
+ASCII MASTER FLOW — PANEL 8/12: River-water dispute route and jurisdiction
+ARTICLE 262 + 1956 ACT
+negotiation -> dispute-specific tribunal -> publication -> implementation
+Parliament may exclude court jurisdiction over the defined water dispute
+Article 131 does not displace the special Article 262 statutory bar
+
+CURRENT CONTROL
+2019 Amendment Bill lapsed with the Seventeenth Lok Sabha
+A revised permanent-tribunal proposal is not enacted law
+Cauvery implementation uses the 2018 Scheme and management institutions.
+
+ASCII MASTER FLOW — PANEL 9/12: Intergovernmental forums and current operation
+ARTICLE 263 INTER-STATE COUNCIL
+President establishes when public interest requires; inquiry, discussion, recommendation
+1990 presidential order | PM chair | advisory
+
+ZONAL COUNCILS
+Five statutory councils under States Reorganisation Act 1956 | Home Minister chair
+NEC is separate under 1971 Act, not a sixth Zonal Council
+2026 official activity: Central, Northern, Eastern and Southern zonal mechanisms.
+
+ASCII MASTER FLOW — PANEL 10/12: Common market, recognition and layered regulation
+ARTICLE 261 -> recognition of public acts, records and proceedings; civil execution
+ARTICLES 301-304 -> free trade with bounded regulation and non-discrimination
+*Jindal Stainless* (2016): no tax-free promise; Article 304(a) targets discrimination
+
+MINOR MINERALS
+MMDR Section 3(e) Centre notifies category
+Section 15 States make concession rules -> layered power, not State exclusion.
+
+ASCII MASTER FLOW — PANEL 11/12: Commissions, eleven PYQs and Prelims firewalls
+REFORM EVIDENCE
+Rajamannar -> State autonomy | Sarkaria -> cooperative safeguards | Punchhi -> modern machinery
+
+ELEVEN PYQ ROUTES
+2019 doctrines | 2020 centralisation | 2021 CBI | 2022 parties/autonomy
+2023 Article 356 + GST | 2024 relations reform + list trap
+2025 fiscal federalism + constitutional-body + minor-mineral traps
+
+FIREWALLS: Article 365 is not automatic; GST is not a Concurrent-list tax entry;
+Zonal Councils are statutory; the 2019 water Bill is not law.
+
+ASCII MASTER FLOW — PANEL 12/12: Marks-scaled answer spine and qualified verdict
+10 MARKS: definition -> 2-3 anchors -> qualification -> verdict
+15 MARKS: thesis -> dimensions -> evidence/case -> counterpoint -> reform
+20 MARKS: legislative + administrative + fiscal + inter-State -> diagnosis -> reform
+
+EVIDENCE CHAIN
+claim -> Article/institution -> operation -> State/Union counterpoint -> commission remedy
+
+VERDICT
+Strong Union power is constitutionally bounded; durable relations require consultation
+before compulsion, predictable finance, shared data and reviewable discretion.
+LEGAL/SOURCE LIMIT: Special Reference No. 1 of 2025 rejects rigid judicial timelines and
+  deemed assent, recognises Article 200 discretion, and permits only a limited mandamus
+  against prolonged, unexplained and indefinite inaction. Do not continue the displaced April
+  2025 timeline rule.

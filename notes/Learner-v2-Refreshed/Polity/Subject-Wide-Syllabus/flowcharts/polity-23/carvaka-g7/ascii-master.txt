@@ -1,0 +1,217 @@
+ASCII MASTER FLOW — PANEL 1/12: From democratic decentralisation to constitutional local government
+ROOT QUESTION
+How did village administration become constitutionally protected self-government?
+
+ARTICLE 40 -> organise village Panchayats and endow self-government powers.
+1957 Balwant Rai Mehta -> three tiers and democratic decentralisation.
+1977-78 Ashok Mehta -> district-centred two-tier alternative.
+1985 G.V.K. Rao -> district development administration.
+1986 L.M. Singhvi -> constitutional status + Gram Sabha.
+
+73RD AMENDMENT ACT, 1992
+Part IX + Eleventh Schedule -> effective 24 April 1993.
+
+CORE LIMIT
+constitutional status guarantees democratic form; State law controls devolution substance.
+MUST REMEMBER: Map the Seventy-third Amendment, Part IX Articles 243-243O and the Eleventh
+  Schedule's 29 matters before testing actual devolution of functions, functionaries and
+  finances under State law.
+
+ASCII MASTER FLOW — PANEL 2/12: Part IX: Gram Sabha, tiers and exceptions
+PART IX: ARTICLES 243-243O
+243A Gram Sabha | 243B tiers | 243C composition | 243D reservation
+243E duration | 243F disqualification | 243G powers | 243H finance
+243I SFC | 243J audit | 243K SEC | 243O election bar.
+
+THREE-TIER DEFAULT
+district -> intermediate -> village.
+State population <= 20 lakh may omit only the intermediate tier.
+
+GRAM SABHA
+all registered voters in a village area; exact powers come from State law.
+
+ARTICLE 243M
+specified Scheduled/tribal and other excluded areas require distinct legal routes.
+PESA, 1996 extends Part IX principles to Fifth Schedule areas with modifications.
+
+ASCII MASTER FLOW — PANEL 3/12: Representation, election, continuity and reservation controls
+DEMOCRATIC CYCLE
+direct election to territorial seats -> chairperson route under State law
+-> five-year term -> election before expiry or within six months of dissolution.
+
+ARTICLE 243D
+SC/ST reservation linked to population; not less than one-third seats for women.
+Chairperson reservations include women and SC/ST; many States exceed the floor.
+
+ARTICLE 243K
+State Election Commission controls Panchayat rolls and elections.
+
+ARTICLE 243O
+delimitation/allotment barred from ordinary challenge; election petition is the route.
+
+TRAPS
+candidate age floor is 21 | ECI does not conduct Panchayat elections
+| reservation creates access but proxy control can block substantive authority.
+
+ASCII MASTER FLOW — PANEL 4/12: Article 243G, Eleventh Schedule and the three-F functionality test
+ARTICLE 243G IS ENABLING
+State legislature may endow Panchayats with self-government powers.
+
+ELEVENTH SCHEDULE: 29 MATTERS
+agriculture/land/water -> rural infrastructure -> health/education
+-> poverty alleviation -> welfare -> community assets.
+
+FUNCTIONS
+clear activity map and tier responsibility.
+FUNCTIONARIES
+staff placement, direction and accountability to the elected body.
+FINANCES
+own revenue + assigned revenue + predictable grants + spending discretion.
+
+FUNCTIONALITY TEST
+Can the Panchayat decide, direct staff, spend and answer publicly for outcomes?
+
+ASCII MASTER FLOW — PANEL 5/12: Fiscal constitution: own revenue, SFC, Union grants and audit
+ARTICLE 243H
+State law may authorise taxes/duties/tolls/fees, assignments, grants and Panchayat Funds.
+
+OWN-SOURCE BASKET
+property/market levies | licence/service fees | user charges | rents
+| ponds/fisheries/community assets | State-law borrowing.
+
+ARTICLE 243I
+Governor constitutes SFC every five years -> tax sharing, assignments, grants and measures.
+
+ARTICLE 280
+Union Finance Commission recommends augmentation of State funds for Panchayats
+on the basis of SFC recommendations.
+
+ACCOUNTABILITY
+Article 243J accounts/audit -> public records -> social audit -> corrective action.
+LIMIT grants equalise capacity but cannot substitute for State tax devolution.
+
+ASCII MASTER FLOW — PANEL 6/12: PESA, Scheduled Areas and community-centred decision verbs
+FIFTH SCHEDULE AREA
+ordinary Part IX exclusion under Article 243M -> PESA, 1996 extension with modifications.
+
+PESA GRAM SABHA
+community resources + customs + cultural identity + customary dispute practices.
+
+DECISION VERBS MUST STAY DISTINCT
+consultation != recommendation != prior recommendation != approval.
+
+LAND AND RESOURCES
+prevent alienation + restore unlawfully alienated land
+| minor minerals and markets within the exact statutory allocation.
+
+FRA LINK
+forest-right recognition and community forest-resource powers overlap but do not merge.
+
+LIMIT PESA is not an unlimited veto over every project or every Scheduled Tribe area.
+CLOSE DISTINCTION: Article 243M exclusions and PESA's Section 4 bridge require exact verbs:
+  consultation before land acquisition/resettlement; mandatory prior recommendation for
+  minor-mineral licences/leases/concessions; ownership of minor forest produce and specified
+  control powers.
+
+ASCII MASTER FLOW — PANEL 7/12: Planning, accountability, digital tools and judicial boundary
+PLANNING CHAIN
+Gram Sabha priorities -> GPDP -> intermediate/district convergence
+-> DPC consolidates Panchayat and municipal plans under Article 243ZD.
+
+ACCOUNTABILITY CHAIN
+notice + records + quorum/inclusion -> social audit -> audit trail -> follow-up.
+
+DIGITAL TOOLS
+eGramSwaraj planning/accounts | AuditOnline audit workflow
+| SVAMITVA survey/property cards | RGSA capacity building.
+
+CAUTION
+portal entry != lawful devolution, informed consent or service quality.
+
+JUDICIAL BOUNDARY
+Gram Nyayalayas Act, 2008 courts != Gram Sabha or Panchayat institutions.
+
+ASCII MASTER FLOW — PANEL 8/12: Panchayat-municipality comparison and controlling local-body cases
+PANCHAYATS                           MUNICIPALITIES
+Part IX | 73rd | Eleventh 29        Part IXA | 74th | Twelfth 18
+Gram Sabha                            Ward Committee where Article 243S applies
+village/intermediate/district         Nagar Panchayat/Council/Corporation
+
+COMMON CONTROLS
+SEC elections | SFC fiscal review | DPC planning bridge | State-law devolution.
+
+CASE CODE
+Kishansing Tomar (2006) -> timely local elections.
+K. Krishna Murthy (2010) -> reservation requires local-body constitutional analysis.
+Vikas Kishanrao Gawali (2021) -> OBC-reservation triple test.
+State of Goa v. Fouziya Imtiaz Shaikh (2021) -> independent SEC.
+
+LIMIT cases regulate constitutional boundaries; they do not create one national local law.
+
+ASCII MASTER FLOW — PANEL 9/12: Exact continuity, transition and Union Territory controls
+ARTICLE 243E
+five-year term -> election before expiry or within six months after dissolution.
+If the remainder is below six months, a short-term election is unnecessary.
+A reconstituted body serves only the original unexpired term.
+
+ARTICLE 243L
+President may apply Part IX to a Union Territory with exceptions/modifications.
+
+ARTICLE 243N
+inconsistent old Panchayat laws survived at most one year from commencement.
+
+EXAM RULE
+State the proviso with the headline rule; otherwise a true answer remains incomplete.
+
+ASCII MASTER FLOW — PANEL 10/12: SFC, SEC and Supreme Court accountability controls
+STATE FINANCE COMMISSION — ARTICLE 243I
+five-year review -> tax sharing + assignments + grants + improvement measures
+-> Governor lays report and action memorandum before the legislature.
+
+STATE ELECTION COMMISSION — ARTICLE 243K
+rolls + elections -> protected removal and service conditions -> requested staff.
+
+CASES
+Kishansing Tomar (2006) -> timely elections.
+K. Krishna Murthy (2010) -> local empirical basis and reservation ceiling.
+Vikas Kishanrao Gawali (2021) -> OBC triple test.
+State of Goa v. Fouziya Imtiaz Shaikh (2021) -> independent SEC.
+
+ASCII MASTER FLOW — PANEL 11/12: Dated evidence, answer compression and reform ownership
+DATED PRIMARY CONTROLS — CHECKED 28 AUGUST 2026
+Devolution Index Report 2024 -> comparative devolution framework.
+Sixteenth Finance Commission 2026-31 -> local-body fiscal framework.
+Ministry PESA-rules directory -> notification status, not field compliance.
+
+ANSWER COMPRESSION
+10 marks -> rule + mechanism + one gap + verdict.
+15 marks -> constitutional chain + evidence + counterpoint + reforms.
+20 marks -> evolution + design + three Fs + PESA + cases + phased reform.
+
+ACTOR MAP
+State legislature devolves | Panchayat executes | Gram Sabha scrutinises
+| SFC recommends | SEC conducts elections | courts enforce boundaries.
+
+ASCII MASTER FLOW — PANEL 12/12: Implementation gaps, reforms, PYQs and synthesis
+DIAGNOSIS
+regular elections + representation gains
+but vague activity maps + departmental staff + weak own revenue + delayed SFCs.
+
+REFORM SEQUENCE
+binding activity map -> accountable local cadre -> predictable untied finance
+-> fair own-revenue reform -> strong Gram Sabha -> audit/social audit
+-> assisted digital access -> outcome-based GPDP.
+
+PYQ ROUTES
+finance beyond grants | women and patriarchy | three Fs to functionality
+| intermediate-tier exception | PESA limits.
+
+MAINS SPINE
+define decentralisation -> cite Part IX -> explain mechanism -> show gap
+-> named case/current anchor -> State-variation qualification -> functionality verdict.
+
+SYNTHESIS
+representation becomes self-government only when authority, staff and money converge.
+LEGAL/SOURCE LIMIT: The Devolution Index Report 2024 and Sixteenth Finance Commission 2026-27
+  to 2030-31 framework are dated official controls. PESA covers Fifth Schedule Scheduled
+  Areas; full Fifth/Sixth Schedule machinery is Topic 26.

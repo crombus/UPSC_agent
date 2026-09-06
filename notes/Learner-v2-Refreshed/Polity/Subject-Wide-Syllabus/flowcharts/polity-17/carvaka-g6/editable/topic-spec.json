@@ -1,0 +1,1211 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-17",
+  "subject": "Polity",
+  "title": "PARLIAMENT",
+  "short_route": "ARTICLE 79 ARCHITECTURE, COMPOSITION → MEMBERSHIP, DISQUALIFICATION, VACANCIES AND → SESSIONS, SITTINGS, QUORUM AND → PRESIDING OFFICERS, NEUTRALITY AND → ORDINARY LEGISLATION AND THE → JOINT SITTING, LAPSE AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-17-deep-review-2026-09-05-g6.json",
+  "ascii_spec_sha256": "e5b9701255db7f12f7b40153b6e86f83200c10c36ad799f24c118f15c8d12a08",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARTICLE 79 ARCHITECTURE, COMPOSITION AND REPRESENTATION",
+      "structural_type": "parliament-core-route",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 79 ARCHITECTURE, COMPOSITION AND REPRESENTATION",
+          "role": "institution"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 79 CREATES ONE PARLIAMENT FROM THE PRESIDENT AND",
+          "role": "institution"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PRESIDENT + LOK SABHA + RAJYA SABHA COMBINE ASSENT",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PRESIDENT IS INTEGRAL TO PARLIAMENT BUT IS NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT THIS DESIGN COMBINES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Article 79 creates one Parliament from the President and two differently constituted Houses.",
+        "OPERATING MECHANISM",
+        "President + Lok Sabha + Rajya Sabha combine assent, popular mandate and federal revision.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Article 79 creates one Parliament from the President and two differently constituted Houses.",
+            "OPERATING MECHANISM"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "President + Lok Sabha + Rajya Sabha combine assent, popular mandate and federal revision.",
+            "EXAM LIMIT",
+            "President is integral to Parliament but is not a member of either House."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that this design combines popular authority, federal revision and constitutional form.",
+            "MUST REMEMBER: Audit Parliament through Articles 79-122 and the financial provisions"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "composition, officers, sessions, membership, privileges, legislation, lapse, joint sitting, finance, committees and accountability require their own procedural chains."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "composition, officers, sessions, membership, privileges, legislation, lapse, joint sitting, finance, committees and accountability require their own procedural chains.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MEMBERSHIP, DISQUALIFICATION, VACANCIES AND OPPOSITION",
+      "structural_type": "parliament-core-route",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MEMBERSHIP, DISQUALIFICATION, VACANCIES AND OPPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 84, 101-103 REGULATE ENTRY, CONTINUITY AND DISQUALIFICATION; THE",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "QUALIFICATION, VACANCY, ECI OPINION AND PRESIDING-OFFICER RECOGNITION KEEP MEMBERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "THE 1977 ACT HAS NO TEN-PERCENT LOP THRESHOLD; DO",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT DIFFERENT MANDATES EXPLAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Articles 84, 101-103 regulate entry, continuity and disqualification; the 1977 Act governs LoP recognition.",
+        "OPERATING MECHANISM",
+        "Qualification, vacancy, ECI opinion and presiding-officer recognition keep membership legally controlled.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Articles 84, 101-103 regulate entry, continuity and disqualification; the 1977 Act governs LoP recognition."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Qualification, vacancy, ECI opinion and presiding-officer recognition keep membership legally controlled."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "The 1977 Act has no ten-percent LoP threshold; do not confuse practice with statutory text."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that different mandates explain later differences in finance, confidence and federal revision."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Qualification, vacancy, ECI opinion and presiding-officer recognition keep membership legally controlled.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SESSIONS, SITTINGS, QUORUM AND ACCOUNTABILITY DEVICES",
+      "structural_type": "parliament-core-route",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SESSIONS, SITTINGS, QUORUM AND ACCOUNTABILITY DEVICES",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 85 GUARANTEES RECURRENCE, WHILE HOUSE RULES TURN SITTINGS",
+          "role": "institution"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "SUMMONING ENABLES QUESTIONS AND MOTIONS, BUT NO CONSTITUTIONAL MINIMUM",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "BUDGET, MONSOON AND WINTER ARE CONVENTIONS, NOT CONSTITUTIONALLY FIXED",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT THESE ROUTES PROTECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Article 85 guarantees recurrence, while House rules turn sittings into questioning and debate.",
+        "OPERATING MECHANISM",
+        "Summoning enables questions and motions, but no constitutional minimum sitting-day floor exists.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Article 85 guarantees recurrence, while House rules turn sittings into questioning and debate."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Summoning enables questions and motions, but no constitutional minimum sitting-day floor exists."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "Budget, Monsoon and Winter are conventions, not constitutionally fixed sessions."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that these routes protect legislative integrity without merging election petitions and vacancy rules."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use this route to show that these routes protect legislative integrity without merging election petitions and vacancy rules.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PRESIDING OFFICERS, NEUTRALITY AND PRIVILEGE",
+      "structural_type": "parliament-core-route",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PRESIDING OFFICERS, NEUTRALITY AND PRIVILEGE",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 93-97 AND 105 PROTECT ORDERED, INDEPENDENT LEGISLATIVE WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CHAIRS MANAGE PROCEDURE AND PRIVILEGE PROTECTS FUNCTION; REASONED REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "DEPUTY SPEAKER VACANCY SINCE MAY 2019 IS A DATED",
+          "role": "comparison"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT CORRECT TIME VOCABULARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Articles 93-97 and 105 protect ordered, independent legislative work within reviewable limits.",
+        "OPERATING MECHANISM",
+        "Chairs manage procedure and privilege protects function; reasoned review checks constitutional misuse.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Articles 93-97 and 105 protect ordered, independent legislative work within reviewable limits.",
+            "OPERATING MECHANISM"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Chairs manage procedure and privilege protects function; reasoned review checks constitutional misuse.",
+            "EXAM LIMIT",
+            "Deputy Speaker vacancy since May 2019 is a dated fact, not a constitutional rule."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that correct time vocabulary determines whether business survives and accountability can recur.",
+            "Sita Soren (2024): no bribery immunity."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Chairs manage procedure and privilege protects function; reasoned review checks constitutional misuse."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Deputy Speaker vacancy since May 2019 is a dated fact, not a constitutional rule.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ORDINARY LEGISLATION AND THE BILL-CLASS FIREWALL",
+      "structural_type": "parliament-core-route",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ORDINARY LEGISLATION AND THE BILL-CLASS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "BILL CLASSIFICATION DETERMINES ORIGIN, RECOMMENDATION, UPPER-HOUSE POWER, DEADLOCK AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CORRECT CLASSIFICATION CHANNELS EACH BILL THROUGH THE CONSTITUTIONALLY ASSIGNED",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "A FINANCIAL BILL-I IS NOT A MONEY BILL; RAJYA",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT THE DEVICES SPAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Bill classification determines origin, recommendation, Upper-House power, deadlock and assent.",
+        "OPERATING MECHANISM",
+        "Correct classification channels each Bill through the constitutionally assigned legislative route.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Bill classification determines origin, recommendation, Upper-House power, deadlock and assent."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Correct classification channels each Bill through the constitutionally assigned legislative route."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "A Financial Bill-I is not a Money Bill; Rajya Sabha retains full legislative power."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that the devices span disclosure, debate, censure, financial pressure and government removal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use this route to show that the devices span disclosure, debate, censure, financial pressure and government removal.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "JOINT SITTING, LAPSE AND ORDINANCE RETURN",
+      "structural_type": "parliament-core-route",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JOINT SITTING, LAPSE AND ORDINANCE RETURN",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 108, 111 AND 123 CONNECT DEADLOCK, ASSENT, DISSOLUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "JOINT SITTING RESOLVES ELIGIBLE DEADLOCKS; DISSOLUTION SELECTIVELY LAPSES BILLS",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "MONEY AND CONSTITUTION AMENDMENT BILLS HAVE NO JOINT-SITTING ROUTE.",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT SITA SOREN (2024)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Articles 108, 111 and 123 connect deadlock, assent, dissolution and temporary executive lawmaking.",
+        "OPERATING MECHANISM",
+        "Joint sitting resolves eligible deadlocks; dissolution selectively lapses Bills; ordinances return to Parliament.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Articles 108, 111 and 123 connect deadlock, assent, dissolution and temporary executive lawmaking.",
+            "OPERATING MECHANISM"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Joint sitting resolves eligible deadlocks; dissolution selectively lapses Bills; ordinances return to Parliament.",
+            "EXAM LIMIT",
+            "Money and Constitution Amendment Bills have no joint-sitting route."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that Sita Soren (2024) preserves institutional independence by denying immunity that subverts it.",
+            "CLOSE DISTINCTION: Keep constitutional text, House rules and conventions separate."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Speaker certification is textually final but not wholly immune from constitutional review",
+            "Sabha is subordinate on money and confidence but co-equal on ordinary legislation and amendment, with exclusive Articles 249/312 powers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Sabha is subordinate on money and confidence but co-equal on ordinary legislation and amendment, with exclusive Articles 249/312 powers.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BUDGET, GRANTS, FUNDS AND POWER OF THE PURSE",
+      "structural_type": "parliament-core-route",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BUDGET, GRANTS, FUNDS AND POWER OF THE PURSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 112-116 AND 266-267 CREATE AN AUTHORISATION-TO-AUDIT CHAIN FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DISCLOSURE, GRANT VOTING, APPROPRIATION, EXPENDITURE AND CAG-PAC AUDIT FORM",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "CHARGED EXPENDITURE IS DISCUSSED NOT VOTED; PUBLIC ACCOUNT WITHDRAWAL",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT ACCURATE CLASSIFICATION PREVENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Articles 112-116 and 266-267 create an authorisation-to-audit chain for public money.",
+        "OPERATING MECHANISM",
+        "Disclosure, grant voting, appropriation, expenditure and CAG-PAC audit form one control cycle.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Articles 112-116 and 266-267 create an authorisation-to-audit chain for public money."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Disclosure, grant voting, appropriation, expenditure and CAG-PAC audit form one control cycle."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "Charged expenditure is discussed not voted; Public Account withdrawal needs no appropriation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that accurate classification prevents fiscal primacy from becoming an unintended bicameral bypass."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use this route to show that accurate classification prevents fiscal primacy from becoming an unintended bicameral bypass.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COMMITTEE ARCHITECTURE AND DETAILED SCRUTINY",
+      "structural_type": "parliament-core-route",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COMMITTEE ARCHITECTURE AND DETAILED SCRUTINY",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCIAL COMMITTEES, DRSCS AND SPECIALISED COMMITTEES SUPPLY EVIDENCE-BASED SCRUTINY",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "SMALL CROSS-HOUSE FORUMS EXAMINE ESTIMATES, AUDIT, BILLS AND MINISTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PAC, ESTIMATES AND COPU DIFFER IN COMPOSITION, TIME DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT THE MECHANISM CAN",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Financial committees, DRSCs and specialised committees supply evidence-based scrutiny beyond the floor.",
+        "OPERATING MECHANISM",
+        "Small cross-House forums examine estimates, audit, Bills and ministries before reporting to",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Financial committees, DRSCs and specialised committees supply evidence-based scrutiny beyond the floor."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Small cross-House forums examine estimates, audit, Bills and ministries before reporting to"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "PAC, Estimates and CoPU differ in composition, time direction and subject."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that the mechanism can resolve ordinary deadlock while preserving special procedures for money and amendment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use this route to show that the mechanism can resolve ordinary deadlock while preserving special procedures for money and amendment.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RAJYA SABHA, ANTI-DEFECTION AND BICAMERAL BALANCE",
+      "structural_type": "parliament-core-route",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RAJYA SABHA, ANTI-DEFECTION AND BICAMERAL BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJYA SABHA HAS GRADED POWERS WHILE THE TENTH SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "UPPER-HOUSE REVISION AND FEDERAL POWERS CHECK LOK SABHA, WHILE",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "RAJYA SABHA IS UNEQUAL ON MONEY AND CONFIDENCE, BUT",
+          "role": "comparison"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT FORMAL INSTRUMENTS BECOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Rajya Sabha has graded powers while the Tenth Schedule trades member autonomy for stability.",
+        "OPERATING MECHANISM",
+        "Upper-House revision and federal powers check Lok Sabha, while whips shape individual voting.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Rajya Sabha has graded powers while the Tenth Schedule trades member autonomy for stability."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Upper-House revision and federal powers check Lok Sabha, while whips shape individual voting."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "Rajya Sabha is unequal on money and confidence, but equal or exclusive elsewhere."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that formal instruments become effective only when time, information and party incentives permit scrutiny."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use this route to show that formal instruments become effective only when time, information and party incentives permit scrutiny.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "106TH AMENDMENT, CENSUS 2027 AND DELIMITATION",
+      "structural_type": "parliament-core-route",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "106TH AMENDMENT, CENSUS 2027 AND DELIMITATION",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "WOMEN’S RESERVATION IS COMMENCED BUT AWAITS PUBLISHED CENSUS FIGURES",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMMENCEMENT LEADS TO CENSUS PUBLICATION, THEN DELIMITATION, BEFORE RESERVATION",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "THE DEFEATED 850-SEAT PROPOSAL AND 2011 BASIS ARE NOT",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT CONTINUITY AND FEDERAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Women’s reservation is commenced but awaits published census figures and purpose-specific delimitation.",
+        "OPERATING MECHANISM",
+        "Commencement leads to census publication, then delimitation, before reservation can operate.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Women’s reservation is commenced but awaits published census figures and purpose-specific delimitation."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Commencement leads to census publication, then delimitation, before reservation can operate."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "The defeated 850-seat proposal and 2011 basis are not existing law."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that continuity and federal initiative partly offset Lok Sabha primacy in finance and survival."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use this route to show that continuity and federal initiative partly offset Lok Sabha primacy in finance and survival.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PARLIAMENTARY DECLINE, REFORM AND DIPLOMACY",
+      "structural_type": "parliament-core-route",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PARLIAMENTARY DECLINE, REFORM AND DIPLOMACY",
+          "role": "caution"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXECUTIVE AGENDA CONTROL, TIME SCARCITY AND WIDE WHIPS WEAKEN",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "MATCHED REFORMS IMPROVE CALENDAR, REFERRAL, RESEARCH, OPPOSITION TIME AND",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "INSTITUTIONAL DECLINE IS VARIABLE POLITICAL USE, NOT DISAPPEARANCE OF",
+          "role": "caution"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT STABILITY RISES, BUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Executive agenda control, time scarcity and wide whips weaken use of otherwise strong instruments.",
+        "OPERATING MECHANISM",
+        "Matched reforms improve calendar, referral, research, opposition time and reasoned chair decisions.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Executive agenda control, time scarcity and wide whips weaken use of otherwise strong instruments."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "OPERATING MECHANISM",
+            "Matched reforms improve calendar, referral, research, opposition time and reasoned chair decisions."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM LIMIT",
+            "Institutional decline is variable political use, not disappearance of constitutional power."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that stability rises, but debate and member-level scrutiny may weaken when whips are overused."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Use this route to show that stability rises, but debate and member-level scrutiny may weaken when whips are overused.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ ROUTES, TRAPS AND ANSWER EXECUTION",
+      "structural_type": "parliament-core-route",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ROUTES, TRAPS AND ANSWER EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "CORE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM PERFORMANCE REQUIRES CLASSIFICATION, NAMED EVIDENCE, MECHANISM, QUALIFICATION AND",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PYQS AND ROTATED MCQS CONVERT CONSTITUTIONAL DISTINCTIONS INTO REPEATABLE",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NEVER SUBSTITUTE CURRENT-SENSITIVE NUMBERS OR PROPOSALS FOR STABLE CONSTITUTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "USE THIS ROUTE TO SHOW THAT BETTER TIME, INFORMATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE RULE",
+        "Exam performance requires classification, named evidence, mechanism, qualification and a graded verdict.",
+        "OPERATING MECHANISM",
+        "PYQs and rotated MCQs convert constitutional distinctions into repeatable answer and elimination routes.",
+        "EXAM LIMIT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE RULE",
+            "Exam performance requires classification, named evidence, mechanism, qualification and a graded verdict.",
+            "OPERATING MECHANISM"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PYQs and rotated MCQs convert constitutional distinctions into repeatable answer and elimination routes.",
+            "EXAM LIMIT",
+            "Never substitute current-sensitive numbers or proposals for stable constitutional rules."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER LINE",
+            "Use this route to show that better time, information and incentives can activate existing powers without inventing new devices.",
+            "LEGAL/SOURCE LIMIT: The 106th Amendment commenced on 16 April 2026 but reservation remains non-operational pending the Article 334A"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2027 dates are notified; publication and delimitation dates are not."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Exam performance requires classification, named evidence, mechanism, qualification and a graded verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-17\\g5-source\\polity-17_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A1. CONSTITUTIONAL SUPREMACY VERSUS PARLIAMENTARY SUPREMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "A2. MONEY BILL CERTIFICATION AND THE UNRESOLVED LARGER-BENCH ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "A3. PROCEDURE REFINEMENTS THAT SEPARATE STRONG ANSWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "A4. COMMITTEES AS THE REALISTIC DELIBERATIVE CENTRE",
+          "role": "primary"
+        },
+        {
+          "text": "A5. CONCISE SOURCE AND CURRENT-CONTROL NOTE",
+          "role": "evidence"
+        },
+        {
+          "text": "[ANALYSIS] “PARLIAMENTARY SUPREMACY” IN INDIAN GS-II QUESTIONS USUALLY MEANS",
+          "role": "comparison"
+        },
+        {
+          "text": "[FACT] PARLIAMENT CANNOT ENACT ORDINARY LAW BEYOND CONSTITUTIONAL COMPETENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "A1. Constitutional supremacy versus parliamentary supremacy",
+            "A2. Money Bill certification and the unresolved larger-Bench issue",
+            "A3. Procedure refinements that separate strong answers",
+            "A4. Committees as the realistic deliberative centre"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "A5. Concise source and current-control note",
+            "[ANALYSIS] “Parliamentary supremacy” in Indian GS-II questions usually means effective deliberative and control capacity, not unlimited legal sovereignty.",
+            "[FACT] Parliament cannot enact ordinary law beyond constitutional competence, and Article 368 itself is limited by the basic-structure doctrine.",
+            "[ANALYSIS] Cabinet dominance can marginalise Parliament without transferring constitutional sovereignty to the Cabinet."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "[FACT] In K.S. Puttaswamy (Aadhaar) (2018) , a 4:1 majority upheld the Aadhaar Act's Money Bill route; Chandrachud J dissented.",
+            "[FACT] In Rojer Mathew v.",
+            "South Indian Bank (2019) , the Court doubted the earlier Article 110 reasoning and referred the issue to a larger seven-judge Bench.",
+            "[CURRENT] As of 28 August 2026, no visible final decision resolving that"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

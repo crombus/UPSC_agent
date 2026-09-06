@@ -1,0 +1,178 @@
+ASCII MASTER FLOW — PANEL 1/12: 1934-1946: the route to a constitution-making body
+1934  M.N. Roy advances the Constituent Assembly idea
+  |
+1935  Congress formally demands a Constituent Assembly
+  |
+1938  Nehru specifies an Assembly elected on adult franchise,
+      free from outside interference
+  |
+1940  August Offer accepts the principle of Indian constitution-making
+1942  Cripps proposal offers post-war constitution-making
+1946  Cabinet Mission supplies the operative scheme
+       +-- indirectly elected provincial representatives
+       +-- princely-state nominees
+       +-- community allocation within provincial seats
+       +-- population ratio broadly one seat per million
+
+TRAP: do not attach Nehru's adult-franchise formulation to 1935.
+MUST REMEMBER: The making sequence must distinguish demand, Cabinet Mission constitution,
+  composition, committees, drafting, three readings, adoption, signing and commencement, with
+  Articles 393-395 controlling the final legal transition.
+
+ASCII MASTER FLOW — PANEL 2/12: Composition changed with Partition; authority changed with Independence
+CABINET MISSION PLAN: 389
+  +-- provinces 296 = 292 Governor's provinces + 4 Chief Commissioners
+  +-- princely states 93
+ELECTION RESULT: Congress 208; Muslim League 73; others 15
+9 DEC 1946: first sitting; only 211 attended amid League boycott
+        |
+PARTITION -> RECONSTITUTED ASSEMBLY: 299 = provinces 229 + states 70
+15 AUG 1947: sovereign constitution-maker + Dominion legislature
+26 NOV 1949: Constitution adopted
+24 JAN 1950: 284 members signed
+26 JAN 1950: Republic + provisional Parliament
+
+TRAPS: 299 = strength; 211 = first-sitting attendance; 284 = signatories.
+
+ASCII MASTER FLOW — PANEL 3/12: Committee architecture: distributed authorship, not seven-person mythology
+EIGHT MAJOR COMMITTEES
+  +-- Nehru: Union Powers; Union Constitution; States
+  +-- Patel: Provincial Constitution; Advisory
+  +-- Rajendra Prasad: Rules of Procedure; Steering
+  +-- Ambedkar: Drafting Committee (7 members; appointed 29 Aug 1947)
+ADVISORY SUBCOMMITTEES
+  +-- Fundamental Rights — J.B. Kripalani
+  +-- Minorities — H.C. Mookherjee
+  +-- Assam tribal/excluded areas — Gopinath Bardoloi
+  +-- other excluded areas — A.V. Thakkar
+
+B.N. RAU: research + initial draft + technical advice
+DRAFTING COMMITTEE: converts decisions into clauses; sat 141 days
+ASSEMBLY: report -> debate -> amendment -> vote -> adopted text
+
+ASCII MASTER FLOW — PANEL 4/12: Drafting pipeline, debate metrics and commencement articles
+13 DEC 1946 Objectives Resolution moved -> 22 JAN 1947 adopted
+committee reports + B.N. Rau draft -> 29 AUG 1947 Drafting Committee
+FEB 1948 public Draft -> comments -> OCT 1948 revised Draft
+READING 1 general -> READING 2 clause/amendment -> READING 3 passage
+
+ASSEMBLY WORK: 11 sessions; 165 sitting days; Draft debated 114 days
+AMENDMENTS: 7,635 tabled; 2,473 moved/disposed
+26 NOV 1949: adopted; 16 provisions commenced immediately
+24 JAN 1950: 284 signatures | 26 JAN 1950: remaining provisions commence
+
+ARTICLES 393-395 CONTROL
+393 short title | 394 commencement split | 394A authoritative Hindi text
+395 repeals the 1935 Act and Indian Independence Act 1947
+TRAP: Article 394, not 393, controls commencement.
+
+ASCII MASTER FLOW — PANEL 5/12: People, offices and constitutional symbols
+TEMPORARY PRESIDENT: Sachchidananda Sinha
+PERMANENT PRESIDENT: Rajendra Prasad
+VICE-PRESIDENTS: H.C. Mookherjee; V.T. Krishnamachari
+CONSTITUTIONAL ADVISER: B.N. Rau
+DRAFTING CHAIR / DRAFT PILOT: B.R. Ambedkar
+CONSTITUENT BUSINESS: Rajendra Prasad
+DOMINION-LEGISLATIVE BUSINESS: G.V. Mavlankar
+
+24 JAN 1950
+  +-- 284 members sign English and Hindi calligraphed copies
+  +-- Jana Gana Mana adopted as National Anthem
+  +-- Vande Mataram accorded equal honour as National Song
+  +-- Rajendra Prasad elected first President of India
+
+TRAP: adoption 26 Nov 1949 != signing 24 Jan 1950 != commencement 26 Jan 1950.
+
+ASCII MASTER FLOW — PANEL 6/12: Debate map: rights, federalism, executive and social revolution
+CONSTITUTIONAL CHOICE
+  +-- RIGHTS: liberty + equality + remedies
+  |     versus preventive powers, public order and social reform
+  +-- FEDERALISM: provincial autonomy
+  |     versus Partition-era need for an effective Union
+  +-- EXECUTIVE: parliamentary responsibility
+  |     versus instability and concentrated leadership
+  +-- MINORITIES: cultural/educational protection
+  |     versus rejection of separate political electorates
+  +-- SOCIAL REVOLUTION
+        enforceable rights + Directive Principles + affirmative action
+
+RESULT: political democracy joined an unfinished social transformation.
+CLOSE DISTINCTION: 389, 299, 211 and 284 measure different things; indirect election and
+  princely nomination do not negate the Assembly's post-15 August 1947 sovereign status.
+
+ASCII MASTER FLOW — PANEL 7/12: Borrowed provisions became Indian constitutional adaptations
+SOURCE          INDIAN ADAPTATION
+UK              cabinet responsibility + parliamentary government
+US              Fundamental Rights + judicial review + impeachment ideas
+Ireland         Directive Principles + presidential nomination method
+Canada          federation with strong Centre + residuary Union power
+Australia       Concurrent List + trade provisions + joint sitting
+Germany         emergency ideas, constitutionally recast
+South Africa    amendment elements + Rajya Sabha election method
+GoI Act 1935    machinery stripped of imperial sovereignty
+
+TEST: borrowed device + Indian problem + altered setting = Indian rule
+VERDICT: sources supplied techniques; the Assembly supplied hierarchy and legitimacy.
+
+ASCII MASTER FLOW — PANEL 8/12: Criticism and evidence-led reply
+NO ADULT-FRANCHISE ELECTION -> real mandate deficit; restricted franchise,
+  princely nomination, Partition and no universal rolls explain but do not erase it
+CONGRESS DOMINATION -> 208/296 confirms dominance; internal diversity,
+  committees, dissent and public comments complicate a one-party caricature
+LAWYER-MADE / OVER-LEGAL -> precision mediated federal, rights and transition conflict
+COPIED -> selective borrowing was recombined and India-specific
+SOCIAL UNDER-REPRESENTATION -> exclusions were real despite minority/women/Dalit voices
+EXCESSIVE TIME -> 2 years, 11 months, 18 days covered Partition and clause scrutiny
+
+VERDICT: imperfect electoral origin + substantial deliberative authorship.
+
+ASCII MASTER FLOW — PANEL 9/12: Four PYQ controls and recurring prelims traps
+2021 GS-I Q93: on 26 Jan 1950 India became a Sovereign Democratic Republic
+2023 GS-I Q85: Constitution Day and Drafting Committee statements
+2024 GS-I Q61: Sachchidananda Sinha = provisional President
+2026 GS-I Q55: Articles 393-395
+  +-- text supports statements 1 and 3
+  +-- repository key is provisional/conflicting; preserve qualification
+
+RECURRING TRAPS
+389/299/211/284 | Rau/Ambedkar/Assembly | adoption/signing/commencement
+Rajendra Prasad/Mavlankar | parent committee/subcommittee chair
+original 395 Articles + 8 Schedules versus today's totals
+Debates are persuasive aids; enacted text remains supreme.
+
+ASCII MASTER FLOW — PANEL 10/12: Exact 10/15/20-mark answer architecture
+10 MARKS / 150 WORDS
+1. Define the issue/demand. 2. Use 389->299 plus one exact date.
+3. Add one committee-role distinction. 4. Give balanced verdict.
+
+15 MARKS / 250 WORDS
+1. Thesis. 2. Origins 1934-46. 3. Composition + sovereignty shift.
+4. Resolution->committees->draft->readings. 5. Two criticisms with evidence.
+6. One adaptation/debate example. 7. Graded conclusion.
+
+20 MARKS / 250 WORDS
+1. Decode directive and frame legitimacy/originality test.
+2. Origin deficit: indirect election, nomination, boycott, exclusions.
+3. Process defence: public draft, 7,635/2,473 amendments, 114 debate days.
+4. Distributed authorship: Rau -> committees -> Drafting -> Assembly.
+5. Substance: rights, federalism, social revolution, adapted borrowing.
+6. Limits and counterweight in paired table. 7. Nuanced verdict.
+
+MARKS GRABBER: metric + named institution + mechanism + qualification.
+
+ASCII MASTER FLOW — PANEL 11/12: Articles 393-395: adoption is not commencement
+ARTICLE 393 -> short title: Constitution of India
+ARTICLE 394 -> specified provisions at once on 26 Nov 1949
+ARTICLE 394 -> remaining provisions on 26 Jan 1950
+ARTICLE 395 -> repeal of Government of India Act 1935 and Indian Independence Act 1947
+24 JAN 1950 -> 284 members signed; signing is not adoption or commencement.
+
+ASCII MASTER FLOW — PANEL 12/12: Legitimacy test and interpretive-source hierarchy
+CRITIQUE: indirect election | nomination | restricted franchise | Congress predominance
+REPLY: committee pluralism | reasoned debate | post-1947 sovereignty | universal franchise
+DEBATES: persuasive external aid when text is ambiguous
+LIMIT: enacted constitutional text and later binding doctrine prevail
+VERDICT: legitimacy arose from deliberation plus a democratic constitutional settlement.
+LEGAL/SOURCE LIMIT: Constituent Assembly Debates are persuasive historical aids, not enacted
+  law; the constitutional text prevails and later doctrine may develop beyond a single
+  framer's intention.

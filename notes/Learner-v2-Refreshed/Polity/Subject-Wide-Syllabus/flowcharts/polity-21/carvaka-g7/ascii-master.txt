@@ -1,0 +1,243 @@
+ASCII MASTER FLOW — PANEL 1/12: Constitutional location, court map and dated capacity
+ARTICLES 214-237: STATE-LEVEL CONSTITUTIONAL JUSTICE
+Supreme Court -> High Court -> district and subordinate courts.
+
+214: High Court for each State | 231: common High Court by parliamentary law.
+25 HIGH COURTS as at 5 September 2026; one-per-State/UT is false.
+
+HISTORY
+1862: Calcutta, Bombay and Madras | 1866: Allahabad.
+Inherited jurisdiction continues through Article 225 subject to Constitution and law.
+
+DATED CAPACITY: DEPARTMENT OF JUSTICE, 1 JULY 2026
+1,122 sanctioned | 781 working | 341 vacant | vacancy share about 30.4%.
+Never quote working strength or vacancy without its date.
+
+CORE ROLE
+constitutional remedies + appeals + supervision + judicial administration.
+MUST REMEMBER: Audit Articles 214-237 as separate constitutional controls: High Court
+  existence/common courts, judge appointment and service, jurisdiction, writs,
+  superintendence, court administration and subordinate-judiciary recruitment/control must not
+  be collapsed into one judicial-independence claim.
+
+ASCII MASTER FLOW — PANEL 2/12: High Court judges: appointment, qualification and independence
+ARTICLE 216
+Chief Justice + other judges as President considers necessary.
+
+ARTICLE 217 APPOINTMENT
+President -> CJI + Governor consultation -> HC Chief Justice for a puisne judge.
+ORIGINATING HC: Chief Justice + two senior-most colleagues.
+SC COLLEGIUM FOR HC APPOINTMENT: CJI + two senior-most SC judges.
+
+QUALIFICATION
+Indian citizen + ten judicial-office years OR ten High Court advocacy years.
+No distinguished-jurist route; no constitutional minimum age.
+
+SERVICE
+Article 219 oath before Governor/appointee | retirement 62 | resignation to President.
+Article 218 applies the Article 124 removal route | Article 221 protects conditions.
+Article 229 administrative expenses are charged on the State Consolidated Fund.
+
+CASE ARC
+First Judges Case (1981) -> executive primacy | Second Judges Case (1993) -> judicial primacy
+Third Judges Case (1998) -> plural collegium
+| Fourth Judges Case (2015) -> collegium remains operative.
+
+ASCII MASTER FLOW — PANEL 3/12: Transfer, temporary judges and High Court administration
+ARTICLE 222 TRANSFER
+President acts after CJI consultation; consent is not constitutionally required.
+CURRENT PROCEDURE: CJI consults four senior-most SC judges + both affected HC Chief Justices.
+Sankalchand Himmatlal Sheth (1977): full, effective consultation; public interest, not punishment.
+
+TEMPORARY CAPACITY
+223 acting Chief Justice | 224 additional/acting judges | 224A consenting retired judge.
+These address temporary need; they do not replace regular appointments.
+
+ARTICLE 229
+Chief Justice/authorised officer appoints HC staff; Governor has limited rule/salary role.
+
+TERRITORIAL DESIGN
+230: Parliament may extend/exclude HC jurisdiction over a UT.
+231: Parliament may create a common High Court.
+Seats and benches follow constitutional, statutory and reorganisation arrangements.
+
+ASCII MASTER FLOW — PANEL 4/12: Jurisdiction gateway and Article 226 safeguards
+JURISDICTION MAP
+225 inherited/existing jurisdiction | 226 writ | 227 supervision | 228 withdrawal
++ statutory civil, criminal, election, admiralty and testamentary fields.
+
+ARTICLE 226 PURPOSE
+Fundamental Rights + any other legal purpose: wider in purpose than Article 32.
+Territorial, discretionary and respondent-sensitive: not a national writ.
+
+ARTICLE 226(2)
+Cause of action wholly or partly within territory can support relief against an outside respondent.
+Residence alone is insufficient.
+
+ARTICLE 226(3)
+Qualifying application to vacate an ex parte interim order -> disposal within two weeks
+from the later trigger, or next open day -> otherwise interim order stands vacated.
+
+LIMIT
+Not every High Court has identical ordinary original civil jurisdiction.
+
+ASCII MASTER FLOW — PANEL 5/12: Five writs and the alternative-remedy firewall
+WRONG -> WRIT
+unlawful detention -> HABEAS CORPUS, including private detention
+refused public/legal duty -> MANDAMUS, including a body performing public duty
+ongoing jurisdictional excess -> PROHIBITION
+completed jurisdictional error -> CERTIORARI
+unlawful occupation of public office -> QUO WARRANTO.
+
+ARTICLE 226 ALSO PERMITS ORDERS AND DIRECTIONS
+Do not imprison remedies inside old English technical forms.
+
+ALTERNATIVE REMEDY
+Statutory appeal/revision ordinarily first, but writ discretion survives for:
+Fundamental Rights | natural-justice failure | want of jurisdiction | challenge to vires.
+
+EXAM FIREWALL
+Alternative remedy is self-restraint, not extinction of jurisdiction.
+
+ASCII MASTER FLOW — PANEL 6/12: Tribunals, Basic Structure and supervisory restraint
+L. CHANDRA KUMAR (1997)
+Articles 226/227 and 32 review are Basic Structure.
+Articles 323A/323B tribunal decisions -> High Court Division Bench scrutiny.
+Tribunals supplement; they neither disappear nor finally replace constitutional courts.
+
+ARTICLE 227
+Judicial + administrative superintendence over territorial courts/tribunals;
+Armed-Forces-law forums excluded; petition or suo motu possible.
+RADHEY SHYAM (2015): civil-court judicial orders belong under 227, not 226.
+K. VALARMATHI (2025): supervision cannot supplant trial and statutory appeal.
+
+ARTICLE 228
+Substantial constitutional-interpretation question -> HC withdraws
+-> decides question or case -> may return case with binding answer.
+
+TRAP: supervision and withdrawal are not routine appeals.
+CLOSE DISTINCTION: Keep Articles 226, 227 and 235 distinct. Article 226 reaches Fundamental
+  Rights and other legal rights; Article 227 is supervisory rather than an ordinary appeal;
+  Article 235 gives the High Court administrative control over the district and subordinate
+  judiciary.
+
+ASCII MASTER FLOW — PANEL 7/12: Articles 233-237 and current recruitment law
+ARTICLE 233 DISTRICT JUDGES
+Governor appoints/posts/promotes in consultation with High Court.
+Article 233(2) text: outside-service candidate -> seven advocacy years + HC recommendation.
+
+REJANISH K.V. v. K. DEEPA (2025 INSC 1208)
+Prospectively overrules Dheeraj Mor.
+Qualifying serving judicial officers may compete in direct recruitment using combined
+advocacy/judicial-service experience; minimum age 35; eligibility at application date.
+
+ARTICLE 234 BELOW DISTRICT JUDGE
+Governor's rules + State PSC consultation + High Court consultation.
+ALL INDIA JUDGES ASSOCIATION (20 MAY 2025)
+future Civil Judge entry -> three years Bar practice;
+25% LDCE District-Judge promotion route + suitability control.
+
+236 defines district judge/judicial service | 237 can apply chapter to notified magistrates.
+
+ASCII MASTER FLOW — PANEL 8/12: Article 235 control and the district justice chain
+ARTICLE 235 CONTROL IN HIGH COURT
+posting + promotion + leave + disciplinary control, subject to law and appeal rights.
+NRIPENDRA NATH BAGCHI (1966): control includes disciplinary authority.
+CHANDRA MOHAN (1966): executive dominance in district-judge selection is unconstitutional.
+
+INDEPENDENCE CHAIN
+Governor/State recruitment role + mandatory HC consultation
+-> High Court career control
+-> trial judges insulated from the litigating executive.
+
+DISTRICT STRUCTURE, SUBJECT TO STATE LAW
+District Judge / Sessions Judge
+-> Civil Judge Senior Division / Chief Judicial Magistrate
+-> Civil Judge Junior Division / Judicial Magistrate.
+Article 236 defines district judge broadly; names and pecuniary powers vary.
+
+CRIMINAL CONTROL
+Sessions death sentence -> High Court confirmation before execution.
+Article 227 corrects jurisdiction; Article 235 administers careers: do not conflate them.
+
+ASCII MASTER FLOW — PANEL 9/12: Legal aid and specialised access institutions
+ARTICLE 39A + LEGAL SERVICES AUTHORITIES ACT, 1987
+NALSA -> SLSA / High Court Legal Services Committee -> DLSA -> Taluk committee.
+Eligibility uses statutory categories and prescribed income ceilings; one old figure is unsafe.
+
+ORDINARY LOK ADALAT
+settlement by consent | civil + compoundable criminal matters | no merits decision after failure.
+
+PERMANENT LOK ADALAT
+pre-litigation public-utility field | conciliation first | limited merits decision after failure.
+
+ARBITRATION
+agreement-based private adjudication of arbitrable civil/commercial disputes.
+
+FAMILY COURTS / GRAM NYAYALAYAS
+statutory specialised access; implementation and jurisdiction are not nationally uniform.
+PYQ 2024: compare source, consent, field, criminal reach and legal effect.
+
+ASCII MASTER FLOW — PANEL 10/12: All India Judicial Service: route, design and limits
+ARTICLE 312 ROUTE
+Rajya Sabha: two-thirds of members present and voting
+-> Parliament may create service by law.
+ARTICLE 312(3): AIJS cannot include posts below district judge.
+CURRENT STATUS, 28 AUGUST 2026: no AIJS exists.
+
+CASE FOR
+national standards | wider pool | predictable recruitment | mobility and diversity.
+
+CASE AGAINST
+language and local law | State reservation/cadre design | federal role | career integration.
+
+NON-NEGOTIABLE DESIGN
+High Court role in selection/probation + Article 235 control + local-language testing
++ State-law training + federal consultation + transparent allocation.
+
+Do not confuse AIJS with the 2025 Civil Judge Bar-practice rule.
+
+ASCII MASTER FLOW — PANEL 11/12: Capacity, eCourts and data-governance reform
+CAPACITY DIAGNOSIS
+vacancies + staff/infrastructure + process/service delay + government litigation
+-> backlog -> cost/undertrial hardship -> weaker rights and commercial certainty.
+
+DATED HIGH COURT SNAPSHOT, 1 JULY 2026
+1,122 sanctioned | 781 working | 341 vacant.
+
+ECOURTS PHASE III, 2023-2027, RS 7,210 CRORE
+record digitisation + e-filing/e-payments + e-Sewa Kendras + interoperable management.
+
+NJDG
+age/stage/workload visibility -> diagnosis and allocation;
+not crude judge ranking or disposal quotas.
+
+EXECUTABLE REFORM
+appointment calendars | registry/staff capacity | accountable government appeals
+| reliable service | age-based dockets | legal aid | cyber/privacy/local-language safeguards.
+Digital-by-default must never become digital-only.
+
+ASCII MASTER FLOW — PANEL 12/12: Comparison, PYQ controls and marks-scaled answer spine
+SUPREME COURT | HIGH COURT | SUBORDINATE COURTS
+Article 32 FR remedy | Article 226 FR + legal rights | statutory trial jurisdiction
+national apex | territorial constitutional court | local facts and first adjudication
+no Article 235 role | Articles 227/229/235 administration | controlled by High Court.
+
+PYQ ROUTES
+2024 GS-II Q2, 10 marks/150 words: Lok Adalat versus Arbitration Tribunal.
+2025 GS-II Q13, 15 marks/250 words: collegium compared with United States.
+2019/2021 Prelims routes: HC review and retired-judge distinctions.
+
+10 MARKS
+thesis -> 3 article distinctions -> one case -> limit -> verdict.
+15 MARKS
+architecture -> mechanism -> case/current evidence -> criticism -> targeted reform.
+20 MARKS
+multi-dimensional matrix -> causal chain -> counterargument -> executable safeguards.
+
+FINAL LINE
+Independent State justice needs broad remedies, restrained supervision,
+High Court-controlled careers, dated capacity evidence and inclusive digital administration.
+LEGAL/SOURCE LIMIT: India has 25 High Courts. The 1 July 2026 DoJ snapshot is 1,122
+  sanctioned, 781 working and 341 vacant. Rejanish K.V. (2025 INSC 1208) prospectively
+  replaced the categorical Dheeraj Mor exclusion; AIJS remains uncreated.

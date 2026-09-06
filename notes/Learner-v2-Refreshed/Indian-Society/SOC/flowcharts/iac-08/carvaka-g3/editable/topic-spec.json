@@ -1,0 +1,1136 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-08",
+  "subject": "Indian-Society",
+  "title": "SOCIAL EMPOWERMENT",
+  "short_route": "TWO MEASUREMENT QUESTIONS → THREE-STAGE CHAIN → CONVERSION-FACTOR CHECKLIST → MOBILITY TYPES → PHULE'S THREE AXES → GRADED INEQUALITY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-08-deep-review-2026-09-05-g3.json",
+  "ascii_spec_sha256": "2206dcd3250e39f67d1cf11de8ede9382b7e542de10dbf03d735383a20fac4fd",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO MEASUREMENT QUESTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO MEASUREMENT QUESTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "WELFARE VIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT INCOME, GOODS OR BENEFITS WERE RECEIVED",
+          "role": "comparison"
+        },
+        {
+          "text": "AGENCY VIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT THE PERSON CAN ACTUALLY DO, CHOOSE AND BE",
+          "role": "primary"
+        },
+        {
+          "text": "REAL FREEDOMS TO ACHIEVE VALUED FUNCTIONINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "RECEIPT IS AN INPUT AND NEVER BY ITSELF AN",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WELFARE VIEW → what income, goods or benefits were received",
+        "AGENCY VIEW → what the person can actually do, choose and be",
+        "SEN → real freedoms to achieve valued functionings",
+        "RULE → receipt is an input and never by itself an outcome",
+        "MUST REMEMBER: Social empowerment means expanding capabilities, voice, resources, recognition, representation, legal agency and institutional"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WELFARE VIEW → what income, goods or benefits were received",
+          "SEN → real freedoms to achieve valued functionings",
+          "MUST REMEMBER: Social empowerment means expanding capabilities, voice, resources, recognition, representation, legal agency and institutional access for groups"
+        ],
+        [
+          "AGENCY VIEW → what the person can actually do, choose and be",
+          "RULE → receipt is an input and never by itself an outcome",
+          "redistribution, recognition, participation and autonomy are complementary but not interchangeable routes."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WELFARE VIEW → what income, goods or benefits were received",
+            "AGENCY VIEW → what the person can actually do, choose and be"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEN → real freedoms to achieve valued functionings",
+            "RULE → receipt is an input and never by itself an outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Social empowerment means expanding capabilities, voice, resources, recognition, representation, legal agency and institutional access for groups",
+            "redistribution, recognition, participation and autonomy are complementary but not interchangeable routes."
+          ]
+        }
+      ],
+      "mechanism_strip": "MUST REMEMBER: Social empowerment means expanding capabilities, voice, resources, recognition, representation, legal agency and institutional access for groups facing structural exclusion; redistribution, recognition, participation and autonomy are complementary but not interchangeable routes.",
+      "answer_line": "RULE → receipt is an input and never by itself an outcome.",
+      "source_references": [
+        "What social empowerment means",
+        "Real freedoms and valued functionings",
+        "Welfare receipt against agency",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE-STAGE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE-STAGE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVED SEAT, TARGETED SCHEME, STATUTORY RIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVERSION FACTOR",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHOOLING, INFORMATION, MOBILITY, HEALTH, STIGMA",
+          "role": "evidence"
+        },
+        {
+          "text": "MOBILITY, INCOME, RECOGNISED VOICE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE STAGE BEFORE NAMING THE REMEDY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ENTITLEMENT → reserved seat, targeted scheme, statutory right",
+        "CONVERSION FACTOR → schooling, information, mobility, health, stigma",
+        "OUTCOME → mobility, income, recognised voice",
+        "DIAGNOSIS → name the stage before naming the remedy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENTITLEMENT → reserved seat, targeted scheme, statutory right",
+            "CONVERSION FACTOR → schooling, information, mobility, health, stigma"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME → mobility, income, recognised voice",
+            "DIAGNOSIS → name the stage before naming the remedy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENTITLEMENT → reserved seat, targeted scheme, statutory right",
+            "CONVERSION FACTOR → schooling, information, mobility, health, stigma"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSIS → name the stage before naming the remedy.",
+      "source_references": [
+        "From entitlement to outcome in three stages",
+        "Which conversion factors decide use",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONVERSION-FACTOR CHECKLIST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONVERSION-FACTOR CHECKLIST",
+          "role": "primary"
+        },
+        {
+          "text": "PRIOR SCHOOLING",
+          "role": "outcome"
+        },
+        {
+          "text": "IS THE ENTITLEMENT USABLE AT THE REQUIRED STANDARD",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES THE HOUSEHOLD KNOW THE ENTITLEMENT EXISTS",
+          "role": "evidence"
+        },
+        {
+          "text": "CAN IT BE ACCESSED WITHOUT PROHIBITIVE TRAVEL OR COST",
+          "role": "primary"
+        },
+        {
+          "text": "DOES SOCIAL COST DETER UPTAKE EVEN WHEN ACCESS EXISTS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PRIOR SCHOOLING → is the entitlement usable at the required standard",
+        "INFORMATION → does the household know the entitlement exists",
+        "REACH → can it be accessed without prohibitive travel or cost",
+        "STIGMA → does social cost deter uptake even when access exists"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRIOR SCHOOLING → is the entitlement usable at the required standard",
+            "INFORMATION → does the household know the entitlement exists"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REACH → can it be accessed without prohibitive travel or cost",
+            "STIGMA → does social cost deter uptake even when access exists"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRIOR SCHOOLING → is the entitlement usable at the required standard",
+            "INFORMATION → does the household know the entitlement exists"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STIGMA → does social cost deter uptake even when access exists.",
+      "source_references": [
+        "Which conversion factors decide use",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MOBILITY TYPES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MOBILITY TYPES",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "POSITION FOLLOWS ACHIEVEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSED SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "POSITION FOLLOWS BIRTH-ASCRIBED STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL MOBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCUMENTED INCOME, EDUCATION OR OCCUPATION CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSTANTIVE MOBILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN SYSTEM → position follows achievement",
+        "CLOSED SYSTEM → position follows birth-ascribed status",
+        "FORMAL MOBILITY → documented income, education or occupation change",
+        "SUBSTANTIVE MOBILITY → that change plus recognition and freedom from stigma"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OPEN SYSTEM → position follows achievement",
+          "FORMAL MOBILITY → documented income, education or occupation change",
+          "OPEN SYSTEM → position follows achievement"
+        ],
+        [
+          "CLOSED SYSTEM → position follows birth-ascribed status",
+          "SUBSTANTIVE MOBILITY → that change plus recognition and freedom from stigma",
+          "CLOSED SYSTEM → position follows birth-ascribed status"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN SYSTEM → position follows achievement",
+            "CLOSED SYSTEM → position follows birth-ascribed status"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORMAL MOBILITY → documented income, education or occupation change",
+            "SUBSTANTIVE MOBILITY → that change plus recognition and freedom from stigma"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN SYSTEM → position follows achievement",
+            "CLOSED SYSTEM → position follows birth-ascribed status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUBSTANTIVE MOBILITY → that change plus recognition and freedom from stigma.",
+      "source_references": [
+        "Achievement against ascription in stratification",
+        "When a documented gain becomes recognition",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PHULE'S THREE AXES",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PHULE'S THREE AXES",
+          "role": "primary"
+        },
+        {
+          "text": "CRITIQUE OF BRAHMINICAL RITUAL DOMINANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GIRLS' EDUCATION WITH SAVITRIBAI PHULE",
+          "role": "comparison"
+        },
+        {
+          "text": "PEASANT CLASS",
+          "role": "evidence"
+        },
+        {
+          "text": "CRITIQUE OF EXPLOITATIVE AGRARIAN RELATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SATYASHODHAK SAMAJ AS THE REFORM VEHICLE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CASTE → critique of Brahminical ritual dominance",
+        "GENDER → girls' education with Savitribai Phule",
+        "PEASANT CLASS → critique of exploitative agrarian relations",
+        "ORGANISATION → Satyashodhak Samaj as the reform vehicle"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CASTE → critique of Brahminical ritual dominance",
+            "GENDER → girls' education with Savitribai Phule"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PEASANT CLASS → critique of exploitative agrarian relations",
+            "ORGANISATION → Satyashodhak Samaj as the reform vehicle"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CASTE → critique of Brahminical ritual dominance",
+            "GENDER → girls' education with Savitribai Phule"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ORGANISATION → Satyashodhak Samaj as the reform vehicle.",
+      "source_references": [
+        "Phule's cross-cutting diagnosis",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GRADED INEQUALITY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GRADED INEQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE IS NOT BENIGN DIVISION OF LABOUR",
+          "role": "caution"
+        },
+        {
+          "text": "EACH CASTE LOOKS DOWN AND SIMULTANEOUSLY ASPIRES UPWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "RELIGIOUS SANCTION ON ENDOGAMY REPRODUCES THE GRADE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE SYSTEM SUPPLIES DEFENDERS AT EVERY LEVEL",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WELFARE IS NOT EMPOWERMENT, FORMAL INCLUSION IS NOT SUBSTANTIVE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLAIM → caste is not benign division of labour",
+        "STRUCTURE → each caste looks down and simultaneously aspires upward",
+        "SANCTION → religious sanction on endogamy reproduces the grade",
+        "CONSEQUENCE → the system supplies defenders at every level",
+        "CLOSE DISTINCTION: Welfare is not empowerment, formal inclusion is not substantive access, equality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLAIM → caste is not benign division of labour",
+            "STRUCTURE → each caste looks down and simultaneously aspires upward",
+            "SANCTION → religious sanction on endogamy reproduces the grade"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSEQUENCE → the system supplies defenders at every level",
+            "CLOSE DISTINCTION: Welfare is not empowerment, formal inclusion is not substantive access, equality",
+            "is not uniform treatment, reservation is not the whole of social justice, and"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "constitutional rights, statutory commissions, executive schemes and community institutions have different mandates."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Welfare is not empowerment, formal inclusion is not substantive access, equality is not uniform treatment, reservation is not the whole of social justice, and constitutional rights, statutory commissions, executive schemes and community institutions have different mandates.",
+      "source_references": [
+        "Ambedkar's graded inequality",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REFORM AGAINST ANNIHILATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REFORM AGAINST ANNIHILATION",
+          "role": "primary"
+        },
+        {
+          "text": "PIECEMEAL REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE GROUP IMPROVES ITS OWN RELATIVE POSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE GRADED STRUCTURE SURVIVES THE IMPROVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DISMANTLE CASTE AS AN INSTITUTION, NOT ADJUST IT",
+          "role": "caution"
+        },
+        {
+          "text": "CONSTITUTIONAL DOCTRINE ROUTED TO POLITY AND SOCIAL JUSTICE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PIECEMEAL REFORM → one group improves its own relative position",
+        "LIMIT → the graded structure survives the improvement",
+        "ANNIHILATION → dismantle caste as an institution, not adjust it",
+        "BOUNDARY → constitutional doctrine routed to Polity and Social Justice"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PIECEMEAL REFORM → one group improves its own relative position",
+          "ANNIHILATION → dismantle caste as an institution, not adjust it",
+          "PIECEMEAL REFORM → one group improves its own relative position"
+        ],
+        [
+          "LIMIT → the graded structure survives the improvement",
+          "BOUNDARY → constitutional doctrine routed to Polity and Social Justice",
+          "LIMIT → the graded structure survives the improvement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PIECEMEAL REFORM → one group improves its own relative position",
+            "LIMIT → the graded structure survives the improvement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANNIHILATION → dismantle caste as an institution, not adjust it",
+            "BOUNDARY → constitutional doctrine routed to Polity and Social Justice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PIECEMEAL REFORM → one group improves its own relative position",
+            "LIMIT → the graded structure survives the improvement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → constitutional doctrine routed to Polity and Social Justice.",
+      "source_references": [
+        "The structural conclusion Ambedkar drew",
+        "Reading Phule and Ambedkar together",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TWO DIAGNOSES COMPARED",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO DIAGNOSES COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE, GENDER AND PEASANT CLASS AS ONE STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WHY THE STRUCTURE REPRODUCES ITSELF",
+          "role": "comparison"
+        },
+        {
+          "text": "WHERE AN INTERVENTION MUST ACT TO CHANGE A LIFE",
+          "role": "institution"
+        },
+        {
+          "text": "THREE DISTINCT TOOLS, NEVER ONE MERGED REFORM NARRATIVE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PHULE → breadth: caste, gender and peasant class as one structure",
+        "AMBEDKAR → depth: why the structure reproduces itself",
+        "SEN → site: where an intervention must act to change a life",
+        "USE → three distinct tools, never one merged reform narrative"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PHULE → breadth: caste, gender and peasant class as one structure",
+          "SEN → site: where an intervention must act to change a life",
+          "PHULE → breadth: caste, gender and peasant class as one structure"
+        ],
+        [
+          "AMBEDKAR → depth: why the structure reproduces itself",
+          "USE → three distinct tools, never one merged reform narrative",
+          "AMBEDKAR → depth: why the structure reproduces itself"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PHULE → breadth: caste, gender and peasant class as one structure",
+            "AMBEDKAR → depth: why the structure reproduces itself"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEN → site: where an intervention must act to change a life",
+            "USE → three distinct tools, never one merged reform narrative"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PHULE → breadth: caste, gender and peasant class as one structure",
+            "AMBEDKAR → depth: why the structure reproduces itself"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → three distinct tools, never one merged reform narrative.",
+      "source_references": [
+        "Reading Phule and Ambedkar together",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LOCATING THE GAP",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOCATING THE GAP",
+          "role": "primary"
+        },
+        {
+          "text": "ENTITLEMENT EXISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPREHENSIVE EQUITY AND SOCIAL-JUSTICE POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERSION FAILS",
+          "role": "evidence"
+        },
+        {
+          "text": "SCHOOLING, INFORMATION, DISTANCE, STIGMA",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOME SHORTFALL",
+          "role": "outcome"
+        },
+        {
+          "text": "BENEFIT NOT FULLY REALISED BY THE TARGET GROUP",
+          "role": "caution"
+        },
+        {
+          "text": "CAPABILITY BUILDING, NOT ENTITLEMENT EXPANSION ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ENTITLEMENT EXISTS → comprehensive equity and social-justice policy",
+        "CONVERSION FAILS → schooling, information, distance, stigma",
+        "OUTCOME SHORTFALL → benefit not fully realised by the target group",
+        "REMEDY → capability building, not entitlement expansion alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENTITLEMENT EXISTS → comprehensive equity and social-justice policy",
+            "CONVERSION FAILS → schooling, information, distance, stigma"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME SHORTFALL → benefit not fully realised by the target group",
+            "REMEDY → capability building, not entitlement expansion alone"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENTITLEMENT EXISTS → comprehensive equity and social-justice policy",
+            "CONVERSION FAILS → schooling, information, distance, stigma"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REMEDY → capability building, not entitlement expansion alone.",
+      "source_references": [
+        "Locating the affirmative-action shortfall",
+        "Interventions that act at the conversion stage",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ESTIMATE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ESTIMATE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "NITI AAYOG DISCUSSION PAPER OF 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTIDIMENSIONAL POVERTY IN INDIA SINCE 2005-06",
+          "role": "comparison"
+        },
+        {
+          "text": "11.28 PER CENT MULTIDIMENSIONAL POVERTY IN 2022-23",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 24.8 CRORE PERSONS BETWEEN 2013-14 AND 2022-23",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SOURCE → NITI Aayog discussion paper of 2024",
+        "TITLE → Multidimensional Poverty in India since 2005-06",
+        "ESTIMATE → 11.28 per cent multidimensional poverty in 2022-23",
+        "EXITS → about 24.8 crore persons between 2013-14 and 2022-23"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOURCE → NITI Aayog discussion paper of 2024",
+          "ESTIMATE → 11.28 per cent multidimensional poverty in 2022-23",
+          "SOURCE → NITI Aayog discussion paper of 2024"
+        ],
+        [
+          "TITLE → Multidimensional Poverty in India since 2005-06",
+          "EXITS → about 24.8 crore persons between 2013-14 and 2022-23",
+          "TITLE → Multidimensional Poverty in India since 2005-06"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE → NITI Aayog discussion paper of 2024",
+            "TITLE → Multidimensional Poverty in India since 2005-06"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ESTIMATE → 11.28 per cent multidimensional poverty in 2022-23",
+            "EXITS → about 24.8 crore persons between 2013-14 and 2022-23"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → NITI Aayog discussion paper of 2024",
+            "TITLE → Multidimensional Poverty in India since 2005-06"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXITS → about 24.8 crore persons between 2013-14 and 2022-23.",
+      "source_references": [
+        "Reading the multidimensional estimate honestly",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THREE BOUNDARY CASES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE BOUNDARY CASES",
+          "role": "primary"
+        },
+        {
+          "text": "ENTITLEMENT WITHOUT CAPABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMITTED SEAT, WEAK PRIOR SCHOOLING",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPABILITY BUILT",
+          "role": "evidence"
+        },
+        {
+          "text": "BRIDGE COURSE AND MENTORING BEFORE AND DURING STUDY",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL WITHOUT SUBSTANTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGHER INCOME, CONTINUING SOCIAL EXCLUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH CASE FIXES ONE LINK IN THE CONVERSION CHAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENTITLEMENT WITHOUT CAPABILITY → admitted seat, weak prior schooling",
+        "CAPABILITY BUILT → bridge course and mentoring before and during study",
+        "FORMAL WITHOUT SUBSTANTIVE → higher income, continuing social exclusion",
+        "READING → each case fixes one link in the conversion chain"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ENTITLEMENT WITHOUT CAPABILITY → admitted seat, weak prior schooling",
+          "FORMAL WITHOUT SUBSTANTIVE → higher income, continuing social exclusion",
+          "ENTITLEMENT WITHOUT CAPABILITY → admitted seat, weak prior schooling"
+        ],
+        [
+          "CAPABILITY BUILT → bridge course and mentoring before and during study",
+          "READING → each case fixes one link in the conversion chain",
+          "CAPABILITY BUILT → bridge course and mentoring before and during study"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENTITLEMENT WITHOUT CAPABILITY → admitted seat, weak prior schooling",
+            "CAPABILITY BUILT → bridge course and mentoring before and during study"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORMAL WITHOUT SUBSTANTIVE → higher income, continuing social exclusion",
+            "READING → each case fixes one link in the conversion chain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENTITLEMENT WITHOUT CAPABILITY → admitted seat, weak prior schooling",
+            "CAPABILITY BUILT → bridge course and mentoring before and during study"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → each case fixes one link in the conversion chain.",
+      "source_references": [
+        "Boundary cases, ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EMPOWERMENT ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EMPOWERMENT ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE EMPOWERMENT AS CAPABILITY AND AGENCY, NOT RECEIPT",
+          "role": "caution"
+        },
+        {
+          "text": "ENTITLEMENT, CONVERSION FACTOR AND OUTCOME NAMED IN ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASES THAT BREAK AN ENTITLEMENT-ONLY CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPABILITY-BUILDING VERDICT WITH A DATED ESTIMATE CAVEAT",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ANALYSE SC, ST, OBC, MINORITY, DISABILITY, TRANSGENDER, ELDERLY AND",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → define empowerment as capability and agency, not receipt",
+        "BODY → entitlement, conversion factor and outcome named in order",
+        "TEST → boundary cases that break an entitlement-only claim",
+        "CLOSE → capability-building verdict with a dated estimate caveat",
+        "EVIDENCE LIMIT: Analyse SC, ST, OBC, minority, disability, transgender, elderly and other experiences without merging"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → define empowerment as capability and agency, not receipt",
+            "BODY → entitlement, conversion factor and outcome named in order"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → boundary cases that break an entitlement-only claim",
+            "CLOSE → capability-building verdict with a dated estimate caveat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Analyse SC, ST, OBC, minority, disability, transgender, elderly and other experiences without merging them",
+            "use Articles 14-17, 21, 38, 46 and relevant commissions/laws precisely, separating entitlement, implementation, uptake and outcome."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → capability-building verdict with a dated estimate caveat.",
+      "source_references": [
+        "Boundary cases, ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\08_Social-Empowerment.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-08\\g3\\indian-society-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CAPABILITY-BUILDING COMPLEMENTS TO ENTITLEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY-CHILDHOOD EDUCATION QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM-MOVEMENT LEGACY INSTITUTIONS (CROSS-LINKED)",
+          "role": "evidence"
+        },
+        {
+          "text": "THE CHRONOLOGICAL",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — ENTITLEMENT WITHOUT CAPABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "A RESERVED-CATEGORY STUDENT",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — CAPABILITY-BUILDING SUCCESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Capability-building complements to entitlement: early-childhood education quality,",
+            "CAUTION: Reform-movement legacy institutions (cross-linked): the chronological",
+            "CAUTION: Boundary case 1 — entitlement without capability: a reserved-category student",
+            "CAUTION: Boundary case 2 — capability-building success: a bridge-course or mentoring"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 3 — formal mobility without substantive mobility: a family that has",
+            "CAUTION: Policy-design-versus-conversion-factor trade-off: expanding entitlement coverage",
+            "CAUTION: Aggregate-mobility-versus-social-recognition trade-off: formal economic mobility",
+            "CAUTION: Annihilation-versus-gradual-reform trade-off: Ambedkar's structural"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Amartya Sen's capability approach distinguishes resource/welfare measures from real",
+            "Ambedkar's \"graded inequality\" concept explains why every caste (except the lowest) has",
+            "Phule's Satyashodhak Samaj addressed caste, gender and peasant-class disadvantage as",
+            "NITI Aayog's 2024 discussion paper Multidimensional Poverty in India since 2005-06"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

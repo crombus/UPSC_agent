@@ -1,0 +1,1 @@
+Edit topic-spec.json or the canonical manifest spec, then regenerate through tools\refresh_all_v2_learning_sessions.py. The ASCII master is a separate authored artifact and must not be rendered as card text.

@@ -1,0 +1,241 @@
+ASCII MASTER FLOW — PANEL 1/12: Pre-GST fragmentation and the 101st Amendment compact
+PRE-GST PROBLEM
+manufacture tax + service tax + State VAT/CST + entry levies
+-> broken cross-credit + cascading + border friction.
+
+101ST AMENDMENT ACT, 2016
+Article 246A -> special shared GST competence.
+Article 269A -> inter-State levy, collection and apportionment.
+Article 279A -> Union-State GST Council.
+Article 366(12A) -> GST definition.
+
+CONSTITUTIONAL SURGERY
+omitted Article 268A + changed distribution provisions and Seventh Schedule entries.
+
+CORE IDEA
+pooled fiscal sovereignty for a destination-based common market.
+
+LIMIT
+"One Nation, One Tax" is shorthand; India operates dual GST with exclusions and variations.
+MUST REMEMBER: Separate Articles 246A, 269A and 279A, the Council's recommendation,
+  legislative enactment and delegated notification at every stage.
+
+ASCII MASTER FLOW — PANEL 2/12: Articles 246A, 269A and the dual-GST architecture
+INTRA-STATE SUPPLY
+Central law -> CGST | State/UT law -> SGST/UTGST.
+
+INTER-STATE SUPPLY: ARTICLE 246A(2)
+Parliament has exclusive GST legislative power.
+
+ARTICLE 269A
+Government of India levies and collects IGST
+-> parliamentary law on place of supply and apportionment
+-> settlement between Union and destination State.
+
+IMPORT
+deemed inter-State supply for GST architecture.
+
+ARTICLE 286
+limits State taxation of supplies outside the State or in import/export course.
+
+TRAP
+IGST is not a third destination government's tax; it is the settlement bridge
+for an integrated dual-GST system.
+
+ASCII MASTER FLOW — PANEL 3/12: IGST, place of supply and destination settlement
+INTER-STATE SUPPLY
+Parliament has exclusive GST competence under Article 246A(2).
+
+ARTICLE 269A
+Government of India levies and collects IGST
+-> Parliament provides apportionment by law on Council recommendation.
+
+PLACE OF SUPPLY
+Parliament formulates principles under Article 269A(5).
+
+CREDIT-SETTLEMENT BRIDGE
+supplier State -> IGST collection/credit -> destination State revenue.
+
+IMPORTS
+deemed inter-State supplies.
+
+TRAP
+IGST coordinates dual GST; it is not a third level's final tax.
+
+ASCII MASTER FLOW — PANEL 4/12: Article 279A composition and institutional support
+COMPOSITION
+Union Finance Minister -> Chairperson.
+Union Minister of State for Revenue/Finance.
+State finance/taxation ministers or nominated ministers.
+State members choose a Vice-Chairperson.
+
+ASCII MASTER FLOW — PANEL 5/12: Quorum, voting weights and coalition arithmetic
+QUORUM
+one-half of total membership.
+
+WEIGHTED VOTE
+Union = one-third | States together = two-thirds.
+Decision = at least three-fourths of weighted votes present and voting.
+
+ARITHMETIC
+Union alone cannot pass; States alone cannot pass.
+Union can block because States reach only two-thirds without it.
+With Union support, at least five-eighths of State weight is needed.
+
+PRACTICE
+consensus is preferred, but does not repeal the formal voting rule.
+
+ASCII MASTER FLOW — PANEL 6/12: Council functions and recommendation-to-law chain
+INSTITUTIONAL SUPPORT
+GST Council Secretariat -> agenda, records, coordination and implementation follow-up.
+
+PROCEDURE
+proposal -> committee/officer analysis -> agenda note -> meeting
+-> consensus or weighted vote -> minutes/recommendation -> legal instrument.
+
+LEGAL-EFFECT CHAIN
+constitutional recommendation
+-> Parliament/State legislature enacts or amends statute
+or authorised executive issues rule/notification
+-> taxpayer obligation.
+
+RECOMMENDATION FIELDS
+subsumed taxes | taxable/exempt supplies | model laws | place of supply
+| thresholds | rates/bands | disaster rate | petroleum date | special provisions.
+
+LEGAL-EFFECT RULE
+recommendation -> statute/rule/notification -> effective date -> liability.
+CLOSE DISTINCTION: Quorum is one-half; the Union has one-third vote weight, States together
+  two-thirds, and a decision needs at least three-fourths of weighted votes of members present
+  and voting.
+
+ASCII MASTER FLOW — PANEL 7/12: Alcohol, petroleum, electricity and tax-base boundaries
+ALCOHOLIC LIQUOR FOR HUMAN CONSUMPTION
+excluded from Article 366(12A) GST definition.
+
+FIVE PETROLEUM PRODUCTS
+GST levy begins from a date recommended under Article 279A(5);
+until then, retained excise/VAT fields continue.
+
+TOBACCO
+within GST while retained Union excise competence also exists.
+
+ELECTRICITY
+not excluded by the GST definition like alcohol;
+electricity duty remains under Entry 53 and supply treatment needs exact law.
+
+RATE / EXEMPTION / THRESHOLD
+Council recommendation -> competent notification or legislation.
+
+INPUT-TAX CREDIT
+reduces cascading where statutory eligibility and compliance conditions are met.
+
+TRAP
+do not convert a press release into a self-executing tax rate.
+
+ASCII MASTER FLOW — PANEL 8/12: Compensation bargain, pandemic loans and June 2022 boundary
+COMPENSATION ACT, 2017
+base year 2015-16 -> projected annual revenue growth 14%
+-> protected revenue minus actual revenue -> compensation gap.
+
+FUNDING
+compensation cess on specified supplies -> Compensation Fund.
+
+TRANSITION
+five years from GST introduction -> entitlement ended in June 2022.
+
+PANDEMIC SHOCK
+revenue/cess shortfall -> back-to-back borrowing arrangement
+-> cess continued for servicing principal and interest.
+
+CURRENT CONTROL: 24 AUGUST 2026
+later cess collection for loan servicing != renewed five-year compensation entitlement.
+
+REFORM LESSON
+future shocks need transparent accounts, predictable settlement and negotiated burden sharing.
+
+ASCII MASTER FLOW — PANEL 9/12: Mohit Minerals (2022): persuasion and statute-bound delegated action
+Mohit Minerals (2022)
+
+CONSTITUTIONAL HOLDING
+Article 279A recommendations are persuasive and carry cooperative value;
+they are not binding commands on Parliament or State legislatures.
+
+WHY
+Article 246A gives simultaneous legislative power
+and Indian federalism works through dialogue, not Council hierarchy.
+
+STATUTORY QUALIFICATION
+where GST legislation conditions delegated rules or notifications
+on Council recommendation, the executive must obey that statute.
+
+CASE RESULT
+ocean-freight levy failed within the statutory composite-supply framework.
+
+TRAP
+non-binding recommendation != irrelevant Council
+and it does not authorise executive action contrary to enacted GST law.
+
+ASCII MASTER FLOW — PANEL 10/12: Article 279A(11), accountability and dispute design
+ARTICLE 279A(11)
+Council shall establish a mechanism for specified disputes:
+Union v State(s) | Union + State(s) v other State(s) | State v State,
+arising from recommendations or implementation.
+
+CURRENT CONTROL: 28 AUGUST 2026
+no complete publicly verified adjudicatory mechanism is asserted operational.
+
+DO NOT CONFUSE
+GSTAT/taxpayer appeal != constitutional intergovernmental mechanism.
+
+DESIGN TEST
+neutral panel + jurisdiction + hearing + reasons + time limit + review.
+
+ASCII MASTER FLOW — PANEL 11/12: Federal gains, autonomy costs and institutional comparisons
+GST COUNCIL
+continuous bargaining over a pooled indirect-tax base.
+
+FINANCE COMMISSION
+periodic Article 280 recommendation on divisible taxes and grants.
+
+FEDERAL GAINS
+common market + destination settlement + shared rule forum + coordinated compliance.
+
+FEDERAL COSTS
+reduced unilateral State rate space + Union veto capacity
+| compensation trust deficit | unequal administrative capacity.
+
+TECHNOLOGY CHAIN
+registration -> invoice/reporting -> credit matching -> return/payment
+-> analytics -> audit/appeal.
+
+CAUTION
+digital trace improves verification but can create exclusion, mismatch and refund burdens.
+
+REFORM
+publish revenue models + reasoned minutes + stable rate design
+-> operational dispute mechanism + stronger State capacity.
+
+ASCII MASTER FLOW — PANEL 12/12: Current controls, PYQ routes and answer spine
+DATED ANCHORS
+56th Council meeting release: 3 September 2025.
+April 2026 Secretariat newsletter: notification-on-recommendation example.
+No commodity-wise current rate list is frozen.
+
+PRELIMS FIREWALL
+quorum one-half | Union one-third | States two-thirds
+| decision threshold three-fourths weighted
+| alcohol excluded | petroleum deferred | electricity separately treated
+| recommendation != legislation | compensation entitlement ended June 2022.
+
+PYQ ROUTES
+2018 exemption mechanics | 2019 subsumed taxes | 2020 compensation
+| 2023 101st Amendment/federalism | 2025 fiscal-federalism adjacency.
+
+MAINS SPINE
+pre-GST defect -> three-Article architecture -> Council bargain
+-> legal-effect limit -> federal gain/cost -> dated anchor
+-> transparent, predictable and cooperative reform verdict.
+LEGAL/SOURCE LIMIT: The 56th meeting of 3 September 2025 is the latest official meeting
+  release located. Mohit Minerals (2022) remains the controlling rule that Council
+  recommendations are persuasive, not binding.

@@ -1,0 +1,1310 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-27",
+  "subject": "Polity",
+  "title": "ELECTION COMMISSION",
+  "short_route": "ARTICLE 324 AND THE → APPOINTMENT ACT, TENURE, REMOVAL → ELECTION ADMINISTRATION FROM SCHEDULE → RPA INTERFACE, DELIMITATION BOUNDARY → POLITICAL PARTIES, SYMBOLS AND → CAMPAIGN FINANCE, CRIMINALISATION, PAID",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-27-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "5f07dfbbf207435cf3323939903ec17b7c9b249fcb0bf4b7eb916e4cc730652e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ARTICLE 324 AND THE COLLEGIAL ELECTION COMMISSION",
+      "structural_type": "eci-constitutional-architecture",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 324 AND THE COLLEGIAL ELECTION COMMISSION",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 324 SUPERINTENDENCE, DIRECTION AND CONTROL OF ROLLS AND",
+          "role": "institution"
+        },
+        {
+          "text": "STATE LEGISLATURES",
+          "role": "institution"
+        },
+        {
+          "text": "CEC + SUCH NUMBER OF ELECTION COMMISSIONERS AS PRESIDENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESIDENT MAY APPOINT REGIONAL COMMISSIONERS AFTER CONSULTING THE ECI.",
+          "role": "primary"
+        },
+        {
+          "text": "COLLEGIALITY MULTI-MEMBER COMMISSION DECIDES BY MAJORITY UNDER THE GOVERNING",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSION LOCAL-BODY ELECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE ELECTION COMMISSIONS UNDER ARTICLES 243K AND 243ZA.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 324 superintendence, direction and control of rolls and elections to",
+        "State legislatures",
+        "CEC + such number of Election Commissioners as President fixes.",
+        "President may appoint Regional Commissioners after consulting the ECI.",
+        "COLLEGIALITY multi-member Commission decides by majority under the governing statute."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 324 superintendence, direction and control of rolls and elections to",
+            "State legislatures",
+            "CEC + such number of Election Commissioners as President fixes."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "President may appoint Regional Commissioners after consulting the ECI.",
+            "COLLEGIALITY multi-member Commission decides by majority under the governing statute.",
+            "EXCLUSION local-body elections → State Election Commissions under Articles 243K and 243ZA."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSTITUTIONAL POSITION independent election manager + distributed field machinery bounded",
+            "by Constitution, enacted law, natural justice and judicial review.",
+            "MUST REMEMBER: Separate Article 324, Articles 325-329, the RPA 1950, the RPA 1951, the 2023 appointment Act and the non-statutory Model Code."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "President may appoint Regional Commissioners after consulting the ECI."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Separate Article 324, Articles 325-329, the RPA 1950, the RPA 1951, the 2023 appointment Act and the non-statutory Model Code.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "APPOINTMENT ACT, TENURE, REMOVAL AND INDEPENDENCE SAFEGUARDS",
+      "structural_type": "eci-appointment-independence-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "APPOINTMENT ACT, TENURE, REMOVAL AND INDEPENDENCE SAFEGUARDS",
+          "role": "institution"
+        },
+        {
+          "text": "ANOOP BARANWAL (2023) INTERIM PM + OPPOSITION LEADER +",
+          "role": "outcome"
+        },
+        {
+          "text": "2023 APPOINTMENT ACT",
+          "role": "institution"
+        },
+        {
+          "text": "SEARCH COMMITTEE LED BY LAW MINISTER",
+          "role": "evidence"
+        },
+        {
+          "text": "PANEL OF FIVE",
+          "role": "primary"
+        },
+        {
+          "text": "SELECTION COMMITTEE",
+          "role": "outcome"
+        },
+        {
+          "text": "PM + UNION CABINET MINISTER + OPPOSITION LEADER",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESIDENT APPOINTS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Anoop Baranwal (2023) interim PM + Opposition leader + CJI committee only until Parliament made",
+        "2023 APPOINTMENT ACT",
+        "Search Committee led by Law Minister → panel of five",
+        "Selection Committee: PM + Union Cabinet Minister + Opposition leader",
+        "President appoints."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Anoop Baranwal (2023) interim PM + Opposition leader + CJI committee only until Parliament made a law.",
+            "2023 APPOINTMENT ACT",
+            "Search Committee led by Law Minister → panel of five"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Selection Committee: PM + Union Cabinet Minister + Opposition leader",
+            "President appoints.",
+            "TERM six years or age 65, whichever earlier; no reappointment under the Act."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CEC → like Supreme Court judge.",
+            "EC/Regional Commissioner → President only on CEC recommendation.",
+            "CURRENT LEGAL CONTROL: 24 AUGUST 2026"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Act operates; challenge pending; no claim of final validation or invalidation.",
+            "INDEPENDENCE TEST appointment + removal + finance + secretariat + staff + transparent reasons."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDEPENDENCE TEST appointment + removal + finance + secretariat + staff + transparent reasons.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ELECTION ADMINISTRATION FROM SCHEDULE AND ROLLS TO REPOLL",
+      "structural_type": "election-administration-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ELECTION ADMINISTRATION FROM SCHEDULE AND ROLLS TO REPOLL",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATIVE CHAIN ROLL REVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULE ANNOUNCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY NOTIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ELECTION-PETITION ROUTE.",
+          "role": "primary"
+        },
+        {
+          "text": "ROLLS CITIZENSHIP + QUALIFYING AGE + ORDINARY RESIDENCE +",
+          "role": "outcome"
+        },
+        {
+          "text": "FIELD CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "RETURNING OFFICERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADMINISTRATIVE CHAIN roll revision → schedule announcement → statutory notification",
+        "nomination → scrutiny → withdrawal → campaign",
+        "poll → count → result → election-petition route.",
+        "ROLLS citizenship + qualifying age + ordinary residence + inclusion/deletion due process.",
+        "FIELD CONTROL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ADMINISTRATIVE CHAIN roll revision → schedule announcement → statutory notification",
+            "nomination → scrutiny → withdrawal → campaign",
+            "poll → count → result → election-petition route."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ROLLS citizenship + qualifying age + ordinary residence + inclusion/deletion due process.",
+            "FIELD CONTROL",
+            "Returning Officers"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "security coordination",
+            "expenditure teams.",
+            "URGENT INTEGRITY POWER adjournment, repoll or countermand only through the applicable legal basis and facts."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DISQUALIFICATION ADVICE",
+            "President under Article 103 and Governor under Article 192 obtain ECI opinion.",
+            "Tenth Schedule disqualification belongs to Speaker/Chairman, not ECI."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "poll → count → result → election-petition route.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RPA INTERFACE, DELIMITATION BOUNDARY, VOTER REGISTRATION AND NOTA",
+      "structural_type": "rpa-delimitation-nota-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RPA INTERFACE, DELIMITATION BOUNDARY, VOTER REGISTRATION AND NOTA",
+          "role": "primary"
+        },
+        {
+          "text": "RPA 1950 SEAT ALLOCATION/DELIMITATION FRAMEWORK + ELECTORAL ROLLS +",
+          "role": "outcome"
+        },
+        {
+          "text": "RPA 1951 CONDUCT, CANDIDATES, EXPENSES, CORRUPT PRACTICES, DISQUALIFICATIONS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "DELIMITATION COMMISSION IS THE STATUTORY AUTHORITY WHEN CONSTITUTED",
+          "role": "evidence"
+        },
+        {
+          "text": "CEC/ECI PARTICIPATES AS LAW PROVIDES BUT IS NOT THE",
+          "role": "caution"
+        },
+        {
+          "text": "PEOPLE'S UNION FOR CIVIL LIBERTIES (2013) SECRET NOTA PROTECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTA LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NOTA PLURALITY DOES NOT AUTOMATICALLY CANCEL THE ELECTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RPA 1950 seat allocation/delimitation framework + electoral rolls + eligibility architecture.",
+        "RPA 1951 conduct, candidates, expenses, corrupt practices, disqualifications and petitions.",
+        "Delimitation Commission is the statutory authority when constituted",
+        "CEC/ECI participates as law provides but is not the ordinary sole delimiting body.",
+        "People's Union for Civil Liberties (2013) secret NOTA protects voter expression and secrecy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RPA 1950 seat allocation/delimitation framework + electoral rolls + eligibility architecture.",
+            "RPA 1951 conduct, candidates, expenses, corrupt practices, disqualifications and petitions."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Delimitation Commission is the statutory authority when constituted",
+            "CEC/ECI participates as law provides but is not the ordinary sole delimiting body."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "People's Union for Civil Liberties (2013) secret NOTA protects voter expression and secrecy.",
+            "NOTA LIMIT"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "NOTA plurality does not automatically cancel the election or force a repoll.",
+            "ARTICLE 329 electoral process receives anti-interruption protection; post-result petition remains available."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARTICLE 329 electoral process receives anti-interruption protection; post-result petition remains available.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "POLITICAL PARTIES, SYMBOLS AND MODEL CODE ENFORCEMENT",
+      "structural_type": "party-symbol-mcc-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POLITICAL PARTIES, SYMBOLS AND MODEL CODE ENFORCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PARTY REGISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RPA 1951 SECTION 29A",
+          "role": "comparison"
+        },
+        {
+          "text": "SYMBOLS ORDER, 1968",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL/STATE RECOGNITION, RESERVED/FREE SYMBOLS AND QUASI-JUDICIAL SYMBOL DISPUTES.",
+          "role": "institution"
+        },
+        {
+          "text": "MODEL CODE OF CONDUCT CONSENSUS-BASED NON-STATUTORY CODE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATES FROM ELECTION-SCHEDULE ANNOUNCEMENT UNTIL COMPLETION",
+          "role": "comparison"
+        },
+        {
+          "text": "RAPID PREVENTIVE CORRECTION AND LEVEL-PLAYING-FIELD CONTROL.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PARTY REGISTRATION",
+        "RPA 1951 section 29A → registration.",
+        "RECOGNITION / SYMBOL",
+        "Symbols Order, 1968 → national/State recognition, reserved/free symbols and quasi-judicial symbol disputes.",
+        "MODEL CODE OF CONDUCT consensus-based non-statutory code → operates from election-schedule"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PARTY REGISTRATION",
+            "RPA 1951 section 29A → registration.",
+            "RECOGNITION / SYMBOL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Symbols Order, 1968 → national/State recognition, reserved/free symbols and quasi-judicial symbol disputes.",
+            "MODEL CODE OF CONDUCT consensus-based non-statutory code → operates from election-schedule",
+            "announcement until completion → rapid preventive correction and level-playing-field control."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGAL OVERLAP bribery, communal appeals, expenditure and other conduct may independently violate law.",
+            "LIMITS registration != recognition",
+            "symbol jurisdiction != every internal party dispute"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MCC is not by itself a complete penal code."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MCC is not by itself a complete penal code.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CAMPAIGN FINANCE, CRIMINALISATION, PAID NEWS AND SOCIAL-MEDIA LIMITS",
+      "structural_type": "campaign-integrity-risk-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CAMPAIGN FINANCE, CRIMINALISATION, PAID NEWS AND SOCIAL-MEDIA LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "CAMPAIGN FINANCE CANDIDATE ACCOUNT + STATUTORY CEILING + OBSERVERS/TEAMS",
+          "role": "outcome"
+        },
+        {
+          "text": "!= ONE IDENTICAL CEILING FOR TOTAL POLITICAL-PARTY CAMPAIGN SPENDING.",
+          "role": "comparison"
+        },
+        {
+          "text": "CRIMINALISATION CANDIDATE AFFIDAVIT DISCLOSURE + RPA DISQUALIFICATION + COURT",
+          "role": "institution"
+        },
+        {
+          "text": "ECI CANNOT INVENT NEW CONVICTION OR DISQUALIFICATION GROUNDS.",
+          "role": "primary"
+        },
+        {
+          "text": "PAID NEWS MEDIA MONITORING",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPENSE ATTRIBUTION OR LEGAL ROUTE WHERE SUPPORTED.",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL MEDIA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAMPAIGN FINANCE candidate account + statutory ceiling + observers/teams",
+        "!= one identical ceiling for total political-party campaign spending.",
+        "CRIMINALISATION candidate affidavit disclosure + RPA disqualification + court process.",
+        "ECI cannot invent new conviction or disqualification grounds.",
+        "PAID NEWS media monitoring → evidence → expense attribution or legal route where supported."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CAMPAIGN FINANCE candidate account + statutory ceiling + observers/teams",
+            "!= one identical ceiling for total political-party campaign spending.",
+            "CRIMINALISATION candidate affidavit disclosure + RPA disqualification + court process.",
+            "ECI cannot invent new conviction or disqualification grounds."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PAID NEWS media monitoring → evidence → expense attribution or legal route where supported.",
+            "SOCIAL MEDIA / DEEPFAKES ad certification + MCC/advisories + applicable election/criminal/technology law.",
+            "ECI is not a general platform regulator or universal censor.",
+            "Union of India v. Association for Democratic Reforms (2002)"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "voter right to candidate information.",
+            "REFORM TEST clear law + reasons + equal enforcement + rapid remedy + audit trail.",
+            "CLOSE DISTINCTION: The ECI conducts Union, State, Presidential and Vice-Presidential elections",
+            "State Election Commissions conduct local-body elections, and the Delimitation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Commission remains a distinct statutory body."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: The ECI conducts Union, State, Presidential and Vice-Presidential elections; State Election Commissions conduct local-body elections, and the Delimitation.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EVM-VVPAT ARCHITECTURE AND CURRENT JUDICIAL CONTROLS",
+      "structural_type": "evm-vvpat-trust-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVM-VVPAT ARCHITECTURE AND CURRENT JUDICIAL CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "POLLING CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "BALLOT UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "VVPAT SLIP DISPLAY/DROP",
+          "role": "primary"
+        },
+        {
+          "text": "SEALED RECORDS",
+          "role": "outcome"
+        },
+        {
+          "text": "COUNTING PROTOCOL.",
+          "role": "comparison"
+        },
+        {
+          "text": "VVPAT PURPOSE VOTER-VERIFIABLE PAPER AUDIT TRAIL, NOT A TAKE-HOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POLLING CHAIN",
+        "Ballot Unit → Control Unit → VVPAT slip display/drop → sealed records → counting protocol.",
+        "VVPAT PURPOSE voter-verifiable paper audit trail, not a take-home ballot.",
+        "Association for Democratic Reforms v. Election Commission of India (2024) rejected paper-ballot return and universal",
+        "added limited post-result technical safeguards."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "POLLING CHAIN",
+            "Ballot Unit → Control Unit → VVPAT slip display/drop → sealed records → counting protocol.",
+            "VVPAT PURPOSE voter-verifiable paper audit trail, not a take-home ballot."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Association for Democratic Reforms v. Election Commission of India (2024) rejected paper-ballot return and universal 100% VVPAT counting",
+            "added limited post-result technical safeguards.",
+            "2025 FOLLOW-UP candidate-requested diagnostic/check process operates within the Court's stated protocol."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER DISCIPLINE device security + roll accuracy + staff neutrality + campaign fairness",
+            "transparent audit + reasoned judicial/administrative safeguards.",
+            "LIMIT unsupported fraud claims and unsupported infallibility claims are both exam-unsafe."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Association for Democratic Reforms v. Election Commission of India (2024) rejected paper-ballot return and universal 100% VVPAT counting"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT unsupported fraud claims and unsupported infallibility claims are both exam-unsafe.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARTICLE 324 CASE-LAW CODE: POWER, LAW, COLLEGIALITY AND RIGHTS",
+      "structural_type": "eci-case-law-doctrine-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLE 324 CASE-LAW CODE",
+          "role": "institution"
+        },
+        {
+          "text": "POWER, LAW, COLLEGIALITY AND RIGHTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "MOHINDER SINGH GILL (1977)",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 324 IS A RESERVOIR WHERE LAW IS SILENT",
+          "role": "institution"
+        },
+        {
+          "text": "A.C. JOSE (1984)",
+          "role": "primary"
+        },
+        {
+          "text": "ECI FILLS GAPS BUT CANNOT ACT CONTRARY TO A",
+          "role": "institution"
+        },
+        {
+          "text": "T.N. SESHAN (1995) MULTI-MEMBER COMMISSION AND EQUAL DECISION-MAKING STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION OF INDIA V. ASSOCIATION FOR DEMOCRATIC REFORMS (2002)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Mohinder Singh Gill (1977)",
+        "Article 324 is a reservoir where law is silent; it cannot override enacted law.",
+        "A.C. Jose (1984)",
+        "ECI fills gaps but cannot act contrary to a field occupied by legislation/rules.",
+        "T.N. Seshan (1995) multi-member Commission and equal decision-making status are constitutionally valid."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "Mohinder Singh Gill (1977)",
+          "ECI fills gaps but cannot act contrary to a field occupied by legislation/rules.",
+          "People's Union for Civil Liberties (2013) secret NOTA protects expression; it is not a binding reject option.",
+          "ECI fills gaps but cannot act contrary to a field occupied by legislation/rules."
+        ],
+        [
+          "Article 324 is a reservoir where law is silent; it cannot override enacted law.",
+          "T.N. Seshan (1995) multi-member Commission and equal decision-making status are constitutionally valid.",
+          "Anoop Baranwal (2023) → temporary appointment rule until legislation.",
+          ""
+        ],
+        [
+          "A.C. Jose (1984)",
+          "Union of India v. Association for Democratic Reforms (2002) candidate disclosure serves the voter's Article 19(1)(a) right.",
+          "The VVPAT ruling is separately controlled by its full 2024 case label in Stage 06.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Mohinder Singh Gill (1977)",
+            "Article 324 is a reservoir where law is silent; it cannot override enacted law.",
+            "A.C. Jose (1984)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ECI fills gaps but cannot act contrary to a field occupied by legislation/rules.",
+            "T.N. Seshan (1995) multi-member Commission and equal decision-making status are constitutionally valid.",
+            "Union of India v. Association for Democratic Reforms (2002) candidate disclosure serves the voter's Article 19(1)(a) right."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "People's Union for Civil Liberties (2013) secret NOTA protects expression; it is not a binding reject option.",
+            "Anoop Baranwal (2023) → temporary appointment rule until legislation.",
+            "The VVPAT ruling is separately controlled by its full 2024 case label in Stage 06."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ECI fills gaps but cannot act contrary to a field occupied by legislation/rules."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Anoop Baranwal (2023) → temporary appointment rule until legislation.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ECI-SEC BOUNDARY, REFORM PRIORITIES, TRAPS AND FINAL ANSWER SPINE",
+      "structural_type": "eci-reform-answer-synthesis",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ECI-SEC BOUNDARY, REFORM PRIORITIES, TRAPS AND FINAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ECI STATE ELECTION COMMISSION",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT/STATE LEGISLATURE/P/VP PANCHAYAT AND MUNICIPAL ELECTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 324 ARTICLES 243K AND 243ZA NATIONAL ELECTION STATUTES",
+          "role": "institution"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CEC REMOVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "EC REMOVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ECI ADVICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ECI STATE ELECTION COMMISSION",
+        "Parliament/State legislature/P/VP Panchayat and municipal elections",
+        "Article 324 Articles 243K and 243ZA national election statutes State local-government election law.",
+        "PRELIMS FIREWALL",
+        "CEC removal != EC removal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ECI STATE ELECTION COMMISSION",
+            "Parliament/State legislature/P/VP Panchayat and municipal elections",
+            "Article 324 Articles 243K and 243ZA national election statutes State local-government election law.",
+            "PRELIMS FIREWALL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CEC removal != EC removal",
+            "ECI advice != Tenth Schedule decision",
+            "ECI assists delimitation != sole delimiting authority party registration != recognition",
+            "NOTA != automatic repoll."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "REFORM credible plural appointment + stable secretariat/finance",
+            "equal collegial security with accountability → transparent complaint orders",
+            "cleaner rolls → faster disputes → audited technology and campaign enforcement.",
+            "MAINS SPINE"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 324 purpose → power/function → legal boundary → case-year",
+            "independence deficit → accountable reform → trust-ecosystem verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "independence deficit → accountable reform → trust-ecosystem verdict.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\polity-27_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "APPOINTMENT-LAW STATUS AND INSTITUTIONAL-INDEPENDENCE TEST",
+      "structural_type": "appointment-law-current-control",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "APPOINTMENT-LAW STATUS AND INSTITUTIONAL-INDEPENDENCE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 324",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT APPOINTS CEC AND ECS SUBJECT TO PARLIAMENTARY LAW.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANOOP BARANWAL (2023)",
+          "role": "evidence"
+        },
+        {
+          "text": "PM + LOP + CJI WAS AN INTERIM RULE",
+          "role": "primary"
+        },
+        {
+          "text": "ACT 49 OF 2023",
+          "role": "institution"
+        },
+        {
+          "text": "SEARCH COMMITTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "ELIGIBLE PANEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 324",
+        "President appoints CEC and ECs subject to parliamentary law.",
+        "ANOOP BARANWAL (2023)",
+        "PM + LoP + CJI was an interim rule only until Parliament enacted a law.",
+        "ACT 49 OF 2023"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 324",
+            "President appoints CEC and ECs subject to parliamentary law.",
+            "ANOOP BARANWAL (2023)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PM + LoP + CJI was an interim rule only until Parliament enacted a law.",
+            "ACT 49 OF 2023",
+            "Search Committee → eligible panel → PM + LoP + nominated Cabinet Minister →"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DATED CONTROL — 28 AUGUST 2026",
+            "Act operative; official 22 March 2024 order declined interim interference; no later official stay or merits judgment located.",
+            "REFORM TEST independence + transparency + diversity + reasoned selection + equal institutional protection."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PM + LoP + CJI was an interim rule only until Parliament enacted a law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PM + LoP + CJI was an interim rule only until Parliament enacted a law.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ROLL, DELIMITATION AND ELECTION-DISPUTE BOUNDARIES",
+      "structural_type": "roll-delimitation-dispute-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ROLL, DELIMITATION AND ELECTION-DISPUTE BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "RPA 1950 SEAT ALLOCATION AND ELECTORAL-ROLL INFRASTRUCTURE; ORDINARY RESIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "DELIMITATION STATUTORY DELIMITATION COMMISSION; ECI PARTICIPATES BUT IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "RPA 1951 NOMINATIONS, CAMPAIGN, POLL, CORRUPT PRACTICES, DISPUTES AND",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 329(B) NO MID-PROCESS CHALLENGE THAT INTERRUPTS ELECTION; POST-RESULT",
+          "role": "caution"
+        },
+        {
+          "text": "HIGH COURT, THEN STATUTORY SUPREME COURT APPEAL.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RPA 1950 seat allocation and electoral-roll infrastructure; ordinary residence, qualifying dates, revision, claims and objections.",
+        "DELIMITATION statutory Delimitation Commission; ECI participates but is not ordinary sole authority.",
+        "RPA 1951 nominations, campaign, poll, corrupt practices, disputes and election petitions.",
+        "ARTICLE 329(b) no mid-process challenge that interrupts election; post-result election petition before",
+        "High Court, then statutory Supreme Court appeal."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RPA 1950 seat allocation and electoral-roll infrastructure; ordinary residence, qualifying dates, revision, claims and objections.",
+            "DELIMITATION statutory Delimitation Commission; ECI participates but is not ordinary sole authority."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RPA 1951 nominations, campaign, poll, corrupt practices, disputes and election petitions.",
+            "ARTICLE 329(b) no mid-process challenge that interrupts election; post-result election petition before"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "High Court, then statutory Supreme Court appeal.",
+            "RPA 1950 seat allocation and electoral-roll infrastructure; ordinary residence, qualifying dates, revision, claims and objections."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DELIMITATION statutory Delimitation Commission; ECI participates but is not ordinary sole authority.",
+            "RPA 1951 nominations, campaign, poll, corrupt practices, disputes and election petitions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARTICLE 329(b) no mid-process challenge that interrupts election; post-result election petition before.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SCHEDULING, REPOLL AND COUNTERMANDING LEGALITY CHAIN",
+      "structural_type": "poll-intervention-legality-chain",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SCHEDULING, REPOLL AND COUNTERMANDING LEGALITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULE ANNOUNCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ECI FIXES THE PROGRAMME UNDER ARTICLE 324 AND ELECTION",
+          "role": "institution"
+        },
+        {
+          "text": "DISTURBED POLL ADJOURNMENT OR REPOLL REQUIRES THE APPLICABLE RPA/CONDUCT",
+          "role": "evidence"
+        },
+        {
+          "text": "CANDIDATE DEATH",
+          "role": "primary"
+        },
+        {
+          "text": "BOOTH CAPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRUPT INFLUENCE USE THE EXACT STATUTORY PROVISION; COUNTERMANDING IS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL REASONED ORDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCHEDULE ANNOUNCEMENT",
+        "ECI fixes the programme under Article 324 and election law; legal notification follows the statutory",
+        "DISTURBED POLL adjournment or repoll requires the applicable RPA/Conduct Rules ground and recorded material.",
+        "CANDIDATE DEATH / BOOTH CAPTURE / CORRUPT INFLUENCE use the exact statutory provision; countermanding is",
+        "CONTROL reasoned order → natural justice where applicable → preserve election timetable → post-result petition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SCHEDULE ANNOUNCEMENT",
+            "ECI fixes the programme under Article 324 and election law; legal notification follows the statutory authority and stage."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DISTURBED POLL adjournment or repoll requires the applicable RPA/Conduct Rules ground and recorded material.",
+            "CANDIDATE DEATH / BOOTH CAPTURE / CORRUPT INFLUENCE use the exact statutory provision; countermanding is not a free-standing political discretion."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTROL reasoned order → natural justice where applicable → preserve election timetable → post-result petition for final election challenge.",
+            "LEGAL/SOURCE LIMIT: The official ECI roster lists CEC Gyanesh Kumar and ECs Dr Sukhbir Singh"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Sandhu and Dr Vivek Joshi. The 2023 Act operates while its section 7 challenge remains undecided.",
+            "SCHEDULE ANNOUNCEMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL reasoned order → natural justice where applicable → preserve election timetable → post-result petition for final election challenge.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTION COMMISSION + ELECTIONS & ELECTORAL REFORMS (ARTICLES 324–329)",
+          "role": "outcome"
+        },
+        {
+          "text": "PART A — ELECTION COMMISSION OF INDIA (ART 324)",
+          "role": "comparison"
+        },
+        {
+          "text": "PART B — ELECTIONS (ART 325–329)",
+          "role": "evidence"
+        },
+        {
+          "text": "PART C — ELECTORAL REFORMS (HIGHLIGHTS)",
+          "role": "primary"
+        },
+        {
+          "text": "NOT CONCERNED WITH PANCHAYAT/MUNICIPALITY POLLS",
+          "role": "caution"
+        },
+        {
+          "text": "THAT'S THE STATE ELECTION COMMISSION .",
+          "role": "institution"
+        },
+        {
+          "text": "CEC REMOVED ONLY LIKE A SUPREME COURT JUDGE (SPECIAL-MAJORITY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Election Commission + Elections & Electoral Reforms (Articles 324–329) — ADVANCED / COMPLETE",
+            "PART A — ELECTION COMMISSION OF INDIA (Art 324)",
+            "PART B — ELECTIONS (Art 325–329)",
+            "PART C — ELECTORAL REFORMS (highlights)"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT concerned with panchayat/municipality polls → that's the State Election Commission .",
+            "CEC removed only like a Supreme Court judge (special-majority resolution of both Houses on proved",
+            "CEC's service conditions can't be varied to his disadvantage after appointment.",
+            "Other ECs / Regional Commissioners removed only on the CEC's recommendation ."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Flaws Laxmikant flags: Constitution prescribes no qualifications , no fixed term (set by law/rules),",
+            "Anoop Baranwal (2023) v. Union of India (March 2023): SC ruled the CEC/ECs be appointed by a committee of",
+            "CEC & Other ECs (Appointment, Conditions of Service and Term of Office) Act, 2023 replaced the CJI with a",
+            "CEC Gyanesh Kumar was appointed in Feb 2025 under the new Act. Status"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

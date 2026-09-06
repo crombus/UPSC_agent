@@ -1,0 +1,185 @@
+ASCII MASTER FLOW — PANEL 1/12: From Company sovereignty to constituent sovereignty, 1765-1950
+1765 DIWANI: revenue power outruns public accountability
+  |
+1773 PARLIAMENTARY REGULATION
+  Regulating Act -> Governor-General of Bengal -> Calcutta Supreme Court
+  |
+1781 JURISDICTION REPAIR -> 1784 DUAL CONTROL
+  Settlement Act          Company administration + Board supervision
+  |
+1813-1853 CHARTER TRANSFORMATION
+  monopoly opened -> Company de-commercialised -> legislation centralised
+  |
+1858 CROWN RULE -> 1861-1892 ASSOCIATION WITHOUT RESPONSIBILITY
+  |
+1909 COMMUNAL REPRESENTATION -> 1919 LIMITED RESPONSIBILITY
+  |
+1935 FEDERAL BLUEPRINT + PROVINCIAL AUTONOMY
+  |
+1947 SOVEREIGN CONSTITUENT POWER -> 1950 DEMOCRATIC CONSTITUTIONALISM
+MUST REMEMBER: Colonial constitutional development must run in exact sequence from Company
+  regulation through Crown rule, representation, responsible government, the 1935
+  federal-administrative blueprint and the sovereign 1947-1950 transition.
+
+ASCII MASTER FLOW — PANEL 2/12: Who controlled whom: the imperial power hierarchy
+BRITISH PARLIAMENT
+  +-- 1773: begins statutory control over territorial Company rule
+  +-- 1784: creates Board of Control for political supervision
+  |     +-- BOARD OF CONTROL: civil, military and revenue direction
+  |     +-- COURT OF DIRECTORS: Company administration and patronage
+  +-- 1858: abolishes Company government
+        +-- SECRETARY OF STATE FOR INDIA: Cabinet responsibility
+        |     +-- COUNCIL OF INDIA: advisory assistance
+        +-- GOVERNOR-GENERAL = VICEROY: Crown representative in India
+              +-- provincial governments
+
+POWER SHIFT
+Company charter -> parliamentary supervision -> Crown executive responsibility
+LIMIT: accountability moved to Britain; responsible government in India did not follow.
+
+ASCII MASTER FLOW — PANEL 3/12: 1773-1853: regulation, monopoly and centralisation compared
+ACT     CONTROL / ECONOMY              INSTITUTIONAL RESULT
+1773    Parliament regulates           GG of Bengal; Calcutta Supreme Court
+1781    jurisdiction clarified         executive-revenue sphere protected
+1784    political control separated    Board of Control; dual control
+1813    India trade monopoly ends       sovereignty asserted; education grant
+1833    all Company trade ends          GG of India; legislative centralisation
+        Company becomes administrative first Law Commission; no open competition yet
+1853    charter not renewed for term    legislative-executive functions differentiated
+        patronage principle weakened    competition route prepared
+
+EXAM LINE: 1833 centralised the legislative state; 1853 specialised its machinery.
+
+ASCII MASTER FLOW — PANEL 4/12: Representation without responsibility, 1861-1919
+1861: NOMINATION
+  +-- nominated Indian non-officials; portfolio system recognised
+  +-- legislative decentralisation revived; no executive responsibility
+        |
+1892: SCRUTINY
+  +-- budget discussion and questions
+  +-- indirect-election element; official majorities retained
+        |
+1909: REPRESENTATION SEGMENTED
+  +-- separate electorates for Muslims
+  +-- larger councils; Indian on Viceroy's Executive Council
+  +-- executive still not responsible to legislature
+        |
+1919: RESPONSIBILITY DIVIDED
+  +-- provincial dyarchy: reserved versus transferred subjects
+  +-- central bicameralism; direct elections and limited franchise
+  +-- ministers lacked decisive coercive and fiscal levers
+
+ASCII MASTER FLOW — PANEL 5/12: The 1935 constitutional machine: promise and safeguards
+GOVERNMENT OF INDIA ACT 1935
+  +-- ALL-INDIA FEDERATION: provinces + princely states
+  |     +-- never commenced because required princely accession failed
+  +-- LEGISLATIVE DISTRIBUTION
+  |     +-- Federal List 59 | Provincial List 54 | Concurrent List 36
+  |     +-- residuary allocation vested in Governor-General
+  +-- PROVINCES
+  |     +-- dyarchy abolished -> provincial autonomy
+  |     +-- ministers responsible to provincial legislatures
+  +-- CENTRE: proposed dyarchy; not brought into operation
+  +-- INSTITUTIONS: Federal Court 1937 | PSCs | bicameral provinces
+  +-- SAFEGUARDS: discretion, special responsibilities and reserved powers
+
+VERDICT: autonomy was enlarged inside an imperial veto structure.
+
+ASCII MASTER FLOW — PANEL 6/12: 1935 inheritance: retained, transformed, rejected
+1935 DEVICE             1950 TREATMENT
+Three legislative lists retained; redistributed under Seventh Schedule
+Federal Court           transformed into Supreme Court with wider review
+Provincial autonomy     retained as elected State government
+Public Service Comms.   constitutionalised for Union and States
+Emergency machinery    retained but subjected to constitutional procedure
+Governor's office       retained; democratic responsibility replaces imperial command
+All-India Services      retained as an integrating administrative instrument
+
+REJECTED OR NORMATIVELY BROKEN
+imperial sovereignty -> popular sovereignty
+communal electorates -> common electoral citizenship
+limited franchise -> universal adult suffrage
+ruler safeguards -> enforceable rights and judicial review
+CLOSE DISTINCTION: Governor-General of Bengal (1773) is not Governor-General of India (1833);
+  1909 separate electorates, 1919 provincial dyarchy and 1935 provincial autonomy are
+  distinct; the 1935 federation and central dyarchy never operated.
+
+ASCII MASTER FLOW — PANEL 7/12: 1947 bridge: dominion legality to republican authority
+INDIAN INDEPENDENCE ACT 1947
+  +-- British rule ends; India and Pakistan become Dominions
+  +-- British parliamentary authority over the new Dominions ends
+  +-- princely-state suzerainty lapses; accession is not automatic absorption
+  +-- Constituent Assembly becomes sovereign constitution-maker
+  +-- Assembly also acts as Dominion legislature
+        |
+TRANSITIONAL GOVERNMENT
+  existing law and administration continue unless altered
+        |
+26 NOV 1949: Constitution adopted
+24 JAN 1950: members sign
+26 JAN 1950: Constitution commences; republic replaces dominion status
+
+BRIDGE: legal continuity prevented a vacuum; constituent power changed authority's source.
+
+ASCII MASTER FLOW — PANEL 8/12: Colonial reform: official motive versus Indian pressure
+OFFICIAL PROBLEM                 IMPERIAL RESPONSE
+Company abuse / fiscal crisis   parliamentary regulation, not self-government
+administrative overload         centralisation, codification, specialised services
+nationalist representation      councils, limited elections, controlled devolution
+mass political pressure         graded responsibility with vetoes and safeguards
+communal bargaining             separate electorates and group arrangements
+
+INDIAN COUNTER-PRESSURE
+associations -> Congress demands -> Home Rule -> mass movements -> negotiation
+
+SYNTHESIS
+British policy designed controlled adaptation to preserve authority.
+Indian politics converted concessions into platforms for further claims.
+Reform was neither a unilateral gift nor a linear march to democracy.
+
+ASCII MASTER FLOW — PANEL 9/12: Historical-background close-option control board
+CLAIM TO TEST                              EXACT CONTROL
+1773 created Governor-General of India     No: Governor-General of Bengal
+1784 transferred India to Crown rule       No: dual control; Crown rule begins in 1858
+1813 ended every Company monopoly          No: tea and China trade exceptions remained
+1833 introduced open civil-service exam    No: principle opened; competition came later
+1861 introduced elected representation     No: nominated Indian non-officials
+1892 made executive legislature-dependent  No: scrutiny without responsibility
+1909 began responsible government          No: representation widened, executive insulated
+1919 put dyarchy at Centre                  No: provincial dyarchy
+1935 federation operated                   No: federal part never commenced
+1935 created RBI directly                  RBI Act 1934; operations began in 1935
+1947 automatically integrated princes      No: suzerainty lapsed; integration followed
+
+ASCII MASTER FLOW — PANEL 10/12: Exact 10/15-mark architecture: evolution into the 1950 Constitution
+10 MARKS / 150 WORDS
+1. Thesis: colonial statutes built machinery; 1950 changed its sovereign basis.
+2. Three phases: 1773-1858 control; 1861-1919 representation; 1935 blueprint.
+3. Evidence: one exact Act-feature pair from each phase.
+4. Pivot: 1947 transferred constituent authority and preserved legal continuity.
+5. Verdict: structural continuity plus democratic rupture.
+
+15 MARKS / 250 WORDS
+1. Open with Diwani power-accountability mismatch.
+2. Trace control: 1773 -> 1784 -> 1858.
+3. Trace participation: 1861 -> 1892 -> 1909 -> 1919.
+4. Explain 1935 lists, autonomy, institutions and safeguards.
+5. Compare retained devices with rejected imperial principles.
+6. Add Indian pressure versus British controlled adaptation.
+7. Conclude: inheritance supplied instruments, not constitutional legitimacy.
+
+ASCII MASTER FLOW — PANEL 11/12: Jurisdiction, service and finance: the less-visible institutional spine
+JUDICIARY: 1774 Supreme Court -> 1861 High Courts -> 1937 Federal Court -> 1950 Supreme Court
+SERVICES: Company patronage -> 1853 competition principle -> 1919 PSC provision -> 1926 PSC
+FINANCE: revenue control -> legislative budget scrutiny -> RBI Act 1934 / operations 1935
+RULE: institutional ancestry does not imply unchanged constitutional purpose.
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ, ownership and source hierarchy control
+DIRECT PYQ: 2024 Prelims Q62 -> 1935 federation provided, not commenced
+RESERVED CONTROL: defence and external affairs -> Governor-General
+BOUNDARY: Topic 02 owns Assembly detail; Modern History owns movements/Partition
+SOURCE ORDER: statute/text -> official record -> judgment -> standard textbook
+FINAL LINE: colonial machinery survived only after democratic transformation.
+LEGAL/SOURCE LIMIT: Colonial statutes supplied machinery, not popular legitimacy: identify
+  what 1950 retained, transformed and rejected, and do not invent a post-1947 live status for
+  repealed enactments.

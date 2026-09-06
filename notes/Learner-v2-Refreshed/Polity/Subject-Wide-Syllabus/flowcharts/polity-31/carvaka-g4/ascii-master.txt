@@ -1,0 +1,224 @@
+ASCII MASTER FLOW — PANEL 1/12: Evolution from Special Officer to three commissions
+ORIGINAL ARTICLE 338
+Special Officer for Scheduled Castes and Scheduled Tribes.
+
+65TH AMENDMENT ACT, 1990
+combined National Commission for SCs and STs
+-> first constitutional commission constituted 12 March 1992.
+
+89TH AMENDMENT ACT, 2003
+Article 338 retained for NCSC + Article 338A inserted for NCST
+-> separate commissions operational 19 February 2004.
+
+Indra Sawhney (1992) -> permanent backward-class body.
+NCBC Act, 1993 -> statutory NCBC.
+
+102ND AMENDMENT ACT, 2018
+Article 338B + Article 342A + Article 366(26C)
+-> constitutional NCBC operational 15 August 2018.
+
+105TH AMENDMENT ACT, 2021
+State/UT own-list competence made explicit from 15 September 2021.
+MUST REMEMBER: Keep Articles 338, 338A and 338B distinct from Articles 341, 342 and 342A and
+  from the temporary Article 340 commission route.
+
+ASCII MASTER FLOW — PANEL 2/12: Composition, appointment, tenure and procedure
+COMMON COMPOSITION
+Chairperson + Vice-Chairperson + three other Members.
+
+APPOINTMENT
+President by warrant under hand and seal.
+
+SERVICE CONDITIONS / TENURE
+subject to parliamentary law, determined by presidential rules.
+Three-year term comes from governing rules, not the constitutional clause itself.
+
+PROCEDURE
+each Commission may regulate its own procedure.
+
+CONSTITUTIONAL STATUS
+entrenches existence, mandate and report route.
+
+LIMIT
+constitutional status does not automatically guarantee timely appointments,
+regional reach, staff capacity, data quality or acceptance of recommendations.
+
+CURRENT ROSTER: 5 SEPTEMBER 2026
+NCSC: Kishor Makwana + Love Kush Kumar + Vaddepalli Ramchander + Dr Partha Biswas;
+Vice-Chairperson not displayed. NCST: Antar Singh Arya + Dr Asha Lakra
++ Nirupam Chakma + Jatothu Hussain; Vice-Chairperson not displayed.
+NCBC page displays Sadhvi Niranjan Jyoti + Kiran Umesh Mahalle only.
+
+ASCII MASTER FLOW — PANEL 3/12: Common duties and complaint-to-policy cycle
+COMMON DUTIES UNDER CLAUSE (5)
+investigate and monitor safeguards.
+inquire into specific complaints of deprivation.
+participate and advise in socio-economic development planning.
+evaluate development progress.
+present annual and other reports to President.
+recommend measures for effective implementation and protection.
+perform other specified functions.
+
+EVIDENCE CYCLE
+safeguard -> implementation record -> complaint/monitoring
+-> inquiry -> finding -> recommendation -> government response
+-> legislative scrutiny -> corrective law, policy or administration.
+
+LIMIT
+Commission scrutiny supports remedies; it does not replace police, tribunal or court.
+
+ASCII MASTER FLOW — PANEL 4/12: Civil-court powers and remedial limits
+IN INVESTIGATION OR INQUIRY
+summon and enforce attendance | examine on oath
+| require discovery/production | receive affidavit evidence
+| requisition public records | issue commissions
+| prescribed additional matters.
+
+LIMIT
+civil-court powers gather evidence; they do not create ordinary civil jurisdiction,
+criminal conviction, executable damages or power to invalidate legislation.
+
+REMEDY ROUTE
+finding/recommendation -> competent executive, legislature, police, tribunal or court.
+
+ASCII MASTER FLOW — PANEL 5/12: Reports, action memoranda and consultation
+REPORT ROUTE
+annual/other report -> President -> Parliament
++ memorandum on action taken and rejected advice.
+State-related part -> Governor/State Government -> State legislature + memorandum.
+
+CONSULTATION
+Union and State governments shall consult the relevant Commission
+on major policy matters affecting the protected class.
+
+LIMIT
+consultation is a constitutional hearing/accountability duty, not a veto.
+
+ASCII MASTER FLOW — PANEL 6/12: NCSC and NCST: common engine, distinct domains
+NCSC: ARTICLE 338
+SC safeguards, untouchability, representation, service discrimination
+and atrocity-prevention implementation.
+
+NCST: ARTICLE 338A
+ST safeguards plus tribal land, forest, minor produce, displacement,
+resources, PESA and shifting-cultivation concerns under specified functions.
+CLOSE DISTINCTION: Civil-court powers are evidentiary inquiry powers; recommendations,
+  consultation and reports do not become binding judgments or list amendments.
+
+ASCII MASTER FLOW — PANEL 7/12: NCBC constitutionalisation and safeguard role
+NCBC: ARTICLE 338B
+102nd Amendment, 2018 transformed the 1993 statutory NCBC
+into a constitutional safeguard commission.
+
+COMMON ENGINE
+monitor safeguards | complaints | development advice/evaluation
+| reports | recommendations | specified additional functions.
+
+CONSULTATION
+major SEBC policy matters, subject to the Article 338B(9) exception
+for State/UT own-list preparation under Article 342A(3).
+
+LIMIT
+NCBC advice does not itself amend the Central or a State SEBC list.
+
+ASCII MASTER FLOW — PANEL 8/12: SC, ST and SEBC list-amendment authorities
+SCHEDULED CASTES: ARTICLE 341
+President specifies by public notification for a State/UT;
+Parliament later includes or excludes by law.
+
+SCHEDULED TRIBES: ARTICLE 342
+same constitutional pattern; State consultation occurs at initial specification.
+
+SEBC CENTRAL LIST: ARTICLE 342A(1)-(2)
+President specifies for Central Government purposes;
+Parliament includes or excludes by law.
+
+STATE / UT LIST: ARTICLE 342A(3)
+State or UT may by law prepare and maintain its own list for own purposes.
+
+ARTICLE 366(26C)
+defines socially and educationally backward classes through Article 342A.
+
+CORE DISTINCTION
+Commission advice informs process; the constitutionally named authority changes legal status.
+
+ASCII MASTER FLOW — PANEL 9/12: 102nd, Maratha judgment and 105th Amendment
+102ND AMENDMENT, 2018
+constitutional NCBC + original Article 342A list wording.
+
+Jaishri Laxmanrao Patil (2021)
+majority read the 102nd Amendment as displacing independent State SEBC identification;
+the Maratha quota also failed the separate 50% ceiling analysis.
+
+105TH AMENDMENT, 2021
+Central List confined to Central purposes
+-> State/UT own lists expressly restored/clarified in Article 342A(3)
+-> Article 338B(9) consultation exception for that list-making purpose.
+
+TRAP
+reservation ceiling, identification authority and Commission consultation
+are separate constitutional questions.
+
+LIMIT
+the 105th Amendment did not itself decide every quota, inclusion or creamy-layer dispute.
+
+ASCII MASTER FLOW — PANEL 10/12: Davinder Singh (2024) and evidence-based SC sub-classification
+            Davinder Singh (2024)
+
+HOLDING
+States may create evidence-based sub-classification within Scheduled Castes
+to distribute reservation benefits more equitably.
+
+CONDITIONS
+quantifiable and demonstrable material -> rational classification
+-> no deletion from or alteration of the Article 341 Presidential List
+-> judicial review remains.
+
+OVERRULED BOUNDARY
+E.V. Chinnaiah was overruled on the bar against SC sub-classification.
+
+CREAMY-LAYER CAUTION
+separate judicial opinions discussed exclusion ideas;
+do not present them as one unanimous, enacted SC/ST creamy-layer rule.
+
+COMMISSION ROLE
+evidence, consultation and monitoring may inform policy but do not replace valid law.
+
+ASCII MASTER FLOW — PANEL 11/12: Overlap, independence, capacity and coordinated reform
+GAPS
+vacancies | regional access | complaint delay | weak data
+| delayed reports/responses | overlapping forums | advisory limits.
+
+REFORM
+transparent appointments + timely staffing + common intake/referral
+-> joint inquiry protocols + public recommendation tracker
+-> research/data capacity + reasoned action memoranda.
+
+DESIGN VERDICT
+coordinate specialised commissions; do not erase distinct SC, ST and SEBC safeguards.
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ routes, Prelims traps and Mains synthesis
+IMPLEMENTATION GAPS
+vacancies + delayed reports + weak regional access + fragmented complaint data
++ poor recommendation tracking + overlapping forums.
+
+REFORM
+transparent appointments -> time-bound staffing -> common intake/referral
+-> joint inquiry protocol -> public action-taken dashboard
+-> research capacity -> reasoned government response.
+
+PRELIMS FIREWALL
+338 NCSC | 338A NCST | 338B NCBC
+| Chair + Vice-Chair + three Members
+| civil-court powers only for inquiry | recommendations generally advisory
+| 341 SC | 342 ST | 342A Central/State SEBC architecture.
+
+PYQ ROUTES
+2018 NCSC/minority reservation + umbrella commission
+| 2020 constitutionalisation | 2022 NCBC | 2023 body status | 2024 ST list.
+
+MAINS SPINE
+constitutional purpose -> common powers -> distinct domain -> legal limit
+-> case/amendment -> implementation gap -> coordinated-specialisation verdict.
+LEGAL/SOURCE LIMIT: The 5 September 2026 roster check records the occupied and unfilled posts
+  shown by the official NCSC, NCST and NCBC pages without inventing incumbents.

@@ -1,0 +1,122 @@
+ASCII MASTER FLOW — PANEL 1/12: Democratic audit purpose and accountability chain
+LEGISLATURE AUTHORISES
+tax, appropriation and public purposes
+        |
+EXECUTIVE COLLECTS / SPENDS / RECORDS
+        |
+CAG TESTS INDEPENDENT EVIDENCE
+        |
+President or Governor causes report to be laid
+        |
+PAC / CoPU / legislature scrutinises -> executive responds
+
+LIMIT: audit informs control; it does not govern, punish or recover by itself.
+MUST REMEMBER: Separate constitutional status under Articles 148-151 from the detailed audit
+  mandate supplied by the CAG's DPC Act, 1971 and its amendments.
+
+ASCII MASTER FLOW — PANEL 2/12: Articles 148-151 constitutional spine
+ARTICLE 148 -> office, oath, removal safeguards, IAAD and charged expenses
+ARTICLE 149 -> duties and powers prescribed by or under parliamentary law
+ARTICLE 150 -> President prescribes Union/State account form on CAG advice
+ARTICLE 151 -> CAG -> President/Governor -> legislature
+
+TRAP: the Constitution neither states the six-year/65 rule nor lists every audit type.
+
+ASCII MASTER FLOW — PANEL 3/12: Appointment tenure removal and independence
+APPOINTMENT -> President, warrant under hand and seal
+OATH -> President or nominee; Third Schedule
+TENURE -> DPC Act section 4: six years or age 65, whichever earlier
+REMOVAL -> same manner and grounds as Supreme Court Judge
+INSULATION -> no disadvantageous variation; charged office expenses; no further office
+
+LIMIT: strong post-appointment protection does not answer selection-process criticism.
+
+CURRENT OFFICEHOLDER: 5 SEPTEMBER 2026
+K. Sanjay Murthy was sworn in and assumed office on 21 November 2024.
+The officeholder changes; Article 148 and section 4 tenure rules do not.
+
+ASCII MASTER FLOW — PANEL 4/12: Audit accounts and the 1976 boundary
+ACCOUNTS create and compile the financial record
+AUDIT independently tests records and transactions
+1976 UNION DEPARTMENTALISATION -> ministries assumed much Union compilation
+DPC ACT SECTIONS 10-12 -> residual accounts roles where responsibility remains
+DPC ACT SECTIONS 13-20 -> audit mandate continues
+
+INDIA: predominantly ex-post auditor, not routine pre-withdrawal comptroller.
+
+ASCII MASTER FLOW — PANEL 5/12: Public funds receipts grants and access
+SECTION 13 -> Consolidated Fund expenditure and fund transactions
+SECTION 14 -> substantially financed bodies under statutory tests
+SECTION 15 -> specific-purpose grants/loans and sanctioning procedures
+SECTION 16 -> receipts payable into Consolidated Funds
+SECTION 17 -> stores and stock | SECTION 18 -> records and information
+
+TEST: entity -> public-money nexus -> legal gateway -> proportionate record access.
+
+ASCII MASTER FLOW — PANEL 6/12: Financial compliance propriety and performance audit
+FINANCIAL -> is financial information fairly presented?
+COMPLIANCE -> were law, sanction, rule and contract followed?
+PROPRIETY -> was discretion faithful, prudent and economical?
+PERFORMANCE -> economy + efficiency + effectiveness
+RECEIPTS / IT / ENVIRONMENT -> specialised objects or methods within legal mandate
+
+BOUNDARY: test implementation and results; do not replace a lawful policy choice.
+CLOSE DISTINCTION: The CAG is an ex-post auditor and reports through legislatures; it does not
+  pre-authorise expenditure, prosecute wrongdoing or enforce PAC action.
+
+ASCII MASTER FLOW — PANEL 7/12: Government companies and statutory corporations
+GOVERNMENT COMPANY
+Companies Act section 139 -> CAG appoints statutory auditor
+section 143 -> directions, supplementary audit/comments and test audit
+
+STATUTORY CORPORATION
+establishing law + DPC Act section 19 determine the route
+
+TRAP: ownership label alone does not establish identical CAG coverage.
+
+ASCII MASTER FLOW — PANEL 8/12: Private entities PPPs and revenue nexus
+PRIVATE STATUS DOES NOT BAR OR CREATE AUDIT
+Sections 14 / 15 / 16 / 20 or a special law must supply the gateway
+PPP audit follows grants, guarantees, assets, user fees or revenue share only as authorised
+TELECOM CASE (2014) -> records needed to verify Union revenue share could be accessed
+
+LIMIT: audit of the public nexus is not universal audit of unrelated private business.
+
+ASCII MASTER FLOW — PANEL 9/12: Local bodies and federal audit variation
+ARTICLES 243J / 243Z -> State legislatures provide local-account audit arrangements
+STATE LAW -> primary auditor and procedure may vary
+CAG -> direct statutory/entrusted audit where applicable
+TECHNICAL GUIDANCE AND SUPPORT -> capacity and standardisation route
+FINANCE COMMISSION LINK -> local grants require traceable accounts and audit
+
+TRAP: India has no single uniform constitutional CAG audit model for every local body.
+
+ASCII MASTER FLOW — PANEL 10/12: Reports PAC CoPU and legislative follow-up
+UNION: CAG -> President -> both Houses
+STATE: CAG -> Governor -> State legislature
+PAC -> appropriation / finance accounts and relevant CAG reports
+CoPU -> public undertakings and related CAG reports
+COMMITTEE -> evidence -> finding -> action-taken response -> follow-up
+
+CAG assists technically; report != committee conclusion != automatic liability.
+
+ASCII MASTER FLOW — PANEL 11/12: Judicial controls and legal limits
+ARVIND GUPTA (2012) -> performance audit and the three Es supported
+S. SUBRAMANIAM BALAJI (2013) -> post-expenditure legality, validity and propriety
+ARUN KUMAR AGRAWAL (2013) -> CAG report respected but legislative scrutiny remains
+Association of Unified Telecom Service Providers of India v. Union of India (2014) ->
+  revenue-share access, not universal private audit
+
+SYNTHESIS: broad evidence role + ex-post timing + no adjudicatory finality.
+
+ASCII MASTER FLOW — PANEL 12/12: Comparison reform PYQ routes and answer spine
+CAG -> constitutional audit | CGA -> Union executive accounting
+FINANCE COMMISSION -> Article 280 transfers | CAG -> Article 279 net proceeds certificate
+REFORM -> transparent selection + secure data + PPP clauses + timely tabling/follow-up
+PYQ 2018 -> appointment, terms and powers
+PYQ 2024 -> legality plus propriety
+
+MAINS SPINE: independence -> mandate -> audit type/entity route -> report chain
+-> limit -> targeted reform -> evidence-led accountability verdict.
+LEGAL/SOURCE LIMIT: The official CAG page identifies K. Sanjay Murthy as CAG from 21 November
+  2024; the statutory term remains six years or age sixty-five.

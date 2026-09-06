@@ -1,0 +1,1249 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-14",
+  "subject": "Polity",
+  "title": "EMERGENCY PROVISIONS",
+  "short_route": "THREE EMERGENCIES AND CONSTITUTIONAL → ARTICLE 352 TRIGGER, APPROVAL → DECLARATION AND AMENDMENT CHRONOLOGY → NATIONAL EMERGENCY EFFECTS ON → ARTICLES 358 AND 359 → ADM JABALPUR (1976), KHANNA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-14-deep-review-2026-09-05-g4.json",
+  "ascii_spec_sha256": "5bc1add0d29f6e7843100d6aaa7b212b7d508da2c3cc83b8458f6ca980baa345",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE EMERGENCIES AND CONSTITUTIONAL PURPOSE",
+      "structural_type": "emergency-architecture",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE EMERGENCIES AND CONSTITUTIONAL PURPOSE",
+          "role": "primary"
+        },
+        {
+          "text": "PART XVIII",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLES 352-360",
+          "role": "comparison"
+        },
+        {
+          "text": "352 NATIONAL SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "356 STATE CONSTITUTIONAL BREAKDOWN",
+          "role": "institution"
+        },
+        {
+          "text": "360 FINANCIAL STABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "METHOD TRIGGER",
+          "role": "comparison"
+        },
+        {
+          "text": "WRITTEN ADVICE/MATERIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PART XVIII: ARTICLES 352-360",
+        "352 national security",
+        "356 State constitutional breakdown",
+        "360 financial stability",
+        "METHOD trigger → written advice/material → parliamentary control → duration → effects → exit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PART XVIII: ARTICLES 352-360",
+            "352 national security",
+            "356 State constitutional breakdown"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "360 financial stability",
+            "METHOD trigger → written advice/material → parliamentary control → duration → effects → exit",
+            "Emergency power preserves constitutional government; it is not an extra-constitutional regime."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Teach Articles 352-360 as three different regimes with exact triggers,",
+            "approval periods, renewal, revocation, maximum duration, federal effects and rights consequences",
+            "Articles 358 and 359 must never be merged."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "360 financial stability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 358 and 359 must never be merged.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 352 TRIGGER, APPROVAL, RENEWAL AND REVOCATION",
+      "structural_type": "national-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 352 TRIGGER, APPROVAL, RENEWAL AND REVOCATION",
+          "role": "institution"
+        },
+        {
+          "text": "EXTERNAL AGGRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARMED REBELLION",
+          "role": "comparison"
+        },
+        {
+          "text": "IMMINENT DANGER",
+          "role": "evidence"
+        },
+        {
+          "text": "CABINET DECISION IN WRITING",
+          "role": "primary"
+        },
+        {
+          "text": "WHOLE OR PART OF INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "BOTH HOUSES WITHIN ONE MONTH",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIAL MAJORITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRIGGER: war",
+        "external aggression",
+        "armed rebellion",
+        "imminent danger",
+        "Cabinet decision in writing → President → whole or part of India"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TRIGGER: war",
+            "external aggression",
+            "armed rebellion"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "imminent danger",
+            "Cabinet decision in writing → President → whole or part of India",
+            "APPROVAL: both Houses within one month → special majority"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTINUANCE: six-month blocks → same special majority",
+            "EXIT: President revokes; Lok Sabha simple-majority disapproval requires revocation",
+            "One-tenth of Lok Sabha members can require a special sitting within 14 days."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "imminent danger"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "One-tenth of Lok Sabha members can require a special sitting within 14 days.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DECLARATION AND AMENDMENT CHRONOLOGY WITH CURRENT STATUS",
+      "structural_type": "amendment-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DECLARATION AND AMENDMENT CHRONOLOGY WITH CURRENT STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "1962 EXTERNAL AGGRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOKED 1968",
+          "role": "comparison"
+        },
+        {
+          "text": "1971 EXTERNAL AGGRESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUED ALONGSIDE 1975 PROCLAMATION",
+          "role": "primary"
+        },
+        {
+          "text": "1975 INTERNAL DISTURBANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOKED 1977",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTEMPTED SATISFACTION IMMUNITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1962 external aggression → revoked 1968",
+        "1971 external aggression → continued alongside 1975 proclamation",
+        "1975 internal disturbance → revoked 1977",
+        "38TH: attempted satisfaction immunity",
+        "42ND: territorial and wider-effect changes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1962 external aggression → revoked 1968",
+            "1971 external aggression → continued alongside 1975 proclamation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1975 internal disturbance → revoked 1977",
+            "38TH: attempted satisfaction immunity"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "42ND: territorial and wider-effect changes",
+            "44TH: armed rebellion, Cabinet writing, special majority, liberty and review"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CURRENT 28 AUG 2026: no National Emergency is in force.",
+            "1962 external aggression → revoked 1968"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CURRENT 28 AUG 2026: no National Emergency is in force.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NATIONAL EMERGENCY EFFECTS ON FEDERALISM AND INSTITUTIONS",
+      "structural_type": "national-effects",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NATIONAL EMERGENCY EFFECTS ON FEDERALISM AND INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 353",
+          "role": "institution"
+        },
+        {
+          "text": "UNION DIRECTIONS EXPAND; PARLIAMENT GAINS STATE-FIELD COMPETENCE",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 250 LAWS",
+          "role": "institution"
+        },
+        {
+          "text": "SIX-MONTH TAIL AFTER EMERGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 354",
+          "role": "institution"
+        },
+        {
+          "text": "TEMPORARY REVENUE-DISTRIBUTION ORDER WITH FINANCIAL-YEAR LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "LOK SABHA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 353: Union directions expand; Parliament gains State-field competence",
+        "ARTICLE 250 laws → six-month tail after Emergency",
+        "ARTICLE 354 → temporary revenue-distribution order with financial-year limit",
+        "LOK SABHA / ASSEMBLY TERMS → Parliament may extend one year at a time",
+        "States, legislatures and High Courts continue: temporary Union weighting, not abolition."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 353: Union directions expand; Parliament gains State-field competence",
+            "ARTICLE 250 laws → six-month tail after Emergency"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 354 → temporary revenue-distribution order with financial-year limit",
+            "LOK SABHA / ASSEMBLY TERMS → Parliament may extend one year at a time"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "States, legislatures and High Courts continue: temporary Union weighting, not abolition.",
+            "ARTICLE 353: Union directions expand; Parliament gains State-field competence"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 250 laws → six-month tail after Emergency",
+            "ARTICLE 354 → temporary revenue-distribution order with financial-year limit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "States, legislatures and High Courts continue: temporary Union weighting, not abolition.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ARTICLES 358 AND 359 RIGHTS FIREWALL",
+      "structural_type": "rights-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLES 358 AND 359 RIGHTS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 358 AUTOMATIC",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 19 ONLY",
+          "role": "institution"
+        },
+        {
+          "text": "WAR/EXTERNAL AGGRESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "EMERGENCY-RELATED RECITAL/ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 359 PRESIDENTIAL ORDER",
+          "role": "institution"
+        },
+        {
+          "text": "NAMED RIGHTS' COURT-ENFORCEMENT ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "STATED AREA/PERIOD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 358 automatic",
+        "Article 19 only",
+        "war/external aggression",
+        "emergency-related recital/action",
+        "ARTICLE 359 presidential order"
+      ],
+      "matrix": [
+        [
+          "ARTICLE 358 automatic",
+          "Article 19 only",
+          "war/external aggression",
+          "emergency-related recital/action"
+        ],
+        [
+          "ARTICLE 359 presidential order",
+          "named rights' court-enforcement route",
+          "stated area/period",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 358 automatic",
+            "Article 19 only",
+            "war/external aggression"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "emergency-related recital/action",
+            "ARTICLE 359 presidential order",
+            "named rights' court-enforcement route"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "stated area/period",
+            "PERMANENT FIREWALL",
+            "Articles 20 and 21 remain enforceable; unrelated illegality gets no emergency shield."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "emergency-related recital/action"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Articles 20 and 21 remain enforceable; unrelated illegality gets no emergency shield.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ADM JABALPUR (1976), KHANNA AND K.S. PUTTASWAMY (2017)",
+      "structural_type": "liberty-case-line",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ADM JABALPUR (1976), KHANNA AND K.S. PUTTASWAMY (2017)",
+          "role": "primary"
+        },
+        {
+          "text": "ADM JABALPUR (1976) MAJORITY DENIED HABEAS ENFORCEMENT ROUTE DURING",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTICE H.R. KHANNA",
+          "role": "comparison"
+        },
+        {
+          "text": "LIBERTY IS NOT EXECUTIVE GRACE",
+          "role": "caution"
+        },
+        {
+          "text": "44TH AMENDMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLES 20 AND 21 EXCLUDED FROM ARTICLE 359",
+          "role": "institution"
+        },
+        {
+          "text": "K.S. K.S. PUTTASWAMY (2017)",
+          "role": "comparison"
+        },
+        {
+          "text": "ADM JABALPUR (1976) MAJORITY WRONGLY DECIDED AND OVERRULED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADM JABALPUR (1976) MAJORITY denied habeas enforcement route during the operative Article 359 order",
+        "JUSTICE H.R. KHANNA → liberty is not executive grace",
+        "44TH AMENDMENT → Articles 20 and 21 excluded from Article 359",
+        "K.S. K.S. PUTTASWAMY (2017) → ADM Jabalpur (1976) majority wrongly decided and overruled",
+        "Historical warning, not current law."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ADM JABALPUR (1976) MAJORITY denied habeas enforcement route during the operative Article 359 order",
+            "JUSTICE H.R. KHANNA → liberty is not executive grace"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "44TH AMENDMENT → Articles 20 and 21 excluded from Article 359",
+            "K.S. K.S. PUTTASWAMY (2017) → ADM Jabalpur (1976) majority wrongly decided and overruled"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Historical warning, not current law.",
+            "CLOSE DISTINCTION: The 44th Amendment replaced internal disturbance with armed rebellion, requires written Cabinet advice, protects Articles 20"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 356 still has its own six-month approval cycle.",
+            "ADM JABALPUR (1976) MAJORITY denied habeas enforcement route during the operative Article 359 order"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: The 44th Amendment replaced internal disturbance with armed rebellion, requires written Cabinet advice, protects Articles 20 and 21, narrows Article 358 to war/external aggression and creates the Lok Sabha revocation route; Article 356 still has its own six-month approval cycle.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PRESIDENT'S RULE MECHANICS AND CONSEQUENCES",
+      "structural_type": "presidents-rule-process",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PRESIDENT'S RULE MECHANICS AND CONSEQUENCES",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 356",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR REPORT OR OTHERWISE",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIVE MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO MONTHS, SIMPLE MAJORITY",
+          "role": "primary"
+        },
+        {
+          "text": "SIX MONTHS",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE YEARS",
+          "role": "comparison"
+        },
+        {
+          "text": "BEYOND ONE YEAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 356: Governor report or otherwise → objective material → proclamation",
+        "APPROVAL: two months, simple majority",
+        "renewal: six months",
+        "maximum: three years",
+        "BEYOND ONE YEAR: qualifying Article 352 Emergency + ECI certification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 356: Governor report or otherwise → objective material → proclamation",
+            "APPROVAL: two months, simple majority"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "renewal: six months",
+            "maximum: three years"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BEYOND ONE YEAR: qualifying Article 352 Emergency + ECI certification",
+            "ARTICLE 357: Parliament may confer and permit delegation of State legislative power"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Executive assumed; Assembly suspended/dissolved; High Court and Fundamental Rights continue",
+            "Article 365 may supply material, never an automatic trigger."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 365 may supply material, never an automatic trigger.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "S.R. BOMMAI (1994), RAMESHWAR PRASAD (2006) AND CURRENT ARTICLE 356 CONTROL",
+      "structural_type": "article356-case-control",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "S.R. BOMMAI (1994), RAMESHWAR PRASAD (2006) AND CURRENT ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "S.R. BOMMAI (1994) REVIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEVANT MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "FLOOR TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "DISSOLUTION AFTER APPROVAL",
+          "role": "primary"
+        },
+        {
+          "text": "RAMESHWAR PRASAD (2006)",
+          "role": "outcome"
+        },
+        {
+          "text": "BIHAR DISSOLUTION INVALID; ASSEMBLY NOT RESTORED BECAUSE ELECTION PROCESS",
+          "role": "caution"
+        },
+        {
+          "text": "WHY USE DECLINED COURTS + COALITIONS + REGIONAL PARTIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "S.R. BOMMAI (1994) review",
+        "relevant material",
+        "floor test",
+        "dissolution after approval",
+        "RAMESHWAR PRASAD (2006)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "S.R. BOMMAI (1994) review",
+            "relevant material"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "floor test",
+            "dissolution after approval"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RAMESHWAR PRASAD (2006)",
+            "Bihar dissolution invalid; Assembly not restored because election process had advanced"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "WHY USE DECLINED courts + coalitions + regional parties + Sarkaria/Punchhi norms",
+            "CURRENT: Manipur President's Rule 13 Feb 2025 → revoked 4 Feb 2026."
+          ]
+        }
+      ],
+      "mechanism_strip": "CURRENT: Manipur President's Rule 13 Feb 2025 → revoked 4 Feb 2026.",
+      "answer_line": "Manipur President's Rule 13 Feb 2025 → revoked 4 Feb 2026.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ARTICLE 360 FINANCIAL EMERGENCY",
+      "structural_type": "financial-emergency",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARTICLE 360 FINANCIAL EMERGENCY",
+          "role": "institution"
+        },
+        {
+          "text": "FINANCIAL STABILITY OR CREDIT OF INDIA OR ANY PART",
+          "role": "outcome"
+        },
+        {
+          "text": "BOTH HOUSES WITHIN TWO MONTHS BY SIMPLE MAJORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NO PERIODIC RENEWAL; PRESIDENT MAY REVOKE",
+          "role": "caution"
+        },
+        {
+          "text": "FINANCIAL PROPRIETY",
+          "role": "primary"
+        },
+        {
+          "text": "SALARY REDUCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE MONEY/FINANCIAL BILLS RESERVED",
+          "role": "institution"
+        },
+        {
+          "text": "UNION SALARY DIRECTION CAN INCLUDE SUPREME COURT AND HIGH",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "TRIGGER: financial stability or credit of India or any part threatened",
+        "APPROVAL: both Houses within two months by simple majority",
+        "DURATION: no periodic renewal; President may revoke",
+        "DIRECTIONS: financial propriety",
+        "salary reductions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TRIGGER: financial stability or credit of India or any part threatened",
+            "APPROVAL: both Houses within two months by simple majority"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DURATION: no periodic renewal; President may revoke",
+            "DIRECTIONS: financial propriety"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "salary reductions",
+            "State Money/financial Bills reserved"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Union salary direction can include Supreme Court and High Court judges",
+            "STATUS: never proclaimed; 1991 was managed without Article 360."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS: never proclaimed; 1991 was managed without Article 360.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THREE-WAY COMPARISON AND LAST-RESORT ALTERNATIVES",
+      "structural_type": "comparison-alternatives",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE-WAY COMPARISON AND LAST-RESORT ALTERNATIVES",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIAL MAJORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SIX-MONTH RENEWAL",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL/FEDERAL/RIGHTS EFFECTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMPLE MAJORITY",
+          "role": "primary"
+        },
+        {
+          "text": "THREE-YEAR MAXIMUM",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE MACHINERY",
+          "role": "institution"
+        },
+        {
+          "text": "NO RENEWAL CYCLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "352: special majority",
+        "six-month renewal",
+        "national/federal/rights effects",
+        "356: simple majority",
+        "three-year maximum"
+      ],
+      "matrix": [
+        [
+          "352: special majority",
+          "six-month renewal",
+          "national/federal/rights effects",
+          ""
+        ],
+        [
+          "356: simple majority",
+          "six-month renewal",
+          "three-year maximum",
+          "State machinery"
+        ],
+        [
+          "360: simple majority",
+          "no renewal cycle",
+          "financial directions",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "352: special majority",
+            "six-month renewal",
+            "national/federal/rights effects"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "356: simple majority",
+            "three-year maximum",
+            "State machinery"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "360: simple majority",
+            "no renewal cycle",
+            "financial directions"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ESCALATION LADDER warning → consultation → floor test/court → targeted ordinary law → Emergency",
+            "Sarkaria and Punchhi recommendations guide restraint but are not binding law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Sarkaria and Punchhi recommendations guide restraint but are not binding law.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SIX PYQS AND PRELIMS FIREWALLS",
+      "structural_type": "exam-control",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SIX PYQS AND PRELIMS FIREWALLS",
+          "role": "primary"
+        },
+        {
+          "text": "PYQ ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "2018 FINANCIAL EMERGENCY + ARTICLE 356 CONSEQUENCES",
+          "role": "institution"
+        },
+        {
+          "text": "2020 CENTRALISING LEGISLATION",
+          "role": "evidence"
+        },
+        {
+          "text": "2023 ARTICLE 355/DETENTION/POTA + ARTICLE 356 DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "2024 CONSTITUTION-PART IDENTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FIREWALLS ARMED REBELLION",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL DISTURBANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PYQ ROUTES",
+        "2018 Financial Emergency + Article 356 consequences",
+        "2020 centralising legislation",
+        "2023 Article 355/detention/POTA + Article 356 decline",
+        "2024 Constitution-Part identification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PYQ ROUTES",
+            "2018 Financial Emergency + Article 356 consequences",
+            "2020 centralising legislation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "2023 Article 355/detention/POTA + Article 356 decline",
+            "2024 Constitution-Part identification",
+            "FIREWALLS armed rebellion != internal disturbance"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "358 != 359",
+            "20/21 protected",
+            "352 special majority"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "356/360 simple",
+            "360 never used",
+            "High Court not assumed."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "352 special majority | 356/360 simple | 360 never used | High Court not assumed.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MARKS-SCALED ANSWER SPINE AND QUALIFIED VERDICT",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MARKS-SCALED ANSWER SPINE AND QUALIFIED VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL FACTORS",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL FACTORS",
+          "role": "primary"
+        },
+        {
+          "text": "20 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "352 + RIGHTS + 356 + 360",
+          "role": "comparison"
+        },
+        {
+          "text": "GRADED CONCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: provision → trigger → procedure → effects → status/verdict",
+        "15 MARKS: thesis → legal factors → political factors → case/commission → verdict",
+        "20 MARKS: 352 + rights + 356 + 360 → safeguards → limits → graded",
+        "EVIDENCE CHAIN claim → Article/amendment → mechanism → case/history → qualification",
+        "VERDICT: emergency is legitimate temporary constitutional self-defence only when reviewable and directed toward restoration of"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS: provision → trigger → procedure → effects → status/verdict",
+            "15 MARKS: thesis → legal factors → political factors → case/commission → verdict",
+            "20 MARKS: 352 + rights + 356 + 360 → safeguards → limits → graded conclusion"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE CHAIN claim → Article/amendment → mechanism → case/history → qualification",
+            "VERDICT: emergency is legitimate temporary constitutional self-defence only when reviewable and directed toward restoration of ordinary democratic government.",
+            "LEGAL/SOURCE LIMIT: As of 5 September 2026 no National or Financial Emergency was located in force."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "The Gazette proclamation of 4 February 2026 revoked the Manipur Article 356 proclamation",
+            "retain S.R.",
+            "S.R. Bommai (1994) review and floor-test discipline without converting every political crisis into constitutional breakdown."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "EVIDENCE CHAIN claim → Article/amendment → mechanism → case/history → qualification"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: emergency is legitimate temporary constitutional self-defence only when reviewable and directed toward restoration of ordinary democratic government.",
+      "answer_line": "emergency is legitimate temporary constitutional self-defence only when reviewable and directed toward restoration of ordinary democratic government.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "16. SAFETY-VALVE VERSUS CONSTITUTIONAL DICTATORSHIP - OPTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "17. CONSTITUTIONAL DICTATORSHIP AS A DESIGN PROBLEM - OPTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[ANALYSIS] BOTH SIDES ARE PARTLY CORRECT",
+          "role": "evidence"
+        },
+        {
+          "text": "A CONSTITUTION NEEDS CRISIS CAPACITY, BUT",
+          "role": "primary"
+        },
+        {
+          "text": "UNCHECKED CRISIS POWER CAN DESTROY THE ORDER IT CLAIMS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[ANALYSIS] THE MODERN ANSWER SHOULD JUDGE THE PROVISIONS TOGETHER",
+          "role": "comparison"
+        },
+        {
+          "text": "EMERGENCY POWER CONCENTRATES AUTHORITY TEMPORARILY UNDER LEGAL FORMS.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "16. Safety-valve versus constitutional dictatorship - optional",
+            "17. Constitutional dictatorship as a design problem - optional",
+            "[ANALYSIS] Both sides are partly correct: a Constitution needs crisis capacity, but",
+            "unchecked crisis power can destroy the order it claims to preserve."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[ANALYSIS] The modern answer should judge the provisions together with 44th Amendment safeguards, judicial review and political federalism.",
+            "Emergency power concentrates authority temporarily under legal forms.",
+            "The risk is normalisation: crisis standards may become ordinary governance.",
+            "Procedural safeguards, sunset/renewal, reasons, parliamentary opposition, judicial access and protected rights prevent normalisation."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "India's strongest design choice is not merely special-majority approval but non-suspendable Articles 20 and 21.",
+            "The remaining weakness is information asymmetry: Parliament and courts depend on executive material concerning threat and State breakdown.",
+            "Safety-valve versus constitutional dictatorship - optional | Critic/defender | Argument use | |---|---| | H.V.",
+            "Kamath | Risk of totalitarian/police State | | K.T."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

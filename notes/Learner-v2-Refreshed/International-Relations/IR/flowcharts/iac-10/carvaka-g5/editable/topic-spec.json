@@ -1,0 +1,1267 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-10",
+  "subject": "International-Relations",
+  "title": "REGIONAL, GLOBAL AND MINILATERAL GROUPINGS",
+  "short_route": "CENTRAL QUESTION AND THE → SOUTH ASIAN LAYER READ → WHERE REGIONAL INTEGRATION ACTUALLY → PARTICIPATION TIERS AND WHAT → SOUTHEAST ASIAN ARCHITECTURE AND → OCEANIC AND CONTINENTAL LAYERS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-10-deep-review-2026-09-06-g5.json",
+  "ascii_spec_sha256": "5b53f980d370f7822316a141107b0b53090dcf4bac5c926ed5ae7a800e8716e1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL QUESTION AND THE FIVE-LAYER ANSWER",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL QUESTION AND THE FIVE-LAYER ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "WHY DOES INDIA JOIN SO MANY OVERLAPPING GROUPINGS?",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH LAYER BUYS A DIFFERENT, NON-IDENTICAL INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "LAYER 1 REGIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "MEKONG-GANGA COOPERATION",
+          "role": "primary"
+        },
+        {
+          "text": "LAYER 2 TRANS-REGIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYER 3 CONTINENTAL",
+          "role": "comparison"
+        },
+        {
+          "text": "SHANGHAI COOPERATION ORGANISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → why does India join so many overlapping groupings?",
+        "ANSWER → each layer buys a different, non-identical interest",
+        "LAYER 1 REGIONAL → SAARC",
+        "Mekong-Ganga Cooperation",
+        "LAYER 2 TRANS-REGIONAL → IORA"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION → why does India join so many overlapping groupings?",
+            "ANSWER → each layer buys a different, non-identical interest",
+            "LAYER 1 REGIONAL → SAARC",
+            "Mekong-Ganga Cooperation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAYER 2 TRANS-REGIONAL → IORA",
+            "LAYER 3 CONTINENTAL → Shanghai Cooperation Organisation",
+            "LAYER 4 GLOBAL GOVERNANCE → Group of Twenty",
+            "LAYER 5 MINILATERAL → Quad"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → name the layer before analysing the body",
+            "BOUNDARY → Quad maritime security to topic 04; SCO connectivity to topic 05",
+            "Global South to topic 08; UN and Bretton Woods reform linkage to topic 12",
+            "MUST REMEMBER: Regional, global and minilateral groupings vary by treaty basis,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → name the layer before analysing the body.",
+      "source_references": [
+        "What this groupings owner holds and how its boundaries are routed",
+        "The five-layer architecture that classifies every grouping",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SOUTH ASIAN LAYER READ AS A DATED RECORD",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SOUTH ASIAN LAYER READ AS A DATED RECORD",
+          "role": "primary"
+        },
+        {
+          "text": "26-27 NOVEMBER 2014",
+          "role": "outcome"
+        },
+        {
+          "text": "18TH SAARC SUMMIT AT KATHMANDU, THE LAST SUMMIT HELD",
+          "role": "comparison"
+        },
+        {
+          "text": "CHARTER-BASED BODY, 8 MEMBERS PLUS OBSERVERS, STILL IN EXISTENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "8 FEBRUARY 2004",
+          "role": "primary"
+        },
+        {
+          "text": "BIMSTEC FREE TRADE AREA FRAMEWORK AGREEMENT; NO FTA CONCLUDED",
+          "role": "caution"
+        },
+        {
+          "text": "30 MARCH 2022",
+          "role": "comparison"
+        },
+        {
+          "text": "BIMSTEC CHARTER ADOPTED AT COLOMBO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "26-27 NOVEMBER 2014 → 18th SAARC Summit at Kathmandu, the last Summit held",
+        "STATUS → charter-based body, 8 members plus observers, still in existence",
+        "8 FEBRUARY 2004 → BIMSTEC free trade area framework agreement; no FTA concluded",
+        "30 MARCH 2022 → BIMSTEC Charter adopted at Colombo",
+        "20 MAY 2024 → BIMSTEC Charter enters into force; 7 members"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "26-27 NOVEMBER 2014 → 18th SAARC Summit at Kathmandu, the last Summit held",
+            "STATUS → charter-based body, 8 members plus observers, still in existence",
+            "8 FEBRUARY 2004 → BIMSTEC free trade area framework agreement; no FTA concluded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "30 MARCH 2022 → BIMSTEC Charter adopted at Colombo",
+            "20 MAY 2024 → BIMSTEC Charter enters into force; 7 members",
+            "4 APRIL 2025 → 6th BIMSTEC Summit, Bangkok; Bangladesh takes the chair adopts Summit Declaration, Bangkok Vision 2030, Rules of Procedure,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Eminent Persons Group report; endorses the 28 March 2025 earthquake statement",
+            "RULE → renamed BIMST-EC and BIMSTEC are one lineage, not two organisations"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → renamed BIMST-EC and BIMSTEC are one lineage, not two organisations.",
+      "source_references": [
+        "The South Asian Association for Regional Cooperation and the difference between stagnation and dissolution",
+        "The Bay of Bengal grouping's institutional lineage and the Charter that formalised it",
+        "The sixth Summit instrument set and Bangkok Vision 2030",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WHERE REGIONAL INTEGRATION ACTUALLY SLOWS",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WHERE REGIONAL INTEGRATION ACTUALLY SLOWS",
+          "role": "primary"
+        },
+        {
+          "text": "SUMMIT OUTPUTS ARE READ AS REGIONAL OBLIGATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "A DECLARATION, A VISION DOCUMENT, RULES OF PROCEDURE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "AN AGREEMENT IN FORCE IS READ AS BINDING THE",
+          "role": "evidence"
+        },
+        {
+          "text": "BIMSTEC AGREEMENT ON MARITIME TRANSPORT COOPERATION SIGNED",
+          "role": "primary"
+        },
+        {
+          "text": "3 APRIL 2025; IN FORCE 16 MAY 2026 AMONG",
+          "role": "outcome"
+        },
+        {
+          "text": "VARIABLE-GEOMETRY RATIFICATION, NOT SUMMIT RELUCTANCE",
+          "role": "caution"
+        },
+        {
+          "text": "IN FORCE FOR FOUR OF SEVEN IS THE ANSWER-GRABBING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → summit outputs are read as regional obligations",
+        "RESPONSE: a declaration, a vision document, rules of procedure and an expert report are four",
+        "PROBLEM → an agreement in force is read as binding the whole region",
+        "RESPONSE: BIMSTEC Agreement on Maritime Transport Cooperation signed",
+        "3 April 2025; in force 16 May 2026 among Bhutan, India, Myanmar, Thailand after Myanmar"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROBLEM → summit outputs are read as regional obligations",
+            "RESPONSE: a declaration, a vision document, rules of procedure and an expert report are four evidentiary levels and none is a treaty obligation",
+            "PROBLEM → an agreement in force is read as binding the whole region"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE: BIMSTEC Agreement on Maritime Transport Cooperation signed",
+            "3 April 2025; in force 16 May 2026 among Bhutan, India, Myanmar, Thailand after Myanmar deposited the fourth instrument on 13 May 2026",
+            "DIAGNOSIS → variable-geometry ratification, not summit reluctance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → in force for four of seven is the answer-grabbing formulation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → in force for four of seven is the answer-grabbing formulation.",
+      "source_references": [
+        "Partial entry into force as the sharpest effectiveness datum",
+        "The sixth Summit instrument set and Bangkok Vision 2030",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PARTICIPATION TIERS AND WHAT EACH ONE CONFERS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PARTICIPATION TIERS AND WHAT EACH ONE CONFERS",
+          "role": "primary"
+        },
+        {
+          "text": "8 MEMBERS",
+          "role": "outcome"
+        },
+        {
+          "text": "7 MEMBERS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SEPARATE TIER RECORDED",
+          "role": "caution"
+        },
+        {
+          "text": "11 MEMBERS",
+          "role": "primary"
+        },
+        {
+          "text": "DIALOGUE PARTNERS; INDIA FULL SINCE 1995",
+          "role": "outcome"
+        },
+        {
+          "text": "TIMOR-LESTE ADMITTED AT THE 47TH ASEAN SUMMIT, 26 OCTOBER",
+          "role": "comparison"
+        },
+        {
+          "text": "23 MEMBER STATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAARC → 8 members",
+        "BIMSTEC → 7 members",
+        "no separate tier recorded",
+        "ASEAN → 11 members",
+        "dialogue partners; India full since 1995"
+      ],
+      "matrix": [
+        [
+          "SAARC → 8 members",
+          "observers"
+        ],
+        [
+          "BIMSTEC → 7 members",
+          "no separate tier recorded"
+        ],
+        [
+          "ASEAN → 11 members",
+          "dialogue partners; India full since 1995"
+        ],
+        [
+          "IORA → 23 member states",
+          "12 dialogue partners"
+        ],
+        [
+          "SCO → 10 members",
+          "2 observers, 15 dialogue partners"
+        ],
+        [
+          "BRICS → 11 full members",
+          "10 partner countries, from 24 Oct 2024"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SAARC → 8 members",
+            "BIMSTEC → 7 members",
+            "no separate tier recorded",
+            "ASEAN → 11 members",
+            "dialogue partners; India full since 1995"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IORA → 23 member states",
+            "12 dialogue partners",
+            "SCO → 10 members",
+            "2 observers, 15 dialogue partners",
+            "BRICS → 11 full members"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "G20 → 19 states + EU + AU",
+            "guests and invited organisations",
+            "QUAD → 4 participants",
+            "non-treaty consultative minilateral",
+            "RULE → tiers expand reach without expanding decision rights"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → tiers expand reach without expanding decision rights.",
+      "source_references": [
+        "The Association of Southeast Asian Nations and the India-ASEAN framework",
+        "The Indian Ocean Rim Association as the trans-regional oceanic layer",
+        "Shanghai Cooperation Organisation membership as voice without privileged access",
+        "BRICS full membership against the partner-country category",
+        "The Group of Twenty's composition and the African Union's permanent membership",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SOUTHEAST ASIAN ARCHITECTURE AND THE TRADE-AGREEMENT MAP",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOUTHEAST ASIAN ARCHITECTURE AND THE TRADE-AGREEMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "22ND ASEAN-INDIA SUMMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "KUALA LUMPUR, 26 OCTOBER 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "ASEAN-INDIA PLAN OF ACTION FOR THE COMPREHENSIVE STRATEGIC",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTNERSHIP, 2026-2030",
+          "role": "primary"
+        },
+        {
+          "text": "AITIGA REVIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "ONGOING, EXPRESSLY NOT CONCLUDED",
+          "role": "caution"
+        },
+        {
+          "text": "ASEAN FTA PARTNERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "22nd ASEAN-INDIA SUMMIT → Kuala Lumpur, 26 October 2025",
+        "FRAMEWORK → ASEAN-India Plan of Action for the Comprehensive Strategic",
+        "Partnership, 2026-2030",
+        "AITIGA REVIEW → ongoing, expressly not concluded",
+        "ASEAN FTA PARTNERS → China"
+      ],
+      "matrix": [
+        [
+          "ASEAN FTA PARTNERS → China",
+          "South Korea",
+          "Japan",
+          "India"
+        ],
+        [
+          "Australia-New Zealand",
+          "Hong Kong",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "22nd ASEAN-INDIA SUMMIT → Kuala Lumpur, 26 October 2025",
+            "FRAMEWORK → ASEAN-India Plan of Action for the Comprehensive Strategic",
+            "Partnership, 2026-2030",
+            "AITIGA REVIEW → ongoing, expressly not concluded"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASEAN FTA PARTNERS → China",
+            "South Korea",
+            "Australia-New Zealand",
+            "Hong Kong"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RCEP → ASEAN with Australia, China, Japan, South Korea, New Zealand",
+            "INDIA IN RCEP → not a member",
+            "TRAP → an ASEAN dialogue or trade partner is not thereby an ASEAN member"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → an ASEAN dialogue or trade partner is not thereby an ASEAN member.",
+      "source_references": [
+        "The Association of Southeast Asian Nations and the India-ASEAN framework",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "OCEANIC AND CONTINENTAL LAYERS WITH THEIR DATED OUTCOMES",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OCEANIC AND CONTINENTAL LAYERS WITH THEIR DATED OUTCOMES",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN OCEAN RIM ASSOCIATION, EARLIER IOR-ARC",
+          "role": "outcome"
+        },
+        {
+          "text": "SECRETARIAT AT EBENE, MAURITIUS; INDIA CHAIRS 2025-27, ASSUMED NOVEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "24TH COUNCIL OF MINISTERS MET VIRTUALLY 21 MAY 2025",
+          "role": "institution"
+        },
+        {
+          "text": "CHARTER-BASED EURASIAN INTERGOVERNMENTAL ORGANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA A FULL MEMBER SINCE 2017; CHINA, RUSSIA, PAKISTAN",
+          "role": "outcome"
+        },
+        {
+          "text": "TIANJIN SUMMIT 31 AUGUST-1 SEPTEMBER 2025; TIANJIN DECLARATION",
+          "role": "comparison"
+        },
+        {
+          "text": "KYRGYZSTAN CHAIRS 2025-26",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IORA → Indian Ocean Rim Association, earlier IOR-ARC",
+        "Secretariat at Ebene, Mauritius; India chairs 2025-27, assumed November 2025",
+        "24th Council of Ministers met virtually 21 May 2025; Colombo Communique cited by Tharoor as",
+        "SCO → charter-based Eurasian intergovernmental organisation",
+        "India a full member since 2017; China, Russia, Pakistan, Iran, Belarus inside"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IORA → Indian Ocean Rim Association, earlier IOR-ARC",
+            "Secretariat at Ebene, Mauritius; India chairs 2025-27, assumed November 2025",
+            "24th Council of Ministers met virtually 21 May 2025; Colombo Communique cited by Tharoor as a platform engaged alongside larger bodies"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCO → charter-based Eurasian intergovernmental organisation",
+            "India a full member since 2017; China, Russia, Pakistan, Iran, Belarus inside",
+            "Tianjin summit 31 August-1 September 2025; Tianjin Declaration"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kyrgyzstan chairs 2025-26",
+            "LIMIT → a seat supplies voice, never privileged access or shared threat views",
+            "CLOSE DISTINCTION: Member, observer, dialogue partner, guest, chair and invited..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Member, observer, dialogue partner, guest, chair and invited.",
+      "source_references": [
+        "The Indian Ocean Rim Association as the trans-regional oceanic layer",
+        "Shanghai Cooperation Organisation membership as voice without privileged access",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GLOBAL-GOVERNANCE LAYER COUNTED CORRECTLY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GLOBAL-GOVERNANCE LAYER COUNTED CORRECTLY",
+          "role": "primary"
+        },
+        {
+          "text": "11 FULL MEMBERS; NOT A TREATY ALLIANCE PARTNER-COUNTRY CATEGORY",
+          "role": "caution"
+        },
+        {
+          "text": "17TH SUMMIT, RIO DE JANEIRO, 6-7 JULY 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "RIO DE JANEIRO DECLARATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA CHAIRSHIP 2026 LAUNCHED 13 JANUARY 2026 WITH THEME",
+          "role": "primary"
+        },
+        {
+          "text": "NEW DEVELOPMENT BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "10 ACTUAL MEMBERS FIVE FOUNDERS + BANGLADESH 2021, UAE",
+          "role": "comparison"
+        },
+        {
+          "text": "UZBEKISTAN 2026; OTHER STATES LISTED AS PROSPECTIVE, NOT ACTUAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BRICS → 11 full members; not a treaty alliance partner-country category of 10 created through",
+        "17th Summit, Rio de Janeiro, 6-7 July 2025 → Rio de Janeiro Declaration",
+        "India chairship 2026 launched 13 January 2026 with theme, logo and website no 2026 Leaders'",
+        "NEW DEVELOPMENT BANK → 10 actual members five founders + Bangladesh 2021, UAE 2021, Egypt",
+        "Uzbekistan 2026; other states listed as prospective, not actual"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BRICS → 11 full members; not a treaty alliance partner-country category of 10 created through the Kazan process, 24 Oct 2024",
+          "NEW DEVELOPMENT BANK → 10 actual members five founders + Bangladesh 2021, UAE 2021, Egypt 2023, Algeria 2025,",
+          "Johannesburg Summit 22-23 November 2025; United States holds 2026 presidency"
+        ],
+        [
+          "17th Summit, Rio de Janeiro, 6-7 July 2025 → Rio de Janeiro Declaration",
+          "Uzbekistan 2026; other states listed as prospective, not actual",
+          ""
+        ],
+        [
+          "India chairship 2026 launched 13 January 2026 with theme, logo and website no 2026 Leaders' Summit outcome officially verified as of 3 August 2026",
+          "G20 → African Union a permanent member from 9 September 2023",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRICS → 11 full members; not a treaty alliance partner-country category of 10 created through the Kazan process, 24 Oct 2024",
+            "17th Summit, Rio de Janeiro, 6-7 July 2025 → Rio de Janeiro Declaration",
+            "India chairship 2026 launched 13 January 2026 with theme, logo and website no 2026 Leaders' Summit outcome officially verified as of 3 August 2026"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEW DEVELOPMENT BANK → 10 actual members five founders + Bangladesh 2021, UAE 2021, Egypt 2023, Algeria 2025,",
+            "Uzbekistan 2026; other states listed as prospective, not actual",
+            "G20 → African Union a permanent member from 9 September 2023"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Johannesburg Summit 22-23 November 2025; United States holds 2026 presidency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Johannesburg Summit 22-23 November 2025; United States holds 2026 presidency.",
+      "source_references": [
+        "BRICS full membership against the partner-country category",
+        "The New Development Bank's actual against prospective membership",
+        "The Group of Twenty's composition and the African Union's permanent membership",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MINILATERAL AGAINST TREATY ALLIANCE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MINILATERAL AGAINST TREATY ALLIANCE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA, AUSTRALIA, JAPAN, UNITED STATES; NON-TREATY CONSULTATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "LEADERS' SUMMIT",
+          "role": "comparison"
+        },
+        {
+          "text": "WILMINGTON, DELAWARE, 21 SEPTEMBER 2024",
+          "role": "evidence"
+        },
+        {
+          "text": "FOREIGN MINISTERS",
+          "role": "primary"
+        },
+        {
+          "text": "NEW DELHI, 26 MAY 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "INDO-PACIFIC MARITIME SECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "COOPERATION INITIATIVE; INDO-PACIFIC ENERGY SECURITY INITIATIVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUAD → India, Australia, Japan, United States; non-treaty consultative",
+        "Leaders' Summit: Wilmington, Delaware, 21 September 2024",
+        "Foreign Ministers: New Delhi, 26 May 2026 → Indo-Pacific Maritime Security",
+        "Cooperation initiative; Indo-Pacific Energy Security initiative",
+        "Critical Minerals Framework announced; Critical Minerals Initiative 1 July 2025"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "QUAD → India, Australia, Japan, United States; non-treaty consultative",
+          "Critical Minerals Framework announced; Critical Minerals Initiative 1 July 2025",
+          "Norway, Portugal, United Kingdom, United States; ratified within five months"
+        ],
+        [
+          "Leaders' Summit: Wilmington, Delaware, 21 September 2024",
+          "India announced as intended host; no held summit and no postponement verified",
+          "Article 5 invoked once ever, after 11 September 2001; confirmed 2 October 2001"
+        ],
+        [
+          "Foreign Ministers: New Delhi, 26 May 2026 → Indo-Pacific Maritime Security",
+          "NATO → North Atlantic Treaty signed 4 April 1949, Washington, D.C., 12 states",
+          "Finland joined 2023; Sweden the 32nd member, March 2024; Council by consensus"
+        ],
+        [
+          "Cooperation initiative; Indo-Pacific Energy Security initiative",
+          "Belgium, Canada, Denmark, France, Iceland, Italy, Luxembourg, Netherlands,",
+          "DECISIVE LINE → collective defence is a treaty obligation; the Quad has none"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "QUAD → India, Australia, Japan, United States; non-treaty consultative",
+            "Leaders' Summit: Wilmington, Delaware, 21 September 2024",
+            "Foreign Ministers: New Delhi, 26 May 2026 → Indo-Pacific Maritime Security",
+            "Cooperation initiative; Indo-Pacific Energy Security initiative"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Critical Minerals Framework announced; Critical Minerals Initiative 1 July 2025",
+            "India announced as intended host; no held summit and no postponement verified",
+            "NATO → North Atlantic Treaty signed 4 April 1949, Washington, D.C., 12 states",
+            "Belgium, Canada, Denmark, France, Iceland, Italy, Luxembourg, Netherlands,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Norway, Portugal, United Kingdom, United States; ratified within five months",
+            "Article 5 invoked once ever, after 11 September 2001; confirmed 2 October 2001",
+            "Finland joined 2023; Sweden the 32nd member, March 2024; Council by consensus",
+            "DECISIVE LINE → collective defence is a treaty obligation; the Quad has none"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DECISIVE LINE → collective defence is a treaty obligation; the Quad has none.",
+      "source_references": [
+        "The Quad as a non-treaty minilateral and its dated meeting record",
+        "The treaty alliance comparator and why it is not a Quad analogue",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "HOW THE ALLIANCE REACHES INDIA WITHOUT INDIA BEING IN IT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HOW THE ALLIANCE REACHES INDIA WITHOUT INDIA BEING IN",
+          "role": "primary"
+        },
+        {
+          "text": "RUSSIA CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "POST-2022 CONSOLIDATION DEEPENS RUSSIA-WEST CONFRONTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESSURE ON DEFENCE SPARES, ENERGY, PAYMENTS AND DIPLOMATIC BALANCING",
+          "role": "evidence"
+        },
+        {
+          "text": "EUROPE CHANNEL",
+          "role": "primary"
+        },
+        {
+          "text": "FINLAND AND SWEDEN EXPAND NORTHERN GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "STRONGER UNITED STATES-EUROPE COORDINATION, BUT ATTENTION AND DEFENCE INDUSTRIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNOLOGY CHANNEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RUSSIA CHANNEL → post-2022 consolidation deepens Russia-West confrontation",
+        "pressure on defence spares, energy, payments and diplomatic balancing",
+        "EUROPE CHANNEL → Finland and Sweden expand northern geography",
+        "stronger United States-Europe coordination, but attention and defence industrial capacity can shift toward Europe",
+        "TECHNOLOGY CHANNEL → tighter export-control and sanctions coordination"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RUSSIA CHANNEL → post-2022 consolidation deepens Russia-West confrontation",
+            "pressure on defence spares, energy, payments and diplomatic balancing",
+            "EUROPE CHANNEL → Finland and Sweden expand northern geography"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "stronger United States-Europe coordination, but attention and defence industrial capacity can shift toward Europe",
+            "TECHNOLOGY CHANNEL → tighter export-control and sanctions coordination",
+            "exposure for Indian firms and technology partnerships"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIAN RESPONSE → diversify defence supply; deepen India-EU and bilateral",
+            "European ties; keep issue-based Russia engagement; refuse alliance logic",
+            "RULE → analyse transmission, not membership, when India is outside the body"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → analyse transmission, not membership, when India is outside the body.",
+      "source_references": [
+        "The treaty alliance comparator and why it is not a Quad analogue",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TRILATERAL PLATFORMS AND THE SUBREGIONAL MECHANISM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRILATERAL PLATFORMS AND THE SUBREGIONAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "INDIA, BRAZIL, SOUTH AFRICA; SIKRI",
+          "role": "outcome"
+        },
+        {
+          "text": "POTENTIALLY SIGNIFICANT",
+          "role": "comparison"
+        },
+        {
+          "text": "LEADERS' MEETING, JOHANNESBURG, 23 NOVEMBER 2025 DIGITAL INNOVATION ALLIANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPOSALS, EXPRESSLY NOT ESTABLISHED INSTITUTIONS",
+          "role": "caution"
+        },
+        {
+          "text": "RUSSIA, INDIA, CHINA; ALSO NAMED BY SIKRI NO OFFICIALLY",
+          "role": "caution"
+        },
+        {
+          "text": "MEETING OF 26 NOVEMBER 2021",
+          "role": "comparison"
+        },
+        {
+          "text": "6 MEMBERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IBSA → India, Brazil, South Africa; Sikri: potentially significant",
+        "Leaders' Meeting, Johannesburg, 23 November 2025 digital innovation alliance and climate-resilient agriculture fund proposed",
+        "STATUS → proposals, expressly not established institutions",
+        "RIC → Russia, India, China; also named by Sikri no officially verified meeting since the",
+        "Meeting of 26 November 2021"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "IBSA → India, Brazil, South Africa; Sikri: potentially significant",
+          "RIC → Russia, India, China; also named by Sikri no officially verified meeting since the virtual 18th Foreign Ministers'",
+          "located officially: the 10th, Bangkok, 1 August 2019 corridor engineering routes to the neighbourhood owner"
+        ],
+        [
+          "Leaders' Meeting, Johannesburg, 23 November 2025 digital innovation alliance and climate-resilient agriculture fund proposed",
+          "Meeting of 26 November 2021",
+          "DISCIPLINE → state the asymmetry whenever the platforms are listed together"
+        ],
+        [
+          "STATUS → proposals, expressly not established institutions",
+          "MEKONG-GANGA → 6 members: Cambodia, India, Lao PDR, Myanmar, Thailand, Viet Nam most recent ministerial",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IBSA → India, Brazil, South Africa; Sikri: potentially significant",
+            "Leaders' Meeting, Johannesburg, 23 November 2025 digital innovation alliance and climate-resilient agriculture fund proposed",
+            "STATUS → proposals, expressly not established institutions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RIC → Russia, India, China; also named by Sikri no officially verified meeting since the virtual 18th Foreign Ministers'",
+            "Meeting of 26 November 2021",
+            "MEKONG-GANGA → 6 members: Cambodia, India, Lao PDR, Myanmar, Thailand, Viet Nam most recent ministerial"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "located officially: the 10th, Bangkok, 1 August 2019 corridor engineering routes to the neighbourhood owner",
+            "DISCIPLINE → state the asymmetry whenever the platforms are listed together"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → state the asymmetry whenever the platforms are listed together.",
+      "source_references": [
+        "The two trilateral platforms and their asymmetric activity",
+        "Mekong-Ganga Cooperation and the subregional connectivity layer",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REGIME VOCABULARY THAT DECIDES OBJECTIVE QUESTIONS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REGIME VOCABULARY THAT DECIDES OBJECTIVE QUESTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA THE 35TH MEMBER, 27 JUNE 2016 VOLUNTARY EXPORT-CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA NOT A MEMBER; APPLICATION DISTINCT FROM THE 2008",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA A FOUNDING MEMBER AND THE SECOND-LARGEST SHAREHOLDER AFTER",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA A FULL MEMBER SINCE 2017; ACCESS WITHOUT SHARED",
+          "role": "primary"
+        },
+        {
+          "text": "IAEA ADDITIONAL PROTOCOL",
+          "role": "outcome"
+        },
+        {
+          "text": "IN FORCE 25 JULY 2014; APPLIES TO SAFEGUARDS ONLY",
+          "role": "comparison"
+        },
+        {
+          "text": "ASEM JOINED 2007; APEC STILL A NON-MEMBERSHIP EXAMPLE, 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MTCR → India the 35th member, 27 June 2016 voluntary export-control arrangement; rule access, not",
+        "NSG → India not a member; application distinct from the 2008 India-specific waiver enabling civil",
+        "AIIB → India a founding member and the second-largest shareholder after China finance access and",
+        "SCO → India a full member since 2017; access without shared threat perception",
+        "IAEA ADDITIONAL PROTOCOL → in force 25 July 2014; applies to safeguards only it does"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MTCR → India the 35th member, 27 June 2016 voluntary export-control arrangement; rule access, not guaranteed transfer",
+            "NSG → India not a member; application distinct from the 2008 India-specific waiver enabling civil nuclear commerce; admission needs consensus"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AIIB → India a founding member and the second-largest shareholder after China finance access and a governance stake, never unilateral control",
+            "SCO → India a full member since 2017; access without shared threat perception"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IAEA ADDITIONAL PROTOCOL → in force 25 July 2014; applies to safeguards only it does not make India a non-nuclear-weapon State under the NPT",
+            "GAP → ASEM joined 2007; APEC still a non-membership example, 3 August 2026"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MTCR → India the 35th member, 27 June 2016 voluntary export-control arrangement; rule access, not guaranteed transfer.",
+      "source_references": [
+        "Membership and regime distinctions the objective paper tests directly",
+        "The membership-gap correction that keeps the record honest",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A GROUPINGS OR MINILATERALISM DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A GROUPINGS OR MINILATERALISM DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE LAYER, THE LEGAL FORM AND THE EXACT",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE DATED INSTRUMENT WITH ITS PRECISE EVIDENTIARY LEVEL ATTACHED",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATY-BOUND CHARTER BODY AGAINST NON-TREATY COALITION, BOTH NAMED",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE ANNOUNCED, SIGNED, IN FORCE AND IN FORCE FOR",
+          "role": "primary"
+        },
+        {
+          "text": "BANDWIDTH COST, EFFECTIVENESS VARIANCE, COHERENCE DILUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 2020 QUAD, 2021 AND 2023 SCO, 2022 BIMSTEC-SAARC",
+          "role": "comparison"
+        },
+        {
+          "text": "FORM MUST MATCH THE PROBLEM; MULTIPLYING MEMBERSHIPS WITHOUT DELIVERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the layer, the legal form and the exact participation tier",
+        "EVIDENCE → one dated instrument with its precise evidentiary level attached",
+        "COMPARE → treaty-bound charter body against non-treaty coalition, both named",
+        "TEST → separate announced, signed, in force and in force for how many members",
+        "CONCEDE → bandwidth cost, effectiveness variance, coherence dilution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the layer, the legal form and the exact participation tier",
+            "EVIDENCE → one dated instrument with its precise evidentiary level attached",
+            "COMPARE → treaty-bound charter body against non-treaty coalition, both named"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → separate announced, signed, in force and in force for how many members",
+            "CONCEDE → bandwidth cost, effectiveness variance, coherence dilution",
+            "OWNERSHIP → the 2020 Quad, 2021 and 2023 SCO, 2022 BIMSTEC-SAARC, 2022 I2U2 and 2023 alliance-expansion demands are the routed Mains questions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → form must match the problem; multiplying memberships without delivery or status precision produces only diplomatic symbolism",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify current membership and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify current membership and.",
+      "source_references": [
+        "Honest question ownership for this groupings owner",
+        "Overlap as strategic-autonomy design and the coordination cost it carries",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-10\\g5\\international-relations-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BIMSTEC CHARTER (IN FORCE 20 MAY 2024) AND THE",
+          "role": "outcome"
+        },
+        {
+          "text": "BRICS RIO DE JANEIRO DECLARATION (17TH SUMMIT, 6-7 JULY",
+          "role": "comparison"
+        },
+        {
+          "text": "IBSA AND RIC",
+          "role": "evidence"
+        },
+        {
+          "text": "TRILATERAL PLATFORMS WHOSE \"POTENTIALLY SIGNIFICANT\"",
+          "role": "primary"
+        },
+        {
+          "text": "MOST RECENT LEADERS' SUMMIT AT WILMINGTON, 21 SEPTEMBER 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "FULL INSTITUTIONAL/CONNECTIVITY PROFILE RESERVED FOR TOPIC 05.",
+          "role": "comparison"
+        },
+        {
+          "text": "FULL MARITIME-SECURITY INSTITUTIONAL PROFILE RESERVED FOR TOPIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "BIMSTEC Charter (in force 20 May 2024) and the 6th Summit (Bangkok,",
+            "BRICS Rio de Janeiro Declaration (17th Summit, 6-7 July 2025): the",
+            "IBSA and RIC: trilateral platforms whose \"potentially significant\"",
+            "Quad: most recent Leaders' Summit at Wilmington, 21 September 2024;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: SCO: full institutional/connectivity profile reserved for topic 05.",
+            "CAUTION: Quad: full maritime-security institutional profile reserved for topic",
+            "CAUTION: Boundary case — SAARC stagnation vs. BIMSTEC ascendance: the shift in",
+            "CAUTION: Boundary case — SCO membership without privileged access: as in topic"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Boundary case — membership gaps as a corrective to triumphalist",
+            "CAUTION: Boundary case — BRICS expansion and coherence trade-off: BRICS's",
+            "CAUTION: Overlap has real coordination costs: engaging five distinct layers of",
+            "CAUTION: Institutional-effectiveness variance is a genuine limitation: a"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

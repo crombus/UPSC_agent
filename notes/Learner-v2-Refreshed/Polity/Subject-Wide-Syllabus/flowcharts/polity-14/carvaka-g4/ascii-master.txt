@@ -1,0 +1,115 @@
+ASCII MASTER FLOW — PANEL 1/12: Three emergencies and constitutional purpose
+PART XVIII: ARTICLES 352-360
+352 national security | 356 State constitutional breakdown | 360 financial stability
+
+METHOD
+trigger -> written advice/material -> parliamentary control -> duration -> effects -> exit
+Emergency power preserves constitutional government; it is not an extra-constitutional regime.
+MUST REMEMBER: Teach Articles 352-360 as three different regimes with exact triggers, approval
+  periods, renewal, revocation, maximum duration, federal effects and rights consequences;
+  Articles 358 and 359 must never be merged.
+
+ASCII MASTER FLOW — PANEL 2/12: Article 352 trigger, approval, renewal and revocation
+TRIGGER: war | external aggression | armed rebellion | imminent danger
+Cabinet decision in writing -> President -> whole or part of India
+APPROVAL: both Houses within one month -> special majority
+CONTINUANCE: six-month blocks -> same special majority
+EXIT: President revokes; Lok Sabha simple-majority disapproval requires revocation
+One-tenth of Lok Sabha members can require a special sitting within 14 days.
+
+ASCII MASTER FLOW — PANEL 3/12: Declaration and amendment chronology with current status
+1962 external aggression -> revoked 1968
+1971 external aggression -> continued alongside 1975 proclamation
+1975 internal disturbance -> revoked 1977
+38TH: attempted satisfaction immunity
+42ND: territorial and wider-effect changes
+44TH: armed rebellion, Cabinet writing, special majority, liberty and review
+CURRENT 28 AUG 2026: no National Emergency is in force.
+
+ASCII MASTER FLOW — PANEL 4/12: National Emergency effects on federalism and institutions
+ARTICLE 353: Union directions expand; Parliament gains State-field competence
+ARTICLE 250 laws -> six-month tail after Emergency
+ARTICLE 354 -> temporary revenue-distribution order with financial-year limit
+LOK SABHA / ASSEMBLY TERMS -> Parliament may extend one year at a time
+
+LIMIT
+States, legislatures and High Courts continue: temporary Union weighting, not abolition.
+
+ASCII MASTER FLOW — PANEL 5/12: Articles 358 and 359 rights firewall
+ARTICLE 358
+automatic | Article 19 only | war/external aggression | emergency-related recital/action
+ARTICLE 359
+presidential order | named rights' court-enforcement route | stated area/period
+
+PERMANENT FIREWALL
+Articles 20 and 21 remain enforceable; unrelated illegality gets no emergency shield.
+
+ASCII MASTER FLOW — PANEL 6/12: ADM Jabalpur (1976), Khanna and K.S. Puttaswamy (2017)
+ADM JABALPUR (1976) MAJORITY
+denied habeas enforcement route during the operative Article 359 order
+JUSTICE H.R. KHANNA -> liberty is not executive grace
+44TH AMENDMENT -> Articles 20 and 21 excluded from Article 359
+K.S. K.S. PUTTASWAMY (2017) -> ADM Jabalpur (1976) majority wrongly decided and overruled
+Historical warning, not current law.
+CLOSE DISTINCTION: The 44th Amendment replaced internal disturbance with armed rebellion,
+  requires written Cabinet advice, protects Articles 20 and 21, narrows Article 358 to
+  war/external aggression and creates the Lok Sabha revocation route; Article 356 still has
+  its own six-month approval cycle.
+
+ASCII MASTER FLOW — PANEL 7/12: President's Rule mechanics and consequences
+ARTICLE 356: Governor report or otherwise -> objective material -> proclamation
+APPROVAL: two months, simple majority | renewal: six months | maximum: three years
+BEYOND ONE YEAR: qualifying Article 352 Emergency + ECI certification
+ARTICLE 357: Parliament may confer and permit delegation of State legislative power
+Executive assumed; Assembly suspended/dissolved; High Court and Fundamental Rights continue
+Article 365 may supply material, never an automatic trigger.
+
+ASCII MASTER FLOW — PANEL 8/12: S.R. Bommai (1994), Rameshwar Prasad (2006) and current Article 356 control
+S.R. BOMMAI (1994)
+review | relevant material | floor test | dissolution after approval | restoration | federalism
+RAMESHWAR PRASAD (2006)
+Bihar dissolution invalid; Assembly not restored because election process had advanced
+WHY USE DECLINED
+courts + coalitions + regional parties + Sarkaria/Punchhi norms
+CURRENT: Manipur President's Rule 13 Feb 2025 -> revoked 4 Feb 2026.
+
+ASCII MASTER FLOW — PANEL 9/12: Article 360 financial emergency
+TRIGGER: financial stability or credit of India or any part threatened
+APPROVAL: both Houses within two months by simple majority
+DURATION: no periodic renewal; President may revoke
+DIRECTIONS: financial propriety | salary reductions | State Money/financial Bills reserved
+Union salary direction can include Supreme Court and High Court judges
+STATUS: never proclaimed; 1991 was managed without Article 360.
+
+ASCII MASTER FLOW — PANEL 10/12: Three-way comparison and last-resort alternatives
+352: special majority | six-month renewal | national/federal/rights effects
+356: simple majority | six-month renewal | three-year maximum | State machinery
+360: simple majority | no renewal cycle | financial directions
+
+ESCALATION LADDER
+warning -> consultation -> floor test/court -> targeted ordinary law -> Emergency
+Sarkaria and Punchhi recommendations guide restraint but are not binding law.
+
+ASCII MASTER FLOW — PANEL 11/12: Six PYQs and Prelims firewalls
+PYQ ROUTES
+2018 Financial Emergency + Article 356 consequences
+2020 centralising legislation | 2023 Article 355/detention/POTA + Article 356 decline
+2024 Constitution-Part identification
+
+FIREWALLS
+armed rebellion != internal disturbance | 358 != 359 | 20/21 protected
+352 special majority | 356/360 simple | 360 never used | High Court not assumed.
+
+ASCII MASTER FLOW — PANEL 12/12: Marks-scaled answer spine and qualified verdict
+10 MARKS: provision -> trigger -> procedure -> effects -> status/verdict
+15 MARKS: thesis -> legal factors -> political factors -> case/commission -> verdict
+20 MARKS: 352 + rights + 356 + 360 -> safeguards -> limits -> graded conclusion
+
+EVIDENCE CHAIN
+claim -> Article/amendment -> mechanism -> case/history -> qualification
+VERDICT: emergency is legitimate temporary constitutional self-defence only when reviewable
+and directed toward restoration of ordinary democratic government.
+LEGAL/SOURCE LIMIT: As of 5 September 2026 no National or Financial Emergency was located in
+  force. The Gazette proclamation of 4 February 2026 revoked the Manipur Article 356
+  proclamation; retain S.R. Bommai (1994) review and floor-test discipline without converting
+  every political crisis into constitutional breakdown.

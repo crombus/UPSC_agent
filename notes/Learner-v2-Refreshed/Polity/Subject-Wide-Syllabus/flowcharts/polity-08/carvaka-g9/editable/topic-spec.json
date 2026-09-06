@@ -1,0 +1,1312 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-08",
+  "subject": "Polity",
+  "title": "DIRECTIVE PRINCIPLES",
+  "short_route": "PART IV'S CONSTITUTIONAL OPERATING → ARTICLES 38-43B: WELFARE, WORK → ARTICLES 44-51: REFORM, CAPABILITY → CLASSIFICATION AND AMENDMENT OVERLAYS → FR-DPSP EVOLUTION AND THE → IMPLEMENTATION CHAIN: DIRECTIVE TO",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g9 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-08-deep-review-2026-09-05-g9.json",
+  "ascii_spec_sha256": "d300662720c3e80f7a45dd3d3ed6ccca24e492dc382cd5b1458be1eaee7a1cb5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PART IV'S CONSTITUTIONAL OPERATING LOGIC",
+      "structural_type": "constitutional-architecture-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PART IV'S CONSTITUTIONAL OPERATING LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "PART IV",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 36",
+          "role": "institution"
+        },
+        {
+          "text": "\"STATE\" CARRIES THE PART III",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 12 MEANING",
+          "role": "institution"
+        },
+        {
+          "text": "+-- THE SAME PUBLIC POWER IS RESTRAINED BY RIGHTS",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARTICLE 37",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51",
+        "ARTICLE 36: \"STATE\" carries the Part III / Article 12 meaning",
+        "+-- the same public power is restrained by rights and directed toward welfare",
+        "ARTICLE 37: THREE-PART CONSTITUTIONAL RULE no court directly enforces a Directive Principle the principles remain",
+        "fundamental in governance the State has a duty to apply them in making laws legislation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51",
+            "ARTICLE 36: \"STATE\" carries the Part III / Article 12 meaning",
+            "+-- the same public power is restrained by rights and directed toward welfare"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 37: THREE-PART CONSTITUTIONAL RULE no court directly enforces a Directive Principle the principles remain",
+            "fundamental in governance the State has a duty to apply them in making laws legislation",
+            "+ budget + administration + political accountability interpretation of rights and statutes, without judicial budgeting"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORE DISTINCTION non-justiciable != optional; constitutional duty != an automatic individual remedy.",
+            "MUST REMEMBER: Article 37 makes Articles 36-51 non-justiciable but fundamental in governance",
+            "teach every directive, its amendment history and implementation mechanism before applying the non-textual socialistic/Gandhian/liberal taxonomy."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 37: THREE-PART CONSTITUTIONAL RULE no court directly enforces a Directive Principle the principles remain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THREE-PART CONSTITUTIONAL RULE no court directly enforces a Directive Principle the principles remain fundamental in governance the State has a duty to apply them in making laws legislation + budget + administration + political accountability interpretation of rights and statutes, without judicial budgeting.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLES 38-43B: WELFARE, WORK AND DEMOCRATIC ECONOMY",
+      "structural_type": "article-theme-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARTICLES 38-43B",
+          "role": "primary"
+        },
+        {
+          "text": "WELFARE, WORK AND DEMOCRATIC ECONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL ORDER AND DISTRIBUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WELFARE THROUGH SOCIAL, ECONOMIC AND POLITICAL JUSTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "MINIMISE INEQUALITIES IN INCOME, STATUS, FACILITIES AND OPPORTUNITIES",
+          "role": "primary"
+        },
+        {
+          "text": "ADEQUATE LIVELIHOOD 39(D)",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL PAY FOR EQUAL WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "RESOURCES SERVE COMMON GOOD 39(E)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOCIAL ORDER AND DISTRIBUTION",
+        "38(1): welfare through social, economic and political justice",
+        "38(2): minimise inequalities in income, status, facilities and opportunities",
+        "39(a): adequate livelihood 39(d): equal pay for equal work",
+        "39(b): resources serve common good 39(e): worker / child health"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SOCIAL ORDER AND DISTRIBUTION",
+            "38(1): welfare through social, economic and political justice",
+            "38(2): minimise inequalities in income, status, facilities and opportunities",
+            "39(a): adequate livelihood 39(d): equal pay for equal work"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "39(b): resources serve common good 39(e): worker / child health",
+            "39(c): prevent harmful concentration 39(f): childhood in dignity",
+            "ACCESS AND SELF-GOVERNMENT",
+            "39A: equal justice + free legal aid"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "40: village panchayats as units of self-government",
+            "WORK, SECURITY AND ASSOCIATION",
+            "41: work, education and assistance, subject to economic capacity",
+            "42: humane work conditions + maternity relief"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "43: living wage + decent life + rural cottage industries",
+            "43A: workers participate in management",
+            "43B: voluntary, autonomous, democratic and professional co-operatives"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "43: living wage + decent life + rural cottage industries.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLES 44-51: REFORM, CAPABILITY AND CONSTITUTIONAL CIVILISATION",
+      "structural_type": "article-comparison-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLES 44-51",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM, CAPABILITY AND CONSTITUTIONAL CIVILISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPABILITY ECOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "44 UNIFORM CIVIL CODE 48A ENVIRONMENT, FORESTS AND WILDLIFE",
+          "role": "evidence"
+        },
+        {
+          "text": "45 CARE AND EDUCATION BELOW SIX 49 NATIONALLY IMPORTANT",
+          "role": "primary"
+        },
+        {
+          "text": "46 WEAKER SECTIONS; ESPECIALLY 50 JUDICIARY SEPARATED FROM EXECUTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHEDULED CASTES AND TRIBES 51(A) INTERNATIONAL PEACE AND SECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "47 NUTRITION, LIVING STANDARD, 51(B) JUST AND HONOURABLE RELATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REFORM / CAPABILITY ECOLOGY / INSTITUTIONS / PEACE",
+        "44 Uniform Civil Code 48A environment, forests and wildlife",
+        "45 care and education below six 49 nationally important monuments and objects",
+        "46 weaker sections; especially 50 judiciary separated from executive",
+        "Scheduled Castes and Tribes 51(a) international peace and security"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "REFORM / CAPABILITY ECOLOGY / INSTITUTIONS / PEACE",
+          "46 weaker sections; especially 50 judiciary separated from executive",
+          "48 scientific agriculture and 51(d) arbitration of international disputes animal husbandry; cattle rule",
+          "Article 49 requires declaration by or under Parliamentary law."
+        ],
+        [
+          "44 Uniform Civil Code 48A environment, forests and wildlife",
+          "Scheduled Castes and Tribes 51(a) international peace and security",
+          "CLOSE-OPTION CONTROLS",
+          "Article 51 does not make every treaty self-executing in domestic law."
+        ],
+        [
+          "45 care and education below six 49 nationally important monuments and objects",
+          "47 nutrition, living standard, 51(b) just and honourable relations public health and prohibition 51(c) international law and treaty obligations",
+          "Article 41 contains an economic-capacity limit; Article 46 is not confined to SCs/STs.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "REFORM / CAPABILITY ECOLOGY / INSTITUTIONS / PEACE",
+            "44 Uniform Civil Code 48A environment, forests and wildlife",
+            "45 care and education below six 49 nationally important monuments and objects"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "46 weaker sections; especially 50 judiciary separated from executive",
+            "Scheduled Castes and Tribes 51(a) international peace and security",
+            "47 nutrition, living standard, 51(b) just and honourable relations public health and prohibition 51(c) international law and treaty obligations"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "48 scientific agriculture and 51(d) arbitration of international disputes animal husbandry; cattle rule",
+            "CLOSE-OPTION CONTROLS",
+            "Article 41 contains an economic-capacity limit; Article 46 is not confined to SCs/STs."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 49 requires declaration by or under Parliamentary law.",
+            "Article 51 does not make every treaty self-executing in domestic law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "48 scientific agriculture and 51(d) arbitration of international disputes animal husbandry; cattle rule.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CLASSIFICATION AND AMENDMENT OVERLAYS",
+      "structural_type": "classification-amendment-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLASSIFICATION AND AMENDMENT OVERLAYS",
+          "role": "primary"
+        },
+        {
+          "text": "ANALYTICAL CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CONSTITUTION DOES NOT CREATE THESE LABELS",
+          "role": "caution"
+        },
+        {
+          "text": "38, 39, 39A, 41, 42, 43, 43A, 47",
+          "role": "evidence"
+        },
+        {
+          "text": "40, 43, 43B, 46, 47, 48",
+          "role": "primary"
+        },
+        {
+          "text": "44, 45, 48, 48A, 49, 50, 51",
+          "role": "outcome"
+        },
+        {
+          "text": "43, 46, 47 AND 48 RESIST RIGID PIGEONHOLES",
+          "role": "comparison"
+        },
+        {
+          "text": "AMENDMENT OVERLAY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANALYTICAL CLASSIFICATION: THE CONSTITUTION DOES NOT CREATE THESE LABELS",
+        "SOCIALISTIC: 38, 39, 39A, 41, 42, 43, 43A, 47",
+        "GANDHIAN: 40, 43, 43B, 46, 47, 48",
+        "LIBERAL-INTELLECTUAL: 44, 45, 48, 48A, 49, 50, 51",
+        "OVERLAPS: 43, 46, 47 and 48 resist rigid pigeonholes"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ANALYTICAL CLASSIFICATION: THE CONSTITUTION DOES NOT CREATE THESE LABELS",
+          "LIBERAL-INTELLECTUAL: 44, 45, 48, 48A, 49, 50, 51",
+          "42nd, 1976 → 39(f) recast; 39A, 43A and 48A inserted",
+          "97th, 2011 → Article 43B inserted"
+        ],
+        [
+          "SOCIALISTIC: 38, 39, 39A, 41, 42, 43, 43A, 47",
+          "OVERLAPS: 43, 46, 47 and 48 resist rigid pigeonholes",
+          "44th, 1978 → Article 38(2) inserted",
+          "EXAM RULE"
+        ],
+        [
+          "GANDHIAN: 40, 43, 43B, 46, 47, 48",
+          "AMENDMENT OVERLAY",
+          "86th, 2002 → Article 21A inserted; Article 45 recast for children below six",
+          "Begin with the Article's exact text; use categories only as an explanatory aid."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ANALYTICAL CLASSIFICATION: THE CONSTITUTION DOES NOT CREATE THESE LABELS",
+            "SOCIALISTIC: 38, 39, 39A, 41, 42, 43, 43A, 47",
+            "GANDHIAN: 40, 43, 43B, 46, 47, 48"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LIBERAL-INTELLECTUAL: 44, 45, 48, 48A, 49, 50, 51",
+            "OVERLAPS: 43, 46, 47 and 48 resist rigid pigeonholes",
+            "AMENDMENT OVERLAY"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "42nd, 1976 → 39(f) recast; 39A, 43A and 48A inserted",
+            "44th, 1978 → Article 38(2) inserted",
+            "86th, 2002 → Article 21A inserted; Article 45 recast for children below six"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "97th, 2011 → Article 43B inserted",
+            "EXAM RULE",
+            "Begin with the Article's exact text; use categories only as an explanatory aid."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Begin with the Article's exact text; use categories only as an explanatory aid.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FR-DPSP EVOLUTION AND THE SURVIVING ARTICLE 31C",
+      "structural_type": "case-law-doctrine-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FR-DPSP EVOLUTION AND THE SURVIVING ARTICLE 31C",
+          "role": "institution"
+        },
+        {
+          "text": "CHAMPAKAM DORAIRAJAN (1951)",
+          "role": "outcome"
+        },
+        {
+          "text": "ENFORCEABLE FUNDAMENTAL RIGHTS PREVAIL OVER CONFLICTING DIRECTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "17TH AMENDMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTIVE CONSTITUTIONAL RESPONSES",
+          "role": "primary"
+        },
+        {
+          "text": "I.C. GOLAKNATH (1967)",
+          "role": "outcome"
+        },
+        {
+          "text": "PARLIAMENT CANNOT AMEND FUNDAMENTAL RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "1971 24TH + 25TH AMENDMENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHAMPAKAM DORAIRAJAN (1951) → enforceable Fundamental Rights prevail over conflicting directives",
+        "1st / 4th / 17th AMENDMENTS → protective constitutional responses",
+        "I.C. GOLAKNATH (1967) → Parliament cannot amend Fundamental Rights",
+        "1971 24th + 25th AMENDMENTS → amendment power affirmed; Article 31C created",
+        "KESAVANANDA BHARATI (1973) → amend, but do not damage basic structure; first limb of 31C"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHAMPAKAM DORAIRAJAN (1951) → enforceable Fundamental Rights prevail over conflicting directives",
+            "1st / 4th / 17th AMENDMENTS → protective constitutional responses",
+            "I.C. GOLAKNATH (1967) → Parliament cannot amend Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1971 24th + 25th AMENDMENTS → amendment power affirmed; Article 31C created",
+            "KESAVANANDA BHARATI (1973) → amend, but do not damage basic structure; first limb of 31C survives",
+            "1976 42nd → attempted extension of 31C to every DPSP"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MINERVA MILLS (1980) → extension invalid; harmony between Parts III and IV is basic structure",
+            "PROPERTY OWNERS ASSOCIATION (2024) → surviving shield remains for genuine 39(b)/(c) laws",
+            "CURRENT SCOPE: shield against Articles 14 and 19; nexus and basic structure remain reviewable."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "1971 24th + 25th AMENDMENTS → amendment power affirmed; Article 31C created"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CURRENT SCOPE: shield against Articles 14 and 19; nexus and basic structure remain reviewable.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "IMPLEMENTATION CHAIN: DIRECTIVE TO LAW, INSTITUTION AND OUTCOME",
+      "structural_type": "implementation-accountability-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IMPLEMENTATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECTIVE TO LAW, INSTITUTION AND OUTCOME",
+          "role": "institution"
+        },
+        {
+          "text": "DPSP TEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATURE SELECTS INSTRUMENT AND COMPETENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "APPROPRIATION FUNDS THE PROGRAMME",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTIVE CREATES RULES, STAFF AND DELIVERY SYSTEMS",
+          "role": "outcome"
+        },
+        {
+          "text": "COURTS REVIEW LEGALITY AND INTERPRET RIGHTS CONSISTENTLY WHERE POSSIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "AUDIT, OPPOSITION, CIVIL SOCIETY AND ELECTIONS TEST OUTCOMES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DPSP TEXT",
+        "legislature selects instrument and competence",
+        "appropriation funds the programme",
+        "executive creates rules, staff and delivery systems",
+        "courts review legality and interpret rights consistently where possible"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DPSP TEXT",
+            "legislature selects instrument and competence",
+            "appropriation funds the programme",
+            "executive creates rules, staff and delivery systems"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "courts review legality and interpret rights consistently where possible",
+            "audit, opposition, civil society and elections test outcomes",
+            "ARTICLE 39A INSTITUTIONAL CHAIN",
+            "NALSA → State Authorities → District Authorities → Taluk Committees section 12"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "eligibility categories + prescribed income route section 13 prima-facie entitlement control",
+            "LOK ADALAT DISTINCTION",
+            "Ordinary Lok Adalat → settlement only; no merits decision if compromise fails.",
+            "Permanent Lok Adalat → public utility dispute; conciliation, then bounded merits power."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT: an implementation law illustrates a directive; it does not exhaust its meaning.",
+            "CLOSE DISTINCTION: The present FR-DPSP position is harmony, not blanket primacy. Original",
+            "Article 31C survives only for genuine Article 39(b)/(c) laws against Articles 14 and 19, with nexus and basic-structure review preserved."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 31C survives only for genuine Article 39(b)/(c) laws against Articles 14 and 19, with nexus and basic-structure review preserved.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARTICLE 44: EQUALITY, PLURALISM AND FEDERAL LEGISLATIVE DESIGN",
+      "structural_type": "ucc-problem-response-tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ARTICLE 44",
+          "role": "institution"
+        },
+        {
+          "text": "EQUALITY, PLURALISM AND FEDERAL LEGISLATIVE DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE ENDEAVOUR TO SECURE A UNIFORM CIVIL CODE FOR",
+          "role": "institution"
+        },
+        {
+          "text": "LEGISLATIVE BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCURRENT LIST ENTRY 5",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL AIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUALITY, DIGNITY, LEGAL CERTAINTY AND COMMON CITIZENSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 44: STATE ENDEAVOUR TO SECURE A UNIFORM CIVIL CODE FOR CITIZENS",
+        "LEGISLATIVE BASE: Concurrent List Entry 5",
+        "CONSTITUTIONAL AIMS: equality, dignity, legal certainty and common citizenship",
+        "CONSTITUTIONAL LIMITS: religious freedom, cultural pluralism and federal diversity",
+        "POSSIBLE ROUTES targeted removal of discriminatory rules optional secular civil-law route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 44: STATE ENDEAVOUR TO SECURE A UNIFORM CIVIL CODE FOR CITIZENS",
+            "LEGISLATIVE BASE: Concurrent List Entry 5",
+            "CONSTITUTIONAL AIMS: equality, dignity, legal certainty and common citizenship"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTIONAL LIMITS: religious freedom, cultural pluralism and federal diversity",
+            "POSSIBLE ROUTES targeted removal of discriminatory rules optional secular civil-law route",
+            "harmonised principles with protected diversity comprehensive code with consultation and transition"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT CONTROL",
+            "Uttarakhand: 2024 Act commenced 27 Jan 2025.",
+            "January 2026 Ordinance → Amendment Act published 7 Apr 2026."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 44 is non-justiciable; judicial observations do not command one model."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Article 44 is non-justiciable; judicial observations do not command one model.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CRITICISM, INSTITUTIONAL LIMITS AND CONSTITUTIONAL RELEVANCE",
+      "structural_type": "criticism-response-dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CRITICISM, INSTITUTIONAL LIMITS AND CONSTITUTIONAL RELEVANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CRITIQUE CONSTITUTIONAL RESPONSE NO DIRECT JUDICIAL REMEDY ARTICLE 37",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRE-STATE FRICTION COMPETENCE, FINANCE AND INSTITUTIONS CONDITION DELIVERY SYMBOLIC",
+          "role": "institution"
+        },
+        {
+          "text": "WHY PART IV STILL MATTERS SETS THE WELFARE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "BALANCED VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECTION IS BINDING IN PURPOSE, FLEXIBLE IN IMPLEMENTATION.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CRITIQUE CONSTITUTIONAL RESPONSE no direct judicial remedy Article 37 creates duty and political sanction broad",
+        "budgets expose trade-offs judicial overreach risk interpretation cannot become continuous administration",
+        "Centre-State friction competence, finance and institutions condition delivery symbolic compliance test law + institution +",
+        "WHY PART IV STILL MATTERS sets the welfare and distributive purpose of public power guides",
+        "and rights-consistent interpretation supplies standards for democratic accountability restrains laissez-faire indifference and unbounded judicial substitution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CRITIQUE CONSTITUTIONAL RESPONSE no direct judicial remedy Article 37 creates duty and political sanction broad, unevenly arranged aspirations",
+            "budgets expose trade-offs judicial overreach risk interpretation cannot become continuous administration"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Centre-State friction competence, finance and institutions condition delivery symbolic compliance test law + institution + implementation + outcome",
+            "WHY PART IV STILL MATTERS sets the welfare and distributive purpose of public power guides legislation"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "and rights-consistent interpretation supplies standards for democratic accountability restrains laissez-faire indifference and unbounded judicial substitution",
+            "BALANCED VERDICT: direction is binding in purpose, flexible in implementation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CRITIQUE CONSTITUTIONAL RESPONSE no direct judicial remedy Article 37 creates duty and political sanction broad, unevenly arranged aspirations",
+            "budgets expose trade-offs judicial overreach risk interpretation cannot become continuous administration"
+          ]
+        }
+      ],
+      "mechanism_strip": "BALANCED VERDICT: direction is binding in purpose, flexible in implementation.",
+      "answer_line": "direction is binding in purpose, flexible in implementation.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PRELIMS TRAPS, PYQ ROUTES AND THE MAINS ANSWER SPINE",
+      "structural_type": "exam-synthesis-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PRELIMS TRAPS, PYQ ROUTES AND THE MAINS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS CONTROL BOARD",
+          "role": "outcome"
+        },
+        {
+          "text": "PART III MEANING OF STATE 37",
+          "role": "institution"
+        },
+        {
+          "text": "NO DIRECT ENFORCEMENT, BUT DUTY REMAINS",
+          "role": "caution"
+        },
+        {
+          "text": "39(B) RESOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON GOOD 39(C) HARMFUL CONCENTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC-CAPACITY QUALIFIER 45",
+          "role": "comparison"
+        },
+        {
+          "text": "BELOW SIX AFTER 86TH AMENDMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS CONTROL BOARD",
+        "36 → Part III meaning of State 37 → no direct enforcement, but duty remains",
+        "39(b) resources / common good 39(c) harmful concentration",
+        "41 → economic-capacity qualifier 45 → below six after 86th Amendment",
+        "48A → environment 50 → judiciary-executive separation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS CONTROL BOARD",
+            "36 → Part III meaning of State 37 → no direct enforcement, but duty remains",
+            "39(b) resources / common good 39(c) harmful concentration",
+            "41 → economic-capacity qualifier 45 → below six after 86th Amendment"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "48A → environment 50 → judiciary-executive separation",
+            "51A → Fundamental Duties, not DPSP 31C → only 39(b)/(c); Articles 14 and 19 shield",
+            "VERIFIED ROUTES",
+            "2020: Article 50; UDHR reflection; legal aid; welfare State; Part IV force"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2021: concentration of wealth 2023 GS-II: NALSA and legal aid",
+            "2025: constitutional Part matching, official local key verified",
+            "MAINS SPINE",
+            "1 define Part IV through Articles 36-37"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2 map exact directive / case / law demanded",
+            "3 explain mechanism and implementation evidence",
+            "4 qualify with rights, federal competence, finance and institutional limits",
+            "5 conclude: distributive ends through rights-disciplined means."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "4 qualify with rights, federal competence, finance and institutional limits.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CURRENT-LAW AND EVIDENCE CONTROL",
+      "structural_type": "current-status-evidence-ledger",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CURRENT-LAW AND EVIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "VOLATILE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "CHECK OFFICIAL CONSTITUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "RECORD DATE + INSTRUMENT + EXACT LEGAL EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE FACT FROM INFERENCE AND UNRESOLVED LITIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROLLED POSITIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 31C",
+          "role": "institution"
+        },
+        {
+          "text": "39(B)/(C); ARTICLES 14/19 SHIELD; REVIEW RETAINED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VOLATILE CLAIM",
+        "check official Constitution / judgment / Gazette",
+        "record date + instrument + exact legal effect",
+        "separate FACT from inference and unresolved litigation",
+        "CONTROLLED POSITIONS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "VOLATILE CLAIM",
+            "check official Constitution / judgment / Gazette",
+            "record date + instrument + exact legal effect"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "separate FACT from inference and unresolved litigation",
+            "CONTROLLED POSITIONS",
+            "Article 31C → 39(b)/(c); Articles 14/19 shield; review retained"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Legal aid → Suhas Chakma (2024): monitored prison-delivery chain",
+            "Labour Codes → four Codes effective 21 Nov 2025",
+            "Uttarakhand UCC → April 2026 Amendment Act succeeded January Ordinance"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DO NOT OVERSTATE",
+            "No court command for a UCC; not every private asset is a 39(b) resource",
+            "volatile office holders are not durable doctrine."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "No court command for a UCC; not every private asset is a 39(b) resource;.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EXECUTABLE 10, 15 AND 20-MARK ANSWER ROUTES",
+      "structural_type": "marks-scaled-answer-architecture",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXECUTABLE 10, 15 AND 20-MARK ANSWER ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "150 WORDS EXACT ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "THREE MECHANISMS",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "DIRECT VERDICT",
+          "role": "outcome"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "250 WORDS CHRONOLOGY OR COMPARISON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS exact Article → three mechanisms → one limit → direct",
+        "15 MARKS / 250 WORDS chronology or comparison → implementation evidence → two gaps →",
+        "20 MARKS / 300 WORDS thesis → analytical dimensions → institutional/fiscal/rights counter-case",
+        "executable way forward → graded degree verdict",
+        "SCALING RULE"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "10 MARKS / 150 WORDS exact Article → three mechanisms → one limit → direct verdict",
+          "20 MARKS / 300 WORDS thesis → analytical dimensions → institutional/fiscal/rights counter-case",
+          "SCALING RULE",
+          "Every answer closes: exact text + mechanism + evidence + limitation + verdict."
+        ],
+        [
+          "15 MARKS / 250 WORDS chronology or comparison → implementation evidence → two gaps → tied reforms",
+          "executable way forward → graded degree verdict",
+          "Increase dimensions and evidence with marks; do not merely lengthen generic prose.",
+          "10 MARKS / 150 WORDS exact Article → three mechanisms → one limit → direct verdict"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS exact Article → three mechanisms → one limit → direct verdict",
+            "15 MARKS / 250 WORDS chronology or comparison → implementation evidence → two gaps → tied reforms"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "20 MARKS / 300 WORDS thesis → analytical dimensions → institutional/fiscal/rights counter-case",
+            "executable way forward → graded degree verdict"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SCALING RULE",
+            "Increase dimensions and evidence with marks; do not merely lengthen generic prose."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Every answer closes: exact text + mechanism + evidence + limitation + verdict.",
+            "10 MARKS / 150 WORDS exact Article → three mechanisms → one limit → direct verdict"
+          ]
+        }
+      ],
+      "mechanism_strip": "Every answer closes: exact text + mechanism + evidence + limitation + verdict.",
+      "answer_line": "exact text + mechanism + evidence + limitation + verdict.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CURRENT IMPLEMENTATION CONTROL: LEGAL AID, LABOUR AND UCC",
+      "structural_type": "current-dpsp-implementation-ledger",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CURRENT IMPLEMENTATION CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL AID, LABOUR AND UCC",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 39A",
+          "role": "institution"
+        },
+        {
+          "text": "LEGAL SERVICES AUTHORITIES ACT 1987",
+          "role": "institution"
+        },
+        {
+          "text": "SUHAS CHAKMA, 23 OCT 2024",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURED PRISON LEGAL-AID MONITORING",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUR LABOUR CODES",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATIVE FROM 21 NOV 2025; IMPLEMENTATION CAPACITY STILL VARIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 39A → Legal Services Authorities Act 1987 → NALSA / SLSA / DLSA /",
+        "SUHAS CHAKMA, 23 OCT 2024 → structured prison legal-aid monitoring",
+        "FOUR LABOUR CODES → operative from 21 NOV 2025; implementation capacity still varies",
+        "UTTARAKHAND UCC → 2024 Act commenced 27 JAN 2025 → Amendment Act 7 APR 2026",
+        "RULE: implementation evidence does not turn Article 37 into direct enforceability."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 39A → Legal Services Authorities Act 1987 → NALSA / SLSA / DLSA / TALUK",
+            "SUHAS CHAKMA, 23 OCT 2024 → structured prison legal-aid monitoring"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FOUR LABOUR CODES → operative from 21 NOV 2025; implementation capacity still varies",
+            "UTTARAKHAND UCC → 2024 Act commenced 27 JAN 2025 → Amendment Act 7 APR 2026"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE: implementation evidence does not turn Article 37 into direct enforceability.",
+            "LEGAL/SOURCE LIMIT: Current examples must be legally current: Property Owners Association (2024)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "(2024) controls Article 31C, Rajendra N Shah limits Part IX-B but not Article 43B, and",
+            "Uttarakhand's April 2026 Amendment Act supersedes the January Ordinance."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: implementation evidence does not turn Article 37 into direct enforceability.",
+      "answer_line": "implementation evidence does not turn Article 37 into direct enforceability.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A. POSITIVE CONSTITUTIONALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "B. MINIMUM FLOOR VERSUS FULL PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "C. ARTICLE 31C AS DISTRIBUTIVE CONSTITUTIONAL REVIEW",
+          "role": "institution"
+        },
+        {
+          "text": "D. NINTH SCHEDULE AND WELFARE IMMUNITIES",
+          "role": "primary"
+        },
+        {
+          "text": "E. FEDERAL WELFARE CONSTITUTIONALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "F. UCC AS A DESIGN PROBLEM, NOT A SLOGAN",
+          "role": "caution"
+        },
+        {
+          "text": "G. OUTCOME CONSTITUTIONALISM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "A. Positive constitutionalism",
+            "B. Minimum floor versus full programme",
+            "C. Article 31C as distributive constitutional review",
+            "D. Ninth Schedule and welfare immunities"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "E. Federal welfare constitutionalism",
+            "F. UCC as a design problem, not a slogan",
+            "G. Outcome constitutionalism",
+            "H. Novel-hypothetical method"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "anti-coercion through Fundamental Rights;",
+            "anti-hierarchy through equality and Article 17;",
+            "welfare-oriented through Part IV; and",
+            "duty-oriented through Part IVA."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

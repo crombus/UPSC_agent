@@ -1,0 +1,1362 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-29",
+  "subject": "Polity",
+  "title": "FINANCE COMMISSION",
+  "short_route": "FISCAL-FEDERAL GAPS AND THE → ARTICLE 280 INSTITUTION AND → DIVISIBLE POOL AND TWO-STAGE → HORIZONTAL FORMULA: EQUITY, COST → GRANTS UNDER ARTICLES 275 → LOCAL-BODY AUGMENTATION THROUGH STATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-29-deep-review-2026-09-05-g4.json",
+  "ascii_spec_sha256": "62ed28316e50b4980ce0d34dc454a12d6bf2179f98d4c896061b91be5f8427f1",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FISCAL-FEDERAL GAPS AND THE CONSTITUTIONAL ARTICLE CHAIN",
+      "structural_type": "finance-commission-constitutional-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FISCAL-FEDERAL GAPS AND THE CONSTITUTIONAL ARTICLE CHAIN",
+          "role": "institution"
+        },
+        {
+          "text": "ROOT PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION HAS BROADER BUOYANT TAXES; STATES CARRY SERVICE-HEAVY EXPENDITURE",
+          "role": "comparison"
+        },
+        {
+          "text": "VERTICAL IMBALANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "UNION VERSUS ALL STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "SIZE OF STATES' COLLECTIVE SHARE.",
+          "role": "outcome"
+        },
+        {
+          "text": "HORIZONTAL IMBALANCE DIFFERENCES AMONG STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER SE DISTRIBUTION FORMULA.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT PROBLEM",
+        "Union has broader buoyant taxes; States carry service-heavy expenditure duties.",
+        "VERTICAL IMBALANCE",
+        "Union versus all States → size of States' collective share.",
+        "HORIZONTAL IMBALANCE differences among States → inter se distribution formula."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT PROBLEM",
+            "Union has broader buoyant taxes; States carry service-heavy expenditure duties.",
+            "VERTICAL IMBALANCE",
+            "Union versus all States → size of States' collective share."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "HORIZONTAL IMBALANCE differences among States → inter se distribution formula.",
+            "ARTICLE CHAIN",
+            "270 divisible taxes",
+            "271 Union surcharges"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "275 grants-in-aid",
+            "279 net proceeds and CAG certification",
+            "280 Finance Commission",
+            "281 report + explanatory memorandum"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "282 public-purpose grants.",
+            "CORE DISTINCTION gross tax revenue != net proceeds != divisible pool != State share != grants.",
+            "MUST REMEMBER: Keep Article 280 Finance Commission, State Finance Commissions and the Article",
+            "279A GST Council institutionally and functionally distinct."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Keep Article 280 Finance Commission, State Finance Commissions and the Article.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 280 INSTITUTION AND AWARD LIFECYCLE",
+      "structural_type": "finance-commission-institution-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 280 INSTITUTION AND AWARD LIFECYCLE",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT CONSTITUTES EVERY FIFTH YEAR OR EARLIER IF NECESSARY.",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAIRMAN + FOUR OTHER MEMBERS.",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE COMMISSION ACT, 1951",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC-AFFAIRS EXPERIENCE.",
+          "role": "primary"
+        },
+        {
+          "text": "OTHER MEMBERS",
+          "role": "outcome"
+        },
+        {
+          "text": "JUDICIAL QUALIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNMENT FINANCE/ACCOUNTS FINANCIAL ADMINISTRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "President constitutes every fifth year or earlier if necessary.",
+        "Chairman + four other members.",
+        "FINANCE COMMISSION ACT, 1951",
+        "Chairman → public-affairs experience.",
+        "Other members → judicial qualification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "President constitutes every fifth year or earlier if necessary.",
+            "Chairman + four other members.",
+            "FINANCE COMMISSION ACT, 1951"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Chairman → public-affairs experience.",
+            "Other members → judicial qualification",
+            "government finance/accounts financial administration"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPERATING DESIGN",
+            "President appoints and fixes terms through constituting order",
+            "Commission determines procedure → civil-court-type evidentiary powers."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 281 recommendations + explanatory memorandum on action taken",
+            "laid before each House of Parliament.",
+            "LIMIT recommendations are expert and advisory, not self-executing decrees."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Other members → judicial qualification | government finance/accounts financial administration | economics.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DIVISIBLE POOL AND TWO-STAGE TAX DEVOLUTION",
+      "structural_type": "tax-devolution-mechanics",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DIVISIBLE POOL AND TWO-STAGE TAX DEVOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "GROSS UNION TAX COLLECTION MINUS COLLECTION COST",
+          "role": "outcome"
+        },
+        {
+          "text": "CAG-CERTIFIED NET PROCEEDS.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 271 SURCHARGES + APPLICABLE SPECIFIC-PURPOSE CESSES.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 270 DIVISIBLE POOL",
+          "role": "institution"
+        },
+        {
+          "text": "VERTICAL SHARE FOR ALL STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "HORIZONTAL ALLOCATION AMONG STATES.",
+          "role": "comparison"
+        },
+        {
+          "text": "CALCULATION FIREWALL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GROSS UNION TAX COLLECTION minus collection cost → CAG-certified net proceeds.",
+        "Article 271 surcharges + applicable specific-purpose cesses.",
+        "ARTICLE 270 DIVISIBLE POOL",
+        "vertical share for all States",
+        "horizontal allocation among States."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GROSS UNION TAX COLLECTION minus collection cost → CAG-certified net proceeds.",
+            "Article 271 surcharges + applicable specific-purpose cesses."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 270 DIVISIBLE POOL",
+            "vertical share for all States"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "horizontal allocation among States.",
+            "CALCULATION FIREWALL"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State X devolution = divisible pool x vertical percentage x State share.",
+            "41% applies to shareable net proceeds, not gross tax revenue."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "41% applies to shareable net proceeds, not gross tax revenue.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HORIZONTAL FORMULA: EQUITY, COST AND INCENTIVES",
+      "structural_type": "horizontal-formula-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HORIZONTAL FORMULA",
+          "role": "primary"
+        },
+        {
+          "text": "EQUITY, COST AND INCENTIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMULA PURPOSES NEED/EQUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE COST",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMOGRAPHIC INCENTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "FC-15, 2021-26 INCOME DISTANCE 45",
+          "role": "outcome"
+        },
+        {
+          "text": "POPULATION 15",
+          "role": "comparison"
+        },
+        {
+          "text": "AREA 15",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORMULA PURPOSES need/equity",
+        "service cost",
+        "demographic incentive",
+        "FC-15, 2021-26 income distance 45",
+        "population 15"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FORMULA PURPOSES need/equity",
+          "population 15",
+          "FC-16, 2026-31",
+          "area 10 forest 10"
+        ],
+        [
+          "service cost",
+          "area 15",
+          "GSDP distance 42.5",
+          "GDP contribution 10."
+        ],
+        [
+          "demographic incentive",
+          "demographic 12.5 forest/ecology 10",
+          "population 17.5",
+          "TEST equity remains dominant, but contribution gains explicit weight."
+        ],
+        [
+          "FC-15, 2021-26 income distance 45",
+          "tax/fiscal effort 2.5.",
+          "demographic 10",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FORMULA PURPOSES need/equity",
+            "service cost",
+            "demographic incentive",
+            "FC-15, 2021-26 income distance 45"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "population 15",
+            "area 15",
+            "demographic 12.5 forest/ecology 10",
+            "tax/fiscal effort 2.5."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FC-16, 2026-31",
+            "GSDP distance 42.5",
+            "population 17.5",
+            "demographic 10"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "area 10 forest 10",
+            "GDP contribution 10.",
+            "TEST equity remains dominant, but contribution gains explicit weight."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST equity remains dominant, but contribution gains explicit weight.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GRANTS UNDER ARTICLES 275 AND 282",
+      "structural_type": "finance-commission-grants-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GRANTS UNDER ARTICLES 275 AND 282",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 275",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT MAY PROVIDE GRANTS-IN-AID OF REVENUES OF STATES IN",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE COMMISSION ROLE RECOMMEND PRINCIPLES GOVERNING ARTICLE 275 GRANTS",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 282",
+          "role": "institution"
+        },
+        {
+          "text": "UNION OR STATE MAY MAKE GRANTS FOR ANY PUBLIC",
+          "role": "institution"
+        },
+        {
+          "text": "BHIM SINGH (2010) SUPPORTS THE BREADTH OF ARTICLE 282",
+          "role": "institution"
+        },
+        {
+          "text": "TAX DEVOLUTION GRANT SHARE IN COMMON TAX POOL TRANSFER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 275",
+        "Parliament may provide grants-in-aid of revenues of States in need and constitutionally specified welfare/administration grants.",
+        "FINANCE COMMISSION ROLE recommend principles governing Article 275 grants and award-specific grant categories within terms",
+        "ARTICLE 282",
+        "Union or State may make grants for any public purpose even beyond the ordinary legislative"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 275",
+            "Parliament may provide grants-in-aid of revenues of States in need and constitutionally specified welfare/administration grants."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "FINANCE COMMISSION ROLE recommend principles governing Article 275 grants and award-specific grant categories within terms of reference.",
+            "ARTICLE 282"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Union or State may make grants for any public purpose even beyond the ordinary legislative field.",
+            "Bhim Singh (2010) supports the breadth of Article 282 public-purpose grants."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TAX DEVOLUTION GRANT share in common tax pool transfer for need/purpose/design formula entitlement may be conditional or category-specific.",
+            "Finance Commission grant, Article 282 grant and centrally sponsored scheme are not synonyms."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Finance Commission grant, Article 282 grant and centrally sponsored scheme are not synonyms.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LOCAL-BODY AUGMENTATION THROUGH STATE FINANCE COMMISSIONS",
+      "structural_type": "finance-commission-local-body-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LOCAL-BODY AUGMENTATION THROUGH STATE FINANCE COMMISSIONS",
+          "role": "institution"
+        },
+        {
+          "text": "73RD AND 74TH AMENDMENT LINK",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 280(3)(BB)",
+          "role": "institution"
+        },
+        {
+          "text": "AUGMENT STATE CONSOLIDATED FUND FOR PANCHAYATS.",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 280(3)(C)",
+          "role": "institution"
+        },
+        {
+          "text": "AUGMENT STATE CONSOLIDATED FUND FOR MUNICIPALITIES.",
+          "role": "institution"
+        },
+        {
+          "text": "TEXTUAL BASIS RECOMMENDATIONS OF THE STATE FINANCE COMMISSION UNDER",
+          "role": "institution"
+        },
+        {
+          "text": "FLOW LOCAL FUNCTIONS AND FINANCES",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "73RD AND 74TH AMENDMENT LINK",
+        "Article 280(3)(bb) → augment State Consolidated Fund for Panchayats.",
+        "Article 280(3)(c) → augment State Consolidated Fund for Municipalities.",
+        "TEXTUAL BASIS recommendations of the State Finance Commission under Articles 243I and 243Y.",
+        "FLOW local functions and finances → SFC assessment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "73RD AND 74TH AMENDMENT LINK",
+            "Article 280(3)(bb) → augment State Consolidated Fund for Panchayats.",
+            "Article 280(3)(c) → augment State Consolidated Fund for Municipalities."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "TEXTUAL BASIS recommendations of the State Finance Commission under Articles 243I and 243Y.",
+            "FLOW local functions and finances → SFC assessment",
+            "Union Finance Commission augmentation recommendation"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Union budget/guidelines → State fund → eligible local bodies.",
+            "ACCOUNTABILITY accounts + audit + timely SFCs + transparent release + service outcomes.",
+            "Union local-body grants supplement; they do not replace State devolution, own revenue or the constitutional role of State Finance Commissions."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CLOSE DISTINCTION: Vertical devolution applies to Article 270 net proceeds, not gross tax revenue",
+            "Article 271 surcharges and applicable cesses stay outside the divisible pool."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Vertical devolution applies to Article 270 net proceeds, not gross tax revenue; Article 271 surcharges and applicable cesses stay outside the divisible pool.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DISASTER FINANCE: RESPONSE, MITIGATION AND RELEASE CONTROLS",
+      "structural_type": "disaster-finance-control",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DISASTER FINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "RESPONSE, MITIGATION AND RELEASE CONTROLS",
+          "role": "outcome"
+        },
+        {
+          "text": "DISASTER-MANAGEMENT FINANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE COMMISSION WORKS WITH THE DISASTER MANAGEMENT ACT FRAMEWORK.",
+          "role": "institution"
+        },
+        {
+          "text": "STATE LEVEL",
+          "role": "institution"
+        },
+        {
+          "text": "SDRF RESPONSE + SDMF MITIGATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL LEVEL",
+          "role": "comparison"
+        },
+        {
+          "text": "NDRF RESPONSE + NDMF MITIGATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISASTER-MANAGEMENT FINANCE",
+        "Finance Commission works with the Disaster Management Act framework.",
+        "STATE LEVEL",
+        "SDRF response + SDMF mitigation.",
+        "NATIONAL LEVEL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DISASTER-MANAGEMENT FINANCE",
+            "Finance Commission works with the Disaster Management Act framework.",
+            "STATE LEVEL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "SDRF response + SDMF mitigation.",
+            "NATIONAL LEVEL",
+            "NDRF response + NDMF mitigation."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FC-16 FIVE-YEAR ENVELOPES",
+            "State funds: Rs 2,04,401 crore",
+            "national funds: Rs 79,406 crore."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONTROL award envelope != annual budget != release != expenditure.",
+            "Conditions, contribution ratios, accounts and events govern access."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Conditions, contribution ratios, accounts and events govern access.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FC-14, FC-15 AND FC-16: DATED AWARD TRAJECTORY",
+      "structural_type": "finance-commission-award-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FC-14, FC-15 AND FC-16",
+          "role": "primary"
+        },
+        {
+          "text": "DATED AWARD TRAJECTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "FOURTEENTH FINANCE COMMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "STATES' VERTICAL SHARE RAISED FROM 32% TO 42%.",
+          "role": "evidence"
+        },
+        {
+          "text": "FIFTEENTH FINANCE COMMISSION",
+          "role": "primary"
+        },
+        {
+          "text": "41% VERTICAL SHARE; SIX HORIZONTAL CRITERIA INCLUDING DEMOGRAPHIC PERFORMANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SIXTEENTH FINANCE COMMISSION CONSTITUTED 31 DECEMBER 2023",
+          "role": "comparison"
+        },
+        {
+          "text": "REPORT SUBMITTED 17 NOVEMBER 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOURTEENTH FINANCE COMMISSION: 2015-20",
+        "States' vertical share raised from 32% to 42%.",
+        "FIFTEENTH FINANCE COMMISSION: 2021-26",
+        "41% vertical share; six horizontal criteria including demographic performance, forest/ecology and tax/fiscal effort.",
+        "SIXTEENTH FINANCE COMMISSION constituted 31 December 2023 → report submitted 17 November 2025"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FOURTEENTH FINANCE COMMISSION: 2015-20",
+            "States' vertical share raised from 32% to 42%.",
+            "FIFTEENTH FINANCE COMMISSION: 2021-26"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "41% vertical share; six horizontal criteria including demographic performance, forest/ecology and tax/fiscal effort.",
+            "SIXTEENTH FINANCE COMMISSION constituted 31 December 2023 → report submitted 17 November 2025",
+            "award period 2026-27 to 2030-31"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Explanatory Memorandum tabled 1 February 2026.",
+            "DATED CONTROL",
+            "41% vertical share accepted for 2026-31."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Per-capita GSDP distance carries the largest horizontal weight, 42.5%",
+            "GDP contribution appears with 10% weight.",
+            "LIMIT report recommendation, government acceptance and annual implementation must remain separate."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT report recommendation, government acceptance and annual implementation must remain separate.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FC-16 GRANTS, FISCAL ROADMAP AND RESPONSE STATUS",
+      "structural_type": "status-control-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FC-16 GRANTS, FISCAL ROADMAP AND RESPONSE STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "FC-16 REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNMENT RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "41% VERTICAL SHARE + REVISED HORIZONTAL FORMULA",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL-BODY AND DISASTER GRANT DESIGNS",
+          "role": "primary"
+        },
+        {
+          "text": "3% STATE DEFICIT BASELINE",
+          "role": "institution"
+        },
+        {
+          "text": "ACCEPTED IN PRINCIPLE.",
+          "role": "comparison"
+        },
+        {
+          "text": "UNION 3.5% PATH AND WIDER REFORMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FC-16 REPORT → GOVERNMENT RESPONSE",
+        "41% vertical share + revised horizontal formula: accepted.",
+        "Local-body and disaster grant designs: accepted.",
+        "3% State deficit baseline: accepted in principle.",
+        "Union 3.5% path and wider reforms: separate examination."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FC-16 REPORT → GOVERNMENT RESPONSE",
+          "3% State deficit baseline: accepted in principle.",
+          "FY 2026-27 BUDGET",
+          "3% State deficit baseline: accepted in principle."
+        ],
+        [
+          "41% vertical share + revised horizontal formula: accepted.",
+          "Union 3.5% path and wider reforms: separate examination.",
+          "Rs 1.4 lakh crore for local-body and disaster grants.",
+          ""
+        ],
+        [
+          "Local-body and disaster grant designs: accepted.",
+          "No RDG, sector or State-specific grants recommended: taken note of.",
+          "STATUS RULE recommended != accepted != budgeted != released.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FC-16 REPORT → GOVERNMENT RESPONSE",
+            "41% vertical share + revised horizontal formula: accepted.",
+            "Local-body and disaster grant designs: accepted."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "3% State deficit baseline: accepted in principle.",
+            "Union 3.5% path and wider reforms: separate examination.",
+            "No RDG, sector or State-specific grants recommended: taken note of."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FY 2026-27 BUDGET",
+            "Rs 1.4 lakh crore for local-body and disaster grants.",
+            "STATUS RULE recommended != accepted != budgeted != released."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "3% State deficit baseline: accepted in principle."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS RULE recommended != accepted != budgeted != released.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CESSES, SURCHARGES AND THE SHRINKING-BASE DEBATE",
+      "structural_type": "divisible-pool-debate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CESSES, SURCHARGES AND THE SHRINKING-BASE DEBATE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL EXCLUSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 271 SURCHARGE AND APPLICABLE SPECIFIC-PURPOSE CESSES STAY OUTSIDE",
+          "role": "institution"
+        },
+        {
+          "text": "MECHANISM MORE EXCLUDED LEVIES",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIVISIBLE POOL MAY LAG GROSS TAX REVENUE",
+          "role": "primary"
+        },
+        {
+          "text": "41% OPERATES ON A NARROWER BASE.",
+          "role": "outcome"
+        },
+        {
+          "text": "FC-16 POSITION NO CAP OR INCLUSION RECOMMENDATION; ANNUAL DISCLOSURE",
+          "role": "caution"
+        },
+        {
+          "text": "REFORM LADDER DISCLOSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL EXCLUSION",
+        "Article 271 surcharge and applicable specific-purpose cesses stay outside sharing.",
+        "MECHANISM more excluded levies → divisible pool may lag gross tax revenue",
+        "41% operates on a narrower base.",
+        "FC-16 POSITION no cap or inclusion recommendation; annual disclosure of CAG-certified net proceeds."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL EXCLUSION",
+            "Article 271 surcharge and applicable specific-purpose cesses stay outside sharing."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "MECHANISM more excluded levies → divisible pool may lag gross tax revenue",
+            "41% operates on a narrower base."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FC-16 POSITION no cap or inclusion recommendation; annual disclosure of CAG-certified net proceeds.",
+            "REFORM LADDER disclosure → periodic review/sunset → wider fiscal bargain"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "legal or constitutional redesign only if adopted.",
+            "CONSTITUTIONAL EXCLUSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REFORM LADDER disclosure → periodic review/sunset → wider fiscal bargain.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FINANCE COMMISSION, GST COUNCIL, CAG, NITI AND SFC",
+      "structural_type": "finance-institution-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FINANCE COMMISSION, GST COUNCIL, CAG, NITI AND SFC",
+          "role": "institution"
+        },
+        {
+          "text": "FINANCE COMMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 280",
+          "role": "institution"
+        },
+        {
+          "text": "PERIODIC EXPERT BODY",
+          "role": "evidence"
+        },
+        {
+          "text": "TAX DEVOLUTION + GRANTS + FISCAL ADVICE.",
+          "role": "primary"
+        },
+        {
+          "text": "GST COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 279A",
+          "role": "institution"
+        },
+        {
+          "text": "CONTINUING UNION-STATE FORUM",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "FINANCE COMMISSION",
+        "Article 280",
+        "periodic expert body",
+        "tax devolution + grants + fiscal advice.",
+        "GST COUNCIL"
+      ],
+      "matrix": [
+        [
+          "Article 280",
+          "periodic expert body",
+          "tax devolution + grants + fiscal advice."
+        ],
+        [
+          "Article 279A",
+          "continuing Union-State forum",
+          "GST recommendations and bargaining."
+        ],
+        [
+          "NITI AAYOG executive-resolution policy platform",
+          "strategy and cooperative dialogue no Article 280 transfer award.",
+          ""
+        ],
+        [
+          "Articles 148-151",
+          "audits and certifies net proceeds under Article 279 does not allocate the divisible pool.",
+          ""
+        ],
+        [
+          "Articles 243I/243Y",
+          "State-local fiscal relations every five years.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FINANCE COMMISSION",
+            "Article 280",
+            "periodic expert body",
+            "tax devolution + grants + fiscal advice.",
+            "GST COUNCIL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Article 279A",
+            "continuing Union-State forum",
+            "GST recommendations and bargaining.",
+            "Mohit Minerals (2022) → recommendations persuasive, not legislative commands.",
+            "NITI AAYOG executive-resolution policy platform"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "strategy and cooperative dialogue no Article 280 transfer award.",
+            "Articles 148-151",
+            "audits and certifies net proceeds under Article 279 does not allocate the divisible pool.",
+            "STATE FINANCE COMMISSION",
+            "Articles 243I/243Y"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "State-local fiscal relations every five years.",
+            "TRAP coordination, distribution, strategy, audit and State-local review are different functions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP coordination, distribution, strategy, audit and State-local review are different functions.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ ROUTES, TRAPS, REFORMS AND ANSWER SPINE",
+      "structural_type": "finance-commission-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ROUTES, TRAPS, REFORMS AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CORE DEBATES CESSES/SURCHARGES AND DIVISIBLE-POOL EROSION",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUITY VERSUS INCENTIVE DATA LAG AND CLIMATE/ECOLOGY COSTS",
+          "role": "comparison"
+        },
+        {
+          "text": "TIED SCHEMES VERSUS STATE AUTONOMY LOCAL-BODY ABSORPTION AND ACCOUNTABILITY",
+          "role": "institution"
+        },
+        {
+          "text": "DEBT AND OFF-BUDGET OPACITY.",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAIR + FOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE YEARS OR EARLIER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE DEBATES cesses/surcharges and divisible-pool erosion",
+        "equity versus incentive data lag and climate/ecology costs",
+        "tied schemes versus State autonomy local-body absorption and accountability",
+        "debt and off-budget opacity.",
+        "PRELIMS FIREWALL"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CORE DEBATES cesses/surcharges and divisible-pool erosion",
+            "equity versus incentive data lag and climate/ecology costs",
+            "tied schemes versus State autonomy local-body absorption and accountability",
+            "debt and off-budget opacity.",
+            "PRELIMS FIREWALL"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "five years or earlier",
+            "President constitutes",
+            "Article 281 requires report and memorandum vertical != horizontal",
+            "Article 275 != Article 282",
+            "SFC != Union Finance Commission"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PYQ ROUTES",
+            "2018 constitution/ToR",
+            "2021 Fourteenth FC",
+            "2023 horizontal criteria",
+            "2025 Fifteenth FC facts"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MAINS SPINE define imbalance → article chain → transfer mechanism → award evidence",
+            "contested incentive/autonomy effect → implementation qualification",
+            "predictable, transparent and accountable fiscal-federal verdict.",
+            "LEGAL/SOURCE LIMIT: The Sixteenth Finance Commission report and February 2026 Explanatory",
+            "Memorandum control the 2026-31 award: 41 per cent vertical share and the accepted six-criterion horizontal formula."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Memorandum control the 2026-31 award: 41 per cent vertical share and the accepted six-criterion horizontal formula.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\polity-29_Complete-Learning-Session_2026-08-24.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FINANCE COMMISSION (ARTICLE 280) — ADVANCED",
+          "role": "institution"
+        },
+        {
+          "text": "PART A — CONSTITUTION & COMPOSITION (ART 280)",
+          "role": "comparison"
+        },
+        {
+          "text": "PART B — FUNCTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PART C — ADVISORY ROLE & FISCAL FEDERALISM",
+          "role": "primary"
+        },
+        {
+          "text": "PART D — 16TH FINANCE COMMISSION (CURRENT)",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT THIS OWNER MUST NOW SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOMMENDATIONS ARE ADVISORY, NOT BINDING — BUT (DR. P.V.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Finance Commission (Article 280) — ADVANCED / COMPLETE",
+            "PART A — CONSTITUTION & COMPOSITION (Art 280)",
+            "PART B — FUNCTIONS",
+            "PART C — ADVISORY ROLE & FISCAL FEDERALISM"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "PART D — 16th FINANCE COMMISSION (current)",
+            "What this owner must now support",
+            "CAUTION: Recommendations are advisory, NOT binding — but (Dr. P.V. Rajamannar , 4th FC chair) \"should not be",
+            "Till 2014 the FC's role was undermined by the Planning Commission (a non-constitutional, non-statutory"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "\"Net proceeds\" = tax proceeds minus cost of collection , certified by the CAG (final).",
+            "16th FC chaired by Arvind Panagariya , constituted Dec 2023 ; award period 2026–31 . Report",
+            "Vertical devolution retained at 41% of the divisible pool (states had demanded 50%) — same as the 15th FC.",
+            "New horizontal formula adds a \"Contribution to GDP\" (10%) criterion:"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+ASCII MASTER FLOW — PANEL 1/12: Two Offices, Parliamentary Design And Current Control
+PRESIDENT: Articles 52-62, 72 and 74; constitutional Head of State
+VICE-PRESIDENT: Articles 63-71; regular role is Rajya Sabha Chair
+Articles 53, 74 and 75 make the President nominal in ordinary government
+The Vice-President acts temporarily, never succeeds for an unexpired term
+CURRENT 28 AUG 2026: Droupadi Murmu is President
+CURRENT 28 AUG 2026: C. P. Radhakrishnan is Vice-President
+
+MECHANISM
+Parliamentary government separates formal constitutional dignity from politically
+accountable executive power.
+
+ANSWER LINE
+The President is a constitutional sentinel without a rival popular mandate; the
+Vice-President is principally a parliamentary presiding officer.
+MUST REMEMBER: Map Articles 52-73 office by office: electoral colleges, vote values,
+  qualifications, oath, term, vacancy, impeachment/removal, Article 71 disputes, aid and
+  advice, veto, ordinance and clemency require separate procedural chains.
+
+ASCII MASTER FLOW — PANEL 2/12: Election Colleges And Statutory Timeline
+ARTICLE 54: elected MPs plus elected State, Delhi and Puducherry MLAs
+PRESIDENT EXCLUDES: nominated members and all Legislative Council members
+ARTICLE 66: both Houses of Parliament, elected and nominated; no MLAs
+1952 ACT: notification, nomination, scrutiny, withdrawal, poll and petitions
+1974 RULES: forms, ballot and counting machinery
+1997 REFORM: President 50+50; VP 20+20; Rs 15,000 deposit
+
+MECHANISM
+Constitutional electoral design is administered through the 1952 Act, 1974 Rules and
+anti-frivolous-candidature reform.
+
+ANSWER LINE
+Never transfer one office’s electoral college or nomination threshold to the other.
+
+ASCII MASTER FLOW — PANEL 3/12: Vote Value, Pr-Stv, Count And Article 71
+MLA VALUE: 1971 population / elected MLAs / 1000 with constitutional rounding
+MP VALUE: total MLA vote value / elected MPs of both Houses
+The same elected-MP vote value applies in Lok Sabha and Rajya Sabha
+PR-STV uses ranked secret ballots and transferable preferences
+Winning quota is more than half of valid vote value
+ARTICLE 71: Supreme Court finally decides both presidential and vice-presidential disputes
+
+MECHANISM
+Weighted votes seek Union-State parity, while transferable preferences seek majority support
+for a single office.
+
+ANSWER LINE
+Vacancies in the college do not invalidate the election, and a void election does not erase
+prior official acts.
+
+ASCII MASTER FLOW — PANEL 4/12: Qualifications, Oath, Term, Vacancy, Removal And Immunity
+PRESIDENT: citizen, 35, Lok Sabha qualification, no disqualifying office of profit
+VICE-PRESIDENT: citizen, 35, Rajya Sabha qualification, no disqualifying office of profit
+President oath: CJI or senior-most available Supreme Court judge; VP oath: President or
+appointee
+Both terms are five years; re-election is not constitutionally capped
+President casual vacancy: election within six months; VP vacancy: as soon as possible
+ARTICLE 61 impeachment differs from Article 67(b) VP removal; Article 361 is procedural
+immunity
+
+MECHANISM
+Separate eligibility, continuity and removal rules protect each office according to its
+constitutional function.
+
+ANSWER LINE
+Nominated MPs impeach but do not elect the President; State MLAs elect but do not impeach.
+
+ASCII MASTER FLOW — PANEL 5/12: Aid, Advice And Bounded Situational Discretion
+ARTICLE 74: Council of Ministers with Prime Minister aids and advises
+42ND AMENDMENT: advice expressly binding
+44TH AMENDMENT: one reconsideration; reiterated advice binds
+SHAMSHER SINGH (1974): constitutional head works through responsible government
+Hung House: identify the person most likely to command Lok Sabha confidence
+ARTICLE 163 recognises only constitutionally required gubernatorial discretion, not an
+unlimited domain
+
+MECHANISM
+Binding advice governs normal politics; narrow situational judgment protects continuity when
+a clear accountable majority is absent.
+
+ANSWER LINE
+The President may warn, seek information and return advice once, but cannot create a
+personal executive programme.
+
+ASCII MASTER FLOW — PANEL 6/12: Presidential Power Clusters And Accountability
+EXECUTIVE: appointments, Rules of Business and Article 78 information
+LEGISLATIVE: sessions, dissolution, addresses, messages, nominations and joint sitting
+FINANCIAL: recommendation routes, Budget, Contingency Fund and Finance Commission
+JUDICIAL: appointments, Article 143 reference and Article 72 clemency
+DIPLOMATIC AND MILITARY: formal authority subject to constitutional government
+EMERGENCY: Articles 352, 356 and 360 under separate Part XVIII safeguards
+
+MECHANISM
+The office has broad formal powers, but ministerial responsibility, statute and judicial
+review allocate real decision-making authority.
+
+ANSWER LINE
+A complete answer names the exact power, advice route, legal limit and accountability
+mechanism.
+CLOSE DISTINCTION: The President is indirectly elected by elected MPs and elected MLAs of
+  States plus Delhi and Puducherry; the Vice-President is elected by all members of both
+  Houses. Presidential impeachment under Article 61 and Vice-Presidential removal under
+  Article 67(b) are not interchangeable.
+
+ASCII MASTER FLOW — PANEL 7/12: Article 111 Veto And Article 201 Reserved Bills
+ORDINARY UNION BILL: assent, withhold or return once; repassage requires assent
+MONEY BILL: assent or withhold; cannot be returned
+CONSTITUTION AMENDMENT BILL: assent is obligatory after the 24th Amendment
+ARTICLE 111 sets no decision deadline, creating the pocket-veto possibility
+ARTICLE 201: reserved non-Money State Bill may be returned through the Governor
+2025 INSC 1333: no court-made rigid clock or deemed assent; glaring unexplained delay
+remains reviewable
+
+MECHANISM
+Bill type and constitutional route determine whether return, withholding, repassage or
+review is available.
+
+ANSWER LINE
+Do not apply Article 111’s mandatory assent after repassage to a State Bill under Article
+201.
+
+ASCII MASTER FLOW — PANEL 8/12: Article 123 Ordinance Lifecycle And Case Control
+TRIGGER: both Houses not simultaneously in session and immediate action necessary
+FORCE: Act-like, within Parliament competence and Fundamental Rights
+CAPACITY: may amend Central law and operate retrospectively within constitutional limits
+EXIT: laid before both Houses; ceases six weeks after later reassembly unless earlier ended
+D.C. WADHWA (1986): routine re-promulgation is fraud on the Constitution
+KRISHNA KUMAR SINGH (2017): laying mandatory; satisfaction reviewable; no automatic enduring
+rights
+
+MECHANISM
+An ordinance bridges an urgent legislative gap; mandatory laying prevents it becoming an
+executive substitute for Parliament.
+
+ANSWER LINE
+The constitutional cure for ordinance abuse is scrutiny and anti-re-promulgation, not denial
+of genuine urgency.
+
+ASCII MASTER FLOW — PANEL 9/12: Article 72 Clemency, Review And Governor Contrast
+FIVE FORMS: pardon, reprieve, respite, remission and commutation
+PRESIDENT: court-martial, Union-field offences and every death sentence
+GOVERNOR: State field; no court-martial pardon and no death-sentence pardon
+MARU RAM (1980): clemency follows binding ministerial advice
+KEHAR SINGH (1988): executive may examine merits afresh without becoming an appellate court
+EPURU SUDHAKAR (2006): limited review for mala fides, arbitrariness and material defects
+
+MECHANISM
+Clemency is executive grace structured by jurisdiction, responsible-government advice and
+rule-of-law review.
+
+ANSWER LINE
+Courts review defects in clemency decision-making; they do not substitute their own mercy
+decision.
+
+ASCII MASTER FLOW — PANEL 10/12: Vice-President: Election, Term, Removal And Vacancy
+ARTICLE 66: all elected and nominated MPs; equal votes; PR-STV secret ballot
+QUALIFICATION: citizen, 35 and qualified for Rajya Sabha
+ARTICLE 67(b): Rajya Sabha effective-majority resolution; Lok Sabha agreement
+Removal begins only in Rajya Sabha, needs 14 days notice and states no ground
+ARTICLE 68: casual vacancy election as soon as possible, with a fresh five-year term
+ARTICLE 71: Supreme Court election-dispute route applies to the Vice-President too
+
+MECHANISM
+The Vice-President’s narrower parliamentary electorate matches the office’s principal Rajya
+Sabha function.
+
+ANSWER LINE
+Vice-presidential removal is not impeachment, and its casual-vacancy rule has no
+presidential six-month deadline.
+
+ASCII MASTER FLOW — PANEL 11/12: Rajya Sabha Chairman And Acting-President Role
+ARTICLE 64: ex-officio Chairman and not a Rajya Sabha member
+ARTICLE 100: no first vote; casting vote on equality
+ARTICLE 92: during own removal debate, may speak but cannot preside or vote
+TENTH SCHEDULE: decides Rajya Sabha defection cases subject to judicial review
+ARTICLE 65: acts as President during vacancy or inability
+While acting as President, Deputy Chairman performs Rajya Sabha Chair duties
+
+MECHANISM
+The Chair’s procedural authority becomes legitimate only through consistent, reasoned and
+visibly impartial exercise.
+
+ANSWER LINE
+For the 2022 PYQ, compare the Chairman with the Lok Sabha Speaker and end on federal-chamber
+neutrality.
+
+ASCII MASTER FLOW — PANEL 12/12: Pyq Firewall, Answer Spines And Qualified Verdict
+EIGHT VERIFIED PYQS: 2018, 2022, 2023 and 2025 routes
+PRELIMS: colleges, vote values, void election, assent, ordinance and clemency
+10 MARKS: provision -> mechanism -> case/example -> limit -> verdict
+15 MARKS: design -> procedure -> comparison/critique -> balanced verdict
+20 MARKS: constitutional position -> power clusters -> advice/review -> reform
+STRICT PRACTICE: 28 original + 8 remedial MCQs in ABCD x 9 rotation
+
+MECHANISM
+Exam execution moves from the exact Article to mechanism, evidence, qualification and a
+directive-sensitive conclusion.
+
+ANSWER LINE
+The two offices preserve continuity without displacing parliamentary responsibility: dignity
+and discretion remain constitutionally bounded.
+LEGAL/SOURCE LIMIT: Current office control is Droupadi Murmu as President and C. P.
+  Radhakrishnan as Vice-President, elected 9 September and assuming office 12 September 2025.
+  Articles 72 and 123 remain advice-bound and judicially reviewable within settled
+  constitutional limits.

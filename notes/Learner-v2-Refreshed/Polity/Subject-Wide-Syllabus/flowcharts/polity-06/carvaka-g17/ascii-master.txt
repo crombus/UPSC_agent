@@ -1,0 +1,146 @@
+ASCII MASTER FLOW — PANEL 1/12: Citizenship: membership, rights and single national status
+PERSON WITHIN INDIA
+  +-- CITIZEN: political membership and citizen-specific constitutional rights
+  |     Articles 15, 16, 19 and 29 use citizen/citizens
+  |     Article 30 uses minorities; do not add a citizen-only word absent from the text
+  +-- NON-CITIZEN: Articles 14, 20, 21 and 25 protect persons
+        Article 22(3)(a) excludes enemy aliens only from clauses (1)-(2)
+
+CITIZENSHIP = membership | DOMICILE = permanent legal home | RESIDENCE = factual link
+SINGLE CITIZENSHIP does not erase constitutionally authorised regional protection.
+CASE CONTROL: Pradeep Jain (1984) explains one Indian domicile, not State citizenship.
+MUST REMEMBER: Separate the commencement settlement in Articles 5-11 from the continuing
+  statutory regime under the Citizenship Act, 1955, and state each migration, birth, descent,
+  registration, naturalisation, loss, Section 6A, OCI and Section 6B rule with its exact
+  trigger and date.
+
+ASCII MASTER FLOW — PANEL 2/12: Articles 5-7: commencement citizenship decision tree
+AT COMMENCEMENT: 26 JANUARY 1950
+  +-- ARTICLE 5: domicile in India + birth | parentage | five-year residence
+  +-- ARTICLE 6: Pakistan-to-India migration
+  |     before 19 Jul 1948 -> residence since migration
+  |     on/after 19 Jul 1948 -> application, six-month residence and registration
+  +-- ARTICLE 7: India-to-Pakistan migration after 1 Mar 1947 -> excluded
+        permit for resettlement/permanent return -> post-19 Jul Article 6 route
+
+TRAP: residence alone never replaced Article 5 domicile.
+
+ASCII MASTER FLOW — PANEL 3/12: Articles 8-11: diaspora, disqualification, continuity and Parliament
+ARTICLE 8 -> Indian origin abroad + diplomatic/consular registration
+ARTICLE 9 -> voluntary foreign citizenship blocks Articles 5, 6 and 8 claims
+ARTICLE 10 -> citizenship continues subject to parliamentary law
+ARTICLE 11 -> Parliament may regulate acquisition, termination and every other matter
+                         |
+                 CITIZENSHIP ACT, 1955
+
+CONTROL: Article 9 is commencement-context text; later termination also rests on Section 9.
+
+ASCII MASTER FLOW — PANEL 4/12: Five acquisition routes and their exact gates
+CITIZENSHIP ACT, 1955
+  +-- BIRTH: place + date + parental status + Section 3(2) exceptions
+  +-- DESCENT: citizen parent + date-specific registration/declaration controls
+  +-- REGISTRATION: listed category + calculated residence + oath + discretion
+  +-- NATURALISATION: 12 months + 11/14 aggregate + other Third Schedule tests
+  +-- INCORPORATION: Central Government order for newly incorporated territory
+
+NO AUTOMATIC ROUTE merely from marriage, ancestry, property, residence or an identity card.
+
+ASCII MASTER FLOW — PANEL 5/12: Birth, descent and registration: date-and-category drill
+BIRTH IN INDIA
+1950-before 1 Jul 1987 -> birth generally sufficient, subject to exceptions
+1 Jul 1987-before 3 Dec 2004 -> either parent a citizen
+from 3 Dec 2004 -> both citizens OR one citizen + other not illegal migrant
+
+DESCENT OUTSIDE INDIA
+before 10 Dec 1992 -> paternal rule | later -> either parent
+from 3 Dec 2004 -> consular registration plus statutory declaration controls
+
+REGISTRATION -> category first; seven-year formula is 12 months + 6 of prior 8 years.
+
+ASCII MASTER FLOW — PANEL 6/12: Loss, safeguards and OCI cancellation are category-specific
+RENUNCIATION -> full-age citizen declaration; minor follows with resumption window
+TERMINATION -> voluntary acquisition of foreign citizenship; Section 9 controls
+DEPRIVATION -> eligible category + listed ground + public-good finding + procedure
+  fraud | disloyalty | enemy dealing | specified conviction | seven years abroad
+
+OCI IS NOT CITIZENSHIP
+Section 7D requires a hearing. The 11 Aug 2025 Section 7D(da) notification adds:
+  sentence of at least two years OR charge-sheet for an offence punishable by seven years.
+CLOSE DISTINCTION: Article 9 is confined to citizenship by virtue of Articles 5, 6 or 8; the
+  present no-dual-citizenship position also depends on Section 9. OCI is a statutory card,
+  while the CAA and the 2025 immigration exemption use different cut-offs and produce
+  different legal consequences.
+
+ASCII MASTER FLOW — PANEL 7/12: Assam Section 6A: three streams and the controlling judgment
+ASSAM-SPECIFIC SECTION 6A
+  before 1 Jan 1966 -> deemed citizens from 1 Jan 1966
+  1 Jan 1966-before 25 Mar 1971 -> detection + registration + ten-year vote exclusion
+  on/after 25 Mar 1971 -> no Section 6A protection
+
+IN RE: SECTION 6A (2024) — 17 OCTOBER 2024
+  4:1 majority upheld validity but required effective implementation
+  Pardiwala J dissented prospectively on temporal/detection design
+
+NRC reference: midnight of 24 March 1971; do not confuse it with CAA 2014.
+
+ASCII MASTER FLOW — PANEL 8/12: CAA class and the 19 August 2026 Collector procedure
+CAA CLASS = six communities + three countries + entry on/before 31 Dec 2014
+Hindu | Sikh | Buddhist | Jain | Parsi | Christian
+Afghanistan | Bangladesh | Pakistan
+
+19 AUG 2026: G.S.R. 742(E) + S.O. 4583(E)
+Specified State/UT applicants -> electronic application to jurisdictional Collector
+Collector -> verify -> enquire -> oath -> eligibility/suitability -> grant or reject
+Pending committee applications transfer to Collector. Eligibility and 2014 cut-off do not change.
+
+ASCII MASTER FLOW — PANEL 9/12: CAA equality debate and territorial protections
+ARTICLE 14 TEST
+  comparator -> intelligible differentia -> rational nexus -> arbitrariness
+STATE CASE -> selected persecuted minorities; humanitarian and staged legislation
+CHALLENGE -> religion/country exclusions; under-inclusion; secularism; Assam impact
+
+SECTION 6B DOES NOT APPLY IN
+  Sixth Schedule tribal areas of Assam, Meghalaya, Mizoram and Tripura
+  areas under the notified Inner Line
+
+STATUS THROUGH 28 AUG 2026: law/rules operate; no located final merits judgment.
+
+ASCII MASTER FLOW — PANEL 10/12: Documents and exact PYQ controls
+PROOF HIERARCHY
+Citizenship certificate -> direct statutory evidence
+Passport/EPIC -> strong or relevant evidence, not irrebuttable in every dispute
+Aadhaar -> does not by itself prove citizenship or domicile
+
+2018 PRELIMS GS-I Q12: Aadhaar proof + deactivation -> neither statement correct
+2021 PRELIMS GS-I Q89: one citizenship/domicile; birth-only President; deprivation
+  exact options yield 1 only; repository solution remains qualified if official key is absent.
+
+ASCII MASTER FLOW — PANEL 11/12: Executable 10, 15 and 20-mark answer architecture
+10 MARKS / 150 WORDS
+define demand -> 3 legal anchors -> one caveat/current point -> qualified verdict
+
+15 MARKS / 250 WORDS
+thesis -> Articles 5-11 -> statutory mechanism -> judgment/debate -> balance -> verdict
+
+20 MARKS / 250 WORDS
+exact class/doctrine -> argument and counterargument -> named evidence -> federal impact
+-> 2026 procedural status -> constitutional test -> feasible safeguards -> conclusion
+
+For every model: demand decode + executable answer + why it earns + specific improvement.
+
+ASCII MASTER FLOW — PANEL 12/12: Qualified synthesis: membership under constitutional supervision
+INDIAN CITIZENSHIP
+  constitutional founding settlement
+        + parliamentary statutory administration
+        + judicial review under equality, liberty and natural justice
+
+BALANCE
+  equal membership + fraternity
+  lawful migration control + regional protection
+  diaspora access without political citizenship
+  humanitarian facilitation without arbitrary classification
+
+FINAL LINE: membership is legitimate only when classification, proof and procedure remain lawful.
+LEGAL/SOURCE LIMIT: Current procedure must follow the 2024 Rules and the 19 August 2026
+  Collector-route notifications. Section 6A remains valid under the 17 October 2024 majority;
+  no unlocated final CAA judgment may be invented.
